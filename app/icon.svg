@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #1a1a1a; }
+      .letter { stroke: #ffffff; }
+    }
+  </style>
+
+  <!-- Rounded background -->
+  <rect class="bg" width="512" height="512" rx="96" fill="#ffffff"/>
+
+  <!-- Bold navy C - thick stroke, clean arc, centered -->
+  <path class="letter" d="M330 120 A160 160 0 1 0 330 392" fill="none" stroke="#002D72" stroke-width="76" stroke-linecap="round"/>
+
+  <!-- Orange dot - dead center of the icon -->
+  <circle cx="256" cy="256" r="42" fill="#FF5910"/>
+</svg>

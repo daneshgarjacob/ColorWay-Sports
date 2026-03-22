@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import StoryCard from "@/components/StoryCard";
 import Footer from "@/components/Footer";
+import StoryCard from "@/components/StoryCard";
 
 const stories = [
   {
@@ -24,26 +23,20 @@ const stories = [
   },
 ];
 
-export default function Home() {
+export default function StoriesPage() {
   return (
     <>
       <Header />
-      <main>
-        <Hero />
-
-        {/* Latest Stories */}
-        <section className="max-w-[1200px] mx-auto px-5 py-12">
-          <h2 className="text-sm font-bold uppercase tracking-[0.2em] text-orange mb-3">
-            Latest
-          </h2>
-          <hr className="border-border mb-8" />
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {stories.map((story) => (
-              <StoryCard key={story.slug} {...story} />
-            ))}
-          </div>
-        </section>
+      <main className="max-w-[1200px] mx-auto px-5 py-12">
+        <h1 className="text-3xl font-bold text-black mb-2">Stories</h1>
+        <p className="text-gray-medium mb-8">
+          All the latest on uniforms, scorebugs, stadiums, and the visual side of sports.
+        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {stories.map((story) => (
+            <StoryCard key={story.slug} {...story} />
+          ))}
+        </div>
       </main>
       <Footer />
     </>
