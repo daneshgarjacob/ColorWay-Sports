@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="max-w-[1200px] mx-auto px-5 py-12 flex flex-col items-center text-center">
         {/* Logo */}
         <span className="text-[24px] font-bold tracking-tight">
-          Color<span className="text-orange">Way</span> Sports<span className="text-orange">.</span>
+          <span className="text-[#3366b8]">Color</span><span className="text-orange">Way</span> <span className="text-[#3366b8]">Sports</span><span className="text-orange">.</span>
         </span>
         <p className="text-gray-light text-sm mt-2">
           All Things Sports, Besides The Game Itself

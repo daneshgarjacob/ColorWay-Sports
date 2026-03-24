@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" width="520" height="140">
+  <!-- Concept 2: Clean & Modern — Overlapping color circles (color mixing) + refined type -->
+
+  <defs>
+    <!-- Transparency for overlap effect -->
+    <clipPath id="circleClip">
+      <rect x="0" y="0" width="520" height="140"/>
+    </clipPath>
+  </defs>
+
+  <!-- Three overlapping circles representing color mixing -->
+  <!-- Blue circle (left) -->
+  <circle cx="34" cy="52" r="28" fill="#003087" opacity="0.9"/>
+  <!-- Orange circle (right, overlapping) -->
+  <circle cx="62" cy="52" r="28" fill="#FF5910" opacity="0.85"/>
+  <!-- Overlap creates a darker blend naturally -->
+  <!-- Small white highlight dot for depth -->
+  <circle cx="28" cy="42" r="4" fill="white" opacity="0.25"/>
+
+  <!-- Text: "Color" light weight, "Way" bold -->
+  <text x="108" y="56" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" fill="#003087" letter-spacing="-1.5">
+    <tspan font-weight="300">Color</tspan><tspan font-weight="700" fill="#FF5910">Way</tspan>
+  </text>
+
+  <!-- Thin separator line -->
+  <line x1="108" y1="66" x2="370" y2="66" stroke="#003087" stroke-width="0.75" opacity="0.2"/>
+
+  <!-- SPORTS — clean, medium weight, generous tracking -->
+  <text x="110" y="88" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#003087" letter-spacing="10">SPORTS</text>
+</svg>

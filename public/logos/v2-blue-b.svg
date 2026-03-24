@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120">
+  <!-- Blue Dominant B: Abstract "C" brushstroke shape — thick blue arc with orange dot accent -->
+
+  <!-- Thick blue arc forming a "C" shape -->
+  <path d="M58 18 A34 34 0 1 0 58 86" fill="none" stroke="#003087" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Small orange circle accent at the opening of the C -->
+  <circle cx="62" cy="18" r="7" fill="#FF5910"/>
+
+  <!-- Second smaller orange dot -->
+  <circle cx="62" cy="86" r="4.5" fill="#FF5910" opacity="0.6"/>
+
+  <!-- Text -->
+  <text x="96" y="50" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" fill="#003087" letter-spacing="-1.5">
+    <tspan font-weight="300">Color</tspan><tspan font-weight="700" fill="#FF5910">Way</tspan>
+  </text>
+
+  <!-- Separator -->
+  <line x1="98" y1="60" x2="380" y2="60" stroke="#003087" stroke-width="0.6" opacity="0.15"/>
+
+  <!-- SPORTS -->
+  <text x="99" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#003087" letter-spacing="9">SPORTS</text>
+</svg>

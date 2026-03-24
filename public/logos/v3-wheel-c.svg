@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 120" width="540" height="120">
+  <!-- Color Wheel C: Segmented wheel with small gaps between colors (like a modern app icon),
+       CW stacked vertically in center with C on top, W below -->
+
+  <!-- 12-segment color wheel with 2° gaps — outer 44, inner 26 -->
+  <!-- Center at 52, 52 -->
+
+  <!-- Using individual pie wedges with slight rotation gaps for a segmented look -->
+
+  <!-- Segment 1: Red -->
+  <path d="M52 8 A44 44 0 0 1 72.4 12.8 L62.8 27 A26 26 0 0 0 52 22 Z" fill="#EF4444"/>
+  <!-- Segment 2: Red-Orange -->
+  <path d="M73.8 13.6 A44 44 0 0 1 89.6 28.2 L78.4 37.8 A26 26 0 0 0 63.8 27.8 Z" fill="#F97316"/>
+  <!-- Segment 3: Orange-Yellow -->
+  <path d="M90.2 29.6 A44 44 0 0 1 96 51 L82 51 A26 26 0 0 0 79 38.6 Z" fill="#EAB308"/>
+  <!-- Segment 4: Yellow-Green -->
+  <path d="M96 53 A44 44 0 0 1 90.2 74.4 L79 65.4 A26 26 0 0 0 82 53 Z" fill="#84CC16"/>
+  <!-- Segment 5: Green -->
+  <path d="M89.6 75.8 A44 44 0 0 1 73.8 90.4 L63.8 78.2 A26 26 0 0 0 78.4 66.2 Z" fill="#22C55E"/>
+  <!-- Segment 6: Green-Teal -->
+  <path d="M72.4 91.2 A44 44 0 0 1 52 96 L52 82 A26 26 0 0 0 62.8 79 Z" fill="#14B8A6"/>
+  <!-- Segment 7: Teal-Cyan -->
+  <path d="M51 96 A44 44 0 0 1 31.6 91.2 L41.2 79 A26 26 0 0 0 51 82 Z" fill="#06B6D4"/>
+  <!-- Segment 8: Cyan-Blue -->
+  <path d="M30.2 90.4 A44 44 0 0 1 14.4 75.8 L25.6 66.2 A26 26 0 0 0 40.2 78.2 Z" fill="#3B82F6"/>
+  <!-- Segment 9: Blue -->
+  <path d="M13.8 74.4 A44 44 0 0 1 8 53 L22 53 A26 26 0 0 0 25 65.4 Z" fill="#1d4ed8"/>
+  <!-- Segment 10: Blue-Purple -->
+  <path d="M8 51 A44 44 0 0 1 13.8 29.6 L25 38.6 A26 26 0 0 0 22 51 Z" fill="#6366F1"/>
+  <!-- Segment 11: Purple -->
+  <path d="M14.4 28.2 A44 44 0 0 1 30.2 13.6 L40.2 27.8 A26 26 0 0 0 25.6 37.8 Z" fill="#A855F7"/>
+  <!-- Segment 12: Magenta-Red -->
+  <path d="M31.6 12.8 A44 44 0 0 1 51 8 L51 22 A26 26 0 0 0 41.2 27 Z" fill="#EC4899"/>
+
+  <!-- White center -->
+  <circle cx="52" cy="52" r="22" fill="white"/>
+
+  <!-- CW stacked — C on top, W below, tighter -->
+  <text x="52" y="48" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#003087">C</text>
+  <text x="52" y="66" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#FF5910">W</text>
+
+  <!-- Text -->
+  <text x="116" y="50" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" fill="#003087" letter-spacing="-1.5">
+    <tspan font-weight="300">Color</tspan><tspan font-weight="700" fill="#FF5910">Way</tspan>
+  </text>
+
+  <line x1="118" y1="60" x2="410" y2="60" stroke="#003087" stroke-width="0.6" opacity="0.12"/>
+
+  <text x="119" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#003087" letter-spacing="9">SPORTS</text>
+</svg>

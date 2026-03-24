@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120">
+  <!-- Blue Dominant A: Split circle — left half blue, right sliver orange (like a color swatch being revealed) -->
+
+  <defs>
+    <clipPath id="leftHalf">
+      <rect x="0" y="0" width="42" height="120"/>
+    </clipPath>
+    <clipPath id="rightSlice">
+      <rect x="42" y="0" width="30" height="120"/>
+    </clipPath>
+  </defs>
+
+  <!-- Main blue circle -->
+  <circle cx="42" cy="52" r="34" fill="#003087"/>
+
+  <!-- Orange crescent accent — slightly offset smaller circle clipped to right edge -->
+  <circle cx="48" cy="52" r="30" fill="#FF5910" clip-path="url(#rightSlice)"/>
+
+  <!-- Tiny white divider line between blue and orange -->
+  <line x1="42" y1="18" x2="42" y2="86" stroke="white" stroke-width="1.5"/>
+
+  <!-- Text -->
+  <text x="96" y="50" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" fill="#003087" letter-spacing="-1.5">
+    <tspan font-weight="300">Color</tspan><tspan font-weight="700" fill="#FF5910">Way</tspan>
+  </text>
+
+  <!-- Separator -->
+  <line x1="98" y1="60" x2="380" y2="60" stroke="#003087" stroke-width="0.6" opacity="0.15"/>
+
+  <!-- SPORTS -->
+  <text x="99" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#003087" letter-spacing="9">SPORTS</text>
+</svg>

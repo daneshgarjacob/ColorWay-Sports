@@ -2,48 +2,108 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import StoryCard from "@/components/StoryCard";
 import Footer from "@/components/Footer";
-
-const stories = [
-  {
-    slug: "lakers-jersey-tracker-2025-26",
-    title: "The Lakers Have Only Worn Gold at Home 11 Times This Season. That's a Problem.",
-    category: "Uniforms",
-    excerpt:
-      "I've been tracking every Lakers uniform this season in a spreadsheet. 70 games in, the data tells the story I already knew: gold is no longer the default at home.",
-    gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)",
-    overlayText: "LAKERS",
-  },
-  {
-    slug: "coming-soon",
-    title: "More Stories on the Way",
-    category: "Coming Soon",
-    excerpt:
-      "Stadiums, score bugs, jersey patches, helmet designs, network tickers — we're covering it all. Stay tuned.",
-    gradient: "linear-gradient(135deg, #1a3a5c 0%, #FF5910 100%)",
-    overlayText: "COMING SOON",
-  },
-];
+import Link from "next/link";
+import { getAllPosts } from "@/lib/posts";
 
 export default function Home() {
+  const posts = getAllPosts();
+  const featured = posts[0];
+  const secondary = posts.slice(1, 3); // 2 secondary featured stories
+  const rest = posts.slice(3);
+
   return (
     <>
       <Header />
       <main>
         <Hero />
 
-        {/* Latest Stories */}
-        <section className="max-w-[1200px] mx-auto px-5 py-12">
-          <h2 className="text-sm font-bold uppercase tracking-[0.2em] text-orange mb-3">
-            Latest
-          </h2>
-          <hr className="border-border mb-8" />
+        {/* Featured stories — top section */}
+        <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
+            {/* Main featured story — tall, left side */}
+            {featured && (
+              <Link href={`/stories/${featured.slug}`} className="block group lg:row-span-2">
+                <div className="relative rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
+                  <div
+                    className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
+                    style={{ background: featured.gradient }}
+                  >
+                    {featured.logoSrc ? (
+                      <img
+                        src={featured.logoSrc}
+                        alt=""
+                        className="h-[100px] sm:h-[130px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-2xl"
+                      />
+                    ) : (
+                      <span className="text-white/15 text-5xl sm:text-6xl font-bold uppercase tracking-wider transition-all duration-300 group-hover:text-white/25">
+                        {featured.category}
+                      </span>
+                    )}
+                  </div>
+                  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 via-black/50 to-transparent p-6 sm:p-8">
+                    <span className="text-[11px] font-bold uppercase tracking-widest text-orange">
+                      {featured.category}
+                    </span>
+                    <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-white mt-1 leading-tight group-hover:text-orange transition-colors duration-200">
+                      {featured.title}
+                    </h2>
+                    <p className="text-sm text-white/70 mt-2 max-w-[500px] hidden sm:block">
+                      {featured.excerpt}
+                    </p>
+                  </div>
+                </div>
+              </Link>
+            )}
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {stories.map((story) => (
-              <StoryCard key={story.slug} {...story} />
+            {/* Two secondary featured stories — stacked on right */}
+            {secondary.map((post) => (
+              <Link key={post.slug} href={`/stories/${post.slug}`} className="block group">
+                <div className="relative rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 h-[210px]">
+                  <div
+                    className="absolute inset-0 flex items-center justify-center"
+                    style={{ background: post.gradient }}
+                  >
+                    {post.logoSrc ? (
+                      <img
+                        src={post.logoSrc}
+                        alt=""
+                        className="h-[80px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-xl"
+                      />
+                    ) : (
+                      <span className="text-white/15 text-3xl font-bold uppercase tracking-wider transition-all duration-300 group-hover:text-white/25">
+                        {post.category}
+                      </span>
+                    )}
+                  </div>
+                  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 via-black/40 to-transparent p-5">
+                    <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
+                      {post.category}
+                    </span>
+                    <h3 className="text-base sm:text-lg font-bold text-white mt-1 leading-snug group-hover:text-orange transition-colors duration-200">
+                      {post.title}
+                    </h3>
+                  </div>
+                </div>
+              </Link>
             ))}
           </div>
         </section>
+
+        {/* Remaining stories grid */}
+        {rest.length > 0 && (
+          <section className="max-w-[1200px] mx-auto px-5 py-8">
+            <h2 className="text-sm font-bold uppercase tracking-[0.2em] text-orange mb-3">
+              More Stories
+            </h2>
+            <hr className="border-border mb-6" />
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {rest.map((post) => (
+                <StoryCard key={post.slug} {...post} />
+              ))}
+            </div>
+          </section>
+        )}
       </main>
       <Footer />
     </>

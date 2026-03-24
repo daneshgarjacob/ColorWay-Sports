@@ -1,7 +1,13 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-export default function ContactPage() {
+export default function ContactPage({
+  searchParams,
+}: {
+  searchParams: { sent?: string };
+}) {
+  const sent = searchParams?.sent === "true";
+
   return (
     <>
       <Header />
@@ -10,25 +16,60 @@ export default function ContactPage() {
         <p className="text-gray-medium mb-8">
           Have a tip, feedback, or want to collaborate? Get in touch.
         </p>
-        <form className="space-y-5">
+
+        {sent && (
+          <div className="bg-green-50 border border-green-200 rounded px-5 py-4 mb-8">
+            <p className="text-green-800 font-medium">Message sent! We'll get back to you soon.</p>
+          </div>
+        )}
+
+        <form
+          action="https://formsubmit.co/daneshgarjacob@gmail.com"
+          method="POST"
+          className="space-y-5"
+        >
+          {/* Honeypot spam prevention */}
+          <input type="text" name="_honey" style={{ display: "none" }} />
+          {/* Disable captcha page */}
+          <input type="hidden" name="_captcha" value="false" />
+          {/* Redirect back to contact page with success param — works on any domain */}
+          <input
+            type="hidden"
+            name="_next"
+            value="/contact?sent=true"
+          />
+          <input type="hidden" name="_subject" value="New message from ColorWay Sports" />
+
           <div>
-            <label className="block text-sm font-medium text-black mb-1">Name</label>
+            <label className="block text-sm font-medium text-black mb-1">
+              Name
+            </label>
             <input
               type="text"
+              name="name"
+              required
               className="w-full border border-border rounded px-4 py-3 text-sm bg-white focus:outline-none focus:border-orange"
             />
           </div>
           <div>
-            <label className="block text-sm font-medium text-black mb-1">Email</label>
+            <label className="block text-sm font-medium text-black mb-1">
+              Email
+            </label>
             <input
               type="email"
+              name="email"
+              required
               className="w-full border border-border rounded px-4 py-3 text-sm bg-white focus:outline-none focus:border-orange"
             />
           </div>
           <div>
-            <label className="block text-sm font-medium text-black mb-1">Message</label>
+            <label className="block text-sm font-medium text-black mb-1">
+              Message
+            </label>
             <textarea
+              name="message"
               rows={5}
+              required
               className="w-full border border-border rounded px-4 py-3 text-sm bg-white focus:outline-none focus:border-orange resize-none"
             />
           </div>

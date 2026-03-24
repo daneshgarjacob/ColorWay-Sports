@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 120" width="540" height="120">
+  <!-- Color Wheel B: Thinner wheel ring, stylized overlapping C and W in center -->
+
+  <!-- 12-segment color wheel — thinner ring (outer 46, inner 32) -->
+  <!-- Center at 52, 52 -->
+
+  <path d="M52 6 A46 46 0 0 1 75 11.4 L67 24 A32 32 0 0 0 52 20 Z" fill="#FF1A1A"/>
+  <path d="M75 11.4 A46 46 0 0 1 92.6 29 L81 37 A32 32 0 0 0 67 24 Z" fill="#FF6600"/>
+  <path d="M92.6 29 A46 46 0 0 1 98 52 L84 52 A32 32 0 0 0 81 37 Z" fill="#FFB800"/>
+  <path d="M98 52 A46 46 0 0 1 92.6 75 L81 67 A32 32 0 0 0 84 52 Z" fill="#88CC00"/>
+  <path d="M92.6 75 A46 46 0 0 1 75 92.6 L67 81 A32 32 0 0 0 81 67 Z" fill="#22AA44"/>
+  <path d="M75 92.6 A46 46 0 0 1 52 98 L52 84 A32 32 0 0 0 67 81 Z" fill="#009977"/>
+  <path d="M52 98 A46 46 0 0 1 29 92.6 L37 81 A32 32 0 0 0 52 84 Z" fill="#0088BB"/>
+  <path d="M29 92.6 A46 46 0 0 1 11.4 75 L24 67 A32 32 0 0 0 37 81 Z" fill="#0055CC"/>
+  <path d="M11.4 75 A46 46 0 0 1 6 52 L20 52 A32 32 0 0 0 24 67 Z" fill="#1a2fa0"/>
+  <path d="M6 52 A46 46 0 0 1 11.4 29 L24 37 A32 32 0 0 0 20 52 Z" fill="#6622CC"/>
+  <path d="M11.4 29 A46 46 0 0 1 29 11.4 L37 24 A32 32 0 0 0 24 37 Z" fill="#AA1199"/>
+  <path d="M29 11.4 A46 46 0 0 1 52 6 L52 20 A32 32 0 0 0 37 24 Z" fill="#DD1155"/>
+
+  <!-- White center -->
+  <circle cx="52" cy="52" r="28" fill="white"/>
+
+  <!-- Stylized CW — C wraps around W -->
+  <text x="52" y="59" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#003087" letter-spacing="-3">
+    <tspan fill="#003087">C</tspan><tspan fill="#FF5910">W</tspan>
+  </text>
+
+  <!-- Text -->
+  <text x="116" y="50" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" fill="#003087" letter-spacing="-1.5">
+    <tspan font-weight="300">Color</tspan><tspan font-weight="700" fill="#FF5910">Way</tspan>
+  </text>
+
+  <line x1="118" y1="60" x2="410" y2="60" stroke="#003087" stroke-width="0.6" opacity="0.12"/>
+
+  <text x="119" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#003087" letter-spacing="9">SPORTS</text>
+</svg>
