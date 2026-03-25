@@ -67,7 +67,7 @@ export default function Home() {
                       <img
                         src={post.logoSrc}
                         alt=""
-                        className="h-[80px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-xl"
+                        className="h-[80px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-xl -translate-y-4"
                       />
                     ) : (
                       <span className="text-white/15 text-3xl font-bold uppercase tracking-wider transition-all duration-300 group-hover:text-white/25">

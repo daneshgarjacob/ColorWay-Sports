@@ -4,13 +4,13 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://colorwaysports.com"),
-  title: "ColorWay Sports – All Things Sports, Besides The Game Itself",
+  title: "ColorWay Sports – Every Uniform. Every Logo. Every Detail.",
   description:
-    "All Things Sports, Besides The Game Itself. Covering uniforms, scorebugs, stadiums, and the visual design of sports.",
+    "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
   openGraph: {
     title: "ColorWay Sports",
     description:
-      "All Things Sports, Besides The Game Itself. Covering uniforms, scorebugs, stadiums, and the visual design of sports.",
+      "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
     siteName: "ColorWay Sports",
     type: "website",
   },
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ColorWay Sports",
     description:
-      "All Things Sports, Besides The Game Itself. Covering uniforms, scorebugs, stadiums, and the visual design of sports.",
+      "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
   },
 };
 
