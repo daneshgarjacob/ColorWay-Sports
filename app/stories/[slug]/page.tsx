@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import DisqusComments from "@/components/DisqusComments";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
@@ -102,6 +103,12 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             dangerouslySetInnerHTML={{ __html: post.contentHtml }}
           />
         )}
+
+        {/* Comments */}
+        <DisqusComments
+          url={`https://colorwaysports.com/stories/${slug}`}
+          identifier={slug}
+        />
 
         {/* Bottom divider and back link */}
         <div className="border-t border-border mt-12 pt-8 flex items-center justify-between">
