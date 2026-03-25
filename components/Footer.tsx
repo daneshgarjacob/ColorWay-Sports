@@ -9,23 +9,23 @@ const navLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-white">
-      <div className="max-w-[1200px] mx-auto px-5 py-12 flex flex-col items-center text-center">
+    <footer className="bg-white border-t border-[#e5e7eb]">
+      <div className="max-w-[1200px] mx-auto px-5 py-10 flex flex-col items-center text-center">
         {/* Logo */}
-        <span className="text-[24px] font-bold tracking-tight">
-          <span className="text-[#3366b8]">Color</span><span className="text-orange">Way</span> <span className="text-[#3366b8]">Sports</span><span className="text-orange">.</span>
+        <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "'Inter', sans-serif" }}>
+          <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
         </span>
-        <p className="text-gray-light text-sm mt-2">
+        <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.15em] mt-1" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
           All Things Sports, Besides The Game Itself
         </p>
 
         {/* Nav */}
-        <nav className="flex gap-6 mt-6">
+        <nav className="flex gap-6 mt-5">
           {navLinks.map((link) => (
             <Link
               key={link.label}
               href={link.href}
-              className="text-xs uppercase tracking-widest text-gray-light hover:text-white transition-colors"
+              className="text-[11px] uppercase tracking-widest text-[#8A8F98] hover:text-[#0021A5] transition-colors font-medium"
             >
               {link.label}
             </Link>
@@ -33,8 +33,8 @@ export default function Footer() {
         </nav>
 
         {/* Copyright */}
-        <p className="text-gray-light text-xs mt-8">
-          &copy; {new Date().getFullYear()} ColorWay Sports
+        <p className="text-[#b0b4bc] text-[11px] mt-6">
+          &copy; {new Date().getFullYear()} ColorWay Sports. All rights reserved.
         </p>
       </div>
     </footer>
