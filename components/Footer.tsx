@@ -25,7 +25,7 @@ export default function Footer() {
           <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
         </span>
         <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.15em] mt-1" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
-          All Things Sports, Besides The Game Itself
+          Every Uniform. Every Logo. Every Detail.
         </p>
 
         {/* Nav */}

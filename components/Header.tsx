@@ -115,7 +115,7 @@ export default function Header() {
                 <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
               </span>
               <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
-                All Things Sports, Besides The Game Itself
+                Every Uniform. Every Logo. Every Detail.
               </span>
             </div>
           </Link>
