@@ -12,6 +12,15 @@ export default function Footer() {
     <footer className="bg-white border-t border-[#e5e7eb]">
       <div className="max-w-[1200px] mx-auto px-5 py-10 flex flex-col items-center text-center">
         {/* Logo */}
+        <svg width="40" height="40" viewBox="0 0 512 512" className="mb-2">
+          <g transform="translate(256,380)">
+            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
+            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
+            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
+            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
+            <circle cx="0" cy="0" r="22" fill="#333"/>
+          </g>
+        </svg>
         <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "'Inter', sans-serif" }}>
           <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
         </span>

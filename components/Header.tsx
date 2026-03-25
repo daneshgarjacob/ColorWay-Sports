@@ -101,8 +101,7 @@ export default function Header() {
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="36" height="36" viewBox="0 0 512 512" className="sm:w-[42px] sm:h-[42px] rounded-[6px]" style={{ minWidth: 36 }}>
-              <rect width="512" height="512" rx="96" fill="white" stroke="#e5e7eb" strokeWidth="6"/>
+            <svg width="36" height="36" viewBox="0 0 512 512" className="sm:w-[42px] sm:h-[42px]" style={{ minWidth: 36 }}>
               <g transform="translate(256,380)">
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
