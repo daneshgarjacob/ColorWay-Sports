@@ -100,13 +100,25 @@ export default function Header() {
       <header className="bg-white border-b-[2.5px] border-orange relative z-50">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo */}
-          <Link href="/" className="flex flex-col min-w-0">
-            <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "'Inter', sans-serif" }}>
-              <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
-            </span>
-            <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
-              All Things Sports, Besides The Game Itself
-            </span>
+          <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
+            <svg width="36" height="36" viewBox="0 0 512 512" className="sm:w-[42px] sm:h-[42px] rounded-[6px]" style={{ minWidth: 36 }}>
+              <rect width="512" height="512" rx="96" fill="white" stroke="#e5e7eb" strokeWidth="6"/>
+              <g transform="translate(256,380)">
+                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
+                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
+                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
+                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
+                <circle cx="0" cy="0" r="22" fill="#333"/>
+              </g>
+            </svg>
+            <div className="flex flex-col min-w-0">
+              <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "'Inter', sans-serif" }}>
+                <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
+              </span>
+              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
+                All Things Sports, Besides The Game Itself
+              </span>
+            </div>
           </Link>
 
           {/* Desktop Nav */}
