@@ -100,13 +100,16 @@ export default function Header() {
       <header className="bg-white border-b-[2.5px] border-orange relative z-50">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo */}
-          <Link href="/" className="flex flex-col min-w-0">
-            <span className="text-[24px] sm:text-[32px] font-bold tracking-tight leading-tight">
-              <span className="text-[#003087]">Color</span><span className="text-orange">Way</span> <span className="text-[#003087]">Sports</span><span className="text-orange">.</span>
-            </span>
-            <span className="text-[9px] sm:text-[10px] uppercase tracking-[0.12em] sm:tracking-[0.15em] text-gray-light mt-[-2px]">
-              All Things Sports, Besides The Game Itself
-            </span>
+          <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
+            <img src="/icon.svg" alt="ColorWay Sports" className="w-[36px] h-[36px] sm:w-[44px] sm:h-[44px] rounded-[6px]" />
+            <div className="flex flex-col min-w-0">
+              <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "'Inter', sans-serif" }}>
+                <span className="text-[#003087]">Color</span><span className="text-orange">Way</span> <span className="text-[#003087]">Sports</span><span className="text-orange">.</span>
+              </span>
+              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
+                All Things Sports, Besides The Game Itself
+              </span>
+            </div>
           </Link>
 
           {/* Desktop Nav */}
