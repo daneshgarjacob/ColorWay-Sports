@@ -26,9 +26,15 @@ export default function Home() {
                 <div className="relative rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
                   <div
                     className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
-                    style={{ background: featured.gradient }}
+                    style={{ background: featured.coverImage ? undefined : featured.gradient }}
                   >
-                    {featured.logoSrc && featured.logoSrc2 ? (
+                    {featured.coverImage ? (
+                      <img
+                        src={featured.coverImage}
+                        alt=""
+                        className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                      />
+                    ) : featured.logoSrc && featured.logoSrc2 ? (
                       <div className="flex items-center gap-5 transition-all duration-500 group-hover:scale-110">
                         <img src={featured.logoSrc} alt="" className="h-[90px] sm:h-[110px] w-auto drop-shadow-2xl" />
                         <span className="text-white/60 text-3xl font-extrabold">×</span>
@@ -67,9 +73,15 @@ export default function Home() {
                 <div className="relative rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 h-[210px]">
                   <div
                     className="absolute inset-0 flex items-center justify-center"
-                    style={{ background: post.gradient }}
+                    style={{ background: post.coverImage ? undefined : post.gradient }}
                   >
-                    {post.logoSrc && post.logoSrc2 ? (
+                    {post.coverImage ? (
+                      <img
+                        src={post.coverImage}
+                        alt=""
+                        className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                      />
+                    ) : post.logoSrc && post.logoSrc2 ? (
                       <div className="flex items-center gap-3 transition-all duration-500 group-hover:scale-110 -translate-y-4">
                         <img src={post.logoSrc} alt="" className="h-[60px] w-auto drop-shadow-xl" />
                         <span className="text-white/60 text-xl font-extrabold">×</span>

@@ -8,6 +8,7 @@ interface StoryCardProps {
   overlayText?: string;
   logoSrc?: string;
   logoSrc2?: string;
+  coverImage?: string;
 }
 
 export default function StoryCard({
@@ -19,6 +20,7 @@ export default function StoryCard({
   overlayText,
   logoSrc,
   logoSrc2,
+  coverImage,
 }: StoryCardProps) {
   return (
     <article className="bg-white rounded-lg shadow-sm overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
@@ -26,9 +28,15 @@ export default function StoryCard({
       <Link href={`/stories/${slug}`}>
         <div
           className="h-[200px] flex items-center justify-center relative overflow-hidden group"
-          style={{ background: gradient }}
+          style={{ background: coverImage ? undefined : gradient }}
         >
-          {logoSrc && logoSrc2 ? (
+          {coverImage ? (
+            <img
+              src={coverImage}
+              alt=""
+              className="w-full h-full object-cover transition-all duration-300 group-hover:scale-105"
+            />
+          ) : logoSrc && logoSrc2 ? (
             <div className="flex items-center gap-4 transition-all duration-300 group-hover:scale-110">
               <img src={logoSrc} alt="" className="h-[80px] w-auto drop-shadow-lg" />
               <span className="text-white/70 text-2xl font-extrabold">×</span>

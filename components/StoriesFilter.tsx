@@ -12,6 +12,7 @@ interface PostMeta {
   gradient: string;
   logoSrc?: string;
   logoSrc2?: string;
+  coverImage?: string;
   league?: string;
   teams?: string[];
 }
