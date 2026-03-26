@@ -11,6 +11,7 @@ interface PostMeta {
   excerpt: string;
   gradient: string;
   logoSrc?: string;
+  logoSrc2?: string;
   league?: string;
   teams?: string[];
 }

@@ -79,6 +79,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     excerpt: data.excerpt || "",
     gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
     logoSrc: data.logoSrc,
+    logoSrc2: data.logoSrc2,
     contentHtml,
   };
 }
