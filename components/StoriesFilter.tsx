@@ -22,7 +22,7 @@ const leagueNames: Record<string, string> = {
   nba: "NBA",
   mlb: "MLB",
   f1: "F1",
-  soccer: "European Soccer",
+  soccer: "Soccer",
 };
 
 export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {

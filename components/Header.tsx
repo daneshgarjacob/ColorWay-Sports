@@ -60,8 +60,17 @@ const leagues = [
   },
   {
     label: "Soccer",
-    storiesLink: { label: "European Soccer News", href: "/stories?league=soccer" },
-    teams: [], // No teams — too many
+    storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
+    teams: [
+      "International Competitions",
+      "UEFA Champions League",
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Bundesliga",
+      "Ligue 1",
+      "MLS",
+    ],
   },
 ];
 
@@ -122,6 +131,20 @@ export default function Header() {
 
           {/* Desktop Nav */}
           <nav className="hidden lg:flex items-center gap-6">
+            {/* Regular nav links first */}
+            {navLinks.map((link) => (
+              <Link
+                key={link.label}
+                href={link.href}
+                className="text-[14px] font-medium text-black hover:text-orange transition-colors tracking-wide"
+              >
+                {link.label}
+              </Link>
+            ))}
+
+            {/* Divider */}
+            <div className="w-px h-5 bg-[#d1d5db]" />
+
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div
@@ -192,17 +215,6 @@ export default function Header() {
                   </div>
                 )}
               </div>
-            ))}
-
-            {/* Regular nav links */}
-            {navLinks.map((link) => (
-              <Link
-                key={link.label}
-                href={link.href}
-                className="text-[14px] font-medium text-black hover:text-orange transition-colors tracking-wide"
-              >
-                {link.label}
-              </Link>
             ))}
           </nav>
 
