@@ -28,7 +28,13 @@ export default function Home() {
                     className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
                     style={{ background: featured.gradient }}
                   >
-                    {featured.logoSrc ? (
+                    {featured.logoSrc && featured.logoSrc2 ? (
+                      <div className="flex items-center gap-5 transition-all duration-500 group-hover:scale-110">
+                        <img src={featured.logoSrc} alt="" className="h-[90px] sm:h-[110px] w-auto drop-shadow-2xl" />
+                        <span className="text-white/60 text-3xl font-extrabold">×</span>
+                        <img src={featured.logoSrc2} alt="" className="h-[70px] sm:h-[90px] w-auto drop-shadow-2xl" />
+                      </div>
+                    ) : featured.logoSrc ? (
                       <img
                         src={featured.logoSrc}
                         alt=""
@@ -63,7 +69,13 @@ export default function Home() {
                     className="absolute inset-0 flex items-center justify-center"
                     style={{ background: post.gradient }}
                   >
-                    {post.logoSrc ? (
+                    {post.logoSrc && post.logoSrc2 ? (
+                      <div className="flex items-center gap-3 transition-all duration-500 group-hover:scale-110 -translate-y-4">
+                        <img src={post.logoSrc} alt="" className="h-[60px] w-auto drop-shadow-xl" />
+                        <span className="text-white/60 text-xl font-extrabold">×</span>
+                        <img src={post.logoSrc2} alt="" className="h-[45px] w-auto drop-shadow-xl" />
+                      </div>
+                    ) : post.logoSrc ? (
                       <img
                         src={post.logoSrc}
                         alt=""

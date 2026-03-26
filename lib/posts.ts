@@ -1,8 +1,11 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-import { remark } from "remark";
-import html from "remark-html";
+import { unified } from "unified";
+import remarkParse from "remark-parse";
+import remarkRehype from "remark-rehype";
+import rehypeRaw from "rehype-raw";
+import rehypeStringify from "rehype-stringify";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
@@ -14,6 +17,7 @@ export interface PostMeta {
   excerpt: string;
   gradient: string;
   logoSrc?: string;
+  logoSrc2?: string;
   league?: string;
   teams?: string[];
 }
@@ -41,6 +45,7 @@ export function getAllPosts(): PostMeta[] {
       excerpt: data.excerpt || "",
       gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
       logoSrc: data.logoSrc,
+      logoSrc2: data.logoSrc2,
       league: data.league,
       teams: data.teams || [],
     };
@@ -58,7 +63,12 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const processed = await remark().use(html).process(content);
+  const processed = await unified()
+    .use(remarkParse)
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeRaw)
+    .use(rehypeStringify)
+    .process(content);
   const contentHtml = processed.toString();
 
   return {

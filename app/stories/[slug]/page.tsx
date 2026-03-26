@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import DisqusComments from "@/components/DisqusComments";
+import TwitterEmbed from "@/components/TwitterEmbed";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
@@ -98,10 +99,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         {slug === "lakers-jersey-tracker-2025-26" ? (
           <LakersArticle />
         ) : (
-          <article
-            className="prose prose-lg max-w-none text-foreground leading-relaxed"
-            dangerouslySetInnerHTML={{ __html: post.contentHtml }}
-          />
+          <>
+            <article
+              className="prose prose-lg max-w-none text-foreground leading-relaxed"
+              dangerouslySetInnerHTML={{ __html: post.contentHtml }}
+            />
+            <TwitterEmbed />
+          </>
         )}
 
         {/* Comments */}

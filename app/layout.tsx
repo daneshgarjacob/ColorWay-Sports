@@ -49,6 +49,10 @@ export default function RootLayout({
             gtag('config', 'G-RKP192Y1DM');
           `}
         </Script>
+        <Script
+          src="https://platform.twitter.com/widgets.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
