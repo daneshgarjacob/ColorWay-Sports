@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import DisqusComments from "@/components/DisqusComments";
 import TwitterEmbed from "@/components/TwitterEmbed";
+import InstagramEmbed from "@/components/InstagramEmbed";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
@@ -105,6 +106,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               dangerouslySetInnerHTML={{ __html: post.contentHtml }}
             />
             <TwitterEmbed />
+            <InstagramEmbed />
           </>
         )}
 
