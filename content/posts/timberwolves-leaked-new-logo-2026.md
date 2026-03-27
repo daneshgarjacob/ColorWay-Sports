@@ -5,6 +5,7 @@ date: "2026-03-26"
 excerpt: "New Timberwolves logos have leaked and they're bringing back the classic blue and green. Here's what we know and why this is the right move."
 gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
 coverImage: "/images/posts/timberwolves-leaked-wolf-logo.webp"
+coverImagePosition: "center 35%"
 league: "nba"
 teams: ["minnesota-timberwolves"]
 ---

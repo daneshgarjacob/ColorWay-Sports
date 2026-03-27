@@ -13,6 +13,7 @@ interface PostMeta {
   logoSrc?: string;
   logoSrc2?: string;
   coverImage?: string;
+  coverImagePosition?: string;
   league?: string;
   teams?: string[];
 }

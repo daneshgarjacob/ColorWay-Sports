@@ -104,7 +104,7 @@ export default function OgImage() {
             display: "flex",
           }}
         >
-          All Things Sports, Besides The Game Itself
+          Every Uniform. Every Logo. Every Detail.
         </div>
 
         {/* Orange accent bar at bottom */}

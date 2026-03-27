@@ -33,6 +33,7 @@ export default function Home() {
                         src={featured.coverImage}
                         alt=""
                         className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                        style={featured.coverImagePosition ? { objectPosition: featured.coverImagePosition } : undefined}
                       />
                     ) : featured.logoSrc && featured.logoSrc2 ? (
                       <div className="flex items-center gap-5 transition-all duration-500 group-hover:scale-110">
@@ -80,6 +81,7 @@ export default function Home() {
                         src={post.coverImage}
                         alt=""
                         className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                        style={post.coverImagePosition ? { objectPosition: post.coverImagePosition } : undefined}
                       />
                     ) : post.logoSrc && post.logoSrc2 ? (
                       <div className="flex items-center gap-3 transition-all duration-500 group-hover:scale-110 -translate-y-4">

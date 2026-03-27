@@ -9,6 +9,7 @@ interface StoryCardProps {
   logoSrc?: string;
   logoSrc2?: string;
   coverImage?: string;
+  coverImagePosition?: string;
 }
 
 export default function StoryCard({
@@ -21,6 +22,7 @@ export default function StoryCard({
   logoSrc,
   logoSrc2,
   coverImage,
+  coverImagePosition,
 }: StoryCardProps) {
   return (
     <article className="bg-white rounded-lg shadow-sm overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
@@ -35,6 +37,7 @@ export default function StoryCard({
               src={coverImage}
               alt=""
               className="w-full h-full object-cover transition-all duration-300 group-hover:scale-105"
+              style={coverImagePosition ? { objectPosition: coverImagePosition } : undefined}
             />
           ) : logoSrc && logoSrc2 ? (
             <div className="flex items-center gap-4 transition-all duration-300 group-hover:scale-110">

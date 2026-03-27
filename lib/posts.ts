@@ -19,6 +19,7 @@ export interface PostMeta {
   logoSrc?: string;
   logoSrc2?: string;
   coverImage?: string;
+  coverImagePosition?: string;
   league?: string;
   teams?: string[];
 }
@@ -48,6 +49,7 @@ export function getAllPosts(): PostMeta[] {
       logoSrc: data.logoSrc,
       logoSrc2: data.logoSrc2,
       coverImage: data.coverImage,
+      coverImagePosition: data.coverImagePosition,
       league: data.league,
       teams: data.teams || [],
     };
@@ -83,6 +85,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     logoSrc: data.logoSrc,
     logoSrc2: data.logoSrc2,
     coverImage: data.coverImage,
+    coverImagePosition: data.coverImagePosition,
     contentHtml,
   };
 }
