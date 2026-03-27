@@ -5,6 +5,7 @@ date: "2026-03-27"
 excerpt: "The UFL kicks off tonight with all-new uniforms from New Era. We ranked all eight teams from best to worst."
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #e94560 50%, #0f3460 100%)"
 coverImage: "/images/posts/ufl-dc-defenders-2026.jpg"
+coverImagePosition: "center 20%"
 logoSrc: "/logos/United_Football_League_2024_logo_black.png"
 league: "ufl"
 teams: ["dc-defenders", "dallas-renegades", "st-louis-battlehawks", "columbus-aviators", "orlando-storm", "houston-gamblers", "louisville-kings", "birmingham-stallions"]
