@@ -6,6 +6,7 @@ excerpt: "From the 2020 bubble to back-to-back titles, the Dodgers have dropped 
 gradient: "linear-gradient(135deg, #005A9C 0%, #C4A44A 50%, #005A9C 100%)"
 logoSrc: "/logos/dodgers.png"
 coverImage: "/images/posts/HD4M9WGboAAG8wx.jpg"
+coverImagePosition: "center 30%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
 ---
