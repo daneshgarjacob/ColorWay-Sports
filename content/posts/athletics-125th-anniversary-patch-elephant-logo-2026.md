@@ -21,7 +21,7 @@ The patch also works as a subtle nod to the Oakland era without putting the city
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2037242843476246928"></a></blockquote>
 </div>
 
-The patch itself includes all four cities the franchise has called home: Philadelphia, Kansas City, Oakland, and Sacramento. Established 1901. That's 125 years of baseball history in one sleeve patch.
+The A's also released a series of commemorative coins featuring different versions of the patch for each city the franchise has called home: Philadelphia, Kansas City, Oakland, and Sacramento. 125 years of baseball history across four cities.
 
 <img src="/images/posts/gr6pecq9kae3ba1jlwcx.jpg" alt="Athletics stadium patches through franchise history from Philadelphia to Las Vegas" style="width: 100%; border-radius: 10px; margin: 2em 0;" />
 
