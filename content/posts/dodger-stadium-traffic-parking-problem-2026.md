@@ -1,5 +1,5 @@
 ---
-title: "Dodger Stadium Has the Worst Traffic Situation in Professional Sports and It Needs to Change"
+title: "Dodger Stadium Traffic and Parking: The Worst Situation in Pro Sports"
 category: "MLB"
 date: "2026-03-28"
 excerpt: "We love Dodger Stadium. The views, the atmosphere, the history. But the traffic situation leaving the stadium is genuinely terrible and has been for decades."

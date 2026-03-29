@@ -1,5 +1,5 @@
 ---
-title: "Texas Rangers \"Tejas\" City Connect Uniform Leaked: Here's Our Take"
+title: "Texas Rangers \"Tejas\" City Connect Uniform Leaked for 2026"
 category: "MLB"
 date: "2026-03-25"
 excerpt: "The Rangers' new City Connect has leaked, and it's... fine. Red and beige with a retro twist. We break it down."

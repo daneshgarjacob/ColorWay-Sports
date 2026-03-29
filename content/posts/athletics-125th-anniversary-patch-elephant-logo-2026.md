@@ -1,5 +1,5 @@
 ---
-title: "The A's 125th Anniversary Patch Brings Back the Elephant and That's a Win"
+title: "A's 125th Anniversary Patch Brings Back the Iconic Elephant Logo"
 category: "MLB"
 date: "2026-03-28"
 excerpt: "The Athletics released their 125th anniversary patch for the 2026 season and the best part about it is the return of the elephant logo."

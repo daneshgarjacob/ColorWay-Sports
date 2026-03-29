@@ -1,5 +1,5 @@
 ---
-title: "Camden Yards Has a Brand New Scoreboard and It Looks Incredible"
+title: "Camden Yards Unveils Massive New Scoreboard for 2026 Season"
 category: "MLB"
 date: "2026-03-27"
 excerpt: "The Orioles just unveiled a massive new LED videoboard at Camden Yards. We break down everything that changed and why it matters."

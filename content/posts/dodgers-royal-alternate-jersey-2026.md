@@ -1,5 +1,5 @@
 ---
-title: "New Dodgers Blue Alternate Jersey Leaked: Here's Our Take"
+title: "New Dodgers Royal Blue Alternate Jersey Leaked for 2026"
 category: "MLB"
 date: "2026-03-23"
 excerpt: "A royal blue Dodgers alternate jersey has been floating around online. After years of fans calling for one, LA might finally be adding blue to the rotation. But should they?"

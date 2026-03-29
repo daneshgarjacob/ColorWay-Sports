@@ -1,5 +1,5 @@
 ---
-title: "NBC MLB Scorebug 2026: A National Debut That Doesn't Feel Like One"
+title: "NBC MLB Scorebug 2026: Full Design Breakdown and Review"
 category: "MLB"
 date: "2026-03-26"
 excerpt: "NBC is back in baseball for the first time in decades, but their scorebug looks like they forgot to make something new for it."

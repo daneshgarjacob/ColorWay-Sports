@@ -1,5 +1,5 @@
 ---
-title: "2026 NCAA Final Four Court Design: Too Much Navy, Not Enough Personality"
+title: "2026 NCAA Final Four Court Design in San Antonio: Full Breakdown"
 category: "College"
 date: "2026-03-25T17:00:00"
 excerpt: "The 2026 Final Four court in San Antonio is here and it's... fine. We break down what went wrong, what's missing, and why we miss the old days."
