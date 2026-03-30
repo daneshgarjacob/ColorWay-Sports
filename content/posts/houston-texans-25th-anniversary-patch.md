@@ -40,8 +40,20 @@ Check out the full reveal from the Texans:
 
 **Our grade: B+**
 
-**Gruss Scale: 5%**
-
 Simple, clean, and effective. The state outline is the right call, and the color palette stays on brand. It does the job very well without overcomplicating things. Not the most creative anniversary logo we've ever seen, but it's solid and it'll look good on the jersey.
+
+<div style="margin-top: 3em; padding: 1.5em 2em; background: #f8f8f8; border-radius: 12px;">
+  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75em;">
+    <span style="font-family: Inter, sans-serif; font-weight: 800; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; color: #1a1a1a;">Gross Meter</span>
+    <span style="font-family: Inter, sans-serif; font-weight: 800; font-size: 1.1em; color: #4CAF50;">5 / 100</span>
+  </div>
+  <div style="width: 100%; height: 14px; background: #e5e5e5; border-radius: 99px; overflow: hidden;">
+    <div style="width: 5%; height: 100%; border-radius: 99px; background: linear-gradient(90deg, #4CAF50, #8BC34A);"></div>
+  </div>
+  <div style="display: flex; justify-content: space-between; margin-top: 0.5em;">
+    <span style="font-size: 0.7em; color: #999; font-weight: 600;">CLEAN</span>
+    <span style="font-size: 0.7em; color: #999; font-weight: 600;">GROSS</span>
+  </div>
+</div>
 
 *Image courtesy of the Houston Texans.*
