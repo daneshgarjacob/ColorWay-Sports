@@ -12,7 +12,7 @@ coverImagePosition: "center center"
 ---
 
 ![Houston Texans 25th Anniversary Logo](/images/posts/texans-25th-anniversary.jpg)
-*Image courtesy of the Houston Texans*
+*Image courtesy of the Houston Texans website*
 
 The Houston Texans just dropped their 25th anniversary logo, and it looks good.
 
@@ -26,10 +26,21 @@ This patch will appear on all Texans jerseys during the 2026 season.
 
 Check out the full reveal from the Texans:
 
-- [Texans 25th Anniversary Logo Reveal](https://x.com/HoustonTexans/status/2038594692707684821)
-- [Texans 25th Anniversary Hype Video](https://x.com/HoustonTexans/status/2038602391050715253)
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://x.com/HoustonTexans/status/2038594692707684821"></a>
+  </blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://x.com/HoustonTexans/status/2038602391050715253"></a>
+  </blockquote>
+</div>
 
 **Our grade: B+**
+
+**Gruss Scale: 5%**
 
 Simple, clean, and effective. The state outline is the right call, and the color palette stays on brand. It does the job very well without overcomplicating things. Not the most creative anniversary logo we've ever seen, but it's solid and it'll look good on the jersey.
 
