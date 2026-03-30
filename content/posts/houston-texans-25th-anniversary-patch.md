@@ -27,15 +27,11 @@ This patch will appear on all Texans jerseys during the 2026 season.
 Check out the full reveal from the Texans:
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-  <blockquote class="twitter-tweet" data-dnt="true">
-    <a href="https://x.com/HoustonTexans/status/2038594692707684821"></a>
-  </blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2038594692707684821"></a></blockquote>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-  <blockquote class="twitter-tweet" data-dnt="true">
-    <a href="https://x.com/HoustonTexans/status/2038602391050715253"></a>
-  </blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2038602391050715253"></a></blockquote>
 </div>
 
 **Our grade: B+**
