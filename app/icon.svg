@@ -2,7 +2,7 @@
   <!-- Transparent background -->
 
   <!-- Color swatch fan - scaled up and centered -->
-  <g transform="translate(256, 440) scale(1.35)">
+  <g transform="translate(256, 485) scale(1.55)">
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
