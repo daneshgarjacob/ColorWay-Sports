@@ -328,6 +328,21 @@ export default function Header() {
             </div>
           </form>
 
+          {/* Regular nav links first — matches desktop order */}
+          {navLinks.map((link) => (
+            <Link
+              key={link.label}
+              href={link.href}
+              className="text-xl font-medium text-black hover:text-orange transition-colors"
+              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+            >
+              {link.label}
+            </Link>
+          ))}
+
+          {/* Divider */}
+          <hr className="w-16 border-border my-2" />
+
           {/* League sections */}
           {leagues.map((league) => (
             <div key={league.label} className="w-full max-w-[300px]">
@@ -349,7 +364,6 @@ export default function Header() {
                     }`}
                   >
                     <div className="flex flex-col items-center gap-1 pb-2">
-                      {/* Stories link first */}
                       <Link
                         href={league.storiesLink.href}
                         className="text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
@@ -374,7 +388,6 @@ export default function Header() {
                   </div>
                 </>
               ) : (
-                /* Soccer — just a link, no dropdown */
                 <Link
                   href={league.storiesLink.href}
                   className="block text-xl font-medium text-black hover:text-orange transition-colors text-center"
@@ -384,21 +397,6 @@ export default function Header() {
                 </Link>
               )}
             </div>
-          ))}
-
-          {/* Divider */}
-          <hr className="w-16 border-border my-2" />
-
-          {/* Regular nav links */}
-          {navLinks.map((link) => (
-            <Link
-              key={link.label}
-              href={link.href}
-              className="text-xl font-medium text-black hover:text-orange transition-colors"
-              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-            >
-              {link.label}
-            </Link>
           ))}
         </div>
       </div>
