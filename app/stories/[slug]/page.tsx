@@ -24,6 +24,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${post.title} | ColorWay Sports`,
     description: post.excerpt,
+    alternates: {
+      canonical: `https://www.colorwaysports.com/stories/${slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.excerpt,

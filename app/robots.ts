@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://colorwaysports.com/sitemap.xml",
+    sitemap: "https://www.colorwaysports.com/sitemap.xml",
   };
 }

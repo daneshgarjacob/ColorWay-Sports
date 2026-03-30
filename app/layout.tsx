@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://colorwaysports.com"),
+  metadataBase: new URL("https://www.colorwaysports.com"),
   title: "ColorWay Sports – Every Uniform. Every Logo. Every Detail.",
   description:
     "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
