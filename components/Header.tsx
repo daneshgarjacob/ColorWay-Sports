@@ -75,10 +75,10 @@ const leagues = [
 ];
 
 const navLinks = [
-  { label: "HOME", href: "/" },
-  { label: "STORIES", href: "/stories" },
-  { label: "ABOUT", href: "/about" },
-  { label: "CONTACT", href: "/contact" },
+  { label: "Home", href: "/" },
+  { label: "Stories", href: "/stories" },
+  { label: "About", href: "/about" },
+  { label: "Contact", href: "/contact" },
 ];
 
 export default function Header() {
@@ -148,7 +148,7 @@ export default function Header() {
               <Link
                 key={link.label}
                 href={link.href}
-                className="text-[14px] font-medium text-black hover:text-orange transition-colors tracking-wide"
+                className="text-[14px] font-medium text-black hover:text-orange transition-colors"
               >
                 {link.label}
               </Link>
@@ -166,7 +166,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14px] font-medium text-black hover:text-orange transition-colors tracking-wide flex items-center gap-1"
+                  className="text-[14px] font-medium text-black hover:text-orange transition-colors flex items-center gap-1"
                   onClick={(e) => {
                     e.stopPropagation();
                     // Soccer has no teams, just go to stories

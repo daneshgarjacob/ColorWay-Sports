@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 const navLinks = [
-  { label: "HOME", href: "/" },
-  { label: "STORIES", href: "/stories" },
-  { label: "ABOUT", href: "/about" },
-  { label: "CONTACT", href: "/contact" },
+  { label: "Home", href: "/" },
+  { label: "Stories", href: "/stories" },
+  { label: "About", href: "/about" },
+  { label: "Contact", href: "/contact" },
 ];
 
 export default function Footer() {
