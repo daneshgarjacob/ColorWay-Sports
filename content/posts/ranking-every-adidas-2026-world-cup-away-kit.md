@@ -20,6 +20,8 @@ We ranked all 25 of them. That includes the 13 teams already qualified for the W
 
 Here's our ranking from worst to best.
 
+**Want to grab one?** Shop the full Adidas 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+away+jersey&tag=colorwaysport-20) or at [adidas.com](https://www.adidas.com).
+
 ## 25. Qatar: F
 
 ![Qatar Away Kit](/images/posts/adidas-world-cup-away-kits/qatar-front.jpg)
@@ -266,3 +268,9 @@ These are so clean. The off-white base with the burgundy and gold trim looks pre
 *Image courtesy of Adidas*
 
 Venezuela takes the top spot. The white base is minimal, but the pops of yellow, red, and blue in the three stripes and gold detailing on the collar and cuffs are perfect. It's understated, sophisticated, and the retro block lettering on the crest ties the whole thing together. They did an incredible job with this one. It's minimal but very nice, and the pops of color make it. Our number one.
+
+---
+
+**Shop all Adidas 2026 World Cup kits:** [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+away+jersey&tag=colorwaysport-20) | [Adidas.com](https://www.adidas.com)
+
+*We may earn a small commission from links on this page. It doesn't cost you anything extra.*

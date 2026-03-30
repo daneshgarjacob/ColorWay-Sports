@@ -20,6 +20,8 @@ The collection as a whole leans heavily into cultural storytelling. Puma gave ea
 
 We ranked all 12 kits (home and away combined) from worst to best.
 
+**Want to grab one of these kits?** You can shop the full Puma 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=puma+2026+world+cup+jersey&tag=colorwaysport-20) or directly at [puma.com](https://us.puma.com/us/en/sport/soccer/national-team-kits).
+
 ## 12. Egypt: D
 
 ![Egypt Home Kit](/images/posts/puma-world-cup-kits/egypt-home.jpg)
@@ -124,6 +126,8 @@ Ghana brought it. The home kit is white with a colorful abstract line drawing th
 
 This is Puma's first World Cup with Portugal, and they delivered. The home is a deep red with a wave pattern and teal accents on the collar and cuffs. Simple, but the color pops and it looks great. The away is even better. The teal and white ocean wave pattern with the chevron shape is one of the best away kits we've seen from any brand this cycle. It's bold, it's different, and it still feels distinctly Portuguese. The away kit alone almost carried this to the top spot.
 
+[Shop the Portugal Away Jersey on Amazon](https://www.amazon.com/dp/B0GQPCZN1B?tag=colorwaysport-20)
+
 ## 1. Ivory Coast: A
 
 ![Ivory Coast Home Kit](/images/posts/puma-world-cup-kits/ivory-coast-home.jpg)
@@ -133,3 +137,9 @@ This is Puma's first World Cup with Portugal, and they delivered. The home is a 
 *Image courtesy of Puma*
 
 Our favorite set in the entire Puma collection, and it's not particularly close. The home kit takes the iconic Elephants orange and layers it with a leopard-print texture that gives it real energy. The green accents on the sides are the perfect complement. Then the away kit goes in a completely different direction with a tropical floral pattern in white, orange, and mint green. Puma described it as celebrating Ivory Coast's streetwear influence, and we see it. Both kits are strong on their own. Together, they're the best package Puma put out for 2026. The defending African champions deserve this.
+
+---
+
+**Shop all Puma 2026 World Cup kits:** [Amazon](https://www.amazon.com/s?k=puma+2026+world+cup+jersey&tag=colorwaysport-20) | [Puma.com](https://us.puma.com/us/en/sport/soccer/national-team-kits)
+
+*We may earn a small commission from links on this page. It doesn't cost you anything extra.*
