@@ -30,10 +30,24 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
   const searchParams = useSearchParams();
   const league = searchParams.get("league");
   const team = searchParams.get("team");
+  const query = searchParams.get("q");
 
   let filtered = posts;
   let heading = "Stories";
   let description = "All the latest on uniforms, scorebugs, stadiums, and the visual side of sports.";
+
+  if (query) {
+    const q = query.toLowerCase();
+    filtered = posts.filter(
+      (p) =>
+        p.title.toLowerCase().includes(q) ||
+        p.excerpt.toLowerCase().includes(q) ||
+        p.category.toLowerCase().includes(q) ||
+        p.teams?.some((t) => t.toLowerCase().includes(q))
+    );
+    heading = `Search: "${query}"`;
+    description = `${filtered.length} result${filtered.length !== 1 ? "s" : ""} found.`;
+  }
 
   if (league) {
     filtered = posts.filter((p) => p.league === league);

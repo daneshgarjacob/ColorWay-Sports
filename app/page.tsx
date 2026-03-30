@@ -9,7 +9,7 @@ export default function Home() {
   const posts = getAllPosts();
   const featured = posts[0];
   const secondary = posts.slice(1, 3); // 2 secondary featured stories
-  const rest = posts.slice(3);
+  const rest = posts.slice(3, 9); // Show only 6 more (9 total on homepage)
 
   return (
     <>
@@ -127,6 +127,15 @@ export default function Home() {
               {rest.map((post) => (
                 <StoryCard key={post.slug} {...post} />
               ))}
+            </div>
+
+            <div className="flex justify-center mt-10">
+              <Link
+                href="/stories"
+                className="inline-block px-8 py-3 text-[14px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-colors duration-200"
+              >
+                View All Stories
+              </Link>
             </div>
           </section>
         )}

@@ -1,21 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <style>
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #0021A5; }
-      .swatch1 { fill: #ffffff; }
-    }
-  </style>
+  <!-- Transparent background -->
 
-  <!-- Background - Gators Blue -->
-  <rect class="bg" width="512" height="512" rx="96" fill="#0021A5"/>
-
-  <!-- Color swatch fan - 4 rounded pills -->
-  <g transform="translate(256, 380)">
-    <rect class="swatch1" x="-30" y="-300" width="60" height="220" rx="30" fill="#ffffff" transform="rotate(-24)"/>
+  <!-- Color swatch fan - scaled up and centered -->
+  <g transform="translate(256, 440) scale(1.35)">
+    <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
     <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-    <!-- Pin -->
-    <circle cx="0" cy="0" r="22" fill="#ffffff"/>
+    <!-- Pin - orange -->
+    <circle cx="0" cy="0" r="22" fill="#FF5910"/>
   </g>
 </svg>

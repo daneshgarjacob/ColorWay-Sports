@@ -85,7 +85,19 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const [mobileLeague, setMobileLeague] = useState<string | null>(null);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      window.location.href = `/stories?q=${encodeURIComponent(searchQuery.trim())}`;
+      setSearchOpen(false);
+      setSearchQuery("");
+    }
+  };
 
   // Close dropdown when clicking outside
   useEffect(() => {
@@ -116,7 +128,7 @@ export default function Header() {
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-                <circle cx="0" cy="0" r="22" fill="#333"/>
+                <circle cx="0" cy="0" r="22" fill="#FF5910"/>
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
@@ -130,7 +142,7 @@ export default function Header() {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-6">
+          <nav className="hidden lg:flex items-center gap-5 ml-auto">
             {/* Regular nav links first */}
             {navLinks.map((link) => (
               <Link
@@ -218,6 +230,47 @@ export default function Header() {
             ))}
           </nav>
 
+          {/* Search icon — desktop */}
+          <div
+            className="hidden lg:flex items-center ml-2 relative"
+            onMouseEnter={() => setSearchOpen(true)}
+            onMouseLeave={() => { if (!searchQuery) setTimeout(() => setSearchOpen(false), 150); }}
+          >
+            <button
+              onClick={() => setSearchOpen(!searchOpen)}
+              className="p-2 text-black hover:text-orange transition-colors"
+              aria-label="Search"
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+
+            {searchOpen && (
+              <form
+                onSubmit={handleSearch}
+                className="absolute right-0 top-full pt-1 z-50"
+              >
+                <div className="flex items-center gap-2 bg-white border border-border rounded-lg shadow-lg p-2">
+                  <input
+                    ref={searchInputRef}
+                    type="text"
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    placeholder="Search stories..."
+                    className="w-[220px] px-3 py-1.5 text-[13px] focus:outline-none"
+                    autoFocus
+                  />
+                  <button type="button" onClick={() => { setSearchOpen(false); setSearchQuery(""); }} className="text-gray-medium hover:text-black p-1">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+              </form>
+            )}
+          </div>
+
           {/* Mobile hamburger */}
           <button
             className="lg:hidden flex flex-col gap-1.5 p-2"
@@ -257,6 +310,24 @@ export default function Header() {
         </div>
 
         <div className="flex flex-col items-center gap-4 pt-8 pb-12">
+          {/* Mobile search */}
+          <form onSubmit={handleSearch} className="w-full max-w-[300px] mb-4">
+            <div className="flex items-center border border-border rounded-lg overflow-hidden">
+              <input
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Search stories..."
+                className="flex-1 px-4 py-2.5 text-[15px] focus:outline-none"
+              />
+              <button type="submit" className="px-3 py-2.5 text-gray-medium hover:text-orange transition-colors">
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+              </button>
+            </div>
+          </form>
+
           {/* League sections */}
           {leagues.map((league) => (
             <div key={league.label} className="w-full max-w-[300px]">

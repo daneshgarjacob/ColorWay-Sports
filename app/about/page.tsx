@@ -84,7 +84,7 @@ export default function AboutPage() {
           </p>
           <Link
             href="/contact"
-            className="inline-block bg-orange hover:bg-orange/90 text-white font-semibold text-sm uppercase tracking-wider px-8 py-3 rounded transition-colors"
+            className="inline-block bg-[#0021A5] hover:bg-[#001a84] text-white font-semibold text-sm uppercase tracking-wider px-8 py-3 rounded transition-colors"
           >
             Get In Touch
           </Link>

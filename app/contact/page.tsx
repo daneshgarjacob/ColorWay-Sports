@@ -89,7 +89,7 @@ function ContactForm() {
         <div className="text-center pt-2">
           <button
             type="submit"
-            className="bg-orange hover:bg-orange/90 text-white font-semibold text-sm uppercase tracking-wider px-10 py-3.5 rounded-lg transition-colors"
+            className="bg-[#0021A5] hover:bg-[#001a84] text-white font-semibold text-sm uppercase tracking-wider px-10 py-3.5 rounded-lg transition-colors"
           >
             Send Message
           </button>

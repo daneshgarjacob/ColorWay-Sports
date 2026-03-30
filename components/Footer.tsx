@@ -18,7 +18,7 @@ export default function Footer() {
             <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
             <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
             <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-            <circle cx="0" cy="0" r="22" fill="#333"/>
+            <circle cx="0" cy="0" r="22" fill="#FF5910"/>
           </g>
         </svg>
         <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "'Inter', sans-serif" }}>
