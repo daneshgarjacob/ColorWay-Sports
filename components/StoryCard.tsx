@@ -3,6 +3,7 @@ interface StoryCardProps {
   slug: string;
   title: string;
   category: string;
+  date?: string;
   excerpt: string;
   gradient: string;
   overlayText?: string;
@@ -10,12 +11,14 @@ interface StoryCardProps {
   logoSrc2?: string;
   coverImage?: string;
   coverImagePosition?: string;
+  showDate?: boolean;
 }
 
 export default function StoryCard({
   slug,
   title,
   category,
+  date,
   excerpt,
   gradient,
   overlayText,
@@ -23,7 +26,15 @@ export default function StoryCard({
   logoSrc2,
   coverImage,
   coverImagePosition,
+  showDate,
 }: StoryCardProps) {
+  const formattedDate = date
+    ? new Date(date + "T00:00:00").toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric",
+      })
+    : null;
   return (
     <article className="bg-white rounded-lg shadow-sm overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
       {/* Gradient image area */}
@@ -61,9 +72,17 @@ export default function StoryCard({
 
       {/* Card body */}
       <div className="p-5">
-        <span className="text-[11px] font-semibold uppercase tracking-wider text-orange">
-          {category}
-        </span>
+        <div className="flex items-center gap-2">
+          <span className="text-[11px] font-semibold uppercase tracking-wider text-orange">
+            {category}
+          </span>
+          {showDate && formattedDate && (
+            <>
+              <span className="text-gray-light text-[10px]">·</span>
+              <span className="text-[11px] text-gray-light">{formattedDate}</span>
+            </>
+          )}
+        </div>
         <h3 className="mt-1.5">
           <Link
             href={`/stories/${slug}`}

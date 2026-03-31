@@ -73,7 +73,7 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {filtered.map((post) => (
-            <StoryCard key={post.slug} {...post} />
+            <StoryCard key={post.slug} {...post} showDate />
           ))}
         </div>
       ) : (
