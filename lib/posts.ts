@@ -22,6 +22,7 @@ export interface PostMeta {
   coverImagePosition?: string;
   league?: string;
   teams?: string[];
+  featuredOrder?: number;
 }
 
 export interface Post extends PostMeta {
@@ -52,11 +53,17 @@ export function getAllPosts(): PostMeta[] {
       coverImagePosition: data.coverImagePosition,
       league: data.league,
       teams: data.teams || [],
+      featuredOrder: data.featuredOrder,
     };
   });
 
-  // Sort by date, newest first
-  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  // Sort: featuredOrder posts first (1, 2, 3), then by date newest first
+  return posts.sort((a, b) => {
+    if (a.featuredOrder && b.featuredOrder) return a.featuredOrder - b.featuredOrder;
+    if (a.featuredOrder) return -1;
+    if (b.featuredOrder) return 1;
+    return a.date > b.date ? -1 : 1;
+  });
 }
 
 export async function getPostBySlug(slug: string): Promise<Post | null> {

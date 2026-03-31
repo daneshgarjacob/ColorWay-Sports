@@ -7,6 +7,8 @@ gradient: "linear-gradient(135deg, #003594 0%, #FFD100 100%)"
 logoSrc: "/logos/nfl.png"
 league: "nfl"
 teams: []
+coverImage: "/images/posts/rams-logo-2026.png"
+coverImagePosition: "center center"
 ---
 
 ![Gold NFL Shield Patch](/images/posts/stafford-gold-nfl-patch.jpg)
