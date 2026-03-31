@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #5B0E2D 0%, #C4A44A 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
-featuredOrder: 2
+featuredOrder: 1
 ---
 
 ![All 2026 Nike World Cup Kits](/images/posts/wc-all-uniforms.jpeg)

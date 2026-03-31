@@ -7,6 +7,7 @@ gradient: "linear-gradient(135deg, #005A9C 0%, #A5ACAF 60%, #005A9C 100%)"
 logoSrc: "/logos/dodgers.png"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
+homepageOrder: 4
 ---
 
 A listing for a Dodgers "Royal Alternate" jersey has been floating around online. If it's legit, the Dodgers are about to do something they've resisted for a long time: commit to a blue alternate.

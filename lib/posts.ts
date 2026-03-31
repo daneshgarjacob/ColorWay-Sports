@@ -23,6 +23,7 @@ export interface PostMeta {
   league?: string;
   teams?: string[];
   featuredOrder?: number;
+  homepageOrder?: number;
 }
 
 export interface Post extends PostMeta {
@@ -54,16 +55,25 @@ export function getAllPosts(): PostMeta[] {
       league: data.league,
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
+      homepageOrder: data.homepageOrder,
     };
   });
 
-  // Sort: featuredOrder posts first (1, 2, 3), then by date newest first
+  // Sort: featuredOrder first (1, 2, 3), then homepageOrder (4-9), then by date newest first
   return posts.sort((a, b) => {
     if (a.featuredOrder && b.featuredOrder) return a.featuredOrder - b.featuredOrder;
     if (a.featuredOrder) return -1;
     if (b.featuredOrder) return 1;
+    if (a.homepageOrder && b.homepageOrder) return a.homepageOrder - b.homepageOrder;
+    if (a.homepageOrder) return -1;
+    if (b.homepageOrder) return 1;
     return a.date > b.date ? -1 : 1;
   });
+}
+
+export function getAllPostsByDate(): PostMeta[] {
+  const posts = getAllPosts();
+  return [...posts].sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
 export async function getPostBySlug(slug: string): Promise<Post | null> {

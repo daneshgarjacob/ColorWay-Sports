@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPostsByDate } from "@/lib/posts";
 import StoriesFilter from "@/components/StoriesFilter";
 import { Suspense } from "react";
 
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default function StoriesPage() {
-  const posts = getAllPosts();
+  const posts = getAllPostsByDate();
 
   return (
     <>
