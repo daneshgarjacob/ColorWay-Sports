@@ -4,11 +4,9 @@ category: "NFL"
 date: "2026-03-30"
 excerpt: "The NFL's reigning MVP Matthew Stafford will rock a gold NFL shield on his jersey this season. We look at the patch and what it means for the Rams' visual identity heading into 2026."
 gradient: "linear-gradient(135deg, #003594 0%, #FFD100 100%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/rams.png"
 league: "nfl"
 teams: []
-coverImage: "/images/posts/rams-logo-2026.png"
-coverImagePosition: "center center"
 ---
 
 ![Gold NFL Shield Patch](/images/posts/stafford-gold-nfl-patch.jpg)
