@@ -89,6 +89,13 @@ export default function Home() {
                         <span className="text-white/60 text-xl font-extrabold">×</span>
                         <img src={post.logoSrc2} alt="" className="h-[45px] w-auto drop-shadow-xl" />
                       </div>
+                    ) : post.logoSrc && post.overlayText ? (
+                      <div className="flex flex-col items-center gap-2 transition-all duration-500 group-hover:scale-110 -translate-y-4">
+                        <img src={post.logoSrc} alt="" className="h-[70px] w-auto drop-shadow-xl" />
+                        <span className="text-white text-base font-extrabold uppercase tracking-widest drop-shadow-lg">
+                          {post.overlayText}
+                        </span>
+                      </div>
                     ) : post.logoSrc ? (
                       <img
                         src={post.logoSrc}

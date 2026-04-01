@@ -18,6 +18,7 @@ export interface PostMeta {
   gradient: string;
   logoSrc?: string;
   logoSrc2?: string;
+  overlayText?: string;
   coverImage?: string;
   coverImagePosition?: string;
   league?: string;
@@ -50,6 +51,7 @@ export function getAllPosts(): PostMeta[] {
       gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
       logoSrc: data.logoSrc,
       logoSrc2: data.logoSrc2,
+      overlayText: data.overlayText,
       coverImage: data.coverImage,
       coverImagePosition: data.coverImagePosition,
       league: data.league,

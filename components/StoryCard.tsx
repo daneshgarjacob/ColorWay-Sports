@@ -56,10 +56,21 @@ export default function StoryCard({
               <span className="text-white/70 text-2xl font-extrabold">×</span>
               <img src={logoSrc2} alt="" className="h-[60px] w-auto drop-shadow-lg" />
             </div>
+          ) : logoSrc && overlayText ? (
+            <div className="flex flex-col items-center gap-2 transition-all duration-300 group-hover:scale-110">
+              <img
+                src={logoSrc}
+                alt=""
+                className="h-[100px] w-auto drop-shadow-lg -mt-2"
+              />
+              <span className="text-white text-xl font-extrabold uppercase tracking-widest drop-shadow-lg">
+                {overlayText}
+              </span>
+            </div>
           ) : logoSrc ? (
             <img
               src={logoSrc}
-              alt={overlayText || ""}
+              alt=""
               className="h-[120px] w-auto transition-all duration-300 group-hover:scale-110 drop-shadow-lg"
             />
           ) : overlayText ? (
