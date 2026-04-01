@@ -13,16 +13,16 @@ teams: ["los-angeles-dodgers"]
 <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="New Dodgers Spectrum SportsNet score bug showing Smith batting and Glasnow pitching" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Spectrum SportsNet LA</p>
 
-The Dodgers broadcast on Spectrum SportsNet just got its first relatively major update to the score bug, and there are some things we like and some things we think could go further.
+The Dodgers broadcast on Spectrum SportsNet just got its first notable update to the score bug, and there are some things we like and some things we think could go further.
 
 ## What Changed
 
 <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-old.jpg" alt="Old Dodgers Spectrum SportsNet score bug with Yamamoto pitching to Judge" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The previous Spectrum SportsNet score bug via Spectrum SportsNet LA</p>
 
-The changes here are really minor, but they're noticeable if you watch enough Dodgers games. The hitter and pitcher information now shows up every time someone is at the plate, and the fonts are bolder with more defined outlines. It's not a full redesign by any means. It's more of a visual refresh to the existing layout.
+Spectrum SportsNet made a few tweaks to the Dodgers score bug this season. The hitter and pitcher information now shows up every time someone is at the plate, and the fonts are bolder with more defined outlines. The pitch count is now displayed right next to the pitcher's name, which is a layout change they had to make to fit the new challenges indicator.
 
-They also added an indicator showing how many challenges each team has remaining. That was a little confusing at first, but once you get used to reading it, it makes sense and adds useful information that wasn't there before.
+That challenges bar shows how many challenges each team has remaining. It was a little confusing at first, but once you get used to reading it, it makes sense and adds useful information that wasn't there before.
 
 The core of the score bug itself, the actual score, team names, inning, count, and base runners, hasn't really changed. It's the same general structure and layout that Spectrum SportsNet has been running.
 
@@ -39,7 +39,7 @@ The Dodgers score bug could lean into the team's colors more aggressively, incor
 <img src="/images/posts/dodgers-scorebug-2026/lakers-scorebug.jpg" alt="Lakers Spectrum SportsNet score bug showing Lakers 105 final score" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Spectrum SportsNet LA</p>
 
-This isn't just a Dodgers issue either. If you watch the Lakers on Spectrum SportsNet, their score bug has the same basic template. It's clean and functional, but it could be on any team's broadcast. When you compare it to what TNT, ESPN, or even some other local networks are doing with their score bugs, there's room for Spectrum SportsNet to give each of their teams a more distinct broadcast look.
+This isn't just a Dodgers issue either. If you watch the Lakers on Spectrum SportsNet, their score bug has the same basic template. It's clean and functional, but it could be on any team's broadcast. When you compare it to what Fox, ESPN, NBC, or even some other local networks are doing with their score bugs, there's room for Spectrum SportsNet to give each of their teams a more distinct broadcast look.
 
 ## Our Grade: B-
 
