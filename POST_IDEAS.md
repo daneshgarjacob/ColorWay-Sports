@@ -1,5 +1,30 @@
 # Post Ideas
 
 ## Rams Draft Hat Logo Leak
-- **Status:** Idea
-- **Jake's take:** If the leaks from the Rams are true, their NFL draft hat, I'm very intrigued to see what their new logo colors and team uniforms look like. It's a little bit discerning that there is so much yellow in the logo and that it's just yellow. I like that they got rid of the gradient but I am actually more of a proponent that there should be more blue as opposed to more yellow in the jersey. I do like the back of the hat that has that new Rams word mark. I think that's very cool and it's going to be interesting to see how that looks on a hat, on their jerseys, and as their logo. We will keep you tuned and be the first to update you on any breaking news with the Rams' draft hat and new logo and uniforms release.
+- **Status:** PUBLISHED (2026-03-31)
+
+## Dodgers New Score Bug for Home Games
+- **Status:** Queued
+- **Notes:** Need images/screenshots of the new scorebug
+
+## Dodgers LA Hat Logo Detail
+- **Status:** Low priority
+- **Notes:** The A goes over and under the L, interesting design detail. No rush on this one.
+
+## NBA Realignment with Expansion to 32 Teams
+- **Status:** Queued
+- **Notes:** Opinion/analysis piece
+
+## Rams Concept Jersey Mockup
+- **Status:** Queued
+- **Notes:** SVG illustrated design concept
+
+## Jaguars Playing in Orlando 2027
+- **Status:** Queued
+- **Notes:** Hit piece on the Jaguars relocating games to Orlando in 2027
+
+## Heat #83 Bam Adebayo Jerseys
+- **Status:** Backlog
+
+## Royals New Logo Color Shade
+- **Status:** Backlog

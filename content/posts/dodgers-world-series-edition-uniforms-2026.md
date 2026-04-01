@@ -9,7 +9,7 @@ coverImage: "/images/posts/HD4M9WGboAAG8wx.jpg"
 coverImagePosition: "center 30%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
-featuredOrder: 3
+homepageOrder: 5
 ---
 
 The Dodgers dropped their 2026 World Series Edition uniforms, and this is the third championship collection in six years. That's enough to start comparing them. Here's how all three stack up.
