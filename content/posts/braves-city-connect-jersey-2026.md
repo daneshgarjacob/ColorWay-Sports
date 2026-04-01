@@ -40,12 +40,12 @@ The lowercase "a" on the hat is a great touch. It ties directly into the throwba
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">ATL sleeve patch via the official Braves X post</p>
 
 <img src="/images/posts/braves-city-connect-2026/tbs-logo-1987.png" alt="Classic TBS TV network logo from 1987" style="width: 60%; display: block; margin: 1em auto 0; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Classic TBS logo (1987)</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Classic TBS logo (1987) via TBS / Warner Bros. Discovery</p>
 
 This is where it gets really cool. The sleeve has an "ATL" patch, but look at the lettering style. It's designed in the same blocky format as the classic TBS logo. If you grew up watching Braves baseball, you watched it on TBS. That network and the Braves were synonymous for decades. This is a subtle nod that most people might miss, but if you know, you know. It's a very nice touch and it lets you feel what Atlanta is.
 
 <img src="/images/posts/braves-city-connect-2026/braves-on-tbs-throwback.png" alt="Braves on TBS classic TV broadcast graphic" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The classic Braves on TBS broadcast graphic</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Braves on TBS broadcast graphic via TBS / Warner Bros. Discovery</p>
 
 ## The Details
 

@@ -5,7 +5,7 @@ date: "2026-03-31"
 excerpt: "The Cincinnati Reds City Connect jersey just leaked and it features all-red pinstripes, black accents, and a redesigned C logo. We have thoughts."
 gradient: "linear-gradient(135deg, #C6011F 0%, #1a1a1a 100%)"
 coverImage: "/images/posts/reds-city-connect-2026/reds-cc-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 league: "mlb"
 teams: ["cincinnati-reds"]
 ---
