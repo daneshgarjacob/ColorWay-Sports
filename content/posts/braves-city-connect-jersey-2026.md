@@ -15,10 +15,6 @@ teams: ["atlanta-braves"]
 
 The Braves just released their 2026 City Connect jerseys and we have a lot to say about these. This is how you do a City Connect uniform. Instead of going with random colors and some abstract design that has nothing to do with the team, Atlanta went back to their roots and made something that actually means something.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://x.com/Braves/status/2039013774774894811"></a></blockquote>
-</div>
-
 ## The Jersey
 
 <img src="/images/posts/braves-city-connect-2026/braves-cc-pitcher-hallway.png" alt="Atlanta Braves City Connect full uniform on pitcher" style="width: 100%; border-radius: 10px;" />
@@ -92,4 +88,8 @@ This is one of the best City Connect jerseys we've seen across all of MLB. The B
     <span style="font-size: 0.7em; color: #999; font-weight: 600;">CLEAN</span>
     <span style="font-size: 0.7em; color: #999; font-weight: 600;">GROSS</span>
   </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://x.com/Braves/status/2039013774774894811"></a></blockquote>
 </div>
