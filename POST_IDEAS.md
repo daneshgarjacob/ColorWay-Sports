@@ -1,5 +1,8 @@
 # Post Ideas
 
+## Marlins Teal Alternate Jersey
+- **Status:** PUBLISHED (2026-04-01)
+
 ## Rams Draft Hat Logo Leak
 - **Status:** PUBLISHED (2026-03-31)
 
