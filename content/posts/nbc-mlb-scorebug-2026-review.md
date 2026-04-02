@@ -8,7 +8,7 @@ logoSrc: "/logos/nbc.png"
 logoSrc2: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: []
-homepageOrder: 4
+homepageOrder: 6
 ---
 
 NBC is making its big return to Major League Baseball this season. The network hasn't been a regular home for MLB in years. You'd expect the scorebug to reflect that -- something fresh, something that says "we're here now."

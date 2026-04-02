@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #000000 0%, #1a3c6e 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
-homepageOrder: 9
+homepageOrder: 8
 coverImage: "/images/posts/puma-world-cup-kits/ivory-coast-home.jpg"
 coverImagePosition: "center 20%"
 ---

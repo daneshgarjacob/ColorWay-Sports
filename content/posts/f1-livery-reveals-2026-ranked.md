@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #15151E 0%, #E10600 100%)"
 logoSrc: "/logos/f1.png"
 league: "f1"
 teams: []
-homepageOrder: 8
+homepageOrder: 9
 ---
 
 New F1 regulations always bring new liveries, and 2026 is no exception. Every team has a fresh look on a completely new car. Some teams nailed it. Some played it too safe. Here's where they all land.
