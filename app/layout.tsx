@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import EmailCapture from "@/components/EmailCapture";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -52,6 +53,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-background text-foreground font-sans antialiased">
         {children}
+        <EmailCapture />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-RKP192Y1DM"
           strategy="afterInteractive"
