@@ -6,7 +6,7 @@ excerpt: "The Athletics are selling Sacramento-branded hats and gear at Sutter H
 gradient: "linear-gradient(135deg, #003831 0%, #EFB21E 100%)"
 logoSrc: "/logos/nfl.png"
 coverImage: "/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey.jpg"
-coverImagePosition: "center 40%"
+coverImagePosition: "center 43%"
 league: "mlb"
 teams: ["oakland-athletics"]
 ---
