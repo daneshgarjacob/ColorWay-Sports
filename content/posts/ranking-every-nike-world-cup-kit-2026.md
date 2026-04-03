@@ -1,8 +1,8 @@
 ---
-title: "2026 World Cup Jersey Rankings: Every Nike Kit Ranked Best to Worst"
+title: "Best Nike Soccer Jerseys 2026: Ranking Every World Cup Kit From Worst to First"
 category: "Soccer"
 date: "2026-03-23"
-excerpt: "Nike just dropped new national team kits for the 2026 World Cup. Some are incredible. Some are forgettable. We ranked them all."
+excerpt: "We ranked every Nike national team jersey for the 2026 World Cup from worst to best. From the USA home kit to the Netherlands away, here are the best and worst Nike soccer jerseys this year."
 gradient: "linear-gradient(135deg, #5B0E2D 0%, #C4A44A 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
