@@ -1,8 +1,8 @@
 ---
-title: "Dodgers 2026 World Series Edition Uniforms: Ranking Every Gold Collection Look"
+title: "Every Dodgers World Series Gold Uniform Compared: 2020, 2024, and 2025"
 category: "MLB"
 date: "2026-03-26"
-excerpt: "From the 2020 bubble to back-to-back titles, the Dodgers have dropped three World Series Edition uniforms. We break down all of them."
+excerpt: "The Dodgers have released three gold World Series Edition uniforms since 2020. We compare every detail across all three championship looks and rank them from worst to best."
 gradient: "linear-gradient(135deg, #005A9C 0%, #C4A44A 50%, #005A9C 100%)"
 logoSrc: "/logos/dodgers.png"
 coverImage: "/images/posts/HD4M9WGboAAG8wx.jpg"
