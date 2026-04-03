@@ -8,7 +8,7 @@ coverImage: "/images/posts/orioles-camden-yards-scoreboard-01.jpg"
 logoSrc: "/logos/orioles.png"
 league: "mlb"
 teams: ["baltimore-orioles"]
-featuredOrder: 2
+homepageOrder: 9
 ---
 
 The Orioles have a new scoreboard at Camden Yards, and it's big. 2.5 times the size of the old one, which was the smallest in pro baseball. The new LED videoboard is now the 12th largest in MLB with full 4K resolution.

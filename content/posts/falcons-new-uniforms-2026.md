@@ -8,7 +8,7 @@ coverImage: "/images/posts/falcons-new-uniforms-2026/falcons-four-players.jpg"
 coverImagePosition: "center 35%"
 league: "nfl"
 teams: ["atlanta-falcons"]
-homepageOrder: 4
+featuredOrder: 2
 ---
 
 <img src="/images/posts/falcons-new-uniforms-2026/falcons-four-players.jpg" alt="Atlanta Falcons 2026 new uniforms with four players showing all jersey combinations" style="width: 100%; border-radius: 10px;" />
