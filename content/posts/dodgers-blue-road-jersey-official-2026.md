@@ -6,7 +6,7 @@ excerpt: "The Dodgers are officially wearing blue on the road for the first time
 gradient: "linear-gradient(135deg, #005A9C 0%, #A5ACAF 50%, #005A9C 100%)"
 logoSrc: "/logos/dodgers.png"
 coverImage: "/images/posts/dodgers-blue-road-jersey-details.jpg"
-coverImagePosition: "center 45%"
+coverImagePosition: "center 60%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
 featuredOrder: 1

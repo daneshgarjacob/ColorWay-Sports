@@ -5,7 +5,7 @@ date: "2026-04-02"
 excerpt: "The Atlanta Falcons officially revealed their new 2026 uniforms. We break down every jersey, grade the home, away, and throwback, and compare to every Falcons uniform set since the 1960s."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/falcons-new-uniforms-2026/falcons-four-players.jpg"
-coverImagePosition: "center 35%"
+coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["atlanta-falcons"]
 featuredOrder: 2
