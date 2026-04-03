@@ -41,8 +41,24 @@ export default function Footer() {
           ))}
         </nav>
 
+        {/* Legal links */}
+        <div className="flex gap-4 mt-5">
+          <Link
+            href="/privacy-policy"
+            className="text-[10px] uppercase tracking-widest text-[#b0b4bc] hover:text-[#8A8F98] transition-colors font-medium"
+          >
+            Privacy Policy
+          </Link>
+          <Link
+            href="/terms"
+            className="text-[10px] uppercase tracking-widest text-[#b0b4bc] hover:text-[#8A8F98] transition-colors font-medium"
+          >
+            Terms of Service
+          </Link>
+        </div>
+
         {/* Copyright */}
-        <p className="text-[#b0b4bc] text-[11px] mt-6">
+        <p className="text-[#b0b4bc] text-[11px] mt-4">
           &copy; {new Date().getFullYear()} ColorWay Sports. All rights reserved.
         </p>
       </div>
