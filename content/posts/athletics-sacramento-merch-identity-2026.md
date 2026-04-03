@@ -44,7 +44,12 @@ The merch wall has the standard Athletics jerseys in green, white, and kelly gre
 <img src="/images/posts/athletics-sacramento-merch-2026/lineup-las-vegas-patch.jpg" alt="Athletics 2026 jersey with Las Vegas sleeve patch starting lineup" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Athletics</p>
 
-The regular game jerseys just say "Athletics" across the chest with no city name. The Las Vegas logo patch has been on the sleeve since last season, so the team is already wearing Vegas branding on the field while playing in Sacramento. Sacramento in the team store, Las Vegas on the sleeve, and just "Athletics" on the chest.
+The regular game jerseys just say "Athletics" across the chest with no city name. The Las Vegas logo patch has been on the sleeve since last season, so the team is already wearing Vegas branding on the field while playing in Sacramento. The other sleeve has the 125th anniversary patch with the elephant logo and every city the franchise has called home: PHI, KC, OAK, and now SAC.
+
+<img src="/images/posts/athletics-sacramento-merch-2026/125th-anniversary-patch.jpg" alt="Athletics 125th anniversary sleeve patch with elephant logo showing PHI KC OAK SAC" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Athletics</p>
+
+Sacramento in the team store, Las Vegas on one sleeve, 125 years of history on the other, and just "Athletics" on the chest.
 
 Owning the Sacramento identity right now is the smart move. These fans are the ones actually showing up. It'll be interesting to see what the full Las Vegas Athletics brand looks like once the stadium gets closer to opening.
 
