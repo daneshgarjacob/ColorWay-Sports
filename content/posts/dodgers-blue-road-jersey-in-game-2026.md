@@ -13,9 +13,8 @@ teams: ["los-angeles-dodgers"]
 
 The Dodgers wore their new blue road jersey in a real game for the first time, and they looked incredible. This was the first time we've seen the blue "Los Angeles" road script on the field outside of spring training, and seeing it in an actual MLB game at Nationals Park hit different.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DodgersNation/status/2040114097849864473"></a></blockquote>
-</div>
+<img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Dodgers players wearing the new blue road jersey for the first time in Washington" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Dodgers</p>
 
 The blue against the gray road pants is clean. The gray piping on the sleeves and collar ties it all together and keeps it from looking like a spring training jersey. On TV and in photos, the blue pops in a way that the traditional gray road jerseys just can't match.
 
