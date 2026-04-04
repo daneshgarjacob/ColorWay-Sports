@@ -54,7 +54,7 @@ a {
 .prose p {
   margin-bottom: 1.25em;
   line-height: 1.8;
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: #333;
 }
 
@@ -125,7 +125,7 @@ a {
 .prose li {
   margin-bottom: 0.5em;
   line-height: 1.75;
-  font-size: 0.95rem;
+  font-size: 1rem;
 }
 
 .prose hr {
@@ -140,7 +140,7 @@ a {
   margin: 2em 0;
   color: var(--color-gray-medium);
   font-style: italic;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
 }
 
 .prose em {
