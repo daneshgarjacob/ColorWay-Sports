@@ -1,5 +1,5 @@
 ---
-title: "Athletics 2026 Sacramento Merch, Hats, and Jerseys: A Look at the A's New Identity"
+title: "Athletics Sacramento Jersey 2026: New Gold Alternate, Merch, and the A's Evolving Identity"
 category: "MLB"
 date: "2026-04-03"
 excerpt: "The Athletics are selling Sacramento-branded hats and gear at Sutter Health Park while still wearing the Las Vegas sleeve patch on the field. Here's what their 2026 identity looks like."

@@ -1,5 +1,5 @@
 ---
-title: "Buffalo Bills Gray Alternate Jersey Leaked: First Look and Review"
+title: "Buffalo Bills New Alternate Jersey 2026: Leaked Gray Uniform First Look and Review"
 category: "NFL"
 date: "2026-04-03"
 excerpt: "A gray Buffalo Bills alternate jersey has surfaced online. We break down the design, what works, what doesn't, and whether this leak is even real."
@@ -12,9 +12,9 @@ teams: ["buffalo-bills"]
 ---
 
 <img src="/images/posts/bills-gray-alternate-2026/bills-gray-front.jpg" alt="Leaked Buffalo Bills gray alternate jersey 2026 front" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @AndrewMLind on X</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @FlyingZebra30 on X</p>
 
-A gray Buffalo Bills alternate jersey showed up on social media this week, and we have some thoughts. Posted by @AndrewMLind on X, the jersey features a full gray base with blue numbers, red trim, and the classic Bills charging buffalo logo on the chest. There's no official confirmation from the Bills or Nike on whether this is a real 2026 alternate or not, and honestly, we hope it isn't.
+A gray Buffalo Bills alternate jersey showed up on social media this week, and we have some thoughts. Posted by @FlyingZebra30 on X, the jersey features a full gray base with blue numbers, red trim, and the classic Bills charging buffalo logo on the chest. There's no official confirmation from the Bills or Nike on whether this is a real 2026 alternate or not, and honestly, we hope it isn't.
 
 ## The Blue Collar
 
@@ -31,7 +31,7 @@ The charging buffalo logo sits on the left chest, which is standard for NFL jers
 ## The Back
 
 <img src="/images/posts/bills-gray-alternate-2026/bills-gray-back.jpg" alt="Leaked Buffalo Bills gray alternate jersey 2026 back" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @AndrewMLind on X</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @FlyingZebra30 on X</p>
 
 ## The Numbers
 
