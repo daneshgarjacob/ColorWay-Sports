@@ -1,5 +1,5 @@
 ---
-title: "Ranking Every Adidas 2026 World Cup Away Kit From Worst to Best"
+title: "Every Adidas 2026 World Cup Away Kit Ranked"
 category: "Soccer"
 date: "2026-03-29"
 excerpt: "Adidas dropped 25 new away kits with the retro trefoil logo for the 2026 World Cup. We ranked every single one from worst to best."

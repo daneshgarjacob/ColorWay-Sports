@@ -1,5 +1,5 @@
 ---
-title: "Lakers Uniform Tracker 2025-26: What They Wore Every Game This Season"
+title: "Lakers Uniform Tracker 2025-26: Every Game, Every Jersey"
 category: "Uniforms"
 date: "2026-03-22"
 excerpt: "A full breakdown of every jersey the Lakers wore during the 2025-26 season. Gold, purple, white, City Edition -- we tracked all 82 games and the numbers are surprising."

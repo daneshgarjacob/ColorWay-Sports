@@ -1,5 +1,5 @@
 ---
-title: "NFL Uniform Release Dates 2026: Every Team Dropping New Jerseys"
+title: "NFL New Uniform Release Dates 2026: Full Schedule"
 category: "NFL"
 date: "2026-04-01"
 excerpt: "The Falcons and Commanders both have new uniforms coming. Here's when they're dropping and what we're hoping to see."
