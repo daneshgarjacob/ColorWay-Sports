@@ -9,7 +9,6 @@ coverImage: "/images/posts/dodgers-blue-road-jersey-details.jpg"
 coverImagePosition: "center 60%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
-featuredOrder: 1
 ---
 
 <div style="font-size: 1.15em; line-height: 1.8;">

@@ -5,9 +5,10 @@ date: "2026-03-31"
 excerpt: "Spectrum SportsNet just updated the Dodgers broadcast score bug for the first time in a while. We break down what changed, what works, and what still feels too generic."
 gradient: "linear-gradient(135deg, #005A9C 0%, #1a1a2e 100%)"
 coverImage: "/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg"
-coverImagePosition: "center 70%"
+coverImagePosition: "center 55%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
+featuredOrder: 2
 ---
 
 <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="New Dodgers Spectrum SportsNet score bug showing Smith batting and Glasnow pitching" style="width: 100%; border-radius: 10px;" />

@@ -7,7 +7,6 @@ gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
 logoSrc: "/logos/nfl.png"
 league: "nfl"
 teams: []
-featuredOrder: 3
 coverImage: "/images/posts/nfl-draft-hats-2026/cowboys-inside.jpg"
 coverImagePosition: "center 30%"
 ---
