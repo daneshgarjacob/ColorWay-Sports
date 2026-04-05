@@ -1,5 +1,5 @@
 ---
-title: "How the NBA Should Realign With 32 Teams: Our Division-by-Division Breakdown"
+title: "How the NBA Should Realign With 32 Teams: Our Breakdown"
 category: "NBA"
 date: "2026-04-02"
 excerpt: "The NBA is expanding to 32 teams with Seattle and Las Vegas. Here's how we think the league should realign its conferences and divisions to create the best rivalries possible."

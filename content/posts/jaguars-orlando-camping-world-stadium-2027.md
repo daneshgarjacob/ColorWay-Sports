@@ -1,5 +1,5 @@
 ---
-title: "Jaguars Are Heading to Orlando for the 2027 Season While Their New Stadium Gets Built"
+title: "Jaguars Moving to Orlando for 2027 While New Stadium Gets Built"
 category: "NFL"
 date: "2026-04-01"
 excerpt: "The Jaguars will play the 2027 season at Camping World Stadium in Orlando while Jacksonville builds one of the most exciting new stadiums in the NFL."

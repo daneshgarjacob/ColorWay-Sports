@@ -1,5 +1,5 @@
 ---
-title: "Dodgers New Blue Jersey Debut 2026: How the Historic Road Alternate Looked in Washington"
+title: "Dodgers Blue Jersey Debut 2026: How the New Road Alternate Looked"
 category: "MLB"
 date: "2026-04-03"
 excerpt: "The Dodgers wore a blue road jersey in a regular season game for the first time in franchise history. Here's how the new blue alternate looked on the field against the Nationals."

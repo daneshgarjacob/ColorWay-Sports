@@ -1,5 +1,5 @@
 ---
-title: "Pittsburgh Pirates City Connect Leaked: Black and Gold With a Gotham Twist"
+title: "Pirates City Connect Leaked: Black and Gold With a Gotham Twist"
 category: "MLB"
 date: "2026-03-25T18:00:00"
 excerpt: "The Pirates' 2026 City Connect has leaked on Reddit and it's dripping in black and gold. We break down the jersey, the sleeve patch, and the Gotham City vibes."

@@ -1,5 +1,5 @@
 ---
-title: "Atlanta Falcons New Uniforms 2026: Full Breakdown, Review, and Grade for Every Jersey"
+title: "Falcons New Uniforms 2026: Full Breakdown and Grade for Every Jersey"
 category: "NFL"
 date: "2026-04-02"
 excerpt: "The Atlanta Falcons officially revealed their new 2026 uniforms. We break down every jersey, grade the home, away, and throwback, and compare to every Falcons uniform set since the 1960s."

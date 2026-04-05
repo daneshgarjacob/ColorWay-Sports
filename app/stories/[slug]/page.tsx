@@ -60,9 +60,38 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     );
   }
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Organization",
+      name: "ColorWay Sports",
+      url: "https://www.colorwaysports.com",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "ColorWay Sports",
+      url: "https://www.colorwaysports.com",
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://www.colorwaysports.com/stories/${slug}`,
+    },
+    ...(post.coverImage ? { image: `https://www.colorwaysports.com${post.coverImage}` } : {}),
+  };
+
   return (
     <>
       <Header />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
 
       {/* Compact hero banner with gradient */}
       <div

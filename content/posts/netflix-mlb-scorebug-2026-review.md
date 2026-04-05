@@ -1,5 +1,5 @@
 ---
-title: "Netflix MLB Scorebug 2026: Breaking Down Baseball's Newest Broadcast Look"
+title: "Netflix MLB Scorebug 2026: Full Design Breakdown and Review"
 category: "MLB"
 date: "2026-03-26"
 excerpt: "Netflix made its MLB debut with a clean, modern scorebug. We break down the design, the transition graphics, and give it a grade."

@@ -1,5 +1,5 @@
 ---
-title: "Marlins Teal Alternate Jersey 2026: Grading Miami's Throwback Sunday Look"
+title: "Marlins Teal Alternate Jersey 2026: Grading the Throwback"
 category: "MLB"
 date: "2026-04-01"
 excerpt: "The Marlins are bringing teal back every Sunday with their new alternate jersey. We break down the details and grade the look."

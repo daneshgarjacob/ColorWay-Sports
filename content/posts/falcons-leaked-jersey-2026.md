@@ -1,5 +1,5 @@
 ---
-title: "Falcons Leaked Jersey 2026: First Look at Atlanta's Rumored New Uniforms"
+title: "Falcons Leaked Jersey 2026: First Look at the New Uniforms"
 category: "NFL"
 date: "2026-04-01"
 excerpt: "A leaked image of what appears to be the Falcons' new red jersey is making the rounds. If this is real, Atlanta might finally be heading in the right direction."

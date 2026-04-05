@@ -1,5 +1,5 @@
 ---
-title: "Buffalo Bills New Alternate Jersey 2026: Leaked Gray Uniform First Look and Review"
+title: "Bills Gray Alternate Jersey 2026: Leaked Uniform First Look"
 category: "NFL"
 date: "2026-04-03"
 excerpt: "A gray Buffalo Bills alternate jersey has surfaced online. We break down the design, what works, what doesn't, and whether this leak is even real."

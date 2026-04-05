@@ -1,5 +1,5 @@
 ---
-title: "Rangers Announce They're Keeping the Roof Open at Globe Life Field All Season"
+title: "Rangers Keeping the Roof Open at Globe Life Field All Season"
 category: "MLB"
 date: "2026-04-01"
 excerpt: "The Rangers posted that they're keeping the roof at Globe Life Field open all season long. We wish it were real."
