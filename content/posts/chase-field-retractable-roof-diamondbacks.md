@@ -4,7 +4,7 @@ category: "MLB"
 date: "2026-04-05"
 excerpt: "Everything you need to know about the Chase Field retractable roof in Phoenix. How fast it opens, when it's open or closed, the cable saga, and how it stacks up against every other MLB retractable roof stadium."
 gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
-logoSrc: "/logos/Arizona_Diamondbacks_logo_teal.svg"
+logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["arizona-diamondbacks"]
 coverImage: ""
