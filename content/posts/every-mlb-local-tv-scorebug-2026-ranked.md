@@ -1,7 +1,7 @@
 ---
 title: "Every MLB Local Broadcast Scorebug for 2026 Ranked"
 category: "MLB"
-date: "2026-04-05"
+date: "2026-04-06"
 excerpt: "We grabbed every local TV scorebug in baseball for the 2026 season. All 30 teams ranked and organized by network. Half the league shares the same template."
 gradient: "linear-gradient(135deg, #002D72 0%, #D50032 100%)"
 logoSrc: "/logos/mlb-city-connect.png"
