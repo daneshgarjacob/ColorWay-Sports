@@ -92,3 +92,5 @@ We wish every team with a retractable roof would keep it open as much as physica
 And for the stadiums that do not have retractable roofs but play indoors full time, we wish the designs at least tried to make the space feel like you are outside. The best indoor stadiums have natural light, open concourses, and sightlines that do not make you feel like you are watching a game inside a warehouse. The worst ones feel like you could be anywhere. There is no sky, no breeze, no sense that you are at a ballpark.
 
 Chase Field gets it right. When that roof slides open on a spring night in the desert and you can see the Arizona sky from your seat, it feels like baseball is supposed to feel. More teams should be chasing that.
+
+*Cover image via the Arizona Diamondbacks*
