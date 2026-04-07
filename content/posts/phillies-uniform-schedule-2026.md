@@ -117,7 +117,7 @@ The gray road uniforms are exactly what you would expect. Clean, classic, and fu
 
 The Phillies are wearing an All-Star Game logo on both their caps and sleeves throughout the entire 2026 season. The Midsummer Classic is coming to Citizens Bank Park on July 14, and having the patch on every uniform all year is a nice way to build anticipation. It also gives collectors a reason to grab jerseys from this specific season.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
+<div style="display: flex; justify-content: center; margin: 0 0 1em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TimKellySports/status/2039116345413943749"></a></blockquote>
 </div>
 
