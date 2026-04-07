@@ -35,6 +35,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="apple-mobile-web-app-title" content="ColorWay Sports" />
+        <meta name="impact-site-verification" content="d7f27018-e02f-435c-8b26-94ff434d2e4c" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
