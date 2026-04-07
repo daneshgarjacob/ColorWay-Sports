@@ -7,8 +7,8 @@ gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
 logoSrc: "/logos/dbacks.png"
 league: "mlb"
 teams: ["arizona-diamondbacks"]
-coverImage: ""
-coverImagePosition: "center 50%"
+coverImage: "/images/posts/chase-field-retractable-roof/chase-field-opening-day.jpg"
+coverImagePosition: "center 40%"
 ---
 
 If you are going to a Diamondbacks game and want to know whether the Chase Field roof will be open or closed tonight, you are not the only one. This is one of the most searched questions before every home game in Phoenix, and for good reason. The weather in Arizona changes everything about the ballpark experience depending on whether that roof is open or shut.
