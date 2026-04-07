@@ -5,7 +5,7 @@ date: "2026-04-06"
 excerpt: "A black Rockies jersey was spotted hanging in the Colorado team store. The black alternate has been missing from the rotation since 2021, and fans have been begging for its return."
 gradient: "linear-gradient(135deg, #000000 0%, #33006F 50%, #000000 100%)"
 coverImage: "/images/posts/rockies-black-jersey-leaked-2026/rockies-black-jersey-leaked.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 45%"
 league: "mlb"
 teams: ["colorado-rockies"]
 ---
