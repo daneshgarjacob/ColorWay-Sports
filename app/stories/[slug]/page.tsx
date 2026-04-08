@@ -5,6 +5,7 @@ import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
 import type { Metadata } from "next";
 
@@ -46,18 +47,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const post = await getPostBySlug(slug);
 
   if (!post) {
-    return (
-      <>
-        <Header />
-        <main className="max-w-[800px] mx-auto px-5 py-12 text-center">
-          <h1 className="text-3xl font-bold text-black mb-4">Story Not Found</h1>
-          <Link href="/stories" className="text-orange hover:underline">
-            Back to Stories
-          </Link>
-        </main>
-        <Footer />
-      </>
-    );
+    notFound();
   }
 
   const jsonLd = {
