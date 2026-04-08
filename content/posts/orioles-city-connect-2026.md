@@ -15,7 +15,7 @@ teams: ["baltimore-orioles"]
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/jcam3795/status/2036485124523504003">pic.twitter.com/jcam3795</a></p>&mdash; (@jcam3795) <a href="https://twitter.com/jcam3795/status/2036485124523504003">April 2026</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @jcam3795 on X</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">📸 @jcam3795 on X</p>
 
 We ranked the Orioles City Connect jersey in our [full 2026 City Connect rankings post](/stories/mlb-city-connect-jerseys-2026-ranked) yesterday, and gave it a B-. Now we have a closer look at the jersey thanks to new photos showing up online, and we are keeping the grade exactly where it is.
 
