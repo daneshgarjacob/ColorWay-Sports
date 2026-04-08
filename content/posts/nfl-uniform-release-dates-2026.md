@@ -1,5 +1,5 @@
 ---
-title: "NFL New Uniform Release Dates 2026: Full Schedule"
+title: "NFL New Uniforms 2026: Every Team Reveal Date and Schedule"
 category: "NFL"
 date: "2026-04-07"
 excerpt: "The Titans, Falcons, Commanders, and Ravens all have new uniforms in 2026. Here's every confirmed NFL uniform reveal date and what we know."
@@ -41,13 +41,13 @@ We're hoping they lean into the throwback look that they wore as their alternate
 
 ## Baltimore Ravens - April 16
 
-The Ravens confirmed their new uniforms are dropping on April 16 under the campaign name "The Next Flight." Baltimore has worn essentially the same uniform template since the franchise started in 1996, making this the most significant uniform change in Ravens history. The teaser features a real raven and the tagline "The Next Flight" with the 4.16.26 date.
+The Ravens confirmed their new uniform collection is dropping on April 16 under the campaign name "The Next Flight." Baltimore has worn essentially the same uniform template since the franchise started in 1996, making this the most significant uniform change in Ravens history. Reports indicate the changes will be minimal rather than a full rebrand, with a simplified number font, a "Baltimore" wordmark on the road jerseys, and iridescent accents inspired by raven feathers. The reveal event will be held at Merriweather Post Pavilion with legends like Terrell Suggs, Todd Heap, and Ray Rice in attendance.
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2041516388838207526"></a></blockquote>
 </div>
 
-We want to see the Ravens modernize without overthinking it. The purple, black, and gold color scheme is already one of the strongest in the NFL. If they clean up the chest design and update the number font while keeping the core identity intact, this could be one of the best new uniforms of the offseason. For a full look back at every jersey the Ravens have ever worn, check out our [Ravens uniform history post](/stories/ravens-uniform-history-every-jersey).
+We want to see the Ravens modernize without overthinking it. The purple, black, and gold color scheme is already one of the strongest in the NFL. If they clean up the chest design and update the number font while keeping the core identity intact, this could be one of the best new uniforms of the offseason. For a full look back at every jersey the Ravens have ever worn, check out our [Ravens uniform history post](/stories/ravens-uniform-history-every-jersey). To get the latest news on the announcement itself, [click here for our full Ravens new uniforms 2026 breakdown](/stories/ravens-new-uniforms-2026).
 
 ## Stay Tuned
 
