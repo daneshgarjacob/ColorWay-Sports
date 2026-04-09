@@ -9,6 +9,8 @@ league: "mlb"
 teams: ["pittsburgh-pirates"]
 ---
 
+**Update: The Pirates City Connect has been officially released by Nike and MLB. See our [Official Pirates City Connect Review With New Photos](/stories/pirates-city-connect-2026-official).**
+
 The Pittsburgh Pirates' 2026 City Connect uniform just leaked on Reddit, courtesy of user dannotheiceman. And honestly? We don't hate it.
 
 ![Pirates City Connect - Front](/images/posts/pirates-city-connect-front.webp)

@@ -13,6 +13,8 @@ teams: ["atlanta-braves"]
 <img src="/images/posts/braves-city-connect-2026/braves-cc-cover.png" alt="Atlanta Braves 2026 City Connect jersey Atlanta script on light blue" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the official Braves X post</p>
 
+**Update: The Braves City Connect has been officially released by Nike and MLB. See our [Official Braves City Connect Review With New Photos](/stories/braves-city-connect-2026-official).**
+
 The Braves just released their 2026 City Connect jerseys and we have a lot to say about these. This is how you do a City Connect uniform. Instead of going with random colors and some abstract design that has nothing to do with the team, Atlanta went back to their roots and made something that actually means something.
 
 ## The Jersey

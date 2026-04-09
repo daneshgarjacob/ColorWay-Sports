@@ -9,6 +9,8 @@ league: "mlb"
 teams: ["texas-rangers"]
 ---
 
+**Update: The Rangers City Connect has been officially released by Nike and MLB. See our [Official Rangers Tejas City Connect Review With New Photos](/stories/rangers-tejas-city-connect-2026-official).**
+
 The Texas Rangers' 2026 City Connect uniform has leaked, and we have thoughts.
 
 ![Rangers Tejas City Connect - Front](/images/posts/rangers-cc-front.webp)

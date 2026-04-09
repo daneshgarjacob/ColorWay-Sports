@@ -13,6 +13,8 @@ teams: ["atlanta-braves", "milwaukee-brewers", "pittsburgh-pirates", "san-franci
 <img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png" alt="Atlanta Braves 2026 City Connect jersey Ronald Acuna" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Atlanta Braves</p>
 
+**Update: All eight City Connect jerseys have been officially released by Nike and MLB. Check out our [Official 2026 City Connect Rankings With Updated Grades and Photos](/stories/mlb-city-connect-2026-official-ranking).**
+
 The 2026 MLB City Connect jersey cycle has been one of the more active ones yet. Between official reveals, team store leaks, and social media scoops, we now have a look at nine different City Connect uniforms across the league. The Braves, Brewers, Pirates, Padres, Giants, Rangers, Orioles, Reds, and Royals have all had their 2026 City Connect designs leaked or revealed. We graded all of them from worst to first.
 
 ---
