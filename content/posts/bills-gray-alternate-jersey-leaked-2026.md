@@ -9,7 +9,7 @@ coverImage: "/images/posts/bills-gray-alternate-2026/bills-gray-front.jpg"
 coverImagePosition: "center 20%"
 league: "nfl"
 teams: ["buffalo-bills"]
-homepageOrder: 4
+homepageOrder: 5
 ---
 
 <img src="/images/posts/bills-gray-alternate-2026/bills-gray-front.jpg" alt="Leaked Buffalo Bills gray alternate jersey 2026 front" style="width: 100%; border-radius: 10px;" />
