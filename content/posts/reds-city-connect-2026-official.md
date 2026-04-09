@@ -46,4 +46,4 @@ We like the red pop but we are not in love with it. The color is there, the bold
 <div style="font-size: 3em; font-weight: 800; color: #fff;">B</div>
 </div>
 
-For the full breakdown of every 2026 City Connect jersey and where the Reds land, check out our [2026 MLB City Connect rankings](/stories/mlb-city-connect-2026-official-ranking).
+For the full breakdown of every 2026 City Connect jersey and where the Reds land, check out our [2026 MLB City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).

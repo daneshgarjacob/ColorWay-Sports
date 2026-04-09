@@ -5,7 +5,7 @@ date: "2026-04-09"
 excerpt: "The Padres officially released their 2026 City Connect jersey with a Dia de los Muertos theme featuring dark navy, orange accents, and bone-colored pants. Full review and grade."
 gradient: "linear-gradient(135deg, #1B2B4A 0%, #E8792B 100%)"
 coverImage: "/images/posts/city-connect-2026-padres/padres-cc-hero.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["san-diego-padres"]
@@ -48,4 +48,4 @@ We will be honest here. We are Dodger fans. We do not like the Padres. But credi
 
 The Dia de los Muertos theme has deep roots in San Diego culture, and the Padres have already been celebrating it at Petco Park for years. This City Connect feels like a natural extension of that connection rather than a forced concept, and that authenticity is what separates the best City Connects from the forgettable ones.
 
-For a look at how the Padres stack up against every other team this year, check out our [full 2026 City Connect ranking](/stories/mlb-city-connect-2026-official-ranking).
+For a look at how the Padres stack up against every other team this year, check out our [Full 2026 City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).

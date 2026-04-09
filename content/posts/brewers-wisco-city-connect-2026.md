@@ -46,4 +46,4 @@ This is one of the stronger City Connect designs in the 2026 class. We are givin
 <div style="font-size: 3em; font-weight: 800; color: #fff;">A-</div>
 </div>
 
-For the full breakdown of every City Connect jersey this year, check out our [2026 MLB City Connect official ranking](/stories/mlb-city-connect-2026-official-ranking).
+For the full breakdown of every City Connect jersey this year, check out our [2026 MLB City Connect Official Rankings](/stories/mlb-city-connect-2026-official-ranking).

@@ -27,6 +27,9 @@ Paul Skenes is the face of this release, and that is the right call. Skenes alre
 
 ## The Hat
 
+<img src="/images/posts/city-connect-2026-pirates/pirates-cc-hat.jpg" alt="Pittsburgh Pirates 2026 City Connect yellow hat close-up with Jolly Roger logo" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Pittsburgh Pirates</p>
+
 We need to talk about the hat because it might be the best part. The yellow cap is doing serious work here. Most City Connect hats blend into the background or just match the jersey without adding much, but the Pirates went with a full gold crown that immediately grabs your attention. The Jolly Roger logo on the front in black ties the whole thing together. It is clean, it is bold, and it gives the uniform a totally different energy than the jersey alone would.
 
 <img src="/images/posts/city-connect-2026-pirates/pirates-cc-detail.jpg" alt="Pittsburgh Pirates 2026 City Connect uniform details" style="width: 100%; border-radius: 10px;" />
@@ -49,4 +52,4 @@ We are giving the Pittsburgh Pirates 2026 City Connect an A-.
 <div style="font-size: 3em; font-weight: 800; color: #fff;">A-</div>
 </div>
 
-For a look at how the Pirates stack up against every other team this year, check out our [full 2026 City Connect ranking](/stories/mlb-city-connect-2026-official-ranking).
+For a look at how the Pirates stack up against every other team this year, check out our [Full 2026 City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).

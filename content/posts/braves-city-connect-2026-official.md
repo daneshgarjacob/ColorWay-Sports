@@ -5,7 +5,7 @@ date: "2026-04-09"
 excerpt: "The Braves officially released their 2026 City Connect jersey today. The powder blue throwback to the SuperStation era might be the best City Connect ever made. Full review and official photos."
 gradient: "linear-gradient(135deg, #6BB3E0 0%, #CE1141 100%)"
 coverImage: "/images/posts/city-connect-2026-braves/braves-cc-hero.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["atlanta-braves"]
@@ -48,7 +48,7 @@ The tunnel shots give a good sense of how this jersey looks in real lighting and
 
 ## Final Verdict
 
-This is a City Connect that actually connects. The powder blue throwback to the SuperStation era is meaningful, the colors are gorgeous, and the details like the ATL patch show that the Braves put real thought into this design. We have this ranked at the very top of our [full 2026 City Connect ranking](/stories/mlb-city-connect-2026-official-ranking) and the official photos only reinforce that. If every team put this much care into their City Connect, the whole program would be in a different place.
+This is a City Connect that actually connects. The powder blue throwback to the SuperStation era is meaningful, the colors are gorgeous, and the details like the ATL patch show that the Braves put real thought into this design. We have this ranked at the very top of our [Full 2026 City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking) and the official photos only reinforce that. If every team put this much care into their City Connect, the whole program would be in a different place.
 
 <div style="background: linear-gradient(135deg, #6BB3E0, #CE1141); border-radius: 12px; padding: 24px 32px; text-align: center; min-width: 180px; margin: 2em auto; max-width: 220px;">
 <div style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.6); margin-bottom: 4px;">Braves</div>

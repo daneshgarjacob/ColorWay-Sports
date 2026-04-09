@@ -44,9 +44,15 @@ The best detail on the uniform is the sleeve patch. It features a papel picado d
 
 ## The Name
 
+<img src="/images/posts/city-connect-2026-rangers/rangers-cc-hero.jpg" alt="Texas Rangers Tejas City Connect jersey front wordmark" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Texas Rangers</p>
+
 We are never going to love when teams use an alternate name on a City Connect. We would rather see "Texas" or "Rangers" on the chest. We understand why the team went with "Tejas" and the cultural significance behind it, but from a pure design standpoint, using a name that is not the actual team name always feels a little off to us.
 
 ## The Hat
+
+<img src="/images/posts/city-connect-2026-rangers/rangers-cc-hat.jpg" alt="Texas Rangers 2026 City Connect hat close-up T logo stitching detail" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Texas Rangers</p>
 
 The hat is actually the piece we like the most out of this whole set. The stitching detail gives it a nice feel and it has a quality to it that the jersey itself does not quite match. This is a hat that fans will wear casually outside the ballpark and it will look good doing it.
 
@@ -64,4 +70,4 @@ This is a fine City Connect jersey. It is not bad by any means, but it is not ex
 <div style="font-size: 3em; font-weight: 800; color: #fff;">B-</div>
 </div>
 
-For the full breakdown of every 2026 City Connect jersey and where the Rangers land, check out our [2026 MLB City Connect rankings](/stories/mlb-city-connect-2026-official-ranking).
+For the full breakdown of every 2026 City Connect jersey and where the Rangers land, check out our [2026 MLB City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).

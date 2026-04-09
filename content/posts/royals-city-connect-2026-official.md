@@ -41,4 +41,4 @@ We will say this: the official photos improved our opinion slightly compared to 
 <div style="font-size: 3em; font-weight: 800; color: #fff;">C-</div>
 </div>
 
-For a look at how the Royals stack up against every other team this year, check out our [full 2026 City Connect ranking](/stories/mlb-city-connect-2026-official-ranking).
+For a look at how the Royals stack up against every other team this year, check out our [Full 2026 City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).

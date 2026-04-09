@@ -5,7 +5,7 @@ date: "2026-04-09"
 excerpt: "The Orioles officially released their 2026 City Connect jersey featuring a cream and green 'BMORE' design inspired by the Camden Yards neighborhood. Full review and grade."
 gradient: "linear-gradient(135deg, #1a4731 0%, #DF4601 100%)"
 coverImage: "/images/posts/city-connect-2026-orioles/orioles-cc-hero.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 15%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["baltimore-orioles"]
@@ -46,7 +46,7 @@ The photo shoot leans hard into the Baltimore stoop culture and we get it. The i
 
 ## Final Verdict
 
-The Orioles played it safe with the cream and green palette and we appreciate the monochrome approach, but the overall design lacks energy. We know they drew from Camden Yards and Baltimore culture, and the details are thoughtful. But when we ask ourselves the simple question of whether we would want to see this on the field, the answer is just kind of... fine. See where this lands in our [full 2026 City Connect ranking](/stories/mlb-city-connect-2026-official-ranking).
+The Orioles played it safe with the cream and green palette and we appreciate the monochrome approach, but the overall design lacks energy. We know they drew from Camden Yards and Baltimore culture, and the details are thoughtful. But when we ask ourselves the simple question of whether we would want to see this on the field, the answer is just kind of... fine. See where this lands in our [Full 2026 City Connect Rankings](/stories/mlb-city-connect-2026-official-ranking).
 
 <div style="background: linear-gradient(135deg, #1a4731, #DF4601); border-radius: 12px; padding: 24px 32px; text-align: center; min-width: 180px; margin: 2em auto; max-width: 220px;">
 <div style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.6); margin-bottom: 4px;">Orioles</div>
