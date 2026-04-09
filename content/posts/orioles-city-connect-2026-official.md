@@ -5,7 +5,7 @@ date: "2026-04-09"
 excerpt: "The Orioles officially released their 2026 City Connect jersey featuring a cream and green 'BMORE' design inspired by the Camden Yards neighborhood. Full review and grade."
 gradient: "linear-gradient(135deg, #1a4731 0%, #DF4601 100%)"
 coverImage: "/images/posts/city-connect-2026-orioles/orioles-cc-hero.jpg"
-coverImagePosition: "center 15%"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["baltimore-orioles"]
