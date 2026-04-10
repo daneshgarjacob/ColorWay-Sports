@@ -19,11 +19,11 @@ export default function Home() {
 
         {/* Featured stories — top section */}
         <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             {/* Main featured story — tall, left side */}
             {featured && (
               <Link href={`/stories/${featured.slug}`} className="block group lg:row-span-2">
-                <div className="relative rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
+                <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
                   <div
                     className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
                     style={{ background: featured.coverImage ? undefined : featured.gradient }}
@@ -71,7 +71,7 @@ export default function Home() {
             {/* Two secondary featured stories — stacked on right */}
             {secondary.map((post) => (
               <Link key={post.slug} href={`/stories/${post.slug}`} className="block group">
-                <div className="relative rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 h-[210px]">
+                <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-[210px]">
                   <div
                     className="absolute inset-0 flex items-center justify-center"
                     style={{ background: post.coverImage ? undefined : post.gradient }}
@@ -125,12 +125,12 @@ export default function Home() {
         {/* Remaining stories grid */}
         {rest.length > 0 && (
           <section className="max-w-[1200px] mx-auto px-5 py-8">
-            <h2 className="text-sm font-bold uppercase tracking-[0.2em] text-orange mb-3">
+            <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98] mb-3">
               More Stories
             </h2>
-            <hr className="border-border mb-6" />
+            <hr className="border-border mb-8" />
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {rest.map((post) => (
                 <StoryCard key={post.slug} {...post} />
               ))}
@@ -139,7 +139,8 @@ export default function Home() {
             <div className="flex justify-center mt-10">
               <Link
                 href="/stories"
-                className="inline-block px-8 py-3 text-[14px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-colors duration-200"
+                className="inline-block px-8 py-3 text-[13px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-all duration-200"
+                style={{ boxShadow: '0 2px 8px rgba(0,33,165,0.25)' }}
               >
                 View All Stories
               </Link>

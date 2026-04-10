@@ -9,7 +9,7 @@ const navLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-[#e5e7eb]">
+    <footer className="bg-[#f5f5f7] border-t-2 border-[#FF5910]">
       <div className="max-w-[1200px] mx-auto px-5 py-10 flex flex-col items-center text-center">
         {/* Logo */}
         <svg width="40" height="40" viewBox="0 0 512 512" className="mb-2">

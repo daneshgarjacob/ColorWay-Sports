@@ -118,7 +118,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="bg-white border-b-[2.5px] border-orange relative z-50">
+      <header className="bg-white/95 backdrop-blur-md border-b-[2.5px] border-orange relative z-50">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">

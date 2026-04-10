@@ -50,6 +50,22 @@ a {
   transition: color 0.2s ease;
 }
 
+/* Story card elevation */
+.story-card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.06);
+}
+.story-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08), 0 16px 40px rgba(0,0,0,0.12);
+}
+
+/* Featured card elevation */
+.featured-card {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08), 0 8px 24px rgba(0,0,0,0.1);
+}
+.featured-card:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12), 0 20px 48px rgba(0,0,0,0.16);
+}
+
 /* Article prose styling */
 .prose p {
   margin-bottom: 1.25em;
@@ -99,8 +115,8 @@ a {
 }
 
 .prose h2 {
-  font-family: var(--font-sans);
-  font-size: 1.35em;
+  font-family: var(--font-serif);
+  font-size: 1.5em;
   font-weight: 800;
   color: var(--color-black);
   margin-top: 2.5em;
@@ -136,11 +152,13 @@ a {
 
 .prose blockquote {
   border-left: 3px solid var(--color-orange);
-  padding-left: 1.25em;
+  padding: 1em 1.25em;
   margin: 2em 0;
   color: var(--color-gray-medium);
   font-style: italic;
   font-size: 1.05rem;
+  background: rgba(255, 89, 16, 0.03);
+  border-radius: 0 8px 8px 0;
 }
 
 .prose em {

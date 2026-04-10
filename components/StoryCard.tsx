@@ -36,7 +36,7 @@ export default function StoryCard({
       })
     : null;
   return (
-    <article className="bg-white rounded-lg shadow-sm overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+    <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 border border-[#e5e7eb]/60">
       {/* Gradient image area */}
       <Link href={`/stories/${slug}`}>
         <div
