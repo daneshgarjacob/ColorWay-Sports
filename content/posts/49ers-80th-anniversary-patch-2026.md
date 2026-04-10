@@ -9,6 +9,7 @@ coverImage: "/images/posts/49ers-80th-anniversary-patch-2026/HFd5sGsbAAAdU42.jpg
 coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["san-francisco-49ers"]
+featuredOrder: 2
 ---
 
 <img src="/images/posts/49ers-80th-anniversary-patch-2026/HFd5trBbQAADm6Z.jpg" alt="San Francisco 49ers 80th anniversary patch on jersey close-up 2026" style="width: 100%; border-radius: 10px;" />

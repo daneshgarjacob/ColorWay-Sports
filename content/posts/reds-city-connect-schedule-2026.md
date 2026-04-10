@@ -9,7 +9,7 @@ coverImage: "/images/posts/reds-city-connect-schedule-2026/reds-cc-schedule.jpg"
 coverImagePosition: "center 30%"
 league: "mlb"
 teams: ["cincinnati-reds"]
-homepageOrder: 4
+homepageOrder: 12
 ---
 
 <img src="/images/posts/reds-city-connect-schedule-2026/reds-cc-schedule.jpg" alt="Cincinnati Reds City Connect Series schedule showing 1.0 on Fridays and 2.0 on Saturdays" style="width: 100%; border-radius: 10px;" />
