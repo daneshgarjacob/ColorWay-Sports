@@ -5,7 +5,7 @@ date: "2026-04-08"
 excerpt: "Eight Nike NBA Christmas Day jerseys for 2026 have leaked, and they are bad. All black bases with neon graphics that look nothing like Christmas. We reviewed every leaked design and gave the collection a D+."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #000000 100%)"
 coverImage: "/images/posts/nba-christmas-jerseys-2026/all-8-christmas-grid.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 15%"
 league: "nba"
 teams: []
 ---
