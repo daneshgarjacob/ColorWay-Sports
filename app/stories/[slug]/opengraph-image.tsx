@@ -119,20 +119,19 @@ export default async function OgImage({
             gap: "12px",
           }}
         >
-          {/* Small CW logo */}
+          {/* Small CW logo — 4-color swatch fan */}
           <svg
             width="36"
             height="36"
             viewBox="0 0 512 512"
           >
-            <path
-              d="M330 120 A160 160 0 1 0 330 392"
-              fill="none"
-              stroke="#ffffff"
-              strokeWidth="76"
-              strokeLinecap="round"
-            />
-            <circle cx="256" cy="256" r="42" fill="#FF5910" />
+            <g transform="translate(256,380)">
+              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
+              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
+              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
+              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
+              <circle cx="0" cy="0" r="22" fill="#FF5910"/>
+            </g>
           </svg>
           <span
             style={{
