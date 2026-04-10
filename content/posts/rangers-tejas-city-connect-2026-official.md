@@ -5,7 +5,7 @@ date: "2026-04-09"
 excerpt: "The Rangers officially released their 2026 City Connect 'Tejas' jersey with an all-red look and papel picado-inspired details. Full review, official photos, and grade."
 gradient: "linear-gradient(135deg, #C0111F 0%, #003278 100%)"
 coverImage: "/images/posts/city-connect-2026-rangers/rangers-cc-front.jpg"
-coverImagePosition: "center 60%"
+coverImagePosition: "center 80%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["texas-rangers"]
