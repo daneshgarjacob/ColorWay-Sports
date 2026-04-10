@@ -1,11 +1,11 @@
 ---
-title: "New York Knicks 2026 Christmas Jersey: The Lightest of Nike's Dark Collection"
+title: "New York Knicks 2026 NBA Christmas Jersey Leaked: The Lightest of Nike's Dark Collection"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Knicks' 2026 Christmas jersey is the lightest design in Nike's all-dark holiday collection. The blue and orange stripes with the New York wordmark give it some life."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 coverImage: "/images/posts/nba-xmas-2026-knicks/knicks-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]

@@ -1,11 +1,11 @@
 ---
-title: "Boston Celtics 2026 Christmas Jersey: Neon Green on Black Actually Works"
+title: "Boston Celtics 2026 NBA Christmas Jersey Leaked: Neon Green on Black Actually Works"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Celtics' 2026 Christmas jersey uses neon green on a black base and it is one of the better designs in Nike's holiday collection. Full review and grade."
 gradient: "linear-gradient(135deg, #007A33 0%, #000000 100%)"
-coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-xmas-hero.jpg"
+coverImagePosition: "center 40%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["boston-celtics"]

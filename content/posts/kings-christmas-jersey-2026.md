@@ -1,11 +1,11 @@
 ---
-title: "Sacramento Kings 2026 Christmas Jersey: Light the Beam on a Black Base"
+title: "Sacramento Kings 2026 NBA Christmas Jersey Leaked: Light the Beam on a Black Base"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Kings' 2026 Christmas jersey features a purple Light the Beam-inspired gradient on a black base. Simple and not bad, but nothing special either."
 gradient: "linear-gradient(135deg, #5A2D81 0%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["sacramento-kings"]

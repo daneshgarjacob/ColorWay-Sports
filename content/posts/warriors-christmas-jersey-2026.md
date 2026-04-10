@@ -1,11 +1,11 @@
 ---
-title: "Golden State Warriors 2026 Christmas Jersey: Bay Bridge Design Falls Flat"
+title: "Golden State Warriors 2026 NBA Christmas Jersey Leaked: Bay Bridge Design Falls Flat"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Warriors' 2026 Christmas jersey features a Bay Bridge-inspired pattern on a black base with gold accents. The concept is interesting but the execution is a bit boring."
 gradient: "linear-gradient(135deg, #1D428A 0%, #FFC72C 100%)"
 coverImage: "/images/posts/nba-xmas-2026-warriors/warriors-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["golden-state-warriors"]

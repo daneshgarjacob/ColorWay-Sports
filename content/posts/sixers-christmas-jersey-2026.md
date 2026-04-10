@@ -1,11 +1,11 @@
 ---
-title: "Philadelphia 76ers 2026 Christmas Jersey: Glowing Stars on Black"
+title: "Philadelphia 76ers 2026 NBA Christmas Jersey Leaked: Glowing Stars on Black"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The 76ers' 2026 Christmas jersey wraps glowing neon-red stars around the sides of a black base. The concept is nice but we wish there was more color throughout."
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 100%)"
 coverImage: "/images/posts/nba-xmas-2026-sixers/sixers-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["philadelphia-76ers"]

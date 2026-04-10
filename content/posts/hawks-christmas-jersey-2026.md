@@ -1,11 +1,11 @@
 ---
-title: "Atlanta Hawks 2026 Christmas Jersey: Colorful Brushstrokes Stand Out"
+title: "Atlanta Hawks 2026 NBA Christmas Jersey Leaked: Colorful Brushstrokes Stand Out"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Hawks' 2026 Christmas jersey uses blue and green brushstroke patterns that make it one of the most colorful designs in Nike's holiday collection."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #26282A 100%)"
 coverImage: "/images/posts/nba-xmas-2026-hawks/hawks-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["atlanta-hawks"]

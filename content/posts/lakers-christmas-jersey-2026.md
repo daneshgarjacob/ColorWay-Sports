@@ -1,11 +1,11 @@
 ---
-title: "Los Angeles Lakers 2026 Christmas Jersey: Too Dark for the Purple and Gold"
+title: "Los Angeles Lakers 2026 NBA Christmas Jersey Leaked: Too Dark for the Purple and Gold"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Lakers' 2026 Christmas jersey features a dark purple satin texture on black. It needs way more color to live up to the Lakers' Christmas Day tradition."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 coverImage: "/images/posts/nba-xmas-2026-lakers/lakers-xmas-cover.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["los-angeles-lakers"]

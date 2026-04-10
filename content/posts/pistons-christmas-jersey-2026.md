@@ -1,11 +1,11 @@
 ---
-title: "Detroit Pistons 2026 Christmas Jersey: The Best of Nike's Holiday Collection"
+title: "Detroit Pistons 2026 NBA Christmas Jersey Leaked: The Best of Nike's Holiday Collection"
 category: "NBA"
 date: "2026-04-09"
 excerpt: "The Pistons' 2026 Christmas jersey features Motor City flames and turquoise accents on a black base. It is the best of all eight leaked Nike holiday designs."
 gradient: "linear-gradient(135deg, #C8102E 0%, #006BB6 50%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-pistons/pistons-xmas-hero.jpg"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 10%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["detroit-pistons"]

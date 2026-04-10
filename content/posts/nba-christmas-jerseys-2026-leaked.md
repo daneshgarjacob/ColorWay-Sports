@@ -1,5 +1,5 @@
 ---
-title: "Nike NBA Christmas Jerseys 2026 Leaked: Every Design Reviewed and Graded"
+title: "Nike NBA Christmas Jerseys 2026 Leaked: Rankings, Reviews, and Grades for Every Design"
 category: "NBA"
 date: "2026-04-08"
 excerpt: "Eight Nike NBA Christmas Day jerseys for 2026 have leaked, and they are bad. All black bases with neon graphics that look nothing like Christmas. We reviewed every leaked design and gave the collection a D+."
