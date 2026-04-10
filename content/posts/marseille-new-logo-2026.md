@@ -3,7 +3,7 @@ title: "Olympique de Marseille New Logo 2026: Design Breakdown and Grade"
 category: "Soccer"
 date: "2026-04-10"
 excerpt: "Olympique de Marseille unveiled a new minimalist logo after 22 years. We break down the design, compare it to the old crest, and explain why it looks more like a car brand than a football club."
-gradient: "linear-gradient(135deg, #2B83C7 0%, #0A1F3F 100%)"
+gradient: "linear-gradient(135deg, #1565C0 0%, #42A5F5 100%)"
 logoSrc: "/logos/soccer.png"
 coverImage: "/images/posts/marseille-new-logo-2026/marseille-cover-comparison.jpg"
 coverImagePosition: "center center"
@@ -17,7 +17,7 @@ teams: ["olympique-marseille"]
 Olympique de Marseille just changed their logo for the first time in over two decades, and the result is about as minimal as it gets. The new crest was unveiled on April 8, 2026, at a gala dinner in Marseille, ending the 22-year run of one of the most recognizable badges in European football.
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://x.com/OM_Officiel/status/2041940273614233801"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OM_Officiel/status/2041940273614233801"></a></blockquote>
 </div>
 
 ## The New Design
