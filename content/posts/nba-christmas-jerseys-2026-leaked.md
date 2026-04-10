@@ -82,4 +82,17 @@ We are giving the 2026 Nike NBA Christmas jersey collection a D+. We appreciate 
 <div style="font-size: 3em; font-weight: 800; color: #fff;">D+</div>
 </div>
 
-We will update this post if the official versions look different from the leaks. But based on what we have seen so far, the Adidas era is still the gold standard for NBA Christmas Day uniforms, and it is not even close.
+The Adidas era is still the gold standard for NBA Christmas Day uniforms, and it is not even close. But since these are happening whether we like it or not, we ranked all eight individually below.
+
+---
+
+## Individual Rankings
+
+1. **Detroit Pistons: A** -- The flames and turquoise piping make this the clear winner. [Full Review](/stories/pistons-christmas-jersey-2026)
+2. **Atlanta Hawks: A-** -- The most colorful of the bunch, and it works. [Full Review](/stories/hawks-christmas-jersey-2026)
+3. **Boston Celtics: B+** -- Neon green on black is actually pretty good for this concept. [Full Review](/stories/celtics-christmas-jersey-2026)
+4. **New York Knicks: B+** -- The lightest design of the collection, which helps it stand out. [Full Review](/stories/knicks-christmas-jersey-2026)
+5. **Philadelphia 76ers: B** -- The glowing stars are nice but we want more color. [Full Review](/stories/sixers-christmas-jersey-2026)
+6. **Golden State Warriors: B** -- Gold and black looks fine but the design is boring. [Full Review](/stories/warriors-christmas-jersey-2026)
+7. **Sacramento Kings: B-** -- Simple and not bad, but nothing special. [Full Review](/stories/kings-christmas-jersey-2026)
+8. **Los Angeles Lakers: C** -- Way too dark for the purple and gold. Needs more color. [Full Review](/stories/lakers-christmas-jersey-2026)
