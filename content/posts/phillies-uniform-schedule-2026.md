@@ -8,6 +8,7 @@ coverImage: "/images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-i
 coverImagePosition: "center 60%"
 league: "mlb"
 teams: ["philadelphia-phillies"]
+homepageOrder: 5
 ---
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg" alt="All five Philadelphia Phillies 2026 uniforms with Independence Blue Cross IBX jersey patch" style="width: 100%; border-radius: 10px;" />

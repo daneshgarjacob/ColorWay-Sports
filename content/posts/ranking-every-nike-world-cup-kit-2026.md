@@ -8,6 +8,8 @@ logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
 homepageOrder: 7
+coverImage: "/images/posts/wc-all-uniforms.jpeg"
+coverImagePosition: "center 30%"
 ---
 
 ![All 2026 Nike World Cup Kits](/images/posts/wc-all-uniforms.jpeg)

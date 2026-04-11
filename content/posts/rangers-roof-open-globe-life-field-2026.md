@@ -1,14 +1,14 @@
 ---
-title: "Globe Life Field Roof Open All Season: Rangers 2026 Plan"
+title: "Globe Life Field Roof Open for 2026: Rangers Plan to Leave It Open All Season"
 category: "MLB"
 date: "2026-04-01"
-excerpt: "The Rangers posted that they're keeping the roof at Globe Life Field open all season long. We wish it were real."
+excerpt: "The Rangers announced they are keeping the retractable roof at Globe Life Field open for the entire 2026 season. We break down what that means for the ballpark experience in Arlington."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg"
 coverImagePosition: "center 90%"
 league: "mlb"
 teams: ["texas-rangers"]
-featuredOrder: 3
+homepageOrder: 4
 ---
 
 The Rangers announced today that they're keeping the roof at Globe Life Field open for the entire 2026 season. No more closing it for the Texas heat. No more climate-controlled baseball. Just open air, all year long.

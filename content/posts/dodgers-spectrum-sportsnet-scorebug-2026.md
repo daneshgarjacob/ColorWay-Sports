@@ -8,7 +8,7 @@ coverImage: "/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg"
 coverImagePosition: "center 55%"
 league: "mlb"
 teams: ["los-angeles-dodgers"]
-homepageOrder: 4
+featuredOrder: 2
 ---
 
 <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="New Dodgers Spectrum SportsNet score bug showing Smith batting and Glasnow pitching" style="width: 100%; border-radius: 10px;" />

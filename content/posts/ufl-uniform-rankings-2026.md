@@ -9,7 +9,6 @@ coverImagePosition: "center 20%"
 logoSrc: "/logos/United_Football_League_2024_logo_black.png"
 league: "ufl"
 teams: ["dc-defenders", "dallas-renegades", "st-louis-battlehawks", "columbus-aviators", "orlando-storm", "houston-gamblers", "louisville-kings", "birmingham-stallions"]
-homepageOrder: 8
 ---
 
 The UFL season kicks off tonight, and all eight teams have new uniforms from New Era. We ranked every set from best to worst.
