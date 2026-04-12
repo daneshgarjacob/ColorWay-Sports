@@ -6,7 +6,7 @@ excerpt: "ESPN, Amazon Prime, and NBC Peacock each have their own NBA scorebug f
 gradient: "linear-gradient(135deg, #17408B 0%, #C9082A 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-national-scorebugs-2026/ESPN-SB.png"
+coverImage: "/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
