@@ -43,7 +43,7 @@ export default function StoryCard({
       <Link href={`/stories/${slug}`}>
         <div
           className="h-[200px] flex items-center justify-center relative overflow-hidden group"
-          style={{ background: coverImage ? undefined : gradient }}
+          style={{ background: (coverImageFit === "contain" || !coverImage) ? gradient : undefined }}
         >
           {coverImage ? (
             <img

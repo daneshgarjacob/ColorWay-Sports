@@ -26,7 +26,7 @@ export default function Home() {
                 <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
                   <div
                     className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
-                    style={{ background: featured.coverImage ? undefined : featured.gradient }}
+                    style={{ background: (featured.coverImageFit === "contain" || !featured.coverImage) ? featured.gradient : undefined }}
                   >
                     {featured.coverImage ? (
                       <img
@@ -74,7 +74,7 @@ export default function Home() {
                 <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-[210px]">
                   <div
                     className="absolute inset-0 flex items-center justify-center"
-                    style={{ background: post.coverImage ? undefined : post.gradient }}
+                    style={{ background: (post.coverImageFit === "contain" || !post.coverImage) ? post.gradient : undefined }}
                   >
                     {post.coverImage ? (
                       <img
