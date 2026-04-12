@@ -1,5 +1,5 @@
 ---
-title: "FanDuel Sports Network NBA Scorebug 2026: The Same Template for 13 Teams"
+title: "FanDuel Sports Network NBA Score Bug 2026: The Same Template for 13 Teams"
 category: "NBA"
 date: "2026-04-11"
 excerpt: "Thirteen NBA teams share the same FanDuel Sports Network scorebug in 2026. We break down why the design is too wide, too generic, and why almost half the league looking the same is a problem."

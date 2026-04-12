@@ -1,8 +1,8 @@
 ---
-title: "Denver Nuggets Altitude Scorebug 2026: Local Broadcast Design Review"
+title: "Denver Nuggets Score Bug 2026: Altitude TV Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Denver Nuggets Altitude TV scorebug for the 2026 NBA season. A straightforward design that plays it safe. Full design breakdown and grade."
+excerpt: "The Nuggets Altitude scorebug plays it safe with a straightforward design. We break down what works, what does not, and why Denver could do more with their broadcast graphics."
 gradient: "linear-gradient(135deg, #0E2240 0%, #FEC524 100%)"
 league: "nba"
 teams: ["denver-nuggets"]

@@ -1,8 +1,8 @@
 ---
-title: "ESPN NBA Scorebug 2026: National Broadcast Design Review and Grade"
+title: "ESPN NBA Score Bug 2026: National Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "ESPN's NBA scorebug for the 2026 season is simple, clean, and matches the on-court uniforms. We review the design and explain why it is the best national broadcast scorebug in basketball."
+excerpt: "ESPN's NBA scorebug is the cleanest national broadcast design in basketball. The uniform-matching team colors and minimal layout earn it the top grade among all national scorebugs."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 100%)"
 league: "nba"
 teams: []

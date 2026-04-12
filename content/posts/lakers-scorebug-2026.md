@@ -1,8 +1,8 @@
 ---
-title: "Los Angeles Lakers Spectrum SportsNet Scorebug 2026: Local Broadcast Design Review"
+title: "Los Angeles Lakers Score Bug 2026: Spectrum SportsNet Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Los Angeles Lakers Spectrum SportsNet scorebug for the 2026 NBA season and grade the local broadcast design."
+excerpt: "The Lakers scorebug on Spectrum SportsNet is clean and functional, but for one of the biggest franchises in sports, it could use more personality. Full review and grade."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 league: "nba"
 teams: ["los-angeles-lakers"]

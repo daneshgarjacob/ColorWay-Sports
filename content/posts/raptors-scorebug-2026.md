@@ -1,8 +1,8 @@
 ---
-title: "Toronto Raptors Sportsnet Scorebug 2026: Local Broadcast Design Review"
+title: "Toronto Raptors Score Bug 2026: Sportsnet Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Toronto Raptors Sportsnet scorebug for the 2026 NBA season and grade the Canadian broadcast design."
+excerpt: "Sportsnet Canada continues to produce some of the best broadcast graphics in sports. We review the Raptors scorebug and explain why Canadian networks consistently outperform American ones."
 gradient: "linear-gradient(135deg, #CE1141 0%, #000000 100%)"
 league: "nba"
 teams: ["toronto-raptors"]

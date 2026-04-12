@@ -1,8 +1,8 @@
 ---
-title: "Utah Jazz Scorebug 2026: Local Broadcast Design Review"
+title: "Utah Jazz Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Utah Jazz local broadcast scorebug for the 2026 NBA season. Average across the board with nothing memorable. Full design breakdown and grade."
+excerpt: "The Jazz scorebug checks every box without doing anything memorable. We review why Utah's broadcast graphics feel average compared to the rest of the league."
 gradient: "linear-gradient(135deg, #002B5C 0%, #00471B 100%)"
 league: "nba"
 teams: ["utah-jazz"]

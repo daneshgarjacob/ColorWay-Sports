@@ -1,8 +1,8 @@
 ---
-title: "Portland Trail Blazers Scorebug 2026: Local Broadcast Design Review"
+title: "Portland Trail Blazers Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Portland Trail Blazers local broadcast scorebug for the 2026 NBA season. It looks like a generic Fox template with a color swap. Full breakdown and grade."
+excerpt: "The Blazers scorebug looks like it could be a generic Fox Sports template with a color swap. We review the design and explain why Portland deserves something more original."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 100%)"
 league: "nba"
 teams: ["portland-trail-blazers"]

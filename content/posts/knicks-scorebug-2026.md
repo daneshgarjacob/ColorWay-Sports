@@ -1,8 +1,8 @@
 ---
-title: "New York Knicks MSG Scorebug 2026: Local Broadcast Design Review"
+title: "New York Knicks Score Bug 2026: MSG Network Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the New York Knicks MSG Network scorebug for the 2026 NBA season and grade the local broadcast design."
+excerpt: "The Knicks MSG scorebug is one of the cleanest in the NBA. We break down the design and give it our grade. Spoiler: MSG is still one of the best regional networks in sports."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 league: "nba"
 teams: ["new-york-knicks"]

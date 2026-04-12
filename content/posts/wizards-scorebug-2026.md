@@ -1,8 +1,8 @@
 ---
-title: "Washington Wizards Scorebug 2026: Local Broadcast Design Review"
+title: "Washington Wizards Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Washington Wizards local broadcast scorebug for the 2026 NBA season and grade the new design."
+excerpt: "The Wizards rebrand carried over to their local broadcast graphics and it works. We review the new scorebug design, the modern shape, and the clean layout."
 gradient: "linear-gradient(135deg, #002B5C 0%, #E31837 100%)"
 league: "nba"
 teams: ["washington-wizards"]

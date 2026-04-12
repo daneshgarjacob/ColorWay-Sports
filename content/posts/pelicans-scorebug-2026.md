@@ -1,8 +1,8 @@
 ---
-title: "New Orleans Pelicans Scorebug 2026: Local Broadcast Design Review"
+title: "New Orleans Pelicans Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the New Orleans Pelicans local broadcast scorebug for the 2026 NBA season. Boring and outdated for a team with one of the best color schemes in the NBA. Full breakdown and grade."
+excerpt: "The Pelicans have one of the best color schemes in the NBA, but their local scorebug does not do it justice. We review the dated design and explain why New Orleans deserves better."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C8102E 50%, #85714D 100%)"
 league: "nba"
 teams: ["new-orleans-pelicans"]

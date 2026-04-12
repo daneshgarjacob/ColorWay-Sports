@@ -1,8 +1,8 @@
 ---
-title: "Amazon Prime Video NBA Scorebug 2026: National Broadcast Design Review and Grade"
+title: "Amazon Prime Video NBA Score Bug 2026: National Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "Amazon Prime Video's NBA scorebug for 2026 is clean, simple, and immediately recognizable. We review the design and the blue shot clock detail that makes it stand out."
+excerpt: "Amazon Prime Video's NBA scorebug is clean and recognizable, but the blue shot clock is the real standout detail. We review the full design and grade it against ESPN and Peacock."
 gradient: "linear-gradient(135deg, #00A8E1 0%, #232F3E 100%)"
 league: "nba"
 teams: []

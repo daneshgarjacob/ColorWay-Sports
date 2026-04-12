@@ -1,8 +1,8 @@
 ---
-title: "Phoenix Suns Scorebug 2026: Local Broadcast Design Review"
+title: "Phoenix Suns Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Phoenix Suns local broadcast scorebug for the 2026 NBA season. The team has rebranded but the broadcast graphics have not kept up. Full breakdown and grade."
+excerpt: "Phoenix rebranded everything except their local broadcast graphics. The Suns scorebug feels outdated in 2026. We review the design and explain what needs to change."
 gradient: "linear-gradient(135deg, #1D1160 0%, #E56020 100%)"
 league: "nba"
 teams: ["phoenix-suns"]

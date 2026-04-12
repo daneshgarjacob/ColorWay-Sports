@@ -1,5 +1,5 @@
 ---
-title: "Every NBA Local Broadcast Scorebug for 2026 Ranked"
+title: "Every NBA Local Broadcast Score Bug for 2026 Ranked"
 category: "NBA"
 date: "2026-04-11"
 excerpt: "We grabbed every local TV scorebug in the NBA for the 2026 season. All 30 teams ranked and organized by network. Almost half the league shares the same FanDuel template."

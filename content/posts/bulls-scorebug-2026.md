@@ -1,8 +1,8 @@
 ---
-title: "Chicago Bulls NBC Sports Chicago Scorebug 2026: Local Broadcast Design Review"
+title: "Chicago Bulls Score Bug 2026: NBC Sports Chicago Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Chicago Bulls NBC Sports Chicago scorebug for the 2026 NBA season and grade the local broadcast design."
+excerpt: "NBC Sports Chicago built their own scorebug for the Bulls instead of using the standard NBC template. We review the design and explain why it is a step above the rest."
 gradient: "linear-gradient(135deg, #CE1141 0%, #000000 100%)"
 league: "nba"
 teams: ["chicago-bulls"]

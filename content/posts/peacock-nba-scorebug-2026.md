@@ -1,8 +1,8 @@
 ---
-title: "NBC Peacock NBA Scorebug 2026: National Broadcast Design Review and Grade"
+title: "NBC Peacock NBA Score Bug 2026: National Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "NBC Peacock debuted their NBA scorebug for the 2026 season. We review the design, the redundant abbreviations, and why it does not feel grand enough for national TV."
+excerpt: "NBC Peacock's NBA scorebug has redundant abbreviations and does not feel grand enough for national TV. We review the full design and explain why it ranks last among the three national broadcasts."
 gradient: "linear-gradient(135deg, #000000 0%, #4B9CD3 100%)"
 league: "nba"
 teams: []

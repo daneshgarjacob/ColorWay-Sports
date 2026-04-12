@@ -1,5 +1,5 @@
 ---
-title: "NBC Sports NBA Scorebug 2026: Clean Template Shared by Four Teams"
+title: "NBC Sports NBA Score Bug 2026: Clean Template Shared by Four Teams"
 category: "NBA"
 date: "2026-04-11"
 excerpt: "The Celtics, Warriors, 76ers, and Kings all share the same NBC Sports scorebug template for the 2026 NBA season. We break down the design and grade it."

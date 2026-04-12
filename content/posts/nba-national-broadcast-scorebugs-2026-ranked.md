@@ -1,5 +1,5 @@
 ---
-title: "Every NBA National Broadcast Scorebug for 2026 Ranked"
+title: "Every NBA National Broadcast Score Bug for 2026 Ranked"
 category: "NBA"
 date: "2026-04-11"
 excerpt: "ESPN, Amazon Prime, and NBC Peacock each have their own NBA scorebug for the 2026 season. We ranked all three national broadcast scorebugs from best to worst."

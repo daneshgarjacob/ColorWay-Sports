@@ -1,8 +1,8 @@
 ---
-title: "Houston Rockets Scorebug 2026: Local Broadcast Design Review"
+title: "Houston Rockets Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Houston Rockets local broadcast scorebug for the 2026 NBA season. Modern and clean but missing personality. Full design breakdown and grade."
+excerpt: "The Rockets scorebug fits their new rebrand direction. Modern and clean, but it does not do much to stand out. We review the design and give it our grade."
 gradient: "linear-gradient(135deg, #CE1141 0%, #000000 100%)"
 league: "nba"
 teams: ["houston-rockets"]

@@ -1,8 +1,8 @@
 ---
-title: "Dallas Mavericks Scorebug 2026: Local Broadcast Design Review"
+title: "Dallas Mavericks Score Bug 2026: Local Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Dallas Mavericks local broadcast scorebug for the 2026 NBA season and grade the design."
+excerpt: "The Mavericks scorebug has some of the best logo integration in the NBA. We break down the design and explain why Dallas has one of the top scorebugs in the league."
 gradient: "linear-gradient(135deg, #00538C 0%, #002B5E 100%)"
 league: "nba"
 teams: ["dallas-mavericks"]

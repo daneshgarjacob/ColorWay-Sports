@@ -1,8 +1,8 @@
 ---
-title: "Brooklyn Nets YES Network Scorebug 2026: Local Broadcast Design Review"
+title: "Brooklyn Nets Score Bug 2026: YES Network Broadcast Review and Grade"
 category: "NBA"
 date: "2026-04-11"
-excerpt: "We review the Brooklyn Nets YES Network scorebug for the 2026 NBA season and grade the local broadcast design."
+excerpt: "The Nets YES Network scorebug is sharp, modern, and one of the best in the NBA this season. We break down the design and give it our grade."
 gradient: "linear-gradient(135deg, #000000 0%, #FFFFFF 100%)"
 league: "nba"
 teams: ["brooklyn-nets"]
