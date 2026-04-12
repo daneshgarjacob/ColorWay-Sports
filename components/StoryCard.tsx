@@ -11,6 +11,7 @@ interface StoryCardProps {
   logoSrc2?: string;
   coverImage?: string;
   coverImagePosition?: string;
+  coverImageFit?: string;
   showDate?: boolean;
 }
 
@@ -26,6 +27,7 @@ export default function StoryCard({
   logoSrc2,
   coverImage,
   coverImagePosition,
+  coverImageFit,
   showDate,
 }: StoryCardProps) {
   const formattedDate = date
@@ -47,7 +49,7 @@ export default function StoryCard({
             <img
               src={coverImage}
               alt=""
-              className="w-full h-full object-cover transition-all duration-300 group-hover:scale-105"
+              className={`w-full h-full transition-all duration-300 group-hover:scale-105 ${coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
               style={coverImagePosition ? { objectPosition: coverImagePosition } : undefined}
             />
           ) : logoSrc && logoSrc2 ? (

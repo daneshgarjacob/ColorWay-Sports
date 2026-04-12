@@ -21,6 +21,7 @@ export interface PostMeta {
   overlayText?: string;
   coverImage?: string;
   coverImagePosition?: string;
+  coverImageFit?: string;
   league?: string;
   teams?: string[];
   featuredOrder?: number;
@@ -54,6 +55,7 @@ export function getAllPosts(): PostMeta[] {
       overlayText: data.overlayText,
       coverImage: data.coverImage,
       coverImagePosition: data.coverImagePosition,
+      coverImageFit: data.coverImageFit,
       league: data.league,
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
@@ -105,6 +107,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     logoSrc2: data.logoSrc2,
     coverImage: data.coverImage,
     coverImagePosition: data.coverImagePosition,
+    coverImageFit: data.coverImageFit,
     contentHtml,
   };
 }

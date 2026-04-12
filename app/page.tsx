@@ -32,7 +32,7 @@ export default function Home() {
                       <img
                         src={featured.coverImage}
                         alt=""
-                        className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                        className={`absolute inset-0 w-full h-full transition-all duration-500 group-hover:scale-105 ${featured.coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
                         style={featured.coverImagePosition ? { objectPosition: featured.coverImagePosition } : undefined}
                       />
                     ) : featured.logoSrc && featured.logoSrc2 ? (
@@ -80,7 +80,7 @@ export default function Home() {
                       <img
                         src={post.coverImage}
                         alt=""
-                        className="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
+                        className={`absolute inset-0 w-full h-full transition-all duration-500 group-hover:scale-105 ${post.coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
                         style={post.coverImagePosition ? { objectPosition: post.coverImagePosition } : undefined}
                       />
                     ) : post.logoSrc && post.logoSrc2 ? (
