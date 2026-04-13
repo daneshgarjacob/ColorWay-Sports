@@ -19,7 +19,6 @@ Adidas went big for the 2026 FIFA World Cup. Alongside the [retro trefoil away k
 
 We ranked all 23 Adidas home kits from worst to first. Italy was excluded since they did not qualify for the 2026 World Cup, and Curacao's home kit has not been officially released yet.
 
-**Want to grab one?** Shop the full Adidas 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+home+jersey&tag=colorwaysport-20).
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 1.5em 0;">
 <img src="/images/posts/adidas-world-cup-home-kits/group-3.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Germany, Japan, Spain, Argentina, Mexico, and Colombia" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px; margin: 0;" />
