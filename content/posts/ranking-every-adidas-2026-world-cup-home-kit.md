@@ -22,10 +22,10 @@ We ranked all 23 Adidas home kits from worst to first. Italy was excluded since 
 **Want to grab one?** Shop the full Adidas 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+home+jersey&tag=colorwaysport-20).
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 1.5em 0;">
-<img src="/images/posts/adidas-world-cup-home-kits/group-3.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Germany, Japan, Spain, Argentina, Mexico, and Colombia" style="width: 100%; border-radius: 8px; margin: 0;" />
-<img src="/images/posts/adidas-world-cup-home-kits/group-1.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Peru, Belgium, Sweden, Venezuela, Scotland, Japan, and Mexico" style="width: 100%; border-radius: 8px; margin: 0;" />
-<img src="/images/posts/adidas-world-cup-home-kits/group-2.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Algeria, Chile, Ukraine, Northern Ireland, Hungary, and Venezuela" style="width: 100%; border-radius: 8px; margin: 0;" />
-<img src="/images/posts/adidas-world-cup-home-kits/group-4.jpg" alt="Adidas 2026 World Cup home kits clothesline wide angle shot" style="width: 100%; border-radius: 8px; margin: 0;" />
+<img src="/images/posts/adidas-world-cup-home-kits/group-3.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Germany, Japan, Spain, Argentina, Mexico, and Colombia" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px; margin: 0;" />
+<img src="/images/posts/adidas-world-cup-home-kits/group-1.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Peru, Belgium, Sweden, Venezuela, Scotland, Japan, and Mexico" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px; margin: 0;" />
+<img src="/images/posts/adidas-world-cup-home-kits/group-2.jpg" alt="Adidas 2026 World Cup home kits on a clothesline including Algeria, Chile, Ukraine, Northern Ireland, Hungary, and Venezuela" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px; margin: 0;" />
+<img src="/images/posts/adidas-world-cup-home-kits/group-4.jpg" alt="Adidas 2026 World Cup home kits clothesline wide angle shot" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px; margin: 0;" />
 </div>
 
 <p style="text-align: center; font-size: 11px; color: #aaa; margin-top: 4px; margin-bottom: 2em; letter-spacing: 0.5px;">Photos: Adidas</p>
