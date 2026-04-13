@@ -83,7 +83,7 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: "/wp-:path*.php",
+        source: "/wp-:slug.php",
         destination: "/",
         permanent: true,
       },
