@@ -105,6 +105,12 @@ a {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
+.prose div[style*="grid"] img {
+  max-width: 100%;
+  margin: 0;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
 .prose img + em {
   display: block;
   text-align: center;
