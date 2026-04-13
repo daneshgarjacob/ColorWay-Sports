@@ -66,6 +66,27 @@ const nextConfig: NextConfig = {
         destination: "/",
         permanent: true,
       },
+      // Old WordPress feed and category URLs
+      {
+        source: "/category/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/comments/feed",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/feed",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/wp-:path*.php",
+        destination: "/",
+        permanent: true,
+      },
     ];
   },
 };
