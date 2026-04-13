@@ -327,4 +327,3 @@ Our number one home kit for the 2026 World Cup. The white base with the metallic
 
 ---
 
-**Shop 2026 World Cup jerseys:** [Amazon](https://www.amazon.com/s?k=2026+world+cup+home+jersey&tag=colorwaysport-20)

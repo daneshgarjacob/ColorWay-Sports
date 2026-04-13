@@ -579,4 +579,3 @@ Nike wins this one for us. They own the top of the rankings, and their kits just
 
 ---
 
-**Shop 2026 World Cup jerseys:** [Amazon](https://www.amazon.com/s?k=2026+world+cup+jersey&tag=colorwaysport-20)

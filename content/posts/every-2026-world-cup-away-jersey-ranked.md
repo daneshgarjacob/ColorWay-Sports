@@ -321,4 +321,3 @@ The best away kit in the 2026 World Cup, and it's not close. That green jersey i
 
 ---
 
-**Shop 2026 World Cup jerseys:** [Amazon](https://www.amazon.com/s?k=2026+world+cup+away+jersey&tag=colorwaysport-20)

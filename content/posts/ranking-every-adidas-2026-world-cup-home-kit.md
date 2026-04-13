@@ -215,4 +215,3 @@ Classic Argentina. The light blue and white vertical stripes are one of the most
 
 ---
 
-**Shop all Adidas 2026 World Cup kits:** [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+home+jersey&tag=colorwaysport-20)
