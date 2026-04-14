@@ -21,10 +21,9 @@ This is the first of several posts we are doing on the 2026 NBA Playoffs. We wil
 
 ## What Channel Is the NBA Play-In Tournament On?
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
-<img src="/images/posts/nba-playoffs-2026/Play-in-logo.avif" alt="2026 NBA SoFi Play-In Tournament logo Amazon Prime Video" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 10px;" />
-<img src="/images/posts/nba-playoffs-2026/NBA-Prime-Studio.png" alt="NBA on Prime Video studio set with virtual court and skyline" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 10px;" />
-</div>
+<img src="/images/posts/nba-playoffs-2026/Play-in-logo.avif" alt="2026 NBA SoFi Play-In Tournament logo Amazon Prime Video" style="width: 100%; border-radius: 10px; margin-bottom: 12px;" />
+
+<img src="/images/posts/nba-playoffs-2026/NBA-Prime-Studio.png" alt="NBA on Prime Video studio set with virtual court and skyline" style="width: 100%; border-radius: 10px;" />
 
 Before the first round even tips off, Amazon Prime Video has the entire SoFi Play-In Tournament from April 14 through April 17. All six games. One network. We like this. It keeps things simple and coherent. You know where to go, you know what to tune into, and you don't have to bounce between apps trying to find your game. Prime owns the play-in, and that is a nice touch.
 
