@@ -8,7 +8,7 @@ logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
 coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 15%"
 ---
 
 <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />
@@ -22,9 +22,11 @@ We graded every broadcast crew, from the game announcers to the studio shows, ac
 ## 1. ESPN/ABC: A-
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
-<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="Inside the NBA on ESPN with Shaq Ernie Johnson Kenny Smith Charles Barkley" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
+<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="Inside the NBA on ESPN with Shaq Ernie Johnson Kenny Smith Charles Barkley" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: center top; border-radius: 10px;" />
 <img src="/images/posts/nba-playoffs-2026/NBA-ESPN-Announcers.avif" alt="ESPN NBA Playoffs announcers Tim Legler Richard Jefferson broadcast crew" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
 </div>
+
+<div style="text-align: center; font-size: 11px; color: #aaa; margin-top: -8px; margin-bottom: 1.5em;">Images courtesy of ESPN</div>
 
 ESPN has the best overall broadcast package in the 2026 NBA Playoffs, and it starts with Mike Breen. He is the best play-by-play voice in basketball, and it is not particularly close. When Breen is on the call, the game just feels bigger. His ability to match the moment is something no other announcer in the sport can do at the same level.
 
@@ -60,6 +62,8 @@ ESPN also has the best scorebug presentation and the cleanest overall production
 <img src="/images/posts/nba-playoffs-2026/NBC-Tirico.avif" alt="Mike Tirico NBC NBA Playoffs 2026 play-by-play" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
 </div>
 
+<div style="text-align: center; font-size: 11px; color: #aaa; margin-top: -8px; margin-bottom: 1.5em;">Images courtesy of NBC Sports</div>
+
 NBC is back in the NBA postseason for the first time since the early 2000s, and they put together a solid broadcast roster. Mike Tirico is their lead play-by-play voice, and he is one of the most versatile broadcasters in sports. He has called everything from the Olympics to Sunday Night Football, and he brings a level of professionalism that feels right for the NBA Playoffs. Grant Hill is his analyst, and Hill is smooth and knowledgeable without being overbearing.
 
 The B-team of Noah Eagle and Reggie Miller is strong. Noah Eagle is one of the best young play-by-play voices in the business, and Reggie Miller knows the NBA Playoffs as well as anyone who has ever played in them. That is a crew we would be happy to listen to for any series.
@@ -87,12 +91,14 @@ We are interested to see what NBC's playoff scorebug looks like. During the regu
 
 ---
 
-## 3. Amazon Prime Video: B
+## 3. Amazon Prime Video: B+
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
 <img src="/images/posts/nba-playoffs-2026/Prime-Full-Team.jpg" alt="NBA on Prime Video full broadcast team Taylor Rooks Blake Griffin Dirk Nowitzki 2026" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
 <img src="/images/posts/nba-playoffs-2026/Prime-Harlan.jpg" alt="Kevin Harlan Amazon Prime Video NBA Playoffs 2026 play-by-play announcer" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
 </div>
+
+<div style="text-align: center; font-size: 11px; color: #aaa; margin-top: -8px; margin-bottom: 1.5em;">Images courtesy of Amazon Prime Video</div>
 
 Prime Video is the newest player in the NBA broadcast space, and they are doing things a little differently. Kevin Harlan leads the play-by-play rotation, and he is a name everyone knows. Stan Van Gundy is his analyst, and Van Gundy is one of the sharpest basketball minds on television. He tells you exactly what he thinks and he is usually right. That is a solid A-team on paper.
 
@@ -109,11 +115,11 @@ Prime has the entire Play-In Tournament, which is a smart move that keeps the vi
 </div>
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #232526 100%); border-radius: 10px; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; border-left: 4px solid #00a8e1;">
 <span style="color: #fff; font-weight: 700;">Studio</span>
-<span style="background: #00a8e1; color: #fff; font-size: 13px; font-weight: 800; padding: 5px 14px; border-radius: 6px;">B-</span>
+<span style="background: #00a8e1; color: #fff; font-size: 13px; font-weight: 800; padding: 5px 14px; border-radius: 6px;">A-</span>
 </div>
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #232526 100%); border-radius: 10px; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; border-left: 4px solid #00a8e1;">
 <span style="color: #fff; font-weight: 700;">Overall</span>
-<span style="background: #00a8e1; color: #fff; font-size: 13px; font-weight: 800; padding: 5px 14px; border-radius: 6px;">B</span>
+<span style="background: #00a8e1; color: #fff; font-size: 13px; font-weight: 800; padding: 5px 14px; border-radius: 6px;">B+</span>
 </div>
 </div>
 
@@ -151,9 +157,9 @@ Prime has the entire Play-In Tournament, which is a smart move that keeps the vi
 <div style="background: #cd7f32; color: #000; font-size: 16px; font-weight: 900; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">3</div>
 <span style="color: #fff; font-size: 18px; font-weight: 700;">Amazon Prime Video</span>
 </div>
-<span style="background: #00a8e1; color: #fff; font-size: 14px; font-weight: 800; padding: 6px 16px; border-radius: 6px;">B</span>
+<span style="background: #00a8e1; color: #fff; font-size: 14px; font-weight: 800; padding: 6px 16px; border-radius: 6px;">B+</span>
 </div>
-<div style="color: #aaa; font-size: 13px; line-height: 1.6;">Game Crew: B- &nbsp;&bull;&nbsp; Studio: B- &nbsp;&bull;&nbsp; Kevin Harlan, Stan Van Gundy, Ian Eagle, Brent Barry &nbsp;&bull;&nbsp; Taylor Rooks, Blake Griffin, Dirk, Haslem</div>
+<div style="color: #aaa; font-size: 13px; line-height: 1.6;">Game Crew: B- &nbsp;&bull;&nbsp; Studio: A- &nbsp;&bull;&nbsp; Kevin Harlan, Stan Van Gundy, Ian Eagle, Brent Barry &nbsp;&bull;&nbsp; Taylor Rooks, Blake Griffin, Dirk, Haslem</div>
 </div>
 
 </div>
