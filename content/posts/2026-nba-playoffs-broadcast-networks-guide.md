@@ -11,7 +11,7 @@ coverImage: "/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png"
 coverImagePosition: "center 30%"
 ---
 
-<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="2026 NBA Playoffs ESPN broadcast crew courtside" style="width: 100%; max-width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="Inside the NBA on ESPN crew Shaq Ernie Kenny Chuck 2026 NBA Playoffs" style="width: 75%; max-width: 75%; border-radius: 10px; display: block; margin: 0 auto 2em auto;" />
 
 The 2026 NBA Playoffs are here, and for the first time in decades, the broadcast landscape looks completely different. TNT is gone as a broadcast partner, but the crew we all grew up watching is not. Shaq, Ernie, Kenny, and Chuck have moved over to ESPN, and they will likely be part of the playoff pregame, halftime, and postgame shows on that side. The league has split its playoff coverage across three networks under new 11-year media deals: ESPN/ABC, NBC/Peacock, and Amazon Prime Video.
 
