@@ -1,8 +1,8 @@
 ---
-title: "Where to Watch the 2026 NBA Playoffs: Full TV Schedule, Networks, and Game Times"
+title: "2026 NBA Playoffs TV Schedule: Full Bracket, Channels, Game Times, and How to Watch"
 category: "NBA"
 date: "2026-04-13"
-excerpt: "The 2026 NBA Playoffs are the first under new media deals with ESPN/ABC, NBC, and Amazon Prime Video. No more TNT. Here is the full first-round schedule with every game time, network, and broadcast breakdown for the 2026 NBA postseason."
+excerpt: "The complete 2026 NBA Playoffs TV schedule with every game time, channel, and network. ESPN, ABC, NBC, Peacock, and Amazon Prime Video all have games. Here is where to watch every first-round matchup and what channel each game is on."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -19,7 +19,7 @@ We liked a lot of what TNT brought to the table over the years, especially the p
 
 This is the first of several posts we are doing on the 2026 NBA Playoffs. We will also be breaking down the announcers, the playoff court designs, the scorebugs, and the jersey matchups for every series. For now, here is the broadcast schedule and where to watch every game.
 
-## The Play-In Tournament: All Amazon Prime Video
+## What Channel Is the NBA Play-In Tournament On?
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
 <img src="/images/posts/nba-playoffs-2026/Play-in-logo.avif" alt="2026 NBA SoFi Play-In Tournament logo Amazon Prime Video" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 10px;" />
@@ -34,7 +34,7 @@ Before the first round even tips off, Amazon Prime Video has the entire SoFi Pla
 
 The winners will fill the 7 and 8 seeds in each conference and complete the first-round bracket.
 
-## First Round Opening Weekend
+## 2026 NBA Playoffs First Round Schedule: Opening Weekend
 
 <img src="/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.avif" alt="2026 NBA Playoffs logo" style="width: 100%; max-width: 100%; border-radius: 10px;" />
 
@@ -128,7 +128,7 @@ We are a little surprised the Celtics drew the earliest slot at 1:00 PM Eastern.
 
 NBC gets its first two NBA Playoff games on Sunday night with the Pistons and Spurs. This is historic for NBC. The network is back in the NBA postseason for the first time since the early 2000s, and they get a Sunday primetime doubleheader to open it up. The Spurs game at 9:00 PM Eastern with either the Suns or Blazers could be a fun one depending on who comes out of the play-in.
 
-## The Full Network Breakdown
+## Which Networks Have the 2026 NBA Playoffs?
 
 Here is how the rest of the first and second rounds will be split across the three networks:
 
@@ -151,6 +151,29 @@ Out of the first eight playoff games, three are on Prime Video, three are on ESP
 The bigger story is what is not happening. For the first time ever, there are no local TV broadcasts in the first round. Every single game is on national television or streaming only. Mike Breen has spoken out about this, saying fans who cannot afford streaming subscriptions are getting shut out. That is a real concern, and it is worth paying attention to as the playoffs go on.
 
 But from a pure broadcast quality standpoint, we are excited to see what NBC brings to the NBA Playoffs and how Amazon handles its first postseason. The TNT era is over. A new one starts this week.
+
+## Frequently Asked Questions
+
+**What channel is the NBA Playoffs on in 2026?**
+The 2026 NBA Playoffs are split across ESPN/ABC, NBC/Peacock, and Amazon Prime Video. There is no single channel for every game. ABC has the NBA Finals. NBC has the Western Conference Finals. ESPN, NBC, and Prime Video split the first and second rounds.
+
+**What channel is the Rockets vs Lakers playoff game on?**
+Game 1 of Rockets vs Lakers is on ABC on Saturday, April 18 at 8:30 PM Eastern. This is the primetime game of opening weekend.
+
+**What channel is the NBA Play-In Tournament on?**
+Every game of the 2026 NBA Play-In Tournament is on Amazon Prime Video. The play-in runs from April 14 through April 17.
+
+**Is TNT still broadcasting NBA Playoff games?**
+No. TNT no longer has NBA broadcast rights as of the 2025-26 season. The league signed new 11-year deals with ESPN/ABC, NBC, and Amazon Prime Video. The Inside the NBA crew of Shaq, Ernie Johnson, Kenny Smith, and Charles Barkley has moved to ESPN.
+
+**How can I watch the NBA Playoffs without cable?**
+You can stream NBA Playoff games on Amazon Prime Video (included with Prime membership), Peacock (NBC games), and ESPN+ or the ESPN app (with a TV provider login). Some games will air on ABC, which is available free with an antenna.
+
+**What channel is the NBA Finals on in 2026?**
+Every game of the 2026 NBA Finals will air on ABC.
+
+**What channel is the Western Conference Finals on?**
+NBC has the 2026 Western Conference Finals. ESPN/ABC has the Eastern Conference Finals.
 
 ## More Coming
 
