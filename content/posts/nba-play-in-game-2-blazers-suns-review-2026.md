@@ -45,7 +45,7 @@ This was a great jersey matchup. Phoenix wore their black Statement Edition at h
 We've said it before and we'll say it again. Color on color matchups are almost always better than the standard home whites vs. dark road jerseys. When you get two strong colors going against each other, the game just looks more intense on TV. This was one of the better uniform matchups of the Play-In so far.
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 180, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 180, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Uniform Matchup Grade: A</p>
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Uniform Matchup Grade: B-</p>
 </div>
 
 ## Court Branding
