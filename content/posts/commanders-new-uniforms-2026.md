@@ -6,7 +6,7 @@ excerpt: "The Commanders officially revealed their 2026 uniforms and we gave the
 gradient: "linear-gradient(135deg, #5A1414 0%, #FFB612 50%, #000000 100%)"
 logoSrc: "/logos/nfl.png"
 coverImage: "/images/posts/commanders-reveal-2026/commanders-reveal-all-three.jpg"
-coverImagePosition: "center 45%"
+coverImagePosition: "center 60%"
 league: "nfl"
 teams: ["washington-commanders"]
 featuredOrder: 1
