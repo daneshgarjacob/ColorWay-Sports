@@ -53,13 +53,44 @@ The Rams are also revealing new uniforms and a new logo tomorrow at a block part
 
 ## The Grading Scale So Far
 
-| Team | Grade | Date |
-|------|-------|------|
-| Washington Commanders | **A** | April 15 |
-| Atlanta Falcons | **B** | April 2 |
-| Tennessee Titans | TBD | March 12 |
-| Baltimore Ravens | TBD | April 16 |
-| Los Angeles Rams | TBD | April 16 |
+<div style="border-radius: 12px; overflow: hidden; border: 1px solid #333; margin: 1.5em 0;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 1em;">
+    <thead>
+      <tr style="background: #111;">
+        <th style="padding: 12px 16px; text-align: left; color: #999; font-weight: 600;">Team</th>
+        <th style="padding: 12px 16px; text-align: center; color: #999; font-weight: 600;">Grade</th>
+        <th style="padding: 12px 16px; text-align: right; color: #999; font-weight: 600;">Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #1a1a1a; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Washington Commanders</td>
+        <td style="padding: 12px 16px; text-align: center; color: #FFB612; font-weight: 900; font-size: 1.2em;">A</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">April 15</td>
+      </tr>
+      <tr style="background: #111; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Atlanta Falcons</td>
+        <td style="padding: 12px 16px; text-align: center; color: #fff; font-weight: 900; font-size: 1.2em;">B</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">April 2</td>
+      </tr>
+      <tr style="background: #1a1a1a; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Tennessee Titans</td>
+        <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">March 12</td>
+      </tr>
+      <tr style="background: #111; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Baltimore Ravens</td>
+        <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">April 16</td>
+      </tr>
+      <tr style="background: #1a1a1a; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Los Angeles Rams</td>
+        <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">April 16</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 We'll update this post with full grades for the Ravens and Rams the day they drop. Two reveals in one day is going to be a lot to take in, but we'll have the breakdowns ready.
 
