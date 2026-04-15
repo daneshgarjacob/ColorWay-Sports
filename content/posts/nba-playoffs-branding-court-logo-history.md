@@ -1,8 +1,8 @@
 ---
-title: "How the NBA Killed Its Playoff Court Branding: A Visual History From 2010 to 2026"
+title: "Why Doesn't the NBA Put the Finals Logo on the Court Anymore? A Full Visual History"
 category: "NBA"
 date: "2026-04-14"
-excerpt: "The NBA used to put The Finals logo on center court. Now it's a tiny sideline ad for YouTube TV. We tracked every change to the NBA's playoff and Finals court branding from 2010 to today."
+excerpt: "The NBA removed the Finals and Playoffs logo from center court in 2015 and replaced it with a YouTube TV ad on the sideline. Here's every change to the NBA's playoff court branding from 2010 to 2026, and why the NBA Cup proves they could bring it back."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #1D428A 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.avif"
 coverImageFit: "cover"
