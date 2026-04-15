@@ -24,7 +24,7 @@ The Commanders went back to the Super Bowl era and absolutely nailed it. Three j
   <p style="font-size: 5em; font-weight: 900; color: #FFB612; margin: 0; line-height: 1;">A</p>
 </div>
 
-## 2. Atlanta Falcons - April 2 (Revealed) - Grade: B
+## 3. Atlanta Falcons - April 2 (Revealed) - Grade: B
 
 <img src="/images/posts/falcons-new-uniforms-2026/falcons-four-players.jpg" alt="Atlanta Falcons 2026 new uniforms with four players" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Falcons</p>
@@ -35,9 +35,16 @@ The Falcons went back to basics after the 2020 set missed badly. Clean numbers, 
   <p style="font-size: 5em; font-weight: 900; color: #fff; margin: 0; line-height: 1;">B</p>
 </div>
 
-## 3. Tennessee Titans - March 12 (Revealed)
+## 2. Tennessee Titans - March 12 (Revealed) - Grade: B+
 
-The Titans kicked off the 2026 NFL uniform cycle with a full rebrand on March 12. New uniforms, new logo, new identity. The jerseys are clean and modern, and the timing lines up perfectly with their new stadium and the Cam Ward era. The logo was a mixed bag. We broke the whole thing down in our [full Titans rebrand post](/stories/tennessee-titans-rebrand-2026).
+<img src="/images/posts/titans-home.webp" alt="Tennessee Titans 2026 new home uniforms in light blue" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Titans.com</p>
+
+The Titans kicked off the 2026 NFL uniform cycle with a full rebrand on March 12. New uniforms, new logo, new identity. The jerseys earned an A- from us. The lighter blue was the right call, and the home jersey is a standout. The white away with blue pants is the best combination in the set. But the logo holds it back. It plays it safe when a full rebrand is the time to make a statement. The jerseys are carrying this rebrand. [Read our full Titans breakdown and grade here](/stories/tennessee-titans-rebrand-2026).
+
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #0C2340 0%, #4B92DB 100%); border-radius: 12px; text-align: center; border: 2px solid #4B92DB;">
+  <p style="font-size: 5em; font-weight: 900; color: #fff; margin: 0; line-height: 1;">B+</p>
+</div>
 
 ## 4. Baltimore Ravens - April 16 (Tomorrow)
 
@@ -69,14 +76,14 @@ The Rams are also revealing new uniforms and a new logo tomorrow at a block part
         <td style="padding: 12px 16px; text-align: right; color: #999;">April 15</td>
       </tr>
       <tr style="background: #111; border-top: 1px solid #333;">
+        <td style="padding: 12px 16px; color: #fff;">Tennessee Titans</td>
+        <td style="padding: 12px 16px; text-align: center; color: #4B92DB; font-weight: 900; font-size: 1.2em;">B+</td>
+        <td style="padding: 12px 16px; text-align: right; color: #999;">March 12</td>
+      </tr>
+      <tr style="background: #1a1a1a; border-top: 1px solid #333;">
         <td style="padding: 12px 16px; color: #fff;">Atlanta Falcons</td>
         <td style="padding: 12px 16px; text-align: center; color: #fff; font-weight: 900; font-size: 1.2em;">B</td>
         <td style="padding: 12px 16px; text-align: right; color: #999;">April 2</td>
-      </tr>
-      <tr style="background: #1a1a1a; border-top: 1px solid #333;">
-        <td style="padding: 12px 16px; color: #fff;">Tennessee Titans</td>
-        <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
-        <td style="padding: 12px 16px; text-align: right; color: #999;">March 12</td>
       </tr>
       <tr style="background: #111; border-top: 1px solid #333;">
         <td style="padding: 12px 16px; color: #fff;">Baltimore Ravens</td>
@@ -102,7 +109,7 @@ Five NFL teams are getting new uniforms in 2026: the Tennessee Titans, Atlanta F
 
 **What is the best new NFL uniform in 2026?**
 
-The Washington Commanders earned our highest grade with an A for their 2026 uniform redesign. The burgundy and gold Super Bowl era throwback with the Hail Raiser black alternate was the best uniform reveal of the offseason so far. The Atlanta Falcons earned a B for their simplified redesign.
+The Washington Commanders earned our highest grade with an A for their 2026 uniform redesign. The burgundy and gold Super Bowl era throwback with the Hail Raiser black alternate was the best uniform reveal of the offseason so far. The Tennessee Titans earned a B+ for their full rebrand, with strong jerseys but a safe logo. The Atlanta Falcons earned a B for their simplified redesign.
 
 **When are the Ravens and Rams revealing new uniforms?**
 
