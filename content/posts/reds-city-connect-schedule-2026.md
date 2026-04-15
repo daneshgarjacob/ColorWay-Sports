@@ -1,8 +1,8 @@
 ---
-title: "Reds City Connect 2.0 Jersey 2026: Full Schedule, New Design, and Game Dates"
+title: "Cincinnati Reds City Connect 2.0 Jersey 2026: Every Game Date and Full Schedule"
 category: "MLB"
 date: "2026-04-03"
-excerpt: "The Reds have a new City Connect 2.0 jersey for Saturday home games in 2026 while keeping the original for Fridays. Here is the full schedule with every game date and what the new design looks like."
+excerpt: "The Reds are wearing their new City Connect 2.0 jersey on Saturdays and the original on Fridays in 2026. Full game-by-game schedule with every date and a breakdown of the new design."
 gradient: "linear-gradient(135deg, #000000 0%, #C6011F 100%)"
 logoSrc: "/logos/mlb-city-connect.png"
 coverImage: "/images/posts/reds-city-connect-schedule-2026/reds-cc-schedule.jpg"
