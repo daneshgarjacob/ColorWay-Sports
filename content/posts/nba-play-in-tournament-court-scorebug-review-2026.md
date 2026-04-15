@@ -1,8 +1,8 @@
 ---
-title: "2026 NBA Play-In Tournament Court, Scorebug, and Uniforms Review: Heat vs. Hornets on Amazon Prime Video"
+title: "First Look at the 2026 NBA Playoffs on Amazon Prime Video: Scorebug, Court Design, and What the Hornets Got Wrong"
 category: "NBA"
 date: "2026-04-14"
-excerpt: "The 2026 NBA Play-In Tournament is here. We reviewed the Amazon Prime Video scorebug, the court branding, the playoff t-shirts, and the Heat vs. Hornets uniform matchup from the first game."
+excerpt: "Amazon Prime Video just aired the first game of the 2026 NBA postseason. We graded the new scorebug, the Play-In court branding, the Heat-Hornets jersey matchup, and the one mistake Charlotte made with their playoff t-shirts."
 gradient: "linear-gradient(135deg, #1D428A 0%, #00788C 50%, #98002E 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.png"
 coverImagePosition: "center 60%"
@@ -37,7 +37,7 @@ We would have liked to see the team colors be a little more distinct in the scor
 
 Good news. The NBA is continuing to display the Play-In Tournament branding on the sideline, just like they do with the Playoffs logo. You can see it in the wide shot along the courtside. The basket stanchion pad also has the Play-In Tournament logo on it, which is a nice touch.
 
-This is consistent with what we talked about in our court branding history post. The sideline branding is there, and the basket stanchion pad carries the round designation. It's not on center court, but at least you can tell this is a postseason game.
+We still wish the NBA would put the Playoffs logo on the actual court like they used to before 2015, but at least the sideline branding is there and the basket stanchion pad carries the round designation. It's not on center court, but at least you can tell this is a postseason game. If the NBA can redesign entire courts for the NBA Cup, they can put a logo on the hardwood for the playoffs.
 
 ## Uniform Matchup: Heat at Hornets
 
