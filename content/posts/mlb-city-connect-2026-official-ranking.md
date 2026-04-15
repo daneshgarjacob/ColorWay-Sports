@@ -9,7 +9,7 @@ coverImagePosition: "center 30%"
 logoSrc: "/logos/mlb-city-connect.png"
 league: "mlb"
 teams: ["atlanta-braves", "san-diego-padres", "milwaukee-brewers", "pittsburgh-pirates", "cincinnati-reds", "texas-rangers", "baltimore-orioles", "kansas-city-royals"]
-featuredOrder: 1
+featuredOrder: 2
 ---
 
 <img src="/images/posts/city-connect-2026-ranking/all-8-city-connect-2026.jpg" alt="All 8 official 2026 MLB City Connect jerseys dugout group photo" style="width: 100%; border-radius: 10px;" />
