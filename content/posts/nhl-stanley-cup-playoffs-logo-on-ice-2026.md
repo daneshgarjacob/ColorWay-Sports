@@ -6,7 +6,7 @@ excerpt: "The Stanley Cup Playoffs start April 18 and for the sixth straight yea
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 logoSrc: "/logos/nfl.png"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/2026_Stanley_Cup_playoffs_logo.png"
-coverImagePosition: "center 20%"
+coverImagePosition: "center 5%"
 league: "nhl"
 teams: []
 ---
