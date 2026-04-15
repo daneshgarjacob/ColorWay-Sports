@@ -64,11 +64,6 @@ When the Rams have worn white jerseys, they've actually looked pretty clean. Whi
 
 The black alternate has been a fan favorite even though it technically doesn't connect to the franchise's color history at all. It looks good on the field, but it's always felt more like a fashion statement than a football uniform. Two new alternates are reportedly on the way later this offseason, so we'll see if black sticks around.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/RamsNFL/status/2036850604098601467"></a>
-  </blockquote>
-</div>
 
 ## What We Want to See
 
