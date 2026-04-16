@@ -41,7 +41,7 @@ The Knicks are doing it right. Home whites at Madison Square Garden for Game 1 o
 
 The Hawks are going with their Statement Edition black jersey as their away look. It's technically an alternate road jersey, which is why we can't give full credit on the other side of this matchup. We'll see how the blacks look on the floor against the Knicks whites, but on paper we would have preferred Atlanta in their standard Icon Edition red or their City alternate. Half point for the Hawks.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 180, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 180, 100, 0.2);">
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 1.5 / 2</p>
 </div>
 
