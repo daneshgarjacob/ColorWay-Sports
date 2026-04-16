@@ -1,8 +1,8 @@
 ---
 title: "Every 2026 NFL Uniform Reveal: Dates, Grades, and Rankings for All 5 Teams"
 category: "NFL"
-date: "2026-04-15"
-excerpt: "Five NFL teams are getting new uniforms in 2026. The Titans, Falcons, and Commanders have already revealed. The Ravens and Rams drop April 16. Here's every grade, date, and breakdown."
+date: "2026-04-16"
+excerpt: "Five NFL teams are getting new uniforms in 2026. The Titans, Falcons, Commanders, and Rams have all revealed. The Ravens drop tonight. Here's every grade, date, and breakdown ranked."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
 logoSrc: "/logos/nfl.png"
 overlayText: "Uniform Update"
@@ -46,17 +46,24 @@ The Titans kicked off the 2026 NFL uniform cycle with a full rebrand on March 12
   <p style="font-size: 5em; font-weight: 900; color: #fff; margin: 0; line-height: 1;">B+</p>
 </div>
 
-## 4. Baltimore Ravens - April 16 (Tomorrow)
+## 4. Los Angeles Rams - April 16 (Revealed) - Grade: B-
+
+<img src="/images/posts/rams-new-uniforms-2026-review/Cover-Photo-Rams-Uni.jpg" alt="Los Angeles Rams new 2026 uniforms reveal featuring Matthew Stafford in updated blue and yellow home jersey" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+The Rams killed the gradient, added horn stripes to the shoulders and sleeves, and introduced a new italicized "RAMS" wordmark for the helmet bumper. Necessary changes, not exciting ones. The white away uniform is the strongest piece of the reveal at a B+. The blue home uniform still isn't clicking for us even with the cleanup, and it lands at a C+. The new LA logo going monochrome gold is fine but nothing more, earning a B. The helmet itself was left untouched, which is the biggest missed opportunity of the rebrand. Two more uniforms are coming in summer 2026. [Read our full Rams breakdown and grade here](/stories/rams-new-uniforms-2026-review).
+
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 50%, #003594 100%); border-radius: 12px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 5em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
+</div>
+
+## 5. Baltimore Ravens - April 16 (Tonight)
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2041516388838207526"></a></blockquote>
 </div>
 
-The Ravens are unveiling their new uniform collection tomorrow under the campaign name "The Next Flight." Baltimore has worn essentially the same uniform template since the franchise started in 1996, making this the most significant uniform change in Ravens history. Reports indicate the changes will be minimal rather than a full rebrand, with a simplified number font, a "Baltimore" wordmark on the road jerseys, and iridescent accents inspired by raven feathers. The reveal event will be held at Merriweather Post Pavilion with legends like Terrell Suggs, Todd Heap, and Ray Rice in attendance. [Read our full Ravens preview here](/stories/ravens-new-uniforms-2026).
-
-## 5. Los Angeles Rams - April 16 (Tomorrow)
-
-The Rams are also revealing new uniforms and a new logo tomorrow at a block party ahead of the NFL Draft. The biggest confirmed change is the death of the gradient. The white-to-yellow gradient on the LA logo, uniform numbers, and branding is gone. The leaked draft hat showed a flat gold LA mark with a new angular "RAMS" wordmark. Two alternate uniforms are expected later this offseason. [Read our full Rams preview here](/stories/rams-new-uniforms-2026-preview).
+The Ravens are unveiling their new uniform collection tonight under the campaign name "The Next Flight." Baltimore has worn essentially the same uniform template since the franchise started in 1996, making this the most significant uniform change in Ravens history. Reports indicate the changes will be minimal rather than a full rebrand, with a simplified number font, a "Baltimore" wordmark on the road jerseys, and iridescent accents inspired by raven feathers. The reveal event will be held at Merriweather Post Pavilion with legends like Terrell Suggs, Todd Heap, and Ray Rice in attendance. We will grade this post the moment the Ravens reveal drops. [Read our full Ravens preview here](/stories/ravens-new-uniforms-2026).
 
 ## The Grading Scale So Far
 
@@ -86,12 +93,12 @@ The Rams are also revealing new uniforms and a new logo tomorrow at a block part
         <td style="padding: 12px 16px; text-align: right; color: #999;">April 2</td>
       </tr>
       <tr style="background: #111; border-top: 1px solid #333;">
-        <td style="padding: 12px 16px; color: #fff;">Baltimore Ravens</td>
-        <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
+        <td style="padding: 12px 16px; color: #fff;">Los Angeles Rams</td>
+        <td style="padding: 12px 16px; text-align: center; color: #FFD100; font-weight: 900; font-size: 1.2em;">B-</td>
         <td style="padding: 12px 16px; text-align: right; color: #999;">April 16</td>
       </tr>
       <tr style="background: #1a1a1a; border-top: 1px solid #333;">
-        <td style="padding: 12px 16px; color: #fff;">Los Angeles Rams</td>
+        <td style="padding: 12px 16px; color: #fff;">Baltimore Ravens</td>
         <td style="padding: 12px 16px; text-align: center; color: #666; font-weight: 600;">TBD</td>
         <td style="padding: 12px 16px; text-align: right; color: #999;">April 16</td>
       </tr>
@@ -99,7 +106,7 @@ The Rams are also revealing new uniforms and a new logo tomorrow at a block part
   </table>
 </div>
 
-We'll update this post with full grades for the Ravens and Rams the day they drop. Two reveals in one day is going to be a lot to take in, but we'll have the breakdowns ready.
+The Rams are in. The Ravens are still to come tonight. We'll update this post with the Ravens grade the moment their reveal drops.
 
 ## Frequently Asked Questions
 
@@ -109,7 +116,7 @@ Five NFL teams are getting new uniforms in 2026: the Tennessee Titans, Atlanta F
 
 **What is the best new NFL uniform in 2026?**
 
-The Washington Commanders earned our highest grade with an A for their 2026 uniform redesign. The burgundy and gold Super Bowl era throwback with the Hail Raiser black alternate was the best uniform reveal of the offseason so far. The Tennessee Titans earned a B+ for their full rebrand, with strong jerseys but a safe logo. The Atlanta Falcons earned a B for their simplified redesign.
+The Washington Commanders earned our highest grade with an A for their 2026 uniform redesign. The burgundy and gold Super Bowl era throwback with the Hail Raiser black alternate was the best uniform reveal of the offseason so far. The Tennessee Titans earned a B+ for their full rebrand, with strong jerseys but a safe logo. The Atlanta Falcons earned a B for their simplified redesign. The Los Angeles Rams earned a B- for killing the gradient and adding horn stripes, with a strong white away (B+) dragged down by a blue home uniform that still isn't clicking (C+).
 
 **When are the Ravens and Rams revealing new uniforms?**
 
