@@ -1,8 +1,8 @@
 ---
-title: "2026 NBA Play-In Tournament Jersey Matchups: Grading Every Uniform Choice From Locker Vision"
+title: "2026 NBA Playoffs Jersey Tracker: Only 1 of 4 Home Teams Wore White in the Play-In"
 category: "NBA"
 date: "2026-04-14"
-excerpt: "NBA Locker Vision released the jersey matchups for every 2026 Play-In Tournament game. We graded each one based on whether teams made the right uniform choice for the playoffs."
+excerpt: "We're tracking every home team jersey choice in the 2026 NBA Playoffs. Only 1 out of 4 Play-In home teams wore white. Updated throughout the postseason."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/heat-hornets-play-in.png"
 coverImagePosition: "center 15%"
@@ -10,6 +10,14 @@ logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
 ---
+
+<div style="margin: 0 0 2.5em; padding: 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
+  <p style="font-size: 1em; color: #999; margin: 0 0 0.5em; text-transform: uppercase; letter-spacing: 2px;">Home Team Wore White</p>
+  <p style="font-size: 5em; font-weight: 900; color: #e63c3c; margin: 0; line-height: 1;">1 / 4</p>
+  <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">25% through the Play-In Tournament</p>
+</div>
+
+We're tracking every home team jersey choice throughout the 2026 NBA Playoffs. The rule is simple: wear your home whites at home. That's what playoff basketball is supposed to look like. So far, only one out of four Play-In home teams got it right. Here's the full breakdown.
 
 NBA Locker Vision just dropped the jersey matchups for the 2026 Play-In Tournament, and we have thoughts on every single one.
 
@@ -114,7 +122,44 @@ The Magic are going with their Association Edition whites. We would have liked i
   </div>
 </div>
 
-Four out of eight points for the Play-In Tournament. Not great. The Hornets and Heat set the bar, and then the Clippers single-handedly dragged the average down. We'll continue updating this throughout the first round and the rest of the 2026 NBA Playoffs as Locker Vision releases more jersey matchups.
+Four out of eight points for the Play-In Tournament. Not great. The Hornets and Heat set the bar, and then the Clippers single-handedly dragged the average down.
+
+## Home Team White Jersey Tracker
+
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Home Team</span>
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Jersey</span>
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Verdict</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Charlotte Hornets</span>
+    <span style="color: #999;">Association (White)</span>
+    <span style="font-weight: 900; color: #00c864;">CORRECT</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Phoenix Suns</span>
+    <span style="color: #999;">Statement (Black)</span>
+    <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Philadelphia 76ers</span>
+    <span style="color: #999;">Classic (Black)</span>
+    <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 600; color: #fff;">LA Clippers</span>
+    <span style="color: #999;">Icon (Blue)</span>
+    <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
+    <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Running Total</span>
+    <span></span>
+    <span style="font-weight: 900; color: #e63c3c; font-size: 1.5em;">1 / 4 (25%)</span>
+  </div>
+</div>
+
+We'll continue updating this tracker throughout the first round and the rest of the 2026 NBA Playoffs as Locker Vision releases more jersey matchups. The goal is to see how many home teams actually wear white by the end of the postseason.
 
 ## Frequently Asked Questions
 
