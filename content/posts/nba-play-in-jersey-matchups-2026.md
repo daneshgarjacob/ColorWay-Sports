@@ -1,23 +1,24 @@
 ---
-title: "2026 NBA Playoffs Jersey Tracker: Only 1 of 4 Home Teams Wore White in the Play-In"
+title: "2026 NBA Playoffs Jersey Tracker: Only 1 of 6 Home Teams Will Wear White in the Play-In"
 category: "NBA"
-date: "2026-04-14"
-excerpt: "We're tracking every home team jersey choice in the 2026 NBA Playoffs. Only 1 out of 4 Play-In home teams wore white. Updated throughout the postseason."
+date: "2026-04-16"
+excerpt: "We're tracking every home team jersey choice in the 2026 NBA Playoffs. Only 1 out of 6 Play-In home teams will wear white once Friday's games tip off. Updated throughout the postseason."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/heat-hornets-play-in.png"
 coverImagePosition: "center 15%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
+featuredOrder: 3
 ---
 
 <div style="margin: 0 0 2.5em; padding: 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-  <p style="font-size: 1em; color: #999; margin: 0 0 0.5em; text-transform: uppercase; letter-spacing: 2px;">Home Team Wore White</p>
-  <p style="font-size: 5em; font-weight: 900; color: #e63c3c; margin: 0; line-height: 1;">1 / 4</p>
-  <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">25% through the Play-In Tournament</p>
+  <p style="font-size: 1em; color: #999; margin: 0 0 0.5em; text-transform: uppercase; letter-spacing: 2px;">Home Teams Wearing White</p>
+  <p style="font-size: 5em; font-weight: 900; color: #e63c3c; margin: 0; line-height: 1;">1 / 6</p>
+  <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">17% through the Play-In Tournament</p>
 </div>
 
-We're tracking every home team jersey choice throughout the 2026 NBA Playoffs. The rule is simple: wear your home whites at home. That's what playoff basketball is supposed to look like. So far, only one out of four Play-In home teams got it right. Here's the full breakdown.
+We're tracking every home team jersey choice throughout the 2026 NBA Playoffs. The rule is simple: wear your home whites at home. That's what playoff basketball is supposed to look like. So far, only one out of six Play-In home teams got it right once Friday's two 8-seed games are factored in. Here's the full breakdown.
 
 NBA Locker Vision just dropped the jersey matchups for the 2026 Play-In Tournament, and we have thoughts on every single one.
 
@@ -93,6 +94,36 @@ The Magic are going with their Association Edition whites. We would have liked i
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 1 / 2</p>
 </div>
 
+## Game 5: Charlotte Hornets at Orlando Magic (Friday)
+
+<div style="text-align: center;">
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.png" alt="Charlotte Hornets Association Edition white jersey vs Orlando Magic Icon Edition blue jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
+  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
+</div>
+
+The Magic are wearing their Icon Edition blue at home, which means they're skipping the home whites. It seems like teams just aren't abiding by the white-at-home standard anymore. That costs Orlando a point on principle.
+
+The flip side is that Charlotte is locked into their Association Edition whites on the road because they can't clash with Orlando's blue. We actually kind of like the visual. The blue-on-white color story should pop on broadcast, and Charlotte's white looks clean against the Magic's Icon set. It's not the traditional playoff look, but the aesthetics should hold up once the game tips off.
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 1 / 2</p>
+</div>
+
+## Game 6: Golden State Warriors at Phoenix Suns (Friday)
+
+<div style="text-align: center;">
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/warriors-suns-play-in.png" alt="Golden State Warriors Association Edition white jersey vs Phoenix Suns Statement Edition black jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
+  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
+</div>
+
+Zero points. The Suns are back in black at home, same as they were against Portland on Tuesday, and the Warriors are in white on the road again. We get it for Phoenix at this point because the black Statement at home is basically their playoff identity, but we still don't like it.
+
+The real issue is Golden State. The Warriors could have worn their Icon Edition blue on the road and it would have looked great against the Suns' black. Instead they're going white for the second straight game. Forcing your best color combo onto the bench two nights in a row in elimination basketball is a missed aesthetic opportunity.
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 50, 50, 0.1); border-radius: 12px; border: 1px solid rgba(200, 50, 50, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 0 / 2</p>
+</div>
+
 ## Play-In Tournament Scorecard
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
@@ -112,17 +143,25 @@ The Magic are going with their Association Edition whites. We would have liked i
     <span style="font-weight: 600; color: #fff;">Warriors at Clippers</span>
     <span style="font-weight: 900; color: #e63c3c; font-size: 1.2em;">0 / 2</span>
   </div>
-  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
     <span style="font-weight: 600; color: #fff;">Magic at 76ers</span>
     <span style="font-weight: 900; color: #e6b800; font-size: 1.2em;">1 / 2</span>
   </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Hornets at Magic</span>
+    <span style="font-weight: 900; color: #e6b800; font-size: 1.2em;">1 / 2</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 600; color: #fff;">Warriors at Suns</span>
+    <span style="font-weight: 900; color: #e63c3c; font-size: 1.2em;">0 / 2</span>
+  </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
     <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Total</span>
-    <span style="font-weight: 900; color: #fff; font-size: 1.5em;">4 / 8</span>
+    <span style="font-weight: 900; color: #fff; font-size: 1.5em;">5 / 12</span>
   </div>
 </div>
 
-Four out of eight points for the Play-In Tournament. Not great. The Hornets and Heat set the bar, and then the Clippers single-handedly dragged the average down.
+Five out of twelve points for the full Play-In Tournament once Friday's 8-seed games tip off. Below average. The Hornets and Heat set the bar, and the Clippers, Suns, and Warriors are dragging the rest of the field down.
 
 ## Home Team White Jersey Tracker
 
@@ -147,19 +186,31 @@ Four out of eight points for the Play-In Tournament. Not great. The Hornets and 
     <span style="color: #999;">Classic (Black)</span>
     <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
   </div>
-  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
     <span style="font-weight: 600; color: #fff;">LA Clippers</span>
     <span style="color: #999;">Icon (Blue)</span>
+    <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Orlando Magic</span>
+    <span style="color: #999;">Icon (Blue)</span>
+    <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 600; color: #fff;">Phoenix Suns (Friday)</span>
+    <span style="color: #999;">Statement (Black)</span>
     <span style="font-weight: 900; color: #e63c3c;">WRONG</span>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
     <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Running Total</span>
     <span></span>
-    <span style="font-weight: 900; color: #e63c3c; font-size: 1.5em;">1 / 4 (25%)</span>
+    <span style="font-weight: 900; color: #e63c3c; font-size: 1.5em;">1 / 6 (17%)</span>
   </div>
 </div>
 
 We'll continue updating this tracker throughout the first round and the rest of the 2026 NBA Playoffs as Locker Vision releases more jersey matchups. The goal is to see how many home teams actually wear white by the end of the postseason.
+
+For our full aesthetic review of how Night 2's Play-In uniforms actually looked on the floor, see our [Magic vs Sixers and Warriors vs Clippers jersey review](/stories/nba-play-in-2026-night-2-jersey-review).
 
 ## Frequently Asked Questions
 
@@ -167,7 +218,10 @@ We'll continue updating this tracker throughout the first round and the rest of 
 NBA Locker Vision is the league's official tool that reveals which jerseys each team will wear for upcoming games. It shows the exact uniform edition (Association, Icon, Statement, City, Classic) for both teams ahead of tipoff. Fans can also shop each jersey directly through Locker Vision.
 
 **What jerseys are the NBA teams wearing in the 2026 playoffs?**
-The jersey matchups for the 2026 NBA Play-In Tournament have been released via Locker Vision. The Hornets are wearing home whites against the Heat's black Icon jerseys, the Suns are in black Statement jerseys against Portland's red, the Clippers are wearing blue Icon jerseys at home against the Warriors in white, and the Sixers are in their Classic Edition black throwback against the Magic's white jerseys.
+The jersey matchups for the 2026 NBA Play-In Tournament have been released via Locker Vision. The Hornets wore home whites against the Heat's black Icon jerseys, the Suns wore black Statement jerseys against Portland's red, the Clippers wore blue Icon jerseys at home against the Warriors in white, and the Sixers wore their Classic Edition cream throwback against the Magic's white jerseys. For Friday's 8-seed games, the Magic are wearing blue Icon jerseys at home against the Hornets in white, and the Suns are back in black Statement jerseys at home against the Warriors in white.
+
+**Which home team wore white in the 2026 NBA Play-In?**
+Only the Charlotte Hornets wore their home white Association Edition jerseys during their Play-In game. The Phoenix Suns (black Statement), Los Angeles Clippers (blue Icon), Philadelphia 76ers (Classic black throwback), and Orlando Magic (blue Icon on Friday) all chose non-white jerseys at home. That makes it 1 out of 6 home teams wearing white through the full Play-In Tournament.
 
 **Why do NBA teams wear black jerseys at home in the playoffs?**
 Some teams like the Phoenix Suns and Philadelphia 76ers choose to wear their Statement or Classic Edition dark jerseys at home during the playoffs as a way to create a distinct postseason atmosphere. While the traditional standard is white at home, the NBA's uniform system allows home teams to choose any of their available jersey editions first.
