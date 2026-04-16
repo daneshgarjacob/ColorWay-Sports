@@ -5,7 +5,7 @@ date: "2026-04-16"
 excerpt: "The Sixers broke out the cream throwbacks and the Clippers went dark blue at Intuit Dome for Night 2 of the 2026 NBA Play-In. We grade the visual aesthetic of both jersey matchups."
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 50%, #1D428A 100%)"
 logoSrc: "/logos/nba.png"
-coverImage: "/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-court.png"
+coverImage: "/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-court.png"
 coverImagePosition: "center bottom"
 league: "nba"
 teams: ["philadelphia-76ers", "orlando-magic", "golden-state-warriors", "la-clippers"]
