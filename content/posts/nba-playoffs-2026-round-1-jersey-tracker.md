@@ -14,7 +14,7 @@ featuredOrder: 1
 
 <div style="margin: 0 0 2.5em; padding: 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <p style="font-size: 1em; color: #999; margin: 0 0 0.5em; text-transform: uppercase; letter-spacing: 2px;">Round 1 Saturday Score</p>
-  <p style="font-size: 5em; font-weight: 900; color: #00c864; margin: 0; line-height: 1;">6.5 / 8</p>
+  <p style="font-size: 5em; font-weight: 900; color: #e6b800; margin: 0; line-height: 1;">6 / 8</p>
   <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">Opening Weekend Jersey Aesthetic Grade</p>
 </div>
 
@@ -69,10 +69,10 @@ The Raptors are in their Icon Edition red on the road. We would have preferred t
 
 This is the best-looking Saturday matchup on paper. The Nuggets are going with their Association Edition whites at home. That's the right call. Ball Arena in Denver gold, the team in clean whites, and you've got the classic playoff look we want to see every time.
 
-The Timberwolves are going with their Statement Edition on the road. This is the same alternate away look they wore a lot during last year's postseason, including some big moments against the Lakers. It's become a weekend playoff signature for Minnesota at this point, and for an opening-weekend Saturday afternoon game it's an acceptable call. Both teams get credit here. Full score.
+The Timberwolves are going with their Statement Edition on the road. This is the same alternate away look they wore a lot during last year's postseason, including some big moments against the Lakers. It's become a weekend playoff signature for Minnesota at this point, but we're going to dock a half point here. When a road team has the chance to wear their primary away jersey in the playoffs and chooses an alternate instead, that costs them. The Nuggets get their full point. Minnesota gets half.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 180, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 180, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 2 / 2</p>
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 1.5 / 2</p>
 </div>
 
 ## Saturday Game 4: Houston Rockets at Los Angeles Lakers
@@ -107,7 +107,7 @@ The Rockets are in their Statement Edition black road alternate. We would have p
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
     <span style="font-weight: 600; color: #fff;">Timberwolves at Nuggets</span>
-    <span style="font-weight: 900; color: #00c864; font-size: 1.2em;">2 / 2</span>
+    <span style="font-weight: 900; color: #e6b800; font-size: 1.2em;">1.5 / 2</span>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
     <span style="font-weight: 600; color: #fff;">Rockets at Lakers</span>
@@ -115,11 +115,11 @@ The Rockets are in their Statement Edition black road alternate. We would have p
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
     <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Saturday Total</span>
-    <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">6.5 / 8</span>
+    <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">6 / 8</span>
   </div>
 </div>
 
-Saturday's slate gets a 6.5 out of 8. That's significantly better than the Play-In Tournament, which finished at 5 out of 12. The Nuggets are the only home team wearing their traditional whites on Saturday, but every matchup has at least one team making the right call, and the Wolves at Nuggets game looks like it could be the cleanest visual of the opening weekend.
+Saturday's slate gets a 6 out of 8. That's significantly better than the Play-In Tournament, which finished at 5 out of 12. The Nuggets and Knicks are the only home teams wearing their traditional whites on Saturday, and three of the four road teams are bypassing their primary away jerseys for alternates. Every matchup has at least one team making the right call, but nobody is running a perfect 2/2 on opening Saturday.
 
 ## Sunday Round 1 Matchups (Updating Soon)
 
@@ -192,7 +192,7 @@ Yes. The New York Knicks are wearing their Association Edition white home jersey
 
 **What is the best-looking Round 1 Saturday matchup?**
 
-We graded Timberwolves at Nuggets as the best visual of Saturday's slate with a full 2 out of 2 score. The Nuggets in their Association Edition whites at Ball Arena against the Timberwolves in their Statement Edition on the road should produce the cleanest playoff look of opening weekend.
+No Saturday matchup earned a perfect 2 out of 2. Three of the four games tied at 1.5 out of 2: Hawks at Knicks, Raptors at Cavaliers, Timberwolves at Nuggets, and Rockets at Lakers. The Nuggets and Knicks are the only home teams in traditional white, and most road teams chose alternate jerseys over their primary aways.
 
 **How does the NBA decide which jerseys teams wear in the playoffs?**
 
