@@ -53,10 +53,13 @@ This is the strongest element of the entire rebrand. The new italicized "RAMS" w
 
 The blue home uniform got the updates it needed. The gradient is gone, horn stripes now run down the shoulder pads and sleeves, and the pants have redesigned stripes as well. The Rams will pair this jersey exclusively with yellow pants at home.
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCbZBXbwAAvwer.jpg" alt="Los Angeles Rams player in new 2026 blue home uniform pointing up" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCTW7kbAAAr9zu.jpg" alt="Los Angeles Rams new 2026 blue home uniform with yellow pants and new Rams helmet bumper wordmark" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 And yet, something about the blue home uniform still does not do it for us. We have the same problem with the Chargers when they wear their full blue and yellow look. The color combination on a Nike jersey just reads off. It feels too matte, not enough gloss, and the blue-over-yellow proportions come across heavy. That may be a Nike manufacturing issue more than a Rams design issue, but the end result is the same.
+
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCbZBXbwAAvwer.jpg" alt="Los Angeles Rams player in new 2026 blue home uniform pointing up" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 <img src="/images/posts/rams-new-uniforms-2026-review/HGCTW8BagAA1bUq.jpg" alt="Close-up of new Los Angeles Rams 2026 yellow pants with redesigned horn stripe" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
@@ -67,12 +70,15 @@ We will give the updated blue home uniform a C+. It is better than it used to be
 
 ## The Away White Uniform: Grade B+
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCTW7sbgAAilwY.jpg" alt="Two Los Angeles Rams players in new 2026 white throwback away uniforms" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCbZBUasAA0T_v.jpg" alt="Los Angeles Rams new 2026 white throwback away uniform full body view with horn stripe on shoulder" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 The white throwback-style away uniform has always been our favorite Rams look, and the tweaks here make it even cleaner. The horn stripe is now on the shoulder, the pant stripes have been redesigned, and it looks like the Rams will pair this jersey with either white or blue pants depending on the week.
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCTW7kbAAAr9zu.jpg" alt="Los Angeles Rams player in new 2026 white away uniform side view" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCbZBqaEAEs8JR.jpg" alt="Los Angeles Rams player number 18 posing in new 2026 white away uniform pointing up" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCTW7sbgAAilwY.jpg" alt="Three Los Angeles Rams uniform combinations for 2026 featuring white away white away with blue pants and blue home with yellow pants" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 We will give this one a B+. It does not crack the A tier, but it is the strongest piece of the reveal by a mile. The horn on the shoulder does change the feel of the sleeve, and the Todd Gurley-era throwbacks from the mid-2010s did this same concept slightly better. But this is still one of the cleaner road uniforms in the NFC.
@@ -103,7 +109,11 @@ The away jersey is the best piece of this rebrand, but the away jersey was alrea
 
 We were expecting a minimal update. We were hoping for something bigger. Something closer to a royal blue and white identity with the St. Louis-era navy and gold energy. Instead, the Rams stayed in their current palette and just cleaned up the edges. Necessary? Yes. Exciting? Not really.
 
-Final grade: **B-**.
+<div style="margin: 2.5em 0; padding: 2em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 50%, #003594 100%); border-radius: 16px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 1.1em; color: #FFD100; margin: 0 0 0.75em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Rams 2026 Overall Grade</p>
+  <p style="font-size: 5em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
+  <p style="font-size: 0.95em; color: #ffffff; margin: 1em 0 0; letter-spacing: 1px;">White Away: B+ &nbsp;·&nbsp; Blue Home: C+ &nbsp;·&nbsp; Logo: B</p>
+</div>
 
 ## How the Rams 2026 Uniforms Compare to Other NFL Redesigns
 
