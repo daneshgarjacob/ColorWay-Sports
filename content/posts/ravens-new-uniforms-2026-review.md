@@ -38,17 +38,20 @@ The Ravens now have three helmet options for 2026.
 
 ## Primary Home Purple: Grade B+
 
-<img src="/images/posts/ravens-uniforms-2026-reveal/HGELABNWcAAb-QY.jpg" alt="Baltimore Ravens 2026 primary home purple and primary road white uniforms featuring Raven Wings collar pattern and Baltimore wordmark" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniforms-2026-reveal/purple-primary.png" alt="Baltimore Ravens 2026 primary home purple uniform player portrait with black helmet and new Raven Wings collar pattern" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The purple primary is a small tweak rather than a full redesign, and we are glad the Ravens did not blow this one up. Purple jersey, black helmet, white pants. Same silhouette, same foundation.
+
+<img src="/images/posts/ravens-uniforms-2026-reveal/HGELABNWcAAb-QY.jpg" alt="Baltimore Ravens 2026 primary home purple and primary road white uniforms side by side featuring Raven Wings collar pattern and Baltimore wordmark" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 What changed: the numbers are noticeably cleaner and more refined, the shoulders have new sleeve shields with an iridescent midnight-purple keyline, and the collar now features the new Raven Wings pattern. That pattern is officially described as a raven's wings spread wide in a threat display. Baltimore is calling it aggression and dominance. We are calling it a lot of activity on the collar.
 
 **Old vs new comparison:**
 
-<img src="/images/posts/ravens-uniform-history/ravens-2004-purple-suggs.png" alt="Baltimore Ravens previous primary home purple jersey with black helmet and white pants classic look for comparison" style="width: 70%; display: block; margin: 0 auto; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous primary home: purple jersey, black helmet, white pants</p>
+<img src="/images/posts/ravens-uniform-history/ravens-2014-purple-vs-patriots.png" alt="Baltimore Ravens previous primary home purple jersey with Nike collar update shown during game versus the Patriots for comparison" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous primary home: purple jersey, black helmet, white pants (Shawn Hubbard / Baltimore Ravens Photos)</p>
 
 We actually think the old purple primary was a little cleaner. The collar is now busier than it needed to be. The numbers are a clear upgrade though, and the sleeve shield adds a nice modern touch. Still one of our favorite purple uniforms in the NFL even with the extra collar detail.
 
@@ -80,10 +83,13 @@ The numbers are cleaner, the Baltimore wordmark is a real identity upgrade, and 
 
 ## Alternate Purple Rising: Grade A-
 
-<img src="/images/posts/ravens-uniforms-2026-reveal/HGELA32bMAAl3Td.jpg" alt="Baltimore Ravens 2026 alternate uniforms Darkness blackout and Purple Rising monochrome purple with gold facemask helmet" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.png" alt="Baltimore Ravens 2026 Purple Rising alternate uniform Lamar Jackson monochrome purple top to bottom with metallic purple helmet and gold facemask" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The revamped Purple Rising alternate is gorgeous. We usually don't love monochrome uniforms. One-color head-to-toe setups can look flat or gimmicky. This one works.
+
+<img src="/images/posts/ravens-uniforms-2026-reveal/HGELA32bMAAl3Td.jpg" alt="Baltimore Ravens 2026 alternate uniforms Darkness blackout and Purple Rising monochrome purple with gold facemask helmet" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The metallic purple helmet with gold talon stripes and gold facemask is one of the best alternate helmets in the league. The numbers are crisp. The sleeve shield in midnight purple and metallic gold looks like a real brand element rather than a decoration. The pants carry the Talon Stripes, which the Ravens say imitate the sharpened claws of a raven with a diagonal cut that references the Calvert crest from the Baltimore and Maryland flags. That is real design storytelling.
 
