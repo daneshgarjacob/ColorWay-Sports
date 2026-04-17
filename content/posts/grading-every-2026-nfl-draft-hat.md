@@ -1,8 +1,8 @@
 ---
 title: "Grading Every 2026 NFL Draft Hat by Division"
 category: "NFL"
-date: "2026-03-30"
-excerpt: "New Era dropped the 2026 NFL Draft hats for 31 of 32 teams. We graded every single one, including the hidden interior designs. The Rams are still missing."
+date: "2026-04-16"
+excerpt: "New Era dropped the 2026 NFL Draft hats for all 32 teams. We graded every single one, including the hidden interior designs. The Rams hat finally dropped with the new logo reveal."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
 logoSrc: "/logos/nfl.png"
 league: "nfl"
@@ -365,15 +365,15 @@ Navy and action green is a polarizing combo that we generally like. The Seahawk 
 
 This is the worst hat in the entire collection. The cardinal red and black is fine on the outside, but there's nothing interesting going on. The interior has small scattered "AZ" letters and tiny cardinal logos on a black background. It's the most generic, uninspired design in the whole drop. Arizona has the Grand Canyon, Sedona, incredible sunsets, and desert landscapes. They could have done so much with the interior. Instead, they gave us a basic repeating pattern. Terrible.
 
-### Los Angeles Rams: Not Released
+### Los Angeles Rams: B-
 
-The Rams are the only team without a 2026 Draft hat available on New Era's site. No word on why, but it's an interesting absence. We've talked before about the Rams' branding situation. The gradient logo has been polarizing since day one, and a lot of fans want to see them get back to the classic ram horn. Whether this delay has anything to do with a potential rebrand or is just a production issue, we'll be watching. We'll update this post when the Rams hat drops.
+![Los Angeles Rams 2026 Draft Hat](/images/posts/nfl-draft-hats-2026/rams.jpg)
+*Image courtesy of New Era*
 
----
+![Los Angeles Rams 2026 Draft Hat Interior](/images/posts/nfl-draft-hats-2026/rams-inside.jpg)
+*Image courtesy of New Era*
 
-## The Missing Hat: Los Angeles Rams
-
-As of today, the Rams are the only team in the NFL without a 2026 Draft hat available. We'll keep an eye on it and update this post when it drops.
+The Rams hat finally dropped alongside their [new 2026 uniform and logo reveal](/stories/rams-new-uniforms-2026-review). The interior is the best part of this one. It's got real character and feels like actual Rams branding done well. The logo on the front is where this hat loses points. The new LA mark is all monochrome yellow with no outline, and it looks a little plain on the front of the cap. We wish it had gone blue as the main color with a white or yellow outline to give it some contrast and depth. Instead it reads flat. The interior saves the grade, but the outside could have done more. This is a B- in a tier with the Chiefs, Chargers, Giants, Panthers, and Texans.
 
 ---
 
@@ -387,13 +387,11 @@ As of today, the Rams are the only team in the NFL without a 2026 Draft hat avai
 
 **B Tier:** Atlanta Falcons, Buffalo Bills, Chicago Bears, Miami Dolphins, New England Patriots, Philadelphia Eagles, San Francisco 49ers, Washington Commanders
 
-**B- Tier:** Carolina Panthers, Houston Texans, Kansas City Chiefs, Los Angeles Chargers, New York Giants
+**B- Tier:** Carolina Panthers, Houston Texans, Kansas City Chiefs, Los Angeles Chargers, Los Angeles Rams, New York Giants
 
 **C+ Tier:** New York Jets, Seattle Seahawks
 
 **F Tier:** Arizona Cardinals
-
-**TBD:** Los Angeles Rams
 
 ---
 
