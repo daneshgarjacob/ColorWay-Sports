@@ -6,7 +6,7 @@ excerpt: "The Ravens unveiled The Next Flight with four jerseys, three helmets, 
 gradient: "linear-gradient(135deg, #241773 0%, #000000 50%, #9E7C0C 100%)"
 logoSrc: "/logos/nfl.png"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg"
-coverImagePosition: "center 25%"
+coverImagePosition: "center 10%"
 league: "nfl"
 teams: ["baltimore-ravens"]
 featuredOrder: 1
@@ -19,7 +19,7 @@ Wow. There is a lot to unpack here. The Baltimore Ravens officially unveiled the
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/Ravens/status/2041516388838207526"></a>
+    <a href="https://twitter.com/Ravens/status/2044923806670639356"></a>
   </blockquote>
 </div>
 
@@ -47,8 +47,8 @@ What changed: the numbers are noticeably cleaner and more refined, the shoulders
 
 **Old vs new comparison:**
 
-<img src="/images/posts/ravens-uniform-history/ravens-2018-purple-vs-browns.png" alt="Baltimore Ravens 2018 purple home uniform previous design for comparison" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous purple home design</p>
+<img src="/images/posts/ravens-uniform-history/ravens-2004-purple-suggs.png" alt="Baltimore Ravens previous primary home purple jersey with black helmet and white pants classic look for comparison" style="width: 70%; display: block; margin: 0 auto; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous primary home: purple jersey, black helmet, white pants</p>
 
 We actually think the old purple primary was a little cleaner. The collar is now busier than it needed to be. The numbers are a clear upgrade though, and the sleeve shield adds a nice modern touch. Still one of our favorite purple uniforms in the NFL even with the extra collar detail.
 
