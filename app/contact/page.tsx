@@ -46,7 +46,7 @@ function ContactForm() {
         <input
           type="hidden"
           name="_next"
-          value="https://colorwaysports.com/contact?sent=true"
+          value="https://www.colorwaysports.com/contact?sent=true"
         />
         <input type="hidden" name="_subject" value="New message from ColorWay Sports" />
 

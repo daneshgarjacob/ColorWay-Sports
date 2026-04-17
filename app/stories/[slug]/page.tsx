@@ -134,7 +134,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
         {/* Comments */}
         <DisqusComments
-          url={`https://colorwaysports.com/stories/${slug}`}
+          url={`https://www.colorwaysports.com/stories/${slug}`}
           identifier={slug}
         />
 
