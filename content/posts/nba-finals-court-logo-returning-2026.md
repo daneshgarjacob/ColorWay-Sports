@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-18"
 excerpt: "The NBA will paint the Larry O'Brien Trophy at center court and The Finals script logo on the home team's floor for the 2026 NBA Finals. It's the first time the trophy has been on the court since 2009 and the first time the script has been back since 2014. We love it, we wish they'd go further, and we think the NBA Cup proves the safety argument was nonsense all along."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #1D428A 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.png"
+coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -12,8 +12,8 @@ teams: []
 ---
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.png" alt="2014 NBA Finals court painted with The Finals cursive script logo at center court, the last year the Finals logo was on the court before the 2026 return" style="width: 100%; border-radius: 10px;" />
-  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">What the NBA Finals court used to look like. This is what's coming back.</p>
+  <img src="/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png" alt="2009 NBA Finals at Staples Center, Los Angeles Lakers vs Orlando Magic with Larry O'Brien Trophy painted at center court and The Finals cursive script logo on the floor, the last year the trophy was painted on an NBA Finals court before the 2026 return" style="width: 100%; border-radius: 10px;" />
+  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals at Staples Center, Lakers vs. Magic. The last year the Larry O'Brien Trophy was painted on the court. via NBA broadcast</p>
 </div>
 
 The NBA is putting the Larry O'Brien Trophy back at center court and the "The Finals" script logo back on the home team's floor for the 2026 NBA Finals. ESPN's Shams Charania broke the news. The trophy hasn't been painted on the court since the 2009 Finals between the Lakers and Magic. The script logo hasn't been on the court since the 2014 Finals between the Heat and Spurs. So we're talking about the biggest Finals court redesign in 17 years, and it is long overdue.
