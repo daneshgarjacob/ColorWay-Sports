@@ -1,5 +1,5 @@
 ---
-title: "The Spurs Just Used Peer Pressure to Force Every Fan at Frost Bank Center Into a Fiesta Shirt"
+title: "The Spurs Just Used Peer Pressure to Force Every Fan at Frost Bank Center Into a Fiesta Playoff Shirt"
 category: "NBA"
 date: "2026-04-20"
 excerpt: "The San Antonio Spurs put a Fiesta-themed playoff shirt on every seat at Frost Bank Center for Game 1 against Portland. Then they did something no other NBA team would try. They used the arena cameras and the jumbotron to publicly single out anyone who had not put theirs on. The entire crowd complied within minutes. The arena ended up looking better than any playoff crowd in years."
@@ -12,10 +12,10 @@ teams: ["san-antonio-spurs"]
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.png" alt="Frost Bank Center wide shot showing full 2026 NBA Playoffs Game 1 Fiesta shirt takeover with teal pink orange and yellow alternating sections and Spurs Fiesta court during San Antonio Spurs vs Portland Trail Blazers" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0;" />
+  <img src="/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.png" alt="Frost Bank Center wide shot showing full 2026 NBA Playoffs Game 1 Fiesta playoff shirt takeover with teal pink orange and yellow alternating sections and Spurs Fiesta court during San Antonio Spurs vs Portland Trail Blazers" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0;" />
 </div>
 
-The San Antonio Spurs pulled off the best arena scene of the 2026 NBA Playoffs so far. For Game 1 of their Round 1 series against the Portland Trail Blazers, the Spurs placed a teal, pink, or orange Fiesta-themed t-shirt on every seat at Frost Bank Center. Then they used the arena cameras and the big screen to make absolutely sure every fan wore one. The result was one of the most unified, colorful crowds in recent NBA playoff memory.
+The San Antonio Spurs pulled off the best arena scene of the 2026 NBA Playoffs so far. For Game 1 of their Round 1 series against the Portland Trail Blazers, the Spurs placed a teal, pink, or orange Fiesta-themed playoff t-shirt on every seat at Frost Bank Center. Then they used the arena cameras and the big screen to make absolutely sure every fan wore one. The result was one of the most unified, colorful crowds in recent NBA playoff memory.
 
 ## The Shirts Were on Every Seat
 
@@ -29,7 +29,7 @@ Before the doors even opened, Spurs staff ran the whole operation. Every single 
 
 ## And the Spurs Made Sure You Wore One
 
-This is the part that made it go viral. The Spurs had a "Wear your shirt" animation running on the Frost Bank Center video boards throughout pregame. Then they went further. They used the arena cameras to pan around the crowd looking for fans who had not yet put on their Fiesta shirts. The big screen put those fans up for everyone to see. The peer pressure worked immediately. Fans who were not wearing the shirts put them on. Fast.
+This is the part that made it go viral. The Spurs had a "Wear your shirt" animation running on the Frost Bank Center video boards throughout pregame. Then they went further. They used the arena cameras to pan around the crowd looking for fans who had not yet put on their Fiesta playoff shirts. The big screen put those fans up for everyone to see. The peer pressure worked immediately. Fans who were not wearing the shirts put them on. Fast.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true">
@@ -101,23 +101,23 @@ For our full ranking of all 18 NBA playoff courts in Round 1, including where th
 
 ## Frequently Asked Questions
 
-**Why are Spurs fans wearing Fiesta shirts in the 2026 NBA playoffs?**
-The San Antonio Spurs placed teal, pink, and orange Fiesta-themed t-shirts on every seat at Frost Bank Center for Game 1 of their Round 1 series against the Portland Trail Blazers. The shirts match the Fiesta City Edition court and jerseys and are part of a broader Fiesta-themed playoff takeover at Frost Bank Center.
+**Why are Spurs fans wearing Fiesta playoff shirts in the 2026 NBA playoffs?**
+The San Antonio Spurs placed teal, pink, and orange Fiesta-themed playoff t-shirts on every seat at Frost Bank Center for Game 1 of their Round 1 series against the Portland Trail Blazers. The shirts match the Fiesta City Edition court and jerseys and are part of a broader Fiesta-themed playoff takeover at Frost Bank Center.
 
 **Did the Spurs really peer-pressure fans into wearing the shirts?**
-Yes. During pregame for Game 1, the Spurs used the arena cameras and the big screen to pan around the crowd and show fans who had not yet put on their Fiesta shirts. The public attention worked. Fans who had not yet changed into the shirts quickly did so, and the arena ended up with near-unanimous participation.
+Yes. During pregame for Game 1, the Spurs used the arena cameras and the big screen to pan around the crowd and show fans who had not yet put on their Fiesta playoff shirts. The public attention worked. Fans who had not yet changed into the shirts quickly did so, and the arena ended up with near-unanimous participation.
 
-**What colors are the Spurs Fiesta shirts?**
-The Spurs Fiesta shirts come in three colors: teal, pink, and orange. They are an homage to Fiesta San Antonio, the annual festival held in April. The shirts alternate by section at Frost Bank Center so the entire arena reads as a coordinated wall of Fiesta colors.
+**What colors are the Spurs Fiesta playoff shirts?**
+The Spurs Fiesta playoff shirts come in three colors: teal, pink, and orange. They are an homage to Fiesta San Antonio, the annual festival held in April. The shirts alternate by section at Frost Bank Center so the entire arena reads as a coordinated wall of Fiesta colors.
 
-**Did Tim Duncan and David Robinson wear the Fiesta shirts?**
-Yes. Spurs legends Tim Duncan and David Robinson both wore the orange Fiesta shirts courtside for Game 1 of the 2026 NBA Playoffs Round 1 series between the San Antonio Spurs and the Portland Trail Blazers.
+**Did Tim Duncan and David Robinson wear the Fiesta playoff shirts?**
+Yes. Spurs legends Tim Duncan and David Robinson both wore the orange Fiesta playoff shirts courtside for Game 1 of the 2026 NBA Playoffs Round 1 series between the San Antonio Spurs and the Portland Trail Blazers.
 
 **What is the Spurs Fiesta court?**
 The Spurs Fiesta court is San Antonio's pink, teal, orange, and yellow City Edition court at Frost Bank Center. The Spurs are using it for their Round 1 series against the Portland Trail Blazers. The colors are an homage to Fiesta San Antonio and the court scored 9.5 out of 10 in our NBA playoff courts ranking.
 
-**Did the Spurs win Game 1 in the Fiesta shirts?**
-Yes. The San Antonio Spurs beat the Portland Trail Blazers 111-98 in Game 1 at Frost Bank Center. Victor Wembanyama led the Spurs with 35 points, a Spurs playoff debut record. The crowd was almost entirely in Fiesta shirts.
+**Did the Spurs win Game 1 in the Fiesta playoff shirts?**
+Yes. The San Antonio Spurs beat the Portland Trail Blazers 111-98 in Game 1 at Frost Bank Center. Victor Wembanyama led the Spurs with 35 points, a Spurs playoff debut record. The crowd was almost entirely in Fiesta playoff shirts.
 
 **Why did other NBA teams not do this in Round 1?**
 Most NBA teams do run playoff t-shirt takeovers, but execution varies. At Crypto.com Arena, for example, the Los Angeles Lakers gave every fan a shirt but did not enforce participation, and the crowd ended up visibly inconsistent on broadcast. The Spurs are the only team in Round 1 that used the arena cameras and the big screen to actively push fans into wearing the shirts.
@@ -125,7 +125,7 @@ Most NBA teams do run playoff t-shirt takeovers, but execution varies. At Crypto
 **What are the Spurs giving out for Game 2 at Frost Bank Center?**
 The Spurs have a separate Game 2 shirt concept called "Roweled Up" for the second home game of their Round 1 series against the Portland Trail Blazers. Game 2 tips off at Frost Bank Center on Tuesday at 7:00 PM Central, and the team is expected to repeat the full Fiesta-themed in-arena takeover.
 
-**What did Wembanyama say about the Fiesta shirts?**
+**What did Wembanyama say about the Fiesta playoff shirts?**
 After his 35-point playoff debut, Victor Wembanyama said, "It's great to see this many people wear their shirts," and noted that the Frost Bank Center video boards had been running a "Wear your shirt" animation throughout pregame. His postgame comments confirmed the Spurs actively pushed fans into participating.
 
 ---
