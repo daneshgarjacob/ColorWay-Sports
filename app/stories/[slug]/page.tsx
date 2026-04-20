@@ -83,30 +83,27 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Compact hero banner with gradient */}
-      <div
-        className="w-full py-8 sm:py-10 px-5"
-        style={{ background: post.gradient }}
-      >
+      {/* Editorial hero */}
+      <div className="w-full py-8 sm:py-10 px-5 border-b border-black/5">
         <div className="max-w-[720px] mx-auto">
           <div className="flex items-center justify-between mb-4">
             <Link
               href="/stories"
-              className="text-sm text-white/70 hover:text-white transition-colors"
+              className="text-sm text-black/60 hover:text-black transition-colors"
             >
               &larr; All Stories
             </Link>
-            <span className="text-xs text-white/80 font-semibold uppercase tracking-widest">
+            <span className="text-xs text-black/70 font-semibold uppercase tracking-widest">
               {post.category}
             </span>
           </div>
-          <h1 className="text-2xl sm:text-3xl font-bold text-white leading-tight">
+          <h1 className="text-2xl sm:text-3xl font-bold text-black leading-tight">
             {post.title}
           </h1>
           <div className="flex items-center gap-2 mt-3">
-            <span className="text-white/80 text-sm">ColorWay Sports</span>
-            <span className="text-white/40">·</span>
-            <time className="text-white/60 text-sm">
+            <span className="text-black/70 text-sm">ColorWay Sports</span>
+            <span className="text-black/30">·</span>
+            <time className="text-black/50 text-sm">
               {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
                 year: "numeric",
                 month: "long",
