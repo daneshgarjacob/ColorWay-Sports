@@ -4,16 +4,16 @@ category: "NBA"
 date: "2026-04-19"
 excerpt: "We graded all 18 NBA playoff courts used in Round 1 of the 2026 NBA Playoffs. The Lakers primary takes #1 with a perfect 10. The Suns court lands dead last at 3/10. Plus the Spurs Fiesta court, the Cavs LeBron throwback, the Sixers throwback at Wells Fargo, and the Lakers black alternate that drove us crazy."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #ec0089 100%)"
-coverImage: "/images/courts/nba/spurs-alternate-home.png"
+coverImage: "/images/courts/nba/spurs-courtside-logo.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
 ---
 
-<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
-  <img src="/images/courts/nba/spurs-alternate-home.png" alt="San Antonio Spurs Frost Bank Center Fiesta City Edition court for 2026 NBA Playoffs Round 1 with pink teal orange and yellow Fiesta colors painted on the floor" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Spurs Fiesta Court at Frost Bank Center · One of 18 courts being used in 2026 Round 1</p>
+<div style="text-align: center; margin: 0 0 2em;">
+  <img src="/images/courts/nba/spurs-courtside-logo.jpg" alt="San Antonio Spurs Frost Bank Center Fiesta City Edition court for 2026 NBA Playoffs Round 1 with Spurs logo in pink teal and orange courtside" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">via <a href="https://twitter.com/spurs" style="color: #999;">@Spurs</a></p>
 </div>
 
 The 2026 NBA Playoffs are here and we're ranking every single court being used in Round 1. There are 18 of them. Most teams stick with one court for the whole postseason, but the Spurs are rotating between their Fiesta City Edition court and their primary, and the Lakers are switching between their iconic gold court and their black alternate. Cavs are skipping their primary entirely for the LeBron-era throwback. The Sixers are doing the same with their classic throwback court. We graded all 18 on our 10-point aesthetic scale and ranked them from worst to best.
@@ -192,6 +192,12 @@ The Wolves are using their black alternate court for the first two games of thei
 
 Simple, all blue, and we actually really like it. The Thunder went minimalist and it works. The blue is rich, the typography is clean, and the floor doesn't try to do too much. The one knock is contrast. Without much variation in tone, the court doesn't pop the way it could on a wide camera shot. But the identity is clear and the design is confident, which is more than half the league can say.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/LADEig/status/2045953050066727375"></a>
+  </blockquote>
+</div>
+
 ## #9: Toronto Raptors
 
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 1em;">
@@ -222,7 +228,7 @@ Simple, clean, and we love the claw marks. The Raptors court keeps it minimal bu
   <img src="/images/courts/nba/sixers-home.png" alt="Philadelphia 76ers Wells Fargo Center throwback alternate court for 2026 NBA Playoffs Round 1 first two games against Boston Celtics" style="width: 100%; display: block;" />
 </div>
 
-The Sixers are skipping their primary court entirely for the first two games of their Round 1 series against the Celtics in favor of this throwback alternate. It's beautiful. The retro Philly branding, the classic colors, the period-correct layout — all of it lands. The only ding is the same one we keep giving out: it runs slightly too dark for our taste. If the base were a touch brighter, this would push into A territory. Still, an inspired playoff choice that more teams should be willing to make.
+The Sixers are skipping their primary court entirely for the first two games of their Round 1 series against the Celtics in favor of this throwback alternate. It's beautiful. The retro Philly branding, the classic colors, the period-correct layout. All of it lands. The only ding is the same one we keep giving out: it runs slightly too dark for our taste. If the base were a touch brighter, this would push into A territory. Still, an inspired playoff choice that more teams should be willing to make.
 
 ## #7: Orlando Magic
 
@@ -288,6 +294,26 @@ The Celtics are using their classic parquet court for the entire 2026 playoffs a
 
 The vibe is incredible. We love the Fiesta colors, the way the pink and teal and orange and yellow all play off each other, and the way the whole arena experience comes together with the matching jerseys and the t-shirt-draped seats in the crowd. The Spurs have built one of the best total visual packages in basketball and the court is the centerpiece. The only thing keeping this from cracking the top three is we wish the Spurs were also wearing their primary whites instead of going head-to-toe in the City Edition black. With white jerseys on this court, this would be a perfect 10. As-is, an incredible 9.5 and easily one of the most fun playoff courts in the entire league.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/spurs/status/2046257742608765278"></a>
+  </blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/spurs/status/2045250574837227694"></a>
+  </blockquote>
+</div>
+
+And nobody in the league did their crowd better than the Spurs did. The Fiesta t-shirt takeover at Frost Bank Center lapped every other arena in Round 1, including the Lakers.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/LALMuse/status/2046048423699206407"></a>
+  </blockquote>
+</div>
+
 ## #3: Cleveland Cavaliers (Throwback)
 
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 1em;">
@@ -334,20 +360,26 @@ The Knicks court at Madison Square Garden is classic and very nice. The branding
   <img src="/images/courts/nba/lakers-home.png" alt="Los Angeles Lakers Crypto.com Arena primary home court for 2026 NBA Playoffs Round 1 with iconic purple and gold design" style="width: 100%; display: block;" />
 </div>
 
-The Lakers primary court is the gold standard. Purple and gold, clean typography, the wordmark in the right place, the lane in iconic Lakers purple — this is what an NBA playoff court is supposed to look like. There is a reason this floor has been the visual standard in the league for decades. The colors are confident, the design is timeless, and the broadcast loves it. A perfect 10. Now the Lakers just have to commit to using it for every game of the postseason instead of switching to the black alternate in Game 2.
+The Lakers primary court is the gold standard. Purple and gold, clean typography, the wordmark in the right place, the lane in iconic Lakers purple. This is what an NBA playoff court is supposed to look like. There is a reason this floor has been the visual standard in the league for decades. The colors are confident, the design is timeless, and the broadcast loves it. A perfect 10. Now the Lakers just have to commit to using it for every game of the postseason instead of switching to the black alternate in Game 2.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/LALMuse/status/2045594970946421173"></a>
+  </blockquote>
+</div>
 
 ## The Top 5 Takeaways
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 1em; font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Quick Hits</p>
   <ul style="margin: 0; padding-left: 1.2em; color: #fff; line-height: 1.8;">
-    <li><strong>Best court:</strong> Lakers primary (10.0)</li>
-    <li><strong>Worst court:</strong> Suns (3.0)</li>
-    <li><strong>Best throwback court:</strong> Cavs LeBron-era throwback (9.5)</li>
-    <li><strong>Best City Edition court:</strong> Spurs Fiesta (9.5)</li>
-    <li><strong>Best classic primary court:</strong> Knicks at MSG (9.5)</li>
-    <li><strong>Most disappointing decision:</strong> Lakers swapping to black alternate court for Game 2</li>
-    <li><strong>Average score across 18 courts:</strong> 8.2 / 10</li>
+    <li><strong style="color: #FDB927;">Best court:</strong> Lakers primary (10.0)</li>
+    <li><strong style="color: #FDB927;">Worst court:</strong> Suns (3.0)</li>
+    <li><strong style="color: #FDB927;">Best throwback court:</strong> Cavs LeBron-era throwback (9.5)</li>
+    <li><strong style="color: #FDB927;">Best City Edition court:</strong> Spurs Fiesta (9.5)</li>
+    <li><strong style="color: #FDB927;">Best classic primary court:</strong> Knicks at MSG (9.5)</li>
+    <li><strong style="color: #FDB927;">Most disappointing decision:</strong> Lakers swapping to black alternate court for Game 2</li>
+    <li><strong style="color: #FDB927;">Average score across 18 courts:</strong> 8.2 / 10</li>
   </ul>
 </div>
 
@@ -369,7 +401,10 @@ The Phoenix Suns court at Footprint Center scored the lowest at 3 out of 10. The
 Yes. The Los Angeles Lakers are rotating between their primary purple and gold court, which scored 10 out of 10, and their black alternate court, which scored 6.5 out of 10. The black court is being used in Game 2 of their Round 1 series against the Houston Rockets alongside their black alternate jerseys.
 
 **What is the Spurs Fiesta court?**
-The Spurs Fiesta court at Frost Bank Center is San Antonio's pink, teal, orange, and yellow City Edition court. The Spurs are using it for their Round 1 series against the Portland Trail Blazers, with matching arena seat colors and Fiesta-themed City Edition jerseys. It scored 9.5 out of 10 in our ranking, second only to the Lakers primary court.
+The Spurs Fiesta court at Frost Bank Center is San Antonio's pink, teal, orange, and yellow City Edition court. The colors are an homage to Fiesta San Antonio, the annual April festival. The Spurs are using the court for their Round 1 series against the Portland Trail Blazers, with matching arena seat colors and Fiesta-themed City Edition jerseys. It scored 9.5 out of 10 in our ranking, second only to the Lakers primary court.
+
+**What are Spurs fans wearing in the 2026 NBA playoffs?**
+San Antonio Spurs fans are wearing teal, pink, and orange Fiesta-themed t-shirts placed on every seat at Frost Bank Center for Round 1 games against the Portland Trail Blazers. The shirts are coordinated in alternating sections so the crowd reads as a wall of Fiesta colors on broadcast. Spurs legends Tim Duncan and David Robinson have been wearing the orange shirts courtside.
 
 **Are the Cavs using their throwback court for the 2026 playoffs?**
 Yes. The Cleveland Cavaliers are skipping their primary court entirely for Round 1 and using their LeBron-era throwback alternate court at Rocket Arena. It is a near-replica of the wine and gold court Cleveland used during the LeBron James era and scored 9.5 out of 10 in our ranking.
