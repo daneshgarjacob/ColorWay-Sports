@@ -9,6 +9,45 @@ coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
+bestRating: 10
+worstRating: 0
+reviews:
+  - name: "Los Angeles Lakers Primary Court at Crypto.com Arena"
+    rating: 10
+  - name: "New York Knicks Court at Madison Square Garden"
+    rating: 9.5
+  - name: "Cleveland Cavaliers LeBron-Era Throwback Court"
+    rating: 9.5
+  - name: "San Antonio Spurs Fiesta City Edition Court"
+    rating: 9.5
+  - name: "Boston Celtics Classic Parquet Court"
+    rating: 9
+  - name: "Detroit Pistons Court at Little Caesars Arena"
+    rating: 9
+  - name: "Orlando Magic Court at Kia Center"
+    rating: 9
+  - name: "Philadelphia 76ers Throwback Court"
+    rating: 8.5
+  - name: "Toronto Raptors Court at Scotiabank Arena"
+    rating: 8.5
+  - name: "Oklahoma City Thunder Court at Paycom Center"
+    rating: 8.5
+  - name: "Minnesota Timberwolves Black Alternate Court"
+    rating: 8.5
+  - name: "Portland Trail Blazers Court at Moda Center"
+    rating: 8
+  - name: "Denver Nuggets Court at Ball Arena"
+    rating: 8
+  - name: "Houston Rockets Court at Toyota Center"
+    rating: 7.5
+  - name: "San Antonio Spurs Primary Court"
+    rating: 7.5
+  - name: "Atlanta Hawks Court at State Farm Arena"
+    rating: 7.5
+  - name: "Los Angeles Lakers Black Alternate Court"
+    rating: 6.5
+  - name: "Phoenix Suns Court at Footprint Center"
+    rating: 3
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">

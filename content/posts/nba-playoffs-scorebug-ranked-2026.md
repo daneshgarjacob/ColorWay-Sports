@@ -9,6 +9,15 @@ coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
+bestRating: 10
+worstRating: 0
+reviews:
+  - name: "ABC / ESPN NBA Playoffs Scorebug"
+    rating: 9
+  - name: "NBC / Peacock NBA Playoffs Scorebug"
+    rating: 8
+  - name: "Amazon Prime Video NBA Playoffs Scorebug"
+    rating: 7.5
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">

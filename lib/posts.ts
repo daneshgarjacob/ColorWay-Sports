@@ -9,6 +9,16 @@ import rehypeStringify from "rehype-stringify";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
+export interface ReviewItem {
+  name: string;
+  rating: number;
+}
+
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
 export interface PostMeta {
   slug: string;
   title: string;
@@ -26,10 +36,36 @@ export interface PostMeta {
   teams?: string[];
   featuredOrder?: number;
   homepageOrder?: number;
+  reviews?: ReviewItem[];
+  bestRating?: number;
+  worstRating?: number;
 }
 
 export interface Post extends PostMeta {
   contentHtml: string;
+  faqs: FaqItem[];
+}
+
+function extractFaqs(content: string): FaqItem[] {
+  const faqHeadingIdx = content.search(/^##\s+Frequently Asked Questions\b/m);
+  if (faqHeadingIdx === -1) return [];
+
+  let section = content.slice(faqHeadingIdx);
+  const nextH2 = section.slice(4).search(/^##\s/m);
+  if (nextH2 > 0) section = section.slice(0, nextH2 + 4);
+  const divider = section.indexOf("\n---\n");
+  if (divider > 0) section = section.slice(0, divider);
+
+  const faqs: FaqItem[] = [];
+  const pattern = /\*\*([^*\n]+\?)\*\*\s*\n+([^\n]+(?:\n(?!\*\*|##|---|\s*$)[^\n]+)*)/g;
+  let match;
+  while ((match = pattern.exec(section)) !== null) {
+    faqs.push({
+      question: match[1].trim(),
+      answer: match[2].replace(/\s*\n\s*/g, " ").trim(),
+    });
+  }
+  return faqs;
 }
 
 export function getAllPosts(): PostMeta[] {
@@ -60,6 +96,9 @@ export function getAllPosts(): PostMeta[] {
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
       homepageOrder: data.homepageOrder,
+      reviews: data.reviews,
+      bestRating: data.bestRating,
+      worstRating: data.worstRating,
     };
   });
 
@@ -108,6 +147,10 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     coverImage: data.coverImage,
     coverImagePosition: data.coverImagePosition,
     coverImageFit: data.coverImageFit,
+    reviews: data.reviews,
+    bestRating: data.bestRating,
+    worstRating: data.worstRating,
     contentHtml,
+    faqs: extractFaqs(content),
   };
 }

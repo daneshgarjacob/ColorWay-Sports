@@ -50,8 +50,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     notFound();
   }
 
-  const jsonLd = {
-    "@context": "https://schema.org",
+  const bestRating = post.bestRating ?? 10;
+  const worstRating = post.worstRating ?? 0;
+
+  const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
     headline: post.title,
     description: post.excerpt,
@@ -72,6 +74,53 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       "@id": `https://www.colorwaysports.com/stories/${slug}`,
     },
     ...(post.coverImage ? { image: `https://www.colorwaysports.com${post.coverImage}` } : {}),
+  };
+
+  if (post.reviews && post.reviews.length > 0) {
+    const ratingValues = post.reviews.map((r) => r.rating);
+    const avgRating = ratingValues.reduce((a, b) => a + b, 0) / ratingValues.length;
+    articleSchema.review = post.reviews.map((r) => ({
+      "@type": "Review",
+      itemReviewed: { "@type": "Thing", name: r.name },
+      reviewRating: {
+        "@type": "Rating",
+        ratingValue: r.rating,
+        bestRating,
+        worstRating,
+      },
+      author: {
+        "@type": "Organization",
+        name: "ColorWay Sports",
+      },
+    }));
+    articleSchema.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: Number(avgRating.toFixed(2)),
+      reviewCount: post.reviews.length,
+      bestRating,
+      worstRating,
+    };
+  }
+
+  const graph: Record<string, unknown>[] = [articleSchema];
+
+  if (post.faqs && post.faqs.length > 0) {
+    graph.push({
+      "@type": "FAQPage",
+      mainEntity: post.faqs.map((faq) => ({
+        "@type": "Question",
+        name: faq.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: faq.answer,
+        },
+      })),
+    });
+  }
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": graph,
   };
 
   return (

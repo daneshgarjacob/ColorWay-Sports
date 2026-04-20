@@ -8,6 +8,27 @@ coverImage: "/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png
 coverImagePosition: "center 20%"
 league: "mlb"
 teams: ["atlanta-braves", "milwaukee-brewers", "pittsburgh-pirates", "san-francisco-giants", "san-diego-padres", "texas-rangers", "baltimore-orioles", "cincinnati-reds", "kansas-city-royals"]
+bestRating: 10
+worstRating: 0
+reviews:
+  - name: "Atlanta Braves 2026 City Connect Jersey"
+    rating: 9.7
+  - name: "Milwaukee Brewers 2026 City Connect Jersey"
+    rating: 8.5
+  - name: "Pittsburgh Pirates 2026 City Connect Jersey"
+    rating: 8.5
+  - name: "San Diego Padres 2026 City Connect Jersey"
+    rating: 8
+  - name: "San Francisco Giants 2026 City Connect Jersey"
+    rating: 8
+  - name: "Texas Rangers 2026 City Connect Jersey"
+    rating: 7.5
+  - name: "Baltimore Orioles 2026 City Connect Jersey"
+    rating: 7.5
+  - name: "Cincinnati Reds 2026 City Connect Jersey"
+    rating: 6.5
+  - name: "Kansas City Royals 2026 City Connect Jersey"
+    rating: 6.5
 ---
 
 <img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png" alt="Atlanta Braves 2026 City Connect jersey Ronald Acuna" style="width: 100%; border-radius: 10px;" />
