@@ -37,6 +37,12 @@ This is the part that made it go viral. The Spurs had a "Wear your shirt" animat
   </blockquote>
 </div>
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/TylerGlasscock_/status/2046028768687366170"></a>
+  </blockquote>
+</div>
+
 We will say it straight. This is genius arena programming. The Spurs took a problem every team has at playoff takeover games (half the crowd just ignoring the free shirt on their seat) and solved it with social pressure. No other team in the league pulled anything close for Round 1.
 
 Wembanyama confirmed it after the game. "It's great to see this many people wear their shirts," he said, noting that the video boards had been running a "Wear your shirt" animation throughout pregame.
