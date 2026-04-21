@@ -2,7 +2,7 @@
 title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-excerpt: "The complete Round 1 jersey tracker for the 2026 NBA Playoffs, updated game by game. Opening weekend Saturday and Sunday grades plus Monday night Game 2s. Knicks in black at home for Game 2 against the Hawks is a 1 out of 10 and the worst matchup of Round 1 so far."
+excerpt: "The complete Round 1 jersey tracker for the 2026 NBA Playoffs, updated game by game. Opening weekend Saturday and Sunday grades plus Monday and Tuesday Game 2s. The Lakers wearing their City Edition black at home on the black alternate court against the Rockets is a 0 out of 10 and the worst matchup of Round 1 so far."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 50%"
@@ -35,13 +35,19 @@ reviews:
     rating: 3
   - name: "Atlanta Hawks at New York Knicks Round 1 Game 2 Jerseys"
     rating: 1
+  - name: "Portland Trail Blazers at San Antonio Spurs Round 1 Game 2 Jerseys"
+    rating: 10
+  - name: "Philadelphia 76ers at Boston Celtics Round 1 Game 2 Jerseys"
+    rating: 3
+  - name: "Houston Rockets at Los Angeles Lakers Round 1 Game 2 Jerseys"
+    rating: 0
 ---
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NBA jersey worn in 2026 Playoffs Round 1 through Monday Game 2 collage — Cavs Classic blue, Lakers Icon gold, Spurs Fiesta black, Thunder Icon blue, Knicks Association white, Celtics Association white, Sixers Icon royal blue and more" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
-This is the running tracker for every 2026 NBA Playoffs Round 1 jersey matchup. Opening weekend is locked in below with all eight Saturday and Sunday games, and we've added Monday night's three Game 2 matchups at the top of the page. The Knicks wearing Statement Edition black at home against the Hawks dropped the Round 1 average to 6.7 out of 10, and it's the worst jersey matchup of the postseason so far at 1 out of 10.
+This is the running tracker for every 2026 NBA Playoffs Round 1 jersey matchup. Opening weekend is locked in below with all eight Saturday and Sunday games, plus Monday and Tuesday night's Game 2 matchups at the top of the page. The Lakers wearing their City Edition black at home on the black alternate court against the Rockets dropped the Round 1 average to 6.2 out of 10, and it's the worst jersey matchup of the postseason so far at 0 out of 10.
 
 Our scoring philosophy is simple. Home team wears white. Road team wears color. That's the playoff standard. We score each matchup on a 10-point scale, and we give credit for iconic alternates and throwbacks that still carry the right vibe.
 
@@ -52,6 +58,115 @@ Our scoring philosophy is simple. Home team wears white. Road team wears color. 
 - **0-2**: Both teams in jerseys that clash and waste the moment
 
 Let's start with tonight.
+
+## Tuesday Night Game 2 Matchups
+
+Tuesday is the second Game 2 slate. Three games, three full aesthetic swings. The Spurs flip from full Fiesta to traditional home whites against Portland. The Celtics flip the other way, from perfect-10 whites in Game 1 to Icon green at home against the Sixers. And the Lakers break franchise history by wearing a City Edition jersey in the playoffs for the first time, pairing the all-black jersey with the black alternate court against Houston. The slate averages 4.3 out of 10 on the strength of the Spurs pulling it back and the Lakers giving us a 0.
+
+### Game 2: Portland Trail Blazers at San Antonio Spurs
+
+<div style="background: linear-gradient(135deg, #3a3d44 0%, #1a1c22 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C4CED4 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/blazers-icon-black.png" alt="Portland Trail Blazers Icon Edition black road jersey for 2026 NBA Playoffs Round 1 Game 2 at San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PORTLAND TRAIL BLAZERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Black</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white home jersey for 2026 NBA Playoffs Round 1 Game 2 vs Portland Trail Blazers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+  </div>
+</div>
+
+This is what a playoff game is supposed to look like. The Spurs traded the Fiesta pink, teal, orange, and yellow Game 1 treatment for their Association Edition whites at home. The Blazers brought their Icon Edition black on the road. Home team in white, road team in their primary color, classic playoff visual. We were obsessed with Frost Bank Center going full Fiesta for Game 1, but we wanted to see if the Spurs could still deliver a clean look when they dropped back to the standard home whites. They did.
+
+The court is back to the standard Spurs home configuration for Game 2. No Fiesta branding on the floor, no pink-teal-orange-yellow seat takeover. This lets the jerseys breathe and the matchup reads cleanly on broadcast. We are curious to see what the Spurs do with the crowd after the Roweled Up Fiesta treatment from Game 1, but the jerseys and court alone make this the best-looking matchup of Round 1 so far.
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+### Game 2: Philadelphia 76ers at Boston Celtics
+
+<div style="background: linear-gradient(135deg, #1a3a2d 0%, #0a1c14 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007A33 0%, #BA9653 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white road jersey for 2026 NBA Playoffs Round 1 Game 2 at Boston Celtics" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/celtics-icon-green.png" alt="Boston Celtics Icon Edition green jersey for 2026 NBA Playoffs Round 1 Game 2 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON CELTICS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Green</p>
+    </div>
+  </div>
+</div>
+
+This one drives us crazy. Boston has one of the best home white uniforms in the league. The Association Edition whites on the parquet at TD Garden in Game 1 earned a perfect 10 from us. And for Game 2, the Celtics are flipping to their Icon Edition green at home.
+
+Green is the Celtics' identity, yes, but it is their away color. The Icon Edition green is what they wear on the road. Wearing it at home flips the home-and-away logic of basketball. The Sixers in Association Edition white on the road is a sensible counter to create contrast, but now we have the Celtics in color at home and the Sixers in white on the road, which is exactly backwards from the playoff standard.
+
+Credit where it's due. At least this is not the Knicks in Statement black or the Nuggets in Statement blue. The Celtics' Icon green is an iconic look that still screams Boston, and it contrasts cleanly with the parquet. We are just not buying the home-team-in-color and away-team-in-white swap in a playoff game, especially when the Celtics could have run it back with the perfect 10 whites from Game 1.
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 3 / 10</p>
+</div>
+
+### Game 2: Houston Rockets at Los Angeles Lakers
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #000000 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #552583 0%, #FDB927 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/rockets-association-white.png" alt="Houston Rockets Association Edition white road jersey for 2026 NBA Playoffs Round 1 Game 2 at Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HOUSTON ROCKETS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <img src="/images/jerseys/nba/lakers-city-black.png" alt="Los Angeles Lakers City Edition black jersey for 2026 NBA Playoffs Round 1 Game 2 vs Houston Rockets on the black alternate Lakers court" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Black</p>
+    </div>
+  </div>
+</div>
+
+This might be the worst decision of Round 1. The Lakers are wearing their City Edition black jersey at home on the black alternate court. This is the first time in franchise history the Lakers have worn a City Edition jersey in the playoffs. It should also be the last.
+
+The Lakers have one of the most iconic color palettes in professional sports. Purple and gold. Crypto.com Arena. A championship banner history that demands purple or gold on the floor when the lights come on in April. For Game 2 the team is choosing corporate City Edition black and a blackout court that erases all of it. This is not a matchup, this is a brand identity crisis.
+
+The Rockets are in Association Edition white on the road. Houston white against Lakers black on a black court creates a matchup with almost no color identity for either team. Nothing reads on broadcast. The Lakers Icon gold of Game 1 against the Rockets black was a 9.5 out of 10. This is the same Rockets jersey slot we would have loved to see again, but the Lakers choice pulls the entire matchup to the floor.
+
+We are Lakers fans. We are disappointed. Playoff basketball at Crypto.com Arena should be purple or gold on that floor, every game, end of discussion.
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 0 / 10</p>
+</div>
 
 ## Monday Night Game 2 Matchups
 
@@ -399,13 +514,29 @@ The Rockets are in their Statement Edition black road alternate. We would have p
     <span style="font-weight: 600; color: #fff;">Timberwolves at Nuggets</span>
     <span style="font-weight: 900; color: #ff6464; font-size: 1.2em;">3 / 10</span>
   </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Tuesday Game 2 Matchup</span>
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Score</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Trail Blazers at Spurs</span>
+    <span style="font-weight: 900; color: #00c864; font-size: 1.2em;">10 / 10</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">76ers at Celtics</span>
+    <span style="font-weight: 900; color: #ff6464; font-size: 1.2em;">3 / 10</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 600; color: #fff;">Rockets at Lakers</span>
+    <span style="font-weight: 900; color: #ff6464; font-size: 1.2em;">0 / 10</span>
+  </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
     <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Round 1 Running Average</span>
-    <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.7 / 10</span>
+    <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.2 / 10</span>
   </div>
 </div>
 
-Opening weekend averaged 7.8 out of 10. Monday night Game 2s dragged the Round 1 running average down to 6.7 with the Knicks at home in Statement black earning a 1 out of 10 and the Nuggets at home in Statement blue earning a 3. The 76ers at Celtics on Sunday remains the only matchup to earn a perfect 10, with both teams in their primary editions on the parquet at TD Garden. The Lakers gold against Rockets black at 9.5 and the Hawks black against Knicks white at 9 round out the top tier.
+Opening weekend averaged 7.8 out of 10. Monday night Game 2s dragged the Round 1 running average down to 6.7. Tuesday night Game 2s dropped it further to 6.2, with the Lakers wearing their City Edition black at home on the black alternate court against the Rockets earning a 0 out of 10 and taking over as the worst matchup of the postseason. The Spurs flipping back to their Association Edition whites for Game 2 earned a perfect 10 to keep the Tuesday slate from collapsing. The 76ers at Celtics on Sunday and the Trail Blazers at Spurs on Tuesday are the only two matchups to earn a perfect 10 so far. The Lakers gold against Rockets black at 9.5 and the Hawks black against Knicks white at 9 round out the top tier.
 
 ## Game 1: Philadelphia 76ers at Boston Celtics
 
@@ -669,14 +800,34 @@ This is still the matchup we're going to be turning on the TV for first. Frost B
     <span style="color: #999;">Statement (Blue)</span>
     <span style="font-weight: 900; color: #ff6464;">WRONG</span>
   </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Tuesday Game 2 Home Team</span>
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Jersey</span>
+    <span style="font-weight: 700; color: rgba(255,255,255,0.5); font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px;">Verdict</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">San Antonio Spurs</span>
+    <span style="color: #999;">Association (White)</span>
+    <span style="font-weight: 900; color: #00c864;">CORRECT</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.05);">
+    <span style="font-weight: 600; color: #fff;">Boston Celtics</span>
+    <span style="color: #999;">Icon (Green)</span>
+    <span style="font-weight: 900; color: #ff6464;">WRONG</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <span style="font-weight: 600; color: #fff;">Los Angeles Lakers</span>
+    <span style="color: #999;">City (Black)</span>
+    <span style="font-weight: 900; color: #ff6464;">WRONG</span>
+  </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 1em 0;">
     <span style="font-weight: 800; color: #fff; font-size: 1.1em;">Round 1 Home White So Far</span>
     <span></span>
-    <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">4 / 11 (36%)</span>
+    <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">5 / 14 (36%)</span>
   </div>
 </div>
 
-Opening weekend had half the home teams in traditional whites. The Knicks, Nuggets, Celtics, and Pistons all made the right call for Game 1. Monday night broke the trend. The Knicks flipped to Statement black and the Nuggets flipped to Statement blue for Game 2, both at home, both the wrong call. Only the Cavs kept their Classic Edition throwback commitment across both games. The Round 1 home-white rate dropped from 50% to 36% after Monday.
+Opening weekend had half the home teams in traditional whites. The Knicks, Nuggets, Celtics, and Pistons all made the right call for Game 1. Monday night broke the trend. The Knicks flipped to Statement black and the Nuggets flipped to Statement blue for Game 2, both at home, both the wrong call. Tuesday night gave us mixed results. The Spurs flipped to their Association Edition whites at home for Game 2 and got credit, but the Celtics flipped the other way from perfect-10 whites to Icon Edition green and the Lakers went to City Edition black on the black alternate court. Only the Cavs and the Spurs kept their Game 2 commitment to a home-court-appropriate look. The Round 1 home-white rate held at 36% after Tuesday.
 
 ## 2026 NBA Playoffs Jersey Coverage
 
@@ -684,8 +835,8 @@ For the running Play-In Tournament jersey tracker, [see our Play-In jersey match
 
 <div style="margin: 2.5em 0; padding: 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
   <p style="font-size: 1em; color: #999; margin: 0 0 0.5em; text-transform: uppercase; letter-spacing: 2px;">Round 1 Running Average</p>
-  <p style="font-size: 5em; font-weight: 900; color: #FF5910; margin: 0; line-height: 1;">6.7 / 10</p>
-  <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">Eleven Games Through Monday. Round 1 Jersey Aesthetic Grade.</p>
+  <p style="font-size: 5em; font-weight: 900; color: #FF5910; margin: 0; line-height: 1;">6.2 / 10</p>
+  <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">Fourteen Games Through Tuesday. Round 1 Jersey Aesthetic Grade.</p>
 </div>
 
 ## Frequently Asked Questions About the 2026 NBA Playoffs Round 1 Uniforms
@@ -700,7 +851,11 @@ Round 1 of the 2026 NBA Playoffs tips off Saturday, April 18 with four games and
 
 **Are the Lakers wearing gold in Round 1?**
 
-Yes. The Los Angeles Lakers are wearing their Icon Edition gold jersey at home for Game 1 of their Round 1 series against the Houston Rockets at Crypto.com Arena on Saturday night.
+Yes for Game 1, no for Game 2. The Los Angeles Lakers wore their Icon Edition gold jersey at home for Game 1 of their Round 1 series against the Houston Rockets at Crypto.com Arena on Saturday night, which earned a 9.5 out of 10. For Game 2 on Tuesday the Lakers flipped to their City Edition black jersey on the black alternate court, which earned a 0 out of 10 and is now the worst-graded matchup of Round 1.
+
+**Are the Lakers wearing a City Edition jersey in the 2026 Playoffs?**
+
+Yes. The Los Angeles Lakers are wearing their City Edition black jersey at home for Game 2 against the Houston Rockets on Tuesday, April 21, paired with the black alternate court at Crypto.com Arena. It is the first time in franchise history the Lakers have worn a City Edition jersey in the playoffs.
 
 **Are the Knicks wearing white in Round 1?**
 
@@ -710,9 +865,9 @@ Yes. The New York Knicks are wearing their Association Edition white home jersey
 
 Yes. The San Antonio Spurs are wearing their City Edition Fiesta black jersey at home for Game 1 of their Round 1 series against the Portland Trail Blazers at Frost Bank Center on Sunday. The Spurs have transformed Frost Bank Center into a full Fiesta playoff arena with pink, teal, orange, and yellow seat colors and matching court branding.
 
-**What is the best-looking Round 1 matchup of opening weekend?**
+**What is the best-looking Round 1 matchup so far?**
 
-The 76ers at Celtics on Sunday is the only matchup of the opening weekend to earn a perfect 10 out of 10. Boston is in their Association Edition whites at home and Philadelphia is in their Icon Edition royal blue on the road. Both teams in their primary editions on the parquet at TD Garden creates the cleanest playoff visual of the weekend.
+Two matchups are tied at a perfect 10 out of 10. The 76ers at Celtics on Sunday, April 19 had Boston in their Association Edition whites at home and Philadelphia in their Icon Edition royal blue on the road on the parquet at TD Garden. The Trail Blazers at Spurs on Tuesday, April 21 had San Antonio back in their Association Edition whites at home after the Fiesta Game 1 treatment and Portland in their Icon Edition black on the road, a clean classic playoff visual at Frost Bank Center.
 
 **What is the lowest-scoring Round 1 matchup of opening weekend?**
 
@@ -720,11 +875,15 @@ Two Sunday games tied for the lowest score at 6 out of 10. The Suns at Thunder l
 
 **What is the worst-graded Round 1 jersey matchup so far?**
 
-The Atlanta Hawks at New York Knicks Game 2 on Monday, April 20 is the lowest-graded jersey matchup of Round 1 at 1 out of 10. The Knicks are wearing their Statement Edition black at home at Madison Square Garden, which reverses the traditional home-white setup. The Hawks are on the road in white, which is the wrong direction. We would have preferred Atlanta in their Icon Edition red for color-on-color contrast.
+The Houston Rockets at Los Angeles Lakers Game 2 on Tuesday, April 21 is the lowest-graded jersey matchup of Round 1 at 0 out of 10. The Lakers are wearing their City Edition black jersey at home on the black alternate court at Crypto.com Arena. This is the first time in franchise history the Lakers have worn a City Edition jersey in the playoffs. The Rockets are in Association Edition white on the road. The black-on-black-on-black visual erases both teams' color identity and makes for the most forgettable broadcast visual of the postseason.
 
 **What are the Monday night Game 2 jerseys in Round 1 of the 2026 NBA Playoffs?**
 
-Three Game 2s tip off Monday, April 20. The Raptors wear Icon Edition red at the Cavaliers in Classic Edition throwback blue (same matchup as Game 1, 7 out of 10). The Hawks wear Association Edition white at the Knicks in Statement Edition black (1 out of 10). The Timberwolves wear Association Edition white at the Nuggets in Statement Edition blue (3 out of 10). The Monday average is 3.7 out of 10, the weakest night of Round 1 so far.
+Three Game 2s tip off Monday, April 20. The Raptors wear Icon Edition red at the Cavaliers in Classic Edition throwback blue (same matchup as Game 1, 7 out of 10). The Hawks wear Association Edition white at the Knicks in Statement Edition black (1 out of 10). The Timberwolves wear Association Edition white at the Nuggets in Statement Edition blue (3 out of 10). The Monday average is 3.7 out of 10.
+
+**What are the Tuesday night Game 2 jerseys in Round 1 of the 2026 NBA Playoffs?**
+
+Three Game 2s tip off Tuesday, April 21. The Trail Blazers wear Icon Edition black at the Spurs in Association Edition white, with San Antonio flipping back from their Fiesta Game 1 look to a traditional home-white matchup (10 out of 10). The 76ers wear Association Edition white at the Celtics in Icon Edition green, with Boston flipping from their perfect-10 Game 1 whites to their away green at home (3 out of 10). The Rockets wear Association Edition white at the Lakers in City Edition black on the black alternate court at Crypto.com Arena, the first City Edition jersey in Lakers playoff history (0 out of 10). The Tuesday average is 4.3 out of 10.
 
 **Are the Knicks wearing white for Game 2 against the Hawks?**
 
