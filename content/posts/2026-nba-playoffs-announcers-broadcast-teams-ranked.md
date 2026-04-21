@@ -9,6 +9,7 @@ league: "nba"
 teams: []
 coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png"
 coverImagePosition: "center 15%"
+featuredOrder: 3
 ---
 
 <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />

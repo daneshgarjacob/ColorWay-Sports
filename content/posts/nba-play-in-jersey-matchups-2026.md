@@ -9,7 +9,6 @@ coverImagePosition: "center 15%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
-featuredOrder: 3
 ---
 
 <div style="margin: 0 0 2.5em; padding: 2em; background: linear-gradient(135deg, #0a0a1a 0%, #141428 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">

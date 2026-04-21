@@ -9,7 +9,6 @@ coverImage: "/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg"
 coverImagePosition: "center 10%"
 league: "nfl"
 teams: ["baltimore-ravens"]
-featuredOrder: 1
 ---
 
 <img src="/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg" alt="Baltimore Ravens The Next Flight 2026 uniform reveal showing all four jerseys including primary purple home, white road with Baltimore wordmark, Purple Rising alternate, and all-black Darkness alternate" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

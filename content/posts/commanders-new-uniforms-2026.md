@@ -9,7 +9,6 @@ coverImage: "/images/posts/commanders-reveal-2026/commanders-reveal-all-three.jp
 coverImagePosition: "center 75%"
 league: "nfl"
 teams: ["washington-commanders"]
-featuredOrder: 1
 ---
 
 <img src="/images/posts/commanders-reveal-2026/commanders-reveal-all-three.jpg" alt="Washington Commanders 2026 new uniforms reveal showing home burgundy, away white, and black Hail Raiser alternate jerseys" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

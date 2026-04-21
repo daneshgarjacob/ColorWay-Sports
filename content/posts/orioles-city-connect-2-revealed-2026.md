@@ -9,7 +9,6 @@ coverImage: "/images/posts/orioles-city-connect-2-2026/orioles-cc2-baltimore.jpg
 coverImagePosition: "center 20%"
 league: "mlb"
 teams: ["baltimore-orioles"]
-featuredOrder: 3
 ---
 
 <img src="/images/posts/orioles-city-connect-2-2026/orioles-cc2-baltimore.jpg" alt="Baltimore Orioles City Connect 2.0 jersey 2026 with colorful sleeves" style="width: 100%; border-radius: 10px;" />

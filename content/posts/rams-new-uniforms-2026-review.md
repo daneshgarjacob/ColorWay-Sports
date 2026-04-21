@@ -9,7 +9,6 @@ coverImage: "/images/posts/rams-new-uniforms-2026-review/Cover-Photo-Rams-Uni.jp
 coverImagePosition: "center 25%"
 league: "nfl"
 teams: ["los-angeles-rams"]
-featuredOrder: 1
 ---
 
 <img src="/images/posts/rams-new-uniforms-2026-review/Cover-Photo-Rams-Uni.jpg" alt="Los Angeles Rams new 2026 uniforms reveal featuring Matthew Stafford in updated blue and yellow home jersey" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

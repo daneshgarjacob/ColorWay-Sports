@@ -9,7 +9,6 @@ coverImage: "/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-c
 coverImagePosition: "center bottom"
 league: "nba"
 teams: ["philadelphia-76ers", "orlando-magic", "golden-state-warriors", "la-clippers"]
-featuredOrder: 2
 ---
 
 <img src="/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-court.png" alt="Philadelphia 76ers Play-In Tournament 2026 vs Orlando Magic pregame court logo at Xfinity Mobile Arena" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
