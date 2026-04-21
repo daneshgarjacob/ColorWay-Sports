@@ -2,7 +2,7 @@
 title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-excerpt: "The complete Round 1 jersey tracker for the 2026 NBA Playoffs, updated game by game. Opening weekend Saturday and Sunday grades plus Monday and Tuesday Game 2s. The Lakers wearing their City Edition black at home on the black alternate court against the Rockets is a 0 out of 10 and the worst matchup of Round 1 so far."
+excerpt: "2026 NBA Playoffs Round 1 jersey tracker. Every matchup graded, updated game by game. Lakers City Edition black vs Rockets scores 0 out of 10, the worst of Round 1."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 50%"
@@ -88,13 +88,26 @@ Tuesday is the second Game 2 slate. Three games, three full aesthetic swings. Th
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #C4CED4 0%, #000000 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 21, 2026</p>
+  </div>
+  <img src="/images/courts/nba/spurs-home.png" alt="Frost Bank Center San Antonio Spurs standard home court for 2026 NBA Playoffs Round 1 Game 2 vs Portland Trail Blazers" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio</p>
+</div>
+
 This is what a playoff game is supposed to look like. The Spurs traded the Fiesta pink, teal, orange, and yellow Game 1 treatment for their Association Edition whites at home. The Blazers brought their Icon Edition black on the road. Home team in white, road team in their primary color, classic playoff visual. We were obsessed with Frost Bank Center going full Fiesta for Game 1, but we wanted to see if the Spurs could still deliver a clean look when they dropped back to the standard home whites. They did.
 
 The court is back to the standard Spurs home configuration for Game 2. No Fiesta branding on the floor, no pink-teal-orange-yellow seat takeover. This lets the jerseys breathe and the matchup reads cleanly on broadcast. We are curious to see what the Spurs do with the crowd after the Roweled Up Fiesta treatment from Game 1, but the jerseys and court alone make this the best-looking matchup of Round 1 so far.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
-</div>
+
 
 ### Game 2: Philadelphia 76ers at Boston Celtics
 
@@ -121,15 +134,28 @@ The court is back to the standard Spurs home configuration for Game 2. No Fiesta
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 3 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #007A33 0%, #BA9653 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 21, 2026</p>
+  </div>
+  <img src="/images/courts/nba/celtics-home.png" alt="TD Garden Boston Celtics home court for 2026 NBA Playoffs Round 1 Game 2 vs Philadelphia 76ers" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">TD Garden · Boston</p>
+</div>
+
 This one drives us crazy. Boston has one of the best home white uniforms in the league. The Association Edition whites on the parquet at TD Garden in Game 1 earned a perfect 10 from us. And for Game 2, the Celtics are flipping to their Icon Edition green at home.
 
 Green is the Celtics' identity, yes, but it is their away color. The Icon Edition green is what they wear on the road. Wearing it at home flips the home-and-away logic of basketball. The Sixers in Association Edition white on the road is a sensible counter to create contrast, but now we have the Celtics in color at home and the Sixers in white on the road, which is exactly backwards from the playoff standard.
 
 Credit where it's due. At least this is not the Knicks in Statement black or the Nuggets in Statement blue. The Celtics' Icon green is an iconic look that still screams Boston, and it contrasts cleanly with the parquet. We are just not buying the home-team-in-color and away-team-in-white swap in a playoff game, especially when the Celtics could have run it back with the perfect 10 whites from Game 1.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 3 / 10</p>
-</div>
+
 
 ### Game 2: Houston Rockets at Los Angeles Lakers
 
@@ -156,6 +182,21 @@ Credit where it's due. At least this is not the Knicks in Statement black or the
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 0 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #552583 0%, #FDB927 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 21, 2026</p>
+  </div>
+  <img src="/images/courts/nba/lakers-alternate-home.png" alt="Crypto.com Arena Los Angeles Lakers black alternate home court for 2026 NBA Playoffs Round 1 Game 2 vs Houston Rockets" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Crypto.com Arena · Los Angeles</p>
+</div>
+
 This might be the worst decision of Round 1. The Lakers are wearing their City Edition black jersey at home on the black alternate court. This is the first time in franchise history the Lakers have worn a City Edition jersey in the playoffs. It should also be the last.
 
 The Lakers have one of the most iconic color palettes in professional sports. Purple and gold. Crypto.com Arena. A championship banner history that demands purple or gold on the floor when the lights come on in April. For Game 2 the team is choosing corporate City Edition black and a blackout court that erases all of it. This is not a matchup, this is a brand identity crisis.
@@ -164,9 +205,7 @@ The Rockets are in Association Edition white on the road. Houston white against 
 
 We are Lakers fans. We are disappointed. Playoff basketball at Crypto.com Arena should be purple or gold on that floor, every game, end of discussion.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 0 / 10</p>
-</div>
+
 
 ## Monday Night Game 2 Matchups
 
@@ -197,11 +236,24 @@ Monday is the first real Game 2 slate. Three games. Two home teams going dark (K
   </div>
 </div>
 
-Same matchup as Game 1, same score. The Cavs are running back their Classic Edition throwback blues at home on the LeBron-era alternate court. The Raptors are in their Icon Edition red on the road. The throwback blue carries enough Cleveland equity to justify not wearing whites, and the Raptors red against the Cavs blue still makes for a visually distinct broadcast matchup. The Cavs are also the only home team tonight not going dark, which should be said louder.
-
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
 </div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #CE1141 0%, #860038 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 20, 2026</p>
+  </div>
+  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Arena Cleveland Cavaliers alternate throwback home court for 2026 NBA Playoffs Round 1 Game 2 vs Toronto Raptors" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Arena · Cleveland</p>
+</div>
+
+Same matchup as Game 1, same score. The Cavs are running back their Classic Edition throwback blues at home on the LeBron-era alternate court. The Raptors are in their Icon Edition red on the road. The throwback blue carries enough Cleveland equity to justify not wearing whites, and the Raptors red against the Cavs blue still makes for a visually distinct broadcast matchup. The Cavs are also the only home team tonight not going dark, which should be said louder.
+
+
 
 ### Game 2: Atlanta Hawks at New York Knicks
 
@@ -228,13 +280,26 @@ Same matchup as Game 1, same score. The Cavs are running back their Classic Edit
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 1 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 20, 2026</p>
+  </div>
+  <img src="/images/courts/nba/knicks-home.png" alt="Madison Square Garden New York Knicks home court for 2026 NBA Playoffs Round 1 Game 2 vs Atlanta Hawks" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York</p>
+</div>
+
 This one drives us crazy. The Knicks have one of the best color palettes in the NBA. Orange and blue. Home whites at Madison Square Garden is exactly what a Knicks playoff game should look like. And yet for Game 2, they are going with their Statement Edition black at home. Why.
 
 It gets worse. The Hawks are in white on the road. White road jerseys against black home jerseys is backwards. We would have preferred the Hawks in their Icon Edition red so at least the matchup delivered color on color. Instead we get white on black with the roles reversed. The Hawks white is also not going to contrast cleanly with MSG crowd colors, which are orange and blue. The whole thing is a miss.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 1 / 10</p>
-</div>
+
 
 ### Game 2: Minnesota Timberwolves at Denver Nuggets
 
@@ -261,13 +326,26 @@ It gets worse. The Hawks are in white on the road. White road jerseys against bl
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 3 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #0E2240 0%, #FEC524 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 2</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 20, 2026</p>
+  </div>
+  <img src="/images/courts/nba/nuggets-home.png" alt="Ball Arena Denver Nuggets home court for 2026 NBA Playoffs Round 1 Game 2 vs Minnesota Timberwolves" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Ball Arena · Denver</p>
+</div>
+
 Same structural problem as the Knicks game. Home team in color, road team in white. The Nuggets are going with their Statement Edition blue at home and the Timberwolves are coming in with their Association Edition white on the road.
 
 The Nuggets blue is the saving grace. It's nicer than the Knicks black and it actually has some color pop on broadcast, especially against the Ball Arena crowd. The Timberwolves had the option of going with their gray Statement alternate they wore recently, but they picked white for a cleaner contrast against the Nuggets blue. The contrast is fine, not great. Not playoff-special.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 3 / 10</p>
-</div>
+
 
 Now to opening weekend.
 
@@ -296,6 +374,10 @@ Now to opening weekend.
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -311,9 +393,7 @@ The Cavs are going with their Classic Edition throwback blues at home. That's th
 
 The Raptors are in their Icon Edition red on the road. We would have preferred they go white, but at least they're in color and not fighting Cleveland's blue throwbacks. Red jerseys on the road against throwback Cavs blues should make for a visually distinct matchup on broadcast. Credit for the Raptors for picking a color that works with the Cavs' palette.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
-</div>
+
 
 ## Game 1: Minnesota Timberwolves at Denver Nuggets
 
@@ -340,6 +420,10 @@ The Raptors are in their Icon Edition red on the road. We would have preferred t
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -355,9 +439,7 @@ This is the best-looking Saturday matchup on paper. The Nuggets are going with t
 
 The Timberwolves are going with their Statement Edition on the road. This is the same alternate away look they wore a lot during last year's postseason, including some big moments against the Lakers. It's become a weekend playoff signature for Minnesota at this point, but we're docking points. When a road team has the chance to wear their primary away jersey in the playoffs and chooses an alternate instead, that costs them. The Nuggets get full credit. Minnesota loses points for skipping the primary road look.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
-</div>
+
 
 ## Game 1: Atlanta Hawks at New York Knicks
 
@@ -384,6 +466,10 @@ The Timberwolves are going with their Statement Edition on the road. This is the
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -407,9 +493,7 @@ The Knicks are doing it right. Home whites at Madison Square Garden for Game 1 o
 
 The Hawks are going with their Statement Edition black jersey as their away look. The contrast against Knicks white is going to look clean on broadcast, and the matchup is one point away from being a perfect 10. The only knock is that we would have preferred Atlanta in their primary Icon Edition red, which is one of the best road looks in the league.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
-</div>
+
 
 ## Game 1: Houston Rockets at Los Angeles Lakers
 
@@ -436,6 +520,10 @@ The Hawks are going with their Statement Edition black jersey as their away look
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9.5 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -451,9 +539,7 @@ The Lakers are doing what the Lakers should do. Icon Edition gold at home at Cry
 
 The Rockets are in their Statement Edition black road alternate. We would have preferred they go with their Icon Edition red, which is one of the cleanest road looks in the league and would have paired beautifully against the Lakers gold. The black alternate just doesn't pop on broadcast the same way. Half point off for Houston.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9.5 / 10</p>
-</div>
+
 
 ## Round 1 Opening Weekend Scorecard
 
@@ -563,6 +649,10 @@ Opening weekend averaged 7.8 out of 10. Monday night Game 2s dragged the Round 1
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -578,9 +668,7 @@ The Celtics are in their Association Edition whites at home and the Sixers are i
 
 This is the matchup that proves teams can still get this right when they want to. The Sixers' Icon blue is one of the best primary colors in the league. Pair it with Boston whites on the parquet and you have a textbook playoff visual. We have no notes. Perfect score.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
-</div>
+
 
 ## Game 1: Orlando Magic at Detroit Pistons
 
@@ -607,6 +695,10 @@ This is the matchup that proves teams can still get this right when they want to
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -622,9 +714,7 @@ The Pistons are in their Association Edition whites at home, and that's the righ
 
 The Magic are going with their Statement Edition black on the road instead of their primary blue away jersey. Black contrasts well with Detroit white, so the visual works, but we would have preferred the Magic in their primary blue. The Statement black is a solid alternate and the matchup will look clean on broadcast, just not perfect by traditional playoff standards. Points off for skipping the primary road look.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
-</div>
+
 
 ## Game 1: Phoenix Suns at Oklahoma City Thunder
 
@@ -651,6 +741,10 @@ The Magic are going with their Statement Edition black on the road instead of th
   </div>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 6 / 10</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1</p>
@@ -674,9 +768,7 @@ This one is a split decision. The Thunder skip their home whites for Icon Editio
 
 The Suns drag the score down. Phoenix has one of the best color palettes in the league with their purple and orange, and they're choosing to wear corporate Statement Edition black on the road instead. Black against Thunder blue creates a darker matchup than this game needed to be. We would have loved to see Phoenix in their primary road look and let those colors play off the Thunder blue. The Thunder hold the floor visually, but the Suns choice is what keeps this from being one of the cleaner Sunday games.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 6 / 10</p>
-</div>
+
 
 ## Game 1: Portland Trail Blazers at San Antonio Spurs
 
@@ -701,6 +793,10 @@ The Suns drag the score down. Phoenix has one of the best color palettes in the 
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Fiesta Black</p>
     </div>
   </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 6 / 10</p>
 </div>
 
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 1em;">
@@ -728,9 +824,7 @@ The Blazers wearing their Association Edition white on the road is unusual, and 
 
 This is still the matchup we're going to be turning on the TV for first. Frost Bank Center is going to look unreal.
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 6 / 10</p>
-</div>
+
 
 ## Round 1 Home Team White Jersey Tracker
 
