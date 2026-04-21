@@ -31,9 +31,10 @@ Now the longer version, sport by sport.
 
 ## Who Decides NBA Uniforms Each Game
 
-<div style="text-align: center; margin: 1.5em 0 2em;">
-  <img src="/images/jerseys/nba/spurs-city-black.png" alt="San Antonio Spurs City Edition Fiesta black jersey worn at home during the 2026 NBA Playoffs Round 1 Game 1 vs the Portland Trail Blazers as part of the Frost Bank Center Fiesta arena treatment" style="max-width: 320px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Spurs Fiesta City Edition · Round 1 Game 1</p>
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/celtics/status/2046620199592595791"></a>
+  </blockquote>
 </div>
 
 In the NBA, the home team submits its jersey choice to the league first, typically 24 to 48 hours before tip-off. That submission includes the specific edition the team wants to wear (Association, Icon, Statement, City, or Classic). The equipment manager leads the selection conversation internally, but the head coach signs off and the team's marketing department often weighs in, especially around City Edition wear dates, theme nights, or sponsor-driven promotions.
