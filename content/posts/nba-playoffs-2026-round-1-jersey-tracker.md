@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-16"
 excerpt: "The complete Round 1 jersey tracker for the 2026 NBA Playoffs, updated game by game. Opening weekend Saturday and Sunday grades plus Monday night Game 2s. Knicks in black at home for Game 2 against the Hawks is a 1 out of 10 and the worst matchup of Round 1 so far."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/hawks-knicks-round1-game2.png"
+coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -37,34 +37,8 @@ reviews:
     rating: 1
 ---
 
-<div style="background: linear-gradient(135deg, #1a1d28 0%, #0a0c14 100%); border-radius: 16px; padding: 36px 20px 32px; margin: 0 0 2em; border: 1px solid rgba(255,255,255,0.06);">
-  <div style="text-align: center; margin-bottom: 28px;">
-    <p style="color: #FF5910; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 3px; margin: 0 0 8px;">2026 NBA Playoffs · Round 1</p>
-    <h2 style="color: #fff; font-size: 26px; font-weight: 900; margin: 0; line-height: 1.15; letter-spacing: -0.02em;">Every Jersey Worn So Far</h2>
-    <p style="color: rgba(255,255,255,0.55); font-size: 11px; text-transform: uppercase; letter-spacing: 2px; margin: 10px 0 0; font-weight: 600;">11 Games Through Monday</p>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px 14px;">
-    <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold jersey worn in 2026 NBA Playoffs Round 1" style="height: 140px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/rockets-statement-black.png" alt="Houston Rockets Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/spurs-city-black.png" alt="San Antonio Spurs City Edition Fiesta black jersey worn in 2026 NBA Playoffs Round 1" style="height: 135px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 125px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/hawks-statement-black.png" alt="Atlanta Hawks Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/celtics-association-white.png" alt="Boston Celtics Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/sixers-icon-blue.png" alt="Philadelphia 76ers Icon Edition royal blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 135px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/magic-statement-black.png" alt="Orlando Magic Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/suns-statement-black.png" alt="Phoenix Suns Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 125px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/blazers-association-white.png" alt="Portland Trail Blazers Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/timberwolves-statement-grey.png" alt="Minnesota Timberwolves Statement Edition grey jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/nuggets-association-white.png" alt="Denver Nuggets Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/hawks-association-white.png" alt="Atlanta Hawks Association Edition white jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 120px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/knicks-statement-black.png" alt="New York Knicks Statement Edition black jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 125px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/timberwolves-association-white.png" alt="Minnesota Timberwolves Association Edition white jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 115px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-    <img src="/images/jerseys/nba/nuggets-statement-blue.png" alt="Denver Nuggets Statement Edition blue jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 130px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
-  </div>
+<div style="margin: 0 0 2em;">
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NBA jersey worn in 2026 Playoffs Round 1 through Monday Game 2 collage — Cavs Classic blue, Lakers Icon gold, Spurs Fiesta black, Thunder Icon blue, Knicks Association white, Celtics Association white, Sixers Icon royal blue and more" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 This is the running tracker for every 2026 NBA Playoffs Round 1 jersey matchup. Opening weekend is locked in below with all eight Saturday and Sunday games, and we've added Monday night's three Game 2 matchups at the top of the page. The Knicks wearing Statement Edition black at home against the Hawks dropped the Round 1 average to 6.7 out of 10, and it's the worst jersey matchup of the postseason so far at 1 out of 10.
