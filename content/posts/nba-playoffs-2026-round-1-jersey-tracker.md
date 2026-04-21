@@ -37,9 +37,34 @@ reviews:
     rating: 1
 ---
 
-<div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/jerseys/nba/lakers-hero-image.jpg" alt="Los Angeles Lakers Icon Edition jersey threads graphic for 2026 NBA Playoffs Round 1 vs Houston Rockets" style="max-width: 420px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">via <a href="https://www.nba.com/lakers" style="color: #999;">Los Angeles Lakers</a></p>
+<div style="background: linear-gradient(135deg, #1a1d28 0%, #0a0c14 100%); border-radius: 16px; padding: 36px 20px 32px; margin: 0 0 2em; border: 1px solid rgba(255,255,255,0.06);">
+  <div style="text-align: center; margin-bottom: 28px;">
+    <p style="color: #FF5910; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 3px; margin: 0 0 8px;">2026 NBA Playoffs · Round 1</p>
+    <h2 style="color: #fff; font-size: 26px; font-weight: 900; margin: 0; line-height: 1.15; letter-spacing: -0.02em;">Every Jersey Worn So Far</h2>
+    <p style="color: rgba(255,255,255,0.55); font-size: 11px; text-transform: uppercase; letter-spacing: 2px; margin: 10px 0 0; font-weight: 600;">11 Games Through Monday</p>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px 14px;">
+    <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold jersey worn in 2026 NBA Playoffs Round 1" style="height: 140px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/rockets-statement-black.png" alt="Houston Rockets Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/spurs-city-black.png" alt="San Antonio Spurs City Edition Fiesta black jersey worn in 2026 NBA Playoffs Round 1" style="height: 135px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 125px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/hawks-statement-black.png" alt="Atlanta Hawks Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/celtics-association-white.png" alt="Boston Celtics Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/sixers-icon-blue.png" alt="Philadelphia 76ers Icon Edition royal blue jersey worn in 2026 NBA Playoffs Round 1" style="height: 135px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/magic-statement-black.png" alt="Orlando Magic Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/suns-statement-black.png" alt="Phoenix Suns Statement Edition black jersey worn in 2026 NBA Playoffs Round 1" style="height: 125px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/blazers-association-white.png" alt="Portland Trail Blazers Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 120px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/timberwolves-statement-grey.png" alt="Minnesota Timberwolves Statement Edition grey jersey worn in 2026 NBA Playoffs Round 1" style="height: 115px; transform: rotate(-2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/nuggets-association-white.png" alt="Denver Nuggets Association Edition white jersey worn in 2026 NBA Playoffs Round 1" style="height: 130px; transform: rotate(4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/hawks-association-white.png" alt="Atlanta Hawks Association Edition white jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 120px; transform: rotate(-3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/knicks-statement-black.png" alt="New York Knicks Statement Edition black jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 125px; transform: rotate(2deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/timberwolves-association-white.png" alt="Minnesota Timberwolves Association Edition white jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 115px; transform: rotate(-4deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+    <img src="/images/jerseys/nba/nuggets-statement-blue.png" alt="Denver Nuggets Statement Edition blue jersey worn in 2026 NBA Playoffs Round 1 Game 2" style="height: 130px; transform: rotate(3deg); filter: drop-shadow(0 10px 22px rgba(0,0,0,0.55));" />
+  </div>
 </div>
 
 This is the running tracker for every 2026 NBA Playoffs Round 1 jersey matchup. Opening weekend is locked in below with all eight Saturday and Sunday games, and we've added Monday night's three Game 2 matchups at the top of the page. The Knicks wearing Statement Edition black at home against the Hawks dropped the Round 1 average to 6.7 out of 10, and it's the worst jersey matchup of the postseason so far at 1 out of 10.
@@ -61,21 +86,23 @@ Monday is the first real Game 2 slate. Three games. Two home teams going dark (K
 ### Game 2: Toronto Raptors at Cleveland Cavaliers
 
 <div style="background: linear-gradient(135deg, #4a2a38 0%, #1c1017 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #CE1141 0%, #860038 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Away</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
       <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Red</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Home</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
       <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
     </div>
   </div>
@@ -90,21 +117,23 @@ Same matchup as Game 1, same score. The Cavs are running back their Classic Edit
 ### Game 2: Atlanta Hawks at New York Knicks
 
 <div style="background: linear-gradient(135deg, #2d4562 0%, #131c2c 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Away</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/hawks-association-white.png" alt="Atlanta Hawks Association Edition white jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Home</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/knicks-statement-black.png" alt="New York Knicks Statement Edition black jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
     </div>
   </div>
@@ -121,21 +150,23 @@ It gets worse. The Hawks are in white on the road. White road jerseys against bl
 ### Game 2: Minnesota Timberwolves at Denver Nuggets
 
 <div style="background: linear-gradient(135deg, #2a3850 0%, #131c2c 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #0E2240 0%, #FEC524 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Away</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/timberwolves-association-white.png" alt="Minnesota Timberwolves Association Edition white jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Home</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/nuggets-statement-blue.png" alt="Denver Nuggets Statement Edition blue jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DENVER NUGGETS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DENVER NUGGETS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Blue</p>
     </div>
   </div>
@@ -154,21 +185,23 @@ Now to opening weekend.
 ## Game 1: Toronto Raptors at Cleveland Cavaliers
 
 <div style="background: linear-gradient(135deg, #4a2a38 0%, #1c1017 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Red</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
     </div>
   </div>
@@ -196,21 +229,23 @@ The Raptors are in their Icon Edition red on the road. We would have preferred t
 ## Game 1: Minnesota Timberwolves at Denver Nuggets
 
 <div style="background: linear-gradient(135deg, #2a3850 0%, #131c2c 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/timberwolves-statement-grey.png" alt="Minnesota Timberwolves Statement Edition grey jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Grey</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/nuggets-association-white.png" alt="Denver Nuggets Association Edition white jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DENVER NUGGETS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DENVER NUGGETS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
   </div>
@@ -238,21 +273,23 @@ The Timberwolves are going with their Statement Edition on the road. This is the
 ## Game 1: Atlanta Hawks at New York Knicks
 
 <div style="background: linear-gradient(135deg, #2d4562 0%, #131c2c 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/hawks-statement-black.png" alt="Atlanta Hawks Statement Edition black jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks Association Edition white jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
   </div>
@@ -288,21 +325,23 @@ The Hawks are going with their Statement Edition black jersey as their away look
 ## Game 1: Houston Rockets at Los Angeles Lakers
 
 <div style="background: linear-gradient(135deg, #3a2b55 0%, #180f26 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/rockets-statement-black.png" alt="Houston Rockets Statement Edition black jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HOUSTON ROCKETS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HOUSTON ROCKETS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold jersey" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Gold</p>
     </div>
   </div>
@@ -397,21 +436,23 @@ Opening weekend averaged 7.8 out of 10. Monday night Game 2s dragged the Round 1
 ## Game 1: Philadelphia 76ers at Boston Celtics
 
 <div style="background: linear-gradient(135deg, #2a4232 0%, #111c14 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/sixers-icon-blue.png" alt="Philadelphia 76ers Icon Edition royal blue jersey for 2026 NBA Playoffs Round 1 at Boston Celtics" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Royal Blue</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/celtics-association-white.png" alt="Boston Celtics Association Edition white home jersey for 2026 NBA Playoffs Round 1 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON CELTICS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON CELTICS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
   </div>
@@ -439,21 +480,23 @@ This is the matchup that proves teams can still get this right when they want to
 ## Game 1: Orlando Magic at Detroit Pistons
 
 <div style="background: linear-gradient(135deg, #2d3a55 0%, #141a26 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/magic-statement-black.png" alt="Orlando Magic Statement Edition black jersey for 2026 NBA Playoffs Round 1 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ORLANDO MAGIC</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ORLANDO MAGIC</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white home jersey for 2026 NBA Playoffs Round 1 vs Orlando Magic" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
   </div>
@@ -481,21 +524,23 @@ The Magic are going with their Statement Edition black on the road instead of th
 ## Game 1: Phoenix Suns at Oklahoma City Thunder
 
 <div style="background: linear-gradient(135deg, #1d4565 0%, #0d1c2c 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/suns-statement-black.png" alt="Phoenix Suns Statement Edition black jersey for 2026 NBA Playoffs Round 1 at Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHOENIX SUNS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHOENIX SUNS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue home jersey for 2026 NBA Playoffs Round 1 vs Phoenix Suns" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
     </div>
   </div>
@@ -531,21 +576,23 @@ The Suns drag the score down. Phoenix has one of the best color palettes in the 
 ## Game 1: Portland Trail Blazers at San Antonio Spurs
 
 <div style="background: linear-gradient(135deg, #2d3038 0%, #151619 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 5px 14px; background: linear-gradient(90deg, #ec0089 0%, #00b2a9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/blazers-association-white.png" alt="Portland Trail Blazers Association Edition white jersey for 2026 NBA Playoffs Round 1 at San Antonio Spurs Fiesta court" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PORTLAND TRAIL BLAZERS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PORTLAND TRAIL BLAZERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; display: inline-block;">Playoff Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/spurs-city-black.png" alt="San Antonio Spurs City Edition Fiesta black jersey for 2026 NBA Playoffs Round 1 vs Portland Trail Blazers" style="height: 200px; max-width: 100%; object-fit: contain;" />
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 10px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Fiesta Black</p>
     </div>
   </div>
