@@ -5,7 +5,7 @@ date: "2026-04-21"
 excerpt: "Who decides which jersey teams wear each game? We break down the process in the NBA, NFL, NHL, and MLB, from equipment managers to head coaches to the league office."
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #0a0a1a 100%)"
 coverImage: "/images/jerseys/nba/lakers-hero-image.jpg"
-coverImagePosition: "center 65%"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
