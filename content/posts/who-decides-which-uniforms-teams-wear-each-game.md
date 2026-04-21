@@ -4,16 +4,16 @@ category: "NBA"
 date: "2026-04-21"
 excerpt: "Who decides which jersey teams wear each game? We break down the process in the NBA, NFL, NHL, and MLB, from equipment managers to head coaches to the league office."
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #0a0a1a 100%)"
-coverImage: "/images/jerseys/nba/lakers-city-black.png"
-coverImagePosition: "center 35%"
+coverImage: "/images/jerseys/nba/lakers-hero-image.jpg"
+coverImagePosition: "center 30%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/jerseys/nba/lakers-city-black.png" alt="Los Angeles Lakers City Edition black jersey worn at home during the 2026 NBA Playoffs Round 1 Game 2 vs the Houston Rockets, the first City Edition jersey in Lakers playoff history" style="max-width: 360px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Lakers City Edition · 2026 NBA Playoffs Round 1 Game 2</p>
+  <img src="/images/jerseys/nba/lakers-hero-image.jpg" alt="Los Angeles Lakers Threads Icon Edition uniform reveal graphic for the 2026 NBA Playoffs Round 1 vs the Houston Rockets showing Lakers jersey collage and presenting partner Bibigo" style="max-width: 420px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Lakers Threads · 2026 NBA Playoffs Round 1</p>
 </div>
 
 The Lakers wore their City Edition black jersey at home on a black alternate court for Game 2 of Round 1 against the Rockets. It is the first City Edition jersey in Lakers playoff history. A bold choice. A controversial one. So who actually makes that call?
@@ -23,7 +23,7 @@ Uniform decisions are one of the most misunderstood parts of a broadcast. Fans a
 ## The Short Answer
 
 - **NBA**: Home team submits its jersey choice first, usually 24 to 48 hours before tip-off. The equipment manager leads the call with input from the head coach and marketing. The league reviews against alternate minimums and ensures the away team contrasts.
-- **NFL**: The uniform schedule is locked in before the season starts, built by the equipment manager and head coach and submitted to the league. Color Rush games on Thursday night are league-mandated. Alternates and throwbacks require league approval.
+- **NFL**: Uniform selections locked in by July 1 and submitted to NFL Football Operations. Head coach typically leads the in-season calls, with the team president, equipment manager, and senior marketing executives weighing in. Team captains and star players occasionally shape specific-game decisions.
 - **NHL**: The home team wears color, the road team wears white. Home team picks which color sweater (primary or alternate). Simplest system in pro sports.
 - **MLB**: The manager decides for each game. Home team has multiple options (home whites, alternates, City Connect). City Connect wear dates are set by MLB and Nike. Away team usually wears grays.
 
@@ -51,22 +51,54 @@ For the full breakdown of every Round 1 NBA jersey matchup, see our [2026 NBA Pl
 
 ## Who Decides NFL Uniforms Each Game
 
-In the NFL, the uniform schedule is locked in long before the regular season starts. Most teams publish the full season of home-game uniform combinations in August or September. That schedule is built by the team's equipment manager and head coach, reviewed by the marketing department, and submitted to the league for approval.
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/ClutchPoints/status/1981467962323398841"></a>
+  </blockquote>
+</div>
 
-A few specific rules shape what teams can do:
+The NFL has two separate decision tracks, which is what makes it more complicated than the other three leagues:
 
-- **Home vs. white**: The home team picks whether to wear color or white. Most home teams default to color, but the Cowboys famously wear white at home for most games and have since the 1960s. Mike McCarthy and Jerry Jones have both defended this as team tradition.
-- **Color Rush**: Thursday Night Football Color Rush games are mandated by the league. Both teams wear color-on-color alternates chosen for the broadcast. The NFL controls the scheduling of these games and the visual approval.
-- **Throwbacks and alternates**: Teams can wear a set number of alternate or throwback uniforms per season (historically three per year under the one-helmet rule, now up to four alternates plus a Color Rush). Each requires league approval and is locked in before the season.
-- **Weather**: Cold-weather teams sometimes shift to dark colors at home to absorb heat. This is more tradition than science, but coaches do factor it in.
+1. **Which jerseys a team will wear at each home game**: locked in by July 1 and submitted to NFL Football Operations in advance.
+2. **The specific combination worn for a given game**: the day-of call, typically a collaboration between a few front office and football operations people.
 
-The NFL is the most locked-down of the four leagues. Once the season starts, a team can't just decide day-of to flip to an alternate. The schedule is the schedule.
+### The July 1 Lock
+
+Before every season, each team submits two things to the league office:
+
+- The jersey color (white or team color) the home team will wear at each home game on the schedule.
+- Up to three alternate or throwback uniforms the team plans to wear during the regular season.
+
+Preseason uniform selections are unlimited. Regular season alternates are capped at three per team, per year. All selections go to NFL Football Operations by July 1. After that deadline, teams cannot change without league approval. The visiting team then wears a contrasting color, subject to league review for "sufficient contrast."
+
+### Who Is Actually In The Room
+
+The cast of uniform decision-makers inside an NFL organization varies by franchise, but the recurring roles are:
+
+- **Head coach**: Typically the primary in-season decision-maker. Many head coaches have strong personal views on uniform combinations. Steve Spagnuolo once tried to make every uniform call himself before eventually delegating it to team captains. Different Rams head coaches have driven different calls over the years, including Ray Malavasi choosing white jerseys at home because he felt it made the team "look bigger," and Mike Martz going with white pants one year because he did not like the blue.
+- **Team president**: Weighs in heavily on the bigger decisions, especially uniform redesigns and special occasions. The Detroit Lions' President Rod Wood collaborates with Head Coach Dan Campbell on the annual July submission. The Baltimore Ravens' President Sashi Brown was one of only four people in the organization involved in the team's 2026 uniform redesign.
+- **Equipment manager**: Runs logistics and is deep in every call. Handles jersey numbering, pads, sock height requirements, and weekly pants-and-socks combinations. Detroit's Equipment Manager Tim O'Neil texts a small group of team captains early in each week for the pants and socks decisions. Alex Anzalone is one of the known voices in that group. The equipment manager is also the primary point of contact with the league's game-day uniform inspectors.
+- **Senior marketing and brand executives**: Pull in on theme games, heritage nights, alternate rollouts, and redesigns. The Ravens redesign was led by Senior Vice President of Marketing Brad Downs and Vice President of Brand Strategy & Advertising Josh Lukin, alongside the team president and head equipment manager Kenico Hines.
+- **Players**: Individual players occasionally shape decisions. The Lions wore their black alternate for the 2021 game against Seattle specifically because Calvin Johnson preferred that look for his Hall of Fame induction day.
+
+### The Cowboys Exception
+
+The Dallas Cowboys wear white at home for almost every game. This is one of the longest-running uniform traditions in pro sports and dates to the Tom Landry era. The tradition was continued by Tex Schramm and remains enforced today by Jerry Jones, who holds the rare combined role of owner, president, and general manager. The Cowboys wear their blue home jersey only a handful of times per year, usually for rivalry games or specific matchups where the team wants a different visual message.
+
+### Color Rush
+
+Thursday Night Football Color Rush games are the exception to the whole team-level selection framework. Color Rush combinations are league-mandated and scheduled by NFL Football Operations in coordination with the broadcast partner. Teams submit their Color Rush selection in advance, but the actual game-date scheduling is top-down from the league.
+
+### Game-Day Compliance
+
+Once the jersey is selected and the team takes the field, the league enforces compliance through 64 uniform inspectors, all former players assigned to home games. They monitor warm-ups, meet with team reps 30 minutes before kickoff, and check locker rooms after games for unauthorized logos. Teams face 5-yard penalties for players who re-enter games with uniforms out of compliance. Fines collected go to retired players.
 
 ## Who Decides NHL Uniforms Each Game
 
-<div style="text-align: center; margin: 1.5em 0 2em;">
-  <img src="/images/jerseys/nhl/sabres-blue.png" alt="Buffalo Sabres royal blue home sweater worn at home during the 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs the Boston Bruins" style="max-width: 320px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Sabres royal blue home sweater · NHL Playoffs Round 1</p>
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/DallasStars/status/2045591072437424309"></a>
+  </blockquote>
 </div>
 
 The NHL has the cleanest system in pro sports. The league flipped the rule in 2003: home teams wear color, road teams wear white. Before 2003 it was the opposite. Since the flip, the rule has stayed put.
@@ -82,6 +114,11 @@ The NHL still has a few moving pieces:
 For the full breakdown of every Round 1 NHL jersey matchup, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 ## Who Decides MLB Uniforms Each Game
+
+<div style="text-align: center; margin: 0 0 2em;">
+  <img src="/images/posts/dodgers-blue-road-jersey-promo.jpg" alt="Will Smith of the Los Angeles Dodgers modeling the new blue road jersey with Taking Our Blue On The Road promotional graphic released when the Dodgers made their 2026 blue road jersey rotation official" style="max-width: 460px; width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Will Smith · Dodgers blue road jersey reveal</p>
+</div>
 
 MLB gives managers the most day-to-day flexibility of any of the four leagues. The manager decides each game what the team will wear, often in consultation with the starting pitcher (pitchers are famously superstitious about jerseys), the clubhouse manager, and sometimes the catcher.
 
