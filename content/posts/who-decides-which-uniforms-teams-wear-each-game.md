@@ -16,7 +16,7 @@ teams: []
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Lakers Threads · 2026 NBA Playoffs Round 1</p>
 </div>
 
-The Lakers wore their City Edition black jersey at home on a black alternate court for Game 2 of Round 1 against the Rockets. It is the first City Edition jersey in Lakers playoff history. A bold choice. A controversial one. So who actually makes that call?
+The Lakers released this Threads graphic before Round 1 Game 1 showing off their Icon Edition gold at home against the Rockets. It looked like the Lakers anyone would expect. Classic purple and gold, iconic at home at Crypto.com Arena. For Game 2 the team flipped to their City Edition black jersey on a black alternate court. It was the first City Edition jersey in Lakers playoff history, and a controversial one. Same series, same matchup, two completely different visual statements. Both of those decisions came out of the same decision chain. So who actually makes those calls?
 
 Uniform decisions are one of the most misunderstood parts of a broadcast. Fans assume a team grabs a jersey and plays. The reality is a multi-step process involving equipment managers, head coaches, marketing departments, the league office, and in some cases the manufacturer. Here is how the decision actually gets made in each of the four major North American leagues.
 
