@@ -921,6 +921,30 @@ Three Game 2s tip off Monday, April 20. The Raptors wear Icon Edition red at the
 
 Three Game 2s tip off Tuesday, April 21. The Trail Blazers wear Icon Edition black at the Spurs in Association Edition white, with San Antonio flipping back from their Fiesta Game 1 look to a traditional home-white matchup (10 out of 10). The 76ers wear Association Edition white at the Celtics in Icon Edition green, with Boston flipping from their perfect-10 Game 1 whites to their away green at home (3 out of 10). The Rockets wear Association Edition white at the Lakers in City Edition black on the black alternate court at Crypto.com Arena, the first City Edition jersey in Lakers playoff history (0 out of 10). The Tuesday average is 4.3 out of 10.
 
+**What are the Wednesday night Game 2 jerseys in Round 1 of the 2026 NBA Playoffs?**
+
+Two Game 2s tip off Wednesday, April 22. The Magic at Pistons repeat the Game 1 matchup with Orlando in Statement Edition black on the road and Detroit in Association Edition white at home (8 out of 10). The Suns at Thunder swing the other way, with Phoenix flipping from Statement Edition black to Association Edition white on the road and Oklahoma City flipping from Icon Edition blue to City Edition blue at home on a matching City Edition alternate court (6 out of 10). The Wednesday average is 7 out of 10.
+
+**Are the Thunder wearing a City Edition jersey in the 2026 Playoffs?**
+
+Yes. The Oklahoma City Thunder are wearing their City Edition blue jersey at home for Game 2 against the Phoenix Suns on Wednesday, April 22, paired with the matching City Edition alternate court at Paycom Center. It is the first City Edition wear of the postseason for Oklahoma City after opening the series in their Icon Edition blue for Game 1 on Sunday.
+
+**Does the Oklahoma City Thunder have an alternate court for the 2026 Playoffs?**
+
+Yes. The Oklahoma City Thunder are pairing their City Edition blue jersey with a matching City Edition alternate court at Paycom Center for Game 2 against the Phoenix Suns. The alternate court carries the same City Edition design language as the jersey, giving the Paycom Center broadcast a fully branded City Edition visual from the jersey to the floor.
+
+**What jersey are the Phoenix Suns wearing for Game 2 against the Thunder?**
+
+The Phoenix Suns are wearing their Association Edition white road jersey for Game 2 against the Oklahoma City Thunder on Wednesday, April 22, switching from the Statement Edition black they wore in Game 1. Wearing Association whites on the road is not the traditional playoff standard, but the white-against-Thunder-City-blue visual reads cleaner on broadcast than the Game 1 black-on-blue matchup.
+
+**Are the Pistons wearing home whites for Game 2 against the Magic?**
+
+Yes. The Detroit Pistons are wearing their Association Edition white home jersey for Game 2 against the Orlando Magic at Little Caesars Arena on Wednesday, April 22, repeating the look from Game 1. Detroit is the only Round 1 home team to commit to their traditional Association whites for back-to-back playoff games so far, with the Nuggets, Knicks, and Celtics all flipping to alternates for Game 2.
+
+**Which NBA team has the best home white jersey commitment in Round 1 of the 2026 Playoffs?**
+
+The Detroit Pistons have the strongest Round 1 home-white commitment so far. The Pistons wore Association Edition white at Little Caesars Arena for both Game 1 on Sunday, April 19 and Game 2 on Wednesday, April 22. The Nuggets, Knicks, and Celtics all wore their Association whites in Game 1 but flipped to Statement or Icon Edition alternates for Game 2 at home. Round 1 home teams have worn a primary home look in 7 of 16 games (44%) through Wednesday.
+
 **Are the Knicks wearing white for Game 2 against the Hawks?**
 
 No. The New York Knicks are wearing their Statement Edition black jersey at home for Game 2 at Madison Square Garden, switching from the Association Edition whites they wore in Game 1. The Hawks are coming in on the road in their Association Edition white instead of the Statement black they wore in Game 1. It earned a 1 out of 10 in our matchup grade.
