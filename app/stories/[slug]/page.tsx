@@ -79,37 +79,16 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   if (post.reviews && post.reviews.length > 0) {
     const ratingValues = post.reviews.map((r) => r.rating);
     const avgRating = ratingValues.reduce((a, b) => a + b, 0) / ratingValues.length;
-    const itemReviewed = {
+
+    articleSchema.mainEntity = {
       "@type": "CreativeWork",
       name: post.title,
       url: `https://www.colorwaysports.com/stories/${slug}`,
       author: {
         "@type": "Organization",
         name: "ColorWay Sports",
-      },
-    };
-    articleSchema.review = post.reviews.map((r) => ({
-      "@type": "Review",
-      name: r.name,
-      itemReviewed: {
-        "@type": "SportsEvent",
-        name: r.name,
-        startDate: post.date,
-      },
-      reviewRating: {
-        "@type": "Rating",
-        ratingValue: r.rating,
-        bestRating,
-        worstRating,
-      },
-      author: {
-        "@type": "Organization",
-        name: "ColorWay Sports",
         url: "https://www.colorwaysports.com",
       },
-    }));
-    articleSchema.mainEntity = {
-      ...itemReviewed,
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: Number(avgRating.toFixed(2)),
@@ -117,6 +96,25 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         bestRating,
         worstRating,
       },
+      review: post.reviews.map((r) => ({
+        "@type": "Review",
+        name: r.name,
+        itemReviewed: {
+          "@type": "CreativeWork",
+          name: r.name,
+        },
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: r.rating,
+          bestRating,
+          worstRating,
+        },
+        author: {
+          "@type": "Organization",
+          name: "ColorWay Sports",
+          url: "https://www.colorwaysports.com",
+        },
+      })),
     };
   }
 
