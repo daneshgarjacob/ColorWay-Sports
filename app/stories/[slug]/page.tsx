@@ -50,7 +50,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     notFound();
   }
 
-  const publishedIso = new Date(post.date + "T12:00:00Z").toISOString();
+  const publishedIso = new Date(post.date.includes("T") ? post.date : post.date + "T12:00:00Z").toISOString();
 
   const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
