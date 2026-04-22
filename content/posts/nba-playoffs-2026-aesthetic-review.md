@@ -1,24 +1,24 @@
 ---
-title: "The NBA Said the 2026 Playoffs Would Look Different. Here's the Only Change They Actually Made."
+title: "The NBA Backboard Has Been Missing the Playoffs Logo for Two Years. The Finals Need to Bring It Back."
 category: "NBA"
 date: "2026-04-21"
-excerpt: "The NBA promised aesthetic changes for the 2026 Playoffs. The only real change is the backboard playoffs logo is gone. Court branding, basket ads, and arena signage all stayed the same."
+excerpt: "The NBA Playoffs backboard hasn't had the playoffs logo for two years. We're hoping the 2026 Finals bring back the Finals logo on the court and on the stanchion."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-coverImage: "/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-2.jpg"
-coverImagePosition: "center 45%"
+coverImage: "/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-1.jpg"
+coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-2.jpg" alt="2026 NBA Playoffs backboard stanchion at Crypto.com Arena showing Tap To Watch NBA App and State Farm signage with no playoff logo on the base, the one visible aesthetic change for the 2026 postseason" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Crypto.com Arena · 2026 NBA Playoffs Round 1 backboard</p>
+  <img src="/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-1.jpg" alt="James Harden in his Clippers number 1 jersey in the 2026 NBA Playoffs Round 1 with the backboard stanchion in view showing standard regular season sponsor branding instead of the NBA Playoffs logo, the second straight postseason without it" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">2026 NBA Playoffs Round 1 · backboard stanchion · no playoffs logo</p>
 </div>
 
-Heading into the 2026 NBA Playoffs, the league talked up aesthetic changes for the postseason. New presentation. New branding. A visual refresh for the new broadcast era with NBC and Amazon Prime joining ABC and ESPN. We watched Round 1 closely to see what the overhaul actually looked like. The answer: one change. Exactly one. The playoffs logo is no longer on the backboard stanchion. Everything else is the same.
+For the second straight year, the NBA Playoffs are missing the playoffs logo from the backboard stanchion. Last year was the first time the league dropped it. This year was a chance to bring it back. They didn't. Here is what is on the backboard now, what's still on the court, and why we want the league to bring the prestige treatment back for the 2026 NBA Finals.
 
-## What Actually Changed: The Playoffs Logo Is Off the Backboard
+## What's Missing for the Second Straight Postseason
 
 For years, the NBA put the playoffs or Finals logo prominently on the wedge-shaped base of the backboard stanchion. You could not watch a playoff broadcast without seeing it. The 2018 Finals had the NBA Finals logo wrapped around the entire stanchion base at Oracle Arena. The 2022 Finals kept the same formula at both TD Garden and Chase Center.
 
@@ -32,19 +32,25 @@ For years, the NBA put the playoffs or Finals logo prominently on the wedge-shap
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">TD Garden · 2022 NBA Finals · stanchion base branding</p>
 </div>
 
-For 2026, the league stripped it. The base of the stanchion now runs local-sponsor branding and the standard NBA App and State Farm signage. No playoffs logo. Same backboard, same ad rotation as a regular-season home game.
+Last year was the first time the league dropped it. The 2025 NBA Playoffs ran with a clean backboard stanchion, no playoffs logo on the base, and the same standard regular-season ad rotation in its place. We were hoping the league would correct the omission for 2026 and bring the postseason treatment back. Instead, the 2026 Playoffs opened with the same setup. Two straight years now without the playoffs logo on the stanchion.
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-1.jpg" alt="2026 NBA Playoffs Round 1 backboard with no playoff logo on the stanchion base, the one aesthetic change the league made for the 2026 postseason" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
-  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">2026 NBA Playoffs Round 1 · clean stanchion base</p>
-</div>
-
-<div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-2.jpg" alt="Crypto.com Arena 2026 NBA Playoffs backboard with Tap To Watch NBA App and State Farm branding and no playoff logo on the stanchion, identical to a regular season home game setup" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-2.jpg" alt="Crypto.com Arena 2026 NBA Playoffs Round 1 backboard with Tap To Watch NBA App and State Farm branding and no playoff logo on the stanchion, identical to a regular season home game setup and the second straight postseason without the playoffs logo" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Crypto.com Arena · 2026 NBA Playoffs Round 1 · clean stanchion base</p>
 </div>
 
-That is the change. The whole change. The stanchion went from a playoff canvas to a normal regular-season advertising surface.
+The stanchion looks like a regular-season home game. No marker that this is the postseason. No marker for the round. Just the standard ad cycle.
+
+## But the Play-In Tournament Got the Treatment
+
+Here is the part that bothers us. The NBA bothered to brand the backboard for the 2026 Play-In Tournament. The Play-In wedge stanchion ran the Play-In Tournament logo prominently for the entire week of those games.
+
+<div style="text-align: center; margin: 0 0 2em;">
+  <img src="/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.png" alt="2026 NBA Play-In Tournament Heat at Hornets backboard stanchion with Play-In Tournament branding clearly displayed on the stanchion base, while the Round 1 Playoffs backboard runs no equivalent branding" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Heat at Hornets · 2026 Play-In Tournament · stanchion branded</p>
+</div>
+
+The infrastructure is right there. The design exists, the production team knows how to run it, the arena ops team knows how to set it up. The Play-In gets the treatment. The actual playoffs do not. That is the inconsistency we want the league to fix.
 
 ## What Didn't Change: Basically Everything Else
 
@@ -76,35 +82,39 @@ The ad rotation on the backboard structure still runs team-level sponsors and st
 
 Home teams are running the same playoff arena packages they ran last year, many of them elevated by individual team creative (the Spurs went full Fiesta in San Antonio, the Thunder ran the full playoffs treatment at Paycom Center, the Knicks did the Always Knicks t-shirt takeover). None of that is league-level new. It is team creative at the arena level, same as every postseason.
 
-## Our Take
+## Our Take: Bring It Back for the Finals
 
-Calling this an "aesthetic overhaul" is a stretch. The league removed one logo from one surface and kept everything else exactly the same. If you muted the broadcast and did not notice the clean stanchion, you could not tell this was a redesigned postseason. It is the same broadcast as last April with a single branding deletion.
+The 2026 NBA Playoffs deserve more than a regular-season ad rotation on the basket. So did the 2025 Playoffs. The league showed during the Play-In Tournament that the production team can deliver branded stanchion treatment when the league wants it. They just have not chosen to deploy it for the actual playoffs in two straight years.
 
-The move is not wrong. Stripping a playoff logo off the backboard has an editorial cleanness to it. The basket looks sharper without the extra branding, and arena sponsors get more real estate. Those are real wins. But it is not an overhaul, and the league should not be marketing it as one.
+The 2026 NBA Finals is the chance to fix it. The Finals is the league's biggest visual stage of the year. Bring the Finals logo back to the backboard stanchion. Put a real Finals court treatment on the floor. Add the trophy logo to the courts the way past Finals have used the Larry O'Brien Trophy. None of that is hard, and the league has run all of it before. We want the prestige treatment back.
 
-The parallel here is the NHL, which did something similar. The league quietly removed the Stanley Cup Playoffs logo from the ice for 2026, and we wrote about how that decision still bothers us. Two leagues, two playoff seasons, both quietly shrinking the visual identity of their postseason. For more on that, [read our piece on the NHL removing the Stanley Cup Playoffs logo from the ice](/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026).
+The parallel here is the NHL, which did something similar. The league removed the Stanley Cup Playoffs logo from the ice for 2026, and we wrote about how that decision still bothers us. Two leagues, two playoff seasons, both quietly shrinking the visual identity of their postseason. For more on that, [read our piece on the NHL removing the Stanley Cup Playoffs logo from the ice](/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026).
 
 ## Frequently Asked Questions About the 2026 NBA Playoffs Aesthetic
 
 **Did the NBA change the playoffs aesthetic for 2026?**
 
-Yes, but only one change. The NBA removed the playoffs logo from the backboard stanchion base for the 2026 postseason. Past playoffs and Finals ran the playoff or Finals logo on the wedge-shaped stanchion base. For 2026 the stanchion runs standard regular-season sponsor branding instead.
+No. The 2026 NBA Playoffs aesthetic is essentially identical to 2025. The backboard stanchion has not had the playoffs logo for two straight postseasons. The court still carries the same "NBA PLAYOFFS" sidecourt branding the league has used since 2014. Basket ads, arena packages, and LED ribbons are unchanged.
 
-**What got removed from the backboard for the 2026 NBA Playoffs?**
+**Is the NBA Playoffs logo on the backboard in 2026?**
 
-The playoffs logo that used to sit on the base of the backboard stanchion is gone. In its place is the standard rotation of in-stanchion ads (Tap To Watch NBA App, State Farm, Michelob Ultra, NBA League Pass, and team-level sponsors).
+No. The 2026 NBA Playoffs backboard stanchion runs the same standard regular-season ad rotation that has been on it since the league removed the playoffs logo for the 2025 postseason. This is now the second straight playoffs without the logo on the stanchion.
 
 **Is the NBA Playoffs logo still on the court in 2026?**
 
 Yes. The "NBA PLAYOFFS" sidecourt branding is unchanged for 2026. Same font, same placement, same blue color treatment the league has used since at least the 2014 postseason.
 
-**Did the NBA Finals get a new logo for 2026?**
+**Does the NBA put the Play-In Tournament logo on the backboard?**
 
-The 2026 NBA Finals logo was released with minor updates, but the overall Finals identity system is unchanged. The major visible difference for 2026 is on the backboard stanchion, not in the logo itself.
+Yes. The 2026 NBA Play-In Tournament had Play-In branding on the backboard stanchion for the entirety of the Play-In week. The league deployed the treatment for the Play-In and then dropped it once the actual playoffs started.
 
-**Why did the NBA remove the backboard playoffs logo for 2026?**
+**Will the 2026 NBA Finals have the Finals logo on the backboard?**
 
-The league has not publicly explained the decision. Possible reasons include freeing up arena-level sponsor inventory, aligning the playoff broadcast visual closer to the regular-season aesthetic, or simplifying the production package for the new broadcast partners at NBC and Amazon Prime.
+Unconfirmed. The league has not publicly committed to bringing back the Finals logo on the stanchion for 2026. Past Finals (2018, 2022, and earlier) ran the full Finals logo wrap on the stanchion base. We are hoping the 2026 Finals brings the prestige treatment back.
+
+**Why did the NBA remove the backboard playoffs logo?**
+
+The league has not publicly explained the decision. Possible reasons include freeing up arena-level sponsor inventory or aligning the playoff broadcast visual closer to the regular-season aesthetic. Whatever the reason, the change has now stuck for two straight postseasons.
 
 **Are the basket ads still there during the 2026 NBA Playoffs?**
 
@@ -112,7 +122,7 @@ Yes. The in-stanchion ad rotation is the same as the regular season. Team-level 
 
 **Did the NBA make any other aesthetic changes for the 2026 Playoffs?**
 
-Not that we have seen through Round 1. Court branding is the same. Basket ads are the same. Arena packages and team-level creative are the same. LED ribbon packages are the same. The only visible league-level change is the removed backboard playoffs logo.
+Not that we have seen through Round 1. Court branding is the same. Basket ads are the same. Arena packages and team-level creative are the same. LED ribbon packages are the same. Round 1 of the 2026 Playoffs is visually a continuation of last year, not a refresh.
 
 ## 2026 NBA Playoffs Coverage
 
