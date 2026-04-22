@@ -50,15 +50,14 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     notFound();
   }
 
-  const bestRating = post.bestRating ?? 10;
-  const worstRating = post.worstRating ?? 0;
+  const publishedIso = new Date(post.date + "T12:00:00Z").toISOString();
 
   const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
     headline: post.title,
     description: post.excerpt,
-    datePublished: post.date,
-    dateModified: post.date,
+    datePublished: publishedIso,
+    dateModified: publishedIso,
     author: {
       "@type": "Organization",
       name: "ColorWay Sports",
@@ -75,48 +74,6 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     },
     ...(post.coverImage ? { image: `https://www.colorwaysports.com${post.coverImage}` } : {}),
   };
-
-  if (post.reviews && post.reviews.length > 0) {
-    const ratingValues = post.reviews.map((r) => r.rating);
-    const avgRating = ratingValues.reduce((a, b) => a + b, 0) / ratingValues.length;
-
-    articleSchema.mainEntity = {
-      "@type": "CreativeWork",
-      name: post.title,
-      url: `https://www.colorwaysports.com/stories/${slug}`,
-      author: {
-        "@type": "Organization",
-        name: "ColorWay Sports",
-        url: "https://www.colorwaysports.com",
-      },
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: Number(avgRating.toFixed(2)),
-        reviewCount: post.reviews.length,
-        bestRating,
-        worstRating,
-      },
-      review: post.reviews.map((r) => ({
-        "@type": "Review",
-        name: r.name,
-        itemReviewed: {
-          "@type": "CreativeWork",
-          name: r.name,
-        },
-        reviewRating: {
-          "@type": "Rating",
-          ratingValue: r.rating,
-          bestRating,
-          worstRating,
-        },
-        author: {
-          "@type": "Organization",
-          name: "ColorWay Sports",
-          url: "https://www.colorwaysports.com",
-        },
-      })),
-    };
-  }
 
   const graph: Record<string, unknown>[] = [articleSchema];
 
