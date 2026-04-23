@@ -133,7 +133,7 @@ Same jerseys as Game 1. The Stars repeat their black alternate with the star on 
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
       <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -141,7 +141,7 @@ Same jerseys as Game 1. The Stars repeat their black alternate with the star on 
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
       <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
@@ -153,7 +153,7 @@ Same jerseys as Game 1. The Stars repeat their black alternate with the star on 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 5 / 10</p>
 </div>
 
-Same jerseys as Game 1. The Lightning run it back in blue at home and the Canadiens repeat their road whites. Tampa takes Game 2 to lead the series 2-0. Clean home-and-away execution, same functional broadcast visual, same 5 out of 10. The blue and white combination works but does not carry the visual energy of the top Round 1 matchups.
+Same jerseys as Game 1. The Lightning run it back in blue at home and the Canadiens repeat their road whites. Montreal took Game 1 on the road in their whites, and Tampa answered in Game 2 to even the series 1-1. Clean home-and-away execution both nights, same functional broadcast visual, same 5 out of 10. The blue and white combination works but does not carry the visual energy of the top Round 1 matchups.
 
 ### Game 2: Boston Bruins at Buffalo Sabres
 
@@ -601,7 +601,7 @@ The Ottawa Senators at Carolina Hurricanes earned a 4 out of 10 for Game 1 and G
 
 **Who won Game 2 of the 2026 Stanley Cup Playoffs Round 1 series?**
 
-Wednesday's Game 2 results: the Tampa Bay Lightning beat the Montreal Canadiens to lead that series 2-0, the Boston Bruins beat the Buffalo Sabres on the road to even the series 1-1, the Utah Mammoth beat the Vegas Golden Knights on the road to even that series 1-1, and the Colorado Avalanche beat the Los Angeles Kings to lead that series 2-0. Every team wore the same jersey they wore in Game 1, so the matchup scores repeat in our tracker.
+Wednesday's Game 2 results: the Tampa Bay Lightning beat the Montreal Canadiens at home to even that series 1-1 after Montreal took Game 1 on the road, the Boston Bruins beat the Buffalo Sabres on the road to even the series 1-1, the Utah Mammoth beat the Vegas Golden Knights on the road to even that series 1-1, and the Colorado Avalanche beat the Los Angeles Kings to lead that series 2-0. Every team wore the same jersey they wore in Game 1, so the matchup scores repeat in our tracker.
 
 **Did the teams wear different jerseys for Game 2 of the 2026 NHL Playoffs?**
 
