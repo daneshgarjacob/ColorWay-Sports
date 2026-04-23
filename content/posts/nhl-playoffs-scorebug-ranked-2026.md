@@ -5,7 +5,7 @@ date: "2026-04-21"
 excerpt: "2026 NHL Stanley Cup Playoffs scorebug ranking. TNT Sports takes the top spot with a B, ESPN lands at a C+. The NBC era still lives in our memory."
 gradient: "#0a0a0a"
 coverImage: "/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.png"
-coverImagePosition: "center 50%"
+coverImagePosition: "40% 50%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: []
