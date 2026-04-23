@@ -4,8 +4,8 @@ category: "NFL"
 date: "2026-04-23"
 excerpt: "The Las Vegas Raiders opened veteran mini camp wearing helmets with no decals. It's a classic league-wide signal that a new helmet logo or full uniform rebrand is coming."
 gradient: "linear-gradient(135deg, #000000 0%, #A5ACAF 50%, #000000 100%)"
-logoSrc: "/logos/nfl.png"
-logoSrc2: "/logos/raiders.png"
+logoSrc: "/logos/raiders.png"
+overlayText: "Raiders Rebrand Watch"
 league: "nfl"
 teams: ["las-vegas-raiders"]
 ---
