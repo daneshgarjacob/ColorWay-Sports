@@ -1,5 +1,5 @@
 ---
-title: "2026 NHL Stanley Cup Playoffs Jersey and Uniform Tracker: Round 1 Graded"
+title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
 excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Bruins at Sabres leads Round 1 with a perfect 10."
