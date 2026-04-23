@@ -14,7 +14,11 @@ teams: ["baltimore-ravens"]
 <img src="/images/posts/ravens-uniform-history/ravens-next-flight-cover.webp" alt="Baltimore Ravens The Next Flight new uniforms 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Baltimore Ravens</p>
 
-With the Ravens set to unveil brand new uniforms on April 16, 2026, under "The Next Flight" campaign, we wanted to take a full look back at every uniform the franchise has worn since arriving in Baltimore in 1996. Reports say the new collection will feature a simplified number font, a "Baltimore" wordmark on the road jerseys, and iridescent accents inspired by raven feathers. But before we see the new look, here is every era of Baltimore Ravens uniforms, from the inaugural season through the 2024 Purple Rising alternates.
+<div style="margin: 0 0 2em; padding: 1em 1.25em; background: #f5f5f0; border-left: 3px solid #241773; border-radius: 6px;">
+  <p style="margin: 0; font-size: 0.9em; color: #333;"><strong>Update:</strong> The Baltimore Ravens have revealed their new 2026 uniforms. See our full review and grade of every jersey and helmet: <a href="/stories/ravens-new-uniforms-2026-review"><strong>Baltimore Ravens New Uniforms 2026 Review</strong></a>.</p>
+</div>
+
+The Ravens unveiled brand new uniforms on April 16, 2026, under "The Next Flight" campaign — the biggest uniform change since the franchise debuted in 1996. Before we get to the new collection (which we grade in full in our [Ravens New Uniforms 2026 Review](/stories/ravens-new-uniforms-2026-review)), here is every era of Baltimore Ravens uniforms, from the inaugural season through the 2024 Purple Rising alternates.
 
 ---
 

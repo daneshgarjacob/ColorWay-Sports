@@ -12,7 +12,11 @@ teams: ["baltimore-ravens"]
 <img src="/images/posts/ravens-iridescent-rumors-2026/seahawks-iridescent-front.png" alt="Seahawks rivalry jersey showing iridescent pattern detail similar to what the Ravens are rumored to use" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">📸 Seattle Seahawks / Nike</p>
 
-The Ravens are eight days out from their April 16 uniform reveal at Merriweather Post Pavilion, and three new details have surfaced about what "The Next Flight" collection will actually look like. We covered the initial announcement in our [Ravens new uniforms breakdown](/stories/ravens-new-uniforms-2026), but these latest rumors give us a much clearer picture of where the design is heading.
+<div style="margin: 0 0 2em; padding: 1em 1.25em; background: #f5f5f0; border-left: 3px solid #241773; border-radius: 6px;">
+  <p style="margin: 0; font-size: 0.9em; color: #333;"><strong>Update:</strong> The Baltimore Ravens have revealed their new 2026 uniforms. See our full review and grade of every jersey and helmet: <a href="/stories/ravens-new-uniforms-2026-review"><strong>Baltimore Ravens New Uniforms 2026 Review</strong></a>.</p>
+</div>
+
+Before the April 16 uniform reveal at Merriweather Post Pavilion, three details surfaced about what "The Next Flight" collection would actually look like. We covered the initial announcement in our [Ravens new uniforms breakdown](/stories/ravens-new-uniforms-2026), and these pre-reveal rumors gave us a clearer picture of where the design was heading — and most of them turned out accurate, as our [full review](/stories/ravens-new-uniforms-2026-review) shows.
 
 ## 1. Iridescent Accents Inspired by Raven Talons
 
