@@ -1,8 +1,8 @@
 ---
-title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
+title: "2026 NBA Playoffs Round 1 Jersey and Uniform Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-excerpt: "2026 NBA Playoffs Round 1 jersey tracker. Every matchup graded, updated game by game. Lakers City Edition black vs Rockets scores 0 out of 10, the worst of Round 1."
+excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Lakers City Edition vs Rockets scores 0 out of 10, worst of Round 1."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 50%"
@@ -51,7 +51,7 @@ reviews:
   <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NBA jersey worn in 2026 Playoffs Round 1 through Monday Game 2 collage — Cavs Classic blue, Lakers Icon gold, Spurs Fiesta black, Thunder Icon blue, Knicks Association white, Celtics Association white, Sixers Icon royal blue and more" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
-Every 2026 NBA Playoffs Round 1 jersey matchup graded, updated game by game. Home team wears white. Road team wears color. That's the playoff standard. We score each matchup on a 10-point scale and give credit for iconic alternates and throwbacks that carry the right vibe.
+Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded, updated game by game. Home team wears white. Road team wears color. That's the playoff uniform standard. We score each jersey matchup on a 10-point scale and give credit for iconic alternates and throwback uniforms that carry the right vibe.
 
 <div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>

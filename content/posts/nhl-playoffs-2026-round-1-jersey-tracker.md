@@ -1,8 +1,8 @@
 ---
-title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
+title: "2026 NHL Stanley Cup Playoffs Jersey and Uniform Tracker: Round 1 Graded"
 category: "NHL"
 date: "2026-04-21"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker. Every matchup graded, updated game by game. Bruins at Sabres leads Round 1 at a perfect 10 out of 10."
+excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Bruins at Sabres leads Round 1 with a perfect 10."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 50%"
@@ -46,9 +46,9 @@ reviews:
   <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NHL jersey worn in the 2026 Stanley Cup Playoffs Round 1 Game 1 collage featuring the Hurricanes, Stars, Penguins, Avalanche, Lightning, Sabres, Golden Knights, and Oilers at home and the Senators, Wild, Flyers, Kings, Canadiens, Bruins, Mammoth, and Ducks on the road" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
-This is the running tracker for every 2026 NHL Stanley Cup Playoffs Round 1 jersey matchup. All eight opening series are graded below with Game 1 jerseys locked in and six Game 2 updates added through Wednesday. The Bruins at Sabres matchup leads Round 1 at a perfect 10 out of 10 with Buffalo in their royal blue home sweater and Boston in classic whites on the road, and the matchup ran it back for Game 2.
+This is the running tracker for every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup. All eight opening series are graded below with Game 1 jerseys locked in and six Game 2 uniform updates added through Wednesday. The Bruins at Sabres matchup leads Round 1 at a perfect 10 out of 10 with Buffalo in their royal blue home sweater and Boston in classic whites on the road, and the uniform matchup ran it back for Game 2.
 
-The NHL gets home-and-away right. Home team wears color, road team wears white, every game, no Statement Edition flip-flopping. Our scoring is more about visual harmony and broadcast contrast than home-white correctness since the league handles that part for us.
+The NHL gets home-and-away uniforms right. Home team wears color, road team wears white, every game, no Statement Edition flip-flopping. Our scoring is more about visual harmony and broadcast contrast than home-white correctness since the league handles that part of the jersey protocol for us.
 
 - **9-10**: Both teams in iconic looks, strong contrast, classic playoff visual
 - **7-8**: Strong overall visual, one team in iconic alternate or retro, clean broadcast matchup
