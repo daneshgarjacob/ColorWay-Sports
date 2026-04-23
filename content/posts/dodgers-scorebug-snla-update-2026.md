@@ -19,8 +19,16 @@ Spectrum SportsNet has updated the Dodgers score bug for the second time this ye
 
 The biggest swap: the horizontal challenges bar on the right side of the score bug is gone. In its place, Spectrum SportsNet dropped the SNLA+ logo. That's the same SportsNet LA streaming app the Dodgers are pushing across smart TVs, mobile phones, and connected devices. Putting it on the score bug is a clear signal about where Spectrum SportsNet wants viewers to go next.
 
-<img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="The first 2026 Dodgers Spectrum SportsNet score bug update with the horizontal challenges bar, now replaced by the SNLA+ logo" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The first 2026 update, with the horizontal challenges bar that has now been replaced</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 1.5em 0;">
+  <div>
+    <img src="/images/posts/dodgers-scorebug-2026/dodgers-newest-scorebug.jpg" alt="Newest 2026 Dodgers Spectrum SportsNet score bug with SNLA+ logo and icon-style challenges indicator" style="width: 100%; border-radius: 10px; display: block;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>Newest Update</strong> — SNLA+ logo + icon challenges</p>
+  </div>
+  <div>
+    <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="First 2026 Dodgers Spectrum SportsNet score bug update with horizontal challenges bar and new hitter-pitcher display" style="width: 100%; border-radius: 10px; display: block;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>Previous Update</strong> — horizontal challenges bar</p>
+  </div>
+</div>
 
 The challenges data did not disappear, it just moved. Each team's remaining challenges are represented by a small icon to the right of their score. Yellow means the team has a challenge available. When the icon is dimmed out, that team has already used theirs. Simpler in theory, but the icon state still takes a beat to read at a glance.
 
