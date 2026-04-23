@@ -21,6 +21,8 @@ reviews:
     rating: 10
   - name: "Philadelphia Flyers at Pittsburgh Penguins Round 1 Game 1 Jerseys"
     rating: 9
+  - name: "Philadelphia Flyers at Pittsburgh Penguins Round 1 Game 2 Jerseys"
+    rating: 9
   - name: "Minnesota Wild at Dallas Stars Round 1 Game 1 Jerseys"
     rating: 8
   - name: "Los Angeles Kings at Colorado Avalanche Round 1 Game 1 Jerseys"
@@ -351,6 +353,37 @@ Same jerseys as Game 1 and still one of the cleaner visuals of Round 1. The Aval
 </div>
 
 Same sweaters as Game 1. The Oilers run it back in their blue alternate at home and the Ducks stay in road whites. Anaheim takes Game 2 on the road to even the series 1-1. Same look as the opener, same score. Oilers blue against Ducks whites still reads well on broadcast, and the series now has the drama to match the visual.
+
+### Game 2: Philadelphia Flyers at Pittsburgh Penguins
+
+<div style="background: linear-gradient(135deg, #2a2408 0%, #0f0d04 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCB514 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 2 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Same jerseys as Game 1. The Penguins run it back in their yellow alternate at home and the Flyers repeat their road whites. Philadelphia takes Game 2 on the road to go up 2-0 in the series. Same 9 out of 10 matchup that opened the series, same Pens yellow and Flyers whites combo that reads so well on NHL broadcasts. The road team winning back-to-back in Pittsburgh sets up a loud Philadelphia crowd for Game 3.
 
 Now to the opening games.
 
