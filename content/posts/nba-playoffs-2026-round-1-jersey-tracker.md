@@ -2,6 +2,7 @@
 title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
+updatedDate: "2026-04-23"
 excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Lakers City Edition vs Rockets scores 0 out of 10, worst of Round 1."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"

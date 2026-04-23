@@ -51,13 +51,15 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   }
 
   const publishedIso = new Date(post.date.includes("T") ? post.date : post.date + "T12:00:00Z").toISOString();
+  const modifiedDateStr = post.updatedDate || post.date;
+  const modifiedIso = new Date(modifiedDateStr.includes("T") ? modifiedDateStr : modifiedDateStr + "T12:00:00Z").toISOString();
 
   const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
     headline: post.title,
     description: post.excerpt,
     datePublished: publishedIso,
-    dateModified: publishedIso,
+    dateModified: modifiedIso,
     author: {
       "@type": "Organization",
       name: "ColorWay Sports",
@@ -126,7 +128,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <span className="text-black/70 text-sm">ColorWay Sports</span>
             <span className="text-black/30">·</span>
             <time className="text-black/50 text-sm">
-              {new Date(post.date + "T12:00:00").toLocaleDateString("en-US", {
+              {post.updatedDate ? "Updated " : ""}
+              {new Date((post.updatedDate || post.date) + "T12:00:00").toLocaleDateString("en-US", {
                 year: "numeric",
                 month: "long",
                 day: "numeric",

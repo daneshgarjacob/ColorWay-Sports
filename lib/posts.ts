@@ -24,6 +24,7 @@ export interface PostMeta {
   title: string;
   category: string;
   date: string;
+  updatedDate?: string;
   excerpt: string;
   gradient: string;
   logoSrc?: string;
@@ -84,6 +85,7 @@ export function getAllPosts(): PostMeta[] {
       title: data.title || "Untitled",
       category: data.category || "General",
       date: data.date || "2026-01-01",
+      updatedDate: data.updatedDate,
       excerpt: data.excerpt || "",
       gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
       logoSrc: data.logoSrc,
@@ -110,13 +112,19 @@ export function getAllPosts(): PostMeta[] {
     if (a.homepageOrder && b.homepageOrder) return a.homepageOrder - b.homepageOrder;
     if (a.homepageOrder) return -1;
     if (b.homepageOrder) return 1;
-    return a.date > b.date ? -1 : 1;
+    const aEffective = a.updatedDate || a.date;
+    const bEffective = b.updatedDate || b.date;
+    return aEffective > bEffective ? -1 : 1;
   });
 }
 
 export function getAllPostsByDate(): PostMeta[] {
   const posts = getAllPosts();
-  return [...posts].sort((a, b) => (a.date > b.date ? -1 : 1));
+  return [...posts].sort((a, b) => {
+    const aEffective = a.updatedDate || a.date;
+    const bEffective = b.updatedDate || b.date;
+    return aEffective > bEffective ? -1 : 1;
+  });
 }
 
 export async function getPostBySlug(slug: string): Promise<Post | null> {

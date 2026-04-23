@@ -4,6 +4,7 @@ interface StoryCardProps {
   title: string;
   category: string;
   date?: string;
+  updatedDate?: string;
   excerpt: string;
   gradient: string;
   overlayText?: string;
@@ -20,6 +21,7 @@ export default function StoryCard({
   title,
   category,
   date,
+  updatedDate,
   excerpt,
   gradient,
   overlayText,
@@ -30,13 +32,15 @@ export default function StoryCard({
   coverImageFit,
   showDate,
 }: StoryCardProps) {
-  const formattedDate = date
-    ? new Date(date + "T00:00:00").toLocaleDateString("en-US", {
+  const displayDate = updatedDate || date;
+  const formattedDate = displayDate
+    ? new Date(displayDate + "T00:00:00").toLocaleDateString("en-US", {
         month: "short",
         day: "numeric",
         year: "numeric",
       })
     : null;
+  const datePrefix = updatedDate ? "Updated " : "";
   return (
     <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 border border-[#e5e7eb]/60">
       {/* Gradient image area */}
@@ -92,7 +96,7 @@ export default function StoryCard({
           {showDate && formattedDate && (
             <>
               <span className="text-gray-light text-[10px]">·</span>
-              <span className="text-[11px] text-gray-light">{formattedDate}</span>
+              <span className="text-[11px] text-gray-light">{datePrefix}{formattedDate}</span>
             </>
           )}
         </div>

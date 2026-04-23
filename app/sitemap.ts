@@ -6,7 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const postUrls = posts.map((post) => ({
     url: `https://www.colorwaysports.com/stories/${post.slug}`,
-    lastModified: new Date(post.date),
+    lastModified: new Date(post.updatedDate || post.date),
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }));
