@@ -5,7 +5,7 @@ date: "2026-04-21"
 excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Bruins at Sabres leads Round 1 with a perfect 10."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
-coverImagePosition: "center 50%"
+coverImagePosition: "center 85%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["ottawa-senators", "carolina-hurricanes", "minnesota-wild", "dallas-stars", "philadelphia-flyers", "pittsburgh-penguins", "los-angeles-kings", "colorado-avalanche", "montreal-canadiens", "tampa-bay-lightning", "boston-bruins", "buffalo-sabres", "utah-mammoth", "vegas-golden-knights", "anaheim-ducks", "edmonton-oilers"]
