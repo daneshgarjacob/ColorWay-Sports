@@ -55,17 +55,31 @@ reviews:
   <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NHL jersey worn in the 2026 Stanley Cup Playoffs Round 1 Game 1 collage featuring the Hurricanes, Stars, Penguins, Avalanche, Lightning, Sabres, Golden Knights, and Oilers at home and the Senators, Wild, Flyers, Kings, Canadiens, Bruins, Mammoth, and Ducks on the road" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
-This is the running tracker for every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup. All eight opening series are graded below. Thursday's Game 3 slate opened with the Penguins at Flyers earning a perfect 10 on Pittsburgh whites against Philadelphia orange at home. The Bruins at Sabres matchup also sits at a perfect 10 through both Games 1 and 2 with Buffalo in their royal blue home sweater and Boston in classic whites on the road.
+Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, updated game by game. Home team wears color, road team wears white. That's the NHL playoff standard. We score each jersey matchup on a 10-point scale and give credit for iconic alternates and throwback sweaters that carry the right vibe.
 
-The NHL gets home-and-away uniforms right. Home team wears color, road team wears white, every game, no Statement Edition flip-flopping. Our scoring is more about visual harmony and broadcast contrast than home-white correctness since the league handles that part of the jersey protocol for us.
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+  <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <a href="#game-3" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Game 3s</a>
+    <a href="#game-2" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 2s</a>
+    <a href="#game-1" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 1s</a>
+    <a href="#faq" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">FAQ</a>
+  </div>
+</div>
 
-- **9-10**: Both teams in iconic looks, strong contrast, classic playoff visual
-- **7-8**: Strong overall visual, one team in iconic alternate or retro, clean broadcast matchup
-- **5-6**: Acceptable contrast but similar color palettes or lower-energy look
-- **3-4**: Overlapping colors with weak visual separation
-- **0-2**: Clashing or muddy broadcast visual
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Average Scores</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.3 / 10</span>
+</div>
 
-Let's start with the Game 2 slates.
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Home Teams in Primary Sweaters</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">8 / 18 (44%)</span>
+</div>
+
+Below, every matchup graded, newest first. Jump to any section with the links above.
+
+<span id="game-3"></span>
 
 ## Round 1 Game 3 Matchups
 
@@ -132,6 +146,8 @@ Our best-looking uniform matchup of the Pens-Flyers series. Pittsburgh on the ro
 </div>
 
 Similar greens on both sides, but the uniform matchup reads better on broadcast than the palette overlap suggests. The Stars flip to road whites for the first time in the series and the Wild pull out their green home sweater for their first home game of Round 1. Both primary uniforms. The Wild red accents and Stars silver details keep the contrast functional on TV. Dallas takes Game 3 on the road to lead the series 2-1. Solid 7 out of 10 for two teams committing to their primary looks.
+
+<span id="game-2"></span>
 
 ## Round 1 Game 2 Matchups
 
@@ -385,7 +401,7 @@ Same sweaters as Game 1. The Oilers run it back in their blue alternate at home 
 
 Same jerseys as Game 1. The Penguins run it back in their yellow alternate at home and the Flyers repeat their road whites. Philadelphia takes Game 2 on the road to go up 2-0 in the series. Same 9 out of 10 matchup that opened the series, same Pens yellow and Flyers whites combo that reads so well on NHL broadcasts. The road team winning back-to-back in Pittsburgh sets up a loud Philadelphia crowd for Game 3.
 
-Now to the opening games.
+<span id="game-1"></span>
 
 ## Round 1 Game 1 Matchups
 
@@ -717,6 +733,8 @@ Opening Game 1s averaged 7.2 out of 10. The Bruins at Sabres earned the only per
   <p style="font-size: 5em; font-weight: 900; color: #FF5910; margin: 0; line-height: 1;">7.1 / 10</p>
   <p style="font-size: 1.2em; color: #999; margin: 0.5em 0 0;">Fourteen Games Through Wednesday. Round 1 Jersey Aesthetic Grade.</p>
 </div>
+
+<span id="faq"></span>
 
 ## Frequently Asked Questions About the 2026 NHL Playoffs Round 1 Uniforms
 
