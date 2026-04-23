@@ -1,5 +1,5 @@
 ---
-title: "Baltimore Ravens New Uniforms 2026: Full Review and Grade for The Next Flight Reveal"
+title: "Baltimore Ravens New Uniforms 2026 Review: Every Jersey and Helmet Graded"
 category: "NFL"
 date: "2026-04-16"
 excerpt: "The Ravens unveiled The Next Flight with four jerseys, three helmets, and a full brand refresh including the all-new Darkness blackout uniform. We grade every piece of the 2026 Ravens rebrand."

@@ -1,5 +1,5 @@
 ---
-title: "Every 2026 NBA Playoff Announcer and Broadcast Team Ranked: ESPN, NBC, Prime Video"
+title: "2026 NBA Playoff Announcers and Commentators Ranked: ESPN, NBC, Prime"
 category: "NBA"
 date: "2026-04-13"
 excerpt: "We ranked and graded every 2026 NBA Playoff broadcast team. Mike Breen, Kevin Harlan, Mike Tirico, Inside the NBA on ESPN, and every analyst and studio crew across ESPN, ABC, NBC, Peacock, and Amazon Prime Video."
