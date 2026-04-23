@@ -38,10 +38,16 @@ A small text label next to the icon (something like "1 CHL" or the number of cha
 
 ## Comparing All Three Dodgers Score Bugs
 
-<img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-old.jpg" alt="The original Spectrum SportsNet Dodgers score bug before the 2026 updates" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The original Spectrum SportsNet Dodgers score bug before the 2026 updates</p>
+<img src="/images/posts/dodgers-scorebug-2026/dodgers-newest-scorebug.jpg" alt="2026 newest Dodgers Spectrum SportsNet score bug with SNLA+ logo and icon-style challenges indicator next to each team score" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>2026 Newest Update</strong> — SNLA+ logo replaces the challenges bar, challenges indicator moved next to each team score</p>
 
-Three versions now on the books. The original was the cleanest-looking but had the least information. The first 2026 update added the challenges bar, hitter-pitcher info, and bolder fonts, but felt cluttered on the right side. The second update (the newest one) condenses the challenges into icons and swaps the free real estate for SNLA+ branding.
+<img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="First 2026 update Dodgers Spectrum SportsNet score bug with horizontal challenges bar and bolder hitter-pitcher display" style="width: 100%; border-radius: 10px; margin-top: 1.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>2026 Beginning of Year Update</strong> — horizontal challenges bar added, hitter-pitcher display refreshed with bolder fonts</p>
+
+<img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-old.jpg" alt="Original 2025 Dodgers Spectrum SportsNet score bug before any 2026 updates" style="width: 100%; border-radius: 10px; margin-top: 1.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>2025 Score Bug</strong> — the original layout before any 2026 updates</p>
+
+Three versions now on the books. The 2025 original was the cleanest-looking but had the least information. The first 2026 update added the challenges bar, hitter-pitcher info, and bolder fonts, but felt cluttered on the right side. The second update (the newest one) condenses the challenges into icons and swaps the free real estate for SNLA+ branding.
 
 Progress, but still not Dodgers-specific the way a flagship RSN should feel. The Red Sox on NESN, the Mets broadcast, and other local networks are doing more to make their score bugs feel like the team. Spectrum SportsNet has the biggest franchise in the sport on their network, and the broadcast package should reflect that.
 
