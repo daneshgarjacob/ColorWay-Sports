@@ -2,7 +2,7 @@
 title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
-updatedDate: "2026-04-23"
+updatedDate: "2026-04-24"
 excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker. Every matchup graded game by game. Bruins at Sabres leads Round 1 with a perfect 10."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
@@ -23,6 +23,8 @@ reviews:
     rating: 9
   - name: "Philadelphia Flyers at Pittsburgh Penguins Round 1 Game 2 Jerseys"
     rating: 9
+  - name: "Buffalo Sabres at Boston Bruins Round 1 Game 3 Jerseys"
+    rating: 8
   - name: "Minnesota Wild at Dallas Stars Round 1 Game 1 Jerseys"
     rating: 8
   - name: "Los Angeles Kings at Colorado Avalanche Round 1 Game 1 Jerseys"
@@ -35,8 +37,12 @@ reviews:
     rating: 7.5
   - name: "Anaheim Ducks at Edmonton Oilers Round 1 Game 2 Jerseys"
     rating: 7.5
+  - name: "Colorado Avalanche at Los Angeles Kings Round 1 Game 3 Jerseys"
+    rating: 7
   - name: "Dallas Stars at Minnesota Wild Round 1 Game 3 Jerseys"
     rating: 7
+  - name: "Carolina Hurricanes at Ottawa Senators Round 1 Game 3 Jerseys"
+    rating: 6
   - name: "Utah Mammoth at Vegas Golden Knights Round 1 Game 1 Jerseys"
     rating: 6
   - name: "Utah Mammoth at Vegas Golden Knights Round 1 Game 2 Jerseys"
@@ -74,7 +80,7 @@ Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, u
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Home Teams in Primary Sweaters</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">8 / 18 (44%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">11 / 21 (52%)</span>
 </div>
 
 Below, every matchup graded, newest first. Jump to any section with the links above.
@@ -83,7 +89,7 @@ Below, every matchup graded, newest first. Jump to any section with the links ab
 
 ## Round 1 Game 3 Matchups
 
-Thursday night tips the first Game 3 slate of Round 1. The Penguins at Flyers is the best-looking matchup of the series so far, with Pittsburgh in classic whites on the road and Philadelphia in Icon orange at home for the first home game of the series. The Stars at Wild is a similar-colored matchup (Stars white, Wild green) that reads better on broadcast than the palette overlap suggests.
+Thursday tips a five-game Game 3 slate, with every home team getting their first home playoff game of Round 1. The Penguins at Flyers is the best-looking matchup of the round so far, Pittsburgh in classic whites on the road and Philadelphia in Icon orange at home. The Sabres at Bruins flips from Buffalo to Boston with the Bruins in their primary black home sweater against Buffalo's road whites. The Avalanche at Kings is a straight home-and-away read at Crypto.com Arena with Los Angeles in black home sweaters against Colorado whites. The Stars at Wild is a similar-colored matchup that reads better on broadcast than the palette overlap suggests. And the Hurricanes at Senators is the closest palette overlap of the night, both teams in red-and-black uniforms on the same ice. Thursday averages 7.6 out of 10 across the five games.
 
 ### Game 3: Pittsburgh Penguins at Philadelphia Flyers
 
@@ -116,6 +122,79 @@ Thursday night tips the first Game 3 slate of Round 1. The Penguins at Flyers is
 
 Our best-looking uniform matchup of the Pens-Flyers series. Pittsburgh on the road in their classic whites against Philadelphia in their Icon orange at home for the first home game of Round 1. Both teams wearing their primary uniforms. The Flyers orange is one of the most recognizable sweaters in hockey, and the Penguins whites read perfectly clean against it. Philadelphia takes Game 3 to go up 3-0 in the series. Easy 10 out of 10. Exactly what a playoff uniform matchup should look like.
 
+### Game 3: Buffalo Sabres at Boston Bruins
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #080808 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #003087 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
+      <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
+      <img src="/images/jerseys/nhl/bruins-black.png" alt="Boston Bruins black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
+</div>
+
+The series flips from Buffalo to Boston for Game 3 and the visual loses a little color. The Bruins pull out their primary black home sweater for the first home playoff game of Round 1, and the Sabres flip to their road whites after two games in the royal blue home sweaters. It reads as a clean home-and-away matchup on TD Garden ice, and the Bruins gold trim gives the broadcast enough contrast to work, but we would rate this higher if Boston had a colorful primary instead of black. Buffalo wins Game 3 on the road to take a 2-1 series lead, and we give the jersey matchup an 8 out of 10.
+
+### Game 3: Colorado Avalanche at Los Angeles Kings
+
+<div style="background: linear-gradient(135deg, #2a0f1a 0%, #0a0505 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #111111 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
+      <img src="/images/jerseys/nhl/avalanche-white.png" alt="Colorado Avalanche white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Los Angeles Kings" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
+      <img src="/images/jerseys/nhl/kings-black.png" alt="Los Angeles Kings black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES KINGS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
+</div>
+
+The Kings open the series at home in their black primary home sweater and the Avalanche flip to their road whites after two games in burgundy. Straight home-and-away compliance, but the Kings black-and-silver reads a little flat against Avalanche whites without a bolder color on either side to drive broadcast contrast. A colorful Kings alternate would have pushed this to an 8 or 9, but the primary home black is still the right choice over a City or alternate. Colorado takes Game 3 on the road to go up 3-0 in the series. Seven out of 10 for two teams committing to the playoff standard even if the palette is a bit bland.
+
+<div style="margin: 2em 0 1em; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+  <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">From the Arena</p>
+  <p style="margin: 0; color: #fff; font-size: 0.95em; line-height: 1.5;">We were at Crypto.com Arena for Game 3. Here is how it looked from our seats, Kings home black on the ice against the Avalanche road whites.</p>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 1em 0 2em;">
+  <img src="/images/jerseys/nhl/kings-game-1.JPG" alt="Los Angeles Kings home black sweater against Colorado Avalanche white road sweater during 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Crypto.com Arena from our seats" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/jerseys/nhl/kings-game-2.JPG" alt="Los Angeles Kings and Colorado Avalanche 2026 NHL Stanley Cup Playoffs Round 1 Game 3 on ice view at Crypto.com Arena" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/jerseys/nhl/kings-game-3.JPG" alt="Los Angeles Kings vs Colorado Avalanche 2026 NHL Stanley Cup Playoffs Round 1 Game 3 home black and road white sweater matchup" style="width: 100%; border-radius: 10px;" />
+</div>
+
 ### Game 3: Dallas Stars at Minnesota Wild
 
 <div style="background: linear-gradient(135deg, #0a2a1a 0%, #050f0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -146,6 +225,37 @@ Our best-looking uniform matchup of the Pens-Flyers series. Pittsburgh on the ro
 </div>
 
 Similar greens on both sides, but the uniform matchup reads better on broadcast than the palette overlap suggests. The Stars flip to road whites for the first time in the series and the Wild pull out their green home sweater for their first home game of Round 1. Both primary uniforms. The Wild red accents and Stars silver details keep the contrast functional on TV. Dallas takes Game 3 on the road to lead the series 2-1. Solid 7 out of 10 for two teams committing to their primary looks.
+
+### Game 3: Carolina Hurricanes at Ottawa Senators
+
+<div style="background: linear-gradient(135deg, #1a0505 0%, #080202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
+      <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Ottawa Senators" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 3 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
+      <img src="/images/jerseys/nhl/senators-black.png" alt="Ottawa Senators black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OTTAWA SENATORS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 6 / 10</p>
+</div>
+
+Love the Senators' home sweater. Ottawa finally gets home and pulls out their primary black home jersey with the Roman Senator profile. The design is one of the sharper looks in the Eastern Conference. The problem is the Hurricanes white road sweater carries heavy red trim that overlaps with Ottawa's palette, so the two uniforms bleed into each other on broadcast in a way that costs points. Clean home-and-away compliance and two good-looking sweaters, but the color families do not give us the contrast Round 1 hockey wants. Carolina takes Game 3 on the road to sweep ahead 3-0 in the series. Six out of 10.
 
 <span id="game-2"></span>
 
