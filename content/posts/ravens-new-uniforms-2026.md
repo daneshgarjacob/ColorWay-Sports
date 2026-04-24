@@ -18,7 +18,7 @@ teams: ["baltimore-ravens"]
   <p style="margin: 0; font-size: 0.9em; color: #333;"><strong>Update:</strong> The reveal has happened. See our full review and grade of every jersey and helmet in the 2026 collection: <a href="/stories/ravens-new-uniforms-2026-review"><strong>Baltimore Ravens New Uniforms 2026 Review</strong></a>.</p>
 </div>
 
-The Baltimore Ravens are getting new uniforms for the first time in over two decades. The team confirmed that their new uniform collection will be unveiled on April 16, 2026, under the campaign name "The Next Flight." The teaser image features a real raven with the Ravens logo and the date 4.16.26, and the team posted a hype video on social media to go with it.
+The Baltimore Ravens are getting new uniforms for the first time in over two decades. The team confirmed that their new uniform collection will be unveiled on April 16, 2026, under the campaign name "The Next Flight." The teaser image features a real raven with the Ravens logo and the date 4.16.26, and the team posted a hype video on social media to go with it. For the full franchise picture from 1996 through The Next Flight, see our [Baltimore Ravens uniforms hub](/stories/baltimore-ravens-uniforms).
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2041516388838207526"></a></blockquote>

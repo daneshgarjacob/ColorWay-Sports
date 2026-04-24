@@ -16,7 +16,7 @@ teams: ["baltimore-ravens"]
   <p style="margin: 0; font-size: 0.9em; color: #333;"><strong>Update:</strong> The Baltimore Ravens have revealed their new 2026 uniforms. See our full review and grade of every jersey and helmet: <a href="/stories/ravens-new-uniforms-2026-review"><strong>Baltimore Ravens New Uniforms 2026 Review</strong></a>.</p>
 </div>
 
-Before the April 16 uniform reveal at Merriweather Post Pavilion, three details surfaced about what "The Next Flight" collection would actually look like. We covered the initial announcement in our [Ravens new uniforms breakdown](/stories/ravens-new-uniforms-2026), and these pre-reveal rumors gave us a clearer picture of where the design was heading — and most of them turned out accurate, as our [full review](/stories/ravens-new-uniforms-2026-review) shows.
+Before the April 16 uniform reveal at Merriweather Post Pavilion, three details surfaced about what "The Next Flight" collection would actually look like. We covered the initial announcement in our [Ravens new uniforms breakdown](/stories/ravens-new-uniforms-2026), and these pre-reveal rumors gave us a clearer picture of where the design was heading — and most of them turned out accurate, as our [full review](/stories/ravens-new-uniforms-2026-review) shows. For the complete franchise visual identity in one place, see our [Baltimore Ravens uniforms hub](/stories/baltimore-ravens-uniforms).
 
 ## 1. Iridescent Accents Inspired by Raven Talons
 
