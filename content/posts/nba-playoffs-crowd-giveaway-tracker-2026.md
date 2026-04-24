@@ -15,7 +15,7 @@ teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-
 <img src="/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg" alt="Atlanta Hawks red playoff t-shirts laid out on every seat at State Farm Arena for Game 3 against the New York Knicks in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Atlanta Hawks / NBA</p>
 
-Round 1 Game 3 brings six confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Wolves and Raptors both committed to black on Thursday. The Magic announced black for Saturday morning against the Pistons. The Trail Blazers are still pending an announcement for tonight, and we will update once it drops.
+Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Trail Blazers also went towels only and skipped a t-shirt giveaway altogether. The Wolves and Raptors both committed to black on Thursday. And the Magic announced black for Saturday morning against the Pistons.
 
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
@@ -69,9 +69,13 @@ The Houston Rockets are giving out red All Fire t-shirts at every Toyota Center 
 
 The Sixers went towels instead of shirts for Game 3 at Wells Fargo Center. Black towels on every seat to match the Classic Edition black throwback the Sixers are wearing at home and the throwback alternate court they have been running all playoffs. The towel choice means there is no in-game color takeover when fans are sitting in their own clothes, which costs points compared to a full shirt giveaway. The upside is the towel-wave moments during runs and timeouts hit harder than a static shirt-out, and the all-black towels tie directly to the team identity Philadelphia is leaning into through the play-in and Round 1. B-. Half a grade lower than a full shirt commitment in black would have earned, but the throwback identity tie is real.
 
-### Portland Trail Blazers · Pending Announcement
+### Portland Trail Blazers · Red Towels · Grade: B-
 
-The Trail Blazers are tipping off Game 3 at Moda Center against the Spurs at 7 p.m. local time and have not announced a crowd giveaway as of publication. We will update this entry once Portland confirms whether the home team is running a t-shirt or towel takeover for the first home playoff game of Round 1.
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GMottaTV/status/2047816012939329782"></a></blockquote>
+</div>
+
+The Trail Blazers are not running a t-shirt giveaway for Game 3 at Moda Center. Portland confirmed weeks ago that there will be no playoff shirts on the seats, only red towels. The towel-only call tracks with new Trail Blazers president Tom Dundon's reputation for cutting costs across his sports operations, going back to his ownership of the Carolina Hurricanes. The red towels do tie directly to the Trail Blazers' primary color and the home jersey Portland is wearing for the first home playoff game of Round 1, which lifts the visual above what an all-black towel takeover would have done. The towels also create rally moments during runs and timeouts, which add a different kind of crowd energy than a static shirt-out. B-. We would push it higher with a full t-shirt commitment, and the Hurricanes won under Dundon's lean approach, so we are tracking how this model holds up at Moda Center as the round continues.
 
 ## Thursday Game 3 Giveaways
 
@@ -137,7 +141,7 @@ The Philadelphia 76ers are giving out black towels at every Wells Fargo Center s
 
 **Are the Blazers giving out t-shirts for Game 3 vs the Spurs?**
 
-The Portland Trail Blazers have not announced a crowd giveaway for Game 3 against the San Antonio Spurs as of publication on Friday, April 24. The game tips at 7 p.m. local time at Moda Center. We will update this tracker once Portland confirms whether the home team is running a t-shirt or towel giveaway.
+No. The Portland Trail Blazers are not running a t-shirt giveaway for Game 3 against the San Antonio Spurs at Moda Center on Friday, April 24. Portland is putting red towels on the seats only. The towel color matches the Trail Blazers' primary home jersey and the decision tracks with new Trail Blazers president Tom Dundon's track record of cutting costs across his sports operations. We graded the red towel takeover B-.
 
 **What are the Magic giving out for Game 3 vs the Pistons?**
 
