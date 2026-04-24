@@ -21,11 +21,15 @@ The biggest swap: the horizontal challenges bar on the right side of the score b
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 1.5em 0;">
   <div>
-    <img src="/images/posts/dodgers-scorebug-2026/dodgers-newest-scorebug.jpg" alt="Newest 2026 Dodgers Spectrum SportsNet score bug with SNLA+ logo and icon-style challenges indicator" style="width: 100%; border-radius: 10px; display: block;" />
+    <div style="aspect-ratio: 16 / 10; border-radius: 10px; overflow: hidden; background: #1a1a1a;">
+      <img src="/images/posts/dodgers-scorebug-2026/dodgers-newest-scorebug.jpg" alt="Newest 2026 Dodgers Spectrum SportsNet score bug with SNLA+ logo and icon-style challenges indicator" style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;" />
+    </div>
     <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>Newest Update</strong> — SNLA+ logo + icon challenges</p>
   </div>
   <div>
-    <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="First 2026 Dodgers Spectrum SportsNet score bug update with horizontal challenges bar and new hitter-pitcher display" style="width: 100%; border-radius: 10px; display: block;" />
+    <div style="aspect-ratio: 16 / 10; border-radius: 10px; overflow: hidden; background: #1a1a1a;">
+      <img src="/images/posts/dodgers-scorebug-2026/dodgers-scorebug-new.jpg" alt="First 2026 Dodgers Spectrum SportsNet score bug update with horizontal challenges bar and new hitter-pitcher display" style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;" />
+    </div>
     <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;"><strong>Previous Update</strong> — horizontal challenges bar</p>
   </div>
 </div>
