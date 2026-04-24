@@ -4,14 +4,14 @@ category: "NFL"
 date: "2026-04-24"
 excerpt: "Every Baltimore Ravens uniform from 1996 through The Next Flight 2026 reveal. Hub for the new jerseys, helmets, Darkness alternate, history, and our complete review."
 gradient: "linear-gradient(135deg, #241773 0%, #000000 50%, #9E7C0C 100%)"
-coverImage: "/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg"
-coverImagePosition: "center 30%"
+coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
+coverImagePosition: "center 60%"
 logoSrc: "/logos/nfl.png"
 league: "nfl"
 teams: ["baltimore-ravens"]
 ---
 
-<img src="/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg" alt="Baltimore Ravens The Next Flight 2026 uniform reveal showing primary purple home jersey, white road jersey with Baltimore wordmark, Purple Rising alternate, and the new Darkness blackout uniform" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg" alt="Baltimore Ravens The Next Flight 2026 uniform reveal team photo with every jersey in the new collection including primary purple home, white road with Baltimore wordmark, Purple Rising alternate, and the new Darkness blackout uniform under the Ravens logo with red eyes" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The Baltimore Ravens unveiled the biggest uniform overhaul in franchise history on April 16, 2026. Four jerseys, three helmets, a brand new Darkness blackout alternate, and a full visual refresh under the campaign "The Next Flight." This page is our complete hub for everything Ravens uniforms, from the 1996 inaugural set Jonathan Ogden wore on day one all the way through the new 2026 collection. Below, the full review of the new jerseys, the pre-reveal rumor cycle that previewed it, and every era of Baltimore Ravens uniform from the franchise's debut through 2024.
