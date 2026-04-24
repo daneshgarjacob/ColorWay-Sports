@@ -2,23 +2,76 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-excerpt: "The Hawks went red. The Raptors and Timberwolves both went black. Every 2026 NBA Playoff crowd t-shirt giveaway graded, with Thursday Game 3 takeovers ranked and scored."
+updatedDate: "2026-04-24"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3 takeovers from the Hawks, Rockets, Sixers, Magic, Wolves, and Raptors ranked and scored."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
-teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets"]
+teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons"]
 ---
 
 <img src="/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg" alt="Atlanta Hawks red playoff t-shirts laid out on every seat at State Farm Arena for Game 3 against the New York Knicks in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Atlanta Hawks / NBA</p>
 
-Three NBA home teams are hosting Game 3 on Thursday night, and all three are running t-shirt giveaways. The Hawks went bold with red at State Farm Arena. The Raptors and Timberwolves both committed to black. We graded all three: Hawks B+, Timberwolves C+, Raptors C-.
+Round 1 Game 3 brings six confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Wolves and Raptors both committed to black on Thursday. The Magic announced black for Saturday morning against the Pistons. The Trail Blazers are still pending an announcement for tonight, and we will update once it drops.
 
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
-This is the running tracker for every 2026 NBA Playoff crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt color works against the team's home uniform and court.
+This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Saturday Game 3 Giveaways
+
+The Saturday slate is one game so far. The Magic confirmed early.
+
+### Orlando Magic · Black T-Shirts · Grade: B-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2047722459260952630"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2047745002990682350"></a></blockquote>
+</div>
+
+The Orlando Magic are giving out black t-shirts with the Orlando Magic wordmark at Kia Center for Saturday morning's Game 3 against the Pistons. Black to pair with the black-and-blue home uniform the Magic have been running through Round 1. Not our favorite black takeover of the round, but the wordmark on the shirt elevates it above plain black, and the blue trim on the home jersey gives the broadcast a little color contrast that the Wolves and Raptors did not get last night. B-. We will revisit after the actual aesthetic on the Kia Center floor lands on TV.
+
+## Friday Game 3 Giveaways
+
+Three home teams hosting Game 3 on Friday night. Two confirmed crowd giveaways and one still pending.
+
+### Houston Rockets · Red All Fire T-Shirts · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2047351002139922483"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2047699720747856372"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2047720742066831520"></a></blockquote>
+</div>
+
+The Houston Rockets are giving out red All Fire t-shirts at every Toyota Center seat for Game 3 against the Lakers. The shirts match the Rockets Icon red home jersey almost exactly, and the All Fire wordmark across the chest carries the campaign Houston has been running through Round 1. This is what a crowd giveaway is supposed to look like. Exact color match between the shirt and the home uniform, branded with a phrase that ties to the team identity, and a full takeover at every seat. A-. We would push it to a straight A if the home jersey was the Association whites, but Rockets red on a red crowd inside Toyota Center is one of the cleaner full-arena commitments of Round 1.
+
+### Philadelphia 76ers · Black Towels · Grade: B-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2047778823828123852"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2047810019869986993"></a></blockquote>
+</div>
+
+The Sixers went towels instead of shirts for Game 3 at Wells Fargo Center. Black towels on every seat to match the Classic Edition black throwback the Sixers are wearing at home and the throwback alternate court they have been running all playoffs. The towel choice means there is no in-game color takeover when fans are sitting in their own clothes, which costs points compared to a full shirt giveaway. The upside is the towel-wave moments during runs and timeouts hit harder than a static shirt-out, and the all-black towels tie directly to the team identity Philadelphia is leaning into through the play-in and Round 1. B-. Half a grade lower than a full shirt commitment in black would have earned, but the throwback identity tie is real.
+
+### Portland Trail Blazers · Pending Announcement
+
+The Trail Blazers are tipping off Game 3 at Moda Center against the Spurs at 7 p.m. local time and have not announced a crowd giveaway as of publication. We will update this entry once Portland confirms whether the home team is running a t-shirt or towel takeover for the first home playoff game of Round 1.
 
 ## Thursday Game 3 Giveaways
 
@@ -73,6 +126,22 @@ The dream Round 2 and Conference Finals giveaways we're hoping to track:
 Playoff aesthetics are defined by the moments a whole arena commits to one color. We will track them all here as Round 1 continues and Round 2 begins.
 
 ## Frequently Asked Questions
+
+**What are the Rockets giving out for Game 3 vs the Lakers?**
+
+The Houston Rockets are handing out red All Fire t-shirts at every Toyota Center seat for Game 3 against the Los Angeles Lakers on Friday, April 24. The shirt color matches the Rockets Icon red home uniform, and we graded the giveaway A-.
+
+**Are the Sixers giving out t-shirts for Game 3 vs the Celtics?**
+
+The Philadelphia 76ers are giving out black towels at every Wells Fargo Center seat for Game 3 against the Boston Celtics on Friday, April 24. There are no t-shirts in this giveaway. The black towels pair with the Sixers Classic Edition black throwback and the throwback alternate court. We graded the towel takeover B-.
+
+**Are the Blazers giving out t-shirts for Game 3 vs the Spurs?**
+
+The Portland Trail Blazers have not announced a crowd giveaway for Game 3 against the San Antonio Spurs as of publication on Friday, April 24. The game tips at 7 p.m. local time at Moda Center. We will update this tracker once Portland confirms whether the home team is running a t-shirt or towel giveaway.
+
+**What are the Magic giving out for Game 3 vs the Pistons?**
+
+The Orlando Magic are handing out black t-shirts with the Orlando Magic wordmark at Kia Center for Saturday morning's Game 3 against the Detroit Pistons on April 25. The shirts pair with the Magic black-and-blue home uniform. We graded the giveaway B-.
 
 **Are the Hawks giving out t-shirts for Game 3 vs the Knicks?**
 
