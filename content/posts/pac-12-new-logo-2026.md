@@ -3,7 +3,7 @@ title: "Pac-12 New Logo 2026: Conference Reveals Bold Rebrand After Realignment"
 category: "College"
 date: "2026-04-27"
 excerpt: "The Pac-12 just dropped a new logo for 2026. We grade the rebrand and show how every team rolled out the mark in their own colors."
-gradient: "linear-gradient(135deg, #000000 0%, #000000 100%)"
+gradient: "linear-gradient(135deg, #2C3340 0%, #1A2030 100%)"
 league: "ncaa"
 teams: []
 coverImage: "/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.png"

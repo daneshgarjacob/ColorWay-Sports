@@ -39,13 +39,34 @@ async function watermarkImage(inputPath, outputPath) {
   const wmMeta = await sharp(resizedWatermark).metadata();
   const watermarkHeight = wmMeta.height;
 
+  // Subtle low-opacity white pad behind the logo so it stays legible on dark backgrounds
+  // and blends gracefully on light backgrounds. Pad has rounded corners + small padding.
+  const padPaddingX = Math.round(watermarkWidth * 0.05);
+  const padPaddingY = Math.round(watermarkHeight * 0.18);
+  const padWidth = watermarkWidth + padPaddingX * 2;
+  const padHeight = watermarkHeight + padPaddingY * 2;
+  const padRadius = Math.round(padHeight * 0.18);
+  const padOpacity = 0.78;
+
+  const padSvg = `<svg width="${padWidth}" height="${padHeight}" xmlns="http://www.w3.org/2000/svg">
+    <rect width="${padWidth}" height="${padHeight}" rx="${padRadius}" fill="rgba(255,255,255,${padOpacity})"/>
+  </svg>`;
+
+  const padBuffer = await sharp(Buffer.from(padSvg)).png().toBuffer();
+
+  // Composite logo on top of the pad
+  const padWithLogo = await sharp(padBuffer)
+    .composite([{ input: resizedWatermark, left: padPaddingX, top: padPaddingY }])
+    .png()
+    .toBuffer();
+
   // Position: bottom-middle, horizontally centered
   const margin = Math.max(16, Math.round(height * 0.025));
-  const left = Math.round((width - watermarkWidth) / 2);
-  const top = height - watermarkHeight - margin;
+  const left = Math.round((width - padWidth) / 2);
+  const top = height - padHeight - margin;
 
   await image
-    .composite([{ input: resizedWatermark, left, top }])
+    .composite([{ input: padWithLogo, left, top }])
     .toFile(outputPath);
 
   console.log(`  Watermarked: ${basename(outputPath)}`);
