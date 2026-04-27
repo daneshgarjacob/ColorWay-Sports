@@ -251,7 +251,7 @@ Same matchup as Game 3, same eight out of 10. Philadelphia runs the Classic Edit
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 4 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/lakers-association-white.png" alt="Los Angeles Lakers Association Edition white road jersey for 2026 NBA Playoffs Round 1 Game 4 at Houston Rockets" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -259,7 +259,7 @@ Same matchup as Game 3, same eight out of 10. Philadelphia runs the Classic Edit
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 4 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
       <img src="/images/jerseys/nba/rockets-icon-red.png" alt="Houston Rockets Icon Edition red home jersey for 2026 NBA Playoffs Round 1 Game 4 vs Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HOUSTON ROCKETS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Red</p>
@@ -282,7 +282,7 @@ Same matchup as Game 3, same eight out of 10. Philadelphia runs the Classic Edit
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Toyota Center · Houston</p>
 </div>
 
-The Lakers finally pull out the Association Edition whites on the road. This is the Sunday white look Lakers fans have been waiting for the whole series and the franchise gives it to us in Houston. White on the road for Los Angeles is one of the league's most iconic visuals and it lifts what would have been another flat home-team-in-color matchup. The Rockets stay in Icon Edition red at home, the same red they ran in Game 3, paired with the Toyota Center floor. We want the Rockets in Association whites for the full home-and-away playoff standard, but the red-vs-white contrast reads broadcast-clean and Houston commits to a primary color either way. Five out of 10. The Lakers whites carry this above the typical home-in-color penalty. We will update the result and the records once Game 4 wraps.
+The Lakers finally pull out the Association Edition whites on the road. This is the Sunday white look Lakers fans have been waiting for the whole series and the franchise gives it to us in Houston. White on the road for Los Angeles is one of the league's most iconic visuals and it lifts what would have been another flat home-team-in-color matchup. The Rockets stay in Icon Edition red at home, the same red they ran in Game 3, paired with the Toyota Center floor. We want the Rockets in Association whites for the full home-and-away playoff standard, but the red-vs-white contrast reads broadcast-clean and Houston commits to a primary color either way. Five out of 10. The Lakers whites carry this above the typical home-in-color penalty. Los Angeles wins Game 4 in the Association whites to take a 3-1 series lead.
 
 <span id="saturday-late"></span>
 
