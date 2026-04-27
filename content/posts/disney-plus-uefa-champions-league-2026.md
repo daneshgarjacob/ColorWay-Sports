@@ -3,7 +3,7 @@ title: "Disney+ Lands UEFA Champions League, Europa League, and Conference Leagu
 category: "Soccer"
 date: "2026-04-27"
 excerpt: "A new report says Disney+ will replace Paramount as the streaming home for the UEFA Champions League, Europa League, and Conference League. Here is what the move means for fans."
-gradient: "linear-gradient(135deg, #ffffff 0%, #ffffff 100%)"
+gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "soccer"
 teams: []
 coverImage: "/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.png"
