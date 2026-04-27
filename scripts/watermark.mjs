@@ -9,79 +9,43 @@
  *   node scripts/watermark.mjs input.jpg                    # overwrites original
  *   node scripts/watermark.mjs input.jpg output.jpg         # saves to new file
  *   node scripts/watermark.mjs path/to/folder/              # watermarks all images in folder
+ *
+ * Logo source: public/brand/colorway-sports-logo.png (transparent PNG, full wordmark + tagline).
+ * Position: bottom-middle, horizontally centered.
  */
 
 import sharp from "sharp";
 import { readdir, stat } from "fs/promises";
-import { join, extname, basename, dirname } from "path";
+import { join, extname, basename, dirname, resolve } from "path";
+import { fileURLToPath } from "url";
 
-const LOGO_SVG = `<svg width="200" height="48" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000" flood-opacity="0.5"/>
-    </filter>
-  </defs>
-  <g filter="url(#shadow)">
-    <g transform="translate(20,24)">
-      <rect x="-6" y="-18" width="8" height="14" rx="4" fill="#0021A5" transform="rotate(-24)" opacity="0.95"/>
-      <rect x="-6" y="-18" width="8" height="14" rx="4" fill="#4A90D9" transform="rotate(-8)" opacity="0.95"/>
-      <rect x="-6" y="-18" width="8" height="14" rx="4" fill="#FF5910" transform="rotate(8)" opacity="0.95"/>
-      <rect x="-6" y="-18" width="8" height="14" rx="4" fill="#6B9E8F" transform="rotate(24)" opacity="0.95"/>
-      <circle cx="0" cy="0" r="3" fill="#FF5910" opacity="0.95"/>
-    </g>
-    <text x="38" y="21" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="16" letter-spacing="-0.3">
-      <tspan fill="#fff">Color</tspan><tspan fill="#FF5910">Way</tspan><tspan fill="#fff"> Sports</tspan><tspan fill="#FF5910">.</tspan>
-    </text>
-    <text x="38" y="34" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="500" font-size="6" letter-spacing="1.5" fill="rgba(255,255,255,0.7)" text-transform="uppercase">
-      COLORWAYSPORTS.COM
-    </text>
-  </g>
-</svg>`;
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const LOGO_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 
 async function watermarkImage(inputPath, outputPath) {
   const image = sharp(inputPath);
   const metadata = await image.metadata();
   const { width, height } = metadata;
 
-  // Scale watermark based on image size
-  const watermarkWidth = Math.max(150, Math.round(width * 0.18));
-  const watermarkHeight = Math.round(watermarkWidth * 0.24);
+  // Watermark width = ~22% of image width, min 200px, max 480px
+  const watermarkWidth = Math.max(200, Math.min(480, Math.round(width * 0.22)));
 
-  const watermarkBuffer = Buffer.from(LOGO_SVG);
-  const resizedWatermark = await sharp(watermarkBuffer)
-    .resize(watermarkWidth, watermarkHeight, { fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+  const resizedWatermark = await sharp(LOGO_PATH)
+    .resize(watermarkWidth, null, { fit: "inside" })
     .png()
     .toBuffer();
 
-  // Add semi-transparent dark background behind watermark for readability
-  const padding = Math.round(watermarkWidth * 0.08);
-  const bgWidth = watermarkWidth + padding * 2;
-  const bgHeight = watermarkHeight + padding * 2;
+  const wmMeta = await sharp(resizedWatermark).metadata();
+  const watermarkHeight = wmMeta.height;
 
-  const backgroundSvg = `<svg width="${bgWidth}" height="${bgHeight}" xmlns="http://www.w3.org/2000/svg">
-    <rect width="${bgWidth}" height="${bgHeight}" rx="6" fill="rgba(0,0,0,0.45)"/>
-  </svg>`;
-
-  const bgBuffer = await sharp(Buffer.from(backgroundSvg)).png().toBuffer();
-
-  const bgWithLogo = await sharp(bgBuffer)
-    .composite([{
-      input: resizedWatermark,
-      left: padding,
-      top: padding,
-    }])
-    .png()
-    .toBuffer();
-
-  // Position: bottom-right with margin
-  const margin = Math.round(width * 0.02);
+  // Position: bottom-middle, horizontally centered
+  const margin = Math.max(16, Math.round(height * 0.025));
+  const left = Math.round((width - watermarkWidth) / 2);
+  const top = height - watermarkHeight - margin;
 
   await image
-    .composite([{
-      input: bgWithLogo,
-      left: width - bgWidth - margin,
-      top: height - bgHeight - margin,
-    }])
+    .composite([{ input: resizedWatermark, left, top }])
     .toFile(outputPath);
 
   console.log(`  Watermarked: ${basename(outputPath)}`);
@@ -103,14 +67,25 @@ async function processPath(inputPath, outputPath) {
     console.log(`Watermarking ${images.length} images in ${inputPath}...`);
     for (const file of images) {
       const inPath = join(inputPath, file);
-      const outPath = join(inputPath, file); // overwrite in place for folders
-      await watermarkImage(inPath, outPath);
+      // Write to a temp file then move back, since sharp can't read+write same path
+      const tmpPath = join(inputPath, `.wm-tmp-${file}`);
+      await watermarkImage(inPath, tmpPath);
+      const { rename } = await import("fs/promises");
+      await rename(tmpPath, inPath);
     }
     console.log("Done!");
   } else {
-    const out = outputPath || inputPath;
-    console.log(`Watermarking ${basename(inputPath)}...`);
-    await watermarkImage(inputPath, out);
+    if (outputPath) {
+      console.log(`Watermarking ${basename(inputPath)}...`);
+      await watermarkImage(inputPath, outputPath);
+    } else {
+      // Same-file mode: write to temp, then rename back
+      const tmpPath = join(dirname(inputPath), `.wm-tmp-${basename(inputPath)}`);
+      console.log(`Watermarking ${basename(inputPath)}...`);
+      await watermarkImage(inputPath, tmpPath);
+      const { rename } = await import("fs/promises");
+      await rename(tmpPath, inputPath);
+    }
     console.log("Done!");
   }
 }
