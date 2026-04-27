@@ -21,6 +21,8 @@ reviews:
     rating: 10
   - name: "Pittsburgh Penguins at Philadelphia Flyers Round 1 Game 4 Jerseys"
     rating: 10
+  - name: "Philadelphia Flyers at Pittsburgh Penguins Round 1 Game 5 Jerseys"
+    rating: 9
   - name: "Tampa Bay Lightning at Montreal Canadiens Round 1 Game 3 Jerseys"
     rating: 9
   - name: "Tampa Bay Lightning at Montreal Canadiens Round 1 Game 4 Jerseys"
@@ -88,7 +90,8 @@ Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, u
 <div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <a href="#game-4" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Game 4s</a>
+    <a href="#game-5" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Game 5s</a>
+    <a href="#game-4" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 4s</a>
     <a href="#game-3" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 3s</a>
     <a href="#game-2" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 2s</a>
     <a href="#game-1" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 1s</a>
@@ -107,6 +110,43 @@ Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, u
 </div>
 
 Below, every matchup graded, newest first. Jump to any section with the links above.
+
+<span id="game-5"></span>
+
+## Round 1 Game 5 Matchups
+
+Monday tips the first Game 5 of Round 1, with the Penguins facing elimination at home against the Flyers. Both teams ran back the same uniform matchup we saw in Games 1 and 2 at PPG Paints Arena — Pittsburgh in their yellow alternate at home, Philadelphia in their road whites — for the third meeting in this look. The series sits 3-1 Flyers and the visual stakes are higher than the score.
+
+### Game 5: Philadelphia Flyers at Pittsburgh Penguins
+
+<div style="background: linear-gradient(135deg, #2a2408 0%, #0f0d04 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCB514 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 5 · Tonight</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 5 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 5 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+The series swings back to PPG Paints Arena and Pittsburgh runs back the same yellow alternate that opened the series, with Philadelphia in road whites for the third game in this exact uniform combination. The score holds at the same 9 we gave Games 1 and 2 because the visual is unchanged, but the Pens are now 0-2 in this look in Round 1 and one loss away from elimination. There is a real argument that Pittsburgh should have flipped to their primary black home sweater for the elimination game to mix up the visual identity for the Mario Lemieux-era nostalgia push, but the equipment staff went back to the same yellow that has not won them a game in this series. Same matchup, same broadcast read, higher stakes. Result update tomorrow morning.
 
 <span id="game-4"></span>
 
