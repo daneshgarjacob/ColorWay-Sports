@@ -2,14 +2,14 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-04-24"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3 takeovers from the Hawks, Rockets, Sixers, Magic, Wolves, and Raptors ranked and scored."
+updatedDate: "2026-04-27"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3 and Game 4 takeovers from the Hawks, Rockets, Sixers, Magic, Wolves, Raptors, Suns, and more ranked and scored."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
-teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons"]
+teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns"]
 ---
 
 <img src="/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg" alt="Atlanta Hawks red playoff t-shirts laid out on every seat at State Farm Arena for Game 3 against the New York Knicks in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
@@ -20,6 +20,38 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Monday Game 4 Giveaways
+
+Two confirmed crowd giveaways tipping Monday night. The Magic doubled down with a blue T-shirt to match the Icon blue jersey debut at Kia Center, the cleanest jersey-shirt coordination of Round 1. The Suns went the other direction with orange towels for a black-jersey night, a color choice that reads disconnected from anything else Phoenix is wearing or playing on.
+
+### Orlando Magic · Blue T-Shirts · Game 4 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JoshuaBRobbins/status/2048851162950979875"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2048854528913473612"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2048854524291424363"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2048854514128593057"></a></blockquote>
+</div>
+
+The Magic flipped from the black T-shirts they ran for Game 3 to a clean blue takeover for Game 4 at Kia Center, and they paired it with the team's flip from Statement Edition black to Icon Edition blue on the floor. This is the cleanest jersey-and-shirt coordination of Round 1 so far, the kind of cross-promotion that turns the broadcast into a single blue color story end to end. The shirt design itself is very simple, mostly a flat blue with the Magic wordmark, and that simplicity holds the grade back from a straight A. A bigger graphic, a Round 1 callout, or even a player silhouette would have pushed the visual harder. But getting every fan in the building into a color that exactly matches what the team is wearing is the whole point of these giveaways and Orlando nailed the execution. A-.
+
+### Phoenix Suns · Orange Towels · Game 4 · Grade: F
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Suns/status/2048890517065482616"></a></blockquote>
+</div>
+
+The Suns gave out orange rally towels at Footprint Center for Game 4 against the Thunder, and the choice somehow makes a bad jersey night even worse. Phoenix is wearing the Statement Edition black uniform on the alternate court for the second straight home game in this series, the same combination we graded a 2 out of 10 for Game 3 in the jersey tracker. Adding orange towels to that mix means the broadcast now has black jerseys on a black-and-orange alternate court with orange towels in the stands, and none of those orange touches connect to any uniform Phoenix has actually committed to wearing this round. The Suns own the league's best color palette with the purple, orange, and yellow combination, and the franchise has chosen to wear corporate black at home in the playoffs while handing fans a single orange accent the team itself is not wearing. The towel by itself is fine. The towel inside this Phoenix Suns home environment is a disconnect. F. The grade is for the entire Phoenix in-arena package, not just the towel as an object.
 
 ## Saturday Game 3 Giveaways
 
