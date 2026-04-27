@@ -2,6 +2,7 @@
 title: "2026 MLB Scorebugs Ranked: Every Local TV Broadcast, All 30 Teams"
 category: "MLB"
 date: "2026-04-06"
+updatedDate: "2026-04-27"
 excerpt: "We grabbed every local TV scorebug in baseball for the 2026 season. All 30 teams ranked and organized by network. Half the league shares the same template."
 gradient: "linear-gradient(135deg, #002D72 0%, #D50032 100%)"
 logoSrc: "/logos/mlb-city-connect.png"
@@ -17,6 +18,11 @@ Every MLB team has its own local broadcast, and every local broadcast has its ow
 We grabbed every local scorebug in baseball and organized them into three groups: teams with their own unique designs, teams sharing the NBC Sports template, and teams on the FanDuel Sports Network template.
 
 This is local broadcasts only. We will cover the national scorebugs (ESPN, Fox, NBC, Netflix, Apple TV+) in a separate post.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+  <p style="margin: 0 0 0.4em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Update · April 2026</p>
+  <p style="margin: 0; color: #fff; font-size: 0.95em; line-height: 1.5;">The White Sox went off-script and ran a custom <a href="/stories/white-sox-kids-day-scorebug" style="color: #FF5910; text-decoration: underline;">Kids Day scorebug</a> at Rate Field this April. We graded the alternate package separately since this post tracks regular-season looks only.</p>
+</div>
 
 ---
 
