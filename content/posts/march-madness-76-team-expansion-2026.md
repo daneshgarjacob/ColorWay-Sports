@@ -1,21 +1,28 @@
 ---
-title: "March Madness Expanding to 76 Teams: What the New NCAA Tournament Bracket Looks Like"
+title: "March Madness Expanding to 76 Teams Is a Mistake. Here's What the New Bracket Looks Like."
 category: "College"
 date: "2026-04-28"
-excerpt: "The NCAA is expanding March Madness from 68 to 76 teams as soon as the 2026-27 cycle. We break down the new bracket structure, the 12-game Opening Round, and what the expanded tournament looks like."
+excerpt: "The NCAA is expanding March Madness from 68 to 76 teams as soon as 2026-27. We break down the new bracket, the 12-game Opening Round, and why bracket inflation across every sport is making the regular season meaningless."
 gradient: "linear-gradient(135deg, #E8F0FF 0%, #FFE8D6 100%)"
-coverImage: "/images/posts/march-madness-76-expansion/cover.png"
+coverImage: "/images/posts/march-madness-76-expansion/march-madness-logo.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 league: "ncaa"
 teams: []
 ---
 
-<img src="/images/posts/march-madness-76-expansion/cover.png" alt="March Madness expanding from 68 to 76 teams cover graphic showing the proposed NCAA Tournament expansion for the 2026-27 cycle" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/march-madness-76-expansion/march-madness-logo.png" alt="2026 NCAA March Madness logo for the proposed 76-team tournament expansion announcement" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 The NCAA is moving toward expanding March Madness from 68 teams to 76 teams as soon as the 2026-27 cycle. NCAA president Charlie Baker has publicly confirmed that the league is in active negotiations with broadcast partners CBS and Warner Bros. Discovery on either a 72-team or 76-team field, with a final decision expected after the 2026 Final Four wraps. The current 68-team format has been in place since 2011 when the NCAA Tournament added the First Four. A move to 76 teams would be the largest single expansion of the bracket since 1985 when the field went from 53 to 64.
 
-Here is what the new bracket would actually look like, and what we think of the change.
+Our quick take before the deep dive: this is a mistake, and it is part of a much bigger problem across every league.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #1A2B5C 100%); border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <p style="font-size: 0.7em; font-weight: 800; margin: 0 0 4px; text-align: center; color: #fff; letter-spacing: 3px; opacity: 0.85;">OUR VERDICT</p>
+  <p style="font-size: 1.3em; font-weight: 900; margin: 0; text-align: center; color: #fff; line-height: 1.3;">Stop expanding playoffs. Bracket inflation in every sport is making the regular season meaningless.</p>
+</div>
+
+Here is what the new bracket would actually look like, why we hate the expansion, and what it means for the future of college basketball's signature event.
 
 ## 68 vs 76: The Quick Comparison
 
@@ -114,13 +121,15 @@ The current First Four splits its four games across two categories: two games be
 
 The eight extra at-large bids would almost entirely go to bubble teams from the major conferences. The whole point of the expansion, per Charlie Baker, is that the current 68-team format leaves a handful of legitimate top-70 teams out of the field every year because automatic qualifiers from one-bid leagues take up so many spots. The math on a 76-team field gives the Selection Committee eight more slots to put strong at-large teams in, which means more SEC, ACC, Big Ten, Big 12, and Big East teams get in.
 
-## What We Think About the Expansion
+## Why We Hate This Expansion
 
-We are not in love with this. The 64-team bracket has been the format since 1985 and the perfect-week-of-March structure is one of the cleanest postseason designs in all of American sports. A bracket that fits on a single 8.5x11 sheet of paper. A first round that completes in 48 hours and gives every casual fan their March Madness fix. The NCAA Tournament is the most universally followed postseason event in the country precisely because the format is simple enough for people who do not watch college basketball all year to fill out a bracket and care about the outcome.
+We do not like it. Not even close. The 64-team bracket has been the format since 1985 and the perfect-week-of-March structure is one of the cleanest postseason designs in all of American sports. A bracket that fits on a single 8.5x11 sheet of paper. A first round that completes in 48 hours and gives every casual fan their March Madness fix. The NCAA Tournament is the most universally followed postseason event in the country precisely because the format is simple enough for people who do not watch college basketball all year to fill out a bracket and care about the outcome. Now the NCAA is going to add eight more teams to it because the major conferences want more bids.
 
-Going to 76 teams does not break the bracket. The Round of 64 still exists, the office pool sheet still works, and the tournament still ends on the same first weekend of April. What it does change is the front end. Twelve play-in games at two sites over two days is a different rhythm than four games at Dayton, and the at-large teams getting in via the Opening Round are going to be ninth-place finishes from the SEC and Big Ten that did not earn it on merit. It is bracket inflation in service of giving more major-conference programs a postseason berth.
+The bigger issue is that this is happening everywhere. Every major sport in America has been expanding its playoff field for the last decade, and the regular season in every one of those sports is worth less because of it. The NBA added the Play-In Tournament that lets the 7th through 10th seeds in each conference fight for the last two playoff spots, which made the difference between finishing 5th and 9th in the regular season practically meaningless. The NFL went from 12 to 14 playoff teams in 2020, which means an 8-9 team can make the postseason. The College Football Playoff just expanded from four teams to twelve in 2024, watering down the bowl-tier games even more. MLB expanded the wild card to three teams per league in 2022, which means winning 100 games no longer guarantees a bye. Every league has decided that the answer to declining regular-season interest is to put more teams in the postseason, and every league is wrong about it.
 
-The counterargument is that more teams playing for a national championship is good for college basketball as a whole and good for the schools whose programs benefit. We get that. We just liked the 64-with-First-Four version and would be fine if Baker's negotiations stalled and the field stayed at 68.
+The actual fix for declining regular season interest is to make the regular season matter. Every team plays the regular season already. If 76 teams make the NCAA Tournament out of about 350 Division I programs, then 274 teams play five months of basketball that does not count for anything. The tournament is supposed to be the reward for the best teams, not a participation prize for everyone in the SEC and Big Ten. Eight more at-large bids does not give more teams a chance. It gives more major-conference bubble teams who already had every advantage of recruiting, NIL, conference scheduling, and TV exposure another chance. The 16-seed Cinderella that captures national attention every March is not getting added to the field by this expansion. Power-conference programs that finished 9th in their league are.
+
+We will see what details come out, and there is still a chance Baker's negotiations stall and the field stays at 68. We hope they do. The 64-with-First-Four format is the best postseason design in American sports. Adding eight more teams to it does not fix anything that needed fixing.
 
 ## Frequently Asked Questions About the March Madness 76-Team Expansion
 
