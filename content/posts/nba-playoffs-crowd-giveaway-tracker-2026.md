@@ -21,9 +21,9 @@ The crowd takeover is one of the most underrated visual elements of playoff bask
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
 
-## Monday Game 4 Giveaways
+## Monday Round 1 Giveaways
 
-Three confirmed crowd giveaways tipping Monday night. The Magic doubled down with a blue T-shirt to match the Icon blue jersey debut at Kia Center, the cleanest jersey-shirt coordination of Round 1. The Suns went the other direction with orange towels for a black-jersey night, a color choice that reads disconnected from anything else Phoenix is wearing or playing on. The Nuggets skipped the t-shirt route entirely and went with multi-color rally towels at Ball Arena.
+Three confirmed crowd giveaways tipping Monday night. The Magic doubled down with a blue T-shirt for Game 4 to match the Icon blue jersey debut at Kia Center, the cleanest jersey-shirt coordination of Round 1. The Suns went the other direction with orange towels for a Game 4 black-jersey night, a color choice that reads disconnected from anything else Phoenix is wearing or playing on. The Nuggets skipped the t-shirt route entirely for Game 5 and went with multi-color rally towels at Ball Arena.
 
 ### Orlando Magic · Blue T-Shirts · Game 4 · Grade: A-
 
@@ -53,13 +53,13 @@ The Magic flipped from the black T-shirts they ran for Game 3 to a clean blue ta
 
 The Suns gave out orange rally towels at Footprint Center for Game 4 against the Thunder, and the choice somehow makes a bad jersey night even worse. Phoenix is wearing the Statement Edition black uniform on the alternate court for the second straight home game in this series, the same combination we graded a 2 out of 10 for Game 3 in the jersey tracker. Adding orange towels to that mix means the broadcast now has black jerseys on a black-and-orange alternate court with orange towels in the stands, and none of those orange touches connect to any uniform Phoenix has actually committed to wearing this round. The Suns own the league's best color palette with the purple, orange, and yellow combination, and the franchise has chosen to wear corporate black at home in the playoffs while handing fans a single orange accent the team itself is not wearing. The towel by itself is fine. The towel inside this Phoenix Suns home environment is a disconnect. F. The grade is for the entire Phoenix in-arena package, not just the towel as an object.
 
-### Denver Nuggets · Multi-Color Towels · Game 4 · Grade: B-
+### Denver Nuggets · Multi-Color Towels · Game 5 · Grade: B-
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nuggets/status/2048946158589108555"></a></blockquote>
 </div>
 
-The Nuggets passed on a t-shirt giveaway for Game 4 at Ball Arena and went with rally towels in different colors for fans across the building. The multi-color approach is more interesting than a single solid towel because the crowd reads as a textured mosaic on the broadcast instead of one flat color block, and Denver's navy, gold, and red palette has enough range to make a mixed-color crowd look intentional. The drawback is that towels never hit the visual ceiling of a coordinated t-shirt takeover, and skipping the shirt means Denver leaves the bigger color story on the table. We grade it B-. The execution is fine and the variety adds something, but the Nuggets had a chance to commit to one signature playoff color across every seat and chose not to.
+The Nuggets passed on a t-shirt giveaway for Game 5 at Ball Arena and went with rally towels in different colors for fans across the building. The multi-color approach is more interesting than a single solid towel because the crowd reads as a textured mosaic on the broadcast instead of one flat color block, and Denver's navy, gold, and red palette has enough range to make a mixed-color crowd look intentional. The drawback is that towels never hit the visual ceiling of a coordinated t-shirt takeover, and skipping the shirt means Denver leaves the bigger color story on the table. We grade it B-. The execution is fine and the variety adds something, but the Nuggets had a chance to commit to one signature playoff color across every seat and chose not to.
 
 ## Saturday Game 3 Giveaways
 
