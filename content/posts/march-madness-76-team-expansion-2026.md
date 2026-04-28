@@ -121,13 +121,66 @@ The current First Four splits its four games across two categories: two games be
 
 The eight extra at-large bids would almost entirely go to bubble teams from the major conferences. The whole point of the expansion, per Charlie Baker, is that the current 68-team format leaves a handful of legitimate top-70 teams out of the field every year because automatic qualifiers from one-bid leagues take up so many spots. The math on a 76-team field gives the Selection Committee eight more slots to put strong at-large teams in, which means more SEC, ACC, Big Ten, Big 12, and Big East teams get in.
 
-## Why We Hate This Expansion
+## Bracket Inflation Is Happening in Every Sport
 
-We do not like it. Not even close. The 64-team bracket has been the format since 1985 and the perfect-week-of-March structure is one of the cleanest postseason designs in all of American sports. A bracket that fits on a single 8.5x11 sheet of paper. A first round that completes in 48 hours and gives every casual fan their March Madness fix. The NCAA Tournament is the most universally followed postseason event in the country precisely because the format is simple enough for people who do not watch college basketball all year to fill out a bracket and care about the outcome. Now the NCAA is going to add eight more teams to it because the major conferences want more bids.
+Before we get to why the March Madness expansion specifically is the wrong move, the broader pattern is what makes this so frustrating. Every major American sport has expanded its postseason field over the last six years, and the common thread is that the regular season in every one of those sports has been worth less ever since.
 
-The bigger issue is that this is happening everywhere. Every major sport in America has been expanding its playoff field for the last decade, and the regular season in every one of those sports is worth less because of it. The NBA added the Play-In Tournament that lets the 7th through 10th seeds in each conference fight for the last two playoff spots, which made the difference between finishing 5th and 9th in the regular season practically meaningless. The NFL went from 12 to 14 playoff teams in 2020, which means an 8-9 team can make the postseason. The College Football Playoff just expanded from four teams to twelve in 2024, watering down the bowl-tier games even more. MLB expanded the wild card to three teams per league in 2022, which means winning 100 games no longer guarantees a bye. Every league has decided that the answer to declining regular-season interest is to put more teams in the postseason, and every league is wrong about it.
+<div style="margin: 1.5em 0; border-radius: 12px; overflow: hidden; border: 1px solid rgba(0,0,0,0.1);">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95em;">
+    <thead>
+      <tr style="background: linear-gradient(90deg, #C8102E 0%, #1A2B5C 100%); color: #fff;">
+        <th style="padding: 14px 16px; text-align: left; font-weight: 800;">League</th>
+        <th style="padding: 14px 16px; text-align: center; font-weight: 800;">Old Format</th>
+        <th style="padding: 14px 16px; text-align: center; font-weight: 800;">Current Format</th>
+        <th style="padding: 14px 16px; text-align: center; font-weight: 800;">Year Changed</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background: #fff;">
+        <td style="padding: 12px 16px; font-weight: 700;">NBA</td>
+        <td style="padding: 12px 16px; text-align: center;">16 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">20 teams (Play-In)</td>
+        <td style="padding: 12px 16px; text-align: center;">2021</td>
+      </tr>
+      <tr style="background: #f7f8fa;">
+        <td style="padding: 12px 16px; font-weight: 700;">NFL</td>
+        <td style="padding: 12px 16px; text-align: center;">12 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">14 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">2020</td>
+      </tr>
+      <tr style="background: #fff;">
+        <td style="padding: 12px 16px; font-weight: 700;">MLB</td>
+        <td style="padding: 12px 16px; text-align: center;">10 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">12 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">2022</td>
+      </tr>
+      <tr style="background: #f7f8fa;">
+        <td style="padding: 12px 16px; font-weight: 700;">College Football Playoff</td>
+        <td style="padding: 12px 16px; text-align: center;">4 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">12 teams</td>
+        <td style="padding: 12px 16px; text-align: center;">2024</td>
+      </tr>
+      <tr style="background: #fff;">
+        <td style="padding: 12px 16px; font-weight: 700;">NCAA Tournament (Men)</td>
+        <td style="padding: 12px 16px; text-align: center;">68 teams</td>
+        <td style="padding: 12px 16px; text-align: center; font-weight: 800; color: #FF6B1A;">76 teams (proposed)</td>
+        <td style="padding: 12px 16px; text-align: center; font-weight: 800; color: #FF6B1A;">2026-27</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-The actual fix for declining regular season interest is to make the regular season matter. Every team plays the regular season already. If 76 teams make the NCAA Tournament out of about 350 Division I programs, then 274 teams play five months of basketball that does not count for anything. The tournament is supposed to be the reward for the best teams, not a participation prize for everyone in the SEC and Big Ten. Eight more at-large bids does not give more teams a chance. It gives more major-conference bubble teams who already had every advantage of recruiting, NIL, conference scheduling, and TV exposure another chance. The 16-seed Cinderella that captures national attention every March is not getting added to the field by this expansion. Power-conference programs that finished 9th in their league are.
+The NBA Play-In Tournament is the cleanest example of what is wrong with this trend. Before 2021, the difference between finishing 5th in a conference and finishing 9th was the difference between the playoffs and a vacation. Now the 7th, 8th, 9th, and 10th seeds all play for the last two playoff spots, which means a team treading water at .500 for six months can still get into the postseason. The 5-vs-9 distinction in the regular season standings has been almost completely erased.
+
+The NFL going from 12 to 14 playoff teams in 2020 means an 8-9 team can theoretically make the playoffs in a weak division, which has happened multiple times. The MLB three-wild-cards expansion in 2022 means winning 100 games no longer guarantees a bye in the playoffs. The College Football Playoff jumping from four teams to twelve in 2024 added an entire round of postseason football and watered down the bowl-tier games on top of it. Every league has decided that the answer to declining regular-season interest is to put more teams in the postseason, and every league has been wrong.
+
+## Why We Hate This Expansion Specifically
+
+The 64-team bracket has been the format since 1985 and the perfect-week-of-March structure is one of the cleanest postseason designs in all of American sports. A bracket that fits on a single 8.5x11 sheet of paper. A first round that completes in 48 hours and gives every casual fan their March Madness fix. The NCAA Tournament is the most universally followed postseason event in the country precisely because the format is simple enough for people who do not watch college basketball all year to fill out a bracket and care about the outcome. Adding eight more teams does not improve any of that. It just stretches the front end of the tournament with twelve play-in games that nobody outside of the bubble teams' fanbases will watch.
+
+The actual fix for declining regular-season interest is to make the regular season matter. If 76 teams make the NCAA Tournament out of about 350 Division I programs, then 274 teams play five months of basketball that does not count for anything. The tournament is supposed to be the reward for the best teams, not a participation prize for everyone in the SEC and Big Ten. Eight more at-large bids does not give more teams a chance. It gives more major-conference bubble teams who already had every advantage of recruiting, NIL, conference scheduling, and TV exposure another chance.
+
+The Cinderella math gets even worse. The 16-seed George Mason or 11-seed Loyola-Chicago that captures national attention every March is not getting added to the field by this expansion. Those teams are already in. The eight new bids are going to power-conference programs that finished 9th in their league regular season and lost in the second round of their conference tournament. We are not making the bracket more inclusive of the small-school stories that make March Madness feel like March Madness. We are making it more inclusive of high-major bubble programs who already had a fair shot at the postseason and did not earn it.
 
 We will see what details come out, and there is still a chance Baker's negotiations stall and the field stays at 68. We hope they do. The 64-with-First-Four format is the best postseason design in American sports. Adding eight more teams to it does not fix anything that needed fixing.
 
