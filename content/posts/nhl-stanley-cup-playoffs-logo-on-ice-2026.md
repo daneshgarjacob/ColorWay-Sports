@@ -1,8 +1,9 @@
 ---
-title: "The NHL Removed the Stanley Cup Playoffs Logo From the Ice and It Still Bothers Us"
+title: "Why the Stanley Cup Playoffs Ice Logo Vanished From NHL Rinks"
 category: "NHL"
 date: "2026-04-15"
-excerpt: "The Stanley Cup Playoffs start April 18 and for the sixth straight year there will be no playoff logo on the ice. The NHL is the only major sport in North America that doesn't put a postseason logo on its playing surface. Here's why that needs to change."
+updatedDate: "2026-04-28"
+excerpt: "Why the NHL removed the Stanley Cup Playoffs ice logo after 2020, what replaced it, and why fans still want the playoff logo back on the rink."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 logoSrc: "/logos/NHL.png"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/2026_Stanley_Cup_playoffs_logo.png"
@@ -15,22 +16,22 @@ featuredOrder: 2
 <img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2026_Stanley_Cup_playoffs_logo.png" alt="2026 Stanley Cup Playoffs logo NHL postseason branding" style="width: 80%; display: block; margin: 0 auto; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the NHL</p>
 
-The 2026 Stanley Cup Playoffs start on April 18. Sixteen teams. Best-of-seven series. Two months of the best postseason in professional sports. And for the sixth straight year, you won't see a Stanley Cup Playoffs logo painted on the ice.
+The Stanley Cup Playoffs ice logo is one of the great visual signatures the NHL has given up. For years it was painted right below each blue line on every rink, every playoff series. After the 2020 postseason the league pulled it off the ice and handed the space over to rotating digital ads. Six playoffs later the logo still has not come back, and we still think it should.
 
-The NHL removed the physical Stanley Cup Playoffs logo from below the blue lines after the 2020 postseason to make room for more digital advertising. That decision still bothers us, and it should bother every hockey fan who cares about how the game looks on TV.
+The short version of why it disappeared: digital ad inventory. The NHL replaced the physical Stanley Cup Playoffs logo with virtual sponsor placements that change shot to shot, generate more revenue per game, and make every playoff broadcast look exactly like a regular-season broadcast. That trade is what this post is about.
 
-## What It Used to Look Like
+## What the Stanley Cup Playoffs Ice Logo Used to Look Like
 
-For years, the Stanley Cup Playoffs logo was painted directly on the ice surface below each blue line. It was one of the first things you noticed when a playoff game started. You'd turn on the TV and immediately know this wasn't a regular season game. The logo on the ice changed the entire feel of the broadcast. It made the playoffs feel like an event.
+For more than a decade the Stanley Cup Playoffs ice logo was painted directly on the ice surface below each blue line at every NHL postseason rink. It was one of the first things you noticed when a playoff game started. You turned on the TV and immediately knew this was not a regular-season game. The logo on the ice changed the entire feel of the broadcast. It made the playoffs feel like an event. We covered the full era-by-era ranking of the championship branding in our [Stanley Cup Final logo history 1989-2026](/stories/stanley-cup-final-logo-history-1989-2026) breakdown.
 
 <img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-logo-on-ice.png" alt="2019 Stanley Cup Final logo painted on center ice at TD Garden Blues vs Bruins" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBC Sports</p>
 
 Look at that. The Stanley Cup Final logo right there on center ice at TD Garden during the 2019 Blues-Bruins series. It's massive, it's visible on every faceoff, and it tells you exactly what you're watching. You didn't need to check the scorebug to know this was the Stanley Cup Final. The ice told you. That kind of branding turns a hockey game into an event.
 
-## What It Looks Like Now
+## What the Ice Looks Like Now
 
-After 2020, the NHL pulled the logo off the ice and replaced the space with digital advertising. The same spot that used to say "Stanley Cup Playoffs" now rotates through sponsor ads that change mid-play. The result is a playoff game that looks exactly like a regular season game. There's nothing on the ice surface that tells you this is the postseason.
+After 2020, the NHL pulled the Stanley Cup Playoffs logo off the ice and replaced the space with digital advertising. The same spots below each blue line that used to read "Stanley Cup Playoffs" now rotate through sponsor ads that change mid-play. The result is a playoff game that looks exactly like a regular-season game. Nothing on the ice surface tells you this is the postseason.
 
 <img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/current-no-logo-ice.png" alt="Recent Stanley Cup Final broadcast showing digital ads on boards and reduced on-ice branding compared to 2019" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NHL broadcast</p>
@@ -80,19 +81,23 @@ The NHL used to do this too. And then they stopped because they wanted more ad r
 
 ## The Bottom Line
 
-The Stanley Cup Playoffs are the best postseason in professional sports. The intensity, the physicality, the overtime drama. Nothing else comes close. But the way the NHL presents it on screen has gone backwards. The playoff logo belongs on the ice. It belongs below the blue line where it sat for years. Fans have been asking for it back, there's literally a petition for it, and the NHL hasn't said a word.
+The Stanley Cup Playoffs are the best postseason in professional sports. The intensity, the physicality, the overtime drama. Nothing else comes close. But the way the NHL presents it on screen has gone backwards. The Stanley Cup Playoffs ice logo belongs below the blue line where it sat for years. Fans have been asking for it back, there is literally a petition for it, and the NHL has not said a word.
 
-The 2026 Stanley Cup Playoffs start on April 18. Sixteen teams will compete for the greatest trophy in sports. And you still won't see a single playoff logo on the ice surface. That's a missed opportunity, and the NHL should fix it.
+Sixteen teams are competing for the greatest trophy in sports right now and you still will not see a single playoff logo painted on the ice surface. That is a missed opportunity, and the NHL should fix it.
 
-## Frequently Asked Questions
+## Frequently Asked Questions About the Stanley Cup Playoffs Ice Logo
 
-**Why is there no Stanley Cup Playoffs logo on the ice?**
+**Why did the NHL remove the Stanley Cup Playoffs ice logo?**
 
-The NHL removed the Stanley Cup Playoffs logo from below the blue lines after the 2020 postseason to make room for more digital advertising on the ice surface. The space that previously featured the playoff logo now shows rotating sponsor ads during broadcasts.
+The NHL removed the Stanley Cup Playoffs ice logo from below the blue lines after the 2020 postseason to free the surface for digital advertising. The space that previously held the painted playoff logo now rotates through sponsor ads during the broadcast, which generates more revenue per game than a single static logo could.
 
-**When did the NHL remove the playoffs logo from the ice?**
+**When did the Stanley Cup Playoffs ice logo disappear?**
 
-The NHL removed the physical Stanley Cup Playoffs logo from the ice after the 2020 postseason. It has not appeared on the ice surface since, making the 2026 playoffs the sixth consecutive year without the logo on the playing surface.
+The Stanley Cup Playoffs ice logo last appeared on NHL ice during the 2020 postseason. The 2026 playoffs are the sixth consecutive year without the painted logo on the rink surface.
+
+**What years did the Stanley Cup Playoffs ice logo appear on the ice?**
+
+The standardized Stanley Cup Playoffs ice logo ran from 2009 through 2020 across every NHL postseason rink. Earlier playoff eras featured custom Stanley Cup Final ice graphics painted at center ice for individual championship series, but 2009 to 2020 was the era of one consistent league-wide playoff logo painted below each blue line.
 
 **Does any other sport not put a playoff logo on its playing surface?**
 

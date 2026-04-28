@@ -2,6 +2,7 @@
 title: "Stanley Cup Final Logo History 1989-2026: Every Era of NHL Playoff Branding Ranked"
 category: "NHL"
 date: "2026-04-27"
+updatedDate: "2026-04-28"
 excerpt: "Every Stanley Cup Final logo from 1989 to 2026 ranked era by era. The ribbon-and-cup patches, the sunburst era, the iconic silver shield, and the new Stanley Cup Playoffs wordmark all graded."
 gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "nhl"
@@ -15,7 +16,7 @@ coverImageFit: "contain"
 
 The Stanley Cup Final logo has gone through seven distinct visual eras since 1989. The ribbon-and-cup patches that sat on the chest of every player in the early 90s. The conference-vs-conference oval crests of the late 90s. The sunburst Stanley Cup wordmarks that defined the Jaromir Jagr and Patrick Roy eras. The shield-and-banner moment in the mid 2000s. The forgettable 2008 transitional one-off. The iconic silver shield that ran for thirteen years and became the visual shorthand for playoff hockey. And the new Stanley Cup Final wordmark the league rolled out in 2022 that we are still living with today.
 
-We tracked every single one of them, year by year, from 1989 to 2026. Below is the complete history, the era-by-era ranking, and the case for which era of the Stanley Cup Final logo is the best of all time.
+We tracked every single one of them, year by year, from 1989 to 2026. Below is the complete history, the era-by-era ranking, and the case for which era of the Stanley Cup Final logo is the best of all time. For the related case on the playoff logo that used to live on the rink itself, see our [Stanley Cup Playoffs ice logo breakdown](/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026).
 
 ## Every Stanley Cup Final Logo, 1989 to 2026
 
