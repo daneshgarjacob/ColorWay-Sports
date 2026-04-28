@@ -4,14 +4,14 @@ category: "College"
 date: "2026-04-28"
 excerpt: "The NCAA is expanding March Madness from 68 to 76 teams as soon as 2026-27. We break down the new bracket, the 12-game Opening Round, and why bracket inflation across every sport is making the regular season meaningless."
 gradient: "linear-gradient(135deg, #E8F0FF 0%, #FFE8D6 100%)"
-coverImage: "/images/posts/march-madness-76-expansion/march-madness-logo.png"
+coverImage: "/images/posts/march-madness-76-expansion/march-madness.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 league: "ncaa"
 teams: []
 ---
 
-<img src="/images/posts/march-madness-76-expansion/march-madness-logo.png" alt="2026 NCAA March Madness logo for the proposed 76-team tournament expansion announcement" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/march-madness-76-expansion/march-madness.png" alt="2026 NCAA March Madness logo for the proposed 76-team tournament expansion announcement" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 The NCAA is moving toward expanding March Madness from 68 teams to 76 teams as soon as the 2026-27 cycle. NCAA president Charlie Baker has publicly confirmed that the league is in active negotiations with broadcast partners CBS and Warner Bros. Discovery on either a 72-team or 76-team field, with a final decision expected after the 2026 Final Four wraps. The current 68-team format has been in place since 2011 when the NCAA Tournament added the First Four. A move to 76 teams would be the largest single expansion of the bracket since 1985 when the field went from 53 to 64.
 
