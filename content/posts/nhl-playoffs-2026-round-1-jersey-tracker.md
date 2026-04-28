@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
-updatedDate: "2026-04-27"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker updated through Sunday's Game 4 slate. Every matchup graded game by game with sweeps and tied series."
+updatedDate: "2026-04-28"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker updated through Monday's Pens-Flyers Game 5 and Vegas-Mammoth Game 4. Every matchup graded game by game with post-game records."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 85%"
@@ -115,18 +115,18 @@ Below, every matchup graded, newest first. Jump to any section with the links ab
 
 ## Round 1 Game 5 Matchups
 
-Monday tips the first Game 5 of Round 1, with the Penguins facing elimination at home against the Flyers. Both teams ran back the same uniform matchup we saw in Games 1 and 2 at PPG Paints Arena — Pittsburgh in their yellow alternate at home, Philadelphia in their road whites — for the third meeting in this look. The series sits 3-1 Flyers and the visual stakes are higher than the score.
+Monday tipped the first Game 5 of Round 1, with the Penguins facing elimination at home against the Flyers. Both teams ran back the same uniform matchup we saw in Games 1 and 2 at PPG Paints Arena — Pittsburgh in their yellow alternate at home, Philadelphia in their road whites — for the third meeting in this look. Pittsburgh extended the series 3-2 with the Game 5 win to send Round 1 back to Philadelphia for Game 6.
 
 ### Game 5: Philadelphia Flyers at Pittsburgh Penguins
 
 <div style="background: linear-gradient(135deg, #2a2408 0%, #0f0d04 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCB514 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 5 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCB514 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
       <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -134,7 +134,7 @@ Monday tips the first Game 5 of Round 1, with the Penguins facing elimination at
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-2</span>
       <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
@@ -146,13 +146,13 @@ Monday tips the first Game 5 of Round 1, with the Penguins facing elimination at
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-The series swings back to PPG Paints Arena and Pittsburgh runs back the same yellow alternate that opened the series, with Philadelphia in road whites for the third game in this exact uniform combination. The score holds at the same 9 we gave Games 1 and 2 because the visual is unchanged, but the Pens are now 0-2 in this look in Round 1 and one loss away from elimination. There is a real argument that Pittsburgh should have flipped to their primary black home sweater for the elimination game to mix up the visual identity for the Mario Lemieux-era nostalgia push, but the equipment staff went back to the same yellow that has not won them a game in this series. Same matchup, same broadcast read, higher stakes. Result update tomorrow morning.
+The series swings back to PPG Paints Arena and Pittsburgh runs back the same yellow alternate that opened the series, with Philadelphia in road whites for the third game in this exact uniform combination. The score holds at the same 9 we gave Games 1 and 2 because the visual is unchanged, and the Penguins finally got the yellow alternate into the win column in Round 1 with the Game 5 victory to extend the series. Pittsburgh now sits 1-2 in this look heading into a Game 6 in Philadelphia. There was a real argument before puck drop that the Pens should have flipped to the primary black home sweater for the elimination game to push a Mario Lemieux-era nostalgia moment, but the equipment staff went back to the yellow and got rewarded. Series 3-2 Flyers, broadcast read unchanged.
 
 <span id="game-4"></span>
 
 ## Round 1 Game 4 Matchups
 
-Saturday and Sunday delivered seven Game 4s with two series sweeps, three series tied 2-2, and two with the higher seed up 3-1 heading into Game 5. The Hurricanes finished the Senators 4-0 on Saturday in Ottawa, and the Avalanche finished the Kings 4-0 on Sunday in Los Angeles. Sunday in particular ran clean across the board, with Lightning at Canadiens and Oilers at Ducks both holding the same 9-out-of-10 grades they earned in Game 3 thanks to Montreal's iconic red home sweater and Anaheim's primary orange. Pens at Flyers ran back our perfect 10. Sunday averaged 8.3 across four games, Saturday averaged 7.7 across three. Vegas at Mammoth Game 4 tips Monday night at Delta Center and we're projecting Mammoth to repeat the home dark sweater.
+Saturday, Sunday, and Monday delivered all eight Game 4s with two series sweeps, four series tied 2-2 after Vegas evened things up Monday night, and two with the higher seed up 3-1 heading into Game 5. The Hurricanes finished the Senators 4-0 on Saturday in Ottawa, and the Avalanche finished the Kings 4-0 on Sunday in Los Angeles. Sunday in particular ran clean across the board, with Lightning at Canadiens and Oilers at Ducks both holding the same 9-out-of-10 grades they earned in Game 3 thanks to Montreal's iconic red home sweater and Anaheim's primary orange. Pens at Flyers ran back our perfect 10. Sunday averaged 8.3 across four games, Saturday averaged 7.7 across three. Vegas at Mammoth Game 4 closed out the Game 4 slate Monday night at Delta Center with Vegas taking the win to tie the series 2-2.
 
 ### Game 4: Pittsburgh Penguins at Philadelphia Flyers
 
@@ -344,12 +344,12 @@ Same uniforms as Game 3 and the same 7. The Wild repeat their green primary home
 
 <div style="background: linear-gradient(135deg, #0a0a14 0%, #050508 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B9975B 0%, #71AFE5 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 4 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B9975B 0%, #71AFE5 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 4 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -357,7 +357,7 @@ Same uniforms as Game 3 and the same 7. The Wild repeat their green primary home
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 2 of 4 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nhl/mammoth-black.png" alt="Utah Mammoth black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
@@ -369,7 +369,7 @@ Same uniforms as Game 3 and the same 7. The Wild repeat their green primary home
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
 </div>
 
-Game 4 tips Monday night at Delta Center with the Mammoth leading the series 2-1 after a Game 3 win at home. We're projecting Utah to repeat the primary black home sweater that delivered in Game 3, and Vegas to stay in their road whites for the second straight game. Mammoth black-and-blue against Vegas whites gives the broadcast the contrast the Vegas gold home sweater never quite delivered in Games 1 and 2. Same projected 7 unless either team flips uniforms last minute. We'll update this card with the result tomorrow morning.
+Game 4 tipped Monday night at Delta Center with the Mammoth leading the series 2-1 after a Game 3 win at home. Utah ran back the primary black home sweater that delivered in Game 3, and Vegas stayed in their road whites for the second straight game. Mammoth black-and-blue against Vegas whites gives the broadcast the contrast the Vegas gold home sweater never quite delivered in Games 1 and 2. Vegas takes Game 4 in Salt Lake to tie the series 2-2 and pull home-ice advantage back to T-Mobile Arena. Seven out of 10 holds, same as the Game 3 read.
 
 ### Game 4: Carolina Hurricanes at Ottawa Senators
 
