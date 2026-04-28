@@ -6,7 +6,7 @@ updatedDate: "2026-04-27"
 excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker updated through Monday. Every matchup graded game by game with a Magic blue debut and a Phoenix Statement repeat."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
-coverImagePosition: "center 85%"
+coverImagePosition: "center bottom"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "atlanta-hawks", "cleveland-cavaliers", "toronto-raptors", "denver-nuggets", "minnesota-timberwolves", "los-angeles-lakers", "houston-rockets"]

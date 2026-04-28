@@ -3,7 +3,7 @@ title: "Stanley Cup Final Logo History 1989-2026: Every Era of NHL Playoff Brand
 category: "NHL"
 date: "2026-04-27"
 excerpt: "Every Stanley Cup Final logo from 1989 to 2026 ranked era by era. The ribbon-and-cup patches, the sunburst era, the iconic silver shield, and the new Stanley Cup Playoffs wordmark all graded."
-gradient: "linear-gradient(135deg, #F0F4F8 0%, #D8E2EC 100%)"
+gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "nhl"
 teams: []
 coverImage: "/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.png"

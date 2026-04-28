@@ -109,16 +109,16 @@ async function buildCoverComposite({ output }) {
   const width = sidePadding * 2 + topRow.length * cellSize + (topRow.length - 1) * colGap;
   const height = topPadding + cellSize + labelHeight + rowGap + cellSize + labelHeight + watermarkBand;
 
-  const background = await sharp({
-    create: {
-      width,
-      height,
-      channels: 4,
-      background: { r: 248, g: 250, b: 252, alpha: 1 },
-    },
-  })
-    .png()
-    .toBuffer();
+  const gradientSvg = `<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#E8F4F8"/>
+        <stop offset="100%" stop-color="#D6E0EE"/>
+      </linearGradient>
+    </defs>
+    <rect width="${width}" height="${height}" fill="url(#bg)"/>
+  </svg>`;
+  const background = await sharp(Buffer.from(gradientSvg)).png().toBuffer();
 
   const composites = [];
 
@@ -154,16 +154,16 @@ async function buildGridComposite({ years, columns, cellSize, gap, padding, year
   const width = padding * 2 + columns * cellSize + (columns - 1) * gap;
   const height = padding + rows * cellWithLabel + (rows - 1) * gap + watermarkBand;
 
-  const background = await sharp({
-    create: {
-      width,
-      height,
-      channels: 4,
-      background: { r: 248, g: 250, b: 252, alpha: 1 },
-    },
-  })
-    .png()
-    .toBuffer();
+  const gradientSvg = `<svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#E8F4F8"/>
+        <stop offset="100%" stop-color="#D6E0EE"/>
+      </linearGradient>
+    </defs>
+    <rect width="${width}" height="${height}" fill="url(#bg)"/>
+  </svg>`;
+  const background = await sharp(Buffer.from(gradientSvg)).png().toBuffer();
 
   const composites = [];
 
