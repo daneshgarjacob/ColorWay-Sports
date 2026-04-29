@@ -2,7 +2,8 @@
 title: "F1 Miami Grand Prix 2026: Every Special Livery Tracker and Ranking"
 category: "F1"
 date: "2026-04-28"
-excerpt: "Cadillac drops a Stars and Stripes one-off for its first F1 home race at the 2026 Miami Grand Prix. We track and rank every special livery as more teams reveal."
+updatedDate: "2026-04-29"
+excerpt: "Cadillac drops a Stars and Stripes one-off, Alpine runs an Argentinian twist for Colapinto, Visa Cash App RB pulls yellow team polos, and Max Verstappen unveils a Miami helmet. We track and rank every 2026 F1 Miami GP special livery as more teams reveal."
 gradient: "linear-gradient(135deg, #FFE5F1 0%, #D6F0F0 100%)"
 logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/f1-miami-gp-2026/cadillac-miami-gp-5.avif"
@@ -11,9 +12,9 @@ teams: []
 homepageOrder: 8
 ---
 
-The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is just getting started. Cadillac is the only team to drop a full one-off car livery so far, with the Stars and Stripes treatment for the team's first-ever F1 home race. Mercedes has unveiled a purple race-suit moment with new partner Nu, and McLaren has teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
+The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is in full swing. Cadillac dropped a Stars and Stripes one-off for its first-ever F1 home race. Alpine put driver Franco Colapinto's Argentinian roots front and center with a yellow Mercado Libre photoshoot. Visa Cash App RB ran their drivers in yellow Hugo team polos for the Miami weekend. Max Verstappen unveiled a custom Miami helmet. Mercedes brought a purple race-suit moment with new partner Nu, and McLaren teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
-*We will update this post as more liveries drop through Wednesday, Thursday, and Friday at the Miami International Autodrome.*
+*Updated Wednesday April 29 with Alpine, Visa Cash App RB, and Max Verstappen reveals. We will keep updating this post through Thursday and Friday at the Miami International Autodrome.*
 
 ## 1. Cadillac · Stars and Stripes Debut
 
@@ -112,20 +113,65 @@ McLaren has not confirmed a Miami special livery. The poster could be promotiona
 
 ---
 
-## Not Yet Revealed (As of 2026-04-28)
+## 4. Alpine · Argentinian Twist for Colapinto
 
-The following teams have not announced a Miami GP one-off livery as of Tuesday morning. Several have run Miami specials in past seasons, so reveals are still possible through Wednesday and Thursday. We will add cards as they drop:
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 280px; max-width: 750px;">
+    <img src="/images/posts/f1-miami-gp-2026/HHEibNJXcAAxCtU.jpg" alt="Alpine F1 Miami Grand Prix 2026 Argentinian twist livery side profile of Franco Colapinto's number 43 car shot on a yellow studio background with prominent Mercado Libre BWT eni and MSC sponsor branding" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
+
+Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco Colapinto and his number 43 car. The studio backdrop is a flat Mercado Libre yellow that floods the entire frame, the Mercado Libre branding sits front and center on the chassis, and the campaign leans into Colapinto's status as the only Argentine driver on the 2026 F1 grid heading into a Miami crowd that always travels heavy with Latin American fans. The car itself stays in the standard 2026 Alpine livery (BWT pink, Mercedes-blue base, eni accents), and the Argentinian twist is delivered through the marketing package rather than a paint flip. We like the move. Miami sells out every year with a crowd that is more international than almost any other GP on the calendar, and a campaign aimed at the Spanish-speaking fan base is exactly the kind of thinking the rest of the grid often skips.
+
+### More Photos of the Alpine Miami GP Argentinian Photoshoot
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHEj8B4aQAAvjyN.jpg" alt="Alpine F1 Miami Grand Prix 2026 Argentinian twist photoshoot front three quarter angle of Franco Colapinto number 43 car on yellow background with BWT pink and Alpine blue base livery" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-miami-gp-2026/HHEj6z4WQAAYEya.jpg" alt="Alpine F1 Miami Grand Prix 2026 Argentinian twist rear view of Franco Colapinto number 43 car on yellow Mercado Libre background showcasing the rear wing branding" style="width: 100%; border-radius: 10px;" />
+</div>
+
+**Grade: B+**
+
+---
+
+## 5. Visa Cash App RB · Yellow Hugo Team Polos
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHE4RKmXwAABCTc.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo on a blue studio background for the 2026 Miami Grand Prix weekend campaign" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-miami-gp-2026/HHE4RLLaoAA73Dj.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo with Tudor Mobil and Red Bull sponsor branding for the 2026 Miami Grand Prix weekend campaign" style="width: 100%; border-radius: 10px;" />
+</div>
+
+Visa Cash App RB pulled both of their drivers into yellow Hugo team polos for the 2026 Miami GP weekend campaign. The polos read more like a Miami beach-vibe lifestyle drop than a race-suit reveal, with Hugo Boss as the team's official menswear partner driving the apparel side of the partnership. The yellow against the team's blue studio backdrop is one of the cleaner color contrasts the paddock has shown for Miami, and the team-issue polos pair with the Tudor, Mobil, and Red Bull sponsor mix on the chest. We have not seen a full car-livery change announcement from Visa Cash App RB for this round, so the apparel-only drop is the entire Miami special. Solid for casual broadcast cutaways during driver intros and practice walks. The car still runs the standard 2026 Visa Cash App RB livery on Friday.
+
+**Grade: B**
+
+---
+
+## 6. Red Bull · Max Verstappen Custom Miami Helmet
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/ESPNF1/status/2049505283123155258"></a>
+  </blockquote>
+</div>
+
+Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend. The Red Bull main team rarely runs full one-off car liveries, and a driver helmet is the lever Red Bull tends to pull when a marquee race calls for something special on the broadcast. The Miami helmet is the part of the package fans will actually catch on the broadcast feed during the in-car cam, the parc fermé walk-up, and the helmet pulls in the garage between sessions. We will update this card with a closer look at the helmet design once the full studio shots land, and with a grade once we have seen it on track in Friday practice.
+
+**Grade: Pending On-Track**
+
+---
+
+## Not Yet Revealed (As of 2026-04-29)
+
+The following teams have not announced a Miami GP one-off livery as of Wednesday afternoon. Several have run Miami specials in past seasons, so reveals are still possible through Thursday. We will add cards as they drop:
 
 - **Ferrari** — Has run Miami specials in past seasons (the asymmetric HP-themed treatment in 2025). No 2026 Miami reveal yet.
-- **Racing Bulls** — Did the Spring Edition Red Bull can collab at Suzuka earlier this season. No 2026 Miami reveal yet.
 - **Sauber/Stake** — Has run art-car-style Miami specials in past seasons. No 2026 Miami reveal yet.
 - **Williams** — Sometimes do partnership-driven specials. No 2026 reveal yet.
 - **Aston Martin** — Possible Aramco or PIF-related Miami drop. No 2026 reveal yet.
-- **Alpine** — No announcement.
-- **Red Bull Racing** — Main team rarely runs full one-off liveries.
 - **Haas** — No announcement.
 
-If your team is missing from the revealed section above, refresh this post Wednesday or Thursday. We update each time a new livery drops.
+If your team is missing from the revealed section above, refresh this post Thursday or Friday. We update each time a new livery drops.
 
 ## The Verdict
 
