@@ -4,14 +4,14 @@ category: "NBA"
 date: "2026-04-16"
 updatedDate: "2026-04-28"
 excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker updated through Tuesday Game 5. Every matchup graded game by game with two black-at-home misses and a Spurs vs Blazers red-on-white 9 out of 10."
-gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #17408B 100%)"
+gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "atlanta-hawks", "cleveland-cavaliers", "toronto-raptors", "denver-nuggets", "minnesota-timberwolves", "los-angeles-lakers", "houston-rockets"]
-featuredOrder: 1
+featuredOrder: 2
 bestRating: 10
 worstRating: 0
 reviews:

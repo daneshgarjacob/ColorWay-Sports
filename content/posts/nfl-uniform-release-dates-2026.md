@@ -8,7 +8,6 @@ logoSrc: "/logos/nfl.png"
 overlayText: "Uniform Update"
 league: "nfl"
 teams: ["tennessee-titans", "atlanta-falcons", "washington-commanders", "baltimore-ravens", "los-angeles-rams"]
-homepageOrder: 6
 ---
 
 It's uniform season in the NFL. All five 2026 NFL uniform reveals are now officially complete. Here's every confirmed reveal with grades and rankings in final order from best to worst.

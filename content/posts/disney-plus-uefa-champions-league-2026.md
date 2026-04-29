@@ -10,6 +10,7 @@ teams: []
 coverImage: "/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
+featuredOrder: 3
 ---
 
 <img src="/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.png" alt="Disney Plus and UEFA Champions League partnership graphic showing the Disney+ logo on the left and the UEFA Champions League starball logo on the right marking the 2026 streaming rights deal" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />

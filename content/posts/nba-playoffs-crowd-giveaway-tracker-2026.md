@@ -10,6 +10,7 @@ coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns"]
+featuredOrder: 1
 ---
 
 <img src="/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg" alt="Atlanta Hawks red playoff t-shirts laid out on every seat at State Farm Arena for Game 3 against the New York Knicks in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />

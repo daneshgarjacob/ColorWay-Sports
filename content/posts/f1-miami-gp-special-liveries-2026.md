@@ -8,6 +8,7 @@ logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/f1-miami-gp-2026/cadillac-miami-gp-5.avif"
 league: "f1"
 teams: []
+homepageOrder: 8
 ---
 
 The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is just getting started. Cadillac is the only team to drop a full one-off car livery so far, with the Stars and Stripes treatment for the team's first-ever F1 home race. Mercedes has unveiled a purple race-suit moment with new partner Nu, and McLaren has teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).

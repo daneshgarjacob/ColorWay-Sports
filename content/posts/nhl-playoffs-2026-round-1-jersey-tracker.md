@@ -10,6 +10,7 @@ coverImagePosition: "center 85%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["ottawa-senators", "carolina-hurricanes", "minnesota-wild", "dallas-stars", "philadelphia-flyers", "pittsburgh-penguins", "los-angeles-kings", "colorado-avalanche", "montreal-canadiens", "tampa-bay-lightning", "boston-bruins", "buffalo-sabres", "utah-mammoth", "vegas-golden-knights", "anaheim-ducks", "edmonton-oilers"]
+homepageOrder: 4
 bestRating: 10
 worstRating: 0
 reviews:

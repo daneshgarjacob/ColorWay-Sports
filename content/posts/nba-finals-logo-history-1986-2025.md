@@ -9,6 +9,7 @@ teams: []
 coverImage: "/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
+homepageOrder: 6
 ---
 
 <img src="/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.png" alt="NBA Finals logo history 1986 to 2025 cover composite showing seven era-defining championship logos from the banner mark era through the current digital era of Larry O'Brien Finals branding" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />

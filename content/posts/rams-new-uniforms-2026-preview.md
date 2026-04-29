@@ -9,7 +9,6 @@ coverImage: "/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzo
 coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["los-angeles-rams"]
-homepageOrder: 5
 ---
 
 <img src="/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzone.png" alt="Los Angeles Rams players celebrating in the end zone in current blue home uniforms with gradient numbers" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

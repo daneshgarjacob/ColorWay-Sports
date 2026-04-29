@@ -10,7 +10,6 @@ league: "mlb"
 teams: []
 coverImage: "/images/posts/mlb-local-scorebugs-2026/WhiteSox-Cover.jpg"
 coverImagePosition: "center 50%"
-homepageOrder: 6
 ---
 
 Every MLB team has its own local broadcast, and every local broadcast has its own scorebug. Or at least that is how it should work. The reality in 2026 is that a huge chunk of the league shares the exact same scorebug template because they are on the same regional network. The teams that invest in their own broadcast look and feel stand out immediately. The rest blend together.

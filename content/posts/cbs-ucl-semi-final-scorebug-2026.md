@@ -10,6 +10,7 @@ coverImageFit: "contain"
 logoSrc: "/logos/cbs-sports.png"
 league: "soccer"
 teams: []
+homepageOrder: 5
 ---
 
 <img src="/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-old-vs-new.png" alt="Side-by-side comparison of CBS Sports UEFA Champions League scorebug old vs new design with the 2025 plain CBS Sports network corner on the left labeled OLD and the 2026 UEFA Champions League Semi-Final round-name treatment on the right labeled NEW" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />

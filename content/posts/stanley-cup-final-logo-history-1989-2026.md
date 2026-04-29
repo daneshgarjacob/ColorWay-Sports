@@ -10,6 +10,7 @@ teams: []
 coverImage: "/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
+homepageOrder: 7
 ---
 
 <img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.png" alt="Stanley Cup Final logo history from 1989 to 2026 showing seven distinct eras of NHL playoff branding side by side" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
