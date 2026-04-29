@@ -5,7 +5,7 @@ date: "2026-04-29"
 excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd t-shirt and towel giveaway graded. Wednesday Round 1 Game 5 and 6 takeovers from the Lightning, Flyers, and Golden Knights ranked and scored, with more added each round."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights"]
