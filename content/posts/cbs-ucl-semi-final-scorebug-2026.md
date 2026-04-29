@@ -4,7 +4,7 @@ category: "Soccer"
 date: "2026-04-28"
 excerpt: "CBS Sports added UEFA Champions League Semi-Final round branding to their scorebug for the 2026 knockout round. We break down why this round-name upgrade is long overdue and what should happen next."
 gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
-coverImage: "/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-2026-semi-final.png"
+coverImage: "/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-old-vs-new.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 logoSrc: "/logos/cbs-sports.png"
@@ -12,7 +12,7 @@ league: "soccer"
 teams: []
 ---
 
-<img src="/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-2026-semi-final.png" alt="CBS Sports new UEFA Champions League Semi-Final scorebug for the 2026 knockout round broadcast featuring round name above the CBS Sports network logo" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-old-vs-new.png" alt="Side-by-side comparison of CBS Sports UEFA Champions League scorebug old vs new design with the 2025 plain CBS Sports network corner on the left labeled OLD and the 2026 UEFA Champions League Semi-Final round-name treatment on the right labeled NEW" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 CBS Sports updated their UEFA Champions League scorebug for the 2026 semi-finals and the change is long overdue. The right side of the scorebug, which used to be a static CBS Sports network corner with no indication of what round was being played, now reads "UEFA Champions League Semi-Final" in clean type with "CBS Sports" sitting underneath in smaller text. The round name is finally on screen. The hierarchy is finally correct. The semi-final finally looks like a semi-final on the broadcast graphic.
 
@@ -39,6 +39,11 @@ The closer-in look at the old scorebug shows what was missing. A casual viewer w
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · 2026 CBS Sports UEFA Champions League Semi-Final broadcast top</strong></p>
   <img src="/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-2026-broadcast.png" alt="2026 CBS Sports UEFA Champions League Semi-Final broadcast top showing the two teams on the left and the new round-name treatment with UEFA Champions League Semi-Final above CBS Sports on the right" style="width: 100%; border-radius: 10px;" />
+</div>
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · UEFA Champions League Semi-Final round-name treatment with CBS Sports underneath</strong></p>
+  <img src="/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-2026-semi-final.png" alt="2026 CBS Sports UEFA Champions League Semi-Final scorebug close-up showing the new round-name treatment with UEFA Champions League Semi-Final in primary type and CBS Sports as secondary credit underneath" style="width: 100%; border-radius: 10px; max-width: 600px; margin: 0 auto; display: block;" />
 </div>
 
 For the 2026 semi-finals, CBS finally added the round name. The right side of the scorebug now leads with "UEFA Champions League Semi-Final" in clean type, with "CBS Sports" sitting underneath in smaller subordinate text. The hierarchy is correct. The competition round is the headline. The network is the secondary credit. That is the right way around for a knockout-round broadcast.
