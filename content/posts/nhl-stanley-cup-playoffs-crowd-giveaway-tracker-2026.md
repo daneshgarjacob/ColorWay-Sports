@@ -4,14 +4,15 @@ category: "NHL"
 date: "2026-04-29"
 excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd t-shirt and towel giveaway graded. Wednesday Round 1 Game 5 and 6 takeovers from the Lightning, Flyers, and Golden Knights ranked and scored, with more added each round."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
+coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
+coverImagePosition: "center 30%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights"]
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2049631621788152230"></a></blockquote>
-</div>
+<img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Philadelphia Flyers / NHL</p>
 
 The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel to the matchup grades. Every home team in the postseason has the chance to load every seat with a coordinated color, and not every team commits to making it pop. We track every t-shirt at the seats, every rally towel handed out at the entrance, and every coordinated crowd-color moment from the Eastern and Western conference rounds.
 
@@ -21,7 +22,7 @@ This is the running tracker. Refresh through the postseason as new giveaways dro
 
 ## Wednesday Round 1 Game 5 and 6 Giveaways
 
-Three home games tipping Wednesday night across Amalie Arena, Wells Fargo Center, and T-Mobile Arena. Tampa kept it conservative with white rally towels for the Game 5 swing game against Montreal. Philadelphia leaned into the orange identity with what looks like an orange shirt drop for the Game 6 closeout attempt against Pittsburgh. Vegas color-matched the home gold with rally towels for the Game 5 swing game against Utah. Three teams, three different commitment levels.
+Three home games tipping Wednesday night across Amalie Arena, Wells Fargo Center, and T-Mobile Arena. Philadelphia ran the marquee giveaway of the round with orange "Puck Everybody · Ignite the Orange" t-shirts at every Wells Fargo Center seat for the Game 6 closeout attempt against Pittsburgh, the iconic Flyers playoff format we love. Vegas color-matched the home gold with rally towels for the Game 5 swing game against Utah. Tampa kept it conservative with white rally towels for the Game 5 swing game against Montreal. Three teams, three different commitment levels, and the night belongs to Philadelphia.
 
 ### Tampa Bay Lightning · White Rally Towels · Game 5 · Grade: C+
 
@@ -31,13 +32,13 @@ Three home games tipping Wednesday night across Amalie Arena, Wells Fargo Center
 
 The Lightning loaded every seat at Amalie Arena with white rally towels for the Game 5 swing game against Montreal. The white reads clean on the broadcast and the towels deliver the wave moment when the home crowd gets going. The drawback is the same one we have flagged on towels across both NBA and NHL all postseason. Towels never hit the visual ceiling of a real coordinated t-shirt takeover. Fans wave them once, drop them in their seat, and the look fades by the second period. The bigger issue is the color choice. Tampa is wearing the blue home primary tonight, and a navy or even a pure-white shirt at every seat would have read tighter against the home jersey. White towels are a safe pick. We give it a pretty boring grade. C+.
 
-### Philadelphia Flyers · Orange Shirts · Game 6 · Grade: Pending Confirmation
+### Philadelphia Flyers · Orange "Puck Everybody · Ignite the Orange" T-Shirts · Game 6 · Grade: A
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2049631621788152230"></a></blockquote>
 </div>
 
-The Flyers appear to be running an orange shirt giveaway at every Wells Fargo Center seat for the Game 6 elimination matchup against the Pittsburgh Penguins. The early reports look like t-shirts rather than towels, but we have not seen a confirmed full shot of the shirt design itself yet. Philadelphia has a history of nailing this format. Past Flyers playoff giveaways have included the iconic orange "Puck'em" t-shirts that loaded the lower bowl with one of the best crowd-color combinations of any NHL postseason. Orange t-shirts at every seat against the team's iconic Icon Edition orange home sweater is the cleanest jersey-and-shirt coordination an NHL team can run, and the all-orange Wells Fargo Center treatment in the playoffs is one of the loudest visuals in the league when it lands. We will lock in the grade once we have a confirmed photo of the shirt design and any "Puck'em" wordmark callout.
+The Flyers loaded every Wells Fargo Center seat with orange "Puck Everybody · Ignite the Orange" t-shirts for the Game 6 elimination matchup against the Pittsburgh Penguins. The Flyers winged-P logo replaces the F in the Puck wordmark, the all-caps treatment lands on a clean orange tee, and the "Ignite the Orange" tagline at the bottom anchors the design with the team's playoff slogan. This is the iconic Philadelphia playoff t-shirt format we have always loved. Orange shirts at every seat against the team's iconic Icon Edition orange home sweater is the cleanest jersey-and-shirt coordination an NHL team can run, and the all-orange Wells Fargo Center treatment in the playoffs is one of the loudest visuals in the league when it lands. The wordmark gets the crowd into character before puck drop, the orange-on-orange broadcast read pops on every wide camera angle, and Philadelphia knows exactly how to do this. A.
 
 ### Vegas Golden Knights · Gold Rally Towels · Game 5 · Grade: B
 
