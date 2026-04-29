@@ -36,7 +36,11 @@ The Cavaliers are loading every seat at Rocket Mortgage Fieldhouse with white t-
 
 ### Detroit Pistons · White Towels · Game 5 · Grade: B-
 
-The Pistons appear to be handing out white rally towels at every Little Caesars Arena seat for Game 5 against the Magic, paired with the Association Edition whites the team has worn for all five games of this series. We did not get a confirmed photo from the Pistons or the Magic on this one, so we are running with the early arena reports for now. The towels-not-shirts choice is the lower-ceiling version of the white-on-white takeover the Cavaliers nailed earlier in the night. White towels with Pistons whites at home is a clean color match and Detroit committing to one uniform from start to finish makes the giveaway logic easy. The drawback is the same one we have flagged on towels all postseason. Fans wave them once, drop them in their seat, and the look fades by the second quarter. A t-shirt at every seat would have given Detroit a guaranteed all-white crowd into the second half. B-. We will revise the grade once an official photo from the arena lands.
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JoshuaBRobbins/status/2049550464727879688"></a></blockquote>
+</div>
+
+The Pistons handed out white rally towels at every Little Caesars Arena seat for Game 5 against the Magic, paired with the Association Edition whites the team has worn for all five games of this series. The towels-not-shirts choice is the lower-ceiling version of the white-on-white takeover the Cavaliers nailed earlier in the night. White towels with Pistons whites at home is a clean color match, and Detroit committing to one uniform from start to finish makes the giveaway logic easy. The drawback is the same one we have flagged on towels all postseason. Fans wave them once, drop them in their seat, and the look fades by the second quarter. A t-shirt at every seat would have given Detroit a guaranteed all-white crowd into the second half. B-. The white-on-white concept is right, the towel format is the part that holds the grade back.
 
 ## Tuesday Round 1 Game 5 Giveaways
 
