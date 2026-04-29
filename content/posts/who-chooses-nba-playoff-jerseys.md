@@ -3,15 +3,16 @@ title: "Who Actually Chooses NBA Playoff Jerseys Each Game"
 category: "NBA"
 date: "2026-04-29"
 excerpt: "How NBA teams pick which jersey and uniform to wear each playoff game. The equipment manager, the coaching staff, the marketing department, and the league approval process explained."
-gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
+gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 logoSrc: "/logos/nba.png"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
-coverImagePosition: "center 85%"
+coverImage: "/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png"
+coverImagePosition: "center center"
+coverImageFit: "contain"
 league: "nba"
-teams: []
+teams: ["los-angeles-lakers"]
 ---
 
-<img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="2026 NBA Playoffs Round 1 jersey collage showing every team's home and road uniform selection" style="width: 100%; display: block; border-radius: 12px;" />
+<img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px;" />
 
 The short answer is that the home team's equipment manager pulls the jersey, but the call gets made by committee. The coaching staff weighs in on superstition and momentum. The marketing department weighs in on giveaways, sponsor activations, and minimum-wear quotas the team owes the league. The general manager and head of basketball operations get the final sign-off. The road team then matches the home pick with a contrasting uniform. The whole package gets submitted to the league for approval and pushed to the broadcast partners before tipoff. Here is how the process works at every step.
 
