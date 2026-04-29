@@ -123,6 +123,20 @@ McLaren has not confirmed a Miami special livery. The poster could be promotiona
 
 Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco Colapinto and his number 43 car, leaning into Colapinto's status as the only Argentine driver on the 2026 F1 grid heading into a Miami crowd that always travels heavy with Latin American fans. The studio backdrop is a flat Mercado Libre yellow that floods the entire frame, and the campaign emphasis is on Colapinto and the Mercado Libre partnership. The problem is the actual car barely changes. The 2026 Alpine livery stays in its standard BWT pink and Mercedes-blue base, and the only real Miami-specific addition is a single yellow stripe accent. For a special-livery tracker, "we added one stripe" is not enough. The marketing campaign is the right idea, the audience targeting is smart, but the car itself is doing almost no work for Miami. We were hoping for more.
 
+### Standard Alpine Livery vs Miami Argentinian Twist
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Alpine F1 livery</strong></p>
+  <img src="/images/posts/f1-alpine.png" alt="Standard 2026 Alpine F1 livery in regular BWT pink and blue color scheme without the Miami GP yellow stripe accent, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
+</div>
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · Miami GP Argentinian one-off</strong></p>
+  <img src="/images/posts/f1-miami-gp-2026/HHEibNJXcAAxCtU.jpg" alt="Alpine F1 Miami Grand Prix 2026 Argentinian twist livery with a yellow stripe accent layered over the standard BWT pink and Alpine blue base for Franco Colapinto's number 43 car" style="width: 100%; border-radius: 10px;" />
+</div>
+
+The base of the car is essentially identical in both photos. The Miami change is the single yellow stripe accent and the Mercado Libre marketing emphasis. Compared to Cadillac running 50 stars on the front wing, USA wordmark on the rear wing, and matching driver suits for the same weekend, Alpine's Miami change is barely a livery special at all.
+
 ### More Photos of the Alpine Miami GP Argentinian Photoshoot
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
