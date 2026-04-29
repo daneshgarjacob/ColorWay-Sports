@@ -121,7 +121,7 @@ McLaren has not confirmed a Miami special livery. The poster could be promotiona
   </div>
 </div>
 
-Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco Colapinto and his number 43 car. The studio backdrop is a flat Mercado Libre yellow that floods the entire frame, the Mercado Libre branding sits front and center on the chassis, and the campaign leans into Colapinto's status as the only Argentine driver on the 2026 F1 grid heading into a Miami crowd that always travels heavy with Latin American fans. The car itself stays in the standard 2026 Alpine livery (BWT pink, Mercedes-blue base, eni accents), and the Argentinian twist is delivered through the marketing package rather than a paint flip. We like the move. Miami sells out every year with a crowd that is more international than almost any other GP on the calendar, and a campaign aimed at the Spanish-speaking fan base is exactly the kind of thinking the rest of the grid often skips.
+Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco Colapinto and his number 43 car, leaning into Colapinto's status as the only Argentine driver on the 2026 F1 grid heading into a Miami crowd that always travels heavy with Latin American fans. The studio backdrop is a flat Mercado Libre yellow that floods the entire frame, and the campaign emphasis is on Colapinto and the Mercado Libre partnership. The problem is the actual car barely changes. The 2026 Alpine livery stays in its standard BWT pink and Mercedes-blue base, and the only real Miami-specific addition is a single yellow stripe accent. For a special-livery tracker, "we added one stripe" is not enough. The marketing campaign is the right idea, the audience targeting is smart, but the car itself is doing almost no work for Miami. We were hoping for more.
 
 ### More Photos of the Alpine Miami GP Argentinian Photoshoot
 
@@ -130,7 +130,7 @@ Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco 
   <img src="/images/posts/f1-miami-gp-2026/HHEj6z4WQAAYEya.jpg" alt="Alpine F1 Miami Grand Prix 2026 Argentinian twist rear view of Franco Colapinto number 43 car on yellow Mercado Libre background showcasing the rear wing branding" style="width: 100%; border-radius: 10px;" />
 </div>
 
-**Grade: B+**
+**Grade: B-**
 
 ---
 
@@ -155,9 +155,9 @@ Visa Cash App RB pulled both of their drivers into yellow Hugo team polos for th
   </blockquote>
 </div>
 
-Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend. The Red Bull main team rarely runs full one-off car liveries, and a driver helmet is the lever Red Bull tends to pull when a marquee race calls for something special on the broadcast. The Miami helmet is the part of the package fans will actually catch on the broadcast feed during the in-car cam, the parc fermé walk-up, and the helmet pulls in the garage between sessions. We will update this card with a closer look at the helmet design once the full studio shots land, and with a grade once we have seen it on track in Friday practice.
+Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend, and it is the best driver helmet drop of the round. Red Bull main team rarely runs full one-off car liveries, and the driver helmet is the lever the team consistently pulls when a marquee race calls for something special on the broadcast. The Miami design is the part of the package fans will actually catch on the broadcast feed during the in-car cam, the parc fermé walk-up, and the helmet pulls in the garage between sessions. The execution is exactly what a Verstappen Miami helmet should look like, the design language hits, and the broadcast read is going to be excellent across every camera angle this weekend. The Red Bull main car staying standard for Miami makes the helmet do all the visual work, and the helmet absolutely delivers.
 
-**Grade: Pending On-Track**
+**Grade: A**
 
 ---
 
