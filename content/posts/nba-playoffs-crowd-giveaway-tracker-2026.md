@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-04-27"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3 and Game 4 takeovers from the Hawks, Rockets, Sixers, Magic, Wolves, Raptors, Suns, and more ranked and scored."
+updatedDate: "2026-04-28"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3, 4, and 5 takeovers from the Spurs Puro San Anto Loud shirts, Hawks, Rockets, Sixers, Magic, Wolves, Raptors, Suns, and more ranked and scored."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -20,6 +20,30 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Tuesday Round 1 Game 5 Giveaways
+
+Three Game 5s tipped Tuesday night across TD Garden, Madison Square Garden, and Frost Bank Center. The Spurs went with black Puro San Anto Loud t-shirts at every Frost Bank Center seat. The Knicks handed out white New York Forever towels at MSG. The Celtics gave fans nothing at TD Garden for the closeout-game-attempt against the Sixers. Three different home-team approaches, three different grades, and a slate that averages out below the bar Round 1 has set in the giveaway department.
+
+### San Antonio Spurs · Black Puro San Anto Loud T-Shirts · Game 5 · Grade: C
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2049270688825962765"></a></blockquote>
+</div>
+
+The Spurs ran a black Puro San Anto Loud t-shirt giveaway at every seat at Frost Bank Center for Game 5 against the Trail Blazers, presented by Randolph-Brooks Federal Credit Union, with fan-bang-os at every entrance and a free pair of Spurs sunglasses for the first 500 fans through the ULTRA Club. The "Puro San Anto" framing is local-language and we like that part. The execution on the giveaway plan is genuinely strong — multiple items, sponsor partnership, on-brand wordmark. The problem is the color. Black t-shirts wash the crowd out on broadcast every single time, no matter the team or the venue, and Frost Bank Center already runs a darker color palette than most NBA arenas. The Spurs have one of the cleanest brand systems in the NBA with the silver-and-black core plus the Fiesta accents, and a silver, white, or even Fiesta-pink takeover would have read significantly louder on TV than another black-out crowd. C. The plan is good, the wordmark is good, the choice to go black is the wrong call for a closeout-attempt at home.
+
+### Boston Celtics · No Giveaway · Game 5 · Grade: F
+
+The Celtics handed out nothing for Game 5 at TD Garden against the 76ers. No t-shirts at the seats, no towels at the entrances, no coordinated color takeover, no merch moment. Boston is wearing the Icon Edition green at home for the closeout attempt and is leaning on the TD Garden organic crowd energy to carry the in-arena visual on its own. We hate this. Every other home team in Round 1 has done something for their fans, and the Celtics are one of the league's most marketable franchises in one of the loudest playoff arenas in the country. Skipping the giveaway entirely is the worst version of "we do not need to try" and the broadcast read on TD Garden tonight is going to feel like a regular-season Tuesday in March. F. The grade is for the no-show, not for any specific design choice. We will revise upward only if the Celtics announce something we missed.
+
+### New York Knicks · White New York Forever Towels · Game 5 · Grade: C-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2049220110166970516"></a></blockquote>
+</div>
+
+The Knicks handed out white "New York Forever" rally towels at every Madison Square Garden seat for Game 5 against the Hawks. The white reads clean on the MSG broadcast and the wordmark is a strong piece of city-brand language that ties to the Knicks identity without leaning on a generic playoff slogan. The grade gets dragged down for two reasons. First, towels never hit the visual ceiling of a real coordinated t-shirt takeover. Fans wave them once, drop them in their seat, and the look fades by the second quarter. Second, we wish the Knicks had committed to a t-shirt at every seat instead of a towel, even with the understanding that MSG fans famously do not actually wear giveaway shirts during the game. The white "New York Forever" framing is the right idea executed at the wrong intensity. C-. Knicks black uniforms tonight against Hawks Association whites means the crowd in white towels is not adding contrast against the home team either, which makes the towel choice land flatter than it would in a green or orange takeover.
 
 ## Monday Round 1 Giveaways
 
