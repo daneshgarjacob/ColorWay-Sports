@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-04-28"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3, 4, and 5 takeovers from the Spurs Puro San Anto Loud shirts, Hawks, Rockets, Sixers, Magic, Wolves, Raptors, Suns, and more ranked and scored."
+updatedDate: "2026-04-29"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3, 4, and 5 takeovers including Cleveland's A+ white-on-white shirts, Spurs Puro San Anto Loud, Hawks, Rockets, Sixers, Magic, and more ranked and scored."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,22 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Wednesday Round 1 Game 5 Giveaways
+
+Three Game 5s tipping Wednesday night across Rocket Mortgage Fieldhouse, Little Caesars Arena, and Crypto.com Arena. The Cavaliers are running a clean white t-shirt takeover at every seat to pair with their first Association whites home jersey of the postseason. The Pistons appear to be giving out white towels at Little Caesars Arena to match their Association whites. The Lakers slate at Crypto.com is still pending confirmation as of tipoff. Cleveland is the early winner of the night.
+
+### Cleveland Cavaliers · White T-Shirts · Game 5 · Grade: A+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cavs/status/2049621425514848439"></a></blockquote>
+</div>
+
+The Cavaliers are loading every seat at Rocket Mortgage Fieldhouse with white t-shirts for Game 5 against the Raptors, paired with the team's first-ever Association Edition whites home jersey of the postseason and a return to the primary home court for the first time this Round 1. White on white is the cleanest in-arena look an NBA team can run, and the Cavs are nailing the execution on the same night they bring all three pieces together. The shirt color, the jersey color, the floor pattern, and the broadcast contrast all work for a single coordinated visual moment. We wish more teams committed to the white-on-white takeover instead of black towels or random color choices. A+. This is the cleanest crowd giveaway of Round 1 so far and the way every team should run a primary-court home night.
+
+### Detroit Pistons · White Towels · Game 5 · Grade: B-
+
+The Pistons appear to be handing out white rally towels at every Little Caesars Arena seat for Game 5 against the Magic, paired with the Association Edition whites the team has worn for all five games of this series. We did not get a confirmed photo from the Pistons or the Magic on this one, so we are running with the early arena reports for now. The towels-not-shirts choice is the lower-ceiling version of the white-on-white takeover the Cavaliers nailed earlier in the night. White towels with Pistons whites at home is a clean color match and Detroit committing to one uniform from start to finish makes the giveaway logic easy. The drawback is the same one we have flagged on towels all postseason. Fans wave them once, drop them in their seat, and the look fades by the second quarter. A t-shirt at every seat would have given Detroit a guaranteed all-white crowd into the second half. B-. We will revise the grade once an official photo from the arena lands.
 
 ## Tuesday Round 1 Game 5 Giveaways
 
