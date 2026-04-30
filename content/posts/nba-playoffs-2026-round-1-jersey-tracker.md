@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-updatedDate: "2026-04-29"
-excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker updated through Wednesday Game 5 with Magic-Pistons earning a perfect 10 in Detroit. Every matchup graded game by game with post-game records."
+updatedDate: "2026-04-30"
+excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker updated through Thursday Game 6 with Hawks-Knicks and Sixers-Celtics both pulling perfect 10 elimination-night looks. Every matchup graded game by game with post-game records."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,12 @@ featuredOrder: 2
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "New York Knicks at Atlanta Hawks Round 1 Game 6 Jerseys"
+    rating: 10
+  - name: "Boston Celtics at Philadelphia 76ers Round 1 Game 6 Jerseys"
+    rating: 10
+  - name: "Denver Nuggets at Minnesota Timberwolves Round 1 Game 6 Jerseys"
+    rating: 4
   - name: "Orlando Magic at Detroit Pistons Round 1 Game 5 Jerseys"
     rating: 10
   - name: "Toronto Raptors at Cleveland Cavaliers Round 1 Game 5 Jerseys"
@@ -104,7 +110,8 @@ Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded, updated game 
 <div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <a href="#wednesday-late" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Wednesday G5s</a>
+    <a href="#thursday-late" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Thursday G6s</a>
+    <a href="#wednesday-late" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Wednesday G5s</a>
     <a href="#tuesday-late" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Tuesday G5s</a>
     <a href="#monday-late" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Monday G4s &amp; G5</a>
     <a href="#sunday-late" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Sunday Game 4s</a>
@@ -122,15 +129,147 @@ Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded, updated game 
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Average Scores</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.0 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.2 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Teams Wearing Traditional Home Uniforms</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">13 / 39 (33%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">15 / 42 (36%)</span>
 </div>
 
 Below, every matchup graded, newest first. Jump to any night with the links above.
+
+<span id="thursday-late"></span>
+
+## Thursday Night Game 6 Matchups
+
+Thursday's Game 6 slate is the cleanest jersey night of the round so far. Atlanta hosts New York facing elimination at State Farm Arena and pulls the Association whites at home with the Knicks Icon blue on the road, the same matchup that earned a 10 in Game 3 and a 10 in Game 4 of this series. Philadelphia hosts Boston also facing elimination at Wells Fargo Center and goes Association whites at home with the Celtics Icon green on the road, the textbook playoff white-versus-color combination that earned a perfect 10 in Game 1 of this series. Minnesota closes out their Wolves Classic Edition black at home on the matching black Classic court for the third time this series with the Nuggets Association whites on the road. Tonight averages 8 out of 10 across the three games on the strength of two perfect 10s. We will update post-game records tomorrow morning.
+
+### Game 6: New York Knicks at Atlanta Hawks
+
+<div style="background: linear-gradient(135deg, #050a25 0%, #25080d 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #E03A3E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 6 · Tonight</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <img src="/images/jerseys/nba/knicks-icon-blue.png" alt="New York Knicks Icon Edition blue road jersey for 2026 NBA Playoffs Round 1 Game 6 at Atlanta Hawks" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 6 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-3</span>
+      <img src="/images/jerseys/nba/hawks-association-white.png" alt="Atlanta Hawks Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 1 Game 6 vs New York Knicks" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #E03A3E 0%, #006BB6 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 6</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · April 30, 2026 · Elimination Game</p>
+  </div>
+  <img src="/images/courts/nba/hawks-home.png" alt="State Farm Arena Atlanta Hawks home court for 2026 NBA Playoffs Round 1 Game 6 vs New York Knicks" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">State Farm Arena · Atlanta · Elimination Game</p>
+</div>
+
+Atlanta hosts New York at State Farm Arena facing elimination down 3-2 in the series, and the Hawks pull the Association whites at home for the third time in this series with the Knicks running back the Icon Edition blue on the road. Same matchup as Game 3 and Game 4, both scored a perfect 10. Same matchup, same grade. The Hawks Association whites at home is the textbook playoff white-versus-color identity, the Knicks Icon blue is one of the cleanest road looks in the league, and the broadcast contrast is exactly what we want every elimination night to look like. The series has been one of the best uniform stories of Round 1 across the board, and Atlanta gives Knicks fans a chance to watch a season-long-rivals game close out under the right visual standard. Ten out of 10. Atlanta facing the closeout, New York one win away from advancing.
+
+### Game 6: Boston Celtics at Philadelphia 76ers
+
+<div style="background: linear-gradient(135deg, #0a2515 0%, #1a1525 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007A33 0%, #ED174C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 6 · Tonight</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
+      <img src="/images/jerseys/nba/celtics-icon-green.png" alt="Boston Celtics Icon Edition green road jersey for 2026 NBA Playoffs Round 1 Game 6 at Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON CELTICS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Green</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white home jersey for 2026 NBA Playoffs Round 1 Game 6 vs Boston Celtics" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #ED174C 0%, #007A33 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 6</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · April 30, 2026 · Elimination Game</p>
+  </div>
+  <img src="/images/courts/nba/sixers-primary-home.png" alt="Wells Fargo Center Philadelphia 76ers primary home court for 2026 NBA Playoffs Round 1 Game 6 vs Boston Celtics" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Wells Fargo Center · Philadelphia · Elimination Game</p>
+</div>
+
+Philadelphia hosts Boston facing elimination down 3-2 in the series at Wells Fargo Center, and the Sixers finally pull the Association whites at home for the first time this series with the Celtics in Icon Edition green on the road. This is the textbook playoff white-versus-color matchup we score top of the scale and the same identity pairing that earned a perfect 10 in Game 1 of this series. The Sixers Association whites are one of the cleanest looks in the league with the iconic Philadelphia red and royal blue striping. Boston Icon green on the road is the franchise's signature playoff visual and one of the most recognizable looks in basketball. Two iconic Eastern Conference identities at full strength on an elimination night, no Statement black detours, no Classic throwback debate, just both teams in the right uniform for the moment. Ten out of 10. Philadelphia facing the closeout, Boston one win away.
+
+### Game 6: Denver Nuggets at Minnesota Timberwolves
+
+<div style="background: linear-gradient(135deg, #1a1a1f 0%, #050a25 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 6 · Tonight</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <img src="/images/jerseys/nba/nuggets-association-white.png" alt="Denver Nuggets Association Edition white road jersey for 2026 NBA Playoffs Round 1 Game 6 at Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DENVER NUGGETS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <img src="/images/jerseys/nba/timberwolves-classic-black.png" alt="Minnesota Timberwolves Classic Edition black home jersey for 2026 NBA Playoffs Round 1 Game 6 vs Denver Nuggets" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Black</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(220, 40, 40, 0.1); border-radius: 12px; border: 1px solid rgba(220, 40, 40, 0.3);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ff6464;">Score: 4 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #FEC524 0%, #0E2240 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 6</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · April 30, 2026 · Closeout Chance</p>
+  </div>
+  <img src="/images/courts/nba/timberwolves-home.png" alt="Target Center Minnesota Timberwolves Classic Edition black alternate home court for 2026 NBA Playoffs Round 1 Game 6 vs Denver Nuggets" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Target Center · Minneapolis · Classic Black Court</p>
+</div>
+
+Minnesota runs back the Wolves Classic Edition black at home on the matching black Classic court for the third time this series with the Nuggets in Association whites on the road. Same matchup as Game 3 and Game 4, both scored a 4 out of 10, and we are scoring this one a 4 out of 10 to stay consistent. Home team in black, road team in white, the reversed playoff combination that has dragged every other home-in-black matchup down this round. The Wolves Classic black on the matching black Classic court is a sharp single-team visual on its own, but the structural choice puts the home team in the darker tone with Denver in the cleaner whites and the broadcast does not get the white-anchor identity moment a closeout night deserves. We are calling it the same way we did in Games 3 and 4. Four out of 10. Minnesota facing the closeout chance at home in a uniform pairing they are committed to all series.
 
 <span id="wednesday-late"></span>
 
@@ -147,7 +286,7 @@ Wednesday's Game 5 slate flips the script after Tuesday's run of black-at-home m
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-3</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-1</span>
       <img src="/images/jerseys/nba/magic-statement-black.png" alt="Orlando Magic Statement Edition black road jersey and uniform for 2026 NBA Playoffs Round 1 Game 5 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ORLANDO MAGIC</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
@@ -155,7 +294,7 @@ Wednesday's Game 5 slate flips the script after Tuesday's run of black-at-home m
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-3</span>
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 1 Game 5 vs Orlando Magic" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -178,7 +317,7 @@ Wednesday's Game 5 slate flips the script after Tuesday's run of black-at-home m
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Little Caesars Arena · Detroit</p>
 </div>
 
-Detroit hosts Orlando back at Little Caesars Arena and runs the Association whites for the fifth straight game in this series, the only team in either bracket committed to one uniform start to finish. Orlando flips off the Icon blue from Game 4 and brings the Statement Edition black road alternate out of the wardrobe for the first time this series. We do not always love alternate roads in the playoffs, but a Magic Statement black against a clean Pistons home Association white is the best jersey and uniform matchup of Round 1 to date. The Magic black is one of the cleaner Statement designs in the league, the matte side panels and tonal logo treatment give the broadcast a real moody contrast against Detroit's Pistons red trim, and the alternate gives this matchup the visual change-up the Pistons-Magic series has needed since Game 1. Ten out of 10. Detroit is up 3-1 in the series with a closeout chance at home tonight.
+Detroit hosts Orlando back at Little Caesars Arena and runs the Association whites for the fifth straight game in this series, the only team in either bracket committed to one uniform start to finish. Orlando flips back to Statement Edition black on the road after the Icon blue from Game 4. We do not always love alternate roads in the playoffs, but a Magic Statement black against a clean Pistons home Association white is the best jersey and uniform matchup of Round 1 to date. The Magic black is one of the cleaner Statement designs in the league, the matte side panels and tonal logo treatment give the broadcast a real moody contrast against Detroit's Pistons red trim, and the alternate gives this matchup the visual change-up the Pistons-Magic series has needed since Game 1. Ten out of 10. Detroit took Game 5 at home to extend the series and send Round 1 back to Kia Center for Game 6 with the Magic still up 3-2.
 
 ### Game 5: Toronto Raptors at Cleveland Cavaliers
 
@@ -189,7 +328,7 @@ Detroit hosts Orlando back at Little Caesars Arena and runs the Association whit
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/raptors-statement-black.png" alt="Toronto Raptors Statement Edition black road jersey and uniform for 2026 NBA Playoffs Round 1 Game 5 at Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
@@ -197,7 +336,7 @@ Detroit hosts Orlando back at Little Caesars Arena and runs the Association whit
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/cavs-association-white.png" alt="Cleveland Cavaliers Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 1 Game 5 vs Toronto Raptors" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -220,7 +359,7 @@ Detroit hosts Orlando back at Little Caesars Arena and runs the Association whit
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Primary Court Debut</p>
 </div>
 
-Cleveland comes back to Rocket Mortgage Fieldhouse and finally pulls the Association whites for the first time this playoffs, the third different home jersey we have seen the Cavaliers wear in this series. The Cavs are also back on the primary home court for the first time this postseason after running on the alternate court for Games 1 and 2. Toronto answers with the Statement Edition black on the road, which is a clean visual change-up off the Icon red they ran out at home for Games 3 and 4. We would have liked the Raptors Icon red on the road for the bigger color move, but the Statement black is a strong fit for the road and pairs cleanly with the Cavs home Association whites. The one nit is that the matching dark accents on both jerseys can drift into a similar value tone on broadcast which keeps this from a perfect 10. Nine out of 10. The primary court debut and the Association whites finally arriving at the same time make this Cavs home moment the right closeout look.
+Cleveland comes back to Rocket Mortgage Fieldhouse and finally pulls the Association whites for the first time this playoffs, the third different home jersey we have seen the Cavaliers wear in this series. The Cavs are also back on the primary home court for the first time this postseason after running on the alternate court for Games 1 and 2. Toronto answers with the Statement Edition black on the road, which is a clean visual change-up off the Icon red they ran out at home for Games 3 and 4. We would have liked the Raptors Icon red on the road for the bigger color move, but the Statement black is a strong fit for the road and pairs cleanly with the Cavs home Association whites. The one nit is that the matching dark accents on both jerseys can drift into a similar value tone on broadcast which keeps this from a perfect 10. Nine out of 10. Cleveland took Game 5 at Rocket Mortgage Fieldhouse to go up 3-2 in the series with a closeout chance heading back to Toronto for Game 6.
 
 ### Game 5: Houston Rockets at Los Angeles Lakers
 
@@ -231,7 +370,7 @@ Cleveland comes back to Rocket Mortgage Fieldhouse and finally pulls the Associa
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
       <img src="/images/jerseys/nba/rockets-association-white.png" alt="Houston Rockets Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 1 Game 5 at Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HOUSTON ROCKETS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -239,7 +378,7 @@ Cleveland comes back to Rocket Mortgage Fieldhouse and finally pulls the Associa
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 5 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/lakers-statement-purple.png" alt="Los Angeles Lakers Statement Edition purple road jersey worn at home for 2026 NBA Playoffs Round 1 Game 5 vs Houston Rockets" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Purple</p>
@@ -262,7 +401,7 @@ Cleveland comes back to Rocket Mortgage Fieldhouse and finally pulls the Associa
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Crypto.com Arena · Los Angeles · Primary Court Return</p>
 </div>
 
-The Lakers are back on the primary home court for the first time since Game 1 and break out a third different home uniform for the third home game of the series, after the Icon gold in Game 1 and the City Edition black in Game 2 on the alternate court. Tonight they pull the Statement Edition purple at home, a road jersey worn at home, on a weekday game where the iconic Icon gold should have been the easy call. Houston had every reason to answer with their Icon red for a real color-on-color contrast and instead runs out the Association whites on the road. The result is the Lakers in road purple at home against the Rockets in road white, two off-script choices stacked on top of each other. The Lakers Statement purple is a great-looking jersey and uniform on the road. At home it loses the entire point of the home jersey moment. Three out of 10. Disappointing call from both sides on a primary court return night.
+The Lakers are back on the primary home court for the first time since Game 1 and break out a third different home uniform for the third home game of the series, after the Icon gold in Game 1 and the City Edition black in Game 2 on the alternate court. Tonight they pull the Statement Edition purple at home, a road jersey worn at home, on a weekday game where the iconic Icon gold should have been the easy call. Houston had every reason to answer with their Icon red for a real color-on-color contrast and instead runs out the Association whites on the road. The result is the Lakers in road purple at home against the Rockets in road white, two off-script choices stacked on top of each other. The Lakers Statement purple is a great-looking jersey and uniform on the road. At home it loses the entire point of the home jersey moment. Three out of 10. Houston took Game 5 at Crypto.com Arena to make the series 3-2 with the Lakers still up, and Round 1 heads back to Toyota Center for Game 6.
 
 <span id="tuesday-late"></span>
 
