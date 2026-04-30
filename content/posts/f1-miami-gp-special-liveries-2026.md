@@ -2,8 +2,8 @@
 title: "F1 Miami Grand Prix 2026: Every Special Livery Tracker and Ranking"
 category: "F1"
 date: "2026-04-28"
-updatedDate: "2026-04-29"
-excerpt: "Cadillac drops a Stars and Stripes one-off, Alpine runs an Argentinian twist for Colapinto, Visa Cash App RB pulls yellow team polos, and Max Verstappen unveils a Miami helmet. We track and rank every 2026 F1 Miami GP special livery as more teams reveal."
+updatedDate: "2026-04-30"
+excerpt: "Visa Cash App RB drops a full Summer Edition yellow livery, Cadillac runs Stars and Stripes, Alpine adds an Argentinian twist for Colapinto, Mercedes brings purple Nu race suits, and Max Verstappen unveils a Miami helmet. We track and rank every 2026 F1 Miami GP special livery as more teams reveal."
 gradient: "linear-gradient(135deg, #FFE5F1 0%, #D6F0F0 100%)"
 logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/f1-miami-gp-2026/cadillac-miami-gp-5.avif"
@@ -12,9 +12,9 @@ teams: []
 homepageOrder: 8
 ---
 
-The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is in full swing. Cadillac dropped a Stars and Stripes one-off for its first-ever F1 home race. Alpine put driver Franco Colapinto's Argentinian roots front and center with a yellow Mercado Libre photoshoot. Visa Cash App RB ran their drivers in yellow Hugo team polos for the Miami weekend. Max Verstappen unveiled a custom Miami helmet. Mercedes brought a purple race-suit moment with new partner Nu, and McLaren teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
+The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is in full swing. Visa Cash App RB just dropped the round's biggest swing with a full Summer Edition repaint in deep yellow, the most committed one-off livery on the grid this weekend. Cadillac dropped a Stars and Stripes one-off for its first-ever F1 home race. Alpine put driver Franco Colapinto's Argentinian roots front and center with a yellow Mercado Libre photoshoot. Mercedes brought a purple race-suit moment with new partner Nu, McLaren teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery, and Max Verstappen unveiled a custom Miami helmet. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
-*Updated Wednesday April 29 with Alpine, Visa Cash App RB, and Max Verstappen reveals. We will keep updating this post through Thursday and Friday at the Miami International Autodrome.*
+*Updated Thursday April 30 with the full Visa Cash App RB Summer Edition yellow livery reveal. We will keep updating this post through Friday qualifying and Sunday's race at the Miami International Autodrome.*
 
 ## 1. Cadillac · Stars and Stripes Debut
 
@@ -70,7 +70,81 @@ The matching American-themed race suits for Bottas and Perez are the part of thi
 
 ---
 
-## 2. Mercedes · Purple Nu Race Suits (Suits Only · Leaked)
+## 2. Visa Cash App RB · "Summer Edition" Yellow Livery
+
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 280px; max-width: 750px;">
+    <img src="/images/posts/f1-miami-gp-2026/HHG-jpTXUAALohd.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 yellow livery side profile of Liam Lawson's number 30 car shot on a yellow studio background with Red Bull Hugo Visa Cash App and Tudor sponsor branding fully repainted in deep summer-sun yellow" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
+
+Visa Cash App RB dropped the round's most committed one-off Wednesday, a full Summer Edition repaint in deep summer-sun yellow that ties into a new sudachi lime summer variant in the Red Bull energy drink range. Drivers Liam Lawson and rookie teammate Arvid Lindblad, who stepped up from F2 this year to make Racing Bulls one of just two teams running a new lineup for 2026, unveiled the car in classic Red Bull style on a yacht with team principal Alan Permane and CEO Peter Bayer. Wakeboarder Guenther Oka launched off a ramp into a back flip and pulled the covers off the cars mid-flight. The chassis carries enough yellow surface area to read as a true repaint at every camera angle, with the Red Bull, Cash App, and Hugo logos kept in their usual reds and blacks for contrast and the rear wing branded "Red Bull Summer Edition" in a sun-warmed gold treatment.
+
+This is the best new livery of the Miami round so far. Yellow is one of the strongest racing colors on a TV broadcast. It cuts through Florida sun, it pops against any track surface, and it photographs beautifully against both blue sky and night-race lighting. Where Cadillac played it intentionally restrained for their American debut and Alpine added a single yellow stripe and called it a Miami special, Visa Cash App RB just committed to a full repaint and gave fans a fully yellow F1 car for the weekend. The car looks incredible on track too. Easily the best of the round.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/F1/status/2049984908769030441"></a>
+  </blockquote>
+</div>
+
+<div style="margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHG-jpTXsAAu9rV.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 yellow livery two-car group shot of Liam Lawson and Arvid Lindblad's cars together on a yellow studio background showing both VCARB chassis fully repainted in deep summer-sun yellow with Red Bull Hugo and Visa branding" style="width: 100%; border-radius: 10px;" />
+</div>
+
+### Standard Visa Cash App RB Livery vs Miami Summer Edition
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Visa Cash App RB livery</strong></p>
+  <img src="/images/posts/f1-racing-bulls.png" alt="Standard 2026 Visa Cash App RB Racing Bulls F1 livery in regular dark blue and red color scheme without the yellow Summer Edition treatment, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
+</div>
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · Miami GP Summer Edition repaint</strong></p>
+  <img src="/images/posts/f1-miami-gp-2026/HHG-jpTXUAALohd.jpg" alt="Visa Cash App RB Miami Grand Prix 2026 Summer Edition yellow livery for Liam Lawson's number 30 car, a full repaint of the standard chassis in deep summer-sun yellow with the Red Bull and Cash App logos kept in their usual reds for contrast" style="width: 100%; border-radius: 10px;" />
+</div>
+
+The 2026 base car is essentially unrecognizable underneath. Visa Cash App RB swapped the standard chassis treatment for a deep yellow that floods the entire surface, with the Red Bull, Cash App, Hugo, and Tudor logos kept in their original colors to read against the new base. The rear wing reads "Red Bull Summer Edition." Compared to Alpine's single-yellow-stripe Miami change earlier in the week, this is the polar opposite of restrained, and it is a stronger look on a TV camera every time.
+
+### Yellow Camo Race Suits for Lawson and Lindblad
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHJfzlpXMAAeCId.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 driver Liam Lawson in yellow camouflage race suit with white shoulders and Red Bull Visa Cash App Tudor and Hugo sponsor branding photographed on a deep blue studio background with the number 30 visible on the leg" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-miami-gp-2026/HHJfzlpWgAAzd8l.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 rookie driver Arvid Lindblad in yellow camouflage race suit with white shoulders Red Bull and Visa Cash App branding seated on a deep blue studio background with the number 41 visible on the suit leg" style="width: 100%; border-radius: 10px;" />
+</div>
+
+Lawson and Lindblad are running matching yellow camouflage race suits with white shoulders and black accents to complete the Summer Edition look. The "Lawson 30" leg branding is the only personalized element on Lawson's suit. Rookie Lindblad takes the #41 car for his debut Miami weekend. The suits will be on every broadcast cutaway during driver intros, parc fermé walks, and helmet pulls between sessions.
+
+### More Photos of the VCARB Miami Summer Edition Livery
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHG-jpVXgAA4WtW.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 yellow livery overhead top-down view of the chassis showing the full deep summer-sun yellow repaint with Red Bull Visa Cash App and Tudor branding visible from above" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-miami-gp-2026/HHG-jpVW4AAeO1_.jpg" alt="Visa Cash App RB Summer Edition Miami GP 2026 close-up detail of the rear wing reading Red Bull Summer Edition in a sun-warmed gold treatment with Cash App and Hugo logos in their usual contrasting colors against the deep yellow base" style="width: 100%; border-radius: 10px;" />
+</div>
+
+### VCARB Miami GP Liveries Through the Years
+
+<div style="margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/last-3-vcarb.jpg" alt="Visa Cash App RB Miami GP livery history three-year comparison showing the 2024 chrome purple-and-blue treatment, the 2025 pink-and-white glossy livery, and the 2026 deep yellow Summer Edition repaint stacked top to bottom in chronological order" style="width: 100%; border-radius: 10px;" />
+  <p style="text-align: center; font-size: 0.7em; color: #999; margin-top: 0.5em;">Image via <a href="https://www.formula1.com" target="_blank" rel="noopener" style="color: #999; text-decoration: underline;">Formula1.com</a></p>
+</div>
+
+Visa Cash App RB has now done a Miami one-off three years running. 2024 leaned hard into a chrome-effect purple and blue treatment. 2025 went pink and white in a glossy finish that fans nicknamed the Hot Wheels look. 2026 commits all the way to a fully repainted yellow Summer Edition. Each year has had its own clean visual identity, but the 2026 Summer Edition is the most committed surface-area repaint of the three and the easiest to spot on a TV camera.
+
+### Yellow Hugo Team Polos and the Despicable Me Connection
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-miami-gp-2026/HHE4RKmXwAABCTc.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo on a blue studio background ahead of the 2026 Miami Grand Prix Summer Edition livery reveal earlier in the race week" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-miami-gp-2026/HHE4RLLaoAA73Dj.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo with Tudor Mobil and Red Bull sponsor branding ahead of the 2026 Miami Grand Prix Summer Edition reveal earlier in the race week" style="width: 100%; border-radius: 10px;" />
+</div>
+
+Earlier in race week, Visa Cash App RB teased the yellow direction by pulling both drivers into matching Hugo team polos for the Miami marketing rollout. With Mercedes confirming purple Nu race suits the same week and VCARB locking in full yellow on Wednesday, the Miami paddock has accidentally cosplayed a Despicable Me reunion. The Minions yellow on the VCARB chassis paired with the Mercedes Nu purple is the Universal-meets-F1 crossover the internet did not know it needed. VCARB themselves leaned into the Minions energy for the social rollout.
+
+**Grade: A**
+
+---
+
+## 3. Mercedes · Purple Nu Race Suits (Suits Only · Leaked)
 
 Mercedes confirmed a purple race-suit partnership with Nu, the Brazilian digital financial services platform that signed a multi-year global deal with the team in January 2026, ahead of the Miami weekend. The team has not yet released official photos of the suits, but leaked imagery showing what George Russell and Kimi Antonelli will wear has already surfaced on X via @fiagirly.
 
@@ -94,7 +168,7 @@ It is important to flag what this is not. Mercedes has not changed the W17 liver
 
 ---
 
-## 3. McLaren · Sega-Themed Miami Poster (Livery Unconfirmed)
+## 4. McLaren · Sega-Themed Miami Poster (Livery Unconfirmed)
 
 <!-- IMAGE PLACEHOLDER: McLaren Sega Miami GP poster by Matt Taylor. Save image to /public/images/posts/f1-miami-gp-2026/mclaren-miami-gp-poster.avif and uncomment below. -->
 <!--
@@ -113,7 +187,7 @@ McLaren has not confirmed a Miami special livery. The poster could be promotiona
 
 ---
 
-## 4. Alpine · Argentinian Twist for Colapinto
+## 5. Alpine · Argentinian Twist for Colapinto
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -148,19 +222,6 @@ The base of the car is essentially identical in both photos. The Miami change is
 
 ---
 
-## 5. Visa Cash App RB · Yellow Hugo Team Polos
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
-  <img src="/images/posts/f1-miami-gp-2026/HHE4RKmXwAABCTc.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo on a blue studio background for the 2026 Miami Grand Prix weekend campaign" style="width: 100%; border-radius: 10px;" />
-  <img src="/images/posts/f1-miami-gp-2026/HHE4RLLaoAA73Dj.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo with Tudor Mobil and Red Bull sponsor branding for the 2026 Miami Grand Prix weekend campaign" style="width: 100%; border-radius: 10px;" />
-</div>
-
-Visa Cash App RB pulled both of their drivers into yellow Hugo team polos for the 2026 Miami GP weekend campaign. The polos read more like a Miami beach-vibe lifestyle drop than a race-suit reveal, with Hugo Boss as the team's official menswear partner driving the apparel side of the partnership. The yellow against the team's blue studio backdrop is one of the cleaner color contrasts the paddock has shown for Miami, and the team-issue polos pair with the Tudor, Mobil, and Red Bull sponsor mix on the chest. We have not seen a full car-livery change announcement from Visa Cash App RB for this round, so the apparel-only drop is the entire Miami special. Solid for casual broadcast cutaways during driver intros and practice walks. The car still runs the standard 2026 Visa Cash App RB livery on Friday.
-
-**Grade: B**
-
----
-
 ## 6. Red Bull · Max Verstappen Custom Miami Helmet
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
@@ -175,27 +236,35 @@ Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend, and it is
 
 ---
 
-## Not Yet Revealed (As of 2026-04-29)
+## Not Yet Revealed (As of 2026-04-30)
 
-The following teams have not announced a Miami GP one-off livery as of Wednesday afternoon. Several have run Miami specials in past seasons, so reveals are still possible through Thursday. We will add cards as they drop:
+The following teams have not announced a Miami GP one-off livery as of Thursday morning. Several have run Miami specials in past seasons, so reveals are still possible through Friday. We will add cards as they drop:
 
-- **Ferrari** — Has run Miami specials in past seasons (the asymmetric HP-themed treatment in 2025). No 2026 Miami reveal yet.
-- **Sauber/Stake** — Has run art-car-style Miami specials in past seasons. No 2026 Miami reveal yet.
-- **Williams** — Sometimes do partnership-driven specials. No 2026 reveal yet.
-- **Aston Martin** — Possible Aramco or PIF-related Miami drop. No 2026 reveal yet.
-- **Haas** — No announcement.
+- **Ferrari** has run Miami specials in past seasons (the asymmetric HP-themed treatment in 2025). No 2026 Miami reveal yet, just a stylized race-week poster.
+- **Sauber/Stake** has run art-car-style Miami specials in past seasons. No 2026 Miami reveal yet.
+- **Williams** sometimes do partnership-driven specials. No 2026 reveal yet.
+- **Aston Martin** is the most likely to surprise with a late Aramco or PIF-related Miami drop. No 2026 reveal yet.
+- **Haas** has not announced anything for Miami.
 
-If your team is missing from the revealed section above, refresh this post Thursday or Friday. We update each time a new livery drops.
+If your team is missing from the revealed section above, refresh this post Friday. We update each time a new livery drops.
 
 ## The Verdict
 
-The verdict will land here once we have all the reveals in and grades locked across the board. As of Tuesday morning the field is wide open. Cadillac is the storyline of the weekend because it is the team's first home race and the only confirmed full car livery so far. Mercedes brought race-suit theatre with Nu but kept the W17 unchanged. McLaren has the most intriguing tease on the grid with the Sonic poster. We will close out this section after the rest of the field reveals (or doesn't) and after a weekend of seeing the cars on track under the Miami sun.
+Visa Cash App RB has won the Miami round on visual commitment. The Summer Edition full yellow repaint is the only fully repainted chassis besides Cadillac and the most TV-friendly look on the grid this weekend. Cadillac is still the headline storyline because it is the team's first home race in F1 history, but the patriotic accents stay deliberately restrained on a black-and-white base. Verstappen's Miami helmet is the best driver-kit drop, Mercedes brought race-suit theatre with Nu without changing the W17, McLaren has the most intriguing tease on the grid with the Sonic poster, and Alpine took the lightest swing of the round. We will close out the official rankings after Sunday's race and add anything that drops between now and the green flag.
 
 ## Frequently Asked Questions About F1 Miami GP 2026 Special Liveries
 
 **How many F1 teams have confirmed special liveries for the 2026 Miami Grand Prix?**
 
-As of Tuesday April 28, only Cadillac has confirmed a full one-off car livery for the 2026 Miami Grand Prix, with the Stars and Stripes-themed treatment for the team's first home race. Mercedes has confirmed purple race suits with new partner Nu but has not changed the W17 car livery. McLaren has teased a Sonic-themed Miami GP poster that hints at a possible retro livery, but McLaren has not officially announced one. We expect more reveals through Wednesday and Thursday and will update this tracker as they drop.
+As of Thursday April 30, two teams have confirmed full one-off car liveries for the 2026 Miami Grand Prix. Visa Cash App RB unveiled a Summer Edition full yellow repaint on Wednesday, tied to a new sudachi lime summer variant in the Red Bull energy drink range. Cadillac confirmed a Stars and Stripes-themed treatment for the team's first home race. Alpine added a yellow stripe to its standard livery for an Argentinian-themed photoshoot around Franco Colapinto. Mercedes has confirmed purple race suits with new partner Nu but has not changed the W17 car. McLaren has teased a Sonic-themed Miami GP poster that hints at a possible retro livery without officially confirming one. Max Verstappen unveiled a custom Miami helmet for Red Bull. We expect more reveals through Friday qualifying and will update this tracker as they drop.
+
+**What is the Visa Cash App RB Summer Edition Miami GP livery?**
+
+The Summer Edition is a one-off full repaint of the 2026 Visa Cash App RB Racing Bulls F1 car in deep summer-sun yellow, unveiled Wednesday April 29 at the Miami International Autodrome ahead of the Miami Grand Prix weekend. The livery ties into a new sudachi lime summer variant in the Red Bull energy drink range and was launched in classic Red Bull style on a yacht with team principal Alan Permane and CEO Peter Bayer, with wakeboarder Guenther Oka launching off a ramp into a back flip and pulling the covers off the cars mid-flight. Drivers Liam Lawson (number 30) and rookie Arvid Lindblad (number 41), who stepped up from F2 this year, will run matching yellow camouflage race suits with white shoulders to complete the look. The rear wing reads "Red Bull Summer Edition" in a sun-warmed gold treatment. We graded it an A and it is the best new livery of the Miami round so far.
+
+**Who are the two Visa Cash App RB drivers for the 2026 Miami GP?**
+
+The 2026 Visa Cash App RB Racing Bulls F1 driver lineup is Liam Lawson, who took over the second Red Bull family seat after Yuki Tsunoda's promotion, and rookie Arvid Lindblad, who stepped up from Formula 2. Lindblad is one of just two rookies on the 2026 grid and Racing Bulls is one of only two teams running an entirely new lineup for the 2026 season. Lawson runs car number 30 and Lindblad runs car number 41 for Miami.
 
 **Why is Cadillac running a special livery for the Miami GP?**
 
