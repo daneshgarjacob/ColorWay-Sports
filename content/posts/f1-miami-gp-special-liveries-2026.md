@@ -84,7 +84,7 @@ This is the best new livery of the Miami round so far. Yellow is one of the stro
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/F1/status/2049984908769030441"></a>
+    <a href="https://twitter.com/visacashapprb/status/2049961323652403468"></a>
   </blockquote>
 </div>
 
@@ -131,40 +131,32 @@ Lawson and Lindblad are running matching yellow camouflage race suits with white
 
 Visa Cash App RB has now done a Miami one-off three years running. 2024 leaned hard into a chrome-effect purple and blue treatment. 2025 went pink and white in a glossy finish that fans nicknamed the Hot Wheels look. 2026 commits all the way to a fully repainted yellow Summer Edition. Each year has had its own clean visual identity, but the 2026 Summer Edition is the most committed surface-area repaint of the three and the easiest to spot on a TV camera.
 
-### Yellow Hugo Team Polos and the Despicable Me Connection
+### Yellow Hugo Team Polos and the Minions Movie Tie-In
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
   <img src="/images/posts/f1-miami-gp-2026/HHE4RKmXwAABCTc.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo on a blue studio background ahead of the 2026 Miami Grand Prix Summer Edition livery reveal earlier in the race week" style="width: 100%; border-radius: 10px;" />
   <img src="/images/posts/f1-miami-gp-2026/HHE4RLLaoAA73Dj.jpg" alt="Visa Cash App RB F1 driver in a yellow Hugo team polo with Tudor Mobil and Red Bull sponsor branding ahead of the 2026 Miami Grand Prix Summer Edition reveal earlier in the race week" style="width: 100%; border-radius: 10px;" />
 </div>
 
-Earlier in race week, Visa Cash App RB teased the yellow direction by pulling both drivers into matching Hugo team polos for the Miami marketing rollout. With Mercedes confirming purple Nu race suits the same week and VCARB locking in full yellow on Wednesday, the Miami paddock has accidentally cosplayed a Despicable Me reunion. The Minions yellow on the VCARB chassis paired with the Mercedes Nu purple is the Universal-meets-F1 crossover the internet did not know it needed. VCARB themselves leaned into the Minions energy for the social rollout.
+Earlier in race week, Visa Cash App RB teased the yellow direction by pulling both drivers into matching Hugo team polos for the Miami marketing rollout. The deeper play is the Minions movie crossover. The yellow Summer Edition livery is paired with a Universal Pictures Minions movie tie-in for the Miami weekend, leaning into the obvious color match between the Minions and the new VCARB chassis. The team has been seeding the Minions content across social through race week. The Minions tie-in is exclusive to Visa Cash App RB and is unrelated to any other team's Miami branding.
 
 **Grade: A**
 
 ---
 
-## 3. Mercedes · Purple Nu Race Suits (Suits Only · Leaked)
+## 3. Mercedes · Purple Nu Race Suits (Suits Only)
 
-Mercedes confirmed a purple race-suit partnership with Nu, the Brazilian digital financial services platform that signed a multi-year global deal with the team in January 2026, ahead of the Miami weekend. The team has not yet released official photos of the suits, but leaked imagery showing what George Russell and Kimi Antonelli will wear has already surfaced on X via @fiagirly.
+Mercedes confirmed a purple race-suit partnership with Nu, the Brazilian digital financial services platform that signed a multi-year global deal with the team in January 2026, ahead of the Miami weekend. The team posted official photos of the new suits on Wednesday, with George Russell and Kimi Antonelli wearing the deep-purple Nu treatment for the Miami marketing rollout.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/fiagirly/status/2048838261754212476"></a>
+    <a href="https://twitter.com/MercedesAMGF1/status/2049962163872108887"></a>
   </blockquote>
 </div>
 
-It is important to flag what this is not. Mercedes has not changed the W17 livery for Miami. The purple is on the suits and the marketing only, with the car staying close to the standard Silver Arrows look. We are still including it on the tracker because the suit-and-helmet category is part of the broader Miami special-livery cycle, but on a wide camera shot the Mercedes will look like any other weekend. We will update this section with official photos as soon as Mercedes releases them.
+It is important to flag what this is not. Mercedes has not changed the W17 livery for Miami. The purple is on the suits and the marketing only, with the car staying close to the standard Silver Arrows look. We are still including it on the tracker because the suit-and-helmet category is part of the broader Miami special-livery cycle, but on a wide camera shot the Mercedes will look like any other weekend. The suit treatment is clean, the Nu purple is a strong color on the broadcast, and the partnership is a smart one for a team chasing a stronger Brazilian fan footprint.
 
-<!-- MERCEDES IMAGE PLACEHOLDER: When Jake drops Mercedes purple suit photos, save them at /public/images/posts/f1-miami-gp-2026/mercedes-miami-gp-1.avif (etc.) and uncomment the gallery block below. -->
-<!--
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
-  <img src="/images/posts/f1-miami-gp-2026/mercedes-miami-gp-1.avif" alt="Mercedes F1 Miami Grand Prix 2026 purple Nu race suit for Russell and Antonelli leaked image" style="width: 100%; border-radius: 10px;" />
-  <img src="/images/posts/f1-miami-gp-2026/mercedes-miami-gp-2.avif" alt="Mercedes F1 Miami Grand Prix 2026 purple Nu race suit detail" style="width: 100%; border-radius: 10px;" />
-</div>
--->
-
-**Grade: Pending Official Photos**
+**Grade: B (Suits Only)**
 
 ---
 
@@ -272,7 +264,7 @@ The 2026 Miami Grand Prix is Cadillac's first home race in Formula 1. The team m
 
 **What did Mercedes reveal for the 2026 Miami Grand Prix?**
 
-Mercedes revealed three custom purple race suits for drivers George Russell and Kimi Antonelli on Monday April 27, in partnership with Brazilian digital financial services platform Nu. The reveal is race-suit only. The team's W17 car livery is unchanged for Miami and will run in the standard Silver Arrows treatment.
+Mercedes revealed custom purple race suits for drivers George Russell and Kimi Antonelli ahead of the Miami weekend, in partnership with Brazilian digital financial services platform Nu. The team posted the official photos on Wednesday April 29. The reveal is race-suit only. The team's W17 car livery is unchanged for Miami and will run in the standard Silver Arrows treatment.
 
 **Is McLaren confirmed to run a Sonic the Hedgehog livery at the 2026 Miami GP?**
 
