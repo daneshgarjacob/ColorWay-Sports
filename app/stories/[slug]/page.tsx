@@ -121,7 +121,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               {post.category}
             </span>
           </div>
-          <h1 className="text-2xl sm:text-3xl font-bold text-black leading-tight">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-extrabold text-black leading-[1.1] tracking-tight">
             {post.title}
           </h1>
           <div className="flex items-center gap-2 mt-3">
