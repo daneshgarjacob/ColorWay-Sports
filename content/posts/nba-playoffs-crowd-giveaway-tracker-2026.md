@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-04-29"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 1 Game 3, 4, and 5 takeovers including Cleveland's A+ white-on-white shirts, Spurs Puro San Anto Loud, Hawks, Rockets, Sixers, Magic, and more ranked and scored."
+updatedDate: "2026-04-30"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Thursday Game 6 adds Hawks Peace Up A Town towels, Sixers half-blue half-black towels, and Wolves Let's Go Wolves t-shirts."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,38 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Thursday Round 1 Game 6 Giveaways
+
+Three Game 6s tipping Thursday night across State Farm Arena, Wells Fargo Center, and Target Center. The Hawks are giving out black "Peace Up, A Town" towels at every State Farm Arena seat for an elimination night against the Knicks. The Sixers finally pull the Association whites home moment of Round 1 and pair it with a split-color towel takeover at Wells Fargo Center, half blue and half black, leaning into the throwback identity. The Wolves are running a black "Let's Go Wolves" t-shirt at Target Center on a closeout-chance home night. Three different formats, three different scores.
+
+### Atlanta Hawks · Black "Peace Up, A Town" Towels · Game 6 · Grade: C-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ATLHawks/status/2049952393446490211"></a></blockquote>
+</div>
+
+The Hawks are giving out black "Peace Up, A Town" towels at every State Farm Arena seat for the elimination Game 6 against the Knicks. The Outkast lyric is the right local hook for an Atlanta playoff giveaway and the wordmark on the towel is solid branded language for the moment. The execution falls flat where every black-towel takeover does. The Hawks are wearing the Association whites at home tonight and a coordinated red, white, or volt-green crowd would have lit up the broadcast against the home jersey instead of muting it with another black-on-broadcast moment. The towel format also caps the visual ceiling because fans wave them once and drop them in the seat. The Atlanta-locale wordmark earns some credit. The color choice and format do not. C-.
+
+### Philadelphia 76ers · Half Blue Half Black Towels · Game 6 · Grade: B-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2049987591680774352"></a></blockquote>
+</div>
+
+The Sixers finally pull the Association whites at home for the first time this series and pair it with one of the more interesting crowd takeovers of Round 1: half blue towels and half black towels split across the lower bowl at Wells Fargo Center. The split-color crowd reads as a textured contrast on broadcast instead of one flat color block, and the throwback identity Philadelphia has been leaning into through the playoffs gets pulled into the giveaway with the heritage royal blue and the old logos making the cut. We would have pushed the grade higher with a t-shirt commitment instead of towels, since towels never hit the visual ceiling of a coordinated shirt takeover, but the dual-color logic and the throwback brand tie elevate this above the standard single-color towel night. B-.
+
+### Minnesota Timberwolves · Black "Let's Go Wolves" T-Shirts · Game 6 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Timberwolves/status/2049965489808437563"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Timberwolves/status/2050004967713276179"></a></blockquote>
+</div>
+
+The Timberwolves are handing out black "Let's Go Wolves" t-shirts at every Target Center seat for the closeout-chance Game 6 against the Nuggets. T-shirts over towels is the right call for crowd commitment, and a t-shirt at every seat guarantees an in-game color block that holds through the second half. The black takeover ties cleanly to the Wolves Classic black home jersey on the matching black Classic court, the same uniform-and-court combination Minnesota has been running this entire series. The drawback is the same one we have flagged on every black takeover this round. Black washes out on broadcast against arena lighting and against the home crowd's seats, and Minnesota had a chance to commit to a louder color moment for an elimination-chance home game. C+. The t-shirt format and the wordmark earn the bump above the towel-only games this round, the black ceiling caps it from going higher.
 
 ## Wednesday Round 1 Game 5 Giveaways
 
