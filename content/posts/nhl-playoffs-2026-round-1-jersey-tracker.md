@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
-updatedDate: "2026-04-30"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker updated through Thursday Game 6 with Stars at Wild green and Oilers at Ducks orange both running back primary-home matchups. Every uniform graded game by game with post-game records."
+updatedDate: "2026-05-01"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform tracker updated through Thursday Game 6 with Wild closing out Stars 4-2 in the green primary and Ducks closing out Oilers 4-2 in the iconic orange home sweater. Every uniform graded with post-game records."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 85%"
@@ -135,18 +135,18 @@ Below, every matchup graded, newest first. Jump to any section with the links ab
 
 ## Round 1 Game 6 Matchups
 
-Thursday adds two Game 6s to Round 1. Minnesota hosts Dallas at Xcel Energy Center with a chance to close out the series, the Wild back in the green primary against Stars road whites for the third game in this exact uniform combination after splitting the same look in Games 3 and 4. Anaheim hosts Edmonton at Honda Center with a closeout chance of their own, the Ducks back in their iconic orange home against Oilers road whites for the third game in this combination, the same look that earned a 9 in Games 3 and 4. Pittsburgh visited Philadelphia on Wednesday for the first Game 6 of the round, the Flyers ran back the orange home sweater against Penguins road whites and the third perfect 10 in this combination closed the series 4-2 Philadelphia.
+Thursday delivered two Game 6 closeouts. Minnesota hosted Dallas at Xcel Energy Center and closed out the series 4-2, the Wild back in the green primary against Stars road whites for the third game in this exact uniform combination. Anaheim hosted Edmonton at Honda Center and closed out 4-2, the Ducks back in their iconic orange home against Oilers road whites for the third game in this combination, the same look that earned a 9 in Games 3 and 4. Pittsburgh visited Philadelphia on Wednesday for the first Game 6 of the round, the Flyers ran back the orange home sweater against Penguins road whites and the third perfect 10 in this combination closed the series 4-2 Philadelphia. Three Round 1 series wrapped between Wednesday and Thursday.
 
 ### Game 6: Dallas Stars at Minnesota Wild
 
 <div style="background: linear-gradient(135deg, #0a2a1a 0%, #050f0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006847 0%, #154734 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006847 0%, #154734 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Wild Win 4-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-3</span>
       <img src="/images/jerseys/nhl/stars-white.png" alt="Dallas Stars white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -154,7 +154,7 @@ Thursday adds two Game 6s to Round 1. Minnesota hosts Dallas at Xcel Energy Cent
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-0</span>
       <img src="/images/jerseys/nhl/wild-green.png" alt="Minnesota Wild green home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
@@ -166,18 +166,18 @@ Thursday adds two Game 6s to Round 1. Minnesota hosts Dallas at Xcel Energy Cent
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
 </div>
 
-Series flips back to Xcel Energy Center and Minnesota hosts Dallas with a closeout chance up 3-2, the Wild back in the green primary at home against Stars road whites for the third game in this exact uniform combination. Same matchup as Games 3 and 4, same 7 grade. The Wild green is one of the cleaner forest-and-cream primary identities in the league and the Stars road whites carry the team's victory green and silver accents cleanly, but the muted color story across both jerseys keeps this from cracking the top tier. The Wild will look to win the series at home in the same look they took to a split in Games 3 and 4. Seven out of 10. We will update post-game records tomorrow morning.
+Series flipped back to Xcel Energy Center and Minnesota hosted Dallas with a closeout chance up 3-2, the Wild back in the green primary at home against Stars road whites for the third game in this exact uniform combination. Same matchup as Games 3 and 4, same 7 grade. The Wild green is one of the cleaner forest-and-cream primary identities in the league and the Stars road whites carry the team's victory green and silver accents cleanly, but the muted color story across both jerseys kept this from cracking the top tier. Seven out of 10. Minnesota closed out the series 4-2 at Xcel Energy Center in the green primary to send Dallas home and advance to Round 2.
 
 ### Game 6: Edmonton Oilers at Anaheim Ducks
 
 <div style="background: linear-gradient(135deg, #2a1505 0%, #0f0803 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #041E42 0%, #F47A38 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #041E42 0%, #F47A38 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Ducks Win 4-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-3</span>
       <img src="/images/jerseys/nhl/oilers-white.png" alt="Edmonton Oilers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -185,7 +185,7 @@ Series flips back to Xcel Energy Center and Minnesota hosts Dallas with a closeo
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-0</span>
       <img src="/images/jerseys/nhl/ducks-orange.png" alt="Anaheim Ducks orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
@@ -197,7 +197,7 @@ Series flips back to Xcel Energy Center and Minnesota hosts Dallas with a closeo
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-Series flips back to Honda Center and Anaheim hosts Edmonton with a closeout chance up 3-2, the Ducks back in their iconic orange home against Oilers road whites for the third game in this exact uniform combination. Same matchup as Games 3 and 4, same 9 grade. The Ducks orange is one of the most recognizable primary sweaters in the league and the Oilers road whites carry the team's blue and copper accents cleanly. The orange-on-white contrast pops on broadcast every camera angle, and Anaheim closing out the series at home in the iconic orange would be the right way to send Edmonton home. Nine out of 10. We will update post-game records tomorrow morning.
+Series flipped back to Honda Center and Anaheim hosted Edmonton with a closeout chance up 3-2, the Ducks back in their iconic orange home against Oilers road whites for the third game in this exact uniform combination. Same matchup as Games 3 and 4, same 9 grade. The Ducks orange is one of the most recognizable primary sweaters in the league and the Oilers road whites carry the team's blue and copper accents cleanly. The orange-on-white contrast popped on broadcast every camera angle, and Anaheim closed out the series at home in the iconic orange to send Edmonton home. Nine out of 10. Anaheim advances to Round 2 with a 4-2 series win.
 
 ### Game 6: Pittsburgh Penguins at Philadelphia Flyers
 
