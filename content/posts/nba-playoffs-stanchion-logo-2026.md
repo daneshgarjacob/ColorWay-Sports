@@ -30,6 +30,14 @@ Credit where it is due. The Lakers found a way to keep the Playoffs branding on 
 
 The bigger pattern here matters. Across the same series, in two different home arenas, the Playoffs logo has been in three different positions: front-and-center at Toyota Center, demoted to the side at Crypto.com Arena, and absent entirely at three other Round 1 home arenas on the same Sunday slate. The league is not running a unified Playoffs branding standard across home venues. Every arena is making its own call.
 
+## Why the Lakers Stanchion Does Not Show Coinbase
+
+The Get The App ad on the main face of the Crypto.com Arena stanchion is hiding a quieter league-wide branding pattern. Coinbase is the NBA's official cryptocurrency platform partner under a multi-year league-level sponsorship deal, and the Coinbase logo typically defaults onto in-arena inventory at most NBA home venues. The Lakers home arena cannot run that. Crypto.com is the naming-rights partner of Crypto.com Arena, and Coinbase is Crypto.com's biggest direct competitor in the cryptocurrency exchange space. Naming-rights deals at NBA arenas almost always include category exclusivity, and the Crypto.com Arena agreement effectively blocks competing crypto brands inside the building, which means the league-default Coinbase placement has to go somewhere else when the Lakers play at home.
+
+The Get The App NBA App promotion plus the Kia logo on the main camera-facing panel of the stanchion at Game 5 is what the Lakers ran instead. That partnership stack also explains why the Playoffs presented by Google lockup got pushed to the side panel. Google is the Playoffs presenting partner and the most valuable real estate on the stanchion was already filled with the App and Kia treatment, so the Playoffs branding got the secondary surface. None of this is happening at Toyota Center, where the Rockets did not have the same naming-rights conflict to work around and the Playoffs logo got the main face on Sunday.
+
+This is a small but real example of how an arena's naming-rights deal reshapes what fans actually see on broadcast during the postseason. The league sells the stanchion as standardized inventory. The arena partnership rewrites it. If you watch the same series in two different home buildings, you are watching two different sponsor maps stacked on top of the same NBA Playoffs.
+
 ## Sunday Game 4 Stanchion Comparison
 
 We pulled stills of all four Sunday Game 4 broadcasts to confirm. The Lakers-Rockets stanchion clearly carries the NBA Playoffs logo. The other three do not.
@@ -85,6 +93,10 @@ Toyota Center's Rockets stanchion ran the NBA Playoffs logo on the main camera-f
 **Why is the NBA Playoffs logo not on every stanchion?**
 
 NBA home arenas sell the stanchion wrap to sponsor partners as year-round inventory. Replacing the regular-season sponsor with the Playoffs logo for the postseason requires the home team or the league to coordinate the wrap swap and is not a unified league-wide standard. Some teams and arenas commit to it. Most do not. The 2026 Round 1 stanchion treatment has been an arena-by-arena decision, not a league-wide rollout.
+
+**Why is there no Coinbase logo on the stanchion at Lakers home games?**
+
+Coinbase is the NBA's official cryptocurrency platform partner and the Coinbase logo typically defaults onto in-arena inventory at most NBA home venues. The Lakers cannot run that placement. Crypto.com is the naming-rights partner of Crypto.com Arena, and Coinbase is Crypto.com's biggest direct competitor in the cryptocurrency exchange space. Naming-rights agreements at NBA arenas almost always carry category exclusivity that blocks competing brands inside the building, which is why Lakers home games run alternate sponsor inventory like the Get The App NBA App promotion or Kia branding on the main camera-facing panel of the stanchion instead of the league-default Coinbase placement that shows up at most other NBA home arenas.
 
 **Did older NBA Playoffs have logos on the stanchion?**
 
