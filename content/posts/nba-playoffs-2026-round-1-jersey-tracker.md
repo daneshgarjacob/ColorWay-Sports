@@ -129,7 +129,7 @@ Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded, updated game 
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Average Scores</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.2 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">5.9 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
@@ -143,7 +143,7 @@ Below, every matchup graded, newest first. Jump to any night with the links abov
 
 ## Thursday Night Game 6 Matchups
 
-Thursday's Game 6 slate is the cleanest jersey night of the round so far. Atlanta hosts New York facing elimination at State Farm Arena and pulls the Association whites at home with the Knicks Icon blue on the road, the same matchup that earned a 10 in Game 3 and a 10 in Game 4 of this series. Philadelphia hosts Boston also facing elimination at Wells Fargo Center and goes Association whites at home with the Celtics Icon green on the road, the textbook playoff white-versus-color combination that earned a perfect 10 in Game 1 of this series. Minnesota closes out their Wolves Classic Edition black at home on the matching black Classic court for the third time this series with the Nuggets Association whites on the road. Tonight averages 8 out of 10 across the three games on the strength of two perfect 10s. We will update post-game records tomorrow morning.
+Thursday's Game 6 slate is the cleanest jersey night of the round so far. Atlanta hosts New York facing elimination at State Farm Arena and pulls the Association whites at home with the Knicks Icon blue on the road, the same matchup that earned a 10 in Game 3 and a 10 in Game 4 of this series. Philadelphia hosts Boston also facing elimination at Wells Fargo Center and finally goes Association whites at home for the first time this series with the Celtics Icon green on the road, the textbook playoff white-versus-color combination we score top of the scale and the home-team-in-whites identity Sixers fans have been waiting for since the Boston bench took the perfect 10 home whites at TD Garden in Game 1. Minnesota closes out their Wolves Classic Edition black at home on the matching black Classic court for the third time this series with the Nuggets Association whites on the road. Tonight averages 8 out of 10 across the three games on the strength of two perfect 10s. We will update post-game records tomorrow morning.
 
 ### Game 6: New York Knicks at Atlanta Hawks
 
@@ -161,8 +161,8 @@ Thursday's Game 6 slate is the cleanest jersey night of the round so far. Atlant
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 6 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-3</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-2</span>
       <img src="/images/jerseys/nba/hawks-association-white.png" alt="Atlanta Hawks Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 1 Game 6 vs New York Knicks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ATLANTA HAWKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -203,8 +203,8 @@ Atlanta hosts New York at State Farm Arena facing elimination down 3-2 in the se
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 6 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
       <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white home jersey for 2026 NBA Playoffs Round 1 Game 6 vs Boston Celtics" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -227,7 +227,7 @@ Atlanta hosts New York at State Farm Arena facing elimination down 3-2 in the se
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Wells Fargo Center · Philadelphia · Elimination Game</p>
 </div>
 
-Philadelphia hosts Boston facing elimination down 3-2 in the series at Wells Fargo Center, and the Sixers finally pull the Association whites at home for the first time this series with the Celtics in Icon Edition green on the road. This is the textbook playoff white-versus-color matchup we score top of the scale and the same identity pairing that earned a perfect 10 in Game 1 of this series. The Sixers Association whites are one of the cleanest looks in the league with the iconic Philadelphia red and royal blue striping. Boston Icon green on the road is the franchise's signature playoff visual and one of the most recognizable looks in basketball. Two iconic Eastern Conference identities at full strength on an elimination night, no Statement black detours, no Classic throwback debate, just both teams in the right uniform for the moment. Ten out of 10. Philadelphia facing the closeout, Boston one win away.
+Philadelphia hosts Boston facing elimination down 3-2 in the series at Wells Fargo Center, and the Sixers finally pull the Association whites at home for the first time this series with the Celtics in Icon Edition green on the road. This is the textbook playoff white-versus-color matchup we score top of the scale, the home-team-in-whites-versus-road-team-in-color identity standard we have been waiting on from this series ever since Game 1 ran a flipped Sixers Icon blue at Celtics whites at TD Garden. The Sixers Association whites are one of the cleanest looks in the league with the iconic Philadelphia red and royal blue striping. Boston Icon green on the road is the franchise's signature playoff visual and one of the most recognizable looks in basketball. Two iconic Eastern Conference identities at full strength on an elimination night, no Statement black detours, no Classic throwback debate, just both teams in the right uniform for the moment. Ten out of 10. Philadelphia facing the closeout, Boston one win away.
 
 ### Game 6: Denver Nuggets at Minnesota Timberwolves
 
