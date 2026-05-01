@@ -2,13 +2,14 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd t-shirt and towel giveaway graded. Wednesday Round 1 Game 5 and 6 takeovers from the Lightning, Flyers, and Golden Knights ranked and scored, with more added each round."
+updatedDate: "2026-04-30"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs Round 1 crowd t-shirt and rally towel giveaway graded, including Thursday Game 6 Ducks orange towels and Wild white towels plus Wednesday Flyers orange shirts, Lightning, and Golden Knights ranked and scored."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
-teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights"]
+teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild"]
 ---
 
 <img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
@@ -19,6 +20,26 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Thursday Round 1 Game 6 Giveaways
+
+Two Game 6 closeout chances tipping Thursday night across Honda Center in Anaheim and Xcel Energy Center in Minneapolis. Both home teams holding 3-2 series leads, both teams running rally towel giveaways, and a clean side-by-side study in how a single color decision changes the entire broadcast read. Anaheim color-matched the home orange with rally towels for the Ducks Game 6 closeout chance against Edmonton, the textbook NHL playoff coordination move and one of the cleanest crowd-jersey ties of Round 1. Minnesota played it safe with white rally towels for the Wild Game 6 closeout chance against Dallas, even though the team is wearing the green primary on home ice and a forest-green takeover would have given Xcel Energy Center a single coordinated color story.
+
+### Anaheim Ducks · Orange Rally Towels · Game 6 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AnaheimDucks/status/2049921445892112527"></a></blockquote>
+</div>
+
+The Ducks loaded every seat at Honda Center with orange rally towels for the Game 6 closeout chance against the Edmonton Oilers. Orange-on-orange against the team's iconic orange home sweater is the textbook color-matched giveaway and one of the cleanest broadcast reads an NHL team can run, with the wave moments in the second period setting up the kind of arena-wide visual the league wants in a closeout game. The Ducks orange against the Oilers road whites and the orange towels in the stands lights up Honda Center as a single color story end to end. Same drawback we have flagged on every towel takeover this postseason. Rally towels never hit the visual ceiling of a t-shirt at every seat, fans wave them once and drop them, and the look fades after the first period. We would have pushed this to A territory with a t-shirt commitment, but the color match is right where it should be and Anaheim earns the bump above the towel-color games for actually pairing the giveaway color to the home sweater. B+. Color-coordinated with the jersey, towels are the part that holds the grade back from a real arena-wide takeover.
+
+### Minnesota Wild · White Rally Towels · Game 6 · Grade: C
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2049960842993520987"></a></blockquote>
+</div>
+
+The Wild handed out white rally towels at every Xcel Energy Center seat for the Game 6 closeout chance against the Dallas Stars. White is bright and the broadcast read holds against the rink and the home crowd, but the Wild are wearing the green primary at home tonight and the giveaway color does not match the jersey. Minnesota had a cleaner option sitting in the merch room. Forest green or even the Wild's classic cream alternate would have given Xcel Energy Center a single coordinated color story and matched what the team is wearing on the ice. Instead the Wild crowd-jersey package reads as a green-on-white split that loses the cohesion the Ducks are nailing in Anaheim on the same night. The towel format is the same drawback that drags the rest of the night down, and the white-instead-of-green call costs another half grade. C. Bright is better than dark, but a green takeover for a green-jersey closeout night was the right answer.
 
 ## Wednesday Round 1 Game 5 and 6 Giveaways
 
@@ -56,7 +77,15 @@ Yes. Most NHL home teams run crowd giveaway programs through the Stanley Cup Pla
 
 **Which NHL teams ran the best crowd giveaways in the 2026 Stanley Cup Playoffs Round 1?**
 
-We are tracking every reveal as it lands. Through Wednesday Round 1, the Vegas Golden Knights gold towels coordinated with their home gold sweater are the cleanest color match of the round. The Philadelphia Flyers orange shirt giveaway against their iconic orange home sweater has a chance to land at the top of the round once the shirt design is confirmed.
+We are tracking every reveal as it lands. Through Thursday Round 1, the Philadelphia Flyers orange "Puck Everybody · Ignite the Orange" t-shirt takeover at every Wells Fargo Center seat for the Game 6 closeout against Pittsburgh is the top-graded giveaway of the round at A. The Anaheim Ducks orange rally towels for the Game 6 closeout against Edmonton are second on the leaderboard at B+. The Vegas Golden Knights gold towels coordinated with their home gold sweater are next at B. Color-matched giveaways have outscored mismatched ones every time so far this round.
+
+**What are the Anaheim Ducks giving out for Game 6 vs the Edmonton Oilers?**
+
+The Anaheim Ducks are handing out orange rally towels at every Honda Center seat for the Game 6 closeout chance against the Edmonton Oilers on Thursday April 30, 2026. The towel color matches the team's iconic orange home sweater for an arena-wide color-coordinated visual against the Oilers road whites. We graded the giveaway B+. The grade gets dragged down half a step because rally towels never hit the visual ceiling of a real t-shirt takeover.
+
+**What are the Minnesota Wild giving out for Game 6 vs the Dallas Stars?**
+
+The Minnesota Wild are handing out white rally towels at every Xcel Energy Center seat for the Game 6 closeout chance against the Dallas Stars on Thursday April 30, 2026. The towels do not match the Wild green primary home sweater the team is wearing on the ice, which costs the giveaway a coordinated arena-wide color story. We graded the giveaway C. A forest-green or classic cream alternate would have lifted the broadcast read significantly.
 
 **What is the difference between a crowd t-shirt giveaway and a rally towel giveaway?**
 
