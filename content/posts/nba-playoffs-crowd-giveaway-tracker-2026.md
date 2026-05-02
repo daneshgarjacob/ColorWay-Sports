@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-04-30"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Thursday Game 6 adds Hawks Peace Up A Town towels, Sixers half-blue half-black towels, and Wolves Let's Go Wolves t-shirts."
+updatedDate: "2026-05-01"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Friday Game 6 adds Magic black t-shirts, Raptors white towels, and Rockets red t-shirts in three closeout matchups."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,38 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Friday Round 1 Game 6 Giveaways
+
+Three Friday Game 6 giveaways across the Eastern and Western Conferences. Orlando hands out black t-shirts at Kia Center for a closeout-chance home night, Toronto runs white rally towels at Scotiabank Arena for an elimination home night, and Houston commits red t-shirts at Toyota Center for an elimination home night against the Lakers. Three different formats, three different colors, three different broadcast reads.
+
+### Orlando Magic · Black T-Shirts · Game 6 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OrlandoMagic/status/2050303871759602148"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TheKiaCenter/status/2050310398964842540"></a></blockquote>
+</div>
+
+Orlando hands out black t-shirts at every Kia Center seat for the closeout-chance Game 6 against the Pistons, paired with the Magic Statement Edition black home jersey for a black-on-black takeover. The t-shirt format earns the bump above plain black towel nights, but the black-on-broadcast ceiling caps the grade right where we capped Minnesota's same-format setup yesterday. C+. Magic could have given Kia Center a real Icon blue color moment for closeout night and skipped the muted black read entirely.
+
+### Toronto Raptors · White Rally Towels · Game 6 · Grade: C
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Sportsnet/status/2050321620737081714"></a></blockquote>
+</div>
+
+Toronto hands out white rally towels at every Scotiabank Arena seat for the elimination Game 6 against the Cavaliers, paired with the Raptors Icon Edition red home jersey. White is a clean broadcast color and the towel-wave moments fit the loud Raptors crowd, but rally towels never hit the visual ceiling of a coordinated t-shirt takeover. C. Toronto could have committed to a red t-shirt match for the home jersey and left the bigger color moment on the table.
+
+### Houston Rockets · Red T-Shirts · Game 6 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2050301558420615603"></a></blockquote>
+</div>
+
+Houston hands out red t-shirts at every Toyota Center seat for the elimination Game 6 against the Lakers, paired with the Rockets Icon Edition red home jersey for a full red-on-red takeover. The shirts match the home uniform exactly and Toyota Center gets the single-color identity moment we want from every playoff home crowd. B+. Same red-on-red commitment Houston ran for Game 3 of this series and the same team-color match that always grades higher than mismatched giveaways.
 
 ## Thursday Round 1 Game 6 Giveaways
 
