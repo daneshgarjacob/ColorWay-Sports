@@ -2,8 +2,8 @@
 title: "F1 Miami Grand Prix 2026: Every Special Livery Tracker and Ranking"
 category: "F1"
 date: "2026-04-28"
-updatedDate: "2026-04-30"
-excerpt: "Visa Cash App RB drops a full Summer Edition yellow livery, Cadillac runs Stars and Stripes, Alpine adds an Argentinian twist for Colapinto, Mercedes brings purple Nu race suits, and Max Verstappen unveils a Miami helmet. We track and rank every 2026 F1 Miami GP special livery as more teams reveal."
+updatedDate: "2026-05-01"
+excerpt: "Every 2026 F1 Miami GP special livery and helmet ranked. Cadillac Stars and Stripes, VCARB Summer Edition yellow, plus Miami helmet drops from Bottas, Leclerc, Sainz, Ocon, and Bortoleto."
 gradient: "linear-gradient(135deg, #FFE5F1 0%, #D6F0F0 100%)"
 logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/f1-miami-gp-2026/cadillac-miami-gp-5.avif"
@@ -12,9 +12,9 @@ teams: []
 homepageOrder: 8
 ---
 
-The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is in full swing. Visa Cash App RB just dropped the round's biggest swing with a full Summer Edition repaint in deep yellow, the most committed one-off livery on the grid this weekend. Cadillac dropped a Stars and Stripes one-off for its first-ever F1 home race. Alpine put driver Franco Colapinto's Argentinian roots front and center with a yellow Mercado Libre photoshoot. Mercedes brought a purple race-suit moment with new partner Nu, McLaren teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery, and Max Verstappen unveiled a custom Miami helmet. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
+The 2026 F1 Miami Grand Prix kicks off Friday at the Miami International Autodrome, and the special-livery cycle is in full swing. Visa Cash App RB just dropped the round's biggest swing with a full Summer Edition repaint in deep yellow, the most committed one-off livery on the grid this weekend. Cadillac dropped a Stars and Stripes one-off for its first-ever F1 home race. Alpine put driver Franco Colapinto's Argentinian roots front and center with a yellow Mercado Libre photoshoot. Mercedes brought a purple race-suit moment with new partner Nu, and McLaren teased a Sega-themed Miami poster that has fans speculating about a Sonic-inspired livery. The helmet drops piled in alongside the liveries: Valtteri Bottas and Sergio Perez run coordinated Cadillac 1990s Miami helmets, Charles Leclerc went baby blue for Ferrari, Carlos Sainz brought a custom Williams design, Esteban Ocon dropped a Haas Miami special, Gabriel Bortoleto unveiled a strong-color Sauber helmet, and Max Verstappen brought a custom Red Bull Miami helmet. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Suzuka weekend, see our [F1 Japanese Grand Prix special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
-*Updated Thursday April 30 with the full Visa Cash App RB Summer Edition yellow livery reveal. We will keep updating this post through Friday qualifying and Sunday's race at the Miami International Autodrome.*
+*Updated Friday May 1 with five new driver helmet drops from Bottas, Perez, Leclerc, Sainz, Ocon, and Bortoleto. We will keep updating this post through Saturday qualifying and Sunday's race at the Miami International Autodrome.*
 
 ## 1. Cadillac · Stars and Stripes Debut
 
@@ -222,23 +222,99 @@ The base of the car is essentially identical in both photos. The Miami change is
   </blockquote>
 </div>
 
-Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend, and it is the best driver helmet drop of the round. Red Bull main team rarely runs full one-off car liveries, and the driver helmet is the lever the team consistently pulls when a marquee race calls for something special on the broadcast. The Miami design is the part of the package fans will actually catch on the broadcast feed during the in-car cam, the parc fermé walk-up, and the helmet pulls in the garage between sessions. The execution is exactly what a Verstappen Miami helmet should look like, the design language hits, and the broadcast read is going to be excellent across every camera angle this weekend. The Red Bull main car staying standard for Miami makes the helmet do all the visual work, and the helmet absolutely delivers.
+Max Verstappen unveiled a custom Miami GP helmet for the 2026 weekend, and it is one of the best driver helmet drops of the round. Red Bull main team rarely runs full one-off car liveries, and the driver helmet is the lever the team consistently pulls when a marquee race calls for something special on the broadcast. The Miami design is the part of the package fans will actually catch on the broadcast feed during the in-car cam, the parc fermé walk-up, and the helmet pulls in the garage between sessions. The execution is exactly what a Verstappen Miami helmet should look like, the design language hits, and the broadcast read is going to be excellent across every camera angle this weekend.
 
 **Grade: A**
 
 ---
 
-## Not Yet Revealed (As of 2026-04-30)
+## 7. Cadillac · Valtteri Bottas + Sergio Perez 1990s Miami Helmets
 
-The following teams have not announced a Miami GP one-off livery as of Thursday morning. Several have run Miami specials in past seasons, so reveals are still possible through Friday. We will add cards as they drop:
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/ValtteriBottas/status/2050061670978916395"></a>
+  </blockquote>
+</div>
 
-- **Ferrari** has run Miami specials in past seasons (the asymmetric HP-themed treatment in 2025). No 2026 Miami reveal yet, just a stylized race-week poster.
-- **Sauber/Stake** has run art-car-style Miami specials in past seasons. No 2026 Miami reveal yet.
-- **Williams** sometimes do partnership-driven specials. No 2026 reveal yet.
-- **Aston Martin** is the most likely to surprise with a late Aramco or PIF-related Miami drop. No 2026 reveal yet.
-- **Haas** has not announced anything for Miami.
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/F1BigData/status/2050232296389652523"></a>
+  </blockquote>
+</div>
 
-If your team is missing from the revealed section above, refresh this post Friday. We update each time a new livery drops.
+Cadillac brought one of the boldest helmet drops of the weekend with Valtteri Bottas's 1990s Miami tribute, designed by his partner cyclist Tiffany Cromwell. The mint-and-lilac base is packed with Memphis movement patterns and retro motifs, with a pink Cadillac illustration tying back to his current team and the race number rendered in Comic Sans on purpose. Sergio Perez runs a coordinated team helmet with subtle variations on the same Miami aesthetic. A-. Coordinated team helmets that lean into a real cultural reference and connect back to Cadillac's brand without forcing the placement.
+
+**Grade: A-**
+
+---
+
+## 8. Ferrari · Charles Leclerc Baby Blue Miami Helmet
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/extremecars__/status/2050248025956651455"></a>
+  </blockquote>
+</div>
+
+Charles Leclerc unveiled a baby blue Miami helmet in soft pastel that nods to Miami's coastal palette, ocean hues, and pastel skyline culture. The pastel direction is a clean contrast against the standard Ferrari red identity and one of the most stylish helmet drops on the grid this weekend. A. The Miami GP rare driver helmet that gives Ferrari fans a softer aesthetic moment without breaking the team's core color story.
+
+**Grade: A**
+
+---
+
+## 9. Williams · Carlos Sainz Miami Helmet
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/extremecars__/status/2049951718054518930"></a>
+  </blockquote>
+</div>
+
+Williams driver Carlos Sainz brought a custom Miami GP helmet for the 2026 weekend, leaning into a Miami-specific palette that breaks from his standard Williams design. The unique direction earns credit for not just running back the regular helmet for an American home race weekend. A-. Different is the right move for Miami and Sainz commits to the one-off moment that the home race of the calendar deserves.
+
+**Grade: A-**
+
+---
+
+## 10. Haas · Esteban Ocon Miami Helmet
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/OconEsteban/status/2049910709929083257"></a>
+  </blockquote>
+</div>
+
+Haas driver Esteban Ocon unveiled a Miami special helmet for the weekend with a custom design tied to the Miami GP. Solid effort from a driver and team that often run conservative helmets through the calendar, and Ocon commits to a real one-off Miami moment for the broadcast. B+. Strong helmet drop that earns the bump for committing to the visual moment that an American home race weekend should deliver.
+
+**Grade: B+**
+
+---
+
+## 11. Sauber · Gabriel Bortoleto Miami Helmet
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/extremecars__/status/2050193127676273092"></a>
+  </blockquote>
+</div>
+
+Sauber rookie Gabriel Bortoleto brought a Miami GP helmet that leans into one of the strongest color combinations of any helmet on the grid this weekend. A-. The rookie continues to bring real visual ambition to his F1 debut season and Sauber gets a clean broadcast moment for Miami without changing the car.
+
+**Grade: A-**
+
+---
+
+## Not Yet Revealed (As of 2026-05-01)
+
+The following teams have not announced a Miami GP full-car one-off livery as of Friday. Several have run Miami specials in past seasons and helmet drops covered above show many drivers still committed to a one-off moment for the weekend. We will add more as they drop:
+
+- **Ferrari** has run Miami specials in past seasons (the asymmetric HP-themed treatment in 2025). No 2026 Miami car reveal yet, just a stylized race-week poster and the Leclerc baby blue helmet covered above.
+- **Sauber** has run art-car-style Miami specials in past seasons. No 2026 Miami car reveal yet, just the Bortoleto helmet covered above.
+- **Williams** sometimes do partnership-driven specials. No 2026 car reveal yet, just the Sainz helmet covered above.
+- **Aston Martin** is the only team without any Miami-specific reveal so far. No livery, no helmet, no race suit.
+- **Haas** has not announced a car livery for Miami, just the Ocon helmet covered above.
+
+If your team is missing from the revealed sections above, refresh this post Saturday. We update each time a new livery or helmet drops.
 
 ## The Verdict
 
