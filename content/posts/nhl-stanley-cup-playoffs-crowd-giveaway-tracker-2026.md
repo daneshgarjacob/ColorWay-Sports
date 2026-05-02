@@ -33,13 +33,13 @@ Three Friday Game 6 giveaways across Bell Centre, TD Garden, and Delta Center. M
 
 Montreal hands out white rally towels at every Bell Centre seat for the closeout-chance Game 6 against the Lightning, paired with the iconic Canadiens red home sweater. White is a clean broadcast color and the towel-wave moments fit the loud Bell Centre crowd, but rally towels never hit the visual ceiling of a t-shirt takeover and the white-with-red mismatch costs the broadcast color cohesion. C+. Standard NHL rally towel night, better than nothing but a red towel takeover would have lit up Bell Centre.
 
-### Boston Bruins · Yellow Rally Towels · Game 6 · Grade: C+
+### Boston Bruins · Yellow Rally Towels · Game 6 · Grade: B-
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2050350837629685855"></a></blockquote>
 </div>
 
-Boston hands out yellow rally towels at every TD Garden seat for the elimination Game 6 against the Sabres, a Pittsburgh Steelers terrible-towel-style takeover that ties to the Bruins gold brand-trim color. Yellow against the Bruins primary black home sweater gives the broadcast a real color contrast and the towel-wave moments fit the loud TD Garden crowd. C+. Strong concept with the gold-trim tie, the towel format keeps the grade from going higher.
+Boston hands out yellow rally towels at every TD Garden seat for the elimination Game 6 against the Sabres, a Pittsburgh Steelers terrible-towel-style takeover that ties to the Bruins iconic gold brand-trim color. Yellow against the Bruins primary black home sweater gives the broadcast a real color contrast and the towel-wave moments fit the loud TD Garden crowd. B-. The gold-trim brand tie earns the bump above standard rally-towel nights and the Steelers-style format gives Boston a louder visual moment than a plain white-towel takeover would have delivered.
 
 ### Utah Mammoth · White Rally Towels and LED Wristbands · Game 6 · Grade: B-
 
