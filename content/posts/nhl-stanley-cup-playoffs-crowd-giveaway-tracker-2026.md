@@ -2,14 +2,14 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-04-30"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs Round 1 crowd t-shirt and rally towel giveaway graded, including Thursday Game 6 Ducks orange towels and Wild white towels plus Wednesday Flyers orange shirts, Lightning, and Golden Knights ranked and scored."
+updatedDate: "2026-05-01"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs Round 1 crowd giveaway graded. Friday Game 6 adds Canadiens white towels, Bruins yellow towels, and Mammoth white towels plus LED wristbands."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
-teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild"]
+teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth"]
 ---
 
 <img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
@@ -20,6 +20,34 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Friday Round 1 Game 6 Giveaways
+
+Three Friday Game 6 giveaways across Bell Centre, TD Garden, and Delta Center. Montreal hands out white rally towels at home with a closeout chance against Tampa, Boston runs Steelers-style yellow rally towels at TD Garden facing elimination against Buffalo, and Utah commits to a two-piece giveaway with white rally towels plus LED wristbands at Delta Center facing elimination against Vegas. Three different color choices, three different formats, and the most ambitious crowd-package of Round 1 from the Mammoth.
+
+### Montreal Canadiens · White Rally Towels · Game 6 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2050315933931966685"></a></blockquote>
+</div>
+
+Montreal hands out white rally towels at every Bell Centre seat for the closeout-chance Game 6 against the Lightning, paired with the iconic Canadiens red home sweater. White is a clean broadcast color and the towel-wave moments fit the loud Bell Centre crowd, but rally towels never hit the visual ceiling of a t-shirt takeover and the white-with-red mismatch costs the broadcast color cohesion. C+. Standard NHL rally towel night, better than nothing but a red towel takeover would have lit up Bell Centre.
+
+### Boston Bruins · Yellow Rally Towels · Game 6 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2050350837629685855"></a></blockquote>
+</div>
+
+Boston hands out yellow rally towels at every TD Garden seat for the elimination Game 6 against the Sabres, a Pittsburgh Steelers terrible-towel-style takeover that ties to the Bruins gold brand-trim color. Yellow against the Bruins primary black home sweater gives the broadcast a real color contrast and the towel-wave moments fit the loud TD Garden crowd. C+. Strong concept with the gold-trim tie, the towel format keeps the grade from going higher.
+
+### Utah Mammoth · White Rally Towels and LED Wristbands · Game 6 · Grade: B-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TuskedUp/status/2050258060384596061"></a></blockquote>
+</div>
+
+Utah hands out white rally towels and LED wristbands at every Delta Center seat for the elimination Game 6 against the Knights, a two-piece giveaway that goes beyond the standard rally towel format. The LED wristbands add a coordinated light-show moment for the broadcast that pure-towel nights cannot match, and the white towel reads clean against the Mammoth primary black home sweater. B-. The wristband bump earns the grade above standard towel-only nights and Utah delivers the most ambitious crowd-package of Round 1 so far.
 
 ## Thursday Round 1 Game 6 Giveaways
 
