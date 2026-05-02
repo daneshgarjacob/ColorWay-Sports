@@ -5,7 +5,7 @@ date: "2026-04-23"
 updatedDate: "2026-05-01"
 excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Friday Game 6 adds Magic black t-shirts, Raptors white towels, and Rockets red t-shirts in three closeout matchups."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
-coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg"
+coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -13,8 +13,8 @@ teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-
 featuredOrder: 1
 ---
 
-<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/hawks-red-shirts-cover.jpg" alt="Atlanta Hawks red playoff t-shirts laid out on every seat at State Farm Arena for Game 3 against the New York Knicks in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Atlanta Hawks / NBA</p>
+<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg" alt="Cleveland Cavaliers white Cavs Playoffs Let Em Know t-shirts laid out on every seat at Rocket Mortgage Fieldhouse for Game 5 against the Toronto Raptors in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cleveland Cavaliers / NBA</p>
 
 Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Trail Blazers also went towels only and skipped a t-shirt giveaway altogether. The Wolves and Raptors both committed to black on Thursday. And the Magic announced black for Saturday morning against the Pistons.
 
