@@ -71,13 +71,16 @@ a {
   margin-bottom: 1.25em;
   line-height: 1.8;
   font-size: 1rem;
-  color: #333;
+  color: #2a2a2a;
 }
 
-.prose > p:first-child {
-  font-size: 1.05rem;
-  line-height: 1.75;
-  color: #222;
+.prose > p:first-child,
+.prose > p:first-of-type {
+  font-size: 1.18rem;
+  line-height: 1.6;
+  color: #1a1a1a;
+  letter-spacing: -0.005em;
+  margin-bottom: 1.5em;
 }
 
 .prose strong {
@@ -126,29 +129,39 @@ a {
 .prose img + em {
   display: block;
   text-align: center;
-  font-size: 0.75em;
-  color: #999;
-  margin-bottom: 1.5em;
-  font-style: normal;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.85em;
+  line-height: 1.5;
+  color: #888;
+  letter-spacing: 0.005em;
+  margin-bottom: 1.75em;
+  margin-top: 0.5em;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .prose h2 {
   font-family: var(--font-serif);
-  font-size: 1.5em;
+  font-size: 1.85em;
   font-weight: 800;
   color: var(--color-black);
-  margin-top: 2.5em;
-  margin-bottom: 0.5em;
-  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-top: 2.75em;
+  margin-bottom: 0.65em;
+  letter-spacing: -0.018em;
 }
 
 .prose h3 {
   font-family: var(--font-sans);
-  font-size: 1.15em;
+  font-size: 1.2em;
   font-weight: 700;
   color: var(--color-black);
-  margin-top: 1.5em;
+  line-height: 1.35;
+  margin-top: 2em;
   margin-bottom: 0.5em;
+  letter-spacing: -0.005em;
 }
 
 .prose ul, .prose ol {
@@ -189,12 +202,12 @@ a {
 .prose > img:first-child + p[style*="text-align"] + p::first-letter {
   float: left;
   font-family: var(--font-serif);
-  font-size: 4em;
-  line-height: 0.85;
+  font-size: 4.5em;
+  line-height: 0.82;
   font-weight: 800;
-  padding-right: 0.08em;
-  padding-top: 0.05em;
-  color: var(--color-black);
+  padding-right: 0.1em;
+  padding-top: 0.08em;
+  color: var(--color-orange);
 }
 
 /* Pull quote — for editorial emphasis inside posts */
@@ -219,4 +232,13 @@ a {
   height: 3px;
   background: var(--color-orange);
   margin: 0 auto 1em;
+}
+
+.prose .pull-quote::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--color-orange);
+  margin: 1em auto 0;
 }
