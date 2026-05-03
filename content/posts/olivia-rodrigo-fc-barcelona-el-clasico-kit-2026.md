@@ -4,13 +4,13 @@ category: "Soccer"
 date: "2026-05-02"
 excerpt: "Olivia Rodrigo's yellow butterfly logo replaces Spotify on FC Barcelona's El Clasico kit May 10, the youngest artist ever in the eighth Spotify jersey takeover after Drake, Coldplay, Ed Sheeran."
 gradient: "linear-gradient(135deg, #A50044 0%, #FFE15D 50%, #004D98 100%)"
-coverImage: "/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg"
+coverImage: "/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-spotify-fc-barcelona-promo.jpg"
 coverImagePosition: "center center"
 league: "soccer"
 teams: []
 ---
 
-<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-kit-butterfly-logo.jpg" alt="Olivia Rodrigo wearing the FC Barcelona El Clasico kit with the yellow butterfly logo on the chest for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />
+<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg" alt="Olivia Rodrigo from behind wearing the personalized FC Barcelona El Clasico kit with RODRIGO 21 on the back of the Nike home jersey for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />
 
 FC Barcelona just dropped the eighth El Clasico jersey takeover from Spotify, and this one belongs to Olivia Rodrigo. A yellow butterfly logo built from the singer's initials replaces the Spotify wordmark on the front of Barcelona's iconic red-and-blue Nike home kit for the May 10 Clasico against Real Madrid at Spotify Camp Nou, with the women's team getting first wear in their May 6 Liga F match against Levante UD. At 23 years old Rodrigo is the youngest artist ever placed on the Barcelona shirt, joining a list that runs Drake, Rosalia, the Rolling Stones, Karol G, Coldplay, Travis Scott, and most recently Ed Sheeran for last October's Clasico against Madrid.
 
@@ -54,7 +54,7 @@ The Rolling Stones brought the band's iconic tongue-and-lips emblem to the front
 
 Karol G's barbed-wire heart logo took the front of the Barcelona kit for the April 21, 2024 Clasico, the second Latin artist on the shirt after Rosalia and a deliberate move by Spotify and Barcelona to keep the Latin music representation rolling year over year. Real Madrid won 3-2 in a high-scoring Clasico that became one of the most-watched matches of the 2023-24 La Liga season.
 
-<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-spotify-fc-barcelona-promo.jpg" alt="Olivia Rodrigo Spotify FC Barcelona El Clasico kit promo banner with the butterfly logo Spotify and FC Barcelona crest" style="width: 100%; max-width: 100%; border-radius: 10px;" />
+<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-kit-butterfly-logo.jpg" alt="Olivia Rodrigo wearing the FC Barcelona El Clasico kit with the yellow butterfly logo on the chest for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />
 
 ### Coldplay on the FC Barcelona El Clasico Kit, October 26, 2024
 
@@ -78,7 +78,7 @@ The FC Barcelona Spotify artist takeover started as a single one-off Drake kit i
 
 The Olivia Rodrigo kit is the eighth and youngest entry in the program, a 23-year-old American pop star joining a list that already includes the biggest active artists in hip-hop, Latin music, rock, and now teen-leaning pop. The Spotify-Barcelona partnership is locked in through 2030, with the Spotify Camp Nou naming deal extending to 2034, so expect more artist takeovers across the next four La Liga seasons. The Rodrigo butterfly is a soft-pop entry that contrasts visually against the harder-edged Drake OVO owl, Travis Scott Cactus Jack, and Rolling Stones tongue marks that came before, the program now spanning a full decade of music genres on the Barcelona Clasico jersey.
 
-<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg" alt="Olivia Rodrigo from behind wearing the personalized FC Barcelona El Clasico kit with RODRIGO 21 on the back of the Nike home jersey" style="width: 100%; max-width: 100%; border-radius: 10px;" />
+<img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-spotify-fc-barcelona-promo.jpg" alt="Olivia Rodrigo Spotify FC Barcelona El Clasico kit promo banner with the butterfly logo Spotify and FC Barcelona crest closing out the 2026 jersey takeover" style="width: 100%; max-width: 100%; border-radius: 10px;" />
 
 ## ColorWay Sports Take on the Olivia Rodrigo FC Barcelona Kit
 
