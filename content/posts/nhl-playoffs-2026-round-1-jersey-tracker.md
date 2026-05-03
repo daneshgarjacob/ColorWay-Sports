@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
-updatedDate: "2026-05-01"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker updated through Friday Game 6 with three primary-home closeout matchups: Lightning at Canadiens, Sabres at Bruins, Knights at Mammoth. Every uniform graded with post-game records."
+updatedDate: "2026-05-02"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker updated through Friday Game 6 with Sabres and Golden Knights closing out 4-2 to advance to Round 2 and Lightning forcing a Game 7 at Amalie Arena against the Canadiens. Every primary sweater matchup graded with post-game records."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 85%"
@@ -141,7 +141,7 @@ Below, every matchup graded, newest first. Jump to any section with the links ab
 
 ## Round 1 Game 6 Matchups
 
-Friday adds three more Game 6 elimination matchups to Round 1, all primary-home setups across the Eastern and Western brackets. Montreal hosts Tampa Bay at Bell Centre with a closeout chance up 3-2, the Canadiens back in their iconic red home sweater against Lightning road whites for the third game in this exact combination, the same matchup that earned a 9 in Games 3 and 4. Boston hosts Buffalo at TD Garden facing elimination at home, the Bruins back in primary black home against Sabres road whites for the third game in this exact combination, the same matchup that earned an 8 in Games 3 and 4. Utah hosts Vegas at Delta Center facing elimination at home, the Mammoth back in primary black home against Knights road whites for the third game in this combination, the same matchup that earned a 7 in Games 3 and 4. Friday averages 8 out of 10 across the three games. We will update post-game records tomorrow morning.
+Friday delivered three more Game 6 elimination matchups to Round 1, all primary-home setups, with two series wrapping and one pushed to Game 7. Montreal hosted Tampa Bay at Bell Centre with a closeout chance up 3-2, the Canadiens back in iconic red home against Lightning road whites for the same 9 out of 10 grade as Games 3 and 4, but Tampa stole Game 6 to force a Game 7 at Amalie Arena with the series tied 3-3. Boston hosted Buffalo at TD Garden facing elimination, the Bruins in primary black home against Sabres road whites for the same 8 out of 10 grade as Games 3 and 4, and Buffalo closed out the series 4-2 in Boston to advance to Round 2 with the Sabres road whites finishing 3-0. Utah hosted Vegas at Delta Center facing elimination, the Mammoth in primary black home against Knights road whites for the same 7 out of 10 grade as Games 3 and 4, and Vegas closed out the series 4-2 in Salt Lake to advance to Round 2. Friday averaged 8 out of 10 across the three games.
 
 Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted Dallas at Xcel Energy Center and closed out the series 4-2, the Wild back in the green primary against Stars road whites for the third game in this exact uniform combination. Anaheim hosted Edmonton at Honda Center and closed out 4-2, the Ducks back in their iconic orange home against Oilers road whites for the third game in this combination, the same look that earned a 9 in Games 3 and 4. Pittsburgh visited Philadelphia on Wednesday for the first Game 6 of the round, the Flyers ran back the orange home sweater against Penguins road whites and the third perfect 10 in this combination closed the series 4-2 Philadelphia.
 
@@ -149,12 +149,12 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
 
 <div style="background: linear-gradient(135deg, #1a0505 0%, #080202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Lightning Force Game 7</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
       <img src="/images/jerseys/nhl/lightning-white.png" alt="Tampa Bay Lightning white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -162,7 +162,7 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-2</span>
       <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens red home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
@@ -174,18 +174,18 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-Canadiens red home sweater against Lightning white road uniform, the same matchup as Games 3 and 4 of this series and the same 9 out of 10 grade. Habs red is one of the most recognizable sweaters in pro sports and Tampa whites pop on the Bell Centre broadcast. Montreal one win from closing out the series 4-2 at Bell Centre, Tampa Bay facing elimination on the road.
+Canadiens red home sweater against Lightning white road uniform, the same matchup as Games 3 and 4 of this series and the same 9 out of 10 grade. Habs red is one of the most recognizable sweaters in pro sports and Tampa whites pop on the Bell Centre broadcast. Tampa Bay stole Game 6 in Montreal to force a Game 7 back at Amalie Arena with the series tied 3-3.
 
 ### Game 6: Buffalo Sabres at Boston Bruins
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #080808 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #003087 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #003087 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Sabres Win 4-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-0</span>
       <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -193,7 +193,7 @@ Canadiens red home sweater against Lightning white road uniform, the same matchu
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-3</span>
       <img src="/images/jerseys/nhl/bruins-black.png" alt="Boston Bruins black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
@@ -205,18 +205,18 @@ Canadiens red home sweater against Lightning white road uniform, the same matchu
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
 </div>
 
-Bruins black home sweater against Sabres white road uniform, the same matchup as Games 3 and 4 of this series and the same 8 out of 10 grade. Buffalo one win from closing out the series 4-2 at TD Garden, Boston facing elimination at home in primary black.
+Bruins black home sweater against Sabres white road uniform, the same matchup as Games 3 and 4 of this series and the same 8 out of 10 grade. Buffalo closed out the series 4-2 at TD Garden to advance to Round 2, the Sabres road whites finishing 3-0 in this series.
 
 ### Game 6: Vegas Golden Knights at Utah Mammoth
 
 <div style="background: linear-gradient(135deg, #0a0a14 0%, #050508 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B9975B 0%, #71AFE5 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B9975B 0%, #71AFE5 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 6 · Knights Win 4-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-1</span>
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
@@ -224,7 +224,7 @@ Bruins black home sweater against Sabres white road uniform, the same matchup as
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 6 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-2</span>
       <img src="/images/jerseys/nhl/mammoth-black.png" alt="Utah Mammoth black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
@@ -236,7 +236,7 @@ Bruins black home sweater against Sabres white road uniform, the same matchup as
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 7 / 10</p>
 </div>
 
-Mammoth black home sweater against Vegas white road uniform, the same matchup as Games 3 and 4 of this series and the same 7 out of 10 grade. Mammoth black-and-blue against Vegas whites delivers the broadcast contrast that the Vegas gold home sweater never quite hit in Games 1 and 2. Vegas one win from closing out the series 4-2 at Delta Center, Utah facing elimination at home.
+Mammoth black home sweater against Vegas white road uniform, the same matchup as Games 3 and 4 of this series and the same 7 out of 10 grade. Mammoth black-and-blue against Vegas whites delivers the broadcast contrast that the Vegas gold home sweater never quite hit in Games 1 and 2. Vegas closed out the series 4-2 at Delta Center to advance to Round 2, Utah eliminated at home.
 
 ### Game 6: Dallas Stars at Minnesota Wild
 
