@@ -200,7 +200,7 @@ Sunday's Round 1 closes with two winner-take-all Game 7s and both home teams are
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Little Caesars Arena · Detroit · Winner Take All</p>
 </div>
 
-Pistons Association Edition whites at home for the seventh straight game against the Magic finally pulling the Icon Edition blue road jersey debut, the textbook playoff white-versus-color matchup we score top of the scale. Detroit's home whites are the cleanest look in the Eastern Conference with the Pistons red and royal blue accents on a crisp white base, and Orlando's Icon blue is one of the most underrated road uniforms in the league with the iconic Magic pinstripes finally getting playoff air time. After six straight Statement black road wears the Magic flip to their primary blue identity for a Game 7, two iconic Eastern Conference looks at full strength on a winner-take-all night, no Statement black detour and no throwback debate, just both teams in the right uniform for the moment. Ten out of 10. Detroit playoff basketball at Little Caesars Arena on its biggest night and the Magic in the right road jersey to match it.
+Pistons Association Edition white home jersey against Magic Icon Edition blue road uniform debut, the textbook playoff white-versus-color matchup we score top of the scale. Detroit running back the Association whites for the seventh straight game and Orlando finally flipping to the primary Icon blue road jersey after six Statement black wears, both teams in the right uniform for a winner-take-all Game 7 at Little Caesars Arena. Ten out of 10.
 
 ### Game 7: Toronto Raptors at Cleveland Cavaliers
 
@@ -242,7 +242,7 @@ Pistons Association Edition whites at home for the seventh straight game against
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Winner Take All</p>
 </div>
 
-Cavs Statement Edition black at home for the first time this postseason against the Raptors Icon Edition red on the road, and we just do not buy a black home call for a Game 7 at Rocket Mortgage Fieldhouse. The Cavs have one of the cleanest Association whites in the league and a Classic throwback blue with real LeBron-era equity, and yet for the biggest game of the round Cleveland is going to a Statement Edition black that nods to a 2000s LeBron alternate without committing to the throwback identity. The Raptors Icon red on the road is at least a primary franchise color that gives the matchup color-on-color contrast, and we have always preferred Toronto in red over their Statement black, but red against black does not give the broadcast much visual separation and the home-team-in-black-at-home call still flips the playoff white-versus-color standard. Two out of 10. Cleveland's third different home jersey of the series and the wrong one for a winner-take-all night, two more points if the Cavs had run back their Game 5 Association whites or the Game 1 and 2 Classic throwback blues.
+Cavs Statement Edition black home jersey against Raptors Icon Edition red road uniform, Cleveland's third different home jersey this series and the wrong one for a winner-take-all Game 7 at Rocket Mortgage Fieldhouse. Black at home flips the playoff white-versus-color standard and red against black gives the broadcast almost no visual separation, two more points if the Cavs had run back their Game 5 Association whites. Two out of 10.
 
 <span id="saturday-game-7"></span>
 
@@ -290,7 +290,7 @@ Saturday's only Round 1 game is Game 7 of the Sixers and Celtics at TD Garden, a
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">TD Garden · Boston · Winner Take All</p>
 </div>
 
-Same uniform matchup as Game 2 of this series, same 3 out of 10 grade. Boston in Icon Edition green at home with the Sixers in Association Edition whites on the road flips the playoff white-versus-color standard, the home-team-in-color-and-road-team-in-white inversion we flagged in Game 2 and have not changed our mind on for Game 7. The Celtics could have run back the perfect 10 Association whites from Game 1, and Philadelphia was never going to wear the Icon Edition royal blues we wanted to see again on the road after the Game 1 grade. Boston Icon green is the franchise's signature playoff visual and absolutely belongs in the conversation, just not at home in a Game 7 when the iconic Celtics Association whites on the parquet are right there.
+Celtics Icon Edition green home jersey against Sixers Association Edition white road uniform, the same matchup as Game 2 of this series and the same 3 out of 10 grade. Boston in Icon green at home flips the playoff white-versus-color standard for a winner-take-all Game 7 at TD Garden, two more points if the Celtics had run back the perfect 10 Association whites from Game 1.
 
 <span id="friday-late"></span>
 
