@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-01"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Friday Game 6 adds Magic black t-shirts, Raptors white towels, and Rockets red t-shirts in three closeout matchups."
+updatedDate: "2026-05-02"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Saturday Game 7 adds Celtics white t-shirts at TD Garden against the Sixers in the winner-take-all Round 1 closer."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Saturday Round 1 Game 7 Giveaway
+
+Boston hosts Philadelphia at TD Garden for the winner-take-all Round 1 Game 7 and the Celtics commit to a clean white t-shirt takeover at every seat for the deciding night.
+
+### Boston Celtics · White T-Shirts · Game 7 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CelticsCLNS/status/2050679747198267526"></a></blockquote>
+</div>
+
+Boston hands out white t-shirts at every TD Garden seat for the winner-take-all Game 7 against the Sixers, paired with the Celtics Icon Edition green home jerseys for a bright white-on-broadcast crowd against the iconic Boston green. White lights up the parquet and the entire lower bowl in coordinated shirts is the high-ceiling crowd format every playoff home team should be running on a Game 7. A-.
 
 ## Friday Round 1 Game 6 Giveaways
 
