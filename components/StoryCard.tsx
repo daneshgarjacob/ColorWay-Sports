@@ -42,11 +42,11 @@ export default function StoryCard({
     : null;
   const datePrefix = updatedDate ? "Updated " : "";
   return (
-    <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 border border-[#e5e7eb]/60">
+    <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1">
       {/* Gradient image area */}
       <Link href={`/stories/${slug}`}>
         <div
-          className="h-[200px] flex items-center justify-center relative overflow-hidden group"
+          className="aspect-[3/2] flex items-center justify-center relative overflow-hidden group"
           style={{ background: (coverImageFit === "contain" || !coverImage) ? gradient : undefined }}
         >
           {coverImage ? (
@@ -88,9 +88,9 @@ export default function StoryCard({
       </Link>
 
       {/* Card body */}
-      <div className="p-5">
+      <div className="p-6">
         <div className="flex items-center gap-2">
-          <span className="text-[11px] font-semibold uppercase tracking-wider text-orange">
+          <span className="text-[11px] font-semibold uppercase tracking-widest text-orange">
             {category}
           </span>
           {showDate && formattedDate && (
@@ -100,7 +100,7 @@ export default function StoryCard({
             </>
           )}
         </div>
-        <h3 className="mt-1.5">
+        <h3 className="mt-2.5">
           <Link
             href={`/stories/${slug}`}
             className="text-lg font-bold text-blue-dark hover:text-orange transition-colors duration-200 leading-snug"
@@ -108,7 +108,7 @@ export default function StoryCard({
             {title}
           </Link>
         </h3>
-        <p className="mt-2 text-sm text-gray-medium leading-relaxed">
+        <p className="mt-2.5 text-sm text-gray-medium leading-relaxed">
           {excerpt}
         </p>
       </div>
