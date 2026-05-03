@@ -11,6 +11,7 @@ teams: []
 ---
 
 <img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg" alt="Olivia Rodrigo from behind wearing the personalized FC Barcelona El Clasico kit with RODRIGO 21 on the back of the Nike home jersey for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.75em; margin-bottom: 2.5em;">All images via <a href="https://twitter.com/FCBarcelona" style="color: #999;">@FCBarcelona</a> on X</p>
 
 FC Barcelona just dropped the eighth El Clasico jersey takeover from Spotify, and this one belongs to Olivia Rodrigo. A yellow butterfly logo built from the singer's initials replaces the Spotify wordmark on the front of Barcelona's iconic red-and-blue Nike home kit for the May 10 Clasico against Real Madrid at Spotify Camp Nou, with the women's team getting first wear in their May 6 Liga F match against Levante UD. At 23 years old Rodrigo is the youngest artist ever placed on the Barcelona shirt, joining a list that runs Drake, Rosalia, the Rolling Stones, Karol G, Coldplay, Travis Scott, and most recently Ed Sheeran for last October's Clasico against Madrid.
 
