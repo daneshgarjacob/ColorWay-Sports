@@ -2,14 +2,14 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-01"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs Round 1 crowd giveaway graded. Friday Game 6 adds Canadiens white towels, Bruins yellow towels, and Mammoth white towels plus LED wristbands."
+updatedDate: "2026-05-02"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Saturday opens Round 2 with Hurricanes white rally towels at Lenovo Center for Game 1 against the Flyers."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
-teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth"]
+teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth", "carolina-hurricanes"]
 ---
 
 <img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Saturday Round 2 Game 1 Giveaway
+
+Round 2 opens Saturday in the Eastern Conference with the Hurricanes hosting the Flyers at Lenovo Center, Carolina running a white rally towel takeover for the Round 2 series opener.
+
+### Carolina Hurricanes · White Rally Towels · Round 2 Game 1 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2050599540818907617"></a></blockquote>
+</div>
+
+Carolina hands out white rally towels at every Lenovo Center seat for the Round 2 Game 1 against the Flyers, paired with the Hurricanes black home alternate sweater for a clean white-on-black broadcast contrast. White towels read sharp against the dark Carolina alternate and the towel format earns the bump above no-giveaway nights, but rally towels never hit the visual ceiling of a coordinated t-shirt takeover. C+. The white-towel commitment beats a no-color crowd, the towel ceiling caps it from going higher.
 
 ## Friday Round 1 Game 6 Giveaways
 
