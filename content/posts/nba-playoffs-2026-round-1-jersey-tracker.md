@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-updatedDate: "2026-05-02"
-excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker updated through Sunday Game 7 with Magic at Pistons and Raptors at Cavaliers graded for the winner-take-all closers, Sixers at Celtics live tonight at TD Garden, Lakers closed Round 1 in Houston."
+updatedDate: "2026-05-04"
+excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker closed out with Sunday Game 7 results: Pistons beat Magic 4-3 in Detroit and Cavaliers beat Raptors 4-3 in Cleveland to advance to Round 2, Sixers beat Celtics 4-3 in Boston, Lakers closed Round 1 over Houston, every Round 1 jersey and uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png"
 coverImagePosition: "center center"
@@ -158,18 +158,18 @@ Below, every matchup graded, newest first. Jump to any night with the links abov
 
 ## Sunday Night Game 7 Matchups
 
-Sunday's Round 1 closes with two winner-take-all Game 7s and both home teams are committing to a hard split on the playoff white-versus-color standard. Detroit hosts Orlando at Little Caesars Arena and runs back the Association Edition whites for the seventh straight game, the only team in either bracket fully committed to one uniform start to finish, while the Magic finally pull out the Icon Edition blue road jersey for the first time this series after six straight Statement black road wears. Cleveland hosts Toronto at Rocket Mortgage Fieldhouse and goes Statement Edition black at home for the first time this postseason, the third different home jersey we will have seen the Cavs wear in this series, with Toronto in their familiar Icon Edition red on the road for the third straight matchup. Sunday averages 6 out of 10 across the two games on the strength of a perfect Detroit-Orlando matchup balanced against a Cleveland home black call we are not buying.
+Sunday's Round 1 closeout brought two winner-take-all Game 7s and both home teams committed to a hard split on the playoff white-versus-color standard. Detroit hosted Orlando at Little Caesars Arena and ran back the Association Edition whites for the seventh straight game, the only team in either bracket fully committed to one uniform start to finish, with the Magic finally pulling out the Icon Edition blue road jersey for the first time this series after six straight Statement black road wears. The Pistons closed the series 4-3 at home to advance to Round 2, the textbook playoff white-versus-color matchup we score top of the scale. Cleveland hosted Toronto at Rocket Mortgage Fieldhouse and went Statement Edition black at home for the first time this postseason, the third different home jersey we saw the Cavs wear in this series, with Toronto in their familiar Icon Edition red on the road for the third straight matchup. The Cavaliers closed the series 4-3 at home to advance to Round 2, the wrong-color black-at-home call still earning a 2 out of 10 even on a winning night. Sunday averaged 6 out of 10 across the two Game 7s on the strength of a perfect Detroit-Orlando matchup balanced against a Cleveland home black call we are not buying.
 
 ### Game 7: Orlando Magic at Detroit Pistons
 
 <div style="background: linear-gradient(135deg, #2d3a55 0%, #141a26 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Tomorrow</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #1D428A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Pistons Win Series 4-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/magic-icon-blue.png" alt="Orlando Magic Icon Edition blue road jersey and uniform debut for 2026 NBA Playoffs Round 1 Game 7 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ORLANDO MAGIC</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
@@ -177,7 +177,7 @@ Sunday's Round 1 closes with two winner-take-all Game 7s and both home teams are
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 7 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-3</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 4-3</span>
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white home jersey for 2026 NBA Playoffs Round 1 Game 7 vs Orlando Magic" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -194,24 +194,24 @@ Sunday's Round 1 closes with two winner-take-all Game 7s and both home teams are
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 7</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 3, 2026 · Winner Take All</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 3, 2026 · Pistons Win Series 4-3</p>
   </div>
   <img src="/images/courts/nba/pistons-home.png" alt="Little Caesars Arena Detroit Pistons home court for 2026 NBA Playoffs Round 1 Game 7 vs Orlando Magic" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Little Caesars Arena · Detroit · Winner Take All</p>
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Little Caesars Arena · Detroit · Pistons Win Series 4-3</p>
 </div>
 
-Pistons Association Edition white home jersey against Magic Icon Edition blue road uniform debut, the textbook playoff white-versus-color matchup we score top of the scale. Detroit running back the Association whites for the seventh straight game and Orlando finally flipping to the primary Icon blue road jersey after six Statement black wears, both teams in the right uniform for a winner-take-all Game 7 at Little Caesars Arena. Ten out of 10.
+Pistons Association Edition white home jersey against Magic Icon Edition blue road uniform debut, the textbook playoff white-versus-color matchup we score top of the scale. Detroit running back the Association whites for the seventh straight game and Orlando finally flipping to the primary Icon blue road jersey after six Statement black wears, both teams in the right uniform for a winner-take-all Game 7 at Little Caesars Arena. Detroit closed the series 4-3 at home to advance to Round 2, the Pistons winning the deciding game in the right-color Association whites against Orlando's Icon blue debut. Ten out of 10.
 
 ### Game 7: Toronto Raptors at Cleveland Cavaliers
 
 <div style="background: linear-gradient(135deg, #1a0612 0%, #2a0a14 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CE1141 0%, #860038 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Tomorrow</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CE1141 0%, #860038 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Cavaliers Win Series 4-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-3</span>
       <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red road jersey for 2026 NBA Playoffs Round 1 Game 7 at Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TORONTO RAPTORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Red</p>
@@ -219,7 +219,7 @@ Pistons Association Edition white home jersey against Magic Icon Edition blue ro
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-2</span>
       <img src="/images/jerseys/nba/cavs-statement-black.png" alt="Cleveland Cavaliers Statement Edition black home jersey worn at home for 2026 NBA Playoffs Round 1 Game 7 vs Toronto Raptors" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
@@ -236,30 +236,30 @@ Pistons Association Edition white home jersey against Magic Icon Edition blue ro
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 7</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 3, 2026 · Winner Take All</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 3, 2026 · Cavaliers Win Series 4-3</p>
   </div>
   <img src="/images/courts/nba/cavs-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers primary home court for 2026 NBA Playoffs Round 1 Game 7 vs Toronto Raptors" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Winner Take All</p>
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Cavaliers Win Series 4-3</p>
 </div>
 
-Cavs Statement Edition black home jersey against Raptors Icon Edition red road uniform, Cleveland's third different home jersey this series and the wrong one for a winner-take-all Game 7 at Rocket Mortgage Fieldhouse. Black at home flips the playoff white-versus-color standard and red against black gives the broadcast almost no visual separation, two more points if the Cavs had run back their Game 5 Association whites. Two out of 10.
+Cavs Statement Edition black home jersey against Raptors Icon Edition red road uniform, Cleveland's third different home jersey this series and the wrong one for a winner-take-all Game 7 at Rocket Mortgage Fieldhouse. Black at home flips the playoff white-versus-color standard and red against black gives the broadcast almost no visual separation, two more points if the Cavs had run back their Game 5 Association whites. Cleveland closed the series 4-3 at home to advance to Round 2, the Cavaliers winning the deciding game in the wrong-color Statement black against Toronto's Icon red. Two out of 10.
 
 <span id="saturday-game-7"></span>
 
 ## Saturday Night Game 7 Matchup
 
-Saturday's only Round 1 game is Game 7 of the Sixers and Celtics at TD Garden, and Boston pulls the Icon Edition green at home with Philadelphia in Association Edition white on the road, the same uniform pairing we saw in Game 2 of this series for a 3 out of 10 grade. Boston's Icon green is the franchise's signature playoff visual and one of the most iconic looks in basketball, but it is the Celtics' road jersey, and wearing it at home flips the playoff white-versus-color standard for the biggest game of the round. Philadelphia in road whites only doubles down on the inverted home-and-road logic, the same backwards setup we flagged in Game 2. The Celtics' Association whites on the parquet earned a perfect 10 in Game 1, and pulling them out for a Game 7 would have been the right call. Three out of 10.
+Saturday's only Round 1 game was Game 7 of the Sixers and Celtics at TD Garden, and Boston pulled the Icon Edition green at home with Philadelphia in Association Edition white on the road, the same uniform pairing we saw in Game 2 of this series for a 3 out of 10 grade. Boston's Icon green is the franchise's signature playoff visual and one of the most iconic looks in basketball, but it is the Celtics' road jersey, and wearing it at home flips the playoff white-versus-color standard for the biggest game of the round. Philadelphia in road whites only doubles down on the inverted home-and-road logic, the same backwards setup we flagged in Game 2. The Celtics' Association whites on the parquet earned a perfect 10 in Game 1, and pulling them out for a Game 7 would have been the right call. Three out of 10. Philadelphia stunned Boston on the road in Game 7 to close out the series 4-3 and advance to Round 2, the Sixers winning the deciding game in the wrong-color Association whites at TD Garden.
 
 ### Game 7: Philadelphia 76ers at Boston Celtics
 
 <div style="background: linear-gradient(135deg, #1a3a2d 0%, #0a1c14 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007A33 0%, #ED174C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007A33 0%, #ED174C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 1 · Game 7 · Sixers Win Series 4-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-1</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 4-1</span>
       <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white road jersey for 2026 NBA Playoffs Round 1 Game 7 at Boston Celtics" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -267,7 +267,7 @@ Saturday's only Round 1 game is Game 7 of the Sixers and Celtics at TD Garden, a
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 7 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-3</span>
       <img src="/images/jerseys/nba/celtics-icon-green.png" alt="Boston Celtics Icon Edition green home jersey worn at home for 2026 NBA Playoffs Round 1 Game 7 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON CELTICS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Green</p>
@@ -284,13 +284,13 @@ Saturday's only Round 1 game is Game 7 of the Sixers and Celtics at TD Garden, a
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 1 · Game 7</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 2, 2026 · Winner Take All</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 2, 2026 · Sixers Win Series 4-3</p>
   </div>
   <img src="/images/courts/nba/celtics-home.png" alt="TD Garden Boston Celtics home court for 2026 NBA Playoffs Round 1 Game 7 vs Philadelphia 76ers" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">TD Garden · Boston · Winner Take All</p>
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">TD Garden · Boston · Sixers Win Series 4-3</p>
 </div>
 
-Celtics Icon Edition green home jersey against Sixers Association Edition white road uniform, the same matchup as Game 2 of this series and the same 3 out of 10 grade. Boston in Icon green at home flips the playoff white-versus-color standard for a winner-take-all Game 7 at TD Garden, two more points if the Celtics had run back the perfect 10 Association whites from Game 1.
+Celtics Icon Edition green home jersey against Sixers Association Edition white road uniform, the same matchup as Game 2 of this series and the same 3 out of 10 grade. Boston in Icon green at home flips the playoff white-versus-color standard for a winner-take-all Game 7 at TD Garden, two more points if the Celtics had run back the perfect 10 Association whites from Game 1. Philadelphia took Game 7 on the road in the Association whites to close out the series 4-3 and advance to Round 2, the rare road Game 7 win in the wrong-color Sunday white-versus-color standard.
 
 <span id="friday-late"></span>
 
