@@ -1,8 +1,9 @@
 ---
-title: "Pac-12 New Logo 2026: Conference Reveals Bold Rebrand After Realignment"
+title: "The 2026 Pac-12: All 9 Schools, the Football Lineup, and the New Conference Logo"
 category: "College"
 date: "2026-04-27"
-excerpt: "The Pac-12 just dropped a new logo for 2026. We grade the rebrand and show how every team rolled out the mark in their own colors."
+updatedDate: "2026-05-06"
+excerpt: "The 2026 Pac-12 has nine schools after realignment: Oregon State, Washington State, Boise State, Colorado State, Fresno State, San Diego State, Texas State, Utah State, and Gonzaga. We break down the football lineup, every team's reaction, and the new conference logo."
 gradient: "linear-gradient(135deg, #2C3340 0%, #1A2030 100%)"
 league: "ncaa"
 teams: []
@@ -13,6 +14,8 @@ coverImageFit: "contain"
 
 <img src="/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.png" alt="Pac-12 conference old logo with blue shield and waves on the left vs new white-only shield logo with mountain and 12 in a circle on the right for the 2026 rebrand" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Logos via <a href="https://twitter.com/pac12" style="color:#999; text-decoration: underline;">@Pac12</a></p>
+
+The 2026 Pac-12 has nine schools after realignment: Oregon State, Washington State, Boise State, Colorado State, Fresno State, San Diego State, Texas State, Utah State, and Gonzaga. Eight of the nine play FBS football. Gonzaga is the basketball-only addition. The conference also unveiled a new white-only shield logo in April 2026 to fit the rebuilt footprint. Here is the full breakdown of the rebuilt Pac-12, the football lineup, the school-by-school reaction, and the new conference logo grade.
 
 The Pac-12 unveiled a new conference logo this week, the first major piece of visual identity work since the post-realignment rebuild. The old shield with the blue cresting wave and the bold blue 12 has been replaced by a stripped-down white-only shield with a cleaner geometric A, a smaller circular 12, and the same mountain motif carried through in a more abstract form. It is the kind of redesign you do when you are starting over.
 
