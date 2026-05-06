@@ -21,7 +21,7 @@ The USA chant rolled through Rocket Mortgage Fieldhouse all night in Game 7. The
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true">
-    <a href="https://x.com/camijustice/status/2051113061679825299"></a>
+    <a href="https://twitter.com/camijustice/status/2051113061679825299"></a>
   </blockquote>
 </div>
 
@@ -31,13 +31,13 @@ Then came the Free Bird call. Cleveland's in-arena DJ dropped the song late in t
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true">
-    <a href="https://x.com/MrBuckBuckNBA/status/2051132094424760727"></a>
+    <a href="https://twitter.com/MrBuckBuckNBA/status/2051132094424760727"></a>
   </blockquote>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true">
-    <a href="https://x.com/BrickCenter_/status/2051137139451289636"></a>
+    <a href="https://twitter.com/BrickCenter_/status/2051137139451289636"></a>
   </blockquote>
 </div>
 
