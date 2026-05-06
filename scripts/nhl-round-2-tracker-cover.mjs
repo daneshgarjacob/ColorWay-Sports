@@ -8,11 +8,11 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const NBA_LOGO_SVG = resolve(__dirname, "../public/logos/nba.svg");
+const NHL_LOGO = resolve(__dirname, "../public/logos/NHL.png");
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
+  "../public/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 );
 
 const WIDTH = 1600;
@@ -23,36 +23,36 @@ async function build() {
   <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#2a6fc8"/>
-        <stop offset="50%" stop-color="#1f56b8"/>
-        <stop offset="100%" stop-color="#3a7fd8"/>
+        <stop offset="0%" stop-color="#0d0d0d"/>
+        <stop offset="50%" stop-color="#1a1a1a"/>
+        <stop offset="100%" stop-color="#0a0a0a"/>
       </linearGradient>
       <radialGradient id="glow" cx="50%" cy="42%" r="55%">
-        <stop offset="0%" stop-color="#5b9fff" stop-opacity="0.45"/>
-        <stop offset="60%" stop-color="#5b9fff" stop-opacity="0"/>
+        <stop offset="0%" stop-color="#A2AAAD" stop-opacity="0.35"/>
+        <stop offset="60%" stop-color="#A2AAAD" stop-opacity="0"/>
       </radialGradient>
     </defs>
     <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#bg)"/>
     <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#glow)"/>
-    <rect x="0" y="0" width="${WIDTH}" height="6" fill="#C8102E"/>
-    <rect x="0" y="${HEIGHT - 6}" width="${WIDTH}" height="6" fill="#C8102E"/>
+    <rect x="0" y="0" width="${WIDTH}" height="6" fill="#A2AAAD"/>
+    <rect x="0" y="${HEIGHT - 6}" width="${WIDTH}" height="6" fill="#A2AAAD"/>
   </svg>`;
 
   const textSvg = `
   <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
     <style>
-      .eyebrow { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #FF5910; letter-spacing: 12px; }
+      .eyebrow { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #A2AAAD; letter-spacing: 8px; }
       .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -2px; }
       .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.85; letter-spacing: 4px; }
     </style>
-    <text x="${WIDTH / 2}" y="195" text-anchor="middle" class="eyebrow" font-size="32">2026 NBA PLAYOFFS</text>
+    <text x="${WIDTH / 2}" y="195" text-anchor="middle" class="eyebrow" font-size="28">2026 NHL STANLEY CUP PLAYOFFS</text>
     <text x="${WIDTH / 2}" y="640" text-anchor="middle" class="title" font-size="120">ROUND 2</text>
     <text x="${WIDTH / 2}" y="740" text-anchor="middle" class="title" font-size="78">Jersey Tracker</text>
     <text x="${WIDTH / 2}" y="800" text-anchor="middle" class="subtitle" font-size="22">EVERY MATCHUP GRADED</text>
   </svg>`;
 
-  const logoBuf = await readFile(NBA_LOGO_SVG);
-  const logoPng = await sharp(logoBuf, { density: 600 })
+  const logoBuf = await readFile(NHL_LOGO);
+  const logoPng = await sharp(logoBuf)
     .resize(280, 280, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
     .png()
     .toBuffer();

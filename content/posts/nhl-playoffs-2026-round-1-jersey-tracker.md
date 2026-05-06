@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-04-21"
-updatedDate: "2026-05-02"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker updated through Friday Game 6 with Sabres and Golden Knights closing out 4-2 to advance to Round 2 and Lightning forcing a Game 7 at Amalie Arena against the Canadiens. Every primary sweater matchup graded with post-game records."
+updatedDate: "2026-05-05"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker complete. Canadiens beat Lightning 4-3 in Game 7 at Amalie Arena to close out the final series of Round 1. Every primary sweater matchup graded with final records."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
 coverImagePosition: "center 85%"
@@ -100,6 +100,8 @@ reviews:
     rating: 5
   - name: "Montreal Canadiens at Tampa Bay Lightning Round 1 Game 5 Jerseys"
     rating: 5
+  - name: "Montreal Canadiens at Tampa Bay Lightning Round 1 Game 7 Jerseys"
+    rating: 5
   - name: "Ottawa Senators at Carolina Hurricanes Round 1 Game 1 Jerseys"
     rating: 4
   - name: "Ottawa Senators at Carolina Hurricanes Round 1 Game 2 Jerseys"
@@ -115,7 +117,8 @@ Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, u
 <div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <a href="#game-6" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Game 6s</a>
+    <a href="#game-7" style="padding: 6px 14px; background: rgba(255,89,16,0.15); border-radius: 999px; color: #FF5910; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(255,89,16,0.3);">Game 7</a>
+    <a href="#game-6" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 6s</a>
     <a href="#game-5" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 5s</a>
     <a href="#game-4" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 4s</a>
     <a href="#game-3" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">Game 3s</a>
@@ -127,21 +130,58 @@ Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, u
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Average Scores</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.5 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.4 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 1 Home Teams in Primary Sweaters</span>
-  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">32 / 36 (89%)</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">33 / 37 (89%)</span>
 </div>
 
 Below, every matchup graded, newest first. Jump to any section with the links above.
+
+<span id="game-7"></span>
+
+## Round 1 Game 7
+
+Sunday delivered the only Game 7 of Round 1 with Montreal visiting Tampa Bay at Amalie Arena for the winner-take-all series finale. Lightning blue at home against Canadiens road whites, the same matchup from Games 1, 2, and 5 at Amalie. Same 5 out of 10. Montreal stole Game 7 on the road in whites to close out the series 4-3 and complete the Round 1 bracket.
+
+### Game 7: Montreal Canadiens at Tampa Bay Lightning
+
+<div style="background: linear-gradient(135deg, #0f1a2e 0%, #05080f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 1 · Game 7 · Canadiens Win Series 4-3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 7 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-1</span>
+      <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 7 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 7 games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-3</span>
+      <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 7 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #fff;">Score: 5 / 10</p>
+</div>
+
+Lightning blue at home against Canadiens road whites, the fourth time this series ran back the same combination at Amalie Arena. Same matchup as Games 1, 2, and 5, same 5 out of 10. The Lightning blue is a clean primary but does not deliver the visual energy the Canadiens red generated every time the series was at Bell Centre, and Montreal whites read flat against the dark Tampa backdrop. Five out of 10. Montreal won Game 7 on the road to close the series 4-3 and advance to Round 2.
 
 <span id="game-6"></span>
 
 ## Round 1 Game 6 Matchups
 
-Friday delivered three more Game 6 elimination matchups to Round 1, all primary-home setups, with two series wrapping and one pushed to Game 7. Montreal hosted Tampa Bay at Bell Centre with a closeout chance up 3-2, the Canadiens back in iconic red home against Lightning road whites for the same 9 out of 10 grade as Games 3 and 4, but Tampa stole Game 6 to force a Game 7 at Amalie Arena with the series tied 3-3. Boston hosted Buffalo at TD Garden facing elimination, the Bruins in primary black home against Sabres road whites for the same 8 out of 10 grade as Games 3 and 4, and Buffalo closed out the series 4-2 in Boston to advance to Round 2 with the Sabres road whites finishing 3-0. Utah hosted Vegas at Delta Center facing elimination, the Mammoth in primary black home against Knights road whites for the same 7 out of 10 grade as Games 3 and 4, and Vegas closed out the series 4-2 in Salt Lake to advance to Round 2. Friday averaged 8 out of 10 across the three games.
+Friday delivered three more Game 6 elimination matchups to Round 1, all primary-home setups, with two series wrapping and one pushed to Game 7. Montreal hosted Tampa Bay at Bell Centre with a closeout chance up 3-2, the Canadiens back in iconic red home against Lightning road whites for the same 9 out of 10 grade as Games 3 and 4, but Tampa stole Game 6 to force a Game 7 at Amalie Arena. The Canadiens then won Game 7 at Tampa on Sunday to close the series 4-3 and advance to Round 2. Boston hosted Buffalo at TD Garden facing elimination, the Bruins in primary black home against Sabres road whites for the same 8 out of 10 grade as Games 3 and 4, and Buffalo closed out the series 4-2 in Boston to advance to Round 2 with the Sabres road whites finishing 3-0. Utah hosted Vegas at Delta Center facing elimination, the Mammoth in primary black home against Knights road whites for the same 7 out of 10 grade as Games 3 and 4, and Vegas closed out the series 4-2 in Salt Lake to advance to Round 2. Friday averaged 8 out of 10 across the three games.
 
 Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted Dallas at Xcel Energy Center and closed out the series 4-2, the Wild back in the green primary against Stars road whites for the third game in this exact uniform combination. Anaheim hosted Edmonton at Honda Center and closed out 4-2, the Ducks back in their iconic orange home against Oilers road whites for the third game in this combination, the same look that earned a 9 in Games 3 and 4. Pittsburgh visited Philadelphia on Wednesday for the first Game 6 of the round, the Flyers ran back the orange home sweater against Penguins road whites and the third perfect 10 in this combination closed the series 4-2 Philadelphia.
 
@@ -174,7 +214,7 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-Canadiens red home sweater against Lightning white road uniform, the same matchup as Games 3 and 4 of this series and the same 9 out of 10 grade. Habs red is one of the most recognizable sweaters in pro sports and Tampa whites pop on the Bell Centre broadcast. Tampa Bay stole Game 6 in Montreal to force a Game 7 back at Amalie Arena with the series tied 3-3.
+Canadiens red home sweater against Lightning white road uniform, the same matchup as Games 3 and 4 of this series and the same 9 out of 10 grade. Habs red is one of the most recognizable sweaters in pro sports and Tampa whites pop on the Bell Centre broadcast. Tampa Bay stole Game 6 in Montreal to force a Game 7 at Amalie Arena, but the Canadiens came back and won Game 7 on the road to close the series 4-3.
 
 ### Game 6: Buffalo Sabres at Boston Bruins
 
@@ -366,7 +406,7 @@ Monday tipped the first Game 5 of Round 1 with the Pens-Flyers elimination match
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center;">Score: 5 / 10</p>
 </div>
 
-Series flipped back to Amalie Arena and Tampa ran back the same blue primary that opened the series, with Montreal in road whites for the third game in this exact uniform combination. Same matchup as Games 1 and 2, same 5 grade. The Lightning blue is a clean primary but does not deliver the visual energy that the Canadiens red home generated in Games 3 and 4 at Bell Centre, and Habs whites against it read flat against the dark Tampa backdrop. Five out of 10. Montreal stole the swing-game Game 5 in Tampa to take a 3-2 series lead heading back to Bell Centre for the Game 6 closeout chance.
+Series flipped back to Amalie Arena and Tampa ran back the same blue primary that opened the series, with Montreal in road whites for the third game in this exact uniform combination. Same matchup as Games 1 and 2, same 5 grade. The Lightning blue is a clean primary but does not deliver the visual energy that the Canadiens red home generated in Games 3 and 4 at Bell Centre, and Habs whites against it read flat against the dark Tampa backdrop. Five out of 10. Montreal stole the swing-game Game 5 in Tampa to take a 3-2 series lead, setting up the Game 6 return to Bell Centre and ultimately a Game 7 the Canadiens won on the road to advance.
 
 ### Game 5: Utah Mammoth at Vegas Golden Knights
 
