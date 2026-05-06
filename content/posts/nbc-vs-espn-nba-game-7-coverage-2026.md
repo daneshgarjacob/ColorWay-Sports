@@ -4,14 +4,15 @@ category: "NBA"
 date: "2026-05-06"
 excerpt: "NBC carried Celtics-Sixers and Cavaliers-Raptors Game 7s in the 2026 NBA Round 1 closeouts. ABC had Magic-Pistons. We grade why NBC's broadcast outclassed ABC's coverage of the deciding games."
 gradient: "linear-gradient(135deg, #4b1fbf 0%, #1F8DD6 100%)"
-coverImage: "/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-celtics-sixers-g7-td-garden.jpg"
+coverImage: "/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-full-screen.jpg"
 coverImagePosition: "center center"
+coverImageFit: "contain"
 league: "nba"
 teams: []
 ---
 
-<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-celtics-sixers-g7-td-garden.jpg" alt="NBC's NBA Game 7 broadcast of Sixers at Celtics at TD Garden showing the Peacock-era scorebug, the green TD Garden parquet floor, and the playoff-uniform read of Boston in Association whites and Philadelphia in Icon royal blue" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">NBC's Celtics-Sixers Game 7 broadcast at TD Garden. Photo by ColorWay Sports.</p>
+<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-full-screen.jpg" alt="NBC's full-screen NBA Game 7 broadcast view of Sixers at Celtics at TD Garden showing the green parquet floor, the home Association whites versus the Philadelphia Icon royal blue road jersey, and the slim peacock-era scorebug that anchored NBC's closeout weekend coverage" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">NBC's full-screen broadcast view of Celtics-Sixers Game 7 at TD Garden. Photo by ColorWay Sports.</p>
 
 The 2026 NBA Round 1 closeout weekend put NBC and ABC head to head on three different Game 7s, and NBC won the production battle by a clean margin. NBC drew Celtics-Sixers at TD Garden on Saturday night and Cavaliers-Raptors at Rocket Mortgage Fieldhouse on Sunday afternoon. ABC drew Magic-Pistons at Little Caesars Arena on Sunday afternoon. All three series ended 4-3. NBC's broadcasts looked sharper from the open to the buzzer with cleaner graphics, more cinematic camera work, and a peacock-era studio package that has shown up better than ABC's NBA presentation through the entire 2026 postseason. ABC's Magic-Pistons Game 7 looked like a regular-season game.
 
@@ -31,12 +32,16 @@ NBC carried two of the three. ABC carried one. The split is partly a function of
 
 The Celtics-Sixers Game 7 at TD Garden was the loudest broadcast of the weekend. NBC opened with a cinematic cold open running game-by-game B-roll from the previous six matchups in the series, ran a scored voiceover through the through-line, and gave the broadcast room to breathe through the pre-game introductions before tip. The TD Garden parquet floor, the home Association whites versus the Philadelphia Icon royal blue, and the playoff lights treatment all read clean on the NBC graphics package.
 
-<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-full-screen.jpg" alt="NBC's full-screen NBA Game 7 broadcast view of Sixers at Celtics at TD Garden showing the green parquet floor, the home Association whites versus the Philadelphia Icon royal blue road jersey, and the slim peacock-era scorebug that anchored NBC's closeout weekend coverage" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's full-screen broadcast view of Celtics-Sixers Game 7 at TD Garden. Photo by ColorWay Sports.</p>
-
 Boston ran the home Association whites for the deciding game and Philadelphia ran the Icon Edition royal blue, the textbook white-versus-color matchup that graded a perfect 10 in the [2026 NBA Round 1 jersey tracker](/stories/nba-playoffs-2026-round-1-jersey-tracker). NBC's graphics package stayed out of the way of the basketball, the camera mix favored close cuts on key possessions, and the broadcast trusted the action to fill the frame. There is no heavy promo crawl through the action. There is no overloaded ribbon stack at the top of the screen.
 
-<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-scorebug.jpg" alt="NBC's NBA Game 7 scorebug detail from the Sixers at Celtics broadcast at TD Garden showing the slim low-profile bottom-of-screen treatment with score, time, period, and team marks all reading at a glance for the closeout weekend coverage" style="width: 100%; border-radius: 10px; margin: 2em 0 0.5em;" />
+<div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 2em 0 0.5em;">
+<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-celtics-sixers-g7-td-garden.jpg" alt="NBC NBA on Peacock Game 7 channel banner branding from the Sixers at Celtics broadcast at TD Garden showing the network identity that anchored the closeout weekend coverage" style="width: 100%; max-width: 600px; display: block; margin: 0 auto; border-radius: 6px;" />
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 channel banner during the Celtics-Sixers broadcast. Photo by ColorWay Sports.</p>
+
+<div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 2em 0 0.5em;">
+<img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-scorebug.jpg" alt="NBC's NBA Game 7 scorebug detail from the Sixers at Celtics broadcast at TD Garden showing the slim low-profile bottom-of-screen treatment with score, time, period, and team marks all reading at a glance for the closeout weekend coverage" style="width: 100%; display: block; border-radius: 6px;" />
+</div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 scorebug detail from the Celtics-Sixers broadcast. Photo by ColorWay Sports.</p>
 
 The NBC scorebug sits low on the screen, runs slim, and lets the basketball action carry the frame. The score, the time, the period, and the team marks all read on a quick glance. It is the same scorebug that has graded out as one of the cleaner national broadcast looks of 2026, ranked in our [NBA national broadcast scorebugs roundup](/stories/nba-national-broadcast-scorebugs-2026-ranked) and the [NBC NBA scorebug breakdown](/stories/nbc-nba-scorebug-2026). The broadcast cycles into the bumpers on a clean rhythm and lets the playoff stakes carry the air around the basketball.
@@ -70,13 +75,41 @@ The NBC broadcast advantage across the Celtics-Sixers and Cavaliers-Raptors wind
 
 ## The Grades
 
-| Broadcast | Network | Date | Grade |
-| --- | --- | --- | --- |
-| Sixers at Celtics G7 | NBC | Saturday | A |
-| Cavs at Raptors G7 | NBC | Sunday | A- |
-| Magic at Pistons G7 | ABC | Sunday | C+ |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 1.5em 0;">
 
-Average across the three: NBC A-, ABC C+.
+<div style="padding: 1.5em 1.25em; background: linear-gradient(135deg, rgba(75,31,191,0.08) 0%, rgba(31,141,214,0.08) 100%); border-radius: 12px; border: 1px solid rgba(75,31,191,0.2); text-align: center;">
+<p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.4em; color: #4b1fbf;">NBC · Saturday</p>
+<p style="font-size: 1em; font-weight: 700; margin: 0 0 0.75em; color: #222; line-height: 1.3;">Sixers at Celtics G7<br/>at TD Garden</p>
+<p style="font-size: 2.5em; font-weight: 900; margin: 0; color: #4b1fbf; line-height: 1;">A</p>
+</div>
+
+<div style="padding: 1.5em 1.25em; background: linear-gradient(135deg, rgba(75,31,191,0.08) 0%, rgba(31,141,214,0.08) 100%); border-radius: 12px; border: 1px solid rgba(75,31,191,0.2); text-align: center;">
+<p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.4em; color: #4b1fbf;">NBC · Sunday</p>
+<p style="font-size: 1em; font-weight: 700; margin: 0 0 0.75em; color: #222; line-height: 1.3;">Cavs at Raptors G7<br/>at Rocket Mortgage</p>
+<p style="font-size: 2.5em; font-weight: 900; margin: 0; color: #4b1fbf; line-height: 1;">A-</p>
+</div>
+
+<div style="padding: 1.5em 1.25em; background: rgba(0,0,0,0.04); border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); text-align: center;">
+<p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.4em; color: #888;">ABC · Sunday</p>
+<p style="font-size: 1em; font-weight: 700; margin: 0 0 0.75em; color: #222; line-height: 1.3;">Magic at Pistons G7<br/>at Little Caesars</p>
+<p style="font-size: 2.5em; font-weight: 900; margin: 0; color: #888; line-height: 1;">C+</p>
+</div>
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 1.5em 0;">
+
+<div style="padding: 1.25em; background: linear-gradient(135deg, #4b1fbf 0%, #1F8DD6 100%); border-radius: 12px; text-align: center;">
+<p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.5em; color: rgba(255,255,255,0.85);">NBC Network Average</p>
+<p style="font-size: 2em; font-weight: 900; margin: 0; color: #fff; line-height: 1;">A-</p>
+</div>
+
+<div style="padding: 1.25em; background: #444; border-radius: 12px; text-align: center;">
+<p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.5em; color: rgba(255,255,255,0.85);">ABC Network Average</p>
+<p style="font-size: 2em; font-weight: 900; margin: 0; color: #fff; line-height: 1;">C+</p>
+</div>
+
+</div>
 
 ## Frequently Asked Questions
 
