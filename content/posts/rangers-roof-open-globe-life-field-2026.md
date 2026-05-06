@@ -1,9 +1,9 @@
 ---
-title: "Globe Life Field Roof Status 2026: Open or Closed?"
+title: "Globe Life Field Roof Status 2026: Open or Closed Today and How to Check Any Date"
 category: "MLB"
 date: "2026-04-01"
-updatedDate: "2026-05-01"
-excerpt: "Globe Life Field roof is closed for over 80% of Rangers home games. Real data on the 2026 season, weather rules, and how to check today's roof status."
+updatedDate: "2026-05-06"
+excerpt: "Globe Life Field roof is closed for over 80% of Rangers home games. Real 2026 data on the roof status, weather rules, how to check today, and how to look up any past date including the Yankees series and the late April homestand."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg"
 coverImagePosition: "center 90%"
@@ -35,6 +35,14 @@ For today's Rangers home game roof status at Globe Life Field, the fastest sourc
 - **Globe Life Field Facebook page** posts roof status before each home game
 
 The Rangers do not publish a monthly roof schedule. The decision is made day-of based on weather, humidity, and wind forecast.
+
+## Globe Life Field Roof Status by Date: How to Check Any 2026 Game
+
+Looking up the roof status for a specific past Rangers home game (April 27, April 28, the Yankees series, the early May homestand, or any other 2026 date)? The Rangers do not publish a roof status archive on the official site. The fastest path is searching the [@GLFroof account on X](https://x.com/search?q=from%3AGLFroof&src=typed_query&f=live), which posts the roof status before every Rangers home game and keeps the full game-by-game history visible on the timeline. Filter by date and the answer for that specific game is in the timeline.
+
+For broader context on the late April 2026 Rangers homestand against the Yankees, the Rangers played their typical late-April pattern of cool-evening night games where the roof open-vs-closed call comes down to wind and dew point inside a 70 to 80°F window. April 2026 was tracking close to the all-time roof-open windows of 2021 (13.6%) and 2022 (19.8%) on the season-long pace, with most weather-eligible nights still going closed because the Rangers default to climate control over outdoor atmosphere.
+
+If you missed the live broadcast, the Bally Sports Southwest archive on the team app shows the pre-game roof state in the b-roll for any Rangers home game. The roof state is also visible in the upper-deck shots of every game replay if you want to verify the call yourself.
 
 ## How Often Is the Globe Life Field Roof Open? Real Data
 
@@ -145,6 +153,10 @@ The fastest source is [@GLFroof on X](https://x.com/GLFroof), a dedicated Globe 
 **Is the Globe Life Field roof open or closed today?**
 
 The Rangers do not publish a public monthly roof schedule. Check [@Rangers](https://twitter.com/Rangers) on X/Twitter about 90 minutes before first pitch, or watch the Bally Sports Southwest pre-game broadcast. For most Rangers home games, especially during summer and daytime games, the roof is closed.
+
+**How do I check the Globe Life Field roof status for a specific past date or past Rangers home game?**
+
+The fastest path is searching the [@GLFroof account on X](https://x.com/search?q=from%3AGLFroof&src=typed_query&f=live) and filtering by date. @GLFroof posts the roof status before every Rangers home game and keeps the full archive visible on the timeline, including the late April 2026 Yankees series, the early May homestand, and any other 2026 home date. The Bally Sports Southwest pre-game archive on the team app also shows the roof state in the b-roll for any past game replay.
 
 **Does Globe Life Field have a retractable roof?**
 
