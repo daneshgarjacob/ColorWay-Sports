@@ -48,9 +48,9 @@ The NBC scorebug sits low on the screen, runs slim, and lets the basketball acti
 
 ## NBC's Cavaliers-Raptors Game 7 at Rocket Mortgage Fieldhouse
 
-The Cavaliers-Raptors Game 7 was NBC's Sunday afternoon broadcast and the network ran the same production playbook as the Saturday night Celtics-Sixers window. Cinematic open, slim scorebug, well-lit arena, peacock branding. The Cavaliers wore the Statement Edition black at home for the deciding game, which graded out as a wrong-color call at 2 out of 10 in our [Round 1 jersey tracker](/stories/nba-playoffs-2026-round-1-jersey-tracker), and Toronto wore the Icon Edition red on the road. The broadcast sold the matchup hard despite the smaller national name recognition versus the Boston-Philadelphia headliner from the night before.
+The Cavaliers-Raptors Game 7 was NBC's Sunday afternoon broadcast and the network ran the exact same production playbook as the Saturday night Celtics-Sixers window. Same cinematic cold open with game-by-game B-roll under a scored voiceover. Same slim peacock-era scorebug low on the screen. Same camera mix favoring close cuts on key possessions. Same well-lit arena treatment. Same peacock branding across the studio bumpers. The two NBC Game 7 broadcasts were effectively interchangeable in production quality, which is the whole point: NBC has a real playoff event-show package and ran it twice in a row.
 
-NBC's strength on the Cavaliers-Raptors window was the same as on the Celtics-Sixers window. The graphics package stays out of the way of the action, the camera angles favor full-court reads with closer cuts on possessions that matter, and the studio bumpers cycle into the broadcast on a clean rhythm.
+The Cavaliers wore the Statement Edition black at home for the deciding game, which graded out as a wrong-color call at 2 out of 10 in our [Round 1 jersey tracker](/stories/nba-playoffs-2026-round-1-jersey-tracker), and Toronto wore the Icon Edition red on the road. The broadcast sold the matchup hard despite the smaller national name recognition versus the Boston-Philadelphia headliner from the night before. The Cavaliers-Raptors window grades out the same as the Celtics-Sixers window because NBC's production was the same on both.
 
 ## ABC's Magic-Pistons Game 7 at Little Caesars Arena
 
@@ -86,7 +86,7 @@ The NBC broadcast advantage across the Celtics-Sixers and Cavaliers-Raptors wind
 <div style="padding: 1.5em 1.25em; background: linear-gradient(135deg, rgba(75,31,191,0.08) 0%, rgba(31,141,214,0.08) 100%); border-radius: 12px; border: 1px solid rgba(75,31,191,0.2); text-align: center;">
 <p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.4em; color: #4b1fbf;">NBC · Sunday</p>
 <p style="font-size: 1em; font-weight: 700; margin: 0 0 0.75em; color: #222; line-height: 1.3;">Cavs at Raptors G7<br/>at Rocket Mortgage</p>
-<p style="font-size: 2.5em; font-weight: 900; margin: 0; color: #4b1fbf; line-height: 1;">A-</p>
+<p style="font-size: 2.5em; font-weight: 900; margin: 0; color: #4b1fbf; line-height: 1;">A</p>
 </div>
 
 <div style="padding: 1.5em 1.25em; background: rgba(0,0,0,0.04); border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); text-align: center;">
@@ -101,7 +101,7 @@ The NBC broadcast advantage across the Celtics-Sixers and Cavaliers-Raptors wind
 
 <div style="padding: 1.25em; background: linear-gradient(135deg, #4b1fbf 0%, #1F8DD6 100%); border-radius: 12px; text-align: center;">
 <p style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 0.5em; color: rgba(255,255,255,0.85);">NBC Network Average</p>
-<p style="font-size: 2em; font-weight: 900; margin: 0; color: #fff; line-height: 1;">A-</p>
+<p style="font-size: 2em; font-weight: 900; margin: 0; color: #fff; line-height: 1;">A</p>
 </div>
 
 <div style="padding: 1.25em; background: #444; border-radius: 12px; text-align: center;">
@@ -139,4 +139,4 @@ The 2026 NBA Conference Finals broadcast schedule splits between NBC and ABC und
 
 ## TL;DR
 
-NBC carried two of the three 2026 NBA Round 1 Game 7s and outclassed ABC's coverage of the third. NBC's broadcasts ran cinematic cold opens, kept the scorebug out of the way of the basketball, cut to tighter angles on key possessions, and leaned hard into the peacock branding. ABC's Magic-Pistons broadcast looked like a regular-season ESPN game in a deciding-game window. NBC takes the closeout weekend at A- on average. ABC settles in at C+. The 2026 NBA broadcast deal that gave NBC more marquee playoff inventory is already paying off in production quality, and Conference Finals will be the next test.
+NBC carried two of the three 2026 NBA Round 1 Game 7s and outclassed ABC's coverage of the third. NBC ran the same event-show production playbook on both Game 7s with cinematic cold opens, slim peacock-era scorebugs, tighter camera cuts on key possessions, and full peacock studio branding. ABC's Magic-Pistons broadcast looked like a regular-season ESPN game in a deciding-game window. NBC takes the closeout weekend at A on both broadcasts. ABC settles in at C+. The 2026 NBA broadcast deal that gave NBC more marquee playoff inventory is already paying off in production quality, and Conference Finals will be the next test.
