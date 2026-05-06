@@ -4,21 +4,23 @@ category: "Sports Design"
 date: "2026-05-06"
 excerpt: "ESPN updated the mobile app and the new NBA scores page is a real upgrade. The score module is cleaner, the type is sharper, and the matchup read is faster than the version it replaced."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%)"
-coverImage: "/images/posts/espn-app-nba-scores-redesign-2026/espn-app-nba-scores-redesign.png"
-coverImagePosition: "center top"
+coverImage: "/images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png"
+coverImagePosition: "center center"
 coverImageFit: "contain"
 league: "nba"
 teams: []
 ---
 
-<div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 0 0 0.5em; display: flex; justify-content: center;">
-<img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-nba-scores-redesign.png" alt="ESPN mobile app updated NBA scores page redesign showing the new cleaner score module layout, sharper type, and tightened matchup read on iPhone" style="max-width: 380px; width: 100%; display: block; border-radius: 18px;" />
-</div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's updated NBA scores page on the mobile app. Photo by ColorWay Sports.</p>
+<img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png" alt="ESPN mobile app NBA scores page redesign 2026 cover graphic with the ESPN logo centered on a dark red gradient background, ESPN MOBILE APP eyebrow in red and NBA SCORES PAGE REDESIGN 2026 subtitle in white" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
 
 ESPN updated the mobile app and the NBA scores page is the cleanest piece of the redesign. The score module reads faster than it used to, the type is sharper, the matchup layout is tightened, and the spacing finally lets the basketball numbers breathe. We like it.
 
 ## What ESPN Changed on the NBA Scores Page
+
+<div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 1.5em 0 0.5em; display: flex; justify-content: center;">
+<img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-nba-scores-redesign.png" alt="ESPN mobile app updated NBA scores page redesign showing the new cleaner score module layout, sharper type, and tightened matchup read on iPhone" style="max-width: 380px; width: 100%; display: block; border-radius: 18px;" />
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">ESPN's updated NBA scores page on the mobile app. Photo by ColorWay Sports.</p>
 
 The score module is the headline change. Each game card runs a clean two-team stack with the team marks, the records, the scores, and the time or status all sitting on a tighter grid than the previous version. The team type is heavier and the scores are sized up so the read at a glance lands on the actual basketball numbers first instead of the surrounding chrome.
 
