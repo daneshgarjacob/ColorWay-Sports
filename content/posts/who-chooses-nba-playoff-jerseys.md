@@ -109,7 +109,7 @@ The team's equipment manager. They are the person responsible for the uniform de
 
 No. Some teams coordinate the giveaway color with the home uniform for a unified arena look, like the Atlanta Hawks giving out red shirts on a red Statement night or the Orlando Magic flipping to Icon blue for a blue t-shirt giveaway. Plenty of teams run the giveaway and the jersey on separate tracks, like the Philadelphia 76ers handing out black towels while wearing the blue Icon, or the Phoenix Suns giving out orange towels while wearing the Statement black.
 
-## The TL;DR on Who Actually Chooses NBA Playoff Jerseys
+## The Bottom Line on Who Chooses NBA Playoff Jerseys
 
 The home team's equipment manager is the person who pulls the jersey and uniform. The head coach has veto power. The marketing department drives the minimum-wear quotas. Star players get a voice. The road team matches the home submission. The league office approves the matchup. The broadcast partners get the package before tipoff. The crowd giveaway is a separate decision that may or may not coordinate with the jersey, depending on how the team's marketing department is run.
 

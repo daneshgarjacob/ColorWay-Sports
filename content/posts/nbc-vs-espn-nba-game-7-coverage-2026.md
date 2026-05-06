@@ -137,6 +137,6 @@ NBC's 2026 NBA broadcast leans on a slimmer scorebug, cinematic cold-open packag
 
 The 2026 NBA Conference Finals broadcast schedule splits between NBC and ABC under the new broadcast deal, with the NBA Finals carried by ABC. The exact game-by-game window assignments come out closer to the start of the Conference Finals.
 
-## TL;DR
+## The Bottom Line on NBC vs ABC NBA Game 7 Coverage
 
 NBC carried two of the three 2026 NBA Round 1 Game 7s and outclassed ABC's coverage of the third. NBC ran the same event-show production playbook on both Game 7s with cinematic cold opens, slim peacock-era scorebugs, tighter camera cuts on key possessions, and full peacock studio branding. ABC's Magic-Pistons broadcast looked like a regular-season ESPN game in a deciding-game window. NBC takes the closeout weekend at A on both broadcasts. ABC settles in at C+. The 2026 NBA broadcast deal that gave NBC more marquee playoff inventory is already paying off in production quality, and Conference Finals will be the next test.

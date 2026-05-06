@@ -65,6 +65,6 @@ Yes. The score module is the most-used surface in any sports app and the updated
 
 The in-game NBA scorebug treatment on ESPN's broadcast (separate from the app) is a different story and we have already graded it at the lower end of the 2026 national broadcast cycle in our [ESPN NBA scorebug review](/stories/espn-nba-scorebug-2026). The mobile app score module redesign covered here is the standalone scores page in the ESPN iOS and Android apps.
 
-## TL;DR
+## The Bottom Line on the ESPN App NBA Scores Update
 
 ESPN's updated mobile app NBA scores page is a real upgrade. The score module is cleaner, the type is sharper, the matchup card density got tighter without crowding, and the live-game treatment finally separates from finals and upcoming. Grade A-. The most-used surface in the app got the redesign it needed.

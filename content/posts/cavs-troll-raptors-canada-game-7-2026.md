@@ -81,6 +81,6 @@ Yes. The Cleveland Cavaliers won Game 7 against the Toronto Raptors 4-3 to close
 
 NBC carried the Cavaliers-Raptors Game 7 broadcast on Sunday afternoon and the highlights are available through NBC Sports and Peacock. We graded the NBC Game 7 broadcast at A in our [NBC vs ABC NBA Game 7 coverage post](/stories/nbc-vs-espn-nba-game-7-coverage-2026).
 
-## TL;DR
+## The Bottom Line on the Cavs Game 7 Troll
 
 The Cavaliers won Game 7 against the Raptors 4-3 and the Cleveland home crowd at Rocket Mortgage Fieldhouse turned the closeout into a four-target troll job on Canada, Drake, Toronto, and the Raptors. USA chants rolled through every Raptors possession and Free Bird dropped through the building in the fourth quarter, the same song Team USA hockey used to celebrate beating Canada at the 2025 4 Nations Face-Off and the 2026 Winter Olympics. Layered, specific, and the kind of bit that only lands if you have been paying attention to American sports against Canada over the last 18 months.
