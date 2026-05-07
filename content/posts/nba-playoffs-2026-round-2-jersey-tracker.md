@@ -240,14 +240,6 @@ Spurs flipped to Association Edition white at home for Game 2 after the Fiesta b
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Fiesta Court</p>
 </div>
 
-<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
-  <div style="background: linear-gradient(90deg, #ec0089 0%, #f7a800 50%, #00b2a9 100%); padding: 10px 20px; text-align: center;">
-    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
-  </div>
-  <img src="/images/posts/nba-playoffs-2026/spurs-fiesta-arena-2026.png" alt="San Antonio Spurs Frost Bank Center Fiesta playoff arena setup with pink teal orange and yellow seat colors and Playoffs jumbotron 2026 NBA Playoffs Round 2" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · Full Fiesta Arena Treatment</p>
-</div>
-
 Spurs City Edition Fiesta black home jersey against Wolves Association Edition white road uniform, San Antonio running back the same Fiesta Night reset that opened Round 1 against Portland with the City black at home, the Fiesta court down on the floor, and the pink, teal, orange, and yellow Fiesta treatment taking over Frost Bank Center for Game 1 of Round 2. Black at home flips the playoff white-versus-color standard and we usually score that down hard, but the Spurs cash the Fiesta arena and the giveaway Fiesta fan shirts in the stands hard enough to lift the grade. Frost Bank Center remains the best playoff branding in the league, the seat colors and the jumbotron and the court tied together into one unified Fiesta identity that nobody else in either conference is matching. Minnesota in the Association whites on the road is the right call against a black-home opponent and the contrast reads cleanly on broadcast even with the Fiesta court underneath. Eight out of 10.
 
 <span id="knicks-sixers"></span>
