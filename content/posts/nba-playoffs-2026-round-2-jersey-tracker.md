@@ -2,7 +2,7 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-06"
+updatedDate: "2026-05-07"
 excerpt: "2026 NBA Playoffs Round 2 jersey tracker organized series by series: Lakers-Thunder, Spurs-Timberwolves, Knicks-Sixers, Pistons-Cavaliers. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
@@ -162,12 +162,12 @@ San Antonio hosts Minnesota at Frost Bank Center for the Western Conference seco
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #080808 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #061922 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 2 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #061922 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 2 · Series Tied 1-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/timberwolves-statement-grey.png" alt="Minnesota Timberwolves Statement Edition grey road jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 at San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Grey</p>
@@ -175,7 +175,7 @@ San Antonio hosts Minnesota at Frost Bank Center for the Western Conference seco
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -192,13 +192,13 @@ San Antonio hosts Minnesota at Frost Bank Center for the Western Conference seco
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 2 · Game 2</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · May 8, 2026 · Association Night</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · May 6, 2026 · Association Night</p>
   </div>
   <img src="/images/courts/nba/spurs-home.png" alt="Frost Bank Center San Antonio Spurs primary home court for 2026 NBA Playoffs Round 2 Game 2 vs Minnesota Timberwolves" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Game 2</p>
 </div>
 
-Spurs flip to Association Edition white at home for Game 2 after the Fiesta black Game 1 opener, with Minnesota answering in the Statement Edition grey alternate on the road. San Antonio white against Wolves grey is exactly the kind of visual combination that earns a perfect 10 — the Spurs white is clean and traditional, the Wolves grey delivers a distinct alternate that nobody else in the second round is wearing, and the jersey switch from Game 1 black to Game 2 white shows the Spurs can run the white-versus-color standard when they want to. Minnesota's grey reads with the team's navy and green accents on broadcast and is the right alternate-jersey call for a road game. Ten out of 10.
+Spurs flipped to Association Edition white at home for Game 2 after the Fiesta black Game 1 opener, with Minnesota answering in the Statement Edition grey alternate on the road. San Antonio white against Wolves grey is exactly the kind of visual combination that earns a perfect 10 — the Spurs white is clean and traditional, the Wolves grey delivers a distinct alternate that nobody else in the second round is wearing, and the jersey switch from Game 1 black to Game 2 white shows the Spurs can run the white-versus-color standard when they want to. Minnesota's grey reads with the team's navy and green accents on broadcast and is the right alternate-jersey call for a road game. San Antonio took Game 2 to tie the series 1-1 and head to Minneapolis for Games 3 and 4. Ten out of 10.
 
 ### Game 1: Minnesota Timberwolves at San Antonio Spurs
 
@@ -260,12 +260,12 @@ New York hosts Philadelphia at Madison Square Garden for the Eastern Conference 
 
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #050505 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 2 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 2 · Knicks Lead 2-0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 0-1</span>
       <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 at New York Knicks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -273,7 +273,7 @@ New York hosts Philadelphia at Madison Square Garden for the Eastern Conference 
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 1 of 1 games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: Debut</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-0</span>
       <img src="/images/jerseys/nba/knicks-statement-black.png" alt="New York Knicks Statement Edition black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
@@ -290,13 +290,13 @@ New York hosts Philadelphia at Madison Square Garden for the Eastern Conference 
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 2 · Game 2</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · May 8, 2026 · Madison Square Garden</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · May 6, 2026 · Madison Square Garden</p>
   </div>
   <img src="/images/courts/nba/knicks-home.png" alt="Madison Square Garden New York Knicks home court for 2026 NBA Playoffs Round 2 Game 2 vs Philadelphia 76ers" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · Game 2</p>
 </div>
 
-Knicks flip to Statement Edition black at home for Game 2 after running the textbook Association white in Game 1, with Philadelphia in Association Edition white on the road after the Icon royal blue in Game 1. Knicks black at home is the call we score down hard — black at home means two teams in dark jerseys, no white-versus-color contrast, and the broadcast reads flat against the MSG backdrop. The two teams had the single cleanest matchup of Round 2 in Game 1 and come back in Game 2 in the worst version of this series. Sixers in white on the road is the right call and scores fine individually, but Knicks Statement black negates it. Three out of 10.
+Knicks flipped to Statement Edition black at home for Game 2 after running the textbook Association white in Game 1, with Philadelphia in Association Edition white on the road after the Icon royal blue in Game 1. Knicks black at home is the call we score down hard — black at home means two teams in dark jerseys, no white-versus-color contrast, and the broadcast reads flat against the MSG backdrop. The two teams had the single cleanest matchup of Round 2 in Game 1 and came back in Game 2 in the worst version of this series. Sixers in white on the road is the right call and scores fine individually, but Knicks Statement black negates it. New York took Game 2 to grab a 2-0 series lead heading to Philadelphia for Games 3 and 4. Three out of 10.
 
 ### Game 1: Philadelphia 76ers at New York Knicks
 
