@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-02"
-updatedDate: "2026-05-07"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker through 7 games: Hurricanes up 2-0 over Flyers, Avalanche up 2-0 over Wild, Sabres up 1-0 over Canadiens after Game 1, Golden Knights and Ducks tied 1-1 after Game 2. Every primary sweater and uniform matchup graded."
+updatedDate: "2026-05-08"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker through 8 games: Hurricanes up 3-0 over Flyers, Avalanche up 2-0 over Wild, Sabres up 1-0 over Canadiens after Game 1, Golden Knights and Ducks tied 1-1 after Game 2. Every primary sweater and uniform matchup graded."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ homepageOrder: 5
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Carolina Hurricanes at Philadelphia Flyers Round 2 Game 3 Jerseys"
+    rating: 9
   - name: "Minnesota Wild at Colorado Avalanche Round 2 Game 2 Jerseys"
     rating: 8.5
   - name: "Minnesota Wild at Colorado Avalanche Round 2 Game 1 Jerseys"
@@ -50,15 +52,15 @@ Every 2026 NHL Stanley Cup Playoffs Round 2 jersey and uniform matchup graded, u
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 2 Average Scores</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.0 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.6 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 2 Home Teams in Primary Sweaters</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">3 / 5 (60%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">6 / 8 (75%)</span>
 </div>
 
-Below, every matchup graded, newest first. Five Round 2 games played so far: the Hurricanes are up 2-0 over the Flyers in the black alternate, the Avalanche are up 2-0 over the Wild in the burgundy primary, and the Golden Knights are up 1-0 over the Ducks in the gold home. The Sabres host the Canadiens at KeyBank Center for Game 1 tonight.
+Below, every matchup graded, newest first. Eight Round 2 games played so far: the Hurricanes are up 3-0 over the Flyers after closing the road trip in Philadelphia, the Avalanche are up 2-0 over the Wild in the burgundy primary, the Golden Knights and Ducks are tied 1-1 after Game 2, and the Sabres are up 1-0 over the Canadiens after Game 1.
 
 <span id="avalanche-wild"></span>
 
@@ -217,7 +219,34 @@ Sabres royal blue home sweater against Canadiens road whites, Buffalo running th
 
 ## Carolina Hurricanes vs Philadelphia Flyers
 
-Carolina is up 2-0 over Philadelphia after running the black alternate home sweater for both Game 1 and Game 2 at Lenovo Center, with the Flyers in road whites. The Hurricanes black home call is the rare case in this postseason of a primary-home team passing on the iconic primary sweater for an alternate twice in a row, the dark Carolina black against Philadelphia road whites delivering the contrast but missing the visual punch of the Hurricanes red home identity that makes Lenovo Center pop on broadcast.
+Carolina is up 3-0 over Philadelphia after running the black alternate home sweater for both Game 1 and Game 2 at Lenovo Center then closing the road trip in Game 3 at Wells Fargo Center with the Flyers in primary orange home and the Hurricanes in road whites. The Hurricanes black home call dragged the first two games to a 5/10 each, but the Game 3 venue shift to Philadelphia delivered the textbook white-versus-color matchup with the iconic Flyers orange against the Hurricanes road whites for a 9 out of 10.
+
+### Game 3: Carolina Hurricanes at Philadelphia Flyers
+
+<div style="background: linear-gradient(135deg, #1a0805 0%, #0a0302 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F74902 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 3 · Canes Lead 3-0</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 3 at Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/flyers-orange.png" alt="Philadelphia Flyers orange home sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 3 vs Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Flyers run the primary orange home sweater for Game 3 in Philadelphia with the Hurricanes in road whites, the textbook NHL playoff white-versus-color matchup that grades top of the series. Flyers orange home is one of the most iconic primary home identities in the league, the Philadelphia orange and black against the Hurricanes road whites delivering bold contrast on broadcast at Wells Fargo Center. Carolina took Game 3 to grab a commanding 3-0 series lead heading back to Lenovo Center for Game 4. Nine out of 10.
 
 ### Game 2: Philadelphia Flyers at Carolina Hurricanes
 
@@ -279,7 +308,7 @@ Hurricanes black home alternate sweater against Flyers white road uniform, Carol
 
 **Which teams are in NHL Round 2?** All four divisional second-round series are set: Hurricanes hosting Flyers and Sabres hosting Canadiens in the East, Avalanche hosting Wild and Golden Knights hosting Ducks in the West.
 
-**Who is leading each Round 2 series?** Through five games, the Hurricanes lead the Flyers 2-0, the Avalanche lead the Wild 2-0, the Golden Knights lead the Ducks 1-0, and the Sabres-Canadiens series opens tonight, May 6.
+**Who is leading each Round 2 series?** Through eight games, the Hurricanes lead the Flyers 3-0, the Avalanche lead the Wild 2-0, the Golden Knights and Ducks are tied 1-1 after Game 2, and the Sabres lead the Canadiens 1-0 after Game 1.
 
 **Where do I find the Round 1 jersey tracker?** Round 1 jersey and uniform grades are tracked at our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/posts/nhl-playoffs-2026-round-1-jersey-tracker), updated game by game with primary sweaters, alternates, and throwback grades.
 
