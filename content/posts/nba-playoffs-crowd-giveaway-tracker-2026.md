@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-02"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Saturday Game 7 adds Celtics white t-shirts at TD Garden against the Sixers in the winner-take-all Round 1 closer."
+updatedDate: "2026-05-09"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 3 Saturday adds Cavs white t-shirts at Rocket Mortgage Fieldhouse paired with the Classic Edition throwback blue jerseys for an old-school full-arena identity, plus Lakers white t-shirts at Crypto.com Arena paired with the Association Edition whites for the weekend white home slot."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,30 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Saturday Round 2 Game 3 Giveaways
+
+The Cavaliers and Lakers both committed to white t-shirt crowd takeovers for Saturday's Round 2 Game 3 at Rocket Mortgage Fieldhouse and Crypto.com Arena. Cleveland paired the white shirts with the Classic Edition throwback blue jerseys at home on the alternate throwback court for an old-school full-arena identity that looked like classic Cavaliers playoff basketball. Los Angeles paired the white shirts with the Association Edition whites at home for the weekend white home slot, the white-on-white takeover the Cavs ran in Round 1 Game 5 returning at Crypto.com Arena. Two A grades on the same Saturday slate.
+
+### Cleveland Cavaliers · White T-Shirts · Game 3 · Grade: A
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cavs/status/2053156552001872376"></a></blockquote>
+</div>
+
+The Cavaliers loaded every seat at Rocket Mortgage Fieldhouse with white t-shirts for Game 3 against the Pistons, paired with the Classic Edition throwback blue jerseys at home on the matching alternate throwback court. White shirts in the crowd against the Cavaliers throwback blue jerseys deliver the contrast that makes the broadcast pop, the lower bowl reading bright white while the team identity holds the iconic throwback blue at center court. The aesthetic looked old-school Cavaliers playoff basketball, the alternate court paired with the alternate jersey paired with the white-shirt crowd takeover, and the entire arena committed to wearing the shirts through the broadcast. Cleveland took Game 3 in the throwback blue plus white-shirt combo to cut the series to 2-1. A.
+
+### Los Angeles Lakers · White T-Shirts · Game 3 · Grade: A
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/thebenroyer/status/2053242229876203573"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BleacherReport/status/2053237379457003974"></a></blockquote>
+</div>
+
+The Lakers are loading every seat at Crypto.com Arena with white t-shirts for Game 3 tonight against the Thunder, paired with the Association Edition whites at home in the weekend white home slot. White on white is the cleanest in-arena look an NBA team can run, and the Lakers commit to all three pieces on the same night: the white shirts in the crowd, the Association whites on the floor, and the textbook white-versus-color jersey matchup against the Thunder Icon Edition blue road. The white-on-white takeover the Cavaliers nailed in Round 1 Game 5 returns at Crypto.com Arena for the Lakers Round 2 home opener of the weekend white slot. A.
 
 ## Saturday Round 1 Game 7 Giveaway
 
