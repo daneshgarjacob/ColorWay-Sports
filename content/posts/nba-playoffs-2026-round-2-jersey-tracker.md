@@ -2,7 +2,7 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-08"
+updatedDate: "2026-05-09"
 excerpt: "2026 NBA Playoffs Round 2 jersey tracker organized series by series: Lakers-Thunder, Spurs-Timberwolves, Knicks-Sixers, Pistons-Cavaliers. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
@@ -160,26 +160,26 @@ Thunder Icon Edition blue home jersey against Lakers Icon Edition gold road unif
 
 ## San Antonio Spurs vs Minnesota Timberwolves
 
-San Antonio and Minnesota split the first two games at Frost Bank Center for the Western Conference second round series. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Series shifts to Target Center tied 1-1 with Minnesota debuting the Classic Edition black throwback at home on the matching black Classic court for Game 3.
+San Antonio and Minnesota split the first two games at Frost Bank Center for the Western Conference second round series. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Spurs took Game 3 at Target Center in the Wolves Classic Edition black throwback debut to grab a 2-1 series lead heading into Game 4 in Minneapolis.
 
 ### Game 3: San Antonio Spurs at Minnesota Timberwolves
 
 <div style="background: linear-gradient(135deg, #1a1a1f 0%, #050a25 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 3 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 3 · Spurs Lead 2-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 7 playoff games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 4-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 8 playoff games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 5-0</span>
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 8 playoff games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-0</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 9 playoff games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-1</span>
       <img src="/images/jerseys/nba/timberwolves-classic-black.png" alt="Minnesota Timberwolves Classic Edition black throwback home jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 vs San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Black</p>
@@ -202,7 +202,7 @@ San Antonio and Minnesota split the first two games at Frost Bank Center for the
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Target Center · Minneapolis · Classic Court</p>
 </div>
 
-Wolves debut the Classic Edition black throwback at home on the matching black Classic court for Game 3 in Minneapolis with the Spurs answering in Association Edition white on the road. Color-on-color is the version we usually want when the home team flips to black at home, but the Spurs silver-and-black identity offers no clean color road alternative and stacking a second dark uniform against the Wolves Classic black would flatten the broadcast contrast, so Spurs white on the road is the right call even when it gives up the home-team-in-color identity. The Wolves Classic Edition black on the matching black Classic court is a sharp single-team visual and the throwback alternate is one of the better Round 2 looks. Six out of 10.
+Wolves debut the Classic Edition black throwback at home on the matching black Classic court for Game 3 in Minneapolis with the Spurs answering in Association Edition white on the road. Color-on-color is the version we usually want when the home team flips to black at home, but the Spurs silver-and-black identity offers no clean color road alternative and stacking a second dark uniform against the Wolves Classic black would flatten the broadcast contrast, so Spurs white on the road is the right call even when it gives up the home-team-in-color identity. The Wolves Classic Edition black on the matching black Classic court is a sharp single-team visual and the throwback alternate is one of the better Round 2 looks. San Antonio took Game 3 on the road to grab a 2-1 series lead heading into Game 4 at Target Center. Six out of 10.
 
 ### Game 2: Minnesota Timberwolves at San Antonio Spurs
 
@@ -292,26 +292,26 @@ Spurs City Edition Fiesta black home jersey against Wolves Association Edition w
 
 ## New York Knicks vs Philadelphia 76ers
 
-New York leads Philadelphia 2-0 heading into Game 3 at Wells Fargo Center for the Eastern Conference second round series. The Knicks opened in the textbook Association Edition whites for a perfect 10 against the Sixers Icon Edition royal blue road uniform in Game 1, then flipped to Statement Edition black at home for Game 2 with Philadelphia in Association Edition white on the road, the worst call of the round after having the best call in Game 1. Philadelphia opens Game 3 at home in the Association Edition whites on the primary court with the Knicks pulling the Icon Edition blue on the road, the textbook white-versus-color matchup.
+New York leads Philadelphia 3-0 after taking Game 3 at Wells Fargo Center in the Eastern Conference second round series. The Knicks opened in the textbook Association Edition whites for a perfect 10 against the Sixers Icon Edition royal blue road uniform in Game 1, then flipped to Statement Edition black at home for Game 2 with Philadelphia in Association Edition white on the road, the worst call of the round after having the best call in Game 1. Philadelphia ran Game 3 at home in the Association Edition whites on the primary court with the Knicks pulling the Icon Edition blue on the road for the textbook white-versus-color matchup, the cleanest jersey night of the series.
 
 ### Game 3: New York Knicks at Philadelphia 76ers
 
 <div style="background: linear-gradient(135deg, #1a3a5e 0%, #0a1929 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 3 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 3 · Knicks Lead 3-0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 3 of 8 playoff games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 1-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 4 of 9 playoff games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 2-2</span>
       <img src="/images/jerseys/nba/knicks-icon-blue.png" alt="New York Knicks Icon Edition blue road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 5 of 9 playoff games</span>
-      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-2</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 5px; display: inline-block;">Worn in 6 of 10 playoff games</span>
+      <span style="padding: 4px 11px; background: rgba(255,255,255,0.12); border-radius: 999px; font-size: 9px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 12px; display: inline-block;">Record in Uni: 3-3</span>
       <img src="/images/jerseys/nba/sixers-association-white.png" alt="Philadelphia 76ers Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 vs New York Knicks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA 76ERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
@@ -334,7 +334,7 @@ New York leads Philadelphia 2-0 heading into Game 3 at Wells Fargo Center for th
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Wells Fargo Center · Philadelphia · Game 3</p>
 </div>
 
-Sixers Association Edition white home jersey against Knicks Icon Edition blue road uniform, the textbook playoff white-versus-color matchup we score top of the scale for the Game 3 series shift to Wells Fargo Center. Philadelphia runs the primary home whites on the primary court and New York pulls the primary Icon blue on the road, full home-and-away compliance with both teams in the strongest version of their identity. The Sixers reset to the Association whites at home is exactly the version Philadelphia wanted after dropping the first two games at Madison Square Garden, and the Knicks Icon blue is the strongest road look New York has run all postseason. Ten out of 10.
+Sixers Association Edition white home jersey against Knicks Icon Edition blue road uniform, the textbook playoff white-versus-color matchup we score top of the scale for the Game 3 series shift to Wells Fargo Center. Philadelphia runs the primary home whites on the primary court and New York pulls the primary Icon blue on the road, full home-and-away compliance with both teams in the strongest version of their identity. The Sixers reset to the Association whites at home is exactly the version Philadelphia wanted after dropping the first two games at Madison Square Garden, and the Knicks Icon blue is the strongest road look New York has run all postseason. New York took Game 3 on the road to grab a commanding 3-0 series lead heading into Game 4 at Wells Fargo Center. Ten out of 10.
 
 ### Game 2: Philadelphia 76ers at New York Knicks
 
