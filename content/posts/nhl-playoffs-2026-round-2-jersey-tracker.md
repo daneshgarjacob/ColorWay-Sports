@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-02"
-updatedDate: "2026-05-10"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker through 13 games: Hurricanes sweep Flyers 4-0 in OT closeout, Canadiens lead Sabres 2-1 after Bell Centre Game 3 in the iconic Habs red home debut, Knights lead Ducks 2-1 after Anaheim Game 3, Avalanche lead Wild 2-0 with Minnesota Game 3. Every primary sweater and uniform matchup graded."
+updatedDate: "2026-05-11"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes sweep Flyers 4-0, Canadiens lead Sabres 2-1 with Game 4 at Bell Centre, Knights and Ducks tied 2-2 with Game 5 in Vegas, Avalanche-Wild Game 4 tonight in Minneapolis. Every primary sweater and uniform matchup graded."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,14 @@ homepageOrder: 5
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Anaheim Ducks at Vegas Golden Knights Round 2 Game 5 Jerseys"
+    rating: 8
+  - name: "Buffalo Sabres at Montreal Canadiens Round 2 Game 4 Jerseys"
+    rating: 9
+  - name: "Colorado Avalanche at Minnesota Wild Round 2 Game 4 Jerseys"
+    rating: 8
+  - name: "Vegas Golden Knights at Anaheim Ducks Round 2 Game 4 Jerseys"
+    rating: 8.5
   - name: "Buffalo Sabres at Montreal Canadiens Round 2 Game 3 Jerseys"
     rating: 9
   - name: "Carolina Hurricanes at Philadelphia Flyers Round 2 Game 4 Jerseys"
@@ -62,27 +70,54 @@ Every 2026 NHL Stanley Cup Playoffs Round 2 jersey and uniform matchup graded, u
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 2 Average Scores</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">8.0 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">8.1 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 2 Home Teams in Primary Sweaters</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">11 / 13 (85%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">15 / 17 (88%)</span>
 </div>
 
-Below, every matchup graded, newest first. Thirteen Round 2 games played so far: the Hurricanes swept the Flyers 4-0 with a Game 4 overtime closeout in Philadelphia, the Canadiens lead the Sabres 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut, the Golden Knights lead the Ducks 2-1 after taking Game 3 in Anaheim, and the Avalanche lead the Wild 2-0 with Game 3 still in Minneapolis.
+Below, every matchup graded, newest first. Seventeen Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Canadiens lead the Sabres 2-1 with Game 4 tomorrow at Bell Centre, the Knights and Ducks are tied 2-2 with Game 5 tomorrow in Vegas, and the Avalanche-Wild series continues at Xcel Energy Center with Game 4 tonight in Minneapolis.
 
 <span id="avalanche-wild"></span>
 
 ## Colorado Avalanche vs Minnesota Wild
 
-Colorado is up 2-0 over Minnesota after running the primary burgundy home sweater for both Game 1 and Game 2 at Ball Arena, with the Wild in road whites. Burgundy at home and white on the road is the textbook NHL playoff matchup we grade comfortably high, the Avalanche running the same color identity that's defined the franchise since the move from Quebec. Series shifts to Xcel Energy Center for Game 3 with Minnesota in the primary green home sweater and the Avalanche in road whites.
+Colorado leads Minnesota 2-1 after the Wild took Game 3 3-1 at Xcel Energy Center to cut the Avalanche's lead in half, the series shifting back to Minneapolis with the Wild in the primary green home sweater and the Avalanche in road whites for both Games 3 and 4. Avalanche ran the primary burgundy home sweater for Games 1 and 2 at Ball Arena with the Wild in road whites before the venue shift to Minnesota.
+
+### Game 4: Colorado Avalanche at Minnesota Wild
+
+<div style="background: linear-gradient(135deg, #0a1f0d 0%, #050f06 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #154734 0%, #A6192E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 4 · Colorado Lead 2-1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/avalanche-white.png" alt="Colorado Avalanche white road sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 at Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/wild-green.png" alt="Minnesota Wild green home sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 vs Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.08); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
+</div>
+
+Same Wild green home sweater against Avalanche road whites as Game 3, the uniform pairing holding the same 8 per the same-matchup-same-score rule. Minnesota's home green with the red and gold accents is one of the cleanest primary identities in the Western Conference and delivers bold contrast against the Colorado road whites at Xcel Energy Center. Eight out of 10.
 
 ### Game 3: Colorado Avalanche at Minnesota Wild
 
 <div style="background: linear-gradient(135deg, #0a1f0d 0%, #050f06 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #154734 0%, #A6192E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 3 · Avalanche Lead 2-0</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #154734 0%, #A6192E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 3 · Colorado Lead 2-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -103,7 +138,7 @@ Colorado is up 2-0 over Minnesota after running the primary burgundy home sweate
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
 </div>
 
-Wild flip to the primary green home sweater for Game 3 in Minneapolis with the Avalanche in road whites, the textbook NHL playoff white-versus-color matchup that grades comfortably high. Minnesota's home green with the red and gold accents is one of the cleanest primary identities in the Western Conference, the State of Hockey color palette delivering bold contrast against the Colorado road whites at Xcel Energy Center. Eight out of 10.
+Wild flip to the primary green home sweater for Game 3 in Minneapolis with the Avalanche in road whites, the textbook NHL playoff white-versus-color matchup that grades comfortably high. Minnesota's home green with the red and gold accents is one of the cleanest primary identities in the Western Conference, the State of Hockey color palette delivering bold contrast against the Colorado road whites at Xcel Energy Center. Minnesota took Game 3 3-1 to cut the series to 2-1 Colorado heading into Game 4 tonight. Eight out of 10.
 
 ### Game 2: Minnesota Wild at Colorado Avalanche
 
@@ -163,7 +198,61 @@ Avalanche burgundy home sweater against Wild road whites, Colorado running the p
 
 ## Vegas Golden Knights vs Anaheim Ducks
 
-Vegas leads Anaheim 2-1 after taking Game 3 6-2 at Honda Center in the Ducks orange home debut, the Golden Knights and Ducks splitting the first two at T-Mobile Arena before the series shifted to Anaheim. Knights gold home and Ducks orange home each carry their own bold primary identity, the white-versus-color standard holding cleanly across the series.
+Series tied 2-2 after the Ducks took Game 4 at Honda Center to even it up, Vegas and Anaheim splitting the first two games at T-Mobile Arena before splitting both Honda Center games. Series returns to T-Mobile Arena for Game 5 tomorrow. Knights gold home and Ducks orange home each carry their own bold primary identity, the white-versus-color standard holding cleanly across the series.
+
+### Game 5: Anaheim Ducks at Vegas Golden Knights
+
+<div style="background: linear-gradient(135deg, #1a1305 0%, #0a0702 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B4975A 0%, #333F42 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 5 · Series Tied 2-2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/ducks-white.png" alt="Anaheim Ducks white road sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 5 at Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights gold home sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 5 vs Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.08); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
+</div>
+
+Knights flip back to the primary gold home sweater at T-Mobile Arena for Game 5, matching the same uniform combination from Games 1 and 2 with the Ducks in road whites. The Vegas gold and black home identity is one of the most distinctive in the league and the Ducks road whites with orange and black trim deliver the contrast on broadcast. Same 8 per the same-matchup-same-score rule. Eight out of 10.
+
+### Game 4: Vegas Golden Knights at Anaheim Ducks
+
+<div style="background: linear-gradient(135deg, #1f0a02 0%, #100502 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F47A38 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 4 · Series Tied 2-2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 at Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/ducks-orange.png" alt="Anaheim Ducks orange home sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.08); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8.5 / 10</p>
+</div>
+
+Same Ducks orange home sweater against Knights road whites as Game 3, the uniform pairing holding the same 8.5 per the same-matchup-same-score rule. Anaheim's primary orange home delivers bold contrast against the Vegas road whites, the orange and black identity one of the strongest in the Western Conference. Anaheim took Game 4 to even the series 2-2 heading back to T-Mobile Arena for Game 5. Eight and a half out of 10.
 
 ### Game 3: Vegas Golden Knights at Anaheim Ducks
 
@@ -250,7 +339,34 @@ Golden Knights gold home sweater against Ducks road whites, Vegas running the pr
 
 ## Buffalo Sabres vs Montreal Canadiens
 
-Montreal leads Buffalo 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut for the round. Buffalo and Montreal split the first two games at KeyBank Center with the Sabres running the primary royal blue home sweater against the Canadiens road whites in one of the cleanest jersey pairings of Round 2, the same matchup grade in both games earning a nine since the uniform pairing did not change. Series shifted to Bell Centre for Game 3 with the Canadiens flipping to the primary red home sweater and the Sabres in road whites, the most iconic primary home identity in all of professional hockey delivering against a clean Buffalo road white answer.
+Montreal leads Buffalo 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut for the round, with Game 4 tomorrow at Bell Centre keeping the same Canadiens red home against Sabres road whites matchup. Buffalo and Montreal split the first two games at KeyBank Center with the Sabres running the primary royal blue home sweater against the Canadiens road whites in one of the cleanest jersey pairings of Round 2, the same matchup grade in both games earning a nine since the uniform pairing did not change.
+
+### Game 4: Buffalo Sabres at Montreal Canadiens
+
+<div style="background: linear-gradient(135deg, #2a0810 0%, #150408 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #192168 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 4 · Canadiens Lead 2-1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens red home sweater for 2026 NHL Stanley Cup Playoffs Round 2 Game 4 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Canadiens run back the primary red home sweater for Game 4 at Bell Centre with the Sabres in road whites, the same combination that earned a 9 in Game 3 holding the same grade per the same-matchup-same-score rule. Montreal's iconic bleu-blanc-rouge home identity against the Buffalo road whites is the textbook NHL playoff matchup at one of the sport's most storied venues. Nine out of 10.
 
 ### Game 3: Buffalo Sabres at Montreal Canadiens
 
@@ -453,7 +569,7 @@ Hurricanes black home alternate sweater against Flyers white road uniform, Carol
 
 **Which teams are in NHL Round 2?** All four divisional second-round series are set: Hurricanes hosting Flyers and Sabres hosting Canadiens in the East, Avalanche hosting Wild and Golden Knights hosting Ducks in the West.
 
-**Who is leading each Round 2 series?** Through thirteen games, the Hurricanes have swept the Flyers 4-0 to advance to the Eastern Conference Final, the Canadiens lead the Sabres 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut, the Golden Knights lead the Ducks 2-1 after taking Game 3 in Anaheim, and the Avalanche lead the Wild 2-0 with Game 3 still in Minneapolis.
+**Who is leading each Round 2 series?** Through seventeen tracked games, the Hurricanes have swept the Flyers 4-0 to advance to the Eastern Conference Final, the Canadiens lead the Sabres 2-1 with Game 4 at Bell Centre tomorrow, the Knights and Ducks are tied 2-2 with Game 5 in Vegas tomorrow, and the Avalanche-Wild series continues at Xcel Energy Center with Game 4 tonight in Minneapolis.
 
 **Where do I find the Round 1 jersey tracker?** Round 1 jersey and uniform grades are tracked at our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/posts/nhl-playoffs-2026-round-1-jersey-tracker), updated game by game with primary sweaters, alternates, and throwback grades.
 
