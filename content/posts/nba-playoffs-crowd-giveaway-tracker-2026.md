@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-11"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 4 Monday: Lakers split black and yellow at Crypto.com Arena (B), Cavs run a navy and white stripe out at Rocket Mortgage Fieldhouse (B)."
+updatedDate: "2026-05-12"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 5 Tuesday: Spurs hand out Por Vida black rally towels at Frost Bank Center to match the Icon Edition black home jerseys (D). Round 2 Game 4 Monday: Lakers split black and yellow at Crypto.com Arena (B), Cavs navy and white stripe out at Rocket Mortgage Fieldhouse (B)."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Tuesday Round 2 Game 5 Giveaway
+
+The Spurs are the only home team on the Tuesday Round 2 Game 5 slate and they are handing out black Por Vida rally towels at Frost Bank Center to match the Spurs Icon Edition black home jersey debut against the Timberwolves. Rally towels are already a lower-ceiling format than a t-shirt takeover on broadcast, and the all-black color call doubles up with the black jerseys for a dark-on-dark crowd read that flattens the broadcast contrast.
+
+### San Antonio Spurs · Por Vida Black Rally Towels · Game 5 · Grade: D
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/zhedrickTV/status/2054228359836520561"></a></blockquote>
+</div>
+
+The Spurs hand out black rally towels with the Por Vida Fiesta marketing wordmark at Frost Bank Center for Game 5 against the Wolves. We do not love the call. Rally towels are already a lower-impact crowd giveaway than a full t-shirt takeover, and the all-black color matches the Spurs Icon Edition black home jersey for a dark-on-dark crowd-and-uniform combination that pulls the broadcast contrast down to the floor. The Spurs run one of the best crowd t-shirt programs in the league with the Fiesta pink, teal, orange, and yellow shirt takeover from earlier in the playoffs, and a black towel night feels like a step backward from that ceiling. The colorful Por Vida wordmark on the towel itself is the one element saving the grade from worse — the Fiesta typography is a recognizable Spurs brand asset that adds some color to a black towel — but on broadcast the Por Vida text is small enough that the towel reads as a flat black flag. D.
 
 ## Monday Round 2 Game 4 Giveaways
 
