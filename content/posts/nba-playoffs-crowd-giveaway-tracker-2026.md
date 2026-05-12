@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-09"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 3 Saturday adds Cavs white t-shirts at Rocket Mortgage Fieldhouse paired with the Classic Edition throwback blue jerseys for an old-school full-arena identity, plus Lakers white t-shirts at Crypto.com Arena paired with the Association Edition whites for the weekend white home slot."
+updatedDate: "2026-05-11"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 4 Monday: Lakers split black and yellow at Crypto.com Arena (B), Cavs run a navy and white stripe out at Rocket Mortgage Fieldhouse (B)."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,38 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Monday Round 2 Game 4 Giveaways
+
+The Lakers and Cavaliers both run crowd giveaways for Monday's Round 2 Game 4 slate. Los Angeles splits black and yellow t-shirts across Crypto.com Arena in a mixed pattern for a Thunder home night on the alternate court. Cleveland runs a navy and white stripe out at Rocket Mortgage Fieldhouse, different sections of the arena wearing different colors for a two-tone split look against the Pistons.
+
+### Los Angeles Lakers · Black and Yellow T-Shirts · Game 4 · Grade: B
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RajChipalu/status/2053985654296674511"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cryptocomarena/status/2053992687746068966"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LakersNation/status/2053989159950569688"></a></blockquote>
+</div>
+
+The Lakers hand out a split black and yellow crowd kit at Crypto.com Arena for Game 4 against the Thunder, sections mixing the two colors rather than committing to a unified single-color takeover. The yellow patches in the crowd lift the grade — yellow against the City Edition black alternate court delivers some broadcast identity, and the gold anchors the Lakers color story better than all-black would. Lakers fans are historically reluctant to wear giveaway shirts, and the black shirts scattered through the crowd drag the visual unity down on an already low-grade jersey night. The yellow saves it; the split format holds it at B.
+
+### Cleveland Cavaliers · Navy and White Stripe Out · Game 4 · Grade: B
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cavs/status/2053948462165577979"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cavs/status/2053945653105975698"></a></blockquote>
+</div>
+
+Cleveland runs a navy and white stripe out at Rocket Mortgage Fieldhouse for Game 4 against the Pistons, sections of the arena split between navy shirts and white shirts for a two-tone crowd pattern. The navy and white combination anchors the Cavaliers color identity and reads better on broadcast than a black-and-white split would — navy gives the crowd structure and ties back to the team palette in a way plain black never would. Not the unified statement the all-white takeovers from earlier in the playoffs delivered, but the color commitment holds the grade at B.
 
 ## Saturday Round 2 Game 3 Giveaways
 
