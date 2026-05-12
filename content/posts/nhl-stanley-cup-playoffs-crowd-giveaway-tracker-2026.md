@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-02"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Saturday opens Round 2 with Hurricanes white rally towels at Lenovo Center for Game 1 against the Flyers."
+updatedDate: "2026-05-11"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Monday Round 2 Game 4: Wild rally towels at Xcel Energy Center for the Avalanche series (B+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Monday Round 2 Game 4 Giveaway
+
+Minnesota hosts Colorado at Xcel Energy Center for Round 2 Game 4 with the Wild down 2-1 in the series, and the State of Hockey crowd comes loaded with rally towels for the home crowd.
+
+### Minnesota Wild · Rally Towels · Round 2 Game 4 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2053942540152274956"></a></blockquote>
+</div>
+
+Minnesota hands out rally towels at Xcel Energy Center for Round 2 Game 4 against the Avalanche, paired with the Wild primary green home sweater for a coordinated crowd look. The towels look sharp and the Wild committed to a real visual package for a series elimination-pressure home night, which earns the bump well above the standard rally-towel floor. Towels cap below a full t-shirt takeover in terms of broadcast ceiling, but Minnesota's execution and the State of Hockey arena identity make this one of the better towel giveaways of the postseason. B+.
 
 ## Saturday Round 2 Game 1 Giveaway
 
