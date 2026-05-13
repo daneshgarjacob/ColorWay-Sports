@@ -61,15 +61,16 @@ async function build() {
   const espnBuf = await readFile(resolve(LOGO_DIR, "espn.png"));
   const nbaBuf = await readFile(resolve(LOGO_DIR, "nba.png"));
 
-  const networkLogoSize = 360;
+  const nbcLogoSize = 300;
+  const espnLogoSize = 360;
   const nbcLogo = await sharp(nbcBuf)
-    .resize(networkLogoSize, networkLogoSize, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .resize(nbcLogoSize, nbcLogoSize, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
     .png()
     .toBuffer();
   const nbcMeta = await sharp(nbcLogo).metadata();
 
   const espnLogo = await sharp(espnBuf)
-    .resize(networkLogoSize, networkLogoSize, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .resize(espnLogoSize, espnLogoSize, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
     .png()
     .toBuffer();
   const espnMeta = await sharp(espnLogo).metadata();
