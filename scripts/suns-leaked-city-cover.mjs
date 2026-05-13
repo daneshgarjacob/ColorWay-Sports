@@ -15,8 +15,8 @@ const OUTPUT = resolve(IMG_DIR, "cover.jpg");
 const WIDTH = 1600;
 const HEIGHT = 900;
 
-const CURRENT_JERSEY = "suns-current-city-black.jpg";
-const LEAKED_JERSEY = "suns-leaked-city-teal.jpg";
+const CURRENT_JERSEY = "suns-current-city-black.png";
+const LEAKED_JERSEY = "suns-leaked-city-teal.png";
 
 const TILE_W = 460;
 const TILE_H = 540;
@@ -58,26 +58,10 @@ async function build() {
 
   async function prepTile(filename) {
     const buf = await readFile(resolve(IMG_DIR, filename));
-    const resized = await sharp(buf)
-      .resize(TILE_W, TILE_H, { fit: "contain", background: { r: 255, g: 255, b: 255, alpha: 0 } })
-      .ensureAlpha()
-      .raw()
-      .toBuffer({ resolveWithObject: true });
-
-    const { data, info } = resized;
-    const threshold = 235;
-    for (let i = 0; i < data.length; i += 4) {
-      const r = data[i];
-      const g = data[i + 1];
-      const b = data[i + 2];
-      if (r >= threshold && g >= threshold && b >= threshold) {
-        data[i + 3] = 0;
-      } else if (r >= 215 && g >= 215 && b >= 215) {
-        const lum = (r + g + b) / 3;
-        data[i + 3] = Math.max(0, Math.round(((255 - lum) / 40) * 255));
-      }
-    }
-    return sharp(data, { raw: info }).png().toBuffer();
+    return sharp(buf)
+      .resize(TILE_W, TILE_H, { fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+      .png()
+      .toBuffer();
   }
 
   const currentTile = await prepTile(CURRENT_JERSEY);
