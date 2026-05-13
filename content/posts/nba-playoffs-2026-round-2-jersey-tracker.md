@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-12"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Thunder sweep Lakers 4-0 and advance to the Western Conference Finals, Pistons and Cavs tied 2-2 after Game 4 in Cleveland, Spurs-Timberwolves Game 5 tonight in San Antonio, Knicks swept the Sixers 4-0. Every uniform matchup graded."
+updatedDate: "2026-05-13"
+excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Thunder sweep Lakers 4-0 and advance to the Western Conference Finals, Spurs beat Timberwolves in Game 5 at Frost Bank Center to take a 3-2 series lead, Pistons-Cavs Game 5 tonight in Detroit, Knicks swept the Sixers 4-0. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -248,13 +248,13 @@ Thunder Icon Edition blue home jersey against Lakers Icon Edition gold road unif
 
 ## San Antonio Spurs vs Minnesota Timberwolves
 
-San Antonio and Minnesota are tied 2-2 in the Western Conference second round series after splitting the Minneapolis games at Target Center. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Series shifted to Target Center for Games 3 and 4 with the Wolves running the Classic Edition black throwback debut at home both games and the Spurs in Association white road, a 6 out of 10 matchup in both games. Minnesota took Game 4 to even the series 2-2 and end the Spurs perfect Association whites postseason streak. Game 5 is tonight at Frost Bank Center in San Antonio with the Spurs Icon Edition black debut projected, and Game 6 returns to Target Center Friday with Minnesota back in the Classic Edition throwback black.
+San Antonio leads Minnesota 3-2 in the Western Conference second round series after taking Game 5 at Frost Bank Center to put the Wolves on the brink of elimination heading back to Target Center. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Series shifted to Target Center for Games 3 and 4 with the Wolves running the Classic Edition black throwback debut at home both games and the Spurs in Association white road, a 6 out of 10 matchup in both games. San Antonio took Game 5 at home in the Icon Edition black debut to grab a 3-2 series lead, and Game 6 returns to Target Center Friday with Minnesota back in the Classic Edition throwback black facing elimination.
 
 ### Game 6: San Antonio Spurs at Minnesota Timberwolves
 
 <div style="background: linear-gradient(135deg, #1a1a1f 0%, #050a25 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Wolves Elimination · Friday</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -286,13 +286,13 @@ San Antonio and Minnesota are tied 2-2 in the Western Conference second round se
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Target Center · Minneapolis · Classic Court</p>
 </div>
 
-Series returns to Target Center for Game 6 Friday with Minnesota back in the Classic Edition black throwback at home and the Spurs in Association Edition white on the road, the exact same uniform pairing as Games 3 and 4 and holding the same six out of 10 grade since the uniform matchup did not change between games. Wolves Classic black home is a strong throwback identity that we have already graded at six out of 10 across the previous two Minneapolis games. Spurs Association white on the road is the right call for the visitor. Six out of 10.
+Series returns to Target Center for Game 6 Friday with Minnesota facing elimination and back in the Classic Edition black throwback at home, the Spurs in Association Edition white on the road, the exact same uniform pairing as Games 3 and 4 and holding the same six out of 10 grade since the uniform matchup did not change between games. Wolves Classic black home is a strong throwback identity that we have already graded at six out of 10 across the previous two Minneapolis games. Spurs Association white on the road is the right call for the visitor. Six out of 10.
 
 ### Game 5: Minnesota Timberwolves at San Antonio Spurs
 
 <div style="background: linear-gradient(135deg, #0d0d10 0%, #050505 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #061922 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 5 · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #061922 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 5 · Spurs Lead 3-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -324,7 +324,7 @@ Series returns to Target Center for Game 6 Friday with Minnesota back in the Cla
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Game 5</p>
 </div>
 
-Spurs flip to the Icon Edition black home jersey for Game 5 at Frost Bank Center with the Wolves in Association Edition white on the road, the second consecutive Spurs home game in a black jersey after the City Edition Fiesta black for Game 1 except this time without the Fiesta arena treatment to lift the grade. Black at home flips the playoff white-versus-color standard and we score it down hard, the Spurs running the plain Icon black home call with no court swap, no giveaway shirt program, no Fiesta seat treatment to anchor a single coordinated visual moment the way the Fiesta Night reset did in Game 1. Wolves in Association white on the road is the right call but cannot save the matchup on its own. One out of 10. The lowest Round 2 grade so far and the call we wanted San Antonio to flip back to the Association whites on after the perfect 10 in Game 2.
+Spurs flip to the Icon Edition black home jersey for Game 5 at Frost Bank Center with the Wolves in Association Edition white on the road, the second consecutive Spurs home game in a black jersey after the City Edition Fiesta black for Game 1 except this time without the Fiesta arena treatment to lift the grade. Black at home flips the playoff white-versus-color standard and we score it down hard, the Spurs running the plain Icon black home call with no court swap, no giveaway shirt program, no Fiesta seat treatment to anchor a single coordinated visual moment the way the Fiesta Night reset did in Game 1. Wolves in Association white on the road is the right call but cannot save the matchup on its own. San Antonio took Game 5 at home in the Icon black to grab a 3-2 series lead and push the Wolves to the brink of elimination. One out of 10. The lowest Round 2 grade so far and the call we wanted San Antonio to flip back to the Association whites on after the perfect 10 in Game 2.
 
 ### Game 4: San Antonio Spurs at Minnesota Timberwolves
 
@@ -874,9 +874,9 @@ Pistons Association Edition white home jersey against Cavaliers Statement Editio
 
 ## FAQ: 2026 NBA Playoffs Round 2 Jersey Tracker
 
-**Which NBA teams have advanced to the Conference Finals so far?** The Knicks and Thunder have both swept their second round series 4-0 to advance to the Conference Finals. New York closed Philadelphia 4-0 with the Sixers Association whites and the Knicks Icon blue road at Wells Fargo Center, and Oklahoma City closed the Lakers 4-0 with the Lakers City Edition black at home in the Game 4 closeout. Pistons-Cavs and Spurs-Timberwolves are both tied 2-2.
+**Which NBA teams have advanced to the Conference Finals so far?** The Knicks and Thunder have both swept their second round series 4-0 to advance to the Conference Finals. New York closed Philadelphia 4-0 with the Sixers Association whites and the Knicks Icon blue road at Wells Fargo Center, and Oklahoma City closed the Lakers 4-0 with the Lakers City Edition black at home in the Game 4 closeout. Spurs lead the Timberwolves 3-2 after taking Game 5 at Frost Bank Center in the Icon Edition black home debut. Pistons-Cavs is tied 2-2 with Game 5 tonight in Detroit.
 
-**What is the Round 2 jersey schedule for the rest of the week?** Spurs-Timberwolves Game 5 is tonight in San Antonio with the Spurs Icon Edition black home debut projected against the Wolves Association whites. Pistons-Cavs Game 5 is Wednesday in Detroit with the Pistons Icon Edition blue home debut against the Cavs Association whites, a 6 out of 10 projection. Pistons-Cavs Game 6 returns to Cleveland Friday with the Cavs Statement Edition black home in a nod to the LeBron James era against the Pistons Association whites, a 7 out of 10 projection. Spurs-Timberwolves Game 6 returns to Target Center Friday with the Wolves back in the Classic Edition throwback black, a repeat of the Game 3 and Game 4 matchup at 6 out of 10.
+**What is the Round 2 jersey schedule for the rest of the week?** Spurs took Game 5 at Frost Bank Center in the Icon Edition black home debut against the Wolves Association whites for a 1 out of 10 grade. Pistons-Cavs Game 5 is tonight in Detroit with the Pistons Icon Edition blue home debut against the Cavs Association whites, a 6 out of 10 projection. Pistons-Cavs Game 6 returns to Cleveland Friday with the Cavs Statement Edition black home in a nod to the LeBron James era against the Pistons Association whites, a 7 out of 10 projection. Spurs-Timberwolves Game 6 returns to Target Center Friday with Minnesota facing elimination and back in the Classic Edition throwback black, a repeat of the Game 3 and Game 4 matchup at 6 out of 10.
 
 **Why are the Pistons wearing the Icon Edition blue at home for the first time all playoffs in Game 5?** Detroit ran the Association Edition white at home for all four games of their Round 1 series against the Magic and for Games 1 and 2 against Cleveland in Round 2, a perfect 11-of-11 Association whites home streak through 11 playoff games. The Pistons breaking the streak for the Icon Edition blue at home in the Game 5 swing game is one of the bigger uniform storylines of Round 2, and the blue jersey reads cohesive against the blue Little Caesars Arena home court for a 6 out of 10 grade.
 
