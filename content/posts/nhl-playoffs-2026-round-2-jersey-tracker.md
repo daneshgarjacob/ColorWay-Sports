@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-02"
-updatedDate: "2026-05-11"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes sweep Flyers 4-0, Canadiens lead Sabres 2-1 with Game 4 at Bell Centre, Knights and Ducks tied 2-2 with Game 5 in Vegas, Avalanche-Wild Game 4 tonight in Minneapolis. Every primary sweater and uniform matchup graded."
+updatedDate: "2026-05-12"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes swept Flyers 4-0, Avalanche lead Wild 3-1 after taking Game 4 at Xcel, Canadiens lead Sabres 2-1 with Game 4 tonight at Bell Centre, Knights and Ducks tied 2-2 with Game 5 tonight in Vegas. Every primary sweater and uniform matchup graded."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -78,19 +78,19 @@ Every 2026 NHL Stanley Cup Playoffs Round 2 jersey and uniform matchup graded, u
   <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">15 / 17 (88%)</span>
 </div>
 
-Below, every matchup graded, newest first. Seventeen Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Canadiens lead the Sabres 2-1 with Game 4 tomorrow at Bell Centre, the Knights and Ducks are tied 2-2 with Game 5 tomorrow in Vegas, and the Avalanche-Wild series continues at Xcel Energy Center with Game 4 tonight in Minneapolis.
+Below, every matchup graded, newest first. Seventeen Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche lead the Wild 3-1 after taking Game 4 at Xcel Energy Center, the Canadiens lead the Sabres 2-1 with Game 4 tonight at Bell Centre, and the Knights and Ducks are tied 2-2 with Game 5 tonight at T-Mobile Arena in Vegas.
 
 <span id="avalanche-wild"></span>
 
 ## Colorado Avalanche vs Minnesota Wild
 
-Colorado leads Minnesota 2-1 after the Wild took Game 3 3-1 at Xcel Energy Center to cut the Avalanche's lead in half, the series shifting back to Minneapolis with the Wild in the primary green home sweater and the Avalanche in road whites for both Games 3 and 4. Avalanche ran the primary burgundy home sweater for Games 1 and 2 at Ball Arena with the Wild in road whites before the venue shift to Minnesota.
+Colorado leads Minnesota 3-1 after taking Game 4 at Xcel Energy Center to push the Wild to the brink of elimination, the series stretching the Avalanche's lead back out after Minnesota took Game 3 to cut it to 2-1 the night before. The Wild ran the primary green home sweater for both Games 3 and 4 in Minneapolis with the Avalanche in road whites in both, the same uniform matchup grading 8 across both Xcel Energy Center games. Avalanche ran the primary burgundy home sweater for Games 1 and 2 at Ball Arena with the Wild in road whites before the venue shift to Minnesota.
 
 ### Game 4: Colorado Avalanche at Minnesota Wild
 
 <div style="background: linear-gradient(135deg, #0a1f0d 0%, #050f06 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #154734 0%, #A6192E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 4 · Colorado Lead 2-1</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #154734 0%, #A6192E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 4 · Colorado Lead 3-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -111,7 +111,7 @@ Colorado leads Minnesota 2-1 after the Wild took Game 3 3-1 at Xcel Energy Cente
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
 </div>
 
-Same Wild green home sweater against Avalanche road whites as Game 3, the uniform pairing holding the same 8 per the same-matchup-same-score rule. Minnesota's home green with the red and gold accents is one of the cleanest primary identities in the Western Conference and delivers bold contrast against the Colorado road whites at Xcel Energy Center. Eight out of 10.
+Same Wild green home sweater against Avalanche road whites as Game 3, the uniform pairing holding the same 8 per the same-matchup-same-score rule. Minnesota's home green with the red and gold accents is one of the cleanest primary identities in the Western Conference and delivers bold contrast against the Colorado road whites at Xcel Energy Center. Colorado took Game 4 at Xcel to push the series to 3-1 and put the Wild on the brink of elimination heading back to Ball Arena for Game 5. Eight out of 10.
 
 ### Game 3: Colorado Avalanche at Minnesota Wild
 
@@ -198,7 +198,7 @@ Avalanche burgundy home sweater against Wild road whites, Colorado running the p
 
 ## Vegas Golden Knights vs Anaheim Ducks
 
-Series tied 2-2 after the Ducks took Game 4 at Honda Center to even it up, Vegas and Anaheim splitting the first two games at T-Mobile Arena before splitting both Honda Center games. Series returns to T-Mobile Arena for Game 5 tomorrow. Knights gold home and Ducks orange home each carry their own bold primary identity, the white-versus-color standard holding cleanly across the series.
+Series tied 2-2 after the Ducks took Game 4 at Honda Center to even it up, Vegas and Anaheim splitting the first two games at T-Mobile Arena before splitting both Honda Center games. Series returns to T-Mobile Arena for Game 5 tonight. Knights gold home and Ducks orange home each carry their own bold primary identity, the white-versus-color standard holding cleanly across the series.
 
 ### Game 5: Anaheim Ducks at Vegas Golden Knights
 
@@ -339,7 +339,7 @@ Golden Knights gold home sweater against Ducks road whites, Vegas running the pr
 
 ## Buffalo Sabres vs Montreal Canadiens
 
-Montreal leads Buffalo 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut for the round, with Game 4 tomorrow at Bell Centre keeping the same Canadiens red home against Sabres road whites matchup. Buffalo and Montreal split the first two games at KeyBank Center with the Sabres running the primary royal blue home sweater against the Canadiens road whites in one of the cleanest jersey pairings of Round 2, the same matchup grade in both games earning a nine since the uniform pairing did not change.
+Montreal leads Buffalo 2-1 after taking Game 3 at Bell Centre in the iconic Habs red home debut for the round, with Game 4 tonight at Bell Centre keeping the same Canadiens red home against Sabres road whites matchup. Buffalo and Montreal split the first two games at KeyBank Center with the Sabres running the primary royal blue home sweater against the Canadiens road whites in one of the cleanest jersey pairings of Round 2, the same matchup grade in both games earning a nine since the uniform pairing did not change.
 
 ### Game 4: Buffalo Sabres at Montreal Canadiens
 
@@ -569,7 +569,7 @@ Hurricanes black home alternate sweater against Flyers white road uniform, Carol
 
 **Which teams are in NHL Round 2?** All four divisional second-round series are set: Hurricanes hosting Flyers and Sabres hosting Canadiens in the East, Avalanche hosting Wild and Golden Knights hosting Ducks in the West.
 
-**Who is leading each Round 2 series?** Through seventeen tracked games, the Hurricanes have swept the Flyers 4-0 to advance to the Eastern Conference Final, the Canadiens lead the Sabres 2-1 with Game 4 at Bell Centre tomorrow, the Knights and Ducks are tied 2-2 with Game 5 in Vegas tomorrow, and the Avalanche-Wild series continues at Xcel Energy Center with Game 4 tonight in Minneapolis.
+**Who is leading each Round 2 series?** Through seventeen tracked games, the Hurricanes have swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche lead the Wild 3-1 after taking Game 4 at Xcel Energy Center, the Canadiens lead the Sabres 2-1 with Game 4 at Bell Centre tonight, and the Knights and Ducks are tied 2-2 with Game 5 at T-Mobile Arena in Vegas tonight.
 
 **Where do I find the Round 1 jersey tracker?** Round 1 jersey and uniform grades are tracked at our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/posts/nhl-playoffs-2026-round-1-jersey-tracker), updated game by game with primary sweaters, alternates, and throwback grades.
 
