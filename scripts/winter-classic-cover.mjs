@@ -45,9 +45,9 @@ async function build() {
       .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -2px; }
       .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; fill: #ffffff; opacity: 0.92; letter-spacing: 4px; }
     </style>
-    <text x="${WIDTH / 2}" y="125" text-anchor="middle" class="eyebrow" font-size="26">NHL WINTER CLASSIC LOGO HISTORY</text>
-    <text x="${WIDTH / 2}" y="215" text-anchor="middle" class="title" font-size="86">2008 to 2027</text>
-    <text x="${WIDTH / 2}" y="800" text-anchor="middle" class="subtitle" font-size="26">EVERY OUTDOOR GAME LOGO RANKED</text>
+    <text x="${WIDTH / 2}" y="95" text-anchor="middle" class="eyebrow" font-size="26">NHL WINTER CLASSIC LOGO HISTORY</text>
+    <text x="${WIDTH / 2}" y="180" text-anchor="middle" class="title" font-size="86">2008 to 2027</text>
+    <text x="${WIDTH / 2}" y="230" text-anchor="middle" class="subtitle" font-size="26">EVERY OUTDOOR GAME LOGO RANKED</text>
   </svg>`;
 
   // 2027 logo as the hero
@@ -64,7 +64,7 @@ async function build() {
       {
         input: heroPng,
         left: Math.round((WIDTH - heroMeta.width) / 2),
-        top: Math.round(HEIGHT / 2 - heroMeta.height / 2 + 30),
+        top: Math.round(HEIGHT / 2 - heroMeta.height / 2 + 80),
       },
       { input: Buffer.from(textSvg), top: 0, left: 0 },
     ])
