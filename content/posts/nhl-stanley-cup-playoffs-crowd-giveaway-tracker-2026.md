@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-11"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Monday Round 2 Game 4: Wild rally towels at Xcel Energy Center for the Avalanche series (B+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-05-12"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday Round 2: Canadiens white rally towels at Bell Centre for Game 4 vs Sabres (C+), Knights gold rally towels at T-Mobile Arena for Game 5 vs Ducks (B). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,26 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Tuesday Round 2 Game 4 and Game 5 Giveaways
+
+Two NHL home games tipping Tuesday night across Bell Centre and T-Mobile Arena. Montreal hands out white rally towels at every Bell Centre seat for Game 4 against the Sabres looking to push the series lead to 3-1, the same white towel format the Canadiens ran for Game 6 against the Lightning in Round 1. Vegas runs gold rally towels at T-Mobile Arena for the Game 5 swing game against the Ducks, the color-matched gold towel format paired with the Knights gold home sweater that we graded a B in Round 1. Both teams running back consistent crowd-package formats from earlier in the postseason.
+
+### Montreal Canadiens · White Rally Towels · Round 2 Game 4 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StuCowan1/status/2054212731864064139"></a></blockquote>
+</div>
+
+Montreal hands out white rally towels at every Bell Centre seat for Game 4 against the Sabres, the same white towel format the Canadiens ran for the Round 1 closeout-chance Game 6 against the Lightning. White reads clean on the broadcast and the towel-wave moments fit the loud Bell Centre crowd, but rally towels never hit the visual ceiling of a t-shirt takeover and the white-with-red mismatch costs the broadcast color cohesion with the Canadiens primary red home sweater. C+. Standard NHL rally towel night and a repeat of the Round 1 G6 grade per the same-giveaway-same-score rule. A red towel takeover would have lit up Bell Centre and matched the home sweater for the broadcast read.
+
+### Vegas Golden Knights · Gold Rally Towels · Round 2 Game 5 · Grade: B
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/2054331411474313698"></a></blockquote>
+</div>
+
+Vegas runs gold rally towels at every T-Mobile Arena seat for Game 5 against the Ducks, the color-matched gold towel format the Knights ran for the Round 1 Game 5 swing game against Utah at the same B grade. Gold paired with the Knights gold home sweater anchors the team color story cleanly on broadcast and gives Vegas one of the most cohesive crowd-and-jersey color combinations in the league. B. Same color-matched format and same grade as Round 1 G5 per the same-giveaway-same-score rule, the gold towel lift above the standard white-towel floor on the strength of color cohesion alone.
 
 ## Monday Round 2 Game 4 Giveaway
 
