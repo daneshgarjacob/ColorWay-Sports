@@ -2,7 +2,7 @@
 title: "Where to Watch the 2026 NBA Conference Finals: Western on NBC, Eastern on ESPN"
 category: "NBA"
 date: "2026-05-13"
-excerpt: "Where to watch the 2026 NBA Conference Finals: the Western Conference Finals air exclusively on NBC and Peacock. The Eastern Conference Finals air exclusively on ESPN. NBA Finals on ABC starting June 3."
+excerpt: "Where to watch the 2026 NBA Conference Finals: the Western Conference Finals air exclusively on NBC and Peacock. The Eastern Conference Finals air on ESPN with select Sunday games on ABC. NBA Finals on ABC starting June 3."
 gradient: "linear-gradient(135deg, #1A4FA3 0%, #0A0A0A 50%, #C8102E 100%)"
 coverImage: "/images/posts/where-to-watch-2026-nba-conference-finals/cover.jpg"
 coverImagePosition: "center center"
@@ -13,7 +13,7 @@ teams: []
 
 <img src="/images/posts/where-to-watch-2026-nba-conference-finals/cover.jpg" alt="Where to watch the 2026 NBA Conference Finals cover graphic showing NBC peacock logo on the left for the Western Conference Finals and the ESPN logo on the right for the Eastern Conference Finals with the NBA logo centered between them on a blue to red gradient" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
-<p style="margin-bottom: 1.5em;">Here is the short answer: the 2026 NBA Western Conference Finals air exclusively on NBC and stream on Peacock. The 2026 NBA Eastern Conference Finals air exclusively on ESPN and stream on the ESPN app. The 2026 NBA Finals start Wednesday, June 3 on ABC. Below is the full breakdown of every conference final broadcast option, the streaming details, the schedule, and a quick FAQ on how to watch if you do not have cable.</p>
+<p style="margin-bottom: 1.5em;">Here is the short answer: the 2026 NBA Western Conference Finals air exclusively on NBC and stream on Peacock. The 2026 NBA Eastern Conference Finals air on ESPN with select Sunday games picked up by sister network ABC, and every game streams on the ESPN app. The 2026 NBA Finals start Wednesday, June 3 on ABC. Below is the full breakdown of every conference final broadcast option, the streaming details, the schedule, and a quick FAQ on how to watch if you do not have cable.</p>
 
 ## Western Conference Finals on NBC and Peacock
 
@@ -21,11 +21,11 @@ The 2026 NBA Western Conference Finals are airing exclusively on NBC. Every game
 
 If you have cable or a streaming TV bundle that includes NBC, you can watch the Western Conference Finals there. If you do not, Peacock is the streaming home for every Western Conference Finals game and the games are part of the Peacock Premium tier.
 
-## Eastern Conference Finals on ESPN
+## Eastern Conference Finals on ESPN (and ABC for Sunday Games)
 
-The 2026 NBA Eastern Conference Finals are airing exclusively on ESPN. Every game of the series airs on ESPN and streams on the ESPN app. The New York Knicks are the only team confirmed for the Eastern Conference Finals after sweeping the Philadelphia 76ers in Round 2. The Knicks will face the winner of the Detroit Pistons vs Cleveland Cavaliers Round 2 series, which is currently tied 2-2 with Game 5 tonight in Detroit.
+The 2026 NBA Eastern Conference Finals are airing on ESPN with select Sunday afternoon games carried by sister network ABC. Every game of the series streams on the ESPN app regardless of which network carries the broadcast. The New York Knicks are the only team confirmed for the Eastern Conference Finals after sweeping the Philadelphia 76ers in Round 2. The Knicks will face the winner of the Detroit Pistons vs Cleveland Cavaliers Round 2 series, which is currently tied 2-2 with Game 5 tonight in Detroit.
 
-ESPN cable subscribers can watch on the network. ESPN+ and ESPN Unlimited subscribers can stream every Eastern Conference Finals game on the ESPN app.
+ESPN cable subscribers can watch every game on ESPN or ABC depending on the night. ESPN+ and ESPN Unlimited subscribers can stream every Eastern Conference Finals game on the ESPN app. The ESPN-to-ABC handoff for Sunday afternoon games is the same playoff pattern Disney has run for years and applies to any ECF game scheduled in a Sunday afternoon window.
 
 ## 2026 NBA Conference Finals Schedule
 
@@ -51,7 +51,7 @@ The 2026 NBA Western Conference Finals air exclusively on NBC. Every game of the
 
 **What channel is the 2026 NBA Eastern Conference Finals on?**
 
-The 2026 NBA Eastern Conference Finals air exclusively on ESPN. Every game of the series streams on the ESPN app and ESPN Unlimited as well. The Eastern Conference Finals feature the New York Knicks against the winner of the Detroit Pistons vs Cleveland Cavaliers series.
+The 2026 NBA Eastern Conference Finals air on ESPN with select Sunday afternoon games picked up by sister network ABC, and every game streams on the ESPN app. The Eastern Conference Finals feature the New York Knicks against the winner of the Detroit Pistons vs Cleveland Cavaliers series.
 
 **How can I stream the 2026 NBA Conference Finals?**
 
