@@ -73,8 +73,8 @@ async function build() {
   </svg>`;
 
   // Load jerseys
-  const whiteBuf = await readFile(resolve(JERSEY_DIR, "celtics-association-white.png"));
-  const colorBuf = await readFile(resolve(JERSEY_DIR, "celtics-icon-green.png"));
+  const whiteBuf = await readFile(resolve(JERSEY_DIR, "knicks-association-white.png"));
+  const colorBuf = await readFile(resolve(JERSEY_DIR, "knicks-icon-blue.png"));
 
   const whiteJersey = await sharp(whiteBuf)
     .resize(320, 480, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
