@@ -4,7 +4,8 @@ category: "F1"
 date: "2026-05-14"
 excerpt: "Gucci is in talks to replace BWT as Alpine's F1 title sponsor for 2027, ending the pink era and bringing Italian luxury to the grid."
 gradient: "linear-gradient(135deg, #0054A6 0%, #001845 55%, #1a1a1a 100%)"
-logoSrc: "/logos/f1.png"
+coverImage: "/images/posts/alpine-f1-gucci-title-sponsor-2027-livery/cover.jpg"
+coverImageFit: "cover"
 league: "f1"
 tags: ["Alpine", "Gucci", "F1 Livery", "BWT", "Formula One", "F1 2027"]
 ---
