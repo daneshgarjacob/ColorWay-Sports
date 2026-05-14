@@ -6,11 +6,17 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 
+const TRACKER_SLUGS = new Set([
+  "nba-playoffs-2026-round-2-jersey-tracker",
+  "nhl-playoffs-2026-round-2-jersey-tracker",
+  "nba-playoffs-crowd-giveaway-tracker-2026",
+]);
+
 export default function Home() {
   const posts = getAllPosts();
-  const featured = posts[0];
-  const secondary = posts.slice(1, 3); // 2 secondary featured stories
-  const rest = posts.slice(3, 9); // Show only 6 more (9 total on homepage)
+  const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
+  const lead = filtered.slice(0, 3);
+  const compact = filtered.slice(3, 9);
 
   return (
     <>
@@ -19,122 +25,61 @@ export default function Home() {
         <Hero />
         <HomepageTrackers />
 
-        {/* Featured stories — top section */}
-        <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-4">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            {/* Main featured story — tall, left side */}
-            {featured && (
-              <Link href={`/stories/${featured.slug}`} className="block group lg:row-span-2">
-                <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-full min-h-[320px] lg:min-h-[440px]">
-                  <div
-                    className="absolute inset-0 flex items-start justify-center pt-8 sm:pt-12"
-                    style={{ background: (featured.coverImageFit === "contain" || !featured.coverImage) ? featured.gradient : undefined }}
-                  >
-                    {featured.coverImage ? (
-                      <img
-                        src={featured.coverImage}
-                        alt=""
-                        className={`absolute inset-0 w-full h-full transition-all duration-500 group-hover:scale-105 ${featured.coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
-                        style={featured.coverImagePosition ? { objectPosition: featured.coverImagePosition } : undefined}
-                      />
-                    ) : featured.logoSrc && featured.logoSrc2 ? (
-                      <div className="flex items-center gap-5 transition-all duration-500 group-hover:scale-110">
-                        <img src={featured.logoSrc} alt="" className="h-[90px] sm:h-[110px] w-auto drop-shadow-2xl" />
-                        <span className="text-white/60 text-3xl font-extrabold">×</span>
-                        <img src={featured.logoSrc2} alt="" className="h-[70px] sm:h-[90px] w-auto drop-shadow-2xl" />
-                      </div>
-                    ) : featured.logoSrc ? (
-                      <img
-                        src={featured.logoSrc}
-                        alt=""
-                        className="h-[100px] sm:h-[130px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-2xl"
-                      />
-                    ) : (
-                      <span className="text-white/15 text-5xl sm:text-6xl font-bold uppercase tracking-wider transition-all duration-300 group-hover:text-white/25">
-                        {featured.category}
-                      </span>
-                    )}
-                  </div>
-                  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 via-black/50 to-transparent p-6 sm:p-8">
-                    <span className="text-[11px] font-bold uppercase tracking-widest text-orange">
-                      {featured.category}
-                    </span>
-                    <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-white mt-1 leading-tight group-hover:text-orange transition-colors duration-200">
-                      {featured.title}
-                    </h2>
-                    <p className="text-sm text-white/70 mt-2 max-w-[500px] hidden sm:block">
-                      {featured.excerpt}
-                    </p>
-                  </div>
-                </div>
+        {/* Latest stories — 3 equal cards */}
+        {lead.length > 0 && (
+          <section className="max-w-[1200px] mx-auto px-5 pt-10 pb-4">
+            <div className="flex items-baseline justify-between mb-3">
+              <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
+                Latest Stories
+              </h2>
+              <Link
+                href="/stories"
+                className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
+              >
+                All stories →
               </Link>
-            )}
+            </div>
+            <hr className="border-border mb-8" />
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {lead.map((post) => (
+                <StoryCard key={post.slug} {...post} />
+              ))}
+            </div>
+          </section>
+        )}
 
-            {/* Two secondary featured stories — stacked on right */}
-            {secondary.map((post) => (
-              <Link key={post.slug} href={`/stories/${post.slug}`} className="block group">
-                <div className="featured-card relative rounded-xl overflow-hidden transition-all duration-300 h-[210px]">
-                  <div
-                    className="absolute inset-0 flex items-center justify-center"
-                    style={{ background: (post.coverImageFit === "contain" || !post.coverImage) ? post.gradient : undefined }}
-                  >
-                    {post.coverImage ? (
-                      <img
-                        src={post.coverImage}
-                        alt=""
-                        className={`absolute inset-0 w-full h-full transition-all duration-500 group-hover:scale-105 ${post.coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
-                        style={post.coverImagePosition ? { objectPosition: post.coverImagePosition } : undefined}
-                      />
-                    ) : post.logoSrc && post.logoSrc2 ? (
-                      <div className="flex items-center gap-3 transition-all duration-500 group-hover:scale-110 -translate-y-4">
-                        <img src={post.logoSrc} alt="" className="h-[60px] w-auto drop-shadow-xl" />
-                        <span className="text-white/60 text-xl font-extrabold">×</span>
-                        <img src={post.logoSrc2} alt="" className="h-[45px] w-auto drop-shadow-xl" />
-                      </div>
-                    ) : post.logoSrc && post.overlayText ? (
-                      <div className="flex flex-col items-center gap-2 transition-all duration-500 group-hover:scale-110 -translate-y-4">
-                        <img src={post.logoSrc} alt="" className="h-[70px] w-auto drop-shadow-xl" />
-                        <span className="text-white text-base font-extrabold uppercase tracking-widest drop-shadow-lg">
-                          {post.overlayText}
-                        </span>
-                      </div>
-                    ) : post.logoSrc ? (
-                      <img
-                        src={post.logoSrc}
-                        alt=""
-                        className="h-[80px] w-auto transition-all duration-500 group-hover:scale-110 drop-shadow-xl -translate-y-4"
-                      />
-                    ) : (
-                      <span className="text-white/15 text-3xl font-bold uppercase tracking-wider transition-all duration-300 group-hover:text-white/25">
-                        {post.category}
-                      </span>
-                    )}
-                  </div>
-                  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 via-black/40 to-transparent p-5">
-                    <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
-                      {post.category}
-                    </span>
-                    <h3 className="text-base sm:text-lg font-bold text-white mt-1 leading-snug group-hover:text-orange transition-colors duration-200">
-                      {post.title}
-                    </h3>
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </section>
-
-        {/* Remaining stories grid */}
-        {rest.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 py-8">
+        {/* More stories — compact bordered grid */}
+        {compact.length > 0 && (
+          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-10">
             <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98] mb-3">
               More Stories
             </h2>
-            <hr className="border-border mb-8" />
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {rest.map((post) => (
-                <StoryCard key={post.slug} {...post} />
+            <hr className="border-border" />
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+              {compact.map((post, i) => (
+                <Link
+                  key={post.slug}
+                  href={`/stories/${post.slug}`}
+                  className={[
+                    "group flex flex-col gap-2 py-6 border-b border-border transition-colors duration-150 hover:bg-[#f8f8fa]",
+                    "px-6 first:pl-0",
+                    i % 3 === 0 ? "lg:pl-0 lg:pr-6" : "",
+                    i % 3 === 1 ? "lg:px-6 lg:border-x lg:border-border" : "",
+                    i % 3 === 2 ? "lg:pr-0 lg:pl-6" : "",
+                  ]
+                    .filter(Boolean)
+                    .join(" ")}
+                >
+                  <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
+                    {post.category}
+                  </span>
+                  <h3 className="text-[15px] font-bold text-[#0B1F4A] leading-snug group-hover:text-orange transition-colors duration-150">
+                    {post.title}
+                  </h3>
+                  <p className="text-[13px] text-[#6B7280] leading-relaxed line-clamp-2">
+                    {post.excerpt}
+                  </p>
+                </Link>
               ))}
             </div>
 
@@ -142,7 +87,7 @@ export default function Home() {
               <Link
                 href="/stories"
                 className="inline-block px-8 py-3 text-[13px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-all duration-200"
-                style={{ boxShadow: '0 2px 8px rgba(0,33,165,0.25)' }}
+                style={{ boxShadow: "0 2px 8px rgba(0,33,165,0.25)" }}
               >
                 View All Stories
               </Link>

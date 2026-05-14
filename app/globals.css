@@ -196,20 +196,6 @@ a {
   color: var(--color-gray-medium);
 }
 
-/* Drop cap on lead paragraph — handles both text-first and image-first posts.
-   Opt out by adding any inline `style` attribute to the lead paragraph. */
-.prose > p:first-of-type:not([style])::first-letter,
-.prose > img:first-child + p[style*="text-align: center"] + p:not([style])::first-letter,
-.prose > img:first-child + p[style*="text-align"] + p:not([style])::first-letter {
-  float: left;
-  font-family: var(--font-serif);
-  font-size: 4.5em;
-  line-height: 0.82;
-  font-weight: 800;
-  padding-right: 0.1em;
-  padding-top: 0.08em;
-  color: var(--color-orange);
-}
 
 /* Pull quote — for editorial emphasis inside posts */
 .prose .pull-quote {
