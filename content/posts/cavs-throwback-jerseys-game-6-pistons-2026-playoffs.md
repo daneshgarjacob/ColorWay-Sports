@@ -4,7 +4,8 @@ category: "NBA"
 date: "2026-05-15"
 excerpt: "Cavs switch to Classic Edition throwback blue for Game 6 vs Pistons — the same uniform they were 2-0 in when they flipped the series."
 gradient: "linear-gradient(135deg, #6F263D 0%, #2d0e1a 60%, #1a0a10 100%)"
-logoSrc: "/logos/nba.png"
+coverImage: "/images/posts/cavs-throwback-jerseys-game-6-pistons-2026-playoffs/cavs-throwback.jpg"
+coverImageFit: "cover"
 league: "nba"
 tags: ["Cleveland Cavaliers", "NBA Playoffs", "Throwback Jersey", "Pistons", "NBA Uniforms", "Game 6", "Classic Edition"]
 ---
