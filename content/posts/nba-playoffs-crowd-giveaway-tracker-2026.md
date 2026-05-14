@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-12"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 5 Tuesday: Spurs hand out Por Vida black rally towels at Frost Bank Center to match the Icon Edition black home jerseys (D). Round 2 Game 4 Monday: Lakers split black and yellow at Crypto.com Arena (B), Cavs navy and white stripe out at Rocket Mortgage Fieldhouse (B)."
+updatedDate: "2026-05-13"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 5 Wednesday: Pistons hand out blue ALL DAWG t-shirts at Little Caesars Arena to match the Icon Edition blue home jerseys (A). Tuesday: Spurs Por Vida black rally towels at Frost Bank Center (D)."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Wednesday Round 2 Game 5 Giveaway
+
+The Pistons are the only home team on the Wednesday Round 2 Game 5 slate and they are handing out blue ALL DAWG t-shirts at Little Caesars Arena to match the Icon Edition blue home jersey debut against the Cavaliers. The blue-on-blue color commitment is the strongest crowd giveaway grade in the entire Round 2 slate.
+
+### Detroit Pistons · Blue ALL DAWG T-Shirts · Game 5 · Grade: A
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/alex_crescenti/status/2054648589507272967"></a></blockquote>
+</div>
+
+The Pistons load every Little Caesars Arena seat with blue ALL DAWG t-shirts for Game 5 against the Cavaliers, the shirts matching the Pistons Icon Edition blue home jersey for a unified team-color takeover on the swing-game broadcast. The ALL DAWG wordmark across the chest gives the giveaway its own branded identity and the Pistons blue color story ties the crowd, the home court, and the home jersey into a single visual moment. T-shirts beat towels, color-matching the home jersey beats every other variant, and the all-blue commitment delivers the cohesive arena-wide identity the league's best crowd takeovers nail. A. The strongest giveaway grade of Round 2 so far and the kind of single-color crowd moment we have been asking every home team to commit to all postseason.
 
 ## Tuesday Round 2 Game 5 Giveaway
 
