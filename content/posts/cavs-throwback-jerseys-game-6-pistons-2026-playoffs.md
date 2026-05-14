@@ -6,6 +6,7 @@ excerpt: "Cavs switch to Classic Edition throwback blue for Game 6 vs Pistons â€
 gradient: "linear-gradient(135deg, #6F263D 0%, #2d0e1a 60%, #1a0a10 100%)"
 coverImage: "/images/posts/cavs-throwback-jerseys-game-6-pistons-2026-playoffs/cavs-throwback.jpg"
 coverImageFit: "cover"
+coverImagePosition: "center 25%"
 league: "nba"
 tags: ["Cleveland Cavaliers", "NBA Playoffs", "Throwback Jersey", "Pistons", "NBA Uniforms", "Game 6", "Classic Edition"]
 ---
