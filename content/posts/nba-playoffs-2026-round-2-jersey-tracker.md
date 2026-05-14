@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-13"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Thunder sweep Lakers 4-0 and advance to the Western Conference Finals, Spurs beat Timberwolves in Game 5 at Frost Bank Center to take a 3-2 series lead, Pistons-Cavs Game 5 tonight in Detroit, Knicks swept the Sixers 4-0. Every uniform matchup graded."
+updatedDate: "2026-05-14"
+excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs beat Pistons in Game 5 to take a 3-2 series lead, Thunder swept the Lakers 4-0, Knicks swept the Sixers 4-0, Spurs lead Timberwolves 3-2. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -640,7 +640,7 @@ Knicks Association Edition white home jersey against Sixers Icon Edition royal b
 
 ## Detroit Pistons vs Cleveland Cavaliers
 
-Detroit and Cleveland are tied 2-2 in the Eastern Conference second round series after splitting the Cleveland games at Rocket Mortgage Fieldhouse. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. Game 5 returns to Little Caesars Arena Wednesday with the Pistons breaking from the Association whites for the first time all playoffs and pulling the Icon Edition blue at home, and Game 6 returns to Cleveland Friday with the Cavs running the Statement Edition black home for the first time this series in a nod to the LeBron James era.
+Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cavs took Game 5 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Game 6 returns to Cleveland Friday.
 
 ### Game 6: Detroit Pistons at Cleveland Cavaliers
 
@@ -684,7 +684,7 @@ Cavs flip to the Statement Edition black at home for Game 6 at Rocket Mortgage F
 
 <div style="background: linear-gradient(135deg, #0a0a3d 0%, #04041f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 5 · Wednesday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 5 · Cavs Lead 3-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">

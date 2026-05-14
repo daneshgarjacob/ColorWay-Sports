@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
+import HomepageTrackers from "@/components/HomepageTrackers";
 import StoryCard from "@/components/StoryCard";
 import Footer from "@/components/Footer";
 import Link from "next/link";
@@ -16,6 +17,7 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <HomepageTrackers />
 
         {/* Featured stories — top section */}
         <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-4">

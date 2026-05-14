@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-02"
-updatedDate: "2026-05-13"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes swept Flyers 4-0, Avalanche lead Wild 3-1 with Game 5 tonight at Ball Arena in Colorado burgundy home, Canadiens lead Sabres 2-1 at Bell Centre, Knights beat Ducks in Game 5 at T-Mobile Arena to take a 3-2 series lead. Every primary sweater and uniform matchup graded."
+updatedDate: "2026-05-14"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Avalanche eliminate Wild 4-1 to advance to the Western Conference Final, Hurricanes swept Flyers 4-0, Canadiens lead Sabres 2-1, Knights lead Ducks 3-2. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -80,19 +80,19 @@ Every 2026 NHL Stanley Cup Playoffs Round 2 jersey and uniform matchup graded, u
   <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">16 / 18 (89%)</span>
 </div>
 
-Below, every matchup graded, newest first. Eighteen Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche lead the Wild 3-1 with Game 5 tonight at Ball Arena in the Colorado burgundy home sweater, the Canadiens lead the Sabres 2-1 at Bell Centre, and the Vegas Golden Knights beat the Anaheim Ducks in Game 5 at T-Mobile Arena to take a 3-2 series lead.
+Below, every matchup graded, newest first. Nineteen Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche eliminated the Wild 4-1 to advance to the Western Conference Final, the Canadiens lead the Sabres 2-1 at Bell Centre, and the Vegas Golden Knights lead the Anaheim Ducks 3-2.
 
 <span id="avalanche-wild"></span>
 
 ## Colorado Avalanche vs Minnesota Wild
 
-Colorado leads Minnesota 3-1 with Game 5 tonight at Ball Arena and a chance to close out the series at home. The Avalanche return to the primary burgundy home sweater against the Wild road whites, the same burgundy-versus-white matchup we graded 8.5 in both Games 1 and 2 at Ball Arena before the venue shift to Minneapolis. The Wild ran the primary green home sweater for both Games 3 and 4 at Xcel Energy Center with the Avalanche in road whites in both, that uniform pairing grading 8 across both games. Avalanche took Game 4 at Xcel to push the series to 3-1 and put Minnesota on the brink of elimination.
+Colorado eliminated Minnesota 4-1 and advances to the Western Conference Final. The Avalanche closed out the series at home in Game 5 in the primary burgundy sweater against Wild road whites, the same burgundy-versus-white matchup graded 8.5 in Games 1 and 2. The Wild ran the primary green home sweater for Games 3 and 4 at Xcel Energy Center with the Avalanche in road whites, that pairing grading 8 across both games. Colorado wins the series in five.
 
 ### Game 5: Minnesota Wild at Colorado Avalanche
 
 <div style="background: linear-gradient(135deg, #1a0410 0%, #0a020a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 5 · Wild Elimination · Tonight</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #236192 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 5 · Avalanche Win Series 4-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
