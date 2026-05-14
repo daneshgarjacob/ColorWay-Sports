@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-14"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs beat Pistons in Game 5 to take a 3-2 series lead, Thunder swept the Lakers 4-0, Knicks swept the Sixers 4-0, Spurs lead Timberwolves 3-2. Every uniform matchup graded."
+updatedDate: "2026-05-15"
+excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs switch to throwback blue for Game 6 closeout vs Pistons. Thunder swept the Lakers 4-0, Knicks swept the Sixers 4-0. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -640,13 +640,15 @@ Knicks Association Edition white home jersey against Sixers Icon Edition royal b
 
 ## Detroit Pistons vs Cleveland Cavaliers
 
-Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cavs took Game 5 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Game 6 returns to Cleveland Friday.
+Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cavs took Game 5 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Game 6 returns to Cleveland Thursday with the Cavs announcing a switch back to the Classic Edition throwback blue on the alternate throwback court — the same pairing they went 2-0 in during Games 3 and 4 when they turned the series around.
 
 ### Game 6: Detroit Pistons at Cleveland Cavaliers
 
-<div style="background: linear-gradient(135deg, #0a0a0c 0%, #050505 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+<blockquote class="twitter-tweet"><a href="https://twitter.com/cavs/status/2054985092796187119"></a></blockquote>
+
+<div style="background: linear-gradient(135deg, #6F263D 0%, #2d0e1a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Cavs Closeout</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -656,9 +658,9 @@ Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cav
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/jerseys/nba/cavs-statement-black.png" alt="Cleveland Cavaliers Statement Edition black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
     </div>
   </div>
 </div>
@@ -672,13 +674,13 @@ Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cav
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 2 · Game 6</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · May 15, 2026 · Primary Home Court</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · May 15, 2026 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers primary home court for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Primary Court</p>
+  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
-Cavs flip to the Statement Edition black at home for Game 6 at Rocket Mortgage Fieldhouse with the Pistons in Association Edition white on the road, the first time the Cavs run the black Statement set at home all series as a nod to the LeBron James and Kyrie Irving era of Cleveland uniforms. Black at home flips the playoff white-versus-color standard and we score it down for that, but the LeBron-era reference and the cohesive black-on-primary-home-court read pulls the grade up from the wrong-color floor. Pistons electing to wear their Association whites on the road for the first time this series after running the Icon blue at home in Game 5 is the right visitor call to anchor the matchup. Seven out of 10. The LeBron nod is the difference between a five and a seven.
+Cavs go back to the Classic Edition throwback blue at home for Game 6 at Rocket Mortgage Fieldhouse with the Pistons in Association Edition white on the road, the exact same uniform combination Cleveland ran in Games 3 and 4 when they turned a 2-0 series deficit into a 2-2 tie. Full throwback identity at Rocket Mortgage Fieldhouse — the alternate throwback court paired with the Classic Edition blue — holds the same seven out of 10 grade it earned across both of those games. The matchup is not changing so the grade is not changing. Pistons back in Association whites on the road is the right visitor call. Seven out of 10.
 
 ### Game 5: Cleveland Cavaliers at Detroit Pistons
 
