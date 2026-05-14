@@ -4,7 +4,8 @@ category: "NBA"
 date: "2026-05-15"
 excerpt: "Less than half of Round 1 NBA playoff home games followed the white-at-home rule. Six teams never wore white at home once across their entire first round."
 gradient: "linear-gradient(135deg, #0021A5 0%, #001060 55%, #0a0a1a 100%)"
-logoSrc: "/logos/nba.png"
+coverImage: "/images/posts/nba-playoffs-2026-round-1-home-jersey-breakdown/cover.jpg"
+coverImageFit: "cover"
 league: "nba"
 tags: ["NBA Playoffs", "NBA Uniforms", "Home Jersey", "Traditional Uniforms", "NBA 2026", "Playoff Jerseys"]
 ---
