@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import HomepageTrackers from "@/components/HomepageTrackers";
+import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
 import StoryCard from "@/components/StoryCard";
 import Footer from "@/components/Footer";
 import Link from "next/link";
@@ -24,6 +25,7 @@ export default function Home() {
       <main>
         <Hero />
         <HomepageTrackers />
+        <TraditionalJerseyIndex />
 
         {/* Latest stories — 3 equal cards */}
         {lead.length > 0 && (
