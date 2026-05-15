@@ -10,13 +10,173 @@ league: "nba"
 tags: ["NBA Playoffs", "NBA Uniforms", "Home Jersey", "Traditional Uniforms", "NBA 2026", "Playoff Jerseys"]
 ---
 
-The most basic rule in basketball uniforms is home in white, road in color. It exists so fans can tell at a glance who has home court. It is the oldest and most fundamental visual signal in the sport.
+<p style="margin-bottom: 1.5em;">The most basic rule in basketball uniforms is home in white, road in color. It exists so fans can tell at a glance who has home court. It is the oldest and most fundamental visual signal in the sport.</p>
 
 The NBA has quietly stopped enforcing it.
 
 We tracked every home team jersey choice across all 40 games of the 2026 NBA Playoffs first round. The final number: **19 of 40 games — 47.5% — had the home team in a traditional white jersey.** Over half of all Round 1 home games featured a team in a colored or alternate jersey at home.
 
 Six teams never wore white at home once.
+
+## Round 1 Traditional Home Jersey Tracker
+
+<div style="background: #0d0f18; border-radius: 14px; padding: 28px; margin: 1.5em 0 2em; overflow: hidden;">
+  <div style="text-align: center; margin-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 20px;">
+    <span style="font-size: 11px; font-weight: 800; color: #FF5910; letter-spacing: 4px; text-transform: uppercase; display: block; margin-bottom: 8px;">2026 NBA Playoffs · Round 1</span>
+    <span style="font-size: 22px; font-weight: 900; color: #fff; display: block;">Traditional Home Jersey Tracker</span>
+    <span style="font-size: 13px; color: rgba(255,255,255,0.45); display: block; margin-top: 6px;">Home team in white = traditional · 19 of 40 games · 47.5%</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+
+    <div style="grid-column: 1/-1; background: rgba(31,107,78,0.15); border: 1px solid rgba(31,107,78,0.3); border-radius: 8px; padding: 10px 16px;">
+      <span style="font-size: 10px; font-weight: 800; color: #4caf7d; letter-spacing: 3px; text-transform: uppercase;">Always Traditional · 100%</span>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Boston Celtics</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">3 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Orlando Magic</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">3 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Minnesota Timberwolves</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">3 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Denver Nuggets</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">2 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">New York Knicks</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">2 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Los Angeles Lakers <span style="font-size: 10px; color: rgba(255,255,255,0.4); font-weight: 500;">†</span></span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">2 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Oklahoma City Thunder</span>
+        <span style="color: #4caf7d; font-size: 12px; font-weight: 800;">1 / 1</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #4caf7d; height: 4px; border-radius: 99px; width: 100%;"></div></div>
+    </div>
+
+    <div style="grid-column: 1/-1; background: rgba(255,89,16,0.1); border: 1px solid rgba(255,89,16,0.25); border-radius: 8px; padding: 10px 16px; margin-top: 4px;">
+      <span style="font-size: 10px; font-weight: 800; color: #FF5910; letter-spacing: 3px; text-transform: uppercase;">Mixed · Some Traditional</span>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Portland Trail Blazers</span>
+        <span style="color: #FF5910; font-size: 12px; font-weight: 800;">1 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #FF5910; height: 4px; border-radius: 99px; width: 50%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Toronto Raptors</span>
+        <span style="color: #FF5910; font-size: 12px; font-weight: 800;">1 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #FF5910; height: 4px; border-radius: 99px; width: 33%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Houston Rockets</span>
+        <span style="color: #FF5910; font-size: 12px; font-weight: 800;">1 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #FF5910; height: 4px; border-radius: 99px; width: 33%;"></div></div>
+    </div>
+
+    <div style="grid-column: 1/-1; background: rgba(180,40,40,0.12); border: 1px solid rgba(180,40,40,0.3); border-radius: 8px; padding: 10px 16px; margin-top: 4px;">
+      <span style="font-size: 10px; font-weight: 800; color: #e05555; letter-spacing: 3px; text-transform: uppercase;">Never Traditional · 0%</span>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Cleveland Cavaliers</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Philadelphia 76ers</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Atlanta Hawks</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Detroit Pistons</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 3</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">San Antonio Spurs</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 14px 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span style="color: #fff; font-size: 13px; font-weight: 700;">Phoenix Suns</span>
+        <span style="color: #e05555; font-size: 12px; font-weight: 800;">0 / 2</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.08); border-radius: 99px; height: 4px;"><div style="background: #e05555; height: 4px; border-radius: 99px; width: 0%;"></div></div>
+    </div>
+
+    <div style="grid-column: 1/-1; background: rgba(255,255,255,0.05); border-radius: 8px; padding: 14px 16px; margin-top: 4px; display: flex; justify-content: space-between; align-items: center;">
+      <span style="color: rgba(255,255,255,0.6); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 2px;">Round 1 Total</span>
+      <span style="color: #fff; font-size: 16px; font-weight: 900;">19 / 40 <span style="font-size: 13px; color: rgba(255,255,255,0.5); font-weight: 600;">— 47.5%</span></span>
+    </div>
+
+  </div>
+  <p style="color: rgba(255,255,255,0.35); font-size: 11px; margin: 14px 0 0; text-align: center;">† Lakers note below</p>
+</div>
 
 ## The Six Teams That Abandoned White Entirely at Home
 
@@ -52,7 +212,9 @@ Not everyone abandoned the rule. These teams wore white at home every game.
 
 **New York Knicks — 2 of 2 home games in white.** Association whites for both home games against Atlanta.
 
-**Los Angeles Lakers — 2 of 2 home games in white.** Association whites for both home games against Houston.
+**Los Angeles Lakers — 2 of 2 home games in white.** Association whites for both home games against Houston. A note on the Lakers specifically: their traditional home identity has historically been gold or yellow, not white — the gold Icon Edition jersey is just as tied to Laker history as anything they wear. Wearing white at home means the Lakers are following the modern home-in-white standard, but a Lakers gold jersey at home would also count as a traditional choice by the standards of their franchise history. They are counted as traditional here because they wore their Association whites, but they are a genuine exception to the pure white-equals-traditional equation.
+
+**Oklahoma City Thunder — 1 of 1 home games in white.** Association whites in their lone Game 1 at home before the Suns pushed the series to Phoenix.
 
 ## Why the NBA Lets This Happen
 
