@@ -11,8 +11,8 @@ interface RoundStat {
 const rounds: RoundStat[] = [
   {
     label: "Round 1",
-    traditional: 19,
-    total: 40,
+    traditional: 16,
+    total: 48,
     complete: true,
     slug: "nba-playoffs-2026-round-1-home-jersey-breakdown",
   },
