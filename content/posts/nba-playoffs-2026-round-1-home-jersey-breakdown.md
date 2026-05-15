@@ -1,8 +1,8 @@
 ---
 title: "Only 16 of 48 Round 1 NBA Playoff Games Had the Home Team in a Traditional Uniform. Six Teams Never Did It Once."
 category: "NBA"
-date: "2026-05-15"
-updatedDate: "2026-05-15"
+date: "2026-05-14"
+updatedDate: "2026-05-14"
 excerpt: "Just 33% of Round 1 NBA playoff home games had the home team in a traditional uniform. Six teams never pulled it off once all first round."
 gradient: "linear-gradient(135deg, #0021A5 0%, #001060 55%, #0a0a1a 100%)"
 coverImage: "/images/posts/nba-playoffs-2026-round-1-home-jersey-breakdown/cover.jpg"
