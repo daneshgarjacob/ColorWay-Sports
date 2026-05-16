@@ -3,7 +3,7 @@ title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
 updatedDate: "2026-05-15"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs switch to throwback blue for Game 6 closeout vs Pistons. Thunder swept the Lakers 4-0, Knicks swept the Sixers 4-0. Every uniform matchup graded."
+excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Spurs eliminate Timberwolves 4-2. Thunder swept Lakers 4-0, Knicks swept Sixers 4-0. Pistons-Cavs headed to Game 7 in Detroit. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -248,13 +248,13 @@ Thunder Icon Edition blue home jersey against Lakers Icon Edition gold road unif
 
 ## San Antonio Spurs vs Minnesota Timberwolves
 
-San Antonio leads Minnesota 3-2 in the Western Conference second round series after taking Game 5 at Frost Bank Center to put the Wolves on the brink of elimination heading back to Target Center. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Series shifted to Target Center for Games 3 and 4 with the Wolves running the Classic Edition black throwback debut at home both games and the Spurs in Association white road, a 6 out of 10 matchup in both games. San Antonio took Game 5 at home in the Icon Edition black debut to grab a 3-2 series lead, and Game 6 returns to Target Center Friday with Minnesota back in the Classic Edition throwback black facing elimination.
+San Antonio eliminated Minnesota 4-2, closing the series out in Game 6 at Target Center. The Spurs opened in the City Edition Fiesta black with the full Fiesta arena treatment for Game 1, then flipped to Association Edition white at home for Game 2 with the Wolves answering in the Statement Edition grey alternate, the cleanest matchup of the round. Series shifted to Target Center for Games 3 and 4 with the Wolves running the Classic Edition black throwback debut at home both games and the Spurs in Association white road, a 6 out of 10 matchup in both games. San Antonio took Game 5 at home in the Icon Edition black debut to grab a 3-2 series lead, then closed it out in Game 6 at Minneapolis in the Association white road jersey against the Wolves Classic Edition throwback black, the same 6 out of 10 pairing from Games 3 and 4.
 
 ### Game 6: San Antonio Spurs at Minnesota Timberwolves
 
 <div style="background: linear-gradient(135deg, #1a1a1f 0%, #050a25 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Wolves Elimination · Friday</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FEC524 0%, #78BE20 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Spurs Win Series 4-2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -286,7 +286,7 @@ San Antonio leads Minnesota 3-2 in the Western Conference second round series af
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Target Center · Minneapolis · Classic Court</p>
 </div>
 
-Series returns to Target Center for Game 6 Friday with Minnesota facing elimination and back in the Classic Edition black throwback at home, the Spurs in Association Edition white on the road, the exact same uniform pairing as Games 3 and 4 and holding the same six out of 10 grade since the uniform matchup did not change between games. Wolves Classic black home is a strong throwback identity that we have already graded at six out of 10 across the previous two Minneapolis games. Spurs Association white on the road is the right call for the visitor. Six out of 10.
+Series returns to Target Center for Game 6 Friday with Minnesota facing elimination and back in the Classic Edition black throwback at home, the Spurs in Association Edition white on the road, the exact same uniform pairing as Games 3 and 4 and holding the same six out of 10 grade since the uniform matchup did not change between games. Wolves Classic black home is a strong throwback identity that we have already graded at six out of 10 across the previous two Minneapolis games. Spurs Association white on the road is the right call for the visitor. San Antonio took Game 6 at Target Center to close the series 4-2 and advance to the Western Conference Finals. Six out of 10.
 
 ### Game 5: Minnesota Timberwolves at San Antonio Spurs
 
@@ -640,7 +640,21 @@ Knicks Association Edition white home jersey against Sixers Icon Edition royal b
 
 ## Detroit Pistons vs Cleveland Cavaliers
 
-Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cavs took Game 5 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Game 6 returns to Cleveland Thursday with the Cavs announcing a switch back to the Classic Edition throwback blue on the alternate throwback court — the same pairing they went 2-0 in during Games 3 and 4 when they turned the series around.
+Detroit tied the series 3-3 with a Game 6 win at Rocket Mortgage Fieldhouse, forcing a winner-take-all Game 7 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Detroit came back to win Game 6 in Cleveland with the Cavs in the Classic Edition throwback blue and the Pistons in Association white on the road, same 7 out of 10 pairing, to even the series 3-3. Game 7 jersey matchup is TBD — this section updates as soon as uniform announcements are made.
+
+### Game 7: Cleveland Cavaliers at Detroit Pistons
+
+<div style="background: linear-gradient(135deg, #0a0a3d 0%, #04041f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 7 · Jerseys TBD</span>
+  </div>
+  <div style="padding: 2em 0; text-align: center;">
+    <p style="color: rgba(255,255,255,0.5); font-size: 14px; font-weight: 700; margin: 0; text-transform: uppercase; letter-spacing: 2px;">Detroit Pistons (Home) vs Cleveland Cavaliers (Road)</p>
+    <p style="color: rgba(255,255,255,0.3); font-size: 12px; font-weight: 600; margin: 10px 0 0; text-transform: uppercase; letter-spacing: 1.5px;">Uniform Matchup Announced Pre-Game · Grade Updates Here</p>
+  </div>
+</div>
+
+Game 7 at Little Caesars Arena. No uniform announcements yet — this card updates as soon as Detroit and Cleveland confirm what they are wearing. Check back before tip-off.
 
 ### Game 6: Detroit Pistons at Cleveland Cavaliers
 
@@ -648,7 +662,7 @@ Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cav
 
 <div style="background: linear-gradient(135deg, #6F263D 0%, #2d0e1a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Cavs Closeout</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 6 · Series Tied 3-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -680,7 +694,7 @@ Cleveland leads Detroit 3-2 in the Eastern Conference second round after the Cav
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
-Cavs go back to the Classic Edition throwback blue at home for Game 6 at Rocket Mortgage Fieldhouse with the Pistons in Association Edition white on the road, the exact same uniform combination Cleveland ran in Games 3 and 4 when they turned a 2-0 series deficit into a 2-2 tie. Full throwback identity at Rocket Mortgage Fieldhouse — the alternate throwback court paired with the Classic Edition blue — holds the same seven out of 10 grade it earned across both of those games. The matchup is not changing so the grade is not changing. Pistons back in Association whites on the road is the right visitor call. Seven out of 10.
+Cavs go back to the Classic Edition throwback blue at home for Game 6 at Rocket Mortgage Fieldhouse with the Pistons in Association Edition white on the road, the exact same uniform combination Cleveland ran in Games 3 and 4 when they turned a 2-0 series deficit into a 2-2 tie. Full throwback identity at Rocket Mortgage Fieldhouse — the alternate throwback court paired with the Classic Edition blue — holds the same seven out of 10 grade it earned across both of those games. The matchup is not changing so the grade is not changing. Pistons back in Association whites on the road is the right visitor call. Detroit won Game 6 at Rocket Mortgage Fieldhouse to tie the series 3-3 and force a winner-take-all Game 7 at Little Caesars Arena. Seven out of 10.
 
 ### Game 5: Cleveland Cavaliers at Detroit Pistons
 
@@ -876,7 +890,7 @@ Pistons Association Edition white home jersey against Cavaliers Statement Editio
 
 ## FAQ: 2026 NBA Playoffs Round 2 Jersey Tracker
 
-**Which NBA teams have advanced to the Conference Finals so far?** The Knicks and Thunder have both swept their second round series 4-0 to advance to the Conference Finals. New York closed Philadelphia 4-0 with the Sixers Association whites and the Knicks Icon blue road at Wells Fargo Center, and Oklahoma City closed the Lakers 4-0 with the Lakers City Edition black at home in the Game 4 closeout. Spurs lead the Timberwolves 3-2 after taking Game 5 at Frost Bank Center in the Icon Edition black home debut. Pistons-Cavs is tied 2-2 with Game 5 tonight in Detroit.
+**Which NBA teams have advanced to the Conference Finals so far?** The Knicks, Thunder, and Spurs have all advanced to the Conference Finals. New York swept Philadelphia 4-0, Oklahoma City swept the Lakers 4-0, and San Antonio eliminated Minnesota 4-2 in Game 6 at Target Center. Pistons-Cavs is tied 3-3 with Game 7 at Little Caesars Arena — jersey matchup TBD.
 
 **What is the Round 2 jersey schedule for the rest of the week?** Spurs took Game 5 at Frost Bank Center in the Icon Edition black home debut against the Wolves Association whites for a 1 out of 10 grade. Pistons-Cavs Game 5 is tonight in Detroit with the Pistons Icon Edition blue home debut against the Cavs Association whites, a 6 out of 10 projection. Pistons-Cavs Game 6 returns to Cleveland Friday with the Cavs Statement Edition black home in a nod to the LeBron James era against the Pistons Association whites, a 7 out of 10 projection. Spurs-Timberwolves Game 6 returns to Target Center Friday with Minnesota facing elimination and back in the Classic Edition throwback black, a repeat of the Game 3 and Game 4 matchup at 6 out of 10.
 
