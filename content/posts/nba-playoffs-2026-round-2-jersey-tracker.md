@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-05"
-updatedDate: "2026-05-15"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Spurs eliminate Timberwolves 4-2. Thunder swept Lakers 4-0, Knicks swept Sixers 4-0. Pistons-Cavs headed to Game 7 in Detroit. Every uniform matchup graded."
+updatedDate: "2026-05-18"
+excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs win Game 7 in Detroit 4-3, Cavs Association whites on the road over Pistons Icon blue. Spurs eliminate Timberwolves 4-2. Thunder swept Lakers 4-0, Knicks swept Sixers 4-0. Every uniform matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ featuredOrder: 1
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Cleveland Cavaliers at Detroit Pistons Round 2 Game 7 Jerseys"
+    rating: 6
   - name: "Detroit Pistons at Cleveland Cavaliers Round 2 Game 6 Jerseys"
     rating: 7
   - name: "San Antonio Spurs at Minnesota Timberwolves Round 2 Game 6 Jerseys"
@@ -81,7 +83,7 @@ Every 2026 NBA Playoffs Round 2 jersey and uniform matchup graded, organized ser
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Round 2 Teams Wearing Traditional Home Uniforms</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">8 / 20 (40%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">8 / 21 (38%)</span>
 </div>
 
 Below, every matchup graded series by series, newest game first within each series. Lakers-Thunder leads off, then Spurs-Timberwolves, then Knicks-Sixers, then Pistons-Cavaliers.
@@ -640,21 +642,45 @@ Knicks Association Edition white home jersey against Sixers Icon Edition royal b
 
 ## Detroit Pistons vs Cleveland Cavaliers
 
-Detroit tied the series 3-3 with a Game 6 win at Rocket Mortgage Fieldhouse, forcing a winner-take-all Game 7 at Little Caesars Arena. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit, but the Cavs won to take a 3-2 series lead. Detroit came back to win Game 6 in Cleveland with the Cavs in the Classic Edition throwback blue and the Pistons in Association white on the road, same 7 out of 10 pairing, to even the series 3-3. Game 7 jersey matchup is TBD — this section updates as soon as uniform announcements are made.
+Cleveland won the series 4-3 with a Game 7 victory at Little Caesars Arena and advances to the Eastern Conference Finals to face the Knicks. The Pistons opened in the Association Edition whites at home for Games 1 and 2 (the same whites they wore through all seven games against the Magic in Round 1) with the Cavs in Statement Edition black on the road, the same uniform matchup grading a nine in both. Cleveland took Game 3 and Game 4 at Rocket Mortgage Fieldhouse in the Classic Edition throwback blue at home on the alternate throwback court with the Pistons in Association white road, a seven out of 10 in both games. The Pistons broke from the Association whites for the first time all playoffs and pulled the Icon Edition blue at home for Game 5 in Detroit with the Cavs in Association whites on the road, a six out of 10. Detroit forced Game 7 with a Game 6 win in Cleveland in the Classic Edition throwback blue versus Pistons Association whites pairing for the third time, a seven out of 10. Detroit ran the Icon Edition blue at home again for the winner-take-all Game 7 with the Cavs back in Association whites on the road, the exact same pairing as Game 5 and the same six out of 10 grade.
 
 ### Game 7: Cleveland Cavaliers at Detroit Pistons
 
 <div style="background: linear-gradient(135deg, #0a0a3d 0%, #04041f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 7 · Jerseys TBD</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · Round 2 · Game 7 · Cavs Win Series 4-3</span>
   </div>
-  <div style="padding: 2em 0; text-align: center;">
-    <p style="color: rgba(255,255,255,0.5); font-size: 14px; font-weight: 700; margin: 0; text-transform: uppercase; letter-spacing: 2px;">Detroit Pistons (Home) vs Cleveland Cavaliers (Road)</p>
-    <p style="color: rgba(255,255,255,0.3); font-size: 12px; font-weight: 600; margin: 10px 0 0; text-transform: uppercase; letter-spacing: 1.5px;">Uniform Matchup Announced Pre-Game · Grade Updates Here</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/cavs-association-white.png" alt="Cleveland Cavaliers Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 7 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/pistons-icon-blue.png" alt="Detroit Pistons Icon Edition blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 7 vs Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+    </div>
   </div>
 </div>
 
-Game 7 at Little Caesars Arena. No uniform announcements yet — this card updates as soon as Detroit and Cleveland confirm what they are wearing. Check back before tip-off.
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #e6b800;">Score: 6 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #006BB6 0%, #C8102E 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · Round 2 · Game 7</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · May 17, 2026 · Primary Home Court</p>
+  </div>
+  <img src="/images/courts/nba/pistons-home.png" alt="Little Caesars Arena Detroit Pistons primary home court for 2026 NBA Playoffs Round 2 Game 7 vs Cleveland Cavaliers" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Little Caesars Arena · Detroit · Primary Court</p>
+</div>
+
+Cavs go back to the Association Edition whites on the road for Game 7 at Little Caesars Arena with the Pistons running the Icon Edition blue at home for the second time all playoffs, the exact same uniform combination as Game 5 in Detroit and holding the same six out of 10 grade since the uniform pairing did not change between games. Pistons blue at home flips the playoff white-versus-color standard but the blue jersey on the blue Little Caesars Arena home court reads cohesive and intentional, the same color story we credited in Game 5. Cavs Association whites on the road are the right call for the visitor in a winner-take-all elimination game. Cleveland took Game 7 in Detroit to win the series 4-3 and advance to the Eastern Conference Finals to face the Knicks. Six out of 10.
 
 ### Game 6: Detroit Pistons at Cleveland Cavaliers
 
@@ -890,9 +916,9 @@ Pistons Association Edition white home jersey against Cavaliers Statement Editio
 
 ## FAQ: 2026 NBA Playoffs Round 2 Jersey Tracker
 
-**Which NBA teams have advanced to the Conference Finals so far?** The Knicks, Thunder, and Spurs have all advanced to the Conference Finals. New York swept Philadelphia 4-0, Oklahoma City swept the Lakers 4-0, and San Antonio eliminated Minnesota 4-2 in Game 6 at Target Center. Pistons-Cavs is tied 3-3 with Game 7 at Little Caesars Arena — jersey matchup TBD.
+**Which NBA teams have advanced to the Conference Finals?** All four Conference Finals teams are set. New York swept Philadelphia 4-0, Oklahoma City swept the Lakers 4-0, San Antonio eliminated Minnesota 4-2 in Game 6 at Target Center, and Cleveland won Pistons-Cavs 4-3 in Game 7 at Little Caesars Arena. Eastern Conference Finals: Knicks vs Cavaliers. Western Conference Finals: Thunder vs Spurs.
 
-**What is the Round 2 jersey schedule for the rest of the week?** Spurs took Game 5 at Frost Bank Center in the Icon Edition black home debut against the Wolves Association whites for a 1 out of 10 grade. Pistons-Cavs Game 5 is tonight in Detroit with the Pistons Icon Edition blue home debut against the Cavs Association whites, a 6 out of 10 projection. Pistons-Cavs Game 6 returns to Cleveland Friday with the Cavs Statement Edition black home in a nod to the LeBron James era against the Pistons Association whites, a 7 out of 10 projection. Spurs-Timberwolves Game 6 returns to Target Center Friday with Minnesota facing elimination and back in the Classic Edition throwback black, a repeat of the Game 3 and Game 4 matchup at 6 out of 10.
+**What jerseys did the Cavs and Pistons wear in Round 2 Game 7?** Cleveland wore the Association Edition white road jersey and uniform, Detroit wore the Icon Edition blue home jersey and uniform on the primary Little Caesars Arena court, the exact same pairing as Game 5 in Detroit and the same 6 out of 10 grade. Pistons blue at home flips the playoff white-versus-color standard, but the blue jersey on the blue Little Caesars Arena home court reads cohesive enough to hold the same grade as Game 5.
 
 **Why are the Pistons wearing the Icon Edition blue at home for the first time all playoffs in Game 5?** Detroit ran the Association Edition white at home for all four games of their Round 1 series against the Magic and for Games 1 and 2 against Cleveland in Round 2, a perfect 11-of-11 Association whites home streak through 11 playoff games. The Pistons breaking the streak for the Icon Edition blue at home in the Game 5 swing game is one of the bigger uniform storylines of Round 2, and the blue jersey reads cohesive against the blue Little Caesars Arena home court for a 6 out of 10 grade.
 
