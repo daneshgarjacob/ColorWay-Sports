@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-02"
-updatedDate: "2026-05-18"
-excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes swept Flyers 4-0, Avalanche eliminated Wild 4-1, Knights eliminated Ducks 4-2. Sabres force Game 7 vs Canadiens with a win at Bell Centre. Every sweater matchup graded."
+updatedDate: "2026-05-19"
+excerpt: "2026 NHL Stanley Cup Playoffs Round 2 jersey tracker: Hurricanes swept Flyers 4-0, Avalanche eliminated Wild 4-1, Knights eliminated Ducks 4-2. Canadiens won Game 7 in Buffalo to take the series 4-3 over the Sabres. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png"
 coverImagePosition: "center center"
@@ -88,7 +88,7 @@ Every 2026 NHL Stanley Cup Playoffs Round 2 jersey and uniform matchup graded, u
   <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">20 / 22 (91%)</span>
 </div>
 
-Below, every matchup graded, newest first. Twenty-two Round 2 games tracked so far: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche eliminated the Wild 4-1 to advance to the Western Conference Final, the Golden Knights eliminated the Ducks 4-2 to advance to the Western Conference Final, and the Sabres forced a Game 7 against the Canadiens with a road win at Bell Centre to tie the series 3-3.
+Below, every matchup graded, newest first. Twenty-three Round 2 games tracked: the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche eliminated the Wild 4-1 to advance to the Western Conference Final, the Golden Knights eliminated the Ducks 4-2 to advance to the Western Conference Final, and the Canadiens won Game 7 in Buffalo to take the series 4-3 over the Sabres and advance to the Eastern Conference Final against Carolina.
 
 <span id="avalanche-wild"></span>
 
@@ -403,13 +403,13 @@ Golden Knights gold home sweater against Ducks road whites, Vegas running the pr
 
 ## Buffalo Sabres vs Montreal Canadiens
 
-Series tied 3-3 after the Sabres forced Game 7 with a Game 6 road win at Bell Centre, every game of the series so far following the standard NHL home-versus-road pattern — home team in primary color, road team in white, no alternates or throwbacks across all six games. Sabres royal blue home against Canadiens road whites earned a 9 in Games 1, 2, and 5 at KeyBank Center, the Canadiens red home against Sabres road whites earned a 9 in Games 3, 4, and 6 at Bell Centre per the same-matchup-same-score rule. Game 7 returns to KeyBank Center in Buffalo with the same Sabres blue home versus Canadiens road whites pairing for the series decider, locked in at 9 out of 10.
+Montreal won the series 4-3 with a Game 7 victory at KeyBank Center and advances to the Eastern Conference Final to face the Hurricanes. Every game of the series followed the standard NHL home-versus-road pattern — home team in primary color, road team in white, no alternates or throwbacks across all seven games. Sabres royal blue home against Canadiens road whites earned a 9 in Games 1, 2, 5, and 7 at KeyBank Center, the Canadiens red home against Sabres road whites earned a 9 in Games 3, 4, and 6 at Bell Centre per the same-matchup-same-score rule. Cleanest jersey series of Round 2 with seven straight white-versus-color matchups.
 
 ### Game 7: Montreal Canadiens at Buffalo Sabres
 
 <div style="background: linear-gradient(135deg, #001830 0%, #00081a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002654 0%, #FCB514 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 7 · Series Decider</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #192168 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · Round 2 · Game 7 · Canadiens Win Series 4-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -430,7 +430,7 @@ Series tied 3-3 after the Sabres forced Game 7 with a Game 6 road win at Bell Ce
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-Winner-take-all Game 7 back at KeyBank Center with the Sabres in the primary royal blue home sweater against the Canadiens in road whites, the same combination that earned a 9 in Games 1, 2, and 5 holding the same grade per the same-matchup-same-score rule. Sabres royal blue and gold against the iconic Canadiens road whites with red and blue trim is the textbook NHL playoff white-versus-color matchup at one of the loudest buildings in the Eastern Conference. Nine out of 10.
+Winner-take-all Game 7 back at KeyBank Center with the Sabres in the primary royal blue home sweater against the Canadiens in road whites, the same combination that earned a 9 in Games 1, 2, and 5 holding the same grade per the same-matchup-same-score rule. Sabres royal blue and gold against the iconic Canadiens road whites with red and blue trim is the textbook NHL playoff white-versus-color matchup at one of the loudest buildings in the Eastern Conference. Montreal took Game 7 in Buffalo to win the series 4-3 and advance to the Eastern Conference Final to face the Hurricanes. Nine out of 10.
 
 ### Game 6: Buffalo Sabres at Montreal Canadiens
 
@@ -714,9 +714,9 @@ Hurricanes black home alternate sweater against Flyers white road uniform, Carol
 
 **Which teams are in NHL Round 2?** All four divisional second-round series are set: Hurricanes hosting Flyers and Sabres hosting Canadiens in the East, Avalanche hosting Wild and Golden Knights hosting Ducks in the West.
 
-**Who is leading each Round 2 series?** Through twenty-two tracked games, the Hurricanes swept the Flyers 4-0 to advance to the Eastern Conference Final, the Avalanche eliminated the Wild 4-1 to advance to the Western Conference Final, the Golden Knights eliminated the Ducks 4-2 to advance to the Western Conference Final, and the Sabres tied the Canadiens 3-3 with a Game 6 road win at Bell Centre to force a winner-take-all Game 7 at KeyBank Center.
+**How did each Round 2 series finish?** All four Conference Final teams are set. The Hurricanes swept the Flyers 4-0, the Avalanche eliminated the Wild 4-1, the Golden Knights eliminated the Ducks 4-2, and the Canadiens won Game 7 in Buffalo to take the series 4-3 over the Sabres. Eastern Conference Final: Canadiens vs Hurricanes. Western Conference Final: Avalanche vs Golden Knights.
 
-**What jerseys do the Sabres and Canadiens wear in Game 7?** The Sabres wear the primary royal blue home sweater at KeyBank Center and the Canadiens wear road whites, the same combination Buffalo ran for the home games in Games 1, 2, and 5 and holding the same 9 out of 10 grade per the same-matchup-same-score rule. The series has followed the standard NHL playoff home-versus-road pattern in every game so far with home team in primary color and road team in white, no alternates or throwbacks.
+**What jerseys did the Sabres and Canadiens wear in Game 7?** The Sabres ran the primary royal blue home sweater at KeyBank Center and the Canadiens ran road whites, the same combination Buffalo ran for the home games in Games 1, 2, and 5 and holding the same 9 out of 10 grade per the same-matchup-same-score rule. Montreal won Game 7 in the road whites to take the series 4-3 and advance to the Eastern Conference Final. The series followed the standard NHL playoff home-versus-road pattern in every game with home team in primary color and road team in white, no alternates or throwbacks across all seven games.
 
 **Where do I find the Round 1 jersey tracker?** Round 1 jersey and uniform grades are tracked at our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker), updated game by game with primary sweaters, alternates, and throwback grades.
 
