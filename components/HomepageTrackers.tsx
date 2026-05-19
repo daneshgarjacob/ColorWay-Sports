@@ -2,31 +2,22 @@ import Link from "next/link";
 
 const trackers = [
   {
+    slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
+    kicker: "NBA · Playoffs · Conference Finals",
+    title: "2026 NBA Conference Finals Jersey Tracker",
+    dek: "Spurs lead Thunder 1-0 after Game 1 in OKC. Knicks-Cavs opened with a perfect 10. Every matchup graded.",
+    status: "Live · Conference Finals",
+    grade: "A",
+    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",
+  },
+  {
     slug: "nba-playoffs-2026-round-2-jersey-tracker",
     kicker: "NBA · Playoffs · Round 2",
     title: "2026 NBA Playoffs Round 2 Jersey Tracker",
     dek: "Thunder swept the Lakers. Knicks swept the Sixers. Pistons-Cavs went seven. Every matchup graded.",
-    status: "Live · Round 2",
+    status: "Completed · Round 2",
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png",
-  },
-  {
-    slug: "nhl-playoffs-2026-round-2-jersey-tracker",
-    kicker: "NHL · Stanley Cup Playoffs · Round 2",
-    title: "2026 NHL Playoffs Round 2 Jersey Tracker",
-    dek: "Hurricanes swept Flyers 4-0. Avalanche, Canadiens, and Golden Knights still alive. Every sweater graded.",
-    status: "Live · Round 2",
-    grade: "A",
-    image: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/round2-tracker-cover.png",
-  },
-  {
-    slug: "nba-playoffs-crowd-giveaway-tracker-2026",
-    kicker: "NBA · Playoffs · All Rounds",
-    title: "2026 NBA Playoffs Crowd Giveaway Tracker",
-    dek: "Every t-shirt and towel giveaway graded. Pistons ALL DAWG blue shirts at Little Caesars earn an A.",
-    status: "Updated Daily",
-    grade: "A",
-    image: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg",
   },
 ];
 
@@ -88,8 +79,8 @@ export default function HomepageTrackers() {
           </Link>
         </div>
 
-        {/* 3-up grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {/* 2-up grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {trackers.map((t) => {
             const bg = gradeColor[t.grade] ?? "#6B6B6B";
             return (
