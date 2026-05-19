@@ -19,9 +19,16 @@ const rounds: RoundStat[] = [
   {
     label: "Round 2",
     traditional: 8,
-    total: 18,
-    complete: false,
+    total: 21,
+    complete: true,
     slug: "nba-playoffs-2026-round-2-jersey-tracker",
+  },
+  {
+    label: "Conference Finals",
+    traditional: 2,
+    total: 8,
+    complete: false,
+    slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
   },
 ];
 
@@ -52,7 +59,7 @@ export default function TraditionalJerseyIndex() {
           Home team in white — tracked every game of the 2026 NBA playoffs.
         </p>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           {rounds.map((r) => {
             const pct = Math.round((r.traditional / r.total) * 100);
             return (
