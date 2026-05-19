@@ -3,10 +3,12 @@ import Footer from "@/components/Footer";
 import DisqusComments from "@/components/DisqusComments";
 import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
+import InlineNewsletter from "@/components/InlineNewsletter";
+import RelatedStories from "@/components/RelatedStories";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getPostBySlug, getAllPosts } from "@/lib/posts";
+import { getPostBySlug, getAllPosts, getRelatedPosts } from "@/lib/posts";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -153,6 +155,19 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <InstagramEmbed />
           </>
         )}
+
+        {/* Inline newsletter signup */}
+        <InlineNewsletter />
+
+        {/* Related stories */}
+        <RelatedStories
+          posts={getRelatedPosts(slug, {
+            league: post.league,
+            teams: post.teams,
+            category: post.category,
+            limit: 3,
+          })}
+        />
 
         {/* Comments */}
         <DisqusComments

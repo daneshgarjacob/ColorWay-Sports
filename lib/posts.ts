@@ -148,17 +148,64 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     title: data.title || "Untitled",
     category: data.category || "General",
     date: data.date || "2026-01-01",
+    updatedDate: data.updatedDate,
     excerpt: data.excerpt || "",
     gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
     logoSrc: data.logoSrc,
     logoSrc2: data.logoSrc2,
+    overlayText: data.overlayText,
     coverImage: data.coverImage,
     coverImagePosition: data.coverImagePosition,
     coverImageFit: data.coverImageFit,
+    league: data.league,
+    teams: data.teams || [],
     reviews: data.reviews,
     bestRating: data.bestRating,
     worstRating: data.worstRating,
     contentHtml,
     faqs: extractFaqs(content),
   };
+}
+
+export function getRelatedPosts(
+  currentSlug: string,
+  options: { league?: string; teams?: string[]; category?: string; limit?: number } = {}
+): PostMeta[] {
+  const { league, teams = [], category, limit = 3 } = options;
+  const all = getAllPostsByDate().filter((p) => p.slug !== currentSlug);
+  const teamSet = new Set(teams);
+
+  const score = (p: PostMeta) => {
+    let s = 0;
+    if (p.teams && p.teams.some((t) => teamSet.has(t))) s += 100;
+    if (league && p.league === league) s += 30;
+    if (category && p.category === category) s += 10;
+    return s;
+  };
+
+  const ranked = all
+    .map((p) => ({ post: p, score: score(p) }))
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  const selected = ranked.slice(0, limit).map((x) => x.post);
+
+  // Fill remaining slots with newest posts in same league if we don't have enough
+  if (selected.length < limit) {
+    const filler = all
+      .filter((p) => !selected.some((s) => s.slug === p.slug))
+      .filter((p) => (league ? p.league === league : true))
+      .slice(0, limit - selected.length);
+    selected.push(...filler);
+  }
+
+  // Final fallback: newest posts overall
+  if (selected.length < limit) {
+    const filler = all
+      .filter((p) => !selected.some((s) => s.slug === p.slug))
+      .slice(0, limit - selected.length);
+    selected.push(...filler);
+  }
+
+  return selected;
 }
