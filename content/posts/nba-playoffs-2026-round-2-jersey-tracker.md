@@ -11,7 +11,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "philadelphia-76ers", "san-antonio-spurs", "minnesota-timberwolves", "detroit-pistons", "cleveland-cavaliers", "oklahoma-city-thunder", "los-angeles-lakers"]
-featuredOrder: 2
+featuredOrder: 3
 bestRating: 10
 worstRating: 0
 reviews:

@@ -10,6 +10,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
+featuredOrder: 2
 bestRating: 10
 worstRating: 0
 ---
