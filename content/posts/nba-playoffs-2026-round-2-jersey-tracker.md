@@ -11,7 +11,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "philadelphia-76ers", "san-antonio-spurs", "minnesota-timberwolves", "detroit-pistons", "cleveland-cavaliers", "oklahoma-city-thunder", "los-angeles-lakers"]
-featuredOrder: 1
+featuredOrder: 2
 bestRating: 10
 worstRating: 0
 reviews:
@@ -929,3 +929,5 @@ Pistons Association Edition white home jersey against Cavaliers Statement Editio
 **Why does the Spurs Fiesta black home call score 8 instead of lower?** Black at home flips the playoff white-versus-color standard and normally caps the grade in the 4 to 5 range, but the Spurs Fiesta arena treatment with the pink, teal, orange, and yellow seat colors plus the giveaway Fiesta fan shirts in the stands and the Fiesta alternate court down on the floor lift the grade because the full Fiesta Night identity is the best playoff branding in the league.
 
 **Where can I find Round 1 jersey grades?** Every Round 1 jersey and uniform matchup is graded in the [2026 NBA Playoffs Round 1 Jersey Tracker](/stories/nba-playoffs-2026-round-1-jersey-tracker), updated through the Game 7 closeouts with the Pistons, Cavaliers, Sixers, and Lakers all advancing to Round 2.
+
+**Where can I find Conference Finals jersey grades?** Every Conference Finals jersey and uniform matchup is graded in the [2026 NBA Conference Finals Jersey Tracker](/stories/nba-playoffs-2026-conference-finals-jersey-tracker), covering Spurs vs Thunder in the West and Knicks vs Cavaliers in the East.
