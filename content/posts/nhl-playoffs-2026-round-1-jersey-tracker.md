@@ -159,6 +159,7 @@ Sunday delivered the only Game 7 of Round 1 with Montreal visiting Tampa Bay at 
       <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 7 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -167,6 +168,7 @@ Sunday delivered the only Game 7 of Round 1 with Montreal visiting Tampa Bay at 
       <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 7 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -198,6 +200,7 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
       <img src="/images/jerseys/nhl/lightning-white.png" alt="Tampa Bay Lightning white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -206,6 +209,7 @@ Thursday delivered two Game 6 closeouts before Friday's slate. Minnesota hosted 
       <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens red home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20home%20red%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -229,6 +233,7 @@ Canadiens red home sweater against Lightning white road uniform, the same matchu
       <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -237,6 +242,7 @@ Canadiens red home sweater against Lightning white road uniform, the same matchu
       <img src="/images/jerseys/nhl/bruins-black.png" alt="Boston Bruins black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -260,6 +266,7 @@ Bruins black home sweater against Sabres white road uniform, the same matchup as
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -268,6 +275,7 @@ Bruins black home sweater against Sabres white road uniform, the same matchup as
       <img src="/images/jerseys/nhl/mammoth-black.png" alt="Utah Mammoth black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -291,6 +299,7 @@ Mammoth black home sweater against Vegas white road uniform, the same matchup as
       <img src="/images/jerseys/nhl/stars-white.png" alt="Dallas Stars white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -299,6 +308,7 @@ Mammoth black home sweater against Vegas white road uniform, the same matchup as
       <img src="/images/jerseys/nhl/wild-green.png" alt="Minnesota Wild green home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20home%20green%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -322,6 +332,7 @@ Series flipped back to Xcel Energy Center and Minnesota hosted Dallas with a clo
       <img src="/images/jerseys/nhl/oilers-white.png" alt="Edmonton Oilers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -330,6 +341,7 @@ Series flipped back to Xcel Energy Center and Minnesota hosted Dallas with a clo
       <img src="/images/jerseys/nhl/ducks-orange.png" alt="Anaheim Ducks orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -353,6 +365,7 @@ Series flipped back to Honda Center and Anaheim hosted Edmonton with a closeout 
       <img src="/images/jerseys/nhl/penguins-white.png" alt="Pittsburgh Penguins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 at Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -361,6 +374,7 @@ Series flipped back to Honda Center and Anaheim hosted Edmonton with a closeout 
       <img src="/images/jerseys/nhl/flyers-orange.png" alt="Philadelphia Flyers orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 6 vs Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -390,6 +404,7 @@ Monday tipped the first Game 5 of Round 1 with the Pens-Flyers elimination match
       <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -398,6 +413,7 @@ Monday tipped the first Game 5 of Round 1 with the Pens-Flyers elimination match
       <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -421,6 +437,7 @@ Series flipped back to Amalie Arena and Tampa ran back the same blue primary tha
       <img src="/images/jerseys/nhl/mammoth-white.png" alt="Utah Mammoth white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -429,6 +446,7 @@ Series flipped back to Amalie Arena and Tampa ran back the same blue primary tha
       <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights gold home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20home%20gold%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -452,6 +470,7 @@ Series flipped back to T-Mobile Arena and Vegas ran back the same gold primary a
       <img src="/images/jerseys/nhl/bruins-white.png" alt="Boston Bruins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -460,6 +479,7 @@ Series flipped back to T-Mobile Arena and Vegas ran back the same gold primary a
       <img src="/images/jerseys/nhl/sabres-blue.png" alt="Buffalo Sabres royal blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Royal Blue</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20home%20royal%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -483,6 +503,7 @@ Series flips back to KeyBank Center and Buffalo runs back the same matchup that 
       <img src="/images/jerseys/nhl/wild-white.png" alt="Minnesota Wild white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -491,6 +512,7 @@ Series flips back to KeyBank Center and Buffalo runs back the same matchup that 
       <img src="/images/jerseys/nhl/stars-black.png" alt="Dallas Stars black alternate home sweater with center star chest mark for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Black</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20alternate%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -514,6 +536,7 @@ Series flips back to American Airlines Center and Dallas runs back the same alte
       <img src="/images/jerseys/nhl/ducks-white.png" alt="Anaheim Ducks white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -522,6 +545,7 @@ Series flips back to American Airlines Center and Dallas runs back the same alte
       <img src="/images/jerseys/nhl/oilers-blue.png" alt="Edmonton Oilers blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -545,6 +569,7 @@ Series flips back to Rogers Place and Edmonton runs back the same blue primary t
       <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -553,6 +578,7 @@ Series flips back to Rogers Place and Edmonton runs back the same blue primary t
       <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 5 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20alternate%20yellow%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -582,6 +608,7 @@ Saturday, Sunday, and Monday delivered all eight Game 4s with two series sweeps,
       <img src="/images/jerseys/nhl/penguins-white.png" alt="Pittsburgh Penguins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -590,6 +617,7 @@ Saturday, Sunday, and Monday delivered all eight Game 4s with two series sweeps,
       <img src="/images/jerseys/nhl/flyers-orange.png" alt="Philadelphia Flyers orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -613,6 +641,7 @@ Same uniforms as Game 3 and the same perfect 10. Pittsburgh runs back the road w
       <img src="/images/jerseys/nhl/lightning-white.png" alt="Tampa Bay Lightning white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -621,6 +650,7 @@ Same uniforms as Game 3 and the same perfect 10. Pittsburgh runs back the road w
       <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens red home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20home%20red%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -644,6 +674,7 @@ Same matchup as Game 3 and the same 9. The Canadiens stay in their iconic red ho
       <img src="/images/jerseys/nhl/oilers-white.png" alt="Edmonton Oilers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -652,6 +683,7 @@ Same matchup as Game 3 and the same 9. The Canadiens stay in their iconic red ho
       <img src="/images/jerseys/nhl/ducks-orange.png" alt="Anaheim Ducks orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -675,6 +707,7 @@ Same matchup as Game 3 and the same 9. The Ducks run back their primary orange h
       <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -683,6 +716,7 @@ Same matchup as Game 3 and the same 9. The Ducks run back their primary orange h
       <img src="/images/jerseys/nhl/bruins-black.png" alt="Boston Bruins black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -706,6 +740,7 @@ Same uniforms as Game 3 and the same 8. The Bruins repeat their primary black ho
       <img src="/images/jerseys/nhl/avalanche-white.png" alt="Colorado Avalanche white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Los Angeles Kings" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=colorado%20avalanche%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -714,6 +749,7 @@ Same uniforms as Game 3 and the same 8. The Bruins repeat their primary black ho
       <img src="/images/jerseys/nhl/kings-black.png" alt="Los Angeles Kings black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES KINGS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20kings%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -737,6 +773,7 @@ Same uniforms as Game 3 and the same 7. The Kings repeat their black primary at 
       <img src="/images/jerseys/nhl/stars-white.png" alt="Dallas Stars white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -745,6 +782,7 @@ Same uniforms as Game 3 and the same 7. The Kings repeat their black primary at 
       <img src="/images/jerseys/nhl/wild-green.png" alt="Minnesota Wild green home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20home%20green%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -768,6 +806,7 @@ Same uniforms as Game 3 and the same 7. The Wild repeat their green primary home
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -776,6 +815,7 @@ Same uniforms as Game 3 and the same 7. The Wild repeat their green primary home
       <img src="/images/jerseys/nhl/mammoth-black.png" alt="Utah Mammoth black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -799,6 +839,7 @@ Game 4 tipped Monday night at Delta Center with the Mammoth leading the series 2
       <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 at Ottawa Senators" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=carolina%20hurricanes%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -807,6 +848,7 @@ Game 4 tipped Monday night at Delta Center with the Mammoth leading the series 2
       <img src="/images/jerseys/nhl/senators-black.png" alt="Ottawa Senators black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 4 vs Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OTTAWA SENATORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=ottawa%20senators%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -836,6 +878,7 @@ All eight series have now played Game 3, with every home team getting their firs
       <img src="/images/jerseys/nhl/penguins-white.png" alt="Pittsburgh Penguins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -844,6 +887,7 @@ All eight series have now played Game 3, with every home team getting their firs
       <img src="/images/jerseys/nhl/flyers-orange.png" alt="Philadelphia Flyers orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -867,6 +911,7 @@ Our best-looking uniform matchup of the Pens-Flyers series. Pittsburgh on the ro
       <img src="/images/jerseys/nhl/lightning-white.png" alt="Tampa Bay Lightning white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -875,6 +920,7 @@ Our best-looking uniform matchup of the Pens-Flyers series. Pittsburgh on the ro
       <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens red home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20home%20red%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -898,6 +944,7 @@ The series flips to Bell Centre and Montreal pulls out their iconic red home swe
       <img src="/images/jerseys/nhl/oilers-white.png" alt="Edmonton Oilers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -906,6 +953,7 @@ The series flips to Bell Centre and Montreal pulls out their iconic red home swe
       <img src="/images/jerseys/nhl/ducks-orange.png" alt="Anaheim Ducks orange home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20home%20orange%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -929,6 +977,7 @@ The series flips to Honda Center and Anaheim pulls out their primary orange home
       <img src="/images/jerseys/nhl/sabres-white.png" alt="Buffalo Sabres white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -937,6 +986,7 @@ The series flips to Honda Center and Anaheim pulls out their primary orange home
       <img src="/images/jerseys/nhl/bruins-black.png" alt="Boston Bruins black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -960,6 +1010,7 @@ The series flips from Buffalo to Boston for Game 3 and the visual loses a little
       <img src="/images/jerseys/nhl/avalanche-white.png" alt="Colorado Avalanche white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Los Angeles Kings" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=colorado%20avalanche%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -968,6 +1019,7 @@ The series flips from Buffalo to Boston for Game 3 and the visual loses a little
       <img src="/images/jerseys/nhl/kings-black.png" alt="Los Angeles Kings black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES KINGS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20kings%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1000,6 +1052,7 @@ The Kings open the series at home in their black primary home sweater and the Av
       <img src="/images/jerseys/nhl/stars-white.png" alt="Dallas Stars white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1008,6 +1061,7 @@ The Kings open the series at home in their black primary home sweater and the Av
       <img src="/images/jerseys/nhl/wild-green.png" alt="Minnesota Wild green home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20home%20green%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1031,6 +1085,7 @@ Similar greens on both sides, but the uniform matchup reads better on broadcast 
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1039,6 +1094,7 @@ Similar greens on both sides, but the uniform matchup reads better on broadcast 
       <img src="/images/jerseys/nhl/mammoth-black.png" alt="Utah Mammoth black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1062,6 +1118,7 @@ The series flips to Delta Center for Utah's first home playoff game ever and the
       <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 at Ottawa Senators" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=carolina%20hurricanes%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1070,6 +1127,7 @@ The series flips to Delta Center for Utah's first home playoff game ever and the
       <img src="/images/jerseys/nhl/senators-black.png" alt="Ottawa Senators black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 3 vs Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OTTAWA SENATORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=ottawa%20senators%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1099,6 +1157,7 @@ Six series have played Game 2 so far. Every team ran back the same sweater from 
       <img src="/images/jerseys/nhl/senators-white.png" alt="Ottawa Senators white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OTTAWA SENATORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=ottawa%20senators%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1107,6 +1166,7 @@ Six series have played Game 2 so far. Every team ran back the same sweater from 
       <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Ottawa Senators" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=carolina%20hurricanes%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1130,6 +1190,7 @@ Same jerseys as Game 1. The Hurricanes run it back in their black primary at hom
       <img src="/images/jerseys/nhl/wild-white.png" alt="Minnesota Wild white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1138,6 +1199,7 @@ Same jerseys as Game 1. The Hurricanes run it back in their black primary at hom
       <img src="/images/jerseys/nhl/stars-black.png" alt="Dallas Stars black alternate home sweater with center star for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Black</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20alternate%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1161,6 +1223,7 @@ Same jerseys as Game 1. The Stars repeat their black alternate with the star on 
       <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1169,6 +1232,7 @@ Same jerseys as Game 1. The Stars repeat their black alternate with the star on 
       <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1192,6 +1256,7 @@ Same jerseys as Game 1. The Lightning run it back in blue at home and the Canadi
       <img src="/images/jerseys/nhl/bruins-white.png" alt="Boston Bruins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1200,6 +1265,7 @@ Same jerseys as Game 1. The Lightning run it back in blue at home and the Canadi
       <img src="/images/jerseys/nhl/sabres-blue.png" alt="Buffalo Sabres royal blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Royal Blue</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20home%20royal%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1223,6 +1289,7 @@ Same jerseys as Game 1 and still the best-looking matchup of Round 1. The Sabres
       <img src="/images/jerseys/nhl/mammoth-white.png" alt="Utah Mammoth white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1231,6 +1298,7 @@ Same jerseys as Game 1 and still the best-looking matchup of Round 1. The Sabres
       <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights gold home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20home%20gold%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1254,6 +1322,7 @@ Same jerseys as Game 1. The Golden Knights stay in their gold primary at home an
       <img src="/images/jerseys/nhl/kings-white.png" alt="Los Angeles Kings white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES KINGS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20kings%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1262,6 +1331,7 @@ Same jerseys as Game 1. The Golden Knights stay in their gold primary at home an
       <img src="/images/jerseys/nhl/avalanche-red.png" alt="Colorado Avalanche burgundy home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Los Angeles Kings" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Burgundy</p>
+      <a href="https://www.amazon.com/s?k=colorado%20avalanche%20home%20burgundy%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1285,6 +1355,7 @@ Same jerseys as Game 1 and still one of the cleaner visuals of Round 1. The Aval
       <img src="/images/jerseys/nhl/ducks-white.png" alt="Anaheim Ducks white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1293,6 +1364,7 @@ Same jerseys as Game 1 and still one of the cleaner visuals of Round 1. The Aval
       <img src="/images/jerseys/nhl/oilers-blue.png" alt="Edmonton Oilers blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1316,6 +1388,7 @@ Same sweaters as Game 1. The Oilers run it back in their blue primary at home an
       <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1324,6 +1397,7 @@ Same sweaters as Game 1. The Oilers run it back in their blue primary at home an
       <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 2 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20alternate%20yellow%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1351,6 +1425,7 @@ Same jerseys as Game 1. The Penguins run it back in their yellow alternate at ho
       <img src="/images/jerseys/nhl/senators-white.png" alt="Ottawa Senators white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OTTAWA SENATORS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=ottawa%20senators%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1359,6 +1434,7 @@ Same jerseys as Game 1. The Penguins run it back in their yellow alternate at ho
       <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Ottawa Senators" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black</p>
+      <a href="https://www.amazon.com/s?k=carolina%20hurricanes%20home%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1382,6 +1458,7 @@ The Hurricanes bring out their black primary home sweater and the Senators count
       <img src="/images/jerseys/nhl/wild-white.png" alt="Minnesota Wild white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Dallas Stars" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA WILD</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20wild%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1390,6 +1467,7 @@ The Hurricanes bring out their black primary home sweater and the Senators count
       <img src="/images/jerseys/nhl/stars-black.png" alt="Dallas Stars black alternate home sweater with center star for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Minnesota Wild" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DALLAS STARS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Black</p>
+      <a href="https://www.amazon.com/s?k=dallas%20stars%20alternate%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1413,6 +1491,7 @@ The Stars break out their black alternate home sweater with the star on the ches
       <img src="/images/jerseys/nhl/flyers-white.png" alt="Philadelphia Flyers white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Pittsburgh Penguins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PHILADELPHIA FLYERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=philadelphia%20flyers%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1421,6 +1500,7 @@ The Stars break out their black alternate home sweater with the star on the ches
       <img src="/images/jerseys/nhl/penguins-yellow.png" alt="Pittsburgh Penguins yellow alternate home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Philadelphia Flyers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PITTSBURGH PENGUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Alternate · Yellow</p>
+      <a href="https://www.amazon.com/s?k=pittsburgh%20penguins%20alternate%20yellow%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1444,6 +1524,7 @@ The Penguins go with their yellow alternate at home and the Flyers counter in th
       <img src="/images/jerseys/nhl/kings-white.png" alt="Los Angeles Kings white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES KINGS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20kings%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1452,6 +1533,7 @@ The Penguins go with their yellow alternate at home and the Flyers counter in th
       <img src="/images/jerseys/nhl/avalanche-red.png" alt="Colorado Avalanche burgundy home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Los Angeles Kings" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Burgundy</p>
+      <a href="https://www.amazon.com/s?k=colorado%20avalanche%20home%20burgundy%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1475,6 +1557,7 @@ The Avalanche in their burgundy at home and the Kings in clean whites on the roa
       <img src="/images/jerseys/nhl/canadiens-white.png" alt="Montreal Canadiens white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Tampa Bay Lightning" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=montreal%20canadiens%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1483,6 +1566,7 @@ The Avalanche in their burgundy at home and the Kings in clean whites on the roa
       <img src="/images/jerseys/nhl/lightning-blue.png" alt="Tampa Bay Lightning blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TAMPA BAY LIGHTNING</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=tampa%20bay%20lightning%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1506,6 +1590,7 @@ The Lightning in blue at home and the Canadiens in white on the road. Clean home
       <img src="/images/jerseys/nhl/bruins-white.png" alt="Boston Bruins white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Buffalo Sabres" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSTON BRUINS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=boston%20bruins%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1514,6 +1599,7 @@ The Lightning in blue at home and the Canadiens in white on the road. Clean home
       <img src="/images/jerseys/nhl/sabres-blue.png" alt="Buffalo Sabres royal blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Boston Bruins" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BUFFALO SABRES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Royal Blue</p>
+      <a href="https://www.amazon.com/s?k=buffalo%20sabres%20home%20royal%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1537,6 +1623,7 @@ This is what a Round 1 matchup should look like. The Sabres break out their roya
       <img src="/images/jerseys/nhl/mammoth-white.png" alt="Utah Mammoth white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UTAH MAMMOTH</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=utah%20mammoth%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1545,6 +1632,7 @@ This is what a Round 1 matchup should look like. The Sabres break out their roya
       <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights gold home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Utah Mammoth" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://www.amazon.com/s?k=vegas%20golden%20knights%20home%20gold%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -1568,6 +1656,7 @@ The Mammoth break out their road set and we are into it. Utah's first-year ident
       <img src="/images/jerseys/nhl/ducks-white.png" alt="Anaheim Ducks white road sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 at Edmonton Oilers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ANAHEIM DUCKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://www.amazon.com/s?k=anaheim%20ducks%20road%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -1576,6 +1665,7 @@ The Mammoth break out their road set and we are into it. Utah's first-year ident
       <img src="/images/jerseys/nhl/oilers-blue.png" alt="Edmonton Oilers blue home sweater for 2026 NHL Stanley Cup Playoffs Round 1 Game 1 vs Anaheim Ducks" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EDMONTON OILERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://www.amazon.com/s?k=edmonton%20oilers%20home%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>

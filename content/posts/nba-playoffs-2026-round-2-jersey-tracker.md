@@ -105,12 +105,14 @@ Oklahoma City swept the Los Angeles Lakers 4-0 to close out the Western Conferen
       <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue road jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 at Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=oklahoma%20city%20thunder%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/lakers-city-black.png" alt="Los Angeles Lakers City Edition black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 vs Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Black</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20lakers%20city%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -143,12 +145,14 @@ Lakers flip to the City Edition black home jersey for the Game 4 closeout at Cry
       <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=oklahoma%20city%20thunder%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/lakers-association-white.png" alt="Los Angeles Lakers Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 vs Oklahoma City Thunder weekend white" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20lakers%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -181,12 +185,14 @@ Lakers flip to Association Edition white at home for Game 3 in the weekend white
       <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold road jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 at Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Gold</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20lakers%20icon%20gold%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/thunder-city-blue.png" alt="Oklahoma City Thunder City Edition blue alternate home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Blue Alternate</p>
+      <a href="https://www.amazon.com/s?k=oklahoma%20city%20thunder%20city%20blue%20alternate%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -219,12 +225,14 @@ Thunder flip to City Edition blue alternate on the alternate court for Game 2 wi
       <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold road jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 at Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">LOS ANGELES LAKERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Gold</p>
+      <a href="https://www.amazon.com/s?k=los%20angeles%20lakers%20icon%20gold%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/thunder-icon-blue.png" alt="Oklahoma City Thunder Icon Edition blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 vs Los Angeles Lakers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=oklahoma%20city%20thunder%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -263,12 +271,14 @@ San Antonio eliminated Minnesota 4-2, closing the series out in Game 6 at Target
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 at Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/timberwolves-classic-black.png" alt="Minnesota Timberwolves Classic Edition black throwback home jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 vs San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Black</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20classic%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -301,12 +311,14 @@ Series returns to Target Center for Game 6 Friday with Minnesota facing eliminat
       <img src="/images/jerseys/nba/timberwolves-association-white.png" alt="Minnesota Timberwolves Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 5 at San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/spurs-icon-black.png" alt="San Antonio Spurs Icon Edition black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 5 vs Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Black</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20icon%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -339,12 +351,14 @@ Spurs flip to the Icon Edition black home jersey for Game 5 at Frost Bank Center
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 at Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/timberwolves-classic-black.png" alt="Minnesota Timberwolves Classic Edition black throwback home jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 vs San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Black</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20classic%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -377,12 +391,14 @@ Wolves run back the Classic Edition black throwback at home on the matching blac
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/timberwolves-classic-black.png" alt="Minnesota Timberwolves Classic Edition black throwback home jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 vs San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Black</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20classic%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -415,12 +431,14 @@ Wolves debut the Classic Edition black throwback at home on the matching black C
       <img src="/images/jerseys/nba/timberwolves-statement-grey.png" alt="Minnesota Timberwolves Statement Edition grey road jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 at San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Grey</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20statement%20grey%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -453,12 +471,14 @@ Spurs flipped to Association Edition white at home for Game 2 after the Fiesta b
       <img src="/images/jerseys/nba/timberwolves-association-white.png" alt="Minnesota Timberwolves Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 at San Antonio Spurs Fiesta court" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MINNESOTA TIMBERWOLVES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=minnesota%20timberwolves%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/spurs-city-black.png" alt="San Antonio Spurs City Edition Fiesta black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 vs Minnesota Timberwolves" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">City · Fiesta Black</p>
+      <a href="https://www.amazon.com/s?k=san%20antonio%20spurs%20city%20fiesta%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -497,6 +517,7 @@ New York swept Philadelphia 4-0 to advance to the Eastern Conference Final, taki
       <img src="/images/jerseys/nba/knicks-icon-blue.png" alt="New York Knicks Icon Edition blue road jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 at Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=new%20york%20knicks%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -535,6 +556,7 @@ Sixers run back the Association Edition white home jersey for Game 4 at Wells Fa
       <img src="/images/jerseys/nba/knicks-icon-blue.png" alt="New York Knicks Icon Edition blue road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=new%20york%20knicks%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -579,6 +601,7 @@ Sixers Association Edition white home jersey against Knicks Icon Edition blue ro
       <img src="/images/jerseys/nba/knicks-statement-black.png" alt="New York Knicks Statement Edition black home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
+      <a href="https://www.amazon.com/s?k=new%20york%20knicks%20statement%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -617,6 +640,7 @@ Knicks flipped to Statement Edition black at home for Game 2 after running the t
       <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 vs Philadelphia 76ers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=new%20york%20knicks%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -655,12 +679,14 @@ Cleveland won the series 4-3 with a Game 7 victory at Little Caesars Arena and a
       <img src="/images/jerseys/nba/cavs-association-white.png" alt="Cleveland Cavaliers Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 7 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/pistons-icon-blue.png" alt="Detroit Pistons Icon Edition blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 7 vs Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -695,12 +721,14 @@ Cavs go back to the Association Edition whites on the road for Game 7 at Little 
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 at Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20classic%20throwback%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -733,12 +761,14 @@ Cavs go back to the Classic Edition throwback blue at home for Game 6 at Rocket 
       <img src="/images/jerseys/nba/cavs-association-white.png" alt="Cleveland Cavaliers Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 5 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/pistons-icon-blue.png" alt="Detroit Pistons Icon Edition blue home jersey debut for 2026 NBA Playoffs Round 2 Game 5 vs Cleveland Cavaliers, first time the Pistons wear the blue jersey at home all playoffs" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20icon%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -771,12 +801,14 @@ Pistons break from the Association whites for the first time all playoffs and pu
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 at Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 4 vs Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20classic%20throwback%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -809,12 +841,14 @@ Cavs run back the Classic Edition throwback blue at home on the matching alterna
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white road jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 at Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/cavs-classic-blue.png" alt="Cleveland Cavaliers Classic Edition throwback blue home jersey and uniform for 2026 NBA Playoffs Round 2 Game 3 vs Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Classic · Throwback Blue</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20classic%20throwback%20blue%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -847,12 +881,14 @@ Cavs flip to Classic Edition throwback blue at home on the matching throwback co
       <img src="/images/jerseys/nba/cavs-statement-black.png" alt="Cleveland Cavaliers Statement Edition black road jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20statement%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 2 vs Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>
@@ -885,12 +921,14 @@ Pistons run back the Association Edition white home jersey for Game 2, Cleveland
       <img src="/images/jerseys/nba/cavs-statement-black.png" alt="Cleveland Cavaliers Statement Edition black road jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 at Detroit Pistons" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CLEVELAND CAVALIERS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
+      <a href="https://www.amazon.com/s?k=cleveland%20cavaliers%20statement%20black%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/pistons-association-white.png" alt="Detroit Pistons Association Edition white home jersey and uniform for 2026 NBA Playoffs Round 2 Game 1 vs Cleveland Cavaliers" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">DETROIT PISTONS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://www.amazon.com/s?k=detroit%20pistons%20association%20white%20jersey&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" data-amazon-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #FF9900 0%, #FF6F00 100%); border-radius: 999px; color: #111; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">Shop on Amazon</a>
     </div>
   </div>
 </div>

@@ -57,8 +57,13 @@ export default function Footer() {
           </Link>
         </div>
 
+        {/* Affiliate disclosure */}
+        <p className="text-[#b0b4bc] text-[10px] mt-4 max-w-[680px] leading-relaxed">
+          ColorWay Sports is a participant in the Amazon Services LLC Associates Program and other affiliate programs. As an Amazon Associate we earn from qualifying purchases. Some links on this site may earn us a commission at no extra cost to you.
+        </p>
+
         {/* Copyright */}
-        <p className="text-[#b0b4bc] text-[11px] mt-4">
+        <p className="text-[#b0b4bc] text-[11px] mt-3">
           &copy; {new Date().getFullYear()} ColorWay Sports. All rights reserved.
         </p>
       </div>
