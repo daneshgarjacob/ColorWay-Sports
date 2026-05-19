@@ -1,8 +1,9 @@
 ---
-title: "NBA Playoffs Logo on the Court: A Full Visual History (2010-2026)"
+title: "NBA Playoffs Court Logo: Every Year From 2010 to 2026 (and Why It Vanished)"
 category: "NBA"
 date: "2026-04-14"
-excerpt: "The NBA Playoffs logo disappeared from center court in 2015. Here's every NBA Finals and Playoffs court logo from 2010 to 2026, and why the league should bring it back."
+updatedDate: "2026-05-19"
+excerpt: "Every NBA Playoffs and Finals court logo from 2010 to 2026 in one place. The center-court logo disappeared after 2015. Here is the full visual history."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #1D428A 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/NBA-Finals-Logo.svg.png"
 coverImageFit: "contain"

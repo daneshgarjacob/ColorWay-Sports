@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Matchup Graded"
+title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Game and Uniform Matchup Graded"
 category: "NBA"
 date: "2026-04-16"
-updatedDate: "2026-05-04"
-excerpt: "2026 NBA Playoffs Round 1 jersey and uniform tracker closed out with Sunday Game 7 results: Pistons beat Magic 4-3 in Detroit and Cavaliers beat Raptors 4-3 in Cleveland to advance to Round 2, Sixers beat Celtics 4-3 in Boston, Lakers closed Round 1 over Houston, every Round 1 jersey and uniform matchup graded."
+updatedDate: "2026-05-19"
+excerpt: "Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded. Pistons, Cavaliers, Sixers, and Lakers all advanced to Round 2 after Game 7 closeouts."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png"
 coverImagePosition: "center center"

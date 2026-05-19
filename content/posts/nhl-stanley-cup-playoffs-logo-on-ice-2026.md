@@ -1,9 +1,9 @@
 ---
-title: "Why the Stanley Cup Playoffs Ice Logo Vanished From NHL Rinks"
+title: "Stanley Cup Playoffs Ice Logo: Every Year, Why It Disappeared After 2020, and What Replaced It"
 category: "NHL"
 date: "2026-04-15"
-updatedDate: "2026-04-28"
-excerpt: "Why the NHL removed the Stanley Cup Playoffs ice logo after 2020, what replaced it, and why fans still want the playoff logo back on the rink."
+updatedDate: "2026-05-19"
+excerpt: "Every Stanley Cup Playoffs ice logo through 2026. The NHL removed the playoff logo from the rink after 2020. Full history and what replaced it on the ice."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
 logoSrc: "/logos/NHL.png"
 coverImage: "/images/posts/nhl-stanley-cup-logo-on-ice-2026/2026_Stanley_Cup_playoffs_logo.png"

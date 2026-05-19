@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
+title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-13"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt and towel giveaway graded. Round 2 Game 5 Wednesday: Pistons hand out blue ALL DAWG t-shirts at Little Caesars Arena to match the Icon Edition blue home jerseys (A). Tuesday: Spurs Por Vida black rally towels at Frost Bank Center (D)."
+updatedDate: "2026-05-19"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
