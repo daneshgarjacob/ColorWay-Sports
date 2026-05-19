@@ -4,9 +4,9 @@ category: "NBA"
 date: "2026-05-19"
 excerpt: "The NBA brought back the Finals logo on the court for 2026 but skipped the Conference Finals. We break down the court branding gap and what the NBA could fix before Game 2."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0A0A0A 50%, #C8102E 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/NBA-Finals-Logo.svg.png"
+coverImage: "/images/posts/nba-conference-finals-court-branding-no-logo/2026-wcf-no-branding.jpg"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
@@ -15,14 +15,40 @@ worstRating: 0
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/courts/nba/spurs-home.png" alt="Frost Bank Center San Antonio Spurs home court for the 2026 NBA Western Conference Finals with no Western Conference Finals logo painted on the court or basket stanchion" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/nba-conference-finals-court-branding-no-logo/2026-wcf-no-branding.jpg" alt="Paycom Center Oklahoma City Thunder home court during the 2026 NBA Western Conference Finals Game 1 vs San Antonio Spurs on NBC with no Western Conference Finals logo painted on the court or apron, only generic NBA Playoffs sponsor lettering" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="margin: 0.6em 0 0; font-size: 12px; color: #888; text-align: center; font-weight: 500;">2026 NBA Western Conference Finals Game 1 on NBC: Paycom Center court reads only "NBA Playoffs" with sponsor logos. No Western Conference Finals branding.</p>
 </div>
 
 The NBA Finals logo is coming back to center court for the 2026 NBA Finals. Real win for the league. The Finals logo had not appeared at center court since 2015, and the [court logo history](/stories/nba-playoffs-branding-court-logo-history) for the entire decade in between has been a documented absence. The 2026 NBA Finals logo on the court is a return of one of the great traditions in postseason broadcast design.
 
 So why are the Conference Finals courts still naked?
 
-The 2026 Western Conference Finals tipped off Sunday night at Paycom Center in Oklahoma City with zero Conference Finals branding visible on the court. No "Western Conference Finals" logo at center court. No conference logo on the basket stanchion pad. No painted markings of any kind that signal "this is a Conference Finals game" instead of "this is a Thursday night regular season game in February." Same story at Madison Square Garden for the Eastern Conference Finals Game 1 between the Cavs and Knicks. The NBA Finals court branding is coming back. The Conference Finals court branding is not even on the calendar.
+The 2026 Western Conference Finals tipped off Sunday night at Paycom Center in Oklahoma City with zero Conference Finals branding visible on the court. The apron of the floor reads "NBA Playoffs" with the Google and NBC Peacock sponsor logos repeated along the sideline, but the words "Western Conference Finals" appear nowhere on the playing surface. No conference logo at center court. No conference logo on the basket stanchion pad. No painted markings of any kind that signal "this is a Conference Finals game" instead of "this is a Thursday night regular season game in February." Same story at Madison Square Garden for the Eastern Conference Finals Game 1 between the Cavs and Knicks. The NBA Finals court branding is coming back. The Conference Finals court branding is not even on the calendar.
+
+## This Is What the NBA Used to Do
+
+<div style="margin: 2em 0; padding: 24px; background: linear-gradient(135deg, #f6f6f8 0%, #ffffff 100%); border-radius: 16px; border: 1px solid rgba(0,0,0,0.08);">
+  <div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
+    <div>
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
+        <p style="margin: 0; font-size: 11px; font-weight: 800; color: #1D428A; text-transform: uppercase; letter-spacing: 2px;">2021 Western Conference Finals</p>
+        <p style="margin: 0; font-size: 11px; font-weight: 700; color: #00c864; text-transform: uppercase; letter-spacing: 1.5px;">Branding on the Court ✓</p>
+      </div>
+      <img src="/images/posts/nba-playoffs-2026/2021-WCF-Logo.png" alt="2021 NBA Western Conference Finals court apron with the painted Western Conference Finals wordmark next to the AT&T sponsor logo, the on-court playoff branding the NBA used to run before removing it from Conference Finals courts" style="width: 100%; display: block; border-radius: 8px;" />
+      <p style="margin: 8px 0 0; font-size: 12px; color: #666; font-weight: 500;">2021 Western Conference Finals. The "WESTERN CONFERENCE FINALS" wordmark is painted prominently on the apron of the court. Fans in the building and viewers at home see the playoff identity in every wide shot.</p>
+    </div>
+    <div>
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
+        <p style="margin: 0; font-size: 11px; font-weight: 800; color: #C8102E; text-transform: uppercase; letter-spacing: 2px;">2026 Western Conference Finals</p>
+        <p style="margin: 0; font-size: 11px; font-weight: 700; color: #ff5b5b; text-transform: uppercase; letter-spacing: 1.5px;">Branding on the Court ✗</p>
+      </div>
+      <img src="/images/posts/nba-conference-finals-court-branding-no-logo/2026-wcf-no-branding.jpg" alt="2026 NBA Western Conference Finals Game 1 at Paycom Center on NBC showing the Oklahoma City Thunder home court with no Western Conference Finals logo or wordmark on the court or apron, only generic NBA Playoffs sponsor lettering along the sideline" style="width: 100%; display: block; border-radius: 8px;" />
+      <p style="margin: 8px 0 0; font-size: 12px; color: #666; font-weight: 500;">2026 Western Conference Finals Game 1 at Paycom Center. The apron reads "NBA Playoffs" with Google and NBC Peacock sponsor tags. The Western Conference Finals wordmark is gone. Generic playoff lettering only.</p>
+    </div>
+  </div>
+</div>
+
+That is the difference. A painted "WESTERN CONFERENCE FINALS" wordmark on the apron in 2021 versus a generic "NBA Playoffs" sponsor-stamp lettering in 2026. The NBA had this exact branding solution figured out five years ago. The painted Conference Finals wordmark on the apron does not interfere with gameplay, does not cost extra production time beyond the regular court setup, and is the kind of small visual upgrade that makes the broadcast feel like the round it is. The 2026 court has the same physical floor space available for the same wordmark. The league just chose not to paint it on. That is the gap we want closed.
 
 ## What Every Other Major Sports League Does
 
