@@ -64,7 +64,7 @@ Below, every matchup graded series by series, newest game first within each seri
 
 ## San Antonio Spurs vs Oklahoma City Thunder (Western Conference Finals)
 
-The Western Conference Finals open at Paycom Center with the Thunder running the Icon Edition blue at home for Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifts to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Thunder Icon blue is the through-line all four games. The Spurs work three different jerseys across the first four. We grade each matchup as the uniform pairing is confirmed. **Spurs lead the series 1-0** after stealing Game 1 on the road in Oklahoma City.
+San Antonio leads the series 1-0 after taking Game 1 on the road in Oklahoma City. The Western Conference Finals open at Paycom Center with the Thunder running the Icon Edition blue at home for Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifts to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Thunder Icon blue is the through-line all four games. The Spurs work three different jerseys across the first four. We grade each matchup as the uniform pairing is confirmed.
 
 ### Game 4: Oklahoma City Thunder at San Antonio Spurs
 
@@ -184,14 +184,13 @@ Thunder run back the Icon Edition blue at home for the second straight game with
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007DC3 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 1 · Series Opener</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007DC3 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 1 · Spurs Win Game 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nba/spurs-icon-black.png" alt="San Antonio Spurs Icon Edition black road jersey and uniform for 2026 NBA Western Conference Finals Game 1 at Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Black</p>
-      <span style="display: inline-block; margin-top: 8px; padding: 4px 10px; background: #00c864; border-radius: 999px; font-size: 9px; font-weight: 800; color: #0a1f0e; text-transform: uppercase; letter-spacing: 1.5px;">Winner</span>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -200,7 +199,6 @@ Thunder run back the Icon Edition blue at home for the second straight game with
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
     </div>
   </div>
-  <p style="text-align: center; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; opacity: 0.9; margin: 18px 0 0;">Final · Spurs Win Game 1 · Series 1-0 SAS</p>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(100, 180, 80, 0.12); border-radius: 12px; border: 1px solid rgba(100, 180, 80, 0.25);">
@@ -218,7 +216,7 @@ Thunder run back the Icon Edition blue at home for the second straight game with
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Oklahoma City · Primary Court</p>
 </div>
 
-Thunder open the Western Conference Finals at Paycom Center in the Icon Edition blue at home with the Spurs in the Icon Edition black on the road. Thunder blue at home is not the traditional Association white call, but the matchup reads strong because blue and black are both primary brand colors carried at the right tonal contrast for broadcast. Spurs Icon black on the road is the cleanest version of San Antonio's identity outside the Association whites and pairs well with the Thunder blue. This is the most intentional non-white home call we have seen so far in the 2026 playoffs and one of the better looking series openers in the conference round. Eight out of 10. **San Antonio steals Game 1 on the road and leads the series 1-0**, the Icon Edition black road jersey going 1-0 in its Conference Finals debut.
+Thunder open the Western Conference Finals at Paycom Center in the Icon Edition blue at home with the Spurs in the Icon Edition black on the road. Thunder blue at home is not the traditional Association white call, but the matchup reads strong because blue and black are both primary brand colors carried at the right tonal contrast for broadcast. Spurs Icon black on the road is the cleanest version of San Antonio's identity outside the Association whites and pairs well with the Thunder blue. This is the most intentional non-white home call we have seen so far in the 2026 playoffs and one of the better looking series openers in the conference round. San Antonio took Game 1 at Paycom Center to lead the series 1-0. Eight out of 10.
 
 <span id="knicks-cavs"></span>
 
