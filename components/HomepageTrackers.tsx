@@ -10,15 +10,6 @@ const trackers = [
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",
   },
-  {
-    slug: "nba-playoffs-2026-round-2-jersey-tracker",
-    kicker: "NBA · Playoffs · Round 2",
-    title: "2026 NBA Playoffs Round 2 Jersey Tracker",
-    dek: "Thunder swept the Lakers. Knicks swept the Sixers. Pistons-Cavs went seven. Every matchup graded.",
-    status: "Completed · Round 2",
-    grade: "A",
-    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png",
-  },
 ];
 
 const gradeColor: Record<string, string> = {
@@ -79,8 +70,8 @@ export default function HomepageTrackers() {
           </Link>
         </div>
 
-        {/* 2-up grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+        {/* Single tracker */}
+        <div className="grid grid-cols-1 gap-6 max-w-[640px] mx-auto">
           {trackers.map((t) => {
             const bg = gradeColor[t.grade] ?? "#6B6B6B";
             return (
