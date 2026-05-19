@@ -123,12 +123,18 @@ The Phillies are wearing an All-Star Game logo on both their caps and sleeves th
 
 ## Why This System Works
 
-Most MLB teams have no real pattern to their uniform choices. They throw on a City Connect one random Tuesday and wear an alternate on a Wednesday afternoon with no rhyme or reason. The Phillies are one of the few teams that treat their uniform rotation like an actual schedule, and it makes a difference.
+Most MLB teams have no real pattern to their uniform choices. They throw on a City Connect one random Tuesday and wear an alternate on a Wednesday afternoon with no rhyme or reason. The Phillies and the [Miami Marlins](/stories/marlins-uniform-schedule-2026) are two of the few teams that treat their uniform rotation like an actual schedule, and it makes a difference.
 
 When you know that Thursday means powder blues and Friday means City Connect, it builds anticipation. Fans can plan around it. Season ticket holders know what they are getting. And each jersey keeps its own identity instead of blending into the rotation.
 
 The Phillies have five uniforms that all serve a purpose. The pinstripes are the classic. The creams are the vintage daytime look. The powder blues are the weekly throwback. The City Connects are the Friday night special. And the road grays are the away uniform. Every jersey has its lane, and none of them step on each other.
 
 More teams should take notes.
+
+## More MLB Coverage
+
+- [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other MLB team running a true scheduled uniform rotation
+- [Every National MLB Scorebug Ranked for 2026](/stories/national-mlb-scorebugs-2026-ranked) — Fox, TBS, ESPN, Apple TV+ scorebugs graded
+- [Globe Life Field Roof Status: Open or Closed Today](/stories/globe-life-field-roof-status-2026) — checking the Rangers stadium roof for any game date
 
 *All jersey images via the Philadelphia Phillies*

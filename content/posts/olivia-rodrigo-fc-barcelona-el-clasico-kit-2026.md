@@ -106,3 +106,9 @@ The Olivia Rodrigo butterfly logo on its own is fine but not exceptional, the so
 **Is Olivia Rodrigo the youngest artist on a Barcelona jersey?** Yes. Olivia Rodrigo is 23 years old and the youngest artist ever placed on an FC Barcelona match jersey through the Spotify takeover program, around a decade younger than the next-youngest artists Karol G and Travis Scott.
 
 **Where can I buy the Olivia Rodrigo FC Barcelona kit?** The Olivia Rodrigo Barcelona kit went on sale May 1, 2026 at 10 a.m. CEST through Barca Official Stores and the club's online shop, with the full capsule including the jersey plus T-shirts, hoodies, fleece crews, bucket hats, scarves, travel mugs, sticker packs, and tote bags.
+
+## More Soccer Coverage
+
+- [Every 2026 World Cup Jersey Ranked From Worst to Best](/stories/every-2026-world-cup-jersey-ranked) — full 64-team kit ranking for the World Cup
+- [Ranking Every Nike 2026 World Cup Kit](/stories/ranking-every-nike-world-cup-kit-2026) — all Nike kits graded
+- [Every 2026 World Cup Home Jersey Ranked](/stories/every-2026-world-cup-home-jersey-ranked) — home kit countdown

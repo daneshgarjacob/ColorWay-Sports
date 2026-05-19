@@ -130,4 +130,10 @@ The Marlins wear the standard home white uniform on every Saturday home game at 
 
 The Miami Marlins release the weekend jersey schedule on their official social media channels and team website before each homestand. The confirmed 2026 weekend rotation is Retro Wave Fridays, home whites Saturdays, and teal throwbacks Sundays for every Sunday home game.
 
+## More MLB Coverage
+
+- [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the other MLB team running a true scheduled uniform rotation
+- [Marlins Teal Alternate Jersey: A Closer Look](/stories/marlins-teal-alternate-jersey-2026) — the full story behind the Teal Sundays throwback
+- [Every National MLB Scorebug Ranked for 2026](/stories/national-mlb-scorebugs-2026-ranked) — Fox, TBS, ESPN, Apple TV+ scorebugs graded
+
 *All jersey images via the Miami Marlins*

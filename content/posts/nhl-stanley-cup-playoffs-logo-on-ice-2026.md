@@ -109,3 +109,9 @@ The 2026 Stanley Cup Playoffs begin on April 18, 2026. The Conference Semifinals
 **What does the 2026 Stanley Cup Playoffs logo look like?**
 
 The 2026 Stanley Cup Playoffs logo features a photorealistic depiction of the Stanley Cup on a black and silver shield. The typography uses "Victoria SC Serif" inspired by the 1925 Stanley Cup-winning Victoria Cougars' trophy etching and "Windsor Sans" inspired by Montreal's Windsor Hotel where the NHL was founded in 1917.
+
+## More NHL Playoffs Coverage
+
+- [2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker](/stories/nhl-playoffs-2026-round-2-jersey-tracker) — every Round 2 sweater matchup graded
+- [2026 NHL Eastern Conference Final Preview: Hurricanes vs Canadiens](/stories/nhl-eastern-conference-final-hurricanes-canadiens-2026-preview) — Conference Final sweaters and schedule
+- [Stanley Cup Final Logo History: 1989-2026](/stories/stanley-cup-final-logo-history-1989-2026) — every Stanley Cup Final logo ranked
