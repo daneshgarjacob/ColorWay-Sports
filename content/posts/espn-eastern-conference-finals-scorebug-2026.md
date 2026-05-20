@@ -59,6 +59,22 @@ The silver-themed Conference Finals scorebug is the strongest argument ESPN has 
 
 The A- on the 2026 ECF lands one notch below the A we gave the 2025 WCF version. The deduction is for ESPN not pushing the design forward in the year of the new broadcast deal, and for the condensed scorebug looking cramped in the back half of the broadcast. The full version is still A-grade. The condensed version is the deduction.
 
+<span id="faq"></span>
+
+## Frequently Asked Questions: ESPN 2026 Eastern Conference Finals Scorebug
+
+**What grade did ESPN's 2026 Eastern Conference Finals scorebug get?** A-. The full version of the scorebug with the complete "EASTERN CONFERENCE FINALS" wordmark on the silver bottom banner is A-grade work, the same design we graded A in 2025. The deduction comes from ESPN not pushing the design forward in the year of the new NBA broadcast deal, and from the condensed version of the scorebug cramping the back half of the broadcast.
+
+**Is ESPN's 2026 NBA Playoffs scorebug different from 2025?** No. ESPN carried over the exact same scorebug package from the 2025 playoffs. The first round bug, the Conference Finals silver bug, and the Finals gold bug are all unchanged. Knicks-Cavs Game 1 at Madison Square Garden ran the same scorebug ESPN ran for Timberwolves-Thunder in the 2025 Western Conference Finals.
+
+**Why does ESPN's Eastern Conference Finals scorebug have a silver theme?** The silver treatment is part of ESPN's round-by-round color progression. The first round bug carries a tonal balance, the Conference Finals bug goes silver, and the Finals bug goes gold. Reading the scorebug color tells you the round before you read the wordmark. ESPN is the only NBA broadcast partner with this kind of identity progression baked into the scorebug.
+
+**Why does ESPN's scorebug look different late in the game?** ESPN switches to a condensed version of the scorebug in the back half of the broadcast to show team timeout indicators and other in-game state. The full "EASTERN CONFERENCE FINALS" wordmark collapses to a small "East Finals Game 1" mark in the corner. The condensed version is the look that carries the most broadcast minutes and the main reason we deducted a notch from the grade.
+
+**What network is airing the 2026 NBA Eastern Conference Finals?** ESPN with select Sunday games on ABC. The Western Conference Finals air exclusively on NBC and Peacock. Full breakdown lives in our [2026 NBA Playoffs broadcast networks guide](/stories/2026-nba-playoffs-broadcast-networks-guide) and the [Where to Watch the 2026 NBA Conference Finals](/stories/where-to-watch-2026-nba-conference-finals) guide.
+
+**How does ESPN's scorebug compare to NBC's and Amazon Prime's in 2026?** ESPN ranks first in our [2026 NBA Playoffs scorebug ranking](/stories/nba-playoffs-scorebug-ranked-2026) at A-, with NBC at B for a minimalist look that does not carry playoff identity, and Amazon Prime at B- for its playoff scorebug debut. The silver-to-gold round progression is the through-line that keeps ESPN at the top.
+
 ## The Bottom Line on ESPN's 2026 Eastern Conference Finals Scorebug
 
 ESPN's 2026 Eastern Conference Finals scorebug holds the gold standard role we gave the 2025 version, with the silver theme and the full Eastern Conference Finals wordmark still doing the work. The grade is A- with a one-notch deduction for no design upgrade in a year where every other broadcast partner upgraded their NBA playoff package, and for the condensed scorebug ending up as the look that carries the most broadcast minutes. The full version is the A. The condensed version is the deduction. Net A-. Knicks-Cavs Game 1 game-by-game uniform grades live in our [2026 NBA Conference Finals jersey tracker](/stories/nba-playoffs-2026-conference-finals-jersey-tracker), and the full broadcast network breakdown lives in our [2026 NBA Playoffs broadcast networks guide](/stories/2026-nba-playoffs-broadcast-networks-guide).
