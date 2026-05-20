@@ -2,14 +2,14 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-12"
+updatedDate: "2026-05-20"
 excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday Round 2: Canadiens white rally towels at Bell Centre for Game 4 vs Sabres (C+), Knights gold rally towels at T-Mobile Arena for Game 5 vs Ducks (B). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
-teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth", "carolina-hurricanes"]
+teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth", "carolina-hurricanes", "colorado-avalanche"]
 ---
 
 <img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Tuesday Western Conference Final Giveaway
+
+Colorado runs the strongest crowd takeover format of the entire 2026 Stanley Cup Playoffs at Ball Arena for the Western Conference Final, pairing a team-color t-shirt giveaway with handheld pom-poms for a two-item arena package that doubles the broadcast presence on every crowd cut and replay.
+
+### Colorado Avalanche · T-Shirts and Pom-Poms · Western Conference Final · Grade: A+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Avalanche/status/2057132426716164150"></a></blockquote>
+</div>
+
+The Avalanche load Ball Arena with a t-shirt takeover paired with handheld pom-poms for the Western Conference Final, the two-item giveaway format running the strongest crowd takeover of the entire 2026 NHL Stanley Cup Playoffs. The shirts deliver the unified color floor across every seat and the pom-poms add a movement layer that a static t-shirt giveaway can never reach, doubling the broadcast presence on every crowd cut and goal-celebration replay. The team-color commitment ties the Avalanche home crowd, the Burgundy home sweater, and the Ball Arena identity into a single Conference Final broadcast frame. A+. The strongest crowd giveaway grade we have given any team in the 2026 NHL playoffs and the template every home team should be running for a deep playoff round, Conference Final, or Stanley Cup Final moment.
 
 ## Tuesday Round 2 Game 4 and Game 5 Giveaways
 

@@ -2,14 +2,14 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-19"
+updatedDate: "2026-05-20"
 excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
-teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns"]
+teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns", "oklahoma-city-thunder"]
 featuredOrder: 1
 ---
 
@@ -21,6 +21,26 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Tuesday Western Conference Finals Game 2 Giveaway
+
+The Thunder are the only home team on the Tuesday Western Conference Finals Game 2 slate and they are running a blue and white stripe out at Paycom Center against the Spurs, alternating sections of blue and white t-shirts across the arena to anchor the Thunder Icon Edition blue home jersey on the broadcast.
+
+### Oklahoma City Thunder · Blue and White Stripe Out T-Shirts · WCF Game 2 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/okcthunder/status/2056882594420044087"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/okcthunder/status/2056877561469342143"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/okcthunder/status/2056871852803338500"></a></blockquote>
+</div>
+
+The Thunder load Paycom Center with a blue and white stripe out for Western Conference Finals Game 2 against the Spurs, alternating sections of blue and white t-shirts across the arena to match the Thunder Icon Edition blue home jersey carried through every game of the WCF so far. The blue dominates the broadcast frame, the stripe pattern gives the takeover its own visual identity, and the team-color commitment ties the crowd, the home jersey, and the Paycom Center identity into a single Conference Finals moment. The stripe format keeps the grade below a full A because a unified blue takeover would have flooded the broadcast in one color instead of splitting the frame across two. A-. One of the stronger Conference Finals crowd giveaways of the 2026 NBA Playoffs and the kind of branded color moment the league's best home crowds nail in deep playoff rounds.
 
 ## Wednesday Round 2 Game 5 Giveaway
 
