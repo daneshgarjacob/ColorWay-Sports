@@ -8,8 +8,8 @@ import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 
 const TRACKER_SLUGS = new Set([
-  "nba-playoffs-2026-round-2-jersey-tracker",
-  "nhl-playoffs-2026-round-2-jersey-tracker",
+  "nba-playoffs-2026-conference-finals-jersey-tracker",
+  "nhl-conference-finals-2026-jersey-tracker",
   "nba-playoffs-crowd-giveaway-tracker-2026",
 ]);
 
