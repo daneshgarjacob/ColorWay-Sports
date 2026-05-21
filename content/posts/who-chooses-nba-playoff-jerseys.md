@@ -1,15 +1,20 @@
 ---
-title: "Who Actually Chooses NBA Playoff Jerseys Each Game"
-category: "NBA"
-date: "2026-04-29"
-excerpt: "How NBA teams pick which jersey and uniform to wear each playoff game. The equipment manager, the coaching staff, the marketing department, and the league approval process explained."
-gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
-logoSrc: "/logos/nba.png"
-coverImage: "/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png"
-coverImagePosition: "center center"
-coverImageFit: "contain"
-league: "nba"
-teams: ["los-angeles-lakers"]
+title: Who Actually Chooses NBA Playoff Jerseys Each Game
+category: NBA
+date: '2026-04-29'
+excerpt: >-
+  How NBA teams pick which jersey and uniform to wear each playoff game. The
+  equipment manager, the coaching staff, the marketing department, and the
+  league approval process explained.
+gradient: 'linear-gradient(135deg, #552583 0%, #FDB927 100%)'
+logoSrc: /logos/nba.png
+coverImage: /images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png
+coverImagePosition: center center
+coverImageFit: contain
+league: nba
+teams:
+  - los-angeles-lakers
+topViewsRank: 4
 ---
 
 <img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />

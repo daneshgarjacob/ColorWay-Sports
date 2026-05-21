@@ -1,26 +1,36 @@
 ---
-title: "Leaked: New 2026-27 NBA Wordmarks for the Hawks, Nets, Rockets, and Timberwolves Reveal Three Throwbacks and One Wild Card"
-category: "NBA"
-date: "2026-05-12"
-excerpt: "Leaked NBA wordmarks for 2026-27 confirm new Hawks, Nets, Rockets, and Timberwolves jerseys. Three throwbacks and one Rockets curveball. Full breakdown and grade for every new uniform mark."
-gradient: "linear-gradient(135deg, #17408B 0%, #C9082A 50%, #17408B 100%)"
-coverImage: "/images/posts/nba-wordmarks-2026-27/cover.jpg"
-coverImagePosition: "center center"
-coverImageFit: "cover"
-logoSrc: "/logos/nba.svg"
-league: "nba"
-teams: ["atlanta-hawks", "brooklyn-nets", "houston-rockets", "minnesota-timberwolves"]
+title: >-
+  Leaked: New 2026-27 NBA Wordmarks for the Hawks, Nets, Rockets, and
+  Timberwolves Reveal Three Throwbacks and One Wild Card
+category: NBA
+date: '2026-05-12'
+excerpt: >-
+  Leaked NBA wordmarks for 2026-27 confirm new Hawks, Nets, Rockets, and
+  Timberwolves jerseys. Three throwbacks and one Rockets curveball. Full
+  breakdown and grade for every new uniform mark.
+gradient: 'linear-gradient(135deg, #17408B 0%, #C9082A 50%, #17408B 100%)'
+coverImage: /images/posts/nba-wordmarks-2026-27/cover.jpg
+coverImagePosition: center center
+coverImageFit: cover
+logoSrc: /logos/nba.svg
+league: nba
+teams:
+  - atlanta-hawks
+  - brooklyn-nets
+  - houston-rockets
+  - minnesota-timberwolves
 bestRating: 10
 worstRating: 0
 reviews:
-  - name: "Atlanta Hawks 2026-27 Pac-Man Throwback Wordmark"
+  - name: Atlanta Hawks 2026-27 Pac-Man Throwback Wordmark
     rating: 8.5
-  - name: "Brooklyn Nets 2026-27 New Jersey Era Throwback Wordmark"
+  - name: Brooklyn Nets 2026-27 New Jersey Era Throwback Wordmark
     rating: 8
-  - name: "Houston Rockets 2026-27 New Wordmark System"
+  - name: Houston Rockets 2026-27 New Wordmark System
     rating: 6
-  - name: "Minnesota Timberwolves 2026-27 Original Blue and Green Throwback Wordmark"
+  - name: Minnesota Timberwolves 2026-27 Original Blue and Green Throwback Wordmark
     rating: 8
+topViewsRank: 8
 ---
 
 <img src="/images/posts/nba-wordmarks-2026-27/cover.jpg" alt="2026-27 NBA wordmarks revealed for the Atlanta Hawks, Brooklyn Nets, Houston Rockets, and Minnesota Timberwolves with new jersey and uniform branding for next season" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />

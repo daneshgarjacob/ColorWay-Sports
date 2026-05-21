@@ -1,14 +1,21 @@
 ---
-title: "Olivia Rodrigo Barcelona Jersey: Butterfly Logo Replaces Spotify on the El Clasico Kit"
-category: "Soccer"
-date: "2026-05-02"
-updatedDate: "2026-05-19"
-excerpt: "Olivia Rodrigo's yellow butterfly logo takes over FC Barcelona's El Clasico jersey on May 10. Eighth Spotify artist takeover after Drake, Coldplay, and Ed Sheeran."
-gradient: "linear-gradient(135deg, #A50044 0%, #FFE15D 50%, #004D98 100%)"
-coverImage: "/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-spotify-fc-barcelona-promo.jpg"
-coverImagePosition: "center center"
-league: "soccer"
+title: >-
+  Olivia Rodrigo Barcelona Jersey: Butterfly Logo Replaces Spotify on the El
+  Clasico Kit
+category: Soccer
+date: '2026-05-02'
+updatedDate: '2026-05-19'
+excerpt: >-
+  Olivia Rodrigo's yellow butterfly logo takes over FC Barcelona's El Clasico
+  jersey on May 10. Eighth Spotify artist takeover after Drake, Coldplay, and Ed
+  Sheeran.
+gradient: 'linear-gradient(135deg, #A50044 0%, #FFE15D 50%, #004D98 100%)'
+coverImage: >-
+  /images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-spotify-fc-barcelona-promo.jpg
+coverImagePosition: center center
+league: soccer
 teams: []
+topViewsRank: 5
 ---
 
 <img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg" alt="Olivia Rodrigo from behind wearing the personalized FC Barcelona El Clasico kit with RODRIGO 21 on the back of the Nike home jersey for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />

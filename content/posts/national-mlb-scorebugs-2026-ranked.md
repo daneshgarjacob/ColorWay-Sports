@@ -1,13 +1,16 @@
 ---
-title: "Every National MLB Scorebug Ranked for 2026"
-category: "MLB"
-date: "2026-04-06"
-excerpt: "We ranked every national MLB broadcast scorebug for 2026 from Fox to ESPN to Netflix. Fox takes the top spot and ESPN lands at the bottom."
-gradient: "linear-gradient(135deg, #0C2340 0%, #C41E3A 50%, #0C2340 100%)"
-coverImage: "/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png"
-coverImagePosition: "center 50%"
-league: "mlb"
+title: Every National MLB Scorebug Ranked for 2026
+category: MLB
+date: '2026-04-06'
+excerpt: >-
+  We ranked every national MLB broadcast scorebug for 2026 from Fox to ESPN to
+  Netflix. Fox takes the top spot and ESPN lands at the bottom.
+gradient: 'linear-gradient(135deg, #0C2340 0%, #C41E3A 50%, #0C2340 100%)'
+coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png
+coverImagePosition: center 50%
+league: mlb
 teams: []
+topViewsRank: 6
 ---
 
 <img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays" style="width: 100%; border-radius: 10px;" />

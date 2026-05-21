@@ -1,14 +1,18 @@
 ---
-title: "Every 2026 World Cup Jersey Ranked From Worst to Best"
-category: "Soccer"
-date: "2026-04-13"
-excerpt: "We ranked all 52 national team kits from Nike, Adidas, and Puma for the 2026 FIFA World Cup. From Qatar's blank canvas to France's Statue of Liberty masterpiece, here's where every team lands."
-gradient: "linear-gradient(135deg, #5B0E2D 0%, #1a3c6e 100%)"
-logoSrc: "/logos/world-cup-2026.png"
-league: "soccer"
+title: Every 2026 World Cup Jersey Ranked From Worst to Best
+category: Soccer
+date: '2026-04-13'
+excerpt: >-
+  We ranked all 52 national team kits from Nike, Adidas, and Puma for the 2026
+  FIFA World Cup. From Qatar's blank canvas to France's Statue of Liberty
+  masterpiece, here's where every team lands.
+gradient: 'linear-gradient(135deg, #5B0E2D 0%, #1a3c6e 100%)'
+logoSrc: /logos/world-cup-2026.png
+league: soccer
 teams: []
-coverImage: "/images/posts/wc-all-jerseys-ranked-cover.jpg"
-coverImagePosition: "center center"
+coverImage: /images/posts/wc-all-jerseys-ranked-cover.jpg
+coverImagePosition: center center
+topViewsRank: 3
 ---
 
 <img src="/images/posts/wc-all-jerseys-ranked-cover.jpg" alt="Every 2026 World Cup jersey ranked Nike Adidas and Puma logos" style="width: 100%; max-width: 100%; border-radius: 10px;" />

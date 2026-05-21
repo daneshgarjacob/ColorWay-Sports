@@ -1,116 +1,129 @@
 ---
-title: "2026 NBA Playoffs Round 1 Jersey Tracker: Every Game and Uniform Matchup Graded"
-category: "NBA"
-date: "2026-04-16"
-updatedDate: "2026-05-19"
-excerpt: "Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded. Pistons, Cavaliers, Sixers, and Lakers all advanced to Round 2 after Game 7 closeouts."
-gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png"
-coverImagePosition: "center center"
-coverImageFit: "contain"
-logoSrc: "/logos/nba.png"
-league: "nba"
-teams: ["new-york-knicks", "atlanta-hawks", "cleveland-cavaliers", "toronto-raptors", "denver-nuggets", "minnesota-timberwolves", "los-angeles-lakers", "houston-rockets"]
+title: >-
+  2026 NBA Playoffs Round 1 Jersey Tracker: Every Game and Uniform Matchup
+  Graded
+category: NBA
+date: '2026-04-16'
+updatedDate: '2026-05-19'
+excerpt: >-
+  Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded. Pistons,
+  Cavaliers, Sixers, and Lakers all advanced to Round 2 after Game 7 closeouts.
+gradient: 'linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)'
+coverImage: /images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png
+coverImagePosition: center center
+coverImageFit: contain
+logoSrc: /logos/nba.png
+league: nba
+teams:
+  - new-york-knicks
+  - atlanta-hawks
+  - cleveland-cavaliers
+  - toronto-raptors
+  - denver-nuggets
+  - minnesota-timberwolves
+  - los-angeles-lakers
+  - houston-rockets
 featuredOrder: 2
 bestRating: 10
 worstRating: 0
 reviews:
-  - name: "Orlando Magic at Detroit Pistons Round 1 Game 7 Jerseys"
+  - name: Orlando Magic at Detroit Pistons Round 1 Game 7 Jerseys
     rating: 10
-  - name: "Toronto Raptors at Cleveland Cavaliers Round 1 Game 7 Jerseys"
+  - name: Toronto Raptors at Cleveland Cavaliers Round 1 Game 7 Jerseys
     rating: 2
-  - name: "Philadelphia 76ers at Boston Celtics Round 1 Game 7 Jerseys"
+  - name: Philadelphia 76ers at Boston Celtics Round 1 Game 7 Jerseys
     rating: 3
-  - name: "Detroit Pistons at Orlando Magic Round 1 Game 6 Jerseys"
+  - name: Detroit Pistons at Orlando Magic Round 1 Game 6 Jerseys
     rating: 4
-  - name: "Cleveland Cavaliers at Toronto Raptors Round 1 Game 6 Jerseys"
+  - name: Cleveland Cavaliers at Toronto Raptors Round 1 Game 6 Jerseys
     rating: 4
-  - name: "Los Angeles Lakers at Houston Rockets Round 1 Game 6 Jerseys"
+  - name: Los Angeles Lakers at Houston Rockets Round 1 Game 6 Jerseys
     rating: 6
-  - name: "New York Knicks at Atlanta Hawks Round 1 Game 6 Jerseys"
+  - name: New York Knicks at Atlanta Hawks Round 1 Game 6 Jerseys
     rating: 10
-  - name: "Boston Celtics at Philadelphia 76ers Round 1 Game 6 Jerseys"
+  - name: Boston Celtics at Philadelphia 76ers Round 1 Game 6 Jerseys
     rating: 10
-  - name: "Denver Nuggets at Minnesota Timberwolves Round 1 Game 6 Jerseys"
+  - name: Denver Nuggets at Minnesota Timberwolves Round 1 Game 6 Jerseys
     rating: 4
-  - name: "Orlando Magic at Detroit Pistons Round 1 Game 5 Jerseys"
+  - name: Orlando Magic at Detroit Pistons Round 1 Game 5 Jerseys
     rating: 10
-  - name: "Toronto Raptors at Cleveland Cavaliers Round 1 Game 5 Jerseys"
+  - name: Toronto Raptors at Cleveland Cavaliers Round 1 Game 5 Jerseys
     rating: 9
-  - name: "Houston Rockets at Los Angeles Lakers Round 1 Game 5 Jerseys"
+  - name: Houston Rockets at Los Angeles Lakers Round 1 Game 5 Jerseys
     rating: 3
-  - name: "Philadelphia 76ers at Boston Celtics Round 1 Game 5 Jerseys"
+  - name: Philadelphia 76ers at Boston Celtics Round 1 Game 5 Jerseys
     rating: 2
-  - name: "Atlanta Hawks at New York Knicks Round 1 Game 5 Jerseys"
+  - name: Atlanta Hawks at New York Knicks Round 1 Game 5 Jerseys
     rating: 1
-  - name: "Portland Trail Blazers at San Antonio Spurs Round 1 Game 5 Jerseys"
+  - name: Portland Trail Blazers at San Antonio Spurs Round 1 Game 5 Jerseys
     rating: 9
-  - name: "Detroit Pistons at Orlando Magic Round 1 Game 4 Jerseys"
+  - name: Detroit Pistons at Orlando Magic Round 1 Game 4 Jerseys
     rating: 5
-  - name: "Oklahoma City Thunder at Phoenix Suns Round 1 Game 4 Jerseys"
+  - name: Oklahoma City Thunder at Phoenix Suns Round 1 Game 4 Jerseys
     rating: 2
-  - name: "Minnesota Timberwolves at Denver Nuggets Round 1 Game 5 Jerseys"
+  - name: Minnesota Timberwolves at Denver Nuggets Round 1 Game 5 Jerseys
     rating: 2
-  - name: "Boston Celtics at Philadelphia 76ers Round 1 Game 4 Jerseys"
+  - name: Boston Celtics at Philadelphia 76ers Round 1 Game 4 Jerseys
     rating: 8
-  - name: "Los Angeles Lakers at Houston Rockets Round 1 Game 4 Jerseys"
+  - name: Los Angeles Lakers at Houston Rockets Round 1 Game 4 Jerseys
     rating: 5
-  - name: "Cleveland Cavaliers at Toronto Raptors Round 1 Game 4 Jerseys"
+  - name: Cleveland Cavaliers at Toronto Raptors Round 1 Game 4 Jerseys
     rating: 4
-  - name: "San Antonio Spurs at Portland Trail Blazers Round 1 Game 4 Jerseys"
+  - name: San Antonio Spurs at Portland Trail Blazers Round 1 Game 4 Jerseys
     rating: 3
-  - name: "New York Knicks at Atlanta Hawks Round 1 Game 4 Jerseys"
+  - name: New York Knicks at Atlanta Hawks Round 1 Game 4 Jerseys
     rating: 10
-  - name: "San Antonio Spurs at Portland Trail Blazers Round 1 Game 3 Jerseys"
+  - name: San Antonio Spurs at Portland Trail Blazers Round 1 Game 3 Jerseys
     rating: 10
-  - name: "Philadelphia 76ers at Boston Celtics Round 1 Game 1 Jerseys"
+  - name: Philadelphia 76ers at Boston Celtics Round 1 Game 1 Jerseys
     rating: 10
-  - name: "Portland Trail Blazers at San Antonio Spurs Round 1 Game 2 Jerseys"
+  - name: Portland Trail Blazers at San Antonio Spurs Round 1 Game 2 Jerseys
     rating: 10
-  - name: "New York Knicks at Atlanta Hawks Round 1 Game 3 Jerseys"
+  - name: New York Knicks at Atlanta Hawks Round 1 Game 3 Jerseys
     rating: 10
-  - name: "Houston Rockets at Los Angeles Lakers Round 1 Game 1 Jerseys"
+  - name: Houston Rockets at Los Angeles Lakers Round 1 Game 1 Jerseys
     rating: 9.5
-  - name: "Atlanta Hawks at New York Knicks Round 1 Game 1 Jerseys"
+  - name: Atlanta Hawks at New York Knicks Round 1 Game 1 Jerseys
     rating: 9
-  - name: "Boston Celtics at Philadelphia 76ers Round 1 Game 3 Jerseys"
+  - name: Boston Celtics at Philadelphia 76ers Round 1 Game 3 Jerseys
     rating: 8
-  - name: "Orlando Magic at Detroit Pistons Round 1 Game 1 Jerseys"
+  - name: Orlando Magic at Detroit Pistons Round 1 Game 1 Jerseys
     rating: 8
-  - name: "Detroit Pistons at Orlando Magic Round 1 Game 3 Jerseys"
+  - name: Detroit Pistons at Orlando Magic Round 1 Game 3 Jerseys
     rating: 4
-  - name: "Denver Nuggets at Minnesota Timberwolves Round 1 Game 4 Jerseys"
+  - name: Denver Nuggets at Minnesota Timberwolves Round 1 Game 4 Jerseys
     rating: 4
-  - name: "Oklahoma City Thunder at Phoenix Suns Round 1 Game 3 Jerseys"
+  - name: Oklahoma City Thunder at Phoenix Suns Round 1 Game 3 Jerseys
     rating: 2
-  - name: "Orlando Magic at Detroit Pistons Round 1 Game 2 Jerseys"
+  - name: Orlando Magic at Detroit Pistons Round 1 Game 2 Jerseys
     rating: 8
-  - name: "Toronto Raptors at Cleveland Cavaliers Round 1 Game 1 Jerseys"
+  - name: Toronto Raptors at Cleveland Cavaliers Round 1 Game 1 Jerseys
     rating: 7
-  - name: "Minnesota Timberwolves at Denver Nuggets Round 1 Game 1 Jerseys"
+  - name: Minnesota Timberwolves at Denver Nuggets Round 1 Game 1 Jerseys
     rating: 7
-  - name: "Toronto Raptors at Cleveland Cavaliers Round 1 Game 2 Jerseys"
+  - name: Toronto Raptors at Cleveland Cavaliers Round 1 Game 2 Jerseys
     rating: 7
-  - name: "Los Angeles Lakers at Houston Rockets Round 1 Game 3 Jerseys"
+  - name: Los Angeles Lakers at Houston Rockets Round 1 Game 3 Jerseys
     rating: 6
-  - name: "Phoenix Suns at Oklahoma City Thunder Round 1 Game 1 Jerseys"
+  - name: Phoenix Suns at Oklahoma City Thunder Round 1 Game 1 Jerseys
     rating: 6
-  - name: "Phoenix Suns at Oklahoma City Thunder Round 1 Game 2 Jerseys"
+  - name: Phoenix Suns at Oklahoma City Thunder Round 1 Game 2 Jerseys
     rating: 6
-  - name: "Portland Trail Blazers at San Antonio Spurs Round 1 Game 1 Jerseys"
+  - name: Portland Trail Blazers at San Antonio Spurs Round 1 Game 1 Jerseys
     rating: 6
-  - name: "Denver Nuggets at Minnesota Timberwolves Round 1 Game 3 Jerseys"
+  - name: Denver Nuggets at Minnesota Timberwolves Round 1 Game 3 Jerseys
     rating: 4
-  - name: "Minnesota Timberwolves at Denver Nuggets Round 1 Game 2 Jerseys"
+  - name: Minnesota Timberwolves at Denver Nuggets Round 1 Game 2 Jerseys
     rating: 3
-  - name: "Philadelphia 76ers at Boston Celtics Round 1 Game 2 Jerseys"
+  - name: Philadelphia 76ers at Boston Celtics Round 1 Game 2 Jerseys
     rating: 3
-  - name: "Cleveland Cavaliers at Toronto Raptors Round 1 Game 3 Jerseys"
+  - name: Cleveland Cavaliers at Toronto Raptors Round 1 Game 3 Jerseys
     rating: 2
-  - name: "Atlanta Hawks at New York Knicks Round 1 Game 2 Jerseys"
+  - name: Atlanta Hawks at New York Knicks Round 1 Game 2 Jerseys
     rating: 1
-  - name: "Houston Rockets at Los Angeles Lakers Round 1 Game 2 Jerseys"
+  - name: Houston Rockets at Los Angeles Lakers Round 1 Game 2 Jerseys
     rating: 0
+topViewsRank: 9
 ---
 
 <div style="margin: 0 0 2em;">

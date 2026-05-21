@@ -1,14 +1,21 @@
 ---
-title: "Globe Life Field Roof Status 2026: Open or Closed Today and How to Check Any Date"
-category: "MLB"
-date: "2026-04-01"
-updatedDate: "2026-05-06"
-excerpt: "Globe Life Field roof is closed for over 80% of Rangers home games. Real 2026 data on the roof status, weather rules, how to check today, and how to look up any past date including the Yankees series and the late April homestand."
-gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
-coverImage: "/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg"
-coverImagePosition: "center 90%"
-league: "mlb"
-teams: ["texas-rangers"]
+title: >-
+  Globe Life Field Roof Status 2026: Open or Closed Today and How to Check Any
+  Date
+category: MLB
+date: '2026-04-01'
+updatedDate: '2026-05-06'
+excerpt: >-
+  Globe Life Field roof is closed for over 80% of Rangers home games. Real 2026
+  data on the roof status, weather rules, how to check today, and how to look up
+  any past date including the Yankees series and the late April homestand.
+gradient: 'linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)'
+coverImage: /images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg
+coverImagePosition: center 90%
+league: mlb
+teams:
+  - texas-rangers
+topViewsRank: 7
 ---
 
 <img src="/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg" alt="Globe Life Field in Arlington Texas with the retractable roof open showing the Rangers home ballpark interior on a clear night" style="width: 100%; border-radius: 10px;" />

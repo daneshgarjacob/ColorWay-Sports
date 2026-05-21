@@ -1,13 +1,18 @@
 ---
-title: "Phillies Uniform Schedule 2026: Every Jersey and When They Wear It"
-category: "MLB"
-date: "2026-04-06"
-excerpt: "The Phillies have five uniforms in 2026 and a clear system for when each one is worn. We break down the red pinstripes, creams, powder blues, City Connects, and road grays."
-gradient: "linear-gradient(135deg, #E81828 0%, #002D72 50%, #E81828 100%)"
-coverImage: "/images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg"
-coverImagePosition: "center 60%"
-league: "mlb"
-teams: ["philadelphia-phillies"]
+title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
+category: MLB
+date: '2026-04-06'
+excerpt: >-
+  The Phillies have five uniforms in 2026 and a clear system for when each one
+  is worn. We break down the red pinstripes, creams, powder blues, City
+  Connects, and road grays.
+gradient: 'linear-gradient(135deg, #E81828 0%, #002D72 50%, #E81828 100%)'
+coverImage: /images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg
+coverImagePosition: center 60%
+league: mlb
+teams:
+  - philadelphia-phillies
+topViewsRank: 1
 ---
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg" alt="All five Philadelphia Phillies 2026 uniforms with Independence Blue Cross IBX jersey patch" style="width: 100%; border-radius: 10px;" />

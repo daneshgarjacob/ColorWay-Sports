@@ -1,62 +1,75 @@
 ---
-title: "2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
-category: "NBA"
-date: "2026-05-05"
-updatedDate: "2026-05-18"
-excerpt: "2026 NBA Playoffs Round 2 jersey tracker: Cavs win Game 7 in Detroit 4-3, Cavs Association whites on the road over Pistons Icon blue. Spurs eliminate Timberwolves 4-2. Thunder swept Lakers 4-0, Knicks swept Sixers 4-0. Every uniform matchup graded."
-gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png"
-coverImagePosition: "center center"
-coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
-league: "nba"
-teams: ["new-york-knicks", "philadelphia-76ers", "san-antonio-spurs", "minnesota-timberwolves", "detroit-pistons", "cleveland-cavaliers", "oklahoma-city-thunder", "los-angeles-lakers"]
+title: '2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded'
+category: NBA
+date: '2026-05-05'
+updatedDate: '2026-05-18'
+excerpt: >-
+  2026 NBA Playoffs Round 2 jersey tracker: Cavs win Game 7 in Detroit 4-3, Cavs
+  Association whites on the road over Pistons Icon blue. Spurs eliminate
+  Timberwolves 4-2. Thunder swept Lakers 4-0, Knicks swept Sixers 4-0. Every
+  uniform matchup graded.
+gradient: 'linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)'
+coverImage: /images/posts/NBA-Playoffs-Jersey-Matchups/round2-tracker-cover.png
+coverImagePosition: center center
+coverImageFit: cover
+logoSrc: /logos/nba.png
+league: nba
+teams:
+  - new-york-knicks
+  - philadelphia-76ers
+  - san-antonio-spurs
+  - minnesota-timberwolves
+  - detroit-pistons
+  - cleveland-cavaliers
+  - oklahoma-city-thunder
+  - los-angeles-lakers
 featuredOrder: 3
 bestRating: 10
 worstRating: 0
 reviews:
-  - name: "Cleveland Cavaliers at Detroit Pistons Round 2 Game 7 Jerseys"
+  - name: Cleveland Cavaliers at Detroit Pistons Round 2 Game 7 Jerseys
     rating: 6
-  - name: "Detroit Pistons at Cleveland Cavaliers Round 2 Game 6 Jerseys"
+  - name: Detroit Pistons at Cleveland Cavaliers Round 2 Game 6 Jerseys
     rating: 7
-  - name: "San Antonio Spurs at Minnesota Timberwolves Round 2 Game 6 Jerseys"
+  - name: San Antonio Spurs at Minnesota Timberwolves Round 2 Game 6 Jerseys
     rating: 6
-  - name: "Cleveland Cavaliers at Detroit Pistons Round 2 Game 5 Jerseys"
+  - name: Cleveland Cavaliers at Detroit Pistons Round 2 Game 5 Jerseys
     rating: 6
-  - name: "Minnesota Timberwolves at San Antonio Spurs Round 2 Game 5 Jerseys"
+  - name: Minnesota Timberwolves at San Antonio Spurs Round 2 Game 5 Jerseys
     rating: 1
-  - name: "Detroit Pistons at Cleveland Cavaliers Round 2 Game 4 Jerseys"
+  - name: Detroit Pistons at Cleveland Cavaliers Round 2 Game 4 Jerseys
     rating: 7
-  - name: "Oklahoma City Thunder at Los Angeles Lakers Round 2 Game 4 Jerseys"
+  - name: Oklahoma City Thunder at Los Angeles Lakers Round 2 Game 4 Jerseys
     rating: 2
-  - name: "New York Knicks at Philadelphia 76ers Round 2 Game 4 Jerseys"
+  - name: New York Knicks at Philadelphia 76ers Round 2 Game 4 Jerseys
     rating: 10
-  - name: "San Antonio Spurs at Minnesota Timberwolves Round 2 Game 4 Jerseys"
+  - name: San Antonio Spurs at Minnesota Timberwolves Round 2 Game 4 Jerseys
     rating: 6
-  - name: "Oklahoma City Thunder at Los Angeles Lakers Round 2 Game 3 Jerseys"
+  - name: Oklahoma City Thunder at Los Angeles Lakers Round 2 Game 3 Jerseys
     rating: 10
-  - name: "New York Knicks at Philadelphia 76ers Round 2 Game 3 Jerseys"
+  - name: New York Knicks at Philadelphia 76ers Round 2 Game 3 Jerseys
     rating: 10
-  - name: "Minnesota Timberwolves at San Antonio Spurs Round 2 Game 2 Jerseys"
+  - name: Minnesota Timberwolves at San Antonio Spurs Round 2 Game 2 Jerseys
     rating: 10
-  - name: "Philadelphia 76ers at New York Knicks Round 2 Game 1 Jerseys"
+  - name: Philadelphia 76ers at New York Knicks Round 2 Game 1 Jerseys
     rating: 10
-  - name: "Cleveland Cavaliers at Detroit Pistons Round 2 Game 1 Jerseys"
+  - name: Cleveland Cavaliers at Detroit Pistons Round 2 Game 1 Jerseys
     rating: 9
-  - name: "Detroit Pistons at Cleveland Cavaliers Round 2 Game 3 Jerseys"
+  - name: Detroit Pistons at Cleveland Cavaliers Round 2 Game 3 Jerseys
     rating: 7
-  - name: "Cleveland Cavaliers at Detroit Pistons Round 2 Game 2 Jerseys"
+  - name: Cleveland Cavaliers at Detroit Pistons Round 2 Game 2 Jerseys
     rating: 9
-  - name: "Minnesota Timberwolves at San Antonio Spurs Round 2 Game 1 Jerseys"
+  - name: Minnesota Timberwolves at San Antonio Spurs Round 2 Game 1 Jerseys
     rating: 8
-  - name: "Los Angeles Lakers at Oklahoma City Thunder Round 2 Game 1 Jerseys"
+  - name: Los Angeles Lakers at Oklahoma City Thunder Round 2 Game 1 Jerseys
     rating: 6
-  - name: "San Antonio Spurs at Minnesota Timberwolves Round 2 Game 3 Jerseys"
+  - name: San Antonio Spurs at Minnesota Timberwolves Round 2 Game 3 Jerseys
     rating: 6
-  - name: "Los Angeles Lakers at Oklahoma City Thunder Round 2 Game 2 Jerseys"
+  - name: Los Angeles Lakers at Oklahoma City Thunder Round 2 Game 2 Jerseys
     rating: 4
-  - name: "Philadelphia 76ers at New York Knicks Round 2 Game 2 Jerseys"
+  - name: Philadelphia 76ers at New York Knicks Round 2 Game 2 Jerseys
     rating: 3
+topViewsRank: 10
 ---
 
 <div style="margin: 0 0 2em;">

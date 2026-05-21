@@ -1,14 +1,21 @@
 ---
-title: "Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays"
-category: "MLB"
-date: "2026-04-24"
-excerpt: "The Miami Marlins gave every weekend home game its own jersey in 2026. Retro Wave Fridays, home whites Saturdays, teal Sundays. We break down the full uniform schedule."
-gradient: "linear-gradient(135deg, #FF1493 0%, #00A3A3 50%, #000000 100%)"
-coverImage: "/images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg"
-coverImagePosition: "center 5%"
-league: "mlb"
-teams: ["miami-marlins"]
+title: >-
+  Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal
+  Sundays
+category: MLB
+date: '2026-04-24'
+excerpt: >-
+  The Miami Marlins gave every weekend home game its own jersey in 2026. Retro
+  Wave Fridays, home whites Saturdays, teal Sundays. We break down the full
+  uniform schedule.
+gradient: 'linear-gradient(135deg, #FF1493 0%, #00A3A3 50%, #000000 100%)'
+coverImage: /images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg
+coverImagePosition: center 5%
+league: mlb
+teams:
+  - miami-marlins
 homepageOrder: 9
+topViewsRank: 2
 ---
 
 <img src="/images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg" alt="Miami Marlins 2026 weekend uniform schedule showing Retro Wave Fridays, home whites Saturdays, and teal Sundays" style="width: 100%; border-radius: 10px;" />

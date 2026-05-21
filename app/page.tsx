@@ -7,6 +7,8 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 
+// Slugs surfaced in the Featured Trackers band (HomepageTrackers component)
+// and the crowd giveaway tracker — kept out of Latest/More to avoid duplication.
 const TRACKER_SLUGS = new Set([
   "nba-playoffs-2026-conference-finals-jersey-tracker",
   "nhl-conference-finals-2026-jersey-tracker",
@@ -16,8 +18,47 @@ const TRACKER_SLUGS = new Set([
 export default function Home() {
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
-  const lead = filtered.slice(0, 3);
-  const compact = filtered.slice(3, 9);
+
+  // LATEST STORIES — blend of "what's new" + "what's working right now".
+  // 2 newest posts by date (ensures freshness) + 1 top-ranked recent post (proven traffic
+  // in the last 30 days). Falls back to date if there's no recent ranked post.
+  const RECENT_WINDOW_DAYS = 30;
+  const today = Date.now();
+  const effectiveDate = (p: { date: string; updatedDate?: string }) =>
+    p.updatedDate || p.date;
+  const ageDays = (p: { date: string; updatedDate?: string }) =>
+    (today - new Date(effectiveDate(p)).getTime()) / 86400000;
+
+  const byDateDesc = [...filtered].sort((a, b) =>
+    effectiveDate(b).localeCompare(effectiveDate(a))
+  );
+
+  const newest = byDateDesc.slice(0, 2);
+  const newestSlugs = new Set(newest.map((p) => p.slug));
+
+  const popularRecent = filtered
+    .filter((p) => !newestSlugs.has(p.slug))
+    .filter((p) => typeof p.topViewsRank === "number")
+    .filter((p) => ageDays(p) <= RECENT_WINDOW_DAYS)
+    .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999))
+    .slice(0, 1);
+
+  let lead = [...newest, ...popularRecent];
+  if (lead.length < 3) {
+    const partialLeadSlugs = new Set(lead.map((p) => p.slug));
+    const fillers = byDateDesc
+      .filter((p) => !partialLeadSlugs.has(p.slug))
+      .slice(0, 3 - lead.length);
+    lead = [...lead, ...fillers];
+  }
+
+  // MORE STORIES — pure popularity by topViewsRank, excluding what's already in Latest.
+  const leadSlugs = new Set(lead.map((p) => p.slug));
+  const compact = filtered
+    .filter((p) => !leadSlugs.has(p.slug))
+    .filter((p) => typeof p.topViewsRank === "number")
+    .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999))
+    .slice(0, 6);
 
   return (
     <>

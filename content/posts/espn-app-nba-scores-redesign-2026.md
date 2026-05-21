@@ -1,14 +1,18 @@
 ---
-title: "ESPN Mobile App Update 2026: The New NBA Scores Page Is a Real Upgrade"
-category: "Sports Design"
-date: "2026-05-06"
-excerpt: "ESPN updated the mobile app and the new NBA scores page is a real upgrade. The score module is cleaner, the type is sharper, and the matchup read is faster than the version it replaced."
-gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%)"
-coverImage: "/images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png"
-coverImagePosition: "center center"
-coverImageFit: "contain"
-league: "nba"
+title: 'ESPN Mobile App Update 2026: The New NBA Scores Page Is a Real Upgrade'
+category: Sports Design
+date: '2026-05-06'
+excerpt: >-
+  ESPN updated the mobile app and the new NBA scores page is a real upgrade. The
+  score module is cleaner, the type is sharper, and the matchup read is faster
+  than the version it replaced.
+gradient: 'linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%)'
+coverImage: /images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png
+coverImagePosition: center center
+coverImageFit: contain
+league: nba
 teams: []
+topViewsRank: 11
 ---
 
 <img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png" alt="ESPN mobile app NBA scores page redesign 2026 cover graphic with the ESPN logo centered on a dark red gradient background, ESPN MOBILE APP eyebrow in red and NBA SCORES PAGE REDESIGN 2026 subtitle in white" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
