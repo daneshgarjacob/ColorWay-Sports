@@ -2,8 +2,8 @@
 title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-18"
-updatedDate: "2026-05-20"
-excerpt: "2026 NBA Conference Finals jersey tracker. Spurs lead Thunder 1-0 in the West. Knicks take Game 1 at the Garden to lead Cavaliers 1-0 in the East. Every uniform matchup graded with home and away jersey breakdowns."
+updatedDate: "2026-05-21"
+excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 2 to tie the series 1-1 in the West. Knicks lead Cavaliers 1-0 in the East. Every uniform matchup graded with home and away jersey breakdowns."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -64,7 +64,7 @@ Below, every matchup graded series by series, newest game first within each seri
 
 ## San Antonio Spurs vs Oklahoma City Thunder (Western Conference Finals)
 
-San Antonio leads the series 1-0 after taking Game 1 on the road in Oklahoma City. The Western Conference Finals open at Paycom Center with the Thunder running the Icon Edition blue at home for Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifts to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Thunder Icon blue is the through-line all four games. The Spurs work three different jerseys across the first four. We grade each matchup as the uniform pairing is confirmed.
+Series tied 1-1 heading to Frost Bank Center after the Thunder evened it up in Game 2 at Paycom Center. The Spurs took Game 1 on the road in Oklahoma City and the Thunder responded with the Game 2 win at home to send the series to San Antonio level. The Western Conference Finals opened at Paycom Center with the Thunder running the Icon Edition blue at home for both Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifts to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Thunder Icon blue is the through-line all four games. The Spurs work three different jerseys across the first four. We grade each matchup as the uniform pairing is confirmed.
 
 ### Game 4: Oklahoma City Thunder at San Antonio Spurs
 
@@ -150,7 +150,7 @@ Series shifts to Frost Bank Center for Game 3 with the Spurs in the Icon Edition
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007DC3 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 2 · Projection</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007DC3 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 2 · Thunder Win · Series Tied 1-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -184,7 +184,7 @@ Series shifts to Frost Bank Center for Game 3 with the Spurs in the Icon Edition
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Oklahoma City · Primary Court</p>
 </div>
 
-Thunder run back the Icon Edition blue at home for the second straight game with the Spurs flipping to the Association Edition white on the road. Both teams in their primary color identity sounds clean in a vacuum, but the road team in white instead of the home team in white inverts the playoff uniform standard. Spurs Association whites belong at home at Frost Bank Center, not in a road game at Paycom Center where the Thunder are already in blue at home. The visual story gets muddier than it needs to be when the Thunder do not pull their Association whites at home and the Spurs do not pull a color jersey on the road. Three out of 10.
+Thunder run back the Icon Edition blue at home for the second straight game with the Spurs flipping to the Association Edition white on the road. Both teams in their primary color identity sounds clean in a vacuum, but the road team in white instead of the home team in white inverts the playoff uniform standard. Spurs Association whites belong at home at Frost Bank Center, not in a road game at Paycom Center where the Thunder are already in blue at home. The visual story gets muddier than it needs to be when the Thunder do not pull their Association whites at home and the Spurs do not pull a color jersey on the road. Oklahoma City took Game 2 at Paycom Center to even the series 1-1 heading to San Antonio. Three out of 10.
 
 ### Game 1: San Antonio Spurs at Oklahoma City Thunder
 
