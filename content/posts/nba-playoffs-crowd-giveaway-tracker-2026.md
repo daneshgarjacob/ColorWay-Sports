@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-20"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-05-21"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Thursday ECF Game 2: Knicks white rally towels at Madison Square Garden vs Cavaliers (B+). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Thursday Eastern Conference Finals Game 2 Giveaway
+
+The Knicks host the Cavaliers for Eastern Conference Finals Game 2 at Madison Square Garden and the home crowd is loaded with white rally towels at every seat, paired with the Knicks Statement Edition black home jersey for the alternate-look Game 2 against Cleveland.
+
+### New York Knicks · White Rally Towels · ECF Game 2 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2057558257216991327"></a></blockquote>
+</div>
+
+The Knicks hand out white rally towels at every Madison Square Garden seat for Eastern Conference Finals Game 2 against the Cavaliers, the white towels carrying through the crowd against the Knicks Statement Edition black home jersey for a clean white-on-black broadcast read. The white towel call does not tie back to the Knicks brand orange or blue the way a unified team-color giveaway would, but white towels are an old-school NBA playoff staple and the Garden in white-towel mode is one of the most recognizable in-arena broadcast looks in the league. A team-color t-shirt takeover (blue or orange) would have hit a higher ceiling on broadcast against the Knicks Statement black jerseys, and the towels are the lower-impact format compared to the Thunder stripe-out from Tuesday. B+. Old-school and cool — the Garden has been doing white towels longer than most of the league and the format earns the bump above the standard towel floor on identity alone.
 
 ## Tuesday Western Conference Finals Game 2 Giveaway
 

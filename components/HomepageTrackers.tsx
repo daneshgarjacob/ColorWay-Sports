@@ -14,7 +14,7 @@ const trackers = [
     slug: "nhl-conference-finals-2026-jersey-tracker",
     kicker: "NHL · Stanley Cup Playoffs · Conference Finals",
     title: "2026 NHL Conference Finals Jersey Tracker",
-    dek: "Knights take Game 1 on the road in Denver to lead Avalanche 1-0. Hurricanes host Canadiens to open the ECF. Every sweater matchup graded.",
+    dek: "Knights take WCF Game 1 in Denver to lead Avalanche 1-0. Hurricanes open ECF Game 1 in Carolina black against Canadiens road whites. Every sweater matchup graded.",
     status: "Live · Conference Finals",
     grade: "B+",
     image: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",

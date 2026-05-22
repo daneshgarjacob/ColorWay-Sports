@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-20"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday Round 2: Canadiens white rally towels at Bell Centre for Game 4 vs Sabres (C+), Knights gold rally towels at T-Mobile Arena for Game 5 vs Ducks (B). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-05-21"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Thursday ECF Game 1: Hurricanes white rally towels at Lenovo Center vs Canadiens (B+). Tuesday WCF Game 1: Avalanche t-shirts and pom-poms at Ball Arena vs Knights (A+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Thursday Eastern Conference Final Game 1 Giveaway
+
+Carolina opens the Eastern Conference Final at Lenovo Center against the Canadiens and the Hurricanes load every seat with white rally towels for the series opener, the same white towel format Carolina ran for the Round 2 Game 1 against the Flyers but with a different uniform pairing on the home side tonight.
+
+### Carolina Hurricanes · White Rally Towels · Eastern Conference Final Game 1 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2057542594775630072"></a></blockquote>
+</div>
+
+Carolina hands out white rally towels at every Lenovo Center seat for the Eastern Conference Final Game 1 against the Canadiens, the home crowd carrying white towels against the Hurricanes black home alternate sweater for the second straight series opener at Lenovo Center. The white-on-black broadcast contrast reads clean and the towel-wave moments fit the loud Carolina playoff crowd, even if a red towel takeover would have tied the home crowd to the Hurricanes brand color story more directly. We bump this above the Round 2 Game 1 white-towel grade because the Conference Final-opener stakes lift the in-arena energy a notch above the Round 2 opener even at the same giveaway format. B+. White towels in a playoff arena hit a higher ceiling when the broadcast frame is a Conference Final on national TV.
 
 ## Tuesday Western Conference Final Giveaway
 
