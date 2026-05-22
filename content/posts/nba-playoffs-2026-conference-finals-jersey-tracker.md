@@ -2,8 +2,8 @@
 title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-18"
-updatedDate: "2026-05-21"
-excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 2 to tie the series 1-1 in the West. Knicks lead Cavaliers 1-0 in the East. Every uniform matchup graded with home and away jersey breakdowns."
+updatedDate: "2026-05-22"
+excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 2 to tie the series 1-1 in the West. Knicks beat Cavaliers in Game 2 at Madison Square Garden to lead 2-0 in the East. Every uniform matchup graded with home and away jersey breakdowns."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -230,7 +230,7 @@ Thunder open the Western Conference Finals at Paycom Center in the Icon Edition 
 
 ## New York Knicks vs Cleveland Cavaliers (Eastern Conference Finals)
 
-New York leads the series 1-0 after taking Game 1 at Madison Square Garden. The Eastern Conference Finals open at MSG with the Knicks running the Association Edition white at home for Games 1 and 2 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit) and the Knicks flipping to the Statement Edition black at home for Game 2. Series shifts to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights.
+New York leads the series 2-0 after winning Games 1 and 2 at Madison Square Garden. The Eastern Conference Finals opened at MSG with the Knicks running the Association Edition white at home for Game 1 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit), and the Knicks flipping to the Statement Edition black at home for Game 2 with the Cavs in Association white on the road. Series shifts to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights.
 
 ### Game 4: New York Knicks at Cleveland Cavaliers
 
@@ -316,7 +316,7 @@ Series shifts to Rocket Mortgage Fieldhouse for Game 3 with the Cavs going to th
 
 <div style="background: linear-gradient(135deg, #2a1a0a 0%, #1f1207 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 2 · Projection</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 2 · Knicks Win · Series 2-0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -350,7 +350,7 @@ Series shifts to Rocket Mortgage Fieldhouse for Game 3 with the Cavs going to th
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · Primary Court</p>
 </div>
 
-Knicks pull the Statement Edition black at home for Game 2 with the Cavs in Association Edition white on the road, an inverted matchup with the home team in black and the road team in white. The Knicks have one of the cleanest Association white home looks in the league and pulling the Statement black at home at Madison Square Garden gives up the strongest version of the New York identity for an alternate that does not carry the same heritage weight. Cavs Association whites on the road also waste the cleanest visitor look Cleveland has when the obvious move was the Icon Edition wine road. Both teams swing away from their primary playoff identity in the same game. Three out of 10.
+Knicks pull the Statement Edition black at home for Game 2 with the Cavs in Association Edition white on the road, an inverted matchup with the home team in black and the road team in white. The Knicks have one of the cleanest Association white home looks in the league and pulling the Statement black at home at Madison Square Garden gives up the strongest version of the New York identity for an alternate that does not carry the same heritage weight. Cavs Association whites on the road also waste the cleanest visitor look Cleveland has when the obvious move was the Icon Edition wine road. Both teams swing away from their primary playoff identity in the same game. New York took Game 2 at Madison Square Garden to lead the series 2-0 heading to Cleveland for Game 3 at Rocket Mortgage Fieldhouse. Three out of 10.
 
 ### Game 1: Cleveland Cavaliers at New York Knicks
 

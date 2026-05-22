@@ -2,8 +2,8 @@
 title: "2026 NHL Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-21"
-updatedDate: "2026-05-21"
-excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights take Game 1 in Denver to lead Avalanche 1-0 in the West. Hurricanes host Canadiens in Game 1 of the Eastern Conference Final in the black home alternate. Every sweater matchup graded."
+updatedDate: "2026-05-22"
+excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights take Game 1 in Denver to lead Avalanche 1-0 in the West. Canadiens steal Game 1 in Carolina to lead Hurricanes 1-0 in the East. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -82,7 +82,7 @@ Avalanche open the Western Conference Final in the primary burgundy home sweater
 
 ## Carolina Hurricanes vs Montreal Canadiens (Eastern Conference Final)
 
-The Eastern Conference Final opens at Lenovo Center with the Hurricanes in the black home alternate sweater against the Canadiens in road whites for Game 1, the same black home call Carolina used for the Round 2 series opener against the Flyers. Montreal opens in the iconic Canadiens road whites with the red and blue trim, one of the cleanest visitor sweater identities in the NHL. We grade each matchup as the uniform pairing is confirmed.
+Montreal leads the series 1-0 after stealing Game 1 on the road at Lenovo Center. The Eastern Conference Final opened in Raleigh with the Hurricanes in the black home alternate sweater against the Canadiens in road whites, the same black home call Carolina used for the Round 2 series opener against the Flyers. Montreal pulled the iconic Canadiens road whites with the red and blue trim, one of the cleanest visitor sweater identities in the NHL. Series now shifts toward Game 2 at Lenovo Center before heading to Bell Centre for Games 3 and 4. We grade each matchup as the sweater pairing is confirmed.
 
 For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hurricanes vs Canadiens preview](/stories/nhl-eastern-conference-final-hurricanes-canadiens-2026-preview).
 
@@ -90,7 +90,7 @@ For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hur
 
 <div style="background: linear-gradient(135deg, #1a0510 0%, #0a0205 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · ECF · Game 1 · Series Opener</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · ECF · Game 1 · Canadiens Win · Series 1-0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -113,7 +113,7 @@ For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hur
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #e6b800;">Score: 5 / 10</p>
 </div>
 
-Hurricanes black home alternate sweater against Canadiens road whites at Lenovo Center, Carolina passing on the iconic red home sweater for the black alternate to open the Eastern Conference Final, the same call the Hurricanes made for Round 2 Game 1 against the Flyers graded 5 out of 10. Black against white delivers the broadcast contrast and the Canadiens road whites with the red and blue trim are one of the more iconic visitor sweater identities in the league. The matchup pairing earns slightly more identity weight than the Round 2 G1 Hurricanes-Flyers combo because the Canadiens road whites carry more brand heritage than the Flyers road whites, but Carolina's choice to skip the primary red home alternate holds the grade at the same 5 out of 10 per the same-jersey-same-score rule on the home side. A Hurricanes red home sweater would have lifted this to an 8 or higher with the Canadiens whites as the road counterpart.
+Hurricanes black home alternate sweater against Canadiens road whites at Lenovo Center, Carolina passing on the iconic red home sweater for the black alternate to open the Eastern Conference Final, the same call the Hurricanes made for Round 2 Game 1 against the Flyers graded 5 out of 10. Black against white delivers the broadcast contrast and the Canadiens road whites with the red and blue trim are one of the more iconic visitor sweater identities in the league. The matchup pairing earns slightly more identity weight than the Round 2 G1 Hurricanes-Flyers combo because the Canadiens road whites carry more brand heritage than the Flyers road whites, but Carolina's choice to skip the primary red home alternate holds the grade at the same 5 out of 10 per the same-jersey-same-score rule on the home side. A Hurricanes red home sweater would have lifted this to an 8 or higher with the Canadiens whites as the road counterpart. Montreal stole Game 1 on the road at Lenovo Center to grab a 1-0 series lead heading into Game 2 in Carolina.
 
 <span id="faq"></span>
 
@@ -122,6 +122,8 @@ Hurricanes black home alternate sweater against Canadiens road whites at Lenovo 
 **Which teams are in the 2026 NHL Conference Finals?** The Western Conference Final is Colorado Avalanche vs Vegas Golden Knights. The Eastern Conference Final is Carolina Hurricanes vs Montreal Canadiens. The Avalanche eliminated the Wild 4-1 and the Golden Knights eliminated the Ducks 4-2 to lock in the West. The Hurricanes swept the Flyers 4-0 and the Canadiens beat the Sabres 4-3 in a Game 7 closeout in Buffalo to lock in the East.
 
 **Who won Game 1 of the Western Conference Final?** The Vegas Golden Knights took Game 1 on the road at Ball Arena in Denver to grab a 1-0 series lead. Vegas wore the standard road whites and Colorado wore the primary burgundy home sweater, the textbook NHL playoff white-versus-color matchup graded 8 out of 10.
+
+**Who won Game 1 of the Eastern Conference Final?** The Montreal Canadiens stole Game 1 on the road at Lenovo Center in Raleigh to grab a 1-0 series lead over the Carolina Hurricanes. Montreal wore the iconic road whites with the red and blue trim and Carolina wore the black home alternate sweater, the same black home alternate the Hurricanes ran for Round 2 Game 1 against the Flyers, graded 5 out of 10 for skipping the primary red home sweater.
 
 **What sweaters are the Avalanche wearing in the Western Conference Final?** Colorado has run the primary burgundy home sweater at Ball Arena throughout the playoffs, the same look that earned 8.5 in Round 2 against the Wild in Games 1, 2, and 5. The road white sweater carries the standard NHL playoff visitor uniform when the series shifts to T-Mobile Arena in Las Vegas.
 
