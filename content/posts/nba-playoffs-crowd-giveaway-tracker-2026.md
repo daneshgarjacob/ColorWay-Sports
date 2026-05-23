@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-21"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Thursday ECF Game 2: Knicks white rally towels at Madison Square Garden vs Cavaliers (B+). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-05-22"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Friday WCF Game 3: Spurs Fiesta t-shirts at Frost Bank Center vs Thunder (A-). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Friday Western Conference Finals Game 3 Giveaway
+
+The Spurs are the only home team on the Friday Western Conference Finals Game 3 slate and they are running a Fiesta-color t-shirt takeover at Frost Bank Center against the Thunder, the multi-color pink, teal, orange, and yellow Fiesta crowd identity that San Antonio leans on for marquee playoff home games.
+
+### San Antonio Spurs · Fiesta T-Shirts · WCF Game 3 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2057949182963404908"></a></blockquote>
+</div>
+
+The Spurs load Frost Bank Center with a Fiesta-color t-shirt takeover for Western Conference Finals Game 3 against the Thunder, the pink, teal, orange, and yellow Fiesta crowd identity that the Spurs run for marquee home games. The Fiesta t-shirt program is one of the strongest crowd takeover identities in the league because the colors are distinctly San Antonio, the format is a full t-shirt commitment instead of a towel, and the multi-color spread fills the broadcast frame with team-brand identity that no other arena can pull off. The grade gets capped at A- because the Spurs are wearing the Icon Edition black home jersey for Game 3 instead of the Fiesta City Edition jersey, which leaves the crowd identity and the on-court identity working in two different directions. A full Fiesta crowd paired with the Fiesta home jersey would have been the cleanest tie-in possible and a clear A. A-. One of the better Conference Finals crowd giveaways of the 2026 NBA Playoffs and a reminder that the Spurs Fiesta crowd identity is in a tier of its own when San Antonio commits to it.
 
 ## Thursday Eastern Conference Finals Game 2 Giveaway
 
