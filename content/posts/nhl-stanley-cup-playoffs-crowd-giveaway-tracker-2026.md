@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-21"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Thursday ECF Game 1: Hurricanes white rally towels at Lenovo Center vs Canadiens (B+). Tuesday WCF Game 1: Avalanche t-shirts and pom-poms at Ball Arena vs Knights (A+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-05-23"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Saturday ECF Game 2: Hurricanes Seth Jarvis Make Them Hear You rally towels at Lenovo Center vs Canadiens (A-). Tuesday WCF Game 1: Avalanche t-shirts and pom-poms at Ball Arena vs Knights (A+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Saturday Eastern Conference Final Game 2 Giveaway
+
+Carolina runs back the rally towel format at Lenovo Center for Eastern Conference Final Game 2 against the Canadiens, the towels now carrying a Seth Jarvis celebration photo with the "Make them hear you!" slogan across the back, a design upgrade that lifts above the standard white-towel Game 1 format.
+
+### Carolina Hurricanes · Seth Jarvis "Make Them Hear You" Rally Towels · Eastern Conference Final Game 2 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2058200219842453596"></a></blockquote>
+</div>
+
+Carolina hands out rally towels at every Lenovo Center seat for Eastern Conference Final Game 2 against the Canadiens, the towels carrying a Seth Jarvis celebration photo with the "Make them hear you!" slogan across the back, a design upgrade that lifts the format above the standard white-towel call the Hurricanes ran for the Game 1 series opener at B+. The "Challenge accepted" framing on the Hurricanes announcement reads as Carolina answering the Bell Centre crowd reputation Montreal has carried through the postseason and the player-image towel ties the in-arena identity to the face of the Canes young core in a way the standard white-towel format can never reach. The grade caps below a full A because rally towels still sit below a t-shirt takeover on broadcast ceiling, but the design upgrade and the Conference Final-stakes execution earn the bump above the G1 grade. A-. One of the strongest rally-towel grades of the 2026 NHL Stanley Cup Playoffs and a reminder that a real design upgrade on a towel can push the format closer to the t-shirt ceiling.
 
 ## Thursday Eastern Conference Final Game 1 Giveaway
 
