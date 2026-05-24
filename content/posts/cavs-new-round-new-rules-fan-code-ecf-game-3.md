@@ -2,7 +2,8 @@
 title: "Cleveland Cavaliers 'New Round, New Rules' Fan Code Is Embarrassing: 5 Rules for ECF Game 3 vs Knicks"
 category: "NBA"
 date: "2026-05-23"
-excerpt: "Cleveland Cavaliers' five-rule fan code for ECF Game 3 vs Knicks is embarrassing: real playoff crowds do not need an instruction manual, and the Knicks fans at Madison Square Garden just proved it."
+updatedDate: "2026-05-23"
+excerpt: "Cleveland Cavaliers' five-rule fan code for ECF Game 3 vs Knicks did not save the night. New York won in Cleveland to push the series to 3-0. The Madison Square Garden crowd's reputation just got bigger."
 gradient: "linear-gradient(135deg, #041E42 0%, #860038 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/cavs-game-rules/HJCEePXWUAAqZCV.jpg"
 coverImagePosition: "center center"
@@ -15,6 +16,12 @@ featuredOrder: 1
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/cavs-game-rules/HJCEePXWUAAqZCV.jpg" alt="Cleveland Cavaliers New Round New Rules five-rule fan code graphic for 2026 NBA Eastern Conference Finals Game 3 at Rocket Mortgage Fieldhouse vs New York Knicks listing the five rules wear the damn shirt let em know no warm welcomes we all defend the land make them miss the fourth we close together" style="width: 100%; display: block; border-radius: 12px;" />
+</div>
+
+<div style="margin: 0 0 2em; padding: 1.5em 1.75em; background: linear-gradient(135deg, #2a0a14 0%, #1a0510 100%); border-radius: 12px; border-left: 4px solid #C8102E;">
+  <p style="margin: 0 0 0.6em; font-size: 0.7em; font-weight: 800; color: #ff5b5b; text-transform: uppercase; letter-spacing: 2px;">Update · After Game 3</p>
+  <p style="margin: 0 0 0.75em; color: #fff; font-size: 1.1em; line-height: 1.5; font-weight: 700;">The New York Knicks won Game 3 in Cleveland to push the series lead to 3-0 and put the Cavaliers one loss away from elimination. The fan code did not save the night.</p>
+  <p style="margin: 0; color: rgba(255,255,255,0.85); font-size: 0.95em; line-height: 1.55;">The classic triple stripe shirts came out at every Rocket Mortgage Fieldhouse seat. The "Let Em Know" rally towels came out for the fourth quarter. The fan code was on the jumbotron. The Knicks still won on the road in Cleveland to take a 3-0 series lead and the Madison Square Garden crowd's reputation just got even bigger. We are leaving the original post intact below as a point-in-time document of the team essentially issuing a code of conduct to its own home crowd hours before getting pushed further into a 3-0 hole at home. The embarrassment factor just doubled.</p>
 </div>
 
 The Cleveland Cavaliers dropped a five-rule fan code on Saturday afternoon ahead of Eastern Conference Finals Game 3 against the New York Knicks at Rocket Mortgage Fieldhouse, the team posting the "New Round, New Rules" graphic on X with the #LetEmKnow campaign hashtag and a Redfin sponsorship tag. The fan code lays out exactly what the Cavaliers want from the home crowd through the broadcast: wear the playoff t-shirt from tip to final buzzer, drown out the Knicks introductions, scream "Defense" when New York has the ball, distract every Knicks free throw, and bring the energy through the fourth quarter without sitting down.
@@ -84,6 +91,10 @@ The Cleveland Cavaliers' five fan rules for Eastern Conference Finals Game 3 at 
 **What is the Cleveland Cavaliers' "Let Em Know" campaign?**
 
 "Let Em Know" is the Cleveland Cavaliers' branded home-crowd identity for the 2026 NBA Playoffs, the hashtag carrying through every crowd giveaway, fan-code announcement, and in-arena moment at Rocket Mortgage Fieldhouse. The Game 3 fan code rule two explicitly ties the chant — drown out the visiting-team intros with "Let's Go Cavs!" — back to the campaign hashtag for the broadcast and social rollout.
+
+**Did the Cleveland Cavaliers win Game 3 of the 2026 Eastern Conference Finals?**
+
+No. The New York Knicks won Game 3 in Cleveland at Rocket Mortgage Fieldhouse to push the Eastern Conference Finals series lead to 3-0 and put the Cleveland Cavaliers one loss away from elimination. The Cavaliers' "New Round, New Rules" fan code, the Redfin-sponsored triple stripe shirts at every seat, and the Lexus-sponsored rally towels for the fourth quarter could not deliver a home win for Cleveland in the first home game of the Eastern Conference Finals.
 
 **Is the Cleveland Cavaliers fan code embarrassing?**
 

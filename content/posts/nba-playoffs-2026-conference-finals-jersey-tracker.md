@@ -3,7 +3,7 @@ title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-18"
 updatedDate: "2026-05-23"
-excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 3 at Frost Bank Center to lead the series 2-1 in the West. Knicks lead Cavaliers 2-0 in the East heading to Cleveland. Every uniform matchup graded with home and away jersey breakdowns."
+excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 3 at Frost Bank Center to lead the series 2-1 in the West. Knicks lead Cavaliers 3-0 in the East after winning Game 3 in Cleveland. Every uniform matchup graded with home and away jersey breakdowns."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -230,7 +230,7 @@ Thunder open the Western Conference Finals at Paycom Center in the Icon Edition 
 
 ## New York Knicks vs Cleveland Cavaliers (Eastern Conference Finals)
 
-New York leads the series 2-0 after winning Games 1 and 2 at Madison Square Garden. The Eastern Conference Finals opened at MSG with the Knicks running the Association Edition white at home for Game 1 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit), and the Knicks flipping to the Statement Edition black at home for Game 2 with the Cavs in Association white on the road. Series shifts to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights.
+New York leads the series 3-0 after winning Games 1 and 2 at Madison Square Garden and Game 3 in Cleveland to put the Cavaliers one loss away from elimination. The Eastern Conference Finals opened at MSG with the Knicks running the Association Edition white at home for Game 1 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit), and the Knicks flipping to the Statement Edition black at home for Game 2 with the Cavs in Association white on the road. Series shifts to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights.
 
 ### Game 4: New York Knicks at Cleveland Cavaliers
 
@@ -276,7 +276,7 @@ Cavs run back the Classic Edition throwback blue at home on the alternate throwb
 
 <div style="background: linear-gradient(135deg, #0a1f3d 0%, #050d1f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F58426 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 3 · Projection</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F58426 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 3 · Knicks Win · Series 3-0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -310,7 +310,7 @@ Cavs run back the Classic Edition throwback blue at home on the alternate throwb
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
-Series shifts to Rocket Mortgage Fieldhouse for Game 3 with the Cavs going to the Classic Edition throwback blue at home on the alternate throwback court and the Knicks in Association Edition white on the road. The full throwback identity is the same look that helped Cleveland win Games 3 and 4 against Detroit in Round 2 and Game 6 in Cleveland to force Game 7. Knicks Association whites on the road are the right visitor call, but the broadcast contrast does not pop the way Detroit's Association whites did against the same Cleveland throwback home setup. Five out of 10. The Cavs throwback court paired with the Classic blue jersey is one of the strongest home-team identities still active in the 2026 playoffs.
+Series shifts to Rocket Mortgage Fieldhouse for Game 3 with the Cavs going to the Classic Edition throwback blue at home on the alternate throwback court and the Knicks in Association Edition white on the road. The full throwback identity is the same look that helped Cleveland win Games 3 and 4 against Detroit in Round 2 and Game 6 in Cleveland to force Game 7. Knicks Association whites on the road are the right visitor call, but the broadcast contrast does not pop the way Detroit's Association whites did against the same Cleveland throwback home setup. New York took Game 3 in Cleveland to push the series lead to 3-0 and move within one win of sweeping the Cavaliers out of the Eastern Conference Finals. Five out of 10. The Cavs throwback court paired with the Classic blue jersey is one of the strongest home-team identities still active in the 2026 playoffs.
 
 ### Game 2: Cleveland Cavaliers at New York Knicks
 
