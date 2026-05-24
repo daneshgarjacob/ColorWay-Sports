@@ -2,8 +2,8 @@
 title: "2026 NHL Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-21"
-updatedDate: "2026-05-22"
-excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights take Game 1 in Denver to lead Avalanche 1-0 in the West. Canadiens steal Game 1 in Carolina to lead Hurricanes 1-0 in the East. Every sweater matchup graded."
+updatedDate: "2026-05-23"
+excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights take Games 1 and 2 in Denver to lead Avalanche 2-0 in the West. Canadiens lead Hurricanes 1-0 in the East after stealing Game 1 in Carolina. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ homepageOrder: 4
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Vegas Golden Knights at Colorado Avalanche Conference Finals Game 2 Jerseys"
+    rating: 8
   - name: "Montreal Canadiens at Carolina Hurricanes Conference Finals Game 1 Jerseys"
     rating: 5
   - name: "Vegas Golden Knights at Colorado Avalanche Conference Finals Game 1 Jerseys"
@@ -38,7 +40,7 @@ Every 2026 NHL Stanley Cup Playoffs Conference Finals jersey and uniform matchup
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Conference Finals Average Score</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.5 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.0 / 10</span>
 </div>
 
 Below, every Conference Finals jersey and uniform matchup graded series by series, newest game first within each series. Avalanche-Golden Knights leads off in the West, followed by Hurricanes-Canadiens in the East.
@@ -47,7 +49,36 @@ Below, every Conference Finals jersey and uniform matchup graded series by serie
 
 ## Colorado Avalanche vs Vegas Golden Knights (Western Conference Final)
 
-Vegas leads the series 1-0 after taking Game 1 on the road in Denver. The Western Conference Final opened at Ball Arena with the Avalanche in the primary burgundy home sweater and the Golden Knights in road whites, the textbook NHL playoff white-versus-color matchup. Vegas stole home ice in the series opener and the series now shifts toward the second game at Ball Arena before heading to T-Mobile Arena for Games 3 and 4. We grade each matchup as the sweater pairing is confirmed.
+Vegas leads the series 2-0 after winning Games 1 and 2 on the road at Ball Arena in Denver. The Western Conference Final opened with the Avalanche in the primary burgundy home sweater and the Golden Knights in road whites for both games, the textbook NHL playoff white-versus-color matchup. Vegas stole both games in Denver to grab a stranglehold heading to T-Mobile Arena for Games 3 and 4. We grade each matchup as the sweater pairing is confirmed.
+
+### Game 2: Vegas Golden Knights at Colorado Avalanche
+
+<div style="background: linear-gradient(135deg, #1a0410 0%, #0a020a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6F263D 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · WCF · Game 2 · Knights Win · Series 2-0</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Western Conference Final Game 2 at Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520road%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/avalanche-red.png" alt="Colorado Avalanche burgundy home sweater for 2026 NHL Western Conference Final Game 2 vs Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Burgundy</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520avalanche%2520home%2520burgundy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
+</div>
+
+Avalanche run back the primary burgundy home sweater at Ball Arena for the second straight game with the Golden Knights again in road whites, the same uniform pairing as Game 1 holding the same 8 out of 10 grade per the same-jersey-same-score rule. Colorado's home burgundy with the blue and silver trim is one of the strongest primary identities in the league and the Vegas road whites with the gold and steel grey accents carry the broadcast contrast cleanly. Textbook white-versus-color, no alternates, no wrong-color call. Vegas took Game 2 at Ball Arena to grab a 2-0 series lead heading to T-Mobile Arena for Games 3 and 4. Eight out of 10.
 
 ### Game 1: Vegas Golden Knights at Colorado Avalanche
 
@@ -123,11 +154,13 @@ Hurricanes black home alternate sweater against Canadiens road whites at Lenovo 
 
 **Who won Game 1 of the Western Conference Final?** The Vegas Golden Knights took Game 1 on the road at Ball Arena in Denver to grab a 1-0 series lead. Vegas wore the standard road whites and Colorado wore the primary burgundy home sweater, the textbook NHL playoff white-versus-color matchup graded 8 out of 10.
 
+**Who won Game 2 of the Western Conference Final?** The Vegas Golden Knights won Game 2 on the road at Ball Arena in Denver to take a 2-0 series lead over the Colorado Avalanche. Both teams ran back the same Game 1 sweater pairing — Vegas in road whites, Colorado in the primary burgundy home sweater — graded 8 out of 10 per the same-jersey-same-score rule. Vegas now heads back to T-Mobile Arena for Games 3 and 4 with a chance to close out the series at home.
+
 **Who won Game 1 of the Eastern Conference Final?** The Montreal Canadiens stole Game 1 on the road at Lenovo Center in Raleigh to grab a 1-0 series lead over the Carolina Hurricanes. Montreal wore the iconic road whites with the red and blue trim and Carolina wore the black home alternate sweater, the same black home alternate the Hurricanes ran for Round 2 Game 1 against the Flyers, graded 5 out of 10 for skipping the primary red home sweater.
 
 **What sweaters are the Avalanche wearing in the Western Conference Final?** Colorado has run the primary burgundy home sweater at Ball Arena throughout the playoffs, the same look that earned 8.5 in Round 2 against the Wild in Games 1, 2, and 5. The road white sweater carries the standard NHL playoff visitor uniform when the series shifts to T-Mobile Arena in Las Vegas.
 
-**What sweaters are the Golden Knights wearing in the Western Conference Final?** Vegas has run road whites in Game 1 at Colorado, the standard NHL playoff visitor sweater. When the series shifts to T-Mobile Arena for Games 3 and 4, expect the primary gold home sweater, the same gold home identity Vegas wore in Round 2 Games 1, 2, and 5 against the Ducks, the gold and black home palette one of the most distinctive primary identities in the league.
+**What sweaters are the Golden Knights wearing in the Western Conference Final?** Vegas has run road whites in Games 1 and 2 at Colorado, the standard NHL playoff visitor sweater. With the series shifting to T-Mobile Arena for Games 3 and 4, expect the primary gold home sweater, the same gold home identity Vegas wore in Round 2 Games 1, 2, and 5 against the Ducks, the gold and black home palette one of the most distinctive primary identities in the league.
 
 **Where can I find the Round 1 and Round 2 jersey grades?** Every Round 1 sweater and uniform matchup is graded in the [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker) and every Round 2 matchup is graded in the [2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker](/stories/nhl-playoffs-2026-round-2-jersey-tracker).
 
