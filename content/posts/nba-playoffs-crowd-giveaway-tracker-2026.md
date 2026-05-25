@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-24"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Sunday WCF Game 4: Spurs rally towels at Frost Bank Center vs Thunder (C). Saturday ECF Game 3: Cavaliers classic triple stripe t-shirts and rally towels at Rocket Mortgage Fieldhouse vs Knicks (A). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-05-25"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center vs Spurs (A+). Sunday WCF Game 4: Spurs rally towels at Frost Bank Center vs Thunder (C). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Tuesday Western Conference Finals Game 5 Giveaway
+
+The Thunder host the Spurs for Western Conference Finals Game 5 at Paycom Center and the home crowd is loaded with white t-shirts at every seat, paired with the Thunder Association Edition white home jersey debut for the first time all playoffs. The white-on-white crowd-and-jersey commitment is one of the cleanest giveaway-to-uniform tie-ins of the entire 2026 NBA Playoffs and the strongest crowd takeover grade in the Conference Finals slate.
+
+### Oklahoma City Thunder · White Out T-Shirts · WCF Game 5 · Grade: A+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/okcthunder/status/2058971390259184077"></a></blockquote>
+</div>
+
+The Thunder load Paycom Center with a full white out for Western Conference Finals Game 5 against the Spurs, the white t-shirts tying directly into the Thunder Association Edition white home jersey debut for the first time all playoffs. White on white on white from the home jersey through the crowd through every seat is the textbook single-color crowd takeover, the format that floods the broadcast frame with one unified team identity and gives the Thunder their cleanest home-jersey-and-crowd combination of the postseason. The white out call is a clear step up from the blue and white stripe out the Thunder ran for Game 2, the unified single-color commitment delivering a stronger broadcast read than a multi-color split. The full crowd in white against the Spurs Icon Edition black road jersey delivers the maximum white-versus-color contrast for the cleanest possible Conference Finals frame, the same textbook white-versus-color call we graded 10 out of 10 on the [2026 NBA Conference Finals Jersey Tracker](/stories/nba-playoffs-2026-conference-finals-jersey-tracker) for Game 5. A+. One of the cleanest crowd giveaway tie-ins of the entire 2026 NBA Playoffs and the kind of single-color commitment we have been asking every home team to nail all postseason.
 
 ## Sunday Western Conference Finals Game 4 Giveaway
 
