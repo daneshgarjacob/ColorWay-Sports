@@ -3,7 +3,7 @@ title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Givea
 category: "NBA"
 date: "2026-04-23"
 updatedDate: "2026-05-25"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center vs Spurs (A+). Sunday WCF Game 4: Spurs rally towels at Frost Bank Center vs Thunder (C). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center vs Spurs (A+). Monday ECF Game 4: Cavaliers red, white, and blue t-shirts at Rocket Mortgage Fieldhouse vs Knicks (A). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -33,6 +33,18 @@ The Thunder host the Spurs for Western Conference Finals Game 5 at Paycom Center
 </div>
 
 The Thunder load Paycom Center with a full white out for Western Conference Finals Game 5 against the Spurs, the white t-shirts tying directly into the Thunder Association Edition white home jersey debut for the first time all playoffs. White on white on white from the home jersey through the crowd through every seat is the textbook single-color crowd takeover, the format that floods the broadcast frame with one unified team identity and gives the Thunder their cleanest home-jersey-and-crowd combination of the postseason. The white out call is a clear step up from the blue and white stripe out the Thunder ran for Game 2, the unified single-color commitment delivering a stronger broadcast read than a multi-color split. The full crowd in white against the Spurs Icon Edition black road jersey delivers the maximum white-versus-color contrast for the cleanest possible Conference Finals frame, the same textbook white-versus-color call we graded 10 out of 10 on the [2026 NBA Conference Finals Jersey Tracker](/stories/nba-playoffs-2026-conference-finals-jersey-tracker) for Game 5. A+. One of the cleanest crowd giveaway tie-ins of the entire 2026 NBA Playoffs and the kind of single-color commitment we have been asking every home team to nail all postseason.
+
+## Monday Eastern Conference Finals Game 4 Giveaway
+
+The Cavaliers are the only home team on the Monday Eastern Conference Finals Game 4 slate and they are running a red, white, and blue t-shirt giveaway at Rocket Mortgage Fieldhouse against the Knicks, the multi-color shirt program designed to tie into the Cavs Classic Edition throwback blue home jersey on the alternate throwback court for an elimination home game with the season on the line down 3-0 in the series.
+
+### Cleveland Cavaliers · Red, White, and Blue T-Shirts · ECF Game 4 · Grade: A
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LeahDohertyTV/status/2059012021278986397"></a></blockquote>
+</div>
+
+The Cavs load Rocket Mortgage Fieldhouse with a red, white, and blue t-shirt takeover for Eastern Conference Finals Game 4 against the Knicks, the multi-color shirt program designed to match the Cavs Classic Edition throwback blue home jersey on the alternate throwback court. The shirts spread the full Cleveland color palette across every seat in the arena for an elimination home game with the season on the line. The Cavs are 3 games down in the series and trying to extend their season at Rocket Mortgage Fieldhouse, the kind of swing-game home night where the crowd identity needs to carry the broadcast. Red, white, and blue across the seating bowl matched against the throwback blue jerseys and the alternate throwback court delivers a coordinated Cavs visual moment that ties the crowd identity into the same throwback heritage Cleveland has leaned on for every home game of this Conference Finals run. The multi-color format tracks the same template the Cavs used for their dual-item triple stripe t-shirt and rally towel takeover for Game 3 graded A, paired here against the same throwback court and throwback jersey. A. One of the cleanest matched-set giveaways of the Conference Finals and the right call for a home elimination game with the broadcast crew framing every crowd cut against the throwback identity.
 
 ## Sunday Western Conference Finals Game 4 Giveaway
 
