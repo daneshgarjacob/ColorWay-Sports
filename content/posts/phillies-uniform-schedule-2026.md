@@ -139,7 +139,10 @@ More teams should take notes.
 ## More MLB Coverage
 
 - [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other MLB team running a true scheduled uniform rotation
+- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the five-jersey rotation with City Connect Fridays and cream Sundays
+- [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) — the four-jersey LA rotation with the City Connect on Fridays
+- [New York Yankees 2026 Uniform Schedule](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Every National MLB Scorebug Ranked for 2026](/stories/national-mlb-scorebugs-2026-ranked) — Fox, TBS, ESPN, Apple TV+ scorebugs graded
-- [Globe Life Field Roof Status: Open or Closed Today](/stories/globe-life-field-roof-status-2026) — checking the Rangers stadium roof for any game date
+- [Is the Globe Life Field Roof Open Today?](/stories/rangers-roof-open-globe-life-field-2026) — checking the Rangers stadium roof for any game date
 
 *All jersey images via the Philadelphia Phillies*

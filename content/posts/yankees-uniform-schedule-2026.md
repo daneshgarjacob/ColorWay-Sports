@@ -1,0 +1,105 @@
+---
+title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
+category: "MLB"
+date: "2026-05-25"
+excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
+gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
+coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png"
+coverImagePosition: "center 50%"
+logoSrc: "/logos/mlb.png"
+league: "mlb"
+teams: ["new-york-yankees"]
+---
+
+<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png" alt="New York Yankees navy alternate road jersey and pinstripe home uniform on a Yankees pinstripe background representing the 2026 Yankees uniform schedule" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the New York Yankees</p>
+
+The New York Yankees have the simplest uniform schedule in Major League Baseball. Home pinstripes for every home game, road grays for every road game, and for the first time in franchise history, a navy alternate road jersey sitting in the closet that the Yankees have not yet pulled out for a regular season game. That is the entire 2026 rotation. While most teams cycle four or five different looks across a homestand, the Yankees treat their uniform schedule like a binary switch. Home or road. White or gray. Nothing else.
+
+## Sample Week at a Glance
+
+<div style="margin: 1.5em 0 2.5em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background: #0C2340; color: #fff;">
+    <div style="padding: 0.6em 0.3em;">Mon</div>
+    <div style="padding: 0.6em 0.3em;">Tue</div>
+    <div style="padding: 0.6em 0.3em;">Wed</div>
+    <div style="padding: 0.6em 0.3em;">Thu</div>
+    <div style="padding: 0.6em 0.3em;">Fri</div>
+    <div style="padding: 0.6em 0.3em;">Sat</div>
+    <div style="padding: 0.6em 0.3em;">Sun</div>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center;">
+    <div style="padding: 1.2em 0.3em; background: #ffffff; color: #0C2340; border-right: 1px solid #eee;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Pinstripes</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #ffffff; color: #0C2340; border-right: 1px solid #eee;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Pinstripes</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #ffffff; color: #0C2340; border-right: 1px solid #eee;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Pinstripes</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #C4CED4; color: #0C2340;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: #555; margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #C4CED4; color: #0C2340;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: #555; margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #C4CED4; color: #0C2340;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: #555; margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #C4CED4; color: #0C2340;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: #555; margin-top: 0.3em;">Away</div>
+    </div>
+  </div>
+</div>
+
+Here is how the Yankees uniform rotation breaks down for the 2026 season. Home pinstripes are worn for every single home game at Yankee Stadium. Road grays travel everywhere the team plays away from the Bronx. The navy alternate road jersey was reclassified from a Spring Training Road Uniform to an official Alternate Road Uniform before the 2026 season, but the Yankees have not pulled it for a regular season game yet and we hope they never do. Every Yankees uniform decision in 2026 still routes back to the same closet the team has run for decades.
+
+## Home Pinstripes (Every Home Game)
+
+The home pinstripes are the most iconic uniform in all of professional sports. White flannel with navy pinstripes, interlocking NY logo on the left chest, no player name on the back. This is the look that has been on Yankee Stadium turf in some form since 1912. The Yankees wear it for every single home game in 2026, day or night, weekday or weekend, against any opponent. There is no home alternate. There is no City Connect. The pinstripes are the entire home identity.
+
+The Starr Insurance corporate patch on the right sleeve is the only modern addition to the look, and the team kept the patch placement and sizing as restrained as possible to not interrupt the classic balance of the jersey. Cap is the navy New Era 59FIFTY with the interlocking NY in white. Belt is black, stirrups are navy with white piping. Every detail is locked in.
+
+## Road Gray (Every Road Game)
+
+The road gray uniform is the only thing the Yankees wear when they are not at home. NEW YORK across the chest in navy block lettering with white outline, no player name on the back, road gray fabric throughout. The cap flips to the all-navy road version with the white interlocking NY. The road gray has been the franchise's away identity since the early 1900s and has barely changed in a century.
+
+Yankees road grays are the closest thing in baseball to a uniform that does not need to update. The gray is slightly warmer than most road sets in the league, the NEW YORK wordmark sits in perfect proportion to the chest, and the back of the jersey reads cleaner without a name plate than every other team in the league. Every road game in 2026 is the road grays. No exceptions.
+
+## Navy Alternate (Sitting in the Closet)
+
+<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-jersey.png" alt="New York Yankees navy blue alternate road uniform with NEW YORK wordmark in grey across the chest, the first alternate jersey in franchise history" style="width: 100%; max-width: 520px; display: block; margin: 1.5em auto; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Fanatics</p>
+
+The navy blue alternate road jersey is the first alternate uniform in the 123-year history of the New York Yankees. It was quietly reclassified from a Spring Training Road Uniform to an official Alternate Road Uniform before the 2026 season after Yankees players pitched the team on actually wearing it during the regular season. The design carries NEW YORK across the chest in grey lettering with white trim and the back only shows the player number, no name, in the same grey and white treatment.
+
+As of the date of this post, the Yankees have not worn the navy alternate in a 2026 regular season game. We hope they never do. The Yankees are the Yankees because of what they refuse to wear, not because of what they allow. Home pinstripes and road grays are the entire visual identity that has built the brand for over a century, and adding a third regular season uniform erases part of that distinction. The full breakdown of why the navy alternate exists and why it should stay on the rack is in our [Yankees first alternate uniform deep dive](/stories/yankees-first-alternate-uniform-2026).
+
+## Why the Yankees Schedule Looks the Way It Does
+
+Most MLB teams have four or five uniforms in active rotation across a season, with City Connects, throwback Sundays, holiday tributes, and ballpark-specific alternates pulling fans through different looks every week. The Phillies have a full five-jersey scheduled rotation. The Marlins built a weekend uniform schedule with a different look every Friday, Saturday, and Sunday at home. Most teams treat the uniform rotation as a branding opportunity.
+
+The Yankees do the opposite. The team has never participated in the City Connect program. The team did not wear Players' Weekend nicknames in 2019 when the rest of the league did. The team has never worn Turn Ahead the Clock or Negro Leagues throwback alternates. The team's All-Star patch placement and World Series patches are the only seasonal additions the franchise allows. The Yankees uniform schedule is a deliberate choice to keep the visual identity locked in across decades.
+
+A child watching a Yankees game in 2026 sees the same look on Aaron Judge that their grandparents saw on Mickey Mantle. That continuity is the brand. The simplicity of the schedule is the schedule.
+
+## More MLB Uniform Coverage
+
+- [Phillies Uniform Schedule 2026: Every Jersey and When They Wear It](/stories/phillies-uniform-schedule-2026) — the full five-jersey scheduled rotation
+- [Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays](/stories/marlins-uniform-schedule-2026) — the weekend uniform schedule that gave every weekend home game its own look
+- [The Yankees Designated Their First Alternate Uniform in Franchise History](/stories/yankees-first-alternate-uniform-2026) — the full story of the navy alternate and why we hope they never wear it
