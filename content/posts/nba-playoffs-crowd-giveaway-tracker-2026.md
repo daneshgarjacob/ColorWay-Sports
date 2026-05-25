@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-23"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Saturday ECF Game 3: Cavaliers classic triple stripe t-shirts and rally towels at Rocket Mortgage Fieldhouse vs Knicks (A). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-05-24"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Sunday WCF Game 4: Spurs rally towels at Frost Bank Center vs Thunder (C). Saturday ECF Game 3: Cavaliers classic triple stripe t-shirts and rally towels at Rocket Mortgage Fieldhouse vs Knicks (A). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Sunday Western Conference Finals Game 4 Giveaway
+
+The Spurs are the only home team on the Sunday Western Conference Finals Game 4 slate and they are running a rally towel giveaway at Frost Bank Center against the Thunder, a step back from the Fiesta T-shirt takeover San Antonio ran for Game 3 and a format that caps below the Spurs own crowd identity ceiling on a Conference Finals home jersey night.
+
+### San Antonio Spurs · Rally Towels · WCF Game 4 · Grade: C
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2058688246792495216"></a></blockquote>
+</div>
+
+The Spurs hand out rally towels at every Frost Bank Center seat for Western Conference Finals Game 4 against the Thunder, the towel-only format a clear step back from the Fiesta T-shirt takeover San Antonio ran for Game 3 at A-. Towels never hit the broadcast ceiling of a t-shirt takeover and the Spurs already proved earlier in the series that they have the crowd identity to load every seat with the multi-color Fiesta look that nobody else in the league can replicate. Reverting to towels for a swing-game Conference Finals home night on national TV reads as a giveaway downgrade against the team's own ceiling, especially when the Fiesta T-shirt template is right there. C. Rally towels in a Conference Finals arena should be the floor format, not the call for the deciding home stretch — the Spurs left a clean Fiesta jersey-and-shirt tie-in on the table.
 
 ## Saturday Eastern Conference Finals Game 3 Giveaway
 

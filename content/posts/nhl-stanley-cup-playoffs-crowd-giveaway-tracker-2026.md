@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-23"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Saturday ECF Game 2: Hurricanes Seth Jarvis Make Them Hear You rally towels at Lenovo Center vs Canadiens (A-). Tuesday WCF Game 1: Avalanche t-shirts and pom-poms at Ball Arena vs Knights (A+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-05-24"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Sunday WCF Game 3: Golden Knights gold rally towels at T-Mobile Arena vs Avalanche (B+). Saturday ECF Game 2: Hurricanes Seth Jarvis Make Them Hear You rally towels at Lenovo Center vs Canadiens (A-). Tuesday WCF Game 1: Avalanche t-shirts and pom-poms at Ball Arena vs Knights (A+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Sunday Western Conference Final Game 3 Giveaway
+
+Vegas hosts the Western Conference Final Game 3 at T-Mobile Arena against the Avalanche and the Golden Knights load every seat with gold rally towels, the same color-matched gold towel format the team ran for the Round 1 and Round 2 swing games but bumped above the standard towel grade by Conference Final stakes and the cleanest color-cohesion in the league.
+
+### Vegas Golden Knights · Gold Rally Towels · Western Conference Final Game 3 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/2058661927300247673"></a></blockquote>
+</div>
+
+Vegas hands out gold rally towels at every T-Mobile Arena seat for Western Conference Final Game 3 against the Avalanche, the color-matched gold towel format the Knights have run all postseason now paired with the Knights gold home sweater for the round's first home game. Gold towels with the gold jersey deliver one of the most cohesive crowd-and-jersey color combinations in the NHL and the broadcast frame reads as a single team-color identity across the seats and the ice. The grade bumps to B+ above the Round 1 and Round 2 swing-game B per the Conference Final stakes lift, the same logic that pushed the Canes white towels from B+ in the Round 2 opener to B+ at the ECF opener. A team-color t-shirt takeover paired with the gold sweater would hit the Avalanche A+ ceiling from Game 1 of the same series, but the gold-on-gold towel call still earns the cohesion bump above the standard white-towel floor. B+. The cleanest color-cohesion towel grade in the 2026 playoffs and the lift the Conference Final stage gives a format the Knights have run all postseason.
 
 ## Saturday Eastern Conference Final Game 2 Giveaway
 
