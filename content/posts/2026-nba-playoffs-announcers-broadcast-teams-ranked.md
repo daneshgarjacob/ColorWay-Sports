@@ -1,8 +1,8 @@
 ---
-title: "2026 NBA Playoff Announcers and Broadcast Teams: Mike Breen, Mike Tirico, Kevin Harlan, Every Lineup Ranked"
+title: "2026 NBA Playoff Announcers: Every ESPN, NBC, and Amazon Prime Broadcast Team Ranked"
 category: "NBA"
 date: "2026-04-13"
-updatedDate: "2026-05-19"
+updatedDate: "2026-05-25"
 excerpt: "Every 2026 NBA Playoff broadcast crew ranked. Mike Breen leads ESPN, Mike Tirico anchors NBC, Kevin Harlan calls Amazon Prime. Full studio teams graded."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
