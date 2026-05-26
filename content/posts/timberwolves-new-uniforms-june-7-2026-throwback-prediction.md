@@ -6,7 +6,7 @@ updatedDate: "2026-05-26"
 excerpt: "The Minnesota Timberwolves just announced their new uniforms drop June 7, 2026. Our prediction: the new look is the classic blue and green throwback jersey."
 gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
 coverImage: "/images/posts/timberwolves-hardwood-classic-jersey.avif"
-coverImagePosition: "center center"
+coverImagePosition: "center 30%"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -22,9 +22,18 @@ The Minnesota Timberwolves just announced that the team will reveal a new unifor
 
 ## Why We're Calling the Timberwolves Throwback Look
 
-<div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/timberwolves-hardwood-classic-jersey.avif" alt="Minnesota Timberwolves Hardwood Classic throwback jersey in classic blue and green from the 1989 expansion era with the round wolf head logo crest and National Basketball Association Since 1989 wordmark, the look we predict will return for the 2026-27 Timberwolves new uniform reveal on June 7 2026" style="max-width: 380px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 220px; max-width: 300px; text-align: center;">
+    <img src="/images/posts/timberwolves-hardwood-classic-jersey.avif" alt="Minnesota Timberwolves Hardwood Classic throwback jersey in classic blue and green from the 1989 expansion era with the round wolf head logo crest and National Basketball Association Since 1989 wordmark, the look we predict will return for the 2026-27 Timberwolves new uniform reveal on June 7 2026" style="width: 100%; height: auto; border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Hardwood Classic wolf head crest jersey</p>
+  </div>
+  <div style="flex: 1; min-width: 220px; max-width: 300px; text-align: center;">
+    <img src="/images/posts/timberwolves-kevin-garnett-1995-throwback-jersey.png" alt="Minnesota Timberwolves 1995-96 Kevin Garnett Mitchell and Ness throwback jersey in classic blue with WOLVES wordmark in white and bright green outline, green 21 number, and white piping with green stripes on the shoulders, an original road jersey design from the Kevin Garnett era we expect to influence the June 7 2026 Timberwolves uniform reveal" style="width: 100%; height: auto; border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">1995-96 Kevin Garnett Mitchell &amp; Ness throwback</p>
+  </div>
 </div>
+
+The classic Timberwolves throwback identity has multiple recognizable variants. The Hardwood Classic black wordmark jersey with the round wolf head crest. The 1995-96 Kevin Garnett road blue with the bright green WOLVES wordmark and the green numbers in white outline. Both share the same DNA: brighter blue and green, the wolf head identity, and a design language that pulls directly from the franchise's expansion-era roots.
 
 The leaks already showed us where this is going. Two new Timberwolves logos surfaced on r/timberwolves earlier this year and both featured the brighter, more saturated blue and green palette that defined the original Minnesota Timberwolves identity. The modernized wolf head sat inside a basketball circle. The MINN alternate carried the same design language. Both pulled directly from the franchise's first decade of branding and threw the current sterile navy and muted green of the modern Timberwolves identity in the recycling bin.
 
