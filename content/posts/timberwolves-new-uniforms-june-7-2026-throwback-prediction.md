@@ -23,12 +23,12 @@ The Minnesota Timberwolves just announced that the team will reveal a new unifor
 ## Why We're Calling the Timberwolves Throwback Look
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 220px; max-width: 300px; text-align: center;">
-    <img src="/images/posts/timberwolves-hardwood-classic-jersey.avif" alt="Minnesota Timberwolves Hardwood Classic throwback jersey in classic blue and green from the 1989 expansion era with the round wolf head logo crest and National Basketball Association Since 1989 wordmark, the look we predict will return for the 2026-27 Timberwolves new uniform reveal on June 7 2026" style="width: 100%; height: auto; border-radius: 10px;" />
+  <div style="flex: 1; min-width: 220px; max-width: 280px; text-align: center;">
+    <img src="/images/posts/timberwolves-hardwood-classic-jersey.avif" alt="Minnesota Timberwolves Hardwood Classic throwback jersey in classic blue and green from the 1989 expansion era with the round wolf head logo crest and National Basketball Association Since 1989 wordmark, the look we predict will return for the 2026-27 Timberwolves new uniform reveal on June 7 2026" style="width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: rgba(12, 35, 64, 0.04); border-radius: 10px; display: block;" />
     <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Hardwood Classic wolf head crest jersey</p>
   </div>
-  <div style="flex: 1; min-width: 220px; max-width: 300px; text-align: center;">
-    <img src="/images/posts/timberwolves-kevin-garnett-1995-throwback-jersey.png" alt="Minnesota Timberwolves 1995-96 Kevin Garnett Mitchell and Ness throwback jersey in classic blue with WOLVES wordmark in white and bright green outline, green 21 number, and white piping with green stripes on the shoulders, an original road jersey design from the Kevin Garnett era we expect to influence the June 7 2026 Timberwolves uniform reveal" style="width: 100%; height: auto; border-radius: 10px;" />
+  <div style="flex: 1; min-width: 220px; max-width: 280px; text-align: center;">
+    <img src="/images/posts/timberwolves-kevin-garnett-1995-throwback-jersey.png" alt="Minnesota Timberwolves 1995-96 Kevin Garnett Mitchell and Ness throwback jersey in classic blue with WOLVES wordmark in white and bright green outline, green 21 number, and white piping with green stripes on the shoulders, an original road jersey design from the Kevin Garnett era we expect to influence the June 7 2026 Timberwolves uniform reveal" style="width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: rgba(12, 35, 64, 0.04); border-radius: 10px; display: block;" />
     <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">1995-96 Kevin Garnett Mitchell &amp; Ness throwback</p>
   </div>
 </div>
