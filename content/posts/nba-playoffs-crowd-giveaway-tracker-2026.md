@@ -44,6 +44,10 @@ The Cavaliers are the only home team on the Monday Eastern Conference Finals Gam
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LeahDohertyTV/status/2059012021278986397"></a></blockquote>
 </div>
 
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/cavs/status/2059047659013300702"></a></blockquote>
+</div>
+
 The Cavs load Rocket Mortgage Fieldhouse with a red, white, and blue t-shirt takeover for Eastern Conference Finals Game 4 against the Knicks, the multi-color shirt program designed to match the Cavs Classic Edition throwback blue home jersey on the alternate throwback court. The shirts spread the full Cleveland color palette across every seat in the arena for an elimination home game with the season on the line. The Cavs are 3 games down in the series and trying to extend their season at Rocket Mortgage Fieldhouse, the kind of swing-game home night where the crowd identity needs to carry the broadcast. Red, white, and blue across the seating bowl matched against the throwback blue jerseys and the alternate throwback court delivers a coordinated Cavs visual moment that ties the crowd identity into the same throwback heritage Cleveland has leaned on for every home game of this Conference Finals run. The multi-color format tracks the same template the Cavs used for their dual-item triple stripe t-shirt and rally towel takeover for Game 3 graded A, paired here against the same throwback court and throwback jersey. A. One of the cleanest matched-set giveaways of the Conference Finals and the right call for a home elimination game with the broadcast crew framing every crowd cut against the throwback identity.
 
 ## Sunday Western Conference Finals Game 4 Giveaway

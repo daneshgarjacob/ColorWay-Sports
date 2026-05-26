@@ -3,7 +3,7 @@ title: "2026 NHL Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-21"
 updatedDate: "2026-05-25"
-excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights win Game 3 at T-Mobile Arena to lead Avalanche 3-0 in the West. Canadiens host Hurricanes at Bell Centre for Game 3 with the iconic red home sweater debut in the East. Every sweater matchup graded."
+excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights lead Avalanche 3-0 in the West after winning Game 3 at T-Mobile Arena. Hurricanes lead Canadiens 2-1 in the East after stealing Game 3 at Bell Centre in the Habs iconic red home debut. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -148,7 +148,7 @@ Avalanche open the Western Conference Final in the primary burgundy home sweater
 
 ## Carolina Hurricanes vs Montreal Canadiens (Eastern Conference Final)
 
-Series tied 1-1 after the Hurricanes answered Montreal's Game 1 steal with a Game 2 win at Lenovo Center. Series now shifts to Bell Centre for Game 3 with the Canadiens in the iconic red home sweater for the first home game of the series against the Hurricanes in road whites, the textbook NHL playoff white-versus-color matchup with full Original Six heritage on the home side. The Eastern Conference Final opened in Raleigh with the Hurricanes in the black home alternate sweater against the Canadiens in road whites, the same black home call Carolina used for the Round 2 series opener against the Flyers. Carolina ran back the same black home alternate for Game 2 with Montreal again in road whites, the same sweater pairing as the series opener. We grade each matchup as the sweater pairing is confirmed.
+Hurricanes lead the series 2-1 after stealing Game 3 on the road at Bell Centre in the Habs iconic red home sweater debut. The Eastern Conference Final opened in Raleigh with the Hurricanes in the black home alternate sweater against the Canadiens in road whites, the same black home call Carolina used for the Round 2 series opener against the Flyers. Carolina ran back the same black home alternate for Game 2 with Montreal again in road whites, the same sweater pairing as the series opener. Series shifted to Bell Centre for Game 3 with the Canadiens in the iconic CH crest red home sweater for the first home game of the series against the Hurricanes in road whites, the textbook NHL playoff white-versus-color matchup with full Original Six heritage on the home side, and Carolina stole the game in the road whites to take a 2-1 series lead heading into Game 4 in Montreal. We grade each matchup as the sweater pairing is confirmed.
 
 For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hurricanes vs Canadiens preview](/stories/nhl-eastern-conference-final-hurricanes-canadiens-2026-preview).
 
@@ -156,7 +156,7 @@ For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hur
 
 <div style="background: linear-gradient(135deg, #1a0510 0%, #0a0205 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #192168 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · ECF · Game 3 · Projection</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #192168 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · ECF · Game 3 · Hurricanes Win · Series 2-1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -179,7 +179,7 @@ For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hur
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
 </div>
 
-Series shifts to Bell Centre for Game 3 with the Canadiens pulling the iconic CH crest red home sweater for the first home game of the series against the Hurricanes road whites, the textbook NHL playoff white-versus-color matchup the series has been missing through the first two games at Lenovo Center where Carolina opened in the black home alternate twice. Montreal's red home sweater is the most heritage-rich primary identity in hockey, the Original Six Habs look that traces back nine decades, paired against the Hurricanes road whites with the red and black trim for the clean home-color-versus-road-white call. Both teams in their primary home and road sets, no alternates, no throwbacks. Nine out of 10. The Canadiens red home debut at Bell Centre is the home-team identity payoff this series has been waiting for.
+Series shifted to Bell Centre for Game 3 with the Canadiens pulling the iconic CH crest red home sweater for the first home game of the series against the Hurricanes road whites, the textbook NHL playoff white-versus-color matchup the series had been missing through the first two games at Lenovo Center where Carolina opened in the black home alternate twice. Montreal's red home sweater is the most heritage-rich primary identity in hockey, the Original Six Habs look that traces back nine decades, paired against the Hurricanes road whites with the red and black trim for the clean home-color-versus-road-white call. Both teams in their primary home and road sets, no alternates, no throwbacks. Carolina stole the game in the road whites to take a 2-1 series lead heading into Game 4 in Montreal, the Habs iconic red home debut a winning night for the visiting Canes. Nine out of 10. The Canadiens red home debut at Bell Centre was the home-team identity payoff this series had been waiting for even with Carolina taking the road win.
 
 ### Game 2: Montreal Canadiens at Carolina Hurricanes
 
@@ -255,7 +255,7 @@ Hurricanes black home alternate sweater against Canadiens road whites at Lenovo 
 
 **Who won Game 2 of the Eastern Conference Final?** The Carolina Hurricanes won Game 2 at Lenovo Center over the Montreal Canadiens to tie the series 1-1 before it shifts to Bell Centre for Games 3 and 4. Carolina ran back the same black home alternate sweater from Game 1 against the Canadiens road whites for the same 5 out of 10 grade per the same-jersey-same-score rule. A Hurricanes primary red home sweater would have lifted the matchup to an 8 or higher.
 
-**What sweaters are the Canadiens wearing in Game 3 of the Eastern Conference Final?** The Canadiens pull the iconic CH crest red home sweater for Game 3 at Bell Centre, the first home game of the series and the most heritage-rich primary identity in hockey. Carolina runs the standard road white sweater on the visitor side. We grade the matchup 9 out of 10 for the Habs Original Six home red versus the textbook road whites, the white-versus-color call the series has been missing through the first two games at Lenovo Center.
+**Who won Game 3 of the Eastern Conference Final?** The Carolina Hurricanes stole Game 3 on the road at Bell Centre to take a 2-1 series lead over the Montreal Canadiens. Montreal pulled the iconic CH crest red home sweater for the first home game of the series and the most heritage-rich primary identity in hockey, but Carolina won the game in the standard road whites. The uniform matchup graded 9 out of 10 for the Habs Original Six home red versus the textbook road whites, the white-versus-color call the series had been missing through the first two games at Lenovo Center.
 
 **What sweaters are the Avalanche wearing in the Western Conference Final?** Colorado has run the primary burgundy home sweater at Ball Arena for Games 1 and 2, the same look that earned 8 out of 10 in both Conference Final home games. The Avalanche pulled the standard road white sweater for Game 3 at T-Mobile Arena, the NHL playoff visitor standard.
 

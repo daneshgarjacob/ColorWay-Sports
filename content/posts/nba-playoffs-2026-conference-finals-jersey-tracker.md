@@ -3,7 +3,7 @@ title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-18"
 updatedDate: "2026-05-25"
-excerpt: "2026 NBA Conference Finals jersey tracker. Spurs beat Thunder in Game 4 at Frost Bank Center to tie the West 2-2 with Game 5 back at Paycom Center. Knicks lead Cavaliers 3-0 in the East after winning Game 3 in Cleveland. Every uniform matchup graded with home and away jersey breakdowns."
+excerpt: "2026 NBA Conference Finals jersey tracker. Spurs beat Thunder in Game 4 at Frost Bank Center to tie the West 2-2 with Game 5 back at Paycom Center. Knicks sweep Cavaliers 4-0 in the East to advance to the 2026 NBA Finals. Every uniform matchup graded with home and away jersey breakdowns."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -314,13 +314,13 @@ Thunder open the Western Conference Finals at Paycom Center in the Icon Edition 
 
 ## New York Knicks vs Cleveland Cavaliers (Eastern Conference Finals)
 
-New York leads the series 3-0 after winning Games 1 and 2 at Madison Square Garden and Game 3 in Cleveland to put the Cavaliers one loss away from elimination. The Eastern Conference Finals opened at MSG with the Knicks running the Association Edition white at home for Game 1 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit), and the Knicks flipping to the Statement Edition black at home for Game 2 with the Cavs in Association white on the road. Series shifts to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights.
+New York swept the series 4-0 after winning Games 1 and 2 at Madison Square Garden and Games 3 and 4 in Cleveland to advance to the 2026 NBA Finals. The Eastern Conference Finals opened at MSG with the Knicks running the Association Edition white at home for Game 1 in textbook form, the Cavs in Statement Edition black road for Game 1 (the same Statement black pairing they ran in Round 2 Game 1 at Detroit), and the Knicks flipping to the Statement Edition black at home for Game 2 with the Cavs in Association white on the road. Series shifted to Rocket Mortgage Fieldhouse for Games 3 and 4 with the Cavs going all-in on the Classic Edition throwback blue and the alternate throwback court for both home games, the same identity Cleveland ran in Round 2 Games 3, 4, and 6 against Detroit, with the Knicks in Association white on the road both nights to close out the series.
 
 ### Game 4: New York Knicks at Cleveland Cavaliers
 
 <div style="background: linear-gradient(135deg, #0a1f3d 0%, #050d1f 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F58426 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 4 · Projection</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F58426 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · ECF · Game 4 · Knicks Sweep · Series 4-0 · NBA Finals</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -354,7 +354,7 @@ New York leads the series 3-0 after winning Games 1 and 2 at Madison Square Gard
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
-Cavs run back the Classic Edition throwback blue at home on the alternate throwback court for Game 4 with the Knicks in Association Edition white on the road, the same uniform combination as Game 3 holding the same five out of 10 grade since the uniform pairing did not change between games. Cleveland's full throwback identity at Rocket Mortgage Fieldhouse is the same look they ran in Round 2 against Detroit in Games 3, 4, and 6 graded at seven out of 10, but the Knicks Association whites on the road do not lift the matchup the way Detroit Association whites did because New York's white look reads similar enough to the Cavs throwback secondary tones that the broadcast contrast softens. Five out of 10.
+Cavs ran back the Classic Edition throwback blue at home on the alternate throwback court for Game 4 with the Knicks in Association Edition white on the road, the same uniform combination as Game 3 holding the same five out of 10 grade since the uniform pairing did not change between games. Cleveland's full throwback identity at Rocket Mortgage Fieldhouse was the same look they ran in Round 2 against Detroit in Games 3, 4, and 6 graded at seven out of 10, but the Knicks Association whites on the road did not lift the matchup the way Detroit Association whites did because New York's white look reads similar enough to the Cavs throwback secondary tones that the broadcast contrast softened. New York took Game 4 at Rocket Mortgage Fieldhouse to complete the 4-0 series sweep and advance to the 2026 NBA Finals, the Knicks first Finals appearance in over five decades. Five out of 10.
 
 ### Game 3: New York Knicks at Cleveland Cavaliers
 
@@ -480,7 +480,7 @@ Knicks Association Edition white home jersey against Cavaliers Statement Edition
 
 ## FAQ: 2026 NBA Conference Finals Jersey Tracker
 
-**Which teams are in the 2026 NBA Conference Finals?** The Western Conference Finals are Spurs vs Thunder. The Eastern Conference Finals are Knicks vs Cavaliers. Oklahoma City swept the Lakers 4-0 in Round 2 and San Antonio eliminated Minnesota 4-2 to lock in the West. New York swept Philadelphia 4-0 and Cleveland beat Detroit 4-3 in Game 7 at Little Caesars Arena to lock in the East. The Knicks and Cavaliers last met in the playoffs in the 2023 first round, won by New York 4-1. Spurs-Thunder is the first Conference Finals matchup of either team in the current era.
+**Which teams are in the 2026 NBA Conference Finals?** The Western Conference Finals are Spurs vs Thunder. The Eastern Conference Finals were Knicks vs Cavaliers, with New York sweeping Cleveland 4-0 to advance to the 2026 NBA Finals. Oklahoma City swept the Lakers 4-0 in Round 2 and San Antonio eliminated Minnesota 4-2 to lock in the West. New York swept Philadelphia 4-0 in Round 2 and Cleveland beat Detroit 4-3 in Game 7 at Little Caesars Arena to lock in the East. The Knicks and Cavaliers last met in the playoffs in the 2023 first round, won by New York 4-1. Spurs-Thunder is the first Conference Finals matchup of either team in the current era.
 
 **What jerseys are the Thunder wearing at home in Round 2 and the Conference Finals?** The Thunder ran the Icon Edition blue at home through the entire Lakers sweep in Round 2 and Games 1 and 2 of the Western Conference Finals against the Spurs, the only Conference Finals team running their primary color jersey at home through the opening two home games of the round. The Thunder finally pull the Association Edition white at home for Game 5 at Paycom Center, the first time Oklahoma City wears the home whites all playoffs, paired against the Spurs Icon Edition black on the road for the cleanest white-versus-color matchup of the series at 10 out of 10.
 
