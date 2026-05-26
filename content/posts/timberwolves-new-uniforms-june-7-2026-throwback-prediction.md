@@ -1,9 +1,9 @@
 ---
-title: "Minnesota Timberwolves New Uniforms 2026-27 Drop June 7: We're Calling the Throwback Look Returns"
+title: "Minnesota Timberwolves New Uniforms Drop June 7: Here's What They'll Look Like"
 category: "NBA"
 date: "2026-05-26"
 updatedDate: "2026-05-26"
-excerpt: "The Minnesota Timberwolves just announced their new uniforms drop June 7, 2026. Our prediction: the new look is the classic blue and green throwback jersey."
+excerpt: "Minnesota Timberwolves new uniforms drop June 7. Every signal points to the classic blue and green throwback returning. Here is what they will look like."
 gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
 coverImage: "/images/posts/timberwolves-hardwood-classic-jersey.avif"
 coverImagePosition: "center 30%"
