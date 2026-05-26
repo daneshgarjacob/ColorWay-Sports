@@ -1,6 +1,5 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
-import InMemoriam from "@/components/InMemoriam";
 import HomepageTrackers from "@/components/HomepageTrackers";
 import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
 import StoryCard from "@/components/StoryCard";
@@ -8,8 +7,8 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
 
-// Slugs surfaced elsewhere on the homepage (Featured Trackers band, InMemoriam banner)
-// and the crowd giveaway tracker — kept out of Latest/More to avoid duplication.
+// Slugs surfaced elsewhere on the homepage (Featured Trackers band) or held out of
+// regular rotation by design — kept out of Latest/More to avoid duplication.
 const TRACKER_SLUGS = new Set([
   "nba-playoffs-2026-conference-finals-jersey-tracker",
   "nhl-conference-finals-2026-jersey-tracker",
@@ -67,7 +66,6 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <InMemoriam />
         <HomepageTrackers />
         <TraditionalJerseyIndex />
 
