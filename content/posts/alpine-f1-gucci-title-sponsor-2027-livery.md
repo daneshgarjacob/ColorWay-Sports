@@ -2,13 +2,19 @@
 title: "Alpine F1 Is Reportedly Replacing BWT With Gucci for 2027 — and the Livery Would Never Be the Same"
 category: "F1"
 date: "2026-05-14"
-excerpt: "Gucci is in talks to replace BWT as Alpine's F1 title sponsor for 2027, ending the pink era and bringing Italian luxury to the grid."
+updatedDate: "2026-05-27"
+excerpt: "Gucci is in talks to replace BWT as Alpine's F1 title sponsor for 2027, ending the pink era and bringing Italian luxury to the grid. UPDATE 2026-05-27: It is officially confirmed."
 gradient: "linear-gradient(135deg, #0054A6 0%, #001845 55%, #1a1a1a 100%)"
 coverImage: "/images/posts/alpine-f1-gucci-title-sponsor-2027-livery/cover.jpg"
 coverImageFit: "cover"
 league: "f1"
 tags: ["Alpine", "Gucci", "F1 Livery", "BWT", "Formula One", "F1 2027"]
 ---
+
+<div style="margin: 0 0 2em; padding: 1.25em 1.5em; background: linear-gradient(135deg, #0054A6 0%, #001845 100%); border-radius: 12px; border: 1px solid rgba(255,255,255,0.12);">
+  <p style="margin: 0 0 0.5em; font-size: 0.7em; font-weight: 800; color: #FFD700; text-transform: uppercase; letter-spacing: 2px;">Update · 2026-05-27 · Now Official</p>
+  <p style="margin: 0; color: #fff; font-size: 1em; line-height: 1.5;">It is officially confirmed. On May 27, 2026, Gucci announced it is taking over Alpine F1 as title partner for the 2027 season under the new Gucci Racing Alpine Formula One Team name, ending the BWT pink era. Read our full breakdown of the official announcement, the early livery teasers, and what Gucci Racing actually is in our <a href="/stories/gucci-racing-alpine-f1-2027-official" style="color: #FFD700; font-weight: 700; text-decoration: underline;">Gucci Just Officially Took Over Alpine F1 for 2027</a> story.</p>
+</div>
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/racepluscom/status/2054190734031438026"></a></blockquote>
 
