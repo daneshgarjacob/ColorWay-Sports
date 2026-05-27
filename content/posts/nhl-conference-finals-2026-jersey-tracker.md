@@ -2,8 +2,8 @@
 title: "2026 NHL Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NHL"
 date: "2026-05-21"
-updatedDate: "2026-05-25"
-excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights lead Avalanche 3-0 in the West after winning Game 3 at T-Mobile Arena. Hurricanes lead Canadiens 2-1 in the East after stealing Game 3 at Bell Centre in the Habs iconic red home debut. Every sweater matchup graded."
+updatedDate: "2026-05-27"
+excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Golden Knights sweep Avalanche 4-0 in the West with the Game 4 home gold sweater clincher at T-Mobile Arena and advance to the 2026 Stanley Cup Final. Hurricanes lead Canadiens 2-1 in the East after stealing Game 3 at Bell Centre in the Habs iconic red home debut. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ homepageOrder: 4
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Colorado Avalanche at Vegas Golden Knights Conference Finals Game 4 Jerseys"
+    rating: 9
   - name: "Carolina Hurricanes at Montreal Canadiens Conference Finals Game 3 Jerseys"
     rating: 9
   - name: "Colorado Avalanche at Vegas Golden Knights Conference Finals Game 3 Jerseys"
@@ -46,7 +48,7 @@ Every 2026 NHL Stanley Cup Playoffs Conference Finals jersey and uniform matchup
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Conference Finals Average Score</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.3 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.6 / 10</span>
 </div>
 
 Below, every Conference Finals jersey and uniform matchup graded series by series, newest game first within each series. Avalanche-Golden Knights leads off in the West, followed by Hurricanes-Canadiens in the East.
@@ -55,7 +57,36 @@ Below, every Conference Finals jersey and uniform matchup graded series by serie
 
 ## Colorado Avalanche vs Vegas Golden Knights (Western Conference Final)
 
-Vegas leads the series 3-0 after winning Games 1 and 2 on the road in Denver and Game 3 at home at T-Mobile Arena to put the Avalanche one loss away from elimination. The Western Conference Final opened with the Avalanche in the primary burgundy home sweater and the Golden Knights in road whites for both games at Ball Arena, the textbook NHL playoff white-versus-color matchup. Series shifted to T-Mobile Arena for Game 3 with the Knights in the primary gold home sweater and the Avalanche in road whites, another textbook white-versus-color matchup with both teams running primary home and road identities. We grade each matchup as the sweater pairing is confirmed.
+Vegas swept the series 4-0 after winning Games 1 and 2 on the road in Denver and Games 3 and 4 at home at T-Mobile Arena to advance to the 2026 Stanley Cup Final. The Western Conference Final opened with the Avalanche in the primary burgundy home sweater and the Golden Knights in road whites for both games at Ball Arena, the textbook NHL playoff white-versus-color matchup. Series shifted to T-Mobile Arena for Games 3 and 4 with the Knights in the primary gold home sweater and the Avalanche in road whites for both nights, the textbook white-versus-color matchup run back twice with both teams in their primary home and road identities and Vegas closing the sweep at home in the gold on the cleanest jersey-and-crowd night of the round. We grade each matchup as the sweater pairing is confirmed.
+
+### Game 4: Colorado Avalanche at Vegas Golden Knights
+
+<div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #B4975A 0%, #333F42 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · WCF · Game 4 · Knights Sweep · Series 4-0 · Stanley Cup Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/avalanche-white.png" alt="Colorado Avalanche white road sweater for 2026 NHL Western Conference Final Game 4 at Vegas Golden Knights" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLORADO AVALANCHE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520avalanche%2520road%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights primary gold home sweater for 2026 NHL Western Conference Final Game 4 vs Colorado Avalanche" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520home%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Knights run back the primary gold home sweater at T-Mobile Arena for Game 4 with the Avalanche again in road whites, the same uniform pairing as Game 3 holding the same 9 out of 10 grade per the same-jersey-same-score rule. Vegas gold and black home identity is one of the most distinctive primary looks in the league and the Avalanche road whites with the burgundy, blue, and silver trim deliver the broadcast contrast cleanly for the second straight night. Textbook NHL playoff white-versus-color, both teams in their primary home and road sweaters, no alternates, no throwbacks. Vegas closed the sweep at T-Mobile Arena to advance to the 2026 Stanley Cup Final, the Knights returning to the Final stage for the first time since their 2023 Cup win. Nine out of 10. Same-jersey-same-score holds the grade level with Game 3, the cleanest closeout-night home identity Vegas could have run for a sweep clincher.
 
 ### Game 3: Colorado Avalanche at Vegas Golden Knights
 
@@ -243,7 +274,7 @@ Hurricanes black home alternate sweater against Canadiens road whites at Lenovo 
 
 ## FAQ: 2026 NHL Conference Finals Jersey Tracker
 
-**Which teams are in the 2026 NHL Conference Finals?** The Western Conference Final is Colorado Avalanche vs Vegas Golden Knights. The Eastern Conference Final is Carolina Hurricanes vs Montreal Canadiens. The Avalanche eliminated the Wild 4-1 and the Golden Knights eliminated the Ducks 4-2 to lock in the West. The Hurricanes swept the Flyers 4-0 and the Canadiens beat the Sabres 4-3 in a Game 7 closeout in Buffalo to lock in the East.
+**Which teams are in the 2026 NHL Conference Finals?** The Western Conference Final was Colorado Avalanche vs Vegas Golden Knights, with Vegas sweeping the Avalanche 4-0 to advance to the 2026 Stanley Cup Final. The Eastern Conference Final is Carolina Hurricanes vs Montreal Canadiens. The Avalanche eliminated the Wild 4-1 and the Golden Knights eliminated the Ducks 4-2 to lock in the West. The Hurricanes swept the Flyers 4-0 and the Canadiens beat the Sabres 4-3 in a Game 7 closeout in Buffalo to lock in the East.
 
 **Who won Game 1 of the Western Conference Final?** The Vegas Golden Knights took Game 1 on the road at Ball Arena in Denver to grab a 1-0 series lead. Vegas wore the standard road whites and Colorado wore the primary burgundy home sweater, the textbook NHL playoff white-versus-color matchup graded 8 out of 10.
 
@@ -251,15 +282,17 @@ Hurricanes black home alternate sweater against Canadiens road whites at Lenovo 
 
 **Who won Game 3 of the Western Conference Final?** The Vegas Golden Knights won Game 3 at home at T-Mobile Arena to take a commanding 3-0 series lead over the Colorado Avalanche and a chance to sweep the series in Game 4. Vegas pulled the primary gold home sweater for the first home game of the series with the Avalanche in road whites, the textbook NHL playoff white-versus-color matchup with both teams in their primary home and road identities, graded 9 out of 10.
 
+**Who won Game 4 of the Western Conference Final?** The Vegas Golden Knights won Game 4 at home at T-Mobile Arena to sweep the Colorado Avalanche 4-0 and advance to the 2026 Stanley Cup Final, the Knights returning to the Final stage for the first time since their 2023 Cup win. Vegas ran back the primary gold home sweater for the second straight home game with the Avalanche again in road whites, the same uniform pairing as Game 3 holding the same 9 out of 10 grade per the same-jersey-same-score rule. Textbook NHL playoff white-versus-color, both teams in their primary home and road identities, the cleanest closeout-night home jersey Vegas could have run for a sweep clincher.
+
 **Who won Game 1 of the Eastern Conference Final?** The Montreal Canadiens stole Game 1 on the road at Lenovo Center in Raleigh to grab a 1-0 series lead over the Carolina Hurricanes. Montreal wore the iconic road whites with the red and blue trim and Carolina wore the black home alternate sweater, the same black home alternate the Hurricanes ran for Round 2 Game 1 against the Flyers, graded 5 out of 10 for skipping the primary red home sweater.
 
 **Who won Game 2 of the Eastern Conference Final?** The Carolina Hurricanes won Game 2 at Lenovo Center over the Montreal Canadiens to tie the series 1-1 before it shifts to Bell Centre for Games 3 and 4. Carolina ran back the same black home alternate sweater from Game 1 against the Canadiens road whites for the same 5 out of 10 grade per the same-jersey-same-score rule. A Hurricanes primary red home sweater would have lifted the matchup to an 8 or higher.
 
 **Who won Game 3 of the Eastern Conference Final?** The Carolina Hurricanes stole Game 3 on the road at Bell Centre to take a 2-1 series lead over the Montreal Canadiens. Montreal pulled the iconic CH crest red home sweater for the first home game of the series and the most heritage-rich primary identity in hockey, but Carolina won the game in the standard road whites. The uniform matchup graded 9 out of 10 for the Habs Original Six home red versus the textbook road whites, the white-versus-color call the series had been missing through the first two games at Lenovo Center.
 
-**What sweaters are the Avalanche wearing in the Western Conference Final?** Colorado has run the primary burgundy home sweater at Ball Arena for Games 1 and 2, the same look that earned 8 out of 10 in both Conference Final home games. The Avalanche pulled the standard road white sweater for Game 3 at T-Mobile Arena, the NHL playoff visitor standard.
+**What sweaters did the Avalanche wear in the Western Conference Final?** Colorado ran the primary burgundy home sweater at Ball Arena for Games 1 and 2, the same look that earned 8 out of 10 in both Conference Final home games. The Avalanche pulled the standard road white sweater for Games 3 and 4 at T-Mobile Arena, the NHL playoff visitor standard for both sweep-loss nights in Vegas.
 
-**What sweaters are the Golden Knights wearing in the Western Conference Final?** Vegas ran road whites in Games 1 and 2 at Colorado, the standard NHL playoff visitor sweater. The Knights pulled the primary gold home sweater for Game 3 at T-Mobile Arena, the same gold home identity Vegas wore in Round 2 Games 1, 2, and 5 against the Ducks, the gold and black home palette one of the most distinctive primary identities in the league.
+**What sweaters did the Golden Knights wear in the Western Conference Final?** Vegas ran road whites in Games 1 and 2 at Colorado, the standard NHL playoff visitor sweater. The Knights pulled the primary gold home sweater for Games 3 and 4 at T-Mobile Arena for the sweep clincher, the same gold home identity Vegas wore in Round 2 Games 1, 2, and 5 against the Ducks, the gold and black home palette one of the most distinctive primary identities in the league and the Cup Final-bound home identity Vegas now carries into the championship round.
 
 **Where can I find the Round 1 and Round 2 jersey grades?** Every Round 1 sweater and uniform matchup is graded in the [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker) and every Round 2 matchup is graded in the [2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker](/stories/nhl-playoffs-2026-round-2-jersey-tracker).
 
