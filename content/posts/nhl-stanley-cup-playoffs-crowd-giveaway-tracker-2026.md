@@ -3,7 +3,7 @@ title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and 
 category: "NHL"
 date: "2026-04-29"
 updatedDate: "2026-05-27"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday WCF Game 4: Golden Knights gold rally towels at T-Mobile Arena seal the sweep over the Avalanche and Stanley Cup Final berth (B+). Sunday WCF Game 3: Golden Knights gold rally towels (B+). Saturday ECF Game 2: Hurricanes Seth Jarvis Make Them Hear You rally towels at Lenovo Center vs Canadiens (A-). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Wednesday ECF Game 4: Canadiens white rally towels at Bell Centre vs Hurricanes for a swing-game home night down 2-1 in the series (C+). Tuesday WCF Game 4: Golden Knights gold rally towels at T-Mobile Arena seal the sweep over the Avalanche and Stanley Cup Final berth (B+). Sunday WCF Game 3: Golden Knights gold rally towels (B+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Wednesday Eastern Conference Final Game 4 Giveaway
+
+Montreal hosts the Eastern Conference Final Game 4 at Bell Centre against the Hurricanes down 2-1 in the series and the Canadiens load every seat with white rally towels, the same white towel format the team has run all postseason for the Round 1 closeout-chance Game 6 against the Lightning and the Round 2 Game 4 against the Sabres for the same grade per the same-giveaway-same-score rule.
+
+### Montreal Canadiens · White Rally Towels · Eastern Conference Final Game 4 · Grade: C+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2059737015692996934"></a></blockquote>
+</div>
+
+Montreal hands out white rally towels at every Bell Centre seat for Eastern Conference Final Game 4 against the Hurricanes, the same white towel format the Canadiens ran for the Round 1 Game 6 closeout-chance against the Lightning at C+ and the Round 2 Game 4 against the Sabres at C+, holding the same C+ grade per the same-giveaway-same-score rule across the Canadiens entire 2026 Stanley Cup Playoffs home towel program. White reads clean on the broadcast and the towel-wave moments fit the loud Bell Centre crowd reputation, but rally towels still cap below the visual ceiling of a team-color t-shirt takeover and the white-with-red mismatch costs the broadcast color cohesion with the Canadiens iconic CH crest red home sweater identity that finally debuted at Bell Centre in Game 3. A red towel takeover at Bell Centre paired with the home red sweater against the Hurricanes road whites would have lit up the building and tied the home crowd identity directly to the most heritage-rich primary look in hockey. C+. Same-giveaway-same-score consistency on the white towel call. Montreal sits down 2-1 in the series with a swing-game Game 4 home night and the season on the line at Bell Centre.
 
 ## Tuesday Western Conference Final Game 4 Giveaway
 
