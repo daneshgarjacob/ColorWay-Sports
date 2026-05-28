@@ -5,9 +5,9 @@ date: "2026-05-27"
 updatedDate: "2026-05-27"
 excerpt: "2026 Conference Champions locker room gear tracker. Knicks ECF hat A-, shirt B-. Knights WCF hat C+, shirt B-. NBA wins the hat side. Side-by-side breakdown of every locker room hat and t-shirt as the rest of the conference champs lock in."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 33%, #1a1a1a 66%, #B4975A 100%)"
-coverImage: "/images/posts/knights-finals-gear/knights-finals-hat-front.png"
+coverImage: "/images/posts/conference-champions-tracker/cover.jpg"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["new-york-knicks", "vegas-golden-knights"]
@@ -15,7 +15,7 @@ featuredOrder: 2
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/knights-finals-gear/knights-finals-hat-front.png" alt="2026 Conference Champions Locker Room Gear Tracker cover image showing the Vegas Golden Knights Western Conference Champions hat alongside the New York Knicks Eastern Conference Champions hat for the NBA vs NHL side-by-side locker room gear comparison from the 2026 NBA Playoffs and 2026 NHL Stanley Cup Playoffs Conference Finals" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/conference-champions-tracker/cover.jpg" alt="2026 Conference Champions Locker Room Gear Tracker side-by-side hero composite showing the New York Knicks 2026 NBA Eastern Conference Champions black New Era 9FIFTY locker room hat graded A- on the left in Knicks blue and the Vegas Golden Knights 2026 NHL Western Conference Champions hat graded C+ on the right in Knights gold and black for the cross-league NBA versus NHL conference champion gear comparison" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Two conference champs locked in so far. Two more on the way. The New York Knicks swept the Cleveland Cavaliers 4-0 in the NBA Eastern Conference Finals to advance to the 2026 NBA Finals. The Vegas Golden Knights swept the Colorado Avalanche 4-0 in the NHL Western Conference Final to advance to the 2026 Stanley Cup Final. Both teams pulled out the official Fanatics-produced Conference Champions locker room hats and t-shirts within minutes of the clinching buzzer, and we are grading every piece side by side as the rest of the conference champs come in over the next two weeks.
