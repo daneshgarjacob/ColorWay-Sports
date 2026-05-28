@@ -3,7 +3,7 @@ title: "Gucci Just Officially Took Over Alpine F1 for 2027: Here's What the New 
 category: "F1"
 date: "2026-05-27"
 excerpt: "Gucci officially took over Alpine F1 as title partner for 2027. The new team name is Gucci Racing Alpine Formula One Team. BWT pink era over. Here is the livery direction."
-gradient: "linear-gradient(135deg, #0054A6 0%, #001845 55%, #1a1a1a 100%)"
+gradient: "linear-gradient(135deg, #C9A04E 0%, #8C6A26 50%, #2a1a08 100%)"
 coverImage: "/images/posts/alpine-f1-gucci-title-sponsor-2027-livery/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
