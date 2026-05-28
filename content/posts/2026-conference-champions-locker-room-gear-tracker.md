@@ -51,7 +51,7 @@ This tracker grows. We will add the NBA Western Conference Champion gear once th
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; background: rgba(255,255,255,0.04); border-radius: 12px; border-left: 4px solid rgba(255,255,255,0.2);">
       <div>
         <p style="margin: 0; color: rgba(255,255,255,0.7); font-weight: 800; font-size: 14px;">NHL Eastern Conference Champion · TBD</p>
-        <p style="margin: 4px 0 0; color: rgba(255,255,255,0.4); font-size: 12px;">Hurricanes lead Canadiens 2-1 · Game 4 at Bell Centre</p>
+        <p style="margin: 4px 0 0; color: rgba(255,255,255,0.4); font-size: 12px;">Hurricanes lead Canadiens 3-1 · Closeout chance in Raleigh for Game 5</p>
       </div>
       <span style="font-weight: 900; color: rgba(255,255,255,0.4); font-size: 1.3em;">Pending</span>
     </div>
@@ -106,7 +106,7 @@ The Knights hat goes the other direction. The team-color front instead of the de
 
 **Team-color fronts work and should be the default.** The Knights hat is half-right because the gold front matches the primary logo color and reads as a team-first piece. If the NHL or Fanatics moves the Stanley Cup Final logo to that team-color front panel for the next conference champion (or the Stanley Cup champion itself), the back-half of the design idea gets fixed and the grade jumps two full letters. The all-black default template the Knicks hat ran in is the other miss, and the version of the Knicks hat in Knicks orange or blue would have been a clean A.
 
-**Coming up:** The NBA Western Conference Champion (Thunder leading Spurs 3-2, Game 6 in San Antonio) and the NHL Eastern Conference Champion (Hurricanes leading Canadiens 2-1, Game 4 at Bell Centre tonight) lock in their respective conferences over the next week. Both rounds end with the same Fanatics locker room hat and t-shirt drop, both teams will be graded here the moment the gear hits the floor.
+**Coming up:** The NBA Western Conference Champion (Thunder leading Spurs 3-2, Game 6 in San Antonio) and the NHL Eastern Conference Champion (Hurricanes leading Canadiens 3-1, closeout chance for Game 5 in Raleigh) lock in their respective conferences over the next week. Both rounds end with the same Fanatics locker room hat and t-shirt drop, both teams will be graded here the moment the gear hits the floor.
 
 <span id="faq"></span>
 
@@ -130,7 +130,7 @@ Both the Knicks and Knights conference champion locker room shirts are heather-t
 
 **When will the next conference champion gear be graded?**
 
-The NBA Western Conference Champion (currently Thunder leading Spurs 3-2 with Game 6 in San Antonio) and the NHL Eastern Conference Champion (currently Hurricanes leading Canadiens 2-1 with Game 4 at Bell Centre tonight) will both lock in their respective conferences over the next week. The official Fanatics locker room hats and t-shirts hit the floor within minutes of the clinching final buzzer, and both teams' gear will be graded and added to this tracker as soon as the celebrations are over.
+The NBA Western Conference Champion (currently Thunder leading Spurs 3-2 with Game 6 in San Antonio) and the NHL Eastern Conference Champion (currently Hurricanes leading Canadiens 3-1 with a closeout chance for Game 5 in Raleigh) will both lock in their respective conferences over the next week. The official Fanatics locker room hats and t-shirts hit the floor within minutes of the clinching final buzzer, and both teams' gear will be graded and added to this tracker as soon as the celebrations are over.
 
 **Where can I buy the 2026 Conference Champions hats and shirts?**
 
