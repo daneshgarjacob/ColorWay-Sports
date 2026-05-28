@@ -15,6 +15,8 @@ homepageOrder: 4
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "Carolina Hurricanes at Montreal Canadiens Conference Finals Game 4 Jerseys"
+    rating: 9
   - name: "Colorado Avalanche at Vegas Golden Knights Conference Finals Game 4 Jerseys"
     rating: 9
   - name: "Carolina Hurricanes at Montreal Canadiens Conference Finals Game 3 Jerseys"
@@ -48,7 +50,7 @@ Every 2026 NHL Stanley Cup Playoffs Conference Finals jersey and uniform matchup
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Conference Finals Average Score</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.6 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">7.8 / 10</span>
 </div>
 
 Below, every Conference Finals jersey and uniform matchup graded series by series, newest game first within each series. Avalanche-Golden Knights leads off in the West, followed by Hurricanes-Canadiens in the East.
@@ -179,9 +181,38 @@ Avalanche open the Western Conference Final in the primary burgundy home sweater
 
 ## Carolina Hurricanes vs Montreal Canadiens (Eastern Conference Final)
 
-Hurricanes lead the series 2-1 after stealing Game 3 on the road at Bell Centre in the Habs iconic red home sweater debut. The Eastern Conference Final opened in Raleigh with the Hurricanes in the black home alternate sweater against the Canadiens in road whites, the same black home call Carolina used for the Round 2 series opener against the Flyers. Carolina ran back the same black home alternate for Game 2 with Montreal again in road whites, the same sweater pairing as the series opener. Series shifted to Bell Centre for Game 3 with the Canadiens in the iconic CH crest red home sweater for the first home game of the series against the Hurricanes in road whites, the textbook NHL playoff white-versus-color matchup with full Original Six heritage on the home side, and Carolina stole the game in the road whites to take a 2-1 series lead heading into Game 4 in Montreal. We grade each matchup as the sweater pairing is confirmed.
+Hurricanes lead the series 2-1 after stealing Game 3 on the road at Bell Centre in the Habs iconic red home sweater debut. The Eastern Conference Final opened in Raleigh with the Hurricanes in the black home alternate sweater against the Canadiens in road whites, the same black home call Carolina used for the Round 2 series opener against the Flyers. Carolina ran back the same black home alternate for Game 2 with Montreal again in road whites, the same sweater pairing as the series opener. Series shifted to Bell Centre for Game 3 with the Canadiens in the iconic CH crest red home sweater for the first home game of the series against the Hurricanes in road whites, the textbook NHL playoff white-versus-color matchup with full Original Six heritage on the home side, and Carolina stole the game in the road whites to take a 2-1 series lead heading into Game 4 in Montreal. Game 4 stays at Bell Centre with the same sweater pairing confirmed (Canadiens iconic CH crest red home against the Hurricanes road whites), Montreal trying to even the series at 2-2 to send it back to Lenovo Center for Game 5 tied. We grade each matchup as the sweater pairing is confirmed.
 
 For the full pre-series preview, see our [2026 NHL Eastern Conference Final: Hurricanes vs Canadiens preview](/stories/nhl-eastern-conference-final-hurricanes-canadiens-2026-preview).
+
+### Game 4: Carolina Hurricanes at Montreal Canadiens
+
+<div style="background: linear-gradient(135deg, #1a0510 0%, #0a0205 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #AF1E2D 0%, #192168 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Playoffs · ECF · Game 4 · Projection · Canadiens Swing Game</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Eastern Conference Final Game 4 at Montreal Canadiens" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520road%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/canadiens-red.png" alt="Montreal Canadiens iconic CH crest red home sweater for 2026 NHL Eastern Conference Final Game 4 vs Carolina Hurricanes" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MONTREAL CANADIENS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmontreal%2520canadiens%2520home%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Canadiens run back the iconic CH crest red home sweater at Bell Centre for Game 4 with the Hurricanes again in road whites, the same uniform pairing as Game 3 holding the same 9 out of 10 grade per the same-jersey-same-score rule. Montreal's red home sweater is the most heritage-rich primary identity in hockey, the Original Six look that traces back nine decades, paired against the Hurricanes road whites with the red and black trim for the textbook NHL playoff white-versus-color matchup. Both teams in their primary home and road sets, no alternates, no throwbacks. Bell Centre back in the red and white broadcast frame for the second straight night. Canadiens down 2-1 in the series and trying to even it at 2-2 to send it back to Lenovo Center for Game 5 tied, a Hurricanes win flipping the series to a 3-1 closeout chance back in Raleigh. Nine out of 10. We will update the card with the result once the game ends.
 
 ### Game 3: Carolina Hurricanes at Montreal Canadiens
 
