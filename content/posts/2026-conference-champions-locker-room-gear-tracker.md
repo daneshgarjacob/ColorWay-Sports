@@ -5,7 +5,7 @@ date: "2026-05-27"
 updatedDate: "2026-05-27"
 excerpt: "2026 Conference Champions locker room gear tracker. Knicks ECF hat A-, shirt B-. Knights WCF hat C+, shirt B-. NBA wins the hat side. Side-by-side breakdown of every locker room hat and t-shirt as the rest of the conference champs lock in."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 33%, #1a1a1a 66%, #B4975A 100%)"
-coverImage: "/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png"
+coverImage: "/images/posts/knights-finals-gear/knights-finals-hat-front.png"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 logoSrc: "/logos/NHL.png"
@@ -15,7 +15,7 @@ featuredOrder: 2
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png" alt="2026 Conference Champions Locker Room Gear Tracker cover image showing the Vegas Golden Knights Western Conference Champions hat alongside the New York Knicks Eastern Conference Champions hat for the NBA vs NHL side-by-side locker room gear comparison from the 2026 NBA Playoffs and 2026 NHL Stanley Cup Playoffs Conference Finals" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-hat-front.png" alt="2026 Conference Champions Locker Room Gear Tracker cover image showing the Vegas Golden Knights Western Conference Champions hat alongside the New York Knicks Eastern Conference Champions hat for the NBA vs NHL side-by-side locker room gear comparison from the 2026 NBA Playoffs and 2026 NHL Stanley Cup Playoffs Conference Finals" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Two conference champs locked in so far. Two more on the way. The New York Knicks swept the Cleveland Cavaliers 4-0 in the NBA Eastern Conference Finals to advance to the 2026 NBA Finals. The Vegas Golden Knights swept the Colorado Avalanche 4-0 in the NHL Western Conference Final to advance to the 2026 Stanley Cup Final. Both teams pulled out the official Fanatics-produced Conference Champions locker room hats and t-shirts within minutes of the clinching buzzer, and we are grading every piece side by side as the rest of the conference champs come in over the next two weeks.
@@ -87,7 +87,7 @@ The Knicks hat is the high bar for the round. The "2026 NBA Finals" wordmark sit
 ## Vegas Golden Knights 2026 Western Conference Champions Gear
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front panel in Knights gold matching the team primary logo color with Western Conference Champions wordmark celebrating sweep of Colorado Avalanche in 2026 NHL Western Conference Final" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front panel in Knights gold matching the team primary logo color with Western Conference Champions wordmark celebrating sweep of Colorado Avalanche in 2026 NHL Western Conference Final" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 The Knights hat goes the other direction. The team-color front instead of the default black template is the right call for an identity as distinctive as Knights gold, and pulling the gold from the primary logo color onto the front panel ties the gear back to the home identity the Knights wore for the Game 4 sweep clincher. That part of the design works. The problem is the front wordmark stops at "Western Conference Champs" and the 2026 Stanley Cup Final logo gets buried on the back panel of the cap where the broadcast cameras almost never frame it. The priority scale is flipped. The Knicks hat puts the next round on the front. The Knights hat puts the round just won on the front. That is the difference between an A- and a C+. The shirt landed at B- on the same recycled Fanatics destination tee template every NHL conference champion has gotten for years, and the Knights players largely defaulted to the gold-front hat on camera for the trophy presentation while the shirt picked up far fewer screen seconds. Full breakdown of both pieces is in our [Knights 2026 Western Conference Champions Hat and T-Shirt review](/stories/knights-2026-western-conference-champions-hat-shirt-graded). Hat **C+**. Shirt **B-**.

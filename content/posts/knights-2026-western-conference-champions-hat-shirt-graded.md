@@ -5,7 +5,7 @@ date: "2026-05-27"
 updatedDate: "2026-05-27"
 excerpt: "Vegas Golden Knights swept the Avalanche 4-0 and are headed to the 2026 Stanley Cup Final. We grade the Western Conference Champions locker room hat and t-shirt from Fanatics."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #B4975A 50%, #1a1a1a 100%)"
-coverImage: "/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png"
+coverImage: "/images/posts/knights-finals-gear/knights-finals-hat-front.png"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 logoSrc: "/logos/NHL.png"
@@ -15,7 +15,7 @@ featuredOrder: 1
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front in Knights gold matching the primary team logo color with Western Conference Champions wordmark celebrating the Knights 4-0 sweep of the Colorado Avalanche in the 2026 NHL Western Conference Final" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front in Knights gold matching the primary team logo color with Western Conference Champions wordmark celebrating the Knights 4-0 sweep of the Colorado Avalanche in the 2026 NHL Western Conference Final" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 The Vegas Golden Knights are headed back to the Stanley Cup Final after sweeping the Colorado Avalanche 4-0 in the 2026 Western Conference Final, and the Fanatics-produced Western Conference Champions locker room hats and t-shirts hit the floor inside the home locker room within minutes of the Game 4 final buzzer at T-Mobile Arena. The Knights players celebrated in front of cameras wearing the official 2026 Western Conference Champions gear, the team-color front hat carrying the broadcast frame more than the t-shirt did for the trophy presentation and the rest of the night on social. We are grading both pieces here.
@@ -27,7 +27,7 @@ The Vegas Golden Knights are headed back to the Stanley Cup Final after sweeping
 ## Vegas Golden Knights 2026 Western Conference Champions Hat
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front panel in Knights gold matching the team primary logo color with Western Conference Champions wordmark and Knights logo crest celebrating sweep of Colorado Avalanche in 2026 NHL Western Conference Final" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-hat-front.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat front panel in Knights gold matching the team primary logo color with Western Conference Champions wordmark and Knights logo crest celebrating sweep of Colorado Avalanche in 2026 NHL Western Conference Final" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 The Knights 2026 Western Conference Champions locker room hat leads with a Knights gold front panel pulled directly from the team's primary logo color, which is the part of the design that actually works. Team-color front instead of the default black template is the right call for a brand identity as distinctive as Knights gold, the same gold that carries the home sweater, the goalie pads, the helmet stripes, and basically every piece of in-arena branding in T-Mobile Arena. Putting that color on the front of the locker room hat ties the gear directly back to the home identity the Knights wore for the Game 4 sweep clincher and reads as a Vegas Golden Knights hat first instead of a generic conference champs hat first. That part is fine.
@@ -35,7 +35,7 @@ The Knights 2026 Western Conference Champions locker room hat leads with a Knigh
 The problem is what the front actually says, and what it does not. The front wordmark is "Western Conference Champs," a conference-only callout that locks the hat to the round the Knights just finished instead of the round they are now heading into. The 2026 Stanley Cup Final logo, the headline visual asset of the entire postseason, sits on the back of the hat where the broadcast cameras almost never frame it. That is the inverse of the Knicks Eastern Conference Champions hat we [graded an A- earlier this week](/stories/knicks-2026-eastern-conference-champions-hat-shirt-graded), which puts the "2026 NBA Finals" wordmark front and center alongside the team crest and earns the front-of-hat real estate the moment matters most. The Knights front reads as backward-looking. The conference name was the team's last hurdle, not the next one, and the locker room hat should be carrying the Stanley Cup Final moment on the broadcast frame instead of burying it on the back panel. It does not give you the vibes the moment deserves.
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-hat-back.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat back panel with the 2026 Stanley Cup Final logo applied to the rear of the hat instead of the front panel for the Knights celebrating the sweep over the Colorado Avalanche to advance to the 2026 Stanley Cup Final" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-hat-back.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room hat back panel with the 2026 Stanley Cup Final logo applied to the rear of the hat instead of the front panel for the Knights celebrating the sweep over the Colorado Avalanche to advance to the 2026 Stanley Cup Final" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 The back of the hat is where the 2026 Stanley Cup Final logo actually lives, and it looks clean as a back-of-cap hit, but a back-of-cap placement is functionally invisible on a trophy presentation broadcast and on the social cuts that follow. The front and the back are inverted on the priority scale. Move the Stanley Cup Final logo to the front and the Western Conference Champs callout to the back and this hat probably climbs a full letter grade.
@@ -51,7 +51,7 @@ The back of the hat is where the 2026 Stanley Cup Final logo actually lives, and
 ## Vegas Golden Knights 2026 Western Conference Champions T-Shirt
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/knights-finals-gear/knights-2026-western-conference-champions-shirt.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room t-shirt from Fanatics with Western Conference Champions wordmark and Knights branding celebrating the 4-0 sweep over the Colorado Avalanche advancing the Knights to the 2026 Stanley Cup Final" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/knights-finals-gear/knights-finals-shirt.png" alt="Vegas Golden Knights 2026 Western Conference Champions locker room t-shirt from Fanatics with Western Conference Champions wordmark and Knights branding celebrating the 4-0 sweep over the Colorado Avalanche advancing the Knights to the 2026 Stanley Cup Final" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 The Knights 2026 Western Conference Champions locker room t-shirt is the second piece of the locker room set and it never really carried the broadcast the way the hat did. The Knights players largely defaulted to wearing the gold-front hat on camera for the trophy presentation and the post-game interviews, with the t-shirt picking up far fewer screen seconds than the hat earned. Part of that is the standard Fanatics-template energy the shirt brings to the night, the same general layout NHL conference champion locker room tees have leaned on for years with a wordmark over the chest and team-specific art around it. It does the job and that is about it.
