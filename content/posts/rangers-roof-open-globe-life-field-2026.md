@@ -1,13 +1,13 @@
 ---
 title: >-
-  Is the Globe Life Field Roof Open Today? Texas Rangers 2026 Schedule
-updatedDate: '2026-05-25'
+  Globe Life Field Roof Open or Closed Today? 2026 Texas Rangers Schedule
+updatedDate: '2026-05-29'
 category: MLB
 date: '2026-04-01'
 excerpt: >-
-  Globe Life Field roof is closed for over 80% of Rangers home games. Real 2026
-  data on the roof status, weather rules, how to check today, and how to look up
-  any past date including the Yankees series and the late April homestand.
+  Globe Life Field roof closed for 80%+ of Texas Rangers home games. Live
+  status, how to check today, and the full 2026 schedule with date lookup
+  and weather rules.
 gradient: 'linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)'
 coverImage: /images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg
 coverImagePosition: center 90%
