@@ -2,8 +2,8 @@
 title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
 category: "NBA"
 date: "2026-05-18"
-updatedDate: "2026-05-27"
-excerpt: "2026 NBA Conference Finals jersey tracker. Thunder beat Spurs in Game 5 at Paycom Center in the textbook white-versus-color matchup to take a 3-2 series lead with Game 6 back at Frost Bank Center. Knicks swept Cavaliers 4-0 in the East to advance to the 2026 NBA Finals. Every uniform matchup graded with home and away jersey breakdowns."
+updatedDate: "2026-05-29"
+excerpt: "2026 NBA Conference Finals jersey tracker. Spurs forced Game 7 in San Antonio to tie Thunder 3-3. Winner-take-all Sunday at Paycom Center. Knicks swept Cavs 4-0. Every matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ featuredOrder: 1
 bestRating: 10
 worstRating: 0
 reviews:
+  - name: "San Antonio Spurs at Oklahoma City Thunder Conference Finals Game 7 Jerseys"
+    rating: 10
   - name: "Oklahoma City Thunder at San Antonio Spurs Conference Finals Game 6 Jerseys"
     rating: 4
   - name: "San Antonio Spurs at Oklahoma City Thunder Conference Finals Game 5 Jerseys"
@@ -54,12 +56,12 @@ Every 2026 NBA Conference Finals jersey and uniform matchup graded, organized se
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Conference Finals Average Score</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.4 / 10</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6.7 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Conference Finals Teams Wearing Traditional Home Uniforms</span>
-  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">3 / 10 (30%)</span>
+  <span style="font-weight: 900; color: #e6b800; font-size: 1.5em;">4 / 11 (36%)</span>
 </div>
 
 Below, every matchup graded series by series, newest game first within each series. Spurs-Thunder leads off in the West, then Knicks-Cavaliers in the East.
@@ -68,13 +70,53 @@ Below, every matchup graded series by series, newest game first within each seri
 
 ## San Antonio Spurs vs Oklahoma City Thunder (Western Conference Finals)
 
-Thunder lead the series 3-2 after winning Game 5 at Paycom Center to grab a one-win edge with Game 6 back at Frost Bank Center facing Spurs elimination. The Spurs took Game 1 on the road in Oklahoma City, the Thunder evened it 1-1 in Game 2 at Paycom Center, Oklahoma City stole Game 3 in San Antonio, San Antonio answered with Game 4 to tie it 2-2, and Oklahoma City took Game 5 at home in the textbook white-versus-color matchup to grab a 3-2 series lead heading back to San Antonio. The Western Conference Finals opened at Paycom Center with the Thunder running the Icon Edition blue at home for both Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifted to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Series shifted back to Paycom Center for Game 5 with the Thunder finally pulling the Association Edition white at home for the first time all playoffs against the Spurs in the Icon Edition black on the road, the cleanest textbook white-versus-color call of the series and the Thunder G5 win flipping the series. Game 6 returns to Frost Bank Center with the Spurs back in the Icon Edition black at home against the Thunder in Association white on the road, the inverted home-team-in-black call we dock points for and a Spurs elimination night with the series on the line. Thunder Icon blue was the through-line for Games 1 through 4 before flipping to the Association whites in Games 5 and 6. We grade each matchup as the uniform pairing is confirmed.
+Series is tied 3-3 after the Spurs won Game 6 at Frost Bank Center to force a winner-take-all Game 7 Sunday at Paycom Center in Oklahoma City. The Spurs took Game 1 on the road in Oklahoma City, the Thunder evened it 1-1 in Game 2 at Paycom Center, Oklahoma City stole Game 3 in San Antonio, San Antonio answered with Game 4 to tie it 2-2, Oklahoma City took Game 5 at home in the textbook white-versus-color matchup to grab a 3-2 series lead, and the Spurs avoided elimination at home in Game 6 in the inverted home-team-in-black call to send the series back to Oklahoma City for a winner-take-all. The Western Conference Finals opened at Paycom Center with the Thunder running the Icon Edition blue at home for both Games 1 and 2 instead of the Association whites, the Spurs answering in the Icon Edition black road jersey for Game 1 and flipping to the Association Edition white road for Game 2. Series shifted to Frost Bank Center for Games 3 and 4 with the Spurs running the Icon Edition black at home for Game 3 against the Thunder Icon Edition blue road for a swapped-court rematch of the Game 1 matchup, then the Spurs flipping to the Association Edition white at home for Game 4 with the Thunder back in Icon blue road for the textbook white-versus-color matchup. Series shifted back to Paycom Center for Game 5 with the Thunder finally pulling the Association Edition white at home for the first time all playoffs against the Spurs in the Icon Edition black on the road, the cleanest textbook white-versus-color call of the series and the Thunder G5 win flipping the series. Game 6 at Frost Bank Center put the Spurs back in the Icon Edition black at home against the Thunder in Association white on the road, the inverted home-team-in-black call we dock points for, and San Antonio took the elimination game to send the series back to Oklahoma City. Game 7 returns to Paycom Center Sunday for the winner-take-all with the projection of Thunder Association white at home against the Spurs in the Icon Edition black on the road, the same pairing that delivered Game 5's 10 out of 10 and the cleanest white-versus-color call of the series. Thunder Icon blue was the through-line for Games 1 through 4 before the Thunder flipped to the Association whites at home for Game 5. We grade each matchup as the uniform pairing is confirmed.
+
+### Game 7: San Antonio Spurs at Oklahoma City Thunder
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #007DC3 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 7 · Projection · Winner to NBA Finals</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/spurs-icon-black.png" alt="San Antonio Spurs Icon Edition black road jersey and uniform for 2026 NBA Western Conference Finals Game 7 at Oklahoma City Thunder" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Black</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520antonio%2520spurs%2520icon%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/thunder-association-white.png" alt="Oklahoma City Thunder Association Edition white home jersey and uniform for 2026 NBA Western Conference Finals Game 7 vs San Antonio Spurs" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">OKLAHOMA CITY THUNDER</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Doklahoma%2520city%2520thunder%2520association%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #000000 0%, #007DC3 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · WCF · Game 7</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 7 · Sunday · Winner to NBA Finals</p>
+  </div>
+  <img src="/images/courts/nba/thunder-home.png" alt="Paycom Center Oklahoma City Thunder primary home court for 2026 NBA Western Conference Finals Game 7 vs San Antonio Spurs" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Oklahoma City · Primary Court</p>
+</div>
+
+Game 7 returns to Paycom Center Sunday for the winner-take-all decider with the projection of Thunder Association Edition white at home against the Spurs in the Icon Edition black on the road, the same pairing that delivered Game 5's 10 out of 10 and the cleanest white-versus-color call of the series. Thunder finally pulled the Association whites at home for the first time all playoffs in Game 5 and won, and the highest-stakes single game of the season is exactly where the cleanest broadcast contrast call belongs. Spurs Icon black on the road is the same primary identity San Antonio ran for Games 1 and 5 on the road and reads strong against the Thunder whites at Paycom Center. The wild card is the Spurs Fiesta City Edition uniform, the season-long alternate San Antonio has yet to deploy this playoffs and the single biggest design variable still live in the Western Conference Finals — a Fiesta pull on the road would shift the matchup grade since the textbook white-versus-color call requires both teams in their primary identity. Ten out of 10 on the projection, the same Game 5 pairing in the same building with the conference on the line. Grades update if the announced uniforms change.
 
 ### Game 6: Oklahoma City Thunder at San Antonio Spurs
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 6 · Projection · Spurs Elimination</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Playoffs · WCF · Game 6 · Spurs Win · Series Tied 3-3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -102,13 +144,13 @@ Thunder lead the series 3-2 after winning Game 5 at Paycom Center to grab a one-
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Playoffs · WCF · Game 6</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · Spurs Elimination · Primary Home Court</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · Spurs Force Game 7 · Primary Home Court</p>
   </div>
   <img src="/images/courts/nba/spurs-home.png" alt="Frost Bank Center San Antonio Spurs primary home court for 2026 NBA Western Conference Finals Game 6 vs Oklahoma City Thunder" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Primary Court</p>
 </div>
 
-Series returns to Frost Bank Center for Game 6 with the Spurs back in the Icon Edition black at home and the Thunder in the Association Edition white on the road, the same jersey pairing as Game 5 with the home and road roles flipped, and the Spurs facing elimination at home down 3-2 in the series. San Antonio passes on the Association Edition white at home for the second home game out of three and goes back to the Icon black look that did not earn the call in Game 3 either, the same inverted home-team-in-black choice we docked points for in Game 3 against the Thunder Icon blue. Thunder Association white on the road is the cleanest visitor look Oklahoma City has, but the road whites cannot lift a matchup where the home team gives up the textbook playoff white-versus-color identity. The Game 5 pairing read 10 out of 10 at Paycom Center because the Thunder were at home in whites and the Spurs on the road in their primary Icon black, the textbook white-versus-color call. The same jerseys with the home and road roles flipped break the standard and lose the broadcast contrast Frost Bank Center gets when the home team wears white against a dark color road. Four out of 10. The home-team-in-black call is the recurring grading dock of the series.
+Series returned to Frost Bank Center for Game 6 with the Spurs back in the Icon Edition black at home and the Thunder in the Association Edition white on the road, the same jersey pairing as Game 5 with the home and road roles flipped, and the Spurs facing elimination at home down 3-2 in the series. San Antonio passed on the Association Edition white at home for the second home game out of three and went back to the Icon black look that did not earn the call in Game 3 either, the same inverted home-team-in-black choice we docked points for in Game 3 against the Thunder Icon blue. Thunder Association white on the road is the cleanest visitor look Oklahoma City has, but the road whites could not lift a matchup where the home team gave up the textbook playoff white-versus-color identity. The Game 5 pairing read 10 out of 10 at Paycom Center because the Thunder were at home in whites and the Spurs on the road in their primary Icon black, the textbook white-versus-color call. The same jerseys with the home and road roles flipped break the standard and lose the broadcast contrast Frost Bank Center gets when the home team wears white against a dark color road. San Antonio won Game 6 at home to tie the series 3-3 and force a winner-take-all Game 7 Sunday at Paycom Center, the Spurs taking the elimination night in the inverted home-team-in-black call against the Thunder road whites with a Finals berth on the line back in Oklahoma City. Four out of 10. The home-team-in-black call is the recurring grading dock of the series.
 
 ### Game 5: San Antonio Spurs at Oklahoma City Thunder
 
@@ -480,9 +522,9 @@ Knicks Association Edition white home jersey against Cavaliers Statement Edition
 
 ## FAQ: 2026 NBA Conference Finals Jersey Tracker
 
-**Which teams are in the 2026 NBA Conference Finals?** The Western Conference Finals are Spurs vs Thunder with Oklahoma City leading the series 3-2 after the Game 5 win at Paycom Center, and the Spurs facing elimination at home in Game 6 at Frost Bank Center. The Eastern Conference Finals were Knicks vs Cavaliers, with New York sweeping Cleveland 4-0 to advance to the 2026 NBA Finals. Oklahoma City swept the Lakers 4-0 in Round 2 and San Antonio eliminated Minnesota 4-2 to lock in the West. New York swept Philadelphia 4-0 in Round 2 and Cleveland beat Detroit 4-3 in Game 7 at Little Caesars Arena to lock in the East. The Knicks and Cavaliers last met in the playoffs in the 2023 first round, won by New York 4-1. Spurs-Thunder is the first Conference Finals matchup of either team in the current era.
+**Which teams are in the 2026 NBA Conference Finals?** The Western Conference Finals are Spurs vs Thunder with the series tied 3-3 after San Antonio took Game 6 at Frost Bank Center to force a winner-take-all Game 7 Sunday at Paycom Center in Oklahoma City. The Eastern Conference Finals were Knicks vs Cavaliers, with New York sweeping Cleveland 4-0 to advance to the 2026 NBA Finals. Oklahoma City swept the Lakers 4-0 in Round 2 and San Antonio eliminated Minnesota 4-2 to lock in the West. New York swept Philadelphia 4-0 in Round 2 and Cleveland beat Detroit 4-3 in Game 7 at Little Caesars Arena to lock in the East. The Knicks and Cavaliers last met in the playoffs in the 2023 first round, won by New York 4-1. Spurs-Thunder is the first Conference Finals matchup of either team in the current era.
 
-**What jerseys are the Thunder wearing at home in Round 2 and the Conference Finals?** The Thunder ran the Icon Edition blue at home through the entire Lakers sweep in Round 2 and Games 1 and 2 of the Western Conference Finals against the Spurs, the only Conference Finals team running their primary color jersey at home through the opening two home games of the round. The Thunder finally pulled the Association Edition white at home for Game 5 at Paycom Center, the first time Oklahoma City wore the home whites all playoffs, paired against the Spurs Icon Edition black on the road for the cleanest white-versus-color matchup of the series at 10 out of 10. Oklahoma City took Game 5 on the cleanest jersey night of the series to grab a 3-2 series lead heading back to Frost Bank Center for Game 6 with the Spurs facing elimination.
+**What jerseys are the Thunder wearing at home in Round 2 and the Conference Finals?** The Thunder ran the Icon Edition blue at home through the entire Lakers sweep in Round 2 and Games 1 and 2 of the Western Conference Finals against the Spurs, the only Conference Finals team running their primary color jersey at home through the opening two home games of the round. The Thunder finally pulled the Association Edition white at home for Game 5 at Paycom Center, the first time Oklahoma City wore the home whites all playoffs, paired against the Spurs Icon Edition black on the road for the cleanest white-versus-color matchup of the series at 10 out of 10. Oklahoma City took Game 5 to grab a 3-2 series lead, the Spurs avoided elimination at Frost Bank Center in Game 6 to force Game 7, and Oklahoma City is projected to run the Association white at home again for the winner-take-all Game 7 at Paycom Center Sunday — the same pairing that delivered Game 5's perfect score and the cleanest white-versus-color identity the series can offer.
 
 **What is the highest-graded Conference Finals jersey matchup so far?** Three games tie at the top with a perfect 10 out of 10: Knicks-Cavaliers Game 1 at Madison Square Garden (Knicks Association white at home vs Cavs Statement black on the road), Spurs-Thunder Game 4 at Frost Bank Center (Spurs Association white at home vs Thunder Icon blue on the road), and Spurs-Thunder Game 5 at Paycom Center (Thunder Association white at home vs Spurs Icon black on the road). Each one is the textbook white-versus-color call with both teams in their primary home and away identities.
 
