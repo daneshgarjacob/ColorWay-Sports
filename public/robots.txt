@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /_next/static/
-Disallow: /opengraph-image
-Disallow: /*/opengraph-image
-
-Sitemap: https://www.colorwaysports.com/sitemap.xml
