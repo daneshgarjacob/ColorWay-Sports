@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-05-27"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Wednesday ECF Game 4: Canadiens white rally towels at Bell Centre vs Hurricanes for a swing-game home night down 2-1 in the series (C+). Tuesday WCF Game 4: Golden Knights gold rally towels at T-Mobile Arena seal the sweep over the Avalanche and Stanley Cup Final berth (B+). Sunday WCF Game 3: Golden Knights gold rally towels (B+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-05-29"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Friday ECF Game 5: Hurricanes white rally towels at Lenovo Center against the Canadiens for the closeout-chance Stanley Cup Final berth on the line (B+). Wednesday ECF Game 4: Canadiens white rally towels at Bell Centre (C+). Tuesday WCF Game 4: Golden Knights gold rally towels seal the sweep over the Avalanche and Stanley Cup Final berth (B+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Friday Eastern Conference Final Game 5 Giveaway
+
+Carolina hosts Eastern Conference Final Game 5 at Lenovo Center against the Canadiens with a closeout chance and a Stanley Cup Final berth on the line, leading the series 3-1, and the Hurricanes load every seat with white rally towels paired with the black home alternate sweater for the third home game of the series.
+
+### Carolina Hurricanes · White Rally Towels · Eastern Conference Final Game 5 · Grade: B+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2060447027905835202"></a></blockquote>
+</div>
+
+Carolina hands out white rally towels at every Lenovo Center seat for Eastern Conference Final Game 5 against the Canadiens, the same white towel format the Hurricanes ran for the Eastern Conference Final Game 1 series opener at B+ and holding the same B+ grade per the same-giveaway-same-score rule on the closeout-chance home night with the Stanley Cup Final on the line. The home crowd carries white towels against the Hurricanes black home alternate sweater for the third home game of the series, the white-on-black contrast delivering the cleanest broadcast frame a Canes home night can offer when the team passes on the iconic red home sweater. The white-on-black call reads clean across every broadcast cut and the towel-wave moments fit the loud Lenovo Center crowd that has been one of the most consistent home identity programs in the postseason, the white-out frame against the black home alternate the visual identity Carolina has run for every Lenovo Center home game of the Eastern Conference Final. A red towel takeover paired with the iconic red home sweater would have lit up Lenovo Center and tied the home crowd identity to the Hurricanes brand color story for the closeout night, but Carolina runs back the white-towel format that has worked through the postseason. B+. Same-giveaway-same-score consistency on the white-towel call, the Conference Final closeout-chance stakes holding the grade above the Round 1 and Round 2 white-towel floor and the white-on-black broadcast contrast the cleanest visual frame the Lenovo Center home identity can deliver tonight.
 
 ## Wednesday Eastern Conference Final Game 4 Giveaway
 
