@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-27"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center power the home Association white debut win to a 3-2 series lead over the Spurs (A+). Monday ECF Game 4: Cavaliers red, white, and blue t-shirts at Rocket Mortgage Fieldhouse vs Knicks (A). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-05-30"
+excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Sunday WCF Game 7: Thunder blue out t-shirts at Paycom Center for the winner-take-all decider against the Spurs with an NBA Finals berth on the line (A-). Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center power the home Association white debut win (A+). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -21,6 +21,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Sunday Western Conference Finals Game 7 Giveaway
+
+The Thunder host the Spurs for the winner-take-all Western Conference Finals Game 7 Sunday at Paycom Center, the home crowd loaded with blue t-shirts at every seat for the deciding NBA Finals berth against the Spurs. The unified single-color blue commitment is a step up from the blue-and-white stripe out the Thunder ran for Game 2 and lands as one of the strongest brand-color crowd takeovers of the 2026 NBA Playoffs.
+
+### Oklahoma City Thunder · Blue Out T-Shirts · WCF Game 7 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/okcthunder/status/2060505832475832807"></a></blockquote>
+</div>
+
+The Thunder load Paycom Center with a full blue out for the winner-take-all Western Conference Finals Game 7 against the Spurs, every seat loaded with a Thunder blue t-shirt for the deciding NBA Finals berth on national broadcast. The unified single-color commitment is a clean step up from the blue and white stripe out the Thunder ran for Game 2 of the same series, the entire lower bowl in one Thunder brand color anchoring the broadcast frame in a way the alternating stripe pattern could not match. Blue is the iconic Thunder brand color and the all-blue takeover ties the crowd identity to the OKC palette regardless of which jersey the team pulls for the Game 7 home night — paired with the Association Edition white home jersey from the Game 5 win, the blue crowd anchors the home broadcast frame around the team's brand color even when the floor reads white, and paired with the Icon Edition blue, the blue-on-blue-on-blue floods the broadcast in a single color from the seats to the sweater. Paycom Center has not run a unified blue out at this scale all playoffs and the Game 7 winner-take-all stakes lift the format to one of the loudest in-arena moments of the 2026 NBA Playoffs. A-. The single-color brand commitment is the right call for the Conference Finals decider, the all-blue identity tying the Thunder crowd, the Thunder color, and the Thunder NBA Finals push into one coordinated broadcast moment.
 
 ## Tuesday Western Conference Finals Game 5 Giveaway
 
