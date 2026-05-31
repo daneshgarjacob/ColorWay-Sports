@@ -26,7 +26,7 @@ const rounds: RoundStat[] = [
   {
     label: "Conference Finals",
     traditional: 3,
-    total: 10,
+    total: 11,
     complete: false,
     slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
   },
