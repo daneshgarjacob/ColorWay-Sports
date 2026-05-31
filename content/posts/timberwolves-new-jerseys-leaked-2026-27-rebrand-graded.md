@@ -16,13 +16,14 @@ featuredOrder: 1
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/black-front.jpg" alt="Minnesota Timberwolves new 2026-27 black alternate jersey leaked with throwback green tree print pattern on the collar trim and shorts waistband, brighter blue and green color palette returning from the original 1989 expansion identity, the centerpiece of the Wolves rebrand we predicted ahead of the June 7 official uniform reveal" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Minnesota Timberwolves / NBA</p>
 </div>
 
 The Minnesota Timberwolves new uniforms have leaked in three colorways ahead of the team's official June 7, 2026 reveal — a white primary, a blue primary, and a black alternate. The throwback look we called in our [June 7 reveal prediction post](/stories/timberwolves-new-uniforms-june-7-2026-throwback-prediction) lands exactly as projected: the brighter blue and green color palette from the 1989 expansion identity, the wolf head design language across the shorts waistbands, and the tree print pattern returning as the signature design element of the black alternate jersey. The rebrand is a full identity reset to the look that built the Timberwolves brand in the Kevin Garnett era, and the leaked set delivers on every signal the team has been sending since the new logos surfaced earlier this year. We grade the rebrand A+.
 
 <div style="margin: 2em auto; text-align: center; max-width: 380px;">
   <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/new-wolf-head-logo.jpg" alt="Minnesota Timberwolves new wolf head crest logo for the 2026-27 rebrand with the howling white wolf inside a basketball with a star, navy and green border ring, the modernized primary brand mark that anchors the entire new uniform identity" style="width: 100%; max-width: 380px; height: auto; display: block; border-radius: 12px;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The wolf head crest anchoring the new identity</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The wolf head crest anchoring the new identity · via Minnesota Timberwolves / NBA</p>
 </div>
 
 The new wolf head crest is the centerpiece of the brand identity that the uniforms hang from. The howling white wolf inside the basketball with the star, framed by the navy and green ring, is the modernized take on the original 1989 expansion crest that has anchored the strongest moments in franchise history. The brighter blue and green palette in the ring carries through to every piece of the new uniform set on the floor.
@@ -32,15 +33,15 @@ The new wolf head crest is the centerpiece of the brand identity that the unifor
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
     <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/white-front.jpg" alt="Minnesota Timberwolves new white home jersey 2026-27 front view with the throwback WOLVES wordmark in blue with green outline, brighter blue and green trim returning from the 1989 expansion identity, the Sezzle jersey patch on the chest, and the tree print pattern carrying through on the shorts waistband" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">White Home · Front</p>
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">White Home · Front · via Minnesota Timberwolves / NBA</p>
   </div>
   <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
     <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/white-back.jpg" alt="Minnesota Timberwolves new white home jersey 2026-27 back view with the McDaniels nameplate and #3 number in blue with green outline matching the throwback wordmark treatment on the front, clean white shoulders with no tree print on the jersey body" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">White Home · Back</p>
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">White Home · Back · via Minnesota Timberwolves / NBA</p>
   </div>
   <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
     <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/white-wordmark-detail.jpg" alt="Minnesota Timberwolves new white home jersey 2026-27 WOLVES wordmark and #3 chest close-up showing the embroidered blue letterforms with the bright green outline detail, the Nike swoosh in blue, and the Sezzle jersey patch in full color, the same throwback wordmark treatment from the Kevin Garnett era returning as the new Wolves chest identity" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Wordmark Close-Up</p>
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Wordmark Close-Up · via Minnesota Timberwolves / NBA</p>
   </div>
 </div>
 
@@ -50,7 +51,7 @@ The new Timberwolves white home jersey returns to the brighter blue and green tr
 
 <div style="margin: 2em 0; text-align: center;">
   <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/blue-front.jpg" alt="Minnesota Timberwolves new blue road jersey 2026-27 front view with the throwback WOLVES wordmark in green with brighter green outline, Naz Reid #11 in green numerals, brighter saturated blue base from the 1989 expansion identity, and the Sezzle jersey patch on the chest, the primary road uniform for the Wolves 2026-27 NBA season" style="max-width: 100%; width: 100%; max-width: 420px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 12px; display: inline-block;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Blue Road · Front</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Blue Road · Front · via Minnesota Timberwolves / NBA</p>
 </div>
 
 The new Timberwolves blue road jersey leans into the brighter shade of the throwback blue that defined the Kevin Garnett-era WOLVES wordmark uniform, the saturated blue base anchoring the road identity with the green wordmark and green numbers that made the 1995-96 Mitchell and Ness throwback one of the most recognizable jerseys of the early NBA throwback boom. The WOLVES across the chest sits in green with a brighter green outline for the maximum chromatic separation from the blue base, the kind of high-saturation type treatment the current Wolves set has completely lacked for the past decade. The blue version is the road jersey the franchise should have been running for the past ten years and the brighter saturation reads stronger on broadcast than the navy-and-grey direction of the current Wolves road look. Like the white set, the jersey body itself stays clean — no tree print on the jersey panels — but the shorts waistband carries the same tree-pattern detail that runs through the entire new uniform family.
@@ -60,11 +61,11 @@ The new Timberwolves blue road jersey leans into the brighter shade of the throw
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center;">
     <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/black-front.jpg" alt="Minnesota Timberwolves new black alternate jersey 2026-27 front view with the green tree print pattern on the collar trim and the shorts waistband, the WOLVES throwback wordmark in the brighter blue with green outline, the #3 number in white with green outline, and the full Hardwood Classic design language returning as the signature alternate identity of the Wolves rebrand" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Black Alternate · Front</p>
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Black Alternate · Front · via Minnesota Timberwolves / NBA</p>
   </div>
   <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center;">
     <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/black-back.jpg" alt="Minnesota Timberwolves new black alternate jersey 2026-27 back view with McDaniels nameplate in white, #3 number in white with green and blue outline, the tree print pattern running across the back yoke and the shorts waistband, the signature design element of the Wolves Hardwood Classic identity returning as the defining detail of the new black alternate" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Black Alternate · Back</p>
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Black Alternate · Back · via Minnesota Timberwolves / NBA</p>
   </div>
 </div>
 
@@ -74,7 +75,7 @@ The black alternate is where the rebrand goes the hardest. The tree print patter
 
 <div style="margin: 2em auto; text-align: center; max-width: 520px;">
   <img src="/images/posts/timberwolves-2026-27-new-jerseys-leaked/shorts-waistband-detail.jpg" alt="Minnesota Timberwolves new 2026-27 white shorts waistband close-up showing the green tree silhouette and Minnesota M monogram label sitting on a blue base with the green stripe trim, the unifying design element that carries across the white, blue, and black uniform sets of the new Wolves rebrand" style="width: 100%; max-width: 520px; height: auto; display: block; border-radius: 12px;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Green tree + Minnesota M monogram on the shorts waistband, present on all three colorways</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Green tree + Minnesota M monogram on the shorts waistband, present on all three colorways · via Minnesota Timberwolves / NBA</p>
 </div>
 
 The tree-and-M monogram label on the shorts waistband is the small design detail that ties the entire new uniform family together. The green tree silhouette sits next to a blue Minnesota M, the two-element mark stitched onto a label that lands at the centerline of the shorts waistband on the white, blue, and black sets alike. Every player on the Timberwolves roster carries that same green tree on their shorts waistband regardless of which colorway is on the floor, the unifying detail that holds the new identity together as a single design family even when the jersey-body tree print only lands on the black alternate. This is the kind of design ladder craft that separates a real franchise identity reset from a recolor — the same heritage motif applied at different scales across the set, ensuring the throwback tree DNA runs through every uniform variation the team will wear next season.
