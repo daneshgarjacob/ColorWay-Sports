@@ -19,6 +19,12 @@ featuredOrder: 1
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2026 NBA Finals courts for the Knicks at Madison Square Garden and the Spurs at Frost Bank Center, revealed by the NBA. via NBA</p>
 </div>
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true">
+    <a href="https://twitter.com/NBA/status/2061236304881295685"></a>
+  </blockquote>
+</div>
+
 The NBA just released the official 2026 NBA Finals court designs for the New York Knicks at Madison Square Garden and the San Antonio Spurs at Frost Bank Center, and the league brought everything back. The Larry O'Brien Trophy is painted at center court for the first time since the 2009 NBA Finals between the Lakers and the Magic. "The Finals" cursive script wordmark is back in the keys on both sides of the floor for the first time since the 2014 NBA Finals between the Heat and the Spurs. And the league added a brand new design touch on top of the throwbacks. A small NBA Finals logo painted on the sideline directly above the center court trophy mark. We give this an A+. The 2026 NBA Finals court is the most heavily branded NBA Finals court since 2009, and the design weight finally matches the moment.
 
 <div style="text-align: center; margin: 2em 0;">
