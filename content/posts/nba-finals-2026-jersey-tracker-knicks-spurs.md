@@ -4,10 +4,10 @@ category: "NBA"
 date: "2026-06-01"
 updatedDate: "2026-06-01"
 excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Games 1 through 4 confirmed. Knicks in their classic Association whites for 3 of the first 4 games. Game 2 at MSG and Games 3 and 4 at Frost Bank Center all grade 10 out of 10. Series average 9.3 out of 10."
-gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
-coverImage: "/images/jerseys/nba/knicks-both-icon-blue-finals.png"
+gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
+coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs"]
@@ -25,8 +25,8 @@ reviews:
     rating: 10
 ---
 
-<div style="margin: 0 0 2em; text-align: center;">
-  <img src="/images/jerseys/nba/knicks-both-icon-blue-finals.png" alt="New York Knicks 2026 NBA Finals jerseys with the 2026 NBA Finals patch on the back of the jersey, the Eastern Conference Champion jersey for the NBA Finals against the San Antonio Spurs at Madison Square Garden" style="max-width: 480px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
+<div style="margin: 0 0 2em;">
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png" alt="2026 NBA Finals Jersey Tracker cover with NBA Finals logo and Every Matchup Graded subtitle on a Knicks blue to black to Finals gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NBA Finals jersey and uniform matchup graded between the New York Knicks and the San Antonio Spurs. Games 1 through 4 are confirmed. The Knicks are running their Association Edition white in 3 of the first 4 games, the only Finals run we have seen in years where one team commits to its classic identity that consistently. The Spurs are mixing the Icon Edition black and the Association Edition white across the four games, including a 10 out of 10 broadcast call at Madison Square Garden for Game 2 and a sharp black-versus-white pairing at Frost Bank Center for Games 3 and 4. We score every game on the same 10-point scale we used across both Conference Finals trackers, with credit for iconic alternates and points docked for non-traditional home-team-in-color calls only where the broadcast contrast suffers.
