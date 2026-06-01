@@ -2,22 +2,22 @@ import Link from "next/link";
 
 const trackers = [
   {
-    slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
-    kicker: "NBA · Playoffs · Conference Finals",
-    title: "2026 NBA Conference Finals Jersey Tracker",
-    dek: "Knicks swept Cavs 4-0 to advance to the NBA Finals. Thunder beat Spurs in Game 5 at Paycom Center to take a 3-2 WCF lead with Game 6 in San Antonio. Every uniform matchup graded.",
-    status: "Live · Conference Finals",
+    slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
+    kicker: "NBA · Finals · Knicks vs Spurs",
+    title: "2026 NBA Finals Jersey Tracker",
+    dek: "Knicks vs Spurs at the NBA Finals after 27 years. Knicks in their classic Association whites for 3 of the first 4 games. Game 2 at MSG Friday night and both games at Frost Bank Center grade 10/10. Series average 9.3/10. Every matchup graded.",
+    status: "Live · NBA Finals",
     grade: "A",
-    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",
+    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png",
   },
   {
-    slug: "nhl-conference-finals-2026-jersey-tracker",
-    kicker: "NHL · Stanley Cup Playoffs · Conference Finals",
-    title: "2026 NHL Conference Finals Jersey Tracker",
-    dek: "Knights swept Avalanche 4-0 in the WCF with the Game 4 closeout at T-Mobile Arena to advance to the Stanley Cup Final. Hurricanes lead Canadiens 2-1 in the ECF after stealing Game 3 at Bell Centre in the Habs red home debut. Every sweater matchup graded.",
-    status: "Live · Conference Finals",
-    grade: "B+",
-    image: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",
+    slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
+    kicker: "NHL · Stanley Cup Final · Hurricanes vs Knights",
+    title: "2026 NHL Stanley Cup Final Jersey Tracker",
+    dek: "Hurricanes vs Knights for the Cup. Canes in the black home alternate for Games 1 and 2 at Lenovo Center, Knights gold home for Games 3 and 4 at T-Mobile Arena. Each road team in white. Series average 9.0/10. Every sweater matchup graded.",
+    status: "Live · Stanley Cup Final",
+    grade: "A",
+    image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png",
   },
 ];
 

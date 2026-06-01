@@ -10,8 +10,8 @@ import { getAllPosts } from "@/lib/posts";
 // Slugs surfaced elsewhere on the homepage (Featured Trackers band) or held out of
 // regular rotation by design — kept out of Latest/More to avoid duplication.
 const TRACKER_SLUGS = new Set([
-  "nba-playoffs-2026-conference-finals-jersey-tracker",
-  "nhl-conference-finals-2026-jersey-tracker",
+  "nba-finals-2026-jersey-tracker-knicks-spurs",
+  "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
   "nba-playoffs-crowd-giveaway-tracker-2026",
   "remembering-kyle-busch-tribute-2026",
 ]);
