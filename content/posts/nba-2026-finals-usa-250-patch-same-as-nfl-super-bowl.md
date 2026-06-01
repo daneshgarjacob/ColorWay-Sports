@@ -16,7 +16,7 @@ featuredOrder: 1
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/250-patches/HJu4msVXMAAlzSa.jpg" alt="2026 NBA Finals San Antonio Spurs white Association Edition jersey close-up showing the new USA 250 patch sewn onto the right chest directly above the Nike swoosh logo, featuring the USA 250 shield design with red and white stripes, navy blue field, white stars, and the USA 250 wordmark in white on navy" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The new USA 250 patch on the 2026 NBA Finals San Antonio Spurs Association white jersey, sewn directly above the Nike swoosh on the right chest. The patch is identical to the one the NFL has worn across the entire 2025-26 season.</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @tops on X</p>
 </div>
 
 The NBA is adding a second patch to 2026 NBA Finals jerseys. The new USA 250 patch sits on the right chest above the Nike swoosh on both the New York Knicks and the San Antonio Spurs uniforms for the entire Finals series. The 2026 NBA Finals back patch we covered last week stays where it is, sewn on the back of the jersey just below the collar above the player nameplate. That makes the 2026 Finals the first NBA Finals in league history with two dedicated patches on every jersey at the same time.
