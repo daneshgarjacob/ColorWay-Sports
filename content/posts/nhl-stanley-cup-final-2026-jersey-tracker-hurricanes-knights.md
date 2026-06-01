@@ -1,0 +1,258 @@
+---
+title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights Matchup Graded"
+category: "NHL"
+date: "2026-06-01"
+updatedDate: "2026-06-01"
+excerpt: "2026 NHL Stanley Cup Final jersey tracker. Carolina Hurricanes vs Vegas Golden Knights, every matchup graded. Hurricanes black home for Games 1 and 2 at Lenovo Center, Knights gold home for Games 3 and 4 at T-Mobile Arena. Each road team in white. Series average 9.0 out of 10."
+gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
+coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+logoSrc: "/logos/NHL.png"
+league: "nhl"
+teams: ["carolina-hurricanes", "vegas-golden-knights"]
+featuredOrder: 1
+bestRating: 10
+worstRating: 0
+reviews:
+  - name: "Carolina Hurricanes vs Vegas Golden Knights Stanley Cup Final Game 1 Jerseys at Lenovo Center"
+    rating: 9
+  - name: "Carolina Hurricanes vs Vegas Golden Knights Stanley Cup Final Game 2 Jerseys at Lenovo Center"
+    rating: 9
+  - name: "Carolina Hurricanes at Vegas Golden Knights Stanley Cup Final Game 3 Jerseys at T-Mobile Arena"
+    rating: 9
+  - name: "Carolina Hurricanes at Vegas Golden Knights Stanley Cup Final Game 4 Jerseys at T-Mobile Arena"
+    rating: 9
+---
+
+<div style="margin: 0 0 2em;">
+  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png" alt="2026 NHL Stanley Cup Final Jersey Tracker cover with Stanley Cup Playoffs logo and Every Matchup Graded subtitle on a Hurricanes red to black to Vegas gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
+</div>
+
+Every 2026 NHL Stanley Cup Final jersey and sweater matchup graded between the Carolina Hurricanes and the Vegas Golden Knights. Games 1 through 4 are confirmed under the standard NHL playoff uniform pattern. Hurricanes wear their black home sweater for Games 1 and 2 at Lenovo Center in Raleigh. Knights wear their primary gold home sweater for Games 3 and 4 at T-Mobile Arena in Las Vegas. Each road team wears their white road sweater. NHL playoff standard is home team in color, road team in white, the inverse of the NBA. Every matchup follows the standard for the first 4 games of the Final, no alternates from the road team, no curveballs.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
+  <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <a href="#game-1" style="padding: 6px 14px; background: rgba(204,0,0,0.18); border-radius: 999px; color: #ff5b6e; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(204,0,0,0.35);">Game 1 · Lenovo</a>
+    <a href="#game-2" style="padding: 6px 14px; background: rgba(204,0,0,0.18); border-radius: 999px; color: #ff5b6e; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(204,0,0,0.35);">Game 2 · Lenovo</a>
+    <a href="#game-3" style="padding: 6px 14px; background: rgba(180,151,90,0.22); border-radius: 999px; color: #d9bc7a; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(180,151,90,0.4);">Game 3 · T-Mobile</a>
+    <a href="#game-4" style="padding: 6px 14px; background: rgba(180,151,90,0.22); border-radius: 999px; color: #d9bc7a; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(180,151,90,0.4);">Game 4 · T-Mobile</a>
+    <a href="#faq" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">FAQ</a>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Stanley Cup Final Average Score</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">9.0 / 10</span>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Home Team in Traditional Color</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">4 / 4 (100%)</span>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Hurricanes in Black Alternate at Home</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">2 / 2 (100%)</span>
+</div>
+
+Below, every matchup graded game by game in chronological order. Games 1 and 2 at Lenovo Center in Raleigh lead off, then Games 3 and 4 at T-Mobile Arena in Las Vegas.
+
+<span id="game-1"></span>
+
+## Game 1: Vegas Golden Knights at Carolina Hurricanes
+
+<div style="background: linear-gradient(135deg, #1a0505 0%, #0a0202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 1 · Confirmed · Lenovo Center</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Final Game 1 at Carolina Hurricanes at Lenovo Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black home alternate sweater for 2026 NHL Stanley Cup Final Game 1 vs Vegas Golden Knights at Lenovo Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520black%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Game 1 of the 2026 Stanley Cup Final opens at Lenovo Center in Raleigh with the Hurricanes in their black home alternate sweater and the Knights on the road in the white road sweater. Hurricanes black on home ice is the same look Carolina ran through every home game of the entire 2026 playoff run, the alternate-as-default identity the team committed to from Round 1 against the Devils all the way through the Eastern Conference Final closeout over the Canadiens at Lenovo Center on May 30. Knights white road sweater is the cleanest possible visitor look Vegas can put on the ice, the white and gray with the gold knight crest reading sharp against the Carolina black at center ice. The black-versus-white contrast is the cleanest visual contrast the Stanley Cup Final can produce. The only dock is the alternate-as-home call. Carolina has not worn their primary red home sweater in any game of the 2026 playoffs, leaving the iconic Hurricanes red identity off the Cup Final floor by choice. Nine out of 10. The cleanest black-versus-white pairing in the Final, only docked one point for the missing red home sweater on the biggest stage in franchise history since 2006.
+
+<span id="game-2"></span>
+
+## Game 2: Vegas Golden Knights at Carolina Hurricanes
+
+<div style="background: linear-gradient(135deg, #1a0505 0%, #0a0202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 2 · Confirmed · Lenovo Center</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for 2026 NHL Stanley Cup Final Game 2 at Carolina Hurricanes at Lenovo Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black home alternate sweater for 2026 NHL Stanley Cup Final Game 2 vs Vegas Golden Knights at Lenovo Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520black%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Game 2 runs back the exact same sweater pairing as Game 1 at Lenovo Center with the Knights in white on the road and the Hurricanes in the black home alternate. Same pairing, same grade per the same-sweater-same-score rule we have applied across both the NBA and NHL Conference Finals trackers all postseason. The Hurricanes black home alternate continues to anchor the team identity at Lenovo Center for the entire playoff run, and Carolina is now two home games away from clinching their first Cup since 2006 in a sweater they have not lost a home game in. Nine out of 10. Series shifts to Las Vegas after Game 2.
+
+<span id="game-3"></span>
+
+## Game 3: Carolina Hurricanes at Vegas Golden Knights
+
+<div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 3 · Confirmed · T-Mobile Arena</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Final Game 3 at Vegas Golden Knights at T-Mobile Arena" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights primary gold home sweater for 2026 NHL Stanley Cup Final Game 3 vs Carolina Hurricanes at T-Mobile Arena" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520home%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Game 3 shifts the series to T-Mobile Arena in Las Vegas with the Hurricanes in white on the road and the Knights in their primary gold home sweater. Vegas gold at home is one of the most iconic single sweater identities in the NHL, the gold knight crest on the steel gray and gold body that the Knights have worn since the franchise's inaugural 2017-18 season. The gold home reads as the cleanest Stanley Cup Final home sweater in the league outside of Original Six color identities, and the contrast against the Hurricanes pure whites on the road is the sharpest possible color separation T-Mobile Arena can produce. The Hurricanes white road sweater also brings back the red as the secondary trim color, the first time the Carolina red identity is on the ice in this Final after Carolina committed to black-as-home for Games 1 and 2 at Lenovo Center. Nine out of 10. Same grade as the Lenovo Center games, the gold home and the red trim on the road sweater making this the most chromatically rich game of the first four games of the Final.
+
+<span id="game-4"></span>
+
+## Game 4: Carolina Hurricanes at Vegas Golden Knights
+
+<div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 4 · Confirmed · T-Mobile Arena</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for 2026 NHL Stanley Cup Final Game 4 at Vegas Golden Knights at T-Mobile Arena" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights primary gold home sweater for 2026 NHL Stanley Cup Final Game 4 vs Carolina Hurricanes at T-Mobile Arena" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520home%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+Game 4 runs back the exact same sweater pairing as Game 3 at T-Mobile Arena with the Hurricanes in white on the road and the Knights in the primary gold home sweater. Same pairing, same grade per the same-sweater-same-score rule. The Knights are 2 home wins away from a second Cup in 4 years on home ice in the most iconic single sweater in the NHL outside the Original Six. Nine out of 10. Series shifts back to Lenovo Center for Game 5 if necessary.
+
+## The Series Take After Four Games
+
+The 2026 Stanley Cup Final jersey series is averaging 9.0 out of 10 through the first 4 games. Every home team is wearing their primary or alternate color sweater. Every road team is wearing white. The NHL playoff uniform standard is respected on every night of the Final, which is the cleanest possible structural pattern the series can hand the broadcast.
+
+The single design variable that holds the Final from a perfect 10 average is the Hurricanes home sweater choice. Carolina is committing to the black alternate at home for the second straight Final game and the full 2026 playoff run, leaving the iconic Hurricanes red home sweater off the ice through the franchise's first Stanley Cup Final since the 2006 championship. The black alternate is a strong identity in a vacuum and reads sharp against the Knights white road, but the absence of the primary red home identity on the Cup Final stage is the storyline that follows the series back to Raleigh if it goes long.
+
+The Knights have the cleanest possible Cup Final home look in the league, the gold primary home sweater the franchise has worn since the inaugural 2017-18 season. Vegas gold at home is the strongest individual sweater identity in the entire 2026 postseason and the cleanest possible road-team-in-white-versus-home-team-in-color matchup the Final can produce.
+
+Through 4 games, the Stanley Cup Final jersey series is averaging 9.0 out of 10, holding pace with the [2026 NBA Finals jersey tracker average of 9.3 out of 10](/stories/nba-finals-2026-jersey-tracker-knicks-spurs). Both championship finals are running cleaner uniform pairings than any series of the playoffs all postseason.
+
+<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2Bnhl%2Bstanley%2Bcup%2Bfinal" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 Stanley Cup Final Gear on Fanatics</a>
+</div>
+
+<span id="faq"></span>
+
+## Frequently Asked Questions
+
+**What jersey will the Carolina Hurricanes wear in Games 1 and 2 of the 2026 Stanley Cup Final?**
+
+The Carolina Hurricanes are wearing their black home alternate sweater for both Game 1 and Game 2 of the 2026 Stanley Cup Final at Lenovo Center in Raleigh. The black alternate has been the team's home sweater for every game of the 2026 playoff run from Round 1 against the New Jersey Devils through the Eastern Conference Final closeout against the Montreal Canadiens, and the same pattern carries into the Cup Final.
+
+**What jersey will the Vegas Golden Knights wear in Games 1 and 2 of the 2026 Stanley Cup Final?**
+
+The Vegas Golden Knights will wear their white road sweater for both Game 1 and Game 2 of the 2026 Stanley Cup Final at Lenovo Center in Raleigh. The white road sweater is the team's standard visitor look, with the gold knight crest on a white and gray body.
+
+**What jersey will the Hurricanes wear in Games 3 and 4 at T-Mobile Arena?**
+
+The Carolina Hurricanes are wearing their white road sweater for both Game 3 and Game 4 of the 2026 Stanley Cup Final at T-Mobile Arena in Las Vegas. The white road sweater carries the Hurricanes red as a secondary trim color, bringing the red identity onto the ice for the first time in the Final after the team committed to the black home alternate at Lenovo Center.
+
+**What jersey will the Knights wear in Games 3 and 4 at T-Mobile Arena?**
+
+The Vegas Golden Knights are wearing their primary gold home sweater for both Game 3 and Game 4 of the 2026 Stanley Cup Final at T-Mobile Arena. The gold home is the team's primary identity since the franchise's inaugural 2017-18 season, the gold knight crest on a steel gray and gold body, and it reads as one of the most iconic single sweater identities in the NHL.
+
+**Will the Hurricanes wear their red home sweater at any point in the 2026 Stanley Cup Final?**
+
+Through the first 4 games of the Final, the Carolina Hurricanes are not scheduled to wear their primary red home sweater. The team has committed to the black home alternate for every home game of the 2026 playoff run, and the same pattern carries through the Cup Final at Lenovo Center. If the Final goes to a Game 5 back in Raleigh, the team could break the pattern with a red home sweater, but the default expectation is black again.
+
+**What is the average jersey matchup grade for the 2026 Stanley Cup Final?**
+
+The 2026 Stanley Cup Final jersey matchup average through Game 4 is 9.0 out of 10 on the same 10-point scale we use across all our jersey trackers. All four games grade 9 out of 10 with the same dock for the Hurricanes black home alternate over the iconic red home sweater. The series average is the highest NHL playoff series grade of the entire 2026 postseason.
+
+**How does the 2026 Stanley Cup Final jersey average compare to the 2026 NBA Finals?**
+
+The 2026 NBA Finals jersey series is averaging 9.3 out of 10 through Game 4 between the New York Knicks and the San Antonio Spurs. The 2026 NHL Stanley Cup Final is averaging 9.0 out of 10 through Game 4 between the Carolina Hurricanes and the Vegas Golden Knights. Both championship finals are running the highest jersey grades of any series in their respective postseasons. Full NBA Finals jersey grading in the [2026 NBA Finals jersey tracker](/stories/nba-finals-2026-jersey-tracker-knicks-spurs).
+
+**What is the home-versus-road jersey standard in the NHL Stanley Cup playoffs?**
+
+The NHL home-versus-road playoff sweater standard is the inverse of the NBA. NHL home teams wear their dark color sweater since 2003, and the road team wears the white sweater. NBA home teams wear white, road teams wear color. Both 2026 championship finals follow their respective league standards on every game of the first 4 games.
+
+**When does Game 1 of the 2026 Stanley Cup Final start?**
+
+Game 1 of the 2026 Stanley Cup Final is at Lenovo Center in Raleigh between the Carolina Hurricanes and the Vegas Golden Knights. TNT and Sportsnet broadcast the Stanley Cup Final under the NHL's current US and Canadian broadcast deals.
+
+**What is the home-court format for the 2026 Stanley Cup Final?**
+
+The 2026 NHL Stanley Cup Final follows the standard 2-2-1-1-1 home-away format. Games 1 and 2 are at Lenovo Center in Raleigh with the Carolina Hurricanes at home. Games 3 and 4 are at T-Mobile Arena in Las Vegas with the Vegas Golden Knights at home. Game 5 returns to Lenovo Center if necessary, Game 6 returns to T-Mobile Arena if necessary, and Game 7 returns to Lenovo Center if necessary.
+
+**When was the last time the Carolina Hurricanes were in the Stanley Cup Final?**
+
+The 2026 NHL Stanley Cup Final is the franchise's first Cup Final appearance since the 2006 Stanley Cup Final, when the Hurricanes beat the Edmonton Oilers 4-3 in 7 games for the franchise's first and only Stanley Cup championship. That is a 20-year absence from the Cup Final, the longest stretch in the league among the four conference finalists.
+
+**When was the last time the Vegas Golden Knights were in the Stanley Cup Final?**
+
+The 2026 NHL Stanley Cup Final is the Vegas Golden Knights' third Cup Final appearance in franchise history. The Knights last reached the Cup Final in 2023, when they won the Stanley Cup 4-1 over the Florida Panthers for the franchise's first championship in the team's 6th season. Vegas also reached the inaugural Cup Final in 2018, losing to the Washington Capitals 4-1 in the franchise's first season.
+
+**Where can I buy a Hurricanes or Knights 2026 Stanley Cup Final jersey?**
+
+The official Carolina Hurricanes and Vegas Golden Knights 2026 Stanley Cup Final sweaters are available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2Bnhl%2Bstanley%2Bcup%2Bfinal). Both teams' Cup Final sweaters feature the 2026 Stanley Cup Final patch on the right chest.
+
+---
+
+*For the full pre-series jersey matchup preview, read our [2026 NHL Stanley Cup Final jersey matchup: Hurricanes vs Golden Knights post](/stories/nhl-stanley-cup-final-2026-jersey-matchup-hurricanes-vs-knights). For the NBA Finals equivalent tracker, read our [2026 NBA Finals jersey tracker: Knicks vs Spurs](/stories/nba-finals-2026-jersey-tracker-knicks-spurs). For the previous round's NHL grades, read our [2026 NHL Conference Finals jersey tracker](/stories/nhl-conference-finals-2026-jersey-tracker).*
