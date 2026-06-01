@@ -6,6 +6,7 @@ interface RoundStat {
   total: number;
   complete: boolean;
   slug?: string;
+  note?: string;
 }
 
 const rounds: RoundStat[] = [
@@ -27,8 +28,16 @@ const rounds: RoundStat[] = [
     label: "Conference Finals",
     traditional: 3,
     total: 11,
-    complete: false,
+    complete: true,
     slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
+  },
+  {
+    label: "NBA Finals",
+    traditional: 3,
+    total: 4,
+    complete: false,
+    slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
+    note: "Knicks in their traditional Association whites",
   },
 ];
 
@@ -59,7 +68,7 @@ export default function TraditionalJerseyIndex() {
           Home team in white — tracked every game of the 2026 NBA playoffs.
         </p>
 
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {rounds.map((r) => {
             const pct = Math.round((r.traditional / r.total) * 100);
             return (
@@ -93,7 +102,9 @@ export default function TraditionalJerseyIndex() {
                   />
                 </div>
                 <p className="text-[10px] text-[#8A8F98] mt-1">
-                  {r.traditional} of {r.total} home games in traditional white
+                  {r.note
+                    ? `${r.traditional} of ${r.total} games · ${r.note}`
+                    : `${r.traditional} of ${r.total} home games in traditional white`}
                 </p>
               </div>
             );
