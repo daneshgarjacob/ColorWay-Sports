@@ -5,7 +5,7 @@ date: "2026-06-01"
 updatedDate: "2026-06-01"
 excerpt: "The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time since the 2009 Lakers vs Magic Finals. Four differences after 17 years: new trophy, flipped orientation, smaller center logo, new sideline NBA Finals logo."
 gradient: "linear-gradient(135deg, #552583 0%, #006BB6 50%, #C4CED4 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png"
+coverImage: "/images/courts/nba/2009-lakers-final-court.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -14,16 +14,27 @@ teams: ["new-york-knicks", "san-antonio-spurs", "los-angeles-lakers", "orlando-m
 featuredOrder: 1
 ---
 
-<div style="margin: 0 0 2em; text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png" alt="2009 NBA Finals court at Staples Center between the Los Angeles Lakers and Orlando Magic with the Lakers script logo at center court, the Larry O'Brien Trophy painted under the Lakers mark, the original NBA Finals cursive script wordmark painted in the corner of the court, Lakers purple paint outside the three-point arc, and Staples Center sponsor branding along the baseline" style="width: 100%; max-width: 800px; border-radius: 12px;" />
-  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2009 NBA Finals court at Staples Center between the Los Angeles Lakers and Orlando Magic. The last NBA Finals court with the Larry O'Brien Trophy painted at center court before 2026.</p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2em;">
+  <div>
+    <img src="/images/courts/nba/2009-lakers-final-court.jpg" alt="2009 NBA Finals court overhead diagram at Staples Center for the Los Angeles Lakers vs Orlando Magic with the Los Angeles Lakers primary logo painted big at center court with the Larry O'Brien Trophy painted small above it, the original The Finals cursive script wordmark painted in all four corners of the court, the NBA primary Jerry West silhouette logo painted on the sideline at the top of center court, Staples Center sponsor branding above and below center, LAKERS wordmark in white running vertically along both baselines, Lakers gold paint outside the three-point arc, and LAKERS.COM along the sideline" style="width: 100%; border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals court · Lakers vs Magic · Staples Center</p>
+  </div>
+  <div>
+    <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Madison Square Garden for the New York Knicks vs San Antonio Spurs with the Larry O'Brien Trophy painted big at center court with the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys on both sides of the floor, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 100%; border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals court · Knicks · Madison Square Garden</p>
+  </div>
 </div>
 
-The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time in 17 years. The last NBA Finals court with the trophy painted at center was the 2009 NBA Finals between the Los Angeles Lakers and the Orlando Magic at Staples Center. We pulled up the 2009 court next to the brand new 2026 Knicks and Spurs courts and counted four real differences in 17 years. A redesigned trophy. A flipped orientation. A smaller center logo. A brand new NBA Finals logo on the sideline. Same idea, new execution.
+The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time in 17 years. The last NBA Finals court with the trophy painted at center was the 2009 NBA Finals between the Los Angeles Lakers and the Orlando Magic at Staples Center. We pulled up the 2009 court next to the brand new 2026 Knicks and Spurs courts and counted four real differences in 17 years. A redesigned trophy. A flipped orientation. A smaller center logo, with the team mark now sitting inside the trophy silhouette instead of next to it. A brand new NBA Finals logo painted on the sideline. Same idea, new execution.
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="2026 NBA Finals court at Madison Square Garden for the New York Knicks with the Larry O'Brien Trophy painted at center court, the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys, the brand new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 100%; border-radius: 10px;" />
-  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2026 NBA Finals court at Madison Square Garden for the New York Knicks. via NBA</p>
+  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Frost Bank Center for the San Antonio Spurs with natural hardwood floor, the Larry O'Brien Trophy painted big at center court with the Spurs primary spurs mark embedded inside the trophy silhouette, The Finals cursive script painted in both keys, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, SAN ANTONIO SPURS wordmark in black running vertically along both baselines, and Frost Bank Center sponsor branding on both sidelines" style="width: 100%; border-radius: 10px;" />
+  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2026 NBA Finals court at Frost Bank Center for the San Antonio Spurs. The same template as the Madison Square Garden floor with Spurs silver, black, and natural hardwood.</p>
+</div>
+
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png" alt="2009 NBA Finals broadcast wide shot from Staples Center showing the Lakers playing the Magic with The Finals cursive script wordmark visible in the corner of the court near the baseline, Lakers gold paint outside the three-point arc, and the Staples Center sponsor branding visible at the baseline" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2009 NBA Finals court in action at Staples Center, showing The Finals cursive wordmark painted in the corner of the floor. The cursive script lived in all four corners of the 2009 court.</p>
 </div>
 
 The 2026 court brings back the trophy as the visual anchor of the floor, the same move the league made in 2009 with the Lakers logo wrapped around the trophy at Staples Center. The execution lands in a different place. Below, every difference between the 2009 and 2026 NBA Finals court designs, mark by mark.
@@ -46,7 +57,7 @@ The 2009 court built the entire center court mark around the Lakers script logo.
 
 ## Difference 4: The Corner Finals Logos Changed From "The Finals" Cursive to the New NBA Finals Logo on the Sideline
 
-The 2009 Lakers court used "The Finals" cursive script wordmark in the corner of the court near the baseline, the same script that lived on every NBA Finals court from the early 2000s through 2014. The 2026 court does not use the cursive script in that corner placement. Instead, the league painted a brand new NBA Finals primary logo on the sideline directly above and below the center court trophy. The new mark pairs the NBA Jerry West silhouette logo with the Larry O'Brien Trophy in a stacked vertical lockup, and it sits on the broadcast-facing sideline at the highest visibility position on the floor.
+The 2009 Lakers court painted "The Finals" cursive script wordmark in all four corners of the floor near the baselines, the same script that lived on every NBA Finals court from the early 2000s through 2014. Four cursive marks on the 2009 floor, one in each corner. The 2026 court does not paint the cursive script in those four corner placements. Instead, the league painted a brand new NBA Finals primary logo on the sideline directly above and below the center court trophy. The new mark pairs the NBA Jerry West silhouette logo with the Larry O'Brien Trophy in a stacked vertical lockup, and it sits on the broadcast-facing sideline at the highest visibility position on the floor.
 
 We loved the old "The Finals" cursive script in the corner. The cursive wordmark is one of the most recognizable design pieces in NBA postseason history, the kind of mark that reads as the Finals from across the building. The new NBA Finals primary logo in the sideline placement is sharper and more contemporary, but it loses the soft cursive personality the old corner mark carried for over a decade.
 
@@ -102,7 +113,7 @@ The NBA did not publicly explain the removal of the trophy from the center court
 
 **Where was "The Finals" cursive wordmark painted on the 2009 Lakers court?**
 
-"The Finals" cursive script wordmark was painted in the corner of the 2009 Lakers Finals court near the baseline at Staples Center, in the area between the three-point arc and the sideline. The mark was sized to read from courtside seating and from the broadcast camera in the wide shot. The 2026 NBA Finals court does not paint the cursive wordmark in that corner location. Instead, the corner area now carries the league's new NBA Finals primary logo on the sideline.
+"The Finals" cursive script wordmark was painted in all four corners of the 2009 Lakers Finals court at Staples Center, between the three-point arc and the sideline on both ends of the floor. Four cursive marks on the 2009 floor total. The script was sized to read from courtside seating and from the broadcast camera in the wide shot. The 2026 NBA Finals court does not paint the cursive wordmark in those four corner locations. Instead, the league's new NBA Finals primary logo sits on the sideline above and below the center court trophy mark, and the cursive script moved into the keys on both sides of the floor.
 
 **Who played in the 2009 NBA Finals?**
 
