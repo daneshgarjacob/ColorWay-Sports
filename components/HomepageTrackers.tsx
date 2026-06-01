@@ -82,7 +82,6 @@ export default function HomepageTrackers() {
         {/* Trackers grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {trackers.map((t) => {
-            const bg = gradeColor[t.grade] ?? "#6B6B6B";
             return (
               <Link
                 key={t.slug}
@@ -100,19 +99,6 @@ export default function HomepageTrackers() {
                     alt={t.title}
                     className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   />
-
-                  {/* Grade badge — top right */}
-                  <div
-                    className="absolute top-3 right-3 flex items-center justify-center text-white font-bold text-sm"
-                    style={{
-                      background: bg,
-                      width: 36,
-                      height: 36,
-                      borderRadius: 4,
-                    }}
-                  >
-                    {t.grade}
-                  </div>
 
                   {/* Status pill — bottom left */}
                   <div
