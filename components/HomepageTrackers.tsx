@@ -14,9 +14,9 @@ const trackers = [
     slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
     kicker: "NHL · Stanley Cup Final · Hurricanes vs Knights",
     title: "2026 NHL Stanley Cup Final Jersey Tracker",
-    dek: "Hurricanes vs Knights for the Cup. Canes in the black home alternate for Games 1 and 2 at Lenovo Center, Knights gold home for Games 3 and 4 at T-Mobile Arena. Each road team in white. Series average 9.0/10. Every sweater matchup graded.",
+    dek: "Hurricanes vs Knights for the Cup. Canes in the black home alternate for Games 1 and 2 at Lenovo Center hold the matchup at 7/10. Knights gold home in Games 3 and 4 at T-Mobile lift it to 8/10. Series average 7.5/10. Every sweater matchup graded.",
     status: "Live · Stanley Cup Final",
-    grade: "A",
+    grade: "B+",
     image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png",
   },
 ];

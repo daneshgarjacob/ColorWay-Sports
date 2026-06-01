@@ -14,15 +14,14 @@ teams: ["new-york-knicks", "san-antonio-spurs", "los-angeles-lakers", "orlando-m
 featuredOrder: 1
 ---
 
-<div style="display: grid; grid-template-columns: 1.25fr 1fr; gap: 16px; align-items: center; margin: 0 0 2em;">
-  <div>
-    <img src="/images/courts/nba/2009-lakers-final-court.jpg" alt="2009 NBA Finals court overhead diagram at Staples Center for the Los Angeles Lakers vs Orlando Magic with the Los Angeles Lakers primary logo painted big at center court with the Larry O'Brien Trophy painted small above it, the original The Finals cursive script wordmark painted in all four corners of the court, the NBA primary Jerry West silhouette logo painted on the sideline at the top of center court, Staples Center sponsor branding above and below center, LAKERS wordmark in white running vertically along both baselines, Lakers gold paint outside the three-point arc, and LAKERS.COM along the sideline" style="width: 100%; border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals court · Lakers vs Magic · Staples Center · via /r/Lakers on Reddit</p>
-  </div>
-  <div>
-    <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Madison Square Garden for the New York Knicks vs San Antonio Spurs with the Larry O'Brien Trophy painted big at center court with the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys on both sides of the floor, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 100%; border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals court · Knicks · Madison Square Garden · via NBA</p>
-  </div>
+<div style="margin: 0 0 1.5em;">
+  <img src="/images/courts/nba/2009-lakers-final-court.jpg" alt="2009 NBA Finals court overhead diagram at Staples Center for the Los Angeles Lakers vs Orlando Magic with the Los Angeles Lakers primary logo painted big at center court with the Larry O'Brien Trophy painted small above it, the original The Finals cursive script wordmark painted in all four corners of the court, the NBA primary Jerry West silhouette logo painted on the sideline at the top of center court, Staples Center sponsor branding above and below center, LAKERS wordmark in white running vertically along both baselines, Lakers gold paint outside the three-point arc, and LAKERS.COM along the sideline" style="width: 100%; display: block; border-radius: 10px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals court · Lakers vs Magic · Staples Center · via /r/Lakers on Reddit</p>
+</div>
+
+<div style="margin: 0 0 2em;">
+  <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Madison Square Garden for the New York Knicks vs San Antonio Spurs with the Larry O'Brien Trophy painted big at center court with the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys on both sides of the floor, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 100%; display: block; border-radius: 10px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals court · Knicks · Madison Square Garden · via NBA</p>
 </div>
 
 The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time in 17 years. The last NBA Finals court with the trophy painted at center was the 2009 NBA Finals between the Los Angeles Lakers and the Orlando Magic at Staples Center. We pulled up the 2009 court next to the brand new 2026 Knicks and Spurs courts and counted four real differences in 17 years. A redesigned trophy. A flipped orientation. A smaller center logo, with the team mark now sitting inside the trophy silhouette instead of next to it. A brand new NBA Finals logo painted on the sideline. Same idea, new execution.
