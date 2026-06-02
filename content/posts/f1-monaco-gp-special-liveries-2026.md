@@ -26,6 +26,12 @@ The 2026 F1 Monaco Grand Prix kicks off this week at the Circuit de Monaco, and 
   </div>
 </div>
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/McLarenF1/status/2061485583126475020"></a>
+  </blockquote>
+</div>
+
 The 2026 Monaco Grand Prix is McLaren's 1000th Formula 1 Grand Prix start, and the team marked the milestone with a one-off retro orange-and-matte-black livery on the MCL40. The base paint shifts from the standard papaya-dominant 2026 livery to a heavier black foundation with the classic McLaren orange concentrated on the nose, sidepod tops, and rear wing. The number "1976" sits on the rear panel as a nod to McLaren's first World Drivers' Championship that year with James Hunt in the M23, and the photoshoot itself is staged in front of a black-and-white fragmented McLaren typography wall installation that doubles as a visual signature for the 1000th-start milestone. Sponsor branding stays in place across the chassis with Gemini, Dropbox, Dell, Cisco, OKX, DeWalt, and Pirelli all reading clean against the retro base.
 
 This is a B- for us. The 1000-start milestone deserves a bigger swing. McLaren's most iconic visual identities across 60 years of F1 history have always leaned chromatic. The 1976 M23 was white-with-red Marlboro stripes. The 1988 MP4/4 was red-and-white Marlboro turbo. The 1998 MP4/13 was silver West Mercedes power. The 2008 MP4-23 was chrome Vodafone. Even the modern papaya-orange era from 2017 forward is bold-on-bold. Reducing the 1000th-start livery to a black-base-with-orange-accents reads more "limited edition merch drop" than "we have done 1000 of these races." We like the typography wall and the 1976 callout. We wish the car itself committed harder to a real era recreation, or at least to a louder color story.
@@ -60,6 +66,12 @@ The 2026 base car flips the orange-to-black ratio. Standard McLaren runs papaya 
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Images via McLaren F1</p>
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/McLarenF1/status/2061529219855692262"></a>
+  </blockquote>
+</div>
+
 **Grade: B-**
 
 ---
@@ -70,6 +82,12 @@ The 2026 base car flips the orange-to-black ratio. Standard McLaren runs papaya 
   <div style="flex: 1; min-width: 280px; max-width: 600px;">
     <img src="/images/posts/monaco-special-liveries/HJtqJGNWYAIoONY.jpg" alt="Charles Leclerc Ferrari F1 driver standing in his special Monaco Grand Prix 2026 home race suit, a white base with red vertical stripes inspired by the Monaco flag with the HP title sponsor logo on the chest opposite the Ferrari prancing horse crest, his race number 16 on the leg, and a matching white cap with red Ferrari logo, photographed in front of an ocean and sky backdrop that evokes the Mediterranean coastline of his home principality" style="width: 100%; border-radius: 10px;" />
   </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/ScuderiaFerrari/status/2061359514968826254"></a>
+  </blockquote>
 </div>
 
 Ferrari revealed a special Monaco Grand Prix race suit for Charles Leclerc ahead of his home race weekend, and this one earned the A- treatment for us. The suit flips the standard Ferrari race suit color story. White is the dominant color instead of Ferrari's traditional red, with red accents running from the collar through the sleeves and down both legs of the suit. The design language is a direct lift from the Monaco flag, the white-and-red horizontal split that the principality carries on every government building, every flagpole, and every postcard from the Cote d'Azur. The HP title sponsor logo stays on the chest opposite the Ferrari prancing horse crest, the race number 16 sits on the leg, and a matching all-white cap with the red Ferrari roundel completes the look. The ocean and sky studio backdrop is the smartest framing choice on the entire reveal, locking Leclerc's Monaco identity into the visual story before he even pulls onto the circuit.
