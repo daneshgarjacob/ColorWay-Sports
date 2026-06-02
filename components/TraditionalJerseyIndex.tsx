@@ -33,11 +33,10 @@ const rounds: RoundStat[] = [
   },
   {
     label: "NBA Finals",
-    traditional: 3,
+    traditional: 1,
     total: 4,
     complete: false,
     slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
-    note: "Knicks in their traditional Association whites",
   },
 ];
 
