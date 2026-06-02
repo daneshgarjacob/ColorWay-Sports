@@ -1,47 +1,94 @@
+#!/usr/bin/env node
+
 import sharp from "sharp";
-import { readFileSync } from "fs";
-import { join } from "path";
+import { readFile, writeFile } from "fs/promises";
+import { resolve, dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const WC_LOGO = resolve(__dirname, "../public/logos/world-cup-2026.png");
+const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
+const OUTPUT = resolve(__dirname, "../public/images/posts/world-cup-2026-jersey-tracker/cover.png");
 
 const WIDTH = 1600;
 const HEIGHT = 900;
 
-const USA_BLUE = "#012169";
-const RED = "#C8102E";
-const MEX_GREEN = "#006847";
-const GOLD = "#D4A017";
-const ORANGE = "#FF5910";
+async function build() {
+  const bgSvg = `
+  <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#012169"/>
+        <stop offset="50%" stop-color="#C8102E"/>
+        <stop offset="100%" stop-color="#006847"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+        <stop offset="0%" stop-color="#D4A017" stop-opacity="0.25"/>
+        <stop offset="60%" stop-color="#D4A017" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#bg)"/>
+    <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#glow)"/>
+    <rect x="0" y="0" width="${WIDTH}" height="6" fill="#FF5910"/>
+    <rect x="0" y="${HEIGHT - 6}" width="${WIDTH}" height="6" fill="#FF5910"/>
+  </svg>`;
 
-const LOGO_HEIGHT = 360;
-const logoPath = join(process.cwd(), "public/logos/world-cup-2026.png");
-const logoBuf = readFileSync(logoPath);
-const logoResized = await sharp(logoBuf).resize(null, LOGO_HEIGHT, { fit: "contain" }).png().toBuffer();
-const logoMeta = await sharp(logoResized).metadata();
-const logoWidth = logoMeta.width;
+  const textSvg = `
+  <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .eyebrow { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #D4A017; letter-spacing: 10px; }
+      .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -2px; }
+      .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.85; letter-spacing: 4px; }
+    </style>
+    <text x="${WIDTH / 2}" y="155" text-anchor="middle" class="eyebrow" font-size="30">2026 FIFA WORLD CUP</text>
+    <text x="${WIDTH / 2}" y="700" text-anchor="middle" class="title" font-size="86">Jersey Tracker</text>
+    <text x="${WIDTH / 2}" y="780" text-anchor="middle" class="subtitle" font-size="24">EVERY MATCH GRADED</text>
+  </svg>`;
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="${USA_BLUE}"/>
-      <stop offset="50%" stop-color="${RED}"/>
-      <stop offset="100%" stop-color="${MEX_GREEN}"/>
-    </linearGradient>
-  </defs>
-  <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#bg)"/>
-  <rect x="0" y="0" width="${WIDTH}" height="6" fill="${ORANGE}"/>
-  <rect x="0" y="${HEIGHT - 6}" width="${WIDTH}" height="6" fill="${ORANGE}"/>
+  const logoBuf = await readFile(WC_LOGO);
+  const logoSized = await sharp(logoBuf)
+    .resize(380, 380, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .png()
+    .toBuffer();
+  const logoMeta = await sharp(logoSized).metadata();
 
-  <text x="${WIDTH / 2}" y="135" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="34" letter-spacing="12" fill="#ffffff" fill-opacity="0.95">2026 FIFA WORLD CUP</text>
+  const composed = await sharp(Buffer.from(bgSvg))
+    .composite([
+      {
+        input: logoSized,
+        left: Math.round((WIDTH - logoMeta.width) / 2),
+        top: 200,
+      },
+      { input: Buffer.from(textSvg), top: 0, left: 0 },
+    ])
+    .png()
+    .toBuffer();
 
-  <text x="${WIDTH / 2}" y="640" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="110" letter-spacing="-3" fill="#ffffff">Jersey Tracker</text>
+  const watermarkWidth = Math.max(240, Math.min(420, Math.round(WIDTH * 0.18)));
+  const watermark = await sharp(WATERMARK_PATH)
+    .resize(watermarkWidth, null, { fit: "inside" })
+    .png()
+    .toBuffer();
+  const wmMeta = await sharp(watermark).metadata();
 
-  <text x="${WIDTH / 2}" y="710" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" font-size="28" letter-spacing="6" fill="${GOLD}">EVERY MATCH GRADED</text>
+  const final = await sharp(composed)
+    .composite([
+      {
+        input: watermark,
+        left: WIDTH - wmMeta.width - 140,
+        top: HEIGHT - wmMeta.height - 50,
+      },
+    ])
+    .png()
+    .toBuffer();
 
-  <text x="${WIDTH / 2}" y="800" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="4" fill="#ffffff" fill-opacity="0.7">COLORWAY SPORTS</text>
-</svg>`;
+  await writeFile(OUTPUT, final);
+  console.log(`Wrote ${OUTPUT} (${WIDTH}x${HEIGHT})`);
+}
 
-const composite = await sharp(Buffer.from(svg))
-  .composite([{ input: logoResized, top: 175, left: Math.round((WIDTH - logoWidth) / 2) }])
-  .png({ compressionLevel: 9 })
-  .toFile(join(process.cwd(), "public/images/posts/world-cup-2026-jersey-tracker/cover.png"));
-
-console.log(`Wrote cover: public/images/posts/world-cup-2026-jersey-tracker/cover.png`);
+build().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
