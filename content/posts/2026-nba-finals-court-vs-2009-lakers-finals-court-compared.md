@@ -5,7 +5,7 @@ date: "2026-06-01"
 updatedDate: "2026-06-01"
 excerpt: "The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time since the 2009 Lakers vs Magic Finals. Four differences after 17 years: new trophy, flipped orientation, smaller center logo, new sideline NBA Finals logo."
 gradient: "linear-gradient(135deg, #552583 0%, #006BB6 50%, #C4CED4 100%)"
-coverImage: "/images/courts/nba/2009-lakers-final-court.jpg"
+coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -16,7 +16,7 @@ featuredOrder: 1
 
 <div style="margin: 0 0 1.5em;">
   <img src="/images/courts/nba/2009-lakers-final-court.jpg" alt="2009 NBA Finals court overhead diagram at Staples Center for the Los Angeles Lakers vs Orlando Magic with the Los Angeles Lakers primary logo painted big at center court with the Larry O'Brien Trophy painted small above it, the original The Finals cursive script wordmark painted in all four corners of the court, the NBA primary Jerry West silhouette logo painted on the sideline at the top of center court, Staples Center sponsor branding above and below center, LAKERS wordmark in white running vertically along both baselines, Lakers gold paint outside the three-point arc, and LAKERS.COM along the sideline" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals court · Lakers vs Magic · Staples Center · via /r/Lakers on Reddit</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals court · Lakers vs Magic · Staples Center · via /r/Lakers on Reddit and @GeneralChuck09</p>
 </div>
 
 <div style="margin: 0 0 2em;">
