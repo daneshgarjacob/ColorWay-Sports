@@ -19,7 +19,7 @@ featuredOrder: 1
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals back patch on the Spurs Icon Edition black jersey · via @spurs</p>
 </div>
 
-The San Antonio Spurs dropped the official first-look video of the 2026 NBA Finals back patch being hand-stitched onto the team's Icon Edition black jerseys hours before Game 1 against the New York Knicks at Madison Square Garden. The reveal video shows the new Finals patch sitting on the upper back yoke of Victor Wembanyama's Spurs jersey directly above the WEMBANYAMA nameplate, the tan leather-toned patch reading cleanly against the black sweater body. The patch design carries a slight refresh from prior Finals years and the hand-stitched craftsmanship details are exactly what you want to see on a Finals-grade jersey.
+The San Antonio Spurs dropped the official first-look video of the 2026 NBA Finals back patch being hand-stitched onto the team's Icon Edition black jerseys ahead of Game 1 against the New York Knicks at Frost Bank Center in San Antonio. The reveal video shows the new Finals patch sitting on the upper back yoke of Victor Wembanyama's Spurs jersey directly above the WEMBANYAMA nameplate, the tan leather-toned patch reading cleanly against the black sweater body. The patch design carries a slight refresh from prior Finals years and the hand-stitched craftsmanship details are exactly what you want to see on a Finals-grade jersey.
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2061901573836382389"></a></blockquote>
@@ -46,7 +46,7 @@ The close-up macro shot is where the 2026 patch refresh reads cleanest. The bask
 
 The patch-on-black call delivers one of the cleanest patch-and-jersey color pairings the NBA Finals back patch has ever carried. The tan leather-toned patch background pops against the dark Spurs Icon black sweater body for sharp broadcast read on every wide angle, and the red, white, and blue NBA logo tab adds a small color-block detail that breaks up the black-and-tan core palette without competing with the team's spurs identity on the chest.
 
-The Spurs are running the same Icon Edition black sweater for Stanley Cup Final-style stage-setting that they have worn at every home playoff game of the 2026 postseason — including Games 3 and 4 of the Finals against the Knicks at Frost Bank Center, per our [2026 NBA Finals Jersey Tracker](/stories/nba-finals-2026-jersey-tracker-knicks-spurs). The black-with-Finals-patch combination is genuinely one of the best-looking Finals back patch presentations of the modern back-patch era.
+The Spurs are running the same Icon Edition black sweater for Stanley Cup Final-style stage-setting that they have worn at every home playoff game of the 2026 postseason — including Game 1 of the Finals against the Knicks at Frost Bank Center, per our [2026 NBA Finals Jersey Tracker](/stories/nba-finals-2026-jersey-tracker-knicks-spurs). The black-with-Finals-patch combination is genuinely one of the best-looking Finals back patch presentations of the modern back-patch era.
 
 ## How the Back Patch Connects to the Broader 2026 NBA Finals Visual Identity
 
@@ -86,11 +86,11 @@ Victor Wembanyama is the 2024 NBA Rookie of the Year, the San Antonio Spurs fran
 
 **Which Spurs jersey is the back patch shown on?**
 
-The Spurs Icon Edition black sweater, the same uniform the team has worn at every home playoff game of the 2026 NBA Playoffs run including the 2026 NBA Finals home Games 3 and 4 at Frost Bank Center. The Icon Edition black jersey is the Spurs primary home identity for the 2025-26 NBA season, with the spurs primary mark on the chest, white block-letter nameplate on the back, and red-trim accents on the side panels.
+The Spurs Icon Edition black sweater, the same uniform the team has worn at every home playoff game of the 2026 NBA Playoffs run including the 2026 NBA Finals home Game 1 at Frost Bank Center. The Icon Edition black jersey is the Spurs primary home identity for the 2025-26 NBA season, with the spurs primary mark on the chest, white block-letter nameplate on the back, and red-trim accents on the side panels.
 
 **When is NBA Finals Game 1 between the Spurs and Knicks?**
 
-NBA Finals Game 1 between the San Antonio Spurs and the New York Knicks tipped Thursday May 29, 2026 at Madison Square Garden in New York. The Knicks held home court for Games 1 and 2 of the best-of-seven 2026 NBA Finals series, with Games 3 and 4 played at Frost Bank Center in San Antonio. The series is the second NBA Finals meeting between the Knicks and Spurs after the 1999 Finals 27 years ago which San Antonio won 4-1 for the franchise's first NBA championship.
+NBA Finals Game 1 between the San Antonio Spurs and the New York Knicks tipped Wednesday June 3, 2026 at Frost Bank Center in San Antonio. The Spurs hold home court advantage for the 2026 NBA Finals after winning the Western Conference Finals against the Oklahoma City Thunder in seven games, with Games 1 and 2 at Frost Bank Center and Games 3 and 4 at Madison Square Garden in New York under the 2-2-1-1-1 home-away format. The series is the second NBA Finals meeting between the Knicks and Spurs after the 1999 Finals 27 years ago which San Antonio won 4-1 for the franchise's first NBA championship.
 
 **What is the difference between an NBA Finals back patch and a regular-season jersey patch?**
 

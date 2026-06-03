@@ -30,7 +30,7 @@ The 2026 NBA Finals patch on the Knicks jersey sits at the top center of the bac
 
 The rest of the jersey is the standard Knicks Icon Edition build. The NEW YORK wordmark in white runs across the front with the player number directly below it in Knicks orange. The orange and white side panels and shoulder piping carry through the entire jersey. The Nike swoosh sits on the right shoulder. The back has the player name arched across the top above the large number, the same general Knicks layout that has been the team's identity since the 2017-18 Nike rollout.
 
-The Knicks are the first team confirmed in the 2026 NBA Finals after sweeping the Cleveland Cavaliers 4-0 in the Eastern Conference Finals at Rocket Mortgage Fieldhouse, and these official Fanatics-produced 2026 NBA Finals jerseys are the on-court look the team will run in the Finals opener at Madison Square Garden. The Western Conference Finals between the Oklahoma City Thunder and the San Antonio Spurs determines the Knicks' Finals opponent.
+The Knicks are the first team confirmed in the 2026 NBA Finals after sweeping the Cleveland Cavaliers 4-0 in the Eastern Conference Finals at Rocket Mortgage Fieldhouse, and these official Fanatics-produced 2026 NBA Finals jerseys are the on-court look the team will run in the Finals opener on the road at Frost Bank Center in San Antonio. The Western Conference Finals between the Oklahoma City Thunder and the San Antonio Spurs determines the Knicks' Finals opponent and home court for the series.
 
 <div style="display: flex; justify-content: center; margin: 2em 0 1em;">
   <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dknicks%2Bnba%2Bfinals%2Bjersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Knicks 2026 NBA Finals Jersey on Fanatics</a>
@@ -48,7 +48,7 @@ The Knicks 2026 NBA Finals jersey is the Icon Edition blue jersey, the team's si
 
 **Where can I buy the Knicks 2026 NBA Finals jersey?**
 
-The Knicks 2026 NBA Finals jersey is available now at Fanatics, the league's official Finals jersey retail partner. Jalen Brunson, Karl-Anthony Towns, OG Anunoby, Mikal Bridges, and the rest of the Knicks roster all have their numbers available for ordering ahead of the Finals opener at Madison Square Garden.
+The Knicks 2026 NBA Finals jersey is available now at Fanatics, the league's official Finals jersey retail partner. Jalen Brunson, Karl-Anthony Towns, OG Anunoby, Mikal Bridges, and the rest of the Knicks roster all have their numbers available for ordering ahead of the Finals opener on the road at Frost Bank Center in San Antonio.
 
 **What is on the back of the Knicks 2026 NBA Finals jersey?**
 
@@ -60,7 +60,7 @@ The New York Knicks last reached the NBA Finals in 1999, when they made the run 
 
 **Who will the Knicks play in the 2026 NBA Finals?**
 
-The New York Knicks face the winner of the 2026 NBA Western Conference Finals between the Oklahoma City Thunder and the San Antonio Spurs in the 2026 NBA Finals. The Finals opener is scheduled for Madison Square Garden in New York as the Knicks hold home court advantage for the series.
+The New York Knicks face the winner of the 2026 NBA Western Conference Finals between the Oklahoma City Thunder and the San Antonio Spurs in the 2026 NBA Finals. Home court advantage for the series is set once the Western Conference Champion is decided. If the Spurs advance from the West they hold home court advantage and Game 1 is at Frost Bank Center in San Antonio. If the Thunder advance from the West the Knicks hold home court advantage and Game 1 is at Madison Square Garden in New York.
 
 **Where can I find more 2026 NBA Finals coverage?**
 
