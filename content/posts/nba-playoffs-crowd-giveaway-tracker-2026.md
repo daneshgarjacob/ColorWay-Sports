@@ -5,16 +5,17 @@ date: "2026-04-23"
 updatedDate: "2026-06-03"
 excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center for the home crowd opening tip of the NBA Finals against the Knicks paired with the Icon Edition black home jersey (A-). Sunday WCF Game 7: Thunder blue out t-shirts at Paycom Center for the winner-take-all decider against the Spurs (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
-coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
-coverImagePosition: "center 50%"
+coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/frost-bank-center-nba-finals-cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns", "oklahoma-city-thunder"]
 featuredOrder: 1
 ---
 
-<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg" alt="Cleveland Cavaliers white Cavs Playoffs Let Em Know t-shirts laid out on every seat at Rocket Mortgage Fieldhouse for Game 5 against the Toronto Raptors in the 2026 NBA Playoffs Round 1" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cleveland Cavaliers / NBA</p>
+<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/frost-bank-center-nba-finals-cover.jpg" alt="Frost Bank Center in San Antonio dressed and ready for the 2026 NBA Finals Game 1 between the Spurs and the Knicks, the multi-color Fiesta pattern seating bowl in pink, teal, orange, and yellow loaded around the new NBA Finals court with three Larry O'Brien Trophy graphics and the Finals cursive script wordmark on the videoboard above center court, the Spurs primary mark painted on the floor at center, and Coinbase sponsor branding on the courtside" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Frost Bank Center dressed for NBA Finals Game 1 · via @NBA</p>
 
 Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Trail Blazers also went towels only and skipped a t-shirt giveaway altogether. The Wolves and Raptors both committed to black on Thursday. And the Magic announced black for Saturday morning against the Pistons.
 
