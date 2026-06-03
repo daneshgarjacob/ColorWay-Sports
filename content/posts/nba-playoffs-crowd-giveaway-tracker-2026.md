@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Playoffs Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
+title: "2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-05-30"
-excerpt: "Every 2026 NBA Playoffs crowd t-shirt, towel, and rally giveaway graded. Sunday WCF Game 7: Thunder blue out t-shirts at Paycom Center for the winner-take-all decider against the Spurs with an NBA Finals berth on the line (A-). Tuesday WCF Game 5: Thunder white out t-shirts at Paycom Center power the home Association white debut win (A+). Round-by-round tracking of every arena giveaway from Round 1 through the Conference Finals."
+updatedDate: "2026-06-03"
+excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center for the home crowd opening tip of the NBA Finals against the Knicks paired with the Icon Edition black home jersey (A-). Sunday WCF Game 7: Thunder blue out t-shirts at Paycom Center for the winner-take-all decider against the Spurs (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/cavs-white-shirts-cover.jpg"
 coverImagePosition: "center 50%"
@@ -20,7 +20,19 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
-This is the running tracker for every 2026 NBA Playoffs crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+This is the running tracker for every 2026 NBA Playoffs and NBA Finals crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Wednesday NBA Finals Game 1 Giveaway
+
+The Spurs host the Knicks for NBA Finals Game 1 Wednesday at Frost Bank Center, the home crowd loaded with Fiesta-color t-shirts at every seat for the franchise's first NBA Finals home game since the 2014 championship run. The multi-color pink, teal, orange, and yellow Fiesta crowd identity is the same takeover San Antonio ran for Western Conference Finals Game 3 against the Thunder, pulled back out for the opening tip of the NBA Finals at home against New York with the Spurs in the Icon Edition black home sweater.
+
+### San Antonio Spurs · Fiesta T-Shirts · NBA Finals Game 1 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2062217880326783317"></a></blockquote>
+</div>
+
+The Spurs run the Fiesta-color t-shirt takeover at every Frost Bank Center seat for NBA Finals Game 1 against the Knicks, the same pink, teal, orange, and yellow Fiesta crowd identity San Antonio leaned on for the Western Conference Finals Game 3 home night against the Thunder graded A-. The multi-color Fiesta shirt-and-seat takeover is the one crowd identity in the league nobody else can replicate, layering the Spurs' iconic alt-jersey color story across every camera cut and giving the broadcast the Frost Bank Center signature look the team has built its entire 2026 home playoff crowd identity around. The Spurs are pairing the Fiesta crowd with the Icon Edition black home jersey rather than the Association Edition white, the same black sweater the team has worn through every home playoff game of the 2026 postseason. We would have liked to see the Spurs in their Association Edition white for the cleanest Fiesta-on-white home Finals frame against the Knicks Icon Edition blue road jersey, but the Fiesta-on-black home crowd combination still lands as one of the strongest Game 1 visual takeovers any NBA Finals home opener has put up in years. A-. The Fiesta T-shirt takeover is the Spurs' identity move and pulling it for the NBA Finals opener locks in the multi-color broadcast frame San Antonio has built its 2026 playoff crowd identity around — points docked only because the all-black home jersey shifts the color story slightly darker than the same Fiesta shirts would read against the Association Edition white.
 
 ## Sunday Western Conference Finals Game 7 Giveaway
 
