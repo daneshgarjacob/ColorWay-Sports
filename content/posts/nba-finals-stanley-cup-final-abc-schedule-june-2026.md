@@ -16,7 +16,11 @@ featuredOrder: 1
 
 <div style="margin: 0 0 1.5em;">
   <img src="/images/posts/nba-nhl-finals-abc-june-2026/abc-nba-finals-stanley-cup-final-june-2026-schedule.jpg" alt="ABC June 2026 calendar promo graphic with the headline NBA AND NHL CHAMPIONS TO BE CROWNED ON ABC IN JUNE and subhead Up to 14 primetime games over 18 days, the full June 2026 calendar layout marking every 2026 NBA Finals game between the New York Knicks and San Antonio Spurs in blue NBA Finals trophy logo boxes and every 2026 NHL Stanley Cup Final game between the Vegas Golden Knights and Carolina Hurricanes in grey Stanley Cup logo boxes with team logos for both finals matchups stacked on the right side of the graphic above the ABC network logo" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">ABC June 2026 NBA Finals and Stanley Cup Final schedule · via ABC</p>
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">ABC June 2026 NBA Finals and Stanley Cup Final schedule · via @ESPNPR</p>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ESPNPR/status/2061892324565590049"></a></blockquote>
 </div>
 
 ABC has the 2026 NBA Finals between the New York Knicks and the San Antonio Spurs AND the 2026 NHL Stanley Cup Final between the Vegas Golden Knights and the Carolina Hurricanes. Up to 14 primetime championship games over 18 days in June. Both leagues' Finals on one channel. The simplest answer to "what channel are the games on" for either Final this June is: ABC. Cable. Over-the-air broadcast. Hulu + Live TV. YouTube TV. Sling Orange. DirecTV Stream. Or ESPN+ companion streaming where applicable. Full game-by-game schedule with every confirmed date, every tipoff time, and every channel below.
