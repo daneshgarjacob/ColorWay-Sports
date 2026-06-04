@@ -2,8 +2,8 @@
 title: "2026 NBA Finals Jersey Tracker: Every Knicks vs Spurs Matchup Graded"
 category: "NBA"
 date: "2026-06-01"
-updatedDate: "2026-06-03"
-excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Games 1 through 4 confirmed. Knicks in their classic Association whites for 3 of the first 4 games. Games 1 and 2 at Frost Bank Center in San Antonio with the Spurs at home, Games 3 and 4 at Madison Square Garden in New York with the Knicks at home. Series average 9.3 out of 10."
+updatedDate: "2026-06-04"
+excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Knicks win Game 1 in their classic Association whites on the road at Frost Bank Center, lead the series 1-0. Games 1 through 4 confirmed. Knicks in their classic Association whites for 3 of the first 4 games. Games 1 and 2 at Frost Bank Center in San Antonio with the Spurs at home, Games 3 and 4 at Madison Square Garden in New York with the Knicks at home. Series average 9.3 out of 10."
 gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -86,6 +86,11 @@ Below, every matchup graded game by game in chronological order. Games 1 and 2 l
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(255, 200, 0, 0.1); border-radius: 12px; border: 1px solid rgba(255, 200, 0, 0.2);">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #ffc800;">Score: 7 / 10</p>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1em 1.5em; background: linear-gradient(135deg, #006BB6 0%, #003c6e 100%); border-radius: 12px; border: 1px solid rgba(0, 107, 182, 0.4);">
+  <p style="font-size: 0.7em; font-weight: 800; margin: 0 0 0.4em; text-align: center; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 2.5px;">Result · June 3, 2026</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #fff; line-height: 1.35;">New York Knicks win Game 1 · Knicks lead series 1-0</p>
 </div>
 
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
