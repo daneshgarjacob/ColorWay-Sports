@@ -1,12 +1,12 @@
 ---
-title: "Houston Rockets 2026-27 Rebrand Revealed and Graded: New Global Logo, Updated Primary R Icon, Dunkstronaut Returns, and Three New Jerseys in White (B+), Red (B+), and Black (B+) with Championship Yellow Back for the First Time in 30 Years"
+title: "Kevin Durant Debuts the New Houston Rockets Red Jersey: Full 2026-27 Rebrand Revealed and Graded with New Nose Cone Global Logo, Updated Primary R Icon, Dunkstronaut Returns, Three New Uniforms in White (B+), Red (B+), and Black (B+), and Mustard Championship Yellow Back for the First Time in 30 Years"
 category: "NBA"
 date: "2026-06-04"
 updatedDate: "2026-06-04"
-excerpt: "Houston Rockets dropped the full 2026-27 rebrand today. New Nose Cone global logo inspired by space mission patches, updated primary R icon with Championship Yellow hints, the Dunkstronaut secondary mark now a permanent piece of the identity, refreshed wordmarks with the signature lowercase t back, and three new uniforms in Association white, Icon red, and Statement black. We grade every piece. The three new jerseys all land at B+ for bringing the ketchup-and-mustard color story back to the modern Rockets silhouette and Kevin Durant has the red Icon Edition ready for his Rockets debut. The badge-style global logo and the speed pattern pinstripes across all three jerseys drag the overall rebrand to a B."
+excerpt: "Kevin Durant just debuted the new Houston Rockets Icon Edition red jersey number 7 as the marquee shot of the team's full 2026-27 rebrand reveal today. New Nose Cone global logo inspired by space mission patches, updated primary R icon with Championship Yellow hints, the Dunkstronaut secondary mark now a permanent piece of the identity, refreshed wordmarks with the signature lowercase t back, and three new uniforms in Association white, Icon red, and Statement black. We grade every piece. The three new jerseys all land at B+ for bringing the ketchup-and-mustard color story back to the modern Rockets silhouette for the first time in 30 years. The badge-style Nose Cone global logo and the Speed Pattern pinstripes across all three jerseys drag the overall rebrand to a B."
 gradient: "linear-gradient(135deg, #CE0E2D 0%, #FFCC00 50%, #000000 100%)"
-coverImage: "/images/posts/houston-rockets-2026-rebrand-graded/cover.jpg"
-coverImagePosition: "center top"
+coverImage: "/images/posts/houston-rockets-2026-rebrand-graded/red-jersey-hanger.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.svg"
 league: "nba"
@@ -26,7 +26,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/houston-rockets-2026-rebrand-graded/cover.jpg" alt="Kevin Durant wearing the new 2026-27 Houston Rockets Icon Edition red jersey with white ROCKETS wordmark and Championship Yellow trim against a Houston Rockets primary R icon backdrop" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/houston-rockets-2026-rebrand-graded/red-jersey-hanger.jpg" alt="Houston Rockets 2026-27 new Icon Edition red jersey number 26 product shot on hanger with white ROCKETS wordmark, Championship Yellow drop trim, Roll Stripes side stripe, Memorial Hermann sponsor patch, and Clutch City Forever jock tag visible" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 The Houston Rockets dropped the full 2026-27 rebrand today, June 4, 2026, after teasing the "ketchup and mustard are back on the menu" reveal last week. The full identity package is here. New global badge logo, updated primary R icon, the Dunkstronaut secondary mark now permanent, refreshed wordmarks, a four-color palette led by Rockets Red and Championship Yellow, and three brand new jerseys in Association white, Icon red, and Statement black. The whole rebrand hangs on a space mission narrative tying the franchise back to Houston's NASA Space City identity, and the ketchup-and-mustard color story from the 1994 and 1995 championship runs is officially back on the Rockets uniform set for the first time in 30 years. We graded every piece below.
@@ -150,10 +150,6 @@ The jock tag reads **Clutch City Forever** in Championship Yellow text on the in
 
 <div style="margin: 1.5em 0;">
   <img src="/images/posts/houston-rockets-2026-rebrand-graded/red-dunkstronaut-detail.jpg" alt="Houston Rockets 2026-27 Icon Edition red jersey Dunkstronaut detail showing the dunking astronaut secondary mark as a fan favorite returning to the Rockets identity package" style="width: 100%; display: block; border-radius: 12px;" />
-</div>
-
-<div style="margin: 1.5em 0;">
-  <img src="/images/posts/houston-rockets-2026-rebrand-graded/red-jersey-hanger.jpg" alt="Houston Rockets 2026-27 Icon Edition red jersey product shot on hanger showing the ROCKETS wordmark, number 26, Championship Yellow trim, Roll Stripes, and Memorial Hermann patch" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 B+. The strongest of the three new jerseys for our taste, with the Speed Pattern pinstripes faded enough to recede into the red base, the Memorial Hermann patch sitting cleanly on the red, and the Nose Cone global badge finding the right home on the upper back. The original ketchup-and-mustard color story reads here the way it has not on a primary Rockets jersey in 30 years, and KD in the red 7 will be the photo that anchors the Rockets brand in every preseason editorial graphic this fall.
