@@ -5,7 +5,7 @@ const trackers = [
     slug: "nba-playoffs-2026-conference-finals-jersey-tracker",
     kicker: "NBA · Playoffs · Conference Finals",
     title: "2026 NBA Conference Finals Jersey Tracker",
-    dek: "Spurs lead Thunder 1-0 after Game 1 in OKC. Knicks-Cavs opened with a perfect 10. Every matchup graded.",
+    dek: "Spurs lead Thunder 1-0. Knicks lead Cavaliers 1-0 after taking Game 1 at the Garden. Every matchup graded.",
     status: "Live · Conference Finals",
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png",
