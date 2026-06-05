@@ -2,8 +2,8 @@
 title: "2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-06-03"
-excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center for the home crowd opening tip of the NBA Finals against the Knicks paired with the Icon Edition black home jersey (A-). Sunday WCF Game 7: Thunder blue out t-shirts at Paycom Center for the winner-take-all decider against the Spurs (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
+updatedDate: "2026-06-05"
+excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Friday NBA Finals Game 2: Spurs black towels at Frost Bank Center against the Knicks paired with the Association Edition white home jersey (B-). Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center paired with the Icon Edition black home jersey (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/frost-bank-center-nba-finals-cover.jpg"
 coverImagePosition: "center center"
@@ -22,6 +22,18 @@ Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff night
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs and NBA Finals crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Friday NBA Finals Game 2 Giveaway
+
+The Spurs host the Knicks for NBA Finals Game 2 Friday at Frost Bank Center, the home crowd loaded with black towels at every seat for the second of the franchise's two NBA Finals home games before the series shifts to Madison Square Garden. The towel-only format is a clear step back from the Fiesta T-shirt takeover San Antonio ran for Game 1 graded A-, paired with the Association Edition white home jersey for the Friday night Game 2 broadcast.
+
+### San Antonio Spurs · Black Towels · NBA Finals Game 2 · Grade: B-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2063019715161698412"></a></blockquote>
+</div>
+
+The Spurs hand out black towels at every Frost Bank Center seat for NBA Finals Game 2 against the Knicks, the towel-only format a step back from the Fiesta T-shirt takeover San Antonio ran for Game 1 graded A-. Black towels paired with the Association Edition white home jersey deliver a clean black-on-white broadcast contrast and the NBA Finals primetime cameras will read the towel waves cleanly against the white floor and white jerseys, but towels never reach the broadcast ceiling of a t-shirt takeover and the Spurs already proved at Game 1 that they have the Fiesta crowd identity nobody else in the league can replicate. Reverting to towels for the second home night of a two-game NBA Finals home stand before the series shifts to MSG reads as a giveaway downgrade against the team's own ceiling, especially when the Fiesta T-shirt template is right there. The same critique we applied to the Spurs rally towels at WCF Game 4 graded C carries forward to Game 2 of the Finals, with the grade lifted to B- because the Finals primetime broadcast frame and the black-on-white color contrast against the white home jerseys reads cleaner than the towel-on-black-jersey contrast we saw earlier in the playoffs. B-. The black towels do the job for a Finals home night and the color contrast against the white jerseys works, but we would have loved a second straight Fiesta T-shirt takeover to lock in the multi-color Spurs crowd identity across the entire two-game home stand on the biggest stage in basketball.
 
 ## Wednesday NBA Finals Game 1 Giveaway
 

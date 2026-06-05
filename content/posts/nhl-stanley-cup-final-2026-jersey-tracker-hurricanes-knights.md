@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights Matchup Graded"
 category: "NHL"
 date: "2026-06-01"
-updatedDate: "2026-06-03"
-excerpt: "2026 NHL Stanley Cup Final jersey tracker. Vegas Golden Knights steal Game 1 in Raleigh 5-4, lead the series 1-0 over the Carolina Hurricanes. Tomas Hertl game-winner with 3:24 left, Nikolaj Ehlers two for Carolina. Hurricanes black home alternate at Lenovo Center, Knights white road. Every matchup graded. Series average 7.5 out of 10."
+updatedDate: "2026-06-05"
+excerpt: "2026 NHL Stanley Cup Final jersey tracker. Carolina Hurricanes even the series 1-1 with a 4-3 overtime win in Game 2 in Raleigh on a Seth Jarvis power-play one-timer 3:56 into OT, coming back from a 2-0 third-period hole over the Vegas Golden Knights. Hurricanes black home alternate at Lenovo Center, Knights white road. Every matchup graded. Series average 7.5 out of 10."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -127,7 +127,7 @@ Game 3 shifts the series to T-Mobile Arena in Las Vegas with the Hurricanes in w
 
 <div style="background: linear-gradient(135deg, #1a0505 0%, #0a0202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 2 · Confirmed · Lenovo Center</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 2 · Final · Lenovo Center</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -150,7 +150,13 @@ Game 3 shifts the series to T-Mobile Arena in Las Vegas with the Hurricanes in w
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7 / 10</p>
 </div>
 
-Game 2 runs back the exact same sweater pairing as Game 1 at Lenovo Center with the Knights in white on the road and the Hurricanes in the black home alternate. Same pairing, same grade per the same-sweater-same-score rule we have applied across both the NBA and NHL Conference Finals trackers all postseason. The Hurricanes black home alternate continues to anchor the team identity at Lenovo Center for the entire playoff run, but the choice to keep the iconic Hurricanes red home sweater off the ice for a second straight Cup Final game in Raleigh is the storyline dragging the broadcast contrast at Lenovo Center down from the cleanest possible Finals look. Seven out of 10. Series shifts to Las Vegas after Game 2.
+Game 2 runs back the exact same sweater pairing as Game 1 at Lenovo Center with the Knights in white on the road and the Hurricanes in the black home alternate. Same pairing, same grade per the same-sweater-same-score rule we have applied across both the NBA and NHL Conference Finals trackers all postseason. The Hurricanes black home alternate continues to anchor the team identity at Lenovo Center for the entire playoff run, but the choice to keep the iconic Hurricanes red home sweater off the ice for a second straight Cup Final game in Raleigh is the storyline dragging the broadcast contrast at Lenovo Center down from the cleanest possible Finals look. Seven out of 10. The Hurricanes answered the Game 1 result inside the black alternate with a 4-3 overtime comeback win on a Seth Jarvis power-play one-timer 3:56 into OT, evening the series 1-1 with the series shifting to T-Mobile Arena for Game 3.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #1a0505 0%, #0a0202 100%); border-radius: 12px; border: 1px solid rgba(204,0,0,0.4); text-align: center;">
+  <p style="margin: 0 0 0.4em; font-size: 0.7em; font-weight: 800; color: rgba(255,255,255,0.6); text-transform: uppercase; letter-spacing: 2.5px;">Result</p>
+  <p style="margin: 0; font-size: 1.15em; font-weight: 900; color: #ff5b6e;">Carolina Hurricanes 4, Vegas Golden Knights 3 (OT)</p>
+  <p style="margin: 0.4em 0 0; font-size: 0.78em; color: rgba(255,255,255,0.65); font-weight: 500;">Series tied 1-1 · Seth Jarvis OT GWG (PP) · June 4, 2026</p>
+</div>
 
 <span id="game-1"></span>
 
@@ -191,9 +197,9 @@ Game 1 of the 2026 Stanley Cup Final opened at Lenovo Center in Raleigh Tuesday 
 
 Hurricanes black on home ice is the same look Carolina ran through every home game of the entire 2026 playoff run, the alternate-as-default identity the team committed to from Round 1 against the Devils all the way through the Eastern Conference Final closeout over the Canadiens at Lenovo Center on May 30. Knights white road sweater is the cleanest possible visitor look Vegas can put on the ice and the road whites came out of the Game 1 swing with the series-opening win. The black-versus-white contrast at Lenovo Center is sharp, but the absence of the primary Hurricanes red home sweater on the Cup Final stage is the storyline that holds the matchup back from a textbook Finals look. Carolina has not worn their primary red home sweater in any game of the 2026 playoffs, and the iconic franchise red identity is missing from the biggest night in Raleigh since 2006. Seven out of 10. The black home alternate is a strong identity in a vacuum, but the Final deserves the red home — and Game 1 going to the Vegas whites makes the Carolina red call for Game 2 look even more like the right move if Carolina wants to break the trend before the series shifts west.
 
-## The Series Take After Game 1
+## The Series Take After Game 2
 
-The Vegas Golden Knights have stolen Game 1 in Raleigh inside the white road sweater, 5-4 over the Carolina Hurricanes with Tomas Hertl burying the game-winner with 3:24 left in regulation. Knights lead the series 1-0 heading into Game 2 Thursday at Lenovo Center on ABC. The road whites delivered the series-opening win and the broadcast frame at Lenovo Center now has the Hurricanes black home alternate facing the storyline question of whether to break the all-black playoff trend with the iconic primary red home sweater for Game 2 with the Final season on the line at home.
+The Carolina Hurricanes have answered Game 1 with a Game 2 stunner inside the black home alternate, evening the 2026 Stanley Cup Final 1-1 with a 4-3 overtime comeback win over the Vegas Golden Knights at Lenovo Center on Thursday June 4. Carolina trailed 2-0 entering the third period, scored three goals in 5:05 to take a 3-2 lead, gave up the equalizer to Knights captain Mark Stone with 1:21 left in regulation with the Vegas net empty, then won it in OT on a Seth Jarvis power-play one-timer 3:56 into overtime off a Shayne Gostisbehere feed. The black home alternate held its ground on the ice through two games at Lenovo Center, and the Hurricanes have stolen back home ice with the series shifting to T-Mobile Arena for Game 3 Saturday. The broadcast jersey story still has the iconic Hurricanes red home sweater missing from the franchise's first Cup Final since 2006 and the team's playoff black-as-default identity now follows the series to Las Vegas with the Hurricanes road whites carrying the Carolina red identity onto the ice for the first time in the Final.
 
 ## The Full Series Take Across All Four Confirmed Games
 
