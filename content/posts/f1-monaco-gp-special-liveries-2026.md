@@ -1,9 +1,9 @@
 ---
-title: "F1 Monaco Grand Prix 2026: Every Special Livery Tracker and Ranking — Aston Martin's Maaden Iridescent Color-Changing Livery Is the Reveal of the Weekend"
+title: "F1 Monaco Grand Prix 2026: Every Special Livery Tracker and Ranking — Aston Martin's Maaden Iridescent and Audi's Tazio Nuvolari Yellow Tribute Lead the Reveal Weekend"
 category: "F1"
 date: "2026-06-01"
-updatedDate: "2026-06-03"
-excerpt: "Every 2026 F1 Monaco GP special livery and race suit ranked. Aston Martin drops a stunning Maaden iridescent green-to-gold color-changing livery on the AMR25 that lands at the top of the leaderboard. McLaren takes a retro 1976 orange-and-black throwback for the team's 1000th Grand Prix. Charles Leclerc unveils a white-and-red Monaco flag race suit for his home race."
+updatedDate: "2026-06-04"
+excerpt: "Every 2026 F1 Monaco GP special livery and race suit ranked. Aston Martin drops a stunning Maaden iridescent green-to-gold color-changing livery on the AMR25 at the top of the leaderboard. Audi follows with a Tazio Nuvolari tribute swapping the standard white Audi rings for bright Nuvolari yellow on the titanium-silver car plus matching black-and-yellow race suits for Hülkenberg and Bortoleto. McLaren takes a retro 1976 orange-and-black throwback for the team's 1000th Grand Prix. Charles Leclerc unveils a white-and-red Monaco flag race suit for his home race."
 gradient: "linear-gradient(135deg, #FF8000 0%, #000000 50%, #BF1B26 100%)"
 logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/monaco-special-liveries/mclaren-monaco-gp-hero.avif"
@@ -14,9 +14,9 @@ teams: []
 homepageOrder: 8
 ---
 
-The 2026 F1 Monaco Grand Prix kicks off this week at the Circuit de Monaco, and the special-livery cycle is starting to land. Aston Martin just dropped the reveal of the weekend with a stunning Maaden iridescent color-changing green-to-gold livery on the AMR25 that puts the team directly at the top of the Monaco rankings. McLaren went earlier in the week with a retro orange-and-black throwback to mark the team's 1000th Formula 1 Grand Prix start. Charles Leclerc unveiled a white-and-red race suit inspired by the Monaco flag for the home race that means more to him than any other on the calendar. Ferrari has not confirmed any car livery changes, and Lewis Hamilton has not been shown wearing the same suit as Leclerc, so the special-suit reveal so far is a Leclerc-only one. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Miami weekend earlier this season, see our [F1 Miami GP special liveries breakdown](/stories/f1-miami-gp-special-liveries-2026), and for Suzuka see our [F1 Japanese GP special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
+The 2026 F1 Monaco Grand Prix kicks off this week at the Circuit de Monaco, and the special-livery cycle is starting to land. Aston Martin sits at the top of the rankings with the Maaden iridescent color-changing green-to-gold livery on the AMR25. Audi F1 just joined the leaderboard with a Tazio Nuvolari tribute livery that swaps every standard white Audi ring on the titanium-silver car for bright Nuvolari yellow, plus matching black-and-yellow race suits for Nico Hülkenberg and Gabriel Bortoleto honoring the legendary 1930s Italian Auto Union driver known as The Flying Mantuan. McLaren went earlier in the week with a retro orange-and-black throwback to mark the team's 1000th Formula 1 Grand Prix start. Charles Leclerc unveiled a white-and-red race suit inspired by the Monaco flag for the home race that means more to him than any other on the calendar. Ferrari has not confirmed any car livery changes, and Lewis Hamilton has not been shown wearing the same suit as Leclerc, so the special-suit reveal so far is a Leclerc-only one. We are tracking every reveal here and grading each one as it lands. For the sister tracker on the Miami weekend earlier this season, see our [F1 Miami GP special liveries breakdown](/stories/f1-miami-gp-special-liveries-2026), and for Suzuka see our [F1 Japanese GP special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
-*Updated Wednesday June 3 with the Aston Martin Maaden iridescent Monaco GP livery, the highest-grade reveal of the round so far. Previously updated Sunday June 1 with the McLaren 1000th GP livery and the Leclerc Monaco race suit. We will keep updating this post through the Monaco GP race weekend as new reveals drop.*
+*Updated Thursday June 4 with the Audi F1 Tazio Nuvolari tribute Monaco GP livery, the latest reveal of the round. Previously updated Wednesday June 3 with the Aston Martin Maaden iridescent Monaco GP livery. We will keep updating this post through the Monaco GP race weekend as new reveals drop.*
 
 ## 1. Aston Martin · Maaden Iridescent Color-Changing Monaco GP Livery
 
@@ -65,9 +65,44 @@ The standard 2026 Aston Martin livery is the consistent Aston Martin British Rac
 
 ---
 
+## 2. Audi F1 · Tazio Nuvolari Yellow Tribute Monaco GP Livery
 
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 280px; max-width: 750px;">
+    <img src="/images/posts/monaco-special-liveries/HJ_OXgOWkAAUfP9.jpg" alt="Audi F1 2026 Monaco Grand Prix special livery Tazio Nuvolari yellow tribute rear three-quarter view showing the bright yellow Audi rings on the chassis, yellow wheel arch trim, and yellow Audi rings on the rear wing endplates" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
 
-## 2. McLaren · 1000th Grand Prix Retro Livery
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/audif1_/status/2062594200470765893"></a>
+  </blockquote>
+</div>
+
+Audi F1 dropped the second-best Monaco GP reveal of the weekend with a Tazio Nuvolari tribute livery that swaps every standard white Audi four-ring lock-up on the titanium-silver carbon body for the same shape rendered in bright Nuvolari yellow, adds yellow trim on the wheel arches and the rear wing endplates, and rolls out matching black-and-yellow Nuvolari tribute race suits for Nico Hülkenberg and Gabriel Bortoleto. The reveal caption from the official @audif1_ account makes the design narrative explicit: "Some nicknames become legendary. Tazio Nuvolari, aka The Flying Mantuan, is part of our legacy, and this yellow is our tribute." Tazio Nuvolari was the most successful Italian racing driver of the pre-war 1930s era and raced for Auto Union, the four-brand consortium that became modern-day Audi. His racing yellow on the Auto Union Silver Arrows is the historical reference the team is leaning into for Monaco.
+
+The single design decision (white rings rendered in Nuvolari yellow) is restrained enough not to overwhelm the rest of the regular Revolut R wordmark + sponsor identity package but bold enough to read as genuinely special for the weekend. The race suits carry the same color story through the driver portraits in a paired black-and-yellow set with the team's full sponsor package and the German and Brazilian flag badges below the chest mark. The Monaco GP is the right moment for the kind of brand-history swing Audi just took. We grade the Nuvolari tribute at A- for the cleanest disciplined special-livery execution of the Monaco weekend so far, slightly below the Aston Martin Maaden iridescent for raw visual impact but the most well-considered single design call on the grid.
+
+### More Photos of the Audi Tazio Nuvolari Monaco GP Tribute
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/monaco-special-liveries/audi-special-livery-and-suits-for-monaco-v0-c67ev03w0b5h1.webp" alt="Audi F1 2026 Monaco Grand Prix Tazio Nuvolari tribute livery macro detail showing the bright Nuvolari yellow Audi four-ring lock-up on the titanium-silver carbon fiber body next to the Revolut R wordmark" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/monaco-special-liveries/audi-special-livery-and-suits-for-monaco-v0-zmkxn55w0b5h1.webp" alt="Audi F1 2026 Monaco Grand Prix car front three-quarter view showing the titanium-silver carbon body with the Revolut R wordmark on the nose as the base for the Tazio Nuvolari yellow tribute Monaco livery" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/monaco-special-liveries/HJ_OXgNXUAAK4Lb.jpg" alt="Audi F1 2026 Monaco Grand Prix overhead chassis view showing the standard sponsor identity placement and the Nuvolari tribute yellow accent details across the carbon body" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/monaco-special-liveries/HJ_OXgWWIAAjqb7.jpg" alt="Audi F1 drivers Nico Hülkenberg and Gabriel Bortoleto in matching 2026 Monaco GP Tazio Nuvolari tribute race suits with black base, bright yellow Audi four-ring lock-up on the chest, and yellow accent stripes down the sides" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/monaco-special-liveries/HJ_OXf_WUAARJJ_.jpg" alt="Closer head-and-shoulders portrait of Audi F1 drivers Nico Hülkenberg and Gabriel Bortoleto in the 2026 Monaco GP Tazio Nuvolari tribute black-and-yellow race suits showing the German and Brazilian flag badges below the yellow chest mark" style="width: 100%; border-radius: 10px;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via Audi F1</p>
+
+### Standard 2026 Audi vs the Monaco Nuvolari Tribute
+
+The standard 2026 Audi F1 livery is a titanium-silver carbon body with the Revolut R wordmark on the nose, four white Audi rings on the chassis and rear wing endplates, and the team's full sponsor identity package (Pirelli, Visit Qatar, Adobe, bp, Gillette, Castrol, Libertex, Revolut). The Monaco GP one-off keeps the base titanium-silver intact and swaps every white Audi four-ring lock-up for the same shape rendered in bright Nuvolari yellow, plus yellow trim on the wheel arches and rear wing endplates. Same base, same sponsor placement, but the yellow color swap rewrites the visual identity of the car for the Monaco weekend without losing the standard Audi readability. The single restrained design decision is the entire tribute.
+
+**Grade: A-**
+
+---
+
+## 3. McLaren · 1000th Grand Prix Retro Livery
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -125,7 +160,7 @@ The 2026 base car flips the orange-to-black ratio. Standard McLaren runs papaya 
 
 ---
 
-## 3. Ferrari · Charles Leclerc Monaco Home Race Suit
+## 4. Ferrari · Charles Leclerc Monaco Home Race Suit
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 600px;">
@@ -161,26 +196,26 @@ No. The white-and-red Monaco flag suit unveiled by Ferrari is a Leclerc-only one
 
 ---
 
-## Not Yet Revealed (As of 2026-06-01)
+## Not Yet Revealed (As of 2026-06-04)
 
-The following teams have not announced a Monaco GP full-car one-off livery as of Sunday. Monaco has historically been a low-livery weekend on the grid since most teams treat it as a high-stakes points race where any change to the car risks distracting from the trophy chase, but we have seen partner-driven one-offs in past seasons. We will add more as they drop:
+The following teams have not announced a Monaco GP full-car one-off livery as of Thursday. Monaco has historically been a low-livery weekend on the grid since most teams treat it as a high-stakes points race where any change to the car risks distracting from the trophy chase, but we have seen partner-driven one-offs in past seasons. We will add more as they drop:
 
 - **Ferrari** has not announced a Monaco car livery. Only the Leclerc race suit covered above.
 - **Mercedes** has not announced a Monaco GP livery or race suit.
 - **Red Bull** has not announced a Monaco GP livery or driver helmet drop.
-- **Williams**, **Sauber**, **Haas**, **Cadillac**, **Alpine**, and **VCARB** have not announced Monaco-specific reveals.
+- **Williams**, **Haas**, **Cadillac**, **Alpine**, and **VCARB** have not announced Monaco-specific reveals.
 
 If your team is missing from the revealed sections above, refresh this post through race week. We update each time a new livery or helmet or driver suit drops.
 
 ## The Verdict
 
-Aston Martin has the reveal of the weekend with the Maaden iridescent color-changing green-to-gold livery on the AMR25, an A-grade one-off special that puts every other Monaco entry directly on the back foot. The hexagonal mesh gradient, the "transformation of raw materials into advanced technology" design narrative, and the studio photography craft level all combine into the most polished livery drop of the round. McLaren takes second with the retro orange-and-matte-black 1000th-start tribute on the MCL40 at a B- for not committing harder to a real 1976 M23 era recreation. Charles Leclerc has the strongest individual driver-kit reveal of the weekend with the white-and-red Monaco flag race suit at an A- for the cleanest home-race driver kit execution Ferrari has done in years. Lewis Hamilton is not wearing the same suit. We will close out the official Monaco rankings after Sunday's race and add anything that drops between now and the green flag, including any partner-driven specials, driver helmet one-offs, or unannounced Ferrari chassis tweaks for Leclerc's home weekend.
+Aston Martin has the reveal of the weekend with the Maaden iridescent color-changing green-to-gold livery on the AMR25, an A-grade one-off special that puts every other Monaco entry directly on the back foot. The hexagonal mesh gradient, the "transformation of raw materials into advanced technology" design narrative, and the studio photography craft level all combine into the most polished livery drop of the round. Audi F1 lands at second with the Tazio Nuvolari yellow tribute Monaco livery, an A- one-off that earns the grade for the cleanest disciplined special-livery execution of the weekend, swapping every standard white Audi ring for bright Nuvolari yellow on the titanium-silver car plus matching black-and-yellow race suits for Hülkenberg and Bortoleto in tribute to The Flying Mantuan's pre-war Auto Union heritage. McLaren takes third with the retro orange-and-matte-black 1000th-start tribute on the MCL40 at a B- for not committing harder to a real 1976 M23 era recreation. Charles Leclerc has the strongest individual driver-kit reveal of the weekend with the white-and-red Monaco flag race suit at an A- for the cleanest home-race driver kit execution Ferrari has done in years. Lewis Hamilton is not wearing the same suit. We will close out the official Monaco rankings after Sunday's race and add anything that drops between now and the green flag, including any partner-driven specials, driver helmet one-offs, or unannounced Ferrari chassis tweaks for Leclerc's home weekend.
 
 ## Frequently Asked Questions
 
 **How many F1 teams have confirmed special liveries for the 2026 Monaco Grand Prix?**
 
-Two teams have confirmed full one-off car liveries for the 2026 Monaco Grand Prix as of Wednesday June 3, plus one driver race suit. Aston Martin unveiled a Maaden iridescent color-changing green-to-gold livery on the AMR25 with a hexagonal mesh gradient design symbolizing the transformation of raw materials into advanced technology. McLaren unveiled a retro orange-and-matte-black throwback livery on the MCL40 for the team's 1000th Formula 1 Grand Prix start with 1976 numerals on the rear panel as a nod to James Hunt's championship year in the M23. Ferrari has not announced a Monaco car livery but did reveal a Charles Leclerc Monaco home race suit. No other team has announced a Monaco-specific car livery, race suit, or driver helmet drop yet.
+Three teams have confirmed full one-off car liveries for the 2026 Monaco Grand Prix as of Thursday June 4, plus one driver race suit. Aston Martin unveiled a Maaden iridescent color-changing green-to-gold livery on the AMR25 with a hexagonal mesh gradient design symbolizing the transformation of raw materials into advanced technology. Audi F1 unveiled a Tazio Nuvolari yellow tribute livery on the team's titanium-silver carbon body, swapping every standard white Audi four-ring lock-up for bright Nuvolari yellow plus matching black-and-yellow race suits for Nico Hülkenberg and Gabriel Bortoleto honoring the legendary pre-war Italian Auto Union driver known as The Flying Mantuan. McLaren unveiled a retro orange-and-matte-black throwback livery on the MCL40 for the team's 1000th Formula 1 Grand Prix start with 1976 numerals on the rear panel as a nod to James Hunt's championship year in the M23. Ferrari has not announced a Monaco car livery but did reveal a Charles Leclerc Monaco home race suit. No other team has announced a Monaco-specific car livery, race suit, or driver helmet drop yet.
 
 **What is the Aston Martin Maaden iridescent Monaco GP livery?**
 
