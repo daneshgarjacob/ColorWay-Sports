@@ -2,8 +2,8 @@
 title: "2026 NBA Finals Jersey Tracker: Every Knicks vs Spurs Matchup Graded"
 category: "NBA"
 date: "2026-06-01"
-updatedDate: "2026-06-04"
-excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Knicks win Game 1 in their classic Association whites on the road at Frost Bank Center, lead the series 1-0. Games 1 through 4 confirmed. Knicks in their classic Association whites for 3 of the first 4 games. Games 1 and 2 at Frost Bank Center in San Antonio with the Spurs at home, Games 3 and 4 at Madison Square Garden in New York with the Knicks at home. Series average 9.3 out of 10."
+updatedDate: "2026-06-08"
+excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Knicks take a commanding 2-0 series lead with a Game 2 105-104 road win in San Antonio inside the Icon Edition blue (Karl-Anthony Towns 21 pts, Wembanyama misses GW jumper at the buzzer). Knicks also won Game 1 in their Association whites at Frost Bank Center. Games 1 and 2 at Frost Bank in San Antonio, Games 3 and 4 at Madison Square Garden in New York. Series average 9.3 out of 10."
 gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -65,7 +65,7 @@ Below, every matchup graded game by game in chronological order. Games 1 and 2 l
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 1 · Confirmed · Wednesday at Frost Bank</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #000000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 1 · Final · Wednesday at Frost Bank</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -112,7 +112,7 @@ Game 1 at Frost Bank Center is the Spurs home opener for the franchise's first N
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 2 · Confirmed · Friday Night at Frost Bank</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 2 · Final · Friday Night at Frost Bank</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -133,6 +133,12 @@ Game 1 at Frost Bank Center is the Spurs home opener for the franchise's first N
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1em 1.5em; background: linear-gradient(135deg, #006BB6 0%, #003c6e 100%); border-radius: 12px; border: 1px solid rgba(0, 107, 182, 0.4);">
+  <p style="font-size: 0.7em; font-weight: 800; margin: 0 0 0.4em; text-align: center; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 2.5px;">Result · June 5, 2026</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #fff; line-height: 1.35;">New York Knicks 105, San Antonio Spurs 104 · Knicks lead series 2-0</p>
+  <p style="font-size: 0.82em; font-weight: 500; margin: 0.5em 0 0; text-align: center; color: rgba(255,255,255,0.8); line-height: 1.35;">Karl-Anthony Towns 21 pts · Wembanyama misses GW jumper at the buzzer · Knicks erase a 14-point Spurs 4th-quarter rally</p>
 </div>
 
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">

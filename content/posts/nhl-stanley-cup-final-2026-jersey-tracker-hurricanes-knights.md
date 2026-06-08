@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights Matchup Graded"
 category: "NHL"
 date: "2026-06-01"
-updatedDate: "2026-06-05"
-excerpt: "2026 NHL Stanley Cup Final jersey tracker. Carolina Hurricanes even the series 1-1 with a 4-3 overtime win in Game 2 in Raleigh on a Seth Jarvis power-play one-timer 3:56 into OT, coming back from a 2-0 third-period hole over the Vegas Golden Knights. Hurricanes black home alternate at Lenovo Center, Knights white road. Every matchup graded. Series average 7.5 out of 10."
+updatedDate: "2026-06-08"
+excerpt: "2026 NHL Stanley Cup Final jersey tracker. Vegas Golden Knights re-take the series 2-1 with a 5-4 double-overtime Game 3 thriller in Las Vegas inside the gold home sweater, Mitch Marner setting the Stanley Cup Final record for fastest hat trick (6:10) and Shea Theodore winning it at 5:38 of 2OT, after Carolina erased a 4-0 deficit with three goals in 39 seconds (the three fastest goals in SCF history). Hurricanes black home alternate at Lenovo Center, Knights gold home at T-Mobile Arena. Every matchup graded. Series average 7.5 out of 10."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -96,7 +96,7 @@ Game 4 runs back the exact same sweater pairing as Game 3 at T-Mobile Arena with
 
 <div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 3 · Confirmed · T-Mobile Arena</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 3 · Final · T-Mobile Arena</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -119,7 +119,13 @@ Game 4 runs back the exact same sweater pairing as Game 3 at T-Mobile Arena with
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
 </div>
 
-Game 3 shifts the series to T-Mobile Arena in Las Vegas with the Hurricanes in white on the road and the Knights in their primary gold home sweater. Vegas gold at home is one of the most iconic single sweater identities in the NHL, the gold knight crest on the steel gray and gold body that the Knights have worn since the franchise's inaugural 2017-18 season. The gold home reads as the cleanest Stanley Cup Final home sweater in the league outside of Original Six color identities, and the contrast against the Hurricanes pure whites on the road is a sharp color separation that lets T-Mobile Arena breathe. The Hurricanes white road sweater also brings back the red as the secondary trim color, the first time the Carolina red identity is on the ice in this Final after Carolina committed to black-as-home for Games 1 and 2 at Lenovo Center. Eight out of 10. The gold home plus the red trim road look make this the most chromatically rich pair of games of the first four games of the Final.
+Game 3 shifts the series to T-Mobile Arena in Las Vegas with the Hurricanes in white on the road and the Knights in their primary gold home sweater. Vegas gold at home is one of the most iconic single sweater identities in the NHL, the gold knight crest on the steel gray and gold body that the Knights have worn since the franchise's inaugural 2017-18 season. The gold home reads as the cleanest Stanley Cup Final home sweater in the league outside of Original Six color identities, and the contrast against the Hurricanes pure whites on the road is a sharp color separation that lets T-Mobile Arena breathe. The Hurricanes white road sweater also brings back the red as the secondary trim color, the first time the Carolina red identity is on the ice in this Final after Carolina committed to black-as-home for Games 1 and 2 at Lenovo Center. Eight out of 10. The gold home plus the red trim road look make this the most chromatically rich pair of games of the first four games of the Final. The Knights took Game 3 inside the gold home sweater 5-4 in double overtime with Mitch Marner burying a natural hat trick in 6:10 of game time (the fastest hat trick in Stanley Cup Final history) and Shea Theodore winning it at 5:38 of the second overtime, after Carolina erased a 4-0 deficit with three goals in 39 seconds in the third period for the three fastest goals in Stanley Cup Final history. Vegas leads the series 2-1 with Game 4 back at T-Mobile Arena.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; border: 1px solid rgba(180,151,90,0.4); text-align: center;">
+  <p style="margin: 0 0 0.4em; font-size: 0.7em; font-weight: 800; color: rgba(255,255,255,0.6); text-transform: uppercase; letter-spacing: 2.5px;">Result</p>
+  <p style="margin: 0; font-size: 1.15em; font-weight: 900; color: #d9bc7a;">Vegas Golden Knights 5, Carolina Hurricanes 4 (2OT)</p>
+  <p style="margin: 0.4em 0 0; font-size: 0.78em; color: rgba(255,255,255,0.65); font-weight: 500;">Knights lead series 2-1 · Shea Theodore 2OT GWG · Marner natural hat trick · June 6, 2026</p>
+</div>
 
 <span id="game-2"></span>
 
@@ -164,7 +170,7 @@ Game 2 runs back the exact same sweater pairing as Game 1 at Lenovo Center with 
 
 <div style="background: linear-gradient(135deg, #1a0505 0%, #0a0202 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 1 · Confirmed · Lenovo Center</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #333F42 0%, #CC0000 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 1 · Final · Lenovo Center</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -197,9 +203,9 @@ Game 1 of the 2026 Stanley Cup Final opened at Lenovo Center in Raleigh Tuesday 
 
 Hurricanes black on home ice is the same look Carolina ran through every home game of the entire 2026 playoff run, the alternate-as-default identity the team committed to from Round 1 against the Devils all the way through the Eastern Conference Final closeout over the Canadiens at Lenovo Center on May 30. Knights white road sweater is the cleanest possible visitor look Vegas can put on the ice and the road whites came out of the Game 1 swing with the series-opening win. The black-versus-white contrast at Lenovo Center is sharp, but the absence of the primary Hurricanes red home sweater on the Cup Final stage is the storyline that holds the matchup back from a textbook Finals look. Carolina has not worn their primary red home sweater in any game of the 2026 playoffs, and the iconic franchise red identity is missing from the biggest night in Raleigh since 2006. Seven out of 10. The black home alternate is a strong identity in a vacuum, but the Final deserves the red home — and Game 1 going to the Vegas whites makes the Carolina red call for Game 2 look even more like the right move if Carolina wants to break the trend before the series shifts west.
 
-## The Series Take After Game 2
+## The Series Take After Game 3
 
-The Carolina Hurricanes have answered Game 1 with a Game 2 stunner inside the black home alternate, evening the 2026 Stanley Cup Final 1-1 with a 4-3 overtime comeback win over the Vegas Golden Knights at Lenovo Center on Thursday June 4. Carolina trailed 2-0 entering the third period, scored three goals in 5:05 to take a 3-2 lead, gave up the equalizer to Knights captain Mark Stone with 1:21 left in regulation with the Vegas net empty, then won it in OT on a Seth Jarvis power-play one-timer 3:56 into overtime off a Shayne Gostisbehere feed. The black home alternate held its ground on the ice through two games at Lenovo Center, and the Hurricanes have stolen back home ice with the series shifting to T-Mobile Arena for Game 3 Saturday. The broadcast jersey story still has the iconic Hurricanes red home sweater missing from the franchise's first Cup Final since 2006 and the team's playoff black-as-default identity now follows the series to Las Vegas with the Hurricanes road whites carrying the Carolina red identity onto the ice for the first time in the Final.
+The Vegas Golden Knights have re-taken control of the 2026 Stanley Cup Final inside the gold home sweater with a Game 3 instant classic at T-Mobile Arena Saturday June 6, beating the Carolina Hurricanes 5-4 in double overtime to take a 2-1 series lead. The game produced two new Stanley Cup Final records on a single night. Mitch Marner buried a natural hat trick in 6:10 of game time, the fastest hat trick in Cup Final history, helping the Knights build a 4-0 lead. Carolina then erased the entire 4-0 deficit with three goals in 39 seconds in the third period, the three fastest goals in Stanley Cup Final history. Shea Theodore won it for Vegas at 5:38 of the second overtime period. The Vegas gold home sweater anchored the broadcast frame across the instant-classic Cup Final game and the Hurricanes road whites brought the Carolina red trim identity onto the ice for the first time in the Final. The Knights now hold a 2-1 series lead with Game 4 still in Las Vegas at T-Mobile Arena before the series shifts back to Raleigh.
 
 ## The Full Series Take Across All Four Confirmed Games
 
