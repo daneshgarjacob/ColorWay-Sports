@@ -1,8 +1,8 @@
 ---
-title: "2026 NBA Finals Announcers: ESPN's ABC Broadcast Crew Plus Every NBA Playoff Broadcast Team Ranked"
+title: "Who Are the 2026 NBA Finals Announcers? Mike Breen, Richard Jefferson, and Tim Legler on ESPN"
 category: "NBA"
 date: "2026-04-13"
-updatedDate: "2026-05-28"
+updatedDate: "2026-06-08"
 excerpt: "Mike Breen, Richard Jefferson, and Tim Legler call the 2026 NBA Finals for ESPN on ABC. Full rankings of every NBA Playoff broadcast crew across ESPN, NBC, and Amazon Prime including the studio teams."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
@@ -10,6 +10,7 @@ league: "nba"
 teams: []
 coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png"
 coverImagePosition: "center 15%"
+topViewsRank: 4
 ---
 
 <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />

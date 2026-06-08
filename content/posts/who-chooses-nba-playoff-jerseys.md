@@ -14,7 +14,6 @@ coverImageFit: contain
 league: nba
 teams:
   - los-angeles-lakers
-topViewsRank: 4
 ---
 
 <img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />

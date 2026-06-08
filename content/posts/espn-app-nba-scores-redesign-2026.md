@@ -12,7 +12,6 @@ coverImagePosition: center center
 coverImageFit: contain
 league: nba
 teams: []
-topViewsRank: 11
 ---
 
 <img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-cover.png" alt="ESPN mobile app NBA scores page redesign 2026 cover graphic with the ESPN logo centered on a dark red gradient background, ESPN MOBILE APP eyebrow in red and NBA SCORES PAGE REDESIGN 2026 subtitle in white" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />

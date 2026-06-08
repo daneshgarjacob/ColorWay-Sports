@@ -15,7 +15,6 @@ league: mlb
 teams:
   - miami-marlins
 homepageOrder: 9
-topViewsRank: 2
 ---
 
 <img src="/images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg" alt="Miami Marlins 2026 weekend uniform schedule showing Retro Wave Fridays, home whites Saturdays, and teal Sundays" style="width: 100%; border-radius: 10px;" />

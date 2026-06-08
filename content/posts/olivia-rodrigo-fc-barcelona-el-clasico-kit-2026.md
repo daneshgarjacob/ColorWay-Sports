@@ -15,7 +15,6 @@ coverImage: >-
 coverImagePosition: center center
 league: soccer
 teams: []
-topViewsRank: 5
 ---
 
 <img src="/images/posts/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026/olivia-rodrigo-fc-barcelona-cover.jpg" alt="Olivia Rodrigo from behind wearing the personalized FC Barcelona El Clasico kit with RODRIGO 21 on the back of the Nike home jersey for the 2026 Spotify Camp Nou Real Madrid match" style="width: 100%; max-width: 100%; border-radius: 10px;" />

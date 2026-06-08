@@ -69,7 +69,6 @@ reviews:
     rating: 4
   - name: Philadelphia 76ers at New York Knicks Round 2 Game 2 Jerseys
     rating: 3
-topViewsRank: 10
 ---
 
 <div style="margin: 0 0 2em;">

@@ -10,7 +10,6 @@ coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png
 coverImagePosition: center 50%
 league: mlb
 teams: []
-topViewsRank: 6
 ---
 
 <img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays" style="width: 100%; border-radius: 10px;" />

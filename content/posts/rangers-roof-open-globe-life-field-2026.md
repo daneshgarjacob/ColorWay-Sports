@@ -14,7 +14,7 @@ coverImagePosition: center 90%
 league: mlb
 teams:
   - texas-rangers
-topViewsRank: 7
+topViewsRank: 2
 ---
 
 <img src="/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg" alt="Globe Life Field in Arlington Texas with the retractable roof open showing the Rangers home ballpark interior on a clear night" style="width: 100%; border-radius: 10px;" />

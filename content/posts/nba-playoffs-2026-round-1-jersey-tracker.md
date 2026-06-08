@@ -123,7 +123,6 @@ reviews:
     rating: 1
   - name: Houston Rockets at Los Angeles Lakers Round 1 Game 2 Jerseys
     rating: 0
-topViewsRank: 9
 ---
 
 <div style="margin: 0 0 2em;">
