@@ -1,9 +1,9 @@
 ---
-title: "Minnesota Timberwolves Officially Release New 2026-27 Uniforms, Courts, and Logo: Full Rebrand Graded A+"
+title: "Minnesota Timberwolves Just Dropped the NBA's Best Rebrand of 2026-27: A+ on the New Uniforms, Courts, and Wolf Head Logo"
 category: "NBA"
 date: "2026-06-08"
 updatedDate: "2026-06-08"
-excerpt: "The Minnesota Timberwolves officially released the new 2026-27 Association white, Icon blue, and Statement black uniforms, two new courts, and the modernized wolf head logo. We grade the full rebrand A+ with full approval."
+excerpt: "The Minnesota Timberwolves just officially dropped the new 2026-27 Association white, Icon blue, and Statement black uniforms, the new Core and Statement Courts at Target Center, and the modernized wolf head logo. The Icon Edition blue might be the best blue jersey in the entire NBA and the full rebrand is graded A+ with full approval. Our favorite NBA rebrand of the year."
 gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
 coverImage: "/images/posts/official-wolves-rebrand-2026/cover-image-wolves.jpg"
 coverImagePosition: "center top"
@@ -14,9 +14,12 @@ teams: ["minnesota-timberwolves"]
 featuredOrder: 1
 ---
 
-<p style="text-align: center; font-size: 0.85em; color: #888; margin: 0 0 2em; font-style: italic;">All photos in this post are from the official Minnesota Timberwolves Twitter page.</p>
+<div style="margin: 0 0 2em;">
+  <img src="/images/posts/official-wolves-rebrand-2026/cover-image-wolves.jpg" alt="Minnesota Timberwolves new 2026-27 Icon Edition blue road jersey officially released and modeled by Naz Reid number 11 standing in front of a saturated blue backdrop with the new wolf head crest logo in the top left corner, the brighter blue and green throwback color palette returning from the original 1989 expansion identity, the WOLVES wordmark in bright green across the chest, and the green and white piping on the matching blue road shorts" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.85em; color: #888; margin-top: 0.75em; font-style: italic;">All photos in this post are from the official Minnesota Timberwolves Twitter page.</p>
+</div>
 
-The Minnesota Timberwolves officially released the team's new 2026-27 uniform set, two new courts, and the modernized wolf head logo, and the full rebrand is everything the leaked images promised and more. The brighter blue and green color palette from the original 1989 expansion era is back, the throwback WOLVES wordmark is on every jersey, the tree print pattern returns as the signature design element of the Statement black alternate, and the Core Court at Target Center is one of the cleanest home floors in the NBA. We grade the full Minnesota Timberwolves rebrand A+ with full approval. This is our favorite NBA rebrand of the 2026-27 design cycle and one of the strongest single-franchise identity resets we have covered on ColorWay Sports.
+The Minnesota Timberwolves just officially dropped the team's new 2026-27 uniform set, the new Core Court and Statement Court at Target Center, and the modernized wolf head logo, and this is the single best NBA rebrand of the year. The brighter blue and green color palette from the original 1989 expansion era is back, the throwback WOLVES wordmark is stamped on every jersey, the green pine tree print pattern returns as the signature design element of the Statement Edition black alternate, the bright green numerals on the back of the Icon Edition blue road jersey might be the single best design detail in any new NBA uniform this year, and the Core Court at Target Center is one of the cleanest home floors the league has put down in years. We grade the full Minnesota Timberwolves rebrand A+ with full approval. This is our favorite NBA rebrand of the 2026-27 design cycle, the strongest single-franchise identity reset we have covered on ColorWay Sports, and the Icon Edition blue road jersey might be the best blue jersey in the entire NBA. Full breakdown, jersey-by-jersey grades, court-by-court grades, and a closer look at the new wolf head crest below.
 
 ## The New Wolf Head Logo
 
@@ -28,18 +31,18 @@ The new Minnesota Timberwolves logo is a modernized take on the franchise's orig
 
 ## The Association Edition (White Home)
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYlXEAA7FCK.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 front view on player number 3 with the WOLVES wordmark in throwback blue and green outline, brighter blue and green color palette returning from the original 1989 expansion identity, and the Sezzle jersey patch on the chest" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 2em 0;">
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYlXEAA7FCK.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 front view on player number 3 with the WOLVES wordmark in throwback blue and green outline, brighter blue and green color palette returning from the original 1989 expansion identity, and the Sezzle jersey patch on the chest" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYdW8AAB9DU.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 standing pose showing the WOLVES wordmark, the #3 chest number in blue with green outline, the matching white shorts with the green tree and Minnesota M monogram label on the waistband, and the green and blue piping at the short hem" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYdW8AAB9DU.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 standing pose showing the WOLVES wordmark, the #3 chest number in blue with green outline, the matching white shorts with the green tree and Minnesota M monogram label on the waistband, and the green and blue piping at the short hem" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYkXkAAzXy9.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 seated pose with the cut-out detail visible on the side of the shorts, the throwback short hem cutaway returning as a design quirk and one of the standout details of the new Wolves uniform set" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYkXkAAzXy9.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 seated pose with the cut-out detail visible on the side of the shorts, the throwback short hem cutaway returning as a design quirk and one of the standout details of the new Wolves uniform set" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYoXgAAl4nD.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 dribbling pose showing the full uniform in motion with the WOLVES throwback wordmark, the matching white shorts with green and blue trim, and the cut-out hem detail returning on the side of the shorts" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPADYoXgAAl4nD.jpg" alt="Minnesota Timberwolves new Association Edition white home jersey 2026-27 dribbling pose showing the full uniform in motion with the WOLVES throwback wordmark, the matching white shorts with green and blue trim, and the cut-out hem detail returning on the side of the shorts" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
 </div>
 
@@ -60,20 +63,24 @@ The new Minnesota Timberwolves logo is a modernized take on the franchise's orig
 
 The Association Edition white home jersey is the cleanest broadcast canvas the Wolves have run since the original Kevin Garnett-era set. The WOLVES wordmark across the chest sits in the throwback blue with the bright green outline, the same wordmark that anchored the 1995-96 home uniform and one of the most recognizable basketball chest treatments of the late 90s. The macro close-up shows the depth of the embroidered green outline edging the blue letters, the kind of twill and stitch construction that the muted current Wolves wordmark has never matched. The white base reads clean on broadcast against any road opponent and the brighter, more saturated palette replaces the muted navy and forest green direction of the past decade. The side cutaway detail on the hem of the shorts brings back a design quirk we have not seen across NBA uniforms in years, the kind of small heritage callback that gives the new set personality the current Wolves shorts have completely lacked. The only thing we wish for on this jersey is the tree print landing somewhere on the body, but the green pine tree silhouettes on the shorts waistband and lower tag tie the whole family together. We give the Association Edition white home jersey an A+.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the Wolves Association White Jersey on Fanatics</a>
+</div>
+
 ## The Icon Edition (Blue Road)
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/cover-image-wolves.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 standing pose on Naz Reid number 11 showing the WOLVES wordmark in bright green with green outline, the #11 chest number in green numerals, the saturated brighter blue base from the 1989 expansion era, and the matching blue shorts with green and white piping at the hem" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 2em 0;">
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/cover-image-wolves.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 standing pose on Naz Reid number 11 showing the WOLVES wordmark in bright green with green outline, the #11 chest number in green numerals, the saturated brighter blue base from the 1989 expansion era, and the matching blue shorts with green and white piping at the hem" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfXWQAAk4Bk.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 full body seated pose on Naz Reid showing the throwback brighter blue base, the WOLVES green wordmark, the matching blue shorts with the green and white piping, and the green Torayan number eleven wristband detail" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfXWQAAk4Bk.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 full body seated pose on Naz Reid showing the throwback brighter blue base, the WOLVES green wordmark, the matching blue shorts with the green and white piping, and the green Torayan number eleven wristband detail" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfKWMAAHaWZ.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 close-up seated pose on Naz Reid with the basketball at his head, showing the WOLVES throwback wordmark in bright green, the #11 chest number, the Sezzle jersey patch on the right chest, and the embroidered green outline on the throwback typography" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfKWMAAHaWZ.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 close-up seated pose on Naz Reid with the basketball at his head, showing the WOLVES throwback wordmark in bright green, the #11 chest number, the Sezzle jersey patch on the right chest, and the embroidered green outline on the throwback typography" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfOWsAAe8wV.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 back view close-up of Naz Reid number eleven showing the white REID nameplate, the bright green number eleven, the saturated blue base of the jersey, and the white shoulder yoke trim with green and blue piping running across the collar" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPASfOWsAAe8wV.jpg" alt="Minnesota Timberwolves new Icon Edition blue road jersey 2026-27 back view close-up of Naz Reid number eleven showing the white REID nameplate, the bright green number eleven, the saturated blue base of the jersey, and the white shoulder yoke trim with green and blue piping running across the collar" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
 </div>
 
@@ -94,20 +101,24 @@ The Association Edition white home jersey is the cleanest broadcast canvas the W
 
 The Icon Edition blue road jersey might be our favorite blue jersey in the entire NBA. The saturated brighter blue base from the 1989 expansion identity reads stronger on broadcast than any team blue in the league right now and the green WOLVES wordmark with the bright green outline gives the chest the maximum chromatic separation against the blue body. The back of the jersey is the single best design detail in the entire rebrand, the massive bright green REID and EDWARDS numerals against the brighter blue base, a green-on-blue color block we have not seen executed this cleanly anywhere in the league. The green number treatment ties straight back to the original Kevin Garnett-era road jersey and gives the back of the uniform the same chromatic depth the throwback wordmark carries on the front. The side cutaway detail on the shorts returns on the Icon set too, the same heritage hem cutaway that runs across the Association whites and one of the strongest small details of the new uniform family. The shorts waistband carries the green pine tree silhouette and the white Minnesota M monogram label that ties the entire new uniform family together as a single design system. We give the Icon Edition blue road jersey an A+.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the Wolves Icon Blue Jersey on Fanatics</a>
+</div>
+
 ## The Statement Edition (Black Alternate, Where the Trees Live)
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3ycXsAApN9d.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 standing pose on Jaden McDaniels number 3 with the green tree print pattern running across the collar trim and the shorts waistband, the WOLVES wordmark in bright blue with green outline, and the Jordan Brand jumpman patch on the chest" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; margin: 2em 0;">
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3ycXsAApN9d.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 standing pose on Jaden McDaniels number 3 with the green tree print pattern running across the collar trim and the shorts waistband, the WOLVES wordmark in bright blue with green outline, and the Jordan Brand jumpman patch on the chest" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3yjXoAAUC1R-1.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 dynamic pose on Jaden McDaniels showing the full uniform in motion with the throwback green tree pattern collar trim, the WOLVES blue wordmark, the matching black shorts with green Jumpman, and the green tree print also wrapping the shorts waistband" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3yjXoAAUC1R-1.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 dynamic pose on Jaden McDaniels showing the full uniform in motion with the throwback green tree pattern collar trim, the WOLVES blue wordmark, the matching black shorts with green Jumpman, and the green tree print also wrapping the shorts waistband" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3zGWoAAwJJh.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 close-up seated pose on Jaden McDaniels showing the green tree pattern wrapping the collar and armhole trim, the WOLVES wordmark in bright blue with the green outline, the Sezzle jersey patch on the right chest, and the Jordan jumpman on the left chest" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3zGWoAAwJJh.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 close-up seated pose on Jaden McDaniels showing the green tree pattern wrapping the collar and armhole trim, the WOLVES wordmark in bright blue with the green outline, the Sezzle jersey patch on the right chest, and the Jordan jumpman on the left chest" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 200px; max-width: 280px; text-align: center;">
-    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3yfWkAAlqMZ.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 back view close-up of Jaden McDaniels number 3 with the white McDANIELS nameplate, the #3 in white with green and blue outline, the green tree print pattern running across the back yoke and the shorts waistband, the signature Hardwood Classic design element returning as the defining detail of the Wolves Statement Edition" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 10px; display: block;" />
+  <div style="flex: 1 1 calc(50% - 0.5em); min-width: 300px; max-width: 600px;">
+    <img src="/images/posts/official-wolves-rebrand-2026/HKPA3yfWkAAlqMZ.jpg" alt="Minnesota Timberwolves new Statement Edition black alternate jersey 2026-27 back view close-up of Jaden McDaniels number 3 with the white McDANIELS nameplate, the #3 in white with green and blue outline, the green tree print pattern running across the back yoke and the shorts waistband, the signature Hardwood Classic design element returning as the defining detail of the Wolves Statement Edition" style="width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 12px; display: block;" />
   </div>
 </div>
 
@@ -127,6 +138,10 @@ The Icon Edition blue road jersey might be our favorite blue jersey in the entir
 </div>
 
 The Statement Edition black alternate is the jersey that puts the Hardwood Classic tree print front and center, and we are not usually fans of black jerseys at all but the Wolves Statement set is incredible. The green pine tree print wraps the collar trim, the shoulder yoke, the back yoke, the shorts waistband, and the shorts bottom hem. The tree print runs across every panel of the uniform that can carry pattern detail, lifting straight from the original Hardwood Classic uniform side panel and now landing across multiple panels for a more modern integration of the same heritage motif. The black base lets the green tree pattern and the blue-and-green outline detail on the white WOLVES wordmark read as the strongest single design element on the jersey, the kind of high-contrast alternate that earns a spot in the regular rotation rather than sitting in the closet as a once-a-month curiosity. The Jordan Brand Jumpman patch on the chest replaces the Nike swoosh on the Statement Edition only, the standard Jordan Brand Statement Edition treatment now in the throwback Wolves green for the perfect tonal match with the rest of the new color story. We give the Statement Edition black alternate an A.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the Wolves Statement Black Jersey on Fanatics</a>
+</div>
 
 ## The Core Court at Target Center
 
