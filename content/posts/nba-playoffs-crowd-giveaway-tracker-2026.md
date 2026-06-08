@@ -2,10 +2,10 @@
 title: "2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
 category: "NBA"
 date: "2026-04-23"
-updatedDate: "2026-06-05"
-excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Friday NBA Finals Game 2: Spurs black towels at Frost Bank Center against the Knicks paired with the Association Edition white home jersey (B-). Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center paired with the Icon Edition black home jersey (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
-gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 50%, #78BE20 100%)"
-coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/frost-bank-center-nba-finals-cover.jpg"
+updatedDate: "2026-06-08"
+excerpt: "Every 2026 NBA Playoffs and NBA Finals crowd t-shirt, towel, and rally giveaway graded. Wednesday NBA Finals Game 3: Knicks giving away FINALS t-shirts AND Knicks Finals towels at every Madison Square Garden seat against the Spurs paired with the Icon Edition blue home jersey (A+). Friday NBA Finals Game 2: Spurs black towels at Frost Bank Center against the Knicks paired with the Association Edition white home jersey (B-). Wednesday NBA Finals Game 1: Spurs Fiesta-color t-shirts at Frost Bank Center paired with the Icon Edition black home jersey (A-). Round-by-round tracking of every arena giveaway from Round 1 through the NBA Finals."
+gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 50%, #000000 100%)"
+coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/msg-knicks-finals-g3-shirts-towels-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -14,14 +14,26 @@ teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-
 featuredOrder: 1
 ---
 
-<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/frost-bank-center-nba-finals-cover.jpg" alt="Frost Bank Center in San Antonio dressed and ready for the 2026 NBA Finals Game 1 between the Spurs and the Knicks, the multi-color Fiesta pattern seating bowl in pink, teal, orange, and yellow loaded around the new NBA Finals court with three Larry O'Brien Trophy graphics and the Finals cursive script wordmark on the videoboard above center court, the Spurs primary mark painted on the floor at center, and Coinbase sponsor branding on the courtside" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Frost Bank Center dressed for NBA Finals Game 1 · via @NBA</p>
+<img src="/images/posts/nba-playoffs-crowd-giveaway-2026/msg-knicks-finals-g3-shirts-towels-cover.jpg" alt="Madison Square Garden seating bowl loaded for the 2026 NBA Finals Game 3 between the New York Knicks and the San Antonio Spurs, every seat draped with a black NEW YORK KNICKS FINALS t-shirt featuring the full team roster graphic and a blue and white NEW YORK KNICKS Finals cursive script towel, the double-giveaway takeover the Knicks ran for the franchise's first NBA Finals home game at MSG since 1999" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">MSG dressed for NBA Finals Game 3 · via @nyknicks</p>
 
 Round 1 Game 3 brings seven confirmed crowd giveaways across three playoff nights. The Hawks went bold red on Thursday. The Rockets matched red on red on Friday with their All Fire shirts. The Sixers gave out black towels at every Wells Fargo Center seat. The Trail Blazers also went towels only and skipped a t-shirt giveaway altogether. The Wolves and Raptors both committed to black on Thursday. And the Magic announced black for Saturday morning against the Pistons.
 
 The crowd takeover is one of the most underrated visual elements of playoff basketball. When a whole arena is in the same color, the broadcast changes. The energy reads different. Every home team in the playoffs has the chance to do it. Not every team commits to making it pop.
 
 This is the running tracker for every 2026 NBA Playoffs and NBA Finals crowd t-shirt and towel giveaway. We grade each one on visual impact, color commitment, and how the shirt or towel color works against the team's home uniform and court.
+
+## Wednesday NBA Finals Game 3 Giveaway
+
+The Knicks host the Spurs for NBA Finals Game 3 Wednesday at Madison Square Garden, the home crowd loaded with TWO giveaways at every seat for the franchise's first NBA Finals home game at MSG since 1999: a black NEW YORK KNICKS FINALS T-shirt featuring the full team roster graphic and a blue and white NEW YORK KNICKS Finals cursive script towel. The double giveaway is the most aggressive playoff crowd outfit of the entire 2026 NBA postseason and the kind of takeover every other home team in the league should aspire to when they get a Finals home game.
+
+### New York Knicks · FINALS T-Shirts + Knicks Finals Towels · NBA Finals Game 3 · Grade: A+
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2064109945499324710"></a></blockquote>
+</div>
+
+The Knicks hand out a black NEW YORK KNICKS FINALS T-shirt AND a blue and white NEW YORK KNICKS Finals cursive script towel at every Madison Square Garden seat for NBA Finals Game 3 against the Spurs, the double giveaway loading the most visually dense crowd takeover of the entire 2026 NBA Playoffs into the franchise's first NBA Finals home game at MSG since 1999. The black FINALS T-shirt becomes the dominant color in the seating bowl on the Wednesday primetime broadcast, the team roster graphic and the NEW YORK KNICKS FINALS wordmark legible from broadcast angles, and the white towels add a second layer of visual texture to every section of the arena when fans wave them during the game. The Icon Edition blue home jersey on the floor against the sea of black T-shirts delivers the cleanest broadcast contrast we have seen at any playoff venue this postseason, the orange and blue Knicks identity popping against the high-saturation black-and-white crowd canvas the double giveaway creates. The Knicks running BOTH a T-shirt and a towel at every seat is the giveaway move every Finals home team should be running and is the right call for the first NBA Finals home game at MSG in 27 years. A+. The Knicks just delivered the gold-standard NBA Finals home night giveaway and the broadcast frame from MSG on Wednesday primetime is going to be one of the visual moments of the entire 2026 postseason.
 
 ## Friday NBA Finals Game 2 Giveaway
 
