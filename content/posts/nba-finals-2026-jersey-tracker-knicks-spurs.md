@@ -2,8 +2,8 @@
 title: "2026 NBA Finals Jersey Tracker: Every Knicks vs Spurs Matchup Graded"
 category: "NBA"
 date: "2026-06-01"
-updatedDate: "2026-06-08"
-excerpt: "Every 2026 NBA Finals jersey matchup graded for Knicks vs Spurs. Knicks take a commanding 2-0 series lead with a Game 2 105-104 road win in San Antonio inside the Icon Edition blue (Karl-Anthony Towns 21 pts, Wembanyama misses GW jumper at the buzzer). Knicks also won Game 1 in their Association whites at Frost Bank Center. Games 1 and 2 at Frost Bank in San Antonio, Games 3 and 4 at Madison Square Garden in New York. Series average 9.3 out of 10."
+updatedDate: "2026-06-09"
+excerpt: "Spurs announce Association Edition white at home for Game 5 at Frost Bank Center with the Knicks pulling Icon Edition blue on the road. Textbook 10 out of 10 playoff pairing with the home team in traditional white and the road team in primary color, the same matchup the Spurs ran Friday night in Game 2 in San Antonio for the only other 10 out of 10 grade at Frost Bank this series. Series average through 5 announced games 9.4 out of 10, the highest jersey grade of any series in the 2026 NBA playoffs."
 gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -23,13 +23,15 @@ reviews:
     rating: 10
   - name: "San Antonio Spurs at New York Knicks NBA Finals Game 4 Jerseys"
     rating: 10
+  - name: "New York Knicks at San Antonio Spurs NBA Finals Game 5 Jerseys"
+    rating: 10
 ---
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png" alt="2026 NBA Finals Jersey Tracker cover with NBA Finals logo and Every Matchup Graded subtitle on a Knicks blue to black to Finals gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
-Every 2026 NBA Finals jersey and uniform matchup graded between the New York Knicks and the San Antonio Spurs. Games 1 through 4 are confirmed. The Spurs hold home court advantage in the 2026 Finals with Games 1 and 2 at Frost Bank Center in San Antonio and Games 3 and 4 at Madison Square Garden in New York under the 2-2-1-1-1 home-away format. The Knicks are running their Association Edition white in 3 of the first 4 games, the only Finals run we have seen in years where one team commits to its classic identity that consistently. The Spurs are mixing the Icon Edition black and the Association Edition white across the four games, including a 10 out of 10 broadcast call at Frost Bank Center for Game 2 and a sharp black-versus-white pairing at Madison Square Garden for Games 3 and 4. We score every game on the same 10-point scale we used across both Conference Finals trackers, with credit for iconic alternates and points docked for non-traditional home-team-in-color calls only where the broadcast contrast suffers.
+Every 2026 NBA Finals jersey and uniform matchup graded between the New York Knicks and the San Antonio Spurs. Games 1 through 5 are confirmed, with the Spurs announcing the Association Edition white at home for Game 5 at Frost Bank Center and the Knicks pulling the Icon Edition blue on the road for the textbook playoff color pairing. The Spurs hold home court advantage in the 2026 Finals with Games 1, 2 and 5 at Frost Bank Center in San Antonio and Games 3 and 4 at Madison Square Garden in New York under the 2-2-1-1-1 home-away format. The Knicks are running their Association Edition white in 3 of the first 5 games and the Icon Edition blue in 2 of 5, the strongest classic identity commitment from a Finals team in years. The Spurs are mixing the Icon Edition black and the Association Edition white across the five games, including back-to-back 10 out of 10 broadcast calls at Frost Bank Center in their Association whites at home for Game 2 Friday night and again for Game 5 with the series on the line. We score every game on the same 10-point scale we used across both Conference Finals trackers, with credit for iconic alternates and points docked for non-traditional home-team-in-color calls only where the broadcast contrast suffers.
 
 <div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
   <p style="margin: 0 0 0.8em; font-size: 0.75em; font-weight: 700; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 2px;">Jump To</p>
@@ -38,23 +40,24 @@ Every 2026 NBA Finals jersey and uniform matchup graded between the New York Kni
     <a href="#game-2" style="padding: 6px 14px; background: rgba(196,206,212,0.15); border-radius: 999px; color: #c4ced4; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(196,206,212,0.3);">Game 2 · Frost Bank</a>
     <a href="#game-3" style="padding: 6px 14px; background: rgba(0,107,182,0.18); border-radius: 999px; color: #5bb3ff; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(0,107,182,0.35);">Game 3 · MSG</a>
     <a href="#game-4" style="padding: 6px 14px; background: rgba(0,107,182,0.18); border-radius: 999px; color: #5bb3ff; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(0,107,182,0.35);">Game 4 · MSG</a>
+    <a href="#game-5" style="padding: 6px 14px; background: rgba(196,206,212,0.15); border-radius: 999px; color: #c4ced4; font-size: 13px; font-weight: 700; text-decoration: none; border: 1px solid rgba(196,206,212,0.3);">Game 5 · Frost Bank</a>
     <a href="#faq" style="padding: 6px 14px; background: rgba(255,255,255,0.08); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.1);">FAQ</a>
   </div>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">NBA Finals Average Score</span>
-  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">9.3 / 10</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">9.4 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Knicks in Association Whites</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">3 / 4 (75%)</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">3 / 5 (60%)</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Home Team Wearing White</span>
-  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">3 / 4 (75%)</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">4 / 5 (80%)</span>
 </div>
 
 Below, every matchup graded game by game in chronological order. Games 1 and 2 lead off at Frost Bank Center in San Antonio with the Spurs at home, then Games 3 and 4 shift to Madison Square Garden in New York with the Knicks at home.
@@ -238,13 +241,55 @@ Game 3 shifts the series to Madison Square Garden for the first NBA Finals game 
 
 Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garden with the Knicks at home in the Association Edition white and the Spurs on the road in the Icon Edition black. Same building, same matchup, same 10 out of 10 grade per the same-jersey-same-score rule we have applied across both Conference Finals trackers all postseason. New York sticking with the Association white at home for both home games of the first Frost Bank-MSG swing locks the Knicks identity to the classic white commitment across both nights, and the Spurs Icon black road run continues the franchise's primary road look for the Finals. Game 4 grades the same as Game 3 and keeps the cleanest possible white-versus-black separation on the Finals court at MSG. Ten out of 10.
 
-## The Series Take After Four Games
+<span id="game-5"></span>
 
-The Knicks running the Association Edition white in 3 of the first 4 games of the Finals is the strongest commitment to a single team's classic identity we have seen in a Finals series in years. New York on the road at Frost Bank Center for Game 1 in their cursive NEW YORK whites, then at home at MSG for Games 3 and 4 in the same Association whites. The only break is Game 2 Friday night at Frost Bank, where the Knicks pull the Icon Edition blue on the road against the Spurs Association white at home for the sharpest broadcast color contrast pairing of the series.
+## Game 5: New York Knicks at San Antonio Spurs
 
-The Spurs are running the Icon Edition black in 3 of 4 games and the Association Edition white in 1 of 4. San Antonio at home in Icon black at Frost Bank Center for Game 1 inverts the playoff white-versus-color standard the way the Spurs did in Round 2 against the Wolves and in WCF Games 3 and 6 against the Thunder. The grading dock we applied to those earlier inversions does not apply at the Finals because the Spurs black versus the Knicks white is the sharpest possible single-game color separation, and the Spurs Game 2 Association white at home is the cleanest commitment to the playoff color standard of the four-game opener. The Spurs City Edition Fiesta jersey, the season-long alternate San Antonio rotated through the regular season and held back across the entire 2026 playoffs, is the wild card we are still watching for in Games 5 through 7 if the series goes long.
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006BB6 0%, #BAC3C9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 5 · Announced · Frost Bank Center</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/knicks-icon-blue.png" alt="New York Knicks Icon Edition blue road jersey and uniform for 2026 NBA Finals Game 5 at San Antonio Spurs at Frost Bank Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW YORK KNICKS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Icon · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520knicks%2520icon%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/jerseys/nba/spurs-association-white.png" alt="San Antonio Spurs Association Edition white home jersey and uniform for 2026 NBA Finals Game 5 vs New York Knicks at Frost Bank Center" style="height: 200px; max-width: 100%; object-fit: contain;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SAN ANTONIO SPURS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Association · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520antonio%2520spurs%2520association%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
 
-Through 4 games, the 2026 NBA Finals jersey series is averaging 9.3 out of 10. That is the highest jersey grade of any series this postseason, ahead of the Spurs vs Thunder WCF that landed at 6.5 out of 10 and the Knicks vs Cavaliers ECF that landed in the same range. The Knicks return to the Finals 27 years after the 1999 Spurs vs Knicks rematch and the franchise is making the most of the classic identity at home and on the road. The Finals jersey story is the story of the Knicks classic identity carrying the series.
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
+</div>
+
+<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
+  <div style="background: linear-gradient(90deg, #006BB6 0%, #BAC3C9 100%); padding: 10px 20px; text-align: center;">
+    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Finals · Game 5</p>
+  </div>
+  <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 5 · Frost Bank Center · NBA Finals Court</p>
+  </div>
+  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 5 vs New York Knicks" style="width: 100%; display: block;" />
+  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · NBA Finals Court</p>
+</div>
+
+Game 5 back at Frost Bank Center runs back the cleanest jersey pairing of the series. The Spurs announced the Association Edition white at home, the franchise's traditional home identity with the SPURS wordmark in silver, and the Knicks pulling the Icon Edition blue on the road keeps the road blues in primary color against the home whites. Spurs white at home plus Knicks blue on the road is the textbook playoff color standard with the home team in traditional white and the road team in primary color, the exact same matchup the Spurs ran in Game 2 Friday night at Frost Bank, the only other 10 out of 10 grade we have handed out in San Antonio this series. The Spurs choosing the Association whites at home for the second straight Frost Bank home night, instead of unleashing the Fiesta City Edition wild card with the series on the line, commits San Antonio to the cleanest playoff identity over the regular season alternate even with the season on the line. Ten out of 10. The textbook home-team-in-white and road-team-in-color call we have rewarded across both Conference Finals trackers all postseason, and the second Spurs Association whites at home grade of the 2026 Finals.
+
+## The Series Take Through Game 5
+
+The Knicks running the Association Edition white in 3 of the first 5 games of the Finals is the strongest commitment to a single team's classic identity we have seen in a Finals series in years. New York on the road at Frost Bank Center for Game 1 in their cursive NEW YORK whites, then at home at MSG for Games 3 and 4 in the same Association whites. The Knicks pull the Icon Edition blue on the road for the two Frost Bank night games where the Spurs have the Association whites at home, Game 2 Friday night and Game 5 back in San Antonio, both pairings the cleanest broadcast color contrast pairings of the series.
+
+The Spurs are running the Icon Edition black in 3 of 5 games and the Association Edition white in 2 of 5. San Antonio at home in Icon black at Frost Bank Center for Game 1 inverts the playoff white-versus-color standard the way the Spurs did in Round 2 against the Wolves and in WCF Games 3 and 6 against the Thunder. The grading dock we applied to those earlier inversions does not apply at the Finals because the Spurs black versus the Knicks white is the sharpest possible single-game color separation. The Spurs Association white at home for both Game 2 and Game 5 is the cleanest back-to-back commitment to the playoff color standard San Antonio could make with the series on the line. The Spurs City Edition Fiesta jersey, the season-long alternate San Antonio rotated through the regular season and held back across the entire 2026 playoffs, is the wild card we are still watching for in Games 6 and 7 if the series goes long.
+
+Through 5 announced games, the 2026 NBA Finals jersey series is averaging 9.4 out of 10. That is the highest jersey grade of any series this postseason, ahead of the Spurs vs Thunder WCF that landed at 6.5 out of 10 and the Knicks vs Cavaliers ECF that landed in the same range. The Knicks return to the Finals 27 years after the 1999 Spurs vs Knicks rematch and the franchise is making the most of the classic identity at home and on the road. The Finals jersey story is the story of the Knicks classic identity carrying the series and the Spurs Association whites at Frost Bank carrying the broadcast.
 
 <div style="display: flex; justify-content: center; margin: 2em 0 1em;">
   <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 NBA Finals Gear on Fanatics</a>
@@ -278,21 +323,29 @@ The New York Knicks are wearing the Association Edition white home jersey for bo
 
 The San Antonio Spurs are wearing the Icon Edition black road jersey for both Game 3 and Game 4 of the 2026 NBA Finals at Madison Square Garden. The Icon black road call against the Knicks Association whites at home scores 10 out of 10 in both games for the textbook playoff white-versus-color contrast at MSG with both teams in their primary identity.
 
+**What jersey will the Spurs wear in Game 5 of the 2026 NBA Finals?**
+
+The San Antonio Spurs have announced the Association Edition white home jersey for Game 5 of the 2026 NBA Finals at Frost Bank Center. Spurs Association white at home for Game 5 against the Knicks Icon Edition blue on the road is the textbook playoff color pairing and the exact same matchup the Spurs ran in Game 2 Friday night at Frost Bank, the only other 10 out of 10 grade we have handed out in San Antonio this series. The Spurs chose the Association whites at home over the Fiesta City Edition wild card with the series on the line.
+
+**What jersey will the Knicks wear in Game 5 of the 2026 NBA Finals?**
+
+The New York Knicks are wearing the Icon Edition blue road jersey for Game 5 of the 2026 NBA Finals at Frost Bank Center. The Icon blue is the Knicks primary color jersey with the cursive NEW YORK wordmark in white and orange trim, the same Knicks road look from Game 2 at Frost Bank Friday night. Game 5 is the second of the 5 announced NBA Finals games where the Knicks are not wearing the Association Edition white.
+
 **Will the Spurs wear the Fiesta City Edition jersey in the 2026 NBA Finals?**
 
-The San Antonio Spurs have not worn the Fiesta City Edition jersey in any game of the 2026 NBA playoffs through the Western Conference Finals Game 7 win over the Oklahoma City Thunder, despite the Fiesta colorway being the team's primary alternate identity for the season. City Edition uniform usage in the NBA Finals requires league approval per game. The Fiesta jersey is the single biggest design wild card still in play for Games 5 through 7 if the series goes that long.
+The San Antonio Spurs have not worn the Fiesta City Edition jersey in any game of the 2026 NBA playoffs through the Western Conference Finals Game 7 win over the Oklahoma City Thunder, and the Spurs have now committed to the Association Edition white at home for Game 5 instead of the Fiesta colorway despite the series being on the line. City Edition uniform usage in the NBA Finals requires league approval per game. The Fiesta jersey is the single biggest design wild card still in play for Games 6 and 7 if the series goes that long.
 
 **Which game of the 2026 NBA Finals has the highest jersey matchup grade?**
 
-Game 2, Game 3, and Game 4 of the 2026 NBA Finals all grade 10 out of 10 on the same 10-point scale we use across all our jersey trackers. Game 2 at Frost Bank Center Friday night with the Spurs Association Edition white at home against the Knicks Icon Edition blue on the road is the sharpest broadcast color pairing of the series and follows the textbook playoff home-team-in-white standard. Game 3 and Game 4 at Madison Square Garden are also 10 out of 10 with the Knicks Association Edition white at home against the Spurs Icon Edition black on the road.
+Game 2, Game 3, Game 4, and Game 5 of the 2026 NBA Finals all grade 10 out of 10 on the same 10-point scale we use across all our jersey trackers. Game 2 and Game 5 at Frost Bank Center are the cleanest broadcast color pairings of the series with the Spurs Association Edition white at home against the Knicks Icon Edition blue on the road, the textbook playoff home-team-in-white standard. Game 3 and Game 4 at Madison Square Garden are also 10 out of 10 with the Knicks Association Edition white at home against the Spurs Icon Edition black on the road.
 
 **What is the average jersey matchup grade for the 2026 NBA Finals?**
 
-The 2026 NBA Finals jersey matchup average through Game 4 is 9.3 out of 10. That is the highest jersey grade of any series in the 2026 NBA playoffs, well above the Spurs vs Thunder Western Conference Finals at 6.5 out of 10 and the Knicks vs Cavaliers Eastern Conference Finals in the same range.
+The 2026 NBA Finals jersey matchup average through 5 announced games is 9.4 out of 10. That is the highest jersey grade of any series in the 2026 NBA playoffs, well above the Spurs vs Thunder Western Conference Finals at 6.5 out of 10 and the Knicks vs Cavaliers Eastern Conference Finals in the same range.
 
 **How many times will the Knicks wear their classic Association white jersey in the 2026 NBA Finals?**
 
-The New York Knicks are wearing the Association Edition white jersey in 3 of the first 4 games of the 2026 NBA Finals, the strongest classic identity commitment of any team in any series this postseason. Knicks Association white on the road in Game 1 at Frost Bank Center, then at home in Game 3 and Game 4 at Madison Square Garden. The only break is Game 2 at Frost Bank Friday night, where the Knicks pull the Icon Edition blue on the road.
+The New York Knicks are wearing the Association Edition white jersey in 3 of the first 5 announced games of the 2026 NBA Finals. Knicks Association white on the road in Game 1 at Frost Bank Center, then at home in Game 3 and Game 4 at Madison Square Garden. The Knicks pull the Icon Edition blue on the road for Game 2 and Game 5 at Frost Bank Center, the two Spurs Association whites at home night games in San Antonio.
 
 **When does Game 1 of the 2026 NBA Finals start?**
 
