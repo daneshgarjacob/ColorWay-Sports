@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-06-02"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Monday Stanley Cup Final Game 1: Hurricanes custom Stanley Cup Final 2026 commemorative rally towels at Lenovo Center for the franchise's first home Cup Final game in Raleigh since 2006 (A). Friday ECF Game 5: Hurricanes white rally towels at Lenovo Center for the Stanley Cup Final-clinching closeout win over the Canadiens (B+). Wednesday ECF Game 4: Canadiens white rally towels at Bell Centre (C+). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-06-09"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday Stanley Cup Final Game 4: Vegas Golden Knights Tomas Hertl rally towels at T-Mobile Arena honoring the franchise's playoff hero on the gold base (A-). Monday Stanley Cup Final Game 1: Hurricanes custom Stanley Cup Final 2026 commemorative rally towels at Lenovo Center for the franchise's first home Cup Final game in Raleigh since 2006 (A). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,18 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+## Tuesday Stanley Cup Final Game 4 Giveaway
+
+Vegas hosts Stanley Cup Final Game 4 at T-Mobile Arena against the Hurricanes with the Golden Knights up 2-1 in the series and a chance to push within one home win of the Cup, and the team breaks from the standard gold rally towel format the Knights have run across every home playoff game in favor of a custom design that features Tomas Hertl as the central image, honoring the franchise's playoff hero through the 2026 run.
+
+### Vegas Golden Knights · Tomas Hertl Rally Towel · Stanley Cup Final Game 4 · Grade: A-
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/2064482848829276213"></a></blockquote>
+</div>
+
+Vegas hands out a custom Tomas Hertl rally towel at every T-Mobile Arena seat for Stanley Cup Final Game 4 against the Hurricanes, a player-image design upgrade above the standard gold towel format the Knights have run across every home playoff game and a lift comparable to the Carolina Hurricanes Seth Jarvis "Make Them Hear You" rally towel from Eastern Conference Final Game 2 at A-. The Hertl-featured design honors the Knights' playoff hero through the 2026 run, the late Game 1 game-winner against the Hurricanes with 3:24 left in regulation that opened the Cup Final, the Game 3 spark that rebooted the Vegas offense after the disallowed-goal sequence in the third period, and the broader return-to-the-Cup-Final story for a center who was traded out of San Jose mid-career and waited through injuries to make it back to the Stanley Cup stage. The Vegas gold base on the towel maintains the team's color-cohesion identity at T-Mobile Arena that the Knights have ridden through every home game of the postseason, the cleanest crowd-and-sweater color combination in the NHL, and the player-image upgrade lifts the format above the standard gold-towel B+ grade earned across the Western Conference Final swing games. The cap below A holds because the Hurricanes Stanley Cup Final Game 1 custom commemorative towel sits at A as the strongest standalone towel design of the 2026 NHL playoffs, but the Hertl player feature on the gold base earns the Cup Final stakes lift and the player-story design lift to land the cleanest Vegas crowd identity of the postseason. A-. Player-image upgrade at Cup Final stakes maintaining the gold-on-gold color cohesion the Knights have run all postseason, the cleanest fan-keepsake the Vegas home identity has put together through the 2026 playoff run.
 
 ## Monday Stanley Cup Final Game 1 Giveaway
 
