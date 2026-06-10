@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0a1a3d 0%, #5c1f2e 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/nascar-coca-cola-600-memorial-day-2026/cover.png"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-league: "motorsports"
+league: "nascar"
 teams: []
 homepageOrder: 7
 bestRating: 10

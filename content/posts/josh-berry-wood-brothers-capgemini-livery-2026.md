@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #001A4D 0%, #1BA6DC 50%, #0D69AB 100%)"
 coverImage: "/images/posts/josh-berry-wood-brothers-capgemini-livery-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-league: "motorsports"
+league: "nascar"
 teams: []
 ---
 

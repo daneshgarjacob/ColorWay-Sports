@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%)"
 coverImage: "/images/posts/kyle-busch-tribute/HI8uYPLW4AALUmq.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-league: "motorsports"
+league: "nascar"
 teams: []
 ---
 

@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #000000 0%, #C8102E 50%, #000000 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKDn44zXgAAlseM.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-league: "motorsports"
+league: "nascar"
 teams: []
 ---
 

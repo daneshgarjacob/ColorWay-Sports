@@ -59,6 +59,11 @@ const leagues = [
     ],
   },
   {
+    label: "NASCAR",
+    storiesLink: { label: "NASCAR Stories", href: "/stories?league=nascar" },
+    teams: [],
+  },
+  {
     label: "NHL",
     storiesLink: { label: "NHL Stories", href: "/stories?league=nhl" },
     teams: [
