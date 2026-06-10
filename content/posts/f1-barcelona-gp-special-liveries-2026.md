@@ -1,13 +1,13 @@
 ---
-title: "F1 Barcelona Grand Prix 2026: Every Special Livery Tracker and Ranking — Racing Bulls' Soccer Ball Wheels Football Livery Kicks Off the Reveal Weekend"
+title: "Racing Bulls Turn Their Wheels Into Soccer Balls: 2026 F1 Barcelona GP Special Livery Tracker and Rankings"
 category: "F1"
 date: "2026-06-10"
 updatedDate: "2026-06-10"
-excerpt: "Every 2026 F1 Barcelona GP special livery and one-off ranked. Visa Cash App Racing Bulls opens the reveal weekend with a soccer-dedicated one-off, white-and-black soccer ball wheel covers on all four corners, a flowing blue-to-teal gradient over the white and navy VCARB base, and a street futsal court photoshoot with Liam Lawson and Arvid Lindblad's numbers sprayed as graffiti murals on the wall. It is the team's third special livery of the 2026 season after the Suzuka Spring Edition and the Miami Summer Edition, and it lands in football-mad Barcelona the same week the 2026 World Cup kicks off."
+excerpt: "Racing Bulls put actual soccer ball wheels on an F1 car for the 2026 Barcelona Grand Prix. We are ranking every Barcelona GP special livery as it drops: the white-and-black pentagon wheel covers, the blue-to-teal gradient bodywork, the street futsal court photoshoot with Lawson and Lindblad's numbers in graffiti, and why VCARB's third special of the season (after the Suzuka Spring Edition and the Miami Summer Edition) is their best one yet. It lands in football-mad Barcelona the same week the 2026 World Cup kicks off. Updated through race weekend, June 12 to 14."
 gradient: "linear-gradient(135deg, #061A57 0%, #1B9FD8 55%, #F4F4F4 100%)"
 logoSrc: "/logos/f1.png"
-coverImage: "/images/posts/f1-special-liveries-2026/SI202606100052.avif"
-coverImagePosition: "center center"
+coverImage: "/images/posts/f1-special-liveries-2026/SI202606100053.avif"
+coverImagePosition: "left center"
 coverImageFit: "cover"
 league: "f1"
 teams: []
@@ -42,7 +42,7 @@ This is an A for us. We absolutely love it. The soccer ball wheel covers are the
 ### More Photos of the Racing Bulls Barcelona GP Soccer Livery
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
-  <img src="/images/posts/f1-special-liveries-2026/SI202606100053.avif" alt="Visa Cash App Racing Bulls F1 Barcelona Grand Prix 2026 soccer football livery close crossover shot of both cars on the futsal court showing the white-and-black soccer ball pentagon pattern wheel covers with the blue-teal gradient wash, the Red Bull crest and Red Bull wordmark on the number 30 car nose, and the graffiti mural wall behind" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-special-liveries-2026/SI202606100052.avif" alt="Visa Cash App Racing Bulls F1 Barcelona Grand Prix 2026 soccer football livery two-car shot of the number 30 Liam Lawson and number 41 Arvid Lindblad cars angled together on the street futsal court with soccer ball wheel covers on every corner, donut tire marks on the concrete, bleacher seating behind the fence, and a soccer ball resting on the court in the background" style="width: 100%; border-radius: 10px;" />
   <img src="/images/posts/f1-special-liveries-2026/SI202606100054.avif" alt="Visa Cash App Racing Bulls F1 Barcelona Grand Prix 2026 soccer football livery low front three-quarter angle of the number 41 car with the HUGO and Red Bull front wing branding, Cash App and Dynatrace endplate detail, and the spray painted soccer graffiti murals on the court walls behind the car" style="width: 100%; border-radius: 10px;" />
   <img src="/images/posts/f1-special-liveries-2026/HKdf9-mXQAAtbsi.jpg" alt="Visa Cash App Racing Bulls F1 Barcelona Grand Prix 2026 soccer football livery overhead top-down view of the number 41 car parked inside the futsal court center circle with donut tire marks looped around it, showing the TUDOR and Cash App rear wing, the white upper bodywork with the Red Bull crest, and the navy floor edges from above" style="width: 100%; border-radius: 10px;" />
   <img src="/images/posts/f1-special-liveries-2026/SI202606100061.avif" alt="Visa Cash App Racing Bulls F1 Barcelona Grand Prix 2026 soccer football livery wide shot of the number 41 car parked in front of the futsal goal frame with a winged soccer ball mural on the garage door behind it and a Visa Cash App branded tire rack standing in the corner of the court" style="width: 100%; border-radius: 10px;" />
