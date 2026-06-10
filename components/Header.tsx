@@ -50,20 +50,6 @@ const leagues = [
     ],
   },
   {
-    label: "F1",
-    storiesLink: { label: "F1 Stories", href: "/stories?league=f1" },
-    teams: [
-      "Alpine", "Aston Martin", "Audi", "Cadillac",
-      "Ferrari", "Haas", "McLaren", "Mercedes",
-      "Racing Bulls", "Red Bull Racing", "Williams",
-    ],
-  },
-  {
-    label: "NASCAR",
-    storiesLink: { label: "NASCAR Stories", href: "/stories?league=nascar" },
-    teams: [],
-  },
-  {
     label: "NHL",
     storiesLink: { label: "NHL Stories", href: "/stories?league=nhl" },
     teams: [
@@ -90,6 +76,20 @@ const leagues = [
       "Ligue 1",
       "MLS",
     ],
+  },
+  {
+    label: "F1",
+    storiesLink: { label: "F1 Stories", href: "/stories?league=f1" },
+    teams: [
+      "Alpine", "Aston Martin", "Audi", "Cadillac",
+      "Ferrari", "Haas", "McLaren", "Mercedes",
+      "Racing Bulls", "Red Bull Racing", "Williams",
+    ],
+  },
+  {
+    label: "NASCAR",
+    storiesLink: { label: "NASCAR Stories", href: "/stories?league=nascar" },
+    teams: [],
   },
 ];
 
@@ -137,7 +137,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="bg-white/95 backdrop-blur-md border-b-[2.5px] border-orange relative z-50">
+      <header className="sticky top-0 z-50 bg-white/95 supports-[backdrop-filter]:bg-white/70 backdrop-blur-2xl backdrop-saturate-150 border-b-[2.5px] border-orange shadow-[0_1px_16px_rgba(0,0,0,0.05)]">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
@@ -207,7 +207,7 @@ export default function Header() {
                 {/* Dropdown — only for leagues with teams */}
                 {league.teams.length > 0 && (
                   <div
-                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white rounded-lg shadow-xl border border-border overflow-hidden transition-all duration-200 origin-top ${
+                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
@@ -270,7 +270,7 @@ export default function Header() {
                 onSubmit={handleSearch}
                 className="absolute right-0 top-full pt-1 z-50"
               >
-                <div className="flex items-center gap-2 bg-white border border-border rounded-lg shadow-lg p-2">
+                <div className="flex items-center gap-2 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 border border-black/10 rounded-2xl shadow-lg p-2">
                   <input
                     ref={searchInputRef}
                     type="text"
@@ -306,29 +306,13 @@ export default function Header() {
         </div>
       </header>
 
-      {/* Mobile menu */}
+      {/* Mobile menu — frosted glass sheet that starts below the sticky header */}
       <div
-        className={`fixed inset-0 z-40 bg-white transition-all duration-300 overflow-y-auto ${
+        className={`fixed inset-x-0 bottom-0 top-[80px] sm:top-[100px] z-40 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
           mobileOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         }`}
       >
-        {/* Close button */}
-        <div className="flex justify-end p-4">
-          <button
-            onClick={() => {
-              setMobileOpen(false);
-              setMobileLeague(null);
-            }}
-            className="p-2 text-black"
-            aria-label="Close menu"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-            </svg>
-          </button>
-        </div>
-
-        <div className="flex flex-col items-center gap-4 pt-8 pb-12">
+        <div className="flex flex-col items-center gap-4 pt-10 pb-12">
           {/* Mobile search */}
           <form onSubmit={handleSearch} className="w-full max-w-[300px] mb-4">
             <div className="flex items-center border border-border rounded-lg overflow-hidden">
