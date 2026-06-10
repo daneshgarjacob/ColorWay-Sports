@@ -14,6 +14,7 @@ teams: []
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/josh-berry-wood-brothers-capgemini-paint-scheme-2026/cover.jpg" alt="Josh Berry #21 Wood Brothers Racing Capgemini Ford Mustang Dark Horse paint scheme in two-tone deep navy and cyan blue with Capgemini script wordmark on the door for 2026 NASCAR Cup Series" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @woodbrothers21 on X</p>
 </div>
 
 Wood Brothers Racing rolled out the Capgemini paint scheme for Josh Berry's #21 Ford Mustang Dark Horse on Tuesday, a two-tone deep navy and cyan blue paint scheme anchored by an oversized Capgemini script wordmark that runs across both doors, the hood, and the rear decklid. It is the cleanest sponsor reveal Wood Brothers has put on the car this season and one of the sharpest two-tone blue paint schemes in the Cup Series field, a paint scheme that pairs the global IT consulting brand's signature blue color story with the heritage Wood Brothers #21 number font for a modern look that still reads as Wood Brothers at a glance.
@@ -28,6 +29,7 @@ The Capgemini paint scheme splits the car body into two distinct blue values tha
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/josh-berry-wood-brothers-capgemini-paint-scheme-2026/capgemini-door-wordmark.jpg" alt="Close-up of the Capgemini script wordmark on the side of Josh Berry's #21 Wood Brothers Racing Ford Mustang Dark Horse paint scheme for the 2026 NASCAR Cup Series with the Motorcraft Quick Lane Tire and Auto Center sponsor lockup on the lower quarter panel" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @woodbrothers21 on X</p>
 </div>
 
 ## The Capgemini Script Wordmark
@@ -36,6 +38,7 @@ The Capgemini script wordmark is the single most distinctive design element on t
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/josh-berry-wood-brothers-capgemini-paint-scheme-2026/capgemini-rear-decklid.jpg" alt="Close-up of the Capgemini script wordmark on the rear decklid of Josh Berry's #21 Wood Brothers Racing Ford Mustang Dark Horse for the 2026 NASCAR Cup Series with the FORD RACING wordmark below" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @woodbrothers21 on X</p>
 </div>
 
 ## The Sponsor Stack and the 21 Identity
@@ -44,6 +47,7 @@ Capgemini is the new title-level sponsor on the door but Wood Brothers keep the 
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/josh-berry-wood-brothers-capgemini-paint-scheme-2026/capgemini-hood-front.jpg" alt="Front view of Josh Berry's #21 Wood Brothers Racing Ford Mustang Dark Horse for the 2026 NASCAR Cup Series with the Capgemini script wordmark across the hood above the Ford oval and the Mustang grille emblem at the front" style="width: 100%; display: block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @woodbrothers21 on X</p>
 </div>
 
 ## The Verdict
