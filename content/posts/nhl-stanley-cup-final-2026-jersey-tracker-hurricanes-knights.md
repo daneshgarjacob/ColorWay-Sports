@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights Matchup Graded"
 category: "NHL"
 date: "2026-06-01"
-updatedDate: "2026-06-08"
-excerpt: "2026 NHL Stanley Cup Final jersey tracker. Vegas Golden Knights re-take the series 2-1 with a 5-4 double-overtime Game 3 thriller in Las Vegas inside the gold home sweater, Mitch Marner setting the Stanley Cup Final record for fastest hat trick (6:10) and Shea Theodore winning it at 5:38 of 2OT, after Carolina erased a 4-0 deficit with three goals in 39 seconds (the three fastest goals in SCF history). Hurricanes black home alternate at Lenovo Center, Knights gold home at T-Mobile Arena. Every matchup graded. Series average 7.5 out of 10."
+updatedDate: "2026-06-10"
+excerpt: "2026 NHL Stanley Cup Final jersey tracker. The Hurricanes take Game 4 on the road in the white sweaters at T-Mobile Arena to even the series 2-2 and send the Final back to Lenovo Center as a best-of-three. Game 3 went to Vegas 5-4 in double overtime inside the gold home sweater behind Mitch Marner's record 6:10 natural hat trick and Shea Theodore's 2OT winner. Hurricanes black home alternate at Lenovo Center, Knights gold home at T-Mobile Arena, every sweater matchup graded. Series average 7.5 out of 10."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
 coverImagePosition: "center center"
@@ -65,7 +65,7 @@ Below, every matchup graded game by game in reverse chronological order with the
 
 <div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 4 · Confirmed · T-Mobile Arena</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 4 · Final · T-Mobile Arena</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -88,7 +88,13 @@ Below, every matchup graded game by game in reverse chronological order with the
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 8 / 10</p>
 </div>
 
-Game 4 runs back the exact same sweater pairing as Game 3 at T-Mobile Arena with the Hurricanes in white on the road and the Knights in the primary gold home sweater. Same pairing, same grade per the same-sweater-same-score rule. Vegas gold at home is the strongest individual sweater identity in the entire 2026 postseason, and the gold-versus-white pairing against the Hurricanes road whites with the red trim threading through is the cleanest visual contrast the Final can produce. The Knights are 2 home wins away from a second Cup in 4 years on home ice in their most iconic sweater. Eight out of 10. Series shifts back to Lenovo Center for Game 5 if necessary.
+Game 4 runs back the exact same sweater pairing as Game 3 at T-Mobile Arena with the Hurricanes in white on the road and the Knights in the primary gold home sweater. Same pairing, same grade per the same-sweater-same-score rule. Vegas gold at home is the strongest individual sweater identity in the entire 2026 postseason, and the gold-versus-white pairing against the Hurricanes road whites with the red trim threading through is the cleanest visual contrast the Final can produce. Eight out of 10. The Hurricanes took Game 4 in the road whites to even the series 2-2, the first Carolina win in the white sweaters this Final, and the series heads back to Lenovo Center for Game 5 as a best-of-three.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; border: 1px solid rgba(204,0,0,0.4); text-align: center;">
+  <p style="margin: 0 0 0.4em; font-size: 0.7em; font-weight: 800; color: rgba(255,255,255,0.6); text-transform: uppercase; letter-spacing: 2.5px;">Result</p>
+  <p style="margin: 0; font-size: 1.15em; font-weight: 900; color: #ff5b6e;">Carolina Hurricanes win Game 4</p>
+  <p style="margin: 0.4em 0 0; font-size: 0.78em; color: rgba(255,255,255,0.65); font-weight: 500;">Series tied 2-2 · Game 5 at Lenovo Center · June 9, 2026</p>
+</div>
 
 <span id="game-3"></span>
 
