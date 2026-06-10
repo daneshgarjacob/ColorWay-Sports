@@ -17,7 +17,7 @@ teams: []
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @RCRracing on X</p>
 </div>
 
-Richard Childress Racing has revealed the 2026 paint schemes for the #33 Chevrolet driven by Austin Hill and the #3 Chevrolet driven by Austin Dillon, and the #33 is a full-on Kyle Busch tribute. The matte black Rebel Bourbon livery carries "HONORING OUR ORIGINAL REBEL" across the quarter panel in white block letters, the kind of tribute paint scheme that turns every camera cut into a moment for the late two-time NASCAR Cup Series champion who passed away on May 21, 2026 at the age of 41.
+Richard Childress Racing has revealed the 2026 paint schemes for the #33 Chevrolet driven by Austin Hill and the #3 Chevrolet driven by Austin Dillon, and the #33 is a full-on Kyle Busch tribute. The matte black Rebel Bourbon paint scheme carries "HONORING OUR ORIGINAL REBEL" across the quarter panel in white block letters, the kind of tribute paint scheme that turns every camera cut into a moment for the late two-time NASCAR Cup Series champion who passed away on May 21, 2026 at the age of 41.
 
 This is the first full look at where RCR has landed after Kyle's passing, and the #33 carrying the Rebel Bourbon tribute is the answer to the question every NASCAR fan has been asking for two weeks: how is the team going to honor the original face of their Rebel Bourbon partnership.
 
@@ -64,7 +64,7 @@ The black-and-red color story across both cars and the Kyle Busch tribute letter
 
 ## What This Means for the Rest of the 2026 NASCAR Cup Series Season
 
-Austin Hill stepping into the #33 with a tribute paint scheme is a clean handoff from the Kyle Busch era at RCR to whatever comes next. The tribute lettering is permanent on this base livery, not a one-race special, which means the "HONORING OUR ORIGINAL REBEL" callout will be visible every time the #33 rolls through a broadcast frame for the rest of 2026.
+Austin Hill stepping into the #33 with a tribute paint scheme is a clean handoff from the Kyle Busch era at RCR to whatever comes next. The tribute lettering is permanent on this base paint scheme, not a one-race special, which means the "HONORING OUR ORIGINAL REBEL" callout will be visible every time the #33 rolls through a broadcast frame for the rest of 2026.
 
 Austin Dillon's #3 Dow scheme keeps the most famous number in NASCAR running its 12th season under Dillon, with the unified RCR black-and-red identity now tying both cars together across the grid. Expect special one-off paint schemes throughout the season tied to Rebel Bourbon's "real rebels" campaign and to Dow's anniversary moments, but the base look is what fans are going to see most weeks.
 
