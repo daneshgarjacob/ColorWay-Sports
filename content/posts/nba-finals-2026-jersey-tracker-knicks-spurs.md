@@ -152,7 +152,7 @@ Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garde
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 3 · Confirmed · Madison Square Garden</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 3 · Final · Madison Square Garden</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -175,12 +175,18 @@ Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garde
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 10 / 10</p>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1em 1.5em; background: linear-gradient(135deg, #000000 0%, #2a2d3a 100%); border-radius: 12px; border: 1px solid rgba(196, 206, 212, 0.35);">
+  <p style="font-size: 0.7em; font-weight: 800; margin: 0 0 0.4em; text-align: center; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 2.5px;">Result · June 8, 2026</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #fff; line-height: 1.35;">San Antonio Spurs 115, New York Knicks 111 · Knicks lead series 2-1</p>
+  <p style="font-size: 0.82em; font-weight: 500; margin: 0.5em 0 0; text-align: center; color: rgba(255,255,255,0.8); line-height: 1.35;">Wembanyama 32 pts 8 reb 6 ast 3 blk · Stephon Castle 23 pts including the clutch three with under 2 minutes left and game-clinching free throws with 6 seconds remaining · Brunson 32 · Anunoby 28</p>
+</div>
+
 <div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
   <div style="background: linear-gradient(90deg, #000000 0%, #006BB6 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">NBA Finals · Game 3</p>
   </div>
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
-    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 3 · Madison Square Garden · NBA Finals Court</p>
+    <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 3 · Monday · Madison Square Garden · NBA Finals Court</p>
   </div>
   <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="Madison Square Garden New York Knicks 2026 NBA Finals court for Game 3 vs San Antonio Spurs" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · NBA Finals Court</p>
