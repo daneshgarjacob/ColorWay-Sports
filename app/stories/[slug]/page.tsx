@@ -5,6 +5,9 @@ import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
+import ReadingProgress from "@/components/ReadingProgress";
+import UpNext from "@/components/UpNext";
+import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -100,8 +103,17 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     "@graph": graph,
   };
 
+  const relatedPosts = getRelatedPosts(slug, {
+    league: post.league,
+    teams: post.teams,
+    category: post.category,
+    limit: 3,
+  });
+  const upNextPost = relatedPosts[0];
+
   return (
     <>
+      <ReadingProgress />
       <Header />
 
       <script
@@ -160,14 +172,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <InlineNewsletter />
 
         {/* Related stories */}
-        <RelatedStories
-          posts={getRelatedPosts(slug, {
-            league: post.league,
-            teams: post.teams,
-            category: post.category,
-            limit: 3,
-          })}
-        />
+        <RelatedStories posts={relatedPosts} />
 
         {/* Comments */}
         <DisqusComments
@@ -186,6 +191,18 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <span className="text-xs text-gray-light uppercase tracking-wider">ColorWay Sports</span>
         </div>
       </main>
+
+      {upNextPost && (
+        <UpNext
+          slug={upNextPost.slug}
+          title={upNextPost.title}
+          category={upNextPost.category}
+          gradient={upNextPost.gradient}
+          coverImage={upNextPost.coverImage}
+          coverImagePosition={upNextPost.coverImagePosition}
+          accent={leagueColor(upNextPost.category)}
+        />
+      )}
 
       <Footer />
     </>

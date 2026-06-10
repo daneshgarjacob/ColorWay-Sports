@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
+import { leagueColor } from "@/lib/leagueColors";
 
 // Map of team names to their logo paths — will populate as we add logos per team
 const teamLogos: Record<string, string> = {};
@@ -185,10 +186,11 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14px] font-medium text-black hover:text-orange transition-colors flex items-center gap-1"
+                  className="text-[14px] font-medium text-black transition-colors flex items-center gap-1 hover:text-[var(--league-accent)]"
+                  style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
-                    // Soccer has no teams, just go to stories
+                    // Leagues with no team list go straight to their stories page
                     if (league.teams.length === 0) {
                       window.location.href = league.storiesLink.href;
                       return;
@@ -290,18 +292,19 @@ export default function Header() {
             )}
           </div>
 
-          {/* Mobile hamburger */}
+          {/* Mobile hamburger — three absolutely centered bars so the open
+              state forms a geometrically exact X with no stray pixels */}
           <button
-            className="lg:hidden flex flex-col gap-1.5 p-2"
+            className="lg:hidden relative w-10 h-10"
             onClick={() => {
               setMobileOpen(!mobileOpen);
               setMobileLeague(null);
             }}
             aria-label="Toggle menu"
           >
-            <span className={`block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "rotate-45 translate-y-2" : ""}`} />
-            <span className={`block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "opacity-0" : ""}`} />
-            <span className={`block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "-rotate-45 -translate-y-2" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
         </div>
       </header>
@@ -352,7 +355,8 @@ export default function Header() {
               {league.teams.length > 0 ? (
                 <>
                   <button
-                    className="w-full text-xl font-medium text-black hover:text-orange transition-colors flex items-center justify-center gap-2"
+                    className="w-full text-xl font-medium text-black transition-colors flex items-center justify-center gap-2 hover:text-[var(--league-accent)]"
+                    style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                     onClick={() => setMobileLeague(mobileLeague === league.label ? null : league.label)}
                   >
                     {league.label}

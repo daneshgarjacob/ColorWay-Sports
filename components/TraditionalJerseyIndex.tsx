@@ -33,8 +33,8 @@ const rounds: RoundStat[] = [
   },
   {
     label: "NBA Finals",
-    traditional: 3,
-    total: 4,
+    traditional: 4,
+    total: 5,
     complete: false,
     slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
   },
