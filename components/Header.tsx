@@ -209,7 +209,7 @@ export default function Header() {
                 {/* Dropdown — only for leagues with teams */}
                 {league.teams.length > 0 && (
                   <div
-                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
+                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
@@ -272,7 +272,7 @@ export default function Header() {
                 onSubmit={handleSearch}
                 className="absolute right-0 top-full pt-1 z-50"
               >
-                <div className="flex items-center gap-2 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 border border-black/10 rounded-2xl shadow-lg p-2">
+                <div className="flex items-center gap-2 bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl border border-black/10 rounded-2xl shadow-lg p-2">
                   <input
                     ref={searchInputRef}
                     type="text"

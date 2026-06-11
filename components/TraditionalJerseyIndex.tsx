@@ -57,7 +57,7 @@ export default function TraditionalJerseyIndex() {
             </h2>
           </div>
           <Link
-            href="/stories/nba-playoffs-2026-round-1-home-jersey-breakdown"
+            href="/stories/nba-traditional-jersey-index-2026"
             className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
           >
             Full breakdown →
