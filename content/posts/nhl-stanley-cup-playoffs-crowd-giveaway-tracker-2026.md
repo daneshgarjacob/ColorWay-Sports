@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-06-09"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Tuesday Stanley Cup Final Game 4: Vegas Golden Knights Tomas Hertl rally towels at T-Mobile Arena honoring the franchise's playoff hero on the gold base (A-). Monday Stanley Cup Final Game 1: Hurricanes custom Stanley Cup Final 2026 commemorative rally towels at Lenovo Center for the franchise's first home Cup Final game in Raleigh since 2006 (A). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-06-11"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Thursday Stanley Cup Final Game 5: Hurricanes white rally towels at Lenovo Center with the series tied 2-2, the third Carolina towel night of the run (B). Tuesday Stanley Cup Final Game 4: Vegas Golden Knights Tomas Hertl rally towels at T-Mobile Arena honoring the franchise's playoff hero on the gold base (A-). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -21,7 +21,17 @@ The crowd takeover is one of the most underrated visual elements of playoff hock
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
 
-## Tuesday Stanley Cup Final Game 4 Giveaway
+## Thursday Stanley Cup Final Game 5 Giveaway
+
+Carolina hosts Stanley Cup Final Game 5 at Lenovo Center with the series tied 2-2 after the Hurricanes evened it in Vegas, and the team goes back to the towel rack for the biggest home game Raleigh has hosted in two decades: white rally towels at every seat, the third towel giveaway of the Hurricanes' 2026 postseason.
+
+### Carolina Hurricanes · White Rally Towels · Stanley Cup Final Game 5 · Grade: B
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2065139806208696693"></a></blockquote>
+</div>
+
+White rally towels on every Lenovo Center seat for a 2-2 Cup Final pivot game, and the wave will read on broadcast no matter which sweater Carolina pulls: white towels snap against the black home alternate the Hurricanes ran in Games 1 and 2, and they read just as cleanly against the classic red home set if the team flips back for the swing game. The stakes are the highest of the Carolina giveaway program this spring, and that is also the problem. This is the plain white towel format's second run of the Hurricanes' postseason after the Eastern Conference Final Game 5 white towels landed at B+, and the third Carolina towel night overall, with no design lift this time: no custom Cup Final mark like the Game 1 commemorative towels that earned the A, no player feature like the Vegas Hertl towel that took Game 4's A-. Cup Final stakes raise the moment, format repetition caps the grade. B. The whiteout will look great in the building; the towel itself is the most standard item Carolina has handed out all run.
 
 Vegas hosts Stanley Cup Final Game 4 at T-Mobile Arena against the Hurricanes with the Golden Knights up 2-1 in the series and a chance to push within one home win of the Cup, and the team breaks from the standard gold rally towel format the Knights have run across every home playoff game in favor of a custom design that features Tomas Hertl as the central image, honoring the franchise's playoff hero through the 2026 run.
 

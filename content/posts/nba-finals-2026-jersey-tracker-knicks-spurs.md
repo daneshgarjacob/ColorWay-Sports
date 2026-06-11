@@ -2,8 +2,8 @@
 title: "2026 NBA Finals Jersey Tracker: Every Knicks vs Spurs Matchup Graded"
 category: "NBA"
 date: "2026-06-01"
-updatedDate: "2026-06-09"
-excerpt: "Spurs announce Association Edition white at home for Game 5 at Frost Bank Center with the Knicks pulling Icon Edition blue on the road. Textbook 10 out of 10 playoff pairing with the home team in traditional white and the road team in primary color, the same matchup the Spurs ran Friday night in Game 2 in San Antonio for the only other 10 out of 10 grade at Frost Bank this series. Series average through 5 announced games 9.4 out of 10, the highest jersey grade of any series in the 2026 NBA playoffs."
+updatedDate: "2026-06-11"
+excerpt: "Knicks take Game 4 at the Garden in the Association whites to go up 3-1, and the Spurs answer with Association Edition white at home for Friday's elimination Game 5 at Frost Bank Center with the Knicks pulling Icon Edition blue on the road. Textbook 10 out of 10 playoff pairing with the home team in traditional white and the road team in primary color. Series average through 5 announced games 9.4 out of 10, the highest jersey grade of any series in the 2026 NBA playoffs."
 gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
@@ -110,7 +110,7 @@ Game 5 back at Frost Bank Center runs back the cleanest jersey pairing of the se
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 4 · Confirmed · Madison Square Garden</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #000000 0%, #006BB6 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NBA Finals · Game 4 · Final · Madison Square Garden</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -144,7 +144,12 @@ Game 5 back at Frost Bank Center runs back the cleanest jersey pairing of the se
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · NBA Finals Court</p>
 </div>
 
-Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garden with the Knicks at home in the Association Edition white and the Spurs on the road in the Icon Edition black. Same building, same matchup, same 10 out of 10 grade per the same-jersey-same-score rule we have applied across both Conference Finals trackers all postseason. New York sticking with the Association white at home for both home games of the first Frost Bank-MSG swing locks the Knicks identity to the classic white commitment across both nights, and the Spurs Icon black road run continues the franchise's primary road look for the Finals. Game 4 grades the same as Game 3 and keeps the cleanest possible white-versus-black separation on the Finals court at MSG. Ten out of 10.
+<div style="margin: 1.5em 0; padding: 1em 1.5em; background: linear-gradient(135deg, #000000 0%, #2a2d3a 100%); border-radius: 12px; border: 1px solid rgba(196, 206, 212, 0.35);">
+  <p style="font-size: 0.7em; font-weight: 800; margin: 0 0 0.4em; text-align: center; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 2.5px;">Result · June 10, 2026</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #fff; line-height: 1.35;">New York Knicks win Game 4 · Knicks lead series 3-1</p>
+</div>
+
+Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garden with the Knicks at home in the Association Edition white and the Spurs on the road in the Icon Edition black. Same building, same matchup, same 10 out of 10 grade per the same-jersey-same-score rule we have applied across both Conference Finals trackers all postseason. New York sticking with the Association white at home for both home games of the first Frost Bank-MSG swing locks the Knicks identity to the classic white commitment across both nights, and the Spurs Icon black road run continues the franchise's primary road look for the Finals. Game 4 grades the same as Game 3 and keeps the cleanest possible white-versus-black separation on the Finals court at MSG. Ten out of 10. The Knicks took Game 4 in the whites to go up 3-1 and put San Antonio's season on the line for Friday's Game 5 at Frost Bank Center, where the Spurs have already committed to the Association white at home with the Knicks in the Icon blue: a potential title night in the textbook playoff pairing.
 
 <span id="game-3"></span>
 

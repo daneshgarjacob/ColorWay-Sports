@@ -5,7 +5,7 @@ const trackers = [
     slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
     kicker: "NBA · Finals · Knicks vs Spurs",
     title: "2026 NBA Finals Jersey Tracker",
-    dek: "Knicks vs Spurs at the NBA Finals after 27 years. Knicks in their classic Association whites for 3 of the first 4 games. Game 2 at MSG Friday night and both games at Frost Bank Center grade 10/10. Series average 9.3/10. Every matchup graded.",
+    dek: "Knicks vs Spurs at the NBA Finals after 27 years. Knicks take Game 4 at the Garden in the Association whites to lead 3-1, with the Spurs' season on the line in white-vs-blue Friday at Frost Bank Center. Series average 9.4/10. Every matchup graded.",
     status: "Live · NBA Finals",
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg",
