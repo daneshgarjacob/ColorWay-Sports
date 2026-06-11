@@ -5,11 +5,15 @@ date: "2026-06-10"
 updatedDate: "2026-06-10"
 excerpt: "Home team in white used to be the rule in the NBA. In the 2026 playoffs it happened in just 31 of 85 games, 36 percent. This is the Traditional Jersey Index, our running count of how often the home team wears its classic whites, updated after every playoff game: Round 1 came in at 33 percent, Round 2 at 38 percent, the Conference Finals bottomed out at 27 percent, and the NBA Finals are leading the entire postseason at 80 percent with the Knicks and Spurs both committing to Association white at home."
 gradient: "linear-gradient(135deg, #F4F4F4 0%, #1D428A 55%, #C8102E 100%)"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/nba.svg"
 overlayText: "Traditional Jersey Index"
 league: "nba"
 teams: []
 ---
+
+<div style="display: flex; justify-content: center; margin: 0 0 2.5em;">
+  <img src="/logos/nba.svg" alt="NBA logo" style="height: 140px; width: auto;" />
+</div>
 
 For most of NBA history you could tell who was home with one glance: the team in white. That standard quietly died when the league moved to its modern uniform system and let home teams wear whichever edition they want, and the 2026 playoffs are the best measurement yet of how far the league has drifted. This page is the **Traditional Jersey Index**, our running count of how often the 2026 playoff home team wore its classic white uniform, the same index we keep live on the [ColorWay homepage](/). We update it after every playoff game, round by round, through the end of the NBA Finals.
 
