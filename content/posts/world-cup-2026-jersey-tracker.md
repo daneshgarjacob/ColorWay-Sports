@@ -26,6 +26,8 @@ We grade every match kit and uniform pairing for visual contrast, color cohesion
 
 For the standalone rankings of every individual home kit, away kit, and third kit released for the 2026 World Cup, see our content cluster of ranking posts at the bottom of this tracker. This tracker is the live MATCH-BY-MATCH grading layer that sits on top of those rankings as the tournament plays.
 
+*Kit photography throughout this tracker courtesy of adidas, Nike, Puma, and the respective official kit suppliers and national federations.*
+
 ## Tournament Overview
 
 - **Host countries:** United States, Canada, Mexico

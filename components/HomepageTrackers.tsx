@@ -9,6 +9,7 @@ const trackers = [
     status: "Live · NBA Finals",
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg",
+    centered: false,
   },
   {
     slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
@@ -18,6 +19,17 @@ const trackers = [
     status: "Live · Stanley Cup Final",
     grade: "B+",
     image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg",
+    centered: false,
+  },
+  {
+    slug: "world-cup-2026-jersey-tracker",
+    kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
+    title: "2026 FIFA World Cup Jersey Tracker",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Mexico's Aztec verde against South Africa's 2010 tribute gold at Estadio Azteca sets the bar with a 9/10. Korea vs Czechia tonight in Guadalajara.",
+    status: "Live · World Cup",
+    grade: "A",
+    image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
+    centered: true,
   },
 ];
 
@@ -86,7 +98,7 @@ export default function HomepageTrackers() {
               <Link
                 key={t.slug}
                 href={`/stories/${t.slug}`}
-                className="group flex flex-col gap-3"
+                className={`group flex flex-col gap-3 ${t.centered ? "md:col-span-2 md:w-[calc(50%-12px)] md:mx-auto" : ""}`}
                 style={{ textDecoration: "none", color: "#1a1a1a" }}
               >
                 {/* Cover image */}
