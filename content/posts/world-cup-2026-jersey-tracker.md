@@ -204,7 +204,7 @@ This tracker pairs every individual kit grade from those rankings with the live 
 The 2026 FIFA World Cup is the biggest jersey and uniform tracker opportunity of the calendar year. 104 matches, 48 teams, three confederations of kit suppliers, and 39 days of group stage and knockout drama on the largest broadcast stage in sports. Every kit decision matters. Every contrast matters. Every match-by-match pairing tells a different visual story. This tracker grades all of it, live, in one place, from the opener in Mexico City on June 11 through the Final at MetLife Stadium on July 19. Bookmark the page, refresh daily, and we will keep the grades coming.
 
 <div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2Bworld%2Bcup" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #012169 0%, #C8102E 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(1,33,105,0.35);">Shop 2026 FIFA World Cup Jerseys on Fanatics</a>
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsoccer-national-teams%2Fo-3690%2Bz-981768652-96597765%3Fvap%3D1" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #012169 0%, #C8102E 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(1,33,105,0.35);">Shop National Team Jerseys on Fanatics</a>
 </div>
 
 ## Frequently Asked Questions
@@ -251,7 +251,7 @@ We update the tracker every day a match is played during the 2026 FIFA World Cup
 
 **Where can I buy a 2026 FIFA World Cup jersey?**
 
-Fanatics is the league-licensed retailer for official 2026 FIFA World Cup national team jerseys. Adidas, Nike, Puma, and other manufacturer kits are available through the [2026 World Cup jersey shop on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2Bworld%2Bcup).
+Official national team jerseys from Adidas, Nike, Puma, and the other kit suppliers are available through the [national team jersey shop on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsoccer-national-teams%2Fo-3690%2Bz-981768652-96597765%3Fvap%3D1). Every match card on this tracker also links directly to each team's gear.
 
 **Where is the 2026 FIFA World Cup Final being played?**
 
