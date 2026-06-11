@@ -104,9 +104,9 @@ The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico 
 
 Group A's second game goes tonight at Estadio Akron in Guadalajara, and it hands FIFA the tournament's first kit conflict. South Korea's home shirt is red. Czechia's home shirt is red. Two reds cannot share a pitch, so one of these teams gets flipped to a change kit, and as the listed home team we expect South Korea to keep the Taegeuk Warriors' tiger-print red and Czechia to come out in their change kit. Czechia is back at a World Cup for the first time since 2006 after surviving the March play-offs, so whatever they wear, the double-tailed lion crest returns to the biggest stage after twenty years away. We grade the pairing the moment the teams walk out of the tunnel.
 
-### Group B — Canada, UEFA Play-off A Winner, Qatar, Switzerland
+### Group B — Canada, Bosnia and Herzegovina, Qatar, Switzerland
 
-Group B is the second host group anchored by Canada. Match-by-match grades populate here as games are played.
+Group B is the second host group anchored by Canada, who open against Bosnia and Herzegovina in Toronto on June 12. Match-by-match grades populate here as games are played.
 
 ### Group C — Brazil, Morocco, Haiti, Scotland
 
