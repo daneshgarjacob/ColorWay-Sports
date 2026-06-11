@@ -5,7 +5,7 @@ date: "2026-04-22"
 excerpt: "Adam Silver went on Pardon My Take and confirmed the NBA is dropping the slippery Finals court decal and painting the Finals logo directly on the 2026 court. The fix the postseason has needed for years."
 gradient: "linear-gradient(135deg, #17408B 0%, #C9082A 100%)"
 logoSrc: "/logos/nba.png"
-coverImage: "/images/posts/nba-finals-court-logo-painted-2026/2007-finals-logo-court.png"
+coverImage: "/images/posts/nba-finals-court-logo-painted-2026/2007-finals-logo-court.jpg"
 coverImagePosition: "center 50%"
 league: "nba"
 teams: []
@@ -27,7 +27,7 @@ The safety argument alone makes this a no-brainer, and Silver acknowledging it o
 
 ## Why Painting the NBA Finals Logo Looks Better on Broadcast
 
-<img src="/images/posts/nba-finals-court-logo-painted-2026/2007-finals-logo-court.png" alt="NBA Finals logo painted on the court at center court for a past Finals series, showing how a painted Finals logo reads as part of the hardwood" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-finals-court-logo-painted-2026/2007-finals-logo-court.jpg" alt="NBA Finals logo painted on the court at center court for a past Finals series, showing how a painted Finals logo reads as part of the hardwood" style="width: 100%; border-radius: 10px;" />
 
 The design upgrade matters too. Decals always looked like decals. Every wide shot and every overhead broadcast angle showed the sticker edges, the seams, the slightly-off color saturation where the decal sat on top of the wood. A painted NBA Finals logo gets treated the same way the NBA Playoffs logo already gets painted on conference and first round courts. It reads as part of the floor, not stuck on top of it.
 

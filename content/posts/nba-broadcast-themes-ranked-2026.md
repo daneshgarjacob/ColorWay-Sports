@@ -6,12 +6,12 @@ excerpt: "We rank the 2025-26 NBA broadcast theme songs across NBC, Prime Video,
 gradient: "linear-gradient(135deg, #F0F4F8 0%, #D8E2EC 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-broadcast-themes-ranked-2026/nba-broadcast-themes-ranked-cover.png"
+coverImage: "/images/posts/nba-broadcast-themes-ranked-2026/nba-broadcast-themes-ranked-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-broadcast-themes-ranked-2026/nba-broadcast-themes-ranked-cover.png" alt="NBA on NBC, NBA on Prime, and NBA on ESPN logos lined up for the 2025-26 NBA broadcast theme song ranking" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/nba-broadcast-themes-ranked-2026/nba-broadcast-themes-ranked-cover.jpg" alt="NBA on NBC, NBA on Prime, and NBA on ESPN logos lined up for the 2025-26 NBA broadcast theme song ranking" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 The 2025-26 season is the first year the NBA's national broadcast partners are split across NBC, Prime Video, and ESPN. TNT is out for the first time in 35 years. NBC is back for the first time since 2002. Prime Video is brand new to the league. Every one of those networks rolled out a theme song with their broadcast package, and the contrast between the three is one of the loudest design stories of the year. We ranked them, with bonus love for two retired themes that defined the previous era.
 

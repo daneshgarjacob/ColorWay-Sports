@@ -756,7 +756,7 @@ Cavs go back to the Association Edition whites on the road for Game 7 at Little 
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 6 · May 15, 2026 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 6 vs Detroit Pistons" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
@@ -836,7 +836,7 @@ Pistons break from the Association whites for the first time all playoffs and pu
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 4 · May 11, 2026 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 4 vs Detroit Pistons" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 4 vs Detroit Pistons" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
@@ -876,7 +876,7 @@ Cavs run back the Classic Edition throwback blue at home on the matching alterna
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 3 · May 9, 2026 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 3 vs Detroit Pistons" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Playoffs Round 2 Game 3 vs Detroit Pistons" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 

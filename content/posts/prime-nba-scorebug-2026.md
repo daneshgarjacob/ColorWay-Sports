@@ -6,12 +6,12 @@ excerpt: "Amazon Prime Video's NBA scorebug is clean and recognizable, but the b
 gradient: "linear-gradient(135deg, #00A8E1 0%, #232F3E 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-national-scorebugs-2026/PRIME-SB.png"
+coverImage: "/images/posts/nba-national-scorebugs-2026/PRIME-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-national-scorebugs-2026/PRIME-SB.png" alt="Amazon Prime Video NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/PRIME-SB.jpg" alt="Amazon Prime Video NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Amazon Prime Video's NBA scorebug for the 2026 season has grown on us throughout the year. When you first tune into a Prime broadcast, you immediately know what network you are watching. The design is clean, simple, and carries the same visual DNA as their NFL scorebug, which is a good thing because that one works well too.

@@ -53,7 +53,7 @@ This is a B+ for us. We absolutely love it. The soccer ball wheel covers are the
 
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Visa Cash App Racing Bulls livery</strong></p>
-  <img src="/images/posts/f1-racing-bulls.png" alt="Standard 2026 Visa Cash App Racing Bulls F1 livery in the regular dark navy blue base with the white VISA wordmark, red Red Bull accents, and standard silver wheel hardware, the base look the team runs every other weekend of the season" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-racing-bulls.jpg" alt="Standard 2026 Visa Cash App Racing Bulls F1 livery in the regular dark navy blue base with the white VISA wordmark, red Red Bull accents, and standard silver wheel hardware, the base look the team runs every other weekend of the season" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="margin: 2em 0;">

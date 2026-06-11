@@ -124,7 +124,7 @@ This is a B- for us. The 1000-start milestone deserves a bigger swing. McLaren's
 
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 McLaren F1 livery</strong></p>
-  <img src="/images/posts/f1-mclaren.png" alt="Standard 2026 McLaren F1 MCL40 livery in papaya orange and black base color scheme without the 1000th Grand Prix retro treatment, the base look McLaren runs every other weekend of the season" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-mclaren.jpg" alt="Standard 2026 McLaren F1 MCL40 livery in papaya orange and black base color scheme without the 1000th Grand Prix retro treatment, the base look McLaren runs every other weekend of the season" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="margin: 2em 0;">

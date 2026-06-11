@@ -364,7 +364,7 @@ And nobody in the league did their crowd better than the Spurs did. The Fiesta t
   <div style="background: #0a0a0a; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Rocket Arena · Cleveland · LeBron-Era Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Cleveland Cavaliers Rocket Arena LeBron-era throwback alternate court for 2026 NBA Playoffs Round 1 vs Toronto Raptors" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Cleveland Cavaliers Rocket Arena LeBron-era throwback alternate court for 2026 NBA Playoffs Round 1 vs Toronto Raptors" style="width: 100%; display: block;" />
 </div>
 
 The Cavs are skipping their primary court entirely for Round 1 and going with their throwback alternate, which is a near-replica of the court they used during the LeBron era. It's a great call. The wine and gold colors, the classic typography, and the look that takes Cleveland fans back to 2016 is the perfect playoff move. A team using their court to tell a story is one of our favorite things in sports design and the Cavs are doing it as well as anyone in the league this postseason.

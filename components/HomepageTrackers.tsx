@@ -8,7 +8,7 @@ const trackers = [
     dek: "Knicks vs Spurs at the NBA Finals after 27 years. Knicks in their classic Association whites for 3 of the first 4 games. Game 2 at MSG Friday night and both games at Frost Bank Center grade 10/10. Series average 9.3/10. Every matchup graded.",
     status: "Live · NBA Finals",
     grade: "A",
-    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png",
+    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg",
   },
   {
     slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
@@ -17,7 +17,7 @@ const trackers = [
     dek: "Hurricanes vs Knights for the Cup. Canes in the black home alternate for Games 1 and 2 at Lenovo Center hold the matchup at 7/10. Knights gold home in Games 3 and 4 at T-Mobile lift it to 8/10. Series average 7.5/10. Every sweater matchup graded.",
     status: "Live · Stanley Cup Final",
     grade: "B+",
-    image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png",
+    image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg",
   },
 ];
 

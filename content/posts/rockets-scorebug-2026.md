@@ -6,12 +6,12 @@ excerpt: "The Rockets scorebug fits their new rebrand direction. Modern and clea
 gradient: "linear-gradient(135deg, #CE1141 0%, #000000 100%)"
 league: "nba"
 teams: ["houston-rockets"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/HOU-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/HOU-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/HOU-SB.png" alt="Houston Rockets local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/HOU-SB.jpg" alt="Houston Rockets local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Houston Rockets local broadcast scorebug for the 2026 NBA season goes for a modern, stripped-down look that fits the direction the franchise has been heading with their overall rebrand. It is clean and readable, which honestly puts it ahead of a lot of other local scorebugs around the league. But clean does not always mean interesting, and this one sits right on the line between polished and forgettable.

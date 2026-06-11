@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.png"
+  "../public/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.jpg"
 );
 
 const WIDTH = 1600;

@@ -5,7 +5,7 @@ date: "2026-05-18"
 updatedDate: "2026-05-30"
 excerpt: "2026 NBA Conference Finals jersey tracker. Winner-take-all WCF Game 7 Sunday at Paycom Center: Thunder pull the Icon Edition blue at home instead of the Association whites against Spurs Icon black road, the same Game 1 pairing back for the conference decider at 8/10. Knicks swept Cavs 4-0. Every matchup graded."
 gradient: "linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
+coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -41,7 +41,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png" alt="2026 NBA Conference Finals Jersey Tracker cover with NBA logo and Conference Finals wordmark on blue to black to red gradient" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg" alt="2026 NBA Conference Finals Jersey Tracker cover with NBA logo and Conference Finals wordmark on blue to black to red gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NBA Conference Finals jersey and uniform matchup graded, organized series by series. The Western Conference Finals are Spurs vs Thunder. The Eastern Conference Finals are Knicks vs Cavaliers. Home team wears white. Road team wears color. That is the playoff uniform standard. We score each jersey matchup on a 10-point scale and give credit for iconic alternates and throwback uniforms that carry the right vibe.
@@ -393,7 +393,7 @@ New York swept the series 4-0 after winning Games 1 and 2 at Madison Square Gard
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 4 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Eastern Conference Finals Game 4 vs New York Knicks" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Eastern Conference Finals Game 4 vs New York Knicks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 
@@ -433,7 +433,7 @@ Cavs ran back the Classic Edition throwback blue at home on the alternate throwb
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 3 · Throwback Court</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Eastern Conference Finals Game 3 vs New York Knicks" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Mortgage Fieldhouse Cleveland Cavaliers throwback alternate home court for 2026 NBA Eastern Conference Finals Game 3 vs New York Knicks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Mortgage Fieldhouse · Cleveland · Throwback Court</p>
 </div>
 

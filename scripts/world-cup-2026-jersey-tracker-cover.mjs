@@ -10,7 +10,7 @@ const __dirname = dirname(__filename);
 
 const WC_LOGO = resolve(__dirname, "../public/logos/world-cup-2026.png");
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
-const OUTPUT = resolve(__dirname, "../public/images/posts/world-cup-2026-jersey-tracker/cover.png");
+const OUTPUT = resolve(__dirname, "../public/images/posts/world-cup-2026-jersey-tracker/cover.jpg");
 
 const WIDTH = 1600;
 const HEIGHT = 900;

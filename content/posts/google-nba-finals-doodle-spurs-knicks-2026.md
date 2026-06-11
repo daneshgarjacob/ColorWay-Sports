@@ -5,7 +5,7 @@ date: "2026-06-03"
 updatedDate: "2026-06-03"
 excerpt: "Google's 2026 NBA Finals Doodle is the cleanest sports search bar treatment Google has dropped in years. GOO in Spurs Icon black-and-silver jersey wordmark style, GLE in Knicks Icon orange-and-blue wordmark style, and the Larry O'Brien Trophy painted right through the middle of the logo with a basketball going through the net."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 35%, #000000 70%, #C4CED4 100%)"
-coverImage: "/images/posts/google-nba-finals/google-search-bar-spurs-knicks-colors.png"
+coverImage: "/images/posts/google-nba-finals/google-search-bar-spurs-knicks-colors.jpg"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 logoSrc: "/logos/nba.png"
@@ -16,7 +16,7 @@ topViewsRank: 9
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/google-nba-finals/google-search-bar-spurs-knicks-colors.png" alt="Google 2026 NBA Finals Doodle in the Google search bar splitting the Google logo between GOO in San Antonio Spurs Icon Edition black-and-silver jersey wordmark style with white block letters on black with blue trim outlines and GLE in New York Knicks Icon Edition orange-and-blue jersey wordmark style with orange block letters and blue trim, the second O replaced with the Larry O'Brien Trophy in gold and silver with a basketball going through an orange basketball net at the top of the trophy" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/google-nba-finals/google-search-bar-spurs-knicks-colors.jpg" alt="Google 2026 NBA Finals Doodle in the Google search bar splitting the Google logo between GOO in San Antonio Spurs Icon Edition black-and-silver jersey wordmark style with white block letters on black with blue trim outlines and GLE in New York Knicks Icon Edition orange-and-blue jersey wordmark style with orange block letters and blue trim, the second O replaced with the Larry O'Brien Trophy in gold and silver with a basketball going through an orange basketball net at the top of the trophy" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Google's 2026 NBA Finals Doodle inside the search bar today · via Google</p>
 </div>
 

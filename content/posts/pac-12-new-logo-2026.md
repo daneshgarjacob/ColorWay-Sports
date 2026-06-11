@@ -7,12 +7,12 @@ excerpt: "The 2026 Pac-12 has nine schools after realignment: Oregon State, Wash
 gradient: "linear-gradient(135deg, #2C3340 0%, #1A2030 100%)"
 league: "ncaa"
 teams: []
-coverImage: "/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.png"
+coverImage: "/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.png" alt="Pac-12 conference old logo with blue shield and waves on the left vs new white-only shield logo with mountain and 12 in a circle on the right for the 2026 rebrand" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.jpg" alt="Pac-12 conference old logo with blue shield and waves on the left vs new white-only shield logo with mountain and 12 in a circle on the right for the 2026 rebrand" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Logos via <a href="https://twitter.com/pac12" style="color:#999; text-decoration: underline;">@Pac12</a></p>
 
 The 2026 Pac-12 has nine schools after realignment: Oregon State, Washington State, Boise State, Colorado State, Fresno State, San Diego State, Texas State, Utah State, and Gonzaga. Eight of the nine play FBS football. Gonzaga is the basketball-only addition. The conference also unveiled a new white-only shield logo in April 2026 to fit the rebuilt footprint. Here is the full breakdown of the rebuilt Pac-12, the football lineup, the school-by-school reaction, and the new conference logo grade.
@@ -77,7 +77,7 @@ The nine schools currently confirmed for the rebuilt Pac-12 are Boise State, Col
 
 ## The Rollout
 
-<img src="/images/posts/pac-12-new-logo-2026/pac-12-new-logo-tshirts.png" alt="Pac-12 new logo t-shirt giveaway collage at member schools including Boise State, Colorado State, San Diego State, and others" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/pac-12-new-logo-2026/pac-12-new-logo-tshirts.jpg" alt="Pac-12 new logo t-shirt giveaway collage at member schools including Boise State, Colorado State, San Diego State, and others" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">T-shirt rollout via <a href="https://twitter.com/pac12" style="color:#999; text-decoration: underline;">@Pac12</a></p>
 
 The conference also rolled out free t-shirts at member schools to push the new mark to fans on the ground. That is the right kind of launch energy. Get the logo on a chest, get students wearing it on campus, get the photos on social. A new identity does not become a real identity until people are wearing it without thinking about it.

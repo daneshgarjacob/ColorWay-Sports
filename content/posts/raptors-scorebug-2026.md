@@ -6,12 +6,12 @@ excerpt: "Sportsnet Canada continues to produce some of the best broadcast graph
 gradient: "linear-gradient(135deg, #CE1141 0%, #000000 100%)"
 league: "nba"
 teams: ["toronto-raptors"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/TOR-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/TOR-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/TOR-SB.png" alt="Toronto Raptors Sportsnet scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/TOR-SB.jpg" alt="Toronto Raptors Sportsnet scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Sportsnet handles the local broadcast for the Toronto Raptors in Canada, and the 2026 scorebug is a strong piece of design work. Canadian networks tend to put more care into their on-screen graphics packages than a lot of their American counterparts, and the Raptors broadcast is a good example of that. The scorebug is clean, modern, and feels like it was built with intention rather than just plugged into a network-wide template.

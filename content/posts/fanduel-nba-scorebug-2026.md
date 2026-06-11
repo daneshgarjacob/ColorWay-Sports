@@ -6,12 +6,12 @@ excerpt: "Thirteen NBA teams share the same FanDuel Sports Network scorebug in 2
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #0077C0 100%)"
 league: "nba"
 teams: ["atlanta-hawks", "charlotte-hornets", "cleveland-cavaliers", "detroit-pistons", "indiana-pacers", "la-clippers", "memphis-grizzlies", "miami-heat", "milwaukee-bucks", "minnesota-timberwolves", "oklahoma-city-thunder", "orlando-magic", "san-antonio-spurs"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/OKC-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/OKC-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/OKC-SB.png" alt="FanDuel Sports Network NBA scorebug OKC Thunder 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/OKC-SB.jpg" alt="FanDuel Sports Network NBA scorebug OKC Thunder 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 FanDuel Sports Network is the regional broadcast home for 13 NBA teams in 2026, and every single one of them uses the same scorebug template. That is almost half the league running identical broadcast graphics with nothing but a logo swap and a color change to tell them apart. From a design standpoint, it is one of the biggest missed opportunities in sports broadcasting right now.
@@ -28,91 +28,91 @@ Here is what the FanDuel Sports Network scorebug looks like for all 13 teams tha
 
 ### Atlanta Hawks
 
-<img src="/images/posts/nba-local-scorebugs-2026/ATL-SB.png" alt="FanDuel Sports Network Atlanta Hawks scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/ATL-SB.jpg" alt="FanDuel Sports Network Atlanta Hawks scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Hawks version uses their red accent color, but otherwise it is the same bar stretching across the bottom. Nothing about this says Atlanta or Hawks basketball.
 
 ### Charlotte Hornets
 
-<img src="/images/posts/nba-local-scorebugs-2026/CHA-SB.png" alt="FanDuel Sports Network Charlotte Hornets scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/CHA-SB.jpg" alt="FanDuel Sports Network Charlotte Hornets scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Hornets get a teal accent which at least pops visually, but the layout is identical to every other team on this list.
 
 ### Cleveland Cavaliers
 
-<img src="/images/posts/nba-local-scorebugs-2026/CLE-SB.png" alt="FanDuel Sports Network Cleveland Cavaliers scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/CLE-SB.jpg" alt="FanDuel Sports Network Cleveland Cavaliers scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Cleveland has the best record in the NBA this season. You would never know it from their broadcast graphics, which look exactly like the team in last place on this same network.
 
 ### Detroit Pistons
 
-<img src="/images/posts/nba-local-scorebugs-2026/DET-SB.png" alt="FanDuel Sports Network Detroit Pistons scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/DET-SB.jpg" alt="FanDuel Sports Network Detroit Pistons scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Pistons version runs with the standard red and blue color scheme. Functional, but forgettable.
 
 ### Indiana Pacers
 
-<img src="/images/posts/nba-local-scorebugs-2026/IND-SB.png" alt="FanDuel Sports Network Indiana Pacers scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/IND-SB.jpg" alt="FanDuel Sports Network Indiana Pacers scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Indiana's navy and gold shows up in the accent colors, but the template is the same wide bar across the bottom. The Pacers deserve better given how fun this team has been to watch.
 
 ### LA Clippers
 
-<img src="/images/posts/nba-local-scorebugs-2026/LAC-SB.png" alt="FanDuel Sports Network LA Clippers scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/LAC-SB.jpg" alt="FanDuel Sports Network LA Clippers scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Clippers just moved into the Intuit Dome, one of the most visually striking arenas in the league. Their broadcast scorebug does nothing to reflect that new identity.
 
 ### Memphis Grizzlies
 
-<img src="/images/posts/nba-local-scorebugs-2026/MEM-SB.png" alt="FanDuel Sports Network Memphis Grizzlies scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/MEM-SB.jpg" alt="FanDuel Sports Network Memphis Grizzlies scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Memphis gets the Beale Street Blue accent. Same template, same layout, same problem.
 
 ### Miami Heat
 
-<img src="/images/posts/nba-local-scorebugs-2026/MIA-SB.png" alt="FanDuel Sports Network Miami Heat scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/MIA-SB.jpg" alt="FanDuel Sports Network Miami Heat scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Heat are one of the most brand-conscious organizations in the NBA. Their arena, their jerseys, their court design all have a cohesive identity. The scorebug does not match any of it.
 
 ### Milwaukee Bucks
 
-<img src="/images/posts/nba-local-scorebugs-2026/MIL-SB.png" alt="FanDuel Sports Network Milwaukee Bucks scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/MIL-SB.jpg" alt="FanDuel Sports Network Milwaukee Bucks scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Bucks green accent color works well on screen, but the design is still the same cookie-cutter bar that every other FanDuel team gets.
 
 ### Minnesota Timberwolves
 
-<img src="/images/posts/nba-local-scorebugs-2026/MIN-SB.png" alt="FanDuel Sports Network Minnesota Timberwolves scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/MIN-SB.jpg" alt="FanDuel Sports Network Minnesota Timberwolves scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Minnesota's midnight blue and green accent colors are subtle in this template. The Timberwolves have one of the best visual identities in the league right now, and none of it comes through here.
 
 ### Oklahoma City Thunder
 
-<img src="/images/posts/nba-local-scorebugs-2026/OKC-SB.png" alt="FanDuel Sports Network Oklahoma City Thunder scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/OKC-SB.jpg" alt="FanDuel Sports Network Oklahoma City Thunder scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Thunder are the most exciting young team in basketball and a legitimate title contender. Their broadcast scorebug is the same template as every other FanDuel market. OKC's sunset orange at least gives it some energy, but that is doing all the heavy lifting.
 
 ### Orlando Magic
 
-<img src="/images/posts/nba-local-scorebugs-2026/ORL-SB.png" alt="FanDuel Sports Network Orlando Magic scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/ORL-SB.jpg" alt="FanDuel Sports Network Orlando Magic scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 Orlando's blue and black treatment is clean enough, but it blends in with half the other teams on this list that also use blue as a primary color.
 
 ### San Antonio Spurs
 
-<img src="/images/posts/nba-local-scorebugs-2026/SAS-SB.png" alt="FanDuel Sports Network San Antonio Spurs scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/SAS-SB.jpg" alt="FanDuel Sports Network San Antonio Spurs scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Spurs have Victor Wembanyama and one of the most-watched young rosters in the NBA. Their scorebug looks exactly the same as the one in Charlotte, Detroit, and every other FanDuel market. A team with this much national attention deserves broadcast graphics that stand out.

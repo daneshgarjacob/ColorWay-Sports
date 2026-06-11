@@ -8,7 +8,7 @@ excerpt: >-
   league approval process explained.
 gradient: 'linear-gradient(135deg, #552583 0%, #FDB927 100%)'
 logoSrc: /logos/nba.png
-coverImage: /images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png
+coverImage: /images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.jpg
 coverImagePosition: center center
 coverImageFit: contain
 league: nba
@@ -16,7 +16,7 @@ teams:
   - los-angeles-lakers
 ---
 
-<img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.png" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
+<img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.jpg" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
 
 The short answer is that the home team's equipment manager pulls the jersey, but the call gets made by committee. The coaching staff weighs in on superstition and momentum. The marketing department weighs in on giveaways, sponsor activations, and minimum-wear quotas the team owes the league. The general manager and the head of basketball operations get the final sign-off. The road team then matches the home pick with a contrasting uniform. The whole package gets submitted to the league for approval and pushed to the broadcast partners before tipoff. Here is how the NBA playoff jersey selection process works at every step, from the league rules through who actually pulls the uniform off the rack.
 

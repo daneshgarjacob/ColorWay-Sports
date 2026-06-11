@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-23"
 excerpt: "The 2026 NBA Playoffs logo is the classic NBA wordmark used across courts, broadcasts, and merch. Here's the design, where it appears, and how it compares to the Finals logo."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #F58426 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.png"
+coverImage: "/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -12,7 +12,7 @@ teams: []
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.png" alt="2026 NBA Playoffs logo on the sideline at Crypto.com Arena showing the red and blue NBA logoman next to the black PLAYOFFS wordmark" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.jpg" alt="2026 NBA Playoffs logo on the sideline at Crypto.com Arena showing the red and blue NBA logoman next to the black PLAYOFFS wordmark" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 The 2026 NBA Playoffs logo is the same legacy mark the NBA has been using on courts, broadcasts, and playoff branding for years. It pairs the red, white, and blue NBA logoman (the Jerry West silhouette) with a bold black "PLAYOFFS" wordmark. No rebrand, no modernized glyph, no year attached to the mark itself. The league keeps it simple, and the identity carries year over year.

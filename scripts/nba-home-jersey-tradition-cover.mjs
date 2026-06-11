@@ -16,7 +16,7 @@ const NBA_LOGO_SVG = resolve(__dirname, "../public/logos/nba.svg");
 
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.png"
+  "../public/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.jpg"
 );
 
 const WIDTH = 1600;

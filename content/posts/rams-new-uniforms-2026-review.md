@@ -24,7 +24,7 @@ The Los Angeles Rams officially revealed their new 2026 uniforms and logo packag
 
 ## The New Rams LA Logo: Grade B
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDRasAABdsF.png" alt="Los Angeles Rams new LA logo 2026 blueprint without gradient" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDRasAABdsF.jpg" alt="Los Angeles Rams new LA logo 2026 blueprint without gradient" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 The gradient is gone. That is the headline of this entire rebrand. The new LA logo is sharper, bolder, and now monochrome gold. The shape is largely the same, but stripping out the white-to-yellow gradient makes the whole mark feel cleaner, more modern, and easier to read from a distance.
@@ -33,14 +33,14 @@ We will give this piece of the reveal a B. We were never fans of the LA logo to 
 
 ## The New Rams Head Logo
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDbagAAv5_4.png" alt="Los Angeles Rams new ram head secondary logo 2026 blueprint" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDbagAAv5_4.jpg" alt="Los Angeles Rams new ram head secondary logo 2026 blueprint" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 The updated ram head logo is actually one of the better pieces of this reveal. It is sharper, cleaner, and more aggressive than the previous version. We think it could have leaned even more cartoony and stylized to give it more personality, but as an upgrade it works. This is the kind of secondary mark that will look great on merch, stadium signage, and social graphics.
 
 ## The New Rams Wordmark Is the Best Part of This Reveal
 
-<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDTbcAAgtIc.png" alt="Los Angeles Rams new italicized RAMS wordmark 2026 blueprint" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDTbcAAgtIc.jpg" alt="Los Angeles Rams new italicized RAMS wordmark 2026 blueprint" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 This is the strongest element of the entire rebrand. The new italicized "RAMS" wordmark has a speed-stripe feel that gives the identity some actual attitude, and it will live on the front bumper of the helmet going forward. It also matches the aesthetic of the jerseys much better than the plain block text the Rams have been using since 2020. Small detail, massive upgrade.

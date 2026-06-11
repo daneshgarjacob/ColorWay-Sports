@@ -11,14 +11,14 @@ teams: ["los-angeles-dodgers"]
 
 A listing for a Dodgers "Royal Alternate" jersey has been floating around online. If it's legit, the Dodgers are about to do something they've resisted for a long time: commit to a blue alternate.
 
-![Dodgers Royal Alternate Jersey - Front](/images/posts/dodgers-alt-front.png)
+![Dodgers Royal Alternate Jersey - Front](/images/posts/dodgers-alt-front.jpg)
 *Image via MLBShop.com*
 
 ## The Details
 
 Royal blue base. "Los Angeles" across the chest. Gray accents on the numbers and trim. "Dodgers" on the sleeve. It's clean, it's modern, and it doesn't look cheap.
 
-![Dodgers Royal Alternate Jersey - Back](/images/posts/dodgers-alt-back.png)
+![Dodgers Royal Alternate Jersey - Back](/images/posts/dodgers-alt-back.jpg)
 *Image via MLBShop.com*
 
 ## Our Take

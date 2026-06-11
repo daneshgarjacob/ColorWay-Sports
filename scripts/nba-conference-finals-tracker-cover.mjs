@@ -12,7 +12,7 @@ const NBA_LOGO_SVG = resolve(__dirname, "../public/logos/nba.svg");
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
+  "../public/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg"
 );
 
 const WIDTH = 1600;

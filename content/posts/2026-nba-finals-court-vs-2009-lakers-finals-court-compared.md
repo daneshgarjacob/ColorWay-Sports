@@ -5,7 +5,7 @@ date: "2026-06-01"
 updatedDate: "2026-06-01"
 excerpt: "The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time since the 2009 Lakers vs Magic Finals. Four differences after 17 years: new trophy, flipped orientation, smaller center logo, new sideline NBA Finals logo."
 gradient: "linear-gradient(135deg, #552583 0%, #006BB6 50%, #C4CED4 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png"
+coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -21,14 +21,14 @@ topViewsRank: 11
 </div>
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Madison Square Garden for the New York Knicks vs San Antonio Spurs with the Larry O'Brien Trophy painted big at center court with the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys on both sides of the floor, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/courts/nba/knicks-finals-court-2026.jpg" alt="2026 NBA Finals court overhead diagram at Madison Square Garden for the New York Knicks vs San Antonio Spurs with the Larry O'Brien Trophy painted big at center court with the Knicks roundel embedded inside the trophy silhouette, The Finals cursive script painted in both keys on both sides of the floor, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, NEW YORK KNICKS wordmark in white running vertically along both baselines, Madison Square Garden Chase sponsor branding on both sidelines, and Knicks blue paint outside the three-point arc" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals court · Knicks · Madison Square Garden · via NBA</p>
 </div>
 
 The 2026 NBA Finals court paints the Larry O'Brien Trophy at center court for the first time in 17 years. The last NBA Finals court with the trophy painted at center was the 2009 NBA Finals between the Los Angeles Lakers and the Orlando Magic at Staples Center. We pulled up the 2009 court next to the brand new 2026 Knicks and Spurs courts and counted four real differences in 17 years. A redesigned trophy. A flipped orientation. A smaller center logo, with the team mark now sitting inside the trophy silhouette instead of next to it. A brand new NBA Finals logo painted on the sideline. Same idea, new execution.
 
 <div style="margin: 2em 0;">
-  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="2026 NBA Finals court overhead diagram at Frost Bank Center for the San Antonio Spurs with natural hardwood floor, the Larry O'Brien Trophy painted big at center court with the Spurs primary spurs mark embedded inside the trophy silhouette, The Finals cursive script painted in both keys, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, SAN ANTONIO SPURS wordmark in black running vertically along both baselines, and Frost Bank Center sponsor branding on both sidelines" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/courts/nba/spurs-finals-court-2026.jpg" alt="2026 NBA Finals court overhead diagram at Frost Bank Center for the San Antonio Spurs with natural hardwood floor, the Larry O'Brien Trophy painted big at center court with the Spurs primary spurs mark embedded inside the trophy silhouette, The Finals cursive script painted in both keys, the new NBA Finals primary logo painted on both sidelines directly above and below the trophy, SAN ANTONIO SPURS wordmark in black running vertically along both baselines, and Frost Bank Center sponsor branding on both sidelines" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals court · Spurs · Frost Bank Center · via NBA</p>
 </div>
 

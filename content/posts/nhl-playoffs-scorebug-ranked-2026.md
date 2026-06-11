@@ -4,7 +4,7 @@ category: "NHL"
 date: "2026-04-21"
 excerpt: "2026 NHL Stanley Cup Playoffs scorebug ranking. TNT Sports takes the top spot with a B, ESPN lands at a C+. The NBC era still lives in our memory."
 gradient: "#0a0a0a"
-coverImage: "/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.png"
+coverImage: "/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.jpg"
 coverImagePosition: "40% 50%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
@@ -19,7 +19,7 @@ reviews:
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.png" alt="TNT Sports NHL Stanley Cup Playoffs 2026 scorebug with full Stanley Cup Playoffs branding on TNT TBS truTV broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.jpg" alt="TNT Sports NHL Stanley Cup Playoffs 2026 scorebug with full Stanley Cup Playoffs branding on TNT TBS truTV broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">TNT Sports · Stanley Cup Playoffs scorebug</p>
 </div>
 
@@ -39,7 +39,7 @@ Our letter scale comes down to four things: identity (does it feel like a playof
 <p style="margin: 0 0 1em; font-size: 12px; color: #BE0000; font-weight: 700; text-transform: uppercase; letter-spacing: 2px;">ESPN · ESPN2 · ABC · <span style="color: #fff; background: #BE0000; padding: 2px 10px; border-radius: 4px; margin-left: 4px;">C+</span></p>
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-espn-scorebug.png" alt="ESPN NHL Stanley Cup Playoffs 2026 scorebug with small Stanley Cup top half icon on ESPN ABC ESPN2 broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-espn-scorebug.jpg" alt="ESPN NHL Stanley Cup Playoffs 2026 scorebug with small Stanley Cup top half icon on ESPN ABC ESPN2 broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">ESPN · in-game scorebug</p>
 </div>
 
@@ -52,7 +52,7 @@ The game score reads fine. Team abbreviations and logos sit where you expect. Co
 <p style="margin: 0 0 1em; font-size: 12px; color: #E31837; font-weight: 700; text-transform: uppercase; letter-spacing: 2px;">TNT · TBS · truTV · <span style="color: #fff; background: #E31837; padding: 2px 10px; border-radius: 4px; margin-left: 4px;">B</span></p>
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.png" alt="TNT Sports NHL Stanley Cup Playoffs 2026 scorebug showing full Stanley Cup and Stanley Cup Playoffs 2026 wordmark with color treatment on TNT TBS truTV broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-tnt-scorebug.jpg" alt="TNT Sports NHL Stanley Cup Playoffs 2026 scorebug showing full Stanley Cup and Stanley Cup Playoffs 2026 wordmark with color treatment on TNT TBS truTV broadcast" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">TNT Sports · Stanley Cup Playoffs scorebug</p>
 </div>
 
@@ -63,14 +63,14 @@ There is still something missing. TNT Sports has been running the NHL since 2021
 ## What We Miss: The NBC Era
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-nbc-scorebug.png" alt="NBC 2019 NHL Stanley Cup Playoffs in-game scorebug showing Tampa Bay Lightning at Columbus Blue Jackets with First Round series status CBJ Lead Series 2-0 and Stanley Cup Playoffs 2019 logo" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nhl-playoffs-scorebug-ranked-2026/nhl-nbc-scorebug.jpg" alt="NBC 2019 NHL Stanley Cup Playoffs in-game scorebug showing Tampa Bay Lightning at Columbus Blue Jackets with First Round series status CBJ Lead Series 2-0 and Stanley Cup Playoffs 2019 logo" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">NBC · 2019 Stanley Cup Playoffs in-game scorebug</p>
 </div>
 
 The biggest hole in this year's NHL broadcast presentation is that NBC is not here. NBC held the NHL national rights from 2005 through 2021 and the way that network presented the Stanley Cup Playoffs is still the gold standard. Look at the in-game scorebug above. "FIRST ROUND" sits at the top left. "CBJ LEAD SERIES 2-0" tells you the stakes of the game you are watching. The Stanley Cup Playoffs logo is locked in the right side of the bug with the year, not an afterthought. The whole graphic elevates the moment without cluttering the screen.
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-nbc-broadcast.png" alt="NBC 2019 Stanley Cup Final broadcast graphic showing St Louis Blues vs Boston Bruins pre-game visual with Stanley Cup and NBC peacock logo" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-nbc-broadcast.jpg" alt="NBC 2019 Stanley Cup Final broadcast graphic showing St Louis Blues vs Boston Bruins pre-game visual with Stanley Cup and NBC peacock logo" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">NBC · 2019 Stanley Cup Final pre-game broadcast graphic</p>
 </div>
 

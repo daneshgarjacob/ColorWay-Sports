@@ -6,12 +6,12 @@ excerpt: "The Wizards rebrand carried over to their local broadcast graphics and
 gradient: "linear-gradient(135deg, #002B5C 0%, #E31837 100%)"
 league: "nba"
 teams: ["washington-wizards"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/WAS-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/WAS-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/WAS-SB.png" alt="Washington Wizards local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/WAS-SB.jpg" alt="Washington Wizards local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Washington Wizards went through a full rebrand heading into the 2026 season, and the new look has carried over into their local broadcast graphics in a big way. The scorebug has a modern shape and color treatment that feels fresh and intentional. It is one of those cases where a team rebrand actually improves everything downstream, including the broadcast design.

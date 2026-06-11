@@ -7,13 +7,13 @@ excerpt: "Disney+ is replacing Paramount as the streaming home for all three UEF
 gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "soccer"
 teams: []
-coverImage: "/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.png"
+coverImage: "/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 featuredOrder: 3
 ---
 
-<img src="/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.png" alt="Disney Plus and UEFA Champions League partnership graphic showing the Disney+ logo on the left and the UEFA Champions League starball logo on the right marking the 2026 streaming rights deal" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.jpg" alt="Disney Plus and UEFA Champions League partnership graphic showing the Disney+ logo on the left and the UEFA Champions League starball logo on the right marking the 2026 streaming rights deal" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 A new report says Disney+ is taking over the streaming rights to the UEFA Champions League, Europa League, and Conference League from Paramount Plus. The deal would move all three of UEFA's flagship club competitions onto a single streaming home and reset the soccer streaming landscape in the United States for the first time in years. We have been Paramount Plus subscribers for the Champions League. We are about to become Disney+ subscribers for it instead.
 

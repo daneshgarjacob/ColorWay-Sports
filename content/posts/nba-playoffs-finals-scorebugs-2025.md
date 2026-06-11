@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-14"
 excerpt: "The NBA changed its scorebug every round of the 2025 playoffs. We ranked and graded every version from ESPN's first round bug to the Finals scorebug, plus TNT's Conference Finals design."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/NBA-Finals-2015-scorebug-cover.png"
+coverImage: "/images/posts/nba-playoffs-2026/NBA-Finals-2015-scorebug-cover.jpg"
 coverImagePosition: "center center"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -16,7 +16,7 @@ One of the things the NBA actually does well with its playoff presentation is ch
 ## ESPN First Round Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/ESPN-First-Round-Scorebug.png" alt="ESPN NBA Playoffs first round scorebug 2025 Minnesota Timberwolves Los Angeles Lakers with Playoffs logo and Google sponsor" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/ESPN-First-Round-Scorebug.jpg" alt="ESPN NBA Playoffs first round scorebug 2025 Minnesota Timberwolves Los Angeles Lakers with Playoffs logo and Google sponsor" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN first round scorebug, 2025</p>
 </div>
 
@@ -29,7 +29,7 @@ This scorebug does the job. You look at it and you know it's the playoffs. It gi
 ## ESPN Western Conference Finals Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/ESPN-WCF-Scorebug.png" alt="ESPN NBA Western Conference Finals scorebug 2025 Minnesota Timberwolves Oklahoma City Thunder" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/ESPN-WCF-Scorebug.jpg" alt="ESPN NBA Western Conference Finals scorebug 2025 Minnesota Timberwolves Oklahoma City Thunder" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN Western Conference Finals scorebug, 2025</p>
 </div>
 
@@ -44,7 +44,7 @@ This is also exactly what the on-court branding should be doing. If the scorebug
 ## TNT Playoffs Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/TNT-Playoffs-Scorebug.png" alt="TNT NBA Playoffs scorebug 2025 Minnesota Timberwolves Los Angeles Lakers presented by Google" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/TNT-Playoffs-Scorebug.jpg" alt="TNT NBA Playoffs scorebug 2025 Minnesota Timberwolves Los Angeles Lakers presented by Google" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">TNT Playoffs scorebug, 2025</p>
 </div>
 
@@ -57,7 +57,7 @@ TNT had their own playoff scorebug, and it's cleaner than their Conference Final
 ## TNT Eastern Conference Finals Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/TNT-ECF-Scorebug.png" alt="TNT NBA Eastern Conference Finals scorebug 2025 Indiana Pacers New York Knicks AT&T sponsor" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/TNT-ECF-Scorebug.jpg" alt="TNT NBA Eastern Conference Finals scorebug 2025 Indiana Pacers New York Knicks AT&T sponsor" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">TNT Eastern Conference Finals scorebug, 2025</p>
 </div>
 
@@ -72,7 +72,7 @@ This was the last season of TNT's NBA coverage, so this is the final TNT NBA sco
 ## ESPN Finals Scorebug (Minimal Version)
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-Scorebug-Minimal.png" alt="ESPN NBA Finals scorebug 2025 minimal version with Finals gold script logo series dashes" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-Scorebug-Minimal.jpg" alt="ESPN NBA Finals scorebug 2025 minimal version with Finals gold script logo series dashes" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN Finals scorebug, minimal version during gameplay</p>
 </div>
 
@@ -81,7 +81,7 @@ The minimal version of the Finals scorebug is what ESPN shows during certain str
 ## ESPN Finals Scorebug (Full Version)
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-Scorebug-Full.png" alt="ESPN NBA Finals scorebug 2025 full expanded version with Finals cursive logo YouTube TV Game 7 series score" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-Scorebug-Full.jpg" alt="ESPN NBA Finals scorebug 2025 full expanded version with Finals cursive logo YouTube TV Game 7 series score" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN Finals scorebug, full version with series score</p>
 </div>
 
@@ -96,7 +96,7 @@ The issue is "Presented by YouTube TV" everywhere. They have no choice, it's par
 ## Throwback: 2015 NBA Finals Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-2015-scorebug-crop.png" alt="ESPN NBA Finals 2015 scorebug Golden State Warriors Cleveland Cavaliers The Finals cursive script GS leads 3-2" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-2015-scorebug-crop.jpg" alt="ESPN NBA Finals 2015 scorebug Golden State Warriors Cleveland Cavaliers The Finals cursive script GS leads 3-2" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN Finals scorebug, 2015. Warriors vs. Cavaliers.</p>
 </div>
 

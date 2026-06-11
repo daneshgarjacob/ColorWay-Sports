@@ -5,20 +5,20 @@ date: "2026-04-16"
 excerpt: "The Sixers broke out the cream throwbacks and the Clippers went dark blue at Intuit Dome for Night 2 of the 2026 NBA Play-In. We grade the visual aesthetic of both jersey matchups."
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 50%, #1D428A 100%)"
 logoSrc: "/logos/nba.png"
-coverImage: "/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-court.png"
+coverImage: "/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-court.jpg"
 coverImagePosition: "center bottom"
 league: "nba"
 teams: ["philadelphia-76ers", "orlando-magic", "golden-state-warriors", "la-clippers"]
 ---
 
-<img src="/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-court.png" alt="Philadelphia 76ers Play-In Tournament 2026 vs Orlando Magic pregame court logo at Xfinity Mobile Arena" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
+<img src="/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-court.jpg" alt="Philadelphia 76ers Play-In Tournament 2026 vs Orlando Magic pregame court logo at Xfinity Mobile Arena" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA broadcast</p>
 
 Night 2 of the 2026 NBA Play-In Tournament delivered two very different visual aesthetics. The Sixers brought out their cream-colored throwbacks at home against the Magic, and the Clippers went dark blue at Intuit Dome against a Warriors team in full white. Both games delivered, but both left a little aesthetic value on the table. Here is our uniform-by-uniform breakdown with grades for each matchup.
 
 ## Orlando Magic at Philadelphia 76ers: Grade B
 
-<img src="/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-gameplay.png" alt="Philadelphia 76ers cream throwback jerseys vs Orlando Magic dark blue jerseys Play-In Tournament 2026 gameplay" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-play-in-2026-uniforms/magic-sixers-play-in-gameplay.jpg" alt="Philadelphia 76ers cream throwback jerseys vs Orlando Magic dark blue jerseys Play-In Tournament 2026 gameplay" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA broadcast</p>
 
 The Sixers broke out the cream throwbacks at home, which is a look that has carried a ton of visual equity in Philadelphia for years. The retro 76ers floor logo at Xfinity Mobile Arena made it feel like a real playoff atmosphere, and the cream jerseys pop against the hardwood in a way the standard Association whites never quite do.
@@ -29,12 +29,12 @@ Final grade for the Magic at Sixers aesthetic: **B**. The throwbacks saved this 
 
 ## Golden State Warriors at Los Angeles Clippers: Grade B
 
-<img src="/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-court.png" alt="Golden State Warriors vs LA Clippers Play-In Tournament 2026 tip-off at Intuit Dome" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-court.jpg" alt="Golden State Warriors vs LA Clippers Play-In Tournament 2026 tip-off at Intuit Dome" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA broadcast</p>
 
 This one actually looked better than we expected. Intuit Dome has a dark blue base built into the court and the arena signage, and the Clippers' dark blue uniform leaned into that color story instead of fighting it. The entire broadcast had a blue-heavy palette that felt cohesive, which is not something we say about a lot of Clippers games.
 
-<img src="/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-gameplay.png" alt="Golden State Warriors white jerseys vs LA Clippers dark blue jerseys Play-In Tournament 2026 gameplay at Intuit Dome" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-play-in-2026-uniforms/warriors-clippers-play-in-gameplay.jpg" alt="Golden State Warriors white jerseys vs LA Clippers dark blue jerseys Play-In Tournament 2026 gameplay at Intuit Dome" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA broadcast</p>
 
 The Warriors' white uniforms also looked nicer than usual, though our preference would have been flipped. Golden State in their royal blue with Clippers in clean white is the matchup we would have booked. That's the cleaner, more traditional playoff aesthetic, and it gives each team their strongest identity piece.

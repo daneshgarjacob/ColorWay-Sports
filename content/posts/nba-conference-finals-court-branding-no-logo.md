@@ -34,7 +34,7 @@ The 2026 Western Conference Finals tipped off Sunday night at Paycom Center in O
         <p style="margin: 0; font-size: 11px; font-weight: 800; color: #1D428A; text-transform: uppercase; letter-spacing: 2px;">2021 Western Conference Finals</p>
         <p style="margin: 0; font-size: 11px; font-weight: 700; color: #00c864; text-transform: uppercase; letter-spacing: 1.5px;">Branding on the Court ✓</p>
       </div>
-      <img src="/images/posts/nba-playoffs-2026/2021-WCF-Logo.png" alt="2021 NBA Western Conference Finals court apron with the painted Western Conference Finals wordmark next to the AT&T sponsor logo, the on-court playoff branding the NBA used to run before removing it from Conference Finals courts" style="width: 100%; display: block; border-radius: 8px;" />
+      <img src="/images/posts/nba-playoffs-2026/2021-WCF-Logo.jpg" alt="2021 NBA Western Conference Finals court apron with the painted Western Conference Finals wordmark next to the AT&T sponsor logo, the on-court playoff branding the NBA used to run before removing it from Conference Finals courts" style="width: 100%; display: block; border-radius: 8px;" />
       <p style="margin: 8px 0 0; font-size: 12px; color: #666; font-weight: 500;">2021 Western Conference Finals. The "WESTERN CONFERENCE FINALS" wordmark is painted prominently on the apron of the court. Fans in the building and viewers at home see the playoff identity in every wide shot.</p>
     </div>
     <div>

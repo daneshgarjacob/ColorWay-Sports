@@ -6,12 +6,12 @@ excerpt: "The Lakers scorebug on Spectrum SportsNet is clean and functional, but
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 league: "nba"
 teams: ["los-angeles-lakers"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/LAL-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/LAL-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/LAL-SB.png" alt="Los Angeles Lakers Spectrum SportsNet scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/LAL-SB.jpg" alt="Los Angeles Lakers Spectrum SportsNet scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Los Angeles Lakers are one of the most recognizable franchises in all of sports. The purple and gold is iconic. The brand is global. So when you tune into a Lakers game on Spectrum SportsNet, you expect the broadcast graphics to match that level of prestige. The 2026 scorebug is fine. It works. But for a team this big, fine is not really enough.

@@ -61,7 +61,7 @@ Our coverage of [the announcement and everything we knew before the reveal](/sto
 
 ## Every Era of Ravens Uniforms
 
-<img src="/images/posts/ravens-uniform-history/ravens-2010s-white-celebrating.png" alt="Baltimore Ravens players celebrating in white road uniforms during the 2010s era" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniform-history/ravens-2010s-white-celebrating.jpg" alt="Baltimore Ravens players celebrating in white road uniforms during the 2010s era" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Baltimore Ravens Photos</p>
 
 The Ravens have one of the most stable visual identities in the NFL. Purple, black, and white have anchored the franchise since 1996, and every era has built on the foundation Jonathan Ogden, Ray Lewis, and the original 1996 roster set in stone. Our [complete Ravens uniform history](/stories/ravens-uniform-history-every-jersey) covers every jersey Baltimore has worn, from the inaugural set through the 2024 Purple Rising alternates. Below, the highlights from each era.

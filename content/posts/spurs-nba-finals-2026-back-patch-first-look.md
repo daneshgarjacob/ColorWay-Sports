@@ -5,7 +5,7 @@ date: "2026-06-02"
 updatedDate: "2026-06-02"
 excerpt: "First look at the 2026 NBA Finals back patch hand-stitched onto the San Antonio Spurs Icon Edition black jerseys and uniforms. Slight design refresh from last year. Victor Wembanyama jersey shown in the @spurs reveal video."
 gradient: "linear-gradient(135deg, #000000 0%, #C4CED4 50%, #000000 100%)"
-coverImage: "/images/posts/nba-finals-patch-/spurs-finals-back-patch-on-jersey.png"
+coverImage: "/images/posts/nba-finals-patch-/spurs-finals-back-patch-on-jersey.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -16,7 +16,7 @@ topViewsRank: 8
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/nba-finals-patch-/spurs-finals-back-patch-on-jersey.png" alt="2026 NBA Finals back patch hand-stitched onto the upper back yoke of Victor Wembanyama's San Antonio Spurs Icon Edition black jersey, the patch carrying a tan leather-colored basketball-textured background with the Finals cursive script wordmark across the top, the NBA Jerry West silhouette logo on a red and white and blue tab anchoring the bottom of the patch, and the back nameplate WEMBANYAMA stitched in white block letters directly below the patch" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/nba-finals-patch-/spurs-finals-back-patch-on-jersey.jpg" alt="2026 NBA Finals back patch hand-stitched onto the upper back yoke of Victor Wembanyama's San Antonio Spurs Icon Edition black jersey, the patch carrying a tan leather-colored basketball-textured background with the Finals cursive script wordmark across the top, the NBA Jerry West silhouette logo on a red and white and blue tab anchoring the bottom of the patch, and the back nameplate WEMBANYAMA stitched in white block letters directly below the patch" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals back patch on the Spurs Icon Edition black jersey · via @spurs</p>
 </div>
 
@@ -37,7 +37,7 @@ Hand-stitched patches sit flush with the jersey fabric, they hold up across the 
 The 2026 NBA Finals back patch carries a subtle visual refresh from the patch the Pacers and Thunder wore through the 2025 Finals. The basketball-pattern texture on the tan leather-toned background reads more pronounced and dimensional in the new patch, the "Finals" cursive script wordmark sits centered across the top of the patch in black ink, and the NBA Jerry West silhouette logo anchors the bottom of the patch on a red-and-white-and-blue tab. The proportions of the cursive Finals script and the NBA logo tab feel slightly different from prior years but the overall format holds the same general circular-patch silhouette the league has run since the modern Finals back-patch era began.
 
 <div style="margin: 2em 0;">
-  <img src="/images/posts/nba-finals-patch-/spurs-finals-back-patch-closeup.png" alt="Close-up macro shot of the 2026 NBA Finals back patch hand-stitched onto the Spurs Icon Edition black jersey showing the embroidered tan leather-toned basketball-textured background with the Finals cursive script wordmark across the top, the NBA Jerry West silhouette logo on a red and white and blue tab anchoring the bottom of the patch, and the visible thread stitching detail around the patch border" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/nba-finals-patch-/spurs-finals-back-patch-closeup.jpg" alt="Close-up macro shot of the 2026 NBA Finals back patch hand-stitched onto the Spurs Icon Edition black jersey showing the embroidered tan leather-toned basketball-textured background with the Finals cursive script wordmark across the top, the NBA Jerry West silhouette logo on a red and white and blue tab anchoring the bottom of the patch, and the visible thread stitching detail around the patch border" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 NBA Finals back patch close-up · via @spurs</p>
 </div>
 

@@ -8,12 +8,12 @@ gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png"
+coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.jpg"
 coverImagePosition: "center 15%"
 topViewsRank: 4
 ---
 
-<img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.png" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />
+<img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.jpg" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />
 
 The 2026 NBA Playoffs will be the first postseason under the league's new media deals, and that means three completely different broadcast teams calling games across ESPN/ABC, NBC/Peacock, and Amazon Prime Video. The TNT era is over, but the voices of the NBA postseason are still stacked with talent.
 
@@ -24,7 +24,7 @@ We graded every broadcast crew, from the game announcers to the studio shows, ac
 ## 1. ESPN/ABC: A-
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em auto; max-width: 100%;">
-<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="Inside the NBA on ESPN with Shaq Ernie Johnson Kenny Smith Charles Barkley" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: center top; border-radius: 10px;" />
+<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.jpg" alt="Inside the NBA on ESPN with Shaq Ernie Johnson Kenny Smith Charles Barkley" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: center top; border-radius: 10px;" />
 <img src="/images/posts/nba-playoffs-2026/NBA-ESPN-Announcers.avif" alt="ESPN NBA Playoffs announcers Tim Legler Richard Jefferson broadcast crew" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 10px;" />
 </div>
 

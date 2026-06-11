@@ -6,12 +6,12 @@ excerpt: "The Mavericks scorebug has some of the best logo integration in the NB
 gradient: "linear-gradient(135deg, #00538C 0%, #002B5E 100%)"
 league: "nba"
 teams: ["dallas-mavericks"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/DAL-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/DAL-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/DAL-SB.png" alt="Dallas Mavericks local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/DAL-SB.jpg" alt="Dallas Mavericks local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Dallas Mavericks local broadcast scorebug for 2026 is one of the more polished designs in the NBA this season. The team logo integration is the standout feature here. Instead of just dropping a small logo into the corner of the bug like most networks do, the Mavericks scorebug makes the logo feel like an actual part of the design. It gives the whole thing a branded, intentional look that a lot of other local scorebugs are missing.

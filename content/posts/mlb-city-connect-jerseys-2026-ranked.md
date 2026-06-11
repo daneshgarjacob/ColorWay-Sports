@@ -4,7 +4,7 @@ category: "MLB"
 date: "2026-04-07"
 excerpt: "All nine MLB City Connect uniforms that have leaked or been revealed for 2026, ranked from worst to first with grades for every jersey."
 gradient: "linear-gradient(135deg, #002D72 0%, #E31937 100%)"
-coverImage: "/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png"
+coverImage: "/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.jpg"
 coverImagePosition: "center 20%"
 league: "mlb"
 teams: ["atlanta-braves", "milwaukee-brewers", "pittsburgh-pirates", "san-francisco-giants", "san-diego-padres", "texas-rangers", "baltimore-orioles", "cincinnati-reds", "kansas-city-royals"]
@@ -31,7 +31,7 @@ reviews:
     rating: 6.5
 ---
 
-<img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png" alt="Atlanta Braves 2026 City Connect jersey Ronald Acuna" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.jpg" alt="Atlanta Braves 2026 City Connect jersey Ronald Acuna" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Atlanta Braves</p>
 
 **Update: All eight City Connect jerseys have been officially released by Nike and MLB. Check out our [Official 2026 City Connect Rankings With Updated Grades and Photos](/stories/mlb-city-connect-2026-official-ranking).**
@@ -174,7 +174,7 @@ The back is where this jersey really shines. The orange name lettering pops agai
 
 ## 1. Braves City Connect: A+
 
-<img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.png" alt="Atlanta Braves 2026 City Connect jersey full body" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.jpg" alt="Atlanta Braves 2026 City Connect jersey full body" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Atlanta Braves</p>
 
 The Braves took the top spot and it was not close. The powder blue throwback inspired by the 1970s and 80s uniforms is exactly what a City Connect should be. It connects the franchise to its history while still feeling modern. The TBS-inspired "ATL" sleeve logo is a brilliant detail that ties the team to the city's broadcasting roots. The cream piping, the red and blue color balance, and the overall presentation are all top tier.

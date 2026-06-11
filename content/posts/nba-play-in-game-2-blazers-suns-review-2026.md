@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-15"
 excerpt: "The Blazers beat the Suns 114-110 in the second Play-In game on Amazon Prime Video. We review the scorebug, the color-on-color jersey matchup, and the one detail on the scorebug that we really liked."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #1D1160 50%, #E56020 100%)"
-coverImage: "/images/posts/nba-play-in-game-2-2026/Suns-Cover.png"
+coverImage: "/images/posts/nba-play-in-game-2-2026/Suns-Cover.jpg"
 coverImagePosition: "center 100%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -12,7 +12,7 @@ teams: ["portland-trail-blazers", "phoenix-suns"]
 ---
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-play-in-game-2-2026/Suns-Cover.png" alt="2026 NBA Play-In Tournament Blazers vs Suns pre-game graphic Mortgage Matchup Center Phoenix Prime Video" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-play-in-game-2-2026/Suns-Cover.jpg" alt="2026 NBA Play-In Tournament Blazers vs Suns pre-game graphic Mortgage Matchup Center Phoenix Prime Video" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 
@@ -21,7 +21,7 @@ The Portland Trail Blazers beat the Phoenix Suns 114-110 in the second game of t
 ## The Scorebug: "Winner Is 7th Seed"
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-play-in-game-2-2026/blazers-suns-scorebug.png" alt="2026 NBA Play-In Tournament Amazon Prime Video scorebug Blazers vs Suns showing Winner Is 7th Seed text SoFi branding" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-play-in-game-2-2026/blazers-suns-scorebug.jpg" alt="2026 NBA Play-In Tournament Amazon Prime Video scorebug Blazers vs Suns showing Winner Is 7th Seed text SoFi branding" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 
@@ -36,7 +36,7 @@ The detail we really liked in this game was the text on the right side of the sc
 ## Uniform Matchup: Blazers Red vs. Suns Black
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-play-in-game-2-2026/blazers-suns-play-in.png" alt="Amazon Prime Video 2026 Play-In Tournament Blazers Statement Edition vs Suns Statement Edition jersey preview" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-play-in-game-2-2026/blazers-suns-play-in.jpg" alt="Amazon Prime Video 2026 Play-In Tournament Blazers Statement Edition vs Suns Statement Edition jersey preview" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 

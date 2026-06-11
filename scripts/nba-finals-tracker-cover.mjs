@@ -15,7 +15,7 @@ const FINALS_LOGO = resolve(
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
+  "../public/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg"
 );
 
 const WIDTH = 1600;

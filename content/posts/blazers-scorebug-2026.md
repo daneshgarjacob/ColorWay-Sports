@@ -6,12 +6,12 @@ excerpt: "The Blazers scorebug looks like it could be a generic Fox Sports templ
 gradient: "linear-gradient(135deg, #E03A3E 0%, #000000 100%)"
 league: "nba"
 teams: ["portland-trail-blazers"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/POR-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/POR-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/POR-SB.png" alt="Portland Trail Blazers local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/POR-SB.jpg" alt="Portland Trail Blazers local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Portland Trail Blazers local broadcast scorebug for the 2026 NBA season has the look and feel of a stock Fox Sports template with Portland's red, black, and white colors dropped in. It might actually be exactly that. It gets the job done from a functional standpoint, but it does the bare minimum when it comes to giving the Blazers any kind of unique broadcast identity.

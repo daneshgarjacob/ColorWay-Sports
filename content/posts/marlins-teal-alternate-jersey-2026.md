@@ -4,7 +4,7 @@ category: "MLB"
 date: "2026-04-01"
 excerpt: "The Marlins are bringing teal back every Sunday with their new alternate jersey. We break down the details and grade the look."
 gradient: "linear-gradient(135deg, #00A3A3 0%, #000000 50%, #00A3A3 100%)"
-coverImage: "/images/posts/marlins-teal-jersey-2026/marlins-teal-cover-cropped.png"
+coverImage: "/images/posts/marlins-teal-jersey-2026/marlins-teal-cover-cropped.jpg"
 coverImagePosition: "center 30%"
 league: "mlb"
 teams: ["miami-marlins"]

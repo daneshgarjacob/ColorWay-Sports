@@ -4,14 +4,14 @@ category: "MLB"
 date: "2026-05-25"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, cream Sunday alternates, navy weeknight alts, and the City Connect on Friday nights. We break down the full Braves uniform schedule."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
-coverImage: "/images/posts/braves-city-connect-2026/braves-cc-cover.png"
+coverImage: "/images/posts/braves-city-connect-2026/braves-cc-cover.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/mlb.png"
 league: "mlb"
 teams: ["atlanta-braves"]
 ---
 
-<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.png" alt="Atlanta Braves 2026 uniform schedule cover showing the City Connect ATL alternate jersey paired with the cream home alternate and navy weeknight uniform" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.jpg" alt="Atlanta Braves 2026 uniform schedule cover showing the City Connect ATL alternate jersey paired with the cream home alternate and navy weeknight uniform" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
 The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Atlanta wordmark for the bulk of home games at Truist Park. Road grays for most away games. Cream alternates for Sunday home dates that lean into the franchise's vintage feel. Navy alternates for select weeknight home games. The City Connect with the ATL wordmark for Friday night home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
@@ -91,7 +91,7 @@ The navy blue alternate jersey is the Braves' weeknight alternate for 2026. Navy
 
 ## City Connect (Friday Night Home Games)
 
-<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.png" alt="Atlanta Braves City Connect uniform with ATL wordmark in red and peach treatment, worn on Friday night home games at Truist Park" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.jpg" alt="Atlanta Braves City Connect uniform with ATL wordmark in red and peach treatment, worn on Friday night home games at Truist Park" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
 The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026. White base, ATL wordmark in red across the chest with peach color accents that nod to the Peach State, custom cap with the peach treatment carried through the brim and sleeve trim. The Braves introduced the City Connect in 2023 and the design ties the franchise back to Atlanta's state identity in a way few other City Connect programs have matched.

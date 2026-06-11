@@ -5,7 +5,7 @@ date: "2026-06-02"
 updatedDate: "2026-06-02"
 excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. All 48 teams, 104 matches, all 12 groups, home and away kits from Adidas, Nike, Puma, and more. Live updates from June 11 through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
-coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.png"
+coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
@@ -15,7 +15,7 @@ featuredOrder: 1
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/world-cup-2026-jersey-tracker/cover.png" alt="2026 FIFA World Cup Jersey Tracker cover composite for the ColorWay Sports running tracker grading every match kit pairing across all 48 teams 12 groups and 104 matches of the 2026 FIFA World Cup hosted by the United States Canada and Mexico from June 11 through July 19 2026" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/world-cup-2026-jersey-tracker/cover.jpg" alt="2026 FIFA World Cup Jersey Tracker cover composite for the ColorWay Sports running tracker grading every match kit pairing across all 48 teams 12 groups and 104 matches of the 2026 FIFA World Cup hosted by the United States Canada and Mexico from June 11 through July 19 2026" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
 </div>
 
 The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co-hosted by the United States, Canada, and Mexico across 16 host cities, with 104 matches across 39 days from June 11 through the Final on July 19, 2026. This is the running ColorWay Sports tracker grading every match kit and uniform pairing across the entire tournament. Every match gets a grade, every kit matchup gets analyzed, every Adidas, Nike, Puma, and other-brand reveal gets tracked. Live updates from kickoff in Group A through the Final.

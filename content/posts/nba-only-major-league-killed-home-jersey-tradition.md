@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-05-19"
 excerpt: "MLB, NFL, and NHL home teams still wear their traditional home jerseys and uniforms every playoff game. The NBA is the only major league that killed the home uniform standard."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0A0A0A 50%, #C8102E 100%)"
-coverImage: "/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.png"
+coverImage: "/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -16,7 +16,7 @@ worstRating: 0
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.png" alt="Editorial composite showing MLB home white, NFL home locked, NHL home dark, and NBA no home rule, illustrating that the NBA is the only major American sports league without a traditional home jersey standard in the playoffs" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.jpg" alt="Editorial composite showing MLB home white, NFL home locked, NHL home dark, and NBA no home rule, illustrating that the NBA is the only major American sports league without a traditional home jersey standard in the playoffs" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 If you turn on a Major League Baseball playoff game, you know exactly what each team is going to wear. The home team is in white pinstripes or home whites. The road team is in their road grays. Same in the National Football League. Same in the National Hockey League. The home team identity is locked in before the season even starts.

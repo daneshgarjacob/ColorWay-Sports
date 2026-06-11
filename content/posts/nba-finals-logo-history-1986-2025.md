@@ -6,13 +6,13 @@ excerpt: "Every NBA Finals logo from 1986 to 2025 ranked era by era. The Lakers 
 gradient: "linear-gradient(135deg, #FFF4D6 0%, #E6D9B0 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.png"
+coverImage: "/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 homepageOrder: 6
 ---
 
-<img src="/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.png" alt="NBA Finals logo history 1986 to 2025 cover composite showing seven era-defining championship logos from the banner mark era through the current digital era of Larry O'Brien Finals branding" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/nba-finals-logo-history/nba-finals-logo-history-cover.jpg" alt="NBA Finals logo history 1986 to 2025 cover composite showing seven era-defining championship logos from the banner mark era through the current digital era of Larry O'Brien Finals branding" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 The NBA Finals logo has gone through seven distinct visual eras since the league started running a dedicated annual championship mark in 1986. The cursive banner template that ran through the Lakers Showtime three-peat, the bad-boy Pistons, and the first Bulls dynasty. The gold-anchored year-by-year wordmarks of the late 90s and early 2000s during the second Bulls run and the Lakers three-peat. The standalone 2003 one-off that we are not kind to. The trophy-crest peak that defined the Pistons, Spurs, Heat, and Mavericks championships, which is the era we think the league has never beaten. The four-year stretch where the NBA used the same generic mark on every Finals package. The YouTube TV digital era we graded an F. And the current run since 2022 that tried to bring the cursive and the gold back, with mixed results.
 
@@ -20,7 +20,7 @@ We tracked every single one of them, year by year, from 1986 to 2025. Below is t
 
 ## Every NBA Finals Logo, 1986 to 2025
 
-<img src="/images/posts/nba-finals-logo-history/nba-finals-logo-history-grid.png" alt="Comprehensive chronological grid of every NBA Finals logo from 1986 through 2025 organized year by year showing the full evolution of the championship visual identity" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-finals-logo-history/nba-finals-logo-history-grid.jpg" alt="Comprehensive chronological grid of every NBA Finals logo from 1986 through 2025 organized year by year showing the full evolution of the championship visual identity" style="width: 100%; border-radius: 10px;" />
 
 Forty NBA Finals logos. The 2026 NBA Finals logo has not been unveiled yet at the time of this post, and we will add it as soon as the league publishes the new Finals identity.
 

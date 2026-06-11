@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-14"
 excerpt: "Amazon Prime Video just aired the first game of the 2026 NBA postseason. We graded the new scorebug, the Play-In court branding, the Heat-Hornets jersey matchup, and the one mistake Charlotte made with their playoff t-shirts."
 gradient: "linear-gradient(135deg, #1D428A 0%, #00788C 50%, #98002E 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.png"
+coverImage: "/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.jpg"
 coverImagePosition: "center 60%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -12,7 +12,7 @@ teams: []
 ---
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.png" alt="2026 NBA Play-In Tournament Heat vs Hornets basket stanchion pad Play-In Tournament logo Amazon Prime Video scorebug" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.jpg" alt="2026 NBA Play-In Tournament Heat vs Hornets basket stanchion pad Play-In Tournament logo Amazon Prime Video scorebug" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 
@@ -21,7 +21,7 @@ The 2026 NBA Play-In Tournament is officially underway, and we watched every sec
 ## Amazon Prime Video Play-In Tournament Scorebug
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/hornets-court-wide.png" alt="2026 NBA Play-In Tournament Amazon Prime Video scorebug wide shot Heat vs Hornets court design SoFi sponsor" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/hornets-court-wide.jpg" alt="2026 NBA Play-In Tournament Amazon Prime Video scorebug wide shot Heat vs Hornets court design SoFi sponsor" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 
@@ -50,7 +50,7 @@ The uniform matchup looks great. The Hornets in their home whites against the He
 ## Playoff T-Shirts: Should Have Gone White
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/Brandon-Miller-Sideline.png" alt="Brandon Miller Charlotte Hornets sideline 2026 NBA Play-In Tournament black playoff t-shirts fans Spectrum Center" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/Brandon-Miller-Sideline.jpg" alt="Brandon Miller Charlotte Hornets sideline 2026 NBA Play-In Tournament black playoff t-shirts fans Spectrum Center" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 

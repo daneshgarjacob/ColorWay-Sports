@@ -6,12 +6,12 @@ excerpt: "The Nets YES Network scorebug is sharp, modern, and one of the best in
 gradient: "linear-gradient(135deg, #000000 0%, #FFFFFF 100%)"
 league: "nba"
 teams: ["brooklyn-nets"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/BKN-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/BKN-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/BKN-SB.png" alt="Brooklyn Nets YES Network scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/BKN-SB.jpg" alt="Brooklyn Nets YES Network scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 YES Network has always been one of the stronger regional sports networks when it comes to on-screen graphics, and the 2026 Nets scorebug keeps that standard going. The design is sharp, modern, and built around contrast in a way that makes the score easy to read from across the room. For a team that leans heavily into a black and white color scheme, that kind of readability is not always easy to pull off in a scorebug.

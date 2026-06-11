@@ -5,7 +5,7 @@ date: "2026-04-08"
 updatedDate: "2026-05-06"
 excerpt: "Pittsburgh is the only U.S. city where every major pro sports team shares the same primary colors. The Steelers, Pirates, and Penguins all wear black and gold. We picked unified color schemes for nine more major sports cities."
 gradient: "linear-gradient(135deg, #000000 0%, #FFB612 50%, #000000 100%)"
-coverImage: "/images/posts/unified-city-colors/pittsburgh-cover.png"
+coverImage: "/images/posts/unified-city-colors/pittsburgh-cover.jpg"
 coverImagePosition: "center center"
 league: "nfl"
 teams: []

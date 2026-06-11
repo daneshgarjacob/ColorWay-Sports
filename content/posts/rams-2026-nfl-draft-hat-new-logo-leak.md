@@ -4,13 +4,13 @@ category: "NFL"
 date: "2026-03-31"
 excerpt: "The Rams' 2026 NFL Draft hat just leaked, and it reveals a brand new LA logo without the gradient. We break down what this means for the upcoming rebrand."
 gradient: "linear-gradient(135deg, #003594 0%, #FFD100 100%)"
-coverImage: "/images/posts/rams-draft-hat-2026/rams-draft-hat-front.png"
+coverImage: "/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg"
 coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["los-angeles-rams"]
 ---
 
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.png" alt="Rams 2026 NFL Draft Hat front with new LA logo" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg" alt="Rams 2026 NFL Draft Hat front with new LA logo" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Rams 2026 NFL Draft hat front via @ZachCohenFB on X</p>
 
 The Rams' 2026 NFL Draft hat just leaked, and if this is real, we're getting our first look at what LA's rebrand is going to look like. The hat features a completely redesigned LA logo on the front, a new wordmark on the back, and some interesting details on the interior.

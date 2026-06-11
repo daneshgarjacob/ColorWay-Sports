@@ -4,14 +4,14 @@ category: "NFL"
 date: "2026-04-29"
 excerpt: "Every Super Bowl logo from 1967 to 2027 ranked era by era. The unique era of custom designs through 2010, the boring template era of the early 2010s, Super Bowl 50's gold standalone, and the modern wordmark era all graded."
 gradient: "linear-gradient(135deg, #F4E8E8 0%, #E0D2D2 100%)"
-coverImage: "/images/posts/super-bowl-logo-history/super-bowl-logo-history-cover.png"
+coverImage: "/images/posts/super-bowl-logo-history/super-bowl-logo-history-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 league: "nfl"
 teams: []
 ---
 
-<img src="/images/posts/super-bowl-logo-history/super-bowl-logo-history-cover.png" alt="Super Bowl logo history 1967 to 2027 cover composite featuring seven era-defining championship marks including Super Bowl I, XXI, XLII, XLIV, XLVIII, 50, and LXI" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
+<img src="/images/posts/super-bowl-logo-history/super-bowl-logo-history-cover.jpg" alt="Super Bowl logo history 1967 to 2027 cover composite featuring seven era-defining championship marks including Super Bowl I, XXI, XLII, XLIV, XLVIII, 50, and LXI" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
 
 The Super Bowl logo has gone through four distinct visual eras since 1967. The Unique Era from Super Bowl I through Super Bowl XLIV, where every game got its own custom-designed mark with host-city motifs, anniversary callouts, and one-of-a-kind compositions. The First Template Era from Super Bowl XLV through XLIX, where the NFL standardized the logo into one wordmark template with rotating Roman numerals. The standalone Super Bowl 50 in 2016, the only game in 60 years that broke from Roman numerals entirely. And the Modern Template Era from Super Bowl LI through LXI, where the league brought the wordmark template back but added city-specific design elements within the letters.
 
@@ -179,7 +179,7 @@ The First Template Era (Super Bowl XLV through XLIX, 2011-2015) drew the most cr
 
 ## Every Super Bowl Logo, 1967 to 2027
 
-<img src="/images/posts/super-bowl-logo-history/super-bowl-logo-history-grid.png" alt="Complete chronological grid of every Super Bowl logo from 1967 through 2027 showing the Unique Era custom designs, the First Template Era wordmarks, the Super Bowl 50 gold standalone, and the Modern Template Era city-specific marks" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
+<img src="/images/posts/super-bowl-logo-history/super-bowl-logo-history-grid.jpg" alt="Complete chronological grid of every Super Bowl logo from 1967 through 2027 showing the Unique Era custom designs, the First Template Era wordmarks, the Super Bowl 50 gold standalone, and the Modern Template Era city-specific marks" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
 
 Every Super Bowl logo from 1967 through 2027 in chronological order. The Unique Era runs from Super Bowl I through Super Bowl XLIV in the top portion of the grid. The First Template Era stretch is the run of dark identical wordmarks from Super Bowl XLV through XLIX. Super Bowl 50 is the one gold standout that breaks the run. The Modern Template Era picks up with Super Bowl LI and runs through Super Bowl LXI in 2027.
 

@@ -71,7 +71,7 @@ The home kit is a winner. Nike got it right with the stars and stripes feel with
 ![England Home Kit](/images/posts/wc-england-home.jpg)
 *Image via Nike*
 
-![England Away Kit](/images/posts/wc-england-away.png)
+![England Away Kit](/images/posts/wc-england-away.jpg)
 *Image via Nike*
 
 The away kit edges out the home for us, but both are solid. England has a way of keeping things classic without being boring, and this set continues that. There's a reason the Three Lions kits always sell well. They just look right.
@@ -88,10 +88,10 @@ The checkered pattern is Croatia's identity, and this version is refined without
 
 ## 8. Uruguay
 
-![Uruguay Home Kit](/images/posts/wc-uruguay-home.png)
+![Uruguay Home Kit](/images/posts/wc-uruguay-home.jpg)
 *Image via Nike*
 
-![Uruguay Away Kit](/images/posts/wc-uruguay-away.png)
+![Uruguay Away Kit](/images/posts/wc-uruguay-away.jpg)
 *Image via Nike*
 
 The powder blue home jersey is beautiful. Uruguay's color is one of those shades that just feels right on a soccer kit. The navy accents keep it clean. The away with the wings pattern is fine but the home is the one you want to wear.
@@ -108,10 +108,10 @@ Nigeria always brings great colors to the table, and that's what saves them here
 
 ## 10. Slovenia
 
-![Slovenia Home Kit](/images/posts/wc-slovenia-home.png)
+![Slovenia Home Kit](/images/posts/wc-slovenia-home.jpg)
 *Image via Nike*
 
-![Slovenia Away Kit](/images/posts/wc-slovenia-away.png)
+![Slovenia Away Kit](/images/posts/wc-slovenia-away.jpg)
 *Image via Nike*
 
 Not bad at all. The mountain silhouettes in the grid pattern are a nice touch, and it has more personality than most of the kits below it. Slovenia clearly put thought into this one. It's just not flashy enough to crack the top half.

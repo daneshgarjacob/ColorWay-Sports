@@ -32,7 +32,7 @@ We actually like the restraint here. A lot of "country home race" liveries go fu
 
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Cadillac F1 livery</strong></p>
-  <img src="/images/posts/f1-cadillac.png" alt="Standard 2026 Cadillac F1 MAC-26 livery in regular black and white color scheme without Stars and Stripes elements, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-cadillac.jpg" alt="Standard 2026 Cadillac F1 MAC-26 livery in regular black and white color scheme without Stars and Stripes elements, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="margin: 2em 0;">
@@ -96,7 +96,7 @@ This is the best new livery of the Miami round so far. Yellow is one of the stro
 
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Visa Cash App RB livery</strong></p>
-  <img src="/images/posts/f1-racing-bulls.png" alt="Standard 2026 Visa Cash App RB Racing Bulls F1 livery in regular dark blue and red color scheme without the yellow Summer Edition treatment, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-racing-bulls.jpg" alt="Standard 2026 Visa Cash App RB Racing Bulls F1 livery in regular dark blue and red color scheme without the yellow Summer Edition treatment, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="margin: 2em 0;">
@@ -193,7 +193,7 @@ Alpine ran an Argentinian-themed Miami GP photoshoot built around driver Franco 
 
 <div style="margin: 2em 0;">
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Alpine F1 livery</strong></p>
-  <img src="/images/posts/f1-alpine.png" alt="Standard 2026 Alpine F1 livery in regular BWT pink and blue color scheme without the Miami GP yellow stripe accent, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-alpine.jpg" alt="Standard 2026 Alpine F1 livery in regular BWT pink and blue color scheme without the Miami GP yellow stripe accent, the base look the team runs every other weekend" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="margin: 2em 0;">

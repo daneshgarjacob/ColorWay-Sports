@@ -5,7 +5,7 @@ date: "2026-05-21"
 updatedDate: "2026-05-30"
 excerpt: "2026 NHL Stanley Cup Playoffs Conference Finals jersey tracker. Hurricanes close out the Canadiens 4-1 at Lenovo Center to advance to the 2026 Stanley Cup Final against the Golden Knights, who swept the Avalanche 4-0 in the West. Every sweater matchup graded."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%)"
-coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png"
+coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/NHL.png"
@@ -36,7 +36,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.png" alt="2026 NHL Stanley Cup Playoffs Conference Finals Jersey Tracker cover with NHL shield logo and Conference Finals wordmark on dark silver gradient" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg" alt="2026 NHL Stanley Cup Playoffs Conference Finals Jersey Tracker cover with NHL shield logo and Conference Finals wordmark on dark silver gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NHL Stanley Cup Playoffs Conference Finals jersey and uniform matchup graded, organized series by series. The Western Conference Final is Avalanche vs Golden Knights. The Eastern Conference Final is Hurricanes vs Canadiens. Home team wears color. Road team wears white. That's the NHL playoff standard. We score each sweater matchup on a 10-point scale and give credit for iconic alternates and throwback uniforms that carry the right vibe.

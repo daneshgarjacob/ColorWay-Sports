@@ -6,12 +6,12 @@ excerpt: "Phoenix rebranded everything except their local broadcast graphics. Th
 gradient: "linear-gradient(135deg, #1D1160 0%, #E56020 100%)"
 league: "nba"
 teams: ["phoenix-suns"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/PHX-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/PHX-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/PHX-SB.png" alt="Phoenix Suns local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/PHX-SB.jpg" alt="Phoenix Suns local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Phoenix Suns local broadcast scorebug for the 2026 NBA season feels like it belongs to a different era of the franchise. The Suns have invested heavily in rebranding over the past few years with updated logos, new court designs, and a sharper overall visual identity. But the scorebug has not kept pace with any of that. It looks outdated compared to what the team is doing everywhere else.

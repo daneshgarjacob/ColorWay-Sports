@@ -23,7 +23,7 @@ The short version of why it disappeared: digital ad inventory. The NHL replaced 
 
 For more than a decade the Stanley Cup Playoffs ice logo was painted directly on the ice surface below each blue line at every NHL postseason rink. It was one of the first things you noticed when a playoff game started. You turned on the TV and immediately knew this was not a regular-season game. The logo on the ice changed the entire feel of the broadcast. It made the playoffs feel like an event. We covered the full era-by-era ranking of the championship branding in our [Stanley Cup Final logo history 1989-2026](/stories/stanley-cup-final-logo-history-1989-2026) breakdown.
 
-<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-logo-on-ice.png" alt="2019 Stanley Cup Final logo painted on center ice at TD Garden Blues vs Bruins" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-logo-on-ice.jpg" alt="2019 Stanley Cup Final logo painted on center ice at TD Garden Blues vs Bruins" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBC Sports</p>
 
 Look at that. The Stanley Cup Final logo right there on center ice at TD Garden during the 2019 Blues-Bruins series. It's massive, it's visible on every faceoff, and it tells you exactly what you're watching. You didn't need to check the scorebug to know this was the Stanley Cup Final. The ice told you. That kind of branding turns a hockey game into an event.
@@ -32,14 +32,14 @@ Look at that. The Stanley Cup Final logo right there on center ice at TD Garden 
 
 After 2020, the NHL pulled the Stanley Cup Playoffs logo off the ice and replaced the space with digital advertising. The same spots below each blue line that used to read "Stanley Cup Playoffs" now rotate through sponsor ads that change mid-play. The result is a playoff game that looks exactly like a regular-season game. Nothing on the ice surface tells you this is the postseason.
 
-<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/current-no-logo-ice.png" alt="Recent Stanley Cup Final broadcast showing digital ads on boards and reduced on-ice branding compared to 2019" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/current-no-logo-ice.jpg" alt="Recent Stanley Cup Final broadcast showing digital ads on boards and reduced on-ice branding compared to 2019" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NHL broadcast</p>
 
 Compare that to a recent Stanley Cup Final broadcast. The "Stanley Cup Final" text is on the boards above the ice, but the ice surface itself is cluttered with sponsor logos and digital ads. The physical playoff branding below the blue lines is gone. It doesn't hit the same way. The NHL is the only major professional sports league in North America that doesn't display a postseason logo on its playing surface during the playoffs. The NBA puts the Playoffs logo on the court. MLB puts the World Series logo behind home plate. The NFL puts the conference and Super Bowl logos on the field. The NHL has nothing. That's a branding failure.
 
 ## The Old Presentation Was Better
 
-<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-nbc-broadcast.png" alt="2019 Stanley Cup Final Game 7 NBC Sports broadcast preview Blues vs Bruins showing Stanley Cup Final logo jersey patches and broadcast graphics" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nhl-stanley-cup-logo-on-ice-2026/2019-nbc-broadcast.jpg" alt="2019 Stanley Cup Final Game 7 NBC Sports broadcast preview Blues vs Bruins showing Stanley Cup Final logo jersey patches and broadcast graphics" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBC Sports</p>
 
 Look at that 2019 Stanley Cup Final Game 7 broadcast graphic from NBC. Blues vs. Bruins at TD Garden. The Stanley Cup Final logo front and center. The jersey patches clearly visible on both players. The broadcast graphics wrapping around the playoff branding. Everything felt connected and polished. It looked like the biggest event in hockey because the entire visual package told you it was.

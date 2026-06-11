@@ -7,11 +7,11 @@ gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png"
+coverImage: "/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.jpg"
 coverImagePosition: "center 30%"
 ---
 
-<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.png" alt="Inside the NBA on ESPN crew Shaq Ernie Kenny Chuck 2026 NBA Playoffs" style="width: 75%; max-width: 75%; border-radius: 10px; display: block; margin: 0 auto 2em auto;" />
+<img src="/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.jpg" alt="Inside the NBA on ESPN crew Shaq Ernie Kenny Chuck 2026 NBA Playoffs" style="width: 75%; max-width: 75%; border-radius: 10px; display: block; margin: 0 auto 2em auto;" />
 
 The 2026 NBA Playoffs are here, and for the first time in decades, the broadcast landscape looks completely different. TNT is gone as a broadcast partner, but the crew we all grew up watching is not. Shaq, Ernie, Kenny, and Chuck have moved over to ESPN, and they will likely be part of the playoff pregame, halftime, and postgame shows on that side. The league has split its playoff coverage across three networks under new 11-year media deals: ESPN/ABC, NBC/Peacock, and Amazon Prime Video.
 
@@ -23,7 +23,7 @@ This is the first of several posts we are doing on the 2026 NBA Playoffs. We wil
 
 <img src="/images/posts/nba-playoffs-2026/Play-in-logo.avif" alt="2026 NBA SoFi Play-In Tournament logo Amazon Prime Video" style="width: 100%; border-radius: 10px; margin-bottom: 12px;" />
 
-<img src="/images/posts/nba-playoffs-2026/NBA-Prime-Studio.png" alt="NBA on Prime Video studio set with virtual court and skyline" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-playoffs-2026/NBA-Prime-Studio.jpg" alt="NBA on Prime Video studio set with virtual court and skyline" style="width: 100%; border-radius: 10px;" />
 
 Before the first round even tips off, Amazon Prime Video has the entire SoFi Play-In Tournament from April 14 through April 17. All six games. One network. We like this. It keeps things simple and coherent. You know where to go, you know what to tune into, and you don't have to bounce between apps trying to find your game. Prime owns the play-in, and that is a nice touch.
 

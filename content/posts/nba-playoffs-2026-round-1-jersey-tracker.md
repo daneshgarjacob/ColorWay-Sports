@@ -9,7 +9,7 @@ excerpt: >-
   Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded. Pistons,
   Cavaliers, Sixers, and Lakers all advanced to Round 2 after Game 7 closeouts.
 gradient: 'linear-gradient(180deg, #161922 0%, #11141c 50%, #0c0f16 100%)'
-coverImage: /images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.png
+coverImage: /images/posts/NBA-Playoffs-Jersey-Matchups/round1-jerseys-only-cover.jpg
 coverImagePosition: center center
 coverImageFit: contain
 logoSrc: /logos/nba.png
@@ -126,7 +126,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NBA jersey and uniform worn in 2026 Playoffs Round 1 through Saturday collage — Cavs Classic blue, Lakers Icon gold, Spurs Fiesta black, Thunder Icon blue, Knicks Association white, Celtics Association white, Sixers Icon royal blue, Hawks Association white, Wolves Classic black and more" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/round1-jersey-collage.jpg" alt="Every NBA jersey and uniform worn in 2026 Playoffs Round 1 through Saturday collage — Cavs Classic blue, Lakers Icon gold, Spurs Fiesta black, Thunder Icon blue, Knicks Association white, Celtics Association white, Sixers Icon royal blue, Hawks Association white, Wolves Classic black and more" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NBA Playoffs Round 1 jersey and uniform matchup graded, updated game by game. Home team wears white. Road team wears color. That's the playoff uniform standard. We score each jersey matchup on a 10-point scale and give credit for iconic alternates and throwback uniforms that carry the right vibe.
@@ -1936,7 +1936,7 @@ Monday is the first real Game 2 slate. Three games. Two home teams going dark (K
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · April 20, 2026</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Arena Cleveland Cavaliers alternate throwback home court for 2026 NBA Playoffs Round 1 Game 2 vs Toronto Raptors" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Arena Cleveland Cavaliers alternate throwback home court for 2026 NBA Playoffs Round 1 Game 2 vs Toronto Raptors" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Arena · Cleveland</p>
 </div>
 
@@ -2185,7 +2185,7 @@ The Magic are going with their Statement Edition black on the road instead of th
   <div style="background: linear-gradient(90deg, #007AC1 0%, #EF3B24 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
   </div>
-  <img src="/images/posts/nba-playoffs-2026/thunder-arena-playoffs-2026.png" alt="Oklahoma City Thunder Paycom Center playoff arena setup with PLAYOFFS 2026 LED ribbon branding Thunder banners and OKC center scoreboard 2026 NBA Playoffs Round 1" style="width: 100%; display: block;" />
+  <img src="/images/posts/nba-playoffs-2026/thunder-arena-playoffs-2026.jpg" alt="Oklahoma City Thunder Paycom Center playoff arena setup with PLAYOFFS 2026 LED ribbon branding Thunder banners and OKC center scoreboard 2026 NBA Playoffs Round 1" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Full Playoffs Arena Treatment</p>
 </div>
 
@@ -2294,7 +2294,7 @@ This is still the matchup we're going to be turning on the TV for first. Frost B
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 1 · April 18, 2026</p>
   </div>
-  <img src="/images/courts/nba/cavs-alternate-home.png" alt="Rocket Arena Cleveland Cavaliers alternate throwback home court Round 1 2026 NBA Playoffs" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/cavs-alternate-home.jpg" alt="Rocket Arena Cleveland Cavaliers alternate throwback home court Round 1 2026 NBA Playoffs" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Rocket Arena · Cleveland</p>
 </div>
 
@@ -2398,7 +2398,7 @@ The Timberwolves are going with their Statement Edition on the road. This is the
   <div style="background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); padding: 10px 20px; text-align: center;">
     <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
   </div>
-  <img src="/images/posts/nba-playoffs-2026/knicks-arena-playoffs.png" alt="Madison Square Garden New York Knicks playoff arena setup with Always Knicks t-shirt giveaway draped on every seat in blue and orange Knicks colors for 2026 NBA Playoffs Round 1 vs Atlanta Hawks" style="width: 100%; display: block;" />
+  <img src="/images/posts/nba-playoffs-2026/knicks-arena-playoffs.jpg" alt="Madison Square Garden New York Knicks playoff arena setup with Always Knicks t-shirt giveaway draped on every seat in blue and orange Knicks colors for 2026 NBA Playoffs Round 1 vs Atlanta Hawks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · Always Knicks T-Shirt Takeover</p>
 </div>
 

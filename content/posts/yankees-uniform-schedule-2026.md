@@ -4,14 +4,14 @@ category: "MLB"
 date: "2026-05-25"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
-coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png"
+coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/mlb.png"
 league: "mlb"
 teams: ["new-york-yankees"]
 ---
 
-<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png" alt="New York Yankees navy alternate road jersey and pinstripe home uniform on a Yankees pinstripe background representing the 2026 Yankees uniform schedule" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg" alt="New York Yankees navy alternate road jersey and pinstripe home uniform on a Yankees pinstripe background representing the 2026 Yankees uniform schedule" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the New York Yankees</p>
 
 The New York Yankees have the simplest uniform schedule in Major League Baseball. Home pinstripes for every home game, road grays for every road game, and for the first time in franchise history, a navy alternate road jersey sitting in the closet that the Yankees have not yet pulled out for a regular season game. That is the entire 2026 rotation. While most teams cycle four or five different looks across a homestand, the Yankees treat their uniform schedule like a binary switch. Home or road. White or gray. Nothing else.

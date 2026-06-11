@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-18"
 excerpt: "The NBA will paint the Larry O'Brien Trophy at center court and The Finals script logo on the home team's floor for the 2026 NBA Finals. It's the first time the trophy has been on the court since 2009 and the first time the script has been back since 2014. We love it, we wish they'd go further, and we think the NBA Cup proves the safety argument was nonsense all along."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #1D428A 100%)"
-coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png"
+coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -12,7 +12,7 @@ teams: []
 ---
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.png" alt="2009 NBA Finals at Staples Center, Los Angeles Lakers vs Orlando Magic with Larry O'Brien Trophy painted at center court and The Finals cursive script logo on the floor, the last year the trophy was painted on an NBA Finals court before the 2026 return" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.jpg" alt="2009 NBA Finals at Staples Center, Los Angeles Lakers vs Orlando Magic with Larry O'Brien Trophy painted at center court and The Finals cursive script logo on the floor, the last year the trophy was painted on an NBA Finals court before the 2026 return" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2009 NBA Finals at Staples Center, Lakers vs. Magic. The last year the Larry O'Brien Trophy was painted on the court. via NBA broadcast</p>
 </div>
 
@@ -31,7 +31,7 @@ We wrote about this a few days ago in our [full visual history of NBA playoff co
 The NBA Finals are supposed to feel like the biggest event in basketball. For decades, the court told you that. You turned on a game in 2010, 2011, 2012, 2013, or 2014, and the first thing you saw was "The Finals" in that iconic cursive script painted at center court. You did not need a scorebug to tell you what you were watching. The court itself told you. That was the standard and it worked.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Logo-2010.png" alt="The Finals cursive script logo on NBA court center court 2010 2011 2012 2013 2014 before it was removed in 2015" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Logo-2010.jpg" alt="The Finals cursive script logo on NBA court center court 2010 2011 2012 2013 2014 before it was removed in 2015" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The Finals cursive script logo on the court from 2010 to 2014</p>
 </div>
 
@@ -40,7 +40,7 @@ Then the NBA took it all away. From 2015 through 2025, there was nothing on the 
 ## The Safety Argument Was Always Nonsense
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Cup-Court.png" alt="NBA Cup In-Season Tournament court with full custom painted branding and logos proving the NBA can paint special courts safely" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Cup-Court.jpg" alt="NBA Cup In-Season Tournament court with full custom painted branding and logos proving the NBA can paint special courts safely" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The NBA Cup court. If this is safe, the Finals court is safe.</p>
 </div>
 
@@ -68,7 +68,7 @@ That permanence is the whole point. A painted logo is a moment. A digital overla
 ## The Conference Finals Should Be Next
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.png" alt="2024 NBA Western Conference Finals court with only Playoffs sideline branding and no Conference Finals logo on the court" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.jpg" alt="2024 NBA Western Conference Finals court with only Playoffs sideline branding and no Conference Finals logo on the court" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The 2024 Western Conference Finals. You would not know by looking at the court.</p>
 </div>
 

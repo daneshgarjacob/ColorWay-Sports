@@ -17,7 +17,7 @@ The Jaguars are heading south. While Jacksonville tears down and rebuilds their 
 
 It makes a lot of sense. Camping World Stadium has hosted the Pro Bowl, major bowl games, and big-time events for years. Orlando is close enough to Jacksonville that the fanbase can still show up, and the city has the infrastructure to handle NFL gamedays.
 
-<img src="/images/posts/jaguars-orlando-2027/jaguars-orlando-apple-maps-distance.png" alt="Apple Maps showing driving distance from EverBank Stadium in Jacksonville to Camping World Stadium in Orlando" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/jaguars-orlando-2027/jaguars-orlando-apple-maps-distance.jpg" alt="Apple Maps showing driving distance from EverBank Stadium in Jacksonville to Camping World Stadium in Orlando" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Apple Maps</p>
 
 ## The New Stadium

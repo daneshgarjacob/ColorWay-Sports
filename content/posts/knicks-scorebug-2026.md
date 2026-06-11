@@ -6,12 +6,12 @@ excerpt: "The Knicks MSG scorebug is one of the cleanest in the NBA. We break do
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 league: "nba"
 teams: ["new-york-knicks"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/NYK-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/NYK-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/NYK-SB.png" alt="New York Knicks MSG Network scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/NYK-SB.jpg" alt="New York Knicks MSG Network scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 MSG Network has been broadcasting Knicks games for decades, and the 2026 scorebug shows why they are still one of the best regional sports networks in the country when it comes to broadcast design. The scorebug is sharp, well-balanced, and feels like it was actually designed by people who care about how their product looks on screen. That is not something you can say about every local NBA broadcast.

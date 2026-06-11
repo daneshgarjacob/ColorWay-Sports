@@ -21,7 +21,7 @@ ESPN updated the mobile app and the NBA scores page is the cleanest piece of the
 ## What ESPN Changed on the NBA Scores Page
 
 <div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 1.5em 0 0.5em; display: flex; justify-content: center;">
-<img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-nba-scores-redesign.png" alt="ESPN mobile app updated NBA scores page redesign showing the new cleaner score module layout, sharper type, and tightened matchup read on iPhone" style="max-width: 380px; width: 100%; display: block; border-radius: 18px;" />
+<img src="/images/posts/espn-app-nba-scores-redesign-2026/espn-app-nba-scores-redesign.jpg" alt="ESPN mobile app updated NBA scores page redesign showing the new cleaner score module layout, sharper type, and tightened matchup read on iPhone" style="max-width: 380px; width: 100%; display: block; border-radius: 18px;" />
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">ESPN's updated NBA scores page on the mobile app. Photo by ColorWay Sports.</p>
 

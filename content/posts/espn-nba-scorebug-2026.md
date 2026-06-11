@@ -6,12 +6,12 @@ excerpt: "ESPN's NBA scorebug is the cleanest national broadcast design in baske
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-national-scorebugs-2026/ESPN-SB.png"
+coverImage: "/images/posts/nba-national-scorebugs-2026/ESPN-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.png" alt="ESPN NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.jpg" alt="ESPN NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 ESPN made a change to their NBA scorebug a few years ago and absolutely nailed it. The current version for the 2026 season is simple, compact, and feels like it belongs on a big national broadcast. It does not try to do too much. It just gives you the information you need and stays out of the way, which is exactly what a scorebug should do.

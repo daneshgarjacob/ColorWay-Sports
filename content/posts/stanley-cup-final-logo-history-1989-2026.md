@@ -7,13 +7,13 @@ excerpt: "Every Stanley Cup Final logo from 1989 to 2026 ranked era by era. The 
 gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "nhl"
 teams: []
-coverImage: "/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.png"
+coverImage: "/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 homepageOrder: 7
 ---
 
-<img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.png" alt="Stanley Cup Final logo history from 1989 to 2026 showing seven distinct eras of NHL playoff branding side by side" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+<img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-cover.jpg" alt="Stanley Cup Final logo history from 1989 to 2026 showing seven distinct eras of NHL playoff branding side by side" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
 The Stanley Cup Final logo has gone through seven distinct visual eras since 1989. The ribbon-and-cup patches that sat on the chest of every player in the early 90s. The conference-vs-conference oval crests of the late 90s. The sunburst Stanley Cup wordmarks that defined the Jaromir Jagr and Patrick Roy eras. The shield-and-banner moment in the mid 2000s. The forgettable 2008 transitional one-off. The iconic silver shield that ran for thirteen years and became the visual shorthand for playoff hockey. And the new Stanley Cup Final wordmark the league rolled out in 2022 that we are still living with today.
 
@@ -21,7 +21,7 @@ We tracked every single one of them, year by year, from 1989 to 2026. Below is t
 
 ## Every Stanley Cup Final Logo, 1989 to 2026
 
-<img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-grid.png" alt="Comprehensive chronological grid of every Stanley Cup Final and Stanley Cup Playoffs logo from 1989 through 2026 organized year by year" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/stanley-cup-final-logo-history-grid.jpg" alt="Comprehensive chronological grid of every Stanley Cup Final and Stanley Cup Playoffs logo from 1989 through 2026 organized year by year" style="width: 100%; border-radius: 10px;" />
 
 Thirty-six Final logos plus the 2026 Stanley Cup Playoffs identity. The 2005 lockout year is the only break in the run.
 
@@ -32,7 +32,7 @@ Thirty-six Final logos plus the 2026 Stanley Cup Playoffs identity. The 2005 loc
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 1.5em 0;">
-  <div style="text-align: center;"><img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/1989.png" alt="1989 Stanley Cup Championship logo with ribbon and trophy" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">1989</p></div>
+  <div style="text-align: center;"><img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/1989.jpg" alt="1989 Stanley Cup Championship logo with ribbon and trophy" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">1989</p></div>
   <div style="text-align: center;"><img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/1990.png" alt="1990 Stanley Cup Championship logo with ribbon and trophy" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">1990</p></div>
   <div style="text-align: center;"><img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/1991.png" alt="1991 Stanley Cup Championship logo with ribbon and trophy" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">1991</p></div>
   <div style="text-align: center;"><img src="/images/posts/stanley-cup-finals-logo-history-2000-2026/1992.png" alt="1992 Stanley Cup Championship logo with ribbon and trophy" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">1992</p></div>

@@ -15,7 +15,7 @@ const SCF_LOGO = resolve(
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
+  "../public/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg"
 );
 
 const WIDTH = 1600;

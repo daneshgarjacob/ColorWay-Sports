@@ -21,12 +21,12 @@ We went back through every NBA postseason from 2010 to 2026 and tracked how the 
 This is what playoff court branding is supposed to look like. "The Finals" in that iconic cursive script, painted right on the hardwood at center court. You turned the game on and you immediately knew this was the NBA Finals. No question.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.png" alt="2014 NBA Playoffs logo on center court last year with on-court playoff branding" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.jpg" alt="2014 NBA Playoffs logo on center court last year with on-court playoff branding" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2014 NBA Playoffs, the last year with on-court playoff branding</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Logo-2010.png" alt="The Finals cursive script logo on NBA court center court 2010 2011 2012 2013 2014" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Logo-2010.jpg" alt="The Finals cursive script logo on NBA court center court 2010 2011 2012 2013 2014" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">The Finals cursive logo on center court</p>
 </div>
 
@@ -37,7 +37,7 @@ This is what playoff court branding is supposed to look like. "The Finals" in th
 Starting in 2015, the NBA made a major change. The Finals logo and the playoff branding were completely removed from the court. No more cursive script at center court. No more Conference Finals logo on the hardwood. Gone.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-2015.png" alt="2015 NBA Finals Golden State Warriors Cleveland Cavaliers no logo on court basket stanchion pad only" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-2015.jpg" alt="2015 NBA Finals Golden State Warriors Cleveland Cavaliers no logo on court basket stanchion pad only" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2015 NBA Finals, no logo on the court</p>
 </div>
 
@@ -46,19 +46,19 @@ The Finals patch also moved from the front of the jersey to the back. That happe
 The only way to tell it was a playoff or Finals game was by looking at the basket stanchion pad. That padded cushion at the base of the backboard support would say "Western Conference Finals" or "The Finals" depending on the round. That was it. That tiny pad was carrying the entire postseason brand for three years.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2016-WCF-Basket-Logo.png" alt="2016 NBA Western Conference Finals basket stanchion pad logo Golden State Warriors" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2016-WCF-Basket-Logo.jpg" alt="2016 NBA Western Conference Finals basket stanchion pad logo Golden State Warriors" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2016 Western Conference Finals basket stanchion pad, Golden State</p>
 </div>
 
 ## 2018: New Playoffs, Conference Finals, and NBA Finals Logos
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2018-Finals-Basket-Logo.png" alt="2018 NBA Finals new wordmark logo on basket stanchion pad Golden State Warriors" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2018-Finals-Basket-Logo.jpg" alt="2018 NBA Finals new wordmark logo on basket stanchion pad Golden State Warriors" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2018 NBA Finals, new wordmark on the basket stanchion pad</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2018-WCF-Basket-Logo.png" alt="2018 NBA Western Conference Finals basket stanchion pad logo Houston Rockets" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2018-WCF-Basket-Logo.jpg" alt="2018 NBA Western Conference Finals basket stanchion pad logo Houston Rockets" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2018 Western Conference Finals, Houston</p>
 </div>
 
@@ -69,7 +69,7 @@ We always liked the cursive script better. It had character. The new wordmark fe
 ## 2019: The Logo Returns (Barely)
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2019-Finals-Logo.png" alt="2019 NBA Finals logo on sideline courtside presented by YouTube TV small" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2019-Finals-Logo.jpg" alt="2019 NBA Finals logo on sideline courtside presented by YouTube TV small" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2019 NBA Finals, sideline branding</p>
 </div>
 
@@ -82,7 +82,7 @@ We skipped 2020 because the bubble was obviously a completely different situatio
 ## 2021: The One Good Year
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2021-WCF-Logo.png" alt="2021 NBA Western Conference Finals on court sideline logo presented by AT&T" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2021-WCF-Logo.jpg" alt="2021 NBA Western Conference Finals on court sideline logo presented by AT&T" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2021 Western Conference Finals, on-court sideline logo</p>
 </div>
 
@@ -93,21 +93,21 @@ This was a step in the right direction. It wasn't center court, but at least the
 ## 2022-Present: Back to Nothing
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2022-Playoff-And-WCF-Logo.png" alt="2022 NBA Playoffs sideline branding presented by Google Pixel Western Conference Finals" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2022-Playoff-And-WCF-Logo.jpg" alt="2022 NBA Playoffs sideline branding presented by Google Pixel Western Conference Finals" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2022 sideline branding, back to just "Playoffs"</p>
 </div>
 
 After the one good year in 2021, the NBA went right back to the downgrade. Even during the Western Conference Finals and Eastern Conference Finals, the sideline branding just said "Playoffs." Not "Western Conference Finals." Just "Playoffs." It was like they took a step forward and then two steps back.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.png" alt="NBA Western Conference Finals 2024 no on-court logo just Playoffs on sideline Minnesota Timberwolves Oklahoma City Thunder" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.jpg" alt="NBA Western Conference Finals 2024 no on-court logo just Playoffs on sideline Minnesota Timberwolves Oklahoma City Thunder" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Western Conference Finals, 2024. Just "Playoffs" on the sideline.</p>
 </div>
 
 Look at that image. That's a Western Conference Finals game. You would have no idea from looking at the court. It just says "Playoffs" on the sideline. That's it. This is a Conference Finals game and the court looks exactly the same as a first round game.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/2022-Finals-Basket-Logo.png" alt="2022 NBA Finals basket stanchion pad cursive script logo Boston Celtics Golden State Warriors" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/2022-Finals-Basket-Logo.jpg" alt="2022 NBA Finals basket stanchion pad cursive script logo Boston Celtics Golden State Warriors" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">2022 NBA Finals basket stanchion pad, Boston</p>
 </div>
 
@@ -116,21 +116,21 @@ The one positive from this era is that the NBA went back to the cursive Finals s
 ## Where We Are Now: 2025-2026
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.png" alt="NBA Playoffs 2025 2026 sideline court branding logo" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.jpg" alt="NBA Playoffs 2025 2026 sideline court branding logo" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Current NBA Playoffs sideline branding</p>
 </div>
 
 During the regular playoffs, the sideline says "Playoffs," which is fine. We like that it's there. It's not enough, but it's something. We wish it was on the court itself, but ad space is ad space and everything is about money.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-First-Round-Basket-Ads.png" alt="NBA Playoffs first round basket stanchion pad branding 2025 2026" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-First-Round-Basket-Ads.jpg" alt="NBA Playoffs first round basket stanchion pad branding 2025 2026" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Current first round basket stanchion pad</p>
 </div>
 
 The basket stanchion pad still says "Playoffs" during the first round with sponsor branding around it.
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Basket-Ad.png" alt="NBA Finals basket stanchion pad branding Finals presented by YouTube TV 2025 2026" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Basket-Ad.jpg" alt="NBA Finals basket stanchion pad branding Finals presented by YouTube TV 2025 2026" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Current NBA Finals basket stanchion pad</p>
 </div>
 
@@ -152,7 +152,7 @@ That digital trophy on the court is not it. It looks artificial, it doesn't have
 ## The NBA Can Do It When They Want To
 
 <div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Cup-Court.png" alt="NBA Cup In-Season Tournament court design special branding Lakers Clippers" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-Cup-Court.jpg" alt="NBA Cup In-Season Tournament court design special branding Lakers Clippers" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">NBA Cup court design</p>
 </div>
 

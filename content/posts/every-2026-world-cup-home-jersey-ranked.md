@@ -147,7 +147,7 @@ The radiating lines from the crest are a cool concept and the dark navy is a str
 
 ## 30. Slovenia (Nike): B-
 
-<img src="/images/posts/wc-slovenia-home.png" alt="Slovenia 2026 World Cup home kit by Nike" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-slovenia-home.jpg" alt="Slovenia 2026 World Cup home kit by Nike" style="width: 100%; border-radius: 10px;" />
 
 The mountain silhouettes in the grid pattern are a nice touch. Slovenia clearly put thought into this one. It just isn't flashy enough to crack the top half.
 
@@ -231,7 +231,7 @@ The pastel patterns inspired by Dakar's hand-painted Car Rapide minibuses give t
 
 ## 16. Uruguay (Nike): B+
 
-<img src="/images/posts/wc-uruguay-home.png" alt="Uruguay 2026 World Cup home kit by Nike" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-uruguay-home.jpg" alt="Uruguay 2026 World Cup home kit by Nike" style="width: 100%; border-radius: 10px;" />
 
 The powder blue is beautiful. Uruguay's color is one of those shades that just feels right on a soccer kit. The navy accents keep it clean.
 

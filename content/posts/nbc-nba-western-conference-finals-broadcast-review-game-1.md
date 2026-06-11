@@ -46,7 +46,7 @@ Now compare NBC's effort against what ESPN and TNT have been doing.
         <p style="margin: 0; font-size: 11px; font-weight: 800; color: #006633; text-transform: uppercase; letter-spacing: 2px;">2024 ESPN Western Conference Finals Scorebug</p>
         <p style="margin: 0; font-size: 11px; font-weight: 700; color: #00c864; text-transform: uppercase; letter-spacing: 1.5px;">Gold Standard</p>
       </div>
-      <img src="/images/posts/nba-playoffs-2026/ESPN-WCF-Scorebug.png" alt="2024 ESPN Western Conference Finals scorebug with the WESTERN CONFERENCE FINALS wordmark stretched across the full width of the scorebug below the team marks, the NBA logo locked in the center of the wordmark, ESPN red brand block on the left, GAME 1 pill on the right, the gold standard for NBA playoff broadcast graphics" style="width: 100%; display: block; border-radius: 8px;" />
+      <img src="/images/posts/nba-playoffs-2026/ESPN-WCF-Scorebug.jpg" alt="2024 ESPN Western Conference Finals scorebug with the WESTERN CONFERENCE FINALS wordmark stretched across the full width of the scorebug below the team marks, the NBA logo locked in the center of the wordmark, ESPN red brand block on the left, GAME 1 pill on the right, the gold standard for NBA playoff broadcast graphics" style="width: 100%; display: block; border-radius: 8px;" />
       <p style="margin: 8px 0 0; font-size: 12px; color: #666; font-weight: 500;">ESPN's playoff scorebug is the gold standard. The "WESTERN CONFERENCE FINALS" wordmark stretches across the entire width of the bug below the team marks, locked around the NBA logo, with the ESPN brand block on the left and a "GAME 1" pill on the right. The playoff identity is unmistakable. We hope ESPN runs the same treatment for the Eastern Conference Finals this round.</p>
     </div>
     <div>
@@ -54,7 +54,7 @@ Now compare NBC's effort against what ESPN and TNT have been doing.
         <p style="margin: 0; font-size: 11px; font-weight: 800; color: #1D428A; text-transform: uppercase; letter-spacing: 2px;">2024 TNT Eastern Conference Finals Scorebug</p>
         <p style="margin: 0; font-size: 11px; font-weight: 700; color: #e6b800; text-transform: uppercase; letter-spacing: 1.5px;">Middle Tier</p>
       </div>
-      <img src="/images/posts/nba-playoffs-2026/TNT-ECF-Scorebug.png" alt="TNT 2024 Eastern Conference Finals scorebug with the Eastern Conference Finals wordmark presented by AT&T at the top of the bug and Indiana Pacers and New York Knicks team marks below and TNT Sports branding on the right" style="width: 100%; display: block; border-radius: 8px;" />
+      <img src="/images/posts/nba-playoffs-2026/TNT-ECF-Scorebug.jpg" alt="TNT 2024 Eastern Conference Finals scorebug with the Eastern Conference Finals wordmark presented by AT&T at the top of the bug and Indiana Pacers and New York Knicks team marks below and TNT Sports branding on the right" style="width: 100%; display: block; border-radius: 8px;" />
       <p style="margin: 8px 0 0; font-size: 12px; color: #666; font-weight: 500;">TNT's scorebug puts "EASTERN CONFERENCE FINALS Presented by AT&T" at the top of the bug. It tells you what round you are watching, which is more than NBC can say. We never loved TNT's scorebug design (the proportions feel cramped and the sponsor lockup eats too much real estate) but it cleared the bar of "make the playoff round feel like the playoff round." NBC could not even do that.</p>
     </div>
     <div>
@@ -75,7 +75,7 @@ The shot clock placement is the second gripe. The clock sits below the score in 
 NBC's top-right ticker carries the same energy problem.
 
 <div style="margin: 1.5em 0; padding: 16px; background: #1a1e28; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
-  <img src="/images/posts/nbc-nba-western-conference-finals-broadcast-review-game-1/nbc-top-right-ticker.png" alt="NBC top-right corner ticker for the 2026 NBA Western Conference Finals Game 1 broadcast showing a Game 1 pill the NBA logo and the NBC Peacock logo with no Western Conference Finals branding visible" style="width: 100%; display: block; border-radius: 8px;" />
+  <img src="/images/posts/nbc-nba-western-conference-finals-broadcast-review-game-1/nbc-top-right-ticker.jpg" alt="NBC top-right corner ticker for the 2026 NBA Western Conference Finals Game 1 broadcast showing a Game 1 pill the NBA logo and the NBC Peacock logo with no Western Conference Finals branding visible" style="width: 100%; display: block; border-radius: 8px;" />
   <p style="margin: 12px 0 0; font-size: 12px; color: rgba(255,255,255,0.7); font-weight: 500; text-align: center;">The NBC top-right ticker for Game 1 carries the NBA logo, the NBC Peacock logo, and a "GAME 1" pill. The words "Western Conference Finals" do not appear anywhere on the broadcast lockup.</p>
 </div>
 

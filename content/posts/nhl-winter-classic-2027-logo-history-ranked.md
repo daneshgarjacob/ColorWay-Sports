@@ -22,7 +22,7 @@ The NHL just unveiled the 2027 Discover NHL Winter Classic logo for the Utah Mam
 ## The 2027 NHL Winter Classic Logo
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin: 1.5em 0; max-width: 360px; margin-left: auto; margin-right: auto;">
-  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2027.png" alt="2027 NHL Winter Classic logo for the Utah Mammoth at Rice-Eccles Stadium with mountain motif Discover sponsorship and hexagonal shield format" style="width: 100%; border-radius: 8px;" /></div>
+  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2027.jpg" alt="2027 NHL Winter Classic logo for the Utah Mammoth at Rice-Eccles Stadium with mountain motif Discover sponsorship and hexagonal shield format" style="width: 100%; border-radius: 8px;" /></div>
 </div>
 
 The 2027 Discover NHL Winter Classic logo is built around the Utah identity. A hexagonal shield, a snow-capped mountain range pulled directly out of the Wasatch behind Rice-Eccles Stadium, the Winter Classic script wordmark across the middle, Discover lockup under the wordmark, and UTAH stamped at the bottom point of the hex. The whole composition sits over a winter-sky photo background that gives the mark some atmospheric depth.

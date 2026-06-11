@@ -146,8 +146,8 @@ Both kits are solid without being spectacular. The away kit with the coral-to-da
 ## 40. Slovenia (Nike): B-
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
-<img src="/images/posts/wc-slovenia-home.png" alt="Slovenia 2026 World Cup home kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
-<img src="/images/posts/wc-slovenia-away.png" alt="Slovenia 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
+<img src="/images/posts/wc-slovenia-home.jpg" alt="Slovenia 2026 World Cup home kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
+<img src="/images/posts/wc-slovenia-away.jpg" alt="Slovenia 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
 </div>
 
 
@@ -256,8 +256,8 @@ The away kit is the one to watch here. The marble pattern inspired by Vienna's c
 ## 29. Uruguay (Nike): B
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
-<img src="/images/posts/wc-uruguay-home.png" alt="Uruguay 2026 World Cup home kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
-<img src="/images/posts/wc-uruguay-away.png" alt="Uruguay 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
+<img src="/images/posts/wc-uruguay-home.jpg" alt="Uruguay 2026 World Cup home kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
+<img src="/images/posts/wc-uruguay-away.jpg" alt="Uruguay 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
 </div>
 
 
@@ -374,7 +374,7 @@ This is Curacao's first ever World Cup, and they showed up with energy. The past
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.5em 0;">
 <img src="/images/posts/wc-england-home.jpg" alt="England 2026 World Cup home kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
-<img src="/images/posts/wc-england-away.png" alt="England 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
+<img src="/images/posts/wc-england-away.jpg" alt="England 2026 World Cup away kit by Nike" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px;" />
 </div>
 
 

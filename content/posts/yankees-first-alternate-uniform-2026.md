@@ -5,13 +5,13 @@ date: "2026-04-22"
 excerpt: "The Yankees quietly designated their first alternate uniform in franchise history. Players want to wear it. Here's why we hope they stay in pinstripes and grey."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 logoSrc: "/logos/mlb.png"
-coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png"
+coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
 coverImagePosition: "center 50%"
 league: "mlb"
 teams: ["new-york-yankees"]
 ---
 
-<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.png" alt="New York Yankees navy alternate road jersey on a pinstriped navy background with the Yankees top hat logo watermark, representing the franchise's first alternate uniform designation in 2026" style="width: 100%; border-radius: 10px; margin-bottom: 2em;" />
+<img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg" alt="New York Yankees navy alternate road jersey on a pinstriped navy background with the Yankees top hat logo watermark, representing the franchise's first alternate uniform designation in 2026" style="width: 100%; border-radius: 10px; margin-bottom: 2em;" />
 
 The most uniform-traditional team in North American sports has an alternate. Before the 2026 season, the New York Yankees quietly changed the official designation of their navy blue "NEW YORK" spring training road jersey from a Spring Training Road Uniform to an Alternate Road Uniform. No press release, no announcement, no social campaign, just a line change in the league style guide. The Athletic broke the story this morning after Yankees players pitched the team on actually wearing it during the regular season.
 

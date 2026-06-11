@@ -4,14 +4,14 @@ category: "Sports Design"
 date: "2026-05-13"
 excerpt: "ESPN's new College Basketball logo drops the ESPN bug inside the basketball for a cleaner pill mark with better color. We grade the 2026 ESPN CBB logo update a B+."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%)"
-coverImage: "/images/posts/espn-college-basketball-new-logo-2026/espn-cbb-new-logo.png"
+coverImage: "/images/posts/espn-college-basketball-new-logo-2026/espn-cbb-new-logo.jpg"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 league: "ncaa"
 teams: []
 ---
 
-<img src="/images/posts/espn-college-basketball-new-logo-2026/espn-cbb-new-logo.png" alt="ESPN College Basketball new 2026 logo with the ESPN bug placed inside the basketball on a cleaner pill mark with updated coloring" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/espn-college-basketball-new-logo-2026/espn-cbb-new-logo.jpg" alt="ESPN College Basketball new 2026 logo with the ESPN bug placed inside the basketball on a cleaner pill mark with updated coloring" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">New ESPN College Basketball logo via ESPN.</p>
 
 <p style="margin-bottom: 1.5em;">ESPN updated the College Basketball logo for the 2026 season and the new mark is a real upgrade. The ESPN bug now sits inside the basketball instead of stacked on top, the pill shape is cleaner, the coloring is sharper, and the whole logo is easier to read at broadcast scale. We like it. B+.</p>

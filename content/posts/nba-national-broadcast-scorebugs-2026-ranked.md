@@ -6,12 +6,12 @@ excerpt: "ESPN, Amazon Prime, and NBC Peacock each have their own NBA scorebug f
 gradient: "linear-gradient(135deg, #17408B 0%, #C9082A 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.png"
+coverImage: "/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.png" alt="ESPN NBA scorebug 2026 showing team colors and score" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.jpg" alt="ESPN NBA scorebug 2026 showing team colors and score" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The NBA has three national broadcast partners for the 2026 season: ESPN/ABC, Amazon Prime Video, and NBC Peacock. Unlike the local broadcasts where half the league shares the same FanDuel Sports Network scorebug template, the national networks each bring their own unique design to the table. We ranked [every local NBA scorebug for 2026](/stories/every-nba-local-tv-scorebug-2026-ranked) already, so now it is time to look at the national side.
@@ -20,7 +20,7 @@ Here are all three NBA national broadcast scorebugs ranked from best to worst.
 
 ## 1. ESPN/ABC: A
 
-<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.png" alt="ESPN ABC NBA scorebug 2026 with team color integration" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/ESPN-SB.jpg" alt="ESPN ABC NBA scorebug 2026 with team color integration" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 ESPN made a change to their NBA scorebug a few years ago and it was absolutely the right move. The design is simple but it feels important. When you turn on an ESPN or ABC game, the scorebug immediately tells you that you are watching a big-time broadcast. That is exactly what a national scorebug should do.
@@ -33,7 +33,7 @@ We will do a separate review when ESPN changes their scorebug for the NBA Playof
 
 ## 2. Amazon Prime Video: B
 
-<img src="/images/posts/nba-national-scorebugs-2026/PRIME-SB.png" alt="Amazon Prime Video NBA scorebug 2026 with team graphics" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/PRIME-SB.jpg" alt="Amazon Prime Video NBA scorebug 2026 with team graphics" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 This one has grown on us throughout the year. When you turn on a Prime game, you immediately know you are watching Prime. The design is similar to their NFL Thursday Night Football scorebug, which is a good thing because that one works well too. It is simple and very clean without feeling like it is missing anything.
@@ -46,7 +46,7 @@ The overall package is strong. It does not try to do too much and it lets the ga
 
 ## 3. NBC Peacock: B-
 
-<img src="/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.png" alt="NBC Peacock NBA scorebug 2026 with team logos and abbreviations" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.jpg" alt="NBC Peacock NBA scorebug 2026 with team logos and abbreviations" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 This is NBC's debut NBA season and the scorebug is fine but underwhelming. We love the NBC Sunday Night Football scorebug so much that the NBA version feels like a step down. It does not carry the same weight or polish that NBC brings to its NFL broadcasts.

@@ -37,7 +37,7 @@ The Ravens now have three helmet options for 2026.
 
 ## Primary Home Purple: Grade B+
 
-<img src="/images/posts/ravens-uniforms-2026-reveal/purple-primary.png" alt="Baltimore Ravens 2026 primary home purple uniform player portrait with black helmet and new Raven Wings collar pattern" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniforms-2026-reveal/purple-primary.jpg" alt="Baltimore Ravens 2026 primary home purple uniform player portrait with black helmet and new Raven Wings collar pattern" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The purple primary is a small tweak rather than a full redesign, and we are glad the Ravens did not blow this one up. Purple jersey, black helmet, white pants. Same silhouette, same foundation.
@@ -49,7 +49,7 @@ What changed: the numbers are noticeably cleaner and more refined, the shoulders
 
 **Old vs new comparison:**
 
-<img src="/images/posts/ravens-uniform-history/ravens-2014-purple-vs-patriots.png" alt="Baltimore Ravens previous primary home purple jersey with Nike collar update shown during game versus the Patriots for comparison" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniform-history/ravens-2014-purple-vs-patriots.jpg" alt="Baltimore Ravens previous primary home purple jersey with Nike collar update shown during game versus the Patriots for comparison" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous primary home: purple jersey, black helmet, white pants (Shawn Hubbard / Baltimore Ravens Photos)</p>
 
 We actually think the old purple primary was a little cleaner. The collar is now busier than it needed to be. The numbers are a clear upgrade though, and the sleeve shield adds a nice modern touch. Still one of our favorite purple uniforms in the NFL even with the extra collar detail.
@@ -71,7 +71,7 @@ The Raven Wings collar pattern is more visible on the white than it is on the pu
 
 **Old vs new comparison:**
 
-<img src="/images/posts/ravens-uniform-history/ravens-2022-white-lamar.png" alt="Baltimore Ravens previous white road uniform with Ravens wordmark on chest" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniform-history/ravens-2022-white-lamar.jpg" alt="Baltimore Ravens previous white road uniform with Ravens wordmark on chest" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Previous white road design</p>
 
 The numbers are cleaner, the Baltimore wordmark is a real identity upgrade, and the sleeve shield looks great. The only drag is the collar. If they had kept the neckline simpler, this would be an A- uniform.
@@ -82,7 +82,7 @@ The numbers are cleaner, the Baltimore wordmark is a real identity upgrade, and 
 
 ## Alternate Purple Rising: Grade A-
 
-<img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.png" alt="Baltimore Ravens 2026 Purple Rising alternate uniform Lamar Jackson monochrome purple top to bottom with metallic purple helmet and gold facemask" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.jpg" alt="Baltimore Ravens 2026 Purple Rising alternate uniform Lamar Jackson monochrome purple top to bottom with metallic purple helmet and gold facemask" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
 
 The revamped Purple Rising alternate is gorgeous. We usually don't love monochrome uniforms. One-color head-to-toe setups can look flat or gimmicky. This one works.
@@ -94,7 +94,7 @@ The metallic purple helmet with gold talon stripes and gold facemask is one of t
 
 **Old vs new comparison:**
 
-<img src="/images/posts/ravens-uniform-history/ravens-2024-purple-flowers.png" alt="Baltimore Ravens 2024 Purple Rising alternate uniform previous version for comparison" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-uniform-history/ravens-2024-purple-flowers.jpg" alt="Baltimore Ravens 2024 Purple Rising alternate uniform previous version for comparison" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2024 Purple Rising first generation</p>
 
 The 2024 Purple Rising was a good start. The 2026 version refines every detail. Cleaner numbers, better sleeve shield, updated pants, and the primary Ravens logo on the helmet gives it consistency with the rest of the brand. This is the best piece of the rebrand.

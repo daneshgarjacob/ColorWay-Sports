@@ -6,12 +6,12 @@ excerpt: "The Jazz scorebug checks every box without doing anything memorable. W
 gradient: "linear-gradient(135deg, #002B5C 0%, #00471B 100%)"
 league: "nba"
 teams: ["utah-jazz"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/UTA-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/UTA-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/UTA-SB.png" alt="Utah Jazz local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/UTA-SB.jpg" alt="Utah Jazz local broadcast scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 The Utah Jazz local broadcast scorebug for the 2026 NBA season is the definition of average. It checks every box you need a scorebug to check without doing a single thing that makes you look twice. For a team that has gone through multiple visual identity shifts over the past few years, the broadcast graphics feel like they got left behind somewhere in the process.

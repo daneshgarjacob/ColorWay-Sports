@@ -5,7 +5,7 @@ date: "2026-04-21"
 updatedDate: "2026-05-05"
 excerpt: "2026 NHL Stanley Cup Playoffs Round 1 jersey tracker complete. Canadiens beat Lightning 4-3 in Game 7 at Amalie Arena to close out the final series of Round 1. Every primary sweater matchup graded with final records."
 gradient: "linear-gradient(135deg, #000000 0%, #A2AAAD 50%, #000000 100%)"
-coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png"
+coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.jpg"
 coverImagePosition: "center 85%"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
@@ -109,7 +109,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.png" alt="Every NHL jersey worn in the 2026 Stanley Cup Playoffs Round 1 Game 1 collage featuring the Hurricanes, Stars, Penguins, Avalanche, Lightning, Sabres, Golden Knights, and Oilers at home and the Senators, Wild, Flyers, Kings, Canadiens, Bruins, Mammoth, and Ducks on the road" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/round1-jersey-collage.jpg" alt="Every NHL jersey worn in the 2026 Stanley Cup Playoffs Round 1 Game 1 collage featuring the Hurricanes, Stars, Penguins, Avalanche, Lightning, Sabres, Golden Knights, and Oilers at home and the Senators, Wild, Flyers, Kings, Canadiens, Bruins, Mammoth, and Ducks on the road" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NHL Stanley Cup Playoffs Round 1 jersey and uniform matchup graded, updated game by game. Home team wears color, road team wears white. That's the NHL playoff standard. We score each jersey matchup on a 10-point scale and give credit for iconic alternates and throwback sweaters that carry the right vibe.

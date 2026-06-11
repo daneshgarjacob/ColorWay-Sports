@@ -5,7 +5,7 @@ date: "2026-05-21"
 updatedDate: "2026-05-21"
 excerpt: "2026 MLB Armed Forces Day caps and hats ranked. All 30 teams in olive green with American flag patches, graded by how well each cap logo translates to the monochrome military palette."
 gradient: "linear-gradient(135deg, #2d3a1f 0%, #4a5a2f 50%, #1f2914 100%)"
-coverImage: "/images/posts/mlb-armed-forces-day-2026/cover.png"
+coverImage: "/images/posts/mlb-armed-forces-day-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/mlb-city-connect.png"
@@ -17,7 +17,7 @@ worstRating: 0
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/mlb-armed-forces-day-2026/cover.png" alt="2026 MLB Armed Forces Day caps ranked cover with olive green, American flag, and MLB logo on military camouflage gradient" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/mlb-armed-forces-day-2026/cover.jpg" alt="2026 MLB Armed Forces Day caps ranked cover with olive green, American flag, and MLB logo on military camouflage gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 All 30 MLB teams wore service-inspired caps and hats by New Era over Armed Forces Day weekend, Friday May 15 through Sunday May 17. Every cap shares the same template: olive green crown, visor, and button with each team's primary cap logo recolored in lighter green, darker green, and white. The right side carries the American flag patch positioned with the stars up front to read like the flag is flying forward, and the under-visor is black with six stars for the six branches of the U.S. military. The inner crown is a military camouflage pattern. Toronto's cap swaps the flag patch and six stars for three maple leaves to match the Canadian context. We ranked all 30 by how cleanly the team's primary cap logo translates to the monochromatic olive-green palette.

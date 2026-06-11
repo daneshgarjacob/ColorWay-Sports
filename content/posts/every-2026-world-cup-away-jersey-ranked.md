@@ -135,7 +135,7 @@ The dark blue tie-dye pattern is bold but doesn't work as well as the home kit. 
 
 ## 31. Uruguay (Nike): B-
 
-<img src="/images/posts/wc-uruguay-away.png" alt="Uruguay 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-uruguay-away.jpg" alt="Uruguay 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
 
 The wings pattern is fine but the home is the one you want. The away doesn't do enough to stand on its own.
 
@@ -153,7 +153,7 @@ The coral-to-dark-green gradient is the standout of Australia's set. It's differ
 
 ## 28. Slovenia (Nike): C+
 
-<img src="/images/posts/wc-slovenia-away.png" alt="Slovenia 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-slovenia-away.jpg" alt="Slovenia 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
 
 Similar vibe to the home. Not bad, but doesn't stand out enough in a field of 50 away kits.
 
@@ -243,7 +243,7 @@ The golden yellow with a kente-inspired pattern is strong. Both of Ghana's kits 
 
 ## 13. England (Nike): B+
 
-<img src="/images/posts/wc-england-away.png" alt="England 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-england-away.jpg" alt="England 2026 World Cup away kit by Nike" style="width: 100%; border-radius: 10px;" />
 
 The away edges out the home for us. England keeps things classic without being boring, and this away kit is proof.
 

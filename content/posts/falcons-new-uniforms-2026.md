@@ -57,7 +57,7 @@ The more we look at the numbers on the shoulder pads, the more they actually kin
 
 ## A Look Back at the Falcons Uniform History
 
-<img src="/images/posts/falcons-new-uniforms-2026/falcons-jersey-timeline.png" alt="Timeline of Atlanta Falcons uniforms through the years up to 2026" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
+<img src="/images/posts/falcons-new-uniforms-2026/falcons-jersey-timeline.jpg" alt="Timeline of Atlanta Falcons uniforms through the years up to 2026" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Falcons</p>
 
 Take a look at that timeline. The Falcons had some really solid sets before 2020. The Matt Ryan era uniforms were some of the most underrated in the NFL. There was something about the balance of red, black, and white that just worked. They weren't flashy. They weren't trying to be futuristic. They were just solid football jerseys.

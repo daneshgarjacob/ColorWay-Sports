@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
 const OUTPUT = resolve(
   __dirname,
-  "../public/images/posts/mlb-armed-forces-day-2026/cover.png"
+  "../public/images/posts/mlb-armed-forces-day-2026/cover.jpg"
 );
 
 const WIDTH = 1600;

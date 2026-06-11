@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-20"
 excerpt: "The San Antonio Spurs put a Fiesta-themed playoff shirt on every seat at Frost Bank Center for Game 1 against Portland. Then they did something no other NBA team would try. They used the arena cameras and the jumbotron to publicly single out anyone who had not put theirs on. The entire crowd complied within minutes. The arena ended up looking better than any playoff crowd in years."
 gradient: "linear-gradient(135deg, #ec0089 0%, #f7a800 50%, #00b2a9 100%)"
-coverImage: "/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.png"
+coverImage: "/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.jpg"
 coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -13,7 +13,7 @@ topViewsRank: 6
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.png" alt="Frost Bank Center wide shot showing full 2026 NBA Playoffs Game 1 Fiesta playoff shirt takeover with teal pink orange and yellow alternating sections and Spurs Fiesta court during San Antonio Spurs vs Portland Trail Blazers" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0;" />
+  <img src="/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.jpg" alt="Frost Bank Center wide shot showing full 2026 NBA Playoffs Game 1 Fiesta playoff shirt takeover with teal pink orange and yellow alternating sections and Spurs Fiesta court during San Antonio Spurs vs Portland Trail Blazers" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0;" />
 </div>
 
 The San Antonio Spurs pulled off the best arena scene of the 2026 NBA Playoffs so far. For Game 1 of their Round 1 series against the Portland Trail Blazers, the Spurs placed a teal, pink, or orange Fiesta-themed playoff t-shirt on every seat at Frost Bank Center. Then they used the arena cameras and the big screen to make absolutely sure every fan wore one. The result was one of the most unified, colorful crowds in recent NBA playoff memory.

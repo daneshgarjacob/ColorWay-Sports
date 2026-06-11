@@ -4,14 +4,14 @@ category: "NBA"
 date: "2026-05-06"
 excerpt: "Cavaliers fans trolled Canada and Drake in Game 7 against the Raptors with USA chants and Free Bird, the Team USA Olympics and 4 Nations Face-Off celebration anthem against Canada."
 gradient: "linear-gradient(135deg, #1a0008 0%, #6e0028 50%, #1a0008 100%)"
-coverImage: "/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.png"
+coverImage: "/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "contain"
 league: "nba"
 teams: ["cleveland-cavaliers"]
 ---
 
-<img src="/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.png" alt="Cavaliers Game 7 against the Toronto Raptors troll moment composite with USA chants and Free Bird wordmark in white type on a Cavaliers wine red and gold gradient background, with Cavs crowd trolled Canada Drake and the Raptors subtitle" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
+<img src="/images/posts/cavs-troll-raptors-canada-game-7-2026/cavs-troll-cover.jpg" alt="Cavaliers Game 7 against the Toronto Raptors troll moment composite with USA chants and Free Bird wordmark in white type on a Cavaliers wine red and gold gradient background, with Cavs crowd trolled Canada Drake and the Raptors subtitle" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
 
 The Cavaliers crowd took the Game 7 closeout against the Toronto Raptors at Rocket Mortgage Fieldhouse and turned it into a full-scale troll job on Canada, Drake, the city of Toronto, and the Raptors all at once. The bit had two pieces. The first was a rolling USA chant from the lower bowl that built every time the Raptors handled the ball. The second was the building dropping Free Bird through the Cleveland sound system in the fourth quarter, the same Lynyrd Skynyrd track Team USA hockey adopted as a celebration song through the 2025 4 Nations Face-Off and the 2026 Winter Olympics whenever they beat Canada. The Cavaliers won 4-3, advanced to Round 2, and the postgame trolling carried the moment further than the basketball did.
 

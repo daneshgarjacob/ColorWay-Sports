@@ -5,7 +5,7 @@ date: "2026-06-01"
 updatedDate: "2026-06-09"
 excerpt: "Spurs announce Association Edition white at home for Game 5 at Frost Bank Center with the Knicks pulling Icon Edition blue on the road. Textbook 10 out of 10 playoff pairing with the home team in traditional white and the road team in primary color, the same matchup the Spurs ran Friday night in Game 2 in San Antonio for the only other 10 out of 10 grade at Frost Bank this series. Series average through 5 announced games 9.4 out of 10, the highest jersey grade of any series in the 2026 NBA playoffs."
 gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png"
+coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
@@ -28,7 +28,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.png" alt="2026 NBA Finals Jersey Tracker cover with NBA Finals logo and Every Matchup Graded subtitle on a Knicks blue to black to Finals gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg" alt="2026 NBA Finals Jersey Tracker cover with NBA Finals logo and Every Matchup Graded subtitle on a Knicks blue to black to Finals gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NBA Finals jersey and uniform matchup graded between the New York Knicks and the San Antonio Spurs. Games 1 through 5 are confirmed, with the Spurs announcing the Association Edition white at home for Game 5 at Frost Bank Center and the Knicks pulling the Icon Edition blue on the road for the textbook playoff color pairing. The Spurs hold home court advantage in the 2026 Finals with Games 1, 2 and 5 at Frost Bank Center in San Antonio and Games 3 and 4 at Madison Square Garden in New York under the 2-2-1-1-1 home-away format. The Knicks are running their Association Edition white in 3 of the first 5 games and the Icon Edition blue in 2 of 5, the strongest classic identity commitment from a Finals team in years. The Spurs are mixing the Icon Edition black and the Association Edition white across the five games, including back-to-back 10 out of 10 broadcast calls at Frost Bank Center in their Association whites at home for Game 2 Friday night and again for Game 5 with the series on the line. We score every game on the same 10-point scale we used across both Conference Finals trackers, with credit for iconic alternates and points docked for non-traditional home-team-in-color calls only where the broadcast contrast suffers.
@@ -98,7 +98,7 @@ Below, every matchup graded game by game in reverse chronological order with the
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 5 · Frost Bank Center · NBA Finals Court</p>
   </div>
-  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 5 vs New York Knicks" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/spurs-finals-court-2026.jpg" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 5 vs New York Knicks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · NBA Finals Court</p>
 </div>
 
@@ -140,7 +140,7 @@ Game 5 back at Frost Bank Center runs back the cleanest jersey pairing of the se
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 4 · Madison Square Garden · NBA Finals Court</p>
   </div>
-  <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="Madison Square Garden New York Knicks 2026 NBA Finals court for Game 4 vs San Antonio Spurs" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/knicks-finals-court-2026.jpg" alt="Madison Square Garden New York Knicks 2026 NBA Finals court for Game 4 vs San Antonio Spurs" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · NBA Finals Court</p>
 </div>
 
@@ -188,7 +188,7 @@ Game 4 runs back the exact same jersey pairing as Game 3 at Madison Square Garde
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 3 · Monday · Madison Square Garden · NBA Finals Court</p>
   </div>
-  <img src="/images/courts/nba/knicks-finals-court-2026.png" alt="Madison Square Garden New York Knicks 2026 NBA Finals court for Game 3 vs San Antonio Spurs" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/knicks-finals-court-2026.jpg" alt="Madison Square Garden New York Knicks 2026 NBA Finals court for Game 3 vs San Antonio Spurs" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York · NBA Finals Court</p>
 </div>
 
@@ -236,7 +236,7 @@ Game 3 shifts the series to Madison Square Garden for the first NBA Finals game 
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 2 · Friday Night · Frost Bank Center</p>
   </div>
-  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 2 vs New York Knicks" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/spurs-finals-court-2026.jpg" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 2 vs New York Knicks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · NBA Finals Court</p>
 </div>
 
@@ -283,7 +283,7 @@ Game 2 at Frost Bank Center Friday night lands on the cleanest broadcast pairing
   <div style="background: #1a1e28; padding: 8px 16px; text-align: center;">
     <p style="margin: 0; font-size: 10px; color: #fff; text-transform: uppercase; letter-spacing: 2px; opacity: 0.85; font-weight: 600;">Game 1 · Wednesday · Frost Bank Center</p>
   </div>
-  <img src="/images/courts/nba/spurs-finals-court-2026.png" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 1 vs New York Knicks" style="width: 100%; display: block;" />
+  <img src="/images/courts/nba/spurs-finals-court-2026.jpg" alt="Frost Bank Center San Antonio Spurs 2026 NBA Finals court for Game 1 vs New York Knicks" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · NBA Finals Court</p>
 </div>
 

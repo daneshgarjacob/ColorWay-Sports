@@ -25,7 +25,7 @@ The NBA has four distinct stanchion tiers in a given year, and they do not match
 ### The 2026 Play-In Tournament: branded
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.png" alt="2026 NBA Play-In Tournament Heat at Hornets stanchion with Play-In Tournament branding clearly displayed on the stanchion base while the actual playoffs backboard runs no equivalent branding" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.jpg" alt="2026 NBA Play-In Tournament Heat at Hornets stanchion with Play-In Tournament branding clearly displayed on the stanchion base while the actual playoffs backboard runs no equivalent branding" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Heat at Hornets · 2026 Play-In Tournament · stanchion branded</p>
 </div>
 
@@ -45,7 +45,7 @@ Round 1 tipped off three days after the Play-In ended. The Play-In branding came
 The 2025 Western Conference Finals and Eastern Conference Finals ran with the same clean stanchion as the earlier rounds. No playoffs or Conference Finals logo on the base. Just the standard ad cycle.
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.png" alt="NBA Western Conference Finals broadcast showing the clean stanchion with no Conference Finals logo while the court still carries the same NBA PLAYOFFS sidecourt branding" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/NBA-WCF-No-Logo.jpg" alt="NBA Western Conference Finals broadcast showing the clean stanchion with no Conference Finals logo while the court still carries the same NBA PLAYOFFS sidecourt branding" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Western Conference Finals · clean stanchion, same as the First Round</p>
 </div>
 
@@ -54,19 +54,19 @@ This is the weirdest gap in the whole system. The Conference Finals is supposed 
 ### The 2025 NBA Finals: branded
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/2025-NBA-Finals-Basket-Ad.png" alt="2025 NBA Finals stanchion showing the full NBA Finals wordmark and logo treatment on the base with crowd in blue t-shirts visible behind confirming the league still ran branded stanchion for the Finals even after stripping it from the earlier rounds" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/2025-NBA-Finals-Basket-Ad.jpg" alt="2025 NBA Finals stanchion showing the full NBA Finals wordmark and logo treatment on the base with crowd in blue t-shirts visible behind confirming the league still ran branded stanchion for the Finals even after stripping it from the earlier rounds" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">2025 NBA Finals · stanchion branded · the one series that keeps the treatment</p>
 </div>
 
 The 2025 NBA Finals ran the full NBA Finals wordmark on the stanchion base. The league brought the production element back specifically for the Finals after keeping it off for the First Round, Second Round, and Conference Finals. Historical Finals (2018 at Oracle Arena, 2022 at TD Garden and Chase Center) ran the same treatment. The Finals has always gotten the prestige package.
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/2018-Finals-Basket-Logo.png" alt="2018 NBA Finals stanchion at Oracle Arena showing the NBA Finals logo wrapped around the base of the stanchion in Warriors yellow, historical evidence the league has long given the Finals the full branded treatment" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/2018-Finals-Basket-Logo.jpg" alt="2018 NBA Finals stanchion at Oracle Arena showing the NBA Finals logo wrapped around the base of the stanchion in Warriors yellow, historical evidence the league has long given the Finals the full branded treatment" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Oracle Arena · 2018 NBA Finals · historical stanchion branding</p>
 </div>
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/2022-Finals-Basket-Logo.png" alt="2022 NBA Finals backboard at TD Garden showing NBA Finals and NBA App branding on the stanchion base continuing the historical Finals treatment" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/2022-Finals-Basket-Logo.jpg" alt="2022 NBA Finals backboard at TD Garden showing NBA Finals and NBA App branding on the stanchion base continuing the historical Finals treatment" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">TD Garden · 2022 NBA Finals · stanchion base branding</p>
 </div>
 
@@ -89,7 +89,7 @@ The rest of the playoffs presentation is unchanged and that is worth noting beca
 The sidecourt branding still reads "NBA PLAYOFFS" in all caps. Same font, same blue, same placement on both sides of the court. It has been that way since at least the 2014 postseason.
 
 <div style="text-align: center; margin: 0 0 2em;">
-  <img src="/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.png" alt="2014 NBA Playoffs court branding showing NBA PLAYOFFS text on the sidecourt, the same treatment the league still uses in 2026" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
+  <img src="/images/posts/nba-playoffs-2026/2014-Playoffs-Logo-Court.jpg" alt="2014 NBA Playoffs court branding showing NBA PLAYOFFS text on the sidecourt, the same treatment the league still uses in 2026" style="max-width: 100%; display: inline-block; border-radius: 12px; margin: 0 auto 0.75em;" />
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">2014 NBA Playoffs · NBA PLAYOFFS sidecourt branding</p>
 </div>
 

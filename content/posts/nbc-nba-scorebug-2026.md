@@ -6,12 +6,12 @@ excerpt: "The Celtics, Warriors, 76ers, and Kings all share the same NBC Sports 
 gradient: "linear-gradient(135deg, #000000 0%, #6187C1 100%)"
 league: "nba"
 teams: ["boston-celtics", "golden-state-warriors", "philadelphia-76ers", "sacramento-kings"]
-coverImage: "/images/posts/nba-local-scorebugs-2026/BOS-SB.png"
+coverImage: "/images/posts/nba-local-scorebugs-2026/BOS-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-local-scorebugs-2026/BOS-SB.png" alt="NBC Sports Boston Celtics scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/BOS-SB.jpg" alt="NBC Sports Boston Celtics scorebug 2026 NBA season" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The NBC Sports Boston scorebug during a 2026 Celtics broadcast. Screenshot via YouTube.</p>
 
 NBC Sports runs four regional NBA broadcasts across the country, covering the Boston Celtics, Golden State Warriors, Philadelphia 76ers, and Sacramento Kings. All four channels use the same scorebug template for the 2026 season, just swapping in team colors and logos for each market. It is one of those designs that is easy to overlook because it does not try to do anything flashy. It just works.
@@ -22,14 +22,14 @@ What we like most about this design is the consistency. Whether you are watching
 
 ## Boston Celtics (NBC Sports Boston)
 
-<img src="/images/posts/nba-local-scorebugs-2026/BOS-SB.png" alt="NBC Sports Boston Celtics scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/BOS-SB.jpg" alt="NBC Sports Boston Celtics scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube.</p>
 
 The Celtics version uses the classic green-and-white color scheme, and it might be the best-looking version of the four. The green pops nicely against the darker elements of the bug, and the shamrock logo is instantly recognizable even at a small size.
 
 ## Golden State Warriors (NBC Sports Bay Area)
 
-<img src="/images/posts/nba-local-scorebugs-2026/GSW-SB.png" alt="NBC Sports Bay Area Warriors scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/GSW-SB.jpg" alt="NBC Sports Bay Area Warriors scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube.</p>
 
 The Warriors version brings in that royal blue and gold combination. The blue row reads well on screen and the gold accents give it just enough contrast to feel distinct from the other NBC Sports markets.
@@ -43,7 +43,7 @@ The 76ers version goes with the blue and red treatment. Philadelphia's color pal
 
 ## Sacramento Kings (NBC Sports California)
 
-<img src="/images/posts/nba-local-scorebugs-2026/SAC-SB.png" alt="NBC Sports California Kings scorebug 2026" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-local-scorebugs-2026/SAC-SB.jpg" alt="NBC Sports California Kings scorebug 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube.</p>
 
 The Kings version uses that purple and gray combination that Sacramento has been rocking for the past few seasons. The purple reads a bit darker on screen than the other team colors in this template, but it still holds up well and keeps the scorebug feeling cohesive.

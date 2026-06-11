@@ -11,7 +11,7 @@ teams: ["tennessee-titans"]
 
 The Tennessee Titans have officially unveiled their new look, and it's a full rebrand: new uniforms, new logo, new identity. It comes at the perfect time. New stadium on the way, Cam Ward under center, and a franchise ready to turn the page. This is his era's jersey, and there's something nice about that. A new chapter deserves a new look.
 
-![Titans unveil event](/images/posts/titans-unveil-stage.png)
+![Titans unveil event](/images/posts/titans-unveil-stage.jpg)
 *Image via Titans.com*
 
 ## The Jerseys: A-
@@ -28,7 +28,7 @@ The home jersey is the standout. The color pops, the sleeves are clean, and the 
 
 Our favorite combination is the white away jersey with the blue pants. That's the look. Blue jersey with white pants is strong too, because we're not fans of monochrome. When you've got a color this good, break it up. Let the contrast do the work.
 
-![Titans uniforms revealed](/images/posts/titans-unveil-uniforms.png)
+![Titans uniforms revealed](/images/posts/titans-unveil-uniforms.jpg)
 *Image via Titans.com*
 
 This is part of a bigger trend across the league. Teams are going simpler. Stripping things back, cleaning things up, letting the colors speak for themselves. We like that direction. Not every uniform needs to scream at you.

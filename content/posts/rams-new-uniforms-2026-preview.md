@@ -5,13 +5,13 @@ date: "2026-04-15"
 excerpt: "The Rams are unveiling a new logo and uniforms on April 16, and the gradient is finally dead. Here's everything that has leaked, what's changing, and what we want to see from the full rebrand."
 gradient: "linear-gradient(135deg, #003594 0%, #FFD100 50%, #003594 100%)"
 logoSrc: "/logos/nfl.png"
-coverImage: "/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzone.png"
+coverImage: "/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzone.jpg"
 coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["los-angeles-rams"]
 ---
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzone.png" alt="Los Angeles Rams players celebrating in the end zone in current blue home uniforms with gradient numbers" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-celebration-endzone.jpg" alt="Los Angeles Rams players celebrating in the end zone in current blue home uniforms with gradient numbers" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Bryce Todd/Los Angeles Rams</p>
 
 The Los Angeles Rams are unveiling a new logo and new uniforms tomorrow, April 16, at a block party ahead of the NFL Draft. This is one of the most anticipated rebrands of the 2026 offseason, and for good reason. The Rams' current look has been polarizing since day one. The gradient logo, the bone-colored alternates, the inconsistent identity. It's all been a talking point for years. Tomorrow, that era officially ends. Here's everything we know.
@@ -29,7 +29,7 @@ The Los Angeles Rams are unveiling a new logo and new uniforms tomorrow, April 1
 
 The biggest confirmed change is the death of the gradient. The white-to-yellow gradient that has been on the Rams' LA logo, number fonts, and uniform details since 2020 is gone. The new LA logo will feature a flat gold throughout, replacing the gradient entirely. The leaked draft hat from late March gave us our first look at the updated design, and while the shape of the LA is similar, the clean, solid coloring makes it look like a completely different logo.
 
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.png" alt="Rams 2026 NFL Draft Hat showing new flat gold LA logo without gradient" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg" alt="Rams 2026 NFL Draft Hat showing new flat gold LA logo without gradient" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @ZachCohenFB on X</p>
 
 Reports also indicate the Rams are introducing a brand new wordmark. The draft hat leak showed an angular, italicized "RAMS" typeface on the snapback that has a speed-stripe feel to it. If that wordmark carries over to the jerseys and brand materials, it would be a major upgrade over the plain block text the team has been using since 2020.
@@ -43,22 +43,22 @@ The Rams are also expected to release two alternate uniforms later this offseaso
 
 Before we can talk about what's changing, let's look at what the Rams are working with right now.
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-donald-blue-home.png" alt="Aaron Donald 99 in Los Angeles Rams blue home uniform with gradient numbers" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-donald-blue-home.jpg" alt="Aaron Donald 99 in Los Angeles Rams blue home uniform with gradient numbers" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Brevin Townsell/LA Rams</p>
 
 The royal blue home jersey has always been the strongest piece in the Rams' closet. The blue and yellow combination works. The problem has always been the gradient on the numbers and the overall execution of the secondary elements. The bones of a great uniform are there, but the details have been holding it back.
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-curl-tackling-cardinals.png" alt="Rams player Curl tackling Cardinals Kyler Murray in bone white away uniform" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-curl-tackling-cardinals.jpg" alt="Rams player Curl tackling Cardinals Kyler Murray in bone white away uniform" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Brevin Townsell/Los Angeles Rams</p>
 
 The bone-colored away jersey has been one of the most divisive uniforms in the NFL. Some fans love the off-white look. Most don't. It doesn't read as "white" on the field, and the gradient numbers make the whole thing look washed out. If the Rams go back to a clean white away jersey tomorrow, nobody will miss the bone.
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-white-away-seahawks.png" alt="Los Angeles Rams players in white away jerseys with blue pants against Seattle Seahawks" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-white-away-seahawks.jpg" alt="Los Angeles Rams players in white away jerseys with blue pants against Seattle Seahawks" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Brevin Townsell/Los Angeles Rams</p>
 
 When the Rams have worn white jerseys, they've actually looked pretty clean. White jersey with blue pants is a solid road look for this team. If the new set goes in this direction full time, it would be a major step up from the bone.
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-black-alternate.png" alt="Los Angeles Rams in black alternate uniforms at SoFi Stadium" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-black-alternate.jpg" alt="Los Angeles Rams in black alternate uniforms at SoFi Stadium" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Bryce Todd/Los Angeles Rams</p>
 
 The black alternate has been a fan favorite even though it technically doesn't connect to the franchise's color history at all. It looks good on the field, but it's always felt more like a fashion statement than a football uniform. Two new alternates are reportedly on the way later this offseason, so we'll see if black sticks around.
@@ -66,7 +66,7 @@ The black alternate has been a fan favorite even though it technically doesn't c
 
 ## What We Want to See
 
-<img src="/images/posts/rams-new-uniforms-2026-preview/rams-vintage-blue-yellow.png" alt="Vintage Los Angeles Rams players in classic blue and yellow uniforms" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/rams-new-uniforms-2026-preview/rams-vintage-blue-yellow.jpg" alt="Vintage Los Angeles Rams players in classic blue and yellow uniforms" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the NFL</p>
 
 Look at that photo. That's what the Rams should look like. Blue and yellow with the horns running from the helmet through the jersey. Simple. Iconic. No gradients, no bone colors, no unnecessary design elements. Just a classic football uniform.

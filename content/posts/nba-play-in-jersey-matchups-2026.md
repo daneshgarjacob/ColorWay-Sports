@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-16"
 excerpt: "We're tracking every home team jersey choice in the 2026 NBA Playoffs. Only 1 out of 6 Play-In home teams will wear white once Friday's games tip off. Updated throughout the postseason."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.png"
+coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.jpg"
 coverImagePosition: "center 15%"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -34,7 +34,7 @@ Let's get into it.
 ## Game 1: Miami Heat at Charlotte Hornets
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/heat-hornets-play-in.png" alt="Miami Heat Icon Edition black jersey vs Charlotte Hornets Association Edition white jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/heat-hornets-play-in.jpg" alt="Miami Heat Icon Edition black jersey vs Charlotte Hornets Association Edition white jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 
@@ -49,7 +49,7 @@ Charlotte is going with their normal home whites, which is the right call. The S
 ## Game 2: Portland Trail Blazers at Phoenix Suns
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/blazers-suns-play-in.png" alt="Portland Trail Blazers Statement Edition red jersey vs Phoenix Suns Statement Edition black jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/blazers-suns-play-in.jpg" alt="Portland Trail Blazers Statement Edition red jersey vs Phoenix Suns Statement Edition black jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 
@@ -64,7 +64,7 @@ The Blazers are going with their Statement Edition red jerseys on the road. That
 ## Game 3: Golden State Warriors at LA Clippers
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/warriors-clippers-play-in.png" alt="Golden State Warriors Association Edition white jersey vs LA Clippers Icon Edition blue jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/warriors-clippers-play-in.jpg" alt="Golden State Warriors Association Edition white jersey vs LA Clippers Icon Edition blue jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 
@@ -81,7 +81,7 @@ This is the exact opposite of what playoff basketball should look like. We wish 
 ## Game 4: Orlando Magic at Philadelphia 76ers
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/magic-sixers-play-in.png" alt="Orlando Magic Association Edition white jersey vs Philadelphia 76ers Classic Edition black throwback jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/magic-sixers-play-in.jpg" alt="Orlando Magic Association Edition white jersey vs Philadelphia 76ers Classic Edition black throwback jersey Play-In Tournament 2026 Locker Vision" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 
@@ -96,7 +96,7 @@ The Magic are going with their Association Edition whites. We would have liked i
 ## Game 5: Charlotte Hornets at Orlando Magic (Friday)
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.png" alt="Charlotte Hornets Association Edition white jersey vs Orlando Magic Icon Edition blue jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.jpg" alt="Charlotte Hornets Association Edition white jersey vs Orlando Magic Icon Edition blue jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 
@@ -111,7 +111,7 @@ The flip side is that Charlotte is locked into their Association Edition whites 
 ## Game 6: Golden State Warriors at Phoenix Suns (Friday)
 
 <div style="text-align: center;">
-  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/warriors-suns-play-in.png" alt="Golden State Warriors Association Edition white jersey vs Phoenix Suns Statement Edition black jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/NBA-Playoffs-Jersey-Matchups/warriors-suns-play-in.jpg" alt="Golden State Warriors Association Edition white jersey vs Phoenix Suns Statement Edition black jersey Play-In Tournament 2026 Locker Vision Friday game" style="width: 100%; border-radius: 10px;" />
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via NBA Locker Vision</p>
 </div>
 

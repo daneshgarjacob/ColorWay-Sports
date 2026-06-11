@@ -20,7 +20,7 @@ export default function MatchupPreview() {
           homeJersey="/images/jerseys/nba/cavs-classic-blue.png"
           homeEdition="Classic"
           homeColor="Throwback Blue"
-          court="/images/courts/nba/cavs-alternate-home.png"
+          court="/images/courts/nba/cavs-alternate-home.jpg"
           arena="Rocket Arena · Cleveland"
           tournament="NBA Playoffs · Round 1"
         />

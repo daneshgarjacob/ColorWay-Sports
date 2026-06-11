@@ -4,13 +4,13 @@ category: "NFL"
 date: "2026-04-02"
 excerpt: "The Commanders are dropping new uniforms on April 15 and everything points to a return to the Super Bowl era. Here's what we know so far and what we're hoping to see."
 gradient: "linear-gradient(135deg, #5A1414 0%, #FFB612 50%, #5A1414 100%)"
-coverImage: "/images/posts/commanders-new-uniforms-2026-preview/daniels-smiling-cropped.png"
+coverImage: "/images/posts/commanders-new-uniforms-2026-preview/daniels-smiling-cropped.jpg"
 coverImagePosition: "center 25%"
 league: "nfl"
 teams: ["washington-commanders"]
 ---
 
-<img src="/images/posts/commanders-new-uniforms-2026-preview/daniels-smiling-cropped.png" alt="Jayden Daniels smiling in Washington Commanders throwback uniform" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
+<img src="/images/posts/commanders-new-uniforms-2026-preview/daniels-smiling-cropped.jpg" alt="Jayden Daniels smiling in Washington Commanders throwback uniform" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Kourtney Carroll/Washington Commanders</p>
 
 The Washington Commanders are unveiling new uniforms on April 15, just days before the NFL Draft. This is one of the most anticipated uniform reveals in years, and based on everything that's leaked and been teased so far, it sounds like Washington is finally about to get it right.

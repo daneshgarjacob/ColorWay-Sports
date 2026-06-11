@@ -27,7 +27,7 @@ We don't love City Connects in general, and putting a different name on the fron
 
 The red works. The back of the jersey with Langford's #36 is probably the strongest angle. Red on red with the number in the jersey color looks sharp. It's a clean back.
 
-![Rangers Tejas City Connect - Sleeve Detail](/images/posts/rangers-cc-sleeve-detail.png)
+![Rangers Tejas City Connect - Sleeve Detail](/images/posts/rangers-cc-sleeve-detail.jpg)
 *Image via u/Tha_Chadwick / Reddit*
 
 The sleeves have a step fret pattern that ties in with the "T" shape from the wordmark, and that's a nice detail. It gives the jersey some texture without going overboard.

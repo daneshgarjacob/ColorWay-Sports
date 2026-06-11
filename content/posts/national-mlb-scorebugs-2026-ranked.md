@@ -6,13 +6,13 @@ excerpt: >-
   We ranked every national MLB broadcast scorebug for 2026 from Fox to ESPN to
   Netflix. Fox takes the top spot and ESPN lands at the bottom.
 gradient: 'linear-gradient(135deg, #0C2340 0%, #C41E3A 50%, #0C2340 100%)'
-coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png
+coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg
 coverImagePosition: center 50%
 league: mlb
 teams: []
 ---
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Fox MLB scorebug via Fox Sports</p>
 
 We ranked [every local MLB broadcast scorebug for 2026](/stories/every-mlb-local-tv-scorebug-2026-ranked) earlier today, and we promised a national broadcast edition. Here it is. Six networks now carry Major League Baseball nationally, and the gap between the best and worst scorebug is massive.
@@ -23,7 +23,7 @@ Let's get into it, worst to first.
 
 ## 6. ESPN: F
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/espn-scorebug.png" alt="ESPN MLB scorebug 2025 showing Yankees vs Dodgers with black design" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/espn-scorebug.jpg" alt="ESPN MLB scorebug 2025 showing Yankees vs Dodgers with black design" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">ESPN MLB scorebug via ESPN (Yankees vs Dodgers, 2025)</p>
 
 This is the worst national scorebug in baseball by a wide margin. The entire thing is black. The only color on the screen comes from the batter and pitcher info bar at the top. The team logos are there but they feel like an afterthought against the dark background. There is no energy, no personality, and no sense that you are watching something special.
@@ -36,7 +36,7 @@ It is hard not to wonder if this is a reflection of ESPN pulling back from baseb
 
 ## 5. TNT/TBS: D-
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/tnt-scorebug.png" alt="TNT Sports MLB scorebug from NLCS Game 4 showing Brewers vs Dodgers" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/tnt-scorebug.jpg" alt="TNT Sports MLB scorebug from NLCS Game 4 showing Brewers vs Dodgers" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">TNT/TBS MLB scorebug via TNT Sports (NLCS Game 4, 2025)</p>
 
 The TNT/TBS scorebug has carried National League postseason games in recent years, alternating conference coverage with Fox. And it does not deserve that stage. The whole thing is dark and muddy. The background is a deep charcoal that swallows the team logos and makes the score harder to read than it should be. The gold accents on the batter info give it a slight premium feel, but that is about the only positive thing we can say.
@@ -62,7 +62,7 @@ We wrote a [full breakdown of the NBC scorebug](/stories/nbc-mlb-scorebug-2026-r
 
 ## 3. Apple TV+: C
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/appletv-scorebug.png" alt="Apple TV+ MLB scorebug showing Giants vs Dodgers with Kershaw pitching" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/appletv-scorebug.jpg" alt="Apple TV+ MLB scorebug showing Giants vs Dodgers with Kershaw pitching" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Apple TV+ MLB scorebug via Apple TV+ (Giants vs Dodgers, 2025)</p>
 
 The Apple TV+ scorebug is modern and sleek. It uses a frosted glass look with rounded corners that feels right at home on a streaming platform. The team logos are prominent, the score is easy to read, and the overall aesthetic is clean. The dark translucent background lets the game show through without the scorebug feeling heavy.
@@ -88,7 +88,7 @@ We did a [full breakdown of the Netflix scorebug](/stories/netflix-mlb-scorebug-
 
 ## 1. Fox: A+
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.png" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays with Rojas at bat" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays with Rojas at bat" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Fox MLB scorebug via Fox Sports (2025 World Series)</p>
 
 Fox has the best national scorebug in baseball and it is not close. The design is colorful, clean, and perfectly balanced. Each team gets its own color block with the logo, the score is massive and easy to read from across the room, and the inning, count, and outs are all laid out logically in the center panel.

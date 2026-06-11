@@ -5,7 +5,7 @@ date: "2026-06-01"
 updatedDate: "2026-06-10"
 excerpt: "2026 NHL Stanley Cup Final jersey tracker. The Hurricanes take Game 4 on the road in the white sweaters at T-Mobile Arena to even the series 2-2 and send the Final back to Lenovo Center as a best-of-three. Game 3 went to Vegas 5-4 in double overtime inside the gold home sweater behind Mitch Marner's record 6:10 natural hat trick and Shea Theodore's 2OT winner. Hurricanes black home alternate at Lenovo Center, Knights gold home at T-Mobile Arena, every sweater matchup graded. Series average 7.5 out of 10."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
-coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png"
+coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/NHL.png"
@@ -26,7 +26,7 @@ reviews:
 ---
 
 <div style="margin: 0 0 2em;">
-  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.png" alt="2026 NHL Stanley Cup Final Jersey Tracker cover with Stanley Cup Playoffs logo and Every Matchup Graded subtitle on a Hurricanes red to black to Vegas gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
+  <img src="/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg" alt="2026 NHL Stanley Cup Final Jersey Tracker cover with Stanley Cup Playoffs logo and Every Matchup Graded subtitle on a Hurricanes red to black to Vegas gold gradient" style="width: 100%; display: block; border-radius: 12px;" />
 </div>
 
 Every 2026 NHL Stanley Cup Final jersey and sweater matchup graded between the Carolina Hurricanes and the Vegas Golden Knights. Games 1 through 4 are confirmed under the standard NHL playoff uniform pattern. Hurricanes wear their black home sweater for Games 1 and 2 at Lenovo Center in Raleigh. Knights wear their primary gold home sweater for Games 3 and 4 at T-Mobile Arena in Las Vegas. Each road team wears their white road sweater. NHL playoff standard is home team in color, road team in white, the inverse of the NBA. Every matchup follows the standard for the first 4 games of the Final, no alternates from the road team, no curveballs.

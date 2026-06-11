@@ -9,7 +9,7 @@ league: "nfl"
 teams: ["baltimore-ravens"]
 ---
 
-<img src="/images/posts/ravens-iridescent-rumors-2026/seahawks-iridescent-front.png" alt="Seahawks rivalry jersey showing iridescent pattern detail similar to what the Ravens are rumored to use" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-iridescent-rumors-2026/seahawks-iridescent-front.jpg" alt="Seahawks rivalry jersey showing iridescent pattern detail similar to what the Ravens are rumored to use" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">📸 Seattle Seahawks / Nike</p>
 
 <div style="margin: 0 0 2em; padding: 1em 1.25em; background: #f5f5f0; border-left: 3px solid #241773; border-radius: 6px;">
@@ -24,7 +24,7 @@ The biggest design detail we are hearing about is iridescent accents woven into 
 
 The Seahawks already did something similar with their rivalry alternate jersey this season, and it gives us a solid reference point for what this could look like on the Ravens. The Seahawks version uses a subtle reflective pattern across the shoulders and chest that catches light without being overwhelming.
 
-<img src="/images/posts/ravens-iridescent-rumors-2026/seahawks-iridescent-full.png" alt="Seahawks full body iridescent rivalry jersey showing reflective pattern on white uniform" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/ravens-iridescent-rumors-2026/seahawks-iridescent-full.jpg" alt="Seahawks full body iridescent rivalry jersey showing reflective pattern on white uniform" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">📸 Seattle Seahawks / Nike</p>
 
 The Seahawks pulled it off well. On a white base, the iridescent pattern reads as texture more than flash, and the effect on camera is subtle enough that it does not distract from the rest of the uniform. If the Ravens are going for something similar on a black or purple base, the color-shifting effect could be even more dramatic. A dark jersey with flashes of purple and green reflecting off the fabric under stadium lights would be legitimately striking.

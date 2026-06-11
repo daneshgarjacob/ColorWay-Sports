@@ -6,12 +6,12 @@ excerpt: "NBC Peacock's NBA scorebug has redundant abbreviations and does not fe
 gradient: "linear-gradient(135deg, #000000 0%, #4B9CD3 100%)"
 league: "nba"
 teams: []
-coverImage: "/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.png"
+coverImage: "/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 ---
 
-<img src="/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.png" alt="NBC Peacock NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/nba-national-scorebugs-2026/NBC-Peacock-SB.jpg" alt="NBC Peacock NBA scorebug 2026 national broadcast" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Screenshot via YouTube</p>
 
 This is NBC's debut NBA season, and the Peacock scorebug for 2026 is fine but underwhelming. We love the NBC NFL scorebug so much that this NBA version feels like a step down by comparison. It gets the job done, but it does not carry the same weight or polish that you expect from a national broadcast on one of the biggest networks in sports.
