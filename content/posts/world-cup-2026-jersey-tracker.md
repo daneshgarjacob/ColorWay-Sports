@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-02"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. All 48 teams, 104 matches, all 12 groups, home and away kits from Adidas, Nike, Puma, and more. Live updates from June 11 through the Final on July 19."
+updatedDate: "2026-06-11"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. The opener delivers: Mexico in the Aztec verde against South Africa in the 2010 tribute gold at Estadio Azteca grades a 9/10. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -35,16 +35,74 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 - **Knockout rounds:** Round of 32, Round of 16, Quarterfinals, Semifinals, Third Place, Final — 32 matches
 - **Total matches:** 104
 - **Tournament dates:** June 11, 2026 (Opener) through July 19, 2026 (Final)
-- **Opener:** Mexico vs (TBD opponent in Group A) at Estadio Azteca, Mexico City
+- **Opener:** Mexico vs South Africa at Estadio Azteca, Mexico City (June 11, 3 PM ET)
 - **Final:** July 19, 2026 at MetLife Stadium, East Rutherford, New Jersey
 
 ## Group Stage — All 12 Groups
 
 The 2026 FIFA World Cup draw took place on December 5, 2025, at the Kennedy Center in Washington, D.C. All 12 groups are locked in below. As each group stage match is played, we grade the kit pairing in the appropriate group section.
 
-### Group A — Mexico, South Africa, Republic of Korea, UEFA Play-off D Winner
+### Group A — Mexico, South Africa, South Korea, Czechia
 
-Group A is the host group anchored by Mexico, opening the tournament at Estadio Azteca on June 11. Match-by-match grades populate here as games are played.
+Group A is the host group anchored by Mexico, and it opened the entire tournament at Estadio Azteca on June 11 with both Matchday 1 games landing on opening day for US viewers: the opener at 3 PM ET in Mexico City, and South Korea against Czechia at 10 PM ET at Estadio Akron in Guadalajara.
+
+## Match 1: Mexico vs South Africa
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #006847 0%, #FFB81C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">World Cup Opener · Group A · Confirmed · Estadio Azteca</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/mexico.jpg" alt="Mexico 2026 World Cup adidas home jersey in green with the tonal Aztec sun stone print worn in the tournament opener vs South Africa at Estadio Azteca" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MEXICO</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Verde</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmexico%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/south-africa.avif" alt="South Africa 2026 World Cup adidas home jersey in canary gold with green trim inspired by the 2010 Bafana Bafana shirt worn in the opener vs Mexico" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH AFRICA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520africa%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico against South Africa is the exact fixture that opened the 2010 World Cup at Soccer City in Johannesburg, on the exact same date, June 11, and now the kit story comes full circle with the host roles reversed. South Africa's canary gold home shirt is a direct tribute to the one Bafana Bafana wore that day in 2010, when Siphiwe Tshabalala hammered the tournament's opening goal past Mexico and gave the World Cup one of its most replayed goal celebrations. Mexico answers with the strongest home identity in CONCACAF, the deep verde loaded with a tonal Aztec sun stone print that reads nearly solid green from broadcast distance and rewards every close-up. Green against gold is a top-shelf color pairing, full contrast on the Azteca grass with zero clash risk, and both teams showing up to a World Cup opener in their first-choice home looks is exactly how a tournament should start. The only thing keeping this from a 10 is South Africa's green trim softening the separation slightly in wide shots. We are calling it a 9, and the bar for the next 103 matches is set.
+
+## Match 2: South Korea vs Czechia
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #11457E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Tonight 10 PM ET · Estadio Akron · Kit Selection TBC</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-south-korea-home.jpg" alt="South Korea 2026 World Cup Nike home jersey in red with tonal tiger print ahead of the Group A match vs Czechia at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH KOREA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520korea%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/puma-world-cup-kits/czech-republic-home.jpg" alt="Czechia 2026 World Cup Puma home jersey in red with the double-tailed lion crest ahead of the Group A match vs South Korea at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CZECHIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red (One Team Must Switch)</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dczech%2520republic%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(255, 89, 16, 0.1); border-radius: 12px; border: 1px solid rgba(255, 89, 16, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #FF5910;">Grade Drops at Kickoff</p>
+</div>
+
+Group A's second game goes tonight at Estadio Akron in Guadalajara, and it hands FIFA the tournament's first kit conflict. South Korea's home shirt is red. Czechia's home shirt is red. Two reds cannot share a pitch, so one of these teams gets flipped to a change kit, and as the listed home team we expect South Korea to keep the Taegeuk Warriors' tiger-print red and Czechia to come out in their change kit. Czechia is back at a World Cup for the first time since 2006 after surviving the March play-offs, so whatever they wear, the double-tailed lion crest returns to the biggest stage after twenty years away. We grade the pairing the moment the teams walk out of the tunnel.
 
 ### Group B — Canada, UEFA Play-off A Winner, Qatar, Switzerland
 
@@ -129,6 +187,16 @@ The 2026 FIFA World Cup is dominated by three major kit suppliers across the 48 
 
 This tracker pairs every individual kit grade from those rankings with the live match-by-match grading layer that develops as the tournament plays.
 
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
+  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">9.0 / 10</span>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">1 / 104</span>
+</div>
+
 ## The Bottom Line on the 2026 FIFA World Cup Jersey Tracker
 
 The 2026 FIFA World Cup is the biggest jersey and uniform tracker opportunity of the calendar year. 104 matches, 48 teams, three confederations of kit suppliers, and 39 days of group stage and knockout drama on the largest broadcast stage in sports. Every kit decision matters. Every contrast matters. Every match-by-match pairing tells a different visual story. This tracker grades all of it, live, in one place, from the opener in Mexico City on June 11 through the Final at MetLife Stadium on July 19. Bookmark the page, refresh daily, and we will keep the grades coming.
@@ -141,7 +209,7 @@ The 2026 FIFA World Cup is the biggest jersey and uniform tracker opportunity of
 
 **When does the 2026 FIFA World Cup start and end?**
 
-The 2026 FIFA World Cup runs from June 11, 2026 (Opener) through July 19, 2026 (Final). The Opener is Mexico vs a Group A opponent at Estadio Azteca in Mexico City, and the Final is at MetLife Stadium in East Rutherford, New Jersey. The tournament runs 39 days end to end and covers 104 matches across 16 host cities in three host countries.
+The 2026 FIFA World Cup runs from June 11, 2026 (Opener) through July 19, 2026 (Final). The Opener is Mexico vs South Africa at Estadio Azteca in Mexico City, and the Final is at MetLife Stadium in East Rutherford, New Jersey. The tournament runs 39 days end to end and covers 104 matches across 16 host cities in three host countries.
 
 **Who is hosting the 2026 FIFA World Cup?**
 
@@ -161,7 +229,7 @@ The expanded 48-team format introduces a Round of 32 for the first time in World
 
 **Which teams are in Group A of the 2026 FIFA World Cup?**
 
-Group A of the 2026 FIFA World Cup features the host nation Mexico, South Africa, the Republic of Korea, and a UEFA Play-off D winner. Group A opens the tournament at Estadio Azteca in Mexico City on June 11, 2026.
+Group A of the 2026 FIFA World Cup features the host nation Mexico, South Africa, South Korea, and Czechia, who qualified through the UEFA play-offs in March 2026. Group A opened the tournament at Estadio Azteca in Mexico City on June 11, 2026, with Mexico vs South Africa.
 
 **Which teams are in Group D with the United States?**
 

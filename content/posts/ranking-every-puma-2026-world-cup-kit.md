@@ -2,6 +2,7 @@
 title: "Ranking Every Puma 2026 World Cup Kit From Worst to Best"
 category: "Soccer"
 date: "2026-03-30"
+updatedDate: "2026-06-11"
 excerpt: "Puma released kits for all 12 of their national teams ahead of the 2026 World Cup. We ranked every single kit from worst to best."
 gradient: "linear-gradient(135deg, #000000 0%, #1a3c6e 100%)"
 logoSrc: "/logos/world-cup-2026.png"
@@ -14,7 +15,7 @@ coverImagePosition: "center 20%"
 ![Ivory Coast 2026 Home Kit](/images/posts/puma-world-cup-kits/ivory-coast-home.jpg)
 *Image courtesy of Puma*
 
-Puma dropped kits for all 12 of their national teams ahead of the 2026 FIFA World Cup. Of those 12 teams, 10 have already qualified for the tournament in the United States, Canada, and Mexico. Czech Republic and Iceland round out the group but didn't make the cut.
+Puma dropped kits for all 12 of their national teams ahead of the 2026 FIFA World Cup. Of those 12 teams, 11 made the tournament in the United States, Canada, and Mexico, with Czechia punching the final ticket through the UEFA play-offs in March. Iceland is the only Puma nation watching from home.
 
 The collection as a whole leans heavily into cultural storytelling. Puma gave each team its own identity, pulling from things like Moroccan tilework, Senegal's hand-painted minibuses, and New Zealand's Maori heritage. Some of them are fantastic. Some of them missed.
 
