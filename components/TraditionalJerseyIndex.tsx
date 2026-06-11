@@ -19,7 +19,7 @@ const rounds: RoundStat[] = [
   },
   {
     label: "Round 2",
-    traditional: 8,
+    traditional: 7,
     total: 21,
     complete: true,
     slug: "nba-playoffs-2026-round-2-jersey-tracker",
