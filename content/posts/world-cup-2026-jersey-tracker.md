@@ -81,20 +81,20 @@ The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico 
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #11457E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Tonight 10 PM ET · Estadio Akron · Kit Selection TBC</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #11457E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Tonight 10 PM ET · Estadio Akron · Projected</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/posts/wc-south-korea-home.jpg" alt="South Korea 2026 World Cup Nike home jersey in red with tonal tiger print ahead of the Group A match vs Czechia at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH KOREA</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red (Projected)</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520korea%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/posts/puma-world-cup-kits/czech-republic-home.jpg" alt="Czechia 2026 World Cup Puma home jersey in red with the double-tailed lion crest ahead of the Group A match vs South Korea at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <img src="/images/posts/puma-world-cup-kits/czech-republic-away.png" alt="Czechia 2026 World Cup Puma away jersey in crystal white with tonal Bohemian cut-glass print and gold trim, projected for the Group A match vs South Korea at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CZECHIA</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red (One Team Must Switch)</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Crystal White (Projected)</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dczech%2520republic%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
   </div>
@@ -104,7 +104,7 @@ The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #FF5910;">Grade Drops at Kickoff</p>
 </div>
 
-Group A's second game goes tonight at Estadio Akron in Guadalajara, and it hands FIFA the tournament's first kit conflict. South Korea's home shirt is red. Czechia's home shirt is red. Two reds cannot share a pitch, so one of these teams gets flipped to a change kit, and as the listed home team we expect South Korea to keep the Taegeuk Warriors' tiger-print red and Czechia to come out in their change kit. Czechia is back at a World Cup for the first time since 2006 after surviving the March play-offs, so whatever they wear, the double-tailed lion crest returns to the biggest stage after twenty years away. We grade the pairing the moment the teams walk out of the tunnel.
+Group A's second game goes tonight at Estadio Akron in Guadalajara, and it hands FIFA the tournament's first kit conflict. South Korea's home shirt is red. Czechia's home shirt is red. Two reds cannot share a pitch, so one team gets flipped to a change kit, and as the listed home team we project South Korea keeping the Taegeuk Warriors' tiger-print red while Czechia comes out in the away shirt: an icy crystal white loaded with a tonal print pulled from Bohemian cut glass, finished with gold on the collar and a gold double-tailed lion on the crest. If that is how it plays out, red against crystal white is a legitimately strong contrast pairing for Czechia's first World Cup appearance since 2006. We grade the pairing the moment the teams walk out of the tunnel.
 
 ### Group B — Canada, Bosnia and Herzegovina, Qatar, Switzerland
 
