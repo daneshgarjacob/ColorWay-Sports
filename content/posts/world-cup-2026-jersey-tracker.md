@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-11"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Opening day is in the books: Mexico's Aztec verde vs South Africa's 2010 tribute gold at Estadio Azteca lands a 7.5, Korea's tiger-print red vs Czechia's crystal white a 7. Friday brings Canada's first-ever home World Cup match and the USMNT opener at SoFi. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-12"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Canada's first-ever home World Cup match lands a 7: maple leaf red against Bosnia's pinstriped Kelme white at BMO Field. The Azteca opener sits at 7.5, Korea-Czechia at 7, and the USMNT opens against Paraguay at SoFi tonight. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -30,12 +30,12 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.3 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.2 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">2 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">3 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
@@ -69,18 +69,18 @@ The USMNT opens a home World Cup for the first time since 1994 in the home white
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #002F6C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group B · Match 3 · Friday 3 PM ET · BMO Field</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #002F6C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group B · Match 3 · Final · BMO Field</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/posts/wc-canada-home.jpg" alt="Canada 2026 World Cup home jersey in red projected for the Group B opener vs Bosnia and Herzegovina at BMO Field in Toronto" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <img src="/images/posts/wc-canada-home.jpg" alt="Canada 2026 World Cup home jersey in red worn in the Group B opener vs Bosnia and Herzegovina at BMO Field in Toronto" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CANADA</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcanada%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/posts/wc-bosnia-away.jpg" alt="Bosnia and Herzegovina 2026 World Cup Kelme away jersey in white with blue raglan sleeves and blue and yellow pinstripes projected for the Group B opener vs Canada" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <img src="/images/posts/wc-bosnia-away.jpg" alt="Bosnia and Herzegovina 2026 World Cup Kelme away jersey in white with blue raglan sleeves and blue and yellow pinstripes worn in the Group B opener vs Canada" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSNIA AND HERZEGOVINA</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbosnia%2520and%2520herzegovina%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
@@ -88,7 +88,11 @@ The USMNT opens a home World Cup for the first time since 1994 in the home white
   </div>
 </div>
 
-The first men's World Cup match ever played in Canada: Canada in the home red at BMO Field, Bosnia and Herzegovina in the away white, the cleanest pairing the fixture can produce. The Bosnia change shirt is one of the tournament's quiet sleepers, a Kelme design from Sarajevo designer Haris Stambolic with a white base, blue raglan sleeves, and thin blue and yellow pinstripes. Red against pinstriped white should read beautifully in Toronto, with Canada's red and Bosnia's white change shirt at opposite ends of the contrast scale. The grade lands Friday afternoon.
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7 / 10</p>
+</div>
+
+The first men's World Cup match ever played in Canada, and the kits met the moment cleanly: Canada in the home red at BMO Field, Bosnia and Herzegovina in the away white, the cleanest pairing the fixture can produce. The Bosnia change shirt remains one of the tournament's quiet sleepers, a Kelme design from Sarajevo designer Haris Stambolic with a white base, blue raglan sleeves, and thin blue and yellow pinstripes, and the maple leaf red against it read exactly as advertised in Toronto. But like Korea against Czechia the night before, the pairing tops out at standard-issue red-versus-white, and the pinstripes that make the Bosnia shirt special on the rack are invisible from broadcast distance. Seven out of 10. Canadian soccer's biggest home afternoon ever looked clean, classic, and just a little safe.
 
 ## Match 2: South Korea vs Czechia
 
