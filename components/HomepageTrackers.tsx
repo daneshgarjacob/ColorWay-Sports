@@ -25,7 +25,7 @@ const trackers = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Mexico's Aztec verde against South Africa's 2010 tribute gold at Estadio Azteca sets the bar with a 9/10. Korea vs Czechia tonight in Guadalajara.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Opening day: Mexico's Aztec verde vs South Africa's tribute gold lands 7.5, Korea-Czechia 7. Friday: Canada's first-ever home World Cup match and the USMNT opener at SoFi, both projected.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",

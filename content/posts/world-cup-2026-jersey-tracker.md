@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 T
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-11"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. The opener delivers: Mexico in the Aztec verde against South Africa in the 2010 tribute gold at Estadio Azteca grades a 9/10. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Opening day is in the books: Mexico's Aztec verde vs South Africa's 2010 tribute gold at Estadio Azteca lands a 7.5, Korea's tiger-print red vs Czechia's crystal white a 7. Friday brings Canada's first-ever home World Cup match and the USMNT opener at SoFi, both projected. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -71,31 +71,64 @@ Group A is the host group anchored by Mexico, and it opened the entire tournamen
   </div>
 </div>
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
 </div>
 
-The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico against South Africa is the exact fixture that opened the 2010 World Cup at Soccer City in Johannesburg, on the exact same date, June 11, and now the kit story comes full circle with the host roles reversed. South Africa's canary gold home shirt is a direct tribute to the one Bafana Bafana wore that day in 2010, when Siphiwe Tshabalala hammered the tournament's opening goal past Mexico and gave the World Cup one of its most replayed goal celebrations. Mexico answers with the strongest home identity in CONCACAF, the deep verde loaded with a tonal Aztec sun stone print that reads nearly solid green from broadcast distance and rewards every close-up. Green against gold is a top-shelf color pairing, full contrast on the Azteca grass with zero clash risk, and both teams showing up to a World Cup opener in their first-choice home looks is exactly how a tournament should start. The only thing keeping this from a 10 is South Africa's green trim softening the separation slightly in wide shots. We are calling it a 9, and the bar for the next 103 matches is set.
+The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico against South Africa is the exact fixture that opened the 2010 World Cup at Soccer City in Johannesburg, on the exact same date, June 11, and now the kit story comes full circle with the host roles reversed. South Africa's canary gold home shirt is a direct tribute to the one Bafana Bafana wore that day in 2010, when Siphiwe Tshabalala hammered the tournament's opening goal past Mexico and gave the World Cup one of its most replayed goal celebrations. Mexico answers with the strongest home identity in CONCACAF, the deep verde loaded with a tonal Aztec sun stone print that reads nearly solid green from broadcast distance and rewards every close-up. Green against gold is a top-shelf color pairing in concept, and both teams showing up to a World Cup opener in their first-choice home looks is exactly how a tournament should start. But the broadcast told on this one: Mexico's tonal Aztec print reads as flat dark green from distance, South Africa's green trim blurs the separation in every wide shot, and a pairing that is a 10 on paper landed as merely good on screen. We are calling it a 7.5. The history is a 10; the contrast is not.
 
 ## Match 2: South Korea vs Czechia
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #11457E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Tonight 10 PM ET · Estadio Akron · Projected</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #11457E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Match 2 · Final · Estadio Akron</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/posts/wc-south-korea-home.jpg" alt="South Korea 2026 World Cup Nike home jersey in red with tonal tiger print ahead of the Group A match vs Czechia at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH KOREA</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red (Projected)</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520korea%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/posts/puma-world-cup-kits/czech-republic-away.png" alt="Czechia 2026 World Cup Puma away jersey in crystal white with tonal Bohemian cut-glass print and gold trim, projected for the Group A match vs South Korea at Estadio Akron" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CZECHIA</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Crystal White (Projected)</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Crystal White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dczech%2520republic%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7 / 10</p>
+</div>
+
+Group A's second game handed FIFA the tournament's first kit conflict, and it resolved exactly as projected. South Korea's home shirt is red, Czechia's home shirt is red, and as the listed home team the Taegeuk Warriors kept the tiger-print red while Czechia came out in the away shirt for their first World Cup match since 2006: an icy crystal white loaded with a tonal print pulled from Bohemian cut glass, finished with gold on the collar and a gold double-tailed lion on the crest. Red against crystal white reads cleanly on the Estadio Akron grass and the gold Czech trim is a quiet luxury detail, but the pairing never rises past standard-issue red-versus-white, and Korea's tiger print mostly disappears at broadcast distance. Seven out of 10. Czechia's twenty-year World Cup return got a clean visual landing.
+
+### Group B — Canada, Bosnia and Herzegovina, Qatar, Switzerland
+
+Group B is the second host group anchored by Canada, who open against Bosnia and Herzegovina in Toronto on June 12, the first men's World Cup match ever played on Canadian soil.
+
+## Match 1: Canada vs Bosnia and Herzegovina
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #002F6C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group B · Friday 3 PM ET · BMO Field · Projected</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-canada-home.jpg" alt="Canada 2026 World Cup home jersey in red projected for the Group B opener vs Bosnia and Herzegovina at BMO Field in Toronto" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CANADA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red (Projected)</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcanada%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-bosnia-away.jpg" alt="Bosnia and Herzegovina 2026 World Cup Kelme away jersey in white with blue raglan sleeves and blue and yellow pinstripes projected for the Group B opener vs Canada" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BOSNIA AND HERZEGOVINA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · White (Projected)</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbosnia%2520and%2520herzegovina%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
   </div>
 </div>
@@ -104,11 +137,7 @@ The 2026 World Cup opens with a kit pairing sixteen years in the making. Mexico 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #FF5910;">Grade Drops at Kickoff</p>
 </div>
 
-Group A's second game goes tonight at Estadio Akron in Guadalajara, and it hands FIFA the tournament's first kit conflict. South Korea's home shirt is red. Czechia's home shirt is red. Two reds cannot share a pitch, so one team gets flipped to a change kit, and as the listed home team we project South Korea keeping the Taegeuk Warriors' tiger-print red while Czechia comes out in the away shirt: an icy crystal white loaded with a tonal print pulled from Bohemian cut glass, finished with gold on the collar and a gold double-tailed lion on the crest. If that is how it plays out, red against crystal white is a legitimately strong contrast pairing for Czechia's first World Cup appearance since 2006. We grade the pairing the moment the teams walk out of the tunnel.
-
-### Group B — Canada, Bosnia and Herzegovina, Qatar, Switzerland
-
-Group B is the second host group anchored by Canada, who open against Bosnia and Herzegovina in Toronto on June 12. Match-by-match grades populate here as games are played.
+The first men's World Cup match ever played in Canada, and the projection is the cleanest pairing the fixture can produce: Canada in the home red at BMO Field, Bosnia and Herzegovina in the away white. The Bosnia change shirt is one of the tournament's quiet sleepers, a Kelme design from Sarajevo designer Haris Stambolic with a white base, blue raglan sleeves, and thin blue and yellow pinstripes. Red against pinstriped white should read beautifully in Toronto, and no kit conflict threatens the projection: Canada's red and Bosnia's white change shirt sit at opposite ends of the contrast scale. We grade it when the teams walk out Friday afternoon.
 
 ### Group C — Brazil, Morocco, Haiti, Scotland
 
@@ -116,7 +145,36 @@ Brazil headlines Group C alongside Morocco's 2022 semifinalist core and Scotland
 
 ### Group D — United States, Paraguay, Australia, Türkiye
 
-Group D is the third host group anchored by the United States Men's National Team. Match-by-match grades populate here as games are played.
+Group D is the third host group anchored by the United States Men's National Team, who open against Paraguay at SoFi Stadium on Friday June 12 at 9 PM ET on FOX, the biggest American soccer kit night since 1994.
+
+## Match 1: United States vs Paraguay
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #D52B1E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Friday 9 PM ET · SoFi Stadium · Projected</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 World Cup home jersey in white projected for the Group D opener vs Paraguay at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UNITED STATES</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White (Projected)</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dusmnt%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/puma-world-cup-kits/paraguay-away.jpg" alt="Paraguay 2026 World Cup Puma away jersey in dark navy with abstract storm print projected for the Group D opener vs the USMNT at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PARAGUAY</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Navy Storm (Projected)</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dparaguay%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(255, 89, 16, 0.1); border-radius: 12px; border: 1px solid rgba(255, 89, 16, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #FF5910;">Grade Drops at Kickoff</p>
+</div>
+
+The USMNT opens a home World Cup for the first time since 1994, and the projection is the home white at SoFi against Paraguay's away shirt, a dark navy Puma design swirled with an abstract storm print that ranks among the boldest change kits of the tournament. White against deep navy is a near-perfect contrast projection, no conflict in sight: Paraguay's classic red-and-white striped home stays in the bag precisely because of the American white. Per Fanatics, USMNT gear is already the tournament's top seller, so the kit walking out at SoFi on Friday night is the one most American closets are about to copy. We grade it at kickoff, right after the Katy Perry pregame show clears the field.
 
 ### Group E — Germany, Curaçao, Ivory Coast, Ecuador
 
@@ -191,12 +249,12 @@ This tracker pairs every individual kit grade from those rankings with the live 
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #00c864; font-size: 1.5em;">9.0 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.3 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">1 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">2 / 104</span>
 </div>
 
 ## The Bottom Line on the 2026 FIFA World Cup Jersey Tracker
