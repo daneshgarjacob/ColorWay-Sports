@@ -3,7 +3,7 @@ title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights M
 category: "NHL"
 date: "2026-06-01"
 updatedDate: "2026-06-11"
-excerpt: "2026 NHL Stanley Cup Final jersey tracker. Game 5 is set: Hurricanes in the black at home at Lenovo Center with the series tied 2-2 and the Knights in the road whites, the same 7 out of 10 pairing as Games 1 and 2, with one correction that matters: the black is officially Carolina's primary sweater now and the classic red is the alternate. Game 3 went to Vegas 5-4 in double overtime in the gold behind Mitch Marner's record 6:10 natural hat trick. Every sweater matchup graded. Series average 7.4 out of 10."
+excerpt: "2026 NHL Stanley Cup Final jersey tracker. The Hurricanes take Game 5 at Lenovo Center in the black primary to lead the Final 3-2, one win from the franchise's first Cup since 2006, in the same 7 out of 10 black-versus-white pairing as Games 1 and 2. One correction that matters: the black is officially Carolina's primary sweater now and the classic red is the alternate. Every sweater matchup graded. Series average 7.4 out of 10."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #B4975A 100%)"
 coverImage: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
@@ -66,7 +66,7 @@ Below, every matchup graded game by game in reverse chronological order with the
 
 <div style="background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 5 · Confirmed · Lenovo Center</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #CC0000 0%, #B4975A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">NHL Stanley Cup Final · Game 5 · Final · Lenovo Center</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -89,7 +89,13 @@ Below, every matchup graded game by game in reverse chronological order with the
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7 / 10</p>
 </div>
 
-Game 5 brings the Final back to Lenovo Center tied 2-2 and runs back the exact same sweater pairing as Games 1 and 2: Knights in the white road set, Hurricanes in the black at home, same pairing, same 7 out of 10 per the same-sweater-same-score rule. One thing worth saying plainly, because we have been loose with it all series: the black is not an alternate anymore. Carolina promoted the black to its primary home sweater and moved the classic red to alternate status, so the black-at-home run that has anchored every Lenovo Center playoff night this spring is the franchise's first-choice identity, not a fashion call. The grade ceiling stays where it has been all series: white on black reads clean, the red trim threads through both sweaters, and the missing piece is still the iconic red itself. The [white rally towels at every seat tonight](/stories/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026) will flip the bowl into the negative image of the ice. Seven out of 10, and a best-of-three for the Cup starts now.
+Game 5 brings the Final back to Lenovo Center tied 2-2 and runs back the exact same sweater pairing as Games 1 and 2: Knights in the white road set, Hurricanes in the black at home, same pairing, same 7 out of 10 per the same-sweater-same-score rule. One thing worth saying plainly, because we have been loose with it all series: the black is not an alternate anymore. Carolina promoted the black to its primary home sweater and moved the classic red to alternate status, so the black-at-home run that has anchored every Lenovo Center playoff night this spring is the franchise's first-choice identity, not a fashion call. The grade ceiling stays where it has been all series: white on black reads clean, the red trim threads through both sweaters, and the missing piece is still the iconic red itself. The [white rally towels at every seat tonight](/stories/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026) flipped the bowl into the negative image of the ice. Seven out of 10. The Hurricanes took Game 5 in the black primary to grab a 3-2 series lead and move within one win of the franchise's first Cup since 2006, with Game 6 back at T-Mobile Arena.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #1a1605 0%, #0a0802 100%); border-radius: 12px; border: 1px solid rgba(204,0,0,0.4); text-align: center;">
+  <p style="margin: 0 0 0.4em; font-size: 0.7em; font-weight: 800; color: rgba(255,255,255,0.6); text-transform: uppercase; letter-spacing: 2.5px;">Result</p>
+  <p style="margin: 0; font-size: 1.15em; font-weight: 900; color: #ff5b6e;">Carolina Hurricanes win Game 5</p>
+  <p style="margin: 0.4em 0 0; font-size: 0.78em; color: rgba(255,255,255,0.65); font-weight: 500;">Hurricanes lead series 3-2 · Game 6 at T-Mobile Arena · June 11, 2026</p>
+</div>
 
 <span id="game-4"></span>
 
