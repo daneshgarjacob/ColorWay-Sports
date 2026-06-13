@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-12"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Canada's first-ever home World Cup match lands a 7: maple leaf red against Bosnia's pinstriped Kelme white at BMO Field. The Azteca opener sits at 7.5, Korea-Czechia at 7, and the USMNT opens against Paraguay at SoFi tonight. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-13"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. The USMNT's home opener tops the board: white against Paraguay's navy storm away earns an 8, the cleanest pairing of the tournament so far. Canada's maple leaf red lands a 7, the Azteca opener sits at 7.5, and Korea-Czechia at 7. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -30,12 +30,12 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.2 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.4 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">3 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">4 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
@@ -44,18 +44,18 @@ Below, every match of the tournament in reverse chronological order, the most re
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #D52B1E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Match 4 · Friday 9 PM ET · SoFi Stadium</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002868 0%, #D52B1E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Match 4 · Final · SoFi Stadium</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 World Cup home jersey in white projected for the Group D opener vs Paraguay at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 World Cup home jersey in white worn in the Group D opener vs Paraguay at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">UNITED STATES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dusmnt%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/posts/puma-world-cup-kits/paraguay-away.jpg" alt="Paraguay 2026 World Cup Puma away jersey in dark navy with abstract storm print projected for the Group D opener vs the USMNT at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <img src="/images/posts/puma-world-cup-kits/paraguay-away.jpg" alt="Paraguay 2026 World Cup Puma away jersey in dark navy with abstract storm print worn in the Group D opener vs the USMNT at SoFi Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PARAGUAY</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Navy Storm</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dparaguay%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
@@ -63,7 +63,11 @@ Below, every match of the tournament in reverse chronological order, the most re
   </div>
 </div>
 
-The USMNT opens a home World Cup for the first time since 1994 in the home white at SoFi against Paraguay's away shirt, a dark navy Puma design swirled with an abstract storm print that ranks among the boldest change kits of the tournament. White against deep navy is near-perfect contrast, no conflict in sight: Paraguay's classic red-and-white striped home stays in the bag precisely because of the American white. Per Fanatics, USMNT gear is already the tournament's top seller, so the kit walking out at SoFi on Friday night is the one most American closets are about to copy. The grade lands at kickoff, right after the Katy Perry pregame show clears the field.
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8 / 10</p>
+</div>
+
+The USMNT opened its first home World Cup since 1994 in the home white at SoFi, and the pairing delivered the best broadcast read of the tournament so far. White against Paraguay's dark navy Puma away — swirled with an abstract storm print that ranks among the boldest change kits in the field — is near-perfect contrast, and unlike the tonal prints that washed out at distance in the Azteca opener and in Korea-Czechia, the Paraguay storm graphic actually keeps its texture on camera. Paraguay's classic red-and-white striped home stayed in the bag precisely because the American white made the navy the right call, and there was no conflict in sight. Per Fanatics, USMNT gear is already the tournament's top seller, so the shirt that walked out at SoFi is the one most American closets are about to copy. Eight out of 10 — the cleanest, highest-contrast pairing we have graded, and the first one where both kits earned their close-ups.
 
 ## Match 3: Canada vs Bosnia and Herzegovina
 
