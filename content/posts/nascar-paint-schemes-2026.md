@@ -1,10 +1,10 @@
 ---
-title: "Ryan Blaney's Wabash Throwback to Ryan Newman: The 2026 NASCAR Paint Scheme Tracker"
+title: "Red Bull Returns to NASCAR for the San Diego Street Race: The 2026 NASCAR Paint Scheme Tracker"
 category: "Motorsports"
 date: "2026-06-10"
-updatedDate: "2026-06-10"
-excerpt: "Ryan Blaney is throwing back to Ryan Newman's Alltel #12 at Pocono, and Newman himself showed up to the reveal. The royal blue Wabash Ford honors Team Penske's 60th anniversary and the 2008 Daytona 500 winner, and it leads our running tracker of every 2026 NASCAR Cup Series special paint scheme: the Penske throwback, Josh Berry's Capgemini Wood Brothers Mustang, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day program, all in one place and updated every time a new scheme drops."
-gradient: "linear-gradient(135deg, #00295C 0%, #1262C4 55%, #E8E8E8 100%)"
+updatedDate: "2026-06-13"
+excerpt: "Red Bull is back in NASCAR Cup for the first time since 2011, debuting two paint schemes on Trackhouse's #88 and #97 for the inaugural San Diego street race, while Chase Elliott's NAPA #9 goes full patriotic for the Navy's 250th. Penske and Hendrick also revealed their complete Pocono lineups, led by Ryan Blaney's Wabash throwback. It is all here in our running tracker of every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a new scheme drops."
+gradient: "linear-gradient(135deg, #0A1A3F 0%, #15306E 45%, #C8102E 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKdtr6RW8AAk58E.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
@@ -12,11 +12,55 @@ league: "nascar"
 teams: []
 ---
 
-This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. The newest addition is the one we have been waiting for since the renders leaked into the Team Penske media pool: Ryan Blaney's #12 Wabash Ford Mustang Dark Horse is a full throwback to Ryan Newman's Alltel #12, it runs at Pocono on June 14, and Newman himself stood next to it at the reveal.
+This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. The headline of reveal week: Red Bull is back in NASCAR. Trackhouse Racing is returning the energy-drink brand to the Cup Series for the first time since its own team closed after 2011, with two different Red Bull liveries built for the inaugural San Diego street race at Naval Base Coronado on June 21 — and NAPA answered with a patriotic Chase Elliott #9 for that same Navy-250 weekend. Meanwhile, Penske and Hendrick rolled out their full grids for this Sunday's Pocono race, where Ryan Blaney's Wabash throwback is still the one to beat.
 
-*Updated Wednesday June 10 with Ryan Blaney's Team Penske 60th anniversary Wabash throwback scheme for Pocono. Previous entries: Josh Berry's Capgemini Wood Brothers reveal, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
+*Updated Saturday June 13 with the San Diego reveals — Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9 — plus the full Penske and Hendrick Pocono lineups. Earlier entries: Ryan Blaney's Wabash throwback, Josh Berry's Capgemini Wood Brothers reveal, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
 
-## 1. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
+## 1. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamTrackhouse/status/2065119928030523567"></a></blockquote>
+</div>
+
+Red Bull is back in NASCAR. For the first time since the energy-drink brand's own Cup team closed its doors after the 2011 season, Red Bull is on the side of a Cup car again — and Trackhouse Racing is bringing it back in the most Trackhouse way imaginable: two cars, two completely different Red Bull looks, photographed on a "scenic route" tour of San Diego ahead of the inaugural street race at Naval Base Coronado on June 21. Shane van Gisbergen's #88 wears the classic deep-navy Red Bull livery, the one burned into motorsport memory across F1 and the old Red Bull Racing stock cars, with the charging-bull mark on the hood and the red-and-yellow Red Bull wordmark filling the door above WeatherTech.com. Connor Zilisch's #97 flips it into a silver-and-light-blue variation, a brighter, chrome-leaning counterpart to van Gisbergen's heritage navy.
+
+The reveal staging is the part we keep coming back to. Trackhouse did not shoot these in a studio — they parked the pair under the carnival lights at Belmont Park and again at the foot of the Coronado Ferry Landing with the San Diego skyline across the bay, turning a sponsor announcement into a postcard for a race weekend that has not happened yet. Putting the cars in the actual city, on the boardwalk and on the waterfront, is exactly the kind of context that sells a brand-new street race to people who have never seen NASCAR run downtown. Red Bull on a Cup car was always going to be a story; doing it as a matched two-car set in two San Diego landmarks is how you make people stop scrolling and screenshot it.
+
+**Grade: A-** — Red Bull's return alone is an event, the dual-livery execution is sharp, and the location photography does more storytelling than most full reveal videos. The navy #88 is the star of the two; if Trackhouse runs these as well as they shot them, this nudges up to an A.
+
+---
+
+## 2. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NAPARacing/status/2065147885063163966"></a></blockquote>
+</div>
+
+If San Diego's race is going to be staged on an active U.S. Navy base during the Navy's 250th anniversary, somebody was going to go full red, white, and blue — and NAPA got there first with Chase Elliott's #9. The "Gold Filters" patriotic scheme keeps the familiar NAPA blue up top, drops it onto a white lower body, scatters gold stars across the doors and hood, and then does the one thing that makes the whole car work: it paints the #9 red. Elliott's number is almost always blue or white inside the NAPA package, so seeing it rendered in bold red, outlined on the white roof, is an instant signal that this is not a normal NAPA week. The gold stars double as quiet brand wordplay — a nod to NAPA's Gold line of filters — and they keep the palette from reading like a flat three-color flag job.
+
+This is a clean, well-resolved take on a NASCAR staple. Patriotic schemes turn up every summer, so the bar for a memorable one is high, and the red #9 plus the gold-star detailing clears it without tipping into clutter. The blue-over-white split holds together at speed and the NAPA wordmark still reads instantly, which is the entire job of a sponsor scheme. For a track sitting on the San Diego Bay shoreline next to the base's active airfield, it is the right car for the right weekend.
+
+**Grade: B+** — strong execution of a familiar genre, lifted by the red number and the Gold Filters star detail. Patriotic red-white-and-blue is well-trodden ground, which is the only thing keeping it out of A- range.
+
+---
+
+## 3. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
+
+Before San Diego, there is a race this Sunday — and both of the sport's superpowers used reveal day to lay their full Pocono grids on the table. Team Penske's PPG-branded preview lines up all three Fords for the June 14 race: Austin Cindric's #2 in the yellow-and-blue Menards/Ideal Door package, Joey Logano's #22 in the timeless Shell-Pennzoil red and yellow, and Ryan Blaney's #12 in the royal-blue Wabash throwback we have ranked as the best paint scheme of the 2026 season so far. Logano's Shell-Pennzoil is still one of the cleanest standing liveries in the garage, but it is Blaney's throwback that makes this Penske drop matter — the full breakdown is right below.
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Team_Penske/status/2065161615540977677"></a></blockquote>
+</div>
+
+Hendrick Motorsports answered with all four of its cars "set for Pennsylvania": Kyle Larson's #5 HendrickCars.com, Chase Elliott's #9 in the standard NAPA blue (the patriotic version is saved for San Diego next week), William Byron's #24 in the red-white-and-blue RAPTOR scheme with the flame graphic, and Alex Bowman's #48 Ally blue. None of the Hendrick four are throwbacks, but Byron's RAPTOR is the boldest of the set — the flame kick and the yellow #24 give it the most movement of any standard scheme on the grid. Add it up and Pocono's field is mostly business-as-usual liveries with one genuine showpiece, and that showpiece is the Penske #12.
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamHendrick/status/2065126626120069563"></a></blockquote>
+</div>
+
+---
+
+## 4. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -63,7 +107,7 @@ The original is Ryan Newman's royal blue Alltel #12 Dodge, the car that delivere
 
 ---
 
-## 2. Josh Berry #21 Capgemini · Wood Brothers Racing
+## 5. Josh Berry #21 Capgemini · Wood Brothers Racing
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -76,7 +120,7 @@ Wood Brothers Racing unveiled the Capgemini partnership scheme for Josh Berry's 
 
 ---
 
-## 3. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
+## 6. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -89,7 +133,7 @@ Richard Childress Racing built Austin Hill's #33 Rebel Bourbon scheme around a m
 
 ---
 
-## 4. Austin Dillon #3 Dow · RCR
+## 7. Austin Dillon #3 Dow · RCR
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -102,7 +146,7 @@ Austin Dillon's #3 Dow Camaro runs the black base with the red diamond-cut Dow g
 
 ---
 
-## 5. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
+## 8. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -116,9 +160,21 @@ The Coca-Cola 600 at Charlotte is the one weekend a year when every single car i
 
 ## What Drops Next
 
-Throwback season is the engine of the NASCAR paint scheme calendar, and the Penske 60th anniversary program suggests the best is still coming. Joey Logano's #22 and Austin Cindric's #2 are the obvious candidates for the next Penske anniversary throwbacks, the Wood Brothers heritage rotation always has another Motorcraft moment in it, and Darlington's official throwback weekend sits later in the schedule. We will add every scheme worth covering to this tracker as it drops, newest at the top, with grades on the ones we have full takes on. Bookmark this page and check back after every reveal day.
+The next big reveal day is San Diego. The inaugural Naval Base Coronado street race on June 21 — the first NASCAR points race ever held on an active U.S. military base — is exactly the kind of event that pulls special schemes out of every team in the garage, and Trackhouse's Red Bull cars and Elliott's patriotic NAPA #9 are almost certainly the first of many. Expect more Navy-250 and San Diego-specific liveries to drop in the days before the green flag. Beyond that, the Penske 60th anniversary program still has Joey Logano's #22 and Austin Cindric's #2 as obvious throwback candidates, the Wood Brothers heritage rotation always has another Motorcraft moment in it, and Darlington's official throwback weekend sits later in the schedule. We add every scheme worth covering to this tracker as it drops, newest at the top, with grades on the ones we have full takes on. Bookmark this page and check back after every reveal day.
 
 ## Frequently Asked Questions
+
+**Is Red Bull returning to NASCAR in 2026?**
+
+Yes. Trackhouse Racing revealed two Red Bull paint schemes for the 2026 NASCAR Cup Series, marking the energy-drink brand's return to Cup competition for the first time since its own Red Bull Racing team closed after the 2011 season. Shane van Gisbergen's #88 runs the classic deep-navy Red Bull livery and Connor Zilisch's #97 runs a silver-and-light-blue variation, both debuting at the inaugural San Diego street race at Naval Base Coronado on June 21, 2026.
+
+**When is the NASCAR San Diego street race?**
+
+The inaugural NASCAR Cup Series race in San Diego, the Anduril 250, runs on June 21, 2026 on a custom street course at Naval Base Coronado. It is the first NASCAR points race ever held on an active United States military base and only the second street race of NASCAR's modern era, and the weekend is tied to the U.S. Navy's 250th anniversary. The Craftsman Truck Series and Xfinity Series race on the same layout earlier in the weekend.
+
+**What is Chase Elliott's San Diego paint scheme?**
+
+Chase Elliott's #9 Hendrick Motorsports Chevrolet runs a special patriotic NAPA "Gold Filters" scheme for the San Diego race weekend at Naval Base Coronado. It keeps the NAPA blue on the upper body, adds a white lower body and gold stars, and paints Elliott's #9 in red instead of its usual blue — a red-white-and-blue look chosen to match a race weekend staged on an active Navy base during the Navy's 250th anniversary.
 
 **What is Ryan Blaney's throwback paint scheme for Pocono 2026?**
 
@@ -142,7 +198,7 @@ The USA 250 patch is the official mark of America's 250th anniversary, the semiq
 
 **How many special NASCAR paint schemes have been revealed in 2026 so far?**
 
-This tracker covers the five biggest paint scheme stories of the 2026 season so far: Ryan Blaney's Penske 60th anniversary Wabash throwback for Pocono, Josh Berry's Capgemini Wood Brothers reveal, Austin Hill's #33 Rebel Bourbon Kyle Busch tribute, Austin Dillon's #3 Dow scheme at RCR, and the field-wide 600 Miles of Remembrance Memorial Day program at the Coca-Cola 600. We add each major reveal as it drops, newest first.
+This tracker covers the biggest paint scheme stories of the 2026 season so far: Red Bull's return on Trackhouse's #88 and #97 for San Diego, Chase Elliott's patriotic NAPA Gold Filters #9, the full Penske and Hendrick Pocono lineups, Ryan Blaney's Penske 60th anniversary Wabash throwback, Josh Berry's Capgemini Wood Brothers reveal, Austin Hill's #33 Rebel Bourbon Kyle Busch tribute, Austin Dillon's #3 Dow scheme at RCR, and the field-wide 600 Miles of Remembrance Memorial Day program at the Coca-Cola 600. We add each major reveal as it drops, newest first.
 
 **What was the Alltel #12 car?**
 
