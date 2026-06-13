@@ -1,5 +1,5 @@
 ---
-title: "Red Bull Returns to NASCAR for the San Diego Street Race: The 2026 NASCAR Paint Scheme Tracker"
+title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blaney's Pocono Throwback to Red Bull's Return"
 category: "Motorsports"
 date: "2026-06-10"
 updatedDate: "2026-06-13"
@@ -12,7 +12,7 @@ league: "nascar"
 teams: []
 ---
 
-This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. The headline of reveal week: Red Bull is back in NASCAR. Trackhouse Racing is returning the energy-drink brand to the Cup Series for the first time since its own team closed after 2011, with two different Red Bull liveries built for the inaugural San Diego street race at Naval Base Coronado on June 21 — and NAPA answered with a patriotic Chase Elliott #9 for that same Navy-250 weekend. Meanwhile, Penske and Hendrick rolled out their full grids for this Sunday's Pocono race, where Ryan Blaney's Wabash throwback is still the one to beat.
+This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. Reveal week loaded the tracker from both ends of the calendar. This Sunday's Pocono race brings the showpiece: Ryan Blaney's Team Penske 60th-anniversary Wabash throwback, our top-graded scheme of the season so far, with Penske and Hendrick rolling out their full Tricky Triangle grids alongside it. And next weekend's inaugural San Diego street race at Naval Base Coronado is the bigger headline — Red Bull is back in NASCAR, on two Trackhouse cars, with a patriotic Chase Elliott NAPA #9 for that same Navy-250 weekend.
 
 *Updated Saturday June 13 with the San Diego reveals — Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9 — plus the full Penske and Hendrick Pocono lineups. Earlier entries: Ryan Blaney's Wabash throwback, Josh Berry's Capgemini Wood Brothers reveal, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
 

@@ -1,5 +1,5 @@
 ---
-title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 Teams"
+title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-13"

@@ -24,7 +24,7 @@ const trackers = [
   {
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
-    title: "2026 FIFA World Cup Jersey Tracker",
+    title: "2026 FIFA World Cup Jersey & Uniform Tracker",
     dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. The USMNT's home opener tops the board: white vs Paraguay's navy storm away earns an 8, the cleanest pairing yet. Qatar's maroon vs Switzerland's green away takes a 7.5, level with the Azteca opener; Canada's maple leaf red a 7.",
     status: "Live · World Cup",
     grade: "A",
