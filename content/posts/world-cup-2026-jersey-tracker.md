@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey Tracker: Every Match Kit Graded From All 48 T
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-13"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. The USMNT's home opener tops the board: white against Paraguay's navy storm away earns an 8, the cleanest pairing of the tournament so far. Canada's maple leaf red lands a 7, the Azteca opener sits at 7.5, and Korea-Czechia at 7. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. The USMNT's home opener tops the board: white against Paraguay's navy storm away earns an 8, the cleanest pairing so far. Qatar's maroon against Switzerland's bold green away takes a 7.5, level with the Azteca opener. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -35,10 +35,39 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">4 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">5 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 5: Qatar vs Switzerland
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #8A1538 0%, #2E7D32 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group B · Match 5 · Final · BC Place</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/qatar.jpg" alt="Qatar 2026 World Cup adidas home jersey in maroon worn in the Group B match vs Switzerland at BC Place in Vancouver" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">QATAR</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Maroon</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dqatar%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/puma-world-cup-kits/switzerland-away.jpg" alt="Switzerland 2026 World Cup Puma away jersey in green worn in the Group B match vs Qatar at BC Place in Vancouver" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SWITZERLAND</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Green</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dswitzerland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
+</div>
+
+Group B's second match is the boldest color clash of the tournament so far. Qatar in the home maroon against Switzerland's green Puma away is a true complementary pairing — deep garnet and mid-green sit on opposite sides of the color wheel — and it separates cleanly on the BC Place pitch instead of leaning on the light-versus-dark and red-versus-white contrasts that have defined most of the early grades. Switzerland's decision to go green on the road rather than the usual white is the more adventurous call of the two, a fresh change-kit identity for the Nati away from their red. The one thing keeping it from climbing higher is the accessibility math: red against green is the textbook color-blindness pairing, and for the roughly one in twelve male viewers with red-green deficiency the two sides lose some of their separation on screen. That, plus Qatar's maroon reading a shade dark at broadcast distance, is the gap between this and the USMNT's 8. Seven and a half out of 10 — the most adventurous pairing of the tournament so far, dinged only by who can and cannot fully see it.
 
 ## Match 4: United States vs Paraguay
 
