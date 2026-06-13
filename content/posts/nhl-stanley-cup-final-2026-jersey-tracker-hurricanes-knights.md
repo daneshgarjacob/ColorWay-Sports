@@ -1,5 +1,5 @@
 ---
-title: "2026 NHL Stanley Cup Final Jersey Tracker: Every Hurricanes vs Knights Matchup Graded"
+title: "2026 NHL Stanley Cup Final Jersey & Uniform Tracker: Every Hurricanes vs Knights Matchup Graded"
 category: "NHL"
 date: "2026-06-01"
 updatedDate: "2026-06-11"

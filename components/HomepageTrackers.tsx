@@ -4,7 +4,7 @@ const trackers = [
   {
     slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
     kicker: "NBA · Finals · Knicks vs Spurs",
-    title: "2026 NBA Finals Jersey Tracker",
+    title: "2026 NBA Finals Jersey & Uniform Tracker",
     dek: "Knicks vs Spurs at the NBA Finals after 27 years. Knicks take Game 4 at the Garden in the Association whites to lead 3-1, with the Spurs' season on the line in white-vs-blue Friday at Frost Bank Center. Series average 9.4/10. Every matchup graded.",
     status: "Live · NBA Finals",
     grade: "A",
@@ -14,7 +14,7 @@ const trackers = [
   {
     slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
     kicker: "NHL · Stanley Cup Final · Hurricanes vs Knights",
-    title: "2026 NHL Stanley Cup Final Jersey Tracker",
+    title: "2026 NHL Stanley Cup Final Jersey & Uniform Tracker",
     dek: "Hurricanes win Game 5 in the black primary at Lenovo Center to lead 3-2, one win from Carolina's first Cup since 2006. The black-vs-white home pairing holds at 7/10; Knights gold lifted Games 3 and 4 at T-Mobile to 8/10. Series average 7.4/10.",
     status: "Live · Stanley Cup Final",
     grade: "B+",
@@ -25,7 +25,7 @@ const trackers = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. The USMNT's home opener tops the board: white vs Paraguay's navy storm away earns an 8, the cleanest pairing yet. Qatar's maroon vs Switzerland's green away takes a 7.5, level with the Azteca opener; Canada's maple leaf red a 7.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Brazil vs Morocco lands the tournament's first perfect 10 — canary yellow and blue against red and green, both first-choice homes. The USMNT's white home earns an 8; Qatar-Switzerland a 7.5.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
