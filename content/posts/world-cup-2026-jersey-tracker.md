@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-13"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Brazil vs Morocco lands the tournament's first perfect 10 — canary yellow and blue against red and green, two first-choice home kits in a full four-color clash. The USMNT's white home earns an 8, Qatar's maroon vs Switzerland's green a 7.5. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-14"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Two perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, and the Netherlands' orange vs Japan's blue. Australia-Türkiye takes an 8, Germany-Curaçao a 7.5, and the tournament averages 8.0 out of 10 through 10 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -30,15 +30,131 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.8 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">8.0 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">6 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">10 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 10: Netherlands vs Japan
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #EC8A00 0%, #14215C 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group F · Match 10 · Final · Levi's Stadium</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-netherlands-home.jpg" alt="Netherlands 2026 World Cup Oranje orange home jersey worn in the Group F match vs Japan at Levi's Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NETHERLANDS</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnetherlands%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/japan.jpg" alt="Japan 2026 World Cup Samurai Blue home jersey worn in the Group F match vs the Netherlands at Levi's Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">JAPAN</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djapan%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 10 / 10</p>
+</div>
+
+The second perfect 10 of the tournament, and it is pure pop art. The Netherlands in the Oranje home against Japan in the Samurai Blue home is orange versus blue, the single cleanest complementary pairing in football, both teams in their first-choice identity with nothing to engineer around. KNVB orange is the most recognizable one-color kit on earth and Japan's blue is its perfect foil — on the broadcast the two saturate opposite ends of the spectrum and separate from any seat and any camera angle. No clash, no compromise, no tonal print to wash out, just two iconic homes turning the pitch into a color-wheel demonstration. Ten out of 10, and one of the easiest we have handed out: orange against blue is the platonic complementary clash, and both federations showed up in their best.
+
+## Match 9: Germany vs Curaçao
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #2B2B2B 0%, #1565C0 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group E · Match 9 · Final · Arrowhead Stadium</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/germany.jpg" alt="Germany 2026 World Cup white home jersey worn in the Group E match vs Curaçao at Arrowhead Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">GERMANY</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgermany%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-curacao-home.jpg" alt="Curaçao 2026 World Cup royal blue adidas home jersey with yellow Korsou flag accents worn in the Group E match vs Germany at Arrowhead Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CURAÇAO</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcuracao%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
+</div>
+
+Germany's white home against Curaçao's royal-blue adidas home is a clean, high-contrast pairing that earns its 7.5 on separation alone. The Germany whites are minimalist as ever, the DFB crest and black trim doing all the talking, and Curaçao's blue — accented with the yellow-and-cyan shoulder detail pulled straight from the Korsou flag — is one of the tournament's quiet sleepers, a tiny Caribbean nation's first World Cup kit reading sharp against the German white. White versus blue is a textbook contrast that holds at distance, and the David-and-Goliath story gives it a lift. It lands just short of the top tier because white-versus-color, however clean, never quite detonates the way a full complementary clash does. Seven and a half out of 10.
+
+## Match 8: Australia vs Türkiye
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #E8A200 0%, #E30A17 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Match 8 · Final · NRG Stadium</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-australia-home.jpg" alt="Australia Socceroos 2026 World Cup gold home jersey worn in the Group D match vs Türkiye at NRG Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">AUSTRALIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Daustralia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-turkey-home.jpg" alt="Türkiye 2026 World Cup red home jersey with the crescent and star flag patch worn in the Group D match vs Australia at NRG Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TÜRKIYE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dturkey%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8 / 10</p>
+</div>
+
+Australia's gold home against Türkiye's red home is a bold, warm-on-warm collision that works better than it has any right to. The Socceroos' gold is one of the most distinctive home looks in the field, and Türkiye's deep red — the crescent-and-star flag patch on the chest, a tonal Nike pattern running through the fabric — is a saturated counterweight. Gold against red should not separate as cleanly as it does, but both colors are bright enough to hold their own lane on the broadcast. Two first-choice home kits, no change shirt, maximum saturation. It comes in just under the complementary 10s because gold and red sit closer on the color wheel than orange-and-blue or yellow-and-green, so the read is very good rather than perfect. Eight out of 10.
+
+## Match 7: Haiti vs Scotland
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #00209F 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group C · Match 7 · Final · Gillette Stadium</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-haiti-white.jpg" alt="Haiti 2026 World Cup white SAETA home jersey with red collar and grey heritage graphic worn in the Group C match vs Scotland at Gillette Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HAITI</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhaiti%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-away-kits/scotland-away.jpg" alt="Scotland 2026 World Cup red adidas change jersey with navy pinstripes and lilac trim worn in the Group C match vs Haiti at Gillette Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SCOTLAND</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dscotland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7 / 10</p>
+</div>
+
+Haiti's white against Scotland's red change kit is a clean, classic pairing lifted by one of the best-looking change shirts in the tournament. Haiti, back at a World Cup for the first time since 1974, wore the white SAETA shirt with a red collar and a subtle grey heritage scene along the hem — understated and rich with history. Scotland, pushed off their navy home by Haiti's light kit, pulled the retro red shirt with the navy pinstripes and lilac trim, an instant-classic adidas throwback that is arguably the better-looking of the two. White versus red is a textbook high-contrast call, but it tops out at standard-issue light-versus-color the way the earlier red-versus-white pairings did. Seven out of 10 — clean, classic, and carried by that Scotland red.
 
 ## Match 6: Brazil vs Morocco
 

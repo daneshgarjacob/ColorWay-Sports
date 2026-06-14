@@ -25,7 +25,7 @@ const trackers = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Brazil vs Morocco lands the tournament's first perfect 10 — canary yellow and blue against red and green, both first-choice homes. The USMNT's white home earns an 8; Qatar-Switzerland a 7.5.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Two perfect 10s now — Brazil's yellow vs Morocco's red-and-green, and the Netherlands' orange vs Japan's blue. Through 10 matches the average is 8.0/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
