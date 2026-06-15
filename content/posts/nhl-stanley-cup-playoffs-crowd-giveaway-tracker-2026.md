@@ -2,8 +2,8 @@
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
 category: "NHL"
 date: "2026-04-29"
-updatedDate: "2026-06-11"
-excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded. Thursday Stanley Cup Final Game 5: Hurricanes white rally towels at Lenovo Center with the series tied 2-2, the third Carolina towel night of the run (B). Tuesday Stanley Cup Final Game 4: Vegas Golden Knights Tomas Hertl rally towels at T-Mobile Arena honoring the franchise's playoff hero on the gold base (A-). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
+updatedDate: "2026-06-15"
+excerpt: "Every 2026 NHL Stanley Cup Playoffs crowd giveaway graded — and the Final is now complete, with the Carolina Hurricanes winning the Cup in six games. Stanley Cup Final Game 5: Hurricanes white rally towels at Lenovo Center, the third Carolina towel night of the run (B). Game 4: Vegas Golden Knights Tomas Hertl rally towels at T-Mobile Arena on the gold base (A-). Every t-shirt and towel giveaway from the 2026 Stanley Cup Playoffs graded."
 gradient: "linear-gradient(135deg, #00205B 0%, #F74902 50%, #B9975B 100%)"
 coverImage: "/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg"
 coverImagePosition: "center bottom"
@@ -20,6 +20,10 @@ The 2026 NHL Stanley Cup Playoffs crowd takeover programs are running parallel t
 The crowd takeover is one of the most underrated visual elements of playoff hockey. When a whole arena is in the same color, the broadcast changes. The energy reads different. The home crowd becomes part of the in-arena package next to the home jersey and the home ice. We grade each giveaway on visual impact, color commitment, and how the shirt or towel color works against the team's home sweater and the rink's logo program. For the matching jersey side of every Round 1 series, see our [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker](/stories/nhl-playoffs-2026-round-1-jersey-tracker).
 
 This is the running tracker. Refresh through the postseason as new giveaways drop.
+
+<div style="margin: 1.5em 0; padding: 1.25em 1.5em; background: linear-gradient(135deg, #CC0000 0%, #1a1a1a 100%); border-radius: 12px; border: 1px solid rgba(204,0,0,0.4);">
+  <p style="margin: 0; color: #fff; font-weight: 700; font-size: 1.02em;">🏆 Series update: The 2026 Stanley Cup Final is over — the <strong>Carolina Hurricanes won the Cup in six games</strong>, clinching on the road in Vegas in Game 6 (series 4-2). The Game 5 whiteout below was the last home crowd giveaway of Carolina's championship run. Full sweater-by-sweater grades are in our <a href="/stories/nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights" style="color: #ff8a8a;">2026 NHL Stanley Cup Final Jersey Tracker</a>.</p>
+</div>
 
 ## Thursday Stanley Cup Final Game 5 Giveaway
 
