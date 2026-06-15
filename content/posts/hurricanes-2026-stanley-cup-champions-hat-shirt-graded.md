@@ -5,17 +5,17 @@ date: "2026-06-15"
 updatedDate: "2026-06-15"
 excerpt: "We grade the Carolina Hurricanes 2026 Stanley Cup Champions locker room hat and t-shirt. The charcoal Fanatics cap is a genuinely wearable A — great texture and a clean vibe. The heather-gray authentic tee brings real Canes personality and lands at A-."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1d1d1d 60%, #A2AAAD 100%)"
-coverImage: "/images/posts/hurricanes-champions-gear/hurricanes-2026-stanley-cup-champions-hat-shirt-combo.jpg"
+coverImage: "/images/posts/hurricanes-champions-gear/hurricanes-2026-stanley-cup-champions-hat.avif"
 coverImagePosition: "center center"
-coverImageFit: "cover"
+coverImageFit: "contain"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["carolina-hurricanes"]
 featuredOrder: 1
 ---
 
-<div style="margin: 0 0 2em;">
-  <img src="/images/posts/hurricanes-champions-gear/hurricanes-2026-stanley-cup-champions-hat-shirt-combo.jpg" alt="Carolina Hurricanes 2026 Stanley Cup Champions locker room gear: the heather-gray Fanatics authentic t-shirt with a Stanley Cup Champs Canes graphic next to the charcoal Fanatics structured hat with Stanley Cup Champions text and the Hurricanes warning-flag logo" style="width: 100%; display: block; border-radius: 12px;" />
+<div style="margin: 0 0 2em; text-align: center;">
+  <img src="/images/posts/hurricanes-champions-gear/hurricanes-2026-stanley-cup-champions-hat.avif" alt="Carolina Hurricanes 2026 Stanley Cup Champions Fanatics structured hat in charcoal with 2026 Stanley Cup over a large Champions wordmark, the Hurricanes warning-flag logo, and cream piping on the brim" style="max-width: 560px; width: 100%; display: block; margin: 0 auto; border-radius: 12px;" />
 </div>
 
 The Carolina Hurricanes are Stanley Cup champions. For the first time since 2006, and only the second time in franchise history, Carolina lifted the Cup — closing out the Vegas Golden Knights 4-2 with a 3-0 shutout in Game 6 on the road, Brandon Bussi stopping all 22 shots, Taylor Hall and Jackson Blake scoring and Nikolaj Ehlers sealing it. And as the team passed the Cup around the visitors' room in Las Vegas, they were in the official 2026 Stanley Cup Champions locker room gear: the Fanatics structured cap and the authentic locker room tee.

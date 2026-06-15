@@ -50,6 +50,12 @@ This is the one. Finally. After years of complaining about the heather-gray dest
 
 But the centerpiece is the centerpiece. The Larry O'Brien Trophy is rendered in a shimmering, almost bedazzled metallic gold that glows against the black and distressed gray around it — the single best design choice on any piece of championship gear this year. It catches the light, it pops on camera, and it makes the whole shirt feel special instead of generic. This is the rare locker room tee you would actually want to wear out, not just collect. It is unique, it is cool, and it is exactly the kind of swing a 53-years-in-the-making championship deserved. Easy A+, and the best championship locker room shirt we have graded.
 
+And it plays even better in motion. Here are the Knicks celebrating the title in the shirt — on the players, the distressed print and that gold trophy read even sharper than they do on the website product shot:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2066559685717623124"></a></blockquote>
+</div>
+
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; color: #00c864;">Shirt Grade: A+</p>
 </div>
@@ -63,6 +69,10 @@ But the centerpiece is the centerpiece. The Larry O'Brien Trophy is rendered in 
 The Knicks' 2026 NBA Champions locker room set flips the script on our usual complaint. The hat is very good — a sharp white-black-gold New Era 9FIFTY that earns its A- and only misses more because it plays the shield template a touch safe. But the shirt is the triumph: a black, gold-trophy, vintage-gothic Nike tee that finally breaks the recycled-gray mold and lands as the best championship locker room shirt in years. After a 53-year wait, the Knicks got gear worthy of the moment — and the shirt, especially, is one we will be pointing to as the bar for the next champion. For the uniform side of the title run, see our [2026 NBA Finals Jersey Tracker](/stories/nba-finals-2026-jersey-tracker-knicks-spurs) and the [Knicks 1973 vs 2026 championship uniforms comparison](/stories/knicks-1973-vs-2026-championship-uniforms-compared).
 
 ## Frequently Asked Questions
+
+**Why is the New York Knicks 2026 NBA Champions shirt so cool?**
+
+The 2026 NBA Champions shirt stands out because it ditches the recycled heather-gray template most champions get. It is a black Nike tee designed like a vintage concert tour shirt, with distressed gothic "NBA Champions 2026" and "New York Knicks" lettering and a shimmering metallic gold Larry O'Brien Trophy as the centerpiece that catches the light against the black base. It reads like something you would actually wear out, not just collect, which is rare for championship gear, and on the players during the trophy celebration it looked even sharper than the product shot. We graded it an A+, our highest championship-gear grade.
 
 **What grade did ColorWay Sports give the New York Knicks 2026 NBA Champions shirt?**
 
