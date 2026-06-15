@@ -5,17 +5,18 @@ date: "2026-06-15"
 updatedDate: "2026-06-15"
 excerpt: "Carolina won its second Stanley Cup in 2026 — and did it without its famous red home sweater touching the ice once. Across six Final games the Hurricanes wore black at home and white on the road, clinching in the whites. A look at the strangest uniform footnote of the title run."
 gradient: "linear-gradient(135deg, #000000 0%, #333F42 45%, #CC0000 100%)"
-coverImage: "/images/jerseys/nhl/hurricanes-black.png"
+coverImage: "/images/posts/hurricanes-2006-vs-2026-champions-split.jpg"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["carolina-hurricanes"]
 featuredOrder: 1
 ---
 
-<div style="margin: 0 0 2em; text-align: center;">
-  <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black primary home sweater, the look the Hurricanes wore for every home game of the 2026 Stanley Cup run instead of their iconic red" style="max-width: 100%; border-radius: 12px;" />
+<div style="margin: 0 0 1.5em; text-align: center;">
+  <img src="/images/posts/hurricanes-2006-vs-2026-champions-split.jpg" alt="Carolina Hurricanes championship team photos compared: 2006 in the red home sweaters on top, and 2026 in the white road sweaters with the Stanley Cup on the bottom" style="max-width: 460px; width: 100%; border-radius: 12px; display: block; margin: 0 auto;" />
+  <p style="text-align: center; font-size: 0.78em; color: #999; margin-top: 0.6em;">2006 champions in red (top) vs 2026 champions in white (bottom) — via the Carolina Hurricanes</p>
 </div>
 
 The Carolina Hurricanes are Stanley Cup champions for the second time, beating the Vegas Golden Knights 4-2 and clinching with a 3-0 shutout in Game 6 on the road. It is the franchise's first Cup since 2006 and one of the most dominant runs in modern NHL history — 16-3 in the playoffs, the fewest games to a championship since the 1988 Oilers.
@@ -26,30 +27,7 @@ Across all six games of the Stanley Cup Final, the iconic Carolina red home swea
 
 ## What They Actually Wore
 
-The Hurricanes split the Final between two sweaters, and neither was the red:
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 2em 0;">
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 22px 12px 18px; text-align: center;">
-    <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black primary home sweater worn for Games 1, 2, and 5 at Lenovo Center in the 2026 Stanley Cup Final" style="height: 160px; max-width: 100%; object-fit: contain;" />
-    <p style="color: #fff; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">BLACK PRIMARY</p>
-    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Worn 3× · Home · G1, 2, 5</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 22px 12px 18px; text-align: center;">
-    <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater worn for Games 3, 4, and 6 in Las Vegas, the sweater Carolina clinched the 2026 Stanley Cup in" style="height: 160px; max-width: 100%; object-fit: contain;" />
-    <p style="color: #fff; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">WHITE ROAD</p>
-    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Worn 3× · Road · Clinched</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #2a0a0a 0%, #170404 100%); border: 2px dashed rgba(204,0,0,0.55); border-radius: 12px; padding: 22px 12px 18px; text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <div style="height: 160px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-      <p style="font-size: 60px; font-weight: 900; color: rgba(204,0,0,0.9); margin: 0; line-height: 1;">0</p>
-      <p style="font-size: 11px; font-weight: 800; color: rgba(255,255,255,0.55); letter-spacing: 1px; text-transform: uppercase; margin: 6px 0 0;">games</p>
-    </div>
-    <p style="color: #ff5b6e; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">RED HOME</p>
-    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.6; margin: 4px 0 0; font-weight: 600;">Never hit the ice</p>
-  </div>
-</div>
-
-The black primary at home for Games 1, 2, and 5 at Lenovo Center. The white road set in Las Vegas for Games 3, 4, and the Game 6 clincher. When the final horn sounded and the Hurricanes mobbed Brandon Bussi to start the Cup celebration, they were wearing white. The franchise's first championship sweater of the modern era — the one in every photo of this title — is the road white, not the home red.
+The Hurricanes split the Final between two sweaters, and neither was the red. They wore the black primary at home for Games 1, 2, and 5 at Lenovo Center, and the white road sweater in Las Vegas for Games 3, 4, and the Game 6 clincher — three games in each. When the final horn sounded and the Hurricanes mobbed Brandon Bussi to start the Cup celebration, they were wearing white. So the franchise's first championship sweater of the modern era — the one in every photo of this title — is the road white, not the home red. The iconic red home sweater appeared in exactly zero games.
 
 ## The Sweater They Didn't Wear
 

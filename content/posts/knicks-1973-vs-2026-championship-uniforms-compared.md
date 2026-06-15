@@ -5,17 +5,18 @@ date: "2026-06-15"
 updatedDate: "2026-06-15"
 excerpt: "Put the Knicks' 1973 and 2026 championship uniforms side by side and you can barely tell them apart — same 'NEW YORK,' same orange and blue, 53 years apart. Here is everything that actually changed (it's a short list) and the small details that give away which is which."
 gradient: "linear-gradient(135deg, #F58426 0%, #1d1d1d 50%, #006BB6 100%)"
-coverImage: "/images/jerseys/nba/knicks-association-white.png"
+coverImage: "/images/posts/knicks-og-anunoby-2026-white-jersey.jpg"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1
 ---
 
-<div style="margin: 0 0 2em; text-align: center;">
-  <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks 2026 white Association edition uniform with NEW YORK across the chest in orange and blue, the same basic design the franchise wore winning the 1973 NBA championship" style="max-width: 100%; border-radius: 12px;" />
+<div style="margin: 0 0 1.5em; text-align: center;">
+  <img src="/images/posts/knicks-og-anunoby-2026-white-jersey.jpg" alt="OG Anunoby in the New York Knicks 2026 white Association uniform with NEW YORK arched across the chest in orange and blue, the same basic design the franchise wore winning the 1973 NBA championship" style="max-width: 100%; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.78em; color: #999; margin-top: 0.6em;">OG Anunoby in the Knicks' 2026 home white — that "NEW YORK" wordmark is unchanged since 1973. Via the New York Knicks.</p>
 </div>
 
 Here is a trick that stumps most Knicks fans: show them the 1973 championship jersey and the 2026 one side by side and ask which is which. Good luck. When the Knicks closed out the San Antonio Spurs to win the 2026 NBA title — their first in 53 years, the third in franchise history after 1970 and 1973 — they did it in a uniform Willis Reed and Walt Frazier would have recognized on sight. Same "NEW YORK" arched across the chest, same orange and blue, 53 years apart. In a league that reinvents its uniforms every other season, that kind of continuity is almost unheard of.
@@ -73,6 +74,12 @@ The differences are real but mostly cosmetic and technological, not identity-lev
 Plenty of franchises would have "modernized" a championship uniform a dozen times over 53 years. The Knicks essentially didn't, and that is the whole story. When a casual fan pictures the Knicks, they picture "NEW YORK" in orange and blue across the chest — and that mental image works for the 1970 team, the 1973 team, and the 2026 team without adjustment. There is a real branding lesson in it: the most valuable thing a uniform can have is continuity, and the Knicks protected theirs.
 
 There is even a quiet parallel in how the titles were clinched. In 1973 the Knicks closed out the Lakers on the road, in their blue road uniforms. In 2026 they clinched on the road in San Antonio, in the [blue Icon edition with the NBA Finals back patch](/stories/knicks-2026-nba-finals-jersey-back-patch-first-look) — the same blue road identity, 53 years apart. Same colors, same wordmark, same restraint, two banners. For the full breakdown of every uniform matchup from this championship run, see our [2026 NBA Finals Jersey Tracker](/stories/nba-finals-2026-jersey-tracker-knicks-spurs), and for the championship gear, our [Knicks 2026 NBA Champions hat and shirt, graded](/stories/knicks-2026-nba-champions-hat-shirt-graded).
+
+One more look at the 2026 champions in the colors the Knicks have worn since 1973:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2065079449679183991"></a></blockquote>
+</div>
 
 ## Frequently Asked Questions
 
