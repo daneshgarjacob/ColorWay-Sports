@@ -53,6 +53,11 @@ The black primary at home for Games 1, 2, and 5 at Lenovo Center. The white road
 
 ## The Sweater They Didn't Wear
 
+<div style="margin: 2em auto; max-width: 340px; background: #ffffff; border-radius: 14px; padding: 18px 18px 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
+  <img src="/images/posts/hurricanes-red-home-sweater.webp" alt="The Carolina Hurricanes iconic red home sweater with the hurricane-warning-flag crest, the sweater the franchise never wore once in the 2026 Stanley Cup Final" style="width: 100%; display: block; border-radius: 6px;" />
+  <p style="text-align: center; font-size: 0.78em; color: #888; margin: 12px 0 6px; line-height: 1.4;">The iconic Carolina red home sweater — worn lifting the Cup in 2006, and not once across the entire 2026 Final.</p>
+</div>
+
 Here is the part that makes this more than a quirk: Carolina chose this. At some point over the last few seasons the franchise quietly promoted the black to its **primary** home sweater and moved the classic red to **alternate** status. The black-at-home look that anchored every Lenovo Center playoff night this spring — from Round 1 against the Devils through the Eastern Conference Final closeout over Montreal — was not a one-off fashion call. It is the team's first-choice identity now, and the red is the throwback.
 
 So when the biggest games in 20 years arrived, the red home sweater was never even in the rotation. The sweater that should anchor a championship night in Raleigh sat in the closet while the Hurricanes built their banner in black and white.

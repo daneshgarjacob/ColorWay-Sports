@@ -1,9 +1,9 @@
 ---
-title: "New York Knicks 1973 vs 2026 Championship Uniforms: How Little the Knicks' Look Has Changed in 53 Years"
+title: "The Knicks Won the 2026 Title in Almost the Exact Same Uniform as 1973 — Spot the Difference"
 category: "NBA"
 date: "2026-06-15"
 updatedDate: "2026-06-15"
-excerpt: "The Knicks won the 2026 NBA title in a uniform almost identical to the one Willis Reed and Walt Frazier wore winning it all in 1973. We compare the two championship looks 53 years apart — the NEW YORK wordmark, the orange and blue, and the handful of things that actually changed."
+excerpt: "Put the Knicks' 1973 and 2026 championship uniforms side by side and you can barely tell them apart — same 'NEW YORK,' same orange and blue, 53 years apart. Here is everything that actually changed (it's a short list) and the small details that give away which is which."
 gradient: "linear-gradient(135deg, #F58426 0%, #1d1d1d 50%, #006BB6 100%)"
 coverImage: "/images/jerseys/nba/knicks-association-white.png"
 coverImagePosition: "center center"
@@ -18,7 +18,13 @@ featuredOrder: 1
   <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks 2026 white Association edition uniform with NEW YORK across the chest in orange and blue, the same basic design the franchise wore winning the 1973 NBA championship" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
-When the New York Knicks closed out the San Antonio Spurs to win the 2026 NBA championship — their first title in 53 years, the third in franchise history after 1970 and 1973 — they did it in a uniform that Willis Reed and Walt Frazier would have recognized instantly. Strip away the modern fabric and a couple of small logos and the Knicks won the 2026 Cup in essentially the same uniform they won the 1973 one in. In a league that reinvents its uniforms every other season, that is remarkable. Here is the 1973 championship look next to the 2026 one, and the short list of what actually changed across half a century.
+Here is a trick that stumps most Knicks fans: show them the 1973 championship jersey and the 2026 one side by side and ask which is which. Good luck. When the Knicks closed out the San Antonio Spurs to win the 2026 NBA title — their first in 53 years, the third in franchise history after 1970 and 1973 — they did it in a uniform Willis Reed and Walt Frazier would have recognized on sight. Same "NEW YORK" arched across the chest, same orange and blue, 53 years apart. In a league that reinvents its uniforms every other season, that kind of continuity is almost unheard of.
+
+Here is that 1973 championship team. Look at the jersey — then compare it to the 2026 version up top. Barely a thing has moved.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Al_Mercuro/status/2066567459209912800"></a></blockquote>
+</div>
 
 <div style="margin: 2em 0; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; font-size: 14px; background: linear-gradient(135deg, #1d1d1d 0%, #0a0a0a 100%); border-radius: 12px; overflow: hidden;">
