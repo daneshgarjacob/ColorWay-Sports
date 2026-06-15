@@ -18,7 +18,7 @@ featuredOrder: 1
   <img src="/images/jerseys/nba/knicks-both-icon-blue-finals.png" alt="New York Knicks 2026 NBA Finals jersey in the blue Icon edition with the 2026 NBA Finals back patch, the uniform the Knicks wore winning the franchise's first championship since 1973" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
-The New York Knicks are NBA champions. For the first time since 1973 — a 53-year wait, the longest active title drought in the league when it ended — the Knicks closed out the San Antonio Spurs 4-1, clinching in Game 5 behind a 45-point Jalen Brunson masterpiece and an OG Anunoby dagger to erase a 16-point hole. It is the third championship in franchise history, after 1970 and 1973, and the first of the Brunson era.
+The New York Knicks are NBA champions. For the first time since 1973 — a 53-year wait, one of the longest championship droughts in the NBA — the Knicks closed out the San Antonio Spurs 4-1, clinching in Game 5 behind a 45-point Jalen Brunson masterpiece and an OG Anunoby dagger to erase a 16-point hole. It is the third championship in franchise history, after 1970 and 1973, and the first of the Brunson era.
 
 Within minutes of the final buzzer, the official 2026 NBA Champions locker room gear hit the floor — the New Era championship caps and the Fanatics trophy tees the players pulled on for the trophy presentation — and it is on shelves now. Below is where to buy each piece, plus our first-look read on the locker room set. Championship gear sells out fast in the first 48 hours, and the Knicks have a fan base that has been waiting half a century to buy it.
 
