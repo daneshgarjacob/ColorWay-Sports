@@ -28,16 +28,24 @@ Across all six games of the Stanley Cup Final, the iconic Carolina red home swea
 
 The Hurricanes split the Final between two sweaters, and neither was the red:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 2em 0;">
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 16px 20px; text-align: center;">
-    <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black primary home sweater worn for Games 1, 2, and 5 at Lenovo Center in the 2026 Stanley Cup Final" style="height: 190px; max-width: 100%; object-fit: contain;" />
-    <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2;">BLACK PRIMARY</p>
-    <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Home · Games 1, 2, 5 · Lenovo Center</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 2em 0;">
+  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 22px 12px 18px; text-align: center;">
+    <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black primary home sweater worn for Games 1, 2, and 5 at Lenovo Center in the 2026 Stanley Cup Final" style="height: 160px; max-width: 100%; object-fit: contain;" />
+    <p style="color: #fff; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">BLACK PRIMARY</p>
+    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Worn 3× · Home · G1, 2, 5</p>
   </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 16px 20px; text-align: center;">
-    <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater worn for Games 3, 4, and 6 in Las Vegas, the sweater Carolina clinched the 2026 Stanley Cup in" style="height: 190px; max-width: 100%; object-fit: contain;" />
-    <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2;">WHITE ROAD</p>
-    <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Road · Games 3, 4, 6 · Clinched the Cup</p>
+  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 22px 12px 18px; text-align: center;">
+    <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater worn for Games 3, 4, and 6 in Las Vegas, the sweater Carolina clinched the 2026 Stanley Cup in" style="height: 160px; max-width: 100%; object-fit: contain;" />
+    <p style="color: #fff; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">WHITE ROAD</p>
+    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.8; margin: 4px 0 0; font-weight: 600;">Worn 3× · Road · Clinched</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #2a0a0a 0%, #170404 100%); border: 2px dashed rgba(204,0,0,0.55); border-radius: 12px; padding: 22px 12px 18px; text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <div style="height: 160px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+      <p style="font-size: 60px; font-weight: 900; color: rgba(204,0,0,0.9); margin: 0; line-height: 1;">0</p>
+      <p style="font-size: 11px; font-weight: 800; color: rgba(255,255,255,0.55); letter-spacing: 1px; text-transform: uppercase; margin: 6px 0 0;">games</p>
+    </div>
+    <p style="color: #ff5b6e; font-size: 13px; font-weight: 900; margin: 12px 0 0; line-height: 1.2;">RED HOME</p>
+    <p style="color: #fff; font-size: 8.5px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.6; margin: 4px 0 0; font-weight: 600;">Never hit the ice</p>
   </div>
 </div>
 

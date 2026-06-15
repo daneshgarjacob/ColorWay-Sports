@@ -20,18 +20,28 @@ featuredOrder: 1
 
 When the New York Knicks closed out the San Antonio Spurs to win the 2026 NBA championship — their first title in 53 years, the third in franchise history after 1970 and 1973 — they did it in a uniform that Willis Reed and Walt Frazier would have recognized instantly. Strip away the modern fabric and a couple of small logos and the Knicks won the 2026 Cup in essentially the same uniform they won the 1973 one in. In a league that reinvents its uniforms every other season, that is remarkable. Here is the 1973 championship look next to the 2026 one, and the short list of what actually changed across half a century.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 2em 0;">
-  <div style="background: linear-gradient(135deg, #1d1d1d 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 18px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
-    <!-- 1973 IMAGE SLOT: Jake — drop a 1973 Knicks championship photo or jersey here (Willis Reed / Walt Frazier home whites, or a Hardwood Classics 1972-73 jersey). Tweet embed or hosted image both work. Replace this text card with the image when ready. -->
-    <p style="color: #F58426; font-size: 13px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 10px;">1973 Champions</p>
-    <p style="color: #fff; font-size: 14px; font-weight: 800; line-height: 1.4; margin: 0;">"NEW YORK" arched across the chest in orange and blue · number below · orange-and-blue side striping · Reed, Frazier, DeBusschere · beat the Lakers</p>
-    <p style="color: rgba(255,255,255,0.5); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; margin: 12px 0 0;">Home White · MacGregor era · No swoosh, no patch</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1d1d1d 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 18px; text-align: center;">
-    <img src="/images/jerseys/nba/knicks-association-white.png" alt="New York Knicks 2026 Association edition white uniform, the championship-era home look" style="height: 200px; max-width: 100%; object-fit: contain;" />
-    <p style="color: #F58426; font-size: 13px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; margin: 14px 0 0;">2026 Champions</p>
-    <p style="color: rgba(255,255,255,0.55); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; margin: 8px 0 0;">Home White · Nike · Brunson, Anunoby</p>
-  </div>
+<div style="margin: 2em 0; overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 14px; background: linear-gradient(135deg, #1d1d1d 0%, #0a0a0a 100%); border-radius: 12px; overflow: hidden;">
+    <thead>
+      <tr style="background: linear-gradient(90deg, #F58426 0%, #006BB6 100%);">
+        <th style="padding: 12px 14px; text-align: left; color: #fff; font-weight: 800; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Element</th>
+        <th style="padding: 12px 14px; text-align: left; color: #fff; font-weight: 800; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">1973 Champions</th>
+        <th style="padding: 12px 14px; text-align: left; color: #fff; font-weight: 800; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">2026 Champions</th>
+      </tr>
+    </thead>
+    <tbody style="color: #e6e6e6;">
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">"NEW YORK" wordmark</td><td style="padding: 11px 14px;">Arched across the chest</td><td style="padding: 11px 14px; color: #9bc824;">Virtually identical</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Colors</td><td style="padding: 11px 14px;">Knicks orange & blue</td><td style="padding: 11px 14px; color: #9bc824;">Knicks orange & blue</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Side striping</td><td style="padding: 11px 14px;">Orange-and-blue stripe</td><td style="padding: 11px 14px; color: #9bc824;">Orange-and-blue stripe</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Maker's mark</td><td style="padding: 11px 14px;">None on the jersey</td><td style="padding: 11px 14px; color: #ff8a4c;">Nike swoosh added</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Jersey ad patch</td><td style="padding: 11px 14px;">None</td><td style="padding: 11px 14px; color: #ff8a4c;">Sponsor patch added</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Fabric & fit</td><td style="padding: 11px 14px;">Heavy durene, shorter cut</td><td style="padding: 11px 14px; color: #ff8a4c;">Light knit, longer & tailored</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">The stars</td><td style="padding: 11px 14px;">Reed, Frazier, DeBusschere</td><td style="padding: 11px 14px;">Brunson, Anunoby</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Beat in the Finals</td><td style="padding: 11px 14px;">Los Angeles Lakers</td><td style="padding: 11px 14px;">San Antonio Spurs</td></tr>
+      <tr style="border-top: 1px solid rgba(255,255,255,0.08); background: rgba(245,132,38,0.08);"><td style="padding: 11px 14px; font-weight: 700; color: #fff;">Championship</td><td style="padding: 11px 14px; font-weight: 700;">Franchise's 2nd</td><td style="padding: 11px 14px; font-weight: 700;">Franchise's 3rd</td></tr>
+    </tbody>
+  </table>
+  <p style="text-align: center; font-size: 0.78em; color: #999; margin-top: 0.75em;"><span style="color:#9bc824; font-weight:700;">Green</span> = unchanged since 1973 &nbsp;·&nbsp; <span style="color:#ff8a4c; font-weight:700;">Orange</span> = modern addition</p>
 </div>
 
 ## What Stayed the Same

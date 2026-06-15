@@ -22,6 +22,12 @@ The Carolina Hurricanes are Stanley Cup champions. For the first time since 2006
 
 We just graded the [Knicks' 2026 NBA Champions set](/stories/knicks-2026-nba-champions-hat-shirt-graded) and came away impressed; the league did good work on championship gear this year, and Carolina's set keeps the streak going. Here is our grade on both pieces.
 
+First, the team in the gear — the Hurricanes celebrating the Cup in Las Vegas:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2066566319395229970"></a></blockquote>
+</div>
+
 ## Carolina Hurricanes 2026 Stanley Cup Champions Hat
 
 <div style="margin: 2em 0; text-align: center;">
