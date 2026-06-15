@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-14"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Two perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, and the Netherlands' orange vs Japan's blue. Australia-Türkiye takes an 8, Germany-Curaçao a 7.5, and the tournament averages 8.0 out of 10 through 10 matches. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-15"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Three perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, and Ivory Coast's orange vs Ecuador's navy. Sweden-Tunisia takes an 8.5, Spain-Cape Verde a 6.5, and the tournament averages 8.0 out of 10 through 13 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -35,10 +35,97 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">10 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">13 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 13: Spain vs Cape Verde
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C60B1E 0%, #1D4F91 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group H · Match 13 · Live · Mercedes-Benz Stadium</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/spain.jpg" alt="Spain 2026 World Cup adidas red home jersey worn in the Group H match vs Cape Verde at Mercedes-Benz Stadium in Atlanta" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SPAIN</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dspain%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-cape-verde-away.jpg" alt="Cape Verde 2026 World Cup Capelli white change jersey with tonal geometric print and blue and orange collar trim worn in the Group H match vs Spain at Mercedes-Benz Stadium" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAPE VERDE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcape%2520verde%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6.5 / 10</p>
+</div>
+
+Spain's red home against Cape Verde's white change kit is the plainest of the tournament's red-versus-white pairings, and it lands a half-step under the cluster of 7s for it. The story is all Cape Verde: the Blue Sharks (Tubarões Azuis) are at a World Cup for the first time in their history, the smallest nation by population in the field, and the moment is enormous. But the kit on the pitch is the muted half of their wardrobe. Their identity is the royal-blue home, and pushed off it by Spain's red they went to the white Capelli change shirt — clean, but the tonal geometric print and the thin blue-and-orange collar trim are the only things keeping it off a blank tee, and both vanish at broadcast distance. Spain answers in the classic La Roja red, iconic but rendered here as a fairly flat solid with navy accents and none of the gold-trim flourish of their best home shirts. Red versus white reads cleanly and always will, but this is the most basic version of it we have graded — no sleeper change kit like Bosnia's or Scotland's, no heritage hook like Haiti's. Six and a half out of 10. The history is a 10; the color story is the quietest of the tournament so far.
+
+## Match 12: Sweden vs Tunisia
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F2C200 0%, #E70013 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group F · Match 12 · Final · Estadio BBVA</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/sweden.jpg" alt="Sweden 2026 World Cup adidas yellow home jersey worn in the Group F match vs Tunisia at Estadio BBVA in Monterrey" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SWEDEN</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Yellow</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsweden%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-tunisia-home.webp" alt="Tunisia 2026 World Cup Kappa red home jersey with white eagle-feather shoulder print worn in the Group F match vs Sweden at Estadio BBVA in Monterrey" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">TUNISIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtunisia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8.5 / 10</p>
+</div>
+
+Sweden's yellow home against Tunisia's red home is the best warm-on-warm pairing the tournament has produced, and it clears the bar Australia-Türkiye set. Both teams came out in their first-choice home kits — no clash, no change shirt — and yellow against red is a high-energy, fully saturated collision that still separates cleanly because Sweden's Blågult yellow is a true bright primary, not a gold, so it reads a clear lane apart from the Tunisian red. The Carthage Eagles' Kappa red is sharp in its own right, the white eagle-feather brushstroke print climbing the shoulders and a crisp white collar lifting it above a plain solid. This is the same warm-on-warm category as Australia's gold versus Türkiye's red, but the brighter yellow gives it more separation and more pop, so it grades a notch higher. It stops just short of the complementary 10s because yellow and red still sit on the same warm half of the wheel rather than true opposites. Eight and a half out of 10 — two first-choice homes, maximum saturation, and the cleanest yellow-red read of the tournament.
+
+## Match 11: Ivory Coast vs Ecuador
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #F37021 0%, #1B2A4A 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group E · Match 11 · Final · Lincoln Financial Field</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/puma-world-cup-kits/ivory-coast-home.jpg" alt="Ivory Coast Les Éléphants 2026 World Cup Puma orange home jersey with tonal leopard print worn in the Group E match vs Ecuador at Lincoln Financial Field in Philadelphia" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">IVORY COAST</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Orange</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Divory%2520coast%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/posts/wc-ecuador-away.webp" alt="Ecuador 2026 World Cup Marathon navy blue change jersey with copper crest and trim worn in the Group E match vs Ivory Coast at Lincoln Financial Field in Philadelphia" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px;" />
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ECUADOR</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Decuador%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 10 / 10</p>
+</div>
+
+The tournament's third perfect 10, and it is the second time the 2026 World Cup has served the platonic complementary clash: orange against blue. Ivory Coast's Les Éléphants in the Puma orange home is one of the boldest single-color identities in world football — a deep, burnt orange carrying a tonal leopard print that rewards every close-up — and Ecuador answers in a gorgeous midnight-navy change kit, the Marathon shirt finished with copper crest and trim. Here is the detail that makes it sing: Ecuador's first-choice home is yellow, and yellow against Ivory Coast's orange would have been a muddy adjacent-tone wash, one of the worst pairings the draw could produce. Pushed to their change shirt, La Tri went to the navy — and turned a near-clash into a complementary knockout. Orange versus blue is the cleanest pairing in the sport, the exact axis that earned the Netherlands and Japan a 10, and this one matches it: the burnt orange and the leopard texture against the deep navy and the copper detailing separate at every distance and reward every replay. There is nothing to dock. Ten out of 10 — the third perfect score of the tournament, and proof that a forced change kit, chosen well, can be the best decision on the pitch.
 
 ## Match 10: Netherlands vs Japan
 
