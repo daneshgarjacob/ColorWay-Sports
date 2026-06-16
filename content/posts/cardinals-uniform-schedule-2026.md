@@ -13,7 +13,6 @@ teams:
   - st-louis-cardinals
 ---
 
-<img src="/images/posts/cardinals-uniform-schedule-cover.jpg" alt="St. Louis Cardinals 2026 uniform schedule featuring the home white, road gray, cream, powder blue, and The Lou City Connect jerseys" style="width: 100%; border-radius: 10px; display: block; margin: 0 0 1.5em;" />
 
 The Cardinals have one of the most disciplined uniform rotations in baseball, and the reason is simple. They have a system, and they stick to it. Instead of pulling jerseys at random the way most teams do, St. Louis ties specific looks to specific days. Every fan knows what to expect when they walk into Busch Stadium, and the whole closet works together. There are five uniforms in the 2026 mix, and once you learn the pattern you can call the jersey before the lineup card is even posted.
 

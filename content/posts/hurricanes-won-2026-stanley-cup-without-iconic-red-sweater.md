@@ -14,9 +14,6 @@ teams: ["carolina-hurricanes"]
 featuredOrder: 1
 ---
 
-<div style="margin: 0 0 1.5em; text-align: center;">
-  <img src="/images/posts/hurricanes-won-without-red-cover.jpg" alt="ColorWay Sports cover graphic reading Champions in Black and White, on how the Carolina Hurricanes won the 2026 Stanley Cup without ever wearing their iconic red home sweater" style="max-width: 820px; width: 100%; border-radius: 12px; display: block; margin: 0 auto 1.5em;" />
-</div>
 
 The Carolina Hurricanes are Stanley Cup champions for the second time, beating the Vegas Golden Knights 4-2 and clinching with a 3-0 shutout in Game 6 on the road. It is the franchise's first Cup since 2006 and one of the most dominant runs in modern NHL history — 16-3 in the playoffs, the fewest games to a championship since the 1988 Oilers.
 

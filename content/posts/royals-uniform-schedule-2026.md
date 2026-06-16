@@ -14,7 +14,6 @@ teams:
   - kansas-city-royals
 ---
 
-<img src="/images/posts/royals-uniform-schedule-cover.jpg" alt="Kansas City Royals 2026 uniform schedule featuring home white, road gray, powder blue, royal blue alternate, and the new Forever Fountains City Connect jersey" style="width: 100%; border-radius: 10px; display: block; margin: 0 0 1.5em;" />
 
 The Royals carry five uniforms in 2026, and the rotation has two anchors you can set your watch to. Friday home games mean the brand new City Connect, and Saturday home games mean the powder blue full set. Everything else is more relaxed. Kansas City does not run the rigid day-by-day system that a team like the Phillies does, but the two weekend pillars give the closet structure, and the new "Forever Fountains" City Connect is the headline addition for the year.
 

@@ -13,7 +13,6 @@ teams: ["los-angeles-lakers"]
 featuredOrder: 1
 ---
 
-<img src="/images/posts/lawrence-tanter-retires-cover.jpg" alt="ColorWay Sports tribute graphic: The Voice of the Lakers, Lawrence Tanter retires after 43 seasons as the team's public address announcer" style="width: 100%; border-radius: 10px; display: block; margin: 0 0 1.5em;" />
 
 It is official, and it is the news a generation of Lakers fans was dreading. Lawrence Tanter has retired as the public address announcer of the Los Angeles Lakers. The team announced on June 16, 2026 that Tanter, the voice of the franchise for more than four decades and 43 seasons, the longest tenure of any PA announcer in Lakers history, is stepping away from the microphone and moving into a special advisor role on the team's game presentation.
 

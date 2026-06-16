@@ -13,7 +13,6 @@ teams:
   - san-diego-padres
 ---
 
-<img src="/images/posts/padres-uniform-schedule-cover.jpg" alt="San Diego Padres 2026 uniforms in brown and gold, including the new Obsidian City Connect jersey" style="width: 100%; border-radius: 10px; display: block; margin: 0 0 1.5em;" />
 
 The Padres lean all the way into brown and gold, and in 2026 they have one of the deepest closets in baseball. Six uniforms in the rotation, a brand new City Connect, and a long-running military tribute that San Diego does better than anyone. There are two things you can set your watch to: Friday home games mean the City Connect, and Sunday home games mean the camo. Everything else is more flexible than fans tend to assume, so we will be clear about what is a firm rule and what is the team's call on any given day.
 
