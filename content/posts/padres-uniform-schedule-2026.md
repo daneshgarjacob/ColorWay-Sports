@@ -103,6 +103,10 @@ No team owns the military tribute the way San Diego does, and tying it to a stan
 
 ## City Connect "Obsidian" (Friday Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TalkinBaseball_/status/2035914723766555105"></a></blockquote>
+</div>
+
 The new City Connect is the headline change for 2026. The Padres retired their 2022 pink and mint "surf" set and replaced it with "Obsidian," a Día de los Muertos theme that debuted on April 10, 2026. It is the Friday home uniform, worn for every Friday home game. The team published 13 Friday dates for it, and it also made an appearance at the April 26 Mexico City Series game.
 
 The design is a real departure. The jersey is an obsidian-blue with bone-colored pants and a bone-crown cap topped by an obsidian bill. The cap carries the 1998-revival orange-and-blue interlocking "SD," and there is a "La Catrina" skeletal patch on the sleeve, with marigold, aqua, and fireberry accents running through the set. The whole thing is built to honor San Diego's binational identity with Baja, and it pulls that off.

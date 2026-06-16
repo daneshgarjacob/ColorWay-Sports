@@ -105,6 +105,10 @@ To be clear, this is the Giants' City Connect. The new Gigantes set, which we co
 
 ## Gigantes Alternate (Fiesta Gigantes Saturdays)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SFGiants/status/2034340493228990562"></a></blockquote>
+</div>
+
 The Gigantes set is the headline addition for 2026, and it is an alternate, not a City Connect. It is a black-and-orange top paired with cream pants, with "GIGANTES" written across the chest in the 1983 to 1993 Candlestick-era lettering. A step-fret motif runs through the sleeve striping and shows up again inside the back numbers, and the jersey carries a "GIGANTES" sleeve patch. It comes with a brand-new cap too: a black crown with a grey and silver front panel and an interlocking SF in black with orange trim. Bay Area artist Jessie Hernandez designed the set to honor the Giants' Latino heritage.
 
 The Giants wear this uniform for Saturday home games as part of "Fiesta Gigantes Saturdays." They first wore it on Saturday, March 28, 2026, against the Yankees. We think this is a strong piece of work. The Candlestick-era lettering gives it real roots, the step-fret detailing rewards a close look, and the cream pants tie it back into the rest of the Giants' closet so it does not feel like a costume. Pinning it to Saturday gives fans a standing date to look forward to, and it keeps the jersey feeling special instead of overexposed.

@@ -97,6 +97,10 @@ The powder blue and the cream never appear in the same series role, because one 
 
 ## City Connect "The Lou" (Friday Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/1792542107132957120"></a></blockquote>
+</div>
+
 The City Connect is the boldest thing in the closet, and it lives on Friday home games at Busch Stadium. This is the second straight season "The Lou" has held down the Friday home slot, and it remains the same design the Cardinals unveiled in May 2024. It is an all-red jersey with a red cap and white pants, and it carries real meaning on every panel. The birds-on-bat is modernized, the chest reads "The Lou" in chain-stitch, a nod to the nickname rapper Nelly gave the city, and Nelly himself co-designed the uniform. Red pinstripes represent the Mississippi River, and a fleur-de-lis from the city flag sits on the sleeve. The Stifel patch appears here in a red version to match.
 
 Here is the detail that surprises people: this is the first red jersey in the regular-season history of the franchise. For a team whose entire identity is the color red, the Cardinals had never actually worn a red jersey until "The Lou" arrived. We like the concept and the storytelling far more than we expected to, and giving it a fixed Friday-night home date keeps the rotation tidy while guaranteeing fans a night to see it.

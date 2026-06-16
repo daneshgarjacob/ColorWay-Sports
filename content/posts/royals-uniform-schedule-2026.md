@@ -84,6 +84,10 @@ There is no fixed day-of-week wrinkle on the road for Kansas City, so the gray i
 
 ## City Connect "Forever Fountains" (Friday Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2042694131797967132"></a></blockquote>
+</div>
+
 The "Forever Fountains" City Connect is the headline addition to the Royals' uniform closet for 2026, and it is firmly locked to Friday home games. The Royals unveiled the set on April 9, 2026, and began wearing it that weekend, debuting it during the April 10 through 12 home series against the White Sox. It replaced the team's original blue City Connect, which debuted in 2022 and has now been retired.
 
 The design is a love letter to Kansas City's nickname as the City of Fountains. Both the jersey and the pants are white, and the lettering runs through a fuchsia-to-blue gradient, with purple in the mix, meant to capture a Kansas City sunset fading into the blue of the city's 200-plus fountains. A crown logo sits on the chest, the cap carries a fuchsia-to-royal-blue gradient, and there is a new heart patch on the sleeve. Look inside the collar and you will find "HEY HEY HEY HEY," a nod to the chant heard around town. It is a bold, expressive uniform, and tying it to a single night each week is the right call. Friday at the K now has its own signature look, and it keeps the jersey feeling like an event instead of just another option in the pile.

@@ -101,6 +101,10 @@ It is a sharp option for a night game when the team wants a moodier vibe, and th
 
 ## City Connect (Friday Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2042015933565174055"></a></blockquote>
+</div>
+
 Here is the one jersey with a real, fixed schedule. The Orioles wear their City Connect uniform on every Friday home game in 2026, and this is the only documented day-of-week rule in the entire rotation. It debuted on April 10, 2026, fittingly "410 Day," a nod to Baltimore's area code.
 
 The 2026 City Connect is brand new and a complete reset. It replaced the 2023 black-and-grayscale version with a far warmer concept built around the theme "From the Stoop to the Yard." The jersey has a cream base with green sleeves and an orange-trimmed green "BMORE" wordmark, with an Oriole Bird perched on the R. Warehouse-brick orange accents nod to the iconic B&O Warehouse beyond right field. The cap is a green crown with a cream front and an orange bill, carrying an ornate orange "Camden B." A sleeve patch shaped like a Eutaw Street home run plaque reads "From the stoop to the yard" alongside the 410 area code.
