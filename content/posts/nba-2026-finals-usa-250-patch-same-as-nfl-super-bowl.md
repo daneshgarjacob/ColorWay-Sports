@@ -2,7 +2,7 @@
 title: "NBA's 2026 Finals USA 250 Patch Is the Exact Same Patch the NFL Uses on Super Bowl Jerseys"
 category: "NBA"
 date: "2026-06-01"
-updatedDate: "2026-06-01"
+updatedDate: "2026-06-16"
 excerpt: "The NBA is adding the USA 250 patch to 2026 Finals jerseys above the Nike logo. The patch is identical to the one the NFL has been wearing all season into Super Bowl LX. Two patches per Finals jersey for the first time."
 gradient: "linear-gradient(135deg, #1A2B5C 0%, #BF0A30 50%, #1A2B5C 100%)"
 coverImage: "/images/posts/250-patches/HJu4msVXMAAlzSa.jpg"
@@ -58,6 +58,8 @@ The NBA and NFL both wearing the same USA 250 patch through 2026 sets up a quest
 
 The visual story the NBA wants is the same one the NFL set up across the 2025-26 season. American sports leagues showing up together for the country's 250th birthday in a single shared patch design. That is the strongest unified branding play across major American sports leagues in years, and the NBA Finals patch placement above the Nike swoosh confirms the league is fully bought in.
 
+**Update (June 2026):** MLB has since joined. The league added the USA 250 patch to its leaguewide [2026 Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026), making it three of the four biggest American leagues wearing [the same patch](/stories/usa-250-patch-mlb-nba-nfl-2026).
+
 <div style="display: flex; justify-content: center; margin: 2em 0 1em;">
   <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 NBA Finals Gear on Fanatics</a>
 </div>
@@ -86,7 +88,7 @@ The 2026 NBA Finals patch is sewn on the back of the Finals jersey at the top ce
 
 **Will MLB use the USA 250 patch?**
 
-The MLB has not officially confirmed the USA 250 patch for the 2026 season, but the NBA and NFL both adopting the same patch makes the MLB the next obvious candidate. The 2026 MLB All-Star Game in July sits directly on top of the 250th anniversary celebration weekend on July 4, 2026, and the league has historically participated in major patriotic commemorations on jerseys during patriotic holidays. We expect MLB to adopt the same patch for at least the 2026 All-Star Game and the postseason.
+Yes. MLB has now adopted it. The league added the USA 250 patch to its leaguewide 2026 Fourth of July jerseys, with every team wearing the patch on the sleeve. See our breakdown of [all 30 MLB Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026) and [how the same patch now spans MLB, the NBA Finals, and the NFL](/stories/usa-250-patch-mlb-nba-nfl-2026). When we first published this post MLB had not confirmed the patch, so this answer has been updated.
 
 **Will the NHL Stanley Cup Final jerseys have the USA 250 patch?**
 
