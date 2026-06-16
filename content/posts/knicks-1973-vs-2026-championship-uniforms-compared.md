@@ -2,11 +2,11 @@
 title: "The Knicks Won the 2026 Title in Almost the Exact Same Uniform as 1973 — Spot the Difference"
 category: "NBA"
 date: "2026-06-15"
-updatedDate: "2026-06-15"
+updatedDate: "2026-06-16"
 excerpt: "Put the Knicks' 1973 and 2026 championship uniforms side by side and you can barely tell them apart — same 'NEW YORK,' same orange and blue, 53 years apart. Here is everything that actually changed (it's a short list) and the small details that give away which is which."
 gradient: "linear-gradient(135deg, #F58426 0%, #1d1d1d 50%, #006BB6 100%)"
-coverImage: "/images/posts/knicks-og-anunoby-2026-white-jersey.jpg"
-coverImagePosition: "center 30%"
+coverImage: "/images/posts/knicks-1973-vs-2026-cover.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/nba.png"
 league: "nba"
@@ -15,13 +15,12 @@ featuredOrder: 1
 ---
 
 <div style="margin: 0 0 1.5em; text-align: center;">
-  <img src="/images/posts/knicks-og-anunoby-2026-white-jersey.jpg" alt="OG Anunoby in the New York Knicks 2026 white Association uniform with NEW YORK arched across the chest in orange and blue, the same basic design the franchise wore winning the 1973 NBA championship" style="max-width: 100%; border-radius: 12px;" />
-  <p style="text-align: center; font-size: 0.78em; color: #999; margin-top: 0.6em;">OG Anunoby in the Knicks' 2026 home white — that "NEW YORK" wordmark is unchanged since 1973. Via the New York Knicks.</p>
+  <img src="/images/posts/knicks-1973-vs-2026-cover.jpg" alt="ColorWay Sports cover graphic comparing the New York Knicks 1973 and 2026 championship title uniforms, 53 years apart and nearly identical" style="max-width: 820px; width: 100%; border-radius: 12px; display: block; margin: 0 auto;" />
 </div>
 
 Here is a trick that stumps most Knicks fans: show them the 1973 championship jersey and the 2026 one side by side and ask which is which. Good luck. When the Knicks closed out the San Antonio Spurs to win the 2026 NBA title — their first in 53 years, the third in franchise history after 1970 and 1973 — they did it in a uniform Willis Reed and Walt Frazier would have recognized on sight. Same "NEW YORK" arched across the chest, same orange and blue, 53 years apart. In a league that reinvents its uniforms every other season, that kind of continuity is almost unheard of.
 
-Here is that 1973 championship team. Look at the jersey — then compare it to the 2026 version up top. Barely a thing has moved.
+Here is that 1973 championship team. Look at the jersey, then run it against the 2026 version in the breakdown below. Barely a thing has moved.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Al_Mercuro/status/2066567459209912800"></a></blockquote>
