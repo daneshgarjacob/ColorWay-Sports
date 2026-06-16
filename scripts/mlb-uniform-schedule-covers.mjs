@@ -18,18 +18,20 @@ const SUB = "EVERY JERSEY AND WHEN THEY WEAR IT";
 
 const COVERS = [
   { out: `${POSTS}/orioles-uniform-schedule-cover.png`,   stops: ["#DF4601", "#1a1a1a", "#000000"], mid: 50, accent: "#DF4601", t1: "ORIOLES",   t1s: 120, logo: "logos/orioles.png" },
-  { out: `${POSTS}/padres-uniform-schedule-cover.png`,    stops: ["#5A3A1F", "#2a1d12", "#FFC425"], mid: 58, accent: "#FFC425", t1: "PADRES",    t1s: 124, logo: null },
+  { out: `${POSTS}/padres-uniform-schedule-cover.png`,    stops: ["#5A3A1F", "#2a1d12", "#FFC425"], mid: 58, accent: "#FFC425", t1: "PADRES",    t1s: 124, logo: "logos/padres.png", light: true },
   { out: `${POSTS}/giants-uniform-schedule-cover.png`,    stops: ["#FD5A1E", "#1a1a1a", "#000000"], mid: 50, accent: "#FD5A1E", t1: "GIANTS",    t1s: 124, logo: "logos/sfgiants.png" },
-  { out: `${POSTS}/royals-uniform-schedule-cover.png`,    stops: ["#004687", "#16314a", "#7BB2DD"], mid: 56, accent: "#BD9B60", t1: "ROYALS",    t1s: 124, logo: null },
-  { out: `${POSTS}/cardinals-uniform-schedule-cover.png`, stops: ["#C41E3A", "#1a1a1a", "#0C2340"], mid: 50, accent: "#C41E3A", t1: "CARDINALS", t1s: 104, logo: null },
+  { out: `${POSTS}/royals-uniform-schedule-cover.png`,    stops: ["#004687", "#16314a", "#7BB2DD"], mid: 56, accent: "#BD9B60", t1: "ROYALS",    t1s: 124, logo: "logos/royals.png", light: true },
+  { out: `${POSTS}/cardinals-uniform-schedule-cover.png`, stops: ["#C41E3A", "#1a1a1a", "#0C2340"], mid: 50, accent: "#C41E3A", t1: "CARDINALS", t1s: 104, logo: "logos/cardinals.png" },
 ];
 
 function bgSvg(c) {
+  const hc = c.light ? "#ffffff" : "#000000";
+  const ho = c.light ? ["0.92", "0.55", "0"] : ["0.42", "0.14", "0"];
   const halo = c.logo ? `
-      <radialGradient id="logohalo" cx="800" cy="225" r="195" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#000000" stop-opacity="0.42"/>
-        <stop offset="64%" stop-color="#000000" stop-opacity="0.14"/>
-        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      <radialGradient id="logohalo" cx="800" cy="225" r="190" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="${hc}" stop-opacity="${ho[0]}"/>
+        <stop offset="62%" stop-color="${hc}" stop-opacity="${ho[1]}"/>
+        <stop offset="100%" stop-color="${hc}" stop-opacity="${ho[2]}"/>
       </radialGradient>` : "";
   const haloRect = c.logo ? `<rect width="${W}" height="${H}" fill="url(#logohalo)"/>` : "";
   return `

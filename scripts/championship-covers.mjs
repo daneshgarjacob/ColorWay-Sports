@@ -17,8 +17,8 @@ const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, 
 const KNICKS = "images/posts/unified-city-colors/knicks.png";
 
 const COVERS = [
-  { out: `${POSTS}/hurricanes-won-without-red-cover.png`, stops: ["#000000", "#333F42", "#CC0000"], mid: 48, accent: "#CC0000", eyebrow: "2026 STANLEY CUP CHAMPIONS", t1: "CHAMPIONS IN", t1s: 100, t2: "BLACK & WHITE", t2s: 104, sub: "CAROLINA WON WITHOUT THE RED SWEATER", logo: null },
-  { out: `${POSTS}/hurricanes-champions-gear/champions-gear-cover.png`, stops: ["#CC0000", "#1d1d1d", "#A2AAAD"], mid: 55, accent: "#CC0000", eyebrow: "2026 STANLEY CUP CHAMPIONS", t1: "HURRICANES", t1s: 110, t2: "CHAMPIONS GEAR", t2s: 78, sub: "LOCKER ROOM HAT + SHIRT · GRADED", logo: null },
+  { out: `${POSTS}/hurricanes-won-without-red-cover.png`, stops: ["#000000", "#333F42", "#CC0000"], mid: 48, accent: "#CC0000", eyebrow: "2026 STANLEY CUP CHAMPIONS", t1: "CHAMPIONS IN", t1s: 100, t2: "BLACK & WHITE", t2s: 104, sub: "CAROLINA WON WITHOUT THE RED SWEATER", logo: "logos/hurricanes.png" },
+  { out: `${POSTS}/hurricanes-champions-gear/champions-gear-cover.png`, stops: ["#CC0000", "#1d1d1d", "#A2AAAD"], mid: 55, accent: "#CC0000", eyebrow: "2026 STANLEY CUP CHAMPIONS", t1: "HURRICANES", t1s: 110, t2: "CHAMPIONS GEAR", t2s: 78, sub: "LOCKER ROOM HAT + SHIRT · GRADED", logo: "logos/hurricanes.png" },
   { out: `${POSTS}/knicks-finals-gear/champions-gear-cover.png`, stops: ["#006BB6", "#F58426", "#1d1d1d"], mid: 50, accent: "#F58426", eyebrow: "2026 NBA CHAMPIONS", t1: "KNICKS", t1s: 124, t2: "CHAMPIONS GEAR", t2s: 78, sub: "LOCKER ROOM HAT + SHIRT · GRADED", logo: KNICKS },
   { out: `${POSTS}/knicks-1973-vs-2026-cover.png`, stops: ["#F58426", "#1d1d1d", "#006BB6"], mid: 50, accent: "#F58426", eyebrow: "NEW YORK KNICKS", t1: "1973 vs 2026", t1s: 112, t2: "TITLE UNIFORMS", t2s: 86, sub: "53 YEARS APART · NEARLY IDENTICAL", logo: KNICKS },
 ];
