@@ -2,14 +2,14 @@
 title: "San Francisco Giants Unveil \"Gigantes\" City Connect Uniform for 2026"
 category: "MLB"
 date: "2026-03-25"
-excerpt: "The Giants go bold with a black and orange Gigantes jersey. We break down the full release."
+excerpt: "The Giants go bold with a black and orange Gigantes jersey, their new Saturday home alternate. We break down the full release."
 gradient: "linear-gradient(135deg, #FD5A1E 0%, #27251F 100%)"
 logoSrc: "/logos/gigantes.jpg"
 league: "mlb"
 teams: ["san-francisco-giants"]
 ---
 
-The San Francisco Giants officially released their 2026 City Connect uniform, and unlike most City Connect leaks we've been covering, this one dropped as a full reveal straight from the team.
+The San Francisco Giants officially released their 2026 Gigantes uniform, a bold black and orange City Connect set the team will wear as a Saturday home alternate. Unlike most City Connect leaks we've been covering, this one dropped as a full reveal straight from the team.
 
 ![Giants Gigantes City Connect - Full Overview](/images/posts/giants-gigantes-overview.jpg)
 *Image via @SFGiants / X*
@@ -36,4 +36,4 @@ We don't love City Connects as a concept, and we don't love when teams swap out 
 
 ## The Bottom Line
 
-It's a B. The black and orange palette is strong, the hat is the standout piece, and the cultural details are well done. It's better than the Rangers' Tejas leak we covered earlier today. The Giants will debut these during the 2026 season.
+It's a B. The black and orange palette is strong, the hat is the standout piece, and the cultural details are well done. It's better than the Rangers' Tejas leak we covered earlier today. The Giants will wear the Gigantes set as their Saturday home alternate throughout the 2026 season.
