@@ -12,7 +12,7 @@ teams: []
 ---
 
 <img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-full-screen.jpg" alt="NBC's full-screen NBA Game 7 broadcast view of Sixers at Celtics at TD Garden showing the green parquet floor, the home Association whites versus the Philadelphia Icon royal blue road jersey, and the slim peacock-era scorebug that anchored NBC's closeout weekend coverage" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">NBC's full-screen broadcast view of Celtics-Sixers Game 7 at TD Garden. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">NBC's full-screen broadcast view of Celtics-Sixers Game 7 at TD Garden. Broadcast screenshot, used for editorial commentary.</p>
 
 The 2026 NBA Round 1 closeout weekend put NBC and ABC head to head on three different Game 7s, and NBC won the production battle by a clean margin. NBC drew Celtics-Sixers at TD Garden on Saturday night and Cavaliers-Raptors at Rocket Mortgage Fieldhouse on Sunday afternoon. ABC drew Magic-Pistons at Little Caesars Arena on Sunday afternoon. All three series ended 4-3. NBC's broadcasts looked sharper from the open to the buzzer with cleaner graphics, more cinematic camera work, and a peacock-era studio package that has shown up better than ABC's NBA presentation through the entire 2026 postseason. ABC's Magic-Pistons Game 7 looked like a regular-season game.
 
@@ -37,12 +37,12 @@ Boston ran the home Association whites for the deciding game and Philadelphia ra
 <div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 2em 0 0.5em;">
 <img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-celtics-sixers-g7-td-garden.jpg" alt="NBC NBA on Peacock Game 7 channel banner branding from the Sixers at Celtics broadcast at TD Garden showing the network identity that anchored the closeout weekend coverage" style="width: 100%; max-width: 600px; display: block; margin: 0 auto; border-radius: 6px;" />
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 channel banner during the Celtics-Sixers broadcast. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 channel banner during the Celtics-Sixers broadcast. Broadcast screenshot, used for editorial commentary.</p>
 
 <div style="background: #0a0a0a; padding: 2em 1em; border-radius: 12px; margin: 2em 0 0.5em;">
 <img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/nbc-game-7-scorebug.jpg" alt="NBC's NBA Game 7 scorebug detail from the Sixers at Celtics broadcast at TD Garden showing the slim low-profile bottom-of-screen treatment with score, time, period, and team marks all reading at a glance for the closeout weekend coverage" style="width: 100%; display: block; border-radius: 6px;" />
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 scorebug detail from the Celtics-Sixers broadcast. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">NBC's Game 7 scorebug detail from the Celtics-Sixers broadcast. Broadcast screenshot, used for editorial commentary.</p>
 
 The NBC scorebug sits low on the screen, runs slim, and lets the basketball action carry the frame. The score, the time, the period, and the team marks all read on a quick glance. It is the same scorebug that has graded out as one of the cleaner national broadcast looks of 2026, ranked in our [NBA national broadcast scorebugs roundup](/stories/nba-national-broadcast-scorebugs-2026-ranked) and the [NBC NBA scorebug breakdown](/stories/nbc-nba-scorebug-2026). The broadcast cycles into the bumpers on a clean rhythm and lets the playoff stakes carry the air around the basketball.
 
@@ -55,7 +55,7 @@ The Cavaliers wore the Statement Edition black at home for the deciding game, wh
 ## ABC's Magic-Pistons Game 7 at Little Caesars Arena
 
 <img src="/images/posts/nbc-vs-espn-nba-game-7-coverage-2026/abc-magic-pistons-g7-detroit.jpg" alt="ABC's NBA Game 7 broadcast of Magic at Pistons at Little Caesars Arena showing the ESPN-family scorebug, Detroit in the Association white home jersey, and Orlando in the Icon Edition blue road jersey on the deciding Game 7" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">ABC's Magic-Pistons Game 7 broadcast at Little Caesars Arena. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">ABC's Magic-Pistons Game 7 broadcast at Little Caesars Arena. Broadcast screenshot, used for editorial commentary.</p>
 
 ABC's Magic-Pistons Game 7 was the third closeout window of the weekend and the broadcast looked a full tier behind NBC's two. The ESPN-family scorebug that ABC runs is a heavier, top-of-screen treatment that we have already graded as the lower-end scorebug of the 2026 national NBA broadcast cycle in our [ESPN NBA scorebug review](/stories/espn-nba-scorebug-2026). The graphics ribbon eats more vertical real estate. The promo crawl runs through possessions. The pre-game package leaned more on talking-head desk segments and less on cinematic series recap.
 

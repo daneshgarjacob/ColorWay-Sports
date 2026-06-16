@@ -18,24 +18,24 @@ reviews:
 ---
 
 <img src="/images/posts/espn-ecf-2026-presentation/full-scorebug-full-screen.jpg" alt="ESPN 2026 NBA Eastern Conference Finals full broadcast screen from Knicks at Cavaliers Game 1 at Madison Square Garden showing the silver-themed scorebug with the full Eastern Conference Finals wordmark across the bottom banner" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's 2026 Eastern Conference Finals broadcast from Knicks-Cavs Game 1 at Madison Square Garden. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's 2026 Eastern Conference Finals broadcast from Knicks-Cavs Game 1 at Madison Square Garden. Broadcast screenshot, used for editorial commentary.</p>
 
 ESPN opened the 2026 Eastern Conference Finals on Tuesday night with Knicks at Cavaliers at Madison Square Garden. Game 1 was an incredible series opener that the Knicks took to lead the series 1-0. The broadcast scorebug carried over from the 2025 NBA Playoffs without a meaningful redesign, which means the silver-themed Conference Finals look that we graded an A in last year's [2025 NBA Playoffs scorebug ranking](/stories/nba-playoffs-finals-scorebugs-2025) is back in the rotation. The full Eastern Conference Finals wordmark on the bottom banner still reads beautifully and the silver treatment still builds the right anticipation for the gold Finals look that follows. The grade holds at A-tier with a one-notch deduction for ESPN not pushing the design forward in a year where every other broadcast partner upgraded their NBA playoff package.
 
 ## The Full Eastern Conference Finals Scorebug
 
 <img src="/images/posts/espn-ecf-2026-presentation/full-scorebug-snippet.jpg" alt="ESPN 2026 NBA Eastern Conference Finals full scorebug snippet from Knicks at Cavaliers Game 1 showing the silver bottom banner with the full Eastern Conference Finals wordmark, team marks, score, time, and period" style="width: 100%; display: block; border-radius: 12px; margin: 1em 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's full Eastern Conference Finals scorebug, the A-grade version. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's full Eastern Conference Finals scorebug, the A-grade version. Broadcast screenshot, used for editorial commentary.</p>
 
 The full version of the ESPN Eastern Conference Finals scorebug runs the complete "EASTERN CONFERENCE FINALS" wordmark across the bottom banner with the silver treatment carrying the round identity at the right tonal weight. The team marks, scores, time, and period all read on a quick glance. The Knicks-Cavs Game 1 broadcast at Madison Square Garden anchored the scorebug at the bottom of the screen the way we want playoff broadcasts to sit, low-profile and out of the way of the basketball. The silver-to-gold progression from Conference Finals to Finals is the through-line we praised in last year's ranking and it still works in 2026. The full version is the A-grade version. This is the look ESPN should run for every Conference Finals broadcast minute.
 
 ## The Condensed Scorebug Late in the Game
 
 <img src="/images/posts/espn-ecf-2026-presentation/condensed-scorebug-snippet.jpg" alt="ESPN 2026 NBA Eastern Conference Finals condensed scorebug snippet from Knicks at Cavaliers Game 1 showing the smaller mark with East Finals Game 1 corner label and team timeout indicators added to the layout" style="width: 100%; display: block; border-radius: 12px; margin: 1em 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's condensed scorebug with the smaller "East Finals Game 1" corner label and timeout indicators. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">ESPN's condensed scorebug with the smaller "East Finals Game 1" corner label and timeout indicators. Broadcast screenshot, used for editorial commentary.</p>
 
 <img src="/images/posts/espn-ecf-2026-presentation/condensed-scorebug-full-screen.jpg" alt="ESPN 2026 NBA Eastern Conference Finals condensed broadcast screen from Knicks at Cavaliers Game 1 at Madison Square Garden showing the smaller scorebug with East Finals Game 1 corner label in the back half of the broadcast" style="width: 100%; display: block; border-radius: 12px; margin: 1em 0 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">The condensed scorebug in full broadcast context. This is the look that ends up carrying most of the game. Photo by ColorWay Sports.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">The condensed scorebug in full broadcast context. This is the look that ends up carrying most of the game. Broadcast screenshot, used for editorial commentary.</p>
 
 The condensed version of the scorebug shows up in the back half of the broadcast when ESPN needs to display timeout indicators and other in-game state. The full Eastern Conference Finals wordmark collapses to a small "East Finals Game 1" mark in the corner, the team timeout dots get added below the team marks, and the bottom banner ends up looking cramped compared to the open. This is where the design loses a step. The condensed version is what the scorebug ends up looking like for most of the second half. That is the identity it takes on. We do not love that.
 
