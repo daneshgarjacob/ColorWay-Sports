@@ -87,7 +87,7 @@ async function buildOne(c) {
   img = await sharp(img).composite([{ input: logo, left: Math.round((W - lm.width) / 2), top: Math.round(225 - lm.height / 2) }]).png().toBuffer();
   const wmk = await sharp(WATERMARK_PATH).resize(320, null, { fit: "inside" }).png().toBuffer();
   const m = await sharp(wmk).metadata();
-  const final = await sharp(img).composite([{ input: wmk, left: W - m.width - 60, top: H - m.height - 44 }]).png().toBuffer();
+  const final = await sharp(img).composite([{ input: wmk, left: W - m.width - 160, top: H - m.height - 44 }]).png().toBuffer();
   await writeFile(c.out, final);
   console.log(`Wrote ${c.out}`);
 }

@@ -13,7 +13,7 @@ teams:
   - baltimore-orioles
 ---
 
-<img src="/images/posts/orioles-uniform-schedule-cover.jpg" alt="Baltimore Orioles 2026 uniform schedule: home white, road gray, orange and black alternates, and the new cream BMORE City Connect jersey" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/orioles-uniform-schedule-cover.jpg" alt="Baltimore Orioles 2026 uniform schedule: home white, road gray, orange and black alternates, and the new cream BMORE City Connect jersey" style="width: 100%; border-radius: 10px; display: block; margin: 0 0 1.5em;" />
 
 The Orioles do not run their uniform rotation the way the Phillies or Cardinals do. There is no tidy day-by-day script where every fan knows that Tuesday means one jersey and Saturday means another. Baltimore keeps things loose. They have one firm, team-announced rule for 2026, and everything else is decided closer to game time. We think that is worth being honest about up front, because plenty of "uniform schedule" pages will try to invent a pattern that does not exist. The Orioles closet is deep and it is good, but the only thing you can truly count on is the new City Connect on Friday home games.
 
