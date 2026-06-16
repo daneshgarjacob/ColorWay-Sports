@@ -6,14 +6,14 @@ excerpt: >-
   The Giants have six uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
 gradient: 'linear-gradient(135deg, #FD5A1E 0%, #1d1d1d 50%, #000000 100%)'
-coverImage: /images/posts/giants-uniform-schedule-cover.png
+coverImage: /images/posts/giants-uniform-schedule-cover.jpg
 coverImagePosition: center center
 league: mlb
 teams:
   - san-francisco-giants
 ---
 
-<img src="/images/posts/giants-uniform-schedule-cover.png" alt="San Francisco Giants 2026 uniforms, including the new Gigantes Saturday alternate, Orange Friday jersey, and City Connect" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/giants-uniform-schedule-cover.jpg" alt="San Francisco Giants 2026 uniforms, including the new Gigantes Saturday alternate, Orange Friday jersey, and City Connect" style="width: 100%; border-radius: 10px;" />
 
 The Giants carry six uniforms in 2026, and the closet got a real shake-up this year. The big news is the new Gigantes alternate, a black-and-orange jersey with cream pants that honors the franchise's Latino heritage. It joins a rotation that already had a clear backbone at Oracle Park: certain themed jerseys are tied to specific home days. If you know the day of the week, you can usually guess the look. We walk through every jersey below and lay out when each one comes out.
 

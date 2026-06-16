@@ -1,15 +1,17 @@
 #!/usr/bin/env node
 // ColorWay Sports composite cover for the Lawrence Tanter retirement tribute.
-// Lakers purple-to-gold gradient, text-forward, watermarked. 1600x900. No third-party photos.
+// Lakers logo (top-center, soft halo) + purple-to-gold gradient + watermark. 1600x900.
 
 import sharp from "sharp";
-import { readFile, writeFile } from "fs/promises";
+import { writeFile } from "fs/promises";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
-const OUT = resolve(__dirname, "../public/images/posts/lawrence-tanter-retires-cover.jpg");
+const PUB = resolve(__dirname, "../public");
+const LOGO = resolve(PUB, "logos/lakers.png");
+const OUT = resolve(PUB, "images/posts/lawrence-tanter-retires-cover.png");
 const W = 1600, H = 900;
 
 const bgSvg = `
@@ -29,10 +31,16 @@ const bgSvg = `
       <stop offset="70%" stop-color="#000000" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0.5"/>
     </linearGradient>
+    <radialGradient id="logohalo" cx="800" cy="220" r="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.42"/>
+      <stop offset="64%" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
   <rect width="${W}" height="${H}" fill="url(#glow)"/>
   <rect width="${W}" height="${H}" fill="url(#scrim)"/>
+  <rect width="${W}" height="${H}" fill="url(#logohalo)"/>
   <rect x="0" y="0" width="${W}" height="8" fill="#FDB927"/>
   <rect x="0" y="${H - 8}" width="${W}" height="8" fill="#FDB927"/>
 </svg>`;
@@ -45,17 +53,19 @@ const textSvg = `
     .t2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; fill: #ffffff; letter-spacing: 2px; }
     .sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.9; letter-spacing: 4px; }
   </style>
-  <text x="${W / 2}" y="415" text-anchor="middle" class="eyebrow" font-size="30">THE VOICE OF THE LAKERS</text>
-  <text x="${W / 2}" y="525" text-anchor="middle" class="title" font-size="94">LAWRENCE TANTER</text>
-  <text x="${W / 2}" y="620" text-anchor="middle" class="t2" font-size="50">RETIRES AFTER 43 SEASONS</text>
-  <text x="${W / 2}" y="700" text-anchor="middle" class="sub" font-size="24">THE GREATEST VOICE IN THE BUILDING</text>
+  <text x="${W / 2}" y="430" text-anchor="middle" class="eyebrow" font-size="30">THE VOICE OF THE LAKERS</text>
+  <text x="${W / 2}" y="540" text-anchor="middle" class="title" font-size="94">LAWRENCE TANTER</text>
+  <text x="${W / 2}" y="632" text-anchor="middle" class="t2" font-size="50">RETIRES AFTER 43 SEASONS</text>
+  <text x="${W / 2}" y="710" text-anchor="middle" class="sub" font-size="24">THE GREATEST VOICE IN THE BUILDING</text>
 </svg>`;
 
-const base = await sharp(Buffer.from(bgSvg))
+let img = await sharp(Buffer.from(bgSvg))
   .composite([{ input: Buffer.from(textSvg), top: 0, left: 0 }]).png().toBuffer();
+const logo = await sharp(LOGO).resize(360, 190, { fit: "inside", background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toBuffer();
+const lm = await sharp(logo).metadata();
+img = await sharp(img).composite([{ input: logo, left: Math.round((W - lm.width) / 2), top: Math.round(220 - lm.height / 2) }]).png().toBuffer();
 const wmk = await sharp(WATERMARK_PATH).resize(320, null, { fit: "inside" }).png().toBuffer();
 const m = await sharp(wmk).metadata();
-const final = await sharp(base)
-  .composite([{ input: wmk, left: W - m.width - 60, top: H - m.height - 44 }]).png().toBuffer();
+const final = await sharp(img).composite([{ input: wmk, left: W - m.width - 60, top: H - m.height - 44 }]).png().toBuffer();
 await writeFile(OUT, final);
 console.log(`Wrote ${OUT}`);
