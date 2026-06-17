@@ -154,6 +154,7 @@ The USA 250 sets are worn around the Independence Day holiday weekend in 2026, o
 
 ## More MLB Coverage
 
+- [Every 2026 MLB Fourth of July Hat](/stories/mlb-july-4th-hats-2026) · all 30 USA 250 59FIFTY fitteds, navy and red brims
 - [The USA 250 Patch Is Now on MLB, NBA, and NFL Jerseys](/stories/usa-250-patch-mlb-nba-nfl-2026) · the same patch across all three leagues, explained
 - [Every MLB City Connect Uniform Ranked for 2026](/stories/mlb-city-connect-2026-official-ranking) · all 30 City Connect sets graded best to worst
 - [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) · the full LA rotation and when each jersey comes out

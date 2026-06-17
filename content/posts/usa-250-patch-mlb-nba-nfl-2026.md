@@ -80,5 +80,6 @@ As of this writing, the NHL has not been confirmed wearing the USA 250 patch. Wi
 ## Related Coverage
 
 - [Every 2026 MLB Fourth of July Jersey](/stories/mlb-july-4th-jerseys-2026) · all 30 USA 250 sets, our favorite, and the one miss
+- [Every 2026 MLB Fourth of July Hat](/stories/mlb-july-4th-hats-2026) · all 30 USA 250 59FIFTY fitteds
 - [The NBA Finals USA 250 Patch Is the Same as the NFL's](/stories/nba-2026-finals-usa-250-patch-same-as-nfl-super-bowl) · the two-patch Finals jersey explained
 - [Knicks 2026 NBA Finals Jersey Back Patch First Look](/stories/knicks-2026-nba-finals-jersey-back-patch-first-look) · the other patch on the Finals jersey
