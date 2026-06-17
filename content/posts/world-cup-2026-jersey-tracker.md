@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-16"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Three perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, and Ivory Coast's orange vs Ecuador's navy. Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 19 matches. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-17"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Three perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, and Ivory Coast's orange vs Ecuador's navy. Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 7.9 out of 10 through 20 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -30,12 +30,12 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">8.0 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.9 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">19 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">20 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
@@ -44,12 +44,12 @@ Below, every match of the tournament in reverse chronological order, the most re
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #ED2939 0%, #007A3D 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group J · Match 20 · Preview</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #ED2939 0%, #007A3D 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group J · Match 20 · Final</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-austria-home.jpg" alt="Austria 2026 World Cup Puma red home jersey with black sleeve panels and the Austria eagle crest, the projected home kit for the Group J match vs Jordan" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/wc-austria-home.jpg" alt="Austria 2026 World Cup Puma red home jersey with black sleeve panels and the Austria eagle crest, worn in the Group J match vs Jordan" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">AUSTRIA</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
@@ -58,7 +58,7 @@ Below, every match of the tournament in reverse chronological order, the most re
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-jordan-home.jpg" alt="Jordan 2026 World Cup white home jersey with a red shoulder yoke and the eagle-and-ball chest graphic, the projected home kit for the Group J match vs Austria" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/wc-jordan-home.png" alt="Jordan 2026 World Cup Kelme white home jersey with a graduated red dot pattern across the shoulders and sleeves and red trim, worn in the Group J match vs Austria" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">JORDAN</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
@@ -67,11 +67,11 @@ Below, every match of the tournament in reverse chronological order, the most re
   </div>
 </div>
 
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(255, 89, 16, 0.1); border-radius: 12px; border: 1px solid rgba(255, 89, 16, 0.25);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #FF5910;">Score: Pending Kickoff</p>
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6 / 10</p>
 </div>
 
-Austria against Jordan had not reached the pitch when we logged this slate, so the kits here are our projection. Austria's home is a sharp red Puma shirt with black sleeve panels, white striping at the cuffs, and the Austria eagle crest. Jordan's home is mostly white with a bold red shoulder yoke and the eagle-and-ball graphic across the chest. Because Jordan's white home does not clash with Austria's red, both teams should be cleared to wear their first-choice kits, red against white, a clean classic contrast. We will lock the grade once both sides are confirmed on the pitch.
+Austria against Jordan is the rare pairing where two first-choice home kits work against each other rather than with each other. Austria's home is a sharp, saturated red Puma shirt with black sleeve panels, white cuff striping, and the eagle crest. Jordan's real home, the Kelme kit, is mostly white, but it loads its shoulders and sleeves with a graduated red dot pattern and red trim, so the loudest color it brings to the pitch is the same red Austria is already wearing. Instead of a bold complementary clash, the orange-vs-blue and green-vs-sky-blue pairings that top this board, you get two kits echoing the same red with Jordan's white base sitting quietly behind it. It reads cleanly enough on the broadcast, but the tones are too similar and there is no true color-on-color contrast to make it pop. It lands as the lowest grade on the board so far. Six out of 10.
 
 ## Match 19: Argentina vs Algeria
 

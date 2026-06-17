@@ -5,7 +5,7 @@ const trackers = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Norway's red home is the new standout at 9.5, joining three perfect 10s up top. Through 19 matches the average is 8.0/10. Every matchup graded.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Norway's red home is the new standout at 9.5, joining three perfect 10s up top. Through 20 matches the average is 7.9/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
