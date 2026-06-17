@@ -2,6 +2,16 @@ import Link from "next/link";
 
 const trackers = [
   {
+    slug: "world-cup-2026-jersey-tracker",
+    kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
+    title: "2026 FIFA World Cup Jersey & Uniform Tracker",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Norway's red home is the new standout at 9.5, joining three perfect 10s up top. Through 19 matches the average is 8.0/10. Every matchup graded.",
+    status: "Live · World Cup",
+    grade: "A",
+    image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
+    centered: false,
+  },
+  {
     slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
     kicker: "NBA · Finals · Knicks vs Spurs",
     title: "2026 NBA Finals Jersey & Uniform Tracker",
@@ -9,16 +19,6 @@ const trackers = [
     status: "Champions · Knicks 4-1",
     grade: "A",
     image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg",
-    centered: false,
-  },
-  {
-    slug: "world-cup-2026-jersey-tracker",
-    kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
-    title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Three perfect 10s now — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, and Ivory Coast's orange vs Ecuador's navy. Through 16 matches the average is 7.9/10. Every matchup graded.",
-    status: "Live · World Cup",
-    grade: "A",
-    image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
     centered: false,
   },
   {
