@@ -1,5 +1,5 @@
 ---
-title: "Every 2026 MLB Fourth of July Hat: All 30 USA 250 59FIFTY Fitteds"
+title: "Every 2026 MLB Fourth of July Hat: All 30 USA 250 59FIFTY Fitteds (Even the Blue Jays)"
 category: "MLB"
 date: "2026-06-16"
 excerpt: "New Era's 2026 Fourth of July hats put the American flag inside all 30 team logos on a cream crown, with a USA 250 side patch and either a navy or red brim. Here is every one."
@@ -25,22 +25,45 @@ Every 2026 USA 250 Fourth of July cap is built on the same template. The crown i
 
 ## Navy Brim or Red Brim
 
-The one real variable is the brim. New Era split the league almost down the middle: 16 teams get a navy brim, 14 get a red one. It mostly follows whichever color reads better against a team's logo, but not always, and that is where it gets fun. The Toronto Blue Jays, a blue team by name, get a red brim. The San Francisco Giants, orange and black, also go red. Meanwhile the San Diego Padres, brown and gold, land on navy. There is no strict rule, just New Era making a call team by team.
+The one real variable is the brim, and we love that they split it. Instead of one uniform look stamped 30 times, New Era divided the league almost down the middle: 16 teams get a navy brim, 14 get a red one. That single choice gives the set two distinct camps and a reason to care which one your team landed in. It mostly follows whichever color reads better against a team's logo, but not always, and that is where it gets fun. The Toronto Blue Jays, a blue team by name, get a red brim. The San Francisco Giants, orange and black, also go red. Meanwhile the San Diego Padres, brown and gold, land on navy. There is no hard rule, just New Era making a call team by team, and the variety is a big part of the charm.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1em;margin:1.8em 0;max-width:560px;margin-left:auto;margin-right:auto;">
 <figure style="margin:0;">
-<img src="/images/posts/mlb-july-4th-hats-2026/yankees.jpg" alt="New York Yankees 2026 USA 250 Fourth of July 59FIFTY hat with navy brim" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
-<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Navy brim: Yankees. via Fanatics</figcaption>
+<img src="/images/posts/mlb-july-4th-hats-2026/orioles.jpg" alt="Baltimore Orioles 2026 USA 250 Fourth of July 59FIFTY hat with navy brim" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
+<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Navy brim: Orioles. via Fanatics</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="/images/posts/mlb-july-4th-hats-2026/pirates.jpg" alt="Pittsburgh Pirates 2026 USA 250 Fourth of July 59FIFTY hat with red brim" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
-<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Red brim: Pirates. via Fanatics</figcaption>
+<img src="/images/posts/mlb-july-4th-hats-2026/athletics.jpg" alt="Athletics 2026 USA 250 Fourth of July 59FIFTY hat with red brim" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
+<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Red brim: Athletics. via Fanatics</figcaption>
 </figure>
 </div>
 
-## Which Logos Pop the Most
+## The Hats That Stand Out
 
-Because the design is identical everywhere, the logo does all the work, and the bold, simple marks win easily. A big single-letter or two-letter logo gives the flag room to show, so the Dodgers' "LA," the Yankees' "NY," the Pirates' "P," the Tigers' "D," and the Braves' "A" look terrific with stars and stripes poured inside them. The busier crests, like the Blue Jays' bird or the Brewers' ball-in-glove, still look sharp but hide more of the flag in the detail. None of them miss. It is just that the clean logos were practically built for this treatment.
+With the design fixed, the logo does all the work, and a handful really pop. Our favorites:
+
+- **Toronto Blue Jays** (red brim): the bird logo flag-filled is one of the most distinctive marks in the whole set, and there is a bonus layer of fun in the one team that [skipped the jersey](/stories/mlb-july-4th-jerseys-2026) still happily wearing the cap.
+- **Athletics** (red brim): a franchise that lives in green and gold going full red, white, and blue is the boldest swing here, and the interlocking "A's" carries the flag beautifully.
+- **Los Angeles Angels** (red brim): the haloed "A" packed with stars and stripes is clean and reads instantly, with the halo sitting on top like a finishing touch.
+- **Los Angeles Dodgers** (navy brim): the "LA" was practically built for this treatment, crisp and classic, the same reason it tops our [jersey list](/stories/mlb-july-4th-jerseys-2026).
+- **Baltimore Orioles** (navy brim): the cursive "O's" lets the flag flow through the script in a way the blockier logos cannot, set off nicely by the navy brim.
+
+The thread tying them together is a bold, clean logo with room for the flag to breathe. The busier crests still look good, they just tuck more of the stars and stripes into the detail.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1em;margin:1.8em 0;max-width:560px;margin-left:auto;margin-right:auto;">
+<figure style="margin:0;">
+<img src="/images/posts/mlb-july-4th-hats-2026/blue-jays.jpg" alt="Toronto Blue Jays 2026 USA 250 Fourth of July 59FIFTY hat" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
+<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Blue Jays, red brim. via Fanatics</figcaption>
+</figure>
+<figure style="margin:0;">
+<img src="/images/posts/mlb-july-4th-hats-2026/angels.jpg" alt="Los Angeles Angels 2026 USA 250 Fourth of July 59FIFTY hat" loading="lazy" style="width:100%;border-radius:10px;background:#fff;" />
+<figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">Angels, red brim. via Fanatics</figcaption>
+</figure>
+</div>
+
+## Wait, Are the Blue Jays Becoming American?
+
+Here is the contradiction we cannot get over. The Toronto Blue Jays are the [one team that refused to wear the USA 250 Fourth of July jersey](/stories/mlb-july-4th-jerseys-2026), on the very reasonable grounds that they are Canada's team and a head-to-toe American flag on July 4th is a bit much. The hat, though? They are all the way in. Same USA 250 patch, same stars and stripes, same red-white-and-blue striping, just sitting on their heads instead of their chests. So the lone holdout on the jersey is out here going American from the brim up. We see you, Toronto.
 
 ## Every 2026 MLB Fourth of July Hat
 

@@ -1,5 +1,5 @@
 ---
-title: "Every 2026 MLB Fourth of July Jersey, and the One Team Sitting It Out"
+title: "Every 2026 MLB Fourth of July Jersey, and the One 'Anti-American' Team Sitting It Out"
 category: "MLB"
 date: "2026-06-16"
 excerpt: "For America's 250th birthday, MLB rolled out a USA 250 Fourth of July jersey for all but one team. We break down every set, our favorite, the one that misses, and the lone club sitting it out."
@@ -12,7 +12,7 @@ teams: []
 featuredOrder: 1
 ---
 
-2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the Fourth of July weekend. Nearly every club is in, one shared design language and dozens of different takes on red, white, and blue. There is exactly one holdout, the Toronto Blue Jays, and there is a good reason for it that we get to below.
+2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the Fourth of July weekend. Nearly every club is in, one shared design language and dozens of different takes on red, white, and blue. There is exactly one holdout, the Toronto Blue Jays, and we are going to be a little rude about it below before we admit they get a pass.
 
 The common thread runs across every jersey. The player's name and number on the back are filled with the Stars and Stripes, an American flag treatment poured straight into the lettering, and a USA 250 commemorative patch rides on the sleeve. From there, each team builds the look on its own base, and that is where the personalities come out. Here is the full breakdown, our favorites, the one that misses, and every set in one place.
 
@@ -76,11 +76,13 @@ Our least favorite is the **Minnesota Twins**. The problem is not the execution,
 <figcaption style="text-align:center;font-size:0.75em;color:#999;margin-top:0.5em;">The set that blends in: Minnesota's road gray. via Fanatics</figcaption>
 </figure>
 
-## The One Team Sitting Out: Toronto
+## So, Are the Toronto Blue Jays Just Anti-American?
 
-There is a single holdout, and it makes sense the moment you remember where the team plays. The Toronto Blue Jays, the only MLB club based outside the United States, are not wearing a USA 250 Fourth of July jersey. They take the field in their regular uniform instead. A Canadian team in a fully Americanized jersey on American Independence Day was always going to be an odd fit, so the Jays pass on the jersey.
+We are going to ask the rude question out loud. Every other team in baseball wrapped itself in the Stars and Stripes for America's 250th birthday. The Toronto Blue Jays said no thanks. The lone holdout, the one club refusing to wear the USA 250 Fourth of July jersey. Awfully anti-American of them, right?
 
-They are not skipping the holiday entirely, though. Toronto still wears the USA 250 cap, a clean red-and-white version of their logo trimmed in gold, with the USA 250 patch and red-white-and-blue striping. You can see it in our [Fourth of July hats roundup](/stories/mlb-july-4th-hats-2026). It is a rare split, the holiday hat on with the everyday jersey underneath, and for the league's lone international team it is exactly the right move.
+Right. Except for the small matter of geography. The Blue Jays are the only MLB team based outside the United States, and asking a Canadian club to play dress-up in a head-to-toe American flag on American Independence Day was never realistic. So they keep their regular uniform on the Fourth. Not anti-American, just not American, which is a very different thing.
+
+And they are not sitting out completely. Toronto still wears the USA 250 cap, a clean red-and-white version of their logo trimmed in gold with the USA 250 patch and red-white-and-blue striping, which you can see in our [Fourth of July hats roundup](/stories/mlb-july-4th-hats-2026). The hat, yes. The fully Americanized jersey, hard pass.
 
 ## Every 2026 MLB Fourth of July Jersey
 
