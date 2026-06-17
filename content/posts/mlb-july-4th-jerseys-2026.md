@@ -1,8 +1,8 @@
 ---
-title: "Every 2026 MLB Fourth of July Jersey: All 30 USA 250 Sets (and Our Favorite)"
+title: "Every 2026 MLB Fourth of July Jersey, and the One Team Sitting It Out"
 category: "MLB"
 date: "2026-06-16"
-excerpt: "For America's 250th birthday, all 30 MLB teams get a Fourth of July uniform with flag-filled numbers and the USA 250 patch. We break down every set, our favorite, and the one that misses."
+excerpt: "For America's 250th birthday, MLB rolled out a USA 250 Fourth of July jersey for all but one team. We break down every set, our favorite, the one that misses, and the lone club sitting it out."
 gradient: "linear-gradient(135deg, #0A3161 0%, #141422 50%, #B31942 100%)"
 coverImage: "/images/posts/mlb-july-4th-jerseys-cover.jpg"
 coverImagePosition: "center center"
@@ -12,7 +12,7 @@ teams: []
 featuredOrder: 1
 ---
 
-For the first time, every team in baseball is getting a dedicated Fourth of July uniform, and the timing is the whole point. 2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the holiday weekend. All 30 clubs, one shared design language, 30 different takes on red, white, and blue.
+2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the Fourth of July weekend. Nearly every club is in, one shared design language and dozens of different takes on red, white, and blue. There is exactly one holdout, the Toronto Blue Jays, and there is a good reason for it that we get to below.
 
 The common thread runs across every jersey. The player's name and number on the back are filled with the Stars and Stripes, an American flag treatment poured straight into the lettering, and a USA 250 commemorative patch rides on the sleeve. From there, each team builds the look on its own base, and that is where the personalities come out. Here is the full breakdown, our favorites, the one that misses, and every set in one place.
 
@@ -76,9 +76,15 @@ Our least favorite is the **Minnesota Twins**. The problem is not the execution,
 <figcaption style="text-align:center;font-size:0.75em;color:#999;margin-top:0.5em;">The set that blends in: Minnesota's road gray. via Fanatics</figcaption>
 </figure>
 
+## The One Team Sitting Out: Toronto
+
+There is a single holdout, and it makes sense the moment you remember where the team plays. The Toronto Blue Jays, the only MLB club based outside the United States, are not wearing a USA 250 Fourth of July jersey. They take the field in their regular uniform instead. A Canadian team in a fully Americanized jersey on American Independence Day was always going to be an odd fit, so the Jays pass on the jersey.
+
+They are not skipping the holiday entirely, though. Toronto still wears the USA 250 cap, a clean red-and-white version of their logo trimmed in gold, with the USA 250 patch and red-white-and-blue striping. You can see it in our [Fourth of July hats roundup](/stories/mlb-july-4th-hats-2026). It is a rare split, the holiday hat on with the everyday jersey underneath, and for the league's lone international team it is exactly the right move.
+
 ## Every 2026 MLB Fourth of July Jersey
 
-Here is the full leaguewide set in one place, American League first, then National League. Three sets, the Blue Jays, White Sox, and Rangers, are being added shortly.
+Here is the full set in one place, American League first, then National League. Every team is here except the Toronto Blue Jays, who wear their regular jersey this year (more on that below).
 
 ### American League
 
@@ -86,17 +92,17 @@ Here is the full leaguewide set in one place, American League first, then Nation
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/angels.jpg" alt="Los Angeles Angels 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Angels<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/astros.jpg" alt="Houston Astros 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Astros<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/athletics.jpg" alt="Athletics 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Athletics<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
-<figure style="margin:0;text-align:center;"><div style="width:100%;aspect-ratio:3/4;background:#f2f2f2;border:1px dashed #ccc;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:0.72em;font-weight:700;text-align:center;">Adding<br>soon</div><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Blue Jays<br><span style="font-weight:400;color:#999;">&mdash;</span></figcaption></figure>
+<figure style="margin:0;text-align:center;"><div style="width:100%;aspect-ratio:3/4;background:#f7f7f7;border:1px solid #e2e2e2;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#aaa;font-size:0.66em;font-weight:700;text-align:center;padding:0.4em;line-height:1.3;">Wearing<br>regular<br>jersey</div><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Blue Jays<br><span style="font-weight:400;color:#999;">Sitting out</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/guardians.jpg" alt="Cleveland Guardians 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Guardians<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/mariners.jpg" alt="Seattle Mariners 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Mariners<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/orioles.jpg" alt="Baltimore Orioles 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Orioles<br><span style="font-weight:400;color:#999;">Road Gray</span></figcaption></figure>
-<figure style="margin:0;text-align:center;"><div style="width:100%;aspect-ratio:3/4;background:#f2f2f2;border:1px dashed #ccc;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:0.72em;font-weight:700;text-align:center;">Adding<br>soon</div><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Rangers<br><span style="font-weight:400;color:#999;">&mdash;</span></figcaption></figure>
+<figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/rangers.jpg" alt="Texas Rangers 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Rangers<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/rays.jpg" alt="Tampa Bay Rays 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Rays<br><span style="font-weight:400;color:#999;">Road Navy</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/red-sox.jpg" alt="Boston Red Sox 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Red Sox<br><span style="font-weight:400;color:#999;">Road Gray</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/royals.jpg" alt="Kansas City Royals 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Royals<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/tigers.jpg" alt="Detroit Tigers 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Tigers<br><span style="font-weight:400;color:#999;">Road Gray</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/twins.jpg" alt="Minnesota Twins 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Twins<br><span style="font-weight:400;color:#999;">Road Gray</span></figcaption></figure>
-<figure style="margin:0;text-align:center;"><div style="width:100%;aspect-ratio:3/4;background:#f2f2f2;border:1px dashed #ccc;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:0.72em;font-weight:700;text-align:center;">Adding<br>soon</div><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">White Sox<br><span style="font-weight:400;color:#999;">&mdash;</span></figcaption></figure>
+<figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/white-sox.jpg" alt="Chicago White Sox 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">White Sox<br><span style="font-weight:400;color:#999;">Road Gray</span></figcaption></figure>
 <figure style="margin:0;text-align:center;"><img src="/images/posts/mlb-july-4th-jerseys-2026/yankees.jpg" alt="New York Yankees 2026 Fourth of July jersey" loading="lazy" style="width:100%;border-radius:8px;background:#fff;" /><figcaption style="font-size:0.72em;font-weight:700;margin-top:0.4em;line-height:1.3;">Yankees<br><span style="font-weight:400;color:#999;">Home White</span></figcaption></figure>
 </div>
 
@@ -130,7 +136,7 @@ Here is the full leaguewide set in one place, American League first, then Nation
 
 **What are the 2026 MLB Fourth of July jerseys?**
 
-They are a leaguewide USA 250 uniform set worn for the Independence Day weekend in 2026, marking the 250th anniversary of the United States. All 30 teams have a version. Each jersey carries an American flag treatment inside the back nameplate and uniform numbers, plus a USA 250 commemorative patch on the sleeve, built on top of the team's own home, road, or alternate base.
+They are a leaguewide USA 250 uniform set worn for the Independence Day weekend in 2026, marking the 250th anniversary of the United States. Every team except the Toronto Blue Jays wears one. Each jersey carries an American flag treatment inside the back nameplate and uniform numbers, plus a USA 250 commemorative patch on the sleeve, built on top of the team's own home, road, or alternate base.
 
 **Why do the numbers have an American flag on them?**
 
@@ -143,6 +149,10 @@ Yes. Every 2026 MLB Fourth of July jersey wears the USA 250 semiquincentennial p
 **Why are the Brewers and Rays wearing colored jerseys instead of gray?**
 
 In this Fourth of July collection, the Milwaukee Brewers and Tampa Bay Rays did not get a gray road version. Their USA 250 road look is a colored jersey instead, powder blue for Milwaukee and navy for Tampa Bay. So on the holiday road games in this set, those two teams are in color while the rest of the league wears gray.
+
+**Are the Toronto Blue Jays wearing a Fourth of July jersey?**
+
+No. The Blue Jays are the only MLB team without a USA 250 Fourth of July jersey. As the league's lone club based outside the United States, Toronto wears its regular uniform on the Fourth rather than an Americanized one. The Jays still take part through the cap, a red-and-white version of their logo trimmed in gold with the USA 250 patch and red-white-and-blue striping, so the hat carries the commemoration while the jersey stays normal.
 
 **Which 2026 MLB Fourth of July jersey is the best?**
 

@@ -44,7 +44,19 @@ This is a clean, well-resolved take on a NASCAR staple. Patriotic schemes turn u
 
 ---
 
-## 3. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
+## 3. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MQL_Racing/status/2066507838524920037"></a></blockquote>
+</div>
+
+Josh Berry's No. 21 Wood Brothers Ford goes full stars and stripes for San Diego, a red-white-and-blue military tribute carrying the Motorcraft and Quick Lane branding. For a points race held on an active Navy base at Naval Base Coronado, tied to the U.S. Navy's 250th anniversary, the patriotic direction is the obvious right call. The catch is that the obvious call is also the crowded one: nearly the entire garage rolled out patriotic schemes for this race, so a clean flag car stands out a little less here than it would any other weekend. Full breakdown in our [Josh Berry San Diego paint scheme post](/stories/josh-berry-san-diego-paint-scheme-2026).
+
+**Grade: B.** A sharp, fitting tribute that plays it a little safe in a field stuffed with red, white, and blue. We like it, we do not love it.
+
+---
+
+## 4. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
 
 Before San Diego, there is a race this Sunday — and both of the sport's superpowers used reveal day to lay their full Pocono grids on the table. Team Penske's PPG-branded preview lines up all three Fords for the June 14 race: Austin Cindric's #2 in the yellow-and-blue Menards/Ideal Door package, Joey Logano's #22 in the timeless Shell-Pennzoil red and yellow, and Ryan Blaney's #12 in the royal-blue Wabash throwback we have ranked as the best paint scheme of the 2026 season so far. Logano's Shell-Pennzoil is still one of the cleanest standing liveries in the garage, but it is Blaney's throwback that makes this Penske drop matter — the full breakdown is right below.
 
@@ -60,7 +72,7 @@ Hendrick Motorsports answered with all four of its cars "set for Pennsylvania": 
 
 ---
 
-## 4. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
+## 5. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -107,7 +119,7 @@ The original is Ryan Newman's royal blue Alltel #12 Dodge, the car that delivere
 
 ---
 
-## 5. Josh Berry #21 Capgemini · Wood Brothers Racing
+## 6. Josh Berry #21 Capgemini · Wood Brothers Racing
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -120,7 +132,7 @@ Wood Brothers Racing unveiled the Capgemini partnership scheme for Josh Berry's 
 
 ---
 
-## 6. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
+## 7. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -133,7 +145,7 @@ Richard Childress Racing built Austin Hill's #33 Rebel Bourbon scheme around a m
 
 ---
 
-## 7. Austin Dillon #3 Dow · RCR
+## 8. Austin Dillon #3 Dow · RCR
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -146,7 +158,7 @@ Austin Dillon's #3 Dow Camaro runs the black base with the red diamond-cut Dow g
 
 ---
 
-## 8. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
+## 9. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
