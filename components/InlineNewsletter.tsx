@@ -46,13 +46,13 @@ export default function InlineNewsletter() {
       <div className="max-w-[520px] mx-auto text-center">
         <p
           className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#FF5910] mb-2"
-          style={{ fontFamily: "'Inter', sans-serif" }}
+          style={{ fontFamily: "var(--font-sans)" }}
         >
           The ColorWay Sports Newsletter
         </p>
         <h2
           className="text-2xl sm:text-3xl font-extrabold text-black leading-tight tracking-tight mb-2"
-          style={{ fontFamily: "'Inter', sans-serif" }}
+          style={{ fontFamily: "var(--font-sans)" }}
         >
           Get every uniform drop in your inbox.
         </h2>

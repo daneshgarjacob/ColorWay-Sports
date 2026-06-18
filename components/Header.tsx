@@ -152,10 +152,10 @@ export default function Header() {
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
-              <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "'Inter', sans-serif" }}>
+              <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-sans)" }}>
                 <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
               </span>
-              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
+              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
                 Every Uniform. Every Logo. Every Detail.
               </span>
             </div>

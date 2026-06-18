@@ -10,8 +10,8 @@
   --color-gray-light: #999999;
   --color-gray-medium: #666666;
   --color-border: #e5e5e5;
-  --font-sans: "Inter", -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif;
-  --font-serif: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
 }
 
 body {
@@ -43,6 +43,20 @@ body {
 /* Smooth scrollbar */
 html {
   scroll-behavior: smooth;
+}
+
+/* Respect users who prefer reduced motion (accessibility) */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 
 /* Better link transitions globally */

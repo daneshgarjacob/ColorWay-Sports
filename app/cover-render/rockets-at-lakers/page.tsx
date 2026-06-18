@@ -147,7 +147,7 @@ export default function RocketsAtLakersCover() {
                 fontSize: 34,
                 fontWeight: 800,
                 letterSpacing: "-0.02em",
-                fontFamily: "'Inter', sans-serif",
+                fontFamily: "var(--font-sans)",
               }}
             >
               <span style={{ color: "#fff" }}>Color</span>

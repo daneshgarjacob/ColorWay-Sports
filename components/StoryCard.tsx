@@ -54,6 +54,8 @@ export default function StoryCard({
             <img
               src={coverImage}
               alt=""
+              loading="lazy"
+              decoding="async"
               className={`w-full h-full transition-transform duration-500 ease-out group-hover:scale-[1.06] ${coverImageFit === "contain" ? "object-contain" : "object-cover"}`}
               style={coverImagePosition ? { objectPosition: coverImagePosition } : undefined}
             />

@@ -21,10 +21,10 @@ export default function Footer() {
             <circle cx="0" cy="0" r="22" fill="#FF5910"/>
           </g>
         </svg>
-        <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "'Inter', sans-serif" }}>
+        <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "var(--font-sans)" }}>
           <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
         </span>
-        <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.15em] mt-1" style={{ fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
+        <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.15em] mt-1" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
           Every Uniform. Every Logo. Every Detail.
         </p>
 

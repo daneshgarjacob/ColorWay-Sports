@@ -16,13 +16,13 @@ export default function RelatedStories({ posts }: RelatedStoriesProps) {
       <div className="mb-6">
         <p
           className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#FF5910] mb-1"
-          style={{ fontFamily: "'Inter', sans-serif" }}
+          style={{ fontFamily: "var(--font-sans)" }}
         >
           Keep Reading
         </p>
         <h2
           className="text-2xl sm:text-3xl font-extrabold text-black leading-tight tracking-tight"
-          style={{ fontFamily: "'Inter', sans-serif" }}
+          style={{ fontFamily: "var(--font-sans)" }}
         >
           Related Stories
         </h2>

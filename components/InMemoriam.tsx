@@ -42,7 +42,7 @@ export default function InMemoriam() {
           <h2
             style={{
               margin: "14px 0 8px",
-              fontFamily: "'Playfair Display', Georgia, serif",
+              fontFamily: "var(--font-serif)",
               fontSize: 38,
               fontWeight: 900,
               color: "#ffffff",
