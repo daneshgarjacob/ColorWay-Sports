@@ -14,10 +14,6 @@ teams: []
 
 <div style="margin-top: -2rem;"></div>
 
-<div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/world-cup-kit-rules/cover.jpg" alt="ColorWay Sports cover for how 2026 World Cup match kits are chosen, showing England's white home kit and Norway's red home kit in tiles on a blue-to-orange gradient with the ColorWay Sports logo" style="width: 100%; display: block; border-radius: 10px;" />
-</div>
-
 Most fans assume the "home" team wears its home kit, the other team changes if there's a problem, and that's the whole story. At a World Cup played almost entirely on neutral ground, it does not work like that at all — and the teams do not even get the final say. Every kit pairing you see across the 104 matches of the 2026 World Cup is decided in advance, by FIFA, and the first thing it cares about is not tradition or who is nominally at home. It is contrast. Here is exactly how every match kit gets chosen, who chooses it, and why your team sometimes walks out in a shirt you have barely seen.
 
 ## The short answer: FIFA decides, and it decides before kickoff

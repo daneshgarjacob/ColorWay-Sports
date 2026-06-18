@@ -14,10 +14,6 @@ teams: []
 
 <div style="margin-top: -2rem;"></div>
 
-<div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/world-cup-logo-history/cover.jpg" alt="ColorWay Sports cover for the World Cup logo ranking, showing the 2010 South Africa, 2014 Brazil, 2018 Russia, 2022 Qatar, and 2026 World Cup emblems in tiles on a blue-to-orange gradient with the ColorWay Sports logo" style="width: 100%; display: block; border-radius: 10px;" />
-</div>
-
 A World Cup emblem is the first thing the tournament says about itself — the mark that ends up on the ball, the badge, the broadcast, and a billion screens before a single match is played. For the first four decades, host nations just made posters. FIFA did not standardize a single official logo until Mexico 1970, and from 2026 onward it is locking the whole thing into a fixed template. That makes right now — the end of the bespoke era — the perfect moment to rank all 23 of them.
 
 Below is every official World Cup emblem from 1930 to 2026 — first walked through era by era, then laid out in full chronological order, then ranked best to worst. We judge them purely as design: how iconic, how clean, how well each captures its host, and how it reads decades later.

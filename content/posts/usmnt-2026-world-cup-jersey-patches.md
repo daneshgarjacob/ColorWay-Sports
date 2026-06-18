@@ -2,7 +2,7 @@
 title: "What Are the Patches on the USMNT's 2026 World Cup Jersey? Every Badge on the SoFi Debut Kit, Explained"
 category: "Soccer"
 date: "2026-06-13"
-updatedDate: "2026-06-13"
+updatedDate: "2026-06-18"
 excerpt: "The USMNT opened the 2026 World Cup in their white 'Set in Stripes' home kit against Paraguay at SoFi Stadium, and like every shirt at this tournament it walked out carrying the official FIFA World Cup 26 badge on the sleeve. Here is every patch and badge on the United States' World Cup debut jersey, from the competition emblem to the US Soccer crest, explained."
 gradient: "linear-gradient(135deg, #0A1A3F 0%, #B31942 60%, #C8102E 100%)"
 coverImage: "/images/posts/wc-usa-home.jpg"
@@ -14,6 +14,15 @@ teams: []
 
 <div style="margin: 0 0 2em;">
   <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 FIFA World Cup white Set in Stripes home jersey worn for the United States World Cup debut vs Paraguay at SoFi Stadium, showing the US Soccer crest, Nike swoosh, and World Cup sleeve badge placement" style="width: 100%; display: block; border-radius: 12px;" />
+</div>
+
+<div style="margin: 0 0 1.5em; padding: 1.25em 1.5em; background: linear-gradient(135deg, #0A1A3F 0%, #B31942 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.12);">
+  <p style="margin: 0 0 0.5em; font-size: 0.72em; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2px;">Update · June 18, 2026</p>
+  <p style="margin: 0; color: #fff; font-size: 1.05em; line-height: 1.55; font-weight: 600;">It's the home stripes again: the USMNT will wear their white "Set in Stripes" home kit tomorrow against Australia in Group D. U.S. Soccer confirmed the look on the official @USMNT account.</p>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USMNT/status/2067677898635632665"></a></blockquote>
 </div>
 
 The United States opened its home World Cup against Paraguay at SoFi Stadium on June 12, and the white home kit the USMNT wore for the occasion — the "Set in Stripes" shirt U.S. Soccer teased the day before kickoff — did not walk out plain. Like every jersey at the 2026 FIFA World Cup, it carries a specific set of patches and badges, and each one is there for a reason. If you watched the debut and wondered what the marks on the shirt actually mean, here is every badge on the United States' World Cup jersey, explained.
