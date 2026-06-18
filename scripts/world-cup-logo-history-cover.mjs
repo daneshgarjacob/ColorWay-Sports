@@ -10,7 +10,7 @@ const brand = join(__dirname, "..", "public", "brand", "colorway-sports-logo.png
 const out = join(dir, "cover.jpg");
 
 const W = 1500, H = 1000;
-const picks = [{ year: 1970, top: true }, { year: 2010 }, { year: 2018 }, { year: 2022 }, { year: 2026 }];
+const picks = [{ year: 2010 }, { year: 2014 }, { year: 2018 }, { year: 2022 }, { year: 2026 }];
 
 // logo badge
 const badge = { x: 56, y: 52, w: 430, h: 108, pad: 18 };
