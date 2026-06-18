@@ -18,7 +18,7 @@ const logoPos = { left: Math.round(badge.x + (badge.w - logo.info.width) / 2), t
 
 const tile = 232, gap = 33, pad = 20;
 const totalW = picks.length * tile + (picks.length - 1) * gap;
-const startX = Math.round((W - totalW) / 2), tileY = 232;
+const startX = Math.round((W - totalW) / 2), tileY = 312;
 const imgs = [{ input: logo.data, ...logoPos }];
 for (let i = 0; i < picks.length; i++) {
   const buf = await sharp(join(dir, `emblem-${picks[i].year}.png`)).resize(tile - pad * 2, tile - pad * 2, { fit: "inside" }).toBuffer({ resolveWithObject: true });
@@ -34,7 +34,7 @@ const svg = `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http
     <filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000" flood-opacity="0.45"/></filter>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
-  <rect x="0" y="540" width="${W}" height="460" fill="url(#scrim)"/>
+  <rect x="0" y="566" width="${W}" height="434" fill="url(#scrim)"/>
   <rect x="${badge.x}" y="${badge.y}" width="${badge.w}" height="${badge.h}" rx="16" fill="#ffffff"/>
   <g filter="url(#sh)">${tilesSvg}</g>
   <text x="${W / 2}" y="668" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="800" letter-spacing="6" fill="#FF7a1f" text-anchor="middle">RANKED · 1930 → 2026</text>
