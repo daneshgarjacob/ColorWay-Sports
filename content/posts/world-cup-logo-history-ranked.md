@@ -14,7 +14,7 @@ teams: []
 
 <div style="margin-top: -2rem;"></div>
 
-A World Cup emblem is the first thing the tournament says about itself — the mark that ends up on the ball, the badge, the broadcast, and a billion screens before a single match is played. For the first four decades, host nations just made posters. FIFA did not standardize a single official logo until Mexico 1970, and from 2026 onward it is locking the whole thing into a fixed template. That makes right now — the end of the bespoke era — the perfect moment to rank all 23 of them.
+<p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">A World Cup emblem is the first thing the tournament says about itself — the mark that ends up on the ball, the badge, the broadcast, and a billion screens before a single match is played. For the first four decades, host nations just made posters. FIFA did not standardize a single official logo until Mexico 1970, and from 2026 onward it is locking the whole thing into a fixed template. That makes right now — the end of the bespoke era — the perfect moment to rank all 23 of them.</p>
 
 Below is every official World Cup emblem from 1930 to 2026 — first walked through era by era, then laid out in full chronological order, then ranked best to worst. We judge them purely as design: how iconic, how clean, how well each captures its host, and how it reads decades later.
 

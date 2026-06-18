@@ -1,5 +1,5 @@
 ---
-title: "How World Cup Kits Are Chosen: The 2026 Kit-Clash Rules (and Why Czechia Wore White, Not Red)"
+title: "How World Cup Kits Are Chosen: Who Really Decides What Each Team Wears in 2026"
 category: "Soccer"
 date: "2026-06-18"
 excerpt: "The 'home' team doesn't even pick its own kit — FIFA does, before kickoff. Here's exactly how every 2026 World Cup match kit gets decided, why Czechia opened in white instead of red, why New Zealand was forced into black, and the kit-clash contrast rules that settle who wears what across all 104 matches."
@@ -14,7 +14,7 @@ teams: []
 
 <div style="margin-top: -2rem;"></div>
 
-Most fans assume the "home" team wears its home kit, the other team changes if there's a problem, and that's the whole story. At a World Cup played almost entirely on neutral ground, it does not work like that at all — and the teams do not even get the final say. Every kit pairing you see across the 104 matches of the 2026 World Cup is decided in advance, by FIFA, and the first thing it cares about is not tradition or who is nominally at home. It is contrast. Here is exactly how every match kit gets chosen, who chooses it, and why your team sometimes walks out in a shirt you have barely seen.
+<p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">Most fans assume the "home" team wears its home kit, the other team changes if there's a problem, and that's the whole story. At a World Cup played almost entirely on neutral ground, it does not work like that at all — and the teams do not even get the final say. Every kit pairing you see across the 104 matches of the 2026 World Cup is decided in advance, by FIFA, and the first thing it cares about is not tradition or who is nominally at home. It is contrast. Here is exactly how every match kit gets chosen, who chooses it, and why your team sometimes walks out in a shirt you have barely seen.</p>
 
 ## The short answer: FIFA decides, and it decides before kickoff
 
