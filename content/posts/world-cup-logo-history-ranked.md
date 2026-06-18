@@ -37,29 +37,29 @@ Below is every official World Cup emblem from 1930 to 2026 — first walked thro
 Every official emblem in chronological order, from the poster era through the 2026 template — the full visual sweep of the tournament's identity.
 
 <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:24px 18px; margin:1.75em 0;">
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1930.jpg" alt="1930 Uruguay FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1930 · Uruguay</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1934.jpg" alt="1934 Italy FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1934 · Italy</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1938.jpg" alt="1938 France FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1938 · France</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1950.jpg" alt="1950 Brazil FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1950 · Brazil</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1954.jpg" alt="1954 Switzerland FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1954 · Switzerland</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1958.jpg" alt="1958 Sweden FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1958 · Sweden</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1962.jpg" alt="1962 Chile FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1962 · Chile</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1966.jpg" alt="1966 England FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1966 · England</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1970.png" alt="1970 Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1970 · Mexico</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1974.png" alt="1974 West Germany FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1974 · West Germany</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1978.png" alt="1978 Argentina FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1978 · Argentina</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1982.png" alt="1982 Spain FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1982 · Spain</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1986.png" alt="1986 Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1986 · Mexico</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1990.png" alt="1990 Italy FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1990 · Italy</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1994.png" alt="1994 USA FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1994 · USA</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1998.png" alt="1998 France FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">1998 · France</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2002.png" alt="2002 Korea/Japan FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2002 · Korea/Japan</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2006.png" alt="2006 Germany FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2006 · Germany</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2010.png" alt="2010 South Africa FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2010 · South Africa</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2014.png" alt="2014 Brazil FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2014 · Brazil</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2018.png" alt="2018 Russia FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2018 · Russia</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2022.png" alt="2022 Qatar FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2022 · Qatar</p></div>
-  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2026.png" alt="2026 USA · Canada · Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.8em; color:#666; margin:0.5em 0 0; font-weight:700;">2026 · USA · Canada · Mexico</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1930.jpg" alt="1930 Uruguay FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1930 · Uruguay</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1934.jpg" alt="1934 Italy FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1934 · Italy</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1938.jpg" alt="1938 France FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1938 · France</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1950.jpg" alt="1950 Brazil FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1950 · Brazil</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1954.jpg" alt="1954 Switzerland FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1954 · Switzerland</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1958.jpg" alt="1958 Sweden FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1958 · Sweden</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1962.jpg" alt="1962 Chile FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1962 · Chile</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1966.jpg" alt="1966 England FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1966 · England</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1970.png" alt="1970 Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1970 · Mexico</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1974.png" alt="1974 West Germany FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1974 · West Germany</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1978.png" alt="1978 Argentina FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1978 · Argentina</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1982.png" alt="1982 Spain FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1982 · Spain</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1986.png" alt="1986 Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1986 · Mexico</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1990.png" alt="1990 Italy FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1990 · Italy</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1994.png" alt="1994 USA FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1994 · USA</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-1998.png" alt="1998 France FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">1998 · France</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2002.png" alt="2002 Korea/Japan FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2002 · Korea/Japan</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2006.png" alt="2006 Germany FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2006 · Germany</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2010.png" alt="2010 South Africa FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2010 · South Africa</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2014.png" alt="2014 Brazil FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2014 · Brazil</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2018.png" alt="2018 Russia FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2018 · Russia</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2022.png" alt="2022 Qatar FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2022 · Qatar</p></div>
+  <div style="text-align:center;"><img src="/images/posts/world-cup-logo-history/emblem-2026.png" alt="2026 USA · Canada · Mexico FIFA World Cup official emblem" style="width:100%; height:135px; object-fit:contain;" loading="lazy" /><p style="font-size:0.9rem; color:#666; margin:0.5em 0 0; font-weight:700;">2026 · USA · Canada · Mexico</p></div>
 </div>
 
 ## Our Ranking, Best to Worst
@@ -70,8 +70,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">1</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2014.png" alt="2014 Brazil FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2014 · Brazil</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Three interlocking hands cupping the trophy in Brazilian green and gold — the first World Cup emblem designed for motion.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2014 · Brazil</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Three interlocking hands cupping the trophy in Brazilian green and gold — the first World Cup emblem designed for motion.</p>
   </div>
 </div>
 
@@ -79,8 +79,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">2</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2010.png" alt="2010 South Africa FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2010 · South Africa</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A figure stretching for the ball in fluid ribbon strokes, the ball sitting in the negative space, in the vivid colors of the flag and African textile art.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2010 · South Africa</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A figure stretching for the ball in fluid ribbon strokes, the ball sitting in the negative space, in the vivid colors of the flag and African textile art.</p>
   </div>
 </div>
 
@@ -88,8 +88,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">3</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1966.jpg" alt="1966 England FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1966 · England</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The first logo to feature the trophy, set on the Union Jack with the three lions — unmistakably British.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1966 · England</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The first logo to feature the trophy, set on the Union Jack with the three lions — unmistakably British.</p>
   </div>
 </div>
 
@@ -97,8 +97,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">4</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2018.png" alt="2018 Russia FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2018 · Russia</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The trophy silhouette filled with red, blue, and gold drawn from Russian folk art and the country's space history.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2018 · Russia</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The trophy silhouette filled with red, blue, and gold drawn from Russian folk art and the country's space history.</p>
   </div>
 </div>
 
@@ -106,8 +106,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">5</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2022.png" alt="2022 Qatar FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2022 · Qatar</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">An unbroken loop reading as both an 8 and an infinity symbol, shaped like a Gulf woollen shawl, in deep maroon.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2022 · Qatar</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">An unbroken loop reading as both an 8 and an infinity symbol, shaped like a Gulf woollen shawl, in deep maroon.</p>
   </div>
 </div>
 
@@ -115,8 +115,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">6</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1970.png" alt="1970 Mexico FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1970 · Mexico</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">FIFA's first unified official logo — simple, graphic, and the first to feature the Adidas Telstar ball.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1970 · Mexico</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">FIFA's first unified official logo — simple, graphic, and the first to feature the Adidas Telstar ball.</p>
   </div>
 </div>
 
@@ -124,8 +124,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">7</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1978.png" alt="1978 Argentina FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1978 · Argentina</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Two sweeping arcs of sky blue and white around a ball, reading at once as cupped hands, raised arms, and a stadium bowl.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1978 · Argentina</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Two sweeping arcs of sky blue and white around a ball, reading at once as cupped hands, raised arms, and a stadium bowl.</p>
   </div>
 </div>
 
@@ -133,8 +133,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">8</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1954.jpg" alt="1954 Switzerland FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1954 · Switzerland</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The first design that truly works as a logo: a red ball with the white Swiss cross, ringed by the tournament name in three languages.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1954 · Switzerland</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The first design that truly works as a logo: a red ball with the white Swiss cross, ringed by the tournament name in three languages.</p>
   </div>
 </div>
 
@@ -142,8 +142,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">9</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1930.jpg" alt="1930 Uruguay FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1930 · Uruguay</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Guillermo Laborde's art-deco goalkeeper mid-save — a genuine piece of period artwork that opened the whole tradition.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1930 · Uruguay</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Guillermo Laborde's art-deco goalkeeper mid-save — a genuine piece of period artwork that opened the whole tradition.</p>
   </div>
 </div>
 
@@ -151,8 +151,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">10</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1990.png" alt="1990 Italy FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1990 · Italy</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">An abstract football built from green, red, and black geometric panels with sharp angular 'Italia 90' type.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1990 · Italy</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">An abstract football built from green, red, and black geometric panels with sharp angular 'Italia 90' type.</p>
   </div>
 </div>
 
@@ -160,8 +160,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">11</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1998.png" alt="1998 France FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1998 · France</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The ball rising like a sun over the globe's horizon, in the French tricolor.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1998 · France</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The ball rising like a sun over the globe's horizon, in the French tricolor.</p>
   </div>
 </div>
 
@@ -169,8 +169,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">12</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2006.png" alt="2006 Germany FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2006 · Germany</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">'Celebrating Faces of Football' — three laughing faces, two forming the 0 and 6 of the year, in the German flag's colors.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2006 · Germany</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">'Celebrating Faces of Football' — three laughing faces, two forming the 0 and 6 of the year, in the German flag's colors.</p>
   </div>
 </div>
 
@@ -178,8 +178,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">13</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2002.png" alt="2002 Korea/Japan FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2002 · Korea/Japan</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A fluid trophy with the zeros of 2002 bent into an infinity symbol for the first two-host tournament.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2002 · Korea/Japan</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A fluid trophy with the zeros of 2002 bent into an infinity symbol for the first two-host tournament.</p>
   </div>
 </div>
 
@@ -187,8 +187,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">14</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1986.png" alt="1986 Mexico FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1986 · Mexico</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A red-and-white ball between two halves of the globe under the line 'the world united by the ball.'</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1986 · Mexico</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A red-and-white ball between two halves of the globe under the line 'the world united by the ball.'</p>
   </div>
 </div>
 
@@ -196,8 +196,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">15</span>
   <img src="/images/posts/world-cup-logo-history/emblem-2026.png" alt="2026 USA · Canada · Mexico FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">2026 · USA · Canada · Mexico</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The trophy inside the intertwined '2' and '6' — the first time the actual trophy appears, and the template for every future tournament.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">2026 · USA · Canada · Mexico</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The trophy inside the intertwined '2' and '6' — the first time the actual trophy appears, and the template for every future tournament.</p>
   </div>
 </div>
 
@@ -205,8 +205,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">16</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1974.png" alt="1974 West Germany FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1974 · West Germany</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Bold type, the German flag's stripes, and a framed sphere, marking the debut of the new trophy that year.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1974 · West Germany</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Bold type, the German flag's stripes, and a framed sphere, marking the debut of the new trophy that year.</p>
   </div>
 </div>
 
@@ -214,8 +214,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">17</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1962.jpg" alt="1962 Chile FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1962 · Chile</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A double-read of a stadium seen from above and a globe, with the Chilean flag planted in the middle.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1962 · Chile</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A double-read of a stadium seen from above and a globe, with the Chilean flag planted in the middle.</p>
   </div>
 </div>
 
@@ -223,8 +223,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">18</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1994.png" alt="1994 USA FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1994 · USA</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The ball fused with the American flag, stars across the top and red-and-white stripes waving underneath.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1994 · USA</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The ball fused with the American flag, stars across the top and red-and-white stripes waving underneath.</p>
   </div>
 </div>
 
@@ -232,8 +232,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">19</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1950.jpg" alt="1950 Brazil FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1950 · Brazil</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Often credited as the first official emblem, though it still behaves like a promotional poster.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1950 · Brazil</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Often credited as the first official emblem, though it still behaves like a promotional poster.</p>
   </div>
 </div>
 
@@ -241,8 +241,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">20</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1982.png" alt="1982 Spain FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1982 · Spain</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A football trailing a streak of red and yellow — clean but plain; Joan Miró's official poster did the memorable design work that year.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1982 · Spain</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A football trailing a streak of red and yellow — clean but plain; Joan Miró's official poster did the memorable design work that year.</p>
   </div>
 </div>
 
@@ -250,8 +250,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">21</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1934.jpg" alt="1934 Italy FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1934 · Italy</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">A host-designed promotional poster from the pre-logo era, very much of its 1930s moment.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1934 · Italy</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">A host-designed promotional poster from the pre-logo era, very much of its 1930s moment.</p>
   </div>
 </div>
 
@@ -259,8 +259,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">22</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1938.jpg" alt="1938 France FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1938 · France</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">Another poster-era entry — period artwork for the last World Cup before the war.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1938 · France</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">Another poster-era entry — period artwork for the last World Cup before the war.</p>
   </div>
 </div>
 
@@ -268,8 +268,8 @@ Design is subjective, so treat this as the opening argument rather than the last
   <span style="flex:0 0 auto; width:44px; text-align:center; font-size:24px; font-weight:900; color:#FF5910;">23</span>
   <img src="/images/posts/world-cup-logo-history/emblem-1958.jpg" alt="1958 Sweden FIFA World Cup official emblem" style="flex:0 0 auto; width:118px; height:118px; object-fit:contain;" loading="lazy" />
   <div style="flex:1; min-width:0;">
-    <p style="margin:0; font-size:1.05em; font-weight:800; color:#1a1a1a;">1958 · Sweden</p>
-    <p style="margin:5px 0 0; font-size:0.92em; color:#555; line-height:1.55;">The 'VM' lettering with a player and ball, reading more like an event flyer than a fixed identity.</p>
+    <p style="margin:0; font-size:1.05rem; font-weight:800; color:#1a1a1a;">1958 · Sweden</p>
+    <p style="margin:5px 0 0; font-size:0.95rem; color:#555; line-height:1.55;">The 'VM' lettering with a player and ball, reading more like an event flyer than a fixed identity.</p>
   </div>
 </div>
 
@@ -304,8 +304,8 @@ South Africa 2010 is the most vibrant, built from the bright blue, green, red, o
 It is subjective, but the early poster-era artwork and the busiest mid-century efforts tend to land at the bottom of most rankings, ours included — Sweden 1958's event-flyer layout is a frequent pick for the weakest of all. They were never designed to work as reusable logos the way the modern emblems are.
 
 <div style="margin: 2em 0; padding: 1.5em 1.75em; background: linear-gradient(135deg, #0B1A2F 0%, #11161D 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08);">
-  <p style="margin: 0 0 0.9em; font-size: 1.05em; font-weight: 800; color: #fff;">More 2026 World Cup design coverage</p>
-  <p style="margin: 0; font-size: 0.95em; color: #c8cfda; line-height: 1.6;">See our <a href="/stories/world-cup-2026-jersey-tracker" style="color: #FF5910; font-weight: 700; text-decoration: none;">live match-by-match jersey tracker</a> grading every kit pairing of the tournament, our breakdown of <a href="/stories/how-world-cup-kits-are-chosen-2026" style="color: #FF5910; font-weight: 700; text-decoration: none;">how each team's match kit is actually chosen</a>, and our <a href="/stories/world-cup-2026-scorebug-review" style="color: #FF5910; font-weight: 700; text-decoration: none;">review of the 2026 World Cup broadcast scorebug</a>.</p>
+  <p style="margin: 0 0 0.9em; font-size: 1.05rem; font-weight: 800; color: #fff;">More 2026 World Cup design coverage</p>
+  <p style="margin: 0; font-size: 0.95rem; color: #c8cfda; line-height: 1.6;">See our <a href="/stories/world-cup-2026-jersey-tracker" style="color: #FF5910; font-weight: 700; text-decoration: none;">live match-by-match jersey tracker</a> grading every kit pairing of the tournament, our breakdown of <a href="/stories/how-world-cup-kits-are-chosen-2026" style="color: #FF5910; font-weight: 700; text-decoration: none;">how each team's match kit is actually chosen</a>, and our <a href="/stories/world-cup-2026-scorebug-review" style="color: #FF5910; font-weight: 700; text-decoration: none;">review of the 2026 World Cup broadcast scorebug</a>.</p>
 </div>
 
 *Emblem design details compiled from public design retrospectives and tournament archives. Grades and rankings are ColorWay Sports editorial opinion.*
