@@ -1,8 +1,8 @@
 ---
-title: "How World Cup Kits Are Chosen for Each Match: The 2026 Kit-Clash Rules That Decide Who Wears What"
+title: "How World Cup Kits Are Chosen: The 2026 Kit-Clash Rules (and Why Czechia Wore White, Not Red)"
 category: "Soccer"
 date: "2026-06-18"
-excerpt: "At a World Cup played almost entirely on neutral ground, the 'home' team doesn't automatically wear its home kit — and the teams don't even get the final say. Here's exactly how FIFA decides which jersey every team wears in all 104 matches of the 2026 World Cup, why Czechia opened in white, why New Zealand wore black, and the contrast rules that decide it all before kickoff."
+excerpt: "The 'home' team doesn't even pick its own kit — FIFA does, before kickoff. Here's exactly how every 2026 World Cup match kit gets decided, why Czechia opened in white instead of red, why New Zealand was forced into black, and the kit-clash contrast rules that settle who wears what across all 104 matches."
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #11161D 55%, #FF5910 100%)"
 coverImage: "/images/posts/world-cup-kit-rules/cover.jpg"
 coverImagePosition: "center center"
@@ -11,6 +11,8 @@ logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
 ---
+
+<div style="margin-top: -2rem;"></div>
 
 Most fans assume the "home" team wears its home kit, the other team changes if there's a problem, and that's the whole story. At a World Cup played almost entirely on neutral ground, it does not work like that at all — and the teams do not even get the final say. Every kit pairing you see across the 104 matches of the 2026 World Cup is decided in advance, by FIFA, and the first thing it cares about is not tradition or who is nominally at home. It is contrast. Here is exactly how every match kit gets chosen, who chooses it, and why your team sometimes walks out in a shirt you have barely seen.
 
@@ -84,5 +86,9 @@ A goalkeeper's kit must contrast with both teams' outfield players and with the 
 **Can a team choose its own kit for a specific World Cup match?**
 
 Not unilaterally. Teams choose and register the kits they bring to the tournament, but FIFA assigns which of those kits is worn in each match based on its contrast analysis. A team's preferences are part of the input, but the final matchday designation is FIFA's call.
+
+**What is a kit clash, and how is it resolved at the World Cup?**
+
+A kit clash is when two teams' kits are close enough in color or tone to be confused on the pitch or on a TV broadcast. The World Cup settles it before kickoff: FIFA compares both teams' registered kits and assigns whichever shirt, shorts, and socks combination gives the clearest contrast, switching one side to its alternate kit when the first-choice colors are too similar.
 
 *Kit analysis and examples drawn from the ColorWay Sports 2026 World Cup jersey tracker. Kit-selection process per FIFA's equipment regulations and official matchday kit designations.*
