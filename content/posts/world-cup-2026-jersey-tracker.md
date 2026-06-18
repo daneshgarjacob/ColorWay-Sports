@@ -58,7 +58,7 @@ Below, every match of the tournament in reverse chronological order, the most re
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-panama-home.jpg" alt="Panama 2026 World Cup red home jersey with a bold blue central stripe and the Panama crest, worn in the Group L match vs Ghana" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/wc-panama-home.png" alt="Panama 2026 World Cup red Reebok home jersey with navy collar and cuff trim and the Panama crest, worn in the Group L match vs Ghana" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">PANAMA</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
@@ -71,7 +71,7 @@ Below, every match of the tournament in reverse chronological order, the most re
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8.5 / 10</p>
 </div>
 
-Ghana against Panama is a warm, high-energy color-on-color clash. Ghana wear their gold away kit, a rich Puma shirt with a tonal kente-cloth pattern, the lone black star of the flag at the chest, and a red collar that nods to the national colors. Panama counter in red, a bold shirt split by a thick blue central stripe and carrying the Panama crest. Gold against red is a vivid, sun-warm pairing that reads beautifully under the lights, and Panama's blue stripe drops in a cool counterpoint so the two warm tones never blur into each other. It is loud in the best way, two confident kits with real identity and texture. Eight and a half out of 10.
+Ghana against Panama is a warm, high-energy color-on-color clash. Ghana wear their gold away kit, a rich Puma shirt with a tonal kente-cloth pattern, the lone black star of the flag at the chest, and a red collar that nods to the national colors. Panama counter in a clean red home shirt with navy collar and cuff trim and the national crest. Gold against red is a vivid, sun-warm pairing that reads beautifully under the lights, two confident, saturated kits with real identity. The contrast is bold and instantly readable, landing just shy of the crisp complementary clashes at the very top of the board. Eight and a half out of 10.
 
 ## Match 22: England vs Croatia
 
