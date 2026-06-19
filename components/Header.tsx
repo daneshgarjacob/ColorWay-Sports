@@ -107,6 +107,7 @@ export default function Header() {
   const [mobileLeague, setMobileLeague] = useState<string | null>(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [scrolled, setScrolled] = useState(false);
   const searchInputRef = useRef<HTMLInputElement>(null);
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -127,6 +128,14 @@ export default function Header() {
     return () => document.removeEventListener("click", handler);
   }, [openDropdown]);
 
+  // Solid navy at the top, frosted liquid glass once you scroll
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 12);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
   const handleMouseEnter = (label: string) => {
     if (dropdownTimeout.current) clearTimeout(dropdownTimeout.current);
     setOpenDropdown(label);
@@ -138,7 +147,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 bg-[#003087]/95 supports-[backdrop-filter]:bg-[#003087]/70 backdrop-blur-2xl backdrop-saturate-150 border-b border-white/10 shadow-[0_2px_18px_rgba(10,23,51,0.22)]">
+      <header className={`sticky top-0 z-50 border-b border-white/10 transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-[#003087]/72 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.22)]" : "bg-[#003087] shadow-none"}`}>
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
