@@ -3,7 +3,7 @@ export default function Hero() {
     <section
       className="text-center text-white py-5 sm:py-6"
       style={{
-        background: "linear-gradient(135deg, #001845 0%, #003087 50%, #FF5910 100%)",
+        background: "linear-gradient(135deg, #001845 0%, #003087 50%, #2f6bed 100%)",
       }}
     >
       <p className="text-xs sm:text-sm uppercase tracking-[0.25em] text-white/80 font-medium">

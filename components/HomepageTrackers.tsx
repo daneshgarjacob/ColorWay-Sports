@@ -65,7 +65,7 @@ export default function HomepageTrackers() {
                 fontWeight: 700,
                 letterSpacing: "0.14em",
                 textTransform: "uppercase",
-                color: "#FF5910",
+                color: "#2f6bed",
               }}
             >
               ● Live Trackers
@@ -81,7 +81,7 @@ export default function HomepageTrackers() {
               fontWeight: 600,
               color: "#003087",
               textDecoration: "none",
-              borderBottom: "1.5px solid #FF5910",
+              borderBottom: "1.5px solid #2f6bed",
               paddingBottom: 2,
               whiteSpace: "nowrap",
             }}
@@ -128,7 +128,7 @@ export default function HomepageTrackers() {
                         fontWeight: 700,
                         letterSpacing: "0.12em",
                         textTransform: "uppercase",
-                        color: "#FF5910",
+                        color: "#2f6bed",
                       }}
                     >
                       {t.status}
@@ -144,7 +144,7 @@ export default function HomepageTrackers() {
                     fontWeight: 700,
                     letterSpacing: "0.12em",
                     textTransform: "uppercase",
-                    color: "#FF5910",
+                    color: "#2f6bed",
                   }}
                 >
                   {t.kicker}

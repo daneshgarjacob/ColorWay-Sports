@@ -138,24 +138,24 @@ export default function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 bg-white/95 supports-[backdrop-filter]:bg-white/70 backdrop-blur-2xl backdrop-saturate-150 border-b-[2.5px] border-orange shadow-[0_1px_16px_rgba(0,0,0,0.05)]">
+      <header className="sticky top-0 z-50 bg-[#003087] border-b border-white/10 shadow-[0_2px_18px_rgba(10,23,51,0.28)]">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
-          {/* Logo */}
+          {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="36" height="36" viewBox="0 0 512 512" className="sm:w-[42px] sm:h-[42px]" style={{ minWidth: 36 }}>
-              <g transform="translate(256,380)">
-                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
-                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
-                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
-                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-                <circle cx="0" cy="0" r="22" fill="#FF5910"/>
+            <svg width="38" height="38" viewBox="0 0 100 100" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
+              <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
+              <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
+              <g transform="translate(0,3)">
+                <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
+                <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
+                <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
-              <span className="text-[22px] sm:text-[28px] font-extrabold tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-sans)" }}>
-                <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
+              <span className="text-[22px] sm:text-[28px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.5px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap" }}>
+                ColorWay Sports
               </span>
-              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
+              <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap" }}>
                 Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
@@ -168,14 +168,14 @@ export default function Header() {
               <Link
                 key={link.label}
                 href={link.href}
-                className="text-[14px] font-medium text-black hover:text-orange transition-colors"
+                className="text-[14px] font-medium text-white/85 hover:text-white transition-colors"
               >
                 {link.label}
               </Link>
             ))}
 
             {/* Divider */}
-            <div className="w-px h-5 bg-[#d1d5db]" />
+            <div className="w-px h-5 bg-white/20" />
 
             {/* League dropdowns */}
             {leagues.map((league) => (
@@ -186,7 +186,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14px] font-medium text-black transition-colors flex items-center gap-1 hover:text-[var(--league-accent)]"
+                  className="text-[14px] font-medium text-white/85 transition-colors flex items-center gap-1 hover:text-white"
                   style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -259,7 +259,7 @@ export default function Header() {
           >
             <button
               onClick={() => setSearchOpen(!searchOpen)}
-              className="p-2 text-black hover:text-orange transition-colors"
+              className="p-2 text-white/85 hover:text-white transition-colors"
               aria-label="Search"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -302,9 +302,9 @@ export default function Header() {
             }}
             aria-label="Toggle menu"
           >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-black transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
         </div>
       </header>

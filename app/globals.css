@@ -5,13 +5,17 @@
   --color-foreground: #333333;
   --color-white: #ffffff;
   --color-black: #1a1a1a;
-  --color-orange: #FF5910;
+  --color-orange: #2f6bed; /* rebrand 2026-06: accent is now brand bright-blue (was orange #FF5910) */
   --color-blue-dark: #003087;
+  --color-navy-deep: #0A1733;
+  --color-sky: #9FB6D6;
+  --color-steel: #7C8696;
   --color-gray-light: #999999;
   --color-gray-medium: #666666;
   --color-border: #e5e5e5;
   --font-sans: var(--font-inter), -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif;
   --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-display: var(--font-hanken), var(--font-inter), -apple-system, "system-ui", sans-serif;
 }
 
 body {

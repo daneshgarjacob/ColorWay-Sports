@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Inter, Playfair_Display } from "next/font/google";
+import { Inter, Playfair_Display, Hanken_Grotesk } from "next/font/google";
 import EmailCapture from "@/components/EmailCapture";
 import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
@@ -16,6 +16,13 @@ const playfair = Playfair_Display({
   subsets: ["latin"],
   weight: ["700", "800", "900"],
   variable: "--font-playfair",
+  display: "swap",
+});
+
+const hanken = Hanken_Grotesk({
+  subsets: ["latin"],
+  weight: ["500", "700", "800", "900"],
+  variable: "--font-hanken",
   display: "swap",
 });
 
@@ -48,7 +55,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
+    <html lang="en" className={`${inter.variable} ${playfair.variable} ${hanken.variable}`}>
       <head>
         <meta name="apple-mobile-web-app-title" content="ColorWay Sports" />
         <meta name="impact-site-verification" content="d7f27018-e02f-435c-8b26-94ff434d2e4c" />

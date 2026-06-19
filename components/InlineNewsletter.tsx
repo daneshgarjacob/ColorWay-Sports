@@ -45,7 +45,7 @@ export default function InlineNewsletter() {
     >
       <div className="max-w-[520px] mx-auto text-center">
         <p
-          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#FF5910] mb-2"
+          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-2"
           style={{ fontFamily: "var(--font-sans)" }}
         >
           The ColorWay Sports Newsletter
@@ -60,7 +60,7 @@ export default function InlineNewsletter() {
           New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.
         </p>
         {status === "success" ? (
-          <p className="text-base font-semibold text-[#FF5910] py-3">
+          <p className="text-base font-semibold text-[#2f6bed] py-3">
             Thanks for subscribing — check your inbox to confirm.
           </p>
         ) : (
@@ -77,13 +77,13 @@ export default function InlineNewsletter() {
                 setEmail(e.target.value);
                 if (status === "error") setStatus("idle");
               }}
-              className="flex-1 rounded-lg border border-black/10 bg-white px-4 py-3 text-[15px] text-black placeholder-black/40 outline-none focus:border-[#FF5910] focus:ring-1 focus:ring-[#FF5910] transition-colors"
+              className="flex-1 rounded-lg border border-black/10 bg-white px-4 py-3 text-[15px] text-black placeholder-black/40 outline-none focus:border-[#2f6bed] focus:ring-1 focus:ring-[#2f6bed] transition-colors"
             />
             <button
               type="submit"
               disabled={status === "loading"}
               className="rounded-lg px-6 py-3 font-bold text-white transition-opacity disabled:opacity-50 whitespace-nowrap"
-              style={{ backgroundColor: "#FF5910" }}
+              style={{ backgroundColor: "#2f6bed" }}
             >
               {status === "loading" ? "Subscribing…" : "Subscribe"}
             </button>

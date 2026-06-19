@@ -49,7 +49,7 @@ export default function InMemoriam() {
               letterSpacing: "-0.5px",
               lineHeight: 1.15,
             }}
-            className="transition-colors duration-200 group-hover:text-[#FF5910]"
+            className="transition-colors duration-200 group-hover:text-[#2f6bed]"
           >
             Kyle Busch · 1985 – 2026
           </h2>
@@ -74,7 +74,7 @@ export default function InMemoriam() {
               fontWeight: 700,
               letterSpacing: "0.18em",
               textTransform: "uppercase",
-              color: "#FF5910",
+              color: "#2f6bed",
             }}
             className="transition-opacity duration-200 group-hover:opacity-80"
           >

@@ -137,9 +137,9 @@ export default function RocketsAtLakersCover() {
               <g transform="translate(256,380)">
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)" />
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)" />
-                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)" />
+                <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#2f6bed" transform="rotate(8)" />
                 <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)" />
-                <circle cx="0" cy="0" r="22" fill="#FF5910" />
+                <circle cx="0" cy="0" r="22" fill="#2f6bed" />
               </g>
             </svg>
             <span
@@ -151,9 +151,9 @@ export default function RocketsAtLakersCover() {
               }}
             >
               <span style={{ color: "#fff" }}>Color</span>
-              <span style={{ color: "#FF5910" }}>Way</span>
+              <span style={{ color: "#2f6bed" }}>Way</span>
               <span style={{ color: "#fff" }}> Sports</span>
-              <span style={{ color: "#FF5910" }}>.</span>
+              <span style={{ color: "#2f6bed" }}>.</span>
             </span>
           </div>
         </div>

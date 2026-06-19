@@ -113,7 +113,7 @@ export default function EmailCapture() {
                   setEmail(e.target.value);
                   if (status === "error") setStatus("idle");
                 }}
-                className="w-full rounded-lg border border-gray-200 px-4 py-3 text-gray-900 placeholder-gray-400 outline-none focus:border-[#FF5910] focus:ring-1 focus:ring-[#FF5910] transition-colors"
+                className="w-full rounded-lg border border-gray-200 px-4 py-3 text-gray-900 placeholder-gray-400 outline-none focus:border-[#2f6bed] focus:ring-1 focus:ring-[#2f6bed] transition-colors"
               />
               {status === "error" && (
                 <p className="text-red-500 text-sm">{errorMsg}</p>
@@ -122,7 +122,7 @@ export default function EmailCapture() {
                 type="submit"
                 disabled={status === "loading"}
                 className="w-full rounded-lg py-3 font-semibold text-white transition-opacity disabled:opacity-50"
-                style={{ backgroundColor: "#FF5910" }}
+                style={{ backgroundColor: "#2f6bed" }}
               >
                 {status === "loading" ? "Subscribing..." : "Subscribe"}
               </button>

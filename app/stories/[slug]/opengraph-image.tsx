@@ -46,7 +46,7 @@ export default async function OgImage({
 
   // Parse the gradient to get a simple background
   // Gradients work in ImageResponse, so we can use them directly
-  const gradient = post.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)";
+  const gradient = post.gradient || "linear-gradient(135deg, #003087 0%, #2f6bed 100%)";
 
   return new ImageResponse(
     (
@@ -70,7 +70,7 @@ export default async function OgImage({
             left: 0,
             right: 0,
             height: "6px",
-            background: "#FF5910",
+            background: "#2f6bed",
             display: "flex",
           }}
         />
@@ -119,18 +119,14 @@ export default async function OgImage({
             gap: "12px",
           }}
         >
-          {/* Small CW logo — 4-color swatch fan */}
-          <svg
-            width="36"
-            height="36"
-            viewBox="0 0 512 512"
-          >
-            <g transform="translate(256,380)">
-              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
-              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
-              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
-              <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-              <circle cx="0" cy="0" r="22" fill="#FF5910"/>
+          {/* Small logo — Outline Stamp */}
+          <svg width="40" height="40" viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
+            <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
+            <g transform="translate(0,3)">
+              <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
+              <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
+              <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
             </g>
           </svg>
           <span
@@ -152,7 +148,7 @@ export default async function OgImage({
             left: 0,
             right: 0,
             height: "6px",
-            background: "#FF5910",
+            background: "#2f6bed",
             display: "flex",
           }}
         />

@@ -18,11 +18,11 @@ export default function OgImage() {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          background: "linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)",
+          background: "linear-gradient(135deg, #0A1733 0%, #003087 55%, #1E54B0 100%)",
           position: "relative",
         }}
       >
-        {/* Orange accent bar at top */}
+        {/* Accent bar at top */}
         <div
           style={{
             position: "absolute",
@@ -30,24 +30,19 @@ export default function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#FF5910",
+            background: "#2f6bed",
             display: "flex",
           }}
         />
 
-        {/* Logo mark — 4-color swatch fan */}
-        <svg
-          width="120"
-          height="120"
-          viewBox="0 0 512 512"
-          style={{ marginBottom: "24px" }}
-        >
-          <g transform="translate(256,380)">
-            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#0021A5" transform="rotate(-24)"/>
-            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
-            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
-            <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-            <circle cx="0" cy="0" r="22" fill="#FF5910"/>
+        {/* Logo mark — Outline Stamp */}
+        <svg width="150" height="150" viewBox="0 0 100 100" style={{ marginBottom: "28px" }}>
+          <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
+          <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
+          <g transform="translate(0,3)">
+            <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
+            <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
+            <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
           </g>
         </svg>
 
@@ -55,50 +50,22 @@ export default function OgImage() {
         <div
           style={{
             display: "flex",
-            alignItems: "baseline",
-            gap: "0px",
+            fontSize: "78px",
+            fontWeight: 800,
+            color: "#ffffff",
+            letterSpacing: "-2px",
           }}
         >
-          <span
-            style={{
-              fontSize: "72px",
-              fontWeight: 800,
-              color: "#4a90d9",
-              letterSpacing: "-2px",
-            }}
-          >
-            Color
-          </span>
-          <span
-            style={{
-              fontSize: "72px",
-              fontWeight: 800,
-              color: "#FF5910",
-              letterSpacing: "-2px",
-            }}
-          >
-            Way
-          </span>
-          <span
-            style={{
-              fontSize: "72px",
-              fontWeight: 800,
-              color: "#ffffff",
-              letterSpacing: "-2px",
-              marginLeft: "16px",
-            }}
-          >
-            Sports
-          </span>
+          ColorWay Sports
         </div>
 
         {/* Tagline */}
         <div
           style={{
-            fontSize: "28px",
-            color: "#cccccc",
-            marginTop: "12px",
-            letterSpacing: "3px",
+            fontSize: "26px",
+            color: "#9FB6D6",
+            marginTop: "14px",
+            letterSpacing: "5px",
             textTransform: "uppercase",
             display: "flex",
           }}
@@ -106,7 +73,7 @@ export default function OgImage() {
           Every Jersey. Every Logo. Every Detail.
         </div>
 
-        {/* Orange accent bar at bottom */}
+        {/* Accent bar at bottom */}
         <div
           style={{
             position: "absolute",
@@ -114,7 +81,7 @@ export default function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#FF5910",
+            background: "#2f6bed",
             display: "flex",
           }}
         />

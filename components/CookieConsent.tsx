@@ -56,7 +56,7 @@ export default function CookieConsent() {
           We use cookies to analyze site traffic and serve ads. See our{" "}
           <Link
             href="/privacy-policy"
-            style={{ color: "#FF5910", textDecoration: "underline", fontWeight: 600 }}
+            style={{ color: "#2f6bed", textDecoration: "underline", fontWeight: 600 }}
           >
             Privacy Policy
           </Link>{" "}
@@ -86,8 +86,8 @@ export default function CookieConsent() {
             onClick={() => handleChoice("accepted")}
             style={{
               padding: "10px 22px",
-              background: "#FF5910",
-              border: "1px solid #FF5910",
+              background: "#2f6bed",
+              border: "1px solid #2f6bed",
               borderRadius: 999,
               color: "#fff",
               fontSize: 13,

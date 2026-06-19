@@ -16,7 +16,7 @@ interface UpNextProps {
 // Frosted "Up Next" bar that slides in from the bottom on phones once the
 // reader is past ~55% of the article. Tapping it goes straight to the next
 // story; the X dismisses it for the rest of the page view.
-export default function UpNext({ slug, title, category, gradient, coverImage, coverImagePosition, accent = "#FF5910" }: UpNextProps) {
+export default function UpNext({ slug, title, category, gradient, coverImage, coverImagePosition, accent = "#2f6bed" }: UpNextProps) {
   const [visible, setVisible] = useState(false);
   const [dismissed, setDismissed] = useState(false);
 

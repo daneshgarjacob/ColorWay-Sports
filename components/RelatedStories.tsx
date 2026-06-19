@@ -15,7 +15,7 @@ export default function RelatedStories({ posts }: RelatedStoriesProps) {
     >
       <div className="mb-6">
         <p
-          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#FF5910] mb-1"
+          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-1"
           style={{ fontFamily: "var(--font-sans)" }}
         >
           Keep Reading

@@ -95,7 +95,7 @@ export default function TraditionalJerseyIndex() {
                         pct >= 60
                           ? "#1F6B4E"
                           : pct >= 40
-                          ? "#FF5910"
+                          ? "#2f6bed"
                           : "#C0392B",
                     }}
                   />

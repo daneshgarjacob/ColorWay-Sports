@@ -37,7 +37,7 @@ export default function ReadingProgress() {
         className="h-full"
         style={{
           width: `${progress}%`,
-          background: "linear-gradient(90deg, #FF5910 0%, #FF7A3D 100%)",
+          background: "linear-gradient(90deg, #2f6bed 0%, #5b8def 100%)",
           boxShadow: progress > 0 ? "0 0 8px rgba(255,89,16,0.45)" : "none",
           transition: "width 80ms linear",
         }}
