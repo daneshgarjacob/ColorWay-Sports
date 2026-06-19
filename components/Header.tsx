@@ -138,7 +138,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 bg-[#003087] border-b border-white/10 shadow-[0_2px_18px_rgba(10,23,51,0.28)]">
+      <header className="sticky top-0 z-50 bg-[#003087]/95 supports-[backdrop-filter]:bg-[#003087]/70 backdrop-blur-2xl backdrop-saturate-150 border-b border-white/10 shadow-[0_2px_18px_rgba(10,23,51,0.22)]">
         <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
