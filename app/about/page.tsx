@@ -21,7 +21,7 @@ export default function AboutPage() {
             About Us
           </p>
           <h1 className="text-4xl md:text-5xl font-extrabold text-black tracking-[-0.02em] mb-4">
-            Every Uniform. Every Logo.{" "}
+            Every Jersey. Every Logo.{" "}
             <span className="text-orange">Every Detail.</span>
           </h1>
           <p className="text-lg text-gray-medium max-w-[600px] mx-auto leading-relaxed">

@@ -65,7 +65,7 @@ export default function Home() {
       <Header />
       <main>
         <h1 className="sr-only">
-          ColorWay Sports — Every Uniform. Every Logo. Every Detail. Covering sports uniforms, logos, scorebugs, and stadium design.
+          ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
         <HomepageTrackers />
         <TraditionalJerseyIndex />

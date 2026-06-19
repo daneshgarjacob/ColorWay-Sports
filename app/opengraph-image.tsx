@@ -103,7 +103,7 @@ export default function OgImage() {
             display: "flex",
           }}
         >
-          Every Uniform. Every Logo. Every Detail.
+          Every Jersey. Every Logo. Every Detail.
         </div>
 
         {/* Orange accent bar at bottom */}

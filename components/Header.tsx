@@ -156,7 +156,7 @@ export default function Header() {
                 <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
               </span>
               <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] text-[#8A8F98] mt-[2px]" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
-                Every Uniform. Every Logo. Every Detail.
+                Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
           </Link>

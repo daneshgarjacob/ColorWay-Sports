@@ -24,8 +24,8 @@ export default function Footer() {
         <span className="text-[22px] font-extrabold tracking-[-0.02em]" style={{ fontFamily: "var(--font-sans)" }}>
           <span className="text-[#0021A5]">Color</span><span className="text-orange">Way</span> <span className="text-[#0021A5]">Sports</span><span className="text-orange">.</span>
         </span>
-        <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.15em] mt-1" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
-          Every Uniform. Every Logo. Every Detail.
+        <p className="text-[#8A8F98] text-[10px] uppercase tracking-[0.18em] mt-1" style={{ fontFamily: "var(--font-sans)", fontWeight: 500 }}>
+          Every Jersey. Every Logo. Every Detail.
         </p>
 
         {/* Nav */}

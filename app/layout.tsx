@@ -24,13 +24,13 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.colorwaysports.com",
   },
-  title: "ColorWay Sports – Every Uniform. Every Logo. Every Detail.",
+  title: "ColorWay Sports – Every Jersey. Every Logo. Every Detail.",
   description:
-    "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
+    "Every Jersey. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
   openGraph: {
     title: "ColorWay Sports",
     description:
-      "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
+      "Every Jersey. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
     siteName: "ColorWay Sports",
     type: "website",
   },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ColorWay Sports",
     description:
-      "Every Uniform. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
+      "Every Jersey. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
   },
 };
 
