@@ -11,22 +11,26 @@ export default function Footer() {
   return (
     <footer className="bg-[#003087] border-t border-white/10">
       <div className="max-w-[1200px] mx-auto px-5 py-12 flex flex-col items-center text-center">
-        {/* Logo — Outline Stamp */}
-        <svg width="46" height="46" viewBox="0 0 100 100" className="mb-3" aria-hidden="true">
-          <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
-          <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
-          <g transform="translate(0,3)">
-            <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
-            <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
-            <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
-          </g>
-        </svg>
-        <span className="text-[24px] tracking-[-0.02em]" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill" }}>
-          ColorWay Sports
-        </span>
-        <p className="text-[10px] uppercase tracking-[0.18em] mt-2" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6" }}>
-          Every Jersey. Every Logo. Every Detail.
-        </p>
+        {/* Logo — Outline Stamp + wordmark lockup (left-aligned so the C and the E line up) */}
+        <div className="flex items-center gap-3 mb-1">
+          <svg width="48" height="48" viewBox="0 0 100 100" className="shrink-0" aria-hidden="true">
+            <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
+            <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
+            <g transform="translate(0,3)">
+              <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
+              <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
+              <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
+            </g>
+          </svg>
+          <div className="flex flex-col">
+            <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap" }}>
+              ColorWay Sports
+            </span>
+            <span className="text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "0.09em" }}>
+              Every Jersey. Every Logo. Every Detail.
+            </span>
+          </div>
+        </div>
 
         {/* Nav */}
         <nav className="flex gap-6 mt-6">
