@@ -40,44 +40,11 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
 
-## Match 32: Brazil vs Haiti
+## Match 32: Türkiye vs Paraguay
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #1d3faa 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group C · Match 32 · Final</span>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-brazil-away.jpg" alt="Brazil 2026 World Cup royal blue Jordan away jersey with tonal diagonal pinstripes and gold-and-green trim, worn in the Group C match vs Haiti" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BRAZIL</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Blue</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbrazil%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
-    </div>
-    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-haiti-white.jpg" alt="Haiti 2026 World Cup white SAETA home jersey with a red collar and a tonal grey heritage graphic, worn in the Group C match vs Brazil" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HAITI</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhaiti%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
-    </div>
-  </div>
-</div>
-
-<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
-</div>
-
-Brazil's blue away against Haiti's white home is the rare change-kit pairing that actually gains from the swap. Brazil's first choice is the amarelinha, but pushed into their Jordan away they brought one of the best alternate shirts in the field: a deep royal blue laced with a tonal diagonal pinstripe, gold trim, and flashes of green at the hem — saturated, modern, and unmistakably Brazil even without the yellow. Haiti, back on the World Cup stage for the first time since 1974, wore the white SAETA home with the red collar and the subtle grey heritage scene along the hem, understated and rich with story. Blue against white is a clean, high-contrast call that separates beautifully on the broadcast, and Brazil's blue carries far more punch than the plain change strips that left earlier light-versus-color pairings stuck at clean-and-classic. What holds it just shy of the top tier is the quiet half: Haiti's white is handsome but muted, and the matchup never reaches the four-color detonation of the tournament's best. Still, a vibrant, broadcast-friendly pairing lifted by a genuinely gorgeous Brazil away. Seven and a half out of 10.
-
-## Match 31: Türkiye vs Paraguay
-
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #E30A17 0%, #0038A8 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Match 31 · Final</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #E30A17 0%, #0038A8 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group D · Match 32 · Final</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -105,6 +72,39 @@ Brazil's blue away against Haiti's white home is the rare change-kit pairing tha
 </div>
 
 Türkiye against Paraguay is a tidy blue-versus-white pairing that never gets either team into its best clothes. Both nations live in red — Türkiye's iconic scarlet home and Paraguay's red-and-white stripes — so the colors clashed and pushed both sides to their change kits, and the matchup pays for it. Türkiye wore the white Nike away, a crisp shirt cut across the chest by a red marbled band carrying the crescent-and-star flag, clean but the muted half of their wardrobe. Paraguay answered in the navy Puma away, a moody storm-print shirt in dark blue and teal with the APF crest — a genuinely handsome change strip, yet still not the candy-stripe identity that makes the Albirroja instantly recognizable. White against navy-blue reads cleanly enough on the broadcast and the contrast holds from distance, but with both teams off their signature looks there is no spark, no heritage hook, no saturated collision to lift it. The what-if is loud: Türkiye's red against Paraguay's stripes would have been a far richer picture. As played, it is clean, competent, and a touch forgettable. Six and a half out of 10.
+
+## Match 31: Brazil vs Haiti
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #1d3faa 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group C · Match 31 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-brazil-away.jpg" alt="Brazil 2026 World Cup royal blue Jordan away jersey with tonal diagonal pinstripes and gold-and-green trim, worn in the Group C match vs Haiti" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BRAZIL</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbrazil%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-haiti-white.jpg" alt="Haiti 2026 World Cup white SAETA home jersey with a red collar and a tonal grey heritage graphic, worn in the Group C match vs Brazil" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">HAITI</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhaiti%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
+</div>
+
+Brazil's blue away against Haiti's white home is the rare change-kit pairing that actually gains from the swap. Brazil's first choice is the amarelinha, but pushed into their Jordan away they brought one of the best alternate shirts in the field: a deep royal blue laced with a tonal diagonal pinstripe, gold trim, and flashes of green at the hem — saturated, modern, and unmistakably Brazil even without the yellow. Haiti, back on the World Cup stage for the first time since 1974, wore the white SAETA home with the red collar and the subtle grey heritage scene along the hem, understated and rich with story. Blue against white is a clean, high-contrast call that separates beautifully on the broadcast, and Brazil's blue carries far more punch than the plain change strips that left earlier light-versus-color pairings stuck at clean-and-classic. What holds it just shy of the top tier is the quiet half: Haiti's white is handsome but muted, and the matchup never reaches the four-color detonation of the tournament's best. Still, a vibrant, broadcast-friendly pairing lifted by a genuinely gorgeous Brazil away. Seven and a half out of 10.
 
 ## Match 30: Scotland vs Morocco
 
