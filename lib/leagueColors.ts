@@ -6,6 +6,7 @@ export const leagueColors: Record<string, string> = {
   MLB: "#002D72",
   NHL: "#418FDE",
   Soccer: "#00A859",
+  "Soccer (Fútbol)": "#00A859",
   F1: "#E10600",
   NASCAR: "#007AC2",
   Motorsports: "#007AC2",

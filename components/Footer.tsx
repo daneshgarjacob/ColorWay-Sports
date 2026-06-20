@@ -11,10 +11,9 @@ export default function Footer() {
   return (
     <footer className="bg-[#003087] border-t border-white/10">
       <div className="max-w-[1200px] mx-auto px-5 py-12 flex flex-col items-center text-center">
-        {/* Logo — Outline Stamp + wordmark lockup. text-left overrides the footer's text-center so the
-            wordmark and tagline left-align (C directly over E) instead of the shorter wordmark centering. */}
-        <div className="flex items-center gap-3 mb-1">
-          <svg width="48" height="48" viewBox="0 0 100 100" className="shrink-0" aria-hidden="true">
+        {/* Logo — stacked, centered badge: flag icon on top of the wordmark + tagline (matches the social lockup) */}
+        <div className="flex flex-col items-center mb-1">
+          <svg width="52" height="52" viewBox="0 0 100 100" className="shrink-0 mb-2.5" aria-hidden="true">
             <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
             <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
             <g transform="translate(0,3)">
@@ -23,15 +22,12 @@ export default function Footer() {
               <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
             </g>
           </svg>
-          <div className="flex flex-col text-left">
-            {/* Wordmark sits a hair left (negative indent) so the C's body lines up over the tagline's E; tagline indent is left as-is */}
-            <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap", textIndent: "-0.029em" }}>
-              ColorWay Sports
-            </span>
-            <span className="text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.05em" }}>
-              Every Jersey. Every Logo. Every Detail.
-            </span>
-          </div>
+          <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap" }}>
+            ColorWay Sports
+          </span>
+          <span className="text-[9px] uppercase tracking-[0.18em] mt-[5px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap" }}>
+            Every Jersey. Every Logo. Every Detail.
+          </span>
         </div>
 
         {/* Nav */}

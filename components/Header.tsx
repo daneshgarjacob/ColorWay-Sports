@@ -65,7 +65,7 @@ const leagues = [
     ],
   },
   {
-    label: "Soccer",
+    label: "Soccer (Fútbol)",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
     teams: [
       "International Competitions",
@@ -161,8 +161,8 @@ export default function Header() {
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
-              {/* Wordmark sits a hair left (negative indent) so the C's body lines up over the tagline's E; tagline indent is left as-is */}
-              <span className="text-[22px] sm:text-[28px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.5px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap", textIndent: "-0.027em" }}>
+              {/* Wordmark nudged left (Jake-tuned to -0.118em in the alignment sandbox) so the C optically lines up over the tagline's E; tagline indent left as-is */}
+              <span className="text-[22px] sm:text-[28px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.5px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
                 ColorWay Sports
               </span>
               <span className="text-[8px] sm:text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
