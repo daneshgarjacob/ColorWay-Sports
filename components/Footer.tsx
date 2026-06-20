@@ -26,7 +26,7 @@ export default function Footer() {
             <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap" }}>
               ColorWay Sports
             </span>
-            <span className="text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "0.09em" }}>
+            <span className="text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "0.045em" }}>
               Every Jersey. Every Logo. Every Detail.
             </span>
           </div>
