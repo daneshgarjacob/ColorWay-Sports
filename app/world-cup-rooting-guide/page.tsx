@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import RootingGuide from "@/components/RootingGuide";
 
 export const metadata: Metadata = {
-  title: "World Cup Rooting Guide: Who Should I Root For? | ColorWay Sports",
+  title: "Who Should I Root For at the 2026 World Cup? | ColorWay Sports",
   description:
     "Pick the team you want to advance at the 2026 World Cup and we'll tell you exactly who to root for in the other group-stage game on the final matchday — and whether it even matters.",
 };

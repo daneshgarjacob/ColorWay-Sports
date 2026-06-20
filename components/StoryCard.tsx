@@ -2,6 +2,7 @@ import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
 interface StoryCardProps {
   slug: string;
+  href?: string;
   title: string;
   category: string;
   date?: string;
@@ -19,6 +20,7 @@ interface StoryCardProps {
 
 export default function StoryCard({
   slug,
+  href,
   title,
   category,
   date,
@@ -45,7 +47,7 @@ export default function StoryCard({
   return (
     <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
       {/* Gradient image area */}
-      <Link href={`/stories/${slug}`}>
+      <Link href={href ?? `/stories/${slug}`}>
         <div
           className="aspect-[3/2] flex items-center justify-center relative overflow-hidden group"
           style={{ background: (coverImageFit === "contain" || !coverImage) ? gradient : undefined }}
@@ -108,7 +110,7 @@ export default function StoryCard({
         </div>
         <h3 className="mt-2.5">
           <Link
-            href={`/stories/${slug}`}
+            href={href ?? `/stories/${slug}`}
             className="text-lg font-bold text-blue-dark hover:text-orange transition-colors duration-200 leading-snug"
           >
             {title}

@@ -27,7 +27,7 @@ const trackers: TrackerCard[] = [
   {
     href: "/world-cup-rooting-guide",
     kicker: "Soccer · 2026 World Cup · Interactive",
-    title: "World Cup Rooting Guide: Who Should I Root For?",
+    title: "Who Should I Root For? The 2026 World Cup Rooting Guide",
     dek: "Pick the team you want to go through and we'll tell you exactly who to root for in the other group game — and whether it even matters. Live now for the four groups at their final matchday, with the rest unlocking as they reach their final games.",
     status: "New · Interactive",
     grade: "A",

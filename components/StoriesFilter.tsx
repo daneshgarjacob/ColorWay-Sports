@@ -5,6 +5,7 @@ import StoryCard from "@/components/StoryCard";
 
 interface PostMeta {
   slug: string;
+  href?: string;
   title: string;
   category: string;
   date: string;

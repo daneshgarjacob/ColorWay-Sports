@@ -21,6 +21,7 @@ export interface FaqItem {
 
 export interface PostMeta {
   slug: string;
+  href?: string; // optional: link to a standalone page instead of /stories/<slug>
   title: string;
   category: string;
   date: string;
