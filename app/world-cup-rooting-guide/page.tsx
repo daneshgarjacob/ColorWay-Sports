@@ -19,7 +19,7 @@ export default function WorldCupRootingGuidePage() {
         <strong>other</strong> group game on the final matchday — and whether it even matters.
       </p>
       <p className="text-gray-400 text-sm mb-9">
-        Live standings as of June 20. Groups A–D are at their final matchday right now — pick your team below. Groups E–L reach their final games June 25–27, and we'll switch them on as they do.
+        All 12 groups are here. Groups A–D are at their final matchday now — pick your team for a live verdict. Groups E–L reach their final games June 25–27 and switch on then. Standings as of June 20.
       </p>
 
       <RootingGuide />

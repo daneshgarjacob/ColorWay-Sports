@@ -1,13 +1,14 @@
 // 2026 World Cup "rooting guide" data + engine.
 //
 // Small, hand-maintained data file (Jake's call) powering /world-cup-rooting-guide.
-// Only groups that have reached their FINAL matchday belong here (standings after
-// 2 games + the two third-round fixtures). As more groups reach their last games,
-// add them; update standings as results come in.
+// All 12 groups are listed. A group is `ready: true` once it reaches its FINAL
+// matchday (2 games played, 1 round left) — then the rooting engine runs off its
+// `teams` standings + `fixtures`. Until then it's `ready: false` and the page just
+// shows the group's final-matchday games + date ("check back").
 //
 // REAL standings as of 2026-06-20 (source: CBS Sports live WC standings).
-// Groups A-D are at their final matchday (games 6/24-6/25). Groups E-L are still
-// mid-group-stage (final games 6/25-6/27) and will be added as they get there.
+// Ready now: A, B, C (final games 6/24), D (6/25). The rest reach their final
+// matchday 6/25-6/27 — flip `ready: true` and fill real standings as they get there.
 //
 // Tiebreakers (v1): points -> goal difference -> goals for. GD modeled on 1-0
 // results. Head-to-head / fair-play not yet included. Top two of each group advance.
@@ -24,15 +25,17 @@ export type RGTeam = {
 export type RGFixture = { home: string; away: string };
 
 export type RGGroup = {
-  id: string;        // "A".."L"
-  teams: RGTeam[];   // current standings, leader first
+  id: string;          // "A".."L"
+  ready: boolean;      // at its final matchday now?
+  finalDate: string;   // when the final matchday is played
+  teams: RGTeam[];     // standings, leader first (meaningful when ready)
   fixtures: [RGFixture, RGFixture]; // the two final-matchday games
 };
 
 // ---- DATA ----
 export const wcGroups: RGGroup[] = [
   {
-    id: "A",
+    id: "A", ready: true, finalDate: "June 24",
     teams: [
       { key: "MEX", name: "Mexico", pts: 6, gd: 3, gf: 3, color: "#006847" },
       { key: "KOR", name: "South Korea", pts: 3, gd: 0, gf: 2, color: "#0A3DA8" },
@@ -42,7 +45,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "CZE", away: "MEX" }, { home: "RSA", away: "KOR" }],
   },
   {
-    id: "B",
+    id: "B", ready: true, finalDate: "June 24",
     teams: [
       { key: "CAN", name: "Canada", pts: 4, gd: 6, gf: 7, color: "#FF1F1F" },
       { key: "SUI", name: "Switzerland", pts: 4, gd: 3, gf: 5, color: "#D52B1E" },
@@ -52,7 +55,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "SUI", away: "CAN" }, { home: "BIH", away: "QAT" }],
   },
   {
-    id: "C",
+    id: "C", ready: true, finalDate: "June 24",
     teams: [
       { key: "BRA", name: "Brazil", pts: 4, gd: 3, gf: 4, color: "#FFD400" },
       { key: "MAR", name: "Morocco", pts: 4, gd: 0, gf: 2, color: "#C1272D" },
@@ -62,7 +65,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "SCO", away: "BRA" }, { home: "MAR", away: "HAI" }],
   },
   {
-    id: "D",
+    id: "D", ready: true, finalDate: "June 25",
     teams: [
       { key: "USA", name: "United States", pts: 6, gd: 5, gf: 6, color: "#1A3A8F" },
       { key: "AUS", name: "Australia", pts: 3, gd: 0, gf: 2, color: "#00843D" },
@@ -70,6 +73,86 @@ export const wcGroups: RGGroup[] = [
       { key: "TUR", name: "Türkiye", pts: 0, gd: -4, gf: 1, color: "#E30A17" },
     ],
     fixtures: [{ home: "TUR", away: "USA" }, { home: "PAR", away: "AUS" }],
+  },
+  {
+    id: "E", ready: false, finalDate: "June 25",
+    teams: [
+      { key: "GER", name: "Germany", pts: 0, gd: 0, gf: 0, color: "#9AA0A6" },
+      { key: "CUW", name: "Curaçao", pts: 0, gd: 0, gf: 0, color: "#0038A8" },
+      { key: "CIV", name: "Ivory Coast", pts: 0, gd: 0, gf: 0, color: "#F77F00" },
+      { key: "ECU", name: "Ecuador", pts: 0, gd: 0, gf: 0, color: "#FFD400" },
+    ],
+    fixtures: [{ home: "ECU", away: "GER" }, { home: "CUW", away: "CIV" }],
+  },
+  {
+    id: "F", ready: false, finalDate: "June 25",
+    teams: [
+      { key: "NED", name: "Netherlands", pts: 0, gd: 0, gf: 0, color: "#EC6A1E" },
+      { key: "JPN", name: "Japan", pts: 0, gd: 0, gf: 0, color: "#2A41B8" },
+      { key: "SWE", name: "Sweden", pts: 0, gd: 0, gf: 0, color: "#FFCD00" },
+      { key: "TUN", name: "Tunisia", pts: 0, gd: 0, gf: 0, color: "#E70013" },
+    ],
+    fixtures: [{ home: "JPN", away: "SWE" }, { home: "TUN", away: "NED" }],
+  },
+  {
+    id: "G", ready: false, finalDate: "June 26",
+    teams: [
+      { key: "BEL", name: "Belgium", pts: 0, gd: 0, gf: 0, color: "#E30613" },
+      { key: "EGY", name: "Egypt", pts: 0, gd: 0, gf: 0, color: "#CE1126" },
+      { key: "IRN", name: "Iran", pts: 0, gd: 0, gf: 0, color: "#239F40" },
+      { key: "NZL", name: "New Zealand", pts: 0, gd: 0, gf: 0, color: "#B0B5BB" },
+    ],
+    fixtures: [{ home: "EGY", away: "IRN" }, { home: "NZL", away: "BEL" }],
+  },
+  {
+    id: "H", ready: false, finalDate: "June 26",
+    teams: [
+      { key: "ESP", name: "Spain", pts: 0, gd: 0, gf: 0, color: "#C60B1E" },
+      { key: "URU", name: "Uruguay", pts: 0, gd: 0, gf: 0, color: "#5CBFEB" },
+      { key: "KSA", name: "Saudi Arabia", pts: 0, gd: 0, gf: 0, color: "#006C35" },
+      { key: "CPV", name: "Cape Verde", pts: 0, gd: 0, gf: 0, color: "#003893" },
+    ],
+    fixtures: [{ home: "CPV", away: "KSA" }, { home: "URU", away: "ESP" }],
+  },
+  {
+    id: "I", ready: false, finalDate: "June 26",
+    teams: [
+      { key: "FRA", name: "France", pts: 0, gd: 0, gf: 0, color: "#002395" },
+      { key: "NOR", name: "Norway", pts: 0, gd: 0, gf: 0, color: "#BA0C2F" },
+      { key: "SEN", name: "Senegal", pts: 0, gd: 0, gf: 0, color: "#00853F" },
+      { key: "IRQ", name: "Iraq", pts: 0, gd: 0, gf: 0, color: "#1AA84F" },
+    ],
+    fixtures: [{ home: "NOR", away: "FRA" }, { home: "SEN", away: "IRQ" }],
+  },
+  {
+    id: "J", ready: false, finalDate: "June 27",
+    teams: [
+      { key: "ARG", name: "Argentina", pts: 0, gd: 0, gf: 0, color: "#75AADB" },
+      { key: "AUT", name: "Austria", pts: 0, gd: 0, gf: 0, color: "#ED2939" },
+      { key: "ALG", name: "Algeria", pts: 0, gd: 0, gf: 0, color: "#0B7A3B" },
+      { key: "JOR", name: "Jordan", pts: 0, gd: 0, gf: 0, color: "#1F8A4C" },
+    ],
+    fixtures: [{ home: "ALG", away: "AUT" }, { home: "JOR", away: "ARG" }],
+  },
+  {
+    id: "K", ready: false, finalDate: "June 27",
+    teams: [
+      { key: "POR", name: "Portugal", pts: 0, gd: 0, gf: 0, color: "#DA291C" },
+      { key: "COL", name: "Colombia", pts: 0, gd: 0, gf: 0, color: "#FCD116" },
+      { key: "COD", name: "Congo DR", pts: 0, gd: 0, gf: 0, color: "#2E7DE0" },
+      { key: "UZB", name: "Uzbekistan", pts: 0, gd: 0, gf: 0, color: "#1EA84F" },
+    ],
+    fixtures: [{ home: "COL", away: "POR" }, { home: "COD", away: "UZB" }],
+  },
+  {
+    id: "L", ready: false, finalDate: "June 27",
+    teams: [
+      { key: "ENG", name: "England", pts: 0, gd: 0, gf: 0, color: "#CE1124" },
+      { key: "CRO", name: "Croatia", pts: 0, gd: 0, gf: 0, color: "#FF2D2D" },
+      { key: "GHA", name: "Ghana", pts: 0, gd: 0, gf: 0, color: "#0B7A3B" },
+      { key: "PAN", name: "Panama", pts: 0, gd: 0, gf: 0, color: "#D0112B" },
+    ],
+    fixtures: [{ home: "PAN", away: "ENG" }, { home: "CRO", away: "GHA" }],
   },
 ];
 

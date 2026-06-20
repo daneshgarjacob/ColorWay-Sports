@@ -31,7 +31,7 @@ const trackers: TrackerCard[] = [
     dek: "Pick the team you want to go through and we'll tell you exactly who to root for in the other group game — and whether it even matters. Live now for the four groups at their final matchday, with the rest unlocking as they reach their final games.",
     status: "New · Interactive",
     grade: "A",
-    gradient: "linear-gradient(135deg, #003087 0%, #2f6bed 100%)",
+    image: "/images/world-cup-rooting-guide-cover.jpg",
     centered: false,
   },
   {
