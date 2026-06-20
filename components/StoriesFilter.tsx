@@ -25,6 +25,8 @@ const leagueNames: Record<string, string> = {
   nhl: "NHL",
   f1: "F1",
   soccer: "Soccer (Fútbol)",
+  cricket: "Cricket",
+  rugby: "Rugby",
 };
 
 export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
