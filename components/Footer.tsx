@@ -23,7 +23,8 @@ export default function Footer() {
             </g>
           </svg>
           <div className="flex flex-col">
-            <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap" }}>
+            {/* Wordmark sits a hair left (negative indent) so the C's body lines up over the tagline's E; tagline indent is left as-is */}
+            <span className="text-[24px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.4px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap", textIndent: "-0.029em" }}>
               ColorWay Sports
             </span>
             <span className="text-[9px] uppercase tracking-[0.18em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.05em" }}>
