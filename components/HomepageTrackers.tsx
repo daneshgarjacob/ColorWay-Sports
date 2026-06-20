@@ -1,6 +1,19 @@
 import Link from "next/link";
 
-const trackers = [
+type TrackerCard = {
+  slug?: string;
+  href?: string;
+  kicker: string;
+  title: string;
+  dek: string;
+  status: string;
+  grade: string;
+  image?: string;
+  gradient?: string;
+  centered?: boolean;
+};
+
+const trackers: TrackerCard[] = [
   {
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
@@ -9,6 +22,16 @@ const trackers = [
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
+    centered: false,
+  },
+  {
+    href: "/world-cup-rooting-guide",
+    kicker: "Soccer · 2026 World Cup · Interactive",
+    title: "World Cup Rooting Guide: Who Should I Root For?",
+    dek: "Pick the team you want to go through and we'll tell you exactly who to root for in the other group game — and whether it even matters. Live now for the four groups at their final matchday, with the rest unlocking as they reach their final games.",
+    status: "New · Interactive",
+    grade: "A",
+    gradient: "linear-gradient(135deg, #003087 0%, #2f6bed 100%)",
     centered: false,
   },
   {
@@ -29,7 +52,7 @@ const trackers = [
     status: "Champions · Hurricanes 4-2",
     grade: "B+",
     image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg",
-    centered: true,
+    centered: false,
   },
 ];
 
@@ -97,7 +120,7 @@ export default function HomepageTrackers() {
             return (
               <Link
                 key={t.slug}
-                href={`/stories/${t.slug}`}
+                href={t.href ?? `/stories/${t.slug}`}
                 className={`group flex flex-col gap-3 ${t.centered ? "md:col-span-2 md:w-[calc(50%-12px)] md:mx-auto" : ""}`}
                 style={{ textDecoration: "none", color: "#1a1a1a" }}
               >
@@ -106,11 +129,22 @@ export default function HomepageTrackers() {
                   className="relative w-full overflow-hidden rounded-xl"
                   style={{ paddingBottom: "62.5%" }}
                 >
-                  <img
-                    src={t.image}
-                    alt={t.title}
-                    className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
+                  {t.image ? (
+                    <img
+                      src={t.image}
+                      alt={t.title}
+                      className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                    />
+                  ) : (
+                    <div
+                      className="absolute inset-0 w-full h-full flex items-center justify-center px-6 transition-transform duration-500 group-hover:scale-105"
+                      style={{ background: t.gradient }}
+                    >
+                      <span style={{ color: "#ffffff", fontSize: 26, fontWeight: 800, lineHeight: 1.15, textAlign: "center", letterSpacing: "-0.01em" }}>
+                        Who should I root for?
+                      </span>
+                    </div>
+                  )}
 
                   {/* Status pill — bottom left */}
                   <div
