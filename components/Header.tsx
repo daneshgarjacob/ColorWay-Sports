@@ -7,7 +7,14 @@ import { leagueColor } from "@/lib/leagueColors";
 // Map of team names to their logo paths — will populate as we add logos per team
 const teamLogos: Record<string, string> = {};
 
-const leagues = [
+type NavLeague = {
+  label: string;
+  storiesLink: { label: string; href: string };
+  teams: string[];
+  extraLinks?: { label: string; href: string }[];
+};
+
+const leagues: NavLeague[] = [
   {
     label: "NFL",
     storiesLink: { label: "NFL Stories", href: "/stories?league=nfl" },
@@ -79,18 +86,14 @@ const leagues = [
     ],
   },
   {
-    label: "F1",
-    storiesLink: { label: "F1 Stories", href: "/stories?league=f1" },
+    label: "Racing",
+    storiesLink: { label: "F1 (Formula One)", href: "/stories?league=f1" },
     teams: [
       "Alpine", "Aston Martin", "Audi", "Cadillac",
       "Ferrari", "Haas", "McLaren", "Mercedes",
       "Racing Bulls", "Red Bull Racing", "Williams",
     ],
-  },
-  {
-    label: "NASCAR",
-    storiesLink: { label: "NASCAR Stories", href: "/stories?league=nascar" },
-    teams: [],
+    extraLinks: [{ label: "NASCAR", href: "/stories?league=nascar" }],
   },
 ];
 
@@ -254,6 +257,18 @@ export default function Header() {
                           {team}
                         </Link>
                       ))}
+
+                      {/* Extra series links (e.g., NASCAR under Racing) */}
+                      {league.extraLinks?.map((l) => (
+                        <Link
+                          key={l.label}
+                          href={l.href}
+                          className="block px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-t border-border"
+                          onClick={() => setOpenDropdown(null)}
+                        >
+                          {l.label}
+                        </Link>
+                      ))}
                     </div>
                   </div>
                 )}
@@ -399,6 +414,16 @@ export default function Header() {
                             <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
                           )}
                           {team}
+                        </Link>
+                      ))}
+                      {league.extraLinks?.map((l) => (
+                        <Link
+                          key={l.label}
+                          href={l.href}
+                          className="text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
+                          onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                        >
+                          {l.label}
                         </Link>
                       ))}
                     </div>
