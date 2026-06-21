@@ -18,7 +18,7 @@ const trackers: TrackerCard[] = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. England's white vs Croatia's blue is the newest perfect 10, joining three others up top with Portugal's red vs Congo DR's blue and Norway's red at 9.5. Through 27 matches the average is 8.0/10. Every matchup graded.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Five perfect 10s now lead the board — the Netherlands' orange vs Sweden's blue is the newest — with Portugal's red vs Congo DR's blue and Ecuador's yellow vs Curaçao's blue both at 9.5. Through 35 matches the average is 8.0/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
