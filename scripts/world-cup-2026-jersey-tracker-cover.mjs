@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const WC_LOGO = resolve(__dirname, "../public/logos/world-cup-2026.png");
-const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
+const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo-white.png");
 const OUTPUT = resolve(__dirname, "../public/images/posts/world-cup-2026-jersey-tracker/cover.jpg");
 
 const WIDTH = 1600;
@@ -77,8 +77,8 @@ async function build() {
     .composite([
       {
         input: watermark,
-        left: WIDTH - wmMeta.width - 140,
-        top: HEIGHT - wmMeta.height - 50,
+        left: WIDTH - wmMeta.width - 160,
+        top: HEIGHT - wmMeta.height - 44,
       },
     ])
     .png()
