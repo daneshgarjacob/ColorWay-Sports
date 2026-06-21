@@ -19,6 +19,16 @@ export default function RootingGuide() {
   const teamColor = (k: string) => group.teams.find((t) => t.key === k)!.color;
   const teamName = (k: string) => group.teams.find((t) => t.key === k)!.name;
 
+  // For a group at its final matchday, classify each team: clinched (through),
+  // eliminated (out), or still alive — so the standings + picker can flag it.
+  const statusByKey: Record<string, "in" | "out" | "live"> = {};
+  if (group.ready) {
+    for (const t of group.teams) {
+      const tn = analyzeTeam(group, t.key).tone;
+      statusByKey[t.key] = tn === "in" ? "in" : tn === "out" ? "out" : "live";
+    }
+  }
+
   return (
     <div className="not-prose">
       {/* Group selector */}
@@ -58,10 +68,12 @@ export default function RootingGuide() {
               </thead>
               <tbody>
                 {group.teams.map((t) => (
-                  <tr key={t.key} className="border-t border-gray-100">
+                  <tr key={t.key} className={`border-t border-gray-100 ${statusByKey[t.key] === "out" ? "opacity-50" : ""}`}>
                     <td className="py-2.5 font-semibold text-gray-800">
                       <span className="inline-block w-2.5 h-2.5 rounded-full mr-2.5 align-middle" style={{ background: t.color }} />
-                      {t.name}
+                      <span className={statusByKey[t.key] === "out" ? "line-through" : ""}>{t.name}</span>
+                      {statusByKey[t.key] === "in" && <span className="ml-2 align-middle text-[9px] font-bold uppercase tracking-wide text-emerald-700 bg-emerald-50 border border-emerald-200 rounded px-1.5 py-0.5">Through</span>}
+                      {statusByKey[t.key] === "out" && <span className="ml-2 align-middle text-[9px] font-bold uppercase tracking-wide text-rose-700 bg-rose-50 border border-rose-200 rounded px-1.5 py-0.5">Out</span>}
                     </td>
                     <td className="text-center tabular-nums text-gray-700">{t.pts}</td>
                     <td className="text-center tabular-nums text-gray-700">{t.gd > 0 ? "+" : ""}{t.gd}</td>
@@ -99,10 +111,12 @@ export default function RootingGuide() {
                   onClick={() => setTeamKey(t.key)}
                   className={`flex items-center gap-2.5 text-left px-4 py-3 rounded-xl font-bold text-[15px] border transition ${
                     teamKey === t.key ? "border-[#003087] bg-[#003087]/5 ring-1 ring-[#003087]" : "border-gray-200 hover:bg-gray-50"
-                  }`}
+                  } ${statusByKey[t.key] === "out" ? "opacity-55" : ""}`}
                 >
                   <span className="inline-block w-3 h-3 rounded-full shrink-0" style={{ background: t.color }} />
-                  {t.name}
+                  <span className={statusByKey[t.key] === "out" ? "line-through" : ""}>{t.name}</span>
+                  {statusByKey[t.key] === "out" && <span className="ml-auto text-[9px] font-bold uppercase tracking-wide text-rose-600">Out</span>}
+                  {statusByKey[t.key] === "in" && <span className="ml-auto text-[9px] font-bold uppercase tracking-wide text-emerald-600">Through</span>}
                 </button>
               ))}
             </div>
