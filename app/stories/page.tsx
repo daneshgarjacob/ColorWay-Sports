@@ -18,11 +18,11 @@ export const metadata: Metadata = {
 const rootingGuideCard = {
   slug: "world-cup-rooting-guide",
   href: "/world-cup-rooting-guide",
-  title: "Who Should I Root For? The 2026 World Cup Rooting Guide",
+  title: "Who Should You Root For So Your Team Advances?",
   category: "Soccer",
   date: "2026-06-20",
   excerpt:
-    "Pick the team you want to see advance and we'll tell you exactly who to root for in the other group-stage game on the final matchday — and whether it even matters.",
+    "Pick the team you want to see advance at the 2026 World Cup and we'll tell you exactly who to root for in the other group-stage game on the final matchday — and whether it even matters.",
   gradient: "linear-gradient(135deg, #003087 0%, #2f6bed 100%)",
   coverImage: "/images/world-cup-rooting-guide-cover.jpg",
   league: "soccer",

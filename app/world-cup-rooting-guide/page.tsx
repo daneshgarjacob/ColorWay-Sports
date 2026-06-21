@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import RootingGuide from "@/components/RootingGuide";
 
 export const metadata: Metadata = {
-  title: "Who Should I Root For at the 2026 World Cup? | ColorWay Sports",
+  title: "2026 World Cup: Who to Root For So Your Team Advances | ColorWay Sports",
   description:
     "Pick the team you want to advance at the 2026 World Cup and we'll tell you exactly who to root for in the other group-stage game on the final matchday — and whether it even matters.",
 };
@@ -16,7 +16,7 @@ export default function WorldCupRootingGuidePage() {
       <main className="max-w-[760px] mx-auto px-5 py-12 sm:py-16">
         <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#2f6bed] mb-3">2026 World Cup</p>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
-          Who should I root for?
+          Who should you root for so your team advances?
         </h1>
         <p className="text-gray-600 leading-relaxed mb-2">
           Pick the team you want to see go through, and we'll tell you exactly who to cheer for in the{" "}
