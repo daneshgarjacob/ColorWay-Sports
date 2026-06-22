@@ -23,7 +23,7 @@ export default function WorldCupRootingGuidePage() {
           <strong>other</strong> group game on the final matchday — and whether it even matters.
         </p>
         <p className="text-gray-400 text-sm mb-9">
-          All 12 groups are here. Ten of the twelve are at their final matchday now — pick your team for a live verdict on the last group game. Groups G and H switch on once they reach theirs (final games June 26). Standings as of June 21.
+          All 12 groups are here. Ten of the twelve are at their final matchday now — pick your team for a live verdict on the last group game. Groups G and H switch on once they reach theirs (final games June 26). Standings as of June 22.
         </p>
 
         <RootingGuide />

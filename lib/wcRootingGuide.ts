@@ -7,6 +7,8 @@
 // shows the group's final-matchday games + date ("check back").
 //
 // REAL standings as of 2026-06-21 (source: live WC standings, Yahoo/NBC).
+// Group J updated 2026-06-22: Argentina beat Austria 2-0 (MD2) → ARG 6pts clinched.
+// (Jordan-Algeria MD2 is 6/22 night — refresh JOR/ALG after that result lands.)
 // Ready now: A, B, C, D, E, F, I, J, K, L (all at their final matchday, final games
 // 6/24-6/27). Groups G and H are a game behind — flip `ready: true` + fill real
 // standings once they reach their final matchday (after their next game).
@@ -128,8 +130,8 @@ export const wcGroups: RGGroup[] = [
   {
     id: "J", ready: true, finalDate: "June 27",
     teams: [
-      { key: "ARG", name: "Argentina", pts: 3, gd: 3, gf: 3, color: "#75AADB" },
-      { key: "AUT", name: "Austria", pts: 3, gd: 2, gf: 3, color: "#ED2939" },
+      { key: "ARG", name: "Argentina", pts: 6, gd: 5, gf: 5, color: "#75AADB" },
+      { key: "AUT", name: "Austria", pts: 3, gd: 0, gf: 3, color: "#ED2939" },
       { key: "JOR", name: "Jordan", pts: 0, gd: -2, gf: 1, color: "#1F8A4C" },
       { key: "ALG", name: "Algeria", pts: 0, gd: -3, gf: 0, color: "#0B7A3B" },
     ],
