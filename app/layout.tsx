@@ -71,6 +71,19 @@ export default function RootLayout({
             })
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "ColorWay Sports",
+              "alternateName": "ColorWay",
+              "url": "https://www.colorwaysports.com",
+              "logo": "https://www.colorwaysports.com/brand/colorway-logo.jpg"
+            })
+          }}
+        />
       </head>
       <body className="min-h-screen bg-background text-foreground font-sans antialiased">
         {children}

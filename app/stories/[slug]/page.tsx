@@ -74,6 +74,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       "@type": "Organization",
       name: "ColorWay Sports",
       url: "https://www.colorwaysports.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://www.colorwaysports.com/brand/colorway-logo.jpg",
+      },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
