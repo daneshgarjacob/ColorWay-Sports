@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, Al
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-20"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Five perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, and England's white vs Croatia's blue. Portugal's red vs Congo DR's blue and Ecuador's yellow vs Curaçao's blue each land a vibrant 9.5, Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 7.9 out of 10 through 39 matches. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Six perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, and Uruguay's Celeste vs Cape Verde's red. Portugal's red vs Congo DR's blue and Ecuador's yellow vs Curaçao's blue each land a vibrant 9.5, Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 7.9 out of 10 through 40 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -41,16 +41,16 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">39 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">40 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
 
-## Match 39: New Zealand vs Egypt
+## Match 40: New Zealand vs Egypt
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 5px 14px; background: linear-gradient(90deg, #1a1a1a 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group G · Match 39 · Final</span>
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #1a1a1a 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group G · Match 40 · Final</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -78,6 +78,39 @@ Below, every match of the tournament in reverse chronological order, the most re
 </div>
 
 New Zealand against Egypt is a clean white-versus-red pairing that reads fine but never rises above functional. New Zealand wore their white Puma change kit, a pale cloud-and-fern patterned shirt that is tasteful but quiet — it reads almost grey-white from distance and lacks the punch of a true bright white. Egypt brought their red Puma home with its tonal geometric print, the stronger of the two shirts and the one doing most of the work here. White against red should separate cleanly, and it does, but neither kit brings much saturation or personality to the screen — the Kiwi white is muted and the contrast stays polite rather than vivid. A tidy, watchable matchup with little to remember it by. Six out of 10.
+
+## Match 39: Uruguay vs Cape Verde
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #5CBFEB 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group H · Match 39 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-uruguay-home.jpg" alt="Uruguay 2026 World Cup Celeste sky blue home jersey with a white collar and navy trim, worn in the Group H match vs Cape Verde" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">URUGUAY</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Celeste</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Duruguay%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-cape-verde-red.jpg" alt="Cape Verde 2026 World Cup red Capelli third jersey with navy side panels, a tonal geometric pattern, and the FCF crest, worn in the Group H match vs Uruguay" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAPE VERDE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Third · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcape%2520verde%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 10 / 10</p>
+</div>
+
+Uruguay against Cape Verde is the tournament's sixth perfect 10, and it is a gorgeous one. Uruguay came in the iconic Celeste — that unmistakable sky-blue La Celeste home with the white collar and navy trim, one of the most distinctive base colors in world football. Cape Verde answered in a bold red, their brand-new Capelli third kit: a deep red with navy side panels and a tonal geometric print, worn by a debutant nation that looks like it belongs on the biggest stage. Sky blue against red is a vivid, near-complementary clash that detonates at every distance — on the broadcast, from the back row, on a phone screen — the light Celeste and the saturated red separating instantly with zero muddiness. Both shirts are beautiful on their own and electric together, and the Cape Verde red is one of the best change kits of the entire tournament. There is nothing to dock. Ten out of 10, and one of the best-looking matchups we have graded all tournament.
 
 ## Match 38: Belgium vs Iran
 
