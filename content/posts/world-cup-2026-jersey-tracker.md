@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-20"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Six perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, and Uruguay's Celeste vs Cape Verde's red. Portugal's red vs Congo DR's blue and Ecuador's yellow vs Curaçao's blue each land a vibrant 9.5, Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 7.9 out of 10 through 40 matches. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-22"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Six perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, and Uruguay's Celeste vs Cape Verde's red. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, and Argentina's stripes vs Austria's red each land a vibrant 9.5, Saudi Arabia–Uruguay grabs a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 41 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -36,15 +36,48 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Tournament Average Score</span>
-  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">7.9 / 10</span>
+  <span style="font-weight: 900; color: #9bc824; font-size: 1.5em;">8.0 / 10</span>
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">40 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">41 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 41: Argentina vs Austria
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #6CACE4 0%, #ED2939 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group J · Match 41 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-home-kits/argentina.jpg" alt="Argentina 2026 World Cup adidas sky blue and white striped home jersey with the AFA crest, worn in the Group J match vs Austria" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ARGENTINA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Stripes</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dargentina%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-austria-home.jpg" alt="Austria 2026 World Cup Puma red home jersey with black sleeve panels and the Austria eagle crest, worn in the Group J match vs Argentina" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">AUSTRIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Daustria%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 9.5 / 10</p>
+</div>
+
+Argentina against Austria is one of the best-looking pairings of the group stage so far, a genuine showcase of two strong national identities. Argentina wore the timeless Albiceleste — those unmistakable sky-blue-and-white vertical stripes with the gold-trimmed AFA crest, maybe the most iconic home shirt in the entire tournament. Austria answered in a sharp, saturated red Puma home with black sleeve panels, white cuff striping, and the eagle crest, a bold solid that pushes hard against Argentina's pale stripes. Light celeste-and-white against deep red is a vivid, near-complementary clash that separates instantly at every distance — on the broadcast, on a phone, from the back row — with no muddiness anywhere. The only thing keeping it a half-step under a perfect 10 is that the stripes-versus-solid contrast, gorgeous as it is, doesn't quite detonate the way the tournament's very best orange-on-blue clashes do. A beautiful, high-class matchup and one of the best of the round. Nine and a half out of 10.
 
 ## Match 40: New Zealand vs Egypt
 
