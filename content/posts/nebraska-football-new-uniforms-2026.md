@@ -16,6 +16,8 @@ teams: []
 
 Nebraska football has a new look. The Cornhuskers and adidas unveiled redesigned 2026 uniforms on Saturday night inside the Hawks Championship Center, following the Battle at the Boneyard seven-on-seven event, and they will hit the field this fall. adidas reportedly approached Nebraska about two years ago with a modernized concept, and the pitch leaned all the way into the one thing that truly defines the state: agriculture. The result is a "Past, Present, Future" rebrand the program is calling "A New Dawn." Here is our full breakdown and grade.
 
+*Every uniform photo and graphic in this post — including the cover image — comes from Nebraska Athletics and adidas. These are the school's official reveal images, not ColorWay Sports originals.*
+
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">
     <a href="https://twitter.com/HuskerFootball/status/2068513504089481449"></a>
