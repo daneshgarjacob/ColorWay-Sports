@@ -158,7 +158,7 @@ The only thing holding this back from an A is the Raven Wings collar pattern, wh
 
 The Ravens are the fifth and final NFL team to reveal new uniforms this offseason. The [Titans went first](/stories/nfl-uniform-release-dates-2026) with a full rebrand at B+. The [Falcons followed with a course correction](/stories/falcons-new-uniforms-2026) that earned a B. The [Rams dropped the gradient](/stories/rams-new-uniforms-2026-review) and landed at B-. The [Commanders delivered our highest-graded redesign ever](/stories/commanders-new-uniforms-2026) with an A. The Ravens slot in right below Washington at A-, giving us two AFC North style refreshes that cleared most of the NFL's 2026 output.
 
-For all five grades side by side, [see our NFL uniform reveal tracker](/stories/nfl-uniform-release-dates-2026). For what we expected before the reveal, [read our Ravens preview](/stories/ravens-new-uniforms-2026) and the [earlier iridescent rumors breakdown](/stories/ravens-iridescent-rumors-2026).
+For all five grades side by side, [see our NFL uniform reveal tracker](/stories/nfl-uniform-release-dates-2026). For what we expected before the reveal, [read our Ravens preview](/stories/ravens-new-uniforms-2026) and the [earlier iridescent rumors breakdown](/stories/ravens-uniform-rumors-iridescent-2026).
 
 ## Frequently Asked Questions About the Baltimore Ravens 2026 Uniforms
 

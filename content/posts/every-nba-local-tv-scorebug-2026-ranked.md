@@ -185,4 +185,4 @@ The FanDuel Sports Network scorebug stretches too far across the bottom of the s
 
 This post only covers local broadcast scorebugs. The national broadcast scorebugs from ESPN, NBC Peacock, and Amazon Prime Video are ranked in a separate post. Those networks have their own distinct designs that deserve their own breakdown.
 
-**Read it here: [Every NBA National Broadcast Score Bug for 2026 Ranked](/posts/nba-national-broadcast-scorebugs-2026-ranked)**
+**Read it here: [Every NBA National Broadcast Score Bug for 2026 Ranked](/stories/nba-national-broadcast-scorebugs-2026-ranked)**
