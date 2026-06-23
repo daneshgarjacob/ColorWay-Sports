@@ -1,0 +1,134 @@
+---
+title: "Red Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
+category: MLB
+date: "2026-06-23"
+excerpt: "The Boston Red Sox carry five uniforms in 2026 — home whites, road grays, the red alternate, the yellow Marathon City Connect, and the new Fenway Green. Here's every jersey, when they wear it, and why the navy alternate is gone."
+gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
+coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+league: mlb
+teams:
+  - boston-red-sox
+---
+
+<img src="/images/posts/red-sox-uniform-schedule-2026/cover.jpg" alt="Boston Red Sox 2026 uniform schedule cover showing the five uniform colors — home white, road gray, red alternate, yellow City Connect, and Fenway Green City Connect" style="width: 100%; border-radius: 10px;" />
+
+The Boston Red Sox run five uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. Two of those five are City Connects — the yellow "Marathon" kit and the brand-new Fenway Green — and they own two specific days of the week. Here's the full Red Sox closet for 2026 and exactly when each jersey comes out.
+
+## Sample Home-and-Road Week at a Glance
+
+<div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background: #0C2340; color: #fff;">
+    <div style="padding: 0.6em 0.3em;">Mon</div>
+    <div style="padding: 0.6em 0.3em;">Tue</div>
+    <div style="padding: 0.6em 0.3em;">Wed</div>
+    <div style="padding: 0.6em 0.3em;">Thu</div>
+    <div style="padding: 0.6em 0.3em;">Fri</div>
+    <div style="padding: 0.6em 0.3em;">Sat</div>
+    <div style="padding: 0.6em 0.3em;">Sun</div>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center;">
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #00683E; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🧱</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Fenway Green</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Fri Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #FFD100; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏃</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
+      <div style="font-size: 0.65em; color: #777; margin-top: 0.3em;">Sat Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+  </div>
+</div>
+
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One catch the grid can't show: when the Red Sox play on the road on a <strong>Friday</strong>, they swap the grays for the <strong>red alternate</strong> instead. The two Friday looks — green at home, red on the road — are the closest thing Boston has to a fixed rule.</p>
+
+The Red Sox carry five uniforms in 2026, and the lineup is the same five they settled into for 2025 after a major shake-up: the navy alternate was retired and the Fenway Green City Connect was added. The 2026 tweaks are cosmetic — a return to the cleaner 2023 jersey template, plus a re-spacing of the "RED SOX" lettering on the home whites after fans flagged the crowded original in spring. All of it debuted with the home opener on April 3 against San Diego.
+
+## Home Whites (Most Home Games)
+
+The home white is Boston's bread and butter: a clean white jersey with red piping, "RED SOX" arched across the chest in red script outlined in blue, and red numbers on the back with no player names — a classic touch the Red Sox keep at home. It's worn for the bulk of the homestand, essentially every home game that isn't a Friday or a Saturday (those belong to the two City Connects). For 2026 the lettering was re-spaced after the original drew complaints for crowding the buttons, and the fix was ready for Opening Day. It's understated and timeless, exactly what a home flannel at Fenway should be.
+
+## Road Grays (Most Away Games)
+
+On the road, Boston wears the standard gray set with "BOSTON" across the chest in red — the road jerseys switched to red lettering back in 2014 to match the home typeface — with player names on the back and the navy cap. It's the default for most away games, the workmanlike road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
+
+## Red Alternate (Friday Road Games)
+
+The red alternate is the one that moved. A red jersey worn with white pants, "RED SOX" in blue lettering outlined in white, no names — and since 2025 it's been Boston's Friday *road* uniform. That's a genuine piece of trivia: it marked the first time since 1933 that the Red Sox wore "RED SOX" rather than "BOSTON" on the road. Pairing the pop of red with the grind of a road Friday gives the away schedule its own little highlight.
+
+## Yellow City Connect — The "Marathon" Kit (Saturday Home Games)
+
+Boston's original City Connect, introduced in 2021, is one of the most beloved alternates in the sport. The yellow-and-blue color scheme is pulled straight from the Boston Marathon: a bright yellow jersey with "BOSTON" stenciled in light blue, light-blue sleeve striping, a light-blue cap, and a "617" race-bib patch on the sleeve honoring the city's area code. Since 2024 it's been the every-Saturday home uniform, and it remains the team's signature kit for Patriots' Day and Marathon weekend in April. It's vivid, civic, and completely Boston — one of the best City Connects MLB ever approved.
+
+## Fenway Green — The Green Monster City Connect (Friday Home Games)
+
+The newest piece, unveiled in 2025, leans all the way into Fenway Park itself. The green jersey is inspired by the Green Monster, down to a font that matches the wall's hand-operated scoreboard numerals, yellow numbers that echo the scoreboard's current-inning run total, "1912" on the collar for the year Fenway opened, and a green cap with a gray "B." It reportedly became the best-selling City Connect in MLB history, and it now owns Friday night home games. Tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
+
+## What Happened to the Navy Alternate?
+
+Gone. The navy/blue alternate that Boston wore for years was retired after the 2024 season. The decision cleared a spot to keep the yellow City Connect as a core uniform while adding the new Fenway Green, taking the Red Sox to their current five-jersey rotation. If you're looking for the dark blue Boston top in 2026, you won't find it on the field anymore.
+
+## How the Red Sox Rotation Actually Works
+
+Be honest about it: Boston's system is looser than the truly scheduled teams. The Phillies and [Marlins](/stories/marlins-uniform-schedule-2026) treat their closets like a published timetable; the Red Sox really only have three hard anchors — **Fenway Green on Friday home games, the yellow City Connect on Saturday home games, and the red alternate on Friday road games**. Everything else is the default: home whites for the rest of the homestand, road grays for the rest of the trip, with no strict day-of-week assignment beyond those Friday and Saturday hooks.
+
+It still works, because the anchors are the parts fans care about. The two City Connects are the jerseys people buy tickets to see, and giving each one its own weeknight builds the anticipation. The whites and grays are happy to do the quiet work in between.
+
+One more constant: all five jerseys carry the **MassMutual** advertising patch on the sleeve. Boston was the very first MLB team to wear an in-game jersey ad, back on Opening Day 2023, and the deal runs on through 2026.
+
+## Frequently Asked Questions
+
+**How many uniforms do the Red Sox have in 2026?**
+Five: the home white, the road gray, the red alternate, the yellow "Marathon" City Connect, and the new Fenway Green City Connect. The old navy alternate was retired after the 2024 season.
+
+**When do the Red Sox wear the yellow City Connect uniform?**
+The yellow Marathon-inspired City Connect is Boston's every-Saturday home jersey, and it's also the kit the team leans on for Patriots' Day and Boston Marathon weekend in April.
+
+**What is the green Red Sox uniform?**
+That's the Fenway Green City Connect, unveiled in 2025 and inspired by the Green Monster — scoreboard-style numerals, yellow numbers, and "1912" on the collar. It's worn for Friday night home games and reportedly became the best-selling City Connect in MLB history.
+
+**When do the Red Sox wear the red jersey?**
+Since 2025, the red alternate has been Boston's Friday road uniform — the first time since 1933 the club has worn "RED SOX" instead of "BOSTON" on the road.
+
+**Did the Red Sox get rid of the navy alternate?**
+Yes. The navy/blue alternate was retired after the 2024 season to make room for the five-uniform rotation built around the two City Connects.
+
+**Do the Red Sox wear player names on their home jerseys?**
+No. The home whites and the red alternate have no names on the back, keeping a classic look; the road grays do carry player names.
+
+## More MLB Coverage
+
+- [New York Yankees 2026 Uniform Schedule](/stories/yankees-uniform-schedule-2026) — the AL East rival with the simplest rotation in baseball
+- [Baltimore Orioles 2026 Uniform Schedule](/stories/orioles-uniform-schedule-2026) — the other AL East closet, broken down
+- [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the gold standard of a true scheduled rotation
+- [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other MLB team running a strict uniform timetable
+- [Every National MLB Scorebug Ranked for 2026](/stories/national-mlb-scorebugs-2026-ranked) — Fox, TBS, ESPN, and Apple TV+ scorebugs graded
+
+*Uniform details compiled from team and league sources. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Boston Red Sox or Major League Baseball.*
