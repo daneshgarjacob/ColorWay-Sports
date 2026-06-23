@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "mets-uniform-schedule-2026",
+    "coverTitle": "METS",
+    "gradient": ["#002D72", "#FF5910"],
+    "swatches": [
+      { "label": "HOME PINSTRIPE", "hex": "#FFFFFF" },
+      { "label": "ROAD GRAY", "hex": "#9A9C9E" },
+      { "label": "BLUE ALT", "hex": "#002D72" },
+      { "label": "BLACK ALT", "hex": "#11151C" },
+      { "label": "CITY CONNECT", "hex": "#6F6F78" }
+    ]
+  },
+  {
+    "slug": "cubs-uniform-schedule-2026",
+    "coverTitle": "CUBS",
+    "gradient": ["#0E3386", "#CC3433"],
+    "swatches": [
+      { "label": "HOME PINSTRIPE", "hex": "#FFFFFF" },
+      { "label": "ROAD GRAY", "hex": "#B0B0B0" },
+      { "label": "BLUES ALT", "hex": "#4A90D9" },
+      { "label": "CUBBIE BLUE", "hex": "#0E3386" }
+    ]
+  },
+  {
+    "slug": "tigers-uniform-schedule-2026",
+    "coverTitle": "TIGERS",
+    "gradient": ["#0C2340", "#FA4616"],
+    "swatches": [
+      { "label": "HOME WHITE", "hex": "#FFFFFF" },
+      { "label": "ROAD GRAY", "hex": "#B3B5B2" },
+      { "label": "ORANGE ALT", "hex": "#FA4616" },
+      { "label": "NAVY ALT", "hex": "#0C2340" },
+      { "label": "CITY CONNECT", "hex": "#0A1B3D" }
+    ]
+  }
+]
