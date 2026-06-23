@@ -12,8 +12,6 @@ teams:
   - new-york-mets
 ---
 
-<img src="/images/posts/mets-uniform-schedule-2026/cover.jpg" alt="New York Mets 2026 uniform schedule cover showing the five uniform colors — home white pinstripe, road gray, blue alternate, black Friday alternate, and the gray NYC City Connect" style="width: 100%; border-radius: 10px;" />
-
 The New York Mets carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There are two soft anchors — the black alternate that owns Friday nights at Citi Field and the gray "NYC" City Connect that owns Saturdays — but everything else is manager's choice, with the pinstripes and the grays doing the day-to-day work. Here's the full Mets wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -71,41 +69,45 @@ The New York Mets carry five uniforms in 2026, and unlike a rigidly scheduled te
 
 The Mets carry five uniforms in 2026, and the set itself is unchanged from 2025 — what's new is in the details. Every jersey adds a black "DAVEY" memorial strip above the sleeve logo honoring former manager Davey Johnson, who died in September 2025, and the "NEW YORK" lettering on the road grays was restored to its previous, larger specification after being shrunk in 2024. None of it touches the rotation; it just tidies up a closet that already knows what it is.
 
-## Every 2026 Mets Uniform
+## Home White Pinstripes (Most Home Games)
 
-Straight from the Mets, a look at the kits in this year's rotation:
+The white pinstripe is the Mets' signature and the jersey most fans picture: a clean white shirt laced with blue pinstripes, the blue "Mets" script angled gently upward across the chest, and the blue cap with the interlocking orange "NY." Blue socks, belt, and undersleeves complete it. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the Friday black or the Saturday City Connect. It is one of the most recognizable home looks in the National League, and the Mets are smart to leave it almost entirely alone. Timeless does not need tinkering.
 
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2069499941429354640"></a></blockquote>
 </div>
 
-<div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
-</div>
-
-<div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
-</div>
-
-## Home White Pinstripes (Most Home Games)
-
-The white pinstripe is the Mets' signature and the jersey most fans picture: a clean white shirt laced with blue pinstripes, the blue "Mets" script angled gently upward across the chest, and the blue cap with the interlocking orange "NY." Blue socks, belt, and undersleeves complete it. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the Friday black or the Saturday City Connect. It is one of the most recognizable home looks in the National League, and the Mets are smart to leave it almost entirely alone. Timeless does not need tinkering.
-
 ## Road Grays (Most Away Games)
 
 On the road, the Mets wear the standard gray set with "NEW YORK" radially arched across the chest in the team's Tiffany typeface, blue lettering outlined in orange, names on the back, and the blue cap. The 2025 refresh swapped the old blue piping for thin blue-orange-blue triple stripes around the collar, the cuffs, and down the pants seams — a subtle nod to the franchise's heritage striping — and for 2026 the "NEW YORK" wordmark was bumped back up to its pre-2024 size. It's the workmanlike default for most away games, and the triple-stripe trim gives it just enough character to avoid feeling generic.
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
+</div>
 
 ## Blue Alternate (Manager's Choice, Mostly Road)
 
 The blue alternate is the wild card. It's a royal-blue top with orange striping at the collar and cuffs, a cursive "New York" script revived from the 1987 design with the player's number tucked below "York," and blue lettering outlined in orange. There's no fixed day attached to it — it's the jersey the Mets reach for when they feel like a splash of color, most often on the road, though in 2026 they've worn it at home a handful of times paired with the white pinstriped pants. It's the brightest, boldest thing in the closet, and the lack of a schedule is exactly what keeps it feeling like an event whenever it shows up.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
+</div>
+
 ## Black Alternate (Friday Home Games)
 
 Black is back, and it's the closest thing the Mets have to a hard rule. The black alternate — a black jersey with the blue-and-orange "Mets" wordmark (the heavy drop shadow dropped for a cleaner two-color graphic in 2024), the blue cap, white pants with blue piping, and black socks — has become the team's Friday-night home look at Citi Field. The black trim era ran from 1998 to 2011 before the Mets shelved it, and its revival as a weekly alternate taps directly into a wave of nostalgia for that turn-of-the-century identity. Giving it a standing Friday slot is the rare bit of scheduling discipline in an otherwise loose rotation, and fans clearly love seeing it back under the lights.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065839072023609557"></a></blockquote>
+</div>
+
 ## City Connect — The "NYC" Subway Kit (Saturday Home Games)
 
 The City Connect, unveiled in April 2024, is the most conceptually loaded jersey the Mets own. The base is concrete gray for the city's "concrete jungle," with pinstripes built from circles and diamonds that mirror the MTA's local and express subway symbols, and "NYC" arched across the chest in black capitals outlined in white — a deliberate move to claim the whole city rather than just Queens. Purple threads through the details for the 7 line that runs to Citi Field: purple flourishes, purple undersleeves added in 2025, and a "The World's City" inscription near the collar. The black cap carries a cross-section of the Queensboro Bridge steelwork on the front and a subway-map print inside, and the sleeve patch is shaped like a vintage subway token. Since debuting on April 27, 2024, it has anchored Saturday home games. It's busy, it's specific, and it is unmistakably New York — easily one of the more thoughtful entries in the City Connect program.
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065853193603485730"></a></blockquote>
+</div>
 
 ## How the Mets Rotation Actually Works
 
