@@ -7,8 +7,9 @@
 // shows the group's final-matchday games + date ("check back").
 //
 // REAL standings as of 2026-06-21 (source: live WC standings, Yahoo/NBC).
-// Group J updated 2026-06-22: Argentina beat Austria 2-0 (MD2) → ARG 6pts clinched.
-// (Jordan-Algeria MD2 is 6/22 night — refresh JOR/ALG after that result lands.)
+// Groups I & J updated 2026-06-22 (all MD2 done): Group I — France 3-0 Iraq + Norway 3-2 Senegal
+// → FRA & NOR both through on 6. Group J — Argentina 2-0 Austria (ARG clinched) + Algeria 2-1
+// Jordan (ALG to 3 pts). Final matchdays: Group I June 26, Group J June 27.
 // Ready now: A, B, C, D, E, F, I, J, K, L (all at their final matchday, final games
 // 6/24-6/27). Groups G and H are a game behind — flip `ready: true` + fill real
 // standings once they reach their final matchday (after their next game).
@@ -120,10 +121,10 @@ export const wcGroups: RGGroup[] = [
   {
     id: "I", ready: true, finalDate: "June 26",
     teams: [
-      { key: "NOR", name: "Norway", pts: 3, gd: 3, gf: 4, color: "#BA0C2F" },
-      { key: "FRA", name: "France", pts: 3, gd: 2, gf: 3, color: "#002395" },
-      { key: "SEN", name: "Senegal", pts: 0, gd: -2, gf: 1, color: "#00853F" },
-      { key: "IRQ", name: "Iraq", pts: 0, gd: -3, gf: 1, color: "#1AA84F" },
+      { key: "FRA", name: "France", pts: 6, gd: 5, gf: 6, color: "#002395" },
+      { key: "NOR", name: "Norway", pts: 6, gd: 4, gf: 7, color: "#BA0C2F" },
+      { key: "SEN", name: "Senegal", pts: 0, gd: -3, gf: 3, color: "#00853F" },
+      { key: "IRQ", name: "Iraq", pts: 0, gd: -6, gf: 1, color: "#1AA84F" },
     ],
     fixtures: [{ home: "NOR", away: "FRA" }, { home: "SEN", away: "IRQ" }],
   },
@@ -132,8 +133,8 @@ export const wcGroups: RGGroup[] = [
     teams: [
       { key: "ARG", name: "Argentina", pts: 6, gd: 5, gf: 5, color: "#75AADB" },
       { key: "AUT", name: "Austria", pts: 3, gd: 0, gf: 3, color: "#ED2939" },
-      { key: "JOR", name: "Jordan", pts: 0, gd: -2, gf: 1, color: "#1F8A4C" },
-      { key: "ALG", name: "Algeria", pts: 0, gd: -3, gf: 0, color: "#0B7A3B" },
+      { key: "ALG", name: "Algeria", pts: 3, gd: -2, gf: 2, color: "#0B7A3B" },
+      { key: "JOR", name: "Jordan", pts: 0, gd: -3, gf: 2, color: "#1F8A4C" },
     ],
     fixtures: [{ home: "ALG", away: "AUT" }, { home: "JOR", away: "ARG" }],
   },
