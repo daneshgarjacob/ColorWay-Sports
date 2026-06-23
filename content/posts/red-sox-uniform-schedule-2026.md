@@ -1,8 +1,8 @@
 ---
-title: "Red Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
+title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the One That's Gone"
 category: MLB
 date: "2026-06-23"
-excerpt: "The Boston Red Sox carry five uniforms in 2026 — home whites, road grays, the red alternate, the yellow Marathon City Connect, and the new Fenway Green. Here's every jersey, when they wear it, and why the navy alternate is gone."
+excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -12,9 +12,7 @@ teams:
   - boston-red-sox
 ---
 
-<img src="/images/posts/red-sox-uniform-schedule-2026/cover.jpg" alt="Boston Red Sox 2026 uniform schedule cover showing the five uniform colors — home white, road gray, red alternate, yellow City Connect, and Fenway Green City Connect" style="width: 100%; border-radius: 10px;" />
-
-The Boston Red Sox run five uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. Two of those five are City Connects — the yellow "Marathon" kit and the brand-new Fenway Green — and they own two specific days of the week. Here's the full Red Sox closet for 2026 and exactly when each jersey comes out.
+The Boston Red Sox quietly retired one of their jerseys for 2026 — and the City Connect they leaned on instead is now the best-selling in MLB history. Here's the complete Red Sox uniform schedule for 2026: all five jerseys, and exactly when they wear each one. The rotation isn't as rigidly scheduled as a team like the Phillies, but there's a clear logic once you know the anchors — two of the five are City Connects (the yellow "Marathon" kit and the brand-new Fenway Green), and each one owns a specific night of the week.
 
 ## Sample Home-and-Road Week at a Glance
 
@@ -76,7 +74,7 @@ The Red Sox carry five uniforms in 2026, and the lineup is the same five they se
 The home white is Boston's bread and butter: a clean white jersey with red piping, "RED SOX" arched across the chest in red script outlined in blue, and red numbers on the back with no player names — a classic touch the Red Sox keep at home. It's worn for the bulk of the homestand, essentially every home game that isn't a Friday or a Saturday (those belong to the two City Connects). For 2026 the lettering was re-spaced after the original drew complaints for crowding the buttons, and the fix was ready for Opening Day. It's understated and timeless, exactly what a home flannel at Fenway should be.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2067311217589252309"></a></blockquote>
 </div>
 
 ## Road Grays (Most Away Games)
@@ -84,7 +82,7 @@ The home white is Boston's bread and butter: a clean white jersey with red pipin
 On the road, Boston wears the standard gray set with "BOSTON" across the chest in red — the road jerseys switched to red lettering back in 2014 to match the home typeface — with player names on the back and the navy cap. It's the default for most away games, the workmanlike road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2067311217589252309"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
 </div>
 
 ## Red Alternate (Friday Road Games)
@@ -100,7 +98,7 @@ The red alternate is the one that moved. A red jersey worn with white pants, "RE
 Boston's original City Connect, introduced in 2021, is one of the most beloved alternates in the sport. The yellow-and-blue color scheme is pulled straight from the Boston Marathon: a bright yellow jersey with "BOSTON" stenciled in light blue, light-blue sleeve striping, a light-blue cap, and a "617" race-bib patch on the sleeve honoring the city's area code. Since 2024 it's been the every-Saturday home uniform, and it remains the team's signature kit for Patriots' Day and Marathon weekend in April. It's vivid, civic, and completely Boston — one of the best City Connects MLB ever approved.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065621943991062566"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065935525651821033"></a></blockquote>
 </div>
 
 ## Fenway Green — The Green Monster City Connect (Friday Home Games)
@@ -108,7 +106,7 @@ Boston's original City Connect, introduced in 2021, is one of the most beloved a
 The newest piece, unveiled in 2025, leans all the way into Fenway Park itself. The green jersey is inspired by the Green Monster, down to a font that matches the wall's hand-operated scoreboard numerals, yellow numbers that echo the scoreboard's current-inning run total, "1912" on the collar for the year Fenway opened, and a green cap with a gray "B." It reportedly became the best-selling City Connect in MLB history, and it now owns Friday night home games. Tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065935525651821033"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065621943991062566"></a></blockquote>
 </div>
 
 ## What Happened to the Navy Alternate?
@@ -128,11 +126,14 @@ One more constant: all five jerseys carry the **MassMutual** advertising patch o
 **How many uniforms do the Red Sox have in 2026?**
 Five: the home white, the road gray, the red alternate, the yellow "Marathon" City Connect, and the new Fenway Green City Connect. The old navy alternate was retired after the 2024 season.
 
+**What are the Red Sox City Connect uniforms for 2026?**
+The Red Sox have two. The original yellow "Marathon" City Connect (2021), inspired by the Boston Marathon, is worn on Saturday home games. The newer Fenway Green City Connect (2025), modeled on the Green Monster, is worn on Friday home games and reportedly became the best-selling City Connect in MLB history.
+
 **When do the Red Sox wear the yellow City Connect uniform?**
 The yellow Marathon-inspired City Connect is Boston's every-Saturday home jersey, and it's also the kit the team leans on for Patriots' Day and Boston Marathon weekend in April.
 
 **What is the green Red Sox uniform?**
-That's the Fenway Green City Connect, unveiled in 2025 and inspired by the Green Monster — scoreboard-style numerals, yellow numbers, and "1912" on the collar. It's worn for Friday night home games and reportedly became the best-selling City Connect in MLB history.
+That's the Fenway Green City Connect, unveiled in 2025 and inspired by the Green Monster — scoreboard-style numerals, yellow numbers, and "1912" on the collar. It's worn for Friday night home games.
 
 **When do the Red Sox wear the red jersey?**
 Since 2025, the red alternate has been Boston's Friday road uniform — the first time since 1933 the club has worn "RED SOX" instead of "BOSTON" on the road.

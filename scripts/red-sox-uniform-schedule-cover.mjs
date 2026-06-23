@@ -24,7 +24,7 @@ const SWATCHES = [
   { color: "#FFD100", label: "CITY CONNECT" },
   { color: "#00683E", label: "FENWAY GREEN" },
 ];
-const SW = 196, SG = 30, SH = 140, SY = 648;
+const SW = 196, SG = 30, SH = 150, SY = 662;
 const totalW = SWATCHES.length * SW + (SWATCHES.length - 1) * SG;
 const startX = Math.round((W - totalW) / 2);
 const centerX = (i) => startX + i * (SW + SG) + SW / 2;
@@ -57,11 +57,10 @@ async function build() {
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
     <rect x="0" y="0" width="${W}" height="8" fill="#BD3039"/>
     <rect x="0" y="${H - 8}" width="${W}" height="8" fill="#BD3039"/>
-    <circle cx="${W / 2}" cy="190" r="158" fill="#ffffff"/>
-    <text x="${W / 2}" y="408" text-anchor="middle" class="kick" font-size="23">COLORWAY · MLB UNIFORM GUIDE</text>
-    <text x="${W / 2}" y="480" text-anchor="middle" class="title" font-size="90">RED SOX</text>
-    <text x="${W / 2}" y="534" text-anchor="middle" class="sub" font-size="46">UNIFORM SCHEDULE 2026</text>
-    <text x="${W / 2}" y="576" text-anchor="middle" class="tag" font-size="22">EVERY JERSEY &amp; WHEN THEY WEAR IT</text>
+    <circle cx="${W / 2}" cy="196" r="160" fill="#ffffff"/>
+    <text x="${W / 2}" y="466" text-anchor="middle" class="title" font-size="104">RED SOX</text>
+    <text x="${W / 2}" y="528" text-anchor="middle" class="sub" font-size="48">UNIFORM SCHEDULE 2026</text>
+    <text x="${W / 2}" y="572" text-anchor="middle" class="tag" font-size="22">EVERY JERSEY &amp; WHEN THEY WEAR IT</text>
     ${swatchRects}
   </svg>`;
 
@@ -72,7 +71,7 @@ async function build() {
 
   const composed = await sharp(Buffer.from(svg))
     .composite([
-      { input: team, left: Math.round(W / 2 - tM.width / 2), top: Math.round(190 - tM.height / 2) },
+      { input: team, left: Math.round(W / 2 - tM.width / 2), top: Math.round(196 - tM.height / 2) },
       { input: cw, left: W - cwM.width - 54, top: H - cwM.height - 30 },
     ])
     .jpeg({ quality: 88 })
