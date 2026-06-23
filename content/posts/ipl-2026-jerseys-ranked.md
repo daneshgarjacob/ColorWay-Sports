@@ -11,7 +11,7 @@ league: cricket
 teams: []
 ---
 
-<img src="/images/posts/cricket-league-jerseys-ipl/ipl-2026-cover.jpg" alt="IPL 2026 jerseys ranked cover featuring all 10 Indian Premier League team logos — Sunrisers Hyderabad, Mumbai Indians, Gujarat Titans, Chennai Super Kings, Kolkata Knight Riders, Delhi Capitals, Rajasthan Royals, Royal Challengers Bengaluru, Punjab Kings, and Lucknow Super Giants" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
+<img src="/images/posts/cricket-league-jerseys-ipl/ipl-2026-cover.jpg" alt="IPL 2026 jerseys ranked cover featuring all 10 Indian Premier League team logos — Sunrisers Hyderabad, Mumbai Indians, Gujarat Titans, Chennai Super Kings, Kolkata Knight Riders, Delhi Capitals, Rajasthan Royals, Royal Challengers Bengaluru, Punjab Kings, and Lucknow Super Giants" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px; margin-bottom: 1.85em;" />
 
 The 2026 Indian Premier League brought a fresh wave of kits, and with ten franchises — plus Royal Challengers Bengaluru's special "Go Green" edition — there are **eleven jerseys** on the field this year, each one a different color story. The IPL has the boldest, most saturated kit palette in world cricket: this is the league of canary yellow, royal purple, blazing orange and hot pink, where every shirt is a statement and no team is afraid of color.
 
@@ -21,11 +21,9 @@ This is ColorWay's design-first ranking of all **eleven IPL 2026 jerseys, from w
 
 ## 11. Lucknow Super Giants
 
-<div style="background: linear-gradient(135deg, #0a2a5c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#11</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-lsg.png" alt="Lucknow Super Giants IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #0a2a5c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#11</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-lsg.png" alt="Lucknow Super Giants IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Lucknow Super Giants</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">JK Super Cement</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -37,11 +35,9 @@ The bottom of the board. Lucknow's red-and-royal-blue vertical stripes are busy 
 
 ## 10. Punjab Kings
 
-<div style="background: linear-gradient(135deg, #6b0f17 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#10</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-pbks.png" alt="Punjab Kings IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #6b0f17 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#10</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-pbks.png" alt="Punjab Kings IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Punjab Kings</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">CP Plus</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -53,11 +49,9 @@ Punjab Kings keep it simple with their signature red — and simple is fine, but
 
 ## 9. Royal Challengers Bengaluru (Home)
 
-<div style="background: linear-gradient(135deg, #6b0c18 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#9</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-rcb.png" alt="Royal Challengers Bengaluru IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #6b0c18 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#9</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-rcb.png" alt="Royal Challengers Bengaluru IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Royal Challengers Bengaluru</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Nothing · Home Kit</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -69,11 +63,9 @@ The standard Royal Challengers home is a tale of two halves — a dark navy top 
 
 ## 8. Royal Challengers Bengaluru (Go Green)
 
-<div style="background: linear-gradient(135deg, #0a5a2e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#8</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-rcb.png" alt="Royal Challengers Bengaluru IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #0a5a2e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#8</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-rcb.png" alt="Royal Challengers Bengaluru IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">RCB Go Green Edition</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Nothing · Sustainability Kit</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -85,11 +77,9 @@ RCB's "Go Green" edition — worn for one home game each season as part of the t
 
 ## 7. Rajasthan Royals
 
-<div style="background: linear-gradient(135deg, #6b1248 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#7</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-rr.png" alt="Rajasthan Royals IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #6b1248 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#7</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-rr.png" alt="Rajasthan Royals IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Rajasthan Royals</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Waaree Solar</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -101,11 +91,9 @@ Rajasthan Royals own the most distinctive color story in the league — that roy
 
 ## 6. Delhi Capitals
 
-<div style="background: linear-gradient(135deg, #0e2e6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#6</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-dc.png" alt="Delhi Capitals IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #0e2e6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#6</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-dc.png" alt="Delhi Capitals IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Delhi Capitals</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Hero Fincorp</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -117,11 +105,9 @@ Delhi Capitals bring the menace — a deep blue shirt slashed with red tiger-str
 
 ## 5. Kolkata Knight Riders
 
-<div style="background: linear-gradient(135deg, #3a1d63 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#5</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-kkr.png" alt="Kolkata Knight Riders IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #3a1d63 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#5</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-kkr.png" alt="Kolkata Knight Riders IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Kolkata Knight Riders</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Vida</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -133,11 +119,9 @@ Shah Rukh Khan's Knight Riders wear the most regal palette in the IPL — deep p
 
 ## 4. Chennai Super Kings
 
-<div style="background: linear-gradient(135deg, #5c4a00 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#4</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-csk.png" alt="Chennai Super Kings IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #5c4a00 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#4</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-csk.png" alt="Chennai Super Kings IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Chennai Super Kings</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Etihad Airways</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -149,11 +133,9 @@ There may be no more iconic shirt in Indian cricket than Chennai's "Whistle Podu
 
 ## 3. Gujarat Titans
 
-<div style="background: linear-gradient(135deg, #1b2740 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#3</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-gt.png" alt="Gujarat Titans IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #1b2740 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#3</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-gt.png" alt="Gujarat Titans IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Gujarat Titans</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Birla Estates</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -165,11 +147,9 @@ Gujarat Titans have quietly built one of the league's sharpest identities. The d
 
 ## 2. Mumbai Indians
 
-<div style="background: linear-gradient(135deg, #002d6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: rgba(255,255,255,0.85); line-height: 1;">#2</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-mi.png" alt="Mumbai Indians IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #002d6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#2</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-mi.png" alt="Mumbai Indians IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Mumbai Indians</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Lauritz Knudsen</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -181,11 +161,9 @@ Mumbai Indians wear the most successful colors in IPL history, and they look the
 
 ## 1. Sunrisers Hyderabad
 
-<div style="background: linear-gradient(135deg, #8a3500 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 18px; margin-bottom: 4px;">
-    <span style="font-size: 2.6em; font-weight: 900; color: #FDB913; line-height: 1;">#1</span>
-    <img src="/images/posts/cricket-league-jerseys-ipl/logo-srh.png" alt="Sunrisers Hyderabad IPL logo" style="height: 66px; width: auto;" />
-  </div>
+<div style="background: linear-gradient(135deg, #8a3500 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+  <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#1</span>
+  <img src="/images/posts/cricket-league-jerseys-ipl/logo-srh.png" alt="Sunrisers Hyderabad IPL logo" style="height: 64px; width: auto; display: block; margin: 2px auto 14px;" />
   <p style="color: #fff; font-weight: 900; font-size: 1.3em; margin: 8px 0 2px;">Sunrisers Hyderabad</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Shree Cement · #1 Kit of 2026</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
@@ -230,3 +208,11 @@ Royal Challengers Bengaluru wear their "Go Green" jersey for one home game each 
 **What color is each IPL team's jersey in 2026?**
 
 Chennai Super Kings wear yellow, Mumbai Indians wear royal blue and gold, Sunrisers Hyderabad wear orange, Kolkata Knight Riders wear purple and gold, Royal Challengers Bengaluru wear navy and red, Rajasthan Royals wear blue and pink, Gujarat Titans wear navy and gold, Delhi Capitals wear blue and red, Punjab Kings wear red, and Lucknow Super Giants wear red and blue.
+
+**Why did several IPL teams change sponsors for 2026?**
+
+Several IPL franchises signed new front-of-shirt sponsors for 2026 after real-money fantasy gaming brands — long a major presence on IPL kits — stepped back amid regulatory pressure in India. That opened the door for new principal sponsors across the cement, energy, aviation, and tech sectors, including Shree Cement on Sunrisers Hyderabad, Etihad Airways on Chennai Super Kings, and Waaree Solar on Rajasthan Royals.
+
+---
+
+<p style="font-size: 0.82em; color: #888; font-style: italic; text-align: center; margin: 2.5em 0 0;">All team logos, crests, and kit images in this post are the property of their respective IPL franchises and the BCCI, and are shown here purely for editorial commentary and identification. ColorWay Sports is not affiliated with, endorsed by, or sponsored by the Indian Premier League or any of its teams.</p>
