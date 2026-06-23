@@ -71,6 +71,22 @@ The New York Mets carry five uniforms in 2026, and unlike a rigidly scheduled te
 
 The Mets carry five uniforms in 2026, and the set itself is unchanged from 2025 — what's new is in the details. Every jersey adds a black "DAVEY" memorial strip above the sleeve logo honoring former manager Davey Johnson, who died in September 2025, and the "NEW YORK" lettering on the road grays was restored to its previous, larger specification after being shrunk in 2024. None of it touches the rotation; it just tidies up a closet that already knows what it is.
 
+## Every 2026 Mets Uniform
+
+Straight from the Mets, a look at the kits in this year's rotation:
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2069499941429354640"></a></blockquote>
+</div>
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
+</div>
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
+</div>
+
 ## Home White Pinstripes (Most Home Games)
 
 The white pinstripe is the Mets' signature and the jersey most fans picture: a clean white shirt laced with blue pinstripes, the blue "Mets" script angled gently upward across the chest, and the blue cap with the interlocking orange "NY." Blue socks, belt, and undersleeves complete it. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the Friday black or the Saturday City Connect. It is one of the most recognizable home looks in the National League, and the Mets are smart to leave it almost entirely alone. Timeless does not need tinkering.
