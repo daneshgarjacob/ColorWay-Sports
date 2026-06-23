@@ -1,37 +1,18 @@
 [
-  {
-    "slug": "mets-uniform-schedule-2026",
-    "coverTitle": "METS",
-    "gradient": ["#002D72", "#FF5910"],
-    "swatches": [
-      { "label": "HOME PINSTRIPE", "hex": "#FFFFFF" },
-      { "label": "ROAD GRAY", "hex": "#9A9C9E" },
-      { "label": "BLUE ALT", "hex": "#002D72" },
-      { "label": "BLACK ALT", "hex": "#11151C" },
-      { "label": "CITY CONNECT", "hex": "#6F6F78" }
-    ]
-  },
-  {
-    "slug": "cubs-uniform-schedule-2026",
-    "coverTitle": "CUBS",
-    "gradient": ["#0E3386", "#CC3433"],
-    "swatches": [
-      { "label": "HOME PINSTRIPE", "hex": "#FFFFFF" },
-      { "label": "ROAD GRAY", "hex": "#B0B0B0" },
-      { "label": "BLUES ALT", "hex": "#4A90D9" },
-      { "label": "CUBBIE BLUE", "hex": "#0E3386" }
-    ]
-  },
-  {
-    "slug": "tigers-uniform-schedule-2026",
-    "coverTitle": "TIGERS",
-    "gradient": ["#0C2340", "#FA4616"],
-    "swatches": [
-      { "label": "HOME WHITE", "hex": "#FFFFFF" },
-      { "label": "ROAD GRAY", "hex": "#B3B5B2" },
-      { "label": "ORANGE ALT", "hex": "#FA4616" },
-      { "label": "NAVY ALT", "hex": "#0C2340" },
-      { "label": "CITY CONNECT", "hex": "#0A1B3D" }
-    ]
-  }
+  {"slug":"rays-uniform-schedule-2026","coverTitle":"RAYS","gradient":["#092C5C","#8FBCE6"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"COLUMBIA BLUE","hex":"#8FBCE6"},{"label":"NAVY ALT","hex":"#092C5C"},{"label":"DEVIL RAYS","hex":"#2FA84F"},{"label":"CITY CONNECT","hex":"#1A1A1A"}]},
+  {"slug":"blue-jays-uniform-schedule-2026","coverTitle":"BLUE JAYS","gradient":["#134A8E","#A5C8E4"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROYAL BLUE","hex":"#134A8E"},{"label":"NAVY","hex":"#1D2D5C"},{"label":"POWDER BLUE","hex":"#A5C8E4"},{"label":"CANADA RED","hex":"#E8291C"}]},
+  {"slug":"white-sox-uniform-schedule-2026","coverTitle":"WHITE SOX","gradient":["#27251F","#C4CED4"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"SILVER","hex":"#C4CED4"},{"label":"BLACK ALT","hex":"#27251F"},{"label":"RED CC","hex":"#C8102E"}]},
+  {"slug":"guardians-uniform-schedule-2026","coverTitle":"GUARDIANS","gradient":["#0C2340","#E31937"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"NAVY ALT","hex":"#0C2340"},{"label":"RED ALT","hex":"#E31937"},{"label":"CITY CONNECT","hex":"#C8A878"}]},
+  {"slug":"twins-uniform-schedule-2026","coverTitle":"TWINS","gradient":["#002B5C","#B9975B"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"NAVY ALT","hex":"#002B5C"},{"label":"KASOTA GOLD","hex":"#B9975B"},{"label":"CREAM","hex":"#EFE8D8"},{"label":"CITY CONNECT","hex":"#1C6DB2"}]},
+  {"slug":"astros-uniform-schedule-2026","coverTitle":"ASTROS","gradient":["#002D62","#EB6E1F"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"ORANGE ALT","hex":"#EB6E1F"},{"label":"NAVY ALT","hex":"#002D62"},{"label":"AFTERBURNER","hex":"#F4B23E"}]},
+  {"slug":"angels-uniform-schedule-2026","coverTitle":"ANGELS","gradient":["#BA0021","#003263"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#C4CED4"},{"label":"RED ALT","hex":"#BA0021"},{"label":"NAVY","hex":"#003263"},{"label":"CITY CONNECT","hex":"#E7DFCA"}]},
+  {"slug":"athletics-uniform-schedule-2026","coverTitle":"ATHLETICS","gradient":["#006341","#EFB21E"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"KELLY GREEN","hex":"#006341"},{"label":"GOLD","hex":"#EFB21E"}]},
+  {"slug":"mariners-uniform-schedule-2026","coverTitle":"MARINERS","gradient":["#0C2C56","#005C5C"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"NAVY","hex":"#0C2C56"},{"label":"NW GREEN","hex":"#005C5C"},{"label":"CREAM","hex":"#F4ECD8"},{"label":"CITY CONNECT","hex":"#11151C"}]},
+  {"slug":"rangers-uniform-schedule-2026","coverTitle":"RANGERS","gradient":["#003278","#C0111F"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"ROYAL BLUE","hex":"#003278"},{"label":"POWDER BLUE","hex":"#6FA8DC"},{"label":"TEJAS RED","hex":"#C0111F"}]},
+  {"slug":"nationals-uniform-schedule-2026","coverTitle":"NATIONALS","gradient":["#AB0003","#14225A"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"RED ALT","hex":"#AB0003"},{"label":"NAVY ALT","hex":"#14225A"},{"label":"CITY CONNECT","hex":"#3A5A8C"}]},
+  {"slug":"reds-uniform-schedule-2026","coverTitle":"REDS","gradient":["#C6011F","#000000"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"RED ALT","hex":"#C6011F"},{"label":"BLACK CC","hex":"#1A1A1A"},{"label":"RED CC","hex":"#7A0014"}]},
+  {"slug":"brewers-uniform-schedule-2026","coverTitle":"BREWERS","gradient":["#12284B","#FFC52F"],"swatches":[{"label":"CREAM HOME","hex":"#F1EFE9"},{"label":"POWDER BLUE","hex":"#7FB2E5"},{"label":"NAVY ALT","hex":"#12284B"},{"label":"GOLD","hex":"#FFC52F"},{"label":"CITY CONNECT","hex":"#2C5AA0"}]},
+  {"slug":"pirates-uniform-schedule-2026","coverTitle":"PIRATES","gradient":["#27251F","#FDB827"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"BLACK ALT","hex":"#27251F"},{"label":"GOLD","hex":"#FDB827"}]},
+  {"slug":"diamondbacks-uniform-schedule-2026","coverTitle":"D-BACKS","gradient":["#A71930","#000000"],"swatches":[{"label":"OFF-WHITE","hex":"#F1EFE9"},{"label":"SEDONA RED","hex":"#A71930"},{"label":"BLACK","hex":"#000000"},{"label":"TEAL","hex":"#30CED8"},{"label":"CC PURPLE","hex":"#4B2E83"}]},
+  {"slug":"rockies-uniform-schedule-2026","coverTitle":"ROCKIES","gradient":["#33006F","#000000"],"swatches":[{"label":"HOME WHITE","hex":"#FFFFFF"},{"label":"ROAD GRAY","hex":"#9A9C9E"},{"label":"PURPLE","hex":"#33006F"},{"label":"BLACK","hex":"#000000"},{"label":"CC COBALT","hex":"#1F4EA8"}]}
 ]

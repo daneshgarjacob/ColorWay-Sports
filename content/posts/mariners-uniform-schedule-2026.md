@@ -1,0 +1,133 @@
+---
+title: "Seattle Mariners Uniform Schedule 2026: Every Jersey and When They Wear It"
+category: MLB
+date: "2026-06-23"
+excerpt: "The Seattle Mariners run five uniforms in 2026 — the home whites, road navy, the Northwest green alternate, the brand-new Steelheads Sunday throwback, and an all-new black City Connect. Here's every jersey, when they wear it, and what changed this year."
+gradient: "linear-gradient(135deg, #0C2C56 0%, #005C5C 50%, #0C2C56 100%)"
+coverImage: "/images/posts/mariners-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+league: mlb
+teams:
+  - seattle-mariners
+---
+
+<img src="/images/posts/mariners-uniform-schedule-2026/cover.jpg" alt="Seattle Mariners 2026 uniform schedule cover showing the five uniform colors — home white, road navy, Northwest green alternate, the black-and-cream Steelheads Sunday throwback, and the new black City Connect" style="width: 100%; border-radius: 10px;" />
+
+The Seattle Mariners carry five uniforms in 2026, and this is the most interesting their closet has looked in years. Two brand-new pieces arrive at once — a black-and-cream Seattle Steelheads throwback that takes over Sundays, and an all-new City Connect that retires the royal-and-black look from 2023. Under MLB's "4+1" framework, that leaves the whites, the road navy, and the Northwest green alternate to do the rest. Here's the full Mariners wardrobe for 2026 and when each jersey actually comes out.
+
+## Sample Home-and-Road Week at a Glance
+
+<div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background: #0C2C56; color: #fff;">
+    <div style="padding: 0.6em 0.3em;">Mon</div>
+    <div style="padding: 0.6em 0.3em;">Tue</div>
+    <div style="padding: 0.6em 0.3em;">Wed</div>
+    <div style="padding: 0.6em 0.3em;">Thu</div>
+    <div style="padding: 0.6em 0.3em;">Fri</div>
+    <div style="padding: 0.6em 0.3em;">Sat</div>
+    <div style="padding: 0.6em 0.3em;">Sun</div>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center;">
+    <div style="padding: 1.2em 0.3em; background: #0C2C56; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Navy</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #0C2C56; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Navy</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #0C2C56; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Navy</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #11151c; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌃</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Fri Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #005C5C; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌲</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Northwest Green</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Sat Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #1c1c1c; color: #f4ecd8;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🐟</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Steelheads</div>
+      <div style="font-size: 0.65em; color: rgba(244,236,216,0.8); margin-top: 0.3em;">Sun Home</div>
+    </div>
+  </div>
+</div>
+
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">A couple of honest caveats the grid can't show: the <strong>Northwest green</strong> alternate isn't strictly a Saturday-only look — it also travels, surfacing on the road when the home team wears navy or black. And the weekend home assignments (City Connect Friday, green Saturday, Steelheads Sunday) are habits, not a published mandate, so treat the week above as a representative homestand rather than a guarantee.</p>
+
+The big story for 2026 is turnover at the top of the closet. Seattle is retiring the cream Sunday alternate it had worn for roughly a decade and replacing it with a Seattle Steelheads tribute, and the 2023 City Connect — the royal-blue top with black pants — has reached the end of MLB's three-year City Connect cycle and gets a full redesign. The whites, the road navy, and the Northwest green carry over largely as-is, still anchored by the navy, Northwest green, and silver palette the franchise adopted back in 1993.
+
+## Home Whites (Most Home Games)
+
+The home white is the cornerstone: a clean white jersey with "Mariners" arched across the chest in navy, trimmed in Northwest green and silver, paired with the navy cap carrying the ball-and-compass-rose "S." It's the default for the bulk of every homestand — essentially any home game not claimed by the City Connect, the green, or the Steelheads weekend looks. There's nothing flashy here, and that's the point: the compass-rose identity is one of the more handsome marks in the American League, and the whites let it sit front and center without competition. Timeless does not need tinkering.
+
+## Road Navy (Most Away Games)
+
+This is the one newcomers to the franchise tend to get wrong. The Mariners no longer wear gray on the road — they dropped grays after 2022 and made **navy** their primary road jersey for 2023, a move nudged along by MLB's uniform rules at the time. The navy top reads "Seattle" across the chest in silver and Northwest green, worn with the same navy compass cap, and it's the default for most away games. It gives Seattle one of the darker, moodier road looks in the league, which suits a team whose whole identity is built around deep navy and saltwater green. It's the workhorse of the away schedule.
+
+## Northwest Green Alternate (Saturday Home Games + Select Road)
+
+The Northwest green — the saltwater teal that's been part of the Mariners' DNA since the 1993 rebrand — is the splash of color in the rotation. It's a green jersey with "Mariners" across the chest in silver with navy trim, and it pulls double duty: it owns select Saturday home games, and it also travels, coming out on the road when the home club is wearing navy or black and Seattle wants the contrast. That flexibility is exactly why it doesn't lock neatly into a single day on the grid. It's the most distinctly *Seattle* color the team owns, and giving it both a home slot and a road job keeps it in regular circulation.
+
+## Steelheads Sunday — The New Black-and-Cream Throwback (Sunday Home Games)
+
+This is the headline addition. For 2026 the Mariners introduce a black-and-cream uniform modeled on the **Seattle Steelheads**, the city's Negro leagues club that played in 1946, and it takes over Sunday home games as part of "Steelheads Sundays" at T-Mobile Park. The jersey carries a sleeve patch featuring Mount Rainier and the letters "PNW" for the Pacific Northwest, and it replaces the cream Sunday alternate Seattle had worn for years. It's a meaningful piece of design history, too: the move makes the Mariners the first MLB club to fold a Negro leagues uniform into its regular-season rotation rather than wearing one only for a single tribute game. Handing it a standing weekly slot — every Sunday at home — is what separates this from a one-off, and it's the rare alternate that's as much civic history lesson as it is a jersey.
+
+## City Connect — The New Black Kit (Friday Home Games)
+
+The 2023 City Connect is gone, and the 2026 redesign is a sharp turn. Where the original paired a royal-blue top with black pants, the new look is a **black kit** built around Pacific Northwest and Seattle baseball history. "Seattle" runs across the chest in lettering inspired by the Seattle Pilots — the city's original 1969 MLB team — with a typeface that also nods to the Seattle Rainiers, the cap carries the trident logo the franchise used in the 1980s and again in the late 2010s, and the sleeve wears the same Mount Rainier "PNW" patch. The details are where it earns its stripes: "Sodo Mojo" stitched inside the collar and "My Oh My" — Dave Niehaus's signature call — above the jock tag. It's layered without getting cluttered, and it slots into Friday home games. Tying the loudest, most place-specific jersey in the closet to a fixed weekly night is smart: fans know exactly when to come see it.
+
+## What Happened to the Cream Sunday Uniform?
+
+Retired. The cream alternate that owned Sundays for about a decade was phased out to make room for the Steelheads throwback. If you're looking for the old Sunday creams in 2026, you won't find them on the field — their Sunday role now belongs entirely to the black-and-cream Steelheads look, which keeps a warm, vintage tone in the rotation while attaching it to a far richer local story.
+
+## How the Mariners Rotation Actually Works
+
+Let's be straight about it: Seattle runs a looser system than the truly scheduled clubs. The [Astros](/stories/astros-uniform-schedule-2026) and a team like the Phillies treat their closets like a published timetable; the Mariners really only have a handful of soft anchors — **City Connect on Friday home games, Northwest green on Saturday home games, and the Steelheads throwback on Sunday home games**. Everything else is the default: home whites for the rest of the homestand, road navy for most of the trip, with the green also free to travel when the matchup calls for it.
+
+It still works, because the anchors cover the jerseys fans actually plan around. The City Connect and the Steelheads tribute are the looks people buy tickets and merch for, so giving each one a standing weekend night builds anticipation even without a rigid weekday-by-weekday script. The whites and the road navy are perfectly content to handle the quiet work in between.
+
+One more constant worth noting: since 2025 the Mariners have carried a **Nintendo** advertising patch on the sleeve, a fitting partnership for a franchise headquartered in the same Pacific Northwest backyard as the gaming giant's American arm.
+
+## Frequently Asked Questions
+
+**How many uniforms do the Mariners have in 2026?**
+Five: the home white, the road navy, the Northwest green alternate, the new Steelheads Sunday throwback, and an all-new black City Connect. That fits MLB's "4+1" structure — four standard uniforms plus the City Connect. Both the Steelheads look and the City Connect are new for 2026.
+
+**Why don't the Mariners wear gray road uniforms anymore?**
+Seattle dropped its road grays after the 2022 season and made navy its primary road jersey for 2023. The navy top reads "Seattle" across the chest and is now the team's default look for most away games.
+
+**What is the new Steelheads uniform?**
+It's a black-and-cream throwback honoring the Seattle Steelheads, the city's 1946 Negro leagues club, with a Mount Rainier "PNW" sleeve patch. It replaces the old cream Sunday alternate and is worn for Sunday home games as part of "Steelheads Sundays." It also makes Seattle the first MLB team to put a Negro leagues uniform in its regular rotation.
+
+**Did the Mariners change their City Connect for 2026?**
+Yes. The 2023 City Connect — a royal-blue top with black pants — reached the end of MLB's three-year City Connect cycle and was replaced. The new version is a black kit with Pilots-inspired "Seattle" lettering, the throwback trident cap, and "Sodo Mojo" and "My Oh My" details, worn for Friday home games.
+
+**When do the Mariners wear the Northwest green jerseys?**
+The green alternate is worn for select Saturday home games and also on the road when the home team is in navy or black. It's the team's signature saltwater teal and the boldest color in the closet.
+
+**What do the Mariners wear on the chest at home versus on the road?**
+At home the white jersey reads "Mariners" in navy; on the road the navy jersey reads "Seattle." The Northwest green alternate also says "Mariners," while both the City Connect and Steelheads looks carry "Seattle"-style script tied to the city's earlier ballclubs.
+
+## More MLB Coverage
+
+- [Houston Astros 2026 Uniform Schedule](/stories/astros-uniform-schedule-2026) — the AL West rival and a far more scheduled rotation
+- [Los Angeles Angels 2026 Uniform Schedule](/stories/angels-uniform-schedule-2026) — the division's red-and-white closet, broken down
+- [Athletics 2026 Uniform Schedule](/stories/athletics-uniform-schedule-2026) — the AL West's other set, in its new chapter
+- [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) — the gold standard of clean home-and-road simplicity
+
+*Uniform details compiled from team and league sources. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Seattle Mariners or Major League Baseball.*

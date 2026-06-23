@@ -1,0 +1,129 @@
+---
+title: "Washington Nationals Uniform Schedule 2026: Every Jersey and When They Wear It"
+category: MLB
+date: "2026-06-23"
+excerpt: "The Washington Nationals run five uniforms in 2026 — the script 'Nationals' home white, the 'WASHINGTON' road gray, the red 'curly W' alternate, the navy alternate, and the denim-blue 'District Blueprint' City Connect that replaced the old Cherry Blossom kit. Here's every jersey and when they wear it."
+gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
+coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+league: mlb
+teams:
+  - washington-nationals
+---
+
+<img src="/images/posts/nationals-uniform-schedule-2026/cover.jpg" alt="Washington Nationals 2026 uniform schedule cover showing the five uniform colors — script Nationals home white, WASHINGTON road gray, red curly W alternate, navy alternate, and the denim-blue District Blueprint City Connect" style="width: 100%; border-radius: 10px;" />
+
+The Washington Nationals carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's one real anchor — the denim-blue "District Blueprint" City Connect that owns Friday and Saturday home games — and everything else is essentially manager's choice, with the script "Nationals" home white and the road gray doing the day-to-day work. Here's the full Nationals wardrobe for 2026 and when each jersey actually comes out.
+
+## Sample Home-and-Road Week at a Glance
+
+<div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background: #14225A; color: #fff;">
+    <div style="padding: 0.6em 0.3em;">Mon</div>
+    <div style="padding: 0.6em 0.3em;">Tue</div>
+    <div style="padding: 0.6em 0.3em;">Wed</div>
+    <div style="padding: 0.6em 0.3em;">Thu</div>
+    <div style="padding: 0.6em 0.3em;">Fri</div>
+    <div style="padding: 0.6em 0.3em;">Sat</div>
+    <div style="padding: 0.6em 0.3em;">Sun</div>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center;">
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #9a9c9e; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✈️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Road Gray</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Away</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #3a5a8c; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏛️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Fri Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #3a5a8c; color: #fff;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏛️</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
+      <div style="font-size: 0.65em; color: rgba(255,255,255,0.8); margin-top: 0.3em;">Sat Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+      <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+  </div>
+</div>
+
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: outside the Friday-and-Saturday City Connect habit at home, the Nationals don't run a fixed day-of-week system. The <strong>red alternate</strong> and the <strong>navy alternate</strong> can surface on any given day, at home or on the road, and a Sunday is just as likely to be a home white as anything else. Treat the week above as a representative homestand, not a guarantee.</p>
+
+The Nationals carry five uniforms in 2026, and the set is the same one they settled into for 2025 after a couple of years of housekeeping: a 2024 redesign cleaned up the road and alternate looks, the red alternate returned in 2025 after a one-year absence, and the beloved Cherry Blossom City Connect was retired and replaced by the new denim-blue "District Blueprint" kit. The most visible change since then is off the design itself — every jersey now carries the team's first sleeve advertising patch, added mid-2025. Through it all, the red-and-navy "curly W" identity stays exactly where it's always been.
+
+## Home Whites — Script "Nationals" (Most Home Games)
+
+The home white is Washington's signature look and the jersey most fans picture: a clean white shirt with the cursive "Nationals" script angled gently upward across the chest in red, trimmed in navy, with the red "curly W" cap on top. It became the primary home uniform back in 2022, taking over from the older "curly W" chest look, and in 2024 the front chest number was dropped for a tidier finish. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the Friday or Saturday City Connect. It's understated and timeless, exactly what a home flannel in D.C. should be.
+
+## Road Grays — "WASHINGTON" (Most Away Games)
+
+On the road, the Nationals wear the standard gray set with "WASHINGTON" arched across the chest in block navy lettering, trimmed in white and red, with the curly W cap and tricolor red-white-and-blue piping running down the jersey and pants. The wordmark and trim were refreshed in the 2024 redesign, swapping in the cleaner block "WASHINGTON" treatment the team wears today. It's the workmanlike default for most away games, the kind of road look that lets the home team's colors be the star while still reading unmistakably as the Nats.
+
+## Red Alternate — The "Curly W" (Manager's Choice)
+
+The red alternate is back, and it's one of the most popular looks in the closet. After sitting out a single season, it returned ahead of 2025 as a red jersey with the "curly W" logo on the left chest — and in the refresh the old piping was removed for a cleaner, more modern finish. There's no fixed day attached to it; it's the jersey the Nationals reach for when they want a jolt of color, and it shows up both at home and on the road. The bright red against the white pants is the boldest the team's regular wardrobe gets, and keeping it off a schedule is part of what makes it feel like a treat whenever it appears.
+
+## Navy Alternate — Script "Nationals" (Manager's Choice)
+
+The navy alternate is the darker counterpart to the red — a navy jersey with the "Nationals" script across the chest, paired with the curly W cap. Like the home white, it had its front chest number removed in the 2024 cleanup, leaving a simpler, more uniform graphic. It's another no-fixed-day option that the staff can call on either at home or on the trip, and it tends to surface for night games where the dark top pops under the lights. It rounds out the red-white-and-navy core without trying to reinvent anything — and around Independence Day, Washington has long leaned into a stars-and-stripes treatment of the curly W, a patriotic nod that fits the team in the nation's capital.
+
+## City Connect — The "District Blueprint" (Friday and Saturday Home Games)
+
+This is the newest and most conceptually loaded piece in the closet, and it replaced a fan favorite. The original Cherry Blossom City Connect — the pink-and-cream kit introduced in 2022 — was retired after the 2024 season under MLB and Nike's plan to refresh City Connect designs after about three years. In its place, the Nationals unveiled the "District Blueprint" for 2025: a denim-blue ("American denim") jersey whose design traces the street grid of Washington, D.C. — its quadrants, grand avenues, and traffic circles — in a white blueprint motif. The chest carries a 3D interlocking "DC" logo, a callback to both the original Senators and the Nationals' 2006-2010 look, the cap swaps in a block "W" with the Capitol Dome inside it flanked by cherry blossoms, and the white pants add a mosaic trim meant to represent the city's diversity. It debuted on the season's opening weekend in 2025 and has anchored Friday and Saturday home games ever since. It's busy, it's specific, and it is unmistakably Washington — a thoughtful follow-up to one of the most beloved kits the program ever produced.
+
+## How the Nationals Rotation Actually Works
+
+Let's be straight about it: the Nationals are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; Washington really has just one standing habit — **the denim-blue City Connect on Friday and Saturday home games**. Everything else is feel and matchup: the script "Nationals" home white for the rest of the homestand, the "WASHINGTON" road gray for most of the trip, and the red and navy alternates dropped in whenever the staff wants a change of pace, with no day-of-week assignment behind either of them.
+
+It still works, because the one anchor covers the jersey fans actually plan around. The City Connect is the look people buy tickets and merch for, so handing it a standing weekend slot builds anticipation even without a rigid system. The whites and grays are perfectly content to handle the quiet weekday work in between, and the two alternates keep the rest of the schedule from ever feeling predictable.
+
+One more constant across all five: every Nationals jersey now carries the **AARP** advertising patch on the sleeve, the franchise's first-ever jersey sponsor, which arrived midway through the 2025 season. It appears as a red patch on the home whites and a flipped white-on-red version on the road gray, the red alternate, the navy alternate, and the City Connect — the Nats' debut entry into the jersey-ad era MLB opened up in 2023.
+
+## Frequently Asked Questions
+
+**How many uniforms do the Nationals have in 2026?**
+Five: the script "Nationals" home white, the "WASHINGTON" road gray, the red "curly W" alternate, the navy alternate, and the denim-blue "District Blueprint" City Connect. The set carried over from 2025, with the main 2026-era change being the AARP sleeve patch that now appears on all of them.
+
+**When do the Nationals wear the City Connect uniform?**
+The denim-blue "District Blueprint" City Connect is Washington's Friday and Saturday home look. It debuted on the 2025 opening weekend and has anchored those two weekend nights at Nationals Park ever since.
+
+**What happened to the Cherry Blossom City Connect?**
+It was retired after the 2024 season. The pink-and-cream Cherry Blossom kit ran from 2022 through 2024 — one of the most popular City Connects in the league — before MLB and Nike's roughly three-year refresh cycle replaced it with the new "District Blueprint" design for 2025. You won't see the Cherry Blossom on the field in 2026.
+
+**When do the Nationals wear the red jersey?**
+There's no fixed day for it. The red "curly W" alternate returned in 2025 after a one-season absence and is manager's choice — it shows up both at home and on the road whenever the staff wants a pop of color, which is exactly why it isn't pinned to the weekly grid.
+
+**Does the navy alternate have a special version for the Fourth of July?**
+Around Independence Day, the Nationals — fittingly, as the team in the nation's capital — have long leaned into a stars-and-stripes treatment of the curly W on their navy look, a patriotic nod for the holiday. The standard navy alternate itself is a script "Nationals" jersey worn as a no-fixed-day option through the rest of the season.
+
+**What sponsor patch is on the Nationals jersey?**
+AARP. It's the franchise's first-ever jersey advertiser, added during the 2025 season — a red patch on the home whites and a flipped white-on-red version on the road gray, red alternate, navy alternate, and City Connect.
+
+## More MLB Coverage
+
+- [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the NL East rival and the gold standard of a true scheduled rotation
+- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the division's five-jersey closet with City Connect Fridays and cream Sundays
+- [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other NL East team running a strict uniform timetable
+- [New York Mets 2026 Uniform Schedule](/stories/mets-uniform-schedule-2026) — the NL East closet built on a black Friday and an "NYC" City Connect Saturday
+
+*Uniform details compiled from team and league sources. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Washington Nationals or Major League Baseball.*
