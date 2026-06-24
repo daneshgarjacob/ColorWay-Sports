@@ -12,8 +12,6 @@ teams:
   - houston-astros
 ---
 
-<img src="/images/posts/astros-uniform-schedule-2026/cover.jpg" alt="Houston Astros 2026 uniform schedule cover showing the five uniform colors — home white, road gray, orange alternate, navy alternate, and the white 'Stros' City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Houston Astros carry five uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. The one hard rule lives at home: the new white "Stros" City Connect owns Monday home games at Daikin Park, full stop. Around that, the orange and navy alternates tend to claim their own nights, and the whites and grays handle the day-to-day work. Here's the full Astros closet for 2026 and exactly when each jersey comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -75,21 +73,41 @@ The Astros carry five uniforms in 2026, and the set is the same one they settled
 
 The home white is Houston's foundation: a clean white jersey with orange and navy trim, "Astros" arched across the chest in orange script with the H-and-star logo tucked into the wordmark, and the navy cap with the orange-outlined "H-star." It's worn for the bulk of every homestand — essentially any home game that isn't a Monday (which belongs to the City Connect) or a day the team reaches for the navy alternate. It's the most recognizable look the franchise owns, and the Astros are smart to leave it almost entirely alone. The navy-orange-white scheme has aged beautifully since 2013, and a classic home flannel doesn't need tinkering.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2069470106288058857"></a></blockquote>
+</div>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Astros wear the standard gray set with "HOUSTON" across the chest rather than the team name — the city, not the club, the way most road sets are built — in navy lettering with orange trim, names on the back, and the navy cap with the orange brim that's reserved for the road. It's the workmanlike default for most away games, the look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066001319916114102"></a></blockquote>
+</div>
 
 ## Orange Alternate (Frequent Friday Look)
 
 The orange alternate is the splash of color in the rotation: a vivid orange jersey with navy and white piping, "Astros" across the chest, paired with white pants and the road-style navy cap with the orange brim. Unlike a strict day-of-week jersey, it's a true alternate that travels — the Astros wear it both at home and on the road — but it's leaned on heavily for Friday games, giving the end of the week its own jolt of Houston orange. It's the boldest everyday top in the closet and a direct line back to the team's brightest color.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2069569877589836184"></a></blockquote>
+</div>
+
 ## Navy Alternate (Customary Sunday Jersey)
 
 The navy alternate is the dark counterpart: a navy-blue jersey with "Astros" stitched across the chest in orange — a nod to the 1970s, when the team last wore the club name in orange on a colored top — with white or gray pants and the navy "H-star" cap. In practice it's become Houston's go-to Sunday look at Daikin Park, the deep-navy bookend to a week that opens in the white City Connect. It's the most understated of the three colored options and a clean, heritage-tinged alternate that rounds out the navy-and-orange identity.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2068794718360654018"></a></blockquote>
+</div>
+
 ## City Connect — The White "Stros" Kit (Monday Home Games)
 
 The newest piece, unveiled in March 2025, is a complete reinvention of Houston's City Connect program. Gone is the all-navy "Space City" design; in its place is an almost entirely white uniform with "Stros" across the chest — the first time the organization has formally embraced the fan-driven nickname. A broken orange star anchors the front, with digital-style navy lettering and numbers placed to the lower right of it, lunar-pattern trim and pinstriping running through the details, and "Space City" set on a moon-surface texture along the back of the collar. "HTX" is stitched along the beltline, a Union Station mission patch sits on the sleeve, and the only non-white elements on the body are the "afterburner" socks — a fiery orange-and-yellow gradient that recalls the classic tequila-sunrise rainbow. It debuted on March 31, 2025, and it now owns every Monday home game. Tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066695957496922528"></a></blockquote>
+</div>
 
 ## What Happened to the Navy "Space City" City Connect?
 
