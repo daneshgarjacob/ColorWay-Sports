@@ -12,8 +12,6 @@ teams:
   - athletics
 ---
 
-<img src="/images/posts/athletics-uniform-schedule-2026/cover.jpg" alt="Athletics 2026 uniform schedule cover showing the four uniform colors — home white, road gray, kelly green alternate, and the new gold Sacramento alternate" style="width: 100%; border-radius: 10px;" />
-
 The Athletics run four uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. Two of those four are kelly-green-and-gold alternates — the green that owns Friday nights and the brand-new gold "Sacramento" jersey that owns Saturdays — and they're the looks fans plan around. This is also the franchise in its strangest chapter yet: branded simply the "Athletics," with no city on the chest, while it plays out a three-year stay in West Sacramento. Here's the full A's closet for 2026 and exactly when each jersey comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -69,23 +67,39 @@ The Athletics run four uniforms in 2026, and while their rotation isn't as rigid
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: outside the Green-Friday and gold-Saturday habits at home, the A's don't run a strict day-of-week system. The team has said players can pull on the new gold <strong>"Sacramento"</strong> top on other days too — home or road — whenever they feel like it. Treat the week above as a representative homestand, not a guarantee.</p>
 
-The Athletics carry four uniforms in 2026, and the headline change is the gold. The team retired the old gold alternate — the one that read "A's" across the chest — and replaced it with a brand-new gold jersey that reads "Sacramento" in green script, unveiled on the final day of the 2025 season at Sutter Health Park. It joins the kelly green alternate, the home whites, and the road grays to round out the set. Everything still carries two interchangeable sleeve patches — a Sacramento Tower Bridge patch and a Las Vegas Convention & Visitors Authority patch — swapped based on a batter's handedness so the logo faces the cameras.
+The Athletics carry four uniforms in 2026, and the headline change is the gold. The team retired the old gold alternate — the one that read "A's" across the chest — and replaced it with a brand-new gold jersey that reads "Sacramento" in green script, unveiled on the final day of the 2025 season at Sutter Health Park. It joins the kelly green alternate, the home whites, and the road grays to round out the set. Everything still carries two sleeve patches worn at the same time — a Sacramento Tower Bridge patch and a Las Vegas Convention & Visitors Authority patch, one on each sleeve. They're a permanent pairing on every jersey, not swapped out game to game.
 
 ## Home Whites (Most Home Games)
 
 The home white is the A's bread and butter: a clean white jersey with green and gold trim and "Athletics" arched across the chest in green script — no city name, just the team. That bare-chest wordmark is itself a piece of this era's story, the result of a franchise that dropped its city label while it sorts out where it lives. It's worn for the bulk of the homestand, essentially every home game that isn't a Friday or a Saturday (those belong to the two alternates). Understated and classic, it's exactly what a home flannel should be, and it lets the green and gold do the talking.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2068829099565670825"></a></blockquote>
+</div>
+
 ## Road Grays (Most Away Games)
 
 On the road, the A's wear the standard gray set with "Athletics" across the chest, player names on the back, and the green cap with the interlocking gold "A." It's the default for most away games, the workmanlike road look that lets the home team's colors be the star. Like the home white, it skips any city identifier — a quiet but constant reminder that this team is, for now, just the Athletics. Nothing flashy, and it doesn't need to be.
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2069911273463292088"></a></blockquote>
+</div>
 
 ## Kelly Green Alternate (Friday Home Games)
 
 The kelly green is the fan favorite and the closest thing the A's have to a hard rule. It's a bright kelly green jersey with "Athletics" across the chest in gold, gold numbers, and the green-and-gold cap — a look pulled straight from the franchise's Charlie Finley-era heyday. The greens have anchored Friday home games since the "Green Friday" tradition began back in 2018, and they survived the move to Sacramento intact, with only the old "Oakland" wordmark swapped out for "Athletics." It's the loudest, most beloved thing in the closet, and giving it a standing Friday slot is smart — fans know exactly when to come see it.
 
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2067105463355982190"></a></blockquote>
+</div>
+
 ## Gold "Sacramento" Alternate (Saturday Home Games)
 
 The newest piece, revealed in September 2025, is the gold "Sacramento" jersey, and it's the one that replaced the old gold "A's" top. It's a gold/yellow jersey with "Sacramento" stitched across the chest in green script trimmed in white, a green A's logo on the left sleeve, and green sleeve piping trimmed in white — billed as a modern take on the Athletics' iconic gold. The team designed it as a thank-you to the Capital Region that took the club in, and it anchors "Sacramento Saturdays" home games at Sutter Health Park, with players free to wear it on other days as well. There's an irony baked into it that critics flagged immediately: the same jersey carries the Las Vegas tourism patch, a reminder that the club has one foot out the door even as it salutes its temporary home. Loud, specific, and a little bittersweet, it's the signature look of a strange interim chapter.
+
+<div style="margin: 1.25em 0; text-align: center;">
+<img src="/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey-cropped.jpg" alt="Athletics 2026 gold Sacramento alternate jersey, gold with Sacramento in green script across the chest and the green A's cap, worn for Sacramento Saturdays at Sutter Health Park" style="max-width: 100%; border-radius: 10px;" />
+</div>
 
 ## What Happened to the Old Gold "A's" Jersey?
 
@@ -97,7 +111,7 @@ Be honest about it: the A's system is looser than the truly scheduled teams. The
 
 It still works, because the anchors are the parts fans care about. The kelly green and the gold "Sacramento" are the jerseys people buy tickets to see, and giving each one its own weekend night builds the anticipation. The whites and grays are happy to do the quiet work in between.
 
-One more constant: all four jerseys carry both the Sacramento Tower Bridge sleeve patch and the Las Vegas Convention & Visitors Authority patch, worn interchangeably and positioned by a batter's handedness to keep the logo facing the broadcast. It's the wardrobe equivalent of the franchise's whole 2026 — honoring the city it's in while advertising the one it's headed to.
+One more constant: all four jerseys carry both the Sacramento Tower Bridge sleeve patch and the Las Vegas Convention & Visitors Authority patch at the same time, one on each sleeve — a permanent pairing rather than an either/or. It's the wardrobe equivalent of the franchise's whole 2026 — honoring the city it's in while advertising the one it's headed to.
 
 ## Frequently Asked Questions
 
