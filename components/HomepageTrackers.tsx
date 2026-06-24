@@ -18,7 +18,7 @@ const trackers: TrackerCard[] = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Six perfect 10s now lead the board — Uruguay's Celeste vs Cape Verde's red is the newest — with Colombia's yellow vs Congo DR's blue, Argentina's stripes vs Austria's red, Portugal's red vs Congo DR's blue, and Ecuador's yellow vs Curaçao's blue all at 9.5. Through 47 matches the average is 8.0/10. Every matchup graded.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Six perfect 10s now lead the board — Uruguay's Celeste vs Cape Verde's red is the newest — with Colombia's yellow vs Congo DR's blue, Argentina's stripes vs Austria's red, Portugal's red vs Congo DR's blue, and Ecuador's yellow vs Curaçao's blue all at 9.5. Through 48 matches the average is 8.0/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg",
