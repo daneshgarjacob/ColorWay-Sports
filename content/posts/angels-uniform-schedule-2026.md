@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: Road Grays Gone, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-excerpt: "Big change for 2026: the Los Angeles Angels have dropped their road grays. That leaves three uniforms — the home whites, the red 'Angels' jersey that's now their everyday road look, and the cream surf-themed City Connect. Here's every jersey, when they wear it, and why red is now the team's default."
+excerpt: "The Los Angeles Angels cut their road grays at the start of the 2026 season — the 'Los Angeles' wordmark and all — and have worn just three uniforms ever since: the home whites, the red 'Angels' jersey that's now their everyday road look, and the cream surf-themed City Connect. Here's every jersey, when they wear it, and why red is the team's default."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -12,7 +12,7 @@ teams:
   - los-angeles-angels
 ---
 
-The Los Angeles Angels closet got smaller for 2026: the team has dropped its road grays — the "Los Angeles" wordmark and all — trimming the wardrobe from four uniforms to three. With no gray to fall back on, the red "Angels" jersey, already the most-worn shirt the team owns, slides into full-time duty as the everyday road look. Unlike a rigidly scheduled club such as the Phillies, the Angels run on feel rather than a published timetable, with one soft anchor: the cream City Connect that owns Friday nights at Angel Stadium. Here's the full Angels wardrobe for 2026 and when each jersey actually comes out.
+The Los Angeles Angels have run a three-uniform closet all 2026 season: they cut their road grays back at the start of the year — the "Los Angeles" wordmark and all — trimming the wardrobe from four uniforms to three. With no gray to fall back on, the red "Angels" jersey, already the most-worn shirt the team owns, slides into full-time duty as the everyday road look. Unlike a rigidly scheduled club such as the Phillies, the Angels run on feel rather than a published timetable, with one soft anchor: the cream City Connect that owns Friday nights at Angel Stadium. Here's the full Angels wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
 
@@ -95,7 +95,7 @@ The City Connect, unveiled in 2022 and debuted on June 11 that year against the 
 
 ## What Happened to the Road Grays?
 
-Retired. For 2026 the Angels phased out their gray road uniforms — the set that read "Los Angeles" across the chest in red script — and didn't replace them with a new gray. It's a quietly significant move: it pulls the city-name wordmark off the field entirely, since the grays were the only jersey that said "Los Angeles" instead of "Angels," and it leaves the club without a traditional road gray for the first time in years. In their place, the red "Angels" jersey takes over road duty full-time, which fits a team that was already reaching for red more than any other shirt in the closet. If you're hunting for the gray "Los Angeles" roads in 2026, you won't find them — the Angels now travel in red.
+Retired. The Angels phased out their gray road uniforms at the start of the 2026 season — the set that read "Los Angeles" across the chest in red script — and didn't replace them with a new gray. It's a quietly significant move: it pulls the city-name wordmark off the field entirely, since the grays were the only jersey that said "Los Angeles" instead of "Angels," and it leaves the club without a traditional road gray for the first time in years. In their place, the red "Angels" jersey takes over road duty full-time, which fits a team that was already reaching for red more than any other shirt in the closet. If you're hunting for the gray "Los Angeles" roads in 2026, you won't find them — the Angels now travel in red.
 
 ## How the Angels Rotation Actually Works
 
@@ -111,7 +111,7 @@ One more note on what's *not* in the closet: the Angels don't carry a separate n
 Three: the home white, the red "Angels" jersey, and the cream surf-themed City Connect. The Angels dropped their road grays for 2026, trimming the closet from four uniforms to three.
 
 **Did the Angels get rid of their road grays?**
-Yes. For 2026 the Angels phased out their gray road uniforms — the ones that read "Los Angeles" across the chest — leaving them without a traditional gray for the first time in years. With no gray in the rotation, the red "Angels" jersey has taken over as the everyday road look, and the "Los Angeles" wordmark is off the field entirely.
+Yes. The Angels phased out their gray road uniforms at the start of the 2026 season — the ones that read "Los Angeles" across the chest — and have gone the whole year without a traditional gray, for the first time in years. With no gray in the rotation, the red "Angels" jersey has taken over as the everyday road look, and the "Los Angeles" wordmark is off the field entirely.
 
 **When do the Angels wear the red jersey?**
 There's no fixed day for it, which is exactly why it's so common. The red alternate is the Angels' most-worn uniform in practice — they wear it at home and on the road, on weekdays and weekends, more often than the whites or grays.
