@@ -82,7 +82,7 @@ The white pinstripe is the Mets' signature and the jersey most fans picture: a c
 On the road, the Mets wear the standard gray set with "NEW YORK" radially arched across the chest in the team's Tiffany typeface, blue lettering outlined in orange, names on the back, and the blue cap. The 2025 refresh swapped the old blue piping for thin blue-orange-blue triple stripes around the collar, the cuffs, and down the pants seams — a subtle nod to the franchise's heritage striping — and for 2026 the "NEW YORK" wordmark was bumped back up to its pre-2024 size. It's the workmanlike default for most away games, and the triple-stripe trim gives it just enough character to avoid feeling generic.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
 </div>
 
 ## Blue Alternate (Manager's Choice, Mostly Road)
@@ -90,7 +90,7 @@ On the road, the Mets wear the standard gray set with "NEW YORK" radially arched
 The blue alternate is the wild card. It's a royal-blue top with orange striping at the collar and cuffs, a cursive "New York" script revived from the 1987 design with the player's number tucked below "York," and blue lettering outlined in orange. There's no fixed day attached to it — it's the jersey the Mets reach for when they feel like a splash of color, most often on the road, though in 2026 they've worn it at home a handful of times paired with the white pinstriped pants. It's the brightest, boldest thing in the closet, and the lack of a schedule is exactly what keeps it feeling like an event whenever it shows up.
 
 <div style="margin: 1.25em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
 </div>
 
 ## Black Alternate (Friday Home Games)
