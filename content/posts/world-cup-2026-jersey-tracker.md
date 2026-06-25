@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, Al
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-24"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Seven perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, and Scotland's navy vs Brazil's yellow. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, and Colombia's yellow vs Congo DR's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 52 matches. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Seven perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, and Scotland's navy vs Brazil's yellow. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, and South Africa's yellow vs Korea's red each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 54 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -41,10 +41,76 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">52 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">54 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 54: South Africa vs Korea Republic
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCB131 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Match 54 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-home-kits/south-africa.avif" alt="South Africa 2026 World Cup adidas gold and green home jersey with the Bafana Bafana crest, worn in the Group A match vs Korea Republic" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH AFRICA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Yellow</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520africa%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-south-korea-home.jpg" alt="Korea Republic 2026 World Cup red home jersey with navy trim and the Taegeuk crest, worn in the Group A match vs South Africa" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">KOREA REPUBLIC</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520korea%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 9.5 / 10</p>
+</div>
+
+South Africa brought their vivid adidas gold home — the bright Bafana Bafana yellow with green trim and the federation crest — against Korea Republic's bold red Nike home. Yellow against red is a warm, high-energy clash that lights up the broadcast: two fully saturated colors going at each other with no cool tones to settle it down. South Africa's gold is one of the most joyful kits in the field and Korea's red is a clean, powerful home shirt, so the pairing pops from the first whistle. It lands a half-step shy of a perfect 10 only because warm-on-warm doesn't carry quite the complementary separation of the very best orange-on-blue clashes — but it's loud, bright, and genuinely great-looking. Nine and a half out of 10.
+
+## Match 53: Czechia vs Mexico
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #D7141A 0%, #006847 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group A · Match 53 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/puma-world-cup-kits/czech-republic-home.jpg" alt="Czechia 2026 World Cup Puma red home jersey with white trim and the Czech lion crest, worn in the Group A match vs Mexico" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CZECHIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dczechia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-away-kits/mexico-away.jpg" alt="Mexico 2026 World Cup adidas white retro away jersey with green collar, red trim, and the Mexican eagle crest, worn in the Group A match vs Czechia" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">MEXICO</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmexico%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6.5 / 10</p>
+</div>
+
+Czechia rolled out their solid red Puma home against Mexico's retro white adidas change kit — a clean throwback shirt with a green collar, red trim, and the Mexican eagle crest. Red against white is a dependable, broadcast-friendly contrast, but this one stays quiet: Czechia's red is perfectly fine without being striking, and while Mexico's vintage white is a handsome kit up close, the pairing never builds much energy from distance. It's tidy and easy to read, but neither side brings the pop or the bold color story that elevates a matchup — a clean, low-key red-and-white that does the job without turning heads. Six and a half out of 10.
 
 ## Match 52: Bosnia vs Qatar
 
