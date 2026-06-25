@@ -12,8 +12,6 @@ teams:
   - colorado-rockies
 ---
 
-<img src="/images/posts/rockies-uniform-schedule-2026/cover.jpg" alt="Colorado Rockies 2026 uniform schedule cover showing the four uniform colors — home white pinstripe, road gray, purple alternate, and the cobalt-and-purple City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Colorado Rockies carry four uniforms in 2026, which makes their closet one of the leaner ones in the National League — no cream, no second alternate, no throwback in the regular rotation. But two of those four come with real day-of-week hooks: the purple alternate owns Mondays, and the City Connect owns Friday home games at Coors Field. Here's the full Rockies wardrobe for 2026 and exactly when each jersey comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -86,6 +84,11 @@ The purple alternate is the franchise's calling card, and it has the closest thi
 ## City Connect — The Day-to-Night Kit (Friday Home Games)
 
 The newest piece, unveiled April 12, 2025 and first worn that April, is the most conceptually loaded jersey the Rockies own. It replaced the franchise's original 2022 green-and-white City Connect with a complete change of direction: a cobalt-blue top fading into a purple bottom, built to capture the transition between day and night over the Rocky Mountains — the light blue of a falling evening sky against snow, plus the razor pink and laser orange of a Colorado sunrise. The team's iconic mountain logo sits on the chest, the numbers carry a ripstop pattern as a nod to the ski and snowboard industry, and the jock tag reads "DEN" for Denver. The cap is lined with the Denver city flag and marked the first time the mountain logo appeared on game-day headwear. It's also a genuine first for the program: Colorado debuted the pullover style, with no buttons, ahead of the rest of the league. Since 2025 it has owned Friday home games at Coors Field, and tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/rockies-uniform-schedule-2026/rockies-city-connect.jpg" alt="Colorado Rockies 2026 day-to-night City Connect jersey, blue fading to purple with the mountain logo" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
+</div>
 
 ## What About the Black Vest?
 
