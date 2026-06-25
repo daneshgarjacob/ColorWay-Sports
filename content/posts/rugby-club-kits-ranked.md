@@ -1,8 +1,8 @@
 ---
-title: "The Best Rugby Club Kits, Ranked: 11 of the Boldest Jerseys in World Rugby"
+title: "The 11 Best Rugby Club Kits in the World, Ranked — and the #1 Might Surprise You"
 category: Rugby
 date: "2026-06-25"
-excerpt: "From the Harlequins quarters and Stade Français's shocking pink to Toulouse's red-and-black and Bristol's classic navy, club rugby has some of the boldest kit design in all of sport. Here's our worst-to-best ranking of 11 of the best club jerseys across the Top 14, Premiership, URC, Super Rugby and NRL."
+excerpt: "We ranked the 11 best rugby club kits in the world from worst to best — Stade Français's shocking pink, the Harlequins quarters, the St George Red V, Toulouse's red-and-black and more, with Bristol Bears' classic navy at #1. The boldest rugby jerseys of 2026 across the Top 14, Premiership, URC, Super Rugby and NRL, graded on color, pattern and contrast."
 gradient: "linear-gradient(135deg, #1B3A2B 0%, #0a0a0a 100%)"
 coverImage: "/images/posts/rugby-club-kits/cover.jpg"
 coverImagePosition: "center center"
@@ -15,7 +15,7 @@ teams: []
 
 Club rugby is where the sport's best kit design actually lives. International jerseys lean on a century of tradition and rarely change, but the clubs — across France's Top 14, England's Gallagher Premiership, the URC, Super Rugby Pacific and Australia's NRL — are where you find shocking pink, century-old quartered shirts, hooped heritage and graphic devices so good they've become shorthand for the club itself.
 
-This is ColorWay's worst-to-best ranking of **11 of the best club kits in world rugby**, judged on color, pattern, contrast and how unmistakable each shirt is — across both codes, union and league. We're not ranking trophies; we're ranking the shirts. Here's the countdown to our favorite club kit in rugby.
+This is ColorWay's worst-to-best ranking of the **11 best rugby club kits in the world for 2026**, judged on color, pattern, contrast and how unmistakable each shirt is — across both codes, union and league. We're not ranking trophies; we're ranking the shirts. Here's the countdown to our favorite club kit in rugby.
 
 *Kit images via the clubs' official stores and kit manufacturers; all club crests, names and kit designs are the property of their respective clubs and leagues, shown here for editorial commentary and identification only.*
 
