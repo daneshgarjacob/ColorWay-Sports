@@ -12,8 +12,6 @@ teams:
   - tampa-bay-rays
 ---
 
-<img src="/images/posts/rays-uniform-schedule-2026/cover.jpg" alt="Tampa Bay Rays 2026 uniform schedule cover showing the uniform colors — home white, Columbia blue alternate, navy alternate, the Devil Rays rainbow throwback, and the black Grit x Glow City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Tampa Bay Rays carry one of the most colorful — and least predictable — closets in baseball for 2026. There's no published timetable the way a team like the Phillies runs; instead the Rays have two soft anchors at home (the 1998 Devil Rays "rainbow" throwback that owns most Friday nights, and the black "Grit x Glow" City Connect that owns most Saturdays) and a stack of navy and Columbia blue tops that get mixed and matched the rest of the week. Here's the full Rays wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -90,6 +88,11 @@ This is the fan favorite, and it's the closest thing the Rays have to a hard rul
 ## City Connect — "Grit x Glow" (Most Saturday Home Games)
 
 The City Connect, unveiled in 2024, is the most conceptually loaded jersey the Rays own — and one of the most divisive in the program. The base is black "left out in the Florida sun a little too long," fading toward gray, with "Tampa Bay" across the chest in grip-tape-textured, Thrasher-style skateboard lettering outlined in neon — the city's name on a Rays uniform for the first time since 2007. A gradient stripe reimagines the Devil Rays' rainbow colors futuristically, running asymmetrically from the right sleeve down the left side of the pants to signal the team's against-the-grain identity. The cap fuses a stingray with the Sunshine Skyway Bridge, and hidden details nod to local skate culture, the Bro Bowl, and the St. Petersburg Pelicans of the Negro Leagues. Since debuting in May 2024, it's anchored most Saturday home games. It's busy and polarizing, but it's also one of the boldest swings in the City Connect catalog — completely on-brand for a team that markets itself as the league's experiment.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/rays-uniform-schedule-2026/rays-city-connect.jpg" alt="Tampa Bay Rays 2026 Grit x Glow City Connect jersey, charcoal black with glowing Tampa Bay lettering" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
+</div>
 
 ## How the Rays Rotation Actually Works
 
