@@ -12,8 +12,6 @@ teams:
   - arizona-diamondbacks
 ---
 
-<img src="/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg" alt="Arizona Diamondbacks 2026 uniform schedule cover showing the five uniform colors — home off-white, road gray, Sedona red alternate, black alternate, and the purple-and-teal Serpientes City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Arizona Diamondbacks carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's really one hard anchor — the purple-and-teal "Serpientes" City Connect that owns Friday nights at Chase Field — and everything else is the staff's call, with the off-whites and the grays doing the day-to-day work. Here's the full D-backs wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -69,7 +67,7 @@ The Arizona Diamondbacks carry five uniforms in 2026, and unlike a rigidly sched
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: outside the Friday City Connect, Arizona doesn't run a fixed day-of-week system. The <strong>Sedona red</strong> and <strong>black</strong> alternates surface on the staff's call — at home or on the road, often on a giveaway night or a Saturday — and the grays and off-whites fill in everywhere else. Treat the week above as a representative homestand, not a guarantee.</p>
 
-The Diamondbacks carry five uniforms in 2026, and the set is essentially the one they rebuilt from the ground up in 2024, when the franchise pulled sand out of the regular wardrobe and made teal the accent color across every look. The 2026 tweaks are small and cosmetic: the home off-whites adopt the pre-2024 fabric to match the road grays, with the larger numbers, embroidered sleeve patches, and team-specific custom font carried over. None of it touches the rotation; it just tidies up a closet that finally settled into a single, coherent palette of Sedona red, black, teal, and white.
+The Diamondbacks carry five uniforms in 2026, and the set is essentially the one they rebuilt from the ground up in 2024, when the franchise pulled sand out of the regular wardrobe and made teal the accent color across every look. The 2026 tweaks are small and cosmetic, and none of them touch the rotation — they just tidy up a closet that finally settled into a single, coherent palette of Sedona red, black, teal, and white.
 
 ## Home Off-Whites (Most Home Games)
 
@@ -86,6 +84,11 @@ The Sedona red alternate is the loudest piece of the regular closet. It's a Sedo
 ## Black Alternate (Manager's Choice)
 
 The black alternate is the closet's nighttime look: a black jersey with teal piping, the Sedona red "A" outlined in teal on the chest, and the snake-holding-a-ball logo on the sleeve. When the 2024 overhaul stripped sand out of the wardrobe, this jersey was reworked with bright teal trim to fall in line with the rest of the set, and the result is the cleanest dark top the team has worn in years. Like the red, it has no standing day-of-week slot — it's manager's choice, used to add some menace under the lights or to mix up a long homestand. Paired with the black "A" cap, it's the most understated jersey Arizona owns, and the teal accents keep it from disappearing into the dark.
+
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; text-align: center;">
+<img src="/images/posts/diamondbacks-uniform-schedule-2026/diamondbacks-black-alternate.jpg" alt="Arizona Diamondbacks 2026 black alternate jersey, black with teal piping and the Sedona-red A logo" style="max-width: 340px; width: 100%; border-radius: 6px;" />
+<div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
+</div>
 
 ## City Connect — The "Serpientes" Kit (Friday Home Games)
 
