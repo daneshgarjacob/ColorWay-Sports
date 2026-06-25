@@ -12,8 +12,6 @@ teams:
   - milwaukee-brewers
 ---
 
-<img src="/images/posts/brewers-uniform-schedule-2026/cover.jpg" alt="Milwaukee Brewers 2026 uniform schedule cover showing the five uniform colors — cream home, white pinstripe home alternate, navy ball-in-glove alternate, powder blue road, and the Wisco City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Milwaukee Brewers carry five uniforms in 2026, and the closet looks different than it did a year ago. The traditional road grays are gone — retired in favor of a brand-new powder blue road set that revives the franchise's 1970s look — and the team rolled out a second City Connect, the "Wisco" kit, to go with it. The rotation runs more on feel than a published timetable, but there are a couple of reliable anchors once you know them. Here's the full Brewers wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -81,7 +79,7 @@ The white pinstripe is the cream home's running mate at American Family Field. I
 
 ## Powder Blue Road (Most Away Games)
 
-This is the big one for 2026. The Brewers retired their traditional road grays and brought back powder blue as the primary road uniform — a direct revival of the look the franchise wore from 1970 into the mid-1980s. The new version features a powder blue base with "Milwaukee" arched across the chest in navy block lettering outlined in gold, with the numbers mirroring that navy-and-gold treatment, paired with the navy cap that carries a gold front panel and the ball-in-glove crest. It's a nostalgia play executed cleanly, and it instantly becomes one of the most distinctive road looks in the National League. Powder blue is now the standard for most away games, the everyday road uniform that the grays used to be.
+This is the big one for 2026. The Brewers retired their traditional road grays and brought back powder blue as the primary road uniform — a direct revival of the look the franchise wore from 1970 into the mid-1980s. The new version features a powder blue base with "Milwaukee" arched across the chest in navy block lettering outlined in gold, with the numbers mirroring that navy-and-gold treatment, paired with the navy cap that carries a yellow front panel and the ball-in-glove crest. It's a nostalgia play executed cleanly, and it instantly becomes one of the most distinctive road looks in the National League. Powder blue is now the standard for most away games, the everyday road uniform that the grays used to be.
 
 ## Navy Alternate — The Ball-in-Glove Look (Sundays)
 
@@ -89,7 +87,12 @@ The navy alternate is the closest thing the Brewers have to a hard rule. It's a 
 
 ## City Connect — The "Wisco" Kit (Friday Home Games)
 
-The "Wisco" City Connect, unveiled in April 2026, is the Brewers' second entry in the program and easily the most conceptually loaded jersey they own. It steps away from the team's navy and gold entirely in favor of a blue base inspired by Wisconsin's lakes and rivers, with cream accents for the state's sandy shorelines and a "sunset gradient" of orange, yellow, and blue flowing through the wordmark, number trims, and sleeve patches. "Wisco" is splashed across the chest in a custom script that nods to old American Association lettering, supper-club signage, and vintage brewery labels, with the state motto "Forward" sewn into the collar. The details run deep — a wheat-braid accent for Wisconsin's farms, a Barrelman sleeve patch, and a jock-tag reimagining the original City Connect's grill into a fishing bobber and baseball resting on a lake. It debuted on April 10, 2026 against the Nationals and is scheduled for roughly 15 wearings on the season, anchored to Friday home games. It's loud, specific, and proudly statewide — a clear swing for something different.
+The "Wisco Way" City Connect — its chest wordmark reading simply "Wisco" — was unveiled in April 2026 and is the Brewers' second entry in the program, easily the most conceptually loaded jersey they own. It steps away from the team's navy and gold entirely in favor of a blue base inspired by Wisconsin's lakes and rivers, with cream accents for the state's sandy shorelines and a "sunset gradient" of orange, yellow, and blue flowing through the wordmark, number trims, and sleeve patches. "Wisco" is splashed across the chest in a custom script that nods to old American Association lettering, supper-club signage, and vintage brewery labels, with the state motto "Forward" sewn into the collar. The details run deep — a wheat-braid accent for Wisconsin's farms, a Barrelman sleeve patch, and a jock-tag reimagining the original City Connect's grill into a fishing bobber and baseball resting on a lake. It debuted on April 10, 2026 against the Nationals and is scheduled for roughly 15 wearings on the season, anchored to Friday home games. It's loud, specific, and proudly statewide — a clear swing for something different.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/city-connect-2026-brewers/brewers-cc-hero.jpg" alt="Milwaukee Brewers 2026 Wisco Way City Connect jersey, blue with a gold Wisco script and the Wisconsin-W cap" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Milwaukee Brewers</div>
+</div>
 
 ## What Happened to the Road Grays?
 
@@ -97,7 +100,7 @@ Gone. The Brewers retired the traditional gray road uniform ahead of 2026 and re
 
 ## How the Brewers Rotation Actually Works
 
-Let's be straight about it: the Brewers are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Milwaukee really only has two soft anchors — **the navy ball-in-glove alternate on Sundays and the "Wisco" City Connect on Friday home games**. Everything else is feel and matchup: the cream home and white pinstripe trade off through the homestand with no fixed day attached, and the powder blue road handles most away games, with the navy alternate riding along for road Sundays.
+Let's be straight about it: the Brewers are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Milwaukee really only has two soft anchors — **the navy ball-in-glove alternate on Sundays and the "Wisco" City Connect on Friday home games**. Everything else is feel and matchup: the cream home and white pinstripe trade off through the homestand with no fixed day attached, and the powder blue road handles most away games, with the navy alternate riding along for road Sundays. One constant across the closet: since 2023 the Brewers have worn a **Northwestern Mutual** advertising patch on the sleeve, and the new powder blue road carries its own powder-blue-and-gold version alongside a Wisconsin state-outline patch on the opposite sleeve.
 
 It still works, because the anchors cover the jerseys fans actually plan around. The ball-in-glove is the heart of the brand and the City Connect is the one people buy tickets and merch to see, so handing each a standing slot builds anticipation even without a rigid system. The cream and the pinstripes are perfectly content to handle the quiet day-to-day work in between.
 
