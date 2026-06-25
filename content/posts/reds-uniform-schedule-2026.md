@@ -86,8 +86,8 @@ The red alternate is the splash of color in an otherwise traditional closet. It'
 This is the newest piece in the closet and the one that made headlines. Unveiled in April 2026, the City Connect 2.0 goes head-to-toe red: a red jersey, red pants, and a matching red cap, with narrow darker-red pinstripes layered over the base for texture. The chest carries a crisp white wishbone-"C", and the sleeves are rendered in a deeper shade of red — a deliberate nod to the vest-style jerseys the Reds wore two decades ago — with the pinstripes intentionally cut off at the shoulder. The sleeve patch pairs the "Cincy" wordmark from the original City Connect with a graphic of the Tyler Davidson Fountain on Fountain Square downtown. Since debuting in April, it has anchored Saturday home games for the rest of the season. It's loud, monochromatic, and unmistakably Cincinnati red.
 
 <div style="margin: 1.5em 0; text-align: center;">
-<img src="/images/posts/reds-city-connect-2026/reds-cc-front.jpg" alt="Cincinnati Reds 2026 all-red City Connect 2.0 jersey, red with darker pinstripes and the Tyler Davidson Fountain wishbone-C" style="max-width: 360px; width: 100%; border-radius: 10px;" />
-<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Cincinnati Reds</div>
+<img src="/images/posts/reds-uniform-schedule-2026/reds-city-connect.jpg" alt="Cincinnati Reds 2026 all-red City Connect 2.0 jersey by Nike, red with darker-red pinstripes and a white wishbone-C, shown front and back with Elly De La Cruz #44" style="max-width: 420px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
 
 ## Black City Connect — The Original "C" Set (Friday Home Games)
