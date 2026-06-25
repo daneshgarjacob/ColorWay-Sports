@@ -12,8 +12,6 @@ teams:
   - minnesota-twins
 ---
 
-<img src="/images/posts/twins-uniform-schedule-2026/cover.jpg" alt="Minnesota Twins 2026 uniform schedule cover showing the five uniform colors — home white, road pinstripe gray, navy Twins alternate, cream Twin Cities alternate, and the blue Ripple Effect City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Minnesota Twins carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. The only soft anchor is the blue "Ripple Effect" City Connect, which tends to own Friday nights at Target Field — everything else is manager's choice, with the home whites and the pinstripe grays handling the day-to-day work. Here's the full Twins wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -82,6 +80,11 @@ On the road, the Twins wear a gray set laced with navy pinstripes and "Minnesota
 ## Navy Alternate (Manager's Choice, Mostly Road)
 
 The navy alternate is the headline change for 2026. The base navy stayed, but the arched "Minnesota" wordmark was replaced by a white "Twins" script across the chest — the first time in roughly four decades that the club has carried a road-friendly option reading "Twins" rather than the state name, a callback to the powder-blue road era of the mid-1980s. The shoulder swaps the usual interlocking lettering for a patch shaped like the state of Minnesota, with a star in the lower-right corner marking where Target Field sits. There's no fixed day attached to it — it's the jersey the staff reaches for when they want a jolt of color, most often on the road. The redesign is modern and a little pasted-together, but seeing "Twins" on the front away from home is a genuine novelty.
+
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; text-align: center;">
+<img src="/images/posts/twins-uniform-schedule-2026/twins-navy-alternate.jpg" alt="Minnesota Twins 2026 navy alternate jersey, navy with the white Twins script and red trim" style="max-width: 340px; width: 100%; border-radius: 6px;" />
+<div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
+</div>
 
 ## Cream "Twin Cities" Alternate (Manager's Choice, Mostly Home)
 
