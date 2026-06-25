@@ -2,7 +2,7 @@
 title: "Cincinnati Reds Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-excerpt: "The Cincinnati Reds run six uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
+excerpt: "The Cincinnati Reds run five uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #C6011F 0%, #000000 50%, #C6011F 100%)"
 coverImage: "/images/posts/reds-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -12,9 +12,7 @@ teams:
   - cincinnati-reds
 ---
 
-<img src="/images/posts/reds-uniform-schedule-2026/cover.jpg" alt="Cincinnati Reds 2026 uniform schedule cover showing the uniform colors — home white pinstripe, road gray, red alternate, the new all-red City Connect, and the original black 'C' City Connect" style="width: 100%; border-radius: 10px;" />
-
-The Cincinnati Reds carry six uniforms in 2026, and the headline is that they now run *two* City Connects at once. The brand-new all-red City Connect 2.0 owns Saturday home games, while the original black "C" set — the one that debuted back in 2023 — sticks around as a Friday-night alternate. Outside those two weekend hooks, the closet runs on feel more than a published timetable, with the home pinstripes and road grays doing the day-to-day work. Here's the full Reds wardrobe for 2026 and when each jersey actually comes out.
+The Cincinnati Reds carry five uniforms in 2026, and the headline is that they now run *two* City Connects at once. The brand-new all-red City Connect 2.0 owns Saturday home games, while the original black "C" set — the one that debuted back in 2023 — sticks around as a Friday-night alternate. Outside those two weekend hooks, the closet runs on feel more than a published timetable, with the home pinstripes and road grays doing the day-to-day work. Here's the full Reds wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
 
@@ -69,7 +67,7 @@ The Cincinnati Reds carry six uniforms in 2026, and the headline is that they no
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: outside the Friday-black and Saturday-red City Connect habits, the Reds don't run a fixed day-of-week system. The <strong>red alternate</strong> can surface on its own — usually at home and often on a Sunday — and any homestand can lean on the white pinstripes more than the grid suggests. Treat the week above as a representative homestand, not a guarantee.</p>
 
-The big 2026 story is the City Connect shuffle. Cincinnati revealed an all-new red City Connect set in April 2026 and slotted it into Saturday home games, while the original black "C" City Connect — the polarizing 2023 design — wasn't retired but instead reassigned as the Friday-night home alternate. That move pushed the Reds from a five-piece closet to six. Everything else is the classic red, white, and black identity the franchise has run for years: white pinstripes at home, "CINCINNATI" grays on the road, and a red alternate that drops in for a pop of color.
+The big 2026 story is the City Connect shuffle. Cincinnati revealed an all-new red City Connect set in April 2026 and slotted it into Saturday home games, while the original black "C" City Connect — the polarizing 2023 design — wasn't retired but instead reassigned as the Friday-night home alternate. That move gave the Reds a five-uniform closet, two of them City Connects. Everything else is the classic red, white, and black identity the franchise has run for years: white pinstripes at home, "CINCINNATI" grays on the road, and a red alternate that drops in for a pop of color.
 
 ## Home White Pinstripes (Most Home Games)
 
@@ -81,11 +79,16 @@ On the road, the Reds wear the standard gray set with "CINCINNATI" arched across
 
 ## Red Alternate (Manager's Choice, Mostly Home)
 
-The red alternate is the splash of color in an otherwise traditional closet. It's a solid red jersey with "CINCINNATI" arched across the chest in white, paired with the all-red cap. There's no rigid day attached to it the way there is for the two City Connects — it's the jersey the Reds reach for when they want the lineup in full red, most often at home and frequently on a Sunday. Because it isn't locked to the weekly grid, it keeps a little bit of event energy whenever it shows up.
+The red alternate is the splash of color in an otherwise traditional closet. It's a solid red jersey with the cursive "Reds" script across the chest in white, paired with the all-red cap. There's no rigid day attached to it the way there is for the two City Connects — it's the jersey the Reds reach for when they want the lineup in full red, most often at home and frequently on a Sunday. Because it isn't locked to the weekly grid, it keeps a little bit of event energy whenever it shows up.
 
 ## Red City Connect 2.0 — The All-Red Set (Saturday Home Games)
 
-This is the newest piece in the closet and the one that made headlines. Unveiled in April 2026, the City Connect 2.0 goes head-to-toe red: a red jersey, red pants, and a matching red cap, with narrow darker-red pinstripes layered over the base for texture. The chest carries a modernized wishbone-"C" built with layered striping for a sense of motion and depth, and the sleeves are rendered in a deeper shade of red — a deliberate nod to the vest-style jerseys the Reds wore two decades ago — with the pinstripes intentionally cut off at the shoulder. The sleeve patch pairs the "Cincy" wordmark from the original City Connect with a graphic of the Tyler Davidson Fountain on Fountain Square downtown. Since debuting in April, it has anchored Saturday home games for the rest of the season. It's loud, monochromatic, and unmistakably Cincinnati red.
+This is the newest piece in the closet and the one that made headlines. Unveiled in April 2026, the City Connect 2.0 goes head-to-toe red: a red jersey, red pants, and a matching red cap, with narrow darker-red pinstripes layered over the base for texture. The chest carries a crisp white wishbone-"C", and the sleeves are rendered in a deeper shade of red — a deliberate nod to the vest-style jerseys the Reds wore two decades ago — with the pinstripes intentionally cut off at the shoulder. The sleeve patch pairs the "Cincy" wordmark from the original City Connect with a graphic of the Tyler Davidson Fountain on Fountain Square downtown. Since debuting in April, it has anchored Saturday home games for the rest of the season. It's loud, monochromatic, and unmistakably Cincinnati red.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/reds-city-connect-2026/reds-cc-front.jpg" alt="Cincinnati Reds 2026 all-red City Connect 2.0 jersey, red with darker pinstripes and the Tyler Davidson Fountain wishbone-C" style="max-width: 360px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Cincinnati Reds</div>
+</div>
 
 ## Black City Connect — The Original "C" Set (Friday Home Games)
 
@@ -100,7 +103,7 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 ## Frequently Asked Questions
 
 **How many uniforms do the Reds have in 2026?**
-Six: the home white pinstripes, the road grays, the red alternate, the new all-red City Connect, and the original black "C" City Connect. The jump from five to six came when Cincinnati added the red City Connect in April 2026 and kept the older black set as a Friday alternate.
+Five: the home white pinstripes, the road grays, the red alternate, the new all-red City Connect, and the original black "C" City Connect. The jump from four to five came when Cincinnati added the red City Connect 2.0 in April 2026 and kept the older black set as a Friday alternate.
 
 **When do the Reds wear the new red City Connect uniform?**
 The all-red City Connect 2.0, unveiled in April 2026, is worn for Saturday home games at Great American Ball Park for the rest of the season.
@@ -112,7 +115,7 @@ No. The original black "C" City Connect from 2023 wasn't retired — for 2026 it
 The gray road set with "CINCINNATI" arched across the chest in red, worn with the two-tone cap (red crown, black bill). It's the default for most away games.
 
 **When do the Reds wear the red alternate jersey?**
-There's no fixed day for it. The red alternate — "CINCINNATI" in white on a red jersey — is manager's choice, most often worn at home and frequently on a Sunday, which is why it isn't pinned to the weekly grid.
+There's no fixed day for it. The red alternate — the cursive "Reds" script in white on a red jersey — is manager's choice, most often worn at home and frequently on a Sunday, which is why it isn't pinned to the weekly grid.
 
 **Do the Reds wear player names on their home jerseys?**
 Yes. Unlike a few clubs that keep the home whites nameless, the Reds carry both names and numbers in their vintage-style typeface across the set.
