@@ -12,8 +12,6 @@ teams:
   - texas-rangers
 ---
 
-<img src="/images/posts/rangers-uniform-schedule-2026/cover.jpg" alt="Texas Rangers 2026 uniform schedule cover showing the five uniform colors — home white, road gray, powder blue, royal-blue road alternate, and the red Tejas City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Texas Rangers carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on a couple of firm habits rather than a published timetable. There are two real anchors — the powder blue that owns Sunday home games and the new "Tejas" City Connect that owns Friday nights at Globe Life Field — and everything else is the default, with the whites and grays handling the day-to-day work. Here's the full Rangers wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -89,7 +87,12 @@ The royal-blue alternate is the wild card. It's a bright royal-blue top carrying
 
 ## City Connect — The "Tejas" Kit (Friday Home Games)
 
-The newest piece, unveiled in April 2026, is a full reset of the program. Out goes the cream "Peagle" City Connect; in comes "Tejas," a deep cochineal-red jersey with "Tejas" — the Caddo word for "friend" that gave the state its name — spelled across the chest in block letters, paired with a matching red cap and white pants. The set leans hard into the Mexican heritage woven through the Dallas–Fort Worth identity: a papel picado motif with the outline of Texas inside it on the sleeve, charro-inspired detailing, and mariachi-style fill patterns in the lettering. Since debuting on Friday, April 24 against the Athletics, it's been the team's standing Friday-night home uniform. It's the loudest thing the Rangers own, and giving it a guaranteed weekly slot means fans know exactly when to come see it.
+The newest piece, unveiled in April 2026, is a full reset of the program. Out goes the cream "Peagle" City Connect; in comes "Tejas," a deep cochineal-red jersey with "Tejas" — the Caddo word for "friend" that gave the state its name — spelled across the chest in block letters, paired with a matching red cap and white pants. The set leans hard into the Mexican heritage woven through the Dallas–Fort Worth identity: a papel picado motif with the outline of Texas inside it on the sleeve and charro-inspired detailing throughout. Since debuting on Friday, April 24 against the Athletics, it's been the team's standing Friday-night home uniform. It's the loudest thing the Rangers own, and giving it a guaranteed weekly slot means fans know exactly when to come see it.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/city-connect-2026-rangers/rangers-cc-front.jpg" alt="Texas Rangers 2026 Tejas City Connect jersey, deep red with white Tejas lettering and papel picado detailing" style="max-width: 560px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Texas Rangers</div>
+</div>
 
 ## How the Rangers Rotation Actually Works
 
