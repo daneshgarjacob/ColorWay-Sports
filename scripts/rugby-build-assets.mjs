@@ -11,7 +11,7 @@ import { homedir } from "os";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const SRC = resolve(homedir(), "Desktop/rugby-kits");
 const OUT = resolve(__dirname, "../public/images/posts/rugby-club-kits");
-const WATERMARK = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
+const WATERMARK = resolve(__dirname, "../public/brand/colorway-sports-logo-white.png");
 
 // Jake's ranking order (#1 best -> #11 worst): source file -> slug
 const CLUBS = [
@@ -91,7 +91,7 @@ for (let i = 0; i < CLUBS.length; i++) {
   });
 }
 
-const wmW = 180;
+const wmW = 260;
 const wm = await sharp(WATERMARK).resize({ width: wmW }).png().toBuffer();
 const wmH = (await sharp(wm).metadata()).height || 56;
 composites.push({ input: wm, left: Math.round((W - wmW) / 2), top: H - wmH - 30 });
