@@ -12,8 +12,6 @@ teams:
   - detroit-tigers
 ---
 
-<img src="/images/posts/tigers-uniform-schedule-2026/cover.jpg" alt="Detroit Tigers 2026 uniform schedule cover showing the five uniform colors — home white, road gray, orange home alternate, navy road alternate, and the Motor City City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Detroit Tigers run five uniforms in 2026, and this is the most the closet has changed in a generation. For the first time in the franchise's 126-year history, the Tigers will wear an orange jersey in a regular-season game — a new home alternate unveiled in February 2026 alongside a new navy road alternate, both leaning hard on the 1984 World Series look. They join the white home, the gray road, and the Motor City City Connect, which slides into a smaller role this year. Here's the full Tigers wardrobe for 2026 and exactly when each jersey comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -69,7 +67,7 @@ The Detroit Tigers run five uniforms in 2026, and this is the most the closet ha
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The grid models a representative week, not a fixed timetable. Detroit only has two hard hooks: the <strong>orange alternate on Friday home games</strong> and the <strong>City Connect on select Monday home games</strong>. The navy alternate comes out for "select" road games with no set day, and the whites and grays fill everything else — so a real week's road portion can mix grays and navy depending on the trip.</p>
 
-The Tigers carry five uniforms in 2026, and the headline is the two brand-new alternates that debuted to open the season. Team president Ryan Gustafson said the organization spent roughly 18 months surveying fans, running focus groups, and testing concepts before landing on the look — a deliberate nod to the 1984 World Series champions, with V-neck collars, three-color striping at the cuffs, and a new circular sleeve patch echoing the roundel "tiger head" logos the club wore from 1961 to 1993. Everything else in the closet — the Old English D whites, the script "Detroit" grays, and the Motor City City Connect — carries over, with the Meijer advertising patch on the sleeve of the home and road sets.
+The Tigers carry five uniforms in 2026, and the headline is the two brand-new alternates that debuted to open the season. Ilitch Sports + Entertainment president Ryan Gustafson said the organization spent nearly two years surveying fans, running focus groups, and testing concepts before landing on the look — a deliberate nod to the 1984 World Series champions, with V-neck collars, three-color striping at the cuffs, and a new circular sleeve patch echoing the roundel "tiger head" logos the club wore from 1961 to 1993. Everything else in the closet — the Old English D whites, the script "Detroit" grays, and the Motor City City Connect — carries over, with the Meijer advertising patch on the sleeve of the home and road sets.
 
 ## Home Whites (Most Home Games)
 
@@ -89,7 +87,12 @@ The navy alternate is the orange jersey's travel companion, unveiled in the same
 
 ## Motor City City Connect (Select Monday Home Games)
 
-Detroit's "Motor City" City Connect, introduced in May 2024, is back for a third season — but with a smaller footprint. Where it once owned every home Friday, in 2026 it moves to select Monday home games and is worn more sparingly overall, with the orange alternate inheriting the Friday slot. The design is a love letter to the city's car culture: a navy base with electric-blue tire-tread detailing down the front beneath white "Motor City" lettering, racing stripes at the cuffs and down the pants, a baseball-diamond "313" area-code sleeve patch, a faux VIN (starting "1901" for the team's first season) on the cap, and tiger eyes hidden on the beltline and under the brim. It's one of the more thematically dense City Connects MLB has approved, and pulling it back to a once-in-a-while Monday keeps it from wearing out its welcome.
+Detroit's "Motor City" City Connect, introduced in May 2024, is back for a third season — but with a smaller footprint. Where it once owned every home Friday, in 2026 it moves to select Monday home games and is worn more sparingly overall, with the orange alternate inheriting the Friday slot. The design is a love letter to the city's car culture: a navy base with electric-blue tire-tread detailing down the front beneath white "Motor City" lettering, racing stripes at the cuffs and down the pants, a road-sign-style "313" area-code sleeve patch, a faux VIN (starting "1901" for the team's first season) on the cap, and tiger eyes hidden on the beltline and under the brim. It's one of the more thematically dense City Connects MLB has approved, and pulling it back to a once-in-a-while Monday keeps it from wearing out its welcome.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/tigers-uniform-schedule-2026/tigers-city-connect.jpg" alt="Detroit Tigers 2026 Motor City City Connect jersey, navy with tire-tread detailing and Motor City across the chest" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
+</div>
 
 ## How the Rotation Works
 
