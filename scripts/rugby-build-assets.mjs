@@ -24,7 +24,7 @@ const CLUBS = [
   ["tm11905-030-surf-the-web-01-removebg-preview.png", "leinster"],
   ["510084-removebg-preview.png", "fijian-drua"],
   ["maillot-stade-francais-paris-domicile-junior-kappa2025090216495368b70411d5424-removebg-preview.png", "stade-francais"],
-  ["harlequins-kit-removebg-preview.png", "harlequins"],
+  ["TM1273_MULTI_1-scaled-1-removebg-preview.png", "harlequins"],
   ["csi-crr26mj1-removebg-preview.png", "crusaders"],
 ];
 
@@ -79,7 +79,7 @@ const composites = [];
 for (let i = 0; i < CLUBS.length; i++) {
   const [src] = CLUBS[i];
   const jersey = await sharp(resolve(SRC, src))
-    .resize({ width: Math.round(slotW - 8), height: 220, fit: "inside", withoutEnlargement: true })
+    .resize({ height: 135 })
     .png()
     .toBuffer();
   const m = await sharp(jersey).metadata();

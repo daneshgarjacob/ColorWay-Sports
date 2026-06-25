@@ -2,7 +2,7 @@
 title: "The Best Rugby Club Kits, Ranked: 11 of the Boldest Jerseys in World Rugby"
 category: Rugby
 date: "2026-06-25"
-excerpt: "From the Harlequins fireworks shirt and Stade Français's shocking pink to Toulouse's red-and-black and Bristol's classic navy, club rugby has some of the boldest kit design in all of sport. Here's our worst-to-best ranking of 11 of the best club jerseys across the Top 14, Premiership, URC, Super Rugby and NRL."
+excerpt: "From the Harlequins quarters and Stade Français's shocking pink to Toulouse's red-and-black and Bristol's classic navy, club rugby has some of the boldest kit design in all of sport. Here's our worst-to-best ranking of 11 of the best club jerseys across the Top 14, Premiership, URC, Super Rugby and NRL."
 gradient: "linear-gradient(135deg, #1B3A2B 0%, #0a0a0a 100%)"
 coverImage: "/images/posts/rugby-club-kits/cover.jpg"
 coverImagePosition: "center center"
@@ -11,9 +11,9 @@ league: rugby
 teams: []
 ---
 
-<img src="/images/posts/rugby-club-kits/cover.jpg" alt="The best rugby club kits ranked, a lineup of 11 club jerseys including Bristol Bears navy, Bath hoops, Toulouse red and black, the South Sydney Rabbitohs, the St George Red V, Hurricanes yellow, Leinster blue, Fijian Drua, Stade Français pink, the Harlequins fireworks shirt and the Crusaders, across the Top 14, Premiership, URC, Super Rugby and NRL" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px; margin-bottom: 1.85em;" />
+<img src="/images/posts/rugby-club-kits/cover.jpg" alt="The best rugby club kits ranked, a lineup of 11 club jerseys including Bristol Bears navy, Bath hoops, Toulouse red and black, the South Sydney Rabbitohs, the St George Red V, Hurricanes yellow, Leinster blue, Fijian Drua, Stade Français pink, the Harlequins quarters and the Crusaders, across the Top 14, Premiership, URC, Super Rugby and NRL" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px; margin-bottom: 1.85em;" />
 
-Club rugby is where the sport's best kit design actually lives. International jerseys lean on a century of tradition and rarely change, but the clubs — across France's Top 14, England's Gallagher Premiership, the URC, Super Rugby Pacific and Australia's NRL — are where you find shocking pink, exploding fireworks, century-old hoops and graphic devices so good they've become shorthand for the club itself.
+Club rugby is where the sport's best kit design actually lives. International jerseys lean on a century of tradition and rarely change, but the clubs — across France's Top 14, England's Gallagher Premiership, the URC, Super Rugby Pacific and Australia's NRL — are where you find shocking pink, century-old quartered shirts, hooped heritage and graphic devices so good they've become shorthand for the club itself.
 
 This is ColorWay's worst-to-best ranking of **11 of the best club kits in world rugby**, judged on color, pattern, contrast and how unmistakable each shirt is — across both codes, union and league. We're not ranking trophies; we're ranking the shirts. Here's the countdown to our favorite club kit in rugby.
 
@@ -37,13 +37,13 @@ We start in Christchurch with the most successful franchise in Super Rugby histo
 <div style="background: linear-gradient(135deg, #241a33 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#10</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Harlequins</p>
-  <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Gallagher Premiership · Fireworks Special</p>
+  <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Gallagher Premiership · The Quarters</p>
   <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/harlequins.jpg" alt="Harlequins special-edition jersey — exploding fireworks pattern in green, blue and pink on black with the DHL sponsor bar" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/posts/rugby-club-kits/harlequins.jpg" alt="Harlequins Gallagher Premiership home jersey — the famous quartered shirt in light blue, maroon, grey and black with green sleeves and the DHL sponsor bar" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
   </div>
 </div>
 
-Harlequins are best known for their roughly 150-year-old quartered shirt — but this is the club at its loudest: a riot of exploding fireworks in green, blue and pink across a black base, finished with the giant red-and-yellow DHL bar. It's a genuine love-it-or-hate-it kit — gloriously over-the-top up close, a little chaotic from distance. Full marks for nerve; it's easily the most divisive shirt here.
+The most distinctive patterned shirt in rugby, full stop. The quartered design — light blue, maroon, grey and black panels with green-and-black sleeves and the bold DHL bar across the chest — is lifted straight from the harlequin jester the club is named after, and the basic silhouette is roughly 150 years old. Nothing else in the sport looks remotely like it. On a list this stacked it lands at #10, but few kits anywhere carry more history.
 
 ## 9. Stade Français Paris
 
@@ -173,7 +173,7 @@ And our best club kit in rugby. Bristol's deep navy shirt proves that the boldes
 7. **Leinster** — URC · Leinster blue
 8. **Fijian Drua** — Super Rugby · royal blue &amp; masi patterning
 9. **Stade Français Paris** — Top 14 · the pink
-10. **Harlequins** — Premiership · fireworks special
+10. **Harlequins** — Premiership · the quarters
 11. **Crusaders** — Super Rugby · black &amp; red
 
 ## Frequently Asked Questions
@@ -185,7 +185,7 @@ Stade Français Paris's pink jersey is the most famous club kit in world rugby. 
 Then-owner Max Guazzini introduced pink in 2005 as a marketing masterstroke and a provocation, aiming to break rugby's conservative image and broaden the club's appeal. It worked: the kit sold in huge numbers and made Stade Français one of the most recognizable clubs in the sport.
 
 **Which rugby club has the quartered jersey?**
-Harlequins, of the English Gallagher Premiership, are famous for their quartered shirt — magenta, light blue, white and dark panels with green-and-black sleeves, a design roughly 150 years old. The club also runs bold special-edition kits, like the fireworks shirt shown above.
+Harlequins, of the English Gallagher Premiership, are famous for their quartered shirt — light blue, maroon, grey and black panels with green-and-black sleeves and a DHL sponsor bar, a roughly 150-year-old design shown above. Nothing else in the sport looks quite like it.
 
 **What is the St George Illawarra "Red V"?**
 The Red V is the bold scarlet "V" that sweeps from the shoulders to a point on the chest of the St George Illawarra Dragons' white NRL jersey. Dating to 1945, it's one of the most recognizable jerseys in Australian sport and has become the club's nickname.
