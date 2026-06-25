@@ -12,8 +12,6 @@ teams:
   - cleveland-guardians
 ---
 
-<img src="/images/posts/guardians-uniform-schedule-2026/cover.jpg" alt="Cleveland Guardians 2026 uniform schedule cover showing the five uniform colors — home white, road gray, red alternate, navy alternate, and the navy CLE City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Cleveland Guardians carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's really one soft anchor — the navy "CLE" City Connect that owns Friday nights at Progressive Field — while everything else is manager's choice, with the whites and grays doing the day-to-day work and the two color tops dropped in when the staff wants a jolt. Here's the full Guardians wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -90,6 +88,11 @@ The navy alternate is the other wild card, and the 2025 overhaul gave it the big
 ## City Connect — The "CLE" Bridge Kit (Friday Home Games)
 
 The City Connect, unveiled in May 2024, is the most conceptually loaded jersey the Guardians own, and it leans all the way into the Guardians of Traffic — the eight art-deco statues that guard the Hope Memorial Bridge and gave the team its name. The base is a deep navy textured to mimic the natural wear of the Berea sandstone the statues are carved from, with an art-deco "CLE" stacked across the chest in a layered font designed to look chiseled from stone, plus matching art-deco names and numbers on the back. Intricate braiding runs down the sides of the jersey and pants, echoing detailing on the pylons, the pants are a sandstone tan, and the red socks carry a sketch of a Guardian statue holding a bat. The cap wears the primary "Diamond C." Since debuting in 2024 it has anchored Friday home games at Progressive Field. It's busy, it's specific, and it's unmistakably Cleveland — one of the more thoughtful, place-rooted entries in the City Connect program.
+
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; text-align: center;">
+<img src="/images/posts/guardians-uniform-schedule-2026/guardians-city-connect.jpg" alt="Cleveland Guardians 2026 CLE City Connect jersey by Nike, navy with a stone-texture pattern, cream CLE lettering, and The Land detailing" style="max-width: 340px; width: 100%; border-radius: 6px;" />
+<div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
+</div>
 
 ## How the Guardians Rotation Actually Works
 
