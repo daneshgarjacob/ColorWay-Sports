@@ -12,8 +12,6 @@ teams:
   - washington-nationals
 ---
 
-<img src="/images/posts/nationals-uniform-schedule-2026/cover.jpg" alt="Washington Nationals 2026 uniform schedule cover showing the five uniform colors — script Nationals home white, WASHINGTON road gray, red curly W alternate, navy alternate, and the denim-blue District Blueprint City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Washington Nationals carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's one real anchor — the denim-blue "District Blueprint" City Connect that owns Friday and Saturday home games — and everything else is essentially manager's choice, with the script "Nationals" home white and the road gray doing the day-to-day work. Here's the full Nationals wardrobe for 2026 and when each jersey actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -91,13 +89,18 @@ The navy alternate is the darker counterpart to the red — a navy jersey with t
 
 This is the newest and most conceptually loaded piece in the closet, and it replaced a fan favorite. The original Cherry Blossom City Connect — the pink-and-cream kit introduced in 2022 — was retired after the 2024 season under MLB and Nike's plan to refresh City Connect designs after about three years. In its place, the Nationals unveiled the "District Blueprint" for 2025: a denim-blue ("American denim") jersey whose design traces the street grid of Washington, D.C. — its quadrants, grand avenues, and traffic circles — in a white blueprint motif. The chest carries a 3D interlocking "DC" logo, a callback to both the original Senators and the Nationals' 2006-2010 look, the cap swaps in a block "W" with the Capitol Dome inside it flanked by cherry blossoms, and the white pants add a mosaic trim meant to represent the city's diversity. It debuted on the season's opening weekend in 2025 and has anchored Friday and Saturday home games ever since. It's busy, it's specific, and it is unmistakably Washington — a thoughtful follow-up to one of the most beloved kits the program ever produced.
 
+<div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; text-align: center;">
+<img src="/images/posts/nationals-uniform-schedule-2026/nationals-city-connect.jpg" alt="Washington Nationals 2026 District Blueprint City Connect jersey by Nike, blue with a DC street-map pattern and the interlocking DC monogram" style="max-width: 340px; width: 100%; border-radius: 6px;" />
+<div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
+</div>
+
 ## How the Nationals Rotation Actually Works
 
 Let's be straight about it: the Nationals are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; Washington really has just one standing habit — **the denim-blue City Connect on Friday and Saturday home games**. Everything else is feel and matchup: the script "Nationals" home white for the rest of the homestand, the "WASHINGTON" road gray for most of the trip, and the red and navy alternates dropped in whenever the staff wants a change of pace, with no day-of-week assignment behind either of them.
 
 It still works, because the one anchor covers the jersey fans actually plan around. The City Connect is the look people buy tickets and merch for, so handing it a standing weekend slot builds anticipation even without a rigid system. The whites and grays are perfectly content to handle the quiet weekday work in between, and the two alternates keep the rest of the schedule from ever feeling predictable.
 
-One more constant across all five: every Nationals jersey now carries the **AARP** advertising patch on the sleeve, the franchise's first-ever jersey sponsor, which arrived midway through the 2025 season. It appears as a red patch on the home whites and a flipped white-on-red version on the road gray, the red alternate, the navy alternate, and the City Connect — the Nats' debut entry into the jersey-ad era MLB opened up in 2023.
+One more constant across all five: every Nationals jersey now carries the **AARP** advertising patch on the sleeve, the franchise's first-ever jersey sponsor, which arrived midway through the 2025 season. It's recolored to sit cleanly on each jersey across the set — the Nats' debut entry into the jersey-ad era MLB opened up in 2023.
 
 ## Frequently Asked Questions
 
@@ -117,7 +120,7 @@ There's no fixed day for it. The red "curly W" alternate returned in 2025 after 
 Around Independence Day, the Nationals — fittingly, as the team in the nation's capital — have long leaned into a stars-and-stripes treatment of the curly W on their navy look, a patriotic nod for the holiday. The standard navy alternate itself is a script "Nationals" jersey worn as a no-fixed-day option through the rest of the season.
 
 **What sponsor patch is on the Nationals jersey?**
-AARP. It's the franchise's first-ever jersey advertiser, added during the 2025 season — a red patch on the home whites and a flipped white-on-red version on the road gray, red alternate, navy alternate, and City Connect.
+AARP. It's the franchise's first-ever jersey advertiser, added during the 2025 season, and it now appears on the sleeve of every jersey, recolored to match each look.
 
 ## More MLB Coverage
 
