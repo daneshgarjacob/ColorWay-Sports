@@ -12,8 +12,6 @@ teams:
   - chicago-white-sox
 ---
 
-<img src="/images/posts/white-sox-uniform-schedule-2026/cover.jpg" alt="Chicago White Sox 2026 uniform schedule cover showing the five uniform looks — home white pinstripe, road gray, black alternate, charcoal Southside, and the new red Bulls-inspired City Connect" style="width: 100%; border-radius: 10px;" />
-
 The Chicago White Sox carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. The anchors everyone recognizes — the black-and-silver home pinstripes and the black alternate — do most of the work, while the brand-new red City Connect is the jersey fans actually plan around. Here's the full White Sox wardrobe for 2026 and when each one actually comes out.
 
 ## Sample Home-and-Road Week at a Glance
@@ -89,7 +87,12 @@ The charcoal-and-white "Southside" kit was the team's first City Connect, introd
 
 ## Red City Connect — The Bulls Collaboration (Promotional Home Dates)
 
-The newest and loudest piece is the red City Connect, revealed on April 28, 2025, in a first-of-its-kind crossover with the NBA's Chicago Bulls — both clubs owned by Jerry Reinsdorf. It's a red jersey with both red and black pinstripes (the red for the Bulls, the black for the Sox), a "CHICAGO" wordmark across the chest that echoes the team's 1930s lettering, and black sleeves carrying a winged-sock patch drawn from the franchise's 1950s identity. "Southside" is etched on the sleeves and pants as a nod to the original City Connect, and the neckline references the nine combined championships of the two franchises. It even came with two caps — a "BRED" version with the winged-sock logo and a red-and-black "City Pinstripes" option, making the White Sox the first MLB team with two City Connect hats. Rather than owning a standing weekday, it's tied to specific promotional games — including a Bulls-themed series against the Dodgers built around a giveaway in June 2026 — which keeps it feeling like an event every time it comes out.
+The newest and loudest piece is the red City Connect, revealed on April 28, 2025, in a first-of-its-kind crossover with the NBA's Chicago Bulls — both clubs owned by Jerry Reinsdorf. It's a red jersey with both red and black pinstripes (the red for the Bulls, the black for the Sox), a "CHICAGO" wordmark across the chest that echoes the team's 1930s lettering, and black sleeves carrying a winged-sock patch drawn from the franchise's 1950s identity. "Southside" is etched on the sleeves and pants as a nod to the original City Connect, and the inside collar references the nine combined championships of the two franchises. It even came with two caps — a "BRED" version with the winged-sock logo and a red-and-black "City Pinstripes" option, making the White Sox the first MLB team with two City Connect hats. Rather than owning a standing weekday, it's tied to specific promotional games — including a Bulls-themed series against the Dodgers built around a giveaway in June 2026 — which keeps it feeling like an event every time it comes out.
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/white-sox-uniform-schedule-2026/white-sox-city-connect.jpg" alt="Chicago White Sox 2026 City Connect jersey, red with black pinstripes and Chicago across the chest" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
+</div>
 
 ## How the White Sox Rotation Actually Works
 
