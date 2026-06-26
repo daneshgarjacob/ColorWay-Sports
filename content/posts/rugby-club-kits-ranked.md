@@ -21,12 +21,12 @@ This is ColorWay's worst-to-best ranking of the **11 best rugby club kits in the
 
 ## 11. Crusaders
 
-<div style="background: linear-gradient(135deg, #9b1414 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #9b1414 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#11</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Crusaders</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Super Rugby Pacific · Black &amp; Red</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/crusaders.jpg" alt="Crusaders Super Rugby home jersey — black fading to red at the hem with the abstract Tohu mark" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/crusaders.webp" alt="Crusaders Super Rugby home jersey — black fading to red at the hem with the abstract Tohu mark" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -34,12 +34,12 @@ We start in Christchurch with the most successful franchise in Super Rugby histo
 
 ## 10. Harlequins
 
-<div style="background: linear-gradient(135deg, #241a33 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #241a33 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#10</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Harlequins</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Gallagher Premiership · The Quarters</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/harlequins.jpg" alt="Harlequins Gallagher Premiership home jersey — the famous quartered shirt in light blue, maroon, grey and black with green sleeves and the DHL sponsor bar" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/harlequins.webp" alt="Harlequins Gallagher Premiership home jersey — the famous quartered shirt in light blue, maroon, grey and black with green sleeves and the DHL sponsor bar" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -47,12 +47,12 @@ The most distinctive patterned shirt in rugby, full stop. The quartered design �
 
 ## 9. Stade Français Paris
 
-<div style="background: linear-gradient(135deg, #c81e6e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #c81e6e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#9</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Stade Français Paris</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Top 14 · The Pink</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/stade-francais.jpg" alt="Stade Français Paris Top 14 jersey — vivid pink with white lightning bolts and a tonal Eiffel Tower graphic" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/stade-francais.webp" alt="Stade Français Paris Top 14 jersey — vivid pink with white lightning bolts and a tonal Eiffel Tower graphic" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -60,12 +60,12 @@ The most famous provocation in rugby kit history. When Stade Français rolled ou
 
 ## 8. Fijian Drua
 
-<div style="background: linear-gradient(135deg, #0e4a8c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #0e4a8c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#8</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Fijian Drua</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Super Rugby Pacific · Royal Blue &amp; Masi</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/fijian-drua.jpg" alt="Fijian Drua Super Rugby jersey — royal blue with traditional Fijian masi tapa-cloth patterning and the drua canoe logo" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/fijian-drua.webp" alt="Fijian Drua Super Rugby jersey — royal blue with traditional Fijian masi tapa-cloth patterning and the drua canoe logo" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -73,12 +73,12 @@ The most characterful identity in the competition. The Drua's royal-blue shirt i
 
 ## 7. Leinster
 
-<div style="background: linear-gradient(135deg, #0a2a6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #0a2a6b 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#7</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Leinster</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">URC · Leinster Blue</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/leinster.jpg" alt="Leinster URC home jersey — deep Leinster blue with the harp crest, gold trim and a tonal lightning graphic" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/leinster.webp" alt="Leinster URC home jersey — deep Leinster blue with the harp crest, gold trim and a tonal lightning graphic" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -86,12 +86,12 @@ The most characterful identity in the competition. The Drua's royal-blue shirt i
 
 ## 6. Hurricanes
 
-<div style="background: linear-gradient(135deg, #8a7400 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #8a7400 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#6</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Hurricanes</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Super Rugby Pacific · Yellow &amp; Black</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/hurricanes.jpg" alt="Wellington Hurricanes Super Rugby home jersey — bright electric yellow with the swirling H logo and black trim" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/hurricanes.webp" alt="Wellington Hurricanes Super Rugby home jersey — bright electric yellow with the swirling H logo and black trim" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -99,12 +99,12 @@ The loudest color in the sport, and gloriously so. Wellington's electric yellow 
 
 ## 5. St George Illawarra Dragons
 
-<div style="background: linear-gradient(135deg, #c8102e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #c8102e 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#5</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">St George Illawarra Dragons</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">NRL · The Red V</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/st-george-dragons.jpg" alt="St George Illawarra Dragons NRL home jersey — white with the bold scarlet Red V sweeping from the shoulders to a point at the chest" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/st-george-dragons.webp" alt="St George Illawarra Dragons NRL home jersey — white with the bold scarlet Red V sweeping from the shoulders to a point at the chest" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -112,12 +112,12 @@ The single best graphic device in rugby league: one bold scarlet "V" sweeping fr
 
 ## 4. South Sydney Rabbitohs
 
-<div style="background: linear-gradient(135deg, #0a3a24 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #0a3a24 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#4</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">South Sydney Rabbitohs</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">NRL · Cardinal &amp; Myrtle Hoops</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/south-sydney.jpg" alt="South Sydney Rabbitohs NRL home jersey — cardinal red and myrtle green hoops with the MG chest sponsor and rabbit crest" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/south-sydney.webp" alt="South Sydney Rabbitohs NRL home jersey — cardinal red and myrtle green hoops with the MG chest sponsor and rabbit crest" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -125,12 +125,12 @@ The oldest and most decorated club in the NRL wears the code's best heritage pal
 
 ## 3. Stade Toulousain (Toulouse)
 
-<div style="background: linear-gradient(135deg, #7a1020 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #7a1020 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#3</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Stade Toulousain</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Top 14 · Red &amp; Black</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/toulouse.jpg" alt="Stade Toulousain Top 14 home jersey — graduated red and black bands with the Airbus and Peugeot sponsors" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/toulouse.webp" alt="Stade Toulousain Top 14 home jersey — graduated red and black bands with the Airbus and Peugeot sponsors" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -138,12 +138,12 @@ France's most successful club keeps it bold and simple — graduated red-and-bla
 
 ## 2. Bath
 
-<div style="background: linear-gradient(135deg, #0a2a5c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #0a2a5c 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#2</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Bath</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Gallagher Premiership · Blue, Black &amp; White Hoops</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/bath.jpg" alt="Bath Rugby Gallagher Premiership home jersey — blue, black and white hoops with the Dyson sponsor" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/bath.webp" alt="Bath Rugby Gallagher Premiership home jersey — blue, black and white hoops with the Dyson sponsor" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 
@@ -151,12 +151,12 @@ One of the most recognizable shirts in England, and our runner-up. Bath's blue, 
 
 ## 1. Bristol Bears
 
-<div style="background: linear-gradient(135deg, #0a1f4a 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
+<div style="background: radial-gradient(ellipse 58% 44% at 50% 62%, rgba(255,255,255,0.26) 0%, rgba(255,255,255,0) 72%), linear-gradient(135deg, #0a1f4a 0%, #0d0d0d 100%); border-radius: 16px; padding: 22px 22px 26px; margin: 1.75em 0 0.75em; text-align: center; position: relative;">
   <span style="position: absolute; top: 16px; left: 22px; font-size: 2.1em; font-weight: 900; color: rgba(255,255,255,0.5); line-height: 1;">#1</span>
   <p style="color: #fff; font-weight: 900; font-size: 1.25em; margin: 8px 0 2px;">Bristol Bears</p>
   <p style="color: rgba(255,255,255,0.75); font-size: 0.72em; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px; font-weight: 700;">Gallagher Premiership · Navy</p>
-  <div style="background: #fff; border-radius: 12px; padding: 10px; display: inline-block; max-width: 92%;">
-    <img src="/images/posts/rugby-club-kits/bristol-bears.jpg" alt="Bristol Bears Gallagher Premiership home jersey — deep navy with tonal hoops, white KAELO lettering and the bear crest" style="max-height: 320px; max-width: 100%; border-radius: 8px; display: block;" />
+  <div style="margin: 2px auto 0; display: inline-block; max-width: 94%;">
+    <img src="/images/posts/rugby-club-kits/bristol-bears.webp" alt="Bristol Bears Gallagher Premiership home jersey — deep navy with tonal hoops, white KAELO lettering and the bear crest" style="max-height: 330px; max-width: 100%; display: block; filter: drop-shadow(0 12px 26px rgba(0,0,0,0.55));" />
   </div>
 </div>
 

@@ -33,11 +33,10 @@ await mkdir(OUT, { recursive: true });
 // 1) Per-club white-bg JPGs for the post cards
 for (const [src, slug] of CLUBS) {
   await sharp(resolve(SRC, src))
-    .resize({ height: 620, fit: "inside", withoutEnlargement: true })
-    .flatten({ background: "#ffffff" })
-    .jpeg({ quality: 86 })
-    .toFile(resolve(OUT, `${slug}.jpg`));
-  console.log("jersey ->", `${slug}.jpg`);
+    .resize({ height: 640, fit: "inside", withoutEnlargement: true })
+    .webp({ quality: 82 })
+    .toFile(resolve(OUT, `${slug}.webp`));
+  console.log("jersey ->", `${slug}.webp`);
 }
 
 // 2) Cover montage: 11 transparent cutouts in a row on the brand gradient
