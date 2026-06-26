@@ -2,7 +2,7 @@
 title: "Who Are the 2026 NBA Finals Announcers? Mike Breen, Richard Jefferson, and Tim Legler on ESPN"
 category: "NBA"
 date: "2026-04-13"
-updatedDate: "2026-06-08"
+updatedDate: "2026-06-26"
 excerpt: "Mike Breen, Richard Jefferson, and Tim Legler call the 2026 NBA Finals for ESPN on ABC. Full rankings of every NBA Playoff broadcast crew across ESPN, NBC, and Amazon Prime including the studio teams."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 logoSrc: "/logos/nba.png"
@@ -15,7 +15,12 @@ topViewsRank: 4
 
 <img src="/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.jpg" alt="ESPN NBA Finals OG broadcast crew Mike Breen Mark Jackson Jeff Van Gundy" style="width: 100%; max-width: 100%; border-radius: 10px; margin-bottom: 2em;" />
 
-The 2026 NBA Playoffs will be the first postseason under the league's new media deals, and that means three completely different broadcast teams calling games across ESPN/ABC, NBC/Peacock, and Amazon Prime Video. The TNT era is over, but the voices of the NBA postseason are still stacked with talent.
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; padding: 18px 22px; margin: 1.5em 0;">
+<p style="margin: 0 0 8px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #2f6bed;">The Quick Answer</p>
+<p style="margin: 0; color: #1a1e28; font-size: 16px; line-height: 1.65;">The <strong>2026 NBA Finals</strong> are called by <strong>Mike Breen</strong> on play-by-play, with analysts <strong>Richard Jefferson</strong> and <strong>Tim Legler</strong> and <strong>Lisa Salters</strong> on the sideline. The Finals air on <strong>ABC and ESPN</strong>. The studio show is <strong>Inside the NBA</strong> with Shaq, Ernie Johnson, Kenny Smith, and Charles Barkley.</p>
+</div>
+
+The 2026 NBA Playoffs are the first postseason under the league's new media deals, and that means three completely different broadcast teams calling games across ESPN/ABC, NBC/Peacock, and Amazon Prime Video. The TNT era is over, but the voices of the NBA postseason are still stacked with talent. Below we break down every crew, but the headline is simple: when the NBA Finals tip off on ABC, it is Mike Breen and the ESPN A-team in the building.
 
 We graded every broadcast crew, from the game announcers to the studio shows, across all three networks. This is part of our full 2026 NBA Playoffs preview series. Check out our breakdown of [where to watch every game](/stories/2026-nba-playoffs-broadcast-networks-guide) for the full TV schedule.
 
@@ -183,6 +188,9 @@ Prime has the entire Play-In Tournament, which is a smart move that keeps the vi
 ---
 
 ## Frequently Asked Questions
+
+**Who are the announcers for the 2026 NBA Finals?**
+The 2026 NBA Finals are called by Mike Breen on play-by-play, with analysts Richard Jefferson and Tim Legler and Lisa Salters on the sideline. The Finals air on ABC and ESPN. Inside the NBA with Shaq, Ernie Johnson, Kenny Smith, and Charles Barkley handles the pregame, halftime, and postgame studio coverage.
 
 **Who is calling the 2026 NBA Playoffs on ESPN?**
 Mike Breen is ESPN's lead play-by-play voice for the 2026 NBA Playoffs, joined by analysts Richard Jefferson and Tim Legler with Lisa Salters on the sideline. Dave Pasch and Ryan Ruocco handle additional games. Shaq, Ernie Johnson, Kenny Smith, and Charles Barkley host Inside the NBA on ESPN for pregame, halftime, and postgame coverage.
