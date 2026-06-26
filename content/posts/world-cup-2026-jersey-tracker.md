@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-24"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Eight perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, and Curaçao's blue vs Ivory Coast's orange. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 58 matches. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-06-26"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 60 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -41,10 +41,76 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">58 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">60 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 60: Norway vs France
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #BA0C2F 0%, #002395 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group I · Match 60 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-norway-home.jpg" alt="Norway 2026 World Cup red Nike home jersey with the navy and white flag cross and the Norges Fotballforbund crest, worn in the Group I match vs France" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NORWAY</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnorway%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-france-away.jpg" alt="France 2026 World Cup pale mint Nike away jersey with the Liberte Statue of Liberty motif and the gold rooster crest, worn in the Group I match vs Norway" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">FRANCE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Mint</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dfrance%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 10 / 10</p>
+</div>
+
+Norway against France is the Group I finale and a genuinely electric kit clash. Norway bring their bold Nike red home with the navy and white flag cross slashing across the chest, one of the most striking home shirts in the tournament, against France in the pale mint Liberté away, the soft seafoam Nike kit with the Statue of Liberty collar detail and the gold rooster. Red against mint is a complementary contrast that separates beautifully under the lights, the Norwegian red carrying the pairing while France's cool, modern away keeps it fresh and unexpected. Bold, clean, and instantly readable from every camera angle. A perfect 10 out of 10.
+
+## Match 59: Senegal vs Iraq
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #00853F 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group I · Match 59 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-senegal-home.jpg" alt="Senegal 2026 World Cup white Puma home jersey with a pastel African pattern, green trim, and the Lions of Teranga crest, worn in the Group I match vs Iraq" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SENEGAL</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsenegal%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-iraq-home.jpg" alt="Iraq 2026 World Cup green home jersey with the red white and black sash and a tonal lion graphic, worn in the Group I match vs Senegal" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">IRAQ</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Green</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Diraq%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6.5 / 10</p>
+</div>
+
+Senegal against Iraq closes Group I with a clean if quieter look. Senegal wear their white Puma home, the crisp shirt with the soft pastel pattern and green collar and the Lions of Teranga crest, against Iraq's green Libero home with the red, white, and black sash and the tonal lion graphic. White against green is a safe, legible pairing and Iraq's rich green anchors it well, but white is a neutral, so the matchup stays tidy rather than vivid. A perfectly watchable broadcast clash that just lacks the color-on-color punch that climbs the board. Six and a half out of 10.
 
 ## Match 58: Tunisia vs Netherlands
 
