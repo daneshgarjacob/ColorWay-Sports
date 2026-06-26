@@ -34,26 +34,6 @@ const trackers: TrackerCard[] = [
     image: "/images/world-cup-rooting-guide-cover.jpg",
     centered: false,
   },
-  {
-    slug: "nba-finals-2026-jersey-tracker-knicks-spurs",
-    kicker: "NBA · Finals · Knicks vs Spurs",
-    title: "2026 NBA Finals Jersey & Uniform Tracker",
-    dek: "The New York Knicks are 2026 NBA Champions — their first title in 53 years — closing out the Spurs 4-1 in Game 5 at Frost Bank in the Icon blue. The Finals jersey series averaged 9.4/10, the highest of the playoffs, with Games 2–5 all 10/10. Every matchup graded.",
-    status: "Champions · Knicks 4-1",
-    grade: "A",
-    image: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg",
-    centered: false,
-  },
-  {
-    slug: "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
-    kicker: "NHL · Stanley Cup Final · Hurricanes vs Knights",
-    title: "2026 NHL Stanley Cup Final Jersey & Uniform Tracker",
-    dek: "The Carolina Hurricanes are Stanley Cup champions — their first since 2006 — closing out Vegas 4-2 with a 3-0 Game 6 shutout on the road in white, the iconic red home sweater never touching the ice once all series. Series average 7.5/10. Every matchup graded.",
-    status: "Champions · Hurricanes 4-2",
-    grade: "B+",
-    image: "/images/posts/NHL-Playoffs-Jersey-Matchups/nhl-finals-tracker-cover.jpg",
-    centered: false,
-  },
 ];
 
 const gradeColor: Record<string, string> = {
