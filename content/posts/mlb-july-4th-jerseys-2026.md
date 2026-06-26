@@ -2,6 +2,7 @@
 title: "Every 2026 MLB Fourth of July Jersey, and the One 'Anti-American' Team Sitting It Out"
 category: "MLB"
 date: "2026-06-16"
+updatedDate: "2026-06-26"
 excerpt: "For America's 250th birthday, MLB rolled out a USA 250 Fourth of July jersey for all but one team. We break down every set, our favorite, the one that misses, and the lone club sitting it out."
 gradient: "linear-gradient(135deg, #0A3161 0%, #141422 50%, #B31942 100%)"
 coverImage: "/images/posts/mlb-july-4th-jerseys-cover.jpg"
@@ -15,6 +16,15 @@ featuredOrder: 1
 2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the Fourth of July weekend. Nearly every club is in, one shared design language and dozens of different takes on red, white, and blue. There is exactly one holdout, the Toronto Blue Jays, and we are going to be a little rude about it below before we admit they get a pass.
 
 The common thread runs across every jersey. The player's name and number on the back are filled with the Stars and Stripes, an American flag treatment poured straight into the lettering, and a USA 250 commemorative patch rides on the sleeve. From there, each team builds the look on its own base, and that is where the personalities come out. Here is the full breakdown, our favorites, the one that misses, and every set in one place.
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop the 2026 MLB Fourth of July jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">All 30 USA 250 sets, from Fanatics</div></div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmlb%2Bfourth%2Bof%2Bjuly%2Busa%2B250%2Bjersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
 
 ## The Shared Design: Flag-Filled Numbers and a USA 250 Patch
 
