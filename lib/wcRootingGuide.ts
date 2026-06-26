@@ -10,9 +10,12 @@
 // Groups I & J updated 2026-06-22 (all MD2 done): Group I — France 3-0 Iraq + Norway 3-2 Senegal
 // → FRA & NOR both through on 6. Group J — Argentina 2-0 Austria (ARG clinched) + Algeria 2-1
 // Jordan (ALG to 3 pts). Final matchdays: Group I June 26, Group J June 27.
-// Ready now: A, B, C, D, E, F, I, J, K, L (all at their final matchday, final games
-// 6/24-6/27). Groups G and H are a game behind — flip `ready: true` + fill real
-// standings once they reach their final matchday (after their next game).
+// Groups G & H updated 2026-06-26 (MD2 done, final matchday today): Group G — Egypt 4 (drew
+// Belgium, beat New Zealand), Iran 2, Belgium 2, New Zealand 1. Group H — Spain 4 (beat Saudi
+// Arabia 4-0), Uruguay 2, Cape Verde 2, Saudi Arabia 1. Now every group A-L is ready (at its
+// final matchday, finals 6/24-6/27).
+// NOTE: groups whose finals already played (A-F, on 6/24-6/25) still render live "root for"
+// scenarios; the model has no "decided" state yet — add one to show advancers for finished groups.
 //
 // Tiebreakers (v1): points -> goal difference -> goals for. GD modeled on 1-0
 // results. Head-to-head / fair-play not yet included. Top two of each group advance.
@@ -99,22 +102,22 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "JPN", away: "SWE" }, { home: "TUN", away: "NED" }],
   },
   {
-    id: "G", ready: false, finalDate: "June 26",
+    id: "G", ready: true, finalDate: "June 26",
     teams: [
-      { key: "BEL", name: "Belgium", pts: 0, gd: 0, gf: 0, color: "#E30613" },
-      { key: "EGY", name: "Egypt", pts: 0, gd: 0, gf: 0, color: "#CE1126" },
-      { key: "IRN", name: "Iran", pts: 0, gd: 0, gf: 0, color: "#239F40" },
-      { key: "NZL", name: "New Zealand", pts: 0, gd: 0, gf: 0, color: "#B0B5BB" },
+      { key: "EGY", name: "Egypt", pts: 4, gd: 2, gf: 4, color: "#CE1126" },
+      { key: "IRN", name: "Iran", pts: 2, gd: 0, gf: 2, color: "#239F40" },
+      { key: "BEL", name: "Belgium", pts: 2, gd: 0, gf: 1, color: "#E30613" },
+      { key: "NZL", name: "New Zealand", pts: 1, gd: -2, gf: 3, color: "#B0B5BB" },
     ],
     fixtures: [{ home: "EGY", away: "IRN" }, { home: "NZL", away: "BEL" }],
   },
   {
-    id: "H", ready: false, finalDate: "June 26",
+    id: "H", ready: true, finalDate: "June 26",
     teams: [
-      { key: "ESP", name: "Spain", pts: 0, gd: 0, gf: 0, color: "#C60B1E" },
-      { key: "URU", name: "Uruguay", pts: 0, gd: 0, gf: 0, color: "#5CBFEB" },
-      { key: "KSA", name: "Saudi Arabia", pts: 0, gd: 0, gf: 0, color: "#006C35" },
-      { key: "CPV", name: "Cape Verde", pts: 0, gd: 0, gf: 0, color: "#003893" },
+      { key: "ESP", name: "Spain", pts: 4, gd: 4, gf: 4, color: "#C60B1E" },
+      { key: "URU", name: "Uruguay", pts: 2, gd: 0, gf: 3, color: "#5CBFEB" },
+      { key: "CPV", name: "Cape Verde", pts: 2, gd: 0, gf: 2, color: "#003893" },
+      { key: "KSA", name: "Saudi Arabia", pts: 1, gd: -4, gf: 1, color: "#006C35" },
     ],
     fixtures: [{ home: "CPV", away: "KSA" }, { home: "URU", away: "ESP" }],
   },
