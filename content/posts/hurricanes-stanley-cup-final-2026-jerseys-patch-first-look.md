@@ -2,7 +2,7 @@
 title: "Hurricanes Stanley Cup Final 2026 Jerseys First Look: Patch Pops on the Black Sweater, Andersen Mask Revealed"
 category: "NHL"
 date: "2026-06-02"
-updatedDate: "2026-06-02"
+updatedDate: "2026-06-26"
 excerpt: "First look at the Carolina Hurricanes 2026 Stanley Cup Final jerseys and uniforms with the new Cup patch, captain (C) mark, and Frederik Andersen's Game 1 goalie mask. Black home alternate. Never looked better."
 gradient: "linear-gradient(135deg, #CC0000 0%, #000000 50%, #A9A9A9 100%)"
 coverImage: "/images/posts/nhl-final-jersey-photos/HJ1mnpSWMAAMRG5.jpg"
@@ -17,6 +17,11 @@ featuredOrder: 1
 <div style="margin: 0 0 1.5em;">
   <img src="/images/posts/nhl-final-jersey-photos/HJ1mnpSWMAAMRG5.jpg" alt="Carolina Hurricanes 2026 Stanley Cup Final jerseys hanging in the Lenovo Center locker room for Game 1 against the Vegas Golden Knights with the new Stanley Cup Final 2026 patch on the right chest, NUCOR sponsor patch, the Hurricanes red flag logo centered on the chest, the black home alternate sweater with red trim and red shoulder yoke" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Hurricanes 2026 Stanley Cup Final jerseys at Lenovo Center · via @Canes</p>
+</div>
+
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; padding: 18px 22px; margin: 1.5em 0;">
+<p style="margin: 0 0 8px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #2f6bed;">The Quick Answer</p>
+<p style="margin: 0; color: #1a1e28; font-size: 16px; line-height: 1.65;">The <strong>2026 Stanley Cup Final patch</strong> is the silver Stanley Cup silhouette with "20" and "26" flanking the base of the Cup, "STANLEY CUP" arched across the top and "FINAL" stacked below in white-on-red. Both Final teams wear it on the <strong>right chest</strong>, directly above the jersey sponsor patch.</p>
 </div>
 
 The Carolina Hurricanes dropped the first-look photos of their 2026 Stanley Cup Final jerseys hanging in the Lenovo Center locker room hours before Game 1 against the Vegas Golden Knights, and the new Stanley Cup Final 2026 patch on the right chest of the black home alternate sweater absolutely pops. The Cup patch placement, the captain's "C" patch on the jersey of presumed captain Jaccob Slavin, and Frederik Andersen's Game 1 goalie mask and gear are all part of the first-look reveal we have been waiting for since the puck dropped on the Eastern Conference Final. The patch on black is one of the cleanest jersey-and-patch pairings of any team that has worn a Stanley Cup Final patch in recent memory.
@@ -70,6 +75,10 @@ For the live grades on every Stanley Cup Final game uniform pairing, see our [20
 </div>
 
 ## Frequently Asked Questions
+
+**What is the 2026 Stanley Cup Final patch?**
+
+The 2026 Stanley Cup Final patch is a silver Stanley Cup trophy silhouette with "20" on the left and "26" on the right flanking the base, the "STANLEY CUP" wordmark arched across the top, and "FINAL" stacked across the bottom in white-on-red. Both Final teams wear it on the right chest of the jersey.
 
 **What does the 2026 NHL Stanley Cup Final patch look like on the Carolina Hurricanes jersey?**
 
