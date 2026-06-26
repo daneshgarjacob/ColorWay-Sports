@@ -11,7 +11,7 @@ const tone: Record<string, string> = {
 };
 
 export default function RootingGuide() {
-  const [groupId, setGroupId] = useState("A");
+  const [groupId, setGroupId] = useState(() => wcGroups.find((g) => g.ready && !g.decided)?.id ?? "A");
   const [teamKey, setTeamKey] = useState<string | null>(null);
 
   const group = wcGroups.find((g) => g.id === groupId)!;
@@ -22,7 +22,7 @@ export default function RootingGuide() {
   // For a group at its final matchday, classify each team: clinched (through),
   // eliminated (out), or still alive — so the standings + picker can flag it.
   const statusByKey: Record<string, "in" | "out" | "live"> = {};
-  if (group.ready) {
+  if (group.ready && !group.decided) {
     for (const t of group.teams) {
       const tn = analyzeTeam(group, t.key).tone;
       statusByKey[t.key] = tn === "in" ? "in" : tn === "out" ? "out" : "live";
@@ -40,9 +40,13 @@ export default function RootingGuide() {
               key={g.id}
               onClick={() => { setGroupId(g.id); setTeamKey(null); }}
               className={`w-10 h-10 rounded-lg text-sm font-extrabold transition ${
-                g.id === groupId ? "bg-[#003087] text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-              } ${!g.ready ? "opacity-60" : ""}`}
-              title={g.ready ? `Group ${g.id}` : `Group ${g.id} — final matchday ${g.finalDate}`}
+                g.id === groupId
+                  ? "bg-[#003087] text-white"
+                  : g.decided
+                  ? "bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
+                  : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+              } ${!g.ready && !g.decided ? "opacity-60" : ""}`}
+              title={g.decided ? `Group ${g.id} — decided` : g.ready ? `Group ${g.id}` : `Group ${g.id} — final matchday ${g.finalDate}`}
             >
               {g.id}
             </button>
@@ -50,7 +54,29 @@ export default function RootingGuide() {
         </div>
       </div>
 
-      {group.ready ? (
+      {group.decided ? (
+        /* Final matchday played — show who advanced instead of the picker */
+        <div className="rounded-2xl border border-gray-200 p-6">
+          <span className="inline-block text-[13px] font-extrabold rounded-full px-3.5 py-1.5 border mb-4 bg-emerald-50 border-emerald-200 text-emerald-800">
+            ✓ Group {group.id} is decided
+          </span>
+          <p className="text-[15px] text-gray-700 mb-4">
+            The Group {group.id} final matchday is complete. These two advanced to the Round of 32:
+          </p>
+          <div className="space-y-2 mb-4">
+            {group.advanced!.map((k) => (
+              <div key={k} className="flex items-center gap-2.5 px-4 py-3 rounded-xl font-bold text-[15px] border border-emerald-200 bg-emerald-50">
+                <span className="inline-block w-3 h-3 rounded-full shrink-0" style={{ background: teamColor(k) }} />
+                <span>{teamName(k)}</span>
+                <span className="ml-auto text-[9px] font-bold uppercase tracking-wide text-emerald-700">Advanced</span>
+              </div>
+            ))}
+          </div>
+          <p className="text-xs text-gray-400">
+            The third-place team can still reach the Round of 32 as one of the eight best third-place finishers, confirmed once all 12 groups finish.
+          </p>
+        </div>
+      ) : group.ready ? (
         <>
           {/* Standings + fixtures */}
           <div className="rounded-2xl border border-gray-200 p-5 mb-5">

@@ -14,8 +14,11 @@
 // Belgium, beat New Zealand), Iran 2, Belgium 2, New Zealand 1. Group H — Spain 4 (beat Saudi
 // Arabia 4-0), Uruguay 2, Cape Verde 2, Saudi Arabia 1. Now every group A-L is ready (at its
 // final matchday, finals 6/24-6/27).
-// NOTE: groups whose finals already played (A-F, on 6/24-6/25) still render live "root for"
-// scenarios; the model has no "decided" state yet — add one to show advancers for finished groups.
+// DECIDED 2026-06-26: A-F finals are played (6/24-6/25) and now marked `decided` with their
+// top-two advancers (source: NBC/FIFA final tables) — A: Mexico, South Africa; B: Switzerland,
+// Canada; C: Brazil, Morocco; D: USA, Australia; E: Germany, Ivory Coast; F: Netherlands, Japan.
+// The component shows the advancers instead of the picker. Best-third spots finalize once all 12
+// groups end (6/27); mark each remaining group `decided`/`advanced` as its final matchday completes.
 //
 // Tiebreakers (v1): points -> goal difference -> goals for. GD modeled on 1-0
 // results. Head-to-head / fair-play not yet included. Top two of each group advance.
@@ -34,6 +37,8 @@ export type RGFixture = { home: string; away: string };
 export type RGGroup = {
   id: string;          // "A".."L"
   ready: boolean;      // at its final matchday now?
+  decided?: boolean;   // final matchday played — show who advanced, not the picker
+  advanced?: [string, string]; // the two team keys that advanced (top two), when decided
   finalDate: string;   // when the final matchday is played
   teams: RGTeam[];     // standings, leader first (meaningful when ready)
   fixtures: [RGFixture, RGFixture]; // the two final-matchday games
@@ -42,7 +47,7 @@ export type RGGroup = {
 // ---- DATA ----
 export const wcGroups: RGGroup[] = [
   {
-    id: "A", ready: true, finalDate: "June 24",
+    id: "A", ready: true, decided: true, advanced: ["MEX", "RSA"], finalDate: "June 24",
     teams: [
       { key: "MEX", name: "Mexico", pts: 6, gd: 3, gf: 3, color: "#006847" },
       { key: "KOR", name: "South Korea", pts: 3, gd: 0, gf: 2, color: "#0A3DA8" },
@@ -52,7 +57,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "CZE", away: "MEX" }, { home: "RSA", away: "KOR" }],
   },
   {
-    id: "B", ready: true, finalDate: "June 24",
+    id: "B", ready: true, decided: true, advanced: ["SUI", "CAN"], finalDate: "June 24",
     teams: [
       { key: "CAN", name: "Canada", pts: 4, gd: 6, gf: 7, color: "#FF1F1F" },
       { key: "SUI", name: "Switzerland", pts: 4, gd: 3, gf: 5, color: "#D52B1E" },
@@ -62,7 +67,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "SUI", away: "CAN" }, { home: "BIH", away: "QAT" }],
   },
   {
-    id: "C", ready: true, finalDate: "June 24",
+    id: "C", ready: true, decided: true, advanced: ["BRA", "MAR"], finalDate: "June 24",
     teams: [
       { key: "BRA", name: "Brazil", pts: 4, gd: 3, gf: 4, color: "#FFD400" },
       { key: "MAR", name: "Morocco", pts: 4, gd: 1, gf: 2, color: "#C1272D" },
@@ -72,7 +77,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "SCO", away: "BRA" }, { home: "MAR", away: "HAI" }],
   },
   {
-    id: "D", ready: true, finalDate: "June 25",
+    id: "D", ready: true, decided: true, advanced: ["USA", "AUS"], finalDate: "June 25",
     teams: [
       { key: "USA", name: "United States", pts: 6, gd: 5, gf: 6, color: "#1A3A8F" },
       { key: "AUS", name: "Australia", pts: 3, gd: 0, gf: 2, color: "#00843D" },
@@ -82,7 +87,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "TUR", away: "USA" }, { home: "PAR", away: "AUS" }],
   },
   {
-    id: "E", ready: true, finalDate: "June 25",
+    id: "E", ready: true, decided: true, advanced: ["GER", "CIV"], finalDate: "June 25",
     teams: [
       { key: "GER", name: "Germany", pts: 6, gd: 7, gf: 9, color: "#9AA0A6" },
       { key: "CIV", name: "Ivory Coast", pts: 3, gd: 0, gf: 2, color: "#F77F00" },
@@ -92,7 +97,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "ECU", away: "GER" }, { home: "CUW", away: "CIV" }],
   },
   {
-    id: "F", ready: true, finalDate: "June 25",
+    id: "F", ready: true, decided: true, advanced: ["NED", "JPN"], finalDate: "June 25",
     teams: [
       { key: "NED", name: "Netherlands", pts: 4, gd: 4, gf: 7, color: "#EC6A1E" },
       { key: "JPN", name: "Japan", pts: 4, gd: 4, gf: 6, color: "#2A41B8" },
