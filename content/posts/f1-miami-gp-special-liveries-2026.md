@@ -162,15 +162,6 @@ It is important to flag what this is not. Mercedes has not changed the W17 liver
 
 ## 4. McLaren · Sega-Themed Miami Poster (Livery Unconfirmed)
 
-<!-- IMAGE PLACEHOLDER: McLaren Sega Miami GP poster by Matt Taylor. Save image to /public/images/posts/f1-miami-gp-2026/mclaren-miami-gp-poster.avif and uncomment below. -->
-<!--
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 280px; max-width: 750px;">
-    <img src="/images/posts/f1-miami-gp-2026/mclaren-miami-gp-poster.avif" alt="McLaren F1 Miami Grand Prix 2026 poster by Matt Taylor with Sonic the Hedgehog and Ayrton Senna 1993 MP4 silhouette" style="width: 100%; border-radius: 10px;" />
-  </div>
-</div>
--->
-
 McLaren released a Miami GP poster designed by illustrator Matt Taylor featuring the MCL40 alongside Sonic the Hedgehog, gold rings from the video game franchise, and a silhouette of the 1993 McLaren MP4/8 that Ayrton Senna drove to his legendary Donington Park victory in the rain. Sega is McLaren's official gaming partner. The Donington connection is the giveaway: Sega was the race sponsor at Donington in 1993 and Senna received a Sonic trophy on the podium that day.
 
 McLaren has not confirmed a Miami special livery. The poster could be promotional artwork only, OR it could be teasing a Sonic-themed retro livery for the team's 1000th Formula 1 Grand Prix at Hard Rock Stadium this weekend, which is the milestone the team is celebrating in Miami. We are listing this as a tease rather than a confirmed livery, and we will update this card the moment McLaren officially announces or rules it out.

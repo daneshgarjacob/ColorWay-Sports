@@ -7,7 +7,6 @@ gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 coverImage: "/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-old-vs-new.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
-logoSrc: "/logos/cbs-sports.png"
 league: "soccer"
 teams: []
 homepageOrder: 5
