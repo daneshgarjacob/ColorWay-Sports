@@ -9,7 +9,7 @@ coverImagePosition: "center 50%"
 logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs"]
-topViewsRank: 6
+topViewsRank: 11
 ---
 
 <div style="text-align: center; margin: 0 0 2em;">

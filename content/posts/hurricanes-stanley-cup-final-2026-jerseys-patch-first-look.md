@@ -12,6 +12,7 @@ logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["carolina-hurricanes", "vegas-golden-knights"]
 featuredOrder: 1
+topViewsRank: 10
 ---
 
 <div style="margin: 0 0 1.5em;">

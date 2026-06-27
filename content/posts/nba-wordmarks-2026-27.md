@@ -30,7 +30,7 @@ reviews:
     rating: 6
   - name: Minnesota Timberwolves 2026-27 Original Blue and Green Throwback Wordmark
     rating: 8
-topViewsRank: 5
+topViewsRank: 2
 ---
 
 <img src="/images/posts/nba-wordmarks-2026-27/cover.jpg" alt="2026-27 NBA wordmarks revealed for the Atlanta Hawks, Brooklyn Nets, Houston Rockets, and Minnesota Timberwolves with new jersey and uniform branding for next season" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />

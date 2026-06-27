@@ -12,7 +12,7 @@ logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "oklahoma-city-thunder", "new-york-knicks", "cleveland-cavaliers"]
 featuredOrder: 1
-topViewsRank: 7
+topViewsRank: 8
 bestRating: 10
 worstRating: 0
 reviews:
