@@ -55,7 +55,7 @@ Below, every match of the tournament in reverse chronological order, the most re
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-uruguay-away.jpg" alt="Uruguay 2026 World Cup dark navy Nike away jersey with a blue feathered graphic and the four-star crest, worn in the Group H match vs Spain" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/wc-uruguay-blue.jpg" alt="Uruguay 2026 World Cup dark navy Nike away jersey with bright blue sunburst rays and the four-star crest, worn in the Group H match vs Spain" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">URUGUAY</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Navy</p>
@@ -77,7 +77,7 @@ Below, every match of the tournament in reverse chronological order, the most re
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8 / 10</p>
 </div>
 
-Uruguay against Spain closes Group H with a sharp dark-versus-light contrast. Uruguay go with their dark navy Nike away, the moody blue kit with the feathered graphic and the four-star crest, against Spain in their cream adidas away trimmed in burgundy and gold. Navy against a soft cream reads clean and high-contrast on the broadcast, the dark Uruguay blue framing Spain's vintage cream and maroon nicely. A genuinely good-looking matchup with real separation between the two kits. Eight out of 10.
+Uruguay against Spain closes Group H with a sharp dark-versus-light contrast. Uruguay go with their dark navy Nike away, the deep blue kit with the bright blue sunburst rays and the four-star crest, against Spain in their cream adidas away trimmed in burgundy and gold. Navy against a soft cream reads clean and high-contrast on the broadcast, the dark Uruguay blue framing Spain's vintage cream and maroon nicely. A genuinely good-looking matchup with real separation between the two kits. Eight out of 10.
 
 ## Match 61: Cape Verde vs Saudi Arabia
 
