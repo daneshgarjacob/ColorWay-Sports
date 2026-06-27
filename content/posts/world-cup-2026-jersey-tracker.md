@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, Al
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-26"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 62 matches. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, and Morocco's red vs Haiti's blue each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 64 matches. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -41,10 +41,76 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">62 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">64 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 64: Belgium vs New Zealand
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #E30613 0%, #1a1a1a 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group G · Match 64 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-home-kits/belgium.jpg" alt="Belgium Red Devils 2026 World Cup adidas red home jersey with black and gold trim, worn in the Group G match vs New Zealand" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">BELGIUM</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbelgium%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-new-zealand-white.webp" alt="New Zealand 2026 World Cup white Puma change jersey with a tonal cloud-and-fern pattern and the silver fern crest, worn in the Group G match vs Belgium" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">NEW ZEALAND</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520zealand%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6 / 10</p>
+</div>
+
+Belgium against New Zealand closes Group G as a high-contrast pairing that never really pops. Belgium wear their bold adidas red home, the Red Devils kit with the black and gold trim, against New Zealand in their white Puma change jersey with the tonal cloud-and-fern pattern and the silver fern crest. Red against white is technically clean separation, but New Zealand's plain white uniform is a neutral and personality-light, and the tonal print barely reads from the broadcast frame, so the look stays washed out rather than vivid. There is contrast here without any real color drama, and that flat, quiet half of the matchup keeps it near the bottom of the board. Six out of 10.
+
+## Match 63: Iran vs Egypt
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #C8102E 0%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Group G · Match 63 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-iran-away.jpg" alt="Iran 2026 World Cup red Majid away jersey with tonal cheetah-print sleeves, tricolor flag trim, and the Team Melli crest, worn in the Group G match vs Egypt" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">IRAN</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Diran%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-egypt-home.webp" alt="Egypt 2026 World Cup red Puma home jersey with a tonal geometric pattern and the Pharaohs crest, worn in the Group G match vs Iran" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">EGYPT</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Red</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Degypt%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6 / 10</p>
+</div>
+
+Iran against Egypt is a red-on-red Group G matchup with almost no separation between the two kits. Iran wear their red Majid away, the kit with the tonal cheetah-print sleeves and the tricolor flag trim, against Egypt in their red Puma home with the tonal geometric pattern and the Pharaohs crest. Two near-identical reds in the same matchup blur together on the broadcast, the shirts reading as one block of color from distance and giving the uniform pairing a real legibility problem rather than any contrast. Both jerseys are sharp on their own, but together they cancel each other out and land in tournament-low territory. Six out of 10.
 
 ## Match 62: Uruguay vs Spain
 
