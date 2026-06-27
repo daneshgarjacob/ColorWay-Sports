@@ -2,6 +2,7 @@
 title: "Does Chase Field Have a Retractable Roof? Yes, and Here's How It Works"
 category: "MLB"
 date: "2026-04-06"
+updatedDate: "2026-06-27"
 excerpt: "Everything you need to know about the Chase Field retractable roof in Phoenix. How fast it opens, when it's open or closed, the cable saga, and how it stacks up against every other MLB retractable roof stadium."
 gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
 logoSrc: "/logos/dbacks.png"
@@ -37,6 +38,15 @@ Two to three dollars to move 9 million pounds. We still cannot get over that num
 ---
 
 ## Is the Chase Field Roof Open or Closed Today?
+
+<div style="margin: 1.5em 0; padding: 1.75em 1.5em; background: linear-gradient(135deg, #A71930 0%, #1a1a1a 100%); border-radius: 16px; text-align: center;">
+  <p style="font-size: 0.75em; font-weight: 800; text-transform: uppercase; letter-spacing: 2.5px; margin: 0 0 0.75em; color: rgba(255,255,255,0.85);">Today's Diamondbacks Home Game</p>
+  <p style="font-size: 1.1em; font-weight: 700; margin: 0 0 1.25em; color: #fff; line-height: 1.4;">The Diamondbacks set the roof based on weather and post it before each home series. Roof hotline: 602-462-6262.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://x.com/ChaseFieldRoof" style="padding: 10px 18px; background: #fff; color: #A71930; border-radius: 999px; font-weight: 800; font-size: 0.9em; text-decoration: none; letter-spacing: 0.5px;">@ChaseFieldRoof on X</a>
+    <a href="https://x.com/Dbacks" style="padding: 10px 18px; background: #fff; color: #A71930; border-radius: 999px; font-weight: 800; font-size: 0.9em; text-decoration: none; letter-spacing: 0.5px;">@Dbacks on X</a>
+  </div>
+</div>
 
 The Diamondbacks decide before each game based on weather. During spring and fall, the roof is usually open. During the summer months, it stays closed because nobody wants to sit in 115-degree heat for three hours.
 
@@ -84,6 +94,28 @@ Chase Field is one of six MLB stadiums with a retractable roof. Here is how they
 Globe Life Field is the one that frustrates us the most. The Rangers spent $1.2 billion on a brand new stadium with a retractable roof and then almost never open it. What is the point of building a retractable roof if you are going to keep it closed? Chase Field is the opposite. The Diamondbacks open the roof every chance they get because that is the entire point of having one in the desert.
 
 ---
+
+## Frequently Asked Questions
+
+**Is the Chase Field roof open today?**
+
+The Diamondbacks decide the roof status before each home game based on weather, and they open it whenever conditions allow. In spring and fall (March, April, September) the roof is usually open; in the Phoenix summer (June through August) it is usually closed against 100-plus-degree heat. Check [@ChaseFieldRoof](https://x.com/ChaseFieldRoof) or [@Dbacks](https://x.com/Dbacks) on X before first pitch, or call the roof hotline at 602-462-6262.
+
+**Who decides whether the Chase Field roof is open or closed?**
+
+The home club decides. Per MLB rules, the Arizona Diamondbacks set the roof, and it is closed only for impending rain or other adverse weather, in consultation with the umpire crew chief. Unlike the Rangers at Globe Life Field, the Diamondbacks open the roof every chance they get.
+
+**How often is the Chase Field roof open?**
+
+More than almost any other MLB retractable roof stadium. The Diamondbacks open it on cool spring and fall evenings and keep it closed mainly through the brutal Phoenix summer. For the 2026 season the new cables let them open or close the roof with fans in the stands for the first time since 2021, so they can react to weather mid-game again.
+
+**How long does the Chase Field roof take to open or close?**
+
+About 4 minutes and 30 seconds. The 9-million-pound steel roof runs on two 200-horsepower motors and over four miles of cable, and it costs only about $2 to $3 in electricity per cycle.
+
+**How do I check the Chase Field roof status before a game?**
+
+Follow [@ChaseFieldRoof](https://x.com/ChaseFieldRoof) on X, a dedicated account that posts the roof state before every home game. You can also check the official [@Dbacks](https://x.com/Dbacks) account or call the Chase Field roof hotline at 602-462-6262. The Diamondbacks post roof status prior to every home series.
 
 ## Our Take on Retractable Roofs in Baseball
 
