@@ -1,7 +1,7 @@
 ---
 title: >-
   Globe Life Field Roof Open or Closed Today? 2026 Texas Rangers Schedule
-updatedDate: '2026-05-29'
+updatedDate: '2026-06-27'
 category: MLB
 date: '2026-04-01'
 excerpt: >-
@@ -108,6 +108,8 @@ How Globe Life Field stacks up against the seven MLB retractable-roof stadiums (
 </div>
 
 The Texas teams sit at the bottom of the league for roof openness alongside Miami. The Rangers' climate-controlled-over-atmosphere logic is shared with their AL West division rival in Houston and almost no one else.
+
+We break down every other retractable roof the same way: [Daikin Park (Astros)](/stories/daikin-park-roof-open-astros-2026), [Chase Field (Diamondbacks)](/stories/chase-field-retractable-roof-diamondbacks), [T-Mobile Park (Mariners)](/stories/tmobile-park-roof-open-mariners-2026), [American Family Field (Brewers)](/stories/american-family-field-roof-open-brewers-2026), [Rogers Centre (Blue Jays)](/stories/rogers-centre-roof-open-blue-jays-2026), and [loanDepot Park (Marlins)](/stories/loandepot-park-roof-open-marlins-2026).
 
 ### Minute Maid Park (Astros)
 

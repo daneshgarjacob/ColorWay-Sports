@@ -85,11 +85,11 @@ The renovation money tells us the Diamondbacks are committed to Chase Field long
 Chase Field is one of six MLB stadiums with a retractable roof. Here is how they all compare.
 
 - **Chase Field** (Arizona Diamondbacks) -- Opened 1998, first retractable roof over natural grass in the US
-- **T-Mobile Park** (Seattle Mariners) -- Opened 1999, the roof slides over but does not fully enclose the stadium
-- **Minute Maid Park** (Houston Astros) -- Opened 2000, rarely opens during the Texas summer
-- **American Family Field** (Milwaukee Brewers) -- Opened 2001, fan-shaped panels that are unlike any other roof in sports
-- **LoanDepot Park** (Miami Marlins) -- Opened 2012, built to handle South Florida rain and humidity
-- **Globe Life Field** (Texas Rangers) -- Opened 2020, the newest retractable roof stadium in baseball
+- **[T-Mobile Park](/stories/tmobile-park-roof-open-mariners-2026)** (Seattle Mariners) -- Opened 1999, the roof slides over but does not fully enclose the stadium
+- **[Daikin Park](/stories/daikin-park-roof-open-astros-2026)** (Houston Astros, formerly Minute Maid Park) -- Opened 2000, rarely opens during the Texas summer
+- **[American Family Field](/stories/american-family-field-roof-open-brewers-2026)** (Milwaukee Brewers) -- Opened 2001, fan-shaped panels that are unlike any other roof in sports
+- **[loanDepot Park](/stories/loandepot-park-roof-open-marlins-2026)** (Miami Marlins) -- Opened 2012, built to handle South Florida rain and humidity
+- **[Globe Life Field](/stories/rangers-roof-open-globe-life-field-2026)** (Texas Rangers) -- Opened 2020, the newest retractable roof stadium in baseball
 
 Globe Life Field is the one that frustrates us the most. The Rangers spent $1.2 billion on a brand new stadium with a retractable roof and then almost never open it. What is the point of building a retractable roof if you are going to keep it closed? Chase Field is the opposite. The Diamondbacks open the roof every chance they get because that is the entire point of having one in the desert.
 
