@@ -15,11 +15,15 @@ const W = 1500, H = 1000;
 
 const STADIUMS = [
   { slug: "daikin-park-roof-2026", stadium: "DAIKIN PARK", team: "HOUSTON ASTROS", c1: "#002D62", c2: "#0A1A30", accent: "#EB6E1F" },
+  { slug: "tmobile-park-roof-2026", stadium: "T-MOBILE PARK", team: "SEATTLE MARINERS", c1: "#0C2C56", c2: "#0A1A2A", accent: "#15A0A0" },
+  { slug: "american-family-field-roof-2026", stadium: "AMERICAN FAMILY FIELD", team: "MILWAUKEE BREWERS", c1: "#0A2351", c2: "#0A1426", accent: "#FFC52F", titleSize: 86 },
+  { slug: "rogers-centre-roof-2026", stadium: "ROGERS CENTRE", team: "TORONTO BLUE JAYS", c1: "#134A8E", c2: "#0C1F3F", accent: "#1D9BD7" },
+  { slug: "loandepot-park-roof-2026", stadium: "LOANDEPOT PARK", team: "MIAMI MARLINS", c1: "#0077C8", c2: "#111111", accent: "#EF3340" },
 ];
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
 
-function svg({ stadium, team, c1, c2, accent }) {
+function svg({ stadium, team, c1, c2, accent, titleSize = 150 }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -54,7 +58,7 @@ function svg({ stadium, team, c1, c2, accent }) {
   <!-- accent underline -->
   <rect x="100" y="582" width="120" height="8" fill="${accent}"/>
   <!-- title -->
-  <text x="96" y="712" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="900" letter-spacing="-2" fill="#ffffff">${esc(stadium)}</text>
+  <text x="96" y="712" font-family="Arial, Helvetica, sans-serif" font-size="${titleSize}" font-weight="900" letter-spacing="-2" fill="#ffffff">${esc(stadium)}</text>
   <!-- subtitle -->
   <text x="100" y="800" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#ffffff" opacity="0.92">Roof Open or Closed Today? · 2026 Schedule</text>
 </svg>`;
