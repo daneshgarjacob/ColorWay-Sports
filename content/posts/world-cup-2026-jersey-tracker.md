@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, Al
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-06-28"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, and Colombia's yellow vs Portugal's red each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 70 matches. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, and Colombia's yellow vs Portugal's red each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 71 matches. The Round of 32 opens with South Africa's gold vs Canada's black at 8. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -22,8 +22,8 @@ The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co
 
 <a href="/world-cup-rooting-guide" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #003087 0%, #2f6bed 100%); border-radius: 16px; text-decoration: none;">
   <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #bcd0f5; margin-bottom: 6px;">Interactive Tool</span>
-  <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">Who should I root for? →</span>
-  <span style="display: block; font-size: 0.95em; line-height: 1.5; color: #dbe4f5; margin-top: 6px;">Pick the team you want to win and our World Cup Rooting Guide tells you exactly who to cheer for in the other group games — and whether it even matters.</span>
+  <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">Fill out your World Cup bracket →</span>
+  <span style="display: block; font-size: 0.95em; line-height: 1.5; color: #dbe4f5; margin-top: 6px;">All 32 knockout teams are locked. Tap to pick winners from the Round of 32 to the Final, see who your team could play next, and share your bracket.</span>
 </a>
 
 ## What This Tracker Grades
@@ -41,10 +41,43 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">70 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">71 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 71: South Africa vs Canada
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #007A4D 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Round of 32 · Match 71 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-home-kits/south-africa.avif" alt="South Africa 2026 World Cup gold adidas home jersey with green trim and the Bafana Bafana crest, worn in the Round of 32 match vs Canada" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">SOUTH AFRICA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsouth%2520africa%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-canada-away.jpg" alt="Canada 2026 World Cup black Nike away jersey with the cracked-ice graphic and red maple-leaf crest, worn in the Round of 32 match vs South Africa" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CANADA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Black</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcanada%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8 / 10</p>
+</div>
+
+The Round of 32 opens with a bold, high-contrast jersey and uniform pairing. South Africa wear their gold adidas home, the bright Bafana Bafana kit with the green trim and the national crest, against Canada in their black Nike change kit, the cracked-ice graphic with the red maple-leaf badge and a Nike swoosh in red. Gold against black is one of the strongest, most legible contrasts in the sport, and South Africa's saturated yellow pops hard off Canada's dark, busy print on the broadcast. The black kit's snowy texture adds depth without muddying the read, and the gold stays crisp from every camera angle. A vivid, knockout-worthy opener to the Round of 32. Eight out of 10.
 
 ## Match 70: Algeria vs Austria
 
