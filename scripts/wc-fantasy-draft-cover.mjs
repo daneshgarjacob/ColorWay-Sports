@@ -10,6 +10,7 @@ const __dirname = dirname(__filename);
 
 const IMG_DIR = resolve(__dirname, "../public/images/posts/world-cup-2026-fantasy-draft");
 const LOGO_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo-white.png");
+const FIFA_LOGO_PATH = resolve(__dirname, "../public/logos/world-cup-2026.png");
 const OUTPUT = resolve(IMG_DIR, "cover.jpg");
 
 const WIDTH = 1500;
@@ -44,14 +45,29 @@ async function build() {
       .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -1.5px; }
       .sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.85; letter-spacing: 4px; }
     </style>
-    <text x="${WIDTH / 2}" y="300" text-anchor="middle" class="eyebrow" font-size="30">2026 WORLD CUP · FANTASY DRAFT GAME</text>
-    <text x="${WIDTH / 2}" y="445" text-anchor="middle" class="title" font-size="104">Draft Your</text>
-    <text x="${WIDTH / 2}" y="560" text-anchor="middle" class="title" font-size="104">Dream XI</text>
-    <text x="${WIDTH / 2}" y="685" text-anchor="middle" class="sub" font-size="27">PICK FROM A RANDOM DEAL OF WORLD CUP STARS</text>
+    <text x="${WIDTH / 2}" y="360" text-anchor="middle" class="eyebrow" font-size="29">2026 WORLD CUP · FANTASY DRAFT GAME</text>
+    <text x="${WIDTH / 2}" y="490" text-anchor="middle" class="title" font-size="96">Draft Your</text>
+    <text x="${WIDTH / 2}" y="595" text-anchor="middle" class="title" font-size="96">Dream XI</text>
+    <text x="${WIDTH / 2}" y="710" text-anchor="middle" class="sub" font-size="27">PICK FROM A RANDOM DEAL OF WORLD CUP STARS</text>
   </svg>`;
 
+  // Official FIFA World Cup 2026 logo on a white badge, top-center (editorial use).
+  const fifa = await sharp(FIFA_LOGO_PATH).resize(null, 196, { fit: "inside" }).png().toBuffer();
+  const fifaMeta = await sharp(fifa).metadata();
+  const padX = 46, padY = 26;
+  const badgeW = fifaMeta.width + padX * 2;
+  const badgeH = fifaMeta.height + padY * 2;
+  const badgeSvg = `<svg width="${badgeW}" height="${badgeH}" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="${badgeW}" height="${badgeH}" rx="26" ry="26" fill="#ffffff"/></svg>`;
+  const badge = await sharp(Buffer.from(badgeSvg)).png().toBuffer();
+  const badgeLeft = Math.round((WIDTH - badgeW) / 2);
+  const badgeTop = 58;
+
   const composed = await sharp(Buffer.from(bgSvg))
-    .composite([{ input: Buffer.from(textSvg), top: 0, left: 0 }])
+    .composite([
+      { input: badge, left: badgeLeft, top: badgeTop },
+      { input: fifa, left: badgeLeft + padX, top: badgeTop + padY },
+      { input: Buffer.from(textSvg), top: 0, left: 0 },
+    ])
     .png()
     .toBuffer();
 

@@ -8,6 +8,8 @@ import {
   lastName,
   dealOptions,
   firstEmptySlot,
+  squadOverall,
+  ratingTier,
   TOTAL_SLOTS,
   type Player,
   type Squad,
@@ -27,6 +29,13 @@ function Flag({ code, h = 16 }: { code: string; h?: number }) {
       <img src={`/flags/${code}.png`} alt="" width={Math.round(h * 1.4)} height={h} style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
     </span>
   );
+}
+
+function ratingColor(r: number): string {
+  if (r >= 88) return "#15803d"; // green
+  if (r >= 84) return "#2f6bed"; // blue
+  if (r >= 80) return "#b45309"; // amber
+  return "#6b7280"; // gray
 }
 
 function usedIds(squad: Squad, exceptSlot?: string): Set<string> {
@@ -138,6 +147,7 @@ export default function WorldCupSquadDraft() {
   const filled = Object.keys(squad).length;
   const complete = filled === TOTAL_SLOTS;
   const activeDef = formation.find((s) => s.id === active)!;
+  const ovr = squadOverall(squad);
 
   const share = useCallback(async () => {
     const url = drawShareImage(squad);
@@ -163,8 +173,14 @@ export default function WorldCupSquadDraft() {
     <div className="not-prose">
       {/* Controls */}
       <div className="flex items-center justify-between gap-3 mb-5">
-        <div className="text-sm text-gray-500">
-          <span className="font-bold tabular-nums" style={{ color: NAVY }}>{filled}</span>/{TOTAL_SLOTS} drafted
+        <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 rounded-xl px-3 py-1.5 text-white" style={{ background: `linear-gradient(135deg, ${NAVY} 0%, ${BRAND} 100%)` }} title="Average FIFA-style overall rating of your drafted players">
+            <span className="text-2xl font-black tabular-nums leading-none">{ovr ?? "--"}</span>
+            <span className="text-[9px] font-bold uppercase tracking-wider leading-tight opacity-90">Squad<br/>OVR</span>
+          </div>
+          <div className="text-sm text-gray-500">
+            <span className="font-bold tabular-nums" style={{ color: NAVY }}>{filled}</span>/{TOTAL_SLOTS} drafted
+          </div>
         </div>
         <div className="flex gap-2">
           <button onClick={share} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-white transition active:scale-95" style={{ background: BRAND }}>Share XI</button>
@@ -195,6 +211,7 @@ export default function WorldCupSquadDraft() {
                       <>
                         <Flag code={pl.flag} h={18} />
                         <span className="text-[11px] sm:text-[12px] font-extrabold leading-tight text-center" style={{ color: NAVY }}>{lastName(pl.name)}</span>
+                        <span className="text-[10px] font-black tabular-nums leading-none" style={{ color: ratingColor(pl.rating) }}>{pl.rating}</span>
                       </>
                     ) : (
                       <>
@@ -213,8 +230,15 @@ export default function WorldCupSquadDraft() {
       {/* Draft board */}
       {complete ? (
         <div className="rounded-2xl p-5 text-center" style={{ background: `linear-gradient(135deg, ${NAVY} 0%, ${BRAND} 100%)` }}>
-          <div className="text-[11px] font-bold uppercase tracking-[0.18em] mb-1" style={{ color: "#bcd0f5" }}>Your XI is set</div>
-          <div className="text-white text-lg font-extrabold mb-3">All 11 drafted from the random deal. Send your XI to your friends and dare them to beat it.</div>
+          <div className="text-[11px] font-bold uppercase tracking-[0.18em] mb-2" style={{ color: "#bcd0f5" }}>Your XI is set</div>
+          <div className="flex items-center justify-center gap-3 mb-2">
+            <span className="text-5xl font-black text-white tabular-nums leading-none">{ovr}</span>
+            <span className="text-left">
+              <span className="block text-[10px] font-bold uppercase tracking-wider" style={{ color: "#bcd0f5" }}>Squad Overall</span>
+              <span className="block text-lg font-extrabold text-white leading-tight">{ovr != null ? ratingTier(ovr) : ""}</span>
+            </span>
+          </div>
+          <div className="text-white/90 text-sm font-semibold mb-3">Send your XI to your friends and dare them to draft a higher rating.</div>
           <button onClick={share} className="px-5 py-2.5 rounded-lg text-sm font-bold bg-white" style={{ color: NAVY }}>Send your XI to friends</button>
         </div>
       ) : (
@@ -246,7 +270,10 @@ export default function WorldCupSquadDraft() {
                     <span className="block text-[14px] font-bold text-gray-900 truncate">{pl.name}</span>
                     <span className="block text-[11px] text-gray-500">{pl.team} · {posLabel[pl.pos]}</span>
                   </span>
-                  {!shuffling && <span className="ml-auto text-[11px] font-bold text-[#2f6bed] shrink-0">Draft →</span>}
+                  <span className="ml-auto flex items-center gap-2 shrink-0">
+                    <span className="inline-flex items-center justify-center rounded-md text-[13px] font-black text-white tabular-nums" style={{ width: 34, height: 28, background: ratingColor(pl.rating) }} title="FIFA-style overall">{pl.rating}</span>
+                    {!shuffling && <span className="text-[11px] font-bold text-[#2f6bed]">Draft →</span>}
+                  </span>
                 </button>
               ))}
             </div>
@@ -276,13 +303,20 @@ function drawShareImage(squad: Squad): string | null {
   ctx.fillRect(0, 0, W, H);
   ctx.strokeStyle = "rgba(255,255,255,0.25)";
   ctx.lineWidth = 4;
-  ctx.strokeRect(40, 150, W - 80, H - 260);
-  ctx.beginPath(); ctx.arc(W / 2, (150 + (H - 110)) / 2, 90, 0, Math.PI * 2); ctx.stroke();
+  ctx.strokeRect(40, 185, W - 80, H - 295);
+  ctx.beginPath(); ctx.arc(W / 2, (185 + (H - 110)) / 2, 90, 0, Math.PI * 2); ctx.stroke();
 
   ctx.textAlign = "center";
   ctx.fillStyle = "#ffffff";
-  ctx.font = "800 54px Inter, system-ui, sans-serif";
-  ctx.fillText("My 2026 World Cup XI", W / 2, 95);
+  ctx.font = "800 52px Inter, system-ui, sans-serif";
+  ctx.fillText("My 2026 World Cup XI", W / 2, 88);
+
+  const ovr = squadOverall(squad);
+  if (ovr != null) {
+    ctx.fillStyle = "#ffe08a";
+    ctx.font = "900 40px Inter, system-ui, sans-serif";
+    ctx.fillText(`OVR ${ovr}  ·  ${ratingTier(ovr)}`, W / 2, 148);
+  }
 
   const rows: { ids: string[]; y: number }[] = [
     { ids: ["f1", "f2", "f3"], y: 320 },

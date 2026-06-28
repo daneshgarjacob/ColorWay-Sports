@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, type CSSProperties } from "react";
 import {
   teams,
   rounds,
@@ -23,14 +23,6 @@ const STORE_KEY = "cw-wc2026-bracket-v1";
 const BRAND = "#2f6bed";
 const NAVY = "#0a1f4d";
 const TOTAL_TIES = 31; // 16 + 8 + 4 + 2 + 1
-
-// R32 order for the desktop visual bracket so each tie sits between its two feeders.
-const DESKTOP_R32_ORDER = [
-  "r32-1", "r32-4", "r32-2", "r32-3",
-  "r32-5", "r32-6", "r32-7", "r32-8",
-  "r32-9", "r32-10", "r32-11", "r32-12",
-  "r32-13", "r32-16", "r32-14", "r32-15",
-];
 
 function Flag({ code, h = 16 }: { code: string; h?: number }) {
   return (
@@ -194,6 +186,37 @@ export default function WorldCupBracket() {
     a.remove();
   }, [picks]);
 
+  // --- two-sided desktop bracket render helpers (closures over eff/onPick) ---
+  const Col = (ids: string[], width = 138) => (
+    <div className="flex flex-col justify-around self-stretch shrink-0" style={{ width }}>
+      {ids.map((id) => (
+        <TieCard key={id} tie={tieById[id]} picks={eff} onPick={onPick} result={results[id]} compact />
+      ))}
+    </div>
+  );
+  const line: CSSProperties = { position: "absolute", background: "#d1d5db" };
+  const Conn = (pairs: number, side: "left" | "right") => {
+    const out = side === "left" ? { left: 0 } : { right: 0 }; // toward the teams
+    const inn = side === "left" ? { right: 0 } : { left: 0 }; // toward the center
+    return (
+      <div className="flex flex-col justify-around self-stretch shrink-0" style={{ width: 22 }}>
+        {Array.from({ length: pairs }).map((_, i) => (
+          <div key={i} className="relative flex-1">
+            <span style={{ ...line, left: "50%", top: "25%", height: "50%", width: 2, transform: "translateX(-1px)" }} />
+            <span style={{ ...line, ...out, top: "25%", width: "50%", height: 2 }} />
+            <span style={{ ...line, ...out, top: "75%", width: "50%", height: 2 }} />
+            <span style={{ ...line, ...inn, top: "50%", width: "50%", height: 2 }} />
+          </div>
+        ))}
+      </div>
+    );
+  };
+  const Straight = () => (
+    <div className="flex items-center self-stretch shrink-0" style={{ width: 18 }}>
+      <div className="w-full" style={{ height: 2, background: "#d1d5db" }} />
+    </div>
+  );
+
   return (
     <div className="not-prose">
       {/* Controls */}
@@ -257,36 +280,38 @@ export default function WorldCupBracket() {
         </div>
       </div>
 
-      {/* ===== Desktop: full visual bracket ===== */}
-      <div className="hidden lg:block overflow-x-auto">
-        <div className="flex gap-4 min-w-[920px]">
-          {rounds.map((r) => {
-            const list = r.id === "r32" ? DESKTOP_R32_ORDER.map((id) => tieById[id]) : tiesByRound(r.id);
-            return (
-              <div key={r.id} className="flex-1 flex flex-col">
-                <div className="text-[11px] font-bold uppercase tracking-wider text-center mb-3 pb-2 border-b" style={{ color: NAVY, borderColor: "#e5e7eb" }}>
-                  {r.short}
-                </div>
-                <div className="flex-1 flex flex-col justify-around gap-2">
-                  {list.map((tie) =>
-                    r.id === "final" ? (
-                      <div key={tie.id} className="flex flex-col items-center gap-3">
-                        <TieCard tie={tie} picks={eff} onPick={onPick} result={results[tie.id]} compact />
-                        {champKey && (
-                          <div className="text-center">
-                            <div className="text-3xl">🏆</div>
-                            <div className="text-[11px] font-bold mt-1" style={{ color: NAVY }}>{teams[champKey].name}</div>
-                          </div>
-                        )}
-                      </div>
-                    ) : (
-                      <TieCard key={tie.id} tie={tie} picks={eff} onPick={onPick} result={results[tie.id]} compact />
-                    )
-                  )}
-                </div>
-              </div>
-            );
-          })}
+      {/* ===== Desktop: two-sided visual bracket (teams on each side, champion in the middle) ===== */}
+      <div className="hidden lg:block overflow-x-auto pb-2">
+        <div className="flex items-stretch justify-center mx-auto" style={{ height: 780, minWidth: 1240 }}>
+          {/* left half */}
+          {Col(["r32-1", "r32-4", "r32-2", "r32-3", "r32-5", "r32-6", "r32-7", "r32-8"])}
+          {Conn(4, "left")}
+          {Col(["r16-1", "r16-2", "r16-3", "r16-4"])}
+          {Conn(2, "left")}
+          {Col(["qf-1", "qf-2"])}
+          {Conn(1, "left")}
+          {Col(["sf-1"])}
+          {Straight()}
+
+          {/* center */}
+          <div className="flex flex-col items-center justify-center shrink-0 px-1" style={{ width: 150 }}>
+            <div className="text-4xl mb-1">🏆</div>
+            <div className="text-[10px] font-bold uppercase tracking-[0.15em] mb-2" style={{ color: NAVY }}>Champion</div>
+            <div className="w-full">
+              <TieCard tie={tieById["final"]} picks={eff} onPick={onPick} result={results["final"]} compact />
+            </div>
+            {champKey && <div className="text-[12px] font-extrabold mt-2 text-center" style={{ color: NAVY }}>{teams[champKey].name}</div>}
+          </div>
+
+          {/* right half */}
+          {Straight()}
+          {Col(["sf-2"])}
+          {Conn(1, "right")}
+          {Col(["qf-3", "qf-4"])}
+          {Conn(2, "right")}
+          {Col(["r16-5", "r16-6", "r16-7", "r16-8"])}
+          {Conn(4, "right")}
+          {Col(["r32-9", "r32-10", "r32-11", "r32-12", "r32-13", "r32-16", "r32-14", "r32-15"])}
         </div>
       </div>
     </div>
