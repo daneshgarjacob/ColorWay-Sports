@@ -15,11 +15,16 @@
 // C: Brazil, Morocco; D: USA, Australia; E: Germany, Ivory Coast; F: Netherlands, Japan.
 // DECIDED 2026-06-27: G-I finals played 6/26, now `decided` (source: Wikipedia knockout-stage
 // advancers) — G: Belgium, Egypt; H: Spain, Cape Verde; I: France, Norway.
-// STILL READY: J, K, L finals are TONIGHT (6/27) — Group K 7:30pm (Colombia-Portugal, Congo DR-
-// Uzbekistan), Group J 10pm (Jordan-Argentina, Algeria-Austria), Group L same window. The picker
-// is correct for these three today. After tonight ALL groups are decided and the Round of 32 begins
-// 6/28 — at that point this group-stage rooting guide is obsolete (Jake: delete or repurpose as a
-// knockout bracket). The component shows advancers (not the picker) once a group is `decided`.
+// DECIDED 2026-06-27 (cont.) — K and L finished, verified on FotMob live tables (Jake flagged that
+// Croatia was NOT eliminated): Group K — Colombia 7, Portugal 5 advance (DR Congo 4 / 3rd, Uzbekistan
+// 0); Colombia-Portugal was a 0-0 so both top two locked on Portugal's GD cushion. Group L — England 7,
+// CROATIA 6 advance (Ghana 4 / 3rd, Panama 0). Marked both `decided`. CORRECTION: the earlier build left
+// L as a live picker with stale standings (Croatia 0 pts) that read as eliminated — Croatia actually
+// finished 2nd and advanced.
+// STILL READY: only Group J's final matchday is live/tonight (ARG 6 clinched 1st; AUT 3 vs ALG 3 fight
+// for 2nd — Jordan-Argentina + Algeria-Austria). Standings match FotMob. Once J ends, ALL 12 groups are
+// decided and the Round of 32 is set (6/28) — then repurpose this into a knockout bracket (Jake's call).
+// The component shows advancers (not the picker) once a group is `decided`.
 //
 // Tiebreakers (v1): points -> goal difference -> goals for. GD modeled on 1-0
 // results. Head-to-head / fair-play not yet included. Top two of each group advance.
@@ -148,7 +153,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "ALG", away: "AUT" }, { home: "JOR", away: "ARG" }],
   },
   {
-    id: "K", ready: true, finalDate: "June 27",
+    id: "K", ready: true, decided: true, advanced: ["COL", "POR"], finalDate: "June 27",
     teams: [
       { key: "COL", name: "Colombia", pts: 3, gd: 2, gf: 3, color: "#FCD116" },
       { key: "POR", name: "Portugal", pts: 1, gd: 0, gf: 1, color: "#DA291C" },
@@ -158,7 +163,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "COL", away: "POR" }, { home: "COD", away: "UZB" }],
   },
   {
-    id: "L", ready: true, finalDate: "June 27",
+    id: "L", ready: true, decided: true, advanced: ["ENG", "CRO"], finalDate: "June 27",
     teams: [
       { key: "ENG", name: "England", pts: 3, gd: 2, gf: 4, color: "#CE1124" },
       { key: "GHA", name: "Ghana", pts: 3, gd: 1, gf: 1, color: "#0B7A3B" },
