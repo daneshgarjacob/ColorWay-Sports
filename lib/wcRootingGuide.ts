@@ -10,15 +10,16 @@
 // Groups I & J updated 2026-06-22 (all MD2 done): Group I — France 3-0 Iraq + Norway 3-2 Senegal
 // → FRA & NOR both through on 6. Group J — Argentina 2-0 Austria (ARG clinched) + Algeria 2-1
 // Jordan (ALG to 3 pts). Final matchdays: Group I June 26, Group J June 27.
-// Groups G & H updated 2026-06-26 (MD2 done, final matchday today): Group G — Egypt 4 (drew
-// Belgium, beat New Zealand), Iran 2, Belgium 2, New Zealand 1. Group H — Spain 4 (beat Saudi
-// Arabia 4-0), Uruguay 2, Cape Verde 2, Saudi Arabia 1. Now every group A-L is ready (at its
-// final matchday, finals 6/24-6/27).
-// DECIDED 2026-06-26: A-F finals are played (6/24-6/25) and now marked `decided` with their
-// top-two advancers (source: NBC/FIFA final tables) — A: Mexico, South Africa; B: Switzerland,
-// Canada; C: Brazil, Morocco; D: USA, Australia; E: Germany, Ivory Coast; F: Netherlands, Japan.
-// The component shows the advancers instead of the picker. Best-third spots finalize once all 12
-// groups end (6/27); mark each remaining group `decided`/`advanced` as its final matchday completes.
+// DECIDED 2026-06-25: A-F finals played (6/24-6/25), marked `decided` with top-two advancers
+// (source: Wikipedia/NBC/FIFA final tables) — A: Mexico, South Africa; B: Switzerland, Canada;
+// C: Brazil, Morocco; D: USA, Australia; E: Germany, Ivory Coast; F: Netherlands, Japan.
+// DECIDED 2026-06-27: G-I finals played 6/26, now `decided` (source: Wikipedia knockout-stage
+// advancers) — G: Belgium, Egypt; H: Spain, Cape Verde; I: France, Norway.
+// STILL READY: J, K, L finals are TONIGHT (6/27) — Group K 7:30pm (Colombia-Portugal, Congo DR-
+// Uzbekistan), Group J 10pm (Jordan-Argentina, Algeria-Austria), Group L same window. The picker
+// is correct for these three today. After tonight ALL groups are decided and the Round of 32 begins
+// 6/28 — at that point this group-stage rooting guide is obsolete (Jake: delete or repurpose as a
+// knockout bracket). The component shows advancers (not the picker) once a group is `decided`.
 //
 // Tiebreakers (v1): points -> goal difference -> goals for. GD modeled on 1-0
 // results. Head-to-head / fair-play not yet included. Top two of each group advance.
@@ -107,7 +108,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "JPN", away: "SWE" }, { home: "TUN", away: "NED" }],
   },
   {
-    id: "G", ready: true, finalDate: "June 26",
+    id: "G", ready: true, decided: true, advanced: ["BEL", "EGY"], finalDate: "June 26",
     teams: [
       { key: "EGY", name: "Egypt", pts: 4, gd: 2, gf: 4, color: "#CE1126" },
       { key: "IRN", name: "Iran", pts: 2, gd: 0, gf: 2, color: "#239F40" },
@@ -117,7 +118,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "EGY", away: "IRN" }, { home: "NZL", away: "BEL" }],
   },
   {
-    id: "H", ready: true, finalDate: "June 26",
+    id: "H", ready: true, decided: true, advanced: ["ESP", "CPV"], finalDate: "June 26",
     teams: [
       { key: "ESP", name: "Spain", pts: 4, gd: 4, gf: 4, color: "#C60B1E" },
       { key: "URU", name: "Uruguay", pts: 2, gd: 0, gf: 3, color: "#5CBFEB" },
@@ -127,7 +128,7 @@ export const wcGroups: RGGroup[] = [
     fixtures: [{ home: "CPV", away: "KSA" }, { home: "URU", away: "ESP" }],
   },
   {
-    id: "I", ready: true, finalDate: "June 26",
+    id: "I", ready: true, decided: true, advanced: ["FRA", "NOR"], finalDate: "June 26",
     teams: [
       { key: "FRA", name: "France", pts: 6, gd: 5, gf: 6, color: "#002395" },
       { key: "NOR", name: "Norway", pts: 6, gd: 4, gf: 7, color: "#BA0C2F" },
