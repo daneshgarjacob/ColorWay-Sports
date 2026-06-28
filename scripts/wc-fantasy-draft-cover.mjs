@@ -1,0 +1,73 @@
+#!/usr/bin/env node
+
+import sharp from "sharp";
+import { mkdir, writeFile } from "fs/promises";
+import { resolve, dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const IMG_DIR = resolve(__dirname, "../public/images/posts/world-cup-2026-fantasy-draft");
+const LOGO_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo-white.png");
+const OUTPUT = resolve(IMG_DIR, "cover.jpg");
+
+const WIDTH = 1500;
+const HEIGHT = 1000;
+
+async function build() {
+  await mkdir(IMG_DIR, { recursive: true });
+
+  const bgSvg = `
+  <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0b3b2e"/>
+        <stop offset="48%" stop-color="#0a1f4d"/>
+        <stop offset="100%" stop-color="#091634"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+        <stop offset="0%" stop-color="#FFC23C" stop-opacity="0.30"/>
+        <stop offset="70%" stop-color="#FFC23C" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#bg)"/>
+    <rect width="${WIDTH}" height="${HEIGHT}" fill="url(#glow)"/>
+    <rect x="0" y="0" width="${WIDTH}" height="8" fill="#FFC23C"/>
+    <rect x="0" y="${HEIGHT - 8}" width="${WIDTH}" height="8" fill="#FFC23C"/>
+  </svg>`;
+
+  const textSvg = `
+  <svg width="${WIDTH}" height="${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .eyebrow { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; fill: #FFC23C; letter-spacing: 11px; }
+      .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -1.5px; }
+      .sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.85; letter-spacing: 4px; }
+    </style>
+    <text x="${WIDTH / 2}" y="305" text-anchor="middle" class="eyebrow" font-size="30">2026 WORLD CUP · FANTASY DRAFT</text>
+    <text x="${WIDTH / 2}" y="450" text-anchor="middle" class="title" font-size="108">The Fantasy Draft</text>
+    <text x="${WIDTH / 2}" y="565" text-anchor="middle" class="title" font-size="78">of the Knockouts</text>
+    <text x="${WIDTH / 2}" y="690" text-anchor="middle" class="sub" font-size="29">DRAFTING EVERY STAR STILL STANDING</text>
+  </svg>`;
+
+  const composed = await sharp(Buffer.from(bgSvg))
+    .composite([{ input: Buffer.from(textSvg), top: 0, left: 0 }])
+    .png()
+    .toBuffer();
+
+  const logo = await sharp(LOGO_PATH).resize(300, null, { fit: "inside" }).png().toBuffer();
+  const logoMeta = await sharp(logo).metadata();
+
+  const final = await sharp(composed)
+    .composite([{ input: logo, left: Math.round((WIDTH - logoMeta.width) / 2), top: HEIGHT - logoMeta.height - 70 }])
+    .jpeg({ quality: 90 })
+    .toBuffer();
+
+  await writeFile(OUTPUT, final);
+  console.log(`Wrote ${OUTPUT} (${WIDTH}x${HEIGHT})`);
+}
+
+build().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
