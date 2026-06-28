@@ -27,8 +27,8 @@ const trackers: TrackerCard[] = [
   {
     href: "/world-cup-rooting-guide",
     kicker: "Soccer · 2026 World Cup · Interactive",
-    title: "Fill Out Your 2026 World Cup Bracket",
-    dek: "All 32 knockout teams are locked. Tap to pick winners from the Round of 32 to the Final, see who your team could play next, and share your bracket. Your picks save automatically.",
+    title: "2026 World Cup Bracket Predictor: Fill Out Your Knockout Picks",
+    dek: "All 32 knockout teams are locked. Tap to pick winners from the Round of 32 to the Final, watch real results lock in as games finish, see who your team could play next, and share your bracket.",
     status: "New · Interactive",
     grade: "A",
     image: "/images/world-cup-rooting-guide-cover.jpg",

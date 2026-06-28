@@ -163,3 +163,18 @@ export function pickWinner(picks: Picks, tieId: string, teamKey: string): Picks 
 }
 
 export const champion = (picks: Picks): string | null => picks["final"] ?? null;
+
+// ---- ACTUAL RESULTS (games already played) ----
+// Locked, real outcomes. These override the user's prediction for that tie and
+// cascade downstream. Add each game here as it finishes.
+export type Result = { winner: string; score: string };
+export const results: Record<string, Result> = {
+  "r32-1": { winner: "CAN", score: "1-0" }, // June 28 — Canada beat South Africa
+};
+
+// Merge the locked results over the user's predictions (results win) and prune.
+export function effectivePicks(userPicks: Picks): Picks {
+  const merged: Picks = { ...userPicks };
+  for (const [tieId, r] of Object.entries(results)) merged[tieId] = r.winner;
+  return prune(merged);
+}

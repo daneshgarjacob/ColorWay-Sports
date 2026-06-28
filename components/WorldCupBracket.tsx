@@ -10,10 +10,13 @@ import {
   slotLeaves,
   pickWinner,
   champion,
+  results,
+  effectivePicks,
   type Picks,
   type RoundId,
   type Tie,
   type Slot,
+  type Result,
 } from "@/lib/wcBracket";
 
 const STORE_KEY = "cw-wc2026-bracket-v1";
@@ -53,6 +56,8 @@ function TeamRow({
   clickable,
   onClick,
   compact,
+  dim,
+  lockedWin,
 }: {
   teamKey: string | null;
   slot: Slot;
@@ -60,6 +65,8 @@ function TeamRow({
   clickable: boolean;
   onClick: () => void;
   compact?: boolean;
+  dim?: boolean;
+  lockedWin?: boolean;
 }) {
   const pad = compact ? "px-2.5 py-1.5" : "px-3 py-2.5";
   if (!teamKey) {
@@ -71,6 +78,7 @@ function TeamRow({
     );
   }
   const team = teams[teamKey];
+  const bg = selected ? (lockedWin ? NAVY : BRAND) : undefined;
   return (
     <button
       type="button"
@@ -78,12 +86,12 @@ function TeamRow({
       disabled={!clickable}
       className={`flex items-center gap-2 w-full text-left ${pad} transition ${
         selected ? "text-white font-bold" : clickable ? "text-gray-800 font-semibold hover:bg-blue-50" : "text-gray-700 font-semibold"
-      } ${clickable ? "cursor-pointer" : "cursor-default"}`}
-      style={selected ? { background: BRAND } : undefined}
+      } ${clickable ? "cursor-pointer" : "cursor-default"} ${dim ? "opacity-45" : ""}`}
+      style={bg ? { background: bg } : undefined}
     >
       <Flag code={team.flag} h={compact ? 15 : 18} />
-      <span className={`truncate ${compact ? "text-[12.5px]" : "text-[14px]"}`}>{team.name}</span>
-      {selected && <span className="ml-auto text-[10px] font-bold opacity-90">▶</span>}
+      <span className={`truncate ${compact ? "text-[12.5px]" : "text-[14px]"} ${dim ? "line-through" : ""}`}>{team.name}</span>
+      {selected && <span className="ml-auto text-[10px] font-bold opacity-90">{lockedWin ? "✓" : "▶"}</span>}
     </button>
   );
 }
@@ -92,24 +100,35 @@ function TieCard({
   tie,
   picks,
   onPick,
+  result,
   compact,
 }: {
   tie: Tie;
   picks: Picks;
   onPick: (tieId: string, teamKey: string) => void;
+  result?: Result;
   compact?: boolean;
 }) {
   const [pa, pb] = participants(tie.id, picks);
   const ready = pa !== null && pb !== null;
   const chosen = picks[tie.id];
+  const locked = !!result;
+  const clickable = ready && !locked;
   return (
     <div
       className={`rounded-xl border bg-white overflow-hidden ${ready ? "border-gray-200" : "border-dashed border-gray-200"}`}
-      style={chosen ? { boxShadow: `0 0 0 1.5px ${BRAND}` } : { boxShadow: "0 1px 2px rgba(0,0,0,0.04)" }}
+      style={chosen ? { boxShadow: `0 0 0 1.5px ${locked ? NAVY : BRAND}` } : { boxShadow: "0 1px 2px rgba(0,0,0,0.04)" }}
     >
-      <TeamRow teamKey={pa} slot={tie.a} selected={chosen === pa && !!pa} clickable={ready} onClick={() => pa && onPick(tie.id, pa)} compact={compact} />
+      {locked && (
+        <div className="flex items-center justify-center gap-1.5 py-1 text-[9px] font-extrabold uppercase tracking-wider text-white" style={{ background: NAVY }}>
+          <span>Final</span>
+          <span className="opacity-60">·</span>
+          <span>{result!.score}</span>
+        </div>
+      )}
+      <TeamRow teamKey={pa} slot={tie.a} selected={chosen === pa && !!pa} clickable={clickable} onClick={() => pa && onPick(tie.id, pa)} compact={compact} dim={locked && chosen !== pa} lockedWin={locked && chosen === pa} />
       <div className="border-t border-gray-100" />
-      <TeamRow teamKey={pb} slot={tie.b} selected={chosen === pb && !!pb} clickable={ready} onClick={() => pb && onPick(tie.id, pb)} compact={compact} />
+      <TeamRow teamKey={pb} slot={tie.b} selected={chosen === pb && !!pb} clickable={clickable} onClick={() => pb && onPick(tie.id, pb)} compact={compact} dim={locked && chosen !== pb} lockedWin={locked && chosen === pb} />
     </div>
   );
 }
@@ -140,6 +159,7 @@ export default function WorldCupBracket() {
   }, [picks, mounted]);
 
   const onPick = useCallback((tieId: string, teamKey: string) => {
+    if (results[tieId]) return; // locked actual result — not editable
     setPicks((p) => pickWinner(p, tieId, teamKey));
   }, []);
 
@@ -148,12 +168,14 @@ export default function WorldCupBracket() {
     setActiveRound("r32");
   }, []);
 
-  const champKey = champion(picks);
-  const decided = Object.keys(picks).length;
-  const roundCount = (r: RoundId) => tiesByRound(r).filter((x) => picks[x.id]).length;
+  // Effective board = user predictions with locked actual results applied over the top.
+  const eff = effectivePicks(picks);
+  const champKey = champion(eff);
+  const decided = Object.keys(eff).length;
+  const roundCount = (r: RoundId) => tiesByRound(r).filter((x) => eff[x.id]).length;
 
   const share = useCallback(async () => {
-    const url = drawShareImage(picks);
+    const url = drawShareImage(effectivePicks(picks));
     if (!url) return;
     try {
       const blob = await (await fetch(url)).blob();
@@ -177,7 +199,7 @@ export default function WorldCupBracket() {
       {/* Controls */}
       <div className="flex items-center justify-between gap-3 mb-5">
         <div className="text-sm text-gray-500">
-          <span className="font-bold tabular-nums" style={{ color: NAVY }}>{decided}</span>/{TOTAL_TIES} picks made
+          <span className="font-bold tabular-nums" style={{ color: NAVY }}>{decided}</span>/{TOTAL_TIES} spots filled
         </div>
         <div className="flex gap-2">
           <button onClick={share} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-white transition active:scale-95" style={{ background: BRAND }}>
@@ -229,7 +251,7 @@ export default function WorldCupBracket() {
           {tiesByRound(activeRound).map((tie) => (
             <div key={tie.id}>
               {tie.date && <div className="text-[10px] font-bold uppercase tracking-wider text-gray-400 mb-1 ml-0.5">{tie.date}</div>}
-              <TieCard tie={tie} picks={picks} onPick={onPick} />
+              <TieCard tie={tie} picks={eff} onPick={onPick} result={results[tie.id]} />
             </div>
           ))}
         </div>
@@ -249,7 +271,7 @@ export default function WorldCupBracket() {
                   {list.map((tie) =>
                     r.id === "final" ? (
                       <div key={tie.id} className="flex flex-col items-center gap-3">
-                        <TieCard tie={tie} picks={picks} onPick={onPick} compact />
+                        <TieCard tie={tie} picks={eff} onPick={onPick} result={results[tie.id]} compact />
                         {champKey && (
                           <div className="text-center">
                             <div className="text-3xl">🏆</div>
@@ -258,7 +280,7 @@ export default function WorldCupBracket() {
                         )}
                       </div>
                     ) : (
-                      <TieCard key={tie.id} tie={tie} picks={picks} onPick={onPick} compact />
+                      <TieCard key={tie.id} tie={tie} picks={eff} onPick={onPick} result={results[tie.id]} compact />
                     )
                   )}
                 </div>
