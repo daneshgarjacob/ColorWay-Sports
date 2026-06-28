@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import sharp from "sharp";
-import { mkdir, writeFile } from "fs/promises";
+import { mkdir, readFile, writeFile } from "fs/promises";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -10,6 +10,7 @@ const __dirname = dirname(__filename);
 
 const IMG_DIR = resolve(__dirname, "../public/images/posts/nba-draft-2026-rookies-new-uniforms");
 const LOGO_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo-white.png");
+const NBA_LOGO_PATH = resolve(__dirname, "../public/logos/nba.svg");
 const OUTPUT = resolve(IMG_DIR, "cover.jpg");
 
 const WIDTH = 1500;
@@ -50,8 +51,17 @@ async function build() {
     <text x="${WIDTH / 2}" y="680" text-anchor="middle" class="sub" font-size="30">ALL 30 FIRST-ROUND JERSEYS</text>
   </svg>`;
 
+  // NBA logo silhouette → tint white so it reads on the navy background.
+  let nbaSvg = await readFile(NBA_LOGO_PATH, "utf8");
+  nbaSvg = nbaSvg.replace("<svg ", '<svg fill="#ffffff" ');
+  const nbaLogo = await sharp(Buffer.from(nbaSvg)).resize(null, 150, { fit: "inside" }).png().toBuffer();
+  const nbaMeta = await sharp(nbaLogo).metadata();
+
   const composed = await sharp(Buffer.from(bgSvg))
-    .composite([{ input: Buffer.from(textSvg), top: 0, left: 0 }])
+    .composite([
+      { input: nbaLogo, left: Math.round((WIDTH - nbaMeta.width) / 2), top: 120 },
+      { input: Buffer.from(textSvg), top: 0, left: 0 },
+    ])
     .png()
     .toBuffer();
 

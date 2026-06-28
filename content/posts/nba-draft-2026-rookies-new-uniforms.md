@@ -1,9 +1,9 @@
 ---
-title: "Every 2026 NBA Draft Pick in Their New Uniform: All 30 First-Round Jerseys"
+title: "Every 2026 NBA Draft Pick in Their New Uniform: First Look at All 30 First-Rounders"
 category: "NBA"
 date: "2026-06-28"
 updatedDate: "2026-06-28"
-excerpt: "Every first-round pick of the 2026 NBA Draft in their new team jersey and uniform, from AJ Dybantsa's Wizards to Cameron Boozer's Grizzlies. Updating through Summer League."
+excerpt: "Every 2026 NBA Draft first-round pick in their new team jersey and uniform, from AJ Dybantsa's Wizards red to Cameron Boozer's Grizzlies blue. First looks, updating through Summer League."
 gradient: "linear-gradient(135deg, #17408B 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-draft-2026-rookies-new-uniforms/cover.jpg"
 coverImagePosition: "center center"
@@ -23,6 +23,10 @@ The 2026 NBA Draft is in the books, and the fun part for us starts now: seeing e
 A quick note on what you are looking at. On draft night the picks hold up the jersey and pull on the team cap, so these first looks are the welcome graphics and the on-stage jersey reveals rather than full game uniforms. The true on-court uniform look lands at Summer League, and we will swap those in as they come. For now, here is how the new colorways look on the top of the 2026 board.
 
 ## No. 1: AJ Dybantsa, Washington Wizards
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WashWizards/status/2070533865978966332"></a></blockquote>
+</div>
 
 The Washington Wizards landed the top pick and used it on BYU wing AJ Dybantsa, who now slides into the Wizards' navy, red, and silver. Washington's red, white, and blue color story is one of the cleaner identities in the league, and the bold red jersey gives Dybantsa a uniform that reads loud on the broadcast from day one. It is a strong, classic look for a franchise cornerstone, and the colorway suits him.
 
@@ -58,7 +62,7 @@ UNC forward Caleb Wilson lands with the Chicago Bulls, which means he inherits o
 
 Illinois guard Keaton Wagler rounds out the top five with the LA Clippers, stepping into the team's rebuilt blue and red identity from the Intuit Dome era. The Clippers cleaned up their jersey and uniform direction in recent seasons, and the result is a crisp, contemporary colorway that gives Wagler a modern look to launch his career in.
 
-## The Rest of the 2026 First Round
+## The Rest of the 2026 NBA Draft First Round: Picks 6 Through 30 and Their New Teams
 
 We are building out the full first round next, adding each team's welcome reveal and the on-court uniform shots from Summer League. Here is the rest of the 2026 first-round board and the colorway each pick is joining:
 
@@ -111,6 +115,18 @@ Duke forward Cameron Boozer was selected by the Memphis Grizzlies in the 2026 NB
 **Where can I find every 2026 NBA Draft pick and their new team?**
 
 This ColorWay Sports tracker lists all 30 first-round picks of the 2026 NBA Draft with the team that drafted them and the new colorway each player is joining, from the No. 1 pick down through No. 30. We update it with each new jersey and uniform first look as they roll out.
+
+**Who has the best new jersey of the 2026 NBA Draft class?**
+
+It is early, but the strongest landing spots at the top of the board are AJ Dybantsa in the Washington Wizards' bold red, Caleb Wilson inheriting the iconic Chicago Bulls red, black, and white, and Cameron Boozer in the Memphis Grizzlies' underrated Beale Street blue. The Bulls jersey carries the most history of any uniform in the 2026 class, while the Wizards red gives the No. 1 pick the loudest first look on the broadcast.
+
+**Were there any trades in the 2026 NBA Draft first round?**
+
+Yes. Several first-round picks changed hands on draft night, including selections that landed in Oklahoma City, San Antonio, Atlanta, and Charlotte through trades. We note the new team and the colorway each player actually joins, so this tracker follows where the rookies ended up rather than the original pick order.
+
+**What is an NBA jersey first look?**
+
+A jersey first look is the first time fans see a new draft pick in their new team's colors. On NBA Draft night that comes through the team's official welcome post and the on-stage jersey reveal, where the pick holds the jersey and pulls on the team cap. The full on-court uniform first look follows at Summer League, and this tracker collects both.
 
 ## The Bottom Line on the 2026 Draft Class's New Uniforms
 
