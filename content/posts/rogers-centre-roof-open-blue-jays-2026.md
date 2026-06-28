@@ -11,8 +11,6 @@ league: "mlb"
 teams: ["toronto-blue-jays"]
 ---
 
-<img src="/images/posts/roof-covers/rogers-centre-roof-2026.jpg" alt="Rogers Centre Toronto Blue Jays retractable roof status and 2026 schedule graphic by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
-
 Rogers Centre, still called "the dome" by most Blue Jays fans, opens its roof more than any other stadium in baseball when the weather allows. The catch is Toronto's climate. From the March and April cold straight through to May, the roof stays closed, and the dome only really opens up once spring finally arrives. Once it does, Rogers Centre plays as open-air as any retractable-roof park in the league.
 
 ## Is the Rogers Centre Dome Open Today?

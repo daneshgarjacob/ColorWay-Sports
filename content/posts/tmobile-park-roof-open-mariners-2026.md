@@ -11,8 +11,6 @@ league: "mlb"
 teams: ["seattle-mariners"]
 ---
 
-<img src="/images/posts/roof-covers/tmobile-park-roof-2026.jpg" alt="T-Mobile Park Seattle Mariners retractable roof status and 2026 schedule graphic by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
-
 The T-Mobile Park roof works differently from every other retractable roof in baseball. It is a giant umbrella, not a dome. The roof slides over the field to keep the rain off, but it never fully encloses the building, so the sides stay open to the Seattle air even when the roof is shut. For the Mariners, the roof is about rain, not heat, and it is open more often than the roofs in the hot-weather markets.
 
 ## Is the T-Mobile Park Roof Open or Closed Today?

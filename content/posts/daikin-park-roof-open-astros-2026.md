@@ -11,8 +11,6 @@ league: "mlb"
 teams: ["houston-astros"]
 ---
 
-<img src="/images/posts/roof-covers/daikin-park-roof-2026.jpg" alt="Daikin Park Houston Astros retractable roof status and 2026 schedule graphic by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
-
 The Daikin Park roof is closed for the vast majority of Houston Astros home games in 2026. The retractable roof stays shut through the brutal Houston summer, and the Astros only open it on the cool, dry evenings of early spring and late fall. Heat, humidity, and rain risk keep the roof down by default for most of the schedule.
 
 ## Is the Daikin Park Roof Open or Closed Today?

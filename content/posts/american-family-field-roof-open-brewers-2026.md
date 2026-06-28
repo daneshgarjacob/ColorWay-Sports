@@ -11,8 +11,6 @@ league: "mlb"
 teams: ["milwaukee-brewers"]
 ---
 
-<img src="/images/posts/roof-covers/american-family-field-roof-2026.jpg" alt="American Family Field Milwaukee Brewers retractable roof status and 2026 schedule graphic by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
-
 American Family Field has one of the busiest and most distinctive roofs in baseball. The fan-shaped panels swing open and closed like a hand-held fan, a design unlike any other ballpark, and the Brewers move it constantly. Over the course of a year the club opens and closes the roof around 230 times, chasing the best possible weather for every home game in a Milwaukee climate that swings from snow to summer heat.
 
 ## Is the American Family Field Roof Open or Closed Today?
