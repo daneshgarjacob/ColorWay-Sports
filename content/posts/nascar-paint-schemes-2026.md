@@ -2,8 +2,8 @@
 title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blaney's Pocono Throwback to Red Bull's Return"
 category: "Motorsports"
 date: "2026-06-10"
-updatedDate: "2026-06-13"
-excerpt: "Red Bull is back in NASCAR Cup for the first time since 2011, debuting two paint schemes on Trackhouse's #88 and #97 for the inaugural San Diego street race, while Chase Elliott's NAPA #9 goes full patriotic for the Navy's 250th. Penske and Hendrick also revealed their complete Pocono lineups, led by Ryan Blaney's Wabash throwback. It is all here in our running tracker of every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a new scheme drops."
+updatedDate: "2026-06-27"
+excerpt: "Every 2026 Sonoma Raceway paint scheme, graded — Denny Hamlin's purple Yahoo car, Hendrick's California-bound four-car lineup, and Brandon Jones's highlighter NIBCO scheme lead the Toyota/Save Mart 350 reveals. Plus Red Bull's NASCAR Cup return, Chase Elliott's patriotic NAPA #9, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, newest first."
 gradient: "linear-gradient(135deg, #0A1A3F 0%, #15306E 45%, #C8102E 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKdtr6RW8AAk58E.jpg"
 coverImagePosition: "center center"
@@ -14,9 +14,51 @@ teams: []
 
 This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. Reveal week loaded the tracker from both ends of the calendar. This Sunday's Pocono race brings the showpiece: Ryan Blaney's Team Penske 60th-anniversary Wabash throwback, our top-graded scheme of the season so far, with Penske and Hendrick rolling out their full Tricky Triangle grids alongside it. And next weekend's inaugural San Diego street race at Naval Base Coronado is the bigger headline — Red Bull is back in NASCAR, on two Trackhouse cars, with a patriotic Chase Elliott NAPA #9 for that same Navy-250 weekend.
 
-*Updated Saturday June 13 with the San Diego reveals — Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9 — plus the full Penske and Hendrick Pocono lineups. Earlier entries: Ryan Blaney's Wabash throwback, Josh Berry's Capgemini Wood Brothers reveal, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
+*Updated Saturday June 27 with the Sonoma Raceway reveals — Joe Gibbs Racing's wine-country lineup led by Denny Hamlin's purple Yahoo car, Hendrick Motorsports' four-car "California bound" set, and Brandon Jones's highlighter-yellow NIBCO scheme. Earlier entries: the San Diego reveals (Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9), the full Penske and Hendrick Pocono lineups, Ryan Blaney's Wabash throwback, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
 
-## 1. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
+## 1. Joe Gibbs Racing's Sonoma Paint Schemes: Denny Hamlin's Purple Yahoo Car Leads the Wine Country Lineup
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JoeGibbsRacing/status/2070522965712679103"></a></blockquote>
+</div>
+
+Joe Gibbs Racing laid out its full four-car Cup Series lineup for the Toyota/Save Mart 350 at Sonoma Raceway, and the headliner is Denny Hamlin's No. 11 in a vivid purple Yahoo "Email Me" scheme. True purple is one of the rarest colors in the Cup garage, and on a sun-soaked road course it is exactly the kind of paint that jumps off the broadcast — easily the most eye-catching car in the JGR drop. Around it, the wine-country set runs deep on variety: Chase Briscoe's No. 19 in clean Columbia Bank white-and-blue, Christopher Bell's No. 20 in the black-and-red Rheem look, and Ty Gibbs's No. 54 in red CALA Freight + Logistics. Four cars, four distinct color families, no two reading alike at speed.
+
+For a Sonoma weekend where most teams default to their standing primaries, JGR's lineup is the most colorful single-team reveal on the board, and Hamlin's purple is the scheme people will be screenshotting. The twists, turns, and elevation changes of Sonoma put cars on camera at every angle, and a palette this varied makes the JGR cars easy to pick out lap after lap.
+
+**Grade: A-** — Hamlin's purple Yahoo car is a genuine standout, and the four-car spread of purple, blue, black, and red makes this the most vibrant team lineup of the Sonoma weekend. Only the lack of a true one-off throwback keeps it out of A range.
+
+---
+
+## 2. Hendrick Motorsports' Sonoma Lineup: Larson, Byron, Elliott, and Bowman Go "California Bound"
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamHendrick/status/2070146590581411982"></a></blockquote>
+</div>
+
+"California bound." Hendrick Motorsports rolled out all four of its Cup cars for Sonoma Raceway, and it is a clean, instantly readable set. Kyle Larson's No. 5 wears the crisp blue HendrickCars.com livery, William Byron's No. 24 brings the boldest look of the group in a bright orange scheme that is the clear pop of the lineup, Chase Elliott's No. 9 returns to classic NAPA blue after the patriotic Gold Filters one-off he ran at San Diego, and Alex Bowman's No. 48 runs the familiar Ally blue with the "Do it right" mark. Three blues and an orange, all sharp, all reading at a glance.
+
+This is Hendrick doing what Hendrick does: polished, high-recognition primaries that look great on a road course without reaching for a gimmick. Byron's orange No. 24 is the one that draws the eye in a sea of blue, and Larson's HendrickCars.com car remains one of the cleaner standing liveries in the sport. It is a strong, professional set that just plays it safer than Joe Gibbs Racing's more colorful drop.
+
+**Grade: B+** — sharp, dependable primaries led by Byron's bright orange No. 24, but mostly business-as-usual next to the purple-led JGR lineup. Clean and camera-friendly rather than daring.
+
+---
+
+## 3. Brandon Jones's NIBCO Highlighter Car: The Sonoma Scheme That "Absolutely Pops"
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LASTCARonBROCK/status/2070633249114914963"></a></blockquote>
+</div>
+
+NASCAR historian Brock Beard put it simply: Brandon Jones's NIBCO car "absolutely pops in person." It is a full highlighter-yellow Joe Gibbs Racing scheme for the Sonoma weekend, a neon green-yellow paint job with the NIBCO Press System branding that is, without question, the brightest car on the property. It is the kind of color that draws every comparison in the replies — minions, pretzel bites, a tennis ball on wheels — and that is exactly the point. A highlighter car on a green-and-gold wine-country road course is impossible to lose on the broadcast, and impossible to scroll past on a timeline.
+
+Love it or laugh at it, this is the most talked-about single paint scheme of the Sonoma weekend, and pure visibility is its whole game. NIBCO gets more screen time per dollar out of a color this loud than almost any conventional scheme could buy.
+
+**Grade: A-** — maximum pop. It will not be for everyone, but on visibility and stop-the-scroll value, Brandon Jones's highlighter NIBCO car is the most memorable look of the Sonoma weekend.
+
+---
+
+## 4. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamTrackhouse/status/2065119928030523567"></a></blockquote>
@@ -30,7 +72,7 @@ The reveal staging is the part we keep coming back to. Trackhouse did not shoot 
 
 ---
 
-## 2. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
+## 5. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NAPARacing/status/2065147885063163966"></a></blockquote>
@@ -44,7 +86,7 @@ This is a clean, well-resolved take on a NASCAR staple. Patriotic schemes turn u
 
 ---
 
-## 3. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
+## 6. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MQL_Racing/status/2066507838524920037"></a></blockquote>
@@ -56,7 +98,7 @@ Josh Berry's No. 21 Wood Brothers Ford goes full stars and stripes for San Diego
 
 ---
 
-## 4. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
+## 7. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
 
 Before San Diego, there is a race this Sunday — and both of the sport's superpowers used reveal day to lay their full Pocono grids on the table. Team Penske's PPG-branded preview lines up all three Fords for the June 14 race: Austin Cindric's #2 in the yellow-and-blue Menards/Ideal Door package, Joey Logano's #22 in the timeless Shell-Pennzoil red and yellow, and Ryan Blaney's #12 in the royal-blue Wabash throwback we have ranked as the best paint scheme of the 2026 season so far. Logano's Shell-Pennzoil is still one of the cleanest standing liveries in the garage, but it is Blaney's throwback that makes this Penske drop matter — the full breakdown is right below.
 
@@ -72,7 +114,7 @@ Hendrick Motorsports answered with all four of its cars "set for Pennsylvania": 
 
 ---
 
-## 5. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
+## 8. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -119,7 +161,7 @@ The original is Ryan Newman's royal blue Alltel #12 Dodge, the car that delivere
 
 ---
 
-## 6. Josh Berry #21 Capgemini · Wood Brothers Racing
+## 9. Josh Berry #21 Capgemini · Wood Brothers Racing
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -132,7 +174,7 @@ Wood Brothers Racing unveiled the Capgemini partnership scheme for Josh Berry's 
 
 ---
 
-## 7. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
+## 10. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -145,7 +187,7 @@ Richard Childress Racing built Austin Hill's #33 Rebel Bourbon scheme around a m
 
 ---
 
-## 8. Austin Dillon #3 Dow · RCR
+## 11. Austin Dillon #3 Dow · RCR
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -158,7 +200,7 @@ Austin Dillon's #3 Dow Camaro runs the black base with the red diamond-cut Dow g
 
 ---
 
-## 9. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
+## 12. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
