@@ -44,10 +44,10 @@ async function build() {
       .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; fill: #ffffff; letter-spacing: -1.5px; }
       .sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #ffffff; opacity: 0.85; letter-spacing: 4px; }
     </style>
-    <text x="${WIDTH / 2}" y="305" text-anchor="middle" class="eyebrow" font-size="30">2026 WORLD CUP · FANTASY DRAFT</text>
-    <text x="${WIDTH / 2}" y="450" text-anchor="middle" class="title" font-size="108">The Fantasy Draft</text>
-    <text x="${WIDTH / 2}" y="565" text-anchor="middle" class="title" font-size="78">of the Knockouts</text>
-    <text x="${WIDTH / 2}" y="690" text-anchor="middle" class="sub" font-size="29">DRAFTING EVERY STAR STILL STANDING</text>
+    <text x="${WIDTH / 2}" y="300" text-anchor="middle" class="eyebrow" font-size="30">2026 WORLD CUP · FANTASY DRAFT GAME</text>
+    <text x="${WIDTH / 2}" y="445" text-anchor="middle" class="title" font-size="104">Draft Your</text>
+    <text x="${WIDTH / 2}" y="560" text-anchor="middle" class="title" font-size="104">Dream XI</text>
+    <text x="${WIDTH / 2}" y="685" text-anchor="middle" class="sub" font-size="27">PICK FROM A RANDOM DEAL OF WORLD CUP STARS</text>
   </svg>`;
 
   const composed = await sharp(Buffer.from(bgSvg))

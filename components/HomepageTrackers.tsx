@@ -34,6 +34,16 @@ const trackers: TrackerCard[] = [
     image: "/images/world-cup-rooting-guide-cover.jpg",
     centered: false,
   },
+  {
+    href: "/world-cup-fantasy-draft",
+    kicker: "Soccer · 2026 World Cup · Interactive Game",
+    title: "2026 World Cup Fantasy Draft: Build Your Dream XI",
+    dek: "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from the players still alive in the knockouts. Watch the deck shuffle, use your one re-roll wisely, then send your team to your friends.",
+    status: "New · Interactive",
+    grade: "A",
+    image: "/images/posts/world-cup-2026-fantasy-draft/cover.jpg",
+    centered: true,
+  },
 ];
 
 const gradeColor: Record<string, string> = {
@@ -99,7 +109,7 @@ export default function HomepageTrackers() {
           {trackers.map((t) => {
             return (
               <Link
-                key={t.slug}
+                key={t.href ?? t.slug}
                 href={t.href ?? `/stories/${t.slug}`}
                 className={`group flex flex-col gap-3 ${t.centered ? "md:col-span-2 md:w-[calc(50%-12px)] md:mx-auto" : ""}`}
                 style={{ textDecoration: "none", color: "#1a1a1a" }}
