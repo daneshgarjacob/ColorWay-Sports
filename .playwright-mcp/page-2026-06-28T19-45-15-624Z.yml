@@ -1,0 +1,535 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "ColorWay Sports Every Jersey. Every Logo. Every Detail." [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - generic [ref=e12]:
+          - generic [ref=e13]: ColorWay Sports
+          - generic [ref=e14]: Every Jersey. Every Logo. Every Detail.
+      - button "Toggle menu" [ref=e15]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - textbox "Search stories..."
+          - button:
+            - img
+      - link "Home":
+        - /url: /
+      - link "Stories":
+        - /url: /stories
+      - link "About":
+        - /url: /about
+      - link "Contact":
+        - /url: /contact
+      - separator
+      - generic:
+        - button "NFL":
+          - text: NFL
+          - img
+        - generic:
+          - generic:
+            - link "NFL Stories":
+              - /url: /stories?league=nfl
+            - link "Arizona Cardinals":
+              - /url: /stories?team=arizona-cardinals
+            - link "Atlanta Falcons":
+              - /url: /stories?team=atlanta-falcons
+            - link "Baltimore Ravens":
+              - /url: /stories?team=baltimore-ravens
+            - link "Buffalo Bills":
+              - /url: /stories?team=buffalo-bills
+            - link "Carolina Panthers":
+              - /url: /stories?team=carolina-panthers
+            - link "Chicago Bears":
+              - /url: /stories?team=chicago-bears
+            - link "Cincinnati Bengals":
+              - /url: /stories?team=cincinnati-bengals
+            - link "Cleveland Browns":
+              - /url: /stories?team=cleveland-browns
+            - link "Dallas Cowboys":
+              - /url: /stories?team=dallas-cowboys
+            - link "Denver Broncos":
+              - /url: /stories?team=denver-broncos
+            - link "Detroit Lions":
+              - /url: /stories?team=detroit-lions
+            - link "Green Bay Packers":
+              - /url: /stories?team=green-bay-packers
+            - link "Houston Texans":
+              - /url: /stories?team=houston-texans
+            - link "Indianapolis Colts":
+              - /url: /stories?team=indianapolis-colts
+            - link "Jacksonville Jaguars":
+              - /url: /stories?team=jacksonville-jaguars
+            - link "Kansas City Chiefs":
+              - /url: /stories?team=kansas-city-chiefs
+            - link "Las Vegas Raiders":
+              - /url: /stories?team=las-vegas-raiders
+            - link "Los Angeles Chargers":
+              - /url: /stories?team=los-angeles-chargers
+            - link "Los Angeles Rams":
+              - /url: /stories?team=los-angeles-rams
+            - link "Miami Dolphins":
+              - /url: /stories?team=miami-dolphins
+            - link "Minnesota Vikings":
+              - /url: /stories?team=minnesota-vikings
+            - link "New England Patriots":
+              - /url: /stories?team=new-england-patriots
+            - link "New Orleans Saints":
+              - /url: /stories?team=new-orleans-saints
+            - link "New York Giants":
+              - /url: /stories?team=new-york-giants
+            - link "New York Jets":
+              - /url: /stories?team=new-york-jets
+            - link "Philadelphia Eagles":
+              - /url: /stories?team=philadelphia-eagles
+            - link "Pittsburgh Steelers":
+              - /url: /stories?team=pittsburgh-steelers
+            - link "San Francisco 49ers":
+              - /url: /stories?team=san-francisco-49ers
+            - link "Seattle Seahawks":
+              - /url: /stories?team=seattle-seahawks
+            - link "Tampa Bay Buccaneers":
+              - /url: /stories?team=tampa-bay-buccaneers
+            - link "Tennessee Titans":
+              - /url: /stories?team=tennessee-titans
+            - link "Washington Commanders":
+              - /url: /stories?team=washington-commanders
+      - generic:
+        - button "NBA":
+          - text: NBA
+          - img
+        - generic:
+          - generic:
+            - link "NBA Stories":
+              - /url: /stories?league=nba
+            - link "Atlanta Hawks":
+              - /url: /stories?team=atlanta-hawks
+            - link "Boston Celtics":
+              - /url: /stories?team=boston-celtics
+            - link "Brooklyn Nets":
+              - /url: /stories?team=brooklyn-nets
+            - link "Charlotte Hornets":
+              - /url: /stories?team=charlotte-hornets
+            - link "Chicago Bulls":
+              - /url: /stories?team=chicago-bulls
+            - link "Cleveland Cavaliers":
+              - /url: /stories?team=cleveland-cavaliers
+            - link "Dallas Mavericks":
+              - /url: /stories?team=dallas-mavericks
+            - link "Denver Nuggets":
+              - /url: /stories?team=denver-nuggets
+            - link "Detroit Pistons":
+              - /url: /stories?team=detroit-pistons
+            - link "Golden State Warriors":
+              - /url: /stories?team=golden-state-warriors
+            - link "Houston Rockets":
+              - /url: /stories?team=houston-rockets
+            - link "Indiana Pacers":
+              - /url: /stories?team=indiana-pacers
+            - link "LA Clippers":
+              - /url: /stories?team=la-clippers
+            - link "Los Angeles Lakers":
+              - /url: /stories?team=los-angeles-lakers
+            - link "Memphis Grizzlies":
+              - /url: /stories?team=memphis-grizzlies
+            - link "Miami Heat":
+              - /url: /stories?team=miami-heat
+            - link "Milwaukee Bucks":
+              - /url: /stories?team=milwaukee-bucks
+            - link "Minnesota Timberwolves":
+              - /url: /stories?team=minnesota-timberwolves
+            - link "New Orleans Pelicans":
+              - /url: /stories?team=new-orleans-pelicans
+            - link "New York Knicks":
+              - /url: /stories?team=new-york-knicks
+            - link "Oklahoma City Thunder":
+              - /url: /stories?team=oklahoma-city-thunder
+            - link "Orlando Magic":
+              - /url: /stories?team=orlando-magic
+            - link "Philadelphia 76ers":
+              - /url: /stories?team=philadelphia-76ers
+            - link "Phoenix Suns":
+              - /url: /stories?team=phoenix-suns
+            - link "Portland Trail Blazers":
+              - /url: /stories?team=portland-trail-blazers
+            - link "Sacramento Kings":
+              - /url: /stories?team=sacramento-kings
+            - link "San Antonio Spurs":
+              - /url: /stories?team=san-antonio-spurs
+            - link "Toronto Raptors":
+              - /url: /stories?team=toronto-raptors
+            - link "Utah Jazz":
+              - /url: /stories?team=utah-jazz
+            - link "Washington Wizards":
+              - /url: /stories?team=washington-wizards
+      - generic:
+        - button "MLB":
+          - text: MLB
+          - img
+        - generic:
+          - generic:
+            - link "MLB Stories":
+              - /url: /stories?league=mlb
+            - link "Arizona Diamondbacks":
+              - /url: /stories?team=arizona-diamondbacks
+            - link "Atlanta Braves":
+              - /url: /stories?team=atlanta-braves
+            - link "Baltimore Orioles":
+              - /url: /stories?team=baltimore-orioles
+            - link "Boston Red Sox":
+              - /url: /stories?team=boston-red-sox
+            - link "Chicago Cubs":
+              - /url: /stories?team=chicago-cubs
+            - link "Chicago White Sox":
+              - /url: /stories?team=chicago-white-sox
+            - link "Cincinnati Reds":
+              - /url: /stories?team=cincinnati-reds
+            - link "Cleveland Guardians":
+              - /url: /stories?team=cleveland-guardians
+            - link "Colorado Rockies":
+              - /url: /stories?team=colorado-rockies
+            - link "Detroit Tigers":
+              - /url: /stories?team=detroit-tigers
+            - link "Houston Astros":
+              - /url: /stories?team=houston-astros
+            - link "Kansas City Royals":
+              - /url: /stories?team=kansas-city-royals
+            - link "Los Angeles Angels":
+              - /url: /stories?team=los-angeles-angels
+            - link "Los Angeles Dodgers":
+              - /url: /stories?team=los-angeles-dodgers
+            - link "Miami Marlins":
+              - /url: /stories?team=miami-marlins
+            - link "Milwaukee Brewers":
+              - /url: /stories?team=milwaukee-brewers
+            - link "Minnesota Twins":
+              - /url: /stories?team=minnesota-twins
+            - link "New York Mets":
+              - /url: /stories?team=new-york-mets
+            - link "New York Yankees":
+              - /url: /stories?team=new-york-yankees
+            - link "Oakland Athletics":
+              - /url: /stories?team=oakland-athletics
+            - link "Philadelphia Phillies":
+              - /url: /stories?team=philadelphia-phillies
+            - link "Pittsburgh Pirates":
+              - /url: /stories?team=pittsburgh-pirates
+            - link "San Diego Padres":
+              - /url: /stories?team=san-diego-padres
+            - link "San Francisco Giants":
+              - /url: /stories?team=san-francisco-giants
+            - link "Seattle Mariners":
+              - /url: /stories?team=seattle-mariners
+            - link "St. Louis Cardinals":
+              - /url: /stories?team=st.-louis-cardinals
+            - link "Tampa Bay Rays":
+              - /url: /stories?team=tampa-bay-rays
+            - link "Texas Rangers":
+              - /url: /stories?team=texas-rangers
+            - link "Toronto Blue Jays":
+              - /url: /stories?team=toronto-blue-jays
+            - link "Washington Nationals":
+              - /url: /stories?team=washington-nationals
+      - generic:
+        - button "NHL":
+          - text: NHL
+          - img
+        - generic:
+          - generic:
+            - link "NHL Stories":
+              - /url: /stories?league=nhl
+            - link "Anaheim Ducks":
+              - /url: /stories?team=anaheim-ducks
+            - link "Boston Bruins":
+              - /url: /stories?team=boston-bruins
+            - link "Buffalo Sabres":
+              - /url: /stories?team=buffalo-sabres
+            - link "Calgary Flames":
+              - /url: /stories?team=calgary-flames
+            - link "Carolina Hurricanes":
+              - /url: /stories?team=carolina-hurricanes
+            - link "Chicago Blackhawks":
+              - /url: /stories?team=chicago-blackhawks
+            - link "Colorado Avalanche":
+              - /url: /stories?team=colorado-avalanche
+            - link "Columbus Blue Jackets":
+              - /url: /stories?team=columbus-blue-jackets
+            - link "Dallas Stars":
+              - /url: /stories?team=dallas-stars
+            - link "Detroit Red Wings":
+              - /url: /stories?team=detroit-red-wings
+            - link "Edmonton Oilers":
+              - /url: /stories?team=edmonton-oilers
+            - link "Florida Panthers":
+              - /url: /stories?team=florida-panthers
+            - link "Los Angeles Kings":
+              - /url: /stories?team=los-angeles-kings
+            - link "Minnesota Wild":
+              - /url: /stories?team=minnesota-wild
+            - link "Montreal Canadiens":
+              - /url: /stories?team=montreal-canadiens
+            - link "Nashville Predators":
+              - /url: /stories?team=nashville-predators
+            - link "New Jersey Devils":
+              - /url: /stories?team=new-jersey-devils
+            - link "New York Islanders":
+              - /url: /stories?team=new-york-islanders
+            - link "New York Rangers":
+              - /url: /stories?team=new-york-rangers
+            - link "Ottawa Senators":
+              - /url: /stories?team=ottawa-senators
+            - link "Philadelphia Flyers":
+              - /url: /stories?team=philadelphia-flyers
+            - link "Pittsburgh Penguins":
+              - /url: /stories?team=pittsburgh-penguins
+            - link "San Jose Sharks":
+              - /url: /stories?team=san-jose-sharks
+            - link "Seattle Kraken":
+              - /url: /stories?team=seattle-kraken
+            - link "St. Louis Blues":
+              - /url: /stories?team=st.-louis-blues
+            - link "Tampa Bay Lightning":
+              - /url: /stories?team=tampa-bay-lightning
+            - link "Toronto Maple Leafs":
+              - /url: /stories?team=toronto-maple-leafs
+            - link "Utah Hockey Club":
+              - /url: /stories?team=utah-hockey-club
+            - link "Vancouver Canucks":
+              - /url: /stories?team=vancouver-canucks
+            - link "Vegas Golden Knights":
+              - /url: /stories?team=vegas-golden-knights
+            - link "Washington Capitals":
+              - /url: /stories?team=washington-capitals
+            - link "Winnipeg Jets":
+              - /url: /stories?team=winnipeg-jets
+      - generic:
+        - button "Soccer (Fútbol)":
+          - text: Soccer (Fútbol)
+          - img
+        - generic:
+          - generic:
+            - link "All Soccer Stories":
+              - /url: /stories?league=soccer
+            - link "International Competitions":
+              - /url: /stories?team=international-competitions
+            - link "UEFA Champions League":
+              - /url: /stories?team=uefa-champions-league
+            - link "Premier League":
+              - /url: /stories?team=premier-league
+            - link "La Liga":
+              - /url: /stories?team=la-liga
+            - link "Serie A":
+              - /url: /stories?team=serie-a
+            - link "Bundesliga":
+              - /url: /stories?team=bundesliga
+            - link "Ligue 1":
+              - /url: /stories?team=ligue-1
+            - link "MLS":
+              - /url: /stories?team=mls
+      - generic:
+        - button "Racing":
+          - text: Racing
+          - img
+        - generic:
+          - generic:
+            - link "F1 (Formula One)":
+              - /url: /stories?league=f1
+            - link "Alpine":
+              - /url: /stories?team=alpine
+            - link "Aston Martin":
+              - /url: /stories?team=aston-martin
+            - link "Audi":
+              - /url: /stories?team=audi
+            - link "Cadillac":
+              - /url: /stories?team=cadillac
+            - link "Ferrari":
+              - /url: /stories?team=ferrari
+            - link "Haas":
+              - /url: /stories?team=haas
+            - link "McLaren":
+              - /url: /stories?team=mclaren
+            - link "Mercedes":
+              - /url: /stories?team=mercedes
+            - link "Racing Bulls":
+              - /url: /stories?team=racing-bulls
+            - link "Red Bull Racing":
+              - /url: /stories?team=red-bull-racing
+            - link "Williams":
+              - /url: /stories?team=williams
+            - link "NASCAR":
+              - /url: /stories?league=nascar
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - paragraph [ref=e21]: 2026 World Cup · Knockout Stage
+      - heading "Fill out your 2026 World Cup bracket" [level=1] [ref=e22]
+      - paragraph [ref=e23]:
+        - text: All 32 knockout teams are locked in. Tap the team you think wins each game and they advance automatically, from the
+        - strong [ref=e24]: Round of 32
+        - text: all the way to the Final on July 19. Empty slots show exactly who your team could play next, so you can see who you
+        - emphasis [ref=e25]: want
+        - text: them to draw.
+      - paragraph [ref=e26]: Your picks save automatically on this device. Crown a champion, then share your bracket. Round of 32 runs June 28 to July 3.
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]: 0/31 picks made
+        - generic [ref=e30]:
+          - button "Share bracket" [ref=e31]
+          - button "Reset" [ref=e32]
+      - generic [ref=e33]: Tap a team to send them through. Fill every round to crown your champion.
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - button "R320/16" [ref=e36]:
+            - text: R32
+            - generic [ref=e37]: 0/16
+          - button "R160/8" [ref=e38]:
+            - text: R16
+            - generic [ref=e39]: 0/8
+          - button "QF0/4" [ref=e40]:
+            - text: QF
+            - generic [ref=e41]: 0/4
+          - button "SF0/2" [ref=e42]:
+            - text: SF
+            - generic [ref=e43]: 0/2
+          - button "Final0/1" [ref=e44]:
+            - text: Final
+            - generic [ref=e45]: 0/1
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - generic [ref=e48]: June 28
+            - generic [ref=e49]:
+              - button "South Africa" [ref=e50] [cursor=pointer]:
+                - generic [ref=e52]: South Africa
+              - button "Canada" [ref=e54] [cursor=pointer]:
+                - generic [ref=e56]: Canada
+          - generic [ref=e57]:
+            - generic [ref=e58]: June 29
+            - generic [ref=e59]:
+              - button "Brazil" [ref=e60] [cursor=pointer]:
+                - generic [ref=e62]: Brazil
+              - button "Japan" [ref=e64] [cursor=pointer]:
+                - generic [ref=e66]: Japan
+          - generic [ref=e67]:
+            - generic [ref=e68]: June 29
+            - generic [ref=e69]:
+              - button "Germany" [ref=e70] [cursor=pointer]:
+                - generic [ref=e72]: Germany
+              - button "Paraguay" [ref=e74] [cursor=pointer]:
+                - generic [ref=e76]: Paraguay
+          - generic [ref=e77]:
+            - generic [ref=e78]: June 29
+            - generic [ref=e79]:
+              - button "Netherlands" [ref=e80] [cursor=pointer]:
+                - generic [ref=e82]: Netherlands
+              - button "Morocco" [ref=e84] [cursor=pointer]:
+                - generic [ref=e86]: Morocco
+          - generic [ref=e87]:
+            - generic [ref=e88]: June 30
+            - generic [ref=e89]:
+              - button "Ivory Coast" [ref=e90] [cursor=pointer]:
+                - generic [ref=e92]: Ivory Coast
+              - button "Norway" [ref=e94] [cursor=pointer]:
+                - generic [ref=e96]: Norway
+          - generic [ref=e97]:
+            - generic [ref=e98]: June 30
+            - generic [ref=e99]:
+              - button "France" [ref=e100] [cursor=pointer]:
+                - generic [ref=e102]: France
+              - button "Sweden" [ref=e104] [cursor=pointer]:
+                - generic [ref=e106]: Sweden
+          - generic [ref=e107]:
+            - generic [ref=e108]: June 30
+            - generic [ref=e109]:
+              - button "Mexico" [ref=e110] [cursor=pointer]:
+                - generic [ref=e112]: Mexico
+              - button "Ecuador" [ref=e114] [cursor=pointer]:
+                - generic [ref=e116]: Ecuador
+          - generic [ref=e117]:
+            - generic [ref=e118]: July 1
+            - generic [ref=e119]:
+              - button "England" [ref=e120] [cursor=pointer]:
+                - generic [ref=e122]: England
+              - button "Congo DR" [ref=e124] [cursor=pointer]:
+                - generic [ref=e126]: Congo DR
+          - generic [ref=e127]:
+            - generic [ref=e128]: July 1
+            - generic [ref=e129]:
+              - button "Belgium" [ref=e130] [cursor=pointer]:
+                - generic [ref=e132]: Belgium
+              - button "Senegal" [ref=e134] [cursor=pointer]:
+                - generic [ref=e136]: Senegal
+          - generic [ref=e137]:
+            - generic [ref=e138]: July 1
+            - generic [ref=e139]:
+              - button "United States" [ref=e140] [cursor=pointer]:
+                - generic [ref=e142]: United States
+              - button "Bosnia" [ref=e144] [cursor=pointer]:
+                - generic [ref=e146]: Bosnia
+          - generic [ref=e147]:
+            - generic [ref=e148]: July 2
+            - generic [ref=e149]:
+              - button "Spain" [ref=e150] [cursor=pointer]:
+                - generic [ref=e152]: Spain
+              - button "Austria" [ref=e154] [cursor=pointer]:
+                - generic [ref=e156]: Austria
+          - generic [ref=e157]:
+            - generic [ref=e158]: July 2
+            - generic [ref=e159]:
+              - button "Portugal" [ref=e160] [cursor=pointer]:
+                - generic [ref=e162]: Portugal
+              - button "Croatia" [ref=e164] [cursor=pointer]:
+                - generic [ref=e166]: Croatia
+          - generic [ref=e167]:
+            - generic [ref=e168]: July 2
+            - generic [ref=e169]:
+              - button "Switzerland" [ref=e170] [cursor=pointer]:
+                - generic [ref=e172]: Switzerland
+              - button "Algeria" [ref=e174] [cursor=pointer]:
+                - generic [ref=e176]: Algeria
+          - generic [ref=e177]:
+            - generic [ref=e178]: July 3
+            - generic [ref=e179]:
+              - button "Australia" [ref=e180] [cursor=pointer]:
+                - generic [ref=e182]: Australia
+              - button "Egypt" [ref=e184] [cursor=pointer]:
+                - generic [ref=e186]: Egypt
+          - generic [ref=e187]:
+            - generic [ref=e188]: July 3
+            - generic [ref=e189]:
+              - button "Argentina" [ref=e190] [cursor=pointer]:
+                - generic [ref=e192]: Argentina
+              - button "Cape Verde" [ref=e194] [cursor=pointer]:
+                - generic [ref=e196]: Cape Verde
+          - generic [ref=e197]:
+            - generic [ref=e198]: July 3
+            - generic [ref=e199]:
+              - button "Colombia" [ref=e200] [cursor=pointer]:
+                - generic [ref=e202]: Colombia
+              - button "Ghana" [ref=e204] [cursor=pointer]:
+                - generic [ref=e206]: Ghana
+    - paragraph [ref=e208]: Round of 32 matchups and bracket order follow the official 2026 FIFA World Cup knockout draw. This is a pick-your-winner predictor, not a live score feed. Built on an idea from Jonah.
+  - contentinfo [ref=e209]:
+    - generic [ref=e210]:
+      - generic [ref=e211]:
+        - img [ref=e212]
+        - generic [ref=e219]: ColorWay Sports
+        - generic [ref=e220]: Every Jersey. Every Logo. Every Detail.
+      - navigation [ref=e221]:
+        - link "Home" [ref=e222] [cursor=pointer]:
+          - /url: /
+        - link "Stories" [ref=e223] [cursor=pointer]:
+          - /url: /stories
+        - link "About" [ref=e224] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e225] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e226]:
+        - link "Privacy Policy" [ref=e227] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Terms of Service" [ref=e228] [cursor=pointer]:
+          - /url: /terms
+      - paragraph [ref=e229]: ColorWay Sports is a participant in the Amazon Services LLC Associates Program and other affiliate programs. As an Amazon Associate we earn from qualifying purchases. Some links on this site may earn us a commission at no extra cost to you.
+      - paragraph [ref=e230]: © 2026 ColorWay Sports. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e236] [cursor=pointer]:
+    - img [ref=e237]

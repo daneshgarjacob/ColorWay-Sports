@@ -120,10 +120,14 @@ export default function WorldCupBracket() {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    // One-time hydration from localStorage (syncing from an external store on mount).
+    let saved: Picks | null = null;
     try {
       const raw = localStorage.getItem(STORE_KEY);
-      if (raw) setPicks(JSON.parse(raw));
+      if (raw) saved = JSON.parse(raw);
     } catch {}
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    if (saved) setPicks(saved);
     setMounted(true);
   }, []);
 
