@@ -12,7 +12,7 @@ logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs", "los-angeles-lakers", "orlando-magic"]
 featuredOrder: 1
-topViewsRank: 15
+topViewsRank: 17
 ---
 
 <div style="margin: 0 0 1.5em;">

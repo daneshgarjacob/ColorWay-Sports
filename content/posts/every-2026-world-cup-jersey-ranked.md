@@ -12,7 +12,7 @@ league: soccer
 teams: []
 coverImage: /images/posts/wc-all-jerseys-ranked-cover.jpg
 coverImagePosition: center center
-topViewsRank: 7
+topViewsRank: 9
 ---
 
 <img src="/images/posts/wc-all-jerseys-ranked-cover.jpg" alt="Every 2026 World Cup jersey ranked Nike Adidas and Puma logos" style="width: 100%; max-width: 100%; border-radius: 10px;" />

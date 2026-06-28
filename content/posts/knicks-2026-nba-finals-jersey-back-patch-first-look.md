@@ -12,7 +12,7 @@ logoSrc: "/logos/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1
-topViewsRank: 13
+topViewsRank: 15
 ---
 
 <div style="margin: 0 0 2em; text-align: center;">
