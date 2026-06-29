@@ -4,14 +4,13 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import {
   playerById,
   formation,
-  posLabel,
   lastName,
   dealMixed,
   squadOverall,
   verdict,
   needSummary,
-  openPositions,
-  nextOpenSlotForPos,
+  openSlotPositions,
+  slotForPlayer,
   encodeSquad,
   decodeSquad,
   TOTAL_SLOTS,
@@ -45,9 +44,9 @@ function Flag({ code, h = 16 }: { code: string; h?: number }) {
 const usedSet = (squad: Squad): Set<string> => new Set(Object.values(squad));
 
 const ROWS: { ids: string[] }[] = [
-  { ids: ["f1", "f2", "f3"] },
-  { ids: ["m1", "m2", "m3"] },
-  { ids: ["d1", "d2", "d3", "d4"] },
+  { ids: ["lw", "st", "rw"] },
+  { ids: ["cm1", "cm2", "cm3"] },
+  { ids: ["lb", "cb1", "cb2", "rb"] },
   { ids: ["gk"] },
 ];
 
@@ -73,7 +72,7 @@ export default function WorldCupSquadDraft() {
 
   // Deal a fresh set of 5 mixed-position players with a visible shuffle.
   const deal = useCallback((sq: Squad) => {
-    if (openPositions(sq).length === 0) return;
+    if (openSlotPositions(sq).size === 0) return;
     const exclude = usedSet(sq);
     const final = dealMixed(sq, exclude);
     finalRef.current = final;
@@ -122,10 +121,10 @@ export default function WorldCupSquadDraft() {
     const pl = playerById[playerId];
     if (!pl) return;
     setSquad((prev) => {
-      const slot = nextOpenSlotForPos(prev, pl.pos);
+      const slot = slotForPlayer(prev, pl);
       if (!slot) return prev;
       const next = { ...prev, [slot]: playerId };
-      if (openPositions(next).length > 0) deal(next);
+      if (openSlotPositions(next).size > 0) deal(next);
       return next;
     });
   }, [deal, shuffling]);
@@ -264,7 +263,7 @@ export default function WorldCupSquadDraft() {
                   <Flag code={pl.flag} h={22} />
                   <span className="min-w-0">
                     <span className="block text-[14px] font-bold text-gray-900 truncate">{pl.name}</span>
-                    <span className="block text-[11px] text-gray-500">{pl.team} · {posLabel[pl.pos]}</span>
+                    <span className="block text-[11px] text-gray-500">{pl.team} · {pl.positions.join("/")}</span>
                   </span>
                   <span className="ml-auto flex items-center gap-2 shrink-0">
                     <span className="inline-flex items-center justify-center rounded-md text-[13px] font-black text-white tabular-nums" style={{ width: 34, height: 28, background: ratingColor(pl.rating) }}>{pl.rating}</span>

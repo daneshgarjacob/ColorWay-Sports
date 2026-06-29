@@ -27,12 +27,13 @@ const BRAND = "#2f6bed";
 const NAVY = "#0a1f4d";
 const TOTAL_TIES = 31; // 16 + 8 + 4 + 2 + 1
 
-// R32 order for the desktop visual bracket so each tie sits between its two feeders.
+// R32 order for the desktop bracket so each tie sits next to its R16 feeder partner
+// (matches the FotMob R16 pairings).
 const DESKTOP_R32_ORDER = [
-  "r32-1", "r32-4", "r32-2", "r32-3",
-  "r32-5", "r32-6", "r32-7", "r32-8",
-  "r32-9", "r32-10", "r32-11", "r32-12",
-  "r32-13", "r32-16", "r32-14", "r32-15",
+  "r32-3", "r32-6", "r32-1", "r32-4",
+  "r32-12", "r32-11", "r32-10", "r32-9",
+  "r32-2", "r32-5", "r32-7", "r32-8",
+  "r32-15", "r32-14", "r32-13", "r32-16",
 ];
 
 function Flag({ code, h = 16 }: { code: string; h?: number }) {
