@@ -178,3 +178,31 @@ export function effectivePicks(userPicks: Picks): Picks {
   for (const [tieId, r] of Object.entries(results)) merged[tieId] = r.winner;
   return prune(merged);
 }
+
+// ---- flag emoji (for share text + link previews) ----
+export function flagEmoji(code: string): string {
+  if (code === "gb-eng") return "\u{1F3F4}\u{E0067}\u{E0062}\u{E0065}\u{E006E}\u{E0067}\u{E007F}"; // England
+  const cc = code.toUpperCase();
+  if (cc.length !== 2) return "\u{1F3F3}\u{FE0F}";
+  return String.fromCodePoint(...[...cc].map((c) => 0x1f1e6 + c.charCodeAt(0) - 65));
+}
+
+// ---- share encode/decode: compact URL-safe base64 of the picks JSON (works client + server) ----
+function b64encode(s: string): string {
+  const b = typeof btoa !== "undefined" ? btoa(s) : Buffer.from(s, "binary").toString("base64");
+  return b.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+function b64decode(s: string): string {
+  const t = s.replace(/-/g, "+").replace(/_/g, "/");
+  return typeof atob !== "undefined" ? atob(t) : Buffer.from(t, "base64").toString("binary");
+}
+export function encodePicks(picks: Picks): string {
+  try { return b64encode(JSON.stringify(picks)); } catch { return ""; }
+}
+export function decodePicks(s: string): Picks {
+  try {
+    const obj = JSON.parse(b64decode(s));
+    if (obj && typeof obj === "object" && !Array.isArray(obj)) return obj as Picks;
+  } catch {}
+  return {};
+}

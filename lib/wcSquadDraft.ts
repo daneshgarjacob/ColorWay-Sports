@@ -158,13 +158,51 @@ export function squadOverall(squad: Squad): number | null {
   return Math.round(sum / ids.length);
 }
 
-// A fun tier label for the final squad rating.
-export function ratingTier(ovr: number): string {
-  if (ovr >= 89) return "World Beaters";
-  if (ovr >= 86) return "Title Contenders";
-  if (ovr >= 83) return "Knockout Quality";
-  if (ovr >= 80) return "Solid Squad";
-  return "Plucky Underdogs";
+// How far your XI would go in the World Cup, by overall rating. Deliberately steep:
+// "World Cup Winner" needs a near-perfect side, so people keep re-drafting to chase it.
+export type Verdict = { label: string; emoji: string; blurb: string; champion: boolean };
+export function verdict(ovr: number): Verdict {
+  if (ovr >= 90) return { label: "World Cup Winner", emoji: "🏆", blurb: "A legendary XI. You'd lift the trophy. Almost nobody gets here.", champion: true };
+  if (ovr >= 88) return { label: "Final", emoji: "🥈", blurb: "So close. This team reaches the Final and just falls short.", champion: false };
+  if (ovr >= 86) return { label: "Semifinals", emoji: "🔥", blurb: "A genuine contender — semifinal quality.", champion: false };
+  if (ovr >= 84) return { label: "Quarterfinals", emoji: "💪", blurb: "A strong side that reaches the last eight.", champion: false };
+  if (ovr >= 82) return { label: "Round of 16", emoji: "👏", blurb: "Solid. Out of the group and one knockout round more.", champion: false };
+  if (ovr >= 80) return { label: "Round of 32", emoji: "🙂", blurb: "You sneak into the knockouts, then bow out.", champion: false };
+  return { label: "Group Stage Exit", emoji: "😬", blurb: "Tough draw. Out in the group. Reset and re-draft to climb.", champion: false };
+}
+
+// ---- random-position drafting (the strategy layer) ----
+const NEED: Record<Pos, number> = { GK: 1, DEF: 4, MID: 3, FWD: 3 };
+
+export function filledByPos(squad: Squad): Record<Pos, number> {
+  const c: Record<Pos, number> = { GK: 0, DEF: 0, MID: 0, FWD: 0 };
+  for (const id of Object.values(squad)) {
+    const pl = playerById[id];
+    if (pl) c[pl.pos]++;
+  }
+  return c;
+}
+
+// Positions that still have an open slot in the 4-3-3.
+export function openPositions(squad: Squad): Pos[] {
+  const c = filledByPos(squad);
+  return (["GK", "DEF", "MID", "FWD"] as Pos[]).filter((p) => c[p] < NEED[p]);
+}
+
+export function needSummary(squad: Squad): { pos: Pos; left: number }[] {
+  const c = filledByPos(squad);
+  return (["GK", "DEF", "MID", "FWD"] as Pos[]).map((p) => ({ pos: p, left: NEED[p] - c[p] })).filter((x) => x.left > 0);
+}
+
+export const nextOpenSlotForPos = (squad: Squad, pos: Pos): string | null =>
+  formation.find((s) => s.pos === pos && !squad[s.id])?.id ?? null;
+
+// Deal `n` random players across the positions that still have open slots (mixed positions
+// each turn) — so you must weigh the best player vs. the spots you still need.
+export function dealMixed(squad: Squad, excludeIds: Set<string>, n = 5): Player[] {
+  const open = new Set(openPositions(squad));
+  const avail = pool.filter((pl) => open.has(pl.pos) && !excludeIds.has(pl.id));
+  return shuffle(avail).slice(0, n);
 }
 
 // Last name for compact display ("Kylian Mbappé" -> "Mbappé", "van Dijk" kept).
@@ -195,3 +233,31 @@ export function dealOptions(pos: Pos, excludeIds: Set<string>, n = 5): Player[] 
 
 export const firstEmptySlot = (squad: Squad): string | null =>
   formation.find((s) => !squad[s.id])?.id ?? null;
+
+// ---- share encode/decode: URL-safe base64 of the squad JSON (works client + server) ----
+function b64encode(s: string): string {
+  const b = typeof btoa !== "undefined" ? btoa(s) : Buffer.from(s, "binary").toString("base64");
+  return b.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+function b64decode(s: string): string {
+  const t = s.replace(/-/g, "+").replace(/_/g, "/");
+  return typeof atob !== "undefined" ? atob(t) : Buffer.from(t, "base64").toString("binary");
+}
+export function encodeSquad(squad: Squad): string {
+  try { return b64encode(JSON.stringify(squad)); } catch { return ""; }
+}
+export function decodeSquad(s: string): Squad {
+  try {
+    const obj = JSON.parse(b64decode(s));
+    if (obj && typeof obj === "object" && !Array.isArray(obj)) {
+      // keep only valid slot->player entries
+      const out: Squad = {};
+      for (const slot of formation) {
+        const id = obj[slot.id];
+        if (typeof id === "string" && playerById[id]?.pos === slot.pos) out[slot.id] = id;
+      }
+      return out;
+    }
+  } catch {}
+  return {};
+}
