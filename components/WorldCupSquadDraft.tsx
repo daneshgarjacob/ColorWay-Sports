@@ -1,17 +1,21 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, type PointerEvent as RPointerEvent } from "react";
 import {
   playerById,
   formation,
-  posLabel,
   lastName,
   dealMixed,
   squadOverall,
   verdict,
   needSummary,
-  openPositions,
-  nextOpenSlotForPos,
+  openSlotPositions,
+  slotForPlayer,
+  effectiveRating,
+  isOutOfPosition,
+  moveResult,
+  applyMove,
+  OUT_OF_POSITION_PENALTY,
   encodeSquad,
   decodeSquad,
   TOTAL_SLOTS,
@@ -45,9 +49,9 @@ function Flag({ code, h = 16 }: { code: string; h?: number }) {
 const usedSet = (squad: Squad): Set<string> => new Set(Object.values(squad));
 
 const ROWS: { ids: string[] }[] = [
-  { ids: ["f1", "f2", "f3"] },
-  { ids: ["m1", "m2", "m3"] },
-  { ids: ["d1", "d2", "d3", "d4"] },
+  { ids: ["lw", "st", "rw"] },
+  { ids: ["cm1", "cm2", "cm3"] },
+  { ids: ["lb", "cb1", "cb2", "rb"] },
   { ids: ["gk"] },
 ];
 
@@ -59,6 +63,7 @@ export default function WorldCupSquadDraft() {
   const [mounted, setMounted] = useState(false);
   const [isShared, setIsShared] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [drag, setDrag] = useState<{ from: string; x: number; y: number } | null>(null);
 
   const finalRef = useRef<Player[]>([]);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -73,7 +78,7 @@ export default function WorldCupSquadDraft() {
 
   // Deal a fresh set of 5 mixed-position players with a visible shuffle.
   const deal = useCallback((sq: Squad) => {
-    if (openPositions(sq).length === 0) return;
+    if (openSlotPositions(sq).size === 0) return;
     const exclude = usedSet(sq);
     const final = dealMixed(sq, exclude);
     finalRef.current = final;
@@ -122,10 +127,10 @@ export default function WorldCupSquadDraft() {
     const pl = playerById[playerId];
     if (!pl) return;
     setSquad((prev) => {
-      const slot = nextOpenSlotForPos(prev, pl.pos);
+      const slot = slotForPlayer(prev, pl);
       if (!slot) return prev;
       const next = { ...prev, [slot]: playerId };
-      if (openPositions(next).length > 0) deal(next);
+      if (openSlotPositions(next).size > 0) deal(next);
       return next;
     });
   }, [deal, shuffling]);
@@ -167,6 +172,25 @@ export default function WorldCupSquadDraft() {
     } catch {}
   }, [squad]);
 
+  // --- drag a placed player to another position they can play ---
+  const startDrag = useCallback((e: RPointerEvent, slotId: string) => {
+    if (!squad[slotId]) return;
+    try { (e.currentTarget as Element).setPointerCapture?.(e.pointerId); } catch {}
+    setDrag({ from: slotId, x: e.clientX, y: e.clientY });
+  }, [squad]);
+
+  const moveDrag = useCallback((e: RPointerEvent) => {
+    setDrag((d) => (d ? { ...d, x: e.clientX, y: e.clientY } : d));
+  }, []);
+
+  const endDrag = useCallback((e: RPointerEvent) => {
+    if (!drag) return;
+    const el = document.elementFromPoint(e.clientX, e.clientY);
+    const toId = el?.closest("[data-slot]")?.getAttribute("data-slot");
+    if (toId && moveResult(squad, drag.from, toId)) setSquad((s) => applyMove(s, drag.from, toId));
+    setDrag(null);
+  }, [drag, squad]);
+
   const ovrBadge = (
     <div className="flex items-center gap-2 rounded-xl px-3 py-1.5 text-white" style={{ background: `linear-gradient(135deg, ${NAVY} 0%, ${BRAND} 100%)` }} title="Average FIFA-style overall rating of your drafted players">
       <span className="text-2xl font-black tabular-nums leading-none">{ovr ?? "--"}</span>
@@ -198,26 +222,48 @@ export default function WorldCupSquadDraft() {
         </div>
       )}
 
-      {/* Pitch */}
+      {/* Pitch (drag a placed player to another position they can play) */}
       <div className="rounded-2xl p-4 sm:p-6 mb-5" style={{ background: `linear-gradient(160deg, #1a8f45 0%, ${PITCH} 100%)`, boxShadow: "inset 0 0 0 2px rgba(255,255,255,0.12)" }}>
         <div className="space-y-4 sm:space-y-6">
           {ROWS.map((row, ri) => (
             <div key={ri} className="flex justify-center gap-2 sm:gap-4">
               {row.ids.map((id) => {
+                const slotPos = formation.find((s) => s.id === id)!.pos;
                 const pid = squad[id];
                 const pl = pid ? playerById[pid] : null;
+                const eff = pl ? effectiveRating(pl, slotPos) : 0;
+                const oop = pl ? isOutOfPosition(pl, slotPos) : false;
+                const isSource = drag?.from === id;
+                const isTarget = !!drag && drag.from !== id && moveResult(squad, drag.from, id) !== null;
+                const draggable = !!pl && !isShared;
                 return (
-                  <div key={id} className="flex flex-col items-center gap-1 rounded-xl px-1.5 py-2 w-[72px] sm:w-[92px]" style={{ background: pl ? "rgba(255,255,255,0.96)" : "rgba(255,255,255,0.10)" }}>
+                  <div
+                    key={id}
+                    data-slot={id}
+                    onPointerDown={draggable ? (e) => startDrag(e, id) : undefined}
+                    onPointerMove={isSource ? moveDrag : undefined}
+                    onPointerUp={isSource ? endDrag : undefined}
+                    className="relative flex flex-col items-center gap-1 rounded-xl px-1.5 py-2 w-[72px] sm:w-[92px] transition select-none"
+                    style={{
+                      background: pl ? "rgba(255,255,255,0.96)" : "rgba(255,255,255,0.10)",
+                      touchAction: draggable ? "none" : undefined,
+                      cursor: draggable ? "grab" : "default",
+                      opacity: isSource ? 0.3 : 1,
+                      boxShadow: isTarget ? "0 0 0 3px #16a34a" : undefined,
+                    }}
+                  >
                     {pl ? (
                       <>
                         <Flag code={pl.flag} h={18} />
                         <span className="text-[11px] sm:text-[12px] font-extrabold leading-tight text-center" style={{ color: NAVY }}>{lastName(pl.name)}</span>
-                        <span className="text-[10px] font-black tabular-nums leading-none" style={{ color: ratingColor(pl.rating) }}>{pl.rating}</span>
+                        <span className="text-[10px] font-black tabular-nums leading-none inline-flex items-center gap-0.5" style={{ color: oop ? "#b45309" : ratingColor(eff) }}>
+                          {eff}{oop && <span title={`Out of position (-${OUT_OF_POSITION_PENALTY})`}>▾</span>}
+                        </span>
                       </>
                     ) : (
                       <>
-                        <span className="inline-flex items-center justify-center rounded-full text-[10px] font-bold text-white" style={{ width: 22, height: 22, background: "rgba(255,255,255,0.22)" }}>{formation.find((s) => s.id === id)!.pos}</span>
-                        <span className="text-[10px] font-bold text-white/80">Open</span>
+                        <span className="inline-flex items-center justify-center rounded-full text-[10px] font-bold text-white" style={{ width: 22, height: 22, background: isTarget ? "#16a34a" : "rgba(255,255,255,0.22)" }}>{slotPos}</span>
+                        <span className="text-[10px] font-bold text-white/80">{isTarget ? "Drop" : "Open"}</span>
                       </>
                     )}
                   </div>
@@ -226,7 +272,18 @@ export default function WorldCupSquadDraft() {
             </div>
           ))}
         </div>
+        {!isShared && filled > 1 && (
+          <div className="text-center text-[11px] text-white/80 mt-4">Drag a player to another position they can play. Out of position costs {OUT_OF_POSITION_PENALTY} rating.</div>
+        )}
       </div>
+
+      {/* Floating drag chip */}
+      {drag && squad[drag.from] && (
+        <div className="fixed z-50 pointer-events-none flex flex-col items-center gap-1 rounded-xl px-1.5 py-2 w-[72px] sm:w-[92px]" style={{ left: drag.x, top: drag.y, transform: "translate(-50%, -50%)", background: "rgba(255,255,255,0.98)", boxShadow: "0 8px 24px rgba(0,0,0,0.35)" }}>
+          <Flag code={playerById[squad[drag.from]].flag} h={18} />
+          <span className="text-[11px] sm:text-[12px] font-extrabold leading-tight text-center" style={{ color: NAVY }}>{lastName(playerById[squad[drag.from]].name)}</span>
+        </div>
+      )}
 
       {/* Verdict (complete) or draft board */}
       {complete ? (
@@ -264,7 +321,7 @@ export default function WorldCupSquadDraft() {
                   <Flag code={pl.flag} h={22} />
                   <span className="min-w-0">
                     <span className="block text-[14px] font-bold text-gray-900 truncate">{pl.name}</span>
-                    <span className="block text-[11px] text-gray-500">{pl.team} · {posLabel[pl.pos]}</span>
+                    <span className="block text-[11px] text-gray-500">{pl.team} · {pl.positions.join("/")}</span>
                   </span>
                   <span className="ml-auto flex items-center gap-2 shrink-0">
                     <span className="inline-flex items-center justify-center rounded-md text-[13px] font-black text-white tabular-nums" style={{ width: 34, height: 28, background: ratingColor(pl.rating) }}>{pl.rating}</span>

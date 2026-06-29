@@ -8,9 +8,12 @@
 // draw (Yahoo Sports / FOX / CBS). Group J resolved: Argentina 1st, Austria 2nd,
 // Algeria through as a best third.
 //
-// Bracket order (Yahoo): R16 pairs winners of matches 1·4, 2·3, 5·6, 7·8, 9·10,
-// 11·12, 13·16, 14·15. QF pairs those in listed order; SF pairs the QF winners;
-// Final is the two SF winners. Pure binary tree, top of bracket first.
+// Bracket tree per the official FotMob knockout bracket (corrected 2026-06-28 — the
+// earlier Yahoo-listed pairing was wrong). R16 feeders: r16-1 GER/PAR·FRA/SWE,
+// r16-2 RSA/CAN·NED/MAR, r16-3 POR/CRO·ESP/AUT, r16-4 USA/BIH·BEL/SEN (left half);
+// r16-5 BRA/JPN·CIV/NOR, r16-6 MEX/ECU·ENG/COD, r16-7 ARG/CPV·AUS/EGY,
+// r16-8 SUI/ALG·COL/GHA (right half). QF pairs r16 1·2 / 3·4 / 5·6 / 7·8; SF pairs
+// qf 1·2 (left) and 3·4 (right); Final = the two SF winners.
 
 export type BracketTeam = {
   key: string;   // 3-letter code, also the flag-independent id
@@ -97,15 +100,15 @@ export const ties: Tie[] = [
   { id: "r32-14", round: "r32", a: t("AUS"), b: t("EGY"), date: "July 3" },
   { id: "r32-15", round: "r32", a: t("ARG"), b: t("CPV"), date: "July 3" },
   { id: "r32-16", round: "r32", a: t("COL"), b: t("GHA"), date: "July 3" },
-  // Round of 16
-  { id: "r16-1", round: "r16", a: w("r32-1"), b: w("r32-4") },
-  { id: "r16-2", round: "r16", a: w("r32-2"), b: w("r32-3") },
-  { id: "r16-3", round: "r16", a: w("r32-5"), b: w("r32-6") },
-  { id: "r16-4", round: "r16", a: w("r32-7"), b: w("r32-8") },
-  { id: "r16-5", round: "r16", a: w("r32-9"), b: w("r32-10") },
-  { id: "r16-6", round: "r16", a: w("r32-11"), b: w("r32-12") },
-  { id: "r16-7", round: "r16", a: w("r32-13"), b: w("r32-16") },
-  { id: "r16-8", round: "r16", a: w("r32-14"), b: w("r32-15") },
+  // Round of 16 — pairings per the official FotMob knockout bracket.
+  { id: "r16-1", round: "r16", a: w("r32-3"), b: w("r32-6") },   // GER/PAR vs FRA/SWE
+  { id: "r16-2", round: "r16", a: w("r32-1"), b: w("r32-4") },   // RSA/CAN vs NED/MAR
+  { id: "r16-3", round: "r16", a: w("r32-12"), b: w("r32-11") }, // POR/CRO vs ESP/AUT
+  { id: "r16-4", round: "r16", a: w("r32-10"), b: w("r32-9") },  // USA/BIH vs BEL/SEN
+  { id: "r16-5", round: "r16", a: w("r32-2"), b: w("r32-5") },   // BRA/JPN vs CIV/NOR
+  { id: "r16-6", round: "r16", a: w("r32-7"), b: w("r32-8") },   // MEX/ECU vs ENG/COD
+  { id: "r16-7", round: "r16", a: w("r32-15"), b: w("r32-14") }, // ARG/CPV vs AUS/EGY
+  { id: "r16-8", round: "r16", a: w("r32-13"), b: w("r32-16") }, // SUI/ALG vs COL/GHA
   // Quarterfinals
   { id: "qf-1", round: "qf", a: w("r16-1"), b: w("r16-2") },
   { id: "qf-2", round: "qf", a: w("r16-3"), b: w("r16-4") },
