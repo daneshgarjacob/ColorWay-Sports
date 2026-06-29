@@ -146,11 +146,56 @@ export const posLabel: Record<SlotPos, string> = {
 
 export type Squad = Record<string, string>; // slotId -> playerId
 
+// A player loses a couple of points when played in their secondary position.
+export const OUT_OF_POSITION_PENALTY = 2;
+
+export function effectiveRating(pl: Player, slotPos: SlotPos): number {
+  return slotPos === pl.positions[0] ? pl.rating : pl.rating - OUT_OF_POSITION_PENALTY;
+}
+
+// True when the player is sitting in a valid-but-secondary position.
+export function isOutOfPosition(pl: Player, slotPos: SlotPos): boolean {
+  return pl.positions.includes(slotPos) && slotPos !== pl.positions[0];
+}
+
+// Squad rating = average of each player's EFFECTIVE rating in the slot they occupy.
 export function squadOverall(squad: Squad): number | null {
-  const ids = Object.values(squad);
-  if (ids.length === 0) return null;
-  const sum = ids.reduce((s, id) => s + (playerById[id]?.rating ?? 0), 0);
-  return Math.round(sum / ids.length);
+  const slots = formation.filter((s) => squad[s.id]);
+  if (slots.length === 0) return null;
+  const sum = slots.reduce((acc, s) => acc + effectiveRating(playerById[squad[s.id]], s.pos), 0);
+  return Math.round(sum / slots.length);
+}
+
+// ---- drag-to-reposition: only a player's real positions are valid targets ----
+// Returns how a drop from one slot to another resolves, or null if illegal.
+export function moveResult(squad: Squad, fromId: string, toId: string): "move" | "swap" | null {
+  if (fromId === toId) return null;
+  const pid = squad[fromId];
+  if (!pid) return null;
+  const pl = playerById[pid];
+  const toDef = formation.find((s) => s.id === toId);
+  if (!toDef || !pl.positions.includes(toDef.pos)) return null; // player can't play target slot
+  const occ = squad[toId];
+  if (!occ) return "move";
+  const occPl = playerById[occ];
+  const fromDef = formation.find((s) => s.id === fromId)!;
+  if (!occPl.positions.includes(fromDef.pos)) return null; // occupant can't cover the vacated slot
+  return "swap";
+}
+
+export function applyMove(squad: Squad, fromId: string, toId: string): Squad {
+  const res = moveResult(squad, fromId, toId);
+  if (!res) return squad;
+  const next = { ...squad };
+  const moving = squad[fromId];
+  if (res === "move") {
+    next[toId] = moving;
+    delete next[fromId];
+  } else {
+    next[toId] = moving;
+    next[fromId] = squad[toId];
+  }
+  return next;
 }
 
 // How far your XI would go, by overall rating. Deliberately steep — "World Cup Winner"
@@ -182,9 +227,14 @@ export function needSummary(squad: Squad): { pos: SlotPos; left: number }[] {
   return order.filter((p2) => counts[p2]).map((p2) => ({ pos: p2, left: counts[p2]! }));
 }
 
-// First open slot this player can fill (by formation order).
-export const slotForPlayer = (squad: Squad, pl: Player): string | null =>
-  formation.find((s) => !squad[s.id] && pl.positions.includes(s.pos))?.id ?? null;
+// Open slot this player fills when drafted — their PRIMARY position first, then secondary.
+export function slotForPlayer(squad: Squad, pl: Player): string | null {
+  for (const pos of pl.positions) {
+    const s = formation.find((f) => f.pos === pos && !squad[f.id]);
+    if (s) return s.id;
+  }
+  return null;
+}
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
