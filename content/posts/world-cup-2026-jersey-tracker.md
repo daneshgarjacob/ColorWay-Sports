@@ -2,7 +2,7 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-06-28"
+updatedDate: "2026-06-29"
 excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, and Colombia's yellow vs Portugal's red each grab a 9, Sweden-Tunisia an 8.5, and the tournament averages 8.0 out of 10 through 71 matches. The Round of 32 opens with South Africa's gold vs Canada's black at 8. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
@@ -319,10 +319,10 @@ Belgium against New Zealand closes Group G as a high-contrast pairing that never
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
-        <img src="/images/posts/wc-iran-away.jpg" alt="Iran 2026 World Cup red Majid away jersey with tonal cheetah-print sleeves, tricolor flag trim, and the Team Melli crest, worn in the Group G match vs Egypt" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/wc-iran-home.png" alt="Iran 2026 World Cup Majid white home jersey with tricolor flag trim and a tonal cheetah-print on the sleeves, worn in the Group G match vs Egypt" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">IRAN</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Red</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Diran%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
@@ -338,10 +338,10 @@ Belgium against New Zealand closes Group G as a high-contrast pairing that never
 </div>
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 6 / 10</p>
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 7.5 / 10</p>
 </div>
 
-Iran against Egypt is a red-on-red Group G matchup with almost no separation between the two kits. Iran wear their red Majid away, the kit with the tonal cheetah-print sleeves and the tricolor flag trim, against Egypt in their red Puma home with the tonal geometric pattern and the Pharaohs crest. Two near-identical reds in the same matchup blur together on the broadcast, the shirts reading as one block of color from distance and giving the uniform pairing a real legibility problem rather than any contrast. Both jerseys are sharp on their own, but together they cancel each other out and land in tournament-low territory. Six out of 10.
+Iran against Egypt turns into a clean red-versus-white Group G pairing once Iran pull the white Majid home over the red change. Iran wear the white home shirt with the tricolor flag trim and the tonal cheetah-print on the sleeves, against Egypt in their red Puma home with the tonal geometric pattern and the Pharaohs crest. White against a saturated home red is one of the most dependable contrasts in the sport, the Iran whites staying crisp and legible while the Egypt red carries the broadcast pop. The tricolor trim and cheetah-print on Iran's sleeves keeps the white side from going plain, and the matchup lands in the same band as the round's other strong red-vs-white finals. Seven and a half out of 10.
 
 ## Match 62: Uruguay vs Spain
 
