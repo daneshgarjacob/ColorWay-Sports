@@ -189,10 +189,10 @@ export default function PrivacyPolicyPage() {
             <p>
               If you have any questions about this Privacy Policy, please contact us at{" "}
               <a
-                href="mailto:daneshgarjacob@gmail.com"
+                href="mailto:jake@colorwaysports.com"
                 className="text-orange hover:underline"
               >
-                daneshgarjacob@gmail.com
+                jake@colorwaysports.com
               </a>{" "}
               or through our{" "}
               <a href="/contact" className="text-orange hover:underline">

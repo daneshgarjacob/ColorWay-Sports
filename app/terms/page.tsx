@@ -126,10 +126,10 @@ export default function TermsPage() {
             <p>
               If you have questions about these Terms of Service, reach out at{" "}
               <a
-                href="mailto:daneshgarjacob@gmail.com"
+                href="mailto:jake@colorwaysports.com"
                 className="text-orange hover:underline"
               >
-                daneshgarjacob@gmail.com
+                jake@colorwaysports.com
               </a>{" "}
               or through our{" "}
               <a href="/contact" className="text-orange hover:underline">

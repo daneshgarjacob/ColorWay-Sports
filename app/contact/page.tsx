@@ -34,7 +34,7 @@ function ContactForm() {
       )}
 
       <form
-        action="https://formsubmit.co/daneshgarjacob@gmail.com"
+        action="https://formsubmit.co/jake@colorwaysports.com"
         method="POST"
         className="space-y-6 max-w-[600px] mx-auto"
       >
