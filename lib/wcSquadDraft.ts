@@ -25,7 +25,15 @@ const p = (name: string, positions: SlotPos[], flag: string, team: string, ratin
   rating,
 });
 
-export const pool: Player[] = [
+// Nations knocked out of the 2026 World Cup. As a team is eliminated, add its
+// exact `team` name here and every one of its players drops out of the draft pool,
+// so the deal always reflects only the nations still alive in the bracket.
+export const eliminatedTeams = new Set<string>([
+  "South Africa", // lost R32 to Canada (June 28)
+  "Japan",        // lost R32 to Brazil (June 29)
+]);
+
+const rawPool: Player[] = [
   // Goalkeepers
   p("Thibaut Courtois", ["GK"], "be", "Belgium", 90),
   p("Alisson", ["GK"], "br", "Brazil", 89),
@@ -118,6 +126,9 @@ export const pool: Player[] = [
   p("Nicolas Jackson", ["ST"], "sn", "Senegal", 80),
   p("Santiago Giménez", ["ST"], "mx", "Mexico", 80),
 ];
+
+// Only players from nations still alive in the knockout bracket are draftable.
+export const pool: Player[] = rawPool.filter((pl) => !eliminatedTeams.has(pl.team));
 
 export const playerById: Record<string, Player> = Object.fromEntries(pool.map((x) => [x.id, x]));
 

@@ -100,7 +100,7 @@ function TieCard({
     >
       {locked && (
         <div className="flex items-center justify-center gap-1.5 py-1 text-[9px] font-extrabold uppercase tracking-wider text-white" style={{ background: NAVY }}>
-          <span>Final</span><span className="opacity-60">·</span><span>{result!.score}</span>
+          <span>Final</span>{result!.score && (<><span className="opacity-60">·</span><span>{result!.score}</span></>)}
         </div>
       )}
       <TeamRow teamKey={pa} slot={tie.a} selected={chosen === pa && !!pa} clickable={clickable} onClick={() => pa && onPick(tie.id, pa)} compact={compact} dim={locked && chosen !== pa} lockedWin={locked && chosen === pa} />

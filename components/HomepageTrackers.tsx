@@ -131,7 +131,7 @@ export default function HomepageTrackers() {
                       style={{ background: t.gradient }}
                     >
                       <span style={{ color: "#ffffff", fontSize: 26, fontWeight: 800, lineHeight: 1.15, textAlign: "center", letterSpacing: "-0.01em" }}>
-                        Who should I root for?
+                        Fill out your bracket
                       </span>
                     </div>
                   )}

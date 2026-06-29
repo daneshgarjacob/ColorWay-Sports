@@ -4,9 +4,9 @@ import Footer from "@/components/Footer";
 import WorldCupSquadDraft from "@/components/WorldCupSquadDraft";
 import { decodeSquad, squadOverall, verdict, TOTAL_SLOTS } from "@/lib/wcSquadDraft";
 
-const DEFAULT_TITLE = "2026 World Cup Fantasy Draft Game: Build Your Dream XI From the Random Deal | ColorWay Sports";
+const DEFAULT_TITLE = "2026 World Cup Fantasy Draft Game: Build Your Dream Team Starting XI | ColorWay Sports";
 const DEFAULT_DESC =
-  "Play the free, interactive 2026 World Cup fantasy draft game. Get dealt five random stars across the positions you need, draft your dream XI, get an overall rating, and see how far your team would go in the World Cup.";
+  "Play the free, interactive 2026 World Cup fantasy draft game. Get dealt five random stars across the positions you need, build your dream team starting XI, get an overall rating, and see how far your team would go in the World Cup.";
 
 type SP = Promise<{ [key: string]: string | string[] | undefined }>;
 
@@ -39,13 +39,14 @@ export default function WorldCupFantasyDraftPage() {
       <main className="max-w-[820px] mx-auto px-5 py-12 sm:py-16">
         <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#2f6bed] mb-3">2026 World Cup · Interactive Fantasy Draft Game</p>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
-          Draft your 2026 World Cup dream XI
+          Draft Your 2026 World Cup Dream Team: Build a Starting XI
         </h1>
         <p className="text-gray-600 leading-relaxed mb-2">
           The group stage is over and the superstars are still standing. Build a 4-3-3 from the players whose teams are still
-          alive in the knockouts. Each turn we <strong>deal you five random stars across the positions you still need</strong> &mdash;
-          take the best player or fill a need, your call. When your XI is complete you get an overall rating and we tell you
-          <strong> how far your team would go in the World Cup</strong>.
+          alive in the knockouts. <strong>As soon as a nation is eliminated, its players come off the board</strong>, so the
+          pool always reflects who is still in the bracket. Each turn we <strong>deal you five random stars across the positions
+          you still need</strong> &mdash; take the best player or fill a need, your call. When your XI is complete you get an
+          overall rating and we tell you <strong>how far your team would go in the World Cup</strong>.
         </p>
         <p className="text-gray-400 text-sm mb-9">
           Watch the deck shuffle, spend your one re-roll wisely, and chase the holy grail: a team good enough to be crowned
@@ -95,7 +96,7 @@ export default function WorldCupFantasyDraftPage() {
             </div>
             <div>
               <p className="font-bold text-gray-800 mb-1">Which players can I draft?</p>
-              <p className="text-gray-600 leading-relaxed">The pool is the marquee names from the nations still alive in the 2026 World Cup knockout stage &mdash; players like Kylian Mbappé, Erling Haaland, Mohamed Salah, Lionel Messi, Lamine Yamal, and Jude Bellingham, sorted by position so your XI always makes sense.</p>
+              <p className="text-gray-600 leading-relaxed">The pool is the marquee names from the nations still alive in the 2026 World Cup knockout stage &mdash; players like Kylian Mbappé, Erling Haaland, Mohamed Salah, Lionel Messi, Lamine Yamal, and Jude Bellingham, sorted by position so your XI always makes sense. As teams are knocked out of the bracket, their players are removed from the draft, so you can only ever pick from nations that are still in the tournament.</p>
             </div>
             <div>
               <p className="font-bold text-gray-800 mb-1">How do I share my World Cup XI with friends?</p>
