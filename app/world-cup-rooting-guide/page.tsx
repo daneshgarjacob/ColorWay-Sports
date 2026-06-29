@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import WorldCupBracket from "@/components/WorldCupBracket";
 import { teams, decodePicks, flagEmoji } from "@/lib/wcBracket";
+
+const DEV_ONLY = process.env.NODE_ENV !== "development";
 
 const DEFAULT_TITLE = "2026 World Cup Bracket Predictor: Fill Out Your Interactive Knockout Bracket | ColorWay Sports";
 const DEFAULT_DESC =
@@ -13,6 +16,7 @@ type SP = Promise<{ [key: string]: string | string[] | undefined }>;
 // When a shared bracket link (?b=) is opened, set the preview title to the sharer's
 // champion pick + flag, so texts/social show "My pick to win is X 🏴" with a tap-through link.
 export async function generateMetadata({ searchParams }: { searchParams: SP }): Promise<Metadata> {
+  if (DEV_ONLY) return { title: "Not Found", robots: { index: false, follow: false } };
   const sp = await searchParams;
   const b = typeof sp?.b === "string" ? sp.b : undefined;
   if (b) {
@@ -33,6 +37,7 @@ export async function generateMetadata({ searchParams }: { searchParams: SP }): 
 }
 
 export default function WorldCupBracketPage() {
+  if (DEV_ONLY) notFound();
   return (
     <>
       <Header />

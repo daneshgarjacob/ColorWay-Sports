@@ -12,40 +12,9 @@ export const metadata: Metadata = {
   },
 };
 
-// Hand-built cards for the interactive World Cup tools. They're standalone pages,
-// not markdown posts, so we inject them here and pin them to the top of the grid
-// during the World Cup. They link out via `href`.
-const fantasyDraftCard = {
-  slug: "world-cup-fantasy-draft",
-  href: "/world-cup-fantasy-draft",
-  title: "2026 World Cup Fantasy Draft: Build Your Dream XI",
-  category: "Soccer",
-  date: "2026-06-28",
-  excerpt:
-    "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from the players still alive in the knockouts. Get your squad's overall rating, then send it to your friends.",
-  gradient: "linear-gradient(135deg, #0b3b2e 0%, #2f6bed 100%)",
-  coverImage: "/images/posts/world-cup-2026-fantasy-draft/cover.jpg",
-  league: "soccer",
-  teams: [] as string[],
-};
-
-const rootingGuideCard = {
-  slug: "world-cup-rooting-guide",
-  href: "/world-cup-rooting-guide",
-  title: "2026 World Cup Bracket Predictor: Fill Out Your Knockout Bracket",
-  category: "Soccer",
-  date: "2026-06-25",
-  excerpt:
-    "Tap to pick every knockout winner from the Round of 32 to the Final, watch real results lock in as games finish, see who your team could play next, and share your bracket. All 32 teams.",
-  gradient: "linear-gradient(135deg, #003087 0%, #2f6bed 100%)",
-  coverImage: "/images/world-cup-rooting-guide-cover.jpg",
-  league: "soccer",
-  teams: [] as string[],
-};
-
 export default function StoriesPage() {
   const posts = getAllPostsByDate();
-  const allCards = [fantasyDraftCard, rootingGuideCard, ...posts];
+  const allCards = posts;
 
   return (
     <>

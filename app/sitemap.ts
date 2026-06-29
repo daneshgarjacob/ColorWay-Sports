@@ -48,12 +48,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "yearly",
       priority: 0.3,
     },
-    {
-      url: "https://www.colorwaysports.com/world-cup-rooting-guide",
-      lastModified: new Date(),
-      changeFrequency: "daily",
-      priority: 0.8,
-    },
     ...postUrls,
   ];
 }
