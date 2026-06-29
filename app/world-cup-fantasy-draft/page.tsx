@@ -1,11 +1,8 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import WorldCupSquadDraft from "@/components/WorldCupSquadDraft";
 import { decodeSquad, squadOverall, verdict, TOTAL_SLOTS } from "@/lib/wcSquadDraft";
-
-const DEV_ONLY = process.env.NODE_ENV !== "development";
 
 const DEFAULT_TITLE = "2026 World Cup Fantasy Draft Game: Build Your Dream XI From the Random Deal | ColorWay Sports";
 const DEFAULT_DESC =
@@ -15,7 +12,6 @@ type SP = Promise<{ [key: string]: string | string[] | undefined }>;
 
 // A shared XI link (?xi=) sets the preview to the sharer's rating + how far their team goes.
 export async function generateMetadata({ searchParams }: { searchParams: SP }): Promise<Metadata> {
-  if (DEV_ONLY) return { title: "Not Found", robots: { index: false, follow: false } };
   const sp = await searchParams;
   const xi = typeof sp?.xi === "string" ? sp.xi : undefined;
   if (xi) {
@@ -37,7 +33,6 @@ export async function generateMetadata({ searchParams }: { searchParams: SP }): 
 }
 
 export default function WorldCupFantasyDraftPage() {
-  if (DEV_ONLY) notFound();
   return (
     <>
       <Header />

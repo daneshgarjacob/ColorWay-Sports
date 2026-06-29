@@ -20,6 +20,12 @@ featuredOrder: 1
 
 The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co-hosted by the United States, Canada, and Mexico across 16 host cities, with 104 matches across 39 days from June 11 through the Final on July 19, 2026. This is the running ColorWay Sports tracker grading every match kit and uniform pairing across the entire tournament. Every match gets a grade, every kit matchup gets analyzed, every Adidas, Nike, Puma, and other-brand reveal gets tracked. Live updates from kickoff in Group A through the Final.
 
+<a href="/world-cup-rooting-guide" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #003087 0%, #2f6bed 100%); border-radius: 16px; text-decoration: none;">
+  <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #bcd0f5; margin-bottom: 6px;">Interactive Tool</span>
+  <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">Fill out your World Cup bracket →</span>
+  <span style="display: block; font-size: 0.95em; line-height: 1.5; color: #dbe4f5; margin-top: 6px;">All 32 knockout teams are locked. Tap to pick winners from the Round of 32 to the Final, see who your team could play next, and share your bracket.</span>
+</a>
+
 ## What This Tracker Grades
 
 We grade every match kit and uniform pairing for visual contrast, color cohesion, and broadcast read. Each match gets a letter or numeric grade based on how the home team's chosen kit and the away team's chosen kit pair against the pitch, the broadcast frame, and each team's brand identity. We track every home kit + away kit decision at the group stage and through every knockout round, and we flag the games where one team's choice elevates or downgrades the pairing.
