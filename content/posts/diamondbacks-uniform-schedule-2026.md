@@ -2,6 +2,7 @@
 title: "Arizona Diamondbacks Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Arizona Diamondbacks run five uniforms in 2026 — home off-whites, road grays, the Sedona red alternate, the black alternate, and the purple-and-teal 'Serpientes' City Connect. Here's every jersey, when they wear it, and how the new teal-forward identity came together."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg"
@@ -116,6 +117,10 @@ It still works, because the one anchor covers the jersey fans actually plan arou
 One more constant across all five: every Diamondbacks jersey carries the **Avnet** advertising patch on the sleeve. Arizona became the third MLB team to sign a jersey-patch sponsor, debuting the deal with the Arizona-based technology distributor on Opening Day 2023, and it runs through 2026.
 
 ## Frequently Asked Questions
+
+**What jersey are the Arizona Diamondbacks wearing today?**
+
+Arizona only has one fixed slot, so the day and location are your best guide. The purple-and-teal "Serpientes" City Connect is worn for Friday home games at Chase Field. Beyond that Friday anchor there is no strict day-of-week script: the off-whites cover most home dates, the road grays cover most away games, and the Sedona red and black alternates are manager's choice, dropped in at home or on the road, often on a Saturday or giveaway night. If it is a Friday at home expect the City Connect, otherwise check home or away and assume the off-whites or grays.
 
 **How many uniforms do the Diamondbacks have in 2026?**
 Five: the home off-white, the road gray, the Sedona red alternate, the black alternate, and the purple-and-teal "Serpientes" City Connect. The set carried over from the 2024 overhaul, with only fabric and detail tweaks for 2026.

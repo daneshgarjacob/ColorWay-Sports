@@ -2,6 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,10 @@ It still works, because the anchor is the part fans care about. The Blues altern
 Two constants tie the whole 2026 closet together. Every jersey carries the **Motorola** "batwing" advertising patch — the first sponsor patch in franchise history, on the uniforms since August 2024 — and every jersey also wears the **150th anniversary** sleeve patch this season, a red "C" with "150" inside it framed by the years 1876 and 2026. It's a collector's-item year, and the sleeves make sure you know it.
 
 ## Frequently Asked Questions
+
+**What jersey are the Chicago Cubs wearing today?**
+
+The Cubs keep a loose closet with only one hard rule, so start with the day and the location. The powder-blue "Blues" alternate is worn at home on Fridays during the summer months, and that is the only fixed slot. Outside that Friday hook, home games are the white pinstripes and road games are the grays, with the royal-blue alternate dropped in at the manager's discretion. If it is a summer Friday at Wrigley, expect the Blues; otherwise check home or away and assume the pinstripes or grays.
 
 **How many uniforms do the Cubs have in 2026?**
 Four: the home white pinstripes, the road grays, the royal-blue alternate, and the powder-blue "Blues" alternate. There's no City Connect in the mix — the navy "Wrigleyville" City Connect was retired after the 2024 season.

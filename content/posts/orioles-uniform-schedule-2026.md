@@ -2,6 +2,7 @@
 title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
+updatedDate: "2026-06-29"
 excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
@@ -131,6 +132,10 @@ Most fans coming to a "uniform schedule" page expect a clean grid like the one t
 There are upsides to a loose system. The alternates stay fresh because you cannot fully predict them, and the team keeps the flexibility to match a uniform to the moment. The trade-off is that you lose the "every Thursday" anticipation that makes the Phillies rotation so satisfying to follow. For now, if you are planning a trip to Camden Yards and you want a specific jersey, Friday is your safest bet for the new cream "BMORE" City Connect. Everything else is a pleasant surprise.
 
 ## Frequently Asked Questions
+
+**What jersey are the Baltimore Orioles wearing today?**
+
+The Orioles run a loose rotation with one firm rule: the new cream "BMORE" City Connect on every Friday home game. Beyond that there is no day-by-day script, so any other home game is the team's choice between the home whites, the orange alternate, or the black alternate, with the rare orange-on-orange combo a few times a year. Road games use the gray "Baltimore" jerseys. Check the day of week and whether they are home: a Friday home game means the City Connect, otherwise the home whites are the safest bet and the alternates are a game-time call.
 
 **What is the Baltimore Orioles City Connect uniform for 2026?**
 

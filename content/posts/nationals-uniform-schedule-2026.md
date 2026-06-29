@@ -2,6 +2,7 @@
 title: "Washington Nationals Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Washington Nationals run five uniforms in 2026 — the script 'Nationals' home white, the 'WASHINGTON' road gray, the red 'curly W' alternate, the navy alternate, and the denim-blue 'District Blueprint' City Connect that replaced the old Cherry Blossom kit. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
 coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,9 @@ It still works, because the one anchor covers the jersey fans actually plan arou
 One more constant across all five: every Nationals jersey now carries the **AARP** advertising patch on the sleeve, the franchise's first-ever jersey sponsor, which arrived midway through the 2025 season. It's recolored to sit cleanly on each jersey across the set — the Nats' debut entry into the jersey-ad era MLB opened up in 2023.
 
 ## Frequently Asked Questions
+
+**What jersey are the Washington Nationals wearing today?**
+The one fixed habit is the denim-blue "District Blueprint" City Connect on Friday and Saturday home games. Outside of that the Nationals do not run a daily script, so the script "Nationals" home white covers most other home games, the "WASHINGTON" road gray covers most away games, and the red "curly W" and navy alternates are manager's choice that can show up any day at home or on the road. Check the day of week and whether they are home: a Friday or Saturday home game means the City Connect, otherwise expect the home white at home or the road gray on the trip.
 
 **How many uniforms do the Nationals have in 2026?**
 Five: the script "Nationals" home white, the "WASHINGTON" road gray, the red "curly W" alternate, the navy alternate, and the denim-blue "District Blueprint" City Connect. The set carried over from 2025, with the main 2026-era change being the AARP sleeve patch that now appears on all of them.

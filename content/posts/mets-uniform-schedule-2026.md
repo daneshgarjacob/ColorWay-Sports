@@ -2,6 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -127,6 +128,9 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 One more constant across all five: every Mets jersey carries the **NewYork-Presbyterian** advertising patch — a blue rectangle outlined in orange — on the sleeve, with placement flipped based on a batter's handedness to keep it facing the cameras. And for 2026, all five also wear the black "DAVEY" strip above the sleeve logo, a season-long tribute to Davey Johnson.
 
 ## Frequently Asked Questions
+
+**What jersey are the New York Mets wearing today?**
+The Mets only have two fixed days, both at home: the black alternate on Friday home games and the gray "NYC" City Connect on Saturday home games. Everything else is manager's choice rather than a daily script, so the home white pinstripes cover most other home games, the road grays cover most away games, and the blue alternate can pop up on any day, usually on the road. Check the day of week and whether they are home: if it is a Friday or Saturday home game you can count on the anchor, otherwise expect the pinstripes at home or the grays on the road.
 
 **How many uniforms do the Mets have in 2026?**
 Five: the home white pinstripes, the road grays, the blue alternate, the black alternate, and the gray "NYC" City Connect. The set carried over from 2025, with only detail changes for 2026 — a "DAVEY" memorial patch and the restored road "NEW YORK" lettering size.

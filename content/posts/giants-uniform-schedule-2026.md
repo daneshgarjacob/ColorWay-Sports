@@ -2,6 +2,7 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
+updatedDate: "2026-06-29"
 excerpt: >-
   The Giants have six uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
@@ -137,6 +138,10 @@ The rest of the schedule is more flexible. The home white and the cream alternat
 Six uniforms, three standing themed days, and a closet that finally has a fresh piece in the Gigantes alternate. It is a strong year for the look of this team.
 
 ## Frequently Asked Questions
+
+**What jersey are the San Francisco Giants wearing today?**
+
+The Giants run three locked themed days at home, so the day of the week tells you a lot. At Oracle Park, Tuesday is the music City Connect, Friday is the Orange Friday alternate, and Saturday is the new Gigantes alternate. The home white and cream alternate split the remaining home dates at the staff's discretion, and on the road it is the road gray every time since the themed days do not travel. Check the day and whether they are home or away, and the three Tuesday-Friday-Saturday hooks will usually give you the look.
 
 **Is the Giants "Gigantes" uniform a City Connect?**
 

@@ -2,6 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -114,6 +115,9 @@ Let's be straight about it: the Brewers are not a scheduled-rotation team the wa
 It still works, because the anchors cover the jerseys fans actually plan around. The ball-in-glove is the heart of the brand and the City Connect is the one people buy tickets and merch to see, so handing each a standing slot builds anticipation even without a rigid system. The cream and the pinstripes are perfectly content to handle the quiet day-to-day work in between.
 
 ## Frequently Asked Questions
+
+**What jersey are the Milwaukee Brewers wearing today?**
+The Brewers run more on feel than a fixed timetable, but there are two soft anchors: the navy ball-in-glove alternate on Sundays, home and away, and the "Wisco" City Connect on Friday home games. On the road most other days they wear the new powder blue set, since the gray road uniforms are retired. At home the cream and the white pinstripe trade off through the homestand with no fixed rule. Check whether it is a Sunday or a Friday home game first, and otherwise expect powder blue on the road or cream or pinstripes at home.
 
 **How many uniforms do the Brewers have in 2026?**
 Five: the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the "Wisco" City Connect. The traditional road grays were retired ahead of 2026.

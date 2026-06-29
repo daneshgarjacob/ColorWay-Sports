@@ -2,6 +2,7 @@
 title: "Minnesota Twins Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Minnesota Twins run five uniforms in 2026 — home whites, road pinstripe grays, the redesigned navy 'Twins' alternate, the cream 'Twin Cities' alternate, and the blue 'Ripple Effect' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,9 @@ It still works, because the City Connect is the jersey fans actually plan around
 One more note on the set as a whole: the 2026 closet is the most cohesive the Twins have fielded in years. Kasota gold threads through the trim and accents on every piece, tying the navy, the scarlet, the cream, and the lake-blue City Connect back to a single design language — the real payoff of the 2023 overhaul.
 
 ## Frequently Asked Questions
+
+**What jersey are the Minnesota Twins wearing today?**
+The Twins do not run a strict day-by-day system, so most of it is manager's choice. The one soft anchor is the blue "Ripple Effect" City Connect, which tends to own Friday home games at Target Field. Otherwise the home default is the white jersey and the road default is the pinstripe grays, with the navy alternate and the cream "Twin Cities" alternate dropped in by feel, the navy mostly on the road and the cream mostly at home. Check the day and whether the team is home or away, and lean City Connect on a Friday home night.
 
 **How many uniforms do the Twins have in 2026?**
 Five: the home white, the road pinstripe gray, the navy alternate, the cream "Twin Cities" alternate, and the blue "Ripple Effect" City Connect. The set carried over from 2025, with the navy alternate redesigned to read "Twins" and a new "MIN" sleeve patch added to the road grays for 2026.

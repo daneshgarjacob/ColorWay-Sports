@@ -2,6 +2,7 @@
 title: 'Kansas City Royals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
+updatedDate: "2026-06-29"
 excerpt: >-
   The Royals run a five-jersey uniform rotation in 2026, anchored by City
   Connect Fridays and powder blue Saturdays. We break down every jersey and
@@ -120,6 +121,10 @@ The Royals do not run the kind of rigid, every-day-has-a-jersey system that a fe
 Friday means City Connect. Saturday means powder blue. Those two pieces give fans something to count on and circle on the calendar, which is the whole point of building a rotation in the first place. The home whites and road grays cover the everyday business, and the royal blue alternate stays in reserve for whenever the club wants a change of pace. It is not the most regimented closet in baseball, but with the new "Forever Fountains" set leading the way and the powder blue holding down Saturdays, the Royals have a uniform lineup that is genuinely fun to follow in 2026.
 
 ## Frequently Asked Questions
+
+**What jersey are the Kansas City Royals wearing today?**
+
+Check the day of the week and whether the Royals are home or away. The two fixed anchors are the "Forever Fountains" City Connect on Friday home games and the powder blue full set on Saturday home games (and Opening Day) at Kauffman Stadium. Outside of those, the home default is the white jersey and the road default is the gray, with the royal blue alternate worn at the team's discretion. So if it is a Friday or Saturday home game you know the look, and most other days come down to home white or road gray.
 
 **What is the Kansas City Royals City Connect uniform for 2026?**
 

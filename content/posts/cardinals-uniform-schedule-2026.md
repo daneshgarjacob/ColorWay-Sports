@@ -2,6 +2,7 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
+updatedDate: "2026-06-29"
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
   down all five looks and exactly when each jersey is worn in 2026.
@@ -123,6 +124,10 @@ When you know that Friday at home means "The Lou," Saturday at home means the cr
 The Cardinals have five uniforms that all serve a purpose. The home white is the classic. The road gray is the workhorse. The cream is the vintage Saturday look at home. The powder blue is the Saturday throwback on the road. And "The Lou" is the Friday-night statement. Every jersey has its lane, and none of them step on each other. More teams should take notes.
 
 ## Frequently Asked Questions
+
+**What jersey are the St. Louis Cardinals wearing today?**
+
+The Cardinals run a strict day-of-week system, so the day and the location tell you the look. At home, Friday is "The Lou" red City Connect, Saturday is the cream alternate, and every other home game is the home white. On the road, Saturday is the powder-blue "Victory Blue" alternate and every other away game is the road gray. Check whether they are home or away and what day it is, and you can call the jersey before the lineup card is posted.
 
 **When do the St. Louis Cardinals wear their red City Connect uniform in 2026?**
 

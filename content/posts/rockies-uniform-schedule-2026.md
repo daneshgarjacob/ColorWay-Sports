@@ -2,6 +2,7 @@
 title: "Colorado Rockies Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Colorado Rockies run four uniforms in 2026 — home white pinstripes, road grays, the purple alternate, and the day-to-night City Connect. Here's every jersey, when they wear it, and why the black vest still isn't back."
 gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"
@@ -110,6 +111,9 @@ Be honest about it: Colorado's system is built on two anchors and a lot of defau
 It still works, because the anchors cover the jerseys fans actually plan around. Purple Mondays are a years-long tradition that fans recognize on sight, and the City Connect is the look people buy tickets and merch to see, so handing each one a standing slot builds anticipation even in a four-jersey closet. The pinstripes and grays are perfectly content to handle the quiet work in between.
 
 ## Frequently Asked Questions
+
+**What jersey are the Colorado Rockies wearing today?**
+Check the day of the week and whether the Rockies are home or away. The two fixed hooks are the purple alternate on Mondays and the day-to-night City Connect on Friday home games at Coors Field. Most other home games are the white pinstripes, and the road default is the gray set. The purple alternate can also float onto other days, so Monday and Friday home are your only locks.
 
 **How many uniforms do the Rockies have in 2026?**
 Four: the home white pinstripes, the road grays, the purple alternate, and the day-to-night City Connect. There's no cream or second dark alternate in the regular rotation, which makes it one of the leaner closets in the National League.

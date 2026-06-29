@@ -2,6 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: Road Grays Gone, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Los Angeles Angels cut their road grays at the start of the 2026 season — the 'Los Angeles' wordmark and all — and have worn just three uniforms ever since: the home whites, the red 'Angels' jersey that's now their everyday road look, and the cream surf-themed City Connect. Here's every jersey, when they wear it, and why red is the team's default."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -115,6 +116,9 @@ It still works, because the parts fans care about are the parts that stay consis
 One more note on what's *not* in the closet: the Angels don't carry a separate navy or throwback alternate in the current rotation. They do wear a jersey advertising patch, though — the **Foundation Building Materials (FBM)** mark, a cypress-tree logo in Angels red and blue, has been on the sleeve since 2023 under a deal that runs through 2026. The three-jersey set — white, red, and cream City Connect — is the whole wardrobe now that the road grays are retired.
 
 ## Frequently Asked Questions
+
+**What jersey are the Los Angeles Angels wearing today?**
+The Angels do not run a fixed day-of-week script, so the safest bet is the red "Angels" jersey, which is their most-worn shirt and their full-time road look now that the grays are retired. The one soft anchor is the cream surf-themed City Connect on Friday home games. On other home dates you will see either the home whites or the red alternate, with red surfacing more often than not. Check whether the Angels are home or away and whether it is a Friday, and assume red any time you are unsure.
 
 **How many uniforms do the Angels have in 2026?**
 Three: the home white, the red "Angels" jersey, and the cream surf-themed City Connect. The Angels dropped their road grays for 2026, trimming the closet from four uniforms to three.

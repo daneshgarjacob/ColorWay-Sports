@@ -2,6 +2,7 @@
 title: "Cleveland Guardians Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Cleveland Guardians run five uniforms in 2026 — home whites, road grays, the red alternate, the navy alternate, and the 'CLE' City Connect built from the Guardians of Traffic statues. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,10 @@ It still works, because the anchor covers the jersey fans actually plan around. 
 One more constant across all five: every Guardians jersey carries the **Marathon** advertising patch on the sleeve. The Endurance logo of the Ohio-based fuel-and-convenience brand first appeared in July 2023, making Cleveland one of the early MLB clubs to sell jersey-patch space, and the deal runs on through the end of the 2026 season.
 
 ## Frequently Asked Questions
+
+**What jersey are the Cleveland Guardians wearing today?**
+
+Cleveland keeps a loose closet with just one soft anchor, so the day and location are the best guide. The navy "CLE" City Connect is worn on Friday home games at Progressive Field. Beyond that there is no fixed day-of-week system: the home whites cover most home dates, the road grays cover most away games, and the red and navy alternates are manager's choice, with red usually at home and navy usually on the road. If it is a Friday at home expect the City Connect, otherwise check home or away and assume the whites or grays.
 
 **How many uniforms do the Guardians have in 2026?**
 Five: the home white, the road gray, the red alternate, the navy alternate, and the navy "CLE" City Connect. The set carried over unchanged from 2025, the year Cleveland overhauled the closet with new piping, a horizontal "Guardians" script, and a new home cap.

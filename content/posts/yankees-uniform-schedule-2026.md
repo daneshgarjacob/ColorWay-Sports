@@ -2,6 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
+updatedDate: "2026-06-29"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
@@ -106,6 +107,23 @@ Most MLB teams have four or five uniforms in active rotation across a season, wi
 The Yankees do the opposite. The team has never participated in the City Connect program. The team did not wear Players' Weekend nicknames in 2019 when the rest of the league did. The team has never worn Turn Ahead the Clock or Negro Leagues throwback alternates. The team's All-Star patch placement and World Series patches are the only seasonal additions the franchise allows. The Yankees uniform schedule is a deliberate choice to keep the visual identity locked in across decades.
 
 A child watching a Yankees game in 2026 sees the same look on Aaron Judge that their grandparents saw on Mickey Mantle. That continuity is the brand. The simplicity of the schedule is the schedule.
+
+## Frequently Asked Questions
+
+**What jersey are the New York Yankees wearing today?**
+This one is easy: home games mean the home pinstripes, and road games mean the road grays. The Yankees do not run alternates, City Connects, or day-of-week looks, so the only thing you need to know is whether the team is home or away. The navy alternate road jersey exists in the closet but has not been worn in a regular season game. So if the Yankees are home it is pinstripes, and if they are away it is grays.
+
+**Why don't the Yankees have alternate jerseys?**
+It is a deliberate branding choice. Home pinstripes and road grays have been the entire visual identity for over a century, and the team treats that continuity as the brand itself. Adding extra looks would erase part of what makes the Yankees distinct, so they keep the rotation to a simple home-or-road switch.
+
+**Do the Yankees have a City Connect uniform?**
+No. The Yankees are one of the few teams that have never participated in MLB's City Connect program. They also skipped Players' Weekend nicknames in 2019 and have never worn Turn Ahead the Clock or Negro Leagues throwback alternates.
+
+**Do the Yankees wear names on the back of their jerseys?**
+No. Neither the home pinstripes nor the road grays carry a player name on the back, and the navy alternate shows only the player number in grey and white. The nameless back is a longstanding part of the Yankees' identity.
+
+**What is the Yankees navy alternate jersey?**
+It is the first alternate uniform in the 123-year history of the franchise, reclassified from a Spring Training Road Uniform to an official Alternate Road Uniform before the 2026 season. It carries NEW YORK across the chest in grey lettering with white trim, but the Yankees have not worn it in a regular season game.
 
 ## More MLB Uniform Coverage
 

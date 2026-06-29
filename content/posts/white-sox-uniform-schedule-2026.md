@@ -2,6 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,9 @@ It still works, because the staples carry the load and the City Connect is the p
 One more constant across all five: for the first time in franchise history, every White Sox jersey carries a sleeve advertising patch in 2026 — the **CME Group** logo, recolored to match whichever uniform it sits on. The deal was announced in late January 2026, and the team framed it as a partnership with a fellow Chicago institution rather than a flashy branding grab.
 
 ## Frequently Asked Questions
+
+**What jersey are the Chicago White Sox wearing today?**
+The White Sox do not run a fixed day-of-week system, so check whether the team is home or away first. The two recognizable defaults are the home white pinstripes for most home games and the road grays on the trip. The black alternate tends to surface on weekend home nights, and the red Bulls-inspired City Connect is tied to specific promotional dates rather than a standing weekday, so it can land on almost any home game. If it is a weekend home night, the black alternate is a good bet, otherwise expect home pinstripes at home and grays on the road.
 
 **How many uniforms do the White Sox have in 2026?**
 Five, under MLB's "4+1" rule: the home white pinstripes, the road grays, the black alternate, the charcoal "Southside" alternate, and the new red Bulls-inspired City Connect. For 2026 all five also carry the new CME Group sleeve patch.

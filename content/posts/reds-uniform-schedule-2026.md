@@ -2,6 +2,7 @@
 title: "Cincinnati Reds Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Cincinnati Reds run five uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #C6011F 0%, #000000 50%, #C6011F 100%)"
 coverImage: "/images/posts/reds-uniform-schedule-2026/cover.jpg"
@@ -110,6 +111,9 @@ Let's be straight about it: the Reds are not a strict scheduled-rotation team th
 It still works, because the two anchors cover the jerseys fans actually plan around. The pair of City Connects are the looks people buy tickets and merch for, so handing each one a standing weekend night builds anticipation even without a rigid system. The pinstripes and grays are perfectly content to handle the quiet weekday work in between, and the red alternate stays a little special precisely because it isn't pinned to a day.
 
 ## Frequently Asked Questions
+
+**What jersey are the Cincinnati Reds wearing today?**
+The Reds have two firm weekend hooks at home. Friday home games are the original black "C" City Connect, and Saturday home games are the new all-red City Connect 2.0. Any other home game is most likely the white pinstripes, and most road games are the gray "CINCINNATI" set. The solid red alternate has no fixed day and usually appears at home, often on a Sunday. Check the day of the week and whether the Reds are home or away to figure out today's look.
 
 **How many uniforms do the Reds have in 2026?**
 Five: the home white pinstripes, the road grays, the red alternate, the new all-red City Connect, and the original black "C" City Connect. The jump from four to five came when Cincinnati added the red City Connect 2.0 in April 2026 and kept the older black set as a Friday alternate.

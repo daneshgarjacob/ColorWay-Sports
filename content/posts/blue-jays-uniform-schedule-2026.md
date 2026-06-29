@@ -2,6 +2,7 @@
 title: "Toronto Blue Jays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Toronto Blue Jays carry six uniforms in 2026 — home whites, road grays, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the 'Night Mode' City Connect. Here's every jersey, when they wear it, and why the blues do most of the work."
 gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
@@ -116,6 +117,9 @@ It still works, because the looks fans care about get plenty of air. The two blu
 One more note, since fans often ask: the Blue Jays *do* carry a jersey advertising patch — the **TD Bank** mark they've worn on the left sleeve since 2023, which remains in place for 2026. It's joined on the right sleeve by the **50th season** commemorative patch across the set — and on the City Connect, that 50th mark moves up to the cap.
 
 ## Frequently Asked Questions
+
+**What jersey are the Toronto Blue Jays wearing today?**
+Toronto does not follow a fixed day-of-week script, but it leans hard on blue, so the royal-blue or powder-blue alternate is the most likely look on any given day, home or away. The two firm rules are the "Night Mode" City Connect for home night games and the red kit reserved for the July 1 Canada Day home game. The home whites and road grays appear less often than for most clubs, filling in around the blues. Check whether it is a home night game or July 1 first, and otherwise expect some shade of blue.
 
 **How many uniforms do the Blue Jays have in 2026?**
 Six: the home white, the road gray, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the "Night Mode" City Connect. The on-field set carried over from 2025; what's new for 2026 is a commemorative 50th-season patch on the right sleeve of every jersey except the City Connect.

@@ -2,6 +2,7 @@
 title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the One That's Gone"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
@@ -131,6 +132,9 @@ It still works, because the anchors are the parts fans care about. The two City 
 One more constant: all five jerseys carry the **MassMutual** advertising patch on the sleeve. Boston was the very first MLB team to wear an in-game jersey ad, back on Opening Day 2023, and the deal runs on through 2026.
 
 ## Frequently Asked Questions
+
+**What jersey are the Boston Red Sox wearing today?**
+The Red Sox have three hard anchors built around Friday and Saturday. Friday home games at Fenway are the Fenway Green City Connect, Friday road games are the red alternate, and Saturday home games are the yellow "Marathon" City Connect. Any other home game is the home whites, and the rest of the road trip is the gray "BOSTON" set. Check the day of the week and whether the team is home or away, since Friday and Saturday are where the answer actually changes.
 
 **How many uniforms do the Red Sox have in 2026?**
 Five: the home white, the road gray, the red alternate, the yellow "Marathon" City Connect, and the new Fenway Green City Connect. The old navy alternate was retired after the 2024 season.

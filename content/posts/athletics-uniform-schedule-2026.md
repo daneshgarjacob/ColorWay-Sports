@@ -2,6 +2,7 @@
 title: "Athletics Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Athletics carry four uniforms in 2026 — home whites, road grays, the kelly green alternate, and the brand-new gold 'Sacramento' alternate. Here's every jersey, when they wear it, and why the team has no city name on its chest."
 gradient: "linear-gradient(135deg, #006341 0%, #EFB21E 50%, #006341 100%)"
 coverImage: "/images/posts/athletics-uniform-schedule-2026/cover.jpg"
@@ -123,6 +124,9 @@ It still works, because the anchors are the parts fans care about. The kelly gre
 One more constant: all four jerseys carry both the Sacramento Tower Bridge sleeve patch and the Las Vegas Convention & Visitors Authority patch at the same time, one on each sleeve — a permanent pairing rather than an either/or. It's the wardrobe equivalent of the franchise's whole 2026 — honoring the city it's in while advertising the one it's headed to.
 
 ## Frequently Asked Questions
+
+**What jersey are the Athletics wearing today?**
+The A's have two reliable home anchors: the kelly green alternate on Friday home games and the gold "Sacramento" alternate on Saturday home games. On other home dates they wear the home whites, and on the road they default to the gray "Athletics" set. The gold "Sacramento" top can also surface on other days at home or on the road when players choose it, so it is not strictly limited to Saturdays. Check whether it is a Friday or Saturday home game first, and otherwise assume whites at home or grays on the road.
 
 **How many uniforms do the Athletics have in 2026?**
 Four: the home white, the road gray, the kelly green alternate, and the new gold "Sacramento" alternate. The previous gold "A's" jersey was retired and replaced by the Sacramento design.

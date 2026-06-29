@@ -2,6 +2,7 @@
 title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-04-06'
+updatedDate: "2026-06-29"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -144,6 +145,23 @@ When you know that Thursday means powder blues and Friday means City Connect, it
 The Phillies have five uniforms that all serve a purpose. The pinstripes are the classic. The creams are the vintage daytime look. The powder blues are the weekly throwback. The City Connects are the Friday night special. And the road grays are the away uniform. Every jersey has its lane, and none of them step on each other.
 
 More teams should take notes.
+
+## Frequently Asked Questions
+
+**What jersey are the Philadelphia Phillies wearing today?**
+The Phillies run a strict scheduled rotation, so the day of the week tells you almost everything at home. Home night games are the red pinstripes, except Thursdays (powder blues) and Fridays (City Connect). Home day games are the creams, except Thursdays. Thursday home games are always the powder blues, and Friday night home games are the City Connect. Every road game is the gray road uniform. Check whether the Phillies are home or away, then the day and whether it's a day or night game, and you'll know exactly what they're wearing.
+
+**How many uniforms do the Phillies have in 2026?**
+Five: the red pinstripes, the cream alternates, the powder blues, the City Connect, and the road grays. All five carry the Independence Blue Cross (IBX) sleeve patch and a chain-stitched wordmark for 2026.
+
+**What is the Phillies uniform rotation by day?**
+At home, night games are the red pinstripes and day games are the creams, with two exceptions: every Thursday home game is the powder blues, and every Friday night home game is the City Connect. The home opener is always the red pinstripes regardless of day or time. On the road, the Phillies wear the gray road uniform every game.
+
+**When do the Phillies wear the powder blues, creams, and City Connect?**
+The powder blues with maroon caps are worn on Thursdays at Citizens Bank Park. The creams are worn for daytime home games, excluding Thursdays. The City Connect, a midnight navy design with "Philly" lettering, is worn on Friday night home games.
+
+**Are the Phillies wearing an All-Star Game patch in 2026?**
+Yes. The Phillies wear an All-Star Game logo on both their caps and sleeves throughout the entire 2026 season, since the Midsummer Classic is coming to Citizens Bank Park on July 14.
 
 ## More MLB Coverage
 

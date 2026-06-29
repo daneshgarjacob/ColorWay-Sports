@@ -2476,6 +2476,10 @@ The 2026 FIFA World Cup is the biggest jersey and uniform tracker opportunity of
 
 ## Frequently Asked Questions
 
+**What jersey is each team wearing in their World Cup match today?**
+
+We log the exact home or away kit each team wears in every 2026 World Cup match the day it is played, so the fastest way to see what a team is wearing today is to find that match on the tracker above. Each match card shows both teams' kits, the color matchup, and our grade. We update it every day a match is played through the Final on July 19, so it stays current for whatever is on the schedule that day.
+
 **When does the 2026 FIFA World Cup start and end?**
 
 The 2026 FIFA World Cup runs from June 11, 2026 (Opener) through July 19, 2026 (Final). The Opener is Mexico vs South Africa at Estadio Azteca in Mexico City, and the Final is at MetLife Stadium in East Rutherford, New Jersey. The tournament runs 39 days end to end and covers 104 matches across 16 host cities in three host countries.

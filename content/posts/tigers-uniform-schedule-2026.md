@@ -2,6 +2,7 @@
 title: "Detroit Tigers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
+updatedDate: "2026-06-29"
 excerpt: "The Detroit Tigers run five uniforms in 2026 — home whites, road grays, the brand-new orange home alternate, the navy road alternate, and the Motor City City Connect. Here's every jersey, when they wear it, and why the franchise wore orange for the first time in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #FA4616 50%, #0C2340 100%)"
 coverImage: "/images/posts/tigers-uniform-schedule-2026/cover.jpg"
@@ -112,6 +113,9 @@ It still works because the anchors are the parts fans care about. The orange jer
 One more constant: the home and road jerseys carry the **Meijer** advertising patch on the sleeve. The Michigan grocer became the Tigers' first-ever uniform-ad partner when the deal was announced in May 2023, and the patch is rendered in team colors — blue on the white home, white on the navy road — to blend into each look rather than shout.
 
 ## Frequently Asked Questions
+
+**What jersey are the Detroit Tigers wearing today?**
+Check the day of the week and whether the Tigers are home or away. The two fixed anchors are the orange home alternate on Friday home games and the Motor City City Connect on select Monday home games at Comerica Park. Most other home games are the home whites, and the road default is the gray set, with the navy alternate sprinkled into select road games at the team's discretion. So Friday home means orange and a Monday home night can mean City Connect, while everything else comes down to home white or road gray.
 
 **How many uniforms do the Tigers have in 2026?**
 Five: the home white, the road gray, the new orange home alternate, the new navy road alternate, and the Motor City City Connect. The two alternates were unveiled in February 2026 and are the first major additions to the closet in years.
