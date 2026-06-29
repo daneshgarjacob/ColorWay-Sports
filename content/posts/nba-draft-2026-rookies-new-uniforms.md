@@ -15,7 +15,7 @@ featuredOrder: 1
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WashWizards/status/2070533865978966332"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA/status/2071635169992225078"></a></blockquote>
 </div>
 
 The 2026 NBA Draft is in the books, and the fun part for us starts now: seeing every new pick in their new team jersey and uniform for the first time. This is the running ColorWay Sports tracker for the rookie class of 2026, matching all 30 first-round picks to the team colorway they just stepped into. We lead each pick with the team's official welcome post so you can see the jersey on the player, and we will swap in the real on-court uniform shots as Las Vegas Summer League tips off in July.
