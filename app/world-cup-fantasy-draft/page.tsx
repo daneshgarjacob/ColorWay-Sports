@@ -48,11 +48,11 @@ export default function WorldCupFantasyDraftPage() {
           the best team you can.
         </div>
         <p className="text-gray-600 leading-relaxed mb-2">
-          The group stage is over and the superstars are still standing. Build a 4-3-3 from the players whose teams are still
-          alive in the knockouts. <strong>As soon as a nation is eliminated, its players come off the board</strong>, so the
-          pool always reflects who is still in the bracket. Each turn we <strong>deal you five random stars across the positions
-          you still need</strong> &mdash; take the best player or fill a need, your call. When your XI is complete you get an
-          overall rating and we tell you <strong>how far your team would go in the World Cup</strong>.
+          The group stage is over and the superstars are in. Build a 4-3-3 from the marquee names across every nation that
+          made the Round of 32. <strong>Eliminated teams stay in the pool</strong>, so a Japan, a Germany, or a Netherlands
+          star is still draftable even after their country goes out. Each turn we <strong>deal you five random stars across the
+          positions you still need</strong> &mdash; take the best player or fill a need, your call. When your XI is complete
+          you get an overall rating and we tell you <strong>how far your team would go in the World Cup</strong>.
         </p>
         <p className="text-gray-400 text-sm mb-9">
           Watch the deck shuffle, spend your one re-roll wisely, and chase the holy grail: a team good enough to be crowned
@@ -102,7 +102,7 @@ export default function WorldCupFantasyDraftPage() {
             </div>
             <div>
               <p className="font-bold text-gray-800 mb-1">Which players can I draft?</p>
-              <p className="text-gray-600 leading-relaxed">The pool is the marquee names from the nations still alive in the 2026 World Cup knockout stage &mdash; players like Kylian Mbappé, Erling Haaland, Mohamed Salah, Lionel Messi, Lamine Yamal, and Jude Bellingham, sorted by position so your XI always makes sense. As teams are knocked out of the bracket, their players are removed from the draft, so you can only ever pick from nations that are still in the tournament.</p>
+              <p className="text-gray-600 leading-relaxed">The pool is the marquee names from every nation that reached the 2026 World Cup Round of 32 &mdash; players like Kylian Mbappé, Erling Haaland, Mohamed Salah, Lionel Messi, Lamine Yamal, and Jude Bellingham, sorted by position so your XI always makes sense. Eliminated teams stay in the pool, so you can still draft a Japan, a Germany, or a Netherlands star even after their country goes out.</p>
             </div>
             <div>
               <p className="font-bold text-gray-800 mb-1">How do I share my World Cup XI with friends?</p>

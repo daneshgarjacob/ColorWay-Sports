@@ -22,7 +22,7 @@ const fantasyDraftCard = {
   category: "Soccer",
   date: "2026-06-28",
   excerpt:
-    "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from the players still alive in the knockouts. Get your squad's overall rating, then send it to your friends.",
+    "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from every nation that made the Round of 32 — eliminated teams stay in the pool. Get your squad's overall rating, then send it to your friends.",
   gradient: "linear-gradient(135deg, #0b3b2e 0%, #2f6bed 100%)",
   coverImage: "/images/posts/world-cup-2026-fantasy-draft/cover.jpg",
   league: "soccer",

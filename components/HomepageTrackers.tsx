@@ -38,7 +38,7 @@ const trackers: TrackerCard[] = [
     href: "/world-cup-fantasy-draft",
     kicker: "Soccer · 2026 World Cup · Interactive Game",
     title: "2026 World Cup Fantasy Draft: Build Your Dream XI",
-    dek: "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from the players still alive in the knockouts. Watch the deck shuffle, use your one re-roll wisely, then send your team to your friends.",
+    dek: "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from every nation that made the Round of 32 — eliminated teams stay in the pool. Watch the deck shuffle, use your one re-roll wisely, then send your team to your friends.",
     status: "New · Interactive",
     grade: "A",
     image: "/images/posts/world-cup-2026-fantasy-draft/cover.jpg",
