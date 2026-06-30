@@ -46,10 +46,13 @@ function Flag({ code, h = 16 }: { code: string; h?: number }) {
   );
 }
 
+// Empty future slots show who could arrive. Kept short (no "Winner of" prefix) so
+// it never clips in the narrow desktop bracket columns: the two feeder teams when
+// it is the next round, otherwise a count of how many teams are still in contention.
 function placeholderText(slot: Slot): string {
   const leaves = slotLeaves(slot);
-  if (leaves.length <= 4) return `Winner of ${leaves.join(" / ")}`;
-  return `Winner — ${leaves.length} teams left`;
+  if (leaves.length <= 2) return leaves.join(" / ");
+  return `${leaves.length} teams left`;
 }
 
 function TeamRow({
@@ -241,8 +244,8 @@ export default function WorldCupBracket() {
           </div>
         </div>
       ) : (
-        <div className="rounded-2xl border border-dashed border-gray-200 p-4 mb-6 text-center text-sm text-gray-400">
-          Tap a team to send them through. Fill every round to crown your champion.
+        <div className="rounded-2xl bg-[#f5f7fa] border border-gray-200 p-4 mb-6 text-center text-sm text-gray-500">
+          Tap a team to send them through, and tap again to undo. Fill every round to crown your champion.
         </div>
       )}
 
