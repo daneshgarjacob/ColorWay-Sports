@@ -19,6 +19,7 @@ homepageOrder: 6
     <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-front.jpg" alt="McLaren MCL40 2026 British Grand Prix special heritage livery front three-quarter studio shot showing the white body with British Racing Green accents, the green-and-white M2B throwback color split, iridescent Google Gemini detailing, and rainbow-edged wheel rims" style="width: 100%; border-radius: 10px;" />
   </div>
 </div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Image via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
 The 2026 F1 British Grand Prix lands at Silverstone, and McLaren opened the special-livery cycle with the reveal of the weekend. In partnership with Google Gemini, McLaren is ditching the papaya for a one-off white-and-green heritage livery on the MCL40 that revives the colors of the McLaren M2B, the car that started it all when Bruce McLaren brought the team into Formula 1 in 1966. This is the team's home race and its 60th anniversary season, and the design ties both threads together: the M2B made its debut in 1966, and it was at the British Grand Prix that year that Bruce McLaren scored the team's first ever championship point. Sixty years later McLaren returns to Silverstone in the same white and green. We are tracking every British GP special livery reveal here and grading each one as it lands. For the sister trackers earlier this season, see our [F1 Monaco GP special liveries breakdown](/stories/f1-monaco-gp-special-liveries-2026), our [F1 Miami GP special liveries breakdown](/stories/f1-miami-gp-special-liveries-2026), and our [F1 Japanese GP special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
@@ -31,6 +32,7 @@ The 2026 F1 British Grand Prix lands at Silverstone, and McLaren opened the spec
     <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-front-on.jpg" alt="McLaren MCL40 2026 British Grand Prix heritage livery head-on front view showing the green nose and front wing, the white central spine, the Google Gemini four-color gem logo, the Mastercard and ONElight branding, and the British Racing Green floor edges" style="width: 100%; border-radius: 10px;" />
   </div>
 </div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Image via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">
@@ -49,6 +51,7 @@ This is an A+ for us, and our favorite special livery of the entire year. Everyt
     <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-1966-vs-2026.jpg" alt="Side by side comparison of the 1966 McLaren M2B in white and green and the 2026 McLaren MCL40 British Grand Prix heritage livery in the same white-and-green color scheme, showing the 60-year link between the team's first Formula 1 car and the anniversary tribute livery" style="width: 100%; border-radius: 10px;" />
   </div>
 </div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Image via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
 The white and green is not a random throwback palette. It is the actual livery of the McLaren M2B, the first car Bruce McLaren entered in Formula 1 when he founded the team and brought it onto the grid in 1966. The M2B made its race debut at the 1966 Monaco Grand Prix, and later that same season Bruce McLaren scored the team's first championship point at the British Grand Prix. Choosing to revive that white-and-green scheme at Silverstone, in the 60th-anniversary season, ties the modern team directly back to the moment it first put a point on the board. The Google Gemini partnership frames the heritage pull as a "Spark What's Next" story, the idea being that the breakthrough that started a six-decade legacy is the same kind of forward thinking the team wants to carry into its next era. It is a tribute that points backward and forward at the same time.
 
@@ -60,7 +63,7 @@ The white and green is not a random throwback palette. It is the actual livery o
   <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-side.jpg" alt="McLaren MCL40 2026 British Grand Prix heritage livery side view on a black studio backdrop highlighting the white-and-green color split, the Gemini four-color gem logo, and the rainbow-edged Pirelli wheel rims" style="width: 100%; border-radius: 10px;" />
   <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-piastri.jpg" alt="McLaren driver Oscar Piastri taking a selfie next to the MCL40 in its 2026 British Grand Prix white-and-green heritage livery, wearing the matching white race suit with the Spark What's Next campaign branding" style="width: 100%; border-radius: 10px;" />
 </div>
-<p style="text-align: center; font-size: 0.7em; color: #999;">Images via McLaren Racing</p>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
 ### Standard McLaren Livery vs the British GP Heritage Special
 
@@ -73,6 +76,7 @@ The white and green is not a random throwback palette. It is the actual livery o
   <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · British GP white-and-green M2B heritage livery</strong></p>
   <img src="/images/posts/f1-special-liveries-2026/mclaren-british-gp-side.jpg" alt="McLaren MCL40 2026 British Grand Prix special heritage livery in white and British Racing Green with iridescent Google Gemini detailing, replacing the standard papaya orange for the Silverstone weekend" style="width: 100%; border-radius: 10px;" />
 </div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
 The standard 2026 McLaren runs papaya orange as the dominant color with black accents and the team's full sponsor package. The British GP one-off throws the papaya out entirely and swaps in a white base with a British Racing Green spine, the M2B archive palette, plus the Google Gemini iridescent gem detailing and rainbow wheel rims. This is not an accent tweak or a partner stripe added to the regular car. It is a complete identity change for the weekend, and one of the most committed full repaints any team has run all season.
 
