@@ -25,13 +25,10 @@ const p = (name: string, positions: SlotPos[], flag: string, team: string, ratin
   rating,
 });
 
-// Nations knocked out of the 2026 World Cup. As a team is eliminated, add its
-// exact `team` name here and every one of its players drops out of the draft pool,
-// so the deal always reflects only the nations still alive in the bracket.
-export const eliminatedTeams = new Set<string>([
-  "South Africa", // lost R32 to Canada (June 28)
-  "Japan",        // lost R32 to Brazil (June 29)
-]);
+// Eliminated teams are kept in the draft pool — every nation that made the Round
+// of 32 is fair game, even after they're knocked out. This set stays in place for
+// possible future per-team callouts but is intentionally empty for the draft filter.
+export const eliminatedTeams = new Set<string>();
 
 const rawPool: Player[] = [
   // Goalkeepers
