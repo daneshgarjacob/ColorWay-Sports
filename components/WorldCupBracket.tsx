@@ -9,6 +9,7 @@ import {
   participants,
   slotLeaves,
   pickWinner,
+  prune,
   champion,
   results,
   effectivePicks,
@@ -149,7 +150,16 @@ export default function WorldCupBracket() {
 
   const onPick = useCallback((tieId: string, teamKey: string) => {
     if (results[tieId]) return;
-    setPicks((p) => pickWinner(p, tieId, teamKey));
+    setPicks((p) => {
+      // Tapping the team you already picked clears the pick (back to undecided),
+      // and any later rounds that depended on it fall away too.
+      if (p[tieId] === teamKey) {
+        const next = { ...p };
+        delete next[tieId];
+        return prune(next);
+      }
+      return pickWinner(p, tieId, teamKey);
+    });
   }, []);
 
   const reset = useCallback(() => { setPicks({}); setActiveRound("r32"); }, []);

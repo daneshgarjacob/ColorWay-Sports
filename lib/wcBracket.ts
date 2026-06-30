@@ -172,8 +172,9 @@ export const champion = (picks: Picks): string | null => picks["final"] ?? null;
 // cascade downstream. Add each game here as it finishes.
 export type Result = { winner: string; score?: string };
 export const results: Record<string, Result> = {
-  "r32-1": { winner: "CAN", score: "1-0" }, // June 28 — Canada beat South Africa
-  "r32-2": { winner: "BRA", score: "2-1" }, // June 29 — Brazil beat Japan
+  "r32-1": { winner: "CAN", score: "1-0" },      // June 28 — Canada beat South Africa
+  "r32-2": { winner: "BRA", score: "2-1" },      // June 29 — Brazil beat Japan
+  "r32-3": { winner: "PAR", score: "1-1 (P)" },  // June 29 — Paraguay beat Germany on penalties after 1-1
 };
 
 // Merge the locked results over the user's predictions (results win) and prune.

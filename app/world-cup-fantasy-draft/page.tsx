@@ -41,6 +41,12 @@ export default function WorldCupFantasyDraftPage() {
         <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
           Draft Your 2026 World Cup Dream Team: Build a Starting XI
         </h1>
+        <div className="rounded-2xl bg-[#eef3ff] border border-[#cfdcff] px-5 py-4 mb-5 text-[15px] leading-relaxed text-[#14223f]">
+          <strong>New here? Here is the idea.</strong> This is a free game, with no sign-up and nothing to download. We deal you five
+          random World Cup stars at a time, and you pick one to add to your team. Keep going until you have filled all eleven spots
+          on the field, then we give your squad an overall rating and tell you how far it would go in the tournament. Try to build
+          the best team you can.
+        </div>
         <p className="text-gray-600 leading-relaxed mb-2">
           The group stage is over and the superstars are still standing. Build a 4-3-3 from the players whose teams are still
           alive in the knockouts. <strong>As soon as a nation is eliminated, its players come off the board</strong>, so the

@@ -42,6 +42,12 @@ export default function WorldCupBracketPage() {
           <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
             Fill out your 2026 World Cup bracket predictor
           </h1>
+          <div className="rounded-2xl bg-[#eef3ff] border border-[#cfdcff] px-5 py-4 mb-5 text-[15px] leading-relaxed text-[#14223f]">
+            <strong>New here? Here is the idea.</strong> This is a free game, with no sign-up and nothing to download. The World Cup
+            knockout stage is down to 32 teams. You guess who wins each game by tapping that team, and we automatically move them into
+            the next round, all the way until you crown a champion. Tap a team again to undo that pick. Any game that has already been
+            played is locked to the real result, so those you cannot change.
+          </div>
           <p className="text-gray-600 leading-relaxed mb-2">
             The full interactive 2026 FIFA World Cup bracket is here. Tap the team you think wins each knockout game and they
             advance automatically, from the <strong>Round of 32</strong> all the way to the Final on July 19. Empty slots show
