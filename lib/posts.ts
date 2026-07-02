@@ -38,6 +38,7 @@ export interface PostMeta {
   teams?: string[];
   featuredOrder?: number;
   homepageOrder?: number;
+  homepageHero?: boolean;
   topViewsRank?: number;
   reviews?: ReviewItem[];
   bestRating?: number;
@@ -151,6 +152,7 @@ export function getAllPosts(): PostMeta[] {
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
       homepageOrder: data.homepageOrder,
+      homepageHero: data.homepageHero,
       topViewsRank: data.topViewsRank,
       reviews: data.reviews,
       bestRating: data.bestRating,

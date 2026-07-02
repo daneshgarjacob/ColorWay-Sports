@@ -1,9 +1,9 @@
 ---
-title: "F1 British Grand Prix 2026: Every Special Livery Tracker and Ranking — McLaren's White-and-Green M2B Heritage Livery Leads the Reveal"
+title: "F1 British Grand Prix 2026: Every Special Livery Ranked — McLaren's M2B Heritage Livery Leads, Cadillac's July 4th Flag Livery Close Behind"
 category: "F1"
 date: "2026-06-30"
-updatedDate: "2026-06-30"
-excerpt: "Every 2026 F1 British Grand Prix special livery ranked. McLaren leads the reveal with a white-and-green heritage livery on the MCL40, a Google Gemini partnership honoring the 1966 M2B and the team's first F1 point at Silverstone 60 years ago."
+updatedDate: "2026-07-02"
+excerpt: "Every 2026 F1 British Grand Prix special livery ranked. McLaren's white-and-green M2B heritage livery leads at A+, Cadillac's red-white-and-blue July 4th flag livery lands right behind, and Williams' Silverstone tweak takes a B."
 gradient: "linear-gradient(135deg, #0B5D3B 0%, #07301f 55%, #1f2a24 100%)"
 logoSrc: "/logos/f1.png"
 coverImage: "/images/posts/f1-special-liveries-2026/mclaren-british-gp-hero.jpg"
@@ -12,6 +12,7 @@ coverImageFit: "cover"
 league: "f1"
 teams: []
 homepageOrder: 6
+homepageHero: true
 ---
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">
@@ -21,9 +22,19 @@ homepageOrder: 6
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Image via McLaren Racing (@McLarenF1 / mclaren.com)</p>
 
-The 2026 F1 British Grand Prix lands at Silverstone, and McLaren opened the special-livery cycle with the reveal of the weekend. In partnership with Google Gemini, McLaren is ditching the papaya for a one-off white-and-green heritage livery on the MCL40 that revives the colors of the McLaren M2B, the car that started it all when Bruce McLaren brought the team into Formula 1 in 1966. This is the team's home race and its 60th anniversary season, and the design ties both threads together: the M2B made its debut in 1966, and it was at the British Grand Prix that year that Bruce McLaren scored the team's first ever championship point. Sixty years later McLaren returns to Silverstone in the same white and green. We are tracking every British GP special livery reveal here and grading each one as it lands. For the sister trackers earlier this season, see our [F1 Monaco GP special liveries breakdown](/stories/f1-monaco-gp-special-liveries-2026), our [F1 Miami GP special liveries breakdown](/stories/f1-miami-gp-special-liveries-2026), and our [F1 Japanese GP special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
+The 2026 F1 British Grand Prix lands at Silverstone, and the special liveries are coming thick and fast. McLaren opened the cycle with the reveal of the weekend, a white-and-green M2B heritage livery, and it has now been joined by Cadillac's stars-and-stripes July 4th livery and a Silverstone home-race tweak from Williams. We are tracking every British GP special livery here and grading each one as it lands. For the sister trackers earlier this season, see our [F1 Monaco GP special liveries breakdown](/stories/f1-monaco-gp-special-liveries-2026), our [F1 Miami GP special liveries breakdown](/stories/f1-miami-gp-special-liveries-2026), and our [F1 Japanese GP special liveries breakdown](/stories/f1-japanese-gp-special-liveries-2026).
 
-*Updated Tuesday June 30 with the McLaren white-and-green M2B heritage livery, the first reveal of the British GP weekend. We will keep updating this post through race week as new liveries, race suits, and helmet drops land.*
+*Updated Thursday July 2 with Cadillac's red-white-and-blue July 4th livery (A+) and Williams' Silverstone home-race tweak (B), joining the McLaren M2B heritage livery from June 30. We will keep updating this post through race week as new liveries, race suits, and helmet drops land.*
+
+## The British GP Special Livery Rankings at a Glance
+
+Three teams have brought something special to Silverstone so far. Here is how they stack up, best to worst:
+
+1. **McLaren, White-and-Green M2B Heritage Livery. Grade: A+.** The reveal of the weekend and our favorite livery of the entire season. A genuine 1966 archive pull for the team's home race and 60th anniversary.
+2. **Cadillac, Stars-and-Stripes July 4th Livery. Grade: A+.** A full red, white, and blue American-flag repaint from the grid's new American team, timed to Independence Day weekend. Just a step behind the McLaren.
+3. **Williams, Silverstone Home-Race Livery. Grade: B.** A clean but low-key tweak to the standard blue car for the British team's home round, in the mold of the small changes teams make year to year.
+
+We update this ranking every time a new livery, race suit, or driver helmet drops through race week.
 
 ## 1. McLaren · White-and-Green M2B Heritage Livery (Google Gemini)
 
@@ -90,22 +101,112 @@ The standard 2026 McLaren runs papaya orange as the dominant color with black ac
 
 ---
 
-## Not Yet Revealed (As of 2026-06-30)
+## 2. Cadillac · Stars-and-Stripes July 4th Livery
 
-McLaren is first out with a full British GP one-off, and as McLaren's home race on its 60th anniversary it was always going to be the headline reveal. The British Grand Prix is a home round for several teams on the grid, so we may see more one-offs, partner specials, or driver helmet drops land through race week. The following teams have not announced a British GP special livery or race suit yet:
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 280px; max-width: 820px;">
+    <img src="/images/posts/f1-special-liveries-2026/cadillac-british-gp-hero.jpg" alt="Cadillac F1 2026 British Grand Prix July 4th special livery front three-quarter studio shot showing the blue nose, white body, red rear wing with the Cadillac wordmark, and stars-and-stripes American flag detailing on the front wing" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Image via Cadillac F1 Team (@Cadillac_F1)</p>
 
-- **Williams**, **Aston Martin**, and **Haas** are British-based teams that have run home-race specials before. None confirmed yet.
+Cadillac, the newest team on the Formula 1 grid and the only American constructor, is marking its first British Grand Prix with a full red, white, and blue American-flag livery for July 4th weekend. The car runs a deep blue nose, a white central body, and a red rear wing carrying the Cadillac wordmark, with a field of white stars over the blue front section and red-and-white stripes streaking back along the flanks. There is a "USA" call-out on the rear wing endplate and a star worked onto the airbox, and the whole thing reads as a rolling Stars and Stripes. For an American team celebrating Independence Day at its debut British Grand Prix, the concept could not be more on the nose in the best possible way.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Cadillac_F1/status/2072323471040749681"></a>
+  </blockquote>
+</div>
+
+This is an A+ for us, and only the McLaren keeps it from topping the weekend. The flag concept is executed with real restraint: rather than slapping a flag decal on the sidepod, Cadillac built the whole car around the red, white, and blue, letting the blue nose flow into the white body and the red rear in a way that actually looks fast standing still. The stars-and-stripes front wing and the airbox star are the kind of details that reward a closer look, and the Cadillac crest sits cleanly on top of it all. It is patriotic without being loud, and it fits the moment perfectly, an American team, its first British Grand Prix, on the Fourth of July. The only reason it lands just behind the McLaren is that the McLaren carries a deeper heritage story and a slightly cleaner overall read. As a debut statement livery, this is about as good as it gets.
+
+### More Photos of the Cadillac July 4th Livery
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-special-liveries-2026/cadillac-british-gp-front.jpg" alt="Cadillac F1 2026 British Grand Prix July 4th livery front three-quarter view showing the blue nose, the American flag stars on the front wing, and the white and blue body" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-special-liveries-2026/cadillac-british-gp-rear.jpg" alt="Cadillac F1 2026 British Grand Prix July 4th livery rear three-quarter view showing the red rear wing with the USA call-out and the IFS branding on the endplate" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-special-liveries-2026/cadillac-british-gp-overhead.jpg" alt="Cadillac F1 2026 British Grand Prix July 4th livery overhead top-down view showing the full red, white, and blue American flag design running the length of the car with a white star on the airbox" style="width: 100%; border-radius: 10px; grid-column: span 2;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via Cadillac F1 Team (@Cadillac_F1)</p>
+
+### Standard Cadillac Livery vs the July 4th Special
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>Before · Standard 2026 Cadillac F1 livery</strong></p>
+  <img src="/images/posts/f1-cadillac.jpg" alt="Standard 2026 Cadillac F1 livery, the base look the team runs every other weekend before the British Grand Prix July 4th flag one-off" style="width: 100%; border-radius: 10px;" />
+</div>
+
+<div style="margin: 2em 0;">
+  <p style="text-align: center; font-size: 0.9em; color: #555; margin-bottom: 0.8em;"><strong>After · British GP stars-and-stripes July 4th livery</strong></p>
+  <img src="/images/posts/f1-special-liveries-2026/cadillac-british-gp-side.jpg" alt="Cadillac F1 2026 British Grand Prix July 4th special livery clean side profile in red, white, and blue American flag colors, replacing the standard car for the Silverstone weekend" style="width: 100%; border-radius: 10px;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via Cadillac F1 Team (@Cadillac_F1)</p>
+
+**Grade: A+**
+
+---
+
+## 3. Williams · Silverstone Home-Race Livery
+
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
+  <div style="flex: 1; min-width: 280px; max-width: 820px;">
+    <img src="/images/posts/f1-special-liveries-2026/williams-british-gp-hero.jpg" alt="Atlassian Williams F1 2026 British Grand Prix Silverstone livery front three-quarter studio shot showing the blue car with light-blue lower flanks and red-and-blue airflow streamlines in the background" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Image via Atlassian Williams F1 Team (@WilliamsF1)</p>
+
+Williams, one of the most historic British teams on the grid, has gone the understated route for its home race. Rather than a full repaint, the team has run a tweak to its standard blue livery for Silverstone, keeping the familiar blue base and light-blue lower flanks while freshening the detailing for the weekend. It is the kind of subtle year-to-year update teams make to their regular car rather than a ground-up one-off, and set against the McLaren and Cadillac repaints it is clearly the most low-key of the three.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/WilliamsF1/status/2072330404166615226"></a>
+  </blockquote>
+</div>
+
+This is a B for us. There is nothing wrong with the Williams blue, it remains one of the better base colors on the grid, and a clean home-race refresh is a perfectly reasonable way to mark Silverstone. But a B is where a subtle tweak lands when the teams around it are running full heritage and flag repaints. We would have loved to see Williams push a proper one-off for its home crowd. As is, it is a sharp-looking car that does not do quite enough differently to grade higher.
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 2em 0;">
+  <img src="/images/posts/f1-special-liveries-2026/williams-british-gp-sainz.jpg" alt="Atlassian Williams F1 2026 British Grand Prix Silverstone livery front three-quarter view of the number 55 car in blue with light-blue Komatsu and Barclays branding" style="width: 100%; border-radius: 10px;" />
+  <img src="/images/posts/f1-special-liveries-2026/williams-british-gp-front.jpg" alt="Atlassian Williams F1 2026 British Grand Prix Silverstone livery front-left three-quarter view of the blue car against a red-and-blue airflow backdrop" style="width: 100%; border-radius: 10px;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Images via Atlassian Williams F1 Team (@WilliamsF1)</p>
+
+**Grade: B**
+
+---
+
+## Not Yet Revealed (As of 2026-07-02)
+
+McLaren, Cadillac, and Williams are on the board. The British Grand Prix is a home round for several teams on the grid, so we may still see more one-offs, partner specials, or driver helmet drops land through race week. The following teams have not announced a British GP special livery or race suit yet:
+
+- **Aston Martin** and **Haas** are British-based teams that have run home-race specials before. None confirmed yet.
 - **Mercedes**, the most successful team of the modern era and a British constructor, has not announced a British GP livery or suit.
-- **Ferrari**, **Red Bull**, **Audi**, **Cadillac**, **Alpine**, and **Racing Bulls** have not announced British GP reveals.
+- **Ferrari**, **Red Bull**, **Audi**, **Alpine**, and **Racing Bulls** have not announced British GP reveals.
 - Watch for a possible **Lewis Hamilton** home-race driver kit. Fans were already asking about a Silverstone one-off for Hamilton back at Monaco, where Charles Leclerc ran a flag-inspired home suit.
 
 If your team is missing from the ranked section above, refresh this post through race week. We update each time a new livery, race suit, or driver helmet drops.
 
 ## The Verdict
 
-McLaren has the reveal of the British Grand Prix weekend and, for our money, the best special livery of the entire 2026 season. The white-and-green M2B heritage one-off on the MCL40 is an A+ that pulls the team's actual 1966 debut colors out of the archive, lands them at the exact race where Bruce McLaren scored the team's first ever Formula 1 point, and times it to the 60th anniversary of the team's first season. The Google Gemini partnership adds an iridescent, forward-looking modern edge through the gem detailing and rainbow wheel rims without ever crowding the clean white-and-green base, and the "Bruce McLaren Motor Racing Team" founder sticker is the kind of small touch that shows the whole thing was made with real intent. Heritage concept, clean execution, perfect race fit. We will keep updating these British GP rankings as more reveals drop through the weekend, including any partner specials, driver helmet one-offs, or a possible Lewis Hamilton home-race suit.
+The 2026 British Grand Prix is shaping up as one of the strongest special-livery weekends of the season. McLaren leads with, for our money, the best livery of the entire year: the white-and-green M2B heritage one-off is an A+ that pulls the team's actual 1966 debut colors out of the archive, lands them at the exact race where Bruce McLaren scored the team's first ever Formula 1 point, and times it to the 60th anniversary of the team's first season. Cadillac is right behind with another A+, a full red, white, and blue American-flag livery that turns the grid's new American team into a rolling Stars and Stripes for July 4th weekend, and it only misses the top spot because the McLaren carries a deeper story and a slightly cleaner read. Williams rounds out the board at a B with a low-key Silverstone tweak to its standard blue car, a sharp-looking home-race refresh that simply does not do as much as the two full repaints ahead of it. We will keep updating these British GP rankings as more reveals drop through the weekend, including any partner specials, driver helmet one-offs, or a possible Lewis Hamilton home-race suit.
 
 ## Frequently Asked Questions
+
+**Which team has the best 2026 British Grand Prix special livery?**
+
+In our ranking, McLaren has the best 2026 British Grand Prix special livery, landing an A+ for its white-and-green M2B heritage one-off, our favorite livery of the entire season. Cadillac's red-white-and-blue July 4th flag livery is a very close second, also an A+, and Williams' Silverstone home-race tweak sits third at a B. McLaren edges Cadillac because it pairs a genuine 1966 archive color scheme with a real story, the team's first Formula 1 point at Silverstone, at its home race and on its 60th anniversary.
+
+**What is Cadillac's 2026 British Grand Prix livery?**
+
+Cadillac's 2026 British Grand Prix livery is a full red, white, and blue American-flag design run for July 4th weekend. As the newest team on the grid and the only American constructor, Cadillac marked its first British Grand Prix with a blue nose, a white body, and a red rear wing carrying the Cadillac wordmark, plus stars-and-stripes detailing on the front wing, a star on the airbox, and a "USA" call-out on the rear wing. We grade it an A+, just behind the McLaren.
+
+**Why is the Cadillac F1 car red, white, and blue for the British Grand Prix?**
+
+Cadillac is the only American team on the 2026 Formula 1 grid, and the British Grand Prix falls on Independence Day weekend. The team used its first British Grand Prix to run a stars-and-stripes livery in the colors of the American flag as a July 4th celebration, building the whole car around red, white, and blue rather than adding a single flag decal.
+
+**What is Williams' 2026 British Grand Prix livery?**
+
+Williams' 2026 British Grand Prix livery is a tweak to its standard blue car for its Silverstone home race rather than a full one-off repaint. The team kept its familiar blue base and light-blue lower flanks and freshened the detailing for the weekend. We grade it a B, the most low-key of the three British GP specials revealed so far.
 
 **What is McLaren's 2026 British Grand Prix livery?**
 

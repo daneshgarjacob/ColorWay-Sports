@@ -55,8 +55,12 @@ export default function Home() {
     lead = [...lead, ...fillers];
   }
 
-  const heroPost = lead[0];
-  const gridPosts = lead.slice(1);
+  // A post can pin itself to the hero slot with `homepageHero: true` in frontmatter.
+  // This keeps a strong, real-photo lead (e.g. the F1 British GP cover) in place until
+  // we deliberately choose a replacement, instead of auto-swapping to whatever is newest.
+  const pinnedHero = filtered.find((p) => p.homepageHero);
+  const heroPost = pinnedHero || lead[0];
+  const gridPosts = lead.filter((p) => p.slug !== heroPost.slug).slice(0, 3);
 
   // MORE STORIES — pure popularity by topViewsRank, excluding what's already in Latest.
   const leadSlugs = new Set(lead.map((p) => p.slug));
