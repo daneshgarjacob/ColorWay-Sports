@@ -15,6 +15,7 @@ const TRACKER_SLUGS = new Set([
   "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
   "nba-playoffs-crowd-giveaway-tracker-2026",
   "remembering-kyle-busch-tribute-2026",
+  "rugby-club-kits-ranked",
 ]);
 
 export default function Home() {
