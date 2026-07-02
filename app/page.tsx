@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import HomepageTrackers from "@/components/HomepageTrackers";
 import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
 import StoryCard from "@/components/StoryCard";
+import StoryHero from "@/components/StoryHero";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
@@ -9,6 +10,7 @@ import { getAllPosts } from "@/lib/posts";
 // Slugs surfaced elsewhere on the homepage (Featured Trackers band) or held out of
 // regular rotation by design — kept out of Latest/More to avoid duplication.
 const TRACKER_SLUGS = new Set([
+  "world-cup-2026-jersey-tracker",
   "nba-finals-2026-jersey-tracker-knicks-spurs",
   "nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights",
   "nba-playoffs-crowd-giveaway-tracker-2026",
@@ -20,8 +22,9 @@ export default function Home() {
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
 
   // LATEST STORIES — blend of "what's new" + "what's working right now".
-  // 2 newest posts by date (ensures freshness) + 1 top-ranked recent post (proven traffic
-  // in the last 30 days). Falls back to date if there's no recent ranked post.
+  // Newest post becomes the oversized hero, then 2 more newest + 1 top-ranked
+  // recent post (proven traffic in the last 30 days) fill the grid below.
+  // Falls back to date if there's no recent ranked post.
   const RECENT_WINDOW_DAYS = 30;
   const today = Date.now();
   const effectiveDate = (p: { date: string; updatedDate?: string }) =>
@@ -33,7 +36,7 @@ export default function Home() {
     effectiveDate(b).localeCompare(effectiveDate(a))
   );
 
-  const newest = byDateDesc.slice(0, 2);
+  const newest = byDateDesc.slice(0, 3);
   const newestSlugs = new Set(newest.map((p) => p.slug));
 
   const popularRecent = filtered
@@ -44,13 +47,16 @@ export default function Home() {
     .slice(0, 1);
 
   let lead = [...newest, ...popularRecent];
-  if (lead.length < 3) {
+  if (lead.length < 4) {
     const partialLeadSlugs = new Set(lead.map((p) => p.slug));
     const fillers = byDateDesc
       .filter((p) => !partialLeadSlugs.has(p.slug))
-      .slice(0, 3 - lead.length);
+      .slice(0, 4 - lead.length);
     lead = [...lead, ...fillers];
   }
+
+  const heroPost = lead[0];
+  const gridPosts = lead.slice(1);
 
   // MORE STORIES — pure popularity by topViewsRank, excluding what's already in Latest.
   const leadSlugs = new Set(lead.map((p) => p.slug));
@@ -85,8 +91,13 @@ export default function Home() {
               </Link>
             </div>
             <hr className="border-border mb-8" />
+            {heroPost && (
+              <div className="mb-6">
+                <StoryHero post={heroPost} />
+              </div>
+            )}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {lead.map((post) => (
+              {gridPosts.map((post) => (
                 <StoryCard key={post.slug} {...post} />
               ))}
             </div>

@@ -171,6 +171,11 @@ a {
   letter-spacing: -0.018em;
 }
 
+/* Anchor jumps land below the sticky header + tracker jump nav */
+.prose h2[id] {
+  scroll-margin-top: 160px;
+}
+
 .prose h3 {
   font-family: var(--font-sans);
   font-size: 1.2em;

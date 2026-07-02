@@ -116,7 +116,7 @@ export default function StoryCard({
             {title}
           </Link>
         </h3>
-        <p className="mt-2.5 text-sm text-gray-medium leading-relaxed">
+        <p className="mt-2.5 text-sm text-gray-medium leading-relaxed line-clamp-3">
           {excerpt}
         </p>
       </div>

@@ -44,9 +44,60 @@ export interface PostMeta {
   worstRating?: number;
 }
 
+export interface HeadingItem {
+  id: string;
+  text: string;
+}
+
 export interface Post extends PostMeta {
   contentHtml: string;
   faqs: FaqItem[];
+  headings: HeadingItem[];
+}
+
+// Minimal hast node shape — enough to walk the tree and tag headings.
+interface HastNode {
+  type: string;
+  tagName?: string;
+  value?: string;
+  properties?: Record<string, unknown>;
+  children?: HastNode[];
+}
+
+function nodeText(node: HastNode): string {
+  if (node.type === "text") return node.value || "";
+  return (node.children || []).map(nodeText).join("");
+}
+
+function slugifyHeading(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-");
+}
+
+// Rehype plugin: give every h2 a stable id (for anchor links / jump navigation)
+// and collect them so pages can build a table of contents.
+function rehypeHeadingIds(collected: HeadingItem[]) {
+  return () => (tree: HastNode) => {
+    const seen = new Map<string, number>();
+    const visit = (node: HastNode) => {
+      if (node.type === "element" && node.tagName === "h2") {
+        const text = nodeText(node).trim();
+        if (text) {
+          let id = slugifyHeading(text) || "section";
+          const count = seen.get(id) || 0;
+          seen.set(id, count + 1);
+          if (count > 0) id = `${id}-${count + 1}`;
+          node.properties = { ...node.properties, id };
+          collected.push({ id, text });
+        }
+      }
+      (node.children || []).forEach(visit);
+    };
+    visit(tree);
+  };
 }
 
 function extractFaqs(content: string): FaqItem[] {
@@ -138,10 +189,12 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
+  const headings: HeadingItem[] = [];
   const processed = await unified()
     .use(remarkParse)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
+    .use(rehypeHeadingIds(headings))
     .use(rehypeStringify)
     .process(content);
   const contentHtml = processed.toString();
@@ -167,6 +220,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     worstRating: data.worstRating,
     contentHtml,
     faqs: extractFaqs(content),
+    headings,
   };
 }
 

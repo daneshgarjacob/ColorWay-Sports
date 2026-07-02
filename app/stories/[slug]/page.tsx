@@ -6,6 +6,7 @@ import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
 import ReadingProgress from "@/components/ReadingProgress";
+import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -107,6 +108,23 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     "@graph": graph,
   };
 
+  // Long tracker posts (8+ "Match N" / "Game N" sections) get a sticky jump nav.
+  const matchHeadings = post.headings.filter((h) => /^(Match|Game)\s+\d+/i.test(h.text));
+  const jumpItems: JumpNavItem[] =
+    matchHeadings.length >= 8
+      ? matchHeadings.map((h) => {
+          const m = h.text.match(/^Match\s+(\d+)/i);
+          return {
+            id: h.id,
+            label: h.text,
+            group:
+              slug === "world-cup-2026-jersey-tracker" && m
+                ? wc2026Round(parseInt(m[1], 10))
+                : undefined,
+          };
+        })
+      : [];
+
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
     teams: post.teams,
@@ -156,6 +174,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           </div>
         </div>
       </div>
+
+      {jumpItems.length > 0 && <TrackerJumpNav items={jumpItems} />}
 
       {/* Article body */}
       <main className="max-w-[720px] mx-auto px-5 py-12">
@@ -211,6 +231,18 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       <Footer />
     </>
   );
+}
+
+// 2026 World Cup match numbers → knockout round names (104-match format:
+// 72 group games, then Round of 32 through the Final).
+function wc2026Round(num: number): string {
+  if (num <= 72) return "Group Stage";
+  if (num <= 88) return "Round of 32";
+  if (num <= 96) return "Round of 16";
+  if (num <= 100) return "Quarterfinals";
+  if (num <= 102) return "Semifinals";
+  if (num === 103) return "Third Place";
+  return "Final";
 }
 
 function LakersArticle() {
