@@ -1,9 +1,9 @@
 ---
-title: "American Family Field Roof Open or Closed Today? 2026 Milwaukee Brewers Roof Schedule"
+title: "Is the American Family Field Roof Open Today? Brewers 2026 Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-06-27"
-excerpt: "American Family Field's fan-shaped roof moves about 230 times a year. Live status, the roof hotline, how the Brewers decide, and how it ranks among MLB retractable roofs."
+updatedDate: "2026-07-02"
+excerpt: "Is the American Family Field roof open or closed today? Live status in seconds, plus the Brewers 2026 roof rules, the roof hotline, and the rain policy."
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 coverImage: "/images/posts/roof-covers/american-family-field-roof-2026.jpg"
 coverImagePosition: "center center"
