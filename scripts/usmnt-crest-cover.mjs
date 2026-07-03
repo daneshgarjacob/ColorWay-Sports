@@ -11,7 +11,7 @@ import { homedir } from "os";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const WATERMARK_PATH = resolve(__dirname, "../public/brand/colorway-sports-logo.png");
-const CREST_PATH = resolve(homedir(), "Desktop/United_States_Soccer_Federation_logo.svg.webp");
+const CREST_PATH = resolve(homedir(), "Desktop/colorway-archive/brand-assets/United_States_Soccer_Federation_logo.svg.webp");
 const OUT_DIR = resolve(__dirname, "../public/images/posts/usmnt-crest-explained");
 const OUT = resolve(OUT_DIR, "usmnt-crest-cover.jpg");
 const W = 1500, H = 1000;
