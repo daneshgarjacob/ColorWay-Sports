@@ -1,21 +1,21 @@
 ---
-title: "Trionda, Explained: What the 2026 World Cup Ball's Name Means, Every Hidden Detail on It, and Our Design Grade"
+title: "Trionda, Explained: The 2026 World Cup Ball's Hidden Star, Eagle, and Maple Leaf, the Chip Inside, Our Grade, and Where to Get One"
 category: "Soccer"
 date: "2026-07-02"
-excerpt: "Trionda means triple wave: the 2026 World Cup ball's name, its four-panel design, the star, eagle, and maple leaf hidden on it, and the chip inside, explained."
+excerpt: "Trionda means triple wave: the 2026 World Cup ball's name, the star, eagle, and maple leaf hidden on it, the chip inside, our grade, and where to get one."
 gradient: "linear-gradient(135deg, #C8102E 0%, #0B1A2F 50%, #007A3D 100%)"
-overlayText: "TRIONDA"
+coverImage: "/images/posts/trionda-2026/trionda-cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-  <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/DavidFalade001/status/2072901593301745855"></a>
-  </blockquote>
+  <img src="/images/posts/trionda-2026/trionda-hero.jpg" alt="The adidas Trionda, the official match ball of the 2026 World Cup, showing the red, blue, and green wave panels, the debossed blue star section, and the gold-trimmed tournament emblem" style="width: 100%; max-width: 620px; border-radius: 10px;" />
 </div>
-<p style="text-align: center; font-size: 0.7em; color: #999;">The adidas Trionda at work, including the chip that flagged a misplaced corner kick. Via @DavidFalade001</p>
+<p style="text-align: center; font-size: 0.7em; color: #999;">The adidas Trionda. Image via adidas</p>
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">Every World Cup ball becomes a character in the tournament, and the 2026 edition is no exception. It is called the Trionda, it is made of just four panels, and it is carrying more hidden detail than any match ball adidas has produced. If you have watched a 2026 World Cup match and wondered what the swirling red, blue, and green design means, what is stamped on it, or what the name is supposed to say, here is everything about the ball, along with our design grade.</p>
 
@@ -42,13 +42,29 @@ Under the graphics, the Trionda is a construction milestone. It is thermally bon
 
 ## The Chip Inside
 
-The Trionda also carries adidas' connected ball technology: a motion sensor chip mounted in a special layer inside one of the four panels, reporting ball data at 500 times per second. That feed goes to the video match officials in real time and, combined with player tracking data, powers the semi-automated offside calls you see resolved in seconds at this tournament. When a 2026 World Cup offside decision flashes up almost instantly, the ball itself supplied half the evidence. And it is not just offside: as the clip at the top of this post shows, the system can even flag a ball that was never placed properly on the corner arc before the kick was taken.
+The Trionda also carries adidas' connected ball technology: a motion sensor chip mounted in a special layer inside one of the four panels, reporting ball data at 500 times per second. That feed goes to the video match officials in real time and, combined with player tracking data, powers the semi-automated offside calls you see resolved in seconds at this tournament. When a 2026 World Cup offside decision flashes up almost instantly, the ball itself supplied half the evidence. And it is not just offside: as the clip below shows, the system can even flag a ball that was never placed properly on the corner arc before the kick was taken.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/DavidFalade001/status/2072901593301745855"></a>
+  </blockquote>
+</div>
 
 ## Our Grade: A-
 
 We grade the Trionda an A-. The concept is genuinely strong: a three-host tournament is awkward to brand, and this ball solves it with one word, one triangle, and three icons instead of a committee collage. The gold trophy detailing is a classy touch, the wave energy suits a tournament being played in front of the loudest crowds in North American soccer history, and the four-panel engineering story gives it substance beyond the graphics. It stops short of an A+ because the swirl reads busy at certain camera angles, especially in tight shots against grass, where the classics in this category, the Telstar, the Azteca, and the Jabulani, whatever you think of its physics, each held one iconic visual note. The Trionda holds three at once, and it occasionally sounds like it. Still: this is a top-tier World Cup ball, and it will age well.
 
 For how the rest of the tournament's visual identity is holding up, our live [2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker) grades every kit matchup of all 104 matches, and our [scorebug review](/stories/world-cup-2026-scorebug-review) covers the broadcast package the Trionda flies across.
+
+## Get the Trionda
+
+The Trionda comes in several versions, from the full Pro match ball used in the actual tournament, the one with the chip layer and thermally bonded panels, down to replica training and mini sizes that keep the same wave design at a fraction of the price. If you want the exact ball being played at this tournament, look for the Pro. If it is for the backyard or a display shelf, the replicas photograph nearly identically.
+
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 1.5em 0 2em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dadidas%2Btrionda%2Bball" target="_blank" rel="sponsored noopener" style="padding: 12px 26px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the adidas Trionda on Fanatics</a>
+  <a href="https://www.amazon.com/s?k=adidas+trionda+ball&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" style="padding: 12px 26px; background: linear-gradient(135deg, #1A3A8F 0%, #0B1A2F 100%); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(26,58,143,0.35);">Shop the adidas Trionda on Amazon</a>
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Some links on this page earn us a commission at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 
@@ -71,6 +87,10 @@ Yes. The Trionda carries a motion sensor inside one of its panels that measures 
 **Who makes the 2026 World Cup ball?**
 
 Adidas, which has made every World Cup match ball since 1970. The Trionda was unveiled in October 2025 and is used across all 104 matches of the 2026 tournament.
+
+**Where can you buy the 2026 World Cup ball?**
+
+The adidas Trionda is sold through adidas, Fanatics, Amazon, and most major soccer retailers. It comes in multiple versions: the Pro match ball, the same specification used in tournament matches, plus cheaper replica, training, and mini sizes that carry the same red, blue, and green wave design.
 
 **Is the Trionda a good ball?**
 
