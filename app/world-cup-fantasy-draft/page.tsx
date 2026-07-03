@@ -8,6 +8,8 @@ const DEFAULT_TITLE = "2026 World Cup Fantasy Draft Game: Build Your Dream Team 
 const DEFAULT_DESC =
   "Play the free, interactive 2026 World Cup fantasy draft game. Get dealt five random stars across the positions you need, build your dream team starting XI, get an overall rating, and see how far your team would go in the World Cup.";
 
+const CANONICAL = "https://www.colorwaysports.com/world-cup-fantasy-draft";
+
 type SP = Promise<{ [key: string]: string | string[] | undefined }>;
 
 // A shared XI link (?xi=) sets the preview to the sharer's rating + how far their team goes.
@@ -24,12 +26,13 @@ export async function generateMetadata({ searchParams }: { searchParams: SP }): 
       return {
         title: `${title} | ColorWay Sports`,
         description,
+        alternates: { canonical: CANONICAL },
         openGraph: { title, description },
         twitter: { card: "summary", title, description },
       };
     }
   }
-  return { title: DEFAULT_TITLE, description: DEFAULT_DESC };
+  return { title: DEFAULT_TITLE, description: DEFAULT_DESC, alternates: { canonical: CANONICAL } };
 }
 
 export default function WorldCupFantasyDraftPage() {

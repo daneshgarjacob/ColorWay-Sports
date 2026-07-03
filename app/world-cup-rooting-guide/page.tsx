@@ -8,6 +8,8 @@ const DEFAULT_TITLE = "2026 World Cup Bracket Predictor: Fill Out Your Interacti
 const DEFAULT_DESC =
   "Fill out your interactive 2026 FIFA World Cup bracket. Predict every knockout winner from the Round of 32 to the Final, watch real results lock in as games finish, and share your bracket. All 32 teams.";
 
+const CANONICAL = "https://www.colorwaysports.com/world-cup-rooting-guide";
+
 type SP = Promise<{ [key: string]: string | string[] | undefined }>;
 
 // When a shared bracket link (?b=) is opened, set the preview title to the sharer's
@@ -24,12 +26,13 @@ export async function generateMetadata({ searchParams }: { searchParams: SP }): 
       return {
         title: `${title} | ColorWay Sports`,
         description,
+        alternates: { canonical: CANONICAL },
         openGraph: { title, description },
         twitter: { card: "summary", title, description },
       };
     }
   }
-  return { title: DEFAULT_TITLE, description: DEFAULT_DESC };
+  return { title: DEFAULT_TITLE, description: DEFAULT_DESC, alternates: { canonical: CANONICAL } };
 }
 
 export default function WorldCupBracketPage() {

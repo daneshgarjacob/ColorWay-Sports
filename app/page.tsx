@@ -5,7 +5,14 @@ import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getAllPosts } from "@/lib/posts";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://www.colorwaysports.com",
+  },
+};
 
 // Slugs surfaced elsewhere on the homepage (Featured Trackers band) or held out of
 // regular rotation by design — kept out of Latest/More to avoid duplication.

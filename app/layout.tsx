@@ -28,9 +28,6 @@ const hanken = Hanken_Grotesk({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.colorwaysports.com"),
-  alternates: {
-    canonical: "https://www.colorwaysports.com",
-  },
   title: "ColorWay Sports – Every Jersey. Every Logo. Every Detail.",
   description:
     "Every Jersey. Every Logo. Every Detail. Covering uniforms, logos, scorebugs, stadiums, and the visual design of sports.",
