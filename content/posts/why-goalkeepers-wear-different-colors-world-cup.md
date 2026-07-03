@@ -10,12 +10,12 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">
-  <div style="flex: 1; min-width: 280px; max-width: 720px;">
-    <img src="/images/posts/gk-colors-2026/gk-hero.jpg" alt="Goalkeeper at the 2026 World Cup wearing a bright neon jersey that contrasts with both teams' outfield uniforms and the referee's kit" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Footy_Headlines/status/2070741511411568737"></a>
+  </blockquote>
 </div>
-<p style="text-align: center; font-size: 0.7em; color: #999;">A 2026 World Cup goalkeeper kit doing exactly what the rule demands: standing out from everyone. Image credit TBD</p>
+<p style="text-align: center; font-size: 0.7em; color: #999;">Uruguay goalkeeper Fernando Muslera at the 2026 World Cup, dressed to stand out from all 20 outfield players. Via @Footy_Headlines</p>
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">Watch any 2026 World Cup match and you will spot it immediately: twenty players in two team colors, and two more in something completely different, often neon yellow, hot pink, or a shade of green no outfield player is wearing. That is not a fashion choice. Goalkeepers wear different colors because the Laws of the Game require it, and at a World Cup the rule gets enforced with the same contrast planning that decides every jersey and uniform pairing on the pitch. Here is exactly how it works.</p>
 

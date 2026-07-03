@@ -41,13 +41,9 @@ Here is the complete list of teams in the 2026 field wearing stars, and exactly 
 
 That is the entire starred field. Italy, a four-star nation, did not qualify for the 2026 tournament, so you will not see its stars this summer.
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/adidas-world-cup-home-kits/argentina.jpg" alt="Argentina 2026 World Cup home jersey with three gold stars above the AFA crest and the FIFA World Champions badge, worn as reigning World Cup champion" style="width: 100%; border-radius: 10px;" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-germany-home.jpg" alt="Germany 2026 World Cup white home jersey with four stars above the DFB crest representing four World Cup titles" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 2em auto; max-width: 720px;">
+  <img src="/images/posts/adidas-world-cup-home-kits/argentina.jpg" alt="Argentina 2026 World Cup home jersey with three gold stars above the AFA crest and the FIFA World Champions badge, worn as reigning World Cup champion" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+  <img src="/images/posts/wc-germany-home.jpg" alt="Germany 2026 World Cup white home jersey with four stars above the DFB crest representing four World Cup titles" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Argentina's three stars plus the champions badge; Germany's four. Images via adidas</p>
 

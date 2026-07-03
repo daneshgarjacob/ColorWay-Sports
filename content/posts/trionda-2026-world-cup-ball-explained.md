@@ -10,12 +10,12 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">
-  <div style="flex: 1; min-width: 280px; max-width: 720px;">
-    <img src="/images/posts/trionda-2026/trionda-hero.jpg" alt="Adidas Trionda, the official match ball of the 2026 World Cup, showing the red, blue, and green wave panels with gold trim and the star, eagle, and maple leaf icons for the three host nations" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/DavidFalade001/status/2072901593301745855"></a>
+  </blockquote>
 </div>
-<p style="text-align: center; font-size: 0.7em; color: #999;">The adidas Trionda. Image via adidas</p>
+<p style="text-align: center; font-size: 0.7em; color: #999;">The adidas Trionda at work, including the chip that flagged a misplaced corner kick. Via @DavidFalade001</p>
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">Every World Cup ball becomes a character in the tournament, and the 2026 edition is no exception. It is called the Trionda, it is made of just four panels, and it is carrying more hidden detail than any match ball adidas has produced. If you have watched a 2026 World Cup match and wondered what the swirling red, blue, and green design means, what is stamped on it, or what the name is supposed to say, here is everything about the ball, along with our design grade.</p>
 
@@ -42,7 +42,7 @@ Under the graphics, the Trionda is a construction milestone. It is thermally bon
 
 ## The Chip Inside
 
-The Trionda also carries adidas' connected ball technology: a motion sensor chip mounted in a special layer inside one of the four panels, reporting ball data at 500 times per second. That feed goes to the video match officials in real time and, combined with player tracking data, powers the semi-automated offside calls you see resolved in seconds at this tournament. When a 2026 World Cup offside decision flashes up almost instantly, the ball itself supplied half the evidence.
+The Trionda also carries adidas' connected ball technology: a motion sensor chip mounted in a special layer inside one of the four panels, reporting ball data at 500 times per second. That feed goes to the video match officials in real time and, combined with player tracking data, powers the semi-automated offside calls you see resolved in seconds at this tournament. When a 2026 World Cup offside decision flashes up almost instantly, the ball itself supplied half the evidence. And it is not just offside: as the clip at the top of this post shows, the system can even flag a ball that was never placed properly on the corner arc before the kick was taken.
 
 ## Our Grade: A-
 

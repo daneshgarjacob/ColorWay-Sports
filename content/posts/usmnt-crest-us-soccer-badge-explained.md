@@ -4,8 +4,8 @@ category: "Soccer"
 date: "2026-07-02"
 excerpt: "What the US Soccer crest on the USMNT jersey actually means: the shield, the stripes, why the men wear zero stars while the USWNT wears four."
 gradient: "linear-gradient(135deg, #1A3A8F 0%, #0B1A2F 55%, #C8102E 100%)"
-coverImage: "/images/posts/wc-usa-home.jpg"
-coverImagePosition: "center 25%"
+coverImage: "/images/posts/usmnt-crest-explained/usmnt-crest-cover.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
@@ -14,10 +14,10 @@ teams: []
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">
   <div style="flex: 1; min-width: 280px; max-width: 720px;">
-    <img src="/images/posts/wc-usa-home.jpg" alt="United States 2026 World Cup home jersey with the US Soccer crest, a red white and navy shield with USA lettering and vertical stripes, and no stars above the badge" style="width: 100%; border-radius: 10px;" />
+    <img src="/images/posts/usmnt-crest-explained/usmnt-crest-cover.jpg" alt="The United States Soccer Federation crest, a shield with USA lettering over vertical red and white stripes, shown large on a navy and red flag-themed background" style="width: 100%; border-radius: 10px;" />
   </div>
 </div>
-<p style="text-align: center; font-size: 0.7em; color: #999;">The US Soccer shield on the USMNT's 2026 home shirt. Image via Nike / U.S. Soccer</p>
+<p style="text-align: center; font-size: 0.7em; color: #999;">The US Soccer shield. Crest via U.S. Soccer, composite by ColorWay Sports</p>
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">With the United States through to the knockout rounds on home soil, millions of people are looking closely at the USMNT jersey for the first time and asking the same questions. What does the crest actually show? Why is there no star above it when Brazil has five? And is this badge new? In this guide we walk through everything on the US Soccer crest, where it came from, what it replaced, and why the men's and women's teams wear the same shield with completely different hardware around it.</p>
 
@@ -52,13 +52,9 @@ The 2016 redesign stripped all of it out. The ball is gone, the decorative stars
 
 The crest is only one piece of the shirt's front. At this World Cup the USMNT jersey also carries the tournament's official patches on the sleeves and, depending on the match, additional designations. We catalogued every single one, what it means, and where it sits in our full breakdown of [the patches on the USMNT's 2026 World Cup jersey](/stories/usmnt-2026-world-cup-jersey-patches).
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 World Cup home jersey and uniform, white with wavy red stripes and the US Soccer shield crest" style="width: 100%; border-radius: 10px;" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-usa-away.jpg" alt="USMNT 2026 World Cup away jersey, the darker Nike change kit with the same US Soccer crest" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: flex; flex-direction: column; gap: 1.25em; align-items: center; margin: 2em 0;">
+  <img src="/images/posts/wc-usa-home.jpg" alt="USMNT 2026 World Cup home jersey and uniform, white with wavy red stripes and the US Soccer shield crest" style="width: 100%; max-width: 680px; border-radius: 10px;" />
+  <img src="/images/posts/wc-usa-away.jpg" alt="USMNT 2026 World Cup away jersey, the darker Nike change kit with the same US Soccer crest" style="width: 100%; max-width: 680px; border-radius: 10px;" />
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Both 2026 USMNT kits carry the same starless shield. Images via Nike / U.S. Soccer</p>
 

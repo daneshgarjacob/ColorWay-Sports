@@ -29,13 +29,9 @@ The Netherlands wears orange because of the royal House of Orange-Nassau, the fa
 
 Germany's white shirt with black trim predates the modern German flag's colors entirely. When the national team formed in the early 1900s, it adopted the white and black of Prussia, the kingdom that had led German unification. The look survived two world wars, reunification, and more than a century of kit design, and it is now simply what Germany looks like: white jersey, black shorts, four stars above the crest. For what those stars mean, see our guide to [World Cup jersey stars](/stories/world-cup-jersey-stars-meaning-2026).
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-germany-home.jpg" alt="Germany 2026 World Cup white home jersey with black trim, colors inherited from Prussia rather than the modern German flag" style="width: 100%; border-radius: 10px;" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-brazil-home.jpg" alt="Brazil 2026 World Cup yellow home jersey with green trim, the color scheme created in a 1953 newspaper design contest" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 2em auto; max-width: 720px;">
+  <img src="/images/posts/wc-germany-home.jpg" alt="Germany 2026 World Cup white home jersey with black trim, colors inherited from Prussia rather than the modern German flag" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+  <img src="/images/posts/wc-brazil-home.jpg" alt="Brazil 2026 World Cup yellow home jersey with green trim, the color scheme created in a 1953 newspaper design contest" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Prussian white and contest-winning yellow. Images via adidas, Nike / CBF</p>
 
@@ -51,13 +47,9 @@ Italy's flag is green, white, and red, and the team has worn none of them as its
 
 Japan's flag is a red circle on white. The team wears deep blue, a choice that traces back to the blue kits of the university sides that represented Japan in its early international matches, and the color stuck through a century of redesigns. The federation leans into it with the team's nickname, the Samurai Blue. Japan's 2026 blue was involved in some of the group stage's best-looking matchups in our live [World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker), where we grade every kit pairing of the tournament.
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/adidas-world-cup-home-kits/japan.jpg" alt="Japan 2026 World Cup blue adidas home jersey, the Samurai Blue uniform color that does not appear on the Japanese flag" style="width: 100%; border-radius: 10px;" />
-  </div>
-  <div style="flex: 1; min-width: 280px; max-width: 340px;">
-    <img src="/images/posts/wc-australia-home.jpg" alt="Australia 2026 World Cup gold and green home jersey, national colors drawn from the golden wattle rather than the flag" style="width: 100%; border-radius: 10px;" />
-  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 2em auto; max-width: 720px;">
+  <img src="/images/posts/adidas-world-cup-home-kits/japan.jpg" alt="Japan 2026 World Cup blue adidas home jersey, the Samurai Blue uniform color that does not appear on the Japanese flag" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+  <img src="/images/posts/wc-australia-home.jpg" alt="Australia 2026 World Cup gold and green home jersey, national colors drawn from the golden wattle rather than the flag" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
 </div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Two flags, zero of these colors on them. Images via adidas, Nike / Football Australia</p>
 
@@ -69,9 +61,20 @@ Australia's flag is blue, white, and red. The Socceroos wear green and gold beca
 
 Argentina is the counterexample. The albiceleste stripes are a straight lift from the national flag's sky blue and white, worn since the early 1900s, and they have barely changed in a century. When a team's colors do match its flag, the shirt tends to stay frozen. Argentina's three stars and gold champions badge sit on top of the same stripes their great-grandparents watched.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <img src="/images/posts/adidas-world-cup-home-kits/argentina.jpg" alt="Argentina 2026 World Cup home jersey in sky blue and white stripes taken directly from the national flag, with three stars and the champions badge" style="width: 100%; max-width: 420px; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">The flag, worn as stripes. Image via adidas</p>
+
 ## Mexico and the United States: Flag Colors, Host Edition
 
 The 2026 co-hosts both play it straight. Mexico's green traces to its flag's green band, and even as its kits experiment with black alternates, green remains the identity the team returns to. The United States wears its flag directly: the 2026 home shirt turns the stars and stripes into wavy red lines over white beneath the starless US Soccer shield, a crest we unpacked separately in our [USMNT badge explainer](/stories/usmnt-crest-us-soccer-badge-explained).
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 2em auto; max-width: 720px;">
+  <img src="/images/posts/adidas-world-cup-home-kits/mexico.jpg" alt="Mexico 2026 World Cup green home jersey, the flag-green uniform identity El Tri always returns to" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+  <img src="/images/posts/wc-usa-home.jpg" alt="United States 2026 World Cup home jersey turning the flag's stars and stripes into wavy red lines over white" style="width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 10px;" />
+</div>
+<p style="text-align: center; font-size: 0.7em; color: #999;">The hosts wear their flags. Images via adidas, Nike / U.S. Soccer</p>
 
 ## Frequently Asked Questions
 
