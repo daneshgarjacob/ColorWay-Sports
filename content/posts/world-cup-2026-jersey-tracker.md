@@ -5,7 +5,7 @@ date: "2026-06-02"
 updatedDate: "2026-07-03"
 excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, Colombia's yellow vs Portugal's red, and France's blue vs Sweden's yellow each grab a 9, Sweden-Tunisia and Ivory Coast's orange vs Norway's white each an 8.5, and the tournament averages 8.0 out of 10 through 86 matches. The Round of 32 opens with South Africa's gold vs Canada's black, Brazil's yellow vs Japan's white, and Germany's white vs Paraguay's blue all at 8, Portugal's green vs Croatia's blue takes a 9.5, Spain's red vs Austria's white a 7, Switzerland's red vs Algeria's white a 6.5, and Australia's gold vs Egypt's red an 8.5, with Argentina's stripes vs Cape Verde's royal blue and Colombia's tricolor yellow vs Ghana's white both at 8 closing the round. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
-coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
+coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
@@ -15,7 +15,7 @@ featuredOrder: 1
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/world-cup-2026-jersey-tracker/cover.jpg" alt="2026 FIFA World Cup Jersey Tracker cover composite for the ColorWay Sports running tracker grading every match kit pairing across all 48 teams 12 groups and 104 matches of the 2026 FIFA World Cup hosted by the United States Canada and Mexico from June 11 through July 19 2026" style="width: 120%; max-width: 120%; margin-left: -10%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg" alt="ColorWay Sports 2026 FIFA World Cup Jersey Tracker branded hero with the FIFA World Cup 26 logo and Norway white, Uruguay navy, and Congo DR red jerseys, for the running tracker grading every match kit and uniform pairing across all 48 teams and 104 matches" style="width: 100%; display: block; border-radius: 10px;" />
 </div>
 
 The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co-hosted by the United States, Canada, and Mexico across 16 host cities, with 104 matches across 39 days from June 11 through the Final on July 19, 2026. This is the running ColorWay Sports tracker grading every match kit and uniform pairing across the entire tournament. Every match gets a grade, every kit matchup gets analyzed, every Adidas, Nike, Puma, and other-brand reveal gets tracked. Live updates from kickoff in Group A through the Final.
@@ -43,6 +43,12 @@ For the standalone rankings of every individual home kit, away kit, and third ki
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
   <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">86 / 104</span>
 </div>
+
+<a href="/stories/world-cup-round-of-32-kit-matchups-ranked" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #00694b 0%, #0a1030 100%); border-radius: 16px; text-decoration: none;">
+  <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #9bc824; margin-bottom: 6px;">New · Round of 32 Complete</span>
+  <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">All 16 Round of 32 kit matchups, ranked →</span>
+  <span style="display: block; font-size: 0.95em; line-height: 1.5; color: #dbe4f5; margin-top: 6px;">The full knockout-round countdown, from the round's only 6.5 to the alternate-versus-alternate clash that took the top spot at 9.5.</span>
+</a>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
 
