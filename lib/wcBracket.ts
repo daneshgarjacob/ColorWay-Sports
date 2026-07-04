@@ -148,13 +148,21 @@ export function slotLeaves(slot: Slot): string[] {
 
 // After a pick changes, drop any downstream pick whose chosen team is no longer a
 // valid participant of its tie. Process rounds in order so cascades settle in one pass.
+//
+// Locked real-world results are overlaid into a `view` copy used ONLY for the
+// participants lookup — without this, an R16 pick like "Paraguay in r16-1" gets
+// pruned instantly because prune otherwise can't see that r32-3's winner (Paraguay)
+// is a valid feeder. Results are never written back into the returned picks, so
+// the user's saved bracket stays clean.
 export function prune(picks: Picks): Picks {
+  const view: Picks = { ...picks };
+  for (const [id, r] of Object.entries(results)) view[id] = r.winner;
   const next: Picks = { ...picks };
   for (const r of ["r16", "qf", "sf", "final"] as RoundId[]) {
     for (const tie of tiesByRound(r)) {
       const chosen = next[tie.id];
       if (!chosen) continue;
-      const [pa, pb] = participants(tie.id, next);
+      const [pa, pb] = participants(tie.id, view);
       if (chosen !== pa && chosen !== pb) delete next[tie.id];
     }
   }
