@@ -186,6 +186,7 @@ export const results: Record<string, Result> = {
   "r32-12": { winner: "POR", score: "2-1" },     // July 2 — Portugal beat Croatia 2-1
   "r32-13": { winner: "SUI", score: "2-0" },     // July 2 — Switzerland beat Algeria 2-0
   "r32-14": { winner: "EGY", score: "1-1 (P 4-2)" }, // July 3 — Egypt beat Australia on penalties (4-2) after 1-1
+  "r32-15": { winner: "ARG", score: "3-2 (AET)" },   // July 3 — Argentina beat Cape Verde 3-2 in extra time
 };
 
 // Merge the locked results over the user's predictions (results win) and prune.
