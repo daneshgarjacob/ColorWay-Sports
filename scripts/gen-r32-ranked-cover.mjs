@@ -43,7 +43,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <rect x="100" y="592" width="120" height="8" fill="${accent}"/>
   <text x="96" y="700" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">ROUND OF 32 KIT</text>
   <text x="96" y="790" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">MATCHUPS, RANKED</text>
-  <text x="100" y="850" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">From Portugal-Croatia at 9.5 to the Round's Only 6.5</text>
+  <text x="100" y="850" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">Counting Down From the Round's Only 6.5 to a 9.5 Winner</text>
 </svg>`;
 
 const wcLogoPath = resolve(root, "public/logos/world-cup-2026.png");

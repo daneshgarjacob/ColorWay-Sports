@@ -28,7 +28,7 @@ const trackers: TrackerCard[] = [
     slug: "world-cup-round-of-32-kit-matchups-ranked",
     kicker: "Soccer · 2026 FIFA World Cup · Round of 32",
     title: "Every Round of 32 Kit Matchup, Ranked: All 16 Knockout Clashes Graded",
-    dek: "The knockout round is in the books and every jersey pairing is ranked. Portugal's ocean-wave green vs Croatia's checkerboard blue takes the round at 9.5, USA-Bosnia and France-Sweden land 9s, and the round averaged 8.1 — above the tournament-wide 8.0. The lesson from the board: the federations that reached for their boldest alternates won the round, and every red-vs-white pairing sank to the bottom third.",
+    dek: "The knockout round is in the books and every jersey pairing is ranked, counting down from worst to first. The round averaged 8.1 — above the tournament-wide 8.0 — and the lesson from the board is clear: the federations that reached for their boldest alternates won the round, and every red-vs-white pairing sank to the bottom third. Two alternate kits took the top spot at 9.5.",
     status: "New · Rankings",
     grade: "A",
     image: "/images/posts/wc-r32-kit-matchups-ranked-cover.jpg",
