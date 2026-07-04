@@ -3,7 +3,7 @@ title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, Al
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-07-03"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, Colombia's yellow vs Portugal's red, and France's blue vs Sweden's yellow each grab a 9, Sweden-Tunisia and Ivory Coast's orange vs Norway's white each an 8.5, and the tournament averages 8.0 out of 10 through 84 matches. The Round of 32 opens with South Africa's gold vs Canada's black, Brazil's yellow vs Japan's white, and Germany's white vs Paraguay's blue all at 8, Portugal's green vs Croatia's blue takes a 9.5, Spain's red vs Austria's white a 7, Switzerland's red vs Algeria's white a 6.5, and Australia's gold vs Egypt's red an 8.5. All 48 teams, 104 matches, live through the Final on July 19."
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, Colombia's yellow vs Portugal's red, and France's blue vs Sweden's yellow each grab a 9, Sweden-Tunisia and Ivory Coast's orange vs Norway's white each an 8.5, and the tournament averages 8.0 out of 10 through 86 matches. The Round of 32 opens with South Africa's gold vs Canada's black, Brazil's yellow vs Japan's white, and Germany's white vs Paraguay's blue all at 8, Portugal's green vs Croatia's blue takes a 9.5, Spain's red vs Austria's white a 7, Switzerland's red vs Algeria's white a 6.5, and Australia's gold vs Egypt's red an 8.5, with Argentina's stripes vs Cape Verde's royal blue and Colombia's tricolor yellow vs Ghana's white both at 8 closing the round. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover.jpg"
 coverImagePosition: "center center"
@@ -41,10 +41,43 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">85 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">86 / 104</span>
 </div>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 86: Colombia vs Ghana
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #FCD116 0%, #003893 50%, #CE1126 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Round of 32 · Match 86 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-home-kits/colombia.jpg" alt="Colombia 2026 World Cup yellow adidas home jersey with tricolor trim and the FCF crest, worn with blue shorts and red socks in the Round of 32 match vs Ghana" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">COLOMBIA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Yellow</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolombia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-ghana-home.jpg" alt="Ghana 2026 World Cup white Puma home jersey with red gold and green city-map line motifs, the black star on the chest, and black trim, worn in the Round of 32 match vs Colombia" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">GHANA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dghana%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(155, 200, 36, 0.12); border-radius: 12px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Score: 8 / 10</p>
+</div>
+
+Colombia against Ghana closes the Round of 32 with a bright yellow-versus-white pairing and a genuine uniform history note. Colombia wear the adidas yellow home with blue shorts and red socks, the full tricolor combination the national team had not worn together at a World Cup in 28 years, against Ghana in the white Puma home with the red, gold, and green city-map line motifs and the lone black star on the chest. The saturated Colombian yellow carries the broadcast pop and the Ghana white brings far more pattern personality than a standard change shirt, so the contrast stays crisp without going plain. It sits a half-step under the round's best because the warm gold and red lines woven through Ghana's shirt echo the Colombian yellow rather than opposing it. Eight out of 10.
 
 ## Match 85: Argentina vs Cape Verde
 
