@@ -17,6 +17,11 @@ The **France 2026 FIFA World Cup home jersey has a white polo collar**, sitting 
 
 Below, the full context: why the collar is on there, the story behind France's polo collar tradition, which other 2026 kits have collar treatments (and which don't), and every FAQ we could think of on the search-heavy angles around this one specific design choice.
 
+<div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #f4f6fc 0%, #eaf0fb 100%); border-radius: 16px; border: 1px solid #cfdcff; text-align: center;">
+  <img src="/images/posts/wc-france-home.jpg" alt="France 2026 FIFA World Cup Nike deep blue home jersey with the white polo collar, red-and-blue tricolor trim, and the gold Coq Sportif rooster crest on the chest" style="max-height: 340px; max-width: 100%; object-fit: contain; display: inline-block;" />
+  <p style="margin: 1em 0 0; font-size: 0.85em; color: #14223f; font-weight: 600;">The France 2026 Nike home shirt. The white polo collar is the design signature people are searching for.</p>
+</div>
+
 ## The Short Answer
 
 **Nike put a white polo collar on France's 2026 home shirt as a heritage callback to Les Bleus' classic look.** Football jerseys evolved from actual buttoned dress shirts with collars in the late 1800s — the polo collar on a modern national-team kit is almost always a deliberate nod backward to the early 20th-century identity of the federation. France has one of the deepest polo-collar traditions in international football, and Nike has revived that look on the France home shirt multiple times over the last two decades, most notably on the 2018 World Cup–winning shirt worn in Russia.
@@ -29,6 +34,19 @@ Out of all 48 nations at the 2026 FIFA World Cup, only two are wearing a polo co
 
 - **France (Nike)** — white polo collar on the deep blue home. The signature detail of one of the tournament's most-praised home kits.
 - **Uruguay (Puma)** — white polo collar with navy trim on the sky-blue Celeste home. A callback to Uruguay's four-star crest and the classic look worn during the country's long international pedigree.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 1.75em 0;">
+  <div style="text-align: center; padding: 1.25em 0.75em; background: linear-gradient(135deg, #f4f6fc 0%, #eaf0fb 100%); border-radius: 12px; border: 1px solid #cfdcff;">
+    <img src="/images/posts/wc-france-home.jpg" alt="France 2026 FIFA World Cup home jersey by Nike in deep blue with a white polo collar, red-and-blue tricolor trim, and the gold rooster crest" style="max-height: 240px; max-width: 100%; object-fit: contain;" />
+    <p style="margin: 0.85em 0 0; font-size: 0.8em; font-weight: 700; color: #002395; letter-spacing: 0.06em; text-transform: uppercase;">France · Nike Home</p>
+    <p style="margin: 0.3em 0 0; font-size: 0.78em; color: #4a5a7a;">White polo collar with tricolor trim</p>
+  </div>
+  <div style="text-align: center; padding: 1.25em 0.75em; background: linear-gradient(135deg, #f4f6fc 0%, #eaf0fb 100%); border-radius: 12px; border: 1px solid #cfdcff;">
+    <img src="/images/posts/wc-uruguay-home.jpg" alt="Uruguay 2026 FIFA World Cup home jersey by Puma in Celeste sky blue with a white polo collar, navy trim, and the four-star La Celeste crest" style="max-height: 240px; max-width: 100%; object-fit: contain;" />
+    <p style="margin: 0.85em 0 0; font-size: 0.8em; font-weight: 700; color: #5CBFEB; letter-spacing: 0.06em; text-transform: uppercase;">Uruguay · Puma Home</p>
+    <p style="margin: 0.3em 0 0; font-size: 0.78em; color: #4a5a7a;">White polo collar with navy trim</p>
+  </div>
+</div>
 
 Every other 2026 nation is wearing either a round crew-neck collar, a v-neck, or a modernized rib collar. Polo-collar treatments were common through the 1980s and 1990s — the 1998 France World Cup–winning shirt is the most famous example — but the modern kit-design trend has swung heavily toward crew-necks and rib collars for aerodynamic and merchandising reasons. Nike and Puma keeping the polo look on France and Uruguay in 2026 is the exception, not the rule.
 
