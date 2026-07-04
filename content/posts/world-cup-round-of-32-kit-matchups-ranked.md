@@ -11,7 +11,7 @@ league: "soccer"
 teams: []
 ---
 
-<img src="/images/posts/wc-r32-kit-matchups-ranked-cover.jpg" alt="2026 World Cup Round of 32 kit matchups ranked cover graphic with a VS badge and bracket bars, covering all 16 knockout jersey and uniform pairings graded by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/wc-r32-kit-matchups-ranked-cover.jpg" alt="2026 World Cup Round of 32 kit matchups ranked cover graphic with the FIFA World Cup 26 logo, Norway's white alternate jersey, and Congo DR's sky blue home jersey, covering all 16 knockout jersey and uniform pairings graded by ColorWay Sports" style="width: 100%; border-radius: 10px;" />
 
 The Round of 32 is complete, and all 16 knockout kit matchups are graded. We scored every jersey and uniform pairing of the round in our [live World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker), and this is the full ranking, from the alternate-versus-alternate clash that led the round to the one matchup that fell flat. The round averaged 8.1 out of 10, a tick above the tournament-wide 8.0, with two federations reaching for their loudest change kits at exactly the right time.
 
