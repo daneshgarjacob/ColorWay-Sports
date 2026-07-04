@@ -39,11 +39,11 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   ${bars}
   <rect width="${W}" height="${H}" fill="url(#scrim)"/>
   <rect x="${BADGE.x}" y="${BADGE.y}" width="${BADGE.w}" height="${BADGE.h}" rx="${BADGE.r}" fill="#ffffff"/>
-  <text x="100" y="568" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="7" fill="${accent}">2026 KNOCKOUTS · ALL 16 GRADED</text>
-  <rect x="100" y="592" width="120" height="8" fill="${accent}"/>
-  <text x="96" y="700" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">ROUND OF 32 KIT</text>
-  <text x="96" y="790" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">MATCHUPS, RANKED</text>
-  <text x="100" y="850" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">Counting Down From the Round's Only 6.5 to a 9.5 Winner</text>
+  <text x="100" y="478" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="7" fill="${accent}">2026 KNOCKOUTS · ALL 16 GRADED</text>
+  <rect x="100" y="502" width="120" height="8" fill="${accent}"/>
+  <text x="96" y="610" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">ROUND OF 32 KIT</text>
+  <text x="96" y="700" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900" letter-spacing="-2" fill="#ffffff">MATCHUPS, RANKED</text>
+  <text x="100" y="760" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">Counting Down From the Round's Only 6.5 to a 9.5 Winner</text>
 </svg>`;
 
 const wcLogoPath = resolve(root, "public/logos/world-cup-2026.png");
@@ -62,12 +62,12 @@ if (existsSync(wcLogoPath)) {
 
 // Two transparent R32 kits fanned on the right: Congo DR behind, Norway in front
 if (existsSync(congoPath)) {
-  const congo = await sharp(congoPath).resize({ height: 380 }).png().toBuffer();
-  composites.push({ input: congo, top: 175, left: 1120 });
+  const congo = await sharp(congoPath).resize({ height: 355 }).png().toBuffer();
+  composites.push({ input: congo, top: 140, left: 1140 });
 }
 if (existsSync(norwayPath)) {
-  const norway = await sharp(norwayPath).resize({ height: 420 }).png().toBuffer();
-  composites.push({ input: norway, top: 70, left: 930 });
+  const norway = await sharp(norwayPath).resize({ height: 385 }).png().toBuffer();
+  composites.push({ input: norway, top: 45, left: 960 });
 }
 
 // ColorWay mark bottom-right
