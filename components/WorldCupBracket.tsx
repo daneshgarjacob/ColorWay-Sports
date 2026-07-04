@@ -75,10 +75,10 @@ function TeamRow({
   return (
     <button
       type="button" onClick={onClick} disabled={!clickable}
-      className={`flex items-center gap-2 w-full text-left ${pad} transition ${
+      className={`flex items-center gap-2 w-full text-left touch-manipulation ${pad} transition ${
         selected ? "text-white font-bold" : clickable ? "text-gray-800 font-semibold hover:bg-blue-50" : "text-gray-700 font-semibold"
       } ${clickable ? "cursor-pointer" : "cursor-default"} ${dim ? "opacity-45" : ""}`}
-      style={bg ? { background: bg } : undefined}
+      style={bg ? { background: bg, WebkitTapHighlightColor: "transparent" } : { WebkitTapHighlightColor: "transparent" }}
     >
       <Flag code={team.flag} h={compact ? 15 : 18} />
       <span className={`truncate ${compact ? "text-[12.5px]" : "text-[14px]"} ${dim ? "line-through" : ""}`}>{team.name}</span>
@@ -216,10 +216,10 @@ export default function WorldCupBracket() {
           <span className="font-bold tabular-nums" style={{ color: NAVY }}>{decided}</span>/{TOTAL_TIES} spots filled
         </div>
         <div className="flex gap-2">
-          <button onClick={share} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-white transition active:scale-95" style={{ background: BRAND }}>
+          <button type="button" onClick={share} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-white transition active:scale-95 touch-manipulation" style={{ background: BRAND, WebkitTapHighlightColor: "transparent" }}>
             {copied ? "Link copied!" : "Share bracket"}
           </button>
-          <button onClick={reset} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-gray-600 bg-gray-100 hover:bg-gray-200 transition">Reset</button>
+          <button type="button" onClick={reset} className="px-3.5 py-2 rounded-lg text-[13px] font-bold text-gray-600 bg-gray-100 hover:bg-gray-200 transition touch-manipulation" style={{ WebkitTapHighlightColor: "transparent" }}>Reset</button>
         </div>
       </div>
 
@@ -257,9 +257,10 @@ export default function WorldCupBracket() {
             return (
               <button
                 key={r.id}
+                type="button"
                 onClick={() => scrollToRound(r.id)}
-                className={`shrink-0 px-3 py-2 rounded-lg text-[12.5px] font-bold transition ${active ? "text-white" : "text-gray-600 bg-gray-100 hover:bg-gray-200"}`}
-                style={active ? { background: NAVY } : undefined}
+                className={`shrink-0 touch-manipulation px-3 py-2 rounded-lg text-[12.5px] font-bold transition ${active ? "text-white" : "text-gray-600 bg-gray-100 hover:bg-gray-200"}`}
+                style={active ? { background: NAVY, WebkitTapHighlightColor: "transparent" } : { WebkitTapHighlightColor: "transparent" }}
               >
                 {r.short}
                 <span className={`ml-1.5 text-[10px] ${active ? "opacity-80" : "text-gray-400"}`}>{roundCount(r.id)}/{tiesByRound(r.id).length}</span>
@@ -268,7 +269,7 @@ export default function WorldCupBracket() {
           })}
         </div>
         <div className="text-center text-[11px] text-gray-400 mb-3">← swipe between rounds →</div>
-        <div ref={scrollerRef} onScroll={onScroll} className="flex overflow-x-auto snap-x snap-mandatory" style={{ scrollbarWidth: "none" }}>
+        <div ref={scrollerRef} onScroll={onScroll} className="flex overflow-x-auto snap-x snap-proximity" style={{ scrollbarWidth: "none", touchAction: "pan-x pan-y" }}>
           {rounds.map((r) => (
             <div key={r.id} className="min-w-full snap-start px-0.5">
               <div className="text-[11px] font-bold uppercase tracking-wider text-center mb-3" style={{ color: NAVY }}>{r.name}</div>
