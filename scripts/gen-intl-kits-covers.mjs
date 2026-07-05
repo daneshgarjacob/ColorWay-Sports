@@ -1,8 +1,10 @@
 // Branded 3:2 covers for the international cricket kits + rugby jerseys ranking posts.
-// Same family as gen-r32-ranked-cover.mjs: dark gradient, big type, ColorWay mark
-// bottom-right. The distinctive element is a ranked strip of national kit-color
-// swatches (worst on the left, No. 1 on the right, matching the countdown format).
-// Usage: node scripts/gen-intl-kits-covers.mjs
+// v2 (7/5, Jake's request): the color-chip strip is replaced with a lineup of the
+// ACTUAL jerseys — transparent cutouts flood-filled from the repo's sourced retailer
+// product shots (content images cricket-*/rugby-*-jersey.jpg). England rugby ships
+// with native alpha from World Rugby Shop, so its source PNG lives in the repo too.
+// Same family as the other branded covers: dark gradient, eyebrow + big type,
+// ColorWay mark bottom-right. Usage: node scripts/gen-intl-kits-covers.mjs
 import sharp from "sharp";
 import { existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -12,6 +14,35 @@ const __dir = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dir, "..");
 const W = 1500, H = 1000;
 
+// Flood-fill background removal from the image borders — interior whites survive.
+async function cutout(src, thresh) {
+  const { data, info } = await sharp(src).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+  const { width: w, height: h } = info;
+  const isBg = (i) => {
+    const r = data[i], g = data[i + 1], b = data[i + 2];
+    const mx = Math.max(r, g, b), mn = Math.min(r, g, b);
+    return mn > thresh && (mx - mn) < 28;
+  };
+  const seen = new Uint8Array(w * h);
+  const q = [];
+  for (let x = 0; x < w; x++) q.push(x, (h - 1) * w + x);
+  for (let y = 0; y < h; y++) q.push(y * w, y * w + w - 1);
+  while (q.length) {
+    const p = q.pop();
+    if (seen[p]) continue;
+    seen[p] = 1;
+    const i = p * 4;
+    if (!isBg(i)) continue;
+    data[i + 3] = 0;
+    const x = p % w, y = (p / w) | 0;
+    if (x > 0) q.push(p - 1);
+    if (x < w - 1) q.push(p + 1);
+    if (y > 0) q.push(p - w);
+    if (y < h - 1) q.push(p + w);
+  }
+  return sharp(data, { raw: { width: w, height: h, channels: 4 } }).trim().png().toBuffer();
+}
+
 const COVERS = [
   {
     out: "public/images/posts/international-cricket-kits-cover.jpg",
@@ -20,12 +51,13 @@ const COVERS = [
     line1: "GREATEST CRICKET",
     line2: "KITS, RANKED",
     sub: "From Bleed Blue to West Indies Maroon, Counting Down to No. 1",
-    // rank 10 -> 1, left to right: AFG, ENG, SL, BAN, PAK, NZ, SA, AUS, WI, IND
-    swatches: [
-      ["#0057B8", "#D62612"], ["#0a2a6e", "#7ea8d8"], ["#1c3fa0", "#FFB300"],
-      ["#006A4E", "#F42A41"], ["#01411C", "#3f9b57"], ["#0a0a0a", "#c0c0c0"],
-      ["#007749", "#FFB81C"], ["#FFD100", "#006A4E"], ["#5C0632", "#8a2b52"],
-      ["#1D6EE0", "#FF9933"],
+    // real kits, left to right: England blue, NZ black, SA green, Australia gold, WI maroon
+    kits: [
+      { src: "public/images/posts/cricket-england-jersey.jpg", thresh: 200 },
+      { src: "public/images/posts/cricket-new-zealand-jersey.jpg", thresh: 200 },
+      { src: "public/images/posts/cricket-south-africa-jersey.jpg", thresh: 205 },
+      { src: "public/images/posts/cricket-australia-jersey.jpg", thresh: 205 },
+      { src: "public/images/posts/cricket-west-indies-jersey.jpg", thresh: 205 },
     ],
   },
   {
@@ -35,12 +67,13 @@ const COVERS = [
     line1: "MOST ICONIC RUGBY",
     line2: "JERSEYS, RANKED",
     sub: "From Murrayfield Navy to the All Blacks, Counting Down to No. 1",
-    // rank 10 -> 1: SCO, FIJ, ARG, WAL, IRE, FRA, ENG, AUS, RSA, NZL
-    swatches: [
-      ["#0a2a5e", "#4a6a9e"], ["#f5f5f5", "#0a0a0a"], ["#75AADB", "#ffffff"],
-      ["#D30731", "#ffffff"], ["#169B62", "#0d6b45"], ["#1e3f8f", "#D30731"],
-      ["#f5f5f5", "#D30731"], ["#FFB81C", "#006A4E"], ["#006A4E", "#FFB81C"],
-      ["#0a0a0a", "#c0c0c0"],
+    // real kits, left to right: France blue, England white (native alpha), Wallabies gold, Springboks green, All Blacks
+    kits: [
+      { src: "public/images/posts/rugby-france-jersey.jpg", thresh: 205 },
+      { src: "public/images/posts/rugby-england-jersey-alpha.png", native: true },
+      { src: "public/images/posts/rugby-australia-jersey.jpg", thresh: 205 },
+      { src: "public/images/posts/rugby-south-africa-jersey.jpg", thresh: 205 },
+      { src: "public/images/posts/rugby-new-zealand-jersey.jpg", thresh: 200 },
     ],
   },
 ];
@@ -48,17 +81,6 @@ const COVERS = [
 const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
 
 for (const c of COVERS) {
-  // ranked swatch strip along the top: 10 rounded jersey-color chips
-  const chips = c.swatches
-    .map((pair, i) => {
-      const x = 100 + i * 134;
-      return `<rect x="${x}" y="90" width="110" height="150" rx="14" fill="${pair[0]}" stroke="#ffffff" stroke-opacity="0.25" stroke-width="3"/>
-  <rect x="${x}" y="196" width="110" height="44" rx="0" fill="${pair[1]}" opacity="0.9"/>
-  <rect x="${x}" y="90" width="110" height="150" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="3"/>
-  <text x="${x + 55}" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#ffffff" opacity="0.55">${10 - i}</text>`;
-    })
-    .join("\n  ");
-
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -71,7 +93,6 @@ for (const c of COVERS) {
     </linearGradient>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
-  ${chips}
   <rect width="${W}" height="${H}" fill="url(#scrim)"/>
   <text x="100" y="478" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="7" fill="${c.accent}">${c.eyebrow}</text>
   <rect x="100" y="502" width="120" height="8" fill="${c.accent}"/>
@@ -81,6 +102,21 @@ for (const c of COVERS) {
 </svg>`;
 
   const composites = [];
+
+  // Jersey lineup across the top: five real kits at uniform height.
+  const KIT_H = 300, Y = 70, X0 = 105, STEP = 265;
+  for (let i = 0; i < c.kits.length; i++) {
+    const k = c.kits[i];
+    const p = resolve(root, k.src);
+    if (!existsSync(p)) { console.warn("missing kit:", k.src); continue; }
+    const buf = k.native
+      ? await sharp(p).trim().png().toBuffer()
+      : await cutout(p, k.thresh);
+    const kit = await sharp(buf).resize({ height: KIT_H, withoutEnlargement: false }).png().toBuffer();
+    const m = await sharp(kit).metadata();
+    composites.push({ input: kit, top: Y + (i % 2) * 18, left: X0 + i * STEP + Math.round((240 - m.width) / 2) });
+  }
+
   if (existsSync(cwLogoPath)) {
     const logo = await sharp(cwLogoPath).resize({ height: 60 }).png().toBuffer();
     const m = await sharp(logo).metadata();
