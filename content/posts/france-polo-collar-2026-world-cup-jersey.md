@@ -13,10 +13,6 @@ coverImageFit: "cover"
 homepageOrder: 4
 ---
 
-<div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/france-polo-collar-cover.jpg" alt="Why France's 2026 World Cup jersey has a white polo collar, with the deep blue Nike home shirt and its heritage collar shown on a ColorWay Sports branded cover" style="width: 100%; border-radius: 10px; display: block;" />
-</div>
-
 The **France 2026 FIFA World Cup home jersey has a white polo collar**, sitting on top of the deep blue Nike shirt with the gold rooster crest. If you're here because you noticed it during a broadcast and asked *"why does France have a collar on their jersey?"* — the short answer is that the polo collar is a deliberate Nike design callback to the French national team's earliest heritage identity, and France is one of only two nations at the 2026 World Cup wearing a polo collar on their first-choice home shirt. The other one is Uruguay.
 
 Below, the full context: why the collar is on there, the story behind France's polo collar tradition, which other 2026 kits have collar treatments (and which don't), and every FAQ we could think of on the search-heavy angles around this one specific design choice.

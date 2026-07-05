@@ -43,7 +43,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <rect x="100" y="502" width="120" height="8" fill="${red}"/>
   <text x="96" y="606" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-2" fill="#ffffff">WHY FRANCE'S JERSEY</text>
   <text x="96" y="686" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-2" fill="#ffffff">HAS A POLO COLLAR</text>
-  <text x="100" y="760" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">A Nike Heritage Callback, and Only Uruguay Has One Too</text>
+  <text x="100" y="760" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">Only Two Kits at the 2026 World Cup Have One. Here's Why.</text>
   <rect x="${TILE.x}" y="${TILE.y}" width="${TILE.w}" height="${TILE.h}" rx="${TILE.r}" fill="#ffffff"/>
 </svg>`;
 
