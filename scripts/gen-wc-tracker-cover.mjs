@@ -48,8 +48,11 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 const wcLogoPath = resolve(root, "public/logos/world-cup-2026.png");
 const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
 const stash = resolve(homedir(), "Desktop/colorway-archive/wc-2026-jerseys");
-const congoRedPath = resolve(root, "public/images/posts/wc-congo-dr-red.png");
-const uruguayPath = resolve(stash, "uruguay-blue.png");
+// Kits swapped 7/5 (Jake): Uruguay + Congo DR were eliminated — now England red
+// away + France blue home (both alive in the R16), Norway white stays in front.
+// The cutouts were flood-filled from the repo's own product shots.
+const englandPath = resolve(root, "public/images/posts/wc-england-away-cutout.png");
+const francePath = resolve(root, "public/images/posts/wc-france-home-cutout.png");
 const norwayPath = resolve(stash, "norway-white.png");
 
 const composites = [];
@@ -60,14 +63,14 @@ if (existsSync(wcLogoPath)) {
   composites.push({ input: wc, top: BADGE.y + 24, left: BADGE.x + Math.round((BADGE.w - m.width) / 2) });
 }
 
-// Three kits fanned top-right, back to front: Congo DR red, Uruguay celeste, Norway white
-if (existsSync(congoRedPath)) {
-  const congo = await sharp(congoRedPath).resize({ height: 330 }).png().toBuffer();
-  composites.push({ input: congo, top: 160, left: 1170 });
+// Three kits fanned top-right, back to front: England red, France blue, Norway white
+if (existsSync(englandPath)) {
+  const eng = await sharp(englandPath).resize({ height: 330 }).png().toBuffer();
+  composites.push({ input: eng, top: 160, left: 1170 });
 }
-if (existsSync(uruguayPath)) {
-  const uru = await sharp(uruguayPath).resize({ height: 355 }).png().toBuffer();
-  composites.push({ input: uru, top: 105, left: 1010 });
+if (existsSync(francePath)) {
+  const fra = await sharp(francePath).resize({ height: 355 }).png().toBuffer();
+  composites.push({ input: fra, top: 105, left: 1010 });
 }
 if (existsSync(norwayPath)) {
   const norway = await sharp(norwayPath).resize({ height: 395 }).png().toBuffer();
