@@ -2,7 +2,7 @@
 title: "The Most Iconic Rugby Jerseys of All Time, Ranked"
 category: Rugby
 date: '2026-07-04'
-updatedDate: '2026-07-04'
+updatedDate: '2026-07-05'
 excerpt: "The All Blacks' blackout, the Springboks' green and gold, Les Bleus: we rank the 10 most iconic international rugby jerseys and uniforms ever, counted down to No. 1."
 gradient: 'linear-gradient(135deg, #1B3A2B 0%, #0a0a0a 100%)'
 coverImage: "/images/posts/international-rugby-jerseys-cover.jpg"
@@ -24,41 +24,91 @@ This is ColorWay's ranking of the great international rugby jerseys, judged the 
 
 ## 10. Scotland
 
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-scotland-jersey.jpg" alt="Scotland dark navy Macron home rugby jersey with thistle crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">Scotland&#39;s navy Macron home shirt. Image: World Rugby Shop.</p>
+</div>
+
 Dark navy blue with the thistle crest: understated, dignified, and unmistakably Scottish. It rarely tops best-looking lists because it does not shout, but that is the point. It is one of the most quietly classic looks in the Six Nations.
 
 ## 9. Fiji
+
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-fiji-jersey.jpg" alt="Fiji white Umbro home rugby jersey with black palm detailing" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">Fiji&#39;s white Umbro home jersey. Image: World Rugby Shop.</p>
+</div>
 
 White with black-and-palm detailing, Fiji's kit carries the joy of the most thrilling team to watch in world rugby. The shirt is clean, but it is the identity behind it, all flair, offloads, and island pride, that makes it pop every time it is on screen.
 
 ## 8. Argentina (Los Pumas)
 
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-argentina-jersey.jpg" alt="Argentina Los Pumas light blue and white hooped rugby jersey with jaguar crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">Los Pumas&#39; hoops by Le Coq Sportif. Image: Le Coq Sportif.</p>
+</div>
+
 The light-blue-and-white hoops, pulled straight from the national flag, are among the most distinctive stripes in the sport. Add the jaguar crest (long mislabeled a puma) and you have a jersey with genuine personality and one of the best color stories in the Southern Hemisphere.
 
 ## 7. Wales
+
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-wales-jersey.jpg" alt="Wales red Macron home rugby jersey and uniform with three feathers crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">Welsh red with the three feathers. Image: World Rugby Shop.</p>
+</div>
 
 Pure, saturated red with the three feathers. Welsh red is one of the warmest, most passionate colors in the Six Nations, and on a packed Principality Stadium night it turns the whole ground into a single block of color. Simple and ferociously effective.
 
 ## 6. Ireland
 
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-ireland-jersey.jpg" alt="Ireland emerald green Canterbury home rugby jersey with shamrock crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">Ireland&#39;s emerald green Canterbury shirt. Image: World Rugby Shop.</p>
+</div>
+
 Emerald green with the shamrock, a color so tied to national identity that it barely needs explaining. Ireland's green is rich and instantly readable, and the modern shirts have kept it classy without overdesigning it.
 
 ## 5. France (Les Bleus)
+
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-france-jersey.jpg" alt="France Les Bleus blue adidas home rugby jersey with rooster crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">French blue with le coq. Image: World Rugby Shop.</p>
+</div>
 
 French blue is one of sport's great blues: deep, elegant, and effortlessly stylish, exactly as you would expect from France. Le coq crest, white and red trim from the tricolore, and a uniform that always looks the part whether France are brilliant or maddening that day.
 
 ## 4. England
 
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-england-jersey.jpg" alt="England white Castore home rugby jersey and uniform with red rose crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">England&#39;s all white with the red rose. Image: World Rugby Shop.</p>
+</div>
+
 White with the red rose. England's all-white kit is heritage at its purest. The rose crest is one of the oldest and most elegant marks in the sport, and the simplicity lets it carry serious gravitas. The occasional red-trim or change strip never improves on the classic.
 
 ## 3. Australia (Wallabies)
+
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-australia-jersey.jpg" alt="Australia Wallabies gold home rugby jersey with green trim" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">The Wallabies&#39; gold home jersey. Image: iRugbyShop.</p>
+</div>
 
 Gold and green, the other half of the great Southern Hemisphere color rivalry. The Wallabies' bright gold is one of the most cheerful, high-visibility jerseys in the game, and the green trim ties it straight to the national colors. Pure, sunlit Australian identity.
 
 ## 2. South Africa (Springboks)
 
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-south-africa-jersey.jpg" alt="South Africa Springboks green and gold Nike home rugby jersey with springbok crest" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">The Springboks&#39; green and gold Nike shirt. Image: World Rugby Shop.</p>
+</div>
+
 Green and gold, worn by the most successful team in World Cup history. The Springbok jersey is dense with meaning: the deep bottle green, the gold collar, the leaping springbok crest. Few shirts in any sport carry as much weight, history, and national emotion. A genuine icon.
 
 ## 1. New Zealand (All Blacks)
+
+<div style="margin: 1em 0 1.5em; padding: 1.25em; background: #f7f8fa; border: 1px solid #e5e8ee; border-radius: 12px; text-align: center;">
+  <img src="/images/posts/rugby-new-zealand-jersey.jpg" alt="New Zealand All Blacks black adidas home rugby jersey with white collar and silver fern" style="max-height: 360px; max-width: 100%; object-fit: contain; display: inline-block; border-radius: 8px;" />
+  <p style="margin: 0.75em 0 0; font-size: 0.8em; color: #5a6472;">The All Blacks&#39; adidas home jersey, silver fern over the heart. Image: World Rugby Shop.</p>
+</div>
 
 The greatest uniform in rugby and one of the most powerful in all of sport. All black, head to toe, with a single silver fern over the heart. Total visual discipline, zero noise, maximum intimidation. It is the rare kit that has become bigger than the team's results, which are staggering on their own. No crest clutter, no color, no gimmicks. Just black and a fern, and everyone on earth knows exactly who it is.
 
