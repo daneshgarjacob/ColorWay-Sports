@@ -1,0 +1,779 @@
+- generic [ref=f34e1]:
+  - generic [ref=f34e2]:
+    - banner [ref=f34e4]:
+      - generic [ref=f34e6]:
+        - generic [ref=f34e7]:
+          - button "Guide" [active] [ref=f34e9] [cursor=pointer]:
+            - generic [ref=f34e12]:
+              - img
+          - link "YouTube Home" [ref=f34e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f34e19]:
+              - img
+          - button "Skip navigation" [ref=f34e23] [cursor=pointer]:
+            - generic: Skip navigation
+        - generic [ref=f34e27]:
+          - search [ref=f34e28]:
+            - generic [ref=f34e30]:
+              - generic [ref=f34e31]:
+                - combobox "Search" [expanded] [ref=f34e33]: Red Sox vs Angels Game Highlights 7/5/26
+                - button "Clear search query" [ref=f34e35] [cursor=pointer]:
+                  - generic [ref=f34e38]:
+                    - img
+              - button "Search" [ref=f34e42] [cursor=pointer]:
+                - generic [ref=f34e45]:
+                  - img
+          - generic [ref=f34e47]:
+            - button "Search with your voice" [ref=f34e49] [cursor=pointer]
+            - tooltip "tooltip"
+        - generic [ref=f34e54]:
+          - button "Settings" [ref=f34e59] [cursor=pointer]
+          - link "Sign in" [ref=f34e63] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DRed%252BSox%252Bvs%252BAngels%252BGame%252BHighlights%252B7%25252F5%25252F26&hl=en&ec=65620
+            - generic: Sign in
+    - navigation [ref=f34e67]
+    - main [ref=f34e69]:
+      - generic [ref=f34e70]:
+        - generic [ref=f34e72]:
+          - tablist [ref=f34e77]:
+            - tab "All" [selected] [ref=f34e81] [cursor=pointer]:
+              - generic [ref=f34e83]: All
+            - tab "Shorts" [ref=f34e90] [cursor=pointer]:
+              - generic [ref=f34e92]: Shorts
+            - tab "Unwatched" [ref=f34e99] [cursor=pointer]:
+              - generic [ref=f34e101]: Unwatched
+            - tab "Watched" [ref=f34e108] [cursor=pointer]:
+              - generic [ref=f34e110]: Watched
+            - tab "Videos" [ref=f34e117] [cursor=pointer]:
+              - generic [ref=f34e119]: Videos
+            - tab "Recently uploaded" [ref=f34e126] [cursor=pointer]:
+              - generic [ref=f34e128]: Recently uploaded
+            - tab "Live" [ref=f34e135] [cursor=pointer]:
+              - generic [ref=f34e137]: Live
+          - generic [ref=f34e142]:
+            - button "Search filters" [ref=f34e144] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f34e148]:
+          - generic [ref=f34e153]:
+            - generic [ref=f34e162] [cursor=pointer]:
+              - link [ref=f34e163]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXFq0rg9Mavr1FrzOivYP2tGkgAyajd-giAHA0a2CohZkEAEgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHP0-_vP6gDBMgDCqoE3gJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn_IBTA93XHgArMFSYXUsUCz3FDmOMpECqFcRzlYEDyfDH1jDAemq88p8UA1z2Vk2UXO4t9MQK-fTuAEo6ooKDhWL-C6NL9OREftUtP_Pwr0GYAC-uqi52nEbLt_qQkWm11SXdVANSEHFkaYgF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw7KgoKCI7fsQKV4rECYg8KDWNvbS5jaGFydGVyLnVqFwoVY29tLmJyaWdodGhvdXNlLm15YmhueACIAQDSDAIQAdoMJQoKEJCXt7mr0JO8MRICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Nmd2ZZbkc3WExSd0JfOEE2REFsMTRVbW5rVk9aYUpnZmRJQXM2RGVNOFQ4V0g0SldxbUJjQy0yc29QN0FqS2p0Uk5lVURadGlPTzJOWXNBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYASAAEgIJq_D_BwE&num=1&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_0YRC4n5G9YnEFvS2cai3WqNA0h9A&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=f34e168]
+              - generic [ref=f34e172]:
+                - generic [ref=f34e173]:
+                  - generic [ref=f34e174]:
+                    - link "Streaming apps included with live TV. Plus, the best experience to stream live sports." [ref=f34e177]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXFq0rg9Mavr1FrzOivYP2tGkgAyajd-giAHA0a2CohZkEAEgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHP0-_vP6gDBMgDCqoE3gJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn_IBTA93XHgArMFSYXUsUCz3FDmOMpECqFcRzlYEDyfDH1jDAemq88p8UA1z2Vk2UXO4t9MQK-fTuAEo6ooKDhWL-C6NL9OREftUtP_Pwr0GYAC-uqi52nEbLt_qQkWm11SXdVANSEHFkaYgF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw7KgoKCI7fsQKV4rECYg8KDWNvbS5jaGFydGVyLnVqFwoVY29tLmJyaWdodGhvdXNlLm15YmhueACIAQDSDAIQAdoMJQoKEJCXt7mr0JO8MRICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Nmd2ZZbkc3WExSd0JfOEE2REFsMTRVbW5rVk9aYUpnZmRJQXM2RGVNOFQ4V0g0SldxbUJjQy0yc29QN0FqS2p0Uk5lVURadGlPTzJOWXNBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYASAAEgIJq_D_BwE&num=1&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_0YRC4n5G9YnEFvS2cai3WqNA0h9A&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "$100+ of streaming apps included with live TV and Internet you can trust!" [ref=f34e180]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXFq0rg9Mavr1FrzOivYP2tGkgAyajd-giAHA0a2CohZkEAEgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHP0-_vP6gDBMgDCqoE3gJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn_IBTA93XHgArMFSYXUsUCz3FDmOMpECqFcRzlYEDyfDH1jDAemq88p8UA1z2Vk2UXO4t9MQK-fTuAEo6ooKDhWL-C6NL9OREftUtP_Pwr0GYAC-uqi52nEbLt_qQkWm11SXdVANSEHFkaYgF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw7KgoKCI7fsQKV4rECYg8KDWNvbS5jaGFydGVyLnVqFwoVY29tLmJyaWdodGhvdXNlLm15YmhueACIAQDSDAIQAdoMJQoKEJCXt7mr0JO8MRICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Nmd2ZZbkc3WExSd0JfOEE2REFsMTRVbW5rVk9aYUpnZmRJQXM2RGVNOFQ4V0g0SldxbUJjQy0yc29QN0FqS2p0Uk5lVURadGlPTzJOWXNBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYASAAEgIJq_D_BwE&num=1&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_0YRC4n5G9YnEFvS2cai3WqNA0h9A&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=f34e181]:
+                      - button "Spectrum" [ref=f34e185]
+                      - generic [ref=f34e189]:
+                        - generic [ref=f34e190]: Sponsored
+                        - text: ·
+                      - generic [ref=f34e192]: Spectrum
+                  - button "My Ad Center" [ref=f34e195]
+                - generic [ref=f34e201]:
+                  - link "Watch" [ref=f34e204]:
+                    - /url: /watch?v=IMx-dE_Wim4
+                    - generic: Watch
+                  - link "Learn more" [ref=f34e210]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXFq0rg9Mavr1FrzOivYP2tGkgAyajd-giAHA0a2CohZkEAEgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHP0-_vP6gDBMgDCqoE3gJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn_IBTA93XHgArMFSYXUsUCz3FDmOMpECqFcRzlYEDyfDH1jDAemq88p8UA1z2Vk2UXO4t9MQK-fTuAEo6ooKDhWL-C6NL9OREftUtP_Pwr0GYAC-uqi52nEbLt_qQkWm11SXdVANSEHFkaYgF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw7KgoKCI7fsQKV4rECYg8KDWNvbS5jaGFydGVyLnVqFwoVY29tLmJyaWdodGhvdXNlLm15YmhueACIAQDSDAIQAdoMJQoKEJCXt7mr0JO8MRICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Nmd2ZZbkc3WExSd0JfOEE2REFsMTRVbW5rVk9aYUpnZmRJQXM2RGVNOFQ4V0g0SldxbUJjQy0yc29QN0FqS2p0Uk5lVURadGlPTzJOWXNBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYASAAEgIJq_D_BwE&num=1&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_0YRC4n5G9YnEFvS2cai3WqNA0h9A&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Learn more
+            - generic [ref=f34e215]:
+              - link [ref=f34e217] [cursor=pointer]:
+                - /url: /watch?v=htS-VRuPXl8&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                - img [ref=f34e219]
+                - img [ref=f34e222]:
+                  - generic [ref=f34e223]: 11:35
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=f34e224] [cursor=pointer]:
+                - generic [ref=f34e225]:
+                  - heading "Red Sox vs. Angels Game Highlights (7/5/26) | MLB Highlights 11 minutes, 35 seconds" [level=3] [ref=f34e227]:
+                    - link "Red Sox vs. Angels Game Highlights (7/5/26) | MLB Highlights 11 minutes, 35 seconds" [ref=f34e228]:
+                      - /url: /watch?v=htS-VRuPXl8&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Red Sox vs. Angels Game Highlights (7/5/26) | MLB Highlights
+                  - generic [ref=f34e231]:
+                    - generic [ref=f34e232]: 41K views
+                    - generic [ref=f34e233]: •15 hours ago
+                - generic [ref=f34e234]:
+                  - link "Go to channel Boston Red Sox" [ref=f34e235]:
+                    - /url: /@redsox
+                  - generic [ref=f34e237]:
+                    - link "Boston Red Sox" [ref=f34e241]:
+                      - /url: /@redsox
+                    - img "Verified" [ref=f34e246]
+                - generic [ref=f34e248]:
+                  - generic [ref=f34e249]: "Red Sox vs. Angels full game highlights from 7/5/26 Click HERE to subscribe for our latest content: https://bit.ly/2W60uWZ Follow ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e254]:
+                  - generic [ref=f34e255]: New
+                - generic [ref=f34e258]:
+                  - generic [ref=f34e259]:
+                    - generic [ref=f34e262]: Summary
+                    - button "Boston Red Sox and Los Angeles Angels face off in an intense matchup as both teams showcase power hitting throughout the game. Notable defensive plays and strategic pitching changes keep the competition close until the final innings." [ref=f34e263]
+                    - text: ·
+                  - button "More" [ref=f34e268]
+            - generic [ref=f34e273]:
+              - link [ref=f34e275] [cursor=pointer]:
+                - /url: /watch?v=MHePGSWrIJs&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                - img [ref=f34e277]
+                - img [ref=f34e280]:
+                  - generic [ref=f34e281]: 12:16
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=f34e282] [cursor=pointer]:
+                - generic [ref=f34e283]:
+                  - heading "Red Sox vs. Angels Game Highlights (7/3/26) | MLB Highlights 12 minutes, 16 seconds" [level=3] [ref=f34e285]:
+                    - link "Red Sox vs. Angels Game Highlights (7/3/26) | MLB Highlights 12 minutes, 16 seconds" [ref=f34e286]:
+                      - /url: /watch?v=MHePGSWrIJs&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Red Sox vs. Angels Game Highlights (7/3/26) | MLB Highlights
+                  - generic [ref=f34e289]:
+                    - generic [ref=f34e290]: 59K views
+                    - generic [ref=f34e291]: •2 days ago
+                - generic [ref=f34e292]:
+                  - link "Go to channel Boston Red Sox" [ref=f34e293]:
+                    - /url: /@redsox
+                  - generic [ref=f34e295]:
+                    - link "Boston Red Sox" [ref=f34e299]:
+                      - /url: /@redsox
+                    - img "Verified" [ref=f34e304]
+                - generic [ref=f34e306]:
+                  - generic [ref=f34e307]: "Red Sox vs. Angels full game highlights from 7/3/26 Click HERE to subscribe for our latest content: https://bit.ly/2W60uWZ Follow ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e312]:
+                  - generic [ref=f34e313]: New
+                - generic [ref=f34e316]:
+                  - generic [ref=f34e317]:
+                    - generic [ref=f34e320]: Summary
+                    - button "Boston Red Sox face off against the Los Angeles Angels during a Fourth of July weekend matchup in Anaheim. The contest features strong pitching performances and a historical milestone reached by a reliever on the mound as both teams compete for the win." [ref=f34e321]
+                    - text: ·
+                  - button "More" [ref=f34e326]
+            - generic [ref=f34e331]:
+              - link [ref=f34e333] [cursor=pointer]:
+                - /url: /watch?v=UnBOUMyebZM&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                - img [ref=f34e335]
+                - img [ref=f34e338]:
+                  - generic [ref=f34e339]: 10:06
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=f34e340] [cursor=pointer]:
+                - generic [ref=f34e341]:
+                  - heading "Red Sox vs. Angels Game Highlights (7/4/26) | MLB Highlights 10 minutes, 6 seconds" [level=3] [ref=f34e343]:
+                    - link "Red Sox vs. Angels Game Highlights (7/4/26) | MLB Highlights 10 minutes, 6 seconds" [ref=f34e344]:
+                      - /url: /watch?v=UnBOUMyebZM&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Red Sox vs. Angels Game Highlights (7/4/26) | MLB Highlights
+                  - generic [ref=f34e347]:
+                    - generic [ref=f34e348]: 46K views
+                    - generic [ref=f34e349]: •1 day ago
+                - generic [ref=f34e350]:
+                  - link "Go to channel Boston Red Sox" [ref=f34e351]:
+                    - /url: /@redsox
+                  - generic [ref=f34e353]:
+                    - link "Boston Red Sox" [ref=f34e357]:
+                      - /url: /@redsox
+                    - img "Verified" [ref=f34e362]
+                - generic [ref=f34e364]:
+                  - generic [ref=f34e365]: "Red Sox vs. Angels full game highlights from 7/4/26 Click HERE to subscribe for our latest content: https://bit.ly/2W60uWZ Follow ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e370]:
+                  - generic [ref=f34e371]: New
+                - generic [ref=f34e374]:
+                  - generic [ref=f34e375]:
+                    - generic [ref=f34e378]: Summary
+                    - button "Boston Red Sox pitchers and batters showcase their skills during a competitive holiday matchup against the Los Angeles Angels. The game features significant offensive plays and strategic fielding efforts as both teams vie for control throughout the series." [ref=f34e379]
+                    - text: ·
+                  - button "More" [ref=f34e384]
+            - generic [ref=f34e389]:
+              - link [ref=f34e391] [cursor=pointer]:
+                - /url: /watch?v=0e_ql06DyAY&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e393] [cursor=pointer]:
+                - generic [ref=f34e394]:
+                  - 'heading "RED SOX vs. ANGELS: Official Full Game Highlights (July 5) | 2026 MLB Season 11 minutes, 35 seconds" [level=3] [ref=f34e396]':
+                    - 'link "RED SOX vs. ANGELS: Official Full Game Highlights (July 5) | 2026 MLB Season 11 minutes, 35 seconds" [ref=f34e397]':
+                      - /url: /watch?v=0e_ql06DyAY&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: "RED SOX vs. ANGELS: Official Full Game Highlights (July 5) | 2026 MLB Season"
+                  - generic [ref=f34e400]:
+                    - generic [ref=f34e401]: 49K views
+                    - generic [ref=f34e402]: •15 hours ago
+                - generic [ref=f34e403]:
+                  - link "Go to channel MLB" [ref=f34e404]:
+                    - /url: /@MLB
+                  - generic [ref=f34e406]:
+                    - link "MLB" [ref=f34e410]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e415]
+                - generic [ref=f34e417]:
+                  - generic [ref=f34e418]: Red Sox vs. Angels full game highlights from 7/5/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e423]:
+                  - generic [ref=f34e424]: New
+                - generic [ref=f34e427]:
+                  - generic [ref=f34e428]:
+                    - generic [ref=f34e431]: Summary
+                    - button "Ranger Suárez takes the mound for the Red Sox against an Angels lineup aiming to capitalize on early-game opportunities. Both teams navigate shifting momentum and defensive challenges throughout a competitive matchup, pushing for offensive production during this mid-season encounter." [ref=f34e432]
+                    - text: ·
+                  - button "More" [ref=f34e437]
+            - generic [ref=f34e445]:
+              - img [ref=f34e451]
+              - generic [ref=f34e453] [cursor=pointer]:
+                - generic [ref=f34e454]:
+                  - link "Apartments For Rent" [ref=f34e457]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cgizkrg9Mavr1FrzOivYP2tGkgAzfo7u7hwHem-Sw1hNkEAMgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGWhqGHP6gDBMgDCqoEuwJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn74ZTA93XHlYEe2-bT0jFr783F5OIbHkhegibcNzzac_VNK0qlfUnmAZOCJpuf61w5Me0q1YIzuzFeTV4qqBUNf9UlVp2j1OIBf795qpTkgUICBN42uaL-hmgBm6AB5a-8eYZkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCR9odHRwczovL3d3dy50aGVkYXZpbmNpYXB0cy5jb20vsQkHfwSrT61hq8gJAMgJigKYCwG6C0EIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDCXZpY2JmemFjYdALEqIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ4MG67q3ZhZ3KARICAQMaDRj-_eaqUyDQldu6qAVAAUoCEB-aDQESqg0CVVPIDQHSDVVodHRwczovL3d3dy50aGVkYXZpbmNpYXB0cy5jb20vP3V0bV9rbm9jaz1HUFMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyMzY5OTEwNTI2uBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1L5tqr0mG86uhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYAyAAEgLYs_D_BwE&num=3&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&sig=AOD64_1agC689PK_l1yeHHfEdY3gkEGceQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Stunning Apartments, Incredible Views, And Upscale Features Await You At Da Vinci." [ref=f34e460]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cgizkrg9Mavr1FrzOivYP2tGkgAzfo7u7hwHem-Sw1hNkEAMgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGWhqGHP6gDBMgDCqoEuwJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn74ZTA93XHlYEe2-bT0jFr783F5OIbHkhegibcNzzac_VNK0qlfUnmAZOCJpuf61w5Me0q1YIzuzFeTV4qqBUNf9UlVp2j1OIBf795qpTkgUICBN42uaL-hmgBm6AB5a-8eYZkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCR9odHRwczovL3d3dy50aGVkYXZpbmNpYXB0cy5jb20vsQkHfwSrT61hq8gJAMgJigKYCwG6C0EIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDCXZpY2JmemFjYdALEqIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ4MG67q3ZhZ3KARICAQMaDRj-_eaqUyDQldu6qAVAAUoCEB-aDQESqg0CVVPIDQHSDVVodHRwczovL3d3dy50aGVkYXZpbmNpYXB0cy5jb20vP3V0bV9rbm9jaz1HUFMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIyMzY5OTEwNTI2uBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1L5tqr0mG86uhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYAyAAEgLYs_D_BwE&num=3&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&sig=AOD64_1agC689PK_l1yeHHfEdY3gkEGceQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=f34e461]:
+                    - generic [ref=f34e463]:
+                      - generic [ref=f34e464]: Sponsored
+                      - text: ·
+                    - generic [ref=f34e466]: The Da Vinci
+                - button "My Ad Center" [ref=f34e469]
+            - generic [ref=f34e474]:
+              - link [ref=f34e476] [cursor=pointer]:
+                - /url: /watch?v=S5chmcEJL2M&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e478] [cursor=pointer]:
+                - generic [ref=f34e479]:
+                  - heading "Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights 10 minutes, 9 seconds" [level=3] [ref=f34e481]:
+                    - link "Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights 10 minutes, 9 seconds" [ref=f34e482]:
+                      - /url: /watch?v=S5chmcEJL2M&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights
+                  - generic [ref=f34e485]:
+                    - generic [ref=f34e486]: 71K views
+                    - generic [ref=f34e487]: •16 hours ago
+                - generic [ref=f34e488]:
+                  - link "Go to channel San Diego Padres" [ref=f34e489]:
+                    - /url: /@Padres
+                  - generic [ref=f34e490]:
+                    - link "San Diego Padres" [ref=f34e494]:
+                      - /url: /@Padres
+                    - img "Verified" [ref=f34e499]
+                - generic [ref=f34e501]:
+                  - generic [ref=f34e502]: "Dodgers vs. Padres full game highlights from 7/5/26 Like and subscribe for more videos from the San Diego Padres: ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e507]:
+                  - generic [ref=f34e508]: New
+                - generic [ref=f34e511]:
+                  - generic [ref=f34e512]:
+                    - generic [ref=f34e515]: Summary
+                    - button "As the Dodgers aim for a rare four-game sweep at home, Emmet Sheehan and the pitching staff face off against the Padres. The San Diego Padres look to overcome recent challenges as star players compete in this high-stakes weekend matchup." [ref=f34e516]
+                    - text: ·
+                  - button "More" [ref=f34e521]
+            - generic [ref=f34e526]:
+              - link [ref=f34e528] [cursor=pointer]:
+                - /url: /watch?v=dxc4k9xuBD4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e530] [cursor=pointer]:
+                - generic [ref=f34e531]:
+                  - heading "Red Sox vs. Angels Game Highlights (7/5/21) MLB Highlights 7 minutes, 8 seconds" [level=3] [ref=f34e533]:
+                    - link "Red Sox vs. Angels Game Highlights (7/5/21) MLB Highlights 7 minutes, 8 seconds" [ref=f34e534]:
+                      - /url: /watch?v=dxc4k9xuBD4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Red Sox vs. Angels Game Highlights (7/5/21) MLB Highlights
+                  - generic [ref=f34e537]:
+                    - generic [ref=f34e538]: 425K views
+                    - generic [ref=f34e539]: •5 years ago
+                - generic [ref=f34e540]:
+                  - link "Go to channel MLB" [ref=f34e541]:
+                    - /url: /@MLB
+                  - generic [ref=f34e542]:
+                    - link "MLB" [ref=f34e546]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e551]
+                - generic [ref=f34e553]:
+                  - generic [ref=f34e554]: Red Sox vs. Angels full game highlights from 7/5/21 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - generic [ref=f34e557]:
+                  - generic [ref=f34e558]:
+                    - generic [ref=f34e562]: 4 chapters
+                    - button "Jose Suarez | Christian Arroyo | Danny Santana | Jose Rojas" [ref=f34e563]
+                  - button "More" [ref=f34e568]
+            - generic [ref=f34e573]:
+              - link [ref=f34e575] [cursor=pointer]:
+                - /url: /watch?v=QAGkmBcclD4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e577] [cursor=pointer]:
+                - generic [ref=f34e578]:
+                  - heading "Boston Red Sox vs Los Angeles Angels - FULL GAME HIGHLIGHTS 🔥 July 3, 2026 MLB Season 10 minutes" [level=3] [ref=f34e580]:
+                    - link "Boston Red Sox vs Los Angeles Angels - FULL GAME HIGHLIGHTS 🔥 July 3, 2026 MLB Season 10 minutes" [ref=f34e581]:
+                      - /url: /watch?v=QAGkmBcclD4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Boston Red Sox vs Los Angeles Angels - FULL GAME HIGHLIGHTS 🔥 July 3, 2026 MLB Season
+                  - generic [ref=f34e584]:
+                    - generic [ref=f34e585]: 11K views
+                    - generic [ref=f34e586]: •2 days ago
+                - generic [ref=f34e587]:
+                  - link "Go to channel House of Highlights" [ref=f34e588]:
+                    - /url: /@Houseofhighlights
+                  - generic [ref=f34e589]:
+                    - link "House of Highlights" [ref=f34e593]:
+                      - /url: /@Houseofhighlights
+                    - img "Verified" [ref=f34e598]
+                - generic [ref=f34e600]:
+                  - generic [ref=f34e601]: Boston Red Sox vs Los Angeles Angels full game highlights from July 3, 2026 MLB season. ⛽ SUB TO HOUSE OF HIGHLIGHTS ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e606]:
+                  - generic [ref=f34e607]: New
+                - generic [ref=f34e610]:
+                  - generic [ref=f34e611]:
+                    - generic [ref=f34e614]: Summary
+                    - button "House of Highlights presents key moments from this mid-season MLB matchup. Pitchers take center stage as both squads look to secure an advantage on the road, showcasing strategic plays and notable defensive efforts throughout the contest." [ref=f34e615]
+                    - text: ·
+                  - button "More" [ref=f34e620]
+            - generic [ref=f34e625]:
+              - link [ref=f34e627] [cursor=pointer]:
+                - /url: /watch?v=LxUrWa59OEk&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e629] [cursor=pointer]:
+                - generic [ref=f34e630]:
+                  - 'heading "RED SOX vs. ANGELS: Official Full Game Highlights (July 3) | 2026 MLB Season 12 minutes, 16 seconds" [level=3] [ref=f34e632]':
+                    - 'link "RED SOX vs. ANGELS: Official Full Game Highlights (July 3) | 2026 MLB Season 12 minutes, 16 seconds" [ref=f34e633]':
+                      - /url: /watch?v=LxUrWa59OEk&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: "RED SOX vs. ANGELS: Official Full Game Highlights (July 3) | 2026 MLB Season"
+                  - generic [ref=f34e636]:
+                    - generic [ref=f34e637]: 52K views
+                    - generic [ref=f34e638]: •2 days ago
+                - generic [ref=f34e639]:
+                  - link "Go to channel MLB" [ref=f34e640]:
+                    - /url: /@MLB
+                  - generic [ref=f34e641]:
+                    - link "MLB" [ref=f34e645]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e650]
+                - generic [ref=f34e652]:
+                  - generic [ref=f34e653]: Red Sox vs. Angels full game highlights from 7/3/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e658]:
+                  - generic [ref=f34e659]: New
+                - generic [ref=f34e662]:
+                  - generic [ref=f34e663]:
+                    - generic [ref=f34e666]: Summary
+                    - button "As the Red Sox travel to face the Angels during the Fourth of July weekend, the game features a spotlight on pitching performances and individual milestones. MLB highlights coverage shows both clubs navigating the early innings as they look to build momentum during this series opener in Anaheim." [ref=f34e667]
+                    - text: ·
+                  - button "More" [ref=f34e672]
+            - generic [ref=f34e677]:
+              - link [ref=f34e679] [cursor=pointer]:
+                - /url: /watch?v=tQy3kHdfsoc&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e681] [cursor=pointer]:
+                - generic [ref=f34e682]:
+                  - 'heading "RED SOX vs. ANGELS: Official Full Game Highlights (July 4) | 2026 MLB Season 10 minutes, 6 seconds" [level=3] [ref=f34e684]':
+                    - 'link "RED SOX vs. ANGELS: Official Full Game Highlights (July 4) | 2026 MLB Season 10 minutes, 6 seconds" [ref=f34e685]':
+                      - /url: /watch?v=tQy3kHdfsoc&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: "RED SOX vs. ANGELS: Official Full Game Highlights (July 4) | 2026 MLB Season"
+                  - generic [ref=f34e688]:
+                    - generic [ref=f34e689]: 46K views
+                    - generic [ref=f34e690]: •1 day ago
+                - generic [ref=f34e691]:
+                  - link "Go to channel MLB" [ref=f34e692]:
+                    - /url: /@MLB
+                  - generic [ref=f34e693]:
+                    - link "MLB" [ref=f34e697]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e702]
+                - generic [ref=f34e704]:
+                  - generic [ref=f34e705]: Red Sox vs. Angels full game highlights from 7/4/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e710]:
+                  - generic [ref=f34e711]: New
+                - generic [ref=f34e714]:
+                  - generic [ref=f34e715]:
+                    - generic [ref=f34e718]: Summary
+                    - button "Sunny Gray delivers a dominant performance on the mound for the Red Sox. The offense provides essential support with multiple home runs during this holiday matchup against the Angels." [ref=f34e719]
+                    - text: ·
+                  - button "More" [ref=f34e724]
+            - generic [ref=f34e736] [cursor=pointer]:
+              - link [ref=f34e737]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQ66srg9Mavr1FrzOivYP2tGkgAyhpo-giAHVivrR_hVkEAQgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHa0fapAagDBMgDCqoE3wJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPnj4tTA93XHnh3O2ucXUsUCz3FDmOMpCSqFcRzlY8FusHf1jDAemq88p9GH-r1Vk2UXO4fLV-awM95HxUkVZBU1U2q0ZOW29A6sM2BstjSr0qLz3-B_vRkvkbHoz-_pRd7xwfdWhXdDy56nruIBdv2359ZkgUICBN41-Pt1gKgBqEBgAeOronWApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa1VzNTdVcFlMMGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjw-5jS8b6VA2ABmgk7aHR0cHM6Ly93d3cuY29uc3RhbnRjb250YWN0LmNvbS9sYW5kaW5nMi9wcm9tcHQtdG8tcHJvZ3Jlc3OxCSY4bdvmlUnHyAkXyAmPAcgJwgG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDCXZpY2JmemFjYdALEuALAaIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ0Ka6_83ZrIfnARICAQMaDRjb9t-fWSC31MLb4QVAAUoCEB-aDQESqg0CVVPIDQHSDdQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04xNTc1NjA0LjM0MjE3MThZT1VUVUJFVVMvQjMyNDc4ODIwLjQ1MDc0MzM0NztkY190cmtfYWlkPTY0NDYwODk5NDtkY190cmtfY2lkPTI1ODkxMzAxODtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUkyX2JmbjFtb0F0Zmo3ZFlDc0FLUXYtM3FBMEE3RUt1end0WUNFeE5DRElOblgwVDgxX051VEZMTFlBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRF92YXE4QzFIcEw2X3haNUd2QmhjZ1lpU3ZqNVI5VmJiXzkwZ250UGVGRTd2XzFoUjZkeDhTRjdEakpFak50YkFMUG5oWWFFbE1ZeVlORnc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5jb25zdGFudGNvbnRhY3QuY29tL2xhbmRpbmcyL3Byb21wdC10by1wcm9ncmVzcz9jYz1DTEtfMzI0Nzg4MjBfNzAyNDM1OV80NTA3NDMzNDdfMjU4OTEzMDE4JnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fbWVkaXVtPXZpZGVvJnV0bV9jYW1wYWlnbj1icmRfdXNfZW5feXRfdmlkX2F3X3RvZl9tcF9icl9ibGlmdDI2JmRjbGlkPUNLeTYtYW42c1pVREZXMWR3QVlkaERVUmlnJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzk1NzMzODk3MbAT38udI7gT____________AYgUA7AUA8AVgYCAQNAVAdgVAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRendwnBPdtyd7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYBCAAEgLnjfD_BwE&num=4&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_1YESSPTjI_dqoBdxjxDlcSj5VFkQ&ctype=110&video_id=kUs57UpYL0g&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=f34e742]
+              - generic [ref=f34e746]:
+                - generic [ref=f34e747]:
+                  - generic [ref=f34e748]:
+                    - link "If you prompt it, we can build it." [ref=f34e751]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQ66srg9Mavr1FrzOivYP2tGkgAyhpo-giAHVivrR_hVkEAQgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHa0fapAagDBMgDCqoE3wJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPnj4tTA93XHnh3O2ucXUsUCz3FDmOMpCSqFcRzlY8FusHf1jDAemq88p9GH-r1Vk2UXO4fLV-awM95HxUkVZBU1U2q0ZOW29A6sM2BstjSr0qLz3-B_vRkvkbHoz-_pRd7xwfdWhXdDy56nruIBdv2359ZkgUICBN41-Pt1gKgBqEBgAeOronWApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa1VzNTdVcFlMMGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjw-5jS8b6VA2ABmgk7aHR0cHM6Ly93d3cuY29uc3RhbnRjb250YWN0LmNvbS9sYW5kaW5nMi9wcm9tcHQtdG8tcHJvZ3Jlc3OxCSY4bdvmlUnHyAkXyAmPAcgJwgG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDCXZpY2JmemFjYdALEuALAaIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ0Ka6_83ZrIfnARICAQMaDRjb9t-fWSC31MLb4QVAAUoCEB-aDQESqg0CVVPIDQHSDdQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04xNTc1NjA0LjM0MjE3MThZT1VUVUJFVVMvQjMyNDc4ODIwLjQ1MDc0MzM0NztkY190cmtfYWlkPTY0NDYwODk5NDtkY190cmtfY2lkPTI1ODkxMzAxODtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUkyX2JmbjFtb0F0Zmo3ZFlDc0FLUXYtM3FBMEE3RUt1end0WUNFeE5DRElOblgwVDgxX051VEZMTFlBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRF92YXE4QzFIcEw2X3haNUd2QmhjZ1lpU3ZqNVI5VmJiXzkwZ250UGVGRTd2XzFoUjZkeDhTRjdEakpFak50YkFMUG5oWWFFbE1ZeVlORnc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5jb25zdGFudGNvbnRhY3QuY29tL2xhbmRpbmcyL3Byb21wdC10by1wcm9ncmVzcz9jYz1DTEtfMzI0Nzg4MjBfNzAyNDM1OV80NTA3NDMzNDdfMjU4OTEzMDE4JnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fbWVkaXVtPXZpZGVvJnV0bV9jYW1wYWlnbj1icmRfdXNfZW5feXRfdmlkX2F3X3RvZl9tcF9icl9ibGlmdDI2JmRjbGlkPUNLeTYtYW42c1pVREZXMWR3QVlkaERVUmlnJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzk1NzMzODk3MbAT38udI7gT____________AYgUA7AUA8AVgYCAQNAVAdgVAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRendwnBPdtyd7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYBCAAEgLnjfD_BwE&num=4&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_1YESSPTjI_dqoBdxjxDlcSj5VFkQ&ctype=110&video_id=kUs57UpYL0g&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "AI tools for your small business." [ref=f34e754]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQ66srg9Mavr1FrzOivYP2tGkgAyhpo-giAHVivrR_hVkEAQgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHa0fapAagDBMgDCqoE3wJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPnj4tTA93XHnh3O2ucXUsUCz3FDmOMpCSqFcRzlY8FusHf1jDAemq88p9GH-r1Vk2UXO4fLV-awM95HxUkVZBU1U2q0ZOW29A6sM2BstjSr0qLz3-B_vRkvkbHoz-_pRd7xwfdWhXdDy56nruIBdv2359ZkgUICBN41-Pt1gKgBqEBgAeOronWApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa1VzNTdVcFlMMGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjw-5jS8b6VA2ABmgk7aHR0cHM6Ly93d3cuY29uc3RhbnRjb250YWN0LmNvbS9sYW5kaW5nMi9wcm9tcHQtdG8tcHJvZ3Jlc3OxCSY4bdvmlUnHyAkXyAmPAcgJwgG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDCXZpY2JmemFjYdALEuALAaIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ0Ka6_83ZrIfnARICAQMaDRjb9t-fWSC31MLb4QVAAUoCEB-aDQESqg0CVVPIDQHSDdQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04xNTc1NjA0LjM0MjE3MThZT1VUVUJFVVMvQjMyNDc4ODIwLjQ1MDc0MzM0NztkY190cmtfYWlkPTY0NDYwODk5NDtkY190cmtfY2lkPTI1ODkxMzAxODtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUkyX2JmbjFtb0F0Zmo3ZFlDc0FLUXYtM3FBMEE3RUt1end0WUNFeE5DRElOblgwVDgxX051VEZMTFlBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRF92YXE4QzFIcEw2X3haNUd2QmhjZ1lpU3ZqNVI5VmJiXzkwZ250UGVGRTd2XzFoUjZkeDhTRjdEakpFak50YkFMUG5oWWFFbE1ZeVlORnc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5jb25zdGFudGNvbnRhY3QuY29tL2xhbmRpbmcyL3Byb21wdC10by1wcm9ncmVzcz9jYz1DTEtfMzI0Nzg4MjBfNzAyNDM1OV80NTA3NDMzNDdfMjU4OTEzMDE4JnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fbWVkaXVtPXZpZGVvJnV0bV9jYW1wYWlnbj1icmRfdXNfZW5feXRfdmlkX2F3X3RvZl9tcF9icl9ibGlmdDI2JmRjbGlkPUNLeTYtYW42c1pVREZXMWR3QVlkaERVUmlnJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzk1NzMzODk3MbAT38udI7gT____________AYgUA7AUA8AVgYCAQNAVAdgVAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRendwnBPdtyd7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYBCAAEgLnjfD_BwE&num=4&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_1YESSPTjI_dqoBdxjxDlcSj5VFkQ&ctype=110&video_id=kUs57UpYL0g&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=f34e755]:
+                      - button "Constant Contact" [ref=f34e759]
+                      - generic [ref=f34e763]:
+                        - generic [ref=f34e764]: Sponsored
+                        - text: ·
+                      - generic [ref=f34e766]: Constant Contact
+                  - button "My Ad Center" [ref=f34e769]
+                - generic [ref=f34e775]:
+                  - link "Watch" [ref=f34e778]:
+                    - /url: /watch?v=kUs57UpYL0g
+                    - generic: Watch
+                  - link "Start now" [ref=f34e784]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQ66srg9Mavr1FrzOivYP2tGkgAyhpo-giAHVivrR_hVkEAQgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHa0fapAagDBMgDCqoE3wJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPnj4tTA93XHnh3O2ucXUsUCz3FDmOMpCSqFcRzlY8FusHf1jDAemq88p9GH-r1Vk2UXO4fLV-awM95HxUkVZBU1U2q0ZOW29A6sM2BstjSr0qLz3-B_vRkvkbHoz-_pRd7xwfdWhXdDy56nruIBdv2359ZkgUICBN41-Pt1gKgBqEBgAeOronWApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLa1VzNTdVcFlMMGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjw-5jS8b6VA2ABmgk7aHR0cHM6Ly93d3cuY29uc3RhbnRjb250YWN0LmNvbS9sYW5kaW5nMi9wcm9tcHQtdG8tcHJvZ3Jlc3OxCSY4bdvmlUnHyAkXyAmPAcgJwgG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDCXZpY2JmemFjYdALEuALAaIMDCoKCgiO37ECleKxAtIMAhAB2gwmCgsQ0Ka6_83ZrIfnARICAQMaDRjb9t-fWSC31MLb4QVAAUoCEB-aDQESqg0CVVPIDQHSDdQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04xNTc1NjA0LjM0MjE3MThZT1VUVUJFVVMvQjMyNDc4ODIwLjQ1MDc0MzM0NztkY190cmtfYWlkPTY0NDYwODk5NDtkY190cmtfY2lkPTI1ODkxMzAxODtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUkyX2JmbjFtb0F0Zmo3ZFlDc0FLUXYtM3FBMEE3RUt1end0WUNFeE5DRElOblgwVDgxX051VEZMTFlBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRF92YXE4QzFIcEw2X3haNUd2QmhjZ1lpU3ZqNVI5VmJiXzkwZ250UGVGRTd2XzFoUjZkeDhTRjdEakpFak50YkFMUG5oWWFFbE1ZeVlORnc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5jb25zdGFudGNvbnRhY3QuY29tL2xhbmRpbmcyL3Byb21wdC10by1wcm9ncmVzcz9jYz1DTEtfMzI0Nzg4MjBfNzAyNDM1OV80NTA3NDMzNDdfMjU4OTEzMDE4JnV0bV9zb3VyY2U9eW91dHViZSZ1dG1fbWVkaXVtPXZpZGVvJnV0bV9jYW1wYWlnbj1icmRfdXNfZW5feXRfdmlkX2F3X3RvZl9tcF9icl9ibGlmdDI2JmRjbGlkPUNLeTYtYW42c1pVREZXMWR3QVlkaERVUmlnJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzk1NzMzODk3MbAT38udI7gT____________AYgUA7AUA8AVgYCAQNAVAdgVAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRendwnBPdtyd7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYBCAAEgLnjfD_BwE&num=4&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_1YESSPTjI_dqoBdxjxDlcSj5VFkQ&ctype=110&video_id=kUs57UpYL0g&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Start now
+            - generic [ref=f34e788]:
+              - generic [ref=f34e791]:
+                - img [ref=f34e793]
+                - heading "Shorts" [level=2] [ref=f34e796]
+              - generic [ref=f34e797]:
+                - generic [ref=f34e798]:
+                  - generic [ref=f34e801]:
+                    - link [ref=f34e802] [cursor=pointer]:
+                      - /url: /shorts/5a55p4KcYDo
+                      - img [ref=f34e807]:
+                        - generic [ref=f34e808]: New
+                    - generic [ref=f34e809] [cursor=pointer]:
+                      - link "Red Sox vs. Angels 7/5/26 MLB Pick Prediction" [ref=f34e810]:
+                        - /url: /shorts/5a55p4KcYDo
+                      - generic [ref=f34e811]: 281 views
+                    - button "More actions" [ref=f34e813] [cursor=pointer]
+                  - generic [ref=f34e819]:
+                    - link [ref=f34e820] [cursor=pointer]:
+                      - /url: /shorts/nv7VuDxA9y0
+                      - img [ref=f34e825]:
+                        - generic [ref=f34e826]: New
+                    - generic [ref=f34e827] [cursor=pointer]:
+                      - 'link "Red Sox vs Angels Highlights Today | Full Game Highlights & Best Moments | MLB 2026#usa #mlb #shorts" [ref=f34e828]':
+                        - /url: /shorts/nv7VuDxA9y0
+                      - generic [ref=f34e829]: 8.4K views
+                    - button "More actions" [ref=f34e831] [cursor=pointer]
+                  - generic [ref=f34e837]:
+                    - link [ref=f34e838] [cursor=pointer]:
+                      - /url: /shorts/kFt8K36nl1g
+                      - img [ref=f34e843]:
+                        - generic [ref=f34e844]: New
+                    - generic [ref=f34e845] [cursor=pointer]:
+                      - 'link "Red Sox vs. Angels Freestyle- 7/5/2026 #shorts" [ref=f34e846]':
+                        - /url: /shorts/kFt8K36nl1g
+                      - generic [ref=f34e847]: 125 views
+                    - button "More actions" [ref=f34e849] [cursor=pointer]
+                - generic [ref=f34e853]:
+                  - generic [ref=f34e856]:
+                    - link [ref=f34e857] [cursor=pointer]:
+                      - /url: /shorts/KDbZzAhd0Y8
+                      - img [ref=f34e862]:
+                        - generic [ref=f34e863]: New
+                    - generic [ref=f34e864] [cursor=pointer]:
+                      - 'link "Cujo’s MLB Picks | Red Sox vs Angels ⚾ 07-05-2026 #CujoCatches" [ref=f34e865]':
+                        - /url: /shorts/KDbZzAhd0Y8
+                      - generic [ref=f34e866]: 581 views
+                    - button "More actions" [ref=f34e868] [cursor=pointer]
+                  - generic [ref=f34e874]:
+                    - link [ref=f34e875] [cursor=pointer]:
+                      - /url: /shorts/VQlCBLKmYko
+                      - img [ref=f34e880]:
+                        - generic [ref=f34e881]: New
+                    - generic [ref=f34e882] [cursor=pointer]:
+                      - 'link "Red Sox at Angels Highlights - July 5, 2026: Late Anaheim Comeback Bid" [ref=f34e883]':
+                        - /url: /shorts/VQlCBLKmYko
+                      - generic [ref=f34e884]: 5 views
+                    - button "More actions" [ref=f34e886] [cursor=pointer]
+            - generic [ref=f34e891]:
+              - link [ref=f34e893] [cursor=pointer]:
+                - /url: /watch?v=uVrvH0l82D4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e895] [cursor=pointer]:
+                - generic [ref=f34e896]:
+                  - 'heading "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season 10 minutes, 9 seconds" [level=3] [ref=f34e898]':
+                    - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season 10 minutes, 9 seconds" [ref=f34e899]':
+                      - /url: /watch?v=uVrvH0l82D4&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season"
+                  - generic [ref=f34e902]:
+                    - generic [ref=f34e903]: 326K views
+                    - generic [ref=f34e904]: •17 hours ago
+                - generic [ref=f34e905]:
+                  - link "Go to channel MLB" [ref=f34e906]:
+                    - /url: /@MLB
+                  - generic [ref=f34e907]:
+                    - link "MLB" [ref=f34e911]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e916]
+                - generic [ref=f34e918]:
+                  - generic [ref=f34e919]: Padres vs. Dodgers full game highlights from 7/5/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e924]:
+                  - generic [ref=f34e925]: New
+                - generic [ref=f34e928]:
+                  - generic [ref=f34e929]:
+                    - generic [ref=f34e932]: Summary
+                    - button "As the Dodgers aim for a four-game sweep at home, Shohei Ohtani celebrates a birthday against the Padres. Emmet Sheehan takes the mound while analysts examine pitching strategies and competitive zones before the intense matchup unfolds at Dodger Stadium." [ref=f34e933]
+                    - text: ·
+                  - button "More" [ref=f34e938]
+            - generic [ref=f34e943]:
+              - link [ref=f34e945] [cursor=pointer]:
+                - /url: /watch?v=9Z5k5Q3E4Ik&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNtIHCQlOCwGHKiGM7w%3D%3D
+              - generic [ref=f34e947] [cursor=pointer]:
+                - generic [ref=f34e948]:
+                  - heading "Rays vs. Astros Game Highlights (7/5/26) | MLB Highlights 10 minutes, 10 seconds" [level=3] [ref=f34e950]:
+                    - link "Rays vs. Astros Game Highlights (7/5/26) | MLB Highlights 10 minutes, 10 seconds" [ref=f34e951]:
+                      - /url: /watch?v=9Z5k5Q3E4Ik&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNtIHCQlOCwGHKiGM7w%3D%3D
+                      - text: Rays vs. Astros Game Highlights (7/5/26) | MLB Highlights
+                  - generic [ref=f34e954]:
+                    - generic [ref=f34e955]: 29K views
+                    - generic [ref=f34e956]: •21 hours ago
+                - generic [ref=f34e957]:
+                  - link "Go to channel Houston Astros" [ref=f34e958]:
+                    - /url: /@astros
+                  - generic [ref=f34e959]:
+                    - link "Houston Astros" [ref=f34e963]:
+                      - /url: /@astros
+                    - img "Verified" [ref=f34e968]
+                - generic [ref=f34e970]:
+                  - generic [ref=f34e971]: "Rays vs. Astros full game highlights from 7/5/26 Check out http://MLB.com/video for more! About MLB.com: About MLB.com: ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e976]:
+                  - generic [ref=f34e977]: New
+                - generic [ref=f34e980]:
+                  - generic [ref=f34e981]:
+                    - generic [ref=f34e984]: Summary
+                    - button "Pitcher Peter Lambert and Mason Englert headline this rubber game as the Tampa Bay Rays face the Houston Astros. Both clubs rely on dominant pitching performances to keep the contest competitive throughout the afternoon." [ref=f34e985]
+                    - text: ·
+                  - button "More" [ref=f34e990]
+            - generic [ref=f34e994]:
+              - generic [ref=f34e997]:
+                - img [ref=f34e999]
+                - heading "Shorts" [level=2] [ref=f34e1002]
+              - generic [ref=f34e1003]:
+                - generic [ref=f34e1004]:
+                  - generic [ref=f34e1007]:
+                    - link [ref=f34e1008] [cursor=pointer]:
+                      - /url: /shorts/VHQPXrFOwRc
+                      - img [ref=f34e1013]:
+                        - generic [ref=f34e1014]: New
+                    - generic [ref=f34e1015] [cursor=pointer]:
+                      - 'link "RED SOX Bounce Back! Tempers Flare As BOSTON Beat the ANGELS 5-2- Full Highlights #baseball #mlb" [ref=f34e1016]':
+                        - /url: /shorts/VHQPXrFOwRc
+                      - generic [ref=f34e1017]: 1.3K views
+                    - button "More actions" [ref=f34e1019] [cursor=pointer]
+                  - generic [ref=f34e1025]:
+                    - link [ref=f34e1026] [cursor=pointer]:
+                      - /url: /shorts/doDIxGf1Q3Y
+                      - img [ref=f34e1031]:
+                        - generic [ref=f34e1032]: New
+                    - generic [ref=f34e1033] [cursor=pointer]:
+                      - 'link "Red Sox @ Angels (7/3/26): Aroldis Chapman Pitching" [ref=f34e1034]':
+                        - /url: /shorts/doDIxGf1Q3Y
+                      - generic [ref=f34e1035]: 1.7K views
+                    - button "More actions" [ref=f34e1037] [cursor=pointer]
+                  - generic [ref=f34e1043]:
+                    - link [ref=f34e1044] [cursor=pointer]:
+                      - /url: /shorts/OXBXDP81n6Y
+                      - img [ref=f34e1049]:
+                        - generic [ref=f34e1050]: New
+                    - generic [ref=f34e1051] [cursor=pointer]:
+                      - link "Chicago White Sox at Cleveland Guardians — 2026-07-05 Full Highlights | MLB Recap" [ref=f34e1052]:
+                        - /url: /shorts/OXBXDP81n6Y
+                      - generic [ref=f34e1053]: 34 views
+                    - button "More actions" [ref=f34e1055] [cursor=pointer]
+                - generic [ref=f34e1059]:
+                  - generic [ref=f34e1062]:
+                    - link [ref=f34e1063] [cursor=pointer]:
+                      - /url: /shorts/U-0WKkSJtYA
+                      - img [ref=f34e1068]:
+                        - generic [ref=f34e1069]: New
+                    - generic [ref=f34e1070] [cursor=pointer]:
+                      - 'link "ZACH NETO LAUNCHES🚀🚀 19TH HOMERUN OF SEASON IN ANGELS LOSS TO THE REDSOX #shorts #MLB #viral" [ref=f34e1071]':
+                        - /url: /shorts/U-0WKkSJtYA
+                      - generic [ref=f34e1072]: 857 views
+                    - button "More actions" [ref=f34e1074] [cursor=pointer]
+                  - generic [ref=f34e1080]:
+                    - link [ref=f34e1081] [cursor=pointer]:
+                      - /url: /shorts/nX11tdKeKPE
+                    - generic [ref=f34e1085] [cursor=pointer]:
+                      - link "Great catch in the Los Angeles Angels in Boston Red Sox gam" [ref=f34e1086]:
+                        - /url: /shorts/nX11tdKeKPE
+                      - generic [ref=f34e1087]: 7.7K views
+                    - button "More actions" [ref=f34e1089] [cursor=pointer]
+                  - generic [ref=f34e1095]:
+                    - link [ref=f34e1096] [cursor=pointer]:
+                      - /url: /shorts/aSBpHqEqG78
+                    - generic [ref=f34e1100] [cursor=pointer]:
+                      - link "David \"Big Papi\" Ortiz scares the life out of the Red Sox bat boy! 🤣🤣" [ref=f34e1101]:
+                        - /url: /shorts/aSBpHqEqG78
+                      - generic [ref=f34e1102]: 1M views
+                    - button "More actions" [ref=f34e1104] [cursor=pointer]
+                - generic [ref=f34e1108]:
+                  - generic [ref=f34e1111]:
+                    - link [ref=f34e1112] [cursor=pointer]:
+                      - /url: /shorts/_KoOAI1awpY
+                      - img [ref=f34e1117]:
+                        - generic [ref=f34e1118]: New
+                    - generic [ref=f34e1119] [cursor=pointer]:
+                      - link "BOSTON RED SOX COMPLETE THE MIDNIGHT SWEEP VS ANGELS (1:30AM RECAP 🫩)" [ref=f34e1120]:
+                        - /url: /shorts/_KoOAI1awpY
+                      - generic [ref=f34e1121]: 289 views
+                    - button "More actions" [ref=f34e1123] [cursor=pointer]
+                  - generic [ref=f34e1129]:
+                    - link [ref=f34e1130] [cursor=pointer]:
+                      - /url: /shorts/YouJkfhwiBM
+                      - img [ref=f34e1135]:
+                        - generic [ref=f34e1136]: New
+                    - generic [ref=f34e1137] [cursor=pointer]:
+                      - 'link "Chicago White Sox vs Cleveland Guardians 7-6 Highlights 🔥 #MLB #Shorts" [ref=f34e1138]':
+                        - /url: /shorts/YouJkfhwiBM
+                      - generic [ref=f34e1139]: 117 views
+                    - button "More actions" [ref=f34e1141] [cursor=pointer]
+                  - generic [ref=f34e1147]:
+                    - link [ref=f34e1148] [cursor=pointer]:
+                      - /url: /shorts/xsDHTZiFQ80
+                    - generic [ref=f34e1152] [cursor=pointer]:
+                      - link "José Iglesias FANCY GLOVE TOSS for the out (Angels/Mariners | 6/5/21) HD" [ref=f34e1153]:
+                        - /url: /shorts/xsDHTZiFQ80
+                      - generic [ref=f34e1154]: 231K views
+                    - button "More actions" [ref=f34e1156] [cursor=pointer]
+                - generic [ref=f34e1160]:
+                  - generic [ref=f34e1163]:
+                    - link [ref=f34e1164] [cursor=pointer]:
+                      - /url: /shorts/KzEZVXBa0_8
+                    - generic [ref=f34e1168] [cursor=pointer]:
+                      - link "Brewers vs Angels game with Steve" [ref=f34e1169]:
+                        - /url: /shorts/KzEZVXBa0_8
+                      - generic [ref=f34e1170]: 436 views
+                    - button "More actions" [ref=f34e1172] [cursor=pointer]
+                  - generic [ref=f34e1178]:
+                    - link [ref=f34e1179] [cursor=pointer]:
+                      - /url: /shorts/XN32zia4PT8
+                    - generic [ref=f34e1183] [cursor=pointer]:
+                      - 'link "MLB Boston Red Sox VS LA Angels #shorts" [ref=f34e1184]':
+                        - /url: /shorts/XN32zia4PT8
+                      - generic [ref=f34e1185]: 13 views
+                    - button "More actions" [ref=f34e1187] [cursor=pointer]
+                  - generic [ref=f34e1193]:
+                    - link [ref=f34e1194] [cursor=pointer]:
+                      - /url: /shorts/xZKqMht0gQI
+                    - generic [ref=f34e1198] [cursor=pointer]:
+                      - link "Jays vs angels" [ref=f34e1199]:
+                        - /url: /shorts/xZKqMht0gQI
+                      - generic [ref=f34e1200]: 189 views
+                    - button "More actions" [ref=f34e1202] [cursor=pointer]
+              - button "Show more" [ref=f34e1209] [cursor=pointer]:
+                - generic: Show more
+            - generic [ref=f34e1214]:
+              - link [ref=f34e1216] [cursor=pointer]:
+                - /url: /watch?v=7dL5UHlmCd0&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e1218] [cursor=pointer]:
+                - generic [ref=f34e1219]:
+                  - heading "Red Sox vs. Angels Game Highlights (6/23/25) | MLB Highlights 12 minutes, 2 seconds" [level=3] [ref=f34e1221]:
+                    - link "Red Sox vs. Angels Game Highlights (6/23/25) | MLB Highlights 12 minutes, 2 seconds" [ref=f34e1222]:
+                      - /url: /watch?v=7dL5UHlmCd0&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Red Sox vs. Angels Game Highlights (6/23/25) | MLB Highlights
+                  - generic [ref=f34e1225]:
+                    - generic [ref=f34e1226]: 145K views
+                    - generic [ref=f34e1227]: •1 year ago
+                - generic [ref=f34e1228]:
+                  - link "Go to channel MLB" [ref=f34e1229]:
+                    - /url: /@MLB
+                  - generic [ref=f34e1230]:
+                    - link "MLB" [ref=f34e1234]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f34e1239]
+                - generic [ref=f34e1241]:
+                  - generic [ref=f34e1242]: Red Sox vs. Angels full game highlights from 6/23/25 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=f34e1247]:
+                  - generic [ref=f34e1248]: CC
+                - generic [ref=f34e1251]:
+                  - generic [ref=f34e1252]:
+                    - generic [ref=f34e1255]: Summary
+                    - button "The Angels host the Red Sox in the first game of a three-game series. Pitchers Jack Kochanowicz and Walker Buehler face off in a high-scoring contest that features multiple defensive plays and critical challenges in the middle innings." [ref=f34e1256]
+                    - text: ·
+                  - button "More" [ref=f34e1261]
+            - generic [ref=f34e1273] [cursor=pointer]:
+              - link [ref=f34e1274]:
+                - /url: /watch?v=yENgXme9uz8
+                - generic [ref=f34e1280]: 0:30
+              - generic [ref=f34e1281]:
+                - generic [ref=f34e1282]:
+                  - generic [ref=f34e1283]:
+                    - link "The INFINITI QX80" [ref=f34e1286]:
+                      - /url: /watch?v=yENgXme9uz8
+                    - link "A most luxurious way to travel." [ref=f34e1289]:
+                      - /url: /watch?v=yENgXme9uz8
+                    - generic [ref=f34e1290]:
+                      - button "INFINITI USA" [ref=f34e1294]
+                      - generic [ref=f34e1298]:
+                        - generic [ref=f34e1299]: Sponsored
+                        - text: ·
+                      - generic [ref=f34e1301]: INFINITI
+                  - button "My Ad Center" [ref=f34e1304]
+                - link "Learn more" [ref=f34e1311]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CA7jDrg9Mavr1FrzOivYP2tGkgAye-PGSiAH2z9bw_BWwkB8QBSAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAauS3bwBqAMEqgTiAk_QQ9EMbPsOCzvSS313qO3gKE4mh6woBzTqSlJszZQFVP2CkkqbdQnfYmfve3EEE53qBN642xSVz0PkvhgJq4aGMjMROR6YwcdTitoVLMr-voU0Z-jg-EoSxH_UJQpM0W_sksI9_Q7YsJuKm6bMdYNscddIBIy4rm8WkPpdIE901A0HxzAeLE0e0lIqLWfBeUFCkzzU-lYLeth216I51NzxCmq0l06D_t76g-yc9qCQa43dIo2Uo80XyCte_DkB8zwiV7rj7Vd0teWQw6fhvB8k7Rj7C7srSfhzb4ta29G32CjKZ_0A7Gkfv7gK_e-Z8phNs-erhisD3d8evk3mWGUU-Ae7McZMeoeMpLV9RYrTWQZR4ijx9CJX-gDuAOf9mrn3fagE77cBV94g_evUl_YAYZPU4EybGme_U7qXPEjY4dgrQ6LXnzYAvu1tmPeNJwUaj1w2xDNqOcXGmbDLSvid34gFv7Sij1iSBQ0IEjC_9va95ovYocgBkgUICBN49fXHwwKgBlWAB73tosMCkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt5RU5nWG1lOXV6OKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCTNodHRwczovL3d3dy5pbmZpbml0aXVzYS5jb20vdmVoaWNsZXMvc3V2cy9xeDgwLmh0bWyxCa-1RT7LDZ1QyAkXyAmPAcgJwgG6C0EIAxAFGAYgBygBMBxAAUgAWF1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCB7oDCXZpY2JmemFjYdALE-ALAaIMDCoKCgiO37ECleKxAtIMAhAB2gwlCgoQ8L3DiL7Fs-cWEgIBAxoNGL-0oo9YIM_p2c7TBUABSgIQH5oNAROqDQJVU8gNAdINowRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjMzNDAuMzQyNDQ2MERWMzYwRElTUExBWS9CMzU1MTQ0MDguNDQyNjg0MjY1O2RjX3Rya19haWQ9NjM3MzA2MDA5O2RjX3Rya19jaWQ9MjUzMzY0MjExO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTVDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSXY3U2lqMWlvQXZYMXg4TUNzQUxTOWQzcEEwQTdFTDhCUmFLcjVQc1U5TVhScDlBT21qV0REQT09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRGltMWxkTjVndjdQMC0tMFlLMTBRUUhpZ0NBX2tGb3J2UncwcEhnMVZKMXEzZENDcEdKWUhPb3Q0cFhnMXlpT2I3X0ZrekVTc3kxUGV1WGc7ZGNfcHViaWQ9Mj9odHRwczovL3d3dy5pbmZpbml0aXVzYS5jb20vdmVoaWNsZXMvc3V2cy9xeDgwLmh0bWw_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjU0MzQxMTgzsBOqhIQjuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfePIGc8OyaxboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYBSAAEgLWjfD_BwE&num=5&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_1ctAO43LXTxZIrkYa2AP-AJY155w&ctype=110&video_id=yENgXme9uz8&client=ca-pub-6219811747049371&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - generic: Learn more
+            - generic [ref=f34e1316]:
+              - link [ref=f34e1318] [cursor=pointer]:
+                - /url: /watch?v=EZpeTDk2PgQ&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+              - generic [ref=f34e1320] [cursor=pointer]:
+                - generic [ref=f34e1321]:
+                  - heading "Orioles vs. Reds Game Highlights (7/5/26) | MLB Highlights 11 minutes, 32 seconds" [level=3] [ref=f34e1323]:
+                    - link "Orioles vs. Reds Game Highlights (7/5/26) | MLB Highlights 11 minutes, 32 seconds" [ref=f34e1324]:
+                      - /url: /watch?v=EZpeTDk2PgQ&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                      - text: Orioles vs. Reds Game Highlights (7/5/26) | MLB Highlights
+                  - generic [ref=f34e1327]:
+                    - generic [ref=f34e1328]: 25K views
+                    - generic [ref=f34e1329]: •22 hours ago
+                - generic [ref=f34e1330]:
+                  - link "Go to channel Cincinnati Reds" [ref=f34e1331]:
+                    - /url: /@reds
+                  - generic [ref=f34e1332]:
+                    - link "Cincinnati Reds" [ref=f34e1336]:
+                      - /url: /@reds
+                    - img "Verified" [ref=f34e1341]
+                - generic [ref=f34e1343]:
+                  - generic [ref=f34e1344]: Orioles vs. Reds full game highlights from 7/5/26.
+                  - tooltip "tooltip"
+                - img "New" [ref=f34e1349]:
+                  - generic [ref=f34e1350]: New
+                - generic [ref=f34e1353]:
+                  - generic [ref=f34e1354]:
+                    - generic [ref=f34e1357]: Summary
+                    - button "Nick Lodolo and Kyle Bradish take the mound for this Independence Day weekend series finale in Cincinnati. Both pitchers deliver strong performances while their respective offenses battle for control in a closely contested matchup." [ref=f34e1358]
+                    - text: ·
+                  - button "More" [ref=f34e1363]
+          - generic [ref=f34e1392]:
+            - link "Red Sox vs Angels MLB" [ref=f34e1397] [cursor=pointer]:
+              - /url: /watch?v=0e_ql06DyAY
+              - generic [ref=f34e1400]: Red Sox vs Angels
+              - generic [ref=f34e1402]: MLB
+            - generic [ref=f34e1410] [cursor=pointer]:
+              - 'link "RED SOX vs. ANGELS: Official Full Game Highlights (July 5) | 2026 MLB Season" [ref=f34e1411]':
+                - /url: /watch?v=0e_ql06DyAY
+                - generic [ref=f34e1412]: "RED SOX vs. ANGELS: Official Full Game Highlights (July 5) | 2026 MLB Season"
+              - generic [ref=f34e1414]: MLB • 49K views • 15 hours ago
+            - generic [ref=f34e1415]:
+              - generic [ref=f34e1420]:
+                - link [ref=f34e1422] [cursor=pointer]:
+                  - /url: /watch?v=tQy3kHdfsoc&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                  - img [ref=f34e1424]
+                  - img [ref=f34e1427]:
+                    - generic [ref=f34e1428]: 10:06
+                  - generic:
+                    - generic: Now playing
+                    - generic:
+                      - img
+                - generic [ref=f34e1429] [cursor=pointer]:
+                  - 'link "RED SOX vs. ANGELS: Official Full Game Highlights (July 4) | 2026 MLB Season" [ref=f34e1431]':
+                    - /url: /watch?v=tQy3kHdfsoc&pp=ygUoUmVkIFNveCB2cyBBbmdlbHMgR2FtZSBIaWdobGlnaHRzIDcvNS8yNg%3D%3D
+                    - generic [ref=f34e1432]: "RED SOX vs. ANGELS: Official Full Game Highlights (July 4) | 2026 MLB Season"
+                  - generic [ref=f34e1433]: MLB • 46K views • 1 day ago
+              - generic [ref=f34e1437]:
+                - heading "Related Teams" [level=2] [ref=f34e1439]:
+                  - generic "Related Teams" [ref=f34e1441]
+                - generic [ref=f34e1442]:
+                  - generic [ref=f34e1444]:
+                    - link "Boston Red Sox" [ref=f34e1446] [cursor=pointer]:
+                      - /url: /results?search_query=Red+Sox&sp=eAE%253D
+                      - generic [ref=f34e1450]: Boston Red Sox
+                    - link "Los Angeles Angels" [ref=f34e1452] [cursor=pointer]:
+                      - /url: /results?search_query=Los+Angeles+Angels&sp=eAE%253D
+                      - generic [ref=f34e1456]: Los Angeles Angels
+                    - link "Los Angeles Dodgers" [ref=f34e1458] [cursor=pointer]:
+                      - /url: /results?search_query=Dodgers&sp=eAE%253D
+                      - generic [ref=f34e1462]: Los Angeles Dodgers
+                    - link "Toronto Blue Jays" [ref=f34e1464] [cursor=pointer]:
+                      - /url: /results?search_query=Toronto+Blue+Jays&sp=eAE%253D
+                      - generic [ref=f34e1468]: Toronto Blue Jays
+                  - button [ref=f34e1471] [cursor=pointer]
+  - generic [ref=f34e1477]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXFq0rg9Mavr1FrzOivYP2tGkgAyajd-giAHA0a2CohZkEAEgAGDJ3uiGyKOQGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHP0-_vP6gDBMgDCqoE3gJP0EPRDGz7Dgs70kt9d6jt4ChOJoesKAc06kpSbM2UBVT9gpJKm3UJ32Jn73txBBOd6gTeuNsUlc9D5L4YCauGhjIzETkemMHHU4raFSzK_r6FNGfo4PhKEsR_1CUKTNFv7JLCPf0O2LCbipumzHWDbHHXSASMuK5vFpD6XSBPdNQNB8cwHixNHtJSKi1nwXlBQpM81PpWC3rYdteiOdTc8QpqtJdOg_7e-oPsnPagkGuN3SKNlKPNF8grXvw5AfM8Ile64-1XdLXlkMOn4bwfJO0Y-wu7K0n4c2-LWtvRt9goymf9AOxpH7-4Cv3vmfKYTbPn_IBTA93XHgArMFSYXUsUCz3FDmOMpECqFcRzlYEDyfDH1jDAemq88p8UA1z2Vk2UXO4t9MQK-fTuAEo6ooKDhWL-C6NL9OREftUtP_Pwr0GYAC-uqi52nEbLt_qQkWm11SXdVANSEHFkaYgF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPD7mNLxvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw7KgoKCI7fsQKV4rECYg8KDWNvbS5jaGFydGVyLnVqFwoVY29tLmJyaWdodGhvdXNlLm15YmhueACIAQDSDAIQAdoMJQoKEJCXt7mr0JO8MRICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Nmd2ZZbkc3WExSd0JfOEE2REFsMTRVbW5rVk9aYUpnZmRJQXM2RGVNOFQ4V0g0SldxbUJjQy0yc29QN0FqS2p0Uk5lVURadGlPTzJOWXNBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI-oSa0vG-lQMVPKfCCB3aKAnAEAEYASAAEgIJq_D_BwE&num=1&cid=CAASqwHkaBN3BE6U28B4tzz4j875PoclF05H4BaAuHBkspEHVBqzjc-71H3lZ4Oh6d7MifsYyOYJ2DwLjyXaiht1lWKNnB4aJeHudNqLNxDPoWkar4GQLW_Nu8VsxCXfH4RrWZk8077d66U9EAEIhUbpVpJUIowINf5RRWdiwsIQaWfat_JOxDoSmfl4FqPQVVYqIbCXgQIK0mPlhO66PAj0GETqN5QxcucxYqZaB10&ad_cpn=%5BCPN%5D&sig=AOD64_0YRC4n5G9YnEFvS2cai3WqNA0h9A&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=f34e1478] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - img

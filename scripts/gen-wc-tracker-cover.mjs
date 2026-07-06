@@ -63,14 +63,11 @@ if (existsSync(wcLogoPath)) {
   composites.push({ input: wc, top: BADGE.y + 24, left: BADGE.x + Math.round((BADGE.w - m.width) / 2) });
 }
 
-// Three kits fanned top-right, back to front: England red, France blue, Norway white
-if (existsSync(englandPath)) {
-  const eng = await sharp(englandPath).resize({ height: 330 }).png().toBuffer();
-  composites.push({ input: eng, top: 160, left: 1170 });
-}
+// Two kits fanned top-right, back to front: France blue, Norway white.
+// England red removed 7/6 (Jake: red behind France read as visual noise).
 if (existsSync(francePath)) {
-  const fra = await sharp(francePath).resize({ height: 355 }).png().toBuffer();
-  composites.push({ input: fra, top: 105, left: 1010 });
+  const fra = await sharp(francePath).resize({ height: 365 }).png().toBuffer();
+  composites.push({ input: fra, top: 100, left: 1090 });
 }
 if (existsSync(norwayPath)) {
   const norway = await sharp(norwayPath).resize({ height: 395 }).png().toBuffer();

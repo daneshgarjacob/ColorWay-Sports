@@ -68,15 +68,16 @@ Game 2 sees the Spurs switch from the Icon Edition black to the Association Edit
 
 ## Series Schedule
 
-| Game | Date | Venue | Network |
-|---|---|---|---|
-| Game 1 | Sunday May 17 | Paycom Center | NBC |
-| Game 2 | Tuesday May 19 | Paycom Center | NBC |
-| Game 3 | Friday May 22 | Frost Bank Center | NBC |
-| Game 4 | Sunday May 24 | Frost Bank Center | NBC |
-| Game 5* | Wednesday May 27 | Paycom Center | NBC |
-| Game 6* | Friday May 29 | Frost Bank Center | NBC |
-| Game 7* | Sunday May 31 | Paycom Center | NBC |
+<div style="margin: 1.25em 0 1.5em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px;">
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; background: #0A2A66; color: #ffffff; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;"><span style="padding: 9px 14px;">Game</span><span style="padding: 9px 14px;">Date</span><span style="padding: 9px 14px;">Venue</span><span style="padding: 9px 14px;">TV</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 1</span><span style="padding: 9px 14px; color: #57607a;">Sunday May 17</span><span style="padding: 9px 14px; color: #57607a;">Paycom Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 2</span><span style="padding: 9px 14px; color: #57607a;">Tuesday May 19</span><span style="padding: 9px 14px; color: #57607a;">Paycom Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 3</span><span style="padding: 9px 14px; color: #57607a;">Friday May 22</span><span style="padding: 9px 14px; color: #57607a;">Frost Bank Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 4</span><span style="padding: 9px 14px; color: #57607a;">Sunday May 24</span><span style="padding: 9px 14px; color: #57607a;">Frost Bank Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 5*</span><span style="padding: 9px 14px; color: #57607a;">Wednesday May 27</span><span style="padding: 9px 14px; color: #57607a;">Paycom Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 6*</span><span style="padding: 9px 14px; color: #57607a;">Friday May 29</span><span style="padding: 9px 14px; color: #57607a;">Frost Bank Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+<div style="display: grid; grid-template-columns: 1fr 1.6fr 1.6fr 0.8fr; border-top: 1px solid #eef0f4;"><span style="padding: 9px 14px; font-weight: 700; color: #14223f;">Game 7*</span><span style="padding: 9px 14px; color: #57607a;">Sunday May 31</span><span style="padding: 9px 14px; color: #57607a;">Paycom Center</span><span style="padding: 9px 14px; color: #57607a;">NBC</span></div>
+</div>
 
 *If necessary. Every Western Conference Finals game airs on NBC and streams on Peacock. Full broadcast info in our [Where to Watch the 2026 NBA Conference Finals](/stories/where-to-watch-2026-nba-conference-finals) guide.
 

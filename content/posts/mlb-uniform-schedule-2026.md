@@ -37,67 +37,211 @@ Before the team-by-team tables, it helps to know that every club falls into one 
 
 ## American League
 
-### AL East
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">AL East</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/orioles-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Baltimore Orioles</a>
+<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Cream "BMORE" City Connect, new on Fridays</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/red-sox-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Boston Red Sox</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Fenway Green City Connect, the best seller in MLB</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/yankees-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">New York Yankees</a>
+<span style="font-size: 12px; color: #6b7180;">3 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #e7f5ec; color: #0a7d43;">SCHEDULED</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Home pinstripes, and a first alternate still unworn</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/rays-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Tampa Bay Rays</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Devil Rays rainbow throwback, and no gray road set</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/blue-jays-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Toronto Blue Jays</a>
+<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #fdf1e7; color: #b45d17;">NO SYSTEM</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Powder blue alternate that acts as the default</span>
+</div>
+</div>
 
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Baltimore Orioles](/stories/orioles-uniform-schedule-2026) | 6 | Partial | Cream "BMORE" City Connect, new on Fridays |
-| [Boston Red Sox](/stories/red-sox-uniform-schedule-2026) | 5 | Partial | Fenway Green City Connect, the best seller in MLB |
-| [New York Yankees](/stories/yankees-uniform-schedule-2026) | 3 | Scheduled | Home pinstripes, and a first alternate still unworn |
-| [Tampa Bay Rays](/stories/rays-uniform-schedule-2026) | 5 | Partial | Devil Rays rainbow throwback, and no gray road set |
-| [Toronto Blue Jays](/stories/blue-jays-uniform-schedule-2026) | 6 | No system | Powder blue alternate that acts as the default |
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">AL Central</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/white-sox-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Chicago White Sox</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #fdf1e7; color: #b45d17;">NO SYSTEM</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Red Bulls-crossover City Connect on promo dates</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/guardians-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Cleveland Guardians</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Sandstone "CLE" City Connect owns Fridays</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/tigers-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Detroit Tigers</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Orange Friday, the first orange in 126 years</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/royals-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Kansas City Royals</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">"Forever Fountains" sunset City Connect Fridays</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/twins-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Minnesota Twins</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Redrawn "Twins" road alternate, back after 40 years</span>
+</div>
+</div>
 
-### AL Central
-
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Chicago White Sox](/stories/white-sox-uniform-schedule-2026) | 5 | No system | Red Bulls-crossover City Connect on promo dates |
-| [Cleveland Guardians](/stories/guardians-uniform-schedule-2026) | 5 | Partial | Sandstone "CLE" City Connect owns Fridays |
-| [Detroit Tigers](/stories/tigers-uniform-schedule-2026) | 5 | Partial | Orange Friday, the first orange in 126 years |
-| [Kansas City Royals](/stories/royals-uniform-schedule-2026) | 5 | Partial | "Forever Fountains" sunset City Connect Fridays |
-| [Minnesota Twins](/stories/twins-uniform-schedule-2026) | 5 | Partial | Redrawn "Twins" road alternate, back after 40 years |
-
-### AL West
-
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Houston Astros](/stories/astros-uniform-schedule-2026) | 5 | Partial | White "Stros" City Connect every Monday home game |
-| [Los Angeles Angels](/stories/angels-uniform-schedule-2026) | 3 | Partial | Red "Angels" jersey, now doing road duty full time |
-| [Athletics](/stories/athletics-uniform-schedule-2026) | 4 | Partial | Gold "Sacramento" jersey with a Las Vegas patch |
-| [Seattle Mariners](/stories/mariners-uniform-schedule-2026) | 5 | Partial | Steelheads Negro leagues Sunday throwback |
-| [Texas Rangers](/stories/rangers-uniform-schedule-2026) | 5 | Partial | New red "Tejas" City Connect on Friday nights |
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">AL West</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/astros-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Houston Astros</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">White "Stros" City Connect every Monday home game</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/angels-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Los Angeles Angels</a>
+<span style="font-size: 12px; color: #6b7180;">3 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Red "Angels" jersey, now doing road duty full time</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/athletics-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Athletics</a>
+<span style="font-size: 12px; color: #6b7180;">4 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Gold "Sacramento" jersey with a Las Vegas patch</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/mariners-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Seattle Mariners</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Steelheads Negro leagues Sunday throwback</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/rangers-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Texas Rangers</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">New red "Tejas" City Connect on Friday nights</span>
+</div>
+</div>
 
 ## National League
 
-### NL East
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">NL East</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/braves-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Atlanta Braves</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">ATL City Connect Fridays, vintage cream Sundays</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/marlins-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Miami Marlins</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #e7f5ec; color: #0a7d43;">SCHEDULED</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">1993 teal Sundays anchor a true weekend rotation</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/mets-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">New York Mets</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Black alternate back on Fridays, "DAVEY" memorial strip</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/phillies-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Philadelphia Phillies</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #e7f5ec; color: #0a7d43;">SCHEDULED</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Powder blue Thursdays, the gold standard rotation</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/nationals-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Washington Nationals</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">"District Blueprint" denim City Connect</span>
+</div>
+</div>
 
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Atlanta Braves](/stories/braves-uniform-schedule-2026) | 5 | Partial | ATL City Connect Fridays, vintage cream Sundays |
-| [Miami Marlins](/stories/marlins-uniform-schedule-2026) | 5 | Scheduled | 1993 teal Sundays anchor a true weekend rotation |
-| [New York Mets](/stories/mets-uniform-schedule-2026) | 5 | Partial | Black alternate back on Fridays, "DAVEY" memorial strip |
-| [Philadelphia Phillies](/stories/phillies-uniform-schedule-2026) | 5 | Scheduled | Powder blue Thursdays, the gold standard rotation |
-| [Washington Nationals](/stories/nationals-uniform-schedule-2026) | 5 | Partial | "District Blueprint" denim City Connect |
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">NL Central</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/cubs-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Chicago Cubs</a>
+<span style="font-size: 12px; color: #6b7180;">4 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Powder-blue "Blues" alternate, and still no City Connect</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/reds-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Cincinnati Reds</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Two City Connects at once, red Saturdays and black Fridays</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/brewers-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Milwaukee Brewers</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">New statewide "Wisco" City Connect, plus powder blue</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/pirates-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Pittsburgh Pirates</a>
+<span style="font-size: 12px; color: #6b7180;">4 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">All-black gold gothic alternate that debuted in April</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/cardinals-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">St. Louis Cardinals</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #e7f5ec; color: #0a7d43;">SCHEDULED</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Birds on the bat, plus "The Lou," the first-ever red jersey</span>
+</div>
+</div>
 
-### NL Central
-
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Chicago Cubs](/stories/cubs-uniform-schedule-2026) | 4 | Partial | Powder-blue "Blues" alternate, and still no City Connect |
-| [Cincinnati Reds](/stories/reds-uniform-schedule-2026) | 5 | Partial | Two City Connects at once, red Saturdays and black Fridays |
-| [Milwaukee Brewers](/stories/brewers-uniform-schedule-2026) | 5 | Partial | New statewide "Wisco" City Connect, plus powder blue |
-| [Pittsburgh Pirates](/stories/pirates-uniform-schedule-2026) | 4 | Partial | All-black gold gothic alternate that debuted in April |
-| [St. Louis Cardinals](/stories/cardinals-uniform-schedule-2026) | 5 | Scheduled | Birds on the bat, plus "The Lou," the first-ever red jersey |
-
-### NL West
-
-| Team | Uniforms | Rotation | Signature Look |
-|------|:--------:|----------|----------------|
-| [Arizona Diamondbacks](/stories/diamondbacks-uniform-schedule-2026) | 5 | Partial | "Serpientes 2.0" City Connect in purple and teal |
-| [Colorado Rockies](/stories/rockies-uniform-schedule-2026) | 4 | Partial | Purple Mondays, MLB's leanest closet |
-| [Los Angeles Dodgers](/stories/dodgers-uniform-schedule-2026) | 4 | Partial | New royal blue road alternate joins the heritage set |
-| [San Diego Padres](/stories/padres-uniform-schedule-2026) | 6 | Partial | Camo Sundays and a Día de los Muertos "Obsidian" kit |
-| [San Francisco Giants](/stories/giants-uniform-schedule-2026) | 6 | Partial | Orange Fridays and a new "Gigantes" heritage alternate |
+<div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">NL West</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/diamondbacks-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Arizona Diamondbacks</a>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">"Serpientes 2.0" City Connect in purple and teal</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/rockies-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Colorado Rockies</a>
+<span style="font-size: 12px; color: #6b7180;">4 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Purple Mondays, MLB's leanest closet</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/dodgers-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Los Angeles Dodgers</a>
+<span style="font-size: 12px; color: #6b7180;">4 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">New royal blue road alternate joins the heritage set</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/padres-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">San Diego Padres</a>
+<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Camo Sundays and a Día de los Muertos "Obsidian" kit</span>
+</div>
+<div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
+<a href="/stories/giants-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">San Francisco Giants</a>
+<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
+<span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Orange Fridays and a new "Gigantes" heritage alternate</span>
+</div>
+</div>
 
 ## The Teams Actually Worth Scheduling Around
 

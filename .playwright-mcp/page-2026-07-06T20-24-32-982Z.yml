@@ -1,0 +1,601 @@
+- generic [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - banner [ref=f7e4]:
+      - generic [ref=f7e6]:
+        - generic [ref=f7e7]:
+          - button "Guide" [active] [ref=f7e9] [cursor=pointer]:
+            - generic [ref=f7e12]:
+              - img
+          - link "YouTube Home" [ref=f7e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f7e19]:
+              - img
+          - button "Skip navigation" [ref=f7e23] [cursor=pointer]:
+            - generic: Skip navigation
+        - generic [ref=f7e27]:
+          - search [ref=f7e28]:
+            - generic [ref=f7e30]:
+              - generic [ref=f7e31]:
+                - combobox "Search" [expanded] [ref=f7e33]: MLB Highlights Padres vs Dodgers July 5 2026
+                - button "Clear search query" [ref=f7e35] [cursor=pointer]:
+                  - generic [ref=f7e38]:
+                    - img
+              - button "Search" [ref=f7e42] [cursor=pointer]:
+                - generic [ref=f7e45]:
+                  - img
+          - generic [ref=f7e47]:
+            - button "Search with your voice" [ref=f7e49] [cursor=pointer]
+            - tooltip "tooltip"
+        - generic [ref=f7e54]:
+          - button "Settings" [ref=f7e59] [cursor=pointer]
+          - link "Sign in" [ref=f7e63] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DMLB%252BHighlights%252BPadres%252Bvs%252BDodgers%252BJuly%252B5%252B2026&hl=en&ec=65620
+            - generic: Sign in
+    - navigation [ref=f7e67]:
+      - generic [ref=f7e68]:
+        - link "Home" [ref=f7e70] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f7e72]: Home
+        - link "Shorts" [ref=f7e74] [cursor=pointer]:
+          - /url: /shorts/
+          - generic [ref=f7e76]: Shorts
+        - link "Subscriptions" [ref=f7e78] [cursor=pointer]:
+          - /url: /feed/subscriptions
+          - generic [ref=f7e80]: Subscriptions
+        - link "You" [ref=f7e82] [cursor=pointer]:
+          - /url: /feed/you
+          - generic [ref=f7e84]: You
+    - main [ref=f7e86]:
+      - generic [ref=f7e87]:
+        - generic [ref=f7e89]:
+          - tablist [ref=f7e94]:
+            - tab "All" [selected] [ref=f7e98] [cursor=pointer]:
+              - generic [ref=f7e100]: All
+            - tab "Shorts" [ref=f7e107] [cursor=pointer]:
+              - generic [ref=f7e109]: Shorts
+            - tab "Unwatched" [ref=f7e116] [cursor=pointer]:
+              - generic [ref=f7e118]: Unwatched
+            - tab "Watched" [ref=f7e125] [cursor=pointer]:
+              - generic [ref=f7e127]: Watched
+            - tab "Videos" [ref=f7e134] [cursor=pointer]:
+              - generic [ref=f7e136]: Videos
+            - tab "Recently uploaded" [ref=f7e143] [cursor=pointer]:
+              - generic [ref=f7e145]: Recently uploaded
+            - tab "Live" [ref=f7e152] [cursor=pointer]:
+              - generic [ref=f7e154]: Live
+          - generic [ref=f7e159]:
+            - button "Search filters" [ref=f7e161] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f7e165]:
+          - generic [ref=f7e170]:
+            - generic [ref=f7e179] [cursor=pointer]:
+              - link [ref=f7e180]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmR1c_w5MasEDirSfzw_Gy9K4ApqN36CIAcDRrYKiFmQQASAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAc_T7-8_qAMEyAMKqgTiAk_QiRPVJPGjBgVf5eU37uivAeOhmIobfShkWmlYyg9csE8jSPlTA3PSmM8ZBSvlcJb382YelpFBD4sjptppub2XEnfrcV7Bm4CpSOLh6o0beJ5e8nRZO-032KJhTjCGNodoJjqnO1nAs2u8MhDnboQGdI5BZt-gxOJ0zN6JZvWEsWoNhpy9bMjnBDL5QpSn_rCw2euFB824MCRdkLsrCwNr0aCRkvlt6PUoInWk1O3gqMaFdKEBIZjED54j-nqsJeorl1Y-XXn4xgG6EqPSARSAjDvILECXB8U-pWmsRkprSEt9681grl9XALmD25MTKvARx_HlBTu397ZLoPIb2DlQXBQKR3p6S7CELWyhlCSgZiVZ7ExUvnWm86OOSeeLI4X4FCYzwiWmiUPYgUzqU_AjVhLIp5s1meaHFgZRlS35_iZbED91Szs-UXZkQv5fJkTkxrAJ6YcUjGyjKGzOmPZxg4gF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLPQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMFdmlkbHPQCxLgCwGiDDsqCgoIleKxAo7fsQJiDwoNY29tLmNoYXJ0ZXIudWoXChVjb20uYnJpZ2h0aG91c2UubXliaG54AIgBANIMAhAB2gwmCgsQ4PKLncrk14KSARICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q4OTZvOGl6RlFnZUszQVk5MDNsNjF1aEZhWFl4MmgyQ1VpOGFoVWt6c0x1bjhqZmVOZ1E5OEFHZDc0WmZ4bHVvdURELWhhV0Y0Mml4elpnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYASAAEgJxofD_BwE&num=1&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_2D19nqRjq2AezHz1XYnQt3XI0YpA&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [ref=f7e185]
+              - generic [ref=f7e189]:
+                - generic [ref=f7e190]:
+                  - generic [ref=f7e191]:
+                    - link "Streaming apps included with live TV. Plus, the best experience to stream live sports." [ref=f7e194]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmR1c_w5MasEDirSfzw_Gy9K4ApqN36CIAcDRrYKiFmQQASAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAc_T7-8_qAMEyAMKqgTiAk_QiRPVJPGjBgVf5eU37uivAeOhmIobfShkWmlYyg9csE8jSPlTA3PSmM8ZBSvlcJb382YelpFBD4sjptppub2XEnfrcV7Bm4CpSOLh6o0beJ5e8nRZO-032KJhTjCGNodoJjqnO1nAs2u8MhDnboQGdI5BZt-gxOJ0zN6JZvWEsWoNhpy9bMjnBDL5QpSn_rCw2euFB824MCRdkLsrCwNr0aCRkvlt6PUoInWk1O3gqMaFdKEBIZjED54j-nqsJeorl1Y-XXn4xgG6EqPSARSAjDvILECXB8U-pWmsRkprSEt9681grl9XALmD25MTKvARx_HlBTu397ZLoPIb2DlQXBQKR3p6S7CELWyhlCSgZiVZ7ExUvnWm86OOSeeLI4X4FCYzwiWmiUPYgUzqU_AjVhLIp5s1meaHFgZRlS35_iZbED91Szs-UXZkQv5fJkTkxrAJ6YcUjGyjKGzOmPZxg4gF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLPQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMFdmlkbHPQCxLgCwGiDDsqCgoIleKxAo7fsQJiDwoNY29tLmNoYXJ0ZXIudWoXChVjb20uYnJpZ2h0aG91c2UubXliaG54AIgBANIMAhAB2gwmCgsQ4PKLncrk14KSARICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q4OTZvOGl6RlFnZUszQVk5MDNsNjF1aEZhWFl4MmgyQ1VpOGFoVWt6c0x1bjhqZmVOZ1E5OEFHZDc0WmZ4bHVvdURELWhhV0Y0Mml4elpnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYASAAEgJxofD_BwE&num=1&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_2D19nqRjq2AezHz1XYnQt3XI0YpA&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "$100+ of streaming apps included with live TV and Internet you can trust!" [ref=f7e197]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmR1c_w5MasEDirSfzw_Gy9K4ApqN36CIAcDRrYKiFmQQASAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAc_T7-8_qAMEyAMKqgTiAk_QiRPVJPGjBgVf5eU37uivAeOhmIobfShkWmlYyg9csE8jSPlTA3PSmM8ZBSvlcJb382YelpFBD4sjptppub2XEnfrcV7Bm4CpSOLh6o0beJ5e8nRZO-032KJhTjCGNodoJjqnO1nAs2u8MhDnboQGdI5BZt-gxOJ0zN6JZvWEsWoNhpy9bMjnBDL5QpSn_rCw2euFB824MCRdkLsrCwNr0aCRkvlt6PUoInWk1O3gqMaFdKEBIZjED54j-nqsJeorl1Y-XXn4xgG6EqPSARSAjDvILECXB8U-pWmsRkprSEt9681grl9XALmD25MTKvARx_HlBTu397ZLoPIb2DlQXBQKR3p6S7CELWyhlCSgZiVZ7ExUvnWm86OOSeeLI4X4FCYzwiWmiUPYgUzqU_AjVhLIp5s1meaHFgZRlS35_iZbED91Szs-UXZkQv5fJkTkxrAJ6YcUjGyjKGzOmPZxg4gF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLPQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMFdmlkbHPQCxLgCwGiDDsqCgoIleKxAo7fsQJiDwoNY29tLmNoYXJ0ZXIudWoXChVjb20uYnJpZ2h0aG91c2UubXliaG54AIgBANIMAhAB2gwmCgsQ4PKLncrk14KSARICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q4OTZvOGl6RlFnZUszQVk5MDNsNjF1aEZhWFl4MmgyQ1VpOGFoVWt6c0x1bjhqZmVOZ1E5OEFHZDc0WmZ4bHVvdURELWhhV0Y0Mml4elpnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYASAAEgJxofD_BwE&num=1&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_2D19nqRjq2AezHz1XYnQt3XI0YpA&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=f7e198]:
+                      - button "Spectrum" [ref=f7e202]
+                      - generic [ref=f7e206]:
+                        - generic [ref=f7e207]: Sponsored
+                        - text: ·
+                      - generic [ref=f7e209]: Spectrum
+                  - button "My Ad Center" [ref=f7e212]
+                - generic [ref=f7e218]:
+                  - link "Watch" [ref=f7e221]:
+                    - /url: /watch?v=IMx-dE_Wim4
+                    - generic: Watch
+                  - link "Learn more" [ref=f7e227]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmR1c_w5MasEDirSfzw_Gy9K4ApqN36CIAcDRrYKiFmQQASAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAc_T7-8_qAMEyAMKqgTiAk_QiRPVJPGjBgVf5eU37uivAeOhmIobfShkWmlYyg9csE8jSPlTA3PSmM8ZBSvlcJb382YelpFBD4sjptppub2XEnfrcV7Bm4CpSOLh6o0beJ5e8nRZO-032KJhTjCGNodoJjqnO1nAs2u8MhDnboQGdI5BZt-gxOJ0zN6JZvWEsWoNhpy9bMjnBDL5QpSn_rCw2euFB824MCRdkLsrCwNr0aCRkvlt6PUoInWk1O3gqMaFdKEBIZjED54j-nqsJeorl1Y-XXn4xgG6EqPSARSAjDvILECXB8U-pWmsRkprSEt9681grl9XALmD25MTKvARx_HlBTu397ZLoPIb2DlQXBQKR3p6S7CELWyhlCSgZiVZ7ExUvnWm86OOSeeLI4X4FCYzwiWmiUPYgUzqU_AjVhLIp5s1meaHFgZRlS35_iZbED91Szs-UXZkQv5fJkTkxrAJ6YcUjGyjKGzOmPZxg4gF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLPQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMFdmlkbHPQCxLgCwGiDDsqCgoIleKxAo7fsQJiDwoNY29tLmNoYXJ0ZXIudWoXChVjb20uYnJpZ2h0aG91c2UubXliaG54AIgBANIMAhAB2gwmCgsQ4PKLncrk14KSARICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q4OTZvOGl6RlFnZUszQVk5MDNsNjF1aEZhWFl4MmgyQ1VpOGFoVWt6c0x1bjhqZmVOZ1E5OEFHZDc0WmZ4bHVvdURELWhhV0Y0Mml4elpnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYASAAEgJxofD_BwE&num=1&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_2D19nqRjq2AezHz1XYnQt3XI0YpA&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic: Learn more
+            - generic [ref=f7e232]:
+              - link [ref=f7e234] [cursor=pointer]:
+                - /url: /watch?v=uVrvH0l82D4&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                - img [ref=f7e236]
+                - img [ref=f7e239]:
+                  - generic [ref=f7e240]: 10:09
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=f7e241] [cursor=pointer]:
+                - generic [ref=f7e242]:
+                  - 'heading "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season 10 minutes, 9 seconds" [level=3] [ref=f7e244]':
+                    - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season 10 minutes, 9 seconds" [ref=f7e245]':
+                      - /url: /watch?v=uVrvH0l82D4&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season"
+                  - generic [ref=f7e248]:
+                    - generic [ref=f7e249]: 326K views
+                    - generic [ref=f7e250]: •17 hours ago
+                - generic [ref=f7e251]:
+                  - link "Go to channel MLB" [ref=f7e252]:
+                    - /url: /@MLB
+                  - generic [ref=f7e254]:
+                    - link "MLB" [ref=f7e258]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f7e263]
+                - generic [ref=f7e265]:
+                  - generic [ref=f7e266]: Padres vs. Dodgers full game highlights from 7/5/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e271]:
+                  - generic [ref=f7e272]: New
+                - generic [ref=f7e275]:
+                  - generic [ref=f7e276]:
+                    - generic [ref=f7e279]: Summary
+                    - button "As the Dodgers aim for a four-game sweep at home, Shohei Ohtani celebrates a birthday against the Padres. Emmet Sheehan takes the mound while analysts examine pitching strategies and competitive zones before the intense matchup unfolds at Dodger Stadium." [ref=f7e280]
+                    - text: ·
+                  - button "More" [ref=f7e285]
+            - generic [ref=f7e290]:
+              - link [ref=f7e292] [cursor=pointer]:
+                - /url: /watch?v=Ab-Hnd9m7UI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                - img [ref=f7e294]
+                - img [ref=f7e297]:
+                  - generic [ref=f7e298]: 10:18
+                - generic:
+                  - generic: Now playing
+                  - generic:
+                    - img
+              - generic [ref=f7e299] [cursor=pointer]:
+                - generic [ref=f7e300]:
+                  - 'heading "PADRES vs. DODGERS: Official Full Game Highlights (July 4) | 2026 MLB Season 10 minutes, 18 seconds" [level=3] [ref=f7e302]':
+                    - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 4) | 2026 MLB Season 10 minutes, 18 seconds" [ref=f7e303]':
+                      - /url: /watch?v=Ab-Hnd9m7UI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: "PADRES vs. DODGERS: Official Full Game Highlights (July 4) | 2026 MLB Season"
+                  - generic [ref=f7e306]:
+                    - generic [ref=f7e307]: 323K views
+                    - generic [ref=f7e308]: •1 day ago
+                - generic [ref=f7e309]:
+                  - link "Go to channel MLB" [ref=f7e310]:
+                    - /url: /@MLB
+                  - generic [ref=f7e312]:
+                    - link "MLB" [ref=f7e316]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f7e321]
+                - generic [ref=f7e323]:
+                  - generic [ref=f7e324]: Padres vs. Dodgers full game highlights from 7/4/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e329]:
+                  - generic [ref=f7e330]: New
+                - generic [ref=f7e333]:
+                  - generic [ref=f7e334]:
+                    - generic [ref=f7e337]: Summary
+                    - button "MLB highlights the Independence Day matchup between the Padres and the Dodgers. Yoshinobu Yamamoto showcases elite pitching depth, while both teams navigate high-stakes moments at Dodger Stadium. The broadcast also features a reflective look at a historic 1976 moment involving Rick Monday and the American flag." [ref=f7e338]
+                    - text: ·
+                  - button "More" [ref=f7e343]
+            - generic [ref=f7e347]:
+              - generic [ref=f7e350]:
+                - img [ref=f7e352]
+                - heading "Shorts" [level=2] [ref=f7e355]
+              - generic [ref=f7e356]:
+                - generic [ref=f7e357]:
+                  - generic [ref=f7e360]:
+                    - link [ref=f7e361] [cursor=pointer]:
+                      - /url: /shorts/8KI0HjQrvEU
+                      - img [ref=f7e366]:
+                        - generic [ref=f7e367]: New
+                    - generic [ref=f7e368] [cursor=pointer]:
+                      - 'link "Padres vs Dodgers Highlights Today | Full Game Highlights & Best Moments | MLB 2026#usa #mlb #shorts" [ref=f7e369]':
+                        - /url: /shorts/8KI0HjQrvEU
+                      - generic [ref=f7e370]: 9.4K views
+                    - button "More actions" [ref=f7e372] [cursor=pointer]
+                  - generic [ref=f7e378]:
+                    - link [ref=f7e379] [cursor=pointer]:
+                      - /url: /shorts/AEYBzZHOc4w
+                    - generic [ref=f7e383] [cursor=pointer]:
+                      - link "Padres turn a triple play to beat the Dodgers and clinch a spot in the postseason 🔥" [ref=f7e384]:
+                        - /url: /shorts/AEYBzZHOc4w
+                      - generic [ref=f7e385]: 253K views
+                    - button "More actions" [ref=f7e387] [cursor=pointer]
+                  - generic [ref=f7e393]:
+                    - link [ref=f7e394] [cursor=pointer]:
+                      - /url: /shorts/IKTGcKZhMMY
+                    - generic [ref=f7e398] [cursor=pointer]:
+                      - 'link "Dodger Fans hold it down in San Diego #dodgers #padres" [ref=f7e399]':
+                        - /url: /shorts/IKTGcKZhMMY
+                      - generic [ref=f7e400]: 1.8M views
+                    - button "More actions" [ref=f7e402] [cursor=pointer]
+                - generic [ref=f7e406]:
+                  - generic [ref=f7e409]:
+                    - link [ref=f7e410] [cursor=pointer]:
+                      - /url: /shorts/HYwsR34Np9Y
+                    - generic [ref=f7e414] [cursor=pointer]:
+                      - 'link "Andy Pages Robs a Grand Slam! #Dodgers #Highlights #MLB" [ref=f7e415]':
+                        - /url: /shorts/HYwsR34Np9Y
+                      - generic [ref=f7e416]: 153K views
+                    - button "More actions" [ref=f7e418] [cursor=pointer]
+                  - generic [ref=f7e424]:
+                    - link [ref=f7e425] [cursor=pointer]:
+                      - /url: /shorts/l-XZUxZLNgU
+                    - generic [ref=f7e429] [cursor=pointer]:
+                      - 'link "Padres vs Dodgers GAME 5 Recap! 🔥 #baseball #mlb #dodgers" [ref=f7e430]':
+                        - /url: /shorts/l-XZUxZLNgU
+                      - generic [ref=f7e431]: 187K views
+                    - button "More actions" [ref=f7e433] [cursor=pointer]
+            - generic [ref=f7e438]:
+              - link [ref=f7e440] [cursor=pointer]:
+                - /url: /watch?v=Ks64AQcGZNY&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+              - generic [ref=f7e442] [cursor=pointer]:
+                - generic [ref=f7e443]:
+                  - 'heading "PADRES vs. DODGERS: Official Full Game Highlights (July 3) | 2026 MLB Season 11 minutes, 56 seconds" [level=3] [ref=f7e445]':
+                    - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 3) | 2026 MLB Season 11 minutes, 56 seconds" [ref=f7e446]':
+                      - /url: /watch?v=Ks64AQcGZNY&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: "PADRES vs. DODGERS: Official Full Game Highlights (July 3) | 2026 MLB Season"
+                  - generic [ref=f7e449]:
+                    - generic [ref=f7e450]: 342K views
+                    - generic [ref=f7e451]: •2 days ago
+                - generic [ref=f7e452]:
+                  - link "Go to channel MLB" [ref=f7e453]:
+                    - /url: /@MLB
+                  - generic [ref=f7e454]:
+                    - link "MLB" [ref=f7e458]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f7e463]
+                - generic [ref=f7e465]:
+                  - generic [ref=f7e466]: Padres vs. Dodgers full game highlights from 7/3/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e471]:
+                  - generic [ref=f7e472]: New
+                - generic [ref=f7e475]:
+                  - generic [ref=f7e476]:
+                    - generic [ref=f7e479]: Summary
+                    - button "Shohei Ohtani takes the mound for the Dodgers as they aim for back-to-back wins against the Padres. MLB showcases key performances as both teams battle through a series of tactical shifts and high-stakes pitches in this mid-season matchup at Dodger Stadium." [ref=f7e480]
+                    - text: ·
+                  - button "More" [ref=f7e485]
+            - generic [ref=f7e497] [cursor=pointer]:
+              - link [ref=f7e498]:
+                - /url: /watch?v=yENgXme9uz8
+                - generic [ref=f7e504]: 0:30
+              - generic [ref=f7e505]:
+                - generic [ref=f7e506]:
+                  - generic [ref=f7e507]:
+                    - link "The INFINITI QX80" [ref=f7e510]:
+                      - /url: /watch?v=yENgXme9uz8
+                    - link "A most luxurious way to travel." [ref=f7e513]:
+                      - /url: /watch?v=yENgXme9uz8
+                    - generic [ref=f7e514]:
+                      - button "INFINITI USA" [ref=f7e518]
+                      - generic [ref=f7e522]:
+                        - generic [ref=f7e523]: Sponsored
+                        - text: ·
+                      - generic [ref=f7e525]: INFINITI
+                  - button "My Ad Center" [ref=f7e528]
+                - link "Learn more" [ref=f7e535]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cc8q8_w5MasEDirSfzw_Gy9K4Ap748ZKIAfbP1vD8FbCQHxADIABgyd7ohsijkBmCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABq5LdvAGoAwSqBOYCT9CJE9Uk8aMGBV_l5Tfu6K8B46GYiht9KGRaaVjKD1ywTyNI-VMDc9KYzxkFK-VwlvfzZh6WkUEPiyOm2mm5vZcSd-txXsGbgKlI4uHqjRt4nl7ydFk77TfYomFOMIY2h2gmOqc7WcCza7wyEOduhAZ0jkFm36DE4nTM3olm9YSxag2GnL1syOcEMvlClKf-sLDZ64UHzbgwJF2QuysLA2vRoJGS-W3o9SgidaTU7eCoxoV0oQEhmMQPniP6eqwl6iuXVj5defjGAboSo9IBFICMO8gsQJcHxT6laaxGSmtIS33rzWCuX1cAuYPbkxMq8BHH8eUFO7f5sjOg8hPYhzaKGPcOyWn7vIdvdaq8wL8OpKCqlFEmZ0nUZ2xkdzc_Glcf-hE3GprRQkJ03z6K-SaCzwQFeCXIZDWGv33emgcXzz73LV3POQSGxvzobsTXmtj8bZxiYf1vjU0WVllOHqUh3OT5G4gFv7Sij1iSBQ0IEjC_9va95ovYocgBkgUICBN49fXHwwKgBlWAB73tosMCkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt5RU5nWG1lOXV6OKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCTNodHRwczovL3d3dy5pbmZpbml0aXVzYS5jb20vdmVoaWNsZXMvc3V2cy9xeDgwLmh0bWyxCa-1RT7LDZ1QyAkXyAmPAcgJwgG6Cz0IAxAFGAYgBygBMBxAAUgAWF1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCB7oDBXZpZGxz0AsT4AsBogwMKgoKCJXisQKO37EC0gwCEAHaDCUKChDA-fvjgM7RtVgSAgEDGg0Yv7Sij1ggz-nZztMFQAFKAhAfmg0BE6oNAlVTyA0B0g2jBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMzM0MC4zNDI0NDYwRFYzNjBESVNQTEFZL0IzNTUxNDQwOC40NDI2ODQyNjU7ZGNfdHJrX2FpZD02MzczMDYwMDk7ZGNfdHJrX2NpZD0yNTMzNjQyMTE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNUNqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJdjdTaWoxaW9BdlgxeDhNQ3NBTFM5ZDNwQTBBN0VMOEJSYUtyNVBzVTlNWFJwOUFPbWpXRERBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCUkhrNHhKdzlQRzdIUXgxamtJWk5kNVFQcTlFclVZek5sTG1tazlOUFVMTVlGTDJqdEstdHZONFNEZkNlRndDRFdKMU1WNVlucC0yNU1CUTtkY19wdWJpZD0yP2h0dHBzOi8vd3d3LmluZmluaXRpdXNhLmNvbS92ZWhpY2xlcy9zdXZzL3F4ODAuaHRtbD9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2NTQzNDExODOwE6qEhCO4E____________wGwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF948gZzw7JrFuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYAyAAEgIWT_D_BwE&num=3&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_0kERkFugu_gW7w08F5e7wvWSAOYg&ctype=110&video_id=yENgXme9uz8&client=ca-pub-6219811747049371&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - generic: Learn more
+            - generic [ref=f7e540]:
+              - link [ref=f7e542] [cursor=pointer]:
+                - /url: /watch?v=S5chmcEJL2M&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+              - generic [ref=f7e544] [cursor=pointer]:
+                - generic [ref=f7e545]:
+                  - heading "Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights 10 minutes, 9 seconds" [level=3] [ref=f7e547]:
+                    - link "Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights 10 minutes, 9 seconds" [ref=f7e548]:
+                      - /url: /watch?v=S5chmcEJL2M&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: Dodgers vs. Padres Game Highlights (7/5/26) | MLB Highlights
+                  - generic [ref=f7e551]:
+                    - generic [ref=f7e552]: 71K views
+                    - generic [ref=f7e553]: •16 hours ago
+                - generic [ref=f7e554]:
+                  - link "Go to channel San Diego Padres" [ref=f7e555]:
+                    - /url: /@Padres
+                  - generic [ref=f7e556]:
+                    - link "San Diego Padres" [ref=f7e560]:
+                      - /url: /@Padres
+                    - img "Verified" [ref=f7e565]
+                - generic [ref=f7e567]:
+                  - generic [ref=f7e568]: "Dodgers vs. Padres full game highlights from 7/5/26 Like and subscribe for more videos from the San Diego Padres: ..."
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e573]:
+                  - generic [ref=f7e574]: New
+                - generic [ref=f7e577]:
+                  - generic [ref=f7e578]:
+                    - generic [ref=f7e581]: Summary
+                    - button "As the Dodgers aim for a rare four-game sweep at home, Emmet Sheehan and the pitching staff face off against the Padres. The San Diego Padres look to overcome recent challenges as star players compete in this high-stakes weekend matchup." [ref=f7e582]
+                    - text: ·
+                  - button "More" [ref=f7e587]
+            - generic [ref=f7e592]:
+              - link [ref=f7e594] [cursor=pointer]:
+                - /url: /watch?v=Tcp4K-mvoA4&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+              - generic [ref=f7e596] [cursor=pointer]:
+                - generic [ref=f7e597]:
+                  - 'heading "PADRES vs. DODGERS: Official Full Game Highlights (July 2) | 2026 MLB Season 10 minutes, 35 seconds" [level=3] [ref=f7e599]':
+                    - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 2) | 2026 MLB Season 10 minutes, 35 seconds" [ref=f7e600]':
+                      - /url: /watch?v=Tcp4K-mvoA4&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: "PADRES vs. DODGERS: Official Full Game Highlights (July 2) | 2026 MLB Season"
+                  - generic [ref=f7e603]:
+                    - generic [ref=f7e604]: 397K views
+                    - generic [ref=f7e605]: •3 days ago
+                - generic [ref=f7e606]:
+                  - link "Go to channel MLB" [ref=f7e607]:
+                    - /url: /@MLB
+                  - generic [ref=f7e608]:
+                    - link "MLB" [ref=f7e612]:
+                      - /url: /@MLB
+                    - img "Verified" [ref=f7e617]
+                - generic [ref=f7e619]:
+                  - generic [ref=f7e620]: Padres vs. Dodgers full game highlights from 7/2/26 Don't forget to subscribe! https://www.youtube.com/mlb Follow us elsewhere ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e625]:
+                  - generic [ref=f7e626]: New
+                - generic [ref=f7e629]:
+                  - generic [ref=f7e630]:
+                    - generic [ref=f7e633]: Summary
+                    - button "The Padres and Dodgers engage in an intense offensive showdown, featuring significant momentum shifts and multiple home runs. Both starting pitchers face early pressure as their respective lineups capitalize on scoring opportunities throughout this high-scoring MLB contest." [ref=f7e634]
+                    - text: ·
+                  - button "More" [ref=f7e639]
+            - generic [ref=f7e643]:
+              - generic [ref=f7e646]:
+                - img [ref=f7e648]
+                - heading "Shorts" [level=2] [ref=f7e651]
+              - generic [ref=f7e652]:
+                - generic [ref=f7e653]:
+                  - generic [ref=f7e656]:
+                    - link [ref=f7e657] [cursor=pointer]:
+                      - /url: /shorts/Oml7cyvBEhs
+                    - generic [ref=f7e661] [cursor=pointer]:
+                      - 'link "Freddie Freeman''s son is ready for the league 😮‍💨 #FreddieFreeman #Dodgers #MLB #Freeman" [ref=f7e662]':
+                        - /url: /shorts/Oml7cyvBEhs
+                      - generic [ref=f7e663]: 2.5M views
+                    - button "More actions" [ref=f7e665] [cursor=pointer]
+                  - generic [ref=f7e671]:
+                    - link [ref=f7e672] [cursor=pointer]:
+                      - /url: /shorts/71xupceWki4
+                    - generic [ref=f7e676] [cursor=pointer]:
+                      - 'link "Which teammate would our All-Stars switch lives with for a week? 🤔 #dodgers #sports #losangeles" [ref=f7e677]':
+                        - /url: /shorts/71xupceWki4
+                      - generic [ref=f7e678]: 4.8M views
+                    - button "More actions" [ref=f7e680] [cursor=pointer]
+                  - generic [ref=f7e686]:
+                    - link [ref=f7e687] [cursor=pointer]:
+                      - /url: /shorts/0BUz9gM7OXs
+                    - generic [ref=f7e691] [cursor=pointer]:
+                      - 'link "BRILLIANT 😂🤙 Kicked out of Dodger Stadium? NOPE Dodgers fan pulls a fast one on Security #viral #mlb" [ref=f7e692]':
+                        - /url: /shorts/0BUz9gM7OXs
+                      - generic [ref=f7e693]: 1.1M views
+                    - button "More actions" [ref=f7e695] [cursor=pointer]
+                - generic [ref=f7e699]:
+                  - generic [ref=f7e702]:
+                    - link [ref=f7e703] [cursor=pointer]:
+                      - /url: /shorts/hxW_iVWcPoI
+                    - generic [ref=f7e707] [cursor=pointer]:
+                      - 'link "Who will win the 2024 World Series #tall #baseball #yankees #dodgers" [ref=f7e708]':
+                        - /url: /shorts/hxW_iVWcPoI
+                      - generic [ref=f7e709]: 816K views
+                    - button "More actions" [ref=f7e711] [cursor=pointer]
+                  - generic [ref=f7e717]:
+                    - link [ref=f7e718] [cursor=pointer]:
+                      - /url: /shorts/MAPzA1k-d48
+                    - generic [ref=f7e722] [cursor=pointer]:
+                      - 'link "Teoscar GRAND SLAM 😮‍💨 #TeoscarHernández #MLB #Dodgers #grandslam" [ref=f7e723]':
+                        - /url: /shorts/MAPzA1k-d48
+                      - generic [ref=f7e724]: 392K views
+                    - button "More actions" [ref=f7e726] [cursor=pointer]
+                  - generic [ref=f7e732]:
+                    - link [ref=f7e733] [cursor=pointer]:
+                      - /url: /shorts/hT-9HSQ1FEE
+                    - generic [ref=f7e737] [cursor=pointer]:
+                      - link "Vladdy & Teoscar fighting like brothers 😂" [ref=f7e738]:
+                        - /url: /shorts/hT-9HSQ1FEE
+                      - generic [ref=f7e739]: 91K views
+                    - button "More actions" [ref=f7e741] [cursor=pointer]
+                - generic [ref=f7e745]:
+                  - generic [ref=f7e748]:
+                    - link [ref=f7e749] [cursor=pointer]:
+                      - /url: /shorts/2JyCJXLyuqI
+                    - generic [ref=f7e753] [cursor=pointer]:
+                      - 'link "Dodgers vs Padres gets HEATED, Ohtani gets hit TWICE 😬 #mlb #dodgers #baseball" [ref=f7e754]':
+                        - /url: /shorts/2JyCJXLyuqI
+                      - generic [ref=f7e755]: 15M views
+                    - button "More actions" [ref=f7e757] [cursor=pointer]
+                  - generic [ref=f7e763]:
+                    - link [ref=f7e764] [cursor=pointer]:
+                      - /url: /shorts/LBcQFQ7nt4Y
+                    - generic [ref=f7e768] [cursor=pointer]:
+                      - 'link "🚨 TENSIONS RISE Between Jack Flaherty and Manny Machado! #baseball #mlb" [ref=f7e769]':
+                        - /url: /shorts/LBcQFQ7nt4Y
+                      - generic [ref=f7e770]: 435K views
+                    - button "More actions" [ref=f7e772] [cursor=pointer]
+                  - generic [ref=f7e778]:
+                    - link [ref=f7e779] [cursor=pointer]:
+                      - /url: /shorts/ev-2Y9iijNQ
+                    - generic [ref=f7e783] [cursor=pointer]:
+                      - 'link "Authenticating the final out of the #WorldSeries ✅" [ref=f7e784]':
+                        - /url: /shorts/ev-2Y9iijNQ
+                      - generic [ref=f7e785]: 1.9M views
+                    - button "More actions" [ref=f7e787] [cursor=pointer]
+                - generic [ref=f7e791]:
+                  - generic [ref=f7e794]:
+                    - link [ref=f7e795] [cursor=pointer]:
+                      - /url: /shorts/uY_82p5tKBI
+                    - generic [ref=f7e799] [cursor=pointer]:
+                      - 'link "The reaction says it all 😂 #mlb #baseball #worldseries" [ref=f7e800]':
+                        - /url: /shorts/uY_82p5tKBI
+                      - generic [ref=f7e801]: 2.9M views
+                    - button "More actions" [ref=f7e803] [cursor=pointer]
+                  - generic [ref=f7e809]:
+                    - link [ref=f7e810] [cursor=pointer]:
+                      - /url: /shorts/nGruHE6iDiU
+                    - generic [ref=f7e814] [cursor=pointer]:
+                      - 'link "This sound from Shohei’s bat never gets old. 😳 #dodgers #sports #losangeles #asmr" [ref=f7e815]':
+                        - /url: /shorts/nGruHE6iDiU
+                      - generic [ref=f7e816]: 3.1M views
+                    - button "More actions" [ref=f7e818] [cursor=pointer]
+                  - generic [ref=f7e824]:
+                    - link [ref=f7e825] [cursor=pointer]:
+                      - /url: /shorts/kueb70xxLHk
+                    - generic [ref=f7e829] [cursor=pointer]:
+                      - 'link "Dodgers sign 17-year old Joseph Deng from South Sudan #mlb #Dodgers #baseball" [ref=f7e830]':
+                        - /url: /shorts/kueb70xxLHk
+                      - generic [ref=f7e831]: 532K views
+                    - button "More actions" [ref=f7e833] [cursor=pointer]
+              - button "Show more" [ref=f7e840] [cursor=pointer]:
+                - generic: Show more
+            - generic [ref=f7e845]:
+              - link [ref=f7e847] [cursor=pointer]:
+                - /url: /watch?v=Xpt7ie8R0pw&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+              - generic [ref=f7e849] [cursor=pointer]:
+                - generic [ref=f7e850]:
+                  - heading "San Diego Padres vs. Los Angeles Dodgers | SUNDAY NIGHT BASEBALL HIGHLIGHTS | MLB on NBC | 7/5/26 8 minutes, 42 seconds" [level=3] [ref=f7e852]:
+                    - link "San Diego Padres vs. Los Angeles Dodgers | SUNDAY NIGHT BASEBALL HIGHLIGHTS | MLB on NBC | 7/5/26 8 minutes, 42 seconds" [ref=f7e853]:
+                      - /url: /watch?v=Xpt7ie8R0pw&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: San Diego Padres vs. Los Angeles Dodgers | SUNDAY NIGHT BASEBALL HIGHLIGHTS | MLB on NBC | 7/5/26
+                  - generic [ref=f7e856]:
+                    - generic [ref=f7e857]: 2.2K views
+                    - generic [ref=f7e858]: •16 hours ago
+                - generic [ref=f7e859]:
+                  - link "Go to channel NBC Sports" [ref=f7e860]:
+                    - /url: /@NBCSports
+                  - generic [ref=f7e861]:
+                    - link "NBC Sports" [ref=f7e865]:
+                      - /url: /@NBCSports
+                    - img "Verified" [ref=f7e870]
+                - generic [ref=f7e872]:
+                  - generic [ref=f7e873]: JP Sears cruised early while San Diego's stars did the heavy lifting at the dish to help the Padres' snap their eight-game losing ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e878]:
+                  - generic [ref=f7e879]: New
+                - generic [ref=f7e882]:
+                  - generic [ref=f7e883]:
+                    - generic [ref=f7e886]: Summary
+                    - button "NBC Sports highlights a tense showdown where early coaching ejections set a combative tone. Manny Machado reflects on a milestone performance during a post-game interview as the team works to shift momentum in their rivalry against the Dodgers." [ref=f7e887]
+                    - text: ·
+                  - button "More" [ref=f7e892]
+            - generic [ref=f7e897]:
+              - link [ref=f7e899] [cursor=pointer]:
+                - /url: /watch?v=cmsN74Rnce8&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjbSBwkJTgsBhyohjO8%3D
+              - generic [ref=f7e901] [cursor=pointer]:
+                - generic [ref=f7e902]:
+                  - heading "Los Angeles Dodgers vs San Diego Padres Full Game Highlights | July 5,2026 - MLB 1 hour, 17 minutes" [level=3] [ref=f7e904]:
+                    - link "Los Angeles Dodgers vs San Diego Padres Full Game Highlights | July 5,2026 - MLB 1 hour, 17 minutes" [ref=f7e905]:
+                      - /url: /watch?v=cmsN74Rnce8&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjbSBwkJTgsBhyohjO8%3D
+                      - text: Los Angeles Dodgers vs San Diego Padres Full Game Highlights | July 5,2026 - MLB
+                  - generic [ref=f7e908]:
+                    - generic [ref=f7e909]: 1K views
+                    - generic [ref=f7e910]: •17 hours ago
+                - generic [ref=f7e911]:
+                  - link "Go to channel Lý Tử Long" [ref=f7e912]:
+                    - /url: /@L%C3%BDT%E1%BB%ADLong-c9q
+                  - link "Lý Tử Long" [ref=f7e917]:
+                    - /url: /@L%C3%BDT%E1%BB%ADLong-c9q
+                - generic [ref=f7e918]:
+                  - generic [ref=f7e919]: Los Angeles Dodgers vs San Diego Padres Full Game Highlights | July 5,2026 - MLB.
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e924]:
+                  - generic [ref=f7e925]: New
+            - generic [ref=f7e927]:
+              - link [ref=f7e929] [cursor=pointer]:
+                - /url: /watch?v=wIqe8opTzoI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjbSBwkJTgsBhyohjO8%3D
+              - generic [ref=f7e931] [cursor=pointer]:
+                - generic [ref=f7e932]:
+                  - heading "Padres vs. Dodgers Game Highlights (7/4/26) | MLB Highlights 10 minutes, 18 seconds" [level=3] [ref=f7e934]:
+                    - link "Padres vs. Dodgers Game Highlights (7/4/26) | MLB Highlights 10 minutes, 18 seconds" [ref=f7e935]:
+                      - /url: /watch?v=wIqe8opTzoI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjbSBwkJTgsBhyohjO8%3D
+                      - text: Padres vs. Dodgers Game Highlights (7/4/26) | MLB Highlights
+                  - generic [ref=f7e938]:
+                    - generic [ref=f7e939]: 213K views
+                    - generic [ref=f7e940]: •1 day ago
+                - generic [ref=f7e941]:
+                  - link "Go to channel Los Angeles Dodgers" [ref=f7e942]:
+                    - /url: /@Dodgers
+                  - generic [ref=f7e943]:
+                    - link "Los Angeles Dodgers" [ref=f7e947]:
+                      - /url: /@Dodgers
+                    - img "Verified" [ref=f7e952]
+                - generic [ref=f7e954]:
+                  - generic [ref=f7e955]: Padres vs. Dodgers full game highlights from 7/4/26 The Los Angeles Dodgers franchise, with nine World Series championships ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e960]:
+                  - generic [ref=f7e961]: New
+                - generic [ref=f7e964]:
+                  - generic [ref=f7e965]:
+                    - generic [ref=f7e968]: Summary
+                    - button "Yoshinobu Yamamoto delivers a stellar pitching performance for the Los Angeles Dodgers on the Fourth of July. The game features key defensive efforts and offensive contributions, including a notable home run, as both teams navigate a high-stakes matchup at Dodger Stadium." [ref=f7e969]
+                    - text: ·
+                  - button "More" [ref=f7e974]
+            - generic [ref=f7e979]:
+              - link [ref=f7e981] [cursor=pointer]:
+                - /url: /watch?v=EdN-U0XH3-k&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+              - generic [ref=f7e983] [cursor=pointer]:
+                - generic [ref=f7e984]:
+                  - heading "Padres vs. Dodgers Game Highlights (7/3/26) | MLB Highlights 11 minutes, 56 seconds" [level=3] [ref=f7e986]:
+                    - link "Padres vs. Dodgers Game Highlights (7/3/26) | MLB Highlights 11 minutes, 56 seconds" [ref=f7e987]:
+                      - /url: /watch?v=EdN-U0XH3-k&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                      - text: Padres vs. Dodgers Game Highlights (7/3/26) | MLB Highlights
+                  - generic [ref=f7e990]:
+                    - generic [ref=f7e991]: 231K views
+                    - generic [ref=f7e992]: •2 days ago
+                - generic [ref=f7e993]:
+                  - link "Go to channel Los Angeles Dodgers" [ref=f7e994]:
+                    - /url: /@Dodgers
+                  - generic [ref=f7e995]:
+                    - link "Los Angeles Dodgers" [ref=f7e999]:
+                      - /url: /@Dodgers
+                    - img "Verified" [ref=f7e1004]
+                - generic [ref=f7e1006]:
+                  - generic [ref=f7e1007]: Padres vs. Dodgers full game highlights from 7/3/26 The Los Angeles Dodgers franchise, with nine World Series championships ...
+                  - tooltip "tooltip"
+                - img "New" [ref=f7e1012]:
+                  - generic [ref=f7e1013]: New
+                - generic [ref=f7e1016]:
+                  - generic [ref=f7e1017]:
+                    - generic [ref=f7e1020]: Summary
+                    - button "Shohei Ohtani takes the mound against Michael King in a tense divisional matchup at Dodger Stadium. Both pitchers navigate high-pressure situations throughout the contest as their respective lineups fight for momentum in this tightly contested series game." [ref=f7e1021]
+                    - text: ·
+                  - button "More" [ref=f7e1026]
+          - generic [ref=f7e1055]:
+            - link "Padres vs Dodgers MLB" [ref=f7e1060] [cursor=pointer]:
+              - /url: /watch?v=uVrvH0l82D4
+              - generic [ref=f7e1063]: Padres vs Dodgers
+              - generic [ref=f7e1065]: MLB
+            - generic [ref=f7e1073] [cursor=pointer]:
+              - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season" [ref=f7e1074]':
+                - /url: /watch?v=uVrvH0l82D4
+                - generic [ref=f7e1075]: "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season"
+              - generic [ref=f7e1077]: MLB • 326K views • 17 hours ago
+            - generic [ref=f7e1078]:
+              - generic [ref=f7e1083]:
+                - link [ref=f7e1085] [cursor=pointer]:
+                  - /url: /watch?v=Ab-Hnd9m7UI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                  - img [ref=f7e1087]
+                  - img [ref=f7e1090]:
+                    - generic [ref=f7e1091]: 10:18
+                  - generic:
+                    - generic: Now playing
+                    - generic:
+                      - img
+                - generic [ref=f7e1092] [cursor=pointer]:
+                  - 'link "PADRES vs. DODGERS: Official Full Game Highlights (July 4) | 2026 MLB Season" [ref=f7e1094]':
+                    - /url: /watch?v=Ab-Hnd9m7UI&pp=ygUsTUxCIEhpZ2hsaWdodHMgUGFkcmVzIHZzIERvZGdlcnMgSnVseSA1IDIwMjY%3D
+                    - generic [ref=f7e1095]: "PADRES vs. DODGERS: Official Full Game Highlights (July 4) | 2026 MLB Season"
+                  - generic [ref=f7e1096]: MLB • 323K views • 1 day ago
+              - generic [ref=f7e1100]:
+                - heading "Related Teams" [level=2] [ref=f7e1102]:
+                  - generic "Related Teams" [ref=f7e1104]
+                - generic [ref=f7e1105]:
+                  - generic [ref=f7e1107]:
+                    - link "Los Angeles Dodgers" [ref=f7e1109] [cursor=pointer]:
+                      - /url: /results?search_query=Dodgers&sp=eAE%253D
+                      - generic [ref=f7e1113]: Los Angeles Dodgers
+                    - link "San Diego Padres" [ref=f7e1115] [cursor=pointer]:
+                      - /url: /results?search_query=Padres&sp=eAE%253D
+                      - generic [ref=f7e1119]: San Diego Padres
+                    - link "Toronto Blue Jays" [ref=f7e1121] [cursor=pointer]:
+                      - /url: /results?search_query=Toronto+Blue+Jays&sp=eAE%253D
+                      - generic [ref=f7e1125]: Toronto Blue Jays
+                    - link "New York Mets" [ref=f7e1127] [cursor=pointer]:
+                      - /url: /results?search_query=Mets&sp=eAE%253D
+                      - generic [ref=f7e1131]: New York Mets
+                  - button [ref=f7e1134] [cursor=pointer]
+  - generic [ref=f7e1140]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CmR1c_w5MasEDirSfzw_Gy9K4ApqN36CIAcDRrYKiFmQQASAAYMne6IbIo5AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAc_T7-8_qAMEyAMKqgTiAk_QiRPVJPGjBgVf5eU37uivAeOhmIobfShkWmlYyg9csE8jSPlTA3PSmM8ZBSvlcJb382YelpFBD4sjptppub2XEnfrcV7Bm4CpSOLh6o0beJ5e8nRZO-032KJhTjCGNodoJjqnO1nAs2u8MhDnboQGdI5BZt-gxOJ0zN6JZvWEsWoNhpy9bMjnBDL5QpSn_rCw2euFB824MCRdkLsrCwNr0aCRkvlt6PUoInWk1O3gqMaFdKEBIZjED54j-nqsJeorl1Y-XXn4xgG6EqPSARSAjDvILECXB8U-pWmsRkprSEt9681grl9XALmD25MTKvARx_HlBTu397ZLoPIb2DlQXBQKR3p6S7CELWyhlCSgZiVZ7ExUvnWm86OOSeeLI4X4FCYzwiWmiUPYgUzqU_AjVhLIp5s1meaHFgZRlS35_iZbED91Szs-UXZkQv5fJkTkxrAJ6YcUjGyjKGzOmPZxg4gF5_7gnFmSBQgIE3jZ5Z7nGqAGoQGAB8-LwM8akAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtJTXgtZEVfV2ltNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWNjzyf7wvpUDYAGaCS9odHRwczovL3d3dy5zcGVjdHJ1bS5jb20vY3Avc29jY2VyLWNoYW1waW9uc2hpcLEJ3WLQeBo5TQ3ICRfICY8ByAnCAboLPQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMFdmlkbHPQCxLgCwGiDDsqCgoIleKxAo7fsQJiDwoNY29tLmNoYXJ0ZXIudWoXChVjb20uYnJpZ2h0aG91c2UubXliaG54AIgBANIMAhAB2gwmCgsQ4PKLncrk14KSARICAQMaDRjn_uCcWSDEp6GZ5gVAAUoCEB-aDQESqg0CVVPIDQHSDbsFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjc5OTIuMjI3OTUwN0hYX0JETS9CMzU5ODU0ODEuNDQ5OTk3MTczO2RjX3Rya19haWQ9NjQ0Mzc5NDk0O2RjX3Rya19jaWQ9MjU4NzM1MDk0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTVfN2duRm1vQXRubG51Y2FzQUtudWVqcUEwQTdFUHJfV1ZBZkpDcEk1R2VRdDJ0WUFMUWhFU1E9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q4OTZvOGl6RlFnZUszQVk5MDNsNjF1aEZhWFl4MmgyQ1VpOGFoVWt6c0x1bjhqZmVOZ1E5OEFHZDc0WmZ4bHVvdURELWhhV0Y0Mml4elpnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3BlY3RydW0uY29tL2NwL3NvY2Nlci1jaGFtcGlvbnNoaXA_Y21wPVBSTF9kZW1hbmRnZW5feW91dHViZV9uYV8zNTk4NTQ4MV80NDk5OTcxNzNfU1BSRTE5MDMwMTVIX25hJm89bmEmcDE9ODQ0NDMxNzc1MCZ2PURJU05TJmxlYWRyZWY9UFJMX2RlbWFuZGdlbl95b3V0dWJlX25hXzM1OTg1NDgxXzQ0OTk5NzE3M19TUFJFMTkwMzAxNUhfbmEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTUxMDY0OTM1sBPR7fMiuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF9EB11km24_euhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIgf_J_vC-lQMVCtrnAx3GpRQnEAEYASAAEgJxofD_BwE&num=1&cid=CAASqwHkaGWn2QHqD0O5F03LtjPvHX06F1da7J05eu02F00xRIemeJsuqCR48slID_krrK1_HPuH_uzm9ZJVNCPpU8hJy7AthqhnSX8VzVDBvikVawzv5JlN3q6Z1RcZFomqyrwGL2LTJOhd4pdURCAG98UDF42WKn5WvwFntW-o_JIIDEUr5eWH0oiYkUDSwRtnTpC2bTe5PDMlYbRCyA_wsUDfUJSW_OpH6ru0TiQ&ad_cpn=%5BCPN%5D&sig=AOD64_2D19nqRjq2AezHz1XYnQt3XI0YpA&ctype=110&video_id=IMx-dE_Wim4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=f7e1141] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - img
