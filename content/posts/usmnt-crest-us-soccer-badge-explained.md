@@ -2,6 +2,7 @@
 title: "The USMNT Crest, Explained: What the US Soccer Badge Means, Why It Has No Stars, and What Changed for the 2026 World Cup"
 category: "Soccer"
 date: "2026-07-02"
+updatedDate: "2026-07-06"
 excerpt: "What the US Soccer crest on the USMNT jersey actually means: the shield, the stripes, why the men wear zero stars while the USWNT wears four."
 gradient: "linear-gradient(135deg, #1A3A8F 0%, #0B1A2F 55%, #C8102E 100%)"
 coverImage: "/images/posts/usmnt-crest-explained/usmnt-crest-cover.jpg"
@@ -61,6 +62,10 @@ The crest is only one piece of the shirt's front. At this World Cup the USMNT je
 As for how those shirts have looked in actual matches, the USMNT's red-and-white striped home landed one of the best grades of the knockout rounds in our live [2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker), where we grade every kit matchup of all 104 games.
 
 ## Frequently Asked Questions
+
+**What's the history behind the USMNT badge?**
+
+The badge on the USMNT shirt is the U.S. Soccer Federation crest, and its current form dates to 2016. Before that, U.S. Soccer used a 1993 logo built around a swooshing soccer ball and three decorative stars, which replaced earlier shield marks the federation had worn since its founding in 1913. The 2016 redesign stripped the badge down to its essentials: USA in bold letters over red-and-white flag stripes inside a heraldic shield, with the ball and the old stars removed. The result reads as a compressed American flag, and the 2026 World Cup on home soil is the first time this badge appears on the host nation's jersey at a men's World Cup.
 
 **What does the USMNT crest mean?**
 
