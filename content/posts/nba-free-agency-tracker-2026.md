@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Team Jersey"
+title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Paul George's Celtics Green, Jaylen Brown to the Sixers)"
 category: "NBA"
 date: "2026-07-07"
 updatedDate: "2026-07-07"
-excerpt: "Every 2026 NBA free agency signing in their new team jersey and uniform, from Paul George's Celtics green to Jaylen Brown's move to the Sixers. Real photos, updating all summer."
+excerpt: "Every 2026 NBA free agency signing in their new jersey: Paul George and Mike Conley in Celtics green, Jaylen Brown's shocking move to the Sixers, and more. Real photos, updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
 coverImagePosition: "center center"
