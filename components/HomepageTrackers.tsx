@@ -25,6 +25,16 @@ const trackers: TrackerCard[] = [
     centered: false,
   },
   {
+    slug: "nba-free-agency-tracker-2026",
+    kicker: "NBA · 2026 Free Agency",
+    title: "2026 NBA Free Agency Tracker: Every Signing in Their New Jersey",
+    dek: "Every 2026 NBA free agency signing in their new team jersey, led by the official reveal photos. Paul George, Mike Conley, and Mitchell Robinson in Celtics green; Jaylen Brown's shocking move to the Sixers' red, white, and blue. Updated all summer as the moves keep coming.",
+    status: "Live · NBA",
+    grade: "A",
+    image: "/images/posts/nba-free-agency-tracker-2026/cover.jpg",
+    centered: false,
+  },
+  {
     slug: "world-cup-round-of-32-kit-matchups-ranked",
     kicker: "Soccer · 2026 FIFA World Cup · Round of 32",
     title: "Every Round of 32 Kit Matchup, Ranked: All 16 Knockout Clashes Graded",
