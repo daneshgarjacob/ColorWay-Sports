@@ -202,6 +202,7 @@ export const results: Record<string, Result> = {
   "r16-6": { winner: "ENG", score: "3-2" },          // July 4 — England beat Mexico 3-2
   "r16-3": { winner: "ESP", score: "1-0" },          // July 4 — Spain beat Portugal 1-0
   "r16-4": { winner: "BEL", score: "4-1" },          // July 5 — Belgium beat USA 4-1
+  "r16-7": { winner: "ARG", score: "3-2" },          // July 7 — Argentina beat Egypt 3-2
 };
 
 // Merge the locked results over the user's predictions (results win) and prune.
