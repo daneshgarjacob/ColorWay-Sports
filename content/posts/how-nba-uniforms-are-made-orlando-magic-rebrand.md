@@ -1,9 +1,9 @@
 ---
-title: "How an NBA Uniform Actually Gets Made: Inside the Orlando Magic's Three-Year Rebrand"
+title: "Who Really Designs NBA Uniforms? It's Not Nike (Inside the Orlando Magic Rebrand)"
 category: "NBA"
 date: "2026-07-06"
 updatedDate: "2026-07-06"
-excerpt: "Orlando Magic marketing EVP Shelly Wilkes on who really designs NBA uniforms, why the old logos are gone for good, the three-year process, and the business case behind home whites."
+excerpt: "The Orlando Magic's marketing EVP reveals who really designs NBA uniforms (not Nike), why teams can't bring back old logos, and the money behind dropping home whites."
 gradient: "linear-gradient(135deg, #0B77C2 0%, #000000 55%, #C4CED4 100%)"
 coverImage: "/images/posts/orlando-magic-rebrand/hero.jpg"
 coverImagePosition: "center center"
