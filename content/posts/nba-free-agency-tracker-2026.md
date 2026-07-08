@@ -2,7 +2,7 @@
 title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Paul George's Celtics Green, Jaylen Brown to the Sixers)"
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-07"
+updatedDate: "2026-07-08"
 excerpt: "Every 2026 NBA free agency signing in their new jersey: Paul George and Mike Conley in Celtics green, Jaylen Brown's shocking move to the Sixers, and more. Real photos, updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
@@ -21,6 +21,14 @@ Free agency is the second draft of the NBA offseason, and the fun part for us is
   <span style="display: block; font-size: 1.15em; font-weight: 800; color: #ffffff; line-height: 1.4;">Spot a signing we haven't added yet?</span>
   <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #dbe4f5; margin-top: 8px;">Free agency moves fast and we do not want to miss anyone. Reply to our post on X <a href="https://x.com/colorwaysports" target="_blank" rel="noopener" style="color: #9fe3b8; font-weight: 700;">@ColorWaySports</a> or email <a href="mailto:jake@colorwaysports.com" style="color: #9fe3b8; font-weight: 700;">jake@colorwaysports.com</a> with the player and their new team, and we will get them into the tracker in their new colors.</span>
 </div>
+
+## Tim Hardaway Jr., Miami Heat
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEATstore/status/2074940225940267439"></a></blockquote>
+</div>
+
+Tim Hardaway Jr. in a Miami Heat jersey is a full-circle moment, because his father Tim Hardaway Sr. is one of the most beloved players in franchise history and an All-Star in that same uniform. The Heat's red, black, and white is a clean, modern identity, and Hardaway Jr. is a career sharpshooter who has cycled through the Knicks' orange and blue, the Mavericks' royal, and the Pistons' set. Slotting into Miami's uniform, the one his dad made famous, is one of the more sentimental colorway stories of this free agency class.
 
 ## Paul George, Boston Celtics
 
