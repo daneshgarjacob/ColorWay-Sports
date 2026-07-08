@@ -68,7 +68,7 @@ If you have ever been annoyed that the home team no longer reliably wears white,
 
 "If our team is only wearing white at home, where our core fans are coming to the games, how are we really selling and marketing our other four jerseys?" she said. A modern uniform program is four to five jerseys a year. Locking white to home games would bury most of that program. There is a second, sharper reason specific to Orlando: it is a transient market with a lot of visiting fans. "If we play Boston and we're in whites, they get to wear green, their fans show up in green, and it looks like we're helping them tell their story." Wearing color at home denies the visitors that moment.
 
-Worth knowing: the home team picks its jersey schedule after the schedule is released in August, and the road team's uniforms are then mostly determined by those choices. Wilkes runs that selection herself, working with her VP over creative and game entertainment, and theme nights factor in too.
+Worth knowing: the home team picks its jersey schedule after the schedule is released in August, and the road team's uniforms are then mostly determined by those choices. Wilkes runs that selection herself, working with her VP over creative and game entertainment, and theme nights factor in too. We broke down the full economics of the vanishing home white in [why NBA teams don't wear white at home anymore](/stories/why-nba-teams-dont-wear-white-at-home).
 
 ## The Hidden Logistics of Playoff T-Shirt Giveaways
 
