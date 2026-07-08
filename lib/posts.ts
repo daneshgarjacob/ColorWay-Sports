@@ -39,6 +39,7 @@ export interface PostMeta {
   featuredOrder?: number;
   homepageOrder?: number;
   homepageHero?: boolean;
+  homepageFeature?: boolean;
   topViewsRank?: number;
   reviews?: ReviewItem[];
   bestRating?: number;
@@ -153,6 +154,7 @@ export function getAllPosts(): PostMeta[] {
       featuredOrder: data.featuredOrder,
       homepageOrder: data.homepageOrder,
       homepageHero: data.homepageHero,
+      homepageFeature: data.homepageFeature,
       topViewsRank: data.topViewsRank,
       reviews: data.reviews,
       bestRating: data.bestRating,

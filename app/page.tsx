@@ -68,7 +68,19 @@ export default function Home() {
   // we deliberately choose a replacement, instead of auto-swapping to whatever is newest.
   const pinnedHero = filtered.find((p) => p.homepageHero);
   const heroPost = pinnedHero || lead[0];
-  const gridPosts = lead.filter((p) => p.slug !== heroPost.slug).slice(0, 3);
+
+  // A post can pin itself into one of the 3 Latest cards with `homepageFeature: true`,
+  // even if it's not among the newest by date (e.g. keeping the F1 British GP card in
+  // the grid after it's no longer the hero). Pinned features take the front slots; the
+  // rest fill from the date-driven lead. No date is faked to achieve placement.
+  const pinnedFeatures = filtered.filter(
+    (p) => p.homepageFeature && p.slug !== heroPost.slug
+  );
+  const pinnedFeatureSlugs = new Set(pinnedFeatures.map((p) => p.slug));
+  const autoGrid = lead.filter(
+    (p) => p.slug !== heroPost.slug && !pinnedFeatureSlugs.has(p.slug)
+  );
+  const gridPosts = [...pinnedFeatures, ...autoGrid].slice(0, 3);
 
   // MORE STORIES — pure popularity by topViewsRank, excluding what's already in Latest.
   const leadSlugs = new Set(lead.map((p) => p.slug));

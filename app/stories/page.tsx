@@ -45,7 +45,14 @@ const rootingGuideCard = {
 
 export default function StoriesPage() {
   const posts = getAllPostsByDate();
-  const allCards = [fantasyDraftCard, rootingGuideCard, ...posts];
+  // Merge the hand-built tool cards in by date like everything else, so the grid stays
+  // in true reverse-chronological order (by updatedDate, falling back to date) instead
+  // of force-pinning the tools to the top.
+  const effectiveDate = (p: { date: string; updatedDate?: string }) =>
+    p.updatedDate || p.date;
+  const allCards = [fantasyDraftCard, rootingGuideCard, ...posts].sort((a, b) =>
+    effectiveDate(a) > effectiveDate(b) ? -1 : 1
+  );
 
   return (
     <>
