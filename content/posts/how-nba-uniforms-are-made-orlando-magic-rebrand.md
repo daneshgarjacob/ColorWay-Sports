@@ -65,7 +65,7 @@ We asked Wilkes about the persistent fan theory that Nike struggles to nail cert
 
 If you have ever been annoyed that the home team no longer reliably wears white, you are not alone, and the answer is money, not aesthetics. We told Wilkes our own playoff tracker found the home team wore white only about a third of the time, and that readers were genuinely up in arms about it.
 
-"If our team is only wearing white at home, where my core fans are coming to the games, how am I really selling and marketing our other four jerseys?" she said. A modern uniform program is four to five jerseys a year. Locking white to home games would bury most of that program. There is a second, sharper reason specific to Orlando: it is a transient market with a lot of visiting fans. "If we play Boston and we're in whites, they get to wear green, their fans show up in green, and it looks like we're helping them tell their story." Wearing color at home denies the visitors that moment.
+"If our team is only wearing white at home, where our core fans are coming to the games, how are we really selling and marketing our other four jerseys?" she said. A modern uniform program is four to five jerseys a year. Locking white to home games would bury most of that program. There is a second, sharper reason specific to Orlando: it is a transient market with a lot of visiting fans. "If we play Boston and we're in whites, they get to wear green, their fans show up in green, and it looks like we're helping them tell their story." Wearing color at home denies the visitors that moment.
 
 Worth knowing: the home team picks its jersey schedule after the schedule is released in August, and the road team's uniforms are then mostly determined by those choices. Wilkes runs that selection herself, working with her VP over creative and game entertainment, and theme nights factor in too.
 
@@ -77,7 +77,7 @@ The catch is the logistics, and they are brutal. The team orders around 21,000 s
 
 ## Who Is Shelly Wilkes
 
-Wilkes did not set out to run brand identity for an NBA team. She played volleyball in college, which left little time to map out a career, and went to grad school to figure it out. That program, at UCF, was in sport business management, and it is what led her to the Magic, where she has now worked for more than twenty years alongside the same leadership team and creative group. She has two daughters (ages 9 and 7) that she hopes are proud of her and grow up to be lifelong Magic fans!
+Wilkes did not set out to run brand identity for an NBA team. She played volleyball in college, which left little time to map out a career, and went to grad school to figure it out. That program, at UCF, was in sport business management, and it is what led her to the Magic, where she has now worked for more than twenty years alongside the same leadership team and creative group. She has two daughters, ages nine and seven, who she hopes are proud of her and will grow up to be lifelong Magic fans.
 
 Her advice for anyone who wants into this world is refreshingly human. "My least favorite question of all time is, what do you want to be when you grow up, because I don't think anybody knows," she said. "Show up every day, be passionate, be excited about what you get to do." For her, the rebrand was a career highlight. "It's a dream job for me."
 
@@ -117,4 +117,4 @@ The Orlando Magic order roughly 21,000 shirts per playoff round at about three t
 
 **Who is Shelly Wilkes?**
 
-Shelly Wilkes is the Chief Marketing Officer for the Orlando Magic, where she has worked for more than twenty years. She leads the team's brand and creative work, ran point on the 2025 rebrand, and personally manages the team's game-by-game uniform schedule. She played volleyball in college and holds a graduate degree in sport business management from UCF. She has two daughters (ages 9 and 7) that she hopes are proud of her and grow up to be lifelong Magic fans!
+Shelly Wilkes is the Chief Marketing Officer for the Orlando Magic, where she has worked for more than twenty years. She leads the team's brand and creative work, ran point on the 2025 rebrand, and personally manages the team's game-by-game uniform schedule. She played volleyball in college and holds a graduate degree in sport business management from UCF. She has two daughters, ages nine and seven, who she hopes are proud of her and will grow up to be lifelong Magic fans.
