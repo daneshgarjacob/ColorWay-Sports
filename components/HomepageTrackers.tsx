@@ -35,14 +35,14 @@ const trackers: TrackerCard[] = [
     centered: false,
   },
   {
-    slug: "world-cup-round-of-32-kit-matchups-ranked",
-    kicker: "Soccer · 2026 FIFA World Cup · Round of 32",
-    title: "Every Round of 32 Kit Matchup, Ranked: All 16 Knockout Clashes Graded",
-    dek: "The knockout round is in the books and every jersey pairing is ranked, counting down from worst to first. The round averaged 8.1 — above the tournament-wide 8.0 — and the lesson from the board is clear: the federations that reached for their boldest alternates won the round, and every red-vs-white pairing sank to the bottom third. Two alternate kits took the top spot at 9.5.",
-    status: "New · Rankings",
+    slug: "mlb-uniform-schedule-2026",
+    kicker: "MLB · All 30 Teams",
+    title: "MLB Uniform Schedule 2026: What Every Team Wears and When",
+    dek: "The full 2026 MLB uniform guide — home whites, road grays, City Connects, throwbacks, and powder blues — mapped out for all 30 teams. How many jerseys each club carries, which days they wear each one, and the four teams that run a true day-by-day schedule.",
+    status: "Guide · MLB",
     grade: "A",
-    image: "/images/posts/wc-r32-kit-matchups-ranked-cover.jpg",
-    centered: false,
+    image: "/images/posts/mlb-uniform-schedule-2026-cover.jpg",
+    centered: true,
   },
 ];
 
