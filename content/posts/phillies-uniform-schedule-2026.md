@@ -2,7 +2,7 @@
 title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-08"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -94,6 +94,8 @@ The red pinstripes are the Phillies' primary home uniform and the one most fans 
 
 These have been the Phillies' identity since 1992. The red cap, white jersey with red pinstripes, and matching pinstripe pants are one of the most iconic looks in baseball. There is nothing to change here. This is the foundation that the rest of the rotation builds around.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red pinstripe jersey on Fanatics →</a>
+
 ## Cream Alternates (Home Days)
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-cream-alternate.webp" alt="Bryce Harper Philadelphia Phillies cream alternate jersey" style="width: 100%; border-radius: 10px;" />
@@ -102,6 +104,8 @@ These have been the Phillies' identity since 1992. The red cap, white jersey wit
 The cream alternates are worn for all daytime home games at Citizens Bank Park, excluding Thursdays. They are paired with cream pants and a blue cap with a red brim that gives the whole look a vintage feel.
 
 These are incredible. The Phillies first wore creams as their primary home uniform from 1946 to 1949, and they brought them back as an alternate in 2008. The off-white tone under natural daylight at Citizens Bank Park looks completely different from the pinstripes under the lights. It is a smart decision to tie these to day games because that is when they look their best. The cream fabric catches the sun in a way that white pinstripes just cannot replicate.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
 
 ## Powder Blues (Thursdays)
 
@@ -112,6 +116,8 @@ The powder blues with maroon caps are worn on Thursdays at Citizens Bank Park. T
 
 These might be the best alternate uniform in all of baseball. The powder blue is such a distinct color that immediately separates the Phillies from every other team in the league. Tying them to Thursdays gives fans a specific day to look forward to, and it keeps the jersey feeling special instead of overusing it. If the Phillies wore these every other game they would lose their impact. Once a week is perfect.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue jersey on Fanatics →</a>
+
 ## City Connects (Friday Nights)
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-city-connect.avif" alt="Trea Turner Philadelphia Phillies City Connect jersey" style="width: 100%; border-radius: 10px;" />
@@ -121,12 +127,16 @@ The City Connect uniforms are worn on Friday night home games at Citizens Bank P
 
 The City Connect design features a midnight navy gradient with "Philly" in a gothic font inspired by the Constitution and other historical documents signed in Philadelphia. There are Liberty Bell cracks inside each letter. It is a creative concept. But we are not in love with these. The dark navy base makes them feel heavy, and the overall look does not pop the way the rest of the Phillies' closet does. The concept is solid on paper, but on the field they just do not hit the same as the powder blues or creams. Still, giving them their own designated night keeps the rotation clean and gives fans who do love them a guaranteed day to see them.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect jersey on Fanatics →</a>
+
 ## Road Grays (Away Games)
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-road-gray.avif" alt="Bryce Harper Philadelphia Phillies road gray jersey" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Philadelphia Phillies</p>
 
 The gray road uniforms are exactly what you would expect. Clean, classic, and functional. The Phillies have worn this same road set since 1992, and it does not need to change. Road grays exist to let the home team's jerseys be the star, and the Phillies' version does that job well.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520road%2520gray%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## The All-Star Patch
 
