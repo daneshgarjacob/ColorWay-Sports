@@ -18,7 +18,7 @@ const trackers: TrackerCard[] = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Nine perfect 10s now lead the board — Norway's red vs France's mint is the newest — with Portugal's red vs Congo DR's blue, Ecuador's yellow vs Germany's navy, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, and Sweden's yellow vs Japan's blue all at 9.5. The Round of 32 is complete — Portugal's green vs Croatia's blue led the knockout round at 9.5 — and the Round of 16 is complete. Through 94 matches the average is 8.0/10. Every matchup graded.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. Nine perfect 10s now lead the board — Norway's red vs France's mint is the newest — with Portugal's red vs Congo DR's blue, Ecuador's yellow vs Germany's navy, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, and Sweden's yellow vs Japan's blue all at 9.5. The Round of 32 and Round of 16 are complete, and the quarterfinals open with France's mint vs Morocco's red at a vibrant 9.5. Through 95 matches the average is 8.0/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg",
