@@ -1,4 +1,5 @@
 import Header from "@/components/Header";
+import ExclusiveBanner from "@/components/ExclusiveBanner";
 import HomepageTrackers from "@/components/HomepageTrackers";
 import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
 import StoryCard from "@/components/StoryCard";
@@ -97,6 +98,7 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
+        <ExclusiveBanner />
         <HomepageTrackers />
         <TraditionalJerseyIndex />
 
