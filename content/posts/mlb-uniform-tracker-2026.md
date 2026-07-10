@@ -42,6 +42,15 @@ If you want the forward-looking version, our [MLB uniform schedule guide](/stori
 
 The full 13-game slate is in the books. A mostly classic Thursday: a dozen home teams in white or cream, six road teams in the standard grays, and eight clubs reaching for an alternate. Almost all the color came from the road, where seven visiting teams broke out an alternate, from the Brewers' powder blue and Mariners' navy to the Diamondbacks' black and the Cubs' and Royals' royal blues, while Cincinnati supplied the night's only home alternate in its red. No City Connects. Slate average: 6.9 out of 10.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #12284B 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Brewers Powder Blue</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2075416043380441235"></a></blockquote>
+
+Our pick from Thursday's slate: Milwaukee's powder blue road alternate, one of the best travel looks in the game, worn in an 8-4 win in St. Louis. Each day we spotlight one team's look straight from their own feed, so you see the uniform on the field and not just on the rack.
+
 ### Yankees at Rays
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
