@@ -150,10 +150,10 @@ The Braves flipped last night's script, romping 10-5 a day after dropping the op
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/royals-powder-blue.png" alt="Kansas City Royals powder blue alternate jersey worn July 9 2026 at the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/royals-royal-alternate.png" alt="Kansas City Royals royal blue alternate jersey worn July 9 2026 at the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROYALS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #7BB2DD; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Powder Blue Alternate</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #004687; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Royal Blue Alternate</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
@@ -172,7 +172,7 @@ The Braves flipped last night's script, romping 10-5 a day after dropping the op
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7 / 10</p>
 </div>
 
-Kansas City went back to the powder blue in Queens and the Mets took the series finale. The Columbia blue is the best road look going, and it pops against a home white, though it lands a notch below last night's powder-versus-black clash.
+Kansas City reached for the royal blue alternate in Queens, a deeper, more saturated blue than their signature powder, and the Mets took the series finale. Royal-on-white is a clean, punchy pairing, the bold blue carrying well against New York's home whites.
 
 ### Red Sox at White Sox
 
@@ -760,7 +760,8 @@ This is where the tracker earns its keep over time. Every look gets counted, and
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Rays Light Blue ×1</span>
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Mariners Navy ×1</span>
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Reds Red ×1</span>
-  <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Royals Powder Blue ×2</span>
+  <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Royals Powder Blue ×1</span>
+  <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Royals Royal Blue ×1</span>
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Mets Black ×1</span>
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Guardians Navy ×2</span>
   <span style="padding: 6px 13px; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 999px; font-size: 12px; font-weight: 700; color: #ffffff;">Brewers Navy ×1</span>
