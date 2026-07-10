@@ -42,6 +42,15 @@ If you want the forward-looking version, our [MLB uniform schedule guide](/stori
 
 A full 15-game slate. Ten home teams stayed in white or cream, eight road teams wore the standard grays, and 12 clubs broke out an alternate. No City Connects last night: the new-for-2026 designs mostly live on Fridays and Saturdays, so the board stayed classic. Slate average: 7.3 out of 10.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #134A8E 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Blue Jays Powder Blue</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2075059812665311554"></a></blockquote>
+
+Our pick from Wednesday's slate: Toronto's powder blue road alternate, worn in a 10-0 statement win in San Francisco. Each day we spotlight one team's look straight from their own feed, so you see the uniform on the field and not just on the rack.
+
 ### Rockies at Dodgers
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
