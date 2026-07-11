@@ -334,9 +334,12 @@ export default function Header() {
         </div>
       </header>
 
-      {/* Mobile menu — frosted glass sheet that starts below the sticky header */}
+      {/* Mobile menu — frosted glass sheet that starts below the sticky header.
+          z-50 so it wins over the sticky TrackerJumpNav (z-40) on long tracker
+          posts; the drawer starts at top:80px so it never overlaps the header
+          visually even though both share z-50. */}
       <div
-        className={`fixed inset-x-0 bottom-0 top-[80px] sm:top-[100px] z-40 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
+        className={`fixed inset-x-0 bottom-0 top-[80px] sm:top-[100px] z-50 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
           mobileOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         }`}
       >
