@@ -42,6 +42,15 @@ If you want the forward-looking version, our [MLB uniform schedule guide](/stori
 
 Fourteen games, with Brewers at Pirates rained out and rescheduled as a Saturday doubleheader, a washout that also claimed the Pirates' Friday-home black City Connect. The rest of the league more than covered for it: eight City Connects hit the field in one night after two straight nights of zero, exactly the weekend pattern this tracker was built to prove. Only two home teams stayed in white, seven road teams stayed in gray, and 19 of the 28 uniforms on the field were alternates or City Connects. Slate average: 7.5 out of 10, the best-dressed night of the log so far.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2340 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #FA9F63;">⚾ Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Tigers Orange</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2075780388861984961"></a></blockquote>
+
+Our pick from Friday's slate: Detroit's orange home alternate jersey, the navy Old English D floating on all that orange while the Tigers hung ten runs on the Phillies. Each day we spotlight one team's look straight from their own feed, so you see the uniform on the field and not just on the rack.
+
 ### Yankees at Nationals
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
