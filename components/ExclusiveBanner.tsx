@@ -6,7 +6,7 @@ import Link from "next/link";
 const exclusive = {
   slug: "how-nba-uniforms-are-made-orlando-magic-rebrand",
   kicker: "ColorWay Exclusive",
-  title: "We Sat Down With the Orlando Magic's CMO: Who Really Designs NBA Uniforms",
+  title: "Interview with the Orlando Magic Chief Marketing Officer: Who Really Designs NBA Uniforms",
 };
 
 export default function ExclusiveBanner() {
