@@ -47,10 +47,11 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 const mlbLogoPath = resolve(root, "public/logos/mlb.png");
 const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
 const tiles = resolve(root, "public/images/posts/mlb-daily-tracker");
-// Two clean SOLO jerseys side by side (no overlap — Jake killed the messy fan 7/9):
-// Yankees road gray left, Dodgers home white right (Jake's pick 7/9).
-const leftJerseyPath = resolve(tiles, "yankees-road-gray.png");
-const rightJerseyPath = resolve(tiles, "dodgers-home-white.png");
+// Two clean SOLO jerseys side by side (no overlap — Jake killed the messy fan 7/9).
+// 7/11 (Jake): flipped so the Dodgers home white is the bigger front jersey (left
+// slot, h370) and the Yankees road gray sits smaller behind it (right slot, h330).
+const leftJerseyPath = resolve(tiles, "dodgers-home-white.png");
+const rightJerseyPath = resolve(tiles, "yankees-road-gray.png");
 
 const composites = [];
 
