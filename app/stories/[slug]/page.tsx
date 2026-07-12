@@ -109,8 +109,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   };
 
   // Long tracker posts (8+ "Match N" / "Game N" sections) get a sticky jump nav.
-  const matchHeadings = post.headings.filter((h) => /^(Match|Game)\s+\d+/i.test(h.text));
-  const jumpItems: JumpNavItem[] =
+  const matchHeadings = post.headings.filter(
+    (h) => h.level === 2 && /^(Match|Game)\s+\d+/i.test(h.text)
+  );
+  let jumpItems: JumpNavItem[] =
     matchHeadings.length >= 8
       ? matchHeadings.map((h) => {
           const m = h.text.match(/^Match\s+(\d+)/i);
@@ -124,6 +126,22 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           };
         })
       : [];
+
+  // MLB daily tracker: games are h3 "Away at Home" headings grouped under day h2s
+  // ("Friday, July 10"), so build the jump nav from those instead.
+  if (slug === "mlb-uniform-tracker-2026") {
+    const gameItems: JumpNavItem[] = [];
+    let day: string | undefined;
+    for (const h of post.headings) {
+      if (h.level === 2) {
+        day = /^[A-Z][a-z]+, \w+ \d+/.test(h.text) ? h.text : undefined;
+      } else if (h.level === 3 && day && / at /.test(h.text)) {
+        gameItems.push({ id: h.id, label: h.text, group: day });
+      }
+    }
+    if (gameItems.length >= 8) jumpItems = gameItems;
+  }
+  const jumpNavIsGames = slug === "mlb-uniform-tracker-2026";
 
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
@@ -175,7 +193,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         </div>
       </div>
 
-      {jumpItems.length > 0 && <TrackerJumpNav items={jumpItems} />}
+      {jumpItems.length > 0 && (
+        <TrackerJumpNav
+          items={jumpItems}
+          unitLabel={jumpNavIsGames ? "games logged" : undefined}
+          placeholder={jumpNavIsGames ? "Find a team or game…" : undefined}
+        />
+      )}
 
       {/* Article body */}
       <main className="max-w-[720px] mx-auto px-5 py-12">

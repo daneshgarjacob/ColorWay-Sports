@@ -3,7 +3,7 @@ title: "2026 MLB Uniform Tracker: What Every Team Wore Last Night, Updated Daily
 category: MLB
 date: "2026-07-09"
 updatedDate: "2026-07-11"
-excerpt: "What every MLB team wore last night, logged every morning. Every jersey and uniform from the full slate, every alternate and City Connect, and the day-of-week patterns behind them."
+excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded.jpg"
 coverImagePosition: "center center"
@@ -15,7 +15,7 @@ teams: []
 
 This is the ColorWay Sports MLB daily uniform tracker: what every team actually wore, every game, every day, logged the morning after. Not just the City Connects and throwbacks, the whole wardrobe, home whites and road grays included, because you can't spot the patterns without the full record. Every matchup also gets a ColorWay grade for how the two uniforms looked sharing a field.
 
-If you want the forward-looking version, our [MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps what all 30 teams plan to wear and when. This page is the receipts: what they actually put on.
+Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) and the per-team schedule pages linked at the bottom of this tracker map what all 30 teams plan to wear and when, so you can call tonight's uniform before first pitch. This page is the receipts: what they actually put on.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 1.5em 0;">
   <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
@@ -1548,6 +1548,14 @@ The tracker logs what happened; these pages predict what's next. Every team's fu
 **What is the MLB daily uniform tracker?**
 
 It is a running log of what every MLB team actually wore in every game, updated each morning after the previous night's slate. Every jersey and uniform gets recorded, from home whites and road grays to alternates, City Connects, and throwbacks, and every matchup gets a ColorWay grade for how the two looks paired on the field.
+
+**What jersey is my team wearing tonight?**
+
+Open your team's page from the uniform schedule grid above. It maps every fixed jersey day the club runs, like Friday City Connects, Sunday creams, or powder blue day games, so you can call tonight's look before first pitch. Then check back here tomorrow morning, because this tracker logs the uniform every MLB team actually wore, every single day.
+
+**How do I find out what jersey the Dodgers or Yankees are wearing tonight?**
+
+The [Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026) and [Yankees uniform schedule](/stories/yankees-uniform-schedule-2026) pages predict tonight's jersey from each team's day-of-week rotation, and the daily log on this page records what they actually wore last night, from home whites to City Connects. The same goes for all 30 clubs through the team pages above, so the question has an answer both before and after every game.
 
 **How do you know what uniform each team wore?**
 

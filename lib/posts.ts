@@ -49,6 +49,7 @@ export interface PostMeta {
 export interface HeadingItem {
   id: string;
   text: string;
+  level: number;
 }
 
 export interface Post extends PostMeta {
@@ -79,13 +80,13 @@ function slugifyHeading(text: string): string {
     .replace(/\s+/g, "-");
 }
 
-// Rehype plugin: give every h2 a stable id (for anchor links / jump navigation)
-// and collect them so pages can build a table of contents.
+// Rehype plugin: give every h2 and h3 a stable id (for anchor links / jump
+// navigation) and collect them, with level, so pages can build a table of contents.
 function rehypeHeadingIds(collected: HeadingItem[]) {
   return () => (tree: HastNode) => {
     const seen = new Map<string, number>();
     const visit = (node: HastNode) => {
-      if (node.type === "element" && node.tagName === "h2") {
+      if (node.type === "element" && (node.tagName === "h2" || node.tagName === "h3")) {
         const text = nodeText(node).trim();
         if (text) {
           let id = slugifyHeading(text) || "section";
@@ -93,7 +94,7 @@ function rehypeHeadingIds(collected: HeadingItem[]) {
           seen.set(id, count + 1);
           if (count > 0) id = `${id}-${count + 1}`;
           node.properties = { ...node.properties, id };
-          collected.push({ id, text });
+          collected.push({ id, text, level: node.tagName === "h2" ? 2 : 3 });
         }
       }
       (node.children || []).forEach(visit);

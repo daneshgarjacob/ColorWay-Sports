@@ -10,7 +10,15 @@ export interface JumpNavItem {
 
 // Slim sticky bar under the site header on long tracker posts.
 // Lets readers jump straight to any match instead of scrolling 80+ cards.
-export default function TrackerJumpNav({ items }: { items: JumpNavItem[] }) {
+export default function TrackerJumpNav({
+  items,
+  unitLabel = "matches graded",
+  placeholder = "Jump to a match…",
+}: {
+  items: JumpNavItem[];
+  unitLabel?: string;
+  placeholder?: string;
+}) {
   const selectRef = useRef<HTMLSelectElement>(null);
 
   if (items.length === 0) return null;
@@ -54,7 +62,7 @@ export default function TrackerJumpNav({ items }: { items: JumpNavItem[] }) {
     >
       <div className="max-w-[720px] mx-auto px-5 py-2.5 flex items-center gap-3">
         <span className="hidden sm:inline text-[10px] font-bold uppercase tracking-[0.2em] text-[#8A8F98] whitespace-nowrap">
-          {items.length} matches graded
+          {items.length} {unitLabel}
         </span>
         <select
           ref={selectRef}
@@ -63,7 +71,7 @@ export default function TrackerJumpNav({ items }: { items: JumpNavItem[] }) {
           className="flex-1 min-w-0 text-sm font-semibold text-blue-dark bg-white border border-black/10 rounded-lg px-3 py-1.5 cursor-pointer hover:border-black/25 focus:outline-none focus:ring-2 focus:ring-[#2f6bed]/40 transition-colors duration-150"
         >
           <option value="" disabled>
-            Jump to a match…
+            {placeholder}
           </option>
           {grouped
             ? groups.map((g) => (
