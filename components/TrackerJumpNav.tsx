@@ -42,7 +42,11 @@ export default function TrackerJumpNav({
     const el = document.getElementById(id);
     if (el) {
       history.replaceState(null, "", `#${id}`);
-      el.scrollIntoView({ behavior: "smooth" });
+      // Instant jump with an offset that clears the sticky header + this bar.
+      // (Smooth scrolling silently dies on these very long tracker pages as
+      // lazy-loading images reflow the layout mid-animation.)
+      const top = el.getBoundingClientRect().top + window.scrollY - 150;
+      window.scrollTo({ top: Math.max(0, top), behavior: "instant" as ScrollBehavior });
     }
     // Reset so re-selecting the same match still works after scrolling away.
     if (selectRef.current) selectRef.current.value = "";
