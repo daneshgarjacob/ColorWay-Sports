@@ -28,7 +28,7 @@ const trackers: TrackerCard[] = [
     slug: "mlb-uniform-tracker-2026",
     kicker: "MLB · 30 Teams · Every Game, Every Day",
     title: "MLB Daily Uniform Tracker: What Every Team Wore Last Night",
-    dek: "Every uniform from every MLB game, logged the morning after. Last night's full 15-game slate: 12 alternates led by the Royals' powder blue at the Mets' black (8.5/10 and best-dressed game of the night), the Pirates in the Skenes-favorite black and gold, and the Rays in Columbia blue. Running counts and day-of-week patterns build daily through October.",
+    dek: "Every uniform from every MLB game, logged the morning after. Friday turned into City Connect night: eight hit the field at once, from the Orioles' cream BMORE to the Rangers' red Tejas, while the Red Sox's red at the Mets' black tied the best-dressed game of the season at 8.5/10. Running counts and day-of-week patterns build daily through October.",
     status: "Live · Daily",
     grade: "A",
     image: "/images/posts/mlb-daily-tracker/cover-branded.jpg",
