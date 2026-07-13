@@ -54,7 +54,7 @@ export default function StoryCard({
   // league logo + kicker tag, then the usual category/date/title/excerpt.
   if (cardStyle === "words") {
     return (
-      <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
+      <article className="story-card self-start bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
         <Link href={href ?? `/stories/${slug}`} className="group block">
           <div className="h-1" style={{ background: accent }} />
           <div className="p-6">
