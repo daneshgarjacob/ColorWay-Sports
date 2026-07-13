@@ -51,13 +51,6 @@ A 15-game getaway-day slate to close the weekend, and it played out the way Sund
 
 Our pick from Sunday's slate: San Diego's camouflage jersey, the Padres' signature military tribute and one of the most recognizable alternate uniforms in baseball, worn at home against Toronto. Each day we spotlight one team's look straight from their own feed, so you see the uniform on the field and not just on the rack.
 
-<div style="margin: 2.2em 0 1.4em; padding: 1.4em 1.6em; background: linear-gradient(135deg, #BD3039 0%, #12122b 55%, #002D72 130%); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
-  <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; color: #ffd6b0; margin-bottom: 6px;">★ Jersey Matchup of the Day</span>
-  <span style="display: block; font-size: 1.32em; font-weight: 900; color: #ffffff; line-height: 1.15;">Red Sox Road Gray at Mets Home White</span>
-  <span style="display: inline-block; margin-top: 10px; padding: 3px 12px; background: rgba(255,255,255,0.16); border: 1px solid rgba(255,255,255,0.3); border-radius: 999px; font-size: 0.82em; font-weight: 900; color: #ffffff;">ColorWay Grade: 8 / 10</span>
-  <span style="display: block; font-size: 0.95em; line-height: 1.55; color: #f0e6da; margin-top: 10px;">We are rating this one high purely because it is the classic matchup between two classic jerseys. Boston's road grays and New York's pinstriped home whites, two of the most storied uniforms in the sport, shared a field at Citi Field, and that clean, timeless contrast is exactly the kind of look this tracker lives for. Not every jersey matchup needs color to be the sharpest one on the slate.</span>
-</div>
-
 ### Brewers at Pirates
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -192,27 +185,32 @@ Cleveland in road gray, Miami in its blue alternate jersey. The Marlins' Caribbe
 
 ### Red Sox at Mets
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #BD3039 0%, #002D72 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #E8B24B 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
   </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/red-sox-road-gray.png" alt="Boston Red Sox road gray uniform worn July 12 2026 at the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED SOX</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
+    <div style="text-align: center; margin-bottom: 12px;">
+      <span style="padding: 4px 14px; background: linear-gradient(90deg, #BD3039 0%, #002D72 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
     </div>
-    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/mets-home-white.png" alt="New York Mets pinstriped home white uniform worn July 12 2026 vs the Red Sox, from the MLB daily jersey tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+    <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+      <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+        <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+          <img src="/images/posts/mlb-daily-tracker/red-sox-road-gray.png" alt="Boston Red Sox road gray uniform worn July 12 2026 at the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        </div>
+        <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED SOX</p>
+        <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+        <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
       </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">METS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+      <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+      <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+        <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+          <img src="/images/posts/mlb-daily-tracker/mets-home-white.png" alt="New York Mets pinstriped home white uniform worn July 12 2026 vs the Red Sox, from the MLB daily jersey tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        </div>
+        <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">METS</p>
+        <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+        <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+      </div>
     </div>
   </div>
 </div>
