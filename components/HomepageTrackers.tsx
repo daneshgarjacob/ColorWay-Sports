@@ -184,22 +184,13 @@ export default function HomepageTrackers() {
                   {t.kicker}
                 </span>
 
-                {/* Title */}
-                <h3
-                  className="transition-colors duration-200 group-hover:text-[#003087]"
-                  style={{
-                    fontSize: 18,
-                    fontWeight: 700,
-                    lineHeight: 1.25,
-                    color: "#1a1a1a",
-                    margin: 0,
-                  }}
-                >
-                  {t.title}
-                </h3>
+                {/* Title — carried visually by the branded cover art; kept here for
+                    SEO and screen readers so it isn't shown twice on the card. */}
+                <h3 className="sr-only">{t.title}</h3>
 
                 {/* Dek */}
                 <p
+                  className="line-clamp-3"
                   style={{
                     fontSize: 14,
                     lineHeight: 1.55,
