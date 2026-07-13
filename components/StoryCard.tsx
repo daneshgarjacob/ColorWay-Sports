@@ -17,6 +17,7 @@ interface StoryCardProps {
   coverImageFit?: string;
   cardStyle?: string;
   kicker?: string;
+  bodyPreview?: string;
   showDate?: boolean;
 }
 
@@ -37,6 +38,7 @@ export default function StoryCard({
   coverImageFit,
   cardStyle,
   kicker,
+  bodyPreview,
   showDate,
 }: StoryCardProps) {
   const displayDate = updatedDate || date;
@@ -54,10 +56,10 @@ export default function StoryCard({
   // league logo + kicker tag, then the usual category/date/title/excerpt.
   if (cardStyle === "words") {
     return (
-      <article className="story-card self-start bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
-        <Link href={href ?? `/stories/${slug}`} className="group block">
+      <article className="story-card h-full bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
+        <Link href={href ?? `/stories/${slug}`} className="group flex h-full flex-col">
           <div className="h-1" style={{ background: accent }} />
-          <div className="p-6">
+          <div className="flex flex-1 flex-col p-6">
             {(logoSrc || kicker) && (
               <div className="flex items-center gap-2 mb-3">
                 {logoSrc && <img src={logoSrc} alt="" className="h-[19px] w-auto object-contain" />}
@@ -85,11 +87,11 @@ export default function StoryCard({
                 </>
               )}
             </div>
-            <h3 className="mt-2.5 text-lg font-bold text-blue-dark leading-snug transition-colors duration-200 group-hover:text-orange">
+            <h3 className="mt-2.5 text-xl font-bold text-blue-dark leading-snug transition-colors duration-200 group-hover:text-orange">
               {title}
             </h3>
-            <p className="mt-2.5 text-sm text-gray-medium leading-relaxed line-clamp-3">
-              {excerpt}
+            <p className="mt-3 text-sm text-gray-medium leading-relaxed line-clamp-[14] flex-1">
+              {bodyPreview || excerpt}
             </p>
           </div>
         </Link>

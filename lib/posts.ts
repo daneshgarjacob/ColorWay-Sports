@@ -9,6 +9,26 @@ import rehypeStringify from "rehype-stringify";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
+// Pull the first couple of real body paragraphs (skipping headings and HTML
+// blocks like tweet embeds) for the words-only card preview, so those cards
+// fill with the article's actual opening instead of just a short excerpt.
+function extractPreview(content: string): string {
+  const blocks = content.split(/\n\s*\n/);
+  const paras: string[] = [];
+  for (const b of blocks) {
+    const t = b.trim();
+    if (!t || t.startsWith("#") || t.startsWith("<") || t.startsWith("|") || t.startsWith("---")) continue;
+    const clean = t
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+      .replace(/[*_`>#]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+    if (clean.length > 40) paras.push(clean);
+    if (paras.length >= 2) break;
+  }
+  return paras.join(" ").slice(0, 440);
+}
+
 export interface ReviewItem {
   name: string;
   rating: number;
@@ -36,6 +56,7 @@ export interface PostMeta {
   coverImageFit?: string;
   cardStyle?: "words";
   kicker?: string;
+  bodyPreview?: string;
   league?: string;
   teams?: string[];
   featuredOrder?: number;
@@ -136,7 +157,7 @@ export function getAllPosts(): PostMeta[] {
     const slug = fileName.replace(/\.md$/, "");
     const fullPath = path.join(postsDirectory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
-    const { data } = matter(fileContents);
+    const { data, content } = matter(fileContents);
 
     return {
       slug,
@@ -154,6 +175,7 @@ export function getAllPosts(): PostMeta[] {
       coverImageFit: data.coverImageFit,
       cardStyle: data.cardStyle,
       kicker: data.kicker,
+      bodyPreview: data.cardStyle === "words" ? extractPreview(content) : undefined,
       league: data.league,
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
