@@ -40,7 +40,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, July 12
 
-A 15-game getaway-day slate to close the weekend, and it played out the way Sundays usually do: powder blues and creams instead of Friday's City Connect parade. The Brewers and Blue Jays brought powder blue, the Rangers went powder too, the Astros wore orange, the Rockies purple, the Angels red, the Giants their signature cream, and the Padres broke out the camouflage. Slate average: 6.8 out of 10.
+A 15-game getaway-day slate to close the weekend, and it played out the way Sundays usually do: powder blues and creams instead of Friday's City Connect parade. The Brewers and Blue Jays brought powder blue, the Rangers went powder too, the Astros wore orange, the Rockies purple, the Angels red, the Giants their signature cream, and the Padres broke out the camouflage. Slate average: 6.9 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #2F241D 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #C7A97B;">⚾ Jersey of the Day</span>
@@ -54,7 +54,8 @@ Our pick from Sunday's slate: San Diego's camouflage jersey, the Padres' signatu
 <div style="margin: 2.2em 0 1.4em; padding: 1.4em 1.6em; background: linear-gradient(135deg, #BD3039 0%, #12122b 55%, #002D72 130%); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
   <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; color: #ffd6b0; margin-bottom: 6px;">★ Jersey Matchup of the Day</span>
   <span style="display: block; font-size: 1.32em; font-weight: 900; color: #ffffff; line-height: 1.15;">Red Sox Road Gray at Mets Home White</span>
-  <span style="display: block; font-size: 0.95em; line-height: 1.55; color: #f0e6da; margin-top: 8px;">The best-dressed pairing of the day is not always the loudest one. Two of the sport's most storied uniforms, Boston's road grays and New York's pinstriped home whites, shared a field at Citi Field, and that clean, timeless contrast is exactly the kind of classic baseball look this tracker lives for. Not every jersey matchup needs color to be the sharpest one on the slate.</span>
+  <span style="display: inline-block; margin-top: 10px; padding: 3px 12px; background: rgba(255,255,255,0.16); border: 1px solid rgba(255,255,255,0.3); border-radius: 999px; font-size: 0.82em; font-weight: 900; color: #ffffff;">ColorWay Grade: 8 / 10</span>
+  <span style="display: block; font-size: 0.95em; line-height: 1.55; color: #f0e6da; margin-top: 10px;">We are rating this one high purely because it is the classic matchup between two classic jerseys. Boston's road grays and New York's pinstriped home whites, two of the most storied uniforms in the sport, shared a field at Citi Field, and that clean, timeless contrast is exactly the kind of look this tracker lives for. Not every jersey matchup needs color to be the sharpest one on the slate.</span>
 </div>
 
 ### Brewers at Pirates
@@ -217,10 +218,10 @@ Cleveland in road gray, Miami in its blue alternate jersey. The Marlins' Caribbe
 </div>
 
 <div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 6.5 / 10</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8 / 10</p>
 </div>
 
-Boston's road grays against New York's pinstriped home whites, two of the sport's most storied uniforms sharing a field. No color, but a crisp, timeless classic, which is exactly why we made it today's jersey matchup of the day.
+Boston's road grays against New York's pinstriped home whites, two of the sport's most storied uniforms sharing a field. We are rating it high purely because it is the classic matchup between two classic jerseys, which is exactly why we made it today's jersey matchup of the day.
 
 ### Mariners at Rays
 
