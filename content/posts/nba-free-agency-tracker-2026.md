@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Paul George's Celtics Green, Jaylen Brown to the Sixers)"
+title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Lakers' Purple and Gold, Paul George's Celtics Green, Jaylen Brown to the Sixers)"
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-08"
-excerpt: "Every 2026 NBA free agency signing in their new jersey: Paul George and Mike Conley in Celtics green, Jaylen Brown's shocking move to the Sixers, and more. Real photos, updated all summer."
+updatedDate: "2026-07-13"
+excerpt: "Every 2026 NBA free agency signing in their new jersey: the Lakers' backcourt reload, Paul George in Celtics green, Jaylen Brown's move to the Sixers, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -21,6 +21,14 @@ Free agency is the second draft of the NBA offseason, and the fun part for us is
   <span style="display: block; font-size: 1.15em; font-weight: 800; color: #ffffff; line-height: 1.4;">Spot a signing we haven't added yet?</span>
   <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #dbe4f5; margin-top: 8px;">Free agency moves fast and we do not want to miss anyone. Reply to our post on X <a href="https://x.com/colorwaysports" target="_blank" rel="noopener" style="color: #9fe3b8; font-weight: 700;">@ColorWaySports</a> or email <a href="mailto:jake@colorwaysports.com" style="color: #9fe3b8; font-weight: 700;">jake@colorwaysports.com</a> with the player and their new team, and we will get them into the tracker in their new colors.</span>
 </div>
+
+## The Lakers' Backcourt Reload: Collin Sexton, Quentin Grimes, and Sandro Mamukelashvili
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lakers/status/2076718481597468700"></a></blockquote>
+</div>
+
+The Lakers spent free agency restocking around the purple and gold, and the team's welcome post is our first look at the new group holding up the jersey. Collin Sexton and Quentin Grimes give Los Angeles a real jolt of backcourt scoring, while Sandro Mamukelashvili adds skill and size up front. All three now step into the Lakers' royal purple and gold, one of the most recognizable color stories in all of sports, a uniform that needs no introduction and flatters just about everyone who pulls it on. Coming from three different corners of the league, they now share one of the sport's true blue-blood colorways, and the gold in particular is going to look right at home on a scoring guard like Sexton.
 
 ## Tim Hardaway Jr., Miami Heat
 
@@ -64,7 +72,7 @@ Rim-protecting center Mitchell Robinson rounds out Boston's reload, swapping the
 
 ## The Bottom Line on the 2026 NBA Free Agency Jersey Moves
 
-The story of this free agency period is written in colorways as much as contracts. Boston reloaded around a new-look core, and seeing Paul George, Mike Conley, and Mitchell Robinson all pull on the kelly green at once is a jarring, exciting reset for one of the sport's most storied uniforms. On the other side of it, Jaylen Brown in Philadelphia red, white, and blue is the jersey swap that will define the season, a cornerstone leaving the green for its biggest rival. We will keep this tracker updated with every new signing in their new colors as the summer rolls on, so check back and help us make sure we never miss a move.
+The story of this free agency period is written in colorways as much as contracts. Boston reloaded around a new-look core, and seeing Paul George, Mike Conley, and Mitchell Robinson all pull on the kelly green at once is a jarring, exciting reset for one of the sport's most storied uniforms. Out west, the Lakers rebuilt their backcourt with Collin Sexton and Quentin Grimes and added Sandro Mamukelashvili up front, all three now in the purple and gold. On the other side of it, Jaylen Brown in Philadelphia red, white, and blue is the jersey swap that will define the season, a cornerstone leaving the green for its biggest rival. We will keep this tracker updated with every new signing in their new colors as the summer rolls on, so check back and help us make sure we never miss a move.
 
 ## Frequently Asked Questions
 
@@ -75,6 +83,10 @@ Right here. This ColorWay Sports tracker collects every 2026 NBA free agency sig
 **Who did the Boston Celtics sign in 2026 free agency?**
 
 As tracked here, the Boston Celtics added Paul George, Mike Conley, and Mitchell Robinson, all now in the team's kelly green and white. Each is shown in their new Celtics jersey via the team's official announcement.
+
+**Who did the Los Angeles Lakers sign in 2026 free agency?**
+
+The Lakers added guards Collin Sexton and Quentin Grimes and big man Sandro Mamukelashvili, all now in the team's purple and gold. They are shown together in the Lakers' official jersey reveal in this tracker.
 
 **Where is Jaylen Brown going in 2026?**
 
