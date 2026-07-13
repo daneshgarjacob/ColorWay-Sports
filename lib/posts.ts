@@ -34,6 +34,8 @@ export interface PostMeta {
   coverImage?: string;
   coverImagePosition?: string;
   coverImageFit?: string;
+  cardStyle?: "words";
+  kicker?: string;
   league?: string;
   teams?: string[];
   featuredOrder?: number;
@@ -150,6 +152,8 @@ export function getAllPosts(): PostMeta[] {
       coverImage: data.coverImage,
       coverImagePosition: data.coverImagePosition,
       coverImageFit: data.coverImageFit,
+      cardStyle: data.cardStyle,
+      kicker: data.kicker,
       league: data.league,
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,

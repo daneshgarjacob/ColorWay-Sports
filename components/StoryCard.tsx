@@ -15,6 +15,8 @@ interface StoryCardProps {
   coverImage?: string;
   coverImagePosition?: string;
   coverImageFit?: string;
+  cardStyle?: string;
+  kicker?: string;
   showDate?: boolean;
 }
 
@@ -33,6 +35,8 @@ export default function StoryCard({
   coverImage,
   coverImagePosition,
   coverImageFit,
+  cardStyle,
+  kicker,
   showDate,
 }: StoryCardProps) {
   const displayDate = updatedDate || date;
@@ -44,6 +48,55 @@ export default function StoryCard({
       })
     : null;
   const datePrefix = updatedDate ? "Updated " : "";
+  const accent = leagueColor(category);
+
+  // Words-only card: no cover graphic. Slim league-color accent bar, a small
+  // league logo + kicker tag, then the usual category/date/title/excerpt.
+  if (cardStyle === "words") {
+    return (
+      <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
+        <Link href={href ?? `/stories/${slug}`} className="group block">
+          <div className="h-1" style={{ background: accent }} />
+          <div className="p-6">
+            {(logoSrc || kicker) && (
+              <div className="flex items-center gap-2 mb-3">
+                {logoSrc && <img src={logoSrc} alt="" className="h-[19px] w-auto object-contain" />}
+                {kicker && (
+                  <span
+                    className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-[3px] rounded"
+                    style={{ background: accent, color: "#fff" }}
+                  >
+                    {kicker}
+                  </span>
+                )}
+              </div>
+            )}
+            <div className="flex items-center gap-2">
+              <span
+                className="text-[11px] font-semibold uppercase tracking-widest"
+                style={{ color: accent }}
+              >
+                {category}
+              </span>
+              {showDate && formattedDate && (
+                <>
+                  <span className="text-gray-light text-[10px]">·</span>
+                  <span className="text-[11px] text-gray-light">{datePrefix}{formattedDate}</span>
+                </>
+              )}
+            </div>
+            <h3 className="mt-2.5 text-lg font-bold text-blue-dark leading-snug transition-colors duration-200 group-hover:text-orange">
+              {title}
+            </h3>
+            <p className="mt-2.5 text-sm text-gray-medium leading-relaxed line-clamp-3">
+              {excerpt}
+            </p>
+          </div>
+        </Link>
+      </article>
+    );
+  }
+
   return (
     <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.98] active:duration-150">
       {/* Gradient image area */}
