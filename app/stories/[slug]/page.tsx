@@ -7,6 +7,7 @@ import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
 import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
+import TrackerSearch from "@/components/TrackerSearch";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -193,13 +194,12 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         </div>
       </div>
 
-      {jumpItems.length > 0 && (
-        <TrackerJumpNav
-          items={jumpItems}
-          unitLabel={jumpNavIsGames ? "games logged" : undefined}
-          placeholder={jumpNavIsGames ? "Find a team or game…" : undefined}
-        />
-      )}
+      {jumpItems.length > 0 &&
+        (jumpNavIsGames ? (
+          <TrackerSearch items={jumpItems} unitLabel="games logged" />
+        ) : (
+          <TrackerJumpNav items={jumpItems} />
+        ))}
 
       {/* Article body */}
       <main className="max-w-[720px] mx-auto px-5 py-12">
