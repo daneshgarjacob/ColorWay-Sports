@@ -60,9 +60,10 @@ export default function StoryCard({
         <Link href={href ?? `/stories/${slug}`} className="group flex h-full flex-col">
           <div className="h-1" style={{ background: accent }} />
           <div className="flex flex-1 flex-col p-6">
-            {(logoSrc || kicker) && (
+            {(logoSrc || logoSrc2 || kicker) && (
               <div className="flex items-center gap-2 mb-3">
                 {logoSrc && <img src={logoSrc} alt="" className="h-[19px] w-auto object-contain" />}
+                {logoSrc2 && <img src={logoSrc2} alt="" className="h-[19px] w-auto object-contain" />}
                 {kicker && (
                   <span
                     className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-[3px] rounded"
