@@ -208,6 +208,7 @@ export const results: Record<string, Result> = {
   "qf-2": { winner: "ESP", score: "2-1" },           // July 10 — Spain beat Belgium 2-1
   "qf-3": { winner: "ENG", score: "2-1" },           // July 10 — England beat Norway 2-1
   "qf-4": { winner: "ARG", score: "3-1" },           // July 11 — Argentina beat Switzerland 3-1
+  "sf-1": { winner: "ESP", score: "2-0" },           // July 14 — Spain beat France 2-0 to reach the Final
 };
 
 // Merge the locked results over the user's predictions (results win) and prune.

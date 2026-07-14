@@ -48,11 +48,12 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 const wcLogoPath = resolve(root, "public/logos/world-cup-2026.png");
 const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
 const stash = resolve(homedir(), "Desktop/colorway-archive/wc-2026-jerseys");
-// Kits 7/11 (Jake): England WHITE home + France blue home — both alive in the
-// semifinals (France-Spain, England-Argentina). White reads far cleaner on the
-// navy background than the earlier red away did.
+// Kits 7/14 (Jake): England WHITE home + Argentina stripes — both still alive.
+// France was eliminated in the semifinal (Spain beat France 2-0), so it comes off
+// the cover per the alive-teams rule; Argentina (finalist-in-waiting via sf-2)
+// takes its place. White + sky-blue stripes both read clean on the navy backdrop.
 const englandPath = resolve(root, "public/images/posts/wc-england-home-cutout.png");
-const francePath = resolve(root, "public/images/posts/wc-france-home-cutout.png");
+const argentinaPath = resolve(root, "public/images/posts/wc-argentina-home-cutout.png");
 
 const composites = [];
 
@@ -62,10 +63,10 @@ if (existsSync(wcLogoPath)) {
   composites.push({ input: wc, top: BADGE.y + 24, left: BADGE.x + Math.round((BADGE.w - m.width) / 2) });
 }
 
-// Two kits fanned top-right, back to front: France blue, England white.
-if (existsSync(francePath)) {
-  const fra = await sharp(francePath).resize({ height: 365 }).png().toBuffer();
-  composites.push({ input: fra, top: 100, left: 1090 });
+// Two kits fanned top-right, back to front: Argentina stripes, England white.
+if (existsSync(argentinaPath)) {
+  const arg = await sharp(argentinaPath).resize({ height: 365 }).png().toBuffer();
+  composites.push({ input: arg, top: 100, left: 1090 });
 }
 if (existsSync(englandPath)) {
   const eng = await sharp(englandPath).resize({ height: 395 }).png().toBuffer();
