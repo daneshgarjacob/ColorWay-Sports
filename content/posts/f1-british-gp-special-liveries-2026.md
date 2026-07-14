@@ -12,7 +12,6 @@ coverImageFit: "cover"
 league: "f1"
 teams: []
 homepageOrder: 6
-homepageFeature: true
 ---
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">

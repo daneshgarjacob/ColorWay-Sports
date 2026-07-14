@@ -2,6 +2,7 @@
 title: "The 2026 MLB All-Star Game Caps, Explained: Philadelphia's Tonal 1776 Look and the Green Phanatic Cap"
 category: "MLB"
 date: "2026-06-26"
+updatedDate: "2026-07-14"
 excerpt: "New Era's 2026 MLB All-Star Game caps go tonal and patriotic for Philadelphia's 1776 theme, with a USA 250 patch on the jerseys and a green chenille Phanatic cap stealing the show."
 gradient: "linear-gradient(135deg, #0A3161 0%, #141422 50%, #B31942 100%)"
 coverImage: "/images/posts/mlb-all-star-caps-2026/phillies-game.jpg"
@@ -9,6 +10,7 @@ coverImagePosition: "center 45%"
 logoSrc: "/logos/mlb.png"
 league: "mlb"
 teams: []
+homepageFeature: true
 ---
 
 <figure style="margin:1.5em auto 0.5em;max-width:380px;">
@@ -16,7 +18,7 @@ teams: []
 <figcaption style="text-align:center;font-size:0.72em;color:#999;margin-top:0.4em;">The Phillies on-field All-Star Game cap. Image courtesy of New Era</figcaption>
 </figure>
 
-The 2026 MLB All-Star Game heads to Philadelphia on July 14 at Citizens Bank Park, with the Home Run Derby the night before, and New Era has the caps out. Here is the twist: there are no special All-Star jerseys this year. Players wear their regular club home and road jerseys with a USA 250 sleeve patch added, so the All-Star design story lives almost entirely on the caps. The good news is the caps are worth the attention, because New Era leaned into the United States' 250th birthday with a tonal, star-spangled look and let the host Phillies have all the fun.
+The 2026 MLB All-Star Game is tonight in Philadelphia at Citizens Bank Park, with the Home Run Derby already in the books ([Jordan Walker won it](/stories/home-run-derby-2026-looks-ranked)), and New Era has the caps out. Here is the twist: there are no special All-Star jerseys this year. Players wear their regular club home and road jerseys with a USA 250 sleeve patch added, so the All-Star design story lives almost entirely on the caps. The good news is the caps are worth the attention, because New Era leaned into the United States' 250th birthday with a tonal, star-spangled look and let the host Phillies have all the fun.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -66,7 +68,7 @@ Then there is the full Phanatic cap, and it is exactly as unhinged as it should 
 
 ## No Special All-Star Jerseys This Year, Just the USA 250 Patch
 
-If you are waiting for the All-Star jerseys, there are not any new ones. For 2026, MLB skipped the special All-Star uniforms and is having players wear their normal club home and road jerseys, with one addition: the [USA 250 sleeve patch](/stories/usa-250-patch-mlb-nba-nfl-2026), the same semiquincentennial patch showing up across the league this year. The Home Run Derby on July 13 adds the stars-and-stripes jersey numbers, the same treatment MLB used on the [Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026).
+If you are waiting for the All-Star jerseys, there are not any new ones. For 2026, MLB skipped the special All-Star uniforms and is having players wear their normal club home and road jerseys, with one addition: the [USA 250 sleeve patch](/stories/usa-250-patch-mlb-nba-nfl-2026), the same semiquincentennial patch showing up across the league this year. The Home Run Derby the night before added the stars-and-stripes jersey numbers, the same treatment MLB used on the [Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026).
 
 It is a restrained call. After a Fourth of July weekend stacked with USA 250 [caps](/stories/mlb-july-4th-hats-2026) and jerseys just ten days earlier, leaning on the club uniforms plus a patch keeps the All-Star look from blurring into the holiday set. It also puts all the design pressure on the caps, which is why New Era pushed them as far as they did.
 
@@ -102,6 +104,7 @@ With no special jerseys in the mix, the caps had to carry the 2026 All-Star Game
 
 ## More MLB Coverage
 
+- [2026 Home Run Derby Caps, Ranked and Graded](/stories/home-run-derby-2026-looks-ranked) · all 8 Derby looks scored, and who won
 - [Every 2026 MLB Fourth of July Hat](/stories/mlb-july-4th-hats-2026) · all 30 USA 250 59FIFTY caps
 - [Every 2026 MLB Fourth of July Jersey](/stories/mlb-july-4th-jerseys-2026) · the leaguewide Stars and Stripes set
 - [The USA 250 Patch Is on MLB, NBA, and NFL Jerseys](/stories/usa-250-patch-mlb-nba-nfl-2026) · the same patch across all three leagues
