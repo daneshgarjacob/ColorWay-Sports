@@ -2,8 +2,8 @@
 title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blaney's Pocono Throwback to Red Bull's Return"
 category: "Motorsports"
 date: "2026-06-10"
-updatedDate: "2026-07-09"
-excerpt: "Every 2026 Sonoma Raceway paint scheme, graded — Denny Hamlin's purple Yahoo car, Hendrick's California-bound four-car lineup, and Brandon Jones's highlighter NIBCO scheme lead the Toyota/Save Mart 350 reveals. Plus Red Bull's NASCAR Cup return, Chase Elliott's patriotic NAPA #9, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, newest first."
+updatedDate: "2026-07-14"
+excerpt: "A leaked Coca-Cola paint scheme for Bubba Wallace's #23 puts a soccer ball on a Cup car as the World Cup final nears. Plus Denny Hamlin's purple Yahoo car, Red Bull's NASCAR return, Chase Elliott's patriotic NAPA #9, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, graded, newest first."
 gradient: "linear-gradient(135deg, #0A1A3F 0%, #15306E 45%, #C8102E 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKdtr6RW8AAk58E.jpg"
 coverImagePosition: "center center"
@@ -14,9 +14,29 @@ teams: []
 
 This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. Reveal week loaded the tracker from both ends of the calendar. This Sunday's Pocono race brings the showpiece: Ryan Blaney's Team Penske 60th-anniversary Wabash throwback, our top-graded scheme of the season so far, with Penske and Hendrick rolling out their full Tricky Triangle grids alongside it. And next weekend's inaugural San Diego street race at Naval Base Coronado is the bigger headline — Red Bull is back in NASCAR, on two Trackhouse cars, with a patriotic Chase Elliott NAPA #9 for that same Navy-250 weekend.
 
-*Updated Thursday July 9 with Richard Childress Racing's new "Legends Always Live On" Kyle Busch tribute, Austin Hill's No. 33 for Sunday's Quaker State 400 at EchoPark Speedway in Atlanta. Previously updated June 27 with the Sonoma Raceway reveals — Joe Gibbs Racing's wine-country lineup led by Denny Hamlin's purple Yahoo car, Hendrick Motorsports' four-car "California bound" set, and Brandon Jones's highlighter-yellow NIBCO scheme. Earlier entries: the San Diego reveals (Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9), the full Penske and Hendrick Pocono lineups, Ryan Blaney's Wabash throwback, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
+*Updated Tuesday July 14 with a rumored Coca-Cola scheme for Bubba Wallace's No. 23, leaked out of the 23XI shop with a soccer ball on the door as the World Cup final approaches — unconfirmed, and graded on the look alone. Previously updated Thursday July 9 with Richard Childress Racing's new "Legends Always Live On" Kyle Busch tribute, Austin Hill's No. 33 for Sunday's Quaker State 400 at EchoPark Speedway in Atlanta. Previously updated June 27 with the Sonoma Raceway reveals — Joe Gibbs Racing's wine-country lineup led by Denny Hamlin's purple Yahoo car, Hendrick Motorsports' four-car "California bound" set, and Brandon Jones's highlighter-yellow NIBCO scheme. Earlier entries: the San Diego reveals (Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9), the full Penske and Hendrick Pocono lineups, Ryan Blaney's Wabash throwback, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
 
-## 1. Austin Hill #33 "Legends Always Live On" · RCR Kyle Busch Tribute · Atlanta
+## 1. RUMORED: Bubba Wallace's Coca-Cola #23 Puts a Soccer Ball on a Cup Car · 23XI Racing
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BW_Channel23/status/2075568777115140421"></a></blockquote>
+</div>
+
+<div style="background: #fff8e6; border: 1px solid #f0dfae; border-left: 4px solid #d99b1c; border-radius: 10px; padding: 14px 18px; margin: 0 0 1.6em;">
+<p style="margin: 0; color: #5c4708; font-size: 15px; line-height: 1.6;"><strong>Not confirmed.</strong> This one comes from a leaked shop photo circulating on social, not a team reveal. 23XI Racing has not announced it and Bubba Wallace has not raced it. We are grading the look, not the rumor, and we will update this entry the moment it is official.</p>
+</div>
+
+A photo out of the shop is making the rounds this week, and it shows what appears to be a Coca-Cola car built for Bubba Wallace's No. 23 Toyota. The detail everyone is zooming in on is not the sponsor. It is the soccer ball sitting right next to the wordmark on the door.
+
+Coca-Cola is one of the longest-running global partners in world soccer, the 2026 World Cup final lands July 19 on American soil, and this is what it looks like when those two calendars collide in a Cup garage. A stock car carrying a soccer ball through the middle of a World Cup summer is the kind of crossover we almost never get, and the timing is too clean to be an accident.
+
+The look itself is pure Coca-Cola, and that is the point. The car is drenched in that unmistakable Coke red, with the white Spencerian script running down the flanks and across the hood, a white 23 outlined in black on the doors and roof, and the ball worked in beside the wordmark. It is a corporate livery, but it is arguably the most recognizable corporate color story on earth. Red and white with that script needs no explanation from any camera angle, at any speed, to anyone on the planet.
+
+**Grade: A-** — Coke red and the white script are instantly readable at 190 mph, and the soccer ball is a genuinely clever, timely hook with the World Cup final days away. It stops just short of an A because it leans on a standing corporate palette rather than a daring one-off swing, but as a crossover moment it is hard to beat.
+
+---
+
+## 2. Austin Hill #33 "Legends Always Live On" · RCR Kyle Busch Tribute · Atlanta
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RCRracing/status/2075309145188675953"></a></blockquote>
@@ -30,7 +50,7 @@ We do not put a letter grade on a tribute. For the full story of RCR's Kyle Busc
 
 ---
 
-## 2. Joe Gibbs Racing's Sonoma Paint Schemes: Denny Hamlin's Purple Yahoo Car Leads the Wine Country Lineup
+## 3. Joe Gibbs Racing's Sonoma Paint Schemes: Denny Hamlin's Purple Yahoo Car Leads the Wine Country Lineup
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JoeGibbsRacing/status/2070522965712679103"></a></blockquote>
@@ -44,7 +64,7 @@ For a Sonoma weekend where most teams default to their standing primaries, JGR's
 
 ---
 
-## 3. Hendrick Motorsports' Sonoma Lineup: Larson, Byron, Elliott, and Bowman Go "California Bound"
+## 4. Hendrick Motorsports' Sonoma Lineup: Larson, Byron, Elliott, and Bowman Go "California Bound"
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamHendrick/status/2070146590581411982"></a></blockquote>
@@ -58,7 +78,7 @@ This is Hendrick doing what Hendrick does: polished, high-recognition primaries 
 
 ---
 
-## 4. Brandon Jones's NIBCO Highlighter Car: The Sonoma Scheme That "Absolutely Pops"
+## 5. Brandon Jones's NIBCO Highlighter Car: The Sonoma Scheme That "Absolutely Pops"
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LASTCARonBROCK/status/2070633249114914963"></a></blockquote>
@@ -72,7 +92,7 @@ Love it or laugh at it, this is the most talked-about single paint scheme of the
 
 ---
 
-## 5. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
+## 6. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamTrackhouse/status/2065119928030523567"></a></blockquote>
@@ -86,7 +106,7 @@ The reveal staging is the part we keep coming back to. Trackhouse did not shoot 
 
 ---
 
-## 6. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
+## 7. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NAPARacing/status/2065147885063163966"></a></blockquote>
@@ -100,7 +120,7 @@ This is a clean, well-resolved take on a NASCAR staple. Patriotic schemes turn u
 
 ---
 
-## 7. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
+## 8. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MQL_Racing/status/2066507838524920037"></a></blockquote>
@@ -112,7 +132,7 @@ Josh Berry's No. 21 Wood Brothers Ford goes full stars and stripes for San Diego
 
 ---
 
-## 8. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
+## 9. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
 
 Before San Diego, there is a race this Sunday — and both of the sport's superpowers used reveal day to lay their full Pocono grids on the table. Team Penske's PPG-branded preview lines up all three Fords for the June 14 race: Austin Cindric's #2 in the yellow-and-blue Menards/Ideal Door package, Joey Logano's #22 in the timeless Shell-Pennzoil red and yellow, and Ryan Blaney's #12 in the royal-blue Wabash throwback we have ranked as the best paint scheme of the 2026 season so far. Logano's Shell-Pennzoil is still one of the cleanest standing liveries in the garage, but it is Blaney's throwback that makes this Penske drop matter — the full breakdown is right below.
 
@@ -128,7 +148,7 @@ Hendrick Motorsports answered with all four of its cars "set for Pennsylvania": 
 
 ---
 
-## 9. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
+## 10. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -175,7 +195,7 @@ The original is Ryan Newman's royal blue Alltel #12 Dodge, the car that delivere
 
 ---
 
-## 10. Josh Berry #21 Capgemini · Wood Brothers Racing
+## 11. Josh Berry #21 Capgemini · Wood Brothers Racing
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -188,7 +208,7 @@ Wood Brothers Racing unveiled the Capgemini partnership scheme for Josh Berry's 
 
 ---
 
-## 11. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
+## 12. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -201,7 +221,7 @@ Richard Childress Racing built Austin Hill's #33 Rebel Bourbon scheme around a m
 
 ---
 
-## 12. Austin Dillon #3 Dow · RCR
+## 13. Austin Dillon #3 Dow · RCR
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -214,7 +234,7 @@ Austin Dillon's #3 Dow Camaro runs the black base with the red diamond-cut Dow g
 
 ---
 
-## 13. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
+## 14. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
