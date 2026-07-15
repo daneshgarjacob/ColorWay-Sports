@@ -2,8 +2,8 @@
 title: "2026 FIFA World Cup Jersey & Uniform Tracker: Every Match Kit Graded, All 48 Teams"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-07-14"
-excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, Colombia's yellow vs Portugal's red, and France's blue vs Sweden's yellow each grab a 9, Sweden-Tunisia and Ivory Coast's orange vs Norway's white each an 8.5, and the tournament averages 8.1 out of 10 through 99 matches. The Round of 32 opens with South Africa's gold vs Canada's black, Brazil's yellow vs Japan's white, and Germany's white vs Paraguay's blue all at 8, Portugal's green vs Croatia's blue takes a 9.5, Spain's red vs Austria's white a 7, Switzerland's red vs Algeria's white a 6.5, and Australia's gold vs Egypt's red an 8.5, with Argentina's stripes vs Cape Verde's royal blue and Colombia's tricolor yellow vs Ghana's white both at 8 closing the round. The quarterfinals are complete: France's mint away vs Morocco's red opened at a vibrant 9.5, Spain's red vs Belgium's blue-and-pink took an 8, and Norway's red vs England's white and Argentina's stripes vs Switzerland's red closed the round at 9.5 apiece. In the semifinals, France's blue vs Spain's white takes a classic 8.5, with England-Argentina still to come. All 48 teams, 104 matches, live through the Final on July 19."
+updatedDate: "2026-07-15"
+excerpt: "Every 2026 FIFA World Cup jersey and uniform matchup graded. Nine perfect 10s lead the board — Brazil's yellow vs Morocco's red-and-green, the Netherlands' orange vs Japan's blue, the Netherlands' orange vs Sweden's blue, Ivory Coast's orange vs Ecuador's navy, England's white vs Croatia's blue, Uruguay's Celeste vs Cape Verde's red, Scotland's navy vs Brazil's yellow, Curaçao's blue vs Ivory Coast's orange, and Norway's red vs France's mint. Portugal's red vs Congo DR's blue, Ecuador's yellow vs Curaçao's blue, Argentina's stripes vs Austria's red, Colombia's yellow vs Congo DR's blue, South Africa's yellow vs Korea's red, Ecuador's yellow vs Germany's navy, and Sweden's yellow vs Japan's blue each land a vibrant 9.5, Saudi Arabia–Uruguay, Norway's black vs Senegal's white, England's white vs Ghana's gold, Panama's navy vs Croatia's checkerboard, Morocco's red vs Haiti's blue, Colombia's yellow vs Portugal's red, and France's blue vs Sweden's yellow each grab a 9, Sweden-Tunisia and Ivory Coast's orange vs Norway's white each an 8.5, and the tournament averages 8.1 out of 10 through 100 matches. The Round of 32 opens with South Africa's gold vs Canada's black, Brazil's yellow vs Japan's white, and Germany's white vs Paraguay's blue all at 8, Portugal's green vs Croatia's blue takes a 9.5, Spain's red vs Austria's white a 7, Switzerland's red vs Algeria's white a 6.5, and Australia's gold vs Egypt's red an 8.5, with Argentina's stripes vs Cape Verde's royal blue and Colombia's tricolor yellow vs Ghana's white both at 8 closing the round. The quarterfinals are complete: France's mint away vs Morocco's red opened at a vibrant 9.5, Spain's red vs Belgium's blue-and-pink took an 8, and Norway's red vs England's white and Argentina's stripes vs Switzerland's red closed the round at 9.5 apiece. In the semifinals, France's blue vs Spain's white takes a classic 8.5 and England's white vs Argentina's dark blue away closes the round at a loaded 9.5. All 48 teams, 104 matches, live through the Final on July 19."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg"
 coverImagePosition: "center center"
@@ -41,7 +41,7 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">99 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">100 / 104</span>
 </div>
 
 <a href="/stories/world-cup-round-of-32-kit-matchups-ranked" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #00694b 0%, #0a1030 100%); border-radius: 16px; text-decoration: none;">
@@ -51,6 +51,39 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 </a>
 
 Below, every match of the tournament in reverse chronological order, the most recent match on top and the opener at the bottom. The group-by-group draw reference follows the cards.
+
+## Match 100: England vs Argentina
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #0A2472 0%, #75AADB 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Semifinals · Match 100 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-england-home.jpg" alt="England 2026 World Cup white Nike home jersey with navy and red collar and cuff trim and the Three Lions crest beneath a gold star, worn in the Semifinal match vs Argentina" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ENGLAND</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dengland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/adidas-world-cup-away-kits/argentina-front.jpg" alt="Argentina 2026 World Cup dark blue adidas away jersey with the swirling floral pattern and the AFA crest, worn in the Semifinal match vs England" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ARGENTINA</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Away · Dark Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dargentina%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9.5 / 10</p>
+</div>
+
+England against Argentina closes the Semifinals with the heaviest jersey and uniform matchup the tournament has left. England wear their Nike white home, the crisp true-white shirt with the navy and red collar and cuff trim and the Three Lions crest beneath the gold star. Argentina skip the Albiceleste stripes, which would have blurred straight into England's white, and counter in the deep blue adidas away with the swirling floral pattern and the AFA crest, the same change kit that handled Jordan's white in the group stage. Where France's blue against Spain's cream stayed classic one match earlier, this one runs louder: England's true white is brighter and colder than Spain's off-white, the Argentine blue sits deeper than the FFF royal, and the floral texture keeps the away side from flattening into a plain navy block. Two of the biggest identities in the sport, both readable from the widest camera angle in the stadium, in the uniform pairing this fixture has always deserved. Nine and a half out of 10.
 
 ## Match 99: France vs Spain
 
