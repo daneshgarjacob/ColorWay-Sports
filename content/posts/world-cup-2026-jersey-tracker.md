@@ -15,7 +15,7 @@ featuredOrder: 1
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg" alt="ColorWay Sports 2026 FIFA World Cup Jersey Tracker branded hero with the FIFA World Cup 26 logo and the England white home jersey and Argentina sky blue and white striped home jersey, for the running tracker grading every match kit and uniform pairing across all 48 teams and 104 matches" style="width: 100%; display: block; border-radius: 10px;" />
+  <img src="/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg" alt="ColorWay Sports 2026 FIFA World Cup Jersey Tracker branded hero with the FIFA World Cup 26 logo and the Argentina sky blue and white striped home jersey and the Spain red home jersey, the two finalists, for the running tracker grading every match kit and uniform pairing across all 48 teams and 104 matches" style="width: 100%; display: block; border-radius: 10px;" />
 </div>
 
 The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co-hosted by the United States, Canada, and Mexico across 16 host cities, with 104 matches across 39 days from June 11 through the Final on July 19, 2026. This is the running ColorWay Sports tracker grading every match kit and uniform pairing across the entire tournament. Every match gets a grade, every kit matchup gets analyzed, every Adidas, Nike, Puma, and other-brand reveal gets tracked. Live updates from kickoff in Group A through the Final.
