@@ -18,7 +18,7 @@ const trackers: TrackerCard[] = [
     slug: "world-cup-2026-jersey-tracker",
     kicker: "Soccer · 2026 FIFA World Cup · 48 Teams, 104 Matches",
     title: "2026 FIFA World Cup Jersey & Uniform Tracker",
-    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. The quarterfinals are in the books and they delivered: France's mint vs Morocco's red at 9.5, Norway's red vs England's white at 9.5, and Argentina's stripes vs Switzerland's red at 9.5, with Spain's red vs Belgium's blue-and-pink at an 8. The semifinals are underway: France's blue vs Spain's white takes a classic 8.5, with England vs Argentina still to come. Through 99 matches the average is 8.1/10. Every matchup graded.",
+    dek: "Every kit pairing of the tournament graded, from the opener through the July 19 Final at MetLife. The quarterfinals are in the books and they delivered: France's mint vs Morocco's red at 9.5, Norway's red vs England's white at 9.5, and Argentina's stripes vs Switzerland's red at 9.5, with Spain's red vs Belgium's blue-and-pink at an 8. The semifinals are complete: France's blue vs Spain's white takes a classic 8.5 and England's white vs Argentina's dark blue away closes the round at 9.5. Through 100 matches the average is 8.1/10. Every matchup graded.",
     status: "Live · World Cup",
     grade: "A",
     image: "/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg",
