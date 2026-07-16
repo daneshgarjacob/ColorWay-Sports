@@ -39,17 +39,19 @@ async function watermarkImage(inputPath, outputPath) {
   const wmMeta = await sharp(resizedWatermark).metadata();
   const watermarkHeight = wmMeta.height;
 
-  // Subtle low-opacity white pad behind the logo so it stays legible on dark backgrounds
-  // and blends gracefully on light backgrounds. Pad has rounded corners + small padding.
+  // Navy pad behind the logo so the white brand mark stays legible on any background.
   const padPaddingX = Math.round(watermarkWidth * 0.05);
   const padPaddingY = Math.round(watermarkHeight * 0.18);
   const padWidth = watermarkWidth + padPaddingX * 2;
   const padHeight = watermarkHeight + padPaddingY * 2;
   const padRadius = Math.round(padHeight * 0.18);
   const padOpacity = 0.78;
+  // The 2026-06 rebrand made public/brand/colorway-sports-logo.png a WHITE mark (it is
+  // now byte-identical to -logo-white.png), so the old white pill rendered this
+  // watermark invisible. Pill is brand navy #003087 to match the site header.
 
   const padSvg = `<svg width="${padWidth}" height="${padHeight}" xmlns="http://www.w3.org/2000/svg">
-    <rect width="${padWidth}" height="${padHeight}" rx="${padRadius}" fill="rgba(255,255,255,${padOpacity})"/>
+    <rect width="${padWidth}" height="${padHeight}" rx="${padRadius}" fill="#003087"/>
   </svg>`;
 
   const padBuffer = await sharp(Buffer.from(padSvg)).png().toBuffer();

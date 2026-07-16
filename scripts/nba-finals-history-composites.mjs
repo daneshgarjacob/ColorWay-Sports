@@ -87,8 +87,11 @@ async function applyBottomCenterWatermark(imageBuf, width, height, bottomMargin 
   const padW = watermarkWidth + padX * 2;
   const padH = wmMeta.height + padY * 2;
   const padR = Math.round(padH * 0.18);
+  // The 2026-06 rebrand made public/brand/colorway-sports-logo.png a WHITE mark (it is
+  // now byte-identical to -logo-white.png), so the old white pill rendered this
+  // watermark invisible. Pill is brand navy #003087 to match the site header.
   const padSvg = `<svg width="${padW}" height="${padH}" xmlns="http://www.w3.org/2000/svg">
-    <rect width="${padW}" height="${padH}" rx="${padR}" fill="rgba(255,255,255,0.9)"/>
+    <rect width="${padW}" height="${padH}" rx="${padR}" fill="#003087"/>
   </svg>`;
   const padBuf = await sharp(Buffer.from(padSvg)).png().toBuffer();
   const padWithLogo = await sharp(padBuf)
