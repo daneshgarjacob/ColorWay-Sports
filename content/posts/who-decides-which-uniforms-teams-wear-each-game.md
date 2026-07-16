@@ -121,7 +121,7 @@ For the full breakdown of every Round 1 NHL jersey matchup, see our [2026 NHL St
   <p style="font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0; font-weight: 600;">Will Smith · Dodgers blue road jersey reveal</p>
 </div>
 
-MLB gives managers the most day-to-day flexibility of any of the four leagues. The manager decides each game what the team will wear, often in consultation with the starting pitcher (pitchers are famously superstitious about jerseys), the clubhouse manager, and sometimes the catcher.
+MLB gives managers the most day-to-day flexibility of any of the four leagues. The manager decides each game what the team will wear, often in consultation with the starting pitcher (pitchers are famously superstitious about jerseys), the clubhouse manager, and sometimes the catcher. That pitcher influence is real enough to see from the couch: the Pirates wear their black alternate almost every time Paul Skenes starts. We broke the whole thing down in [who picks MLB uniforms each game](/stories/who-picks-mlb-uniforms-each-game).
 
 Home teams have the most options:
 

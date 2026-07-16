@@ -105,3 +105,6 @@ Teams have leaned into colored alternates for identity and merchandise sales, an
 
 **Who picks the uniform in the playoffs and World Series?**
 The same process applies in October. The starting pitcher generally chooses the team's uniform, the manager can step in, and the home club still leans on its white uniform, though bold alternates show up on baseball's biggest stages too.
+
+**Do the NBA, NFL, and NHL choose jerseys the same way MLB does?**
+No, and MLB is the outlier. Baseball hands the most day-to-day freedom to the clubhouse, which is why a starting pitcher can effectively pick the jersey. The NBA, NFL, and NHL run tighter systems, where equipment managers submit selections in advance and the league signs off, so a player has far less say. We break down all four leagues side by side in [who decides which jersey teams wear each game](/stories/who-decides-which-uniforms-teams-wear-each-game).
