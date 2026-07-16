@@ -2,10 +2,11 @@
 title: "World Series Logo History 1986-2025: Every Era Ranked Best to Worst"
 category: "MLB"
 date: "2026-07-15"
-excerpt: "Every World Series logo from 1986 to 2025 ranked era by era. The modern navy era takes the A, the beloved nineties globe and bat era only manages a B minus, and the Capital One era gets a D."
+excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes the A, the nineties globe and bat era a B minus, Capital One a D."
 gradient: "linear-gradient(135deg, #F8EFE0 0%, #E5D5BC 100%)"
 league: "mlb"
 teams: []
+homepageFeature: true
 coverImage: "/images/posts/world-series-logo-history/world-series-logo-history-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"

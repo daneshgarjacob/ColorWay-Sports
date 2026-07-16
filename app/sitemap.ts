@@ -54,6 +54,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: 0.8,
     },
+    // Interactive tools are NOT auto-collected the way posts are, so every new tool
+    // page has to be listed here by hand or it never gets crawled.
+    {
+      url: "https://www.colorwaysports.com/world-cup-fantasy-draft",
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+    {
+      url: "https://www.colorwaysports.com/world-series-logo-grader",
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
     ...postUrls,
   ];
 }
