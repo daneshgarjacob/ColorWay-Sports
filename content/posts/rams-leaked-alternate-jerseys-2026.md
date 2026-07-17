@@ -3,7 +3,7 @@ title: "Leaked Rams Alternate Jerseys 2026: The Blue-and-White Is Perfect, the G
 category: NFL
 date: "2026-07-16"
 updatedDate: "2026-07-16"
-excerpt: "Leaked 2026 Rams alternate jerseys and uniforms surface: a clean royal-and-white set that should be the primary, plus a gold throwback that misses. Our honest take on both."
+excerpt: "Leaked 2026 Rams alternate jerseys surface ahead of the official July 23 unveiling: a clean royal-and-white set that should be the primary, plus a gold throwback that misses. Our take."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFA300 130%)"
 cardStyle: words
 kicker: Leak
@@ -19,7 +19,7 @@ The Los Angeles Rams alternates are leaking, and this is the first real look we 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/stylescout1/status/2077839223286055241"></a></blockquote>
 </div>
 
-Two jerseys, side by side: a gold throwback top with royal-blue numbers, and a white jersey with royal-blue numbers and blue shoulder caps. Both carry the official Nike and NFL tags in the photos, and the leaker's caption says the alternates line up with everything already known about the Rams' plans. So we are treating these as real, and grading the look. One of them is the best this team has looked in years. The other is exactly the problem we keep coming back to.
+The timing is not a coincidence. The Rams have already announced that they will officially unveil two brand-new alternate uniforms on **July 23**, in a special reveal for season ticket holders, and these leaked jerseys line up exactly with that. These are the two alternates, surfacing a week early. Both carry the official Nike and NFL tags in the photos: a gold throwback top with royal-blue numbers, and a white jersey with royal-blue numbers and blue shoulder caps. So we are treating these as real, and grading the look ahead of the official drop. One of them is the best this team has looked in years. The other is exactly the problem we keep coming back to.
 
 ## The White-and-Blue Jersey Is Everything the Rams Should Be
 
@@ -54,8 +54,11 @@ Two jerseys leaked: a gold throwback top with royal-blue numbers, and a white je
 **Are the Rams going back to blue and white?**
 The leaked white-and-blue jersey suggests a strong return to the franchise's classic royal-and-white identity, at least as an alternate. Our take is that the Rams should go further and make blue and white the full-time primary, because it is the cleanest look the team owns.
 
+**When are the Rams revealing their new uniforms in 2026?**
+The Los Angeles Rams are officially unveiling two new alternate uniforms on July 23, 2026, in a special reveal event for season ticket holders. The jerseys in this post leaked roughly a week ahead of that unveiling, and they match what the team has said is coming.
+
 **When will the Rams wear the new alternate jerseys?**
-No official schedule has been released. Alternate uniforms are typically worn a handful of times per season, and the team usually announces the specific game dates closer to the season. We will update this post when the Rams confirm the alternates and their dates.
+No official game schedule has been released yet. Alternate uniforms are typically worn once or twice per season for special games, and the team usually announces the specific dates closer to the season. We will update this post when the Rams confirm the alternates on July 23 and, later, the games they will wear them.
 
 **Why did the Rams change their uniforms?**
 The Rams overhauled their identity for 2026, and the current set built around sol yellow and bone has drawn heavy criticism for straying from the team's classic look. These leaked blue-and-white and gold alternates read as a nod back toward the heritage colors fans have been asking for. Our full breakdown is in the [Rams new uniforms 2026 review](/stories/rams-new-uniforms-2026-review).

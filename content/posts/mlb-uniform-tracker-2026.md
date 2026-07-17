@@ -2,7 +2,7 @@
 title: "2026 MLB Uniform Tracker: What Every Team Wore Last Night, Updated Daily"
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-07-12"
+updatedDate: "2026-07-16"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded.jpg"
@@ -19,15 +19,15 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 1.5em 0;">
   <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #9bc824; font-size: 1.6em; line-height: 1;">5</span>
+    <span style="display: block; font-weight: 900; color: #9bc824; font-size: 1.6em; line-height: 1;">6</span>
     <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Days Tracked</span>
   </div>
   <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #FF5910; font-size: 1.6em; line-height: 1;">146</span>
+    <span style="display: block; font-weight: 900; color: #FF5910; font-size: 1.6em; line-height: 1;">148</span>
     <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Uniforms Logged</span>
   </div>
   <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #6CACE4; font-size: 1.6em; line-height: 1;">66</span>
+    <span style="display: block; font-weight: 900; color: #6CACE4; font-size: 1.6em; line-height: 1;">67</span>
     <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Alternates Worn</span>
   </div>
 </div>
@@ -37,6 +37,27 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
   <span style="display: block; font-size: 1.12em; font-weight: 900; color: #ffffff;">Red Sox Red at Mets Black &amp; Royals Powder Blue at Mets Black · 8.5 / 10</span>
   <span style="display: block; font-size: 0.9em; line-height: 1.5; color: #dbe4f5; margin-top: 5px;">Two 8.5s, both at Citi Field, and the Mets' black alternate jersey has been on the field for both. Queens is quietly hosting the best-dressed games in baseball.</span>
 </div>
+
+## Thursday, July 16
+
+Baseball is back. The All-Star break wrapped and the second half opened with a single marquee game, the Mets at the Phillies in Philadelphia. New York went with the road grays and Philadelphia broke out the powder blue, and one game was all we needed to settle the style matchup. On a one-game night, the slate average is easy: 8.5 out of 10.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #2F241D 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #C7A97B;">⚾ Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Phillies Powder Blue</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2077835923216048149"></a></blockquote>
+
+On a one-game night the pick makes itself: Philadelphia's powder blue. It is one of the best throwback looks in the National League, a soft sky-blue that reads beautifully under the lights at Citizens Bank Park, and it comfortably out-dressed the Mets' road grays across the diamond. Each day we spotlight one team's look straight from their own feed, so you see the jersey and uniform on the field and not just on the rack.
+
+### Mets at Phillies
+
+<div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
+</div>
+
+The only game on the board, and a sharp one. The Mets opened the second half in their classic road grays with the blue-and-orange "New York" script, while the Phillies countered with the powder blue. Gray against powder blue is a clean, summery pairing, and Philadelphia's baby blue is the whole reason this one grades so high. The Phillies get the better uniform of the night, and it is not particularly close.
 
 ## Sunday, July 12
 

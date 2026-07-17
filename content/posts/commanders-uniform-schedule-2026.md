@@ -14,6 +14,10 @@ teams: ["washington-commanders"]
 
 The Washington Commanders just released their full 2026 uniform schedule, and it comes with a real headline: the white jersey is now the primary. After appearing only three times as an alternate in 2025, the whites take over as the team's most-worn look, the burgundy jersey settles in as the nine-game heritage set, and the all-black "Hail Raiser" alternate makes two appearances, both at home. Here is every Commanders jersey and uniform for 2026, mapped week by week, plus the one wrinkle the schedule leaves open on purpose.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2077774248848883798"></a></blockquote>
+</div>
+
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
 <div style="width: 44px; height: 44px; border-radius: 10px; background: #f7e9ec; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#5A1414" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
