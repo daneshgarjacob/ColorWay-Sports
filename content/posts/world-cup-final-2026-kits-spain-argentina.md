@@ -25,7 +25,7 @@ Spain wears its home **red jersey**, worn with **navy blue shorts and socks**. L
 
 ## The Matchup: Why This Final Looks So Good
 
-Red against light-blue-and-white is close to a perfect final pairing. The two kits never clash, they read cleanly from every seat and every camera angle, and they put two of the most storied identities in the sport on the same field with no compromise needed. No third-choice change kit, no muddy color conflict, just two home shirts that fans around the world would recognize in a silhouette. On looks alone, this is a **9 out of 10** matchup, the kind of visual final the tournament deserves. We will log the final's official kit matchup and grade in our [live 2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker) once both teams are confirmed in their shirts on Sunday.
+Red against light-blue-and-white is close to a perfect final pairing. The two kits never clash, they read cleanly from every seat and every camera angle, and they put two of the most storied identities in the sport on the same field with no compromise needed. No third-choice change kit, no muddy color conflict, just two home shirts that fans around the world would recognize in a silhouette. On looks alone, this is an **8.5 out of 10** matchup, handsome and classic rather than a bold color-on-color detonation, but exactly the visual final the tournament deserves. We will log the final's official kit matchup and grade in our [live 2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker) once both teams are confirmed in their shirts on Sunday.
 
 ## The Bottom Line on the World Cup Final Kits
 
