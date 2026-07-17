@@ -6,7 +6,7 @@ excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes
 gradient: "linear-gradient(135deg, #F8EFE0 0%, #E5D5BC 100%)"
 league: "mlb"
 teams: []
-homepageFeature: true
+homepageFeature: false
 coverImage: "/images/posts/world-series-logo-history/world-series-logo-history-cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"

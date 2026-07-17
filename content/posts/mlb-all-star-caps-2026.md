@@ -10,7 +10,7 @@ coverImagePosition: "center 45%"
 logoSrc: "/logos/mlb.png"
 league: "mlb"
 teams: []
-homepageFeature: true
+homepageFeature: false
 ---
 
 <figure style="margin:1.5em auto 0.5em;max-width:380px;">

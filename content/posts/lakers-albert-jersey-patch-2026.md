@@ -11,6 +11,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/lakers.png"
 league: nba
 teams: ["los-angeles-lakers"]
+homepageFeature: true
 ---
 
 The Los Angeles Lakers have a new jersey patch, and it is the biggest change to the front of their uniform in five years. Starting with the 2026-27 season, the small advertising patch on the upper-left chest will read **Albert**, the personal-finance app, replacing the Bibigo mark that had been there since 2021. According to ESPN's Dave McMenamin, a league source pegged the deal at an annual value north of **$30 million**, which makes it one of the richer jersey-patch partnerships in the NBA.
