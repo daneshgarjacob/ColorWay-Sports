@@ -15,6 +15,24 @@ homepageFeature: true
 
 It comes down to two. The 2026 World Cup Final is set: **Spain vs Argentina**, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. It is a final between two of the most iconic color stories in the sport, and the good news for anyone who cares how a final looks is that both teams get to wear the kits they are famous for. Here is exactly what each side will wear, and why this is one of the cleaner kit matchups a final could ask for.
 
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
+  <div style="flex: 1; min-width: 240px; max-width: 340px; text-align: center;">
+    <div style="background: #e8e8e8; border-radius: 10px; padding: 16px; display: flex; align-items: center; justify-content: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/argentina.jpg" alt="Argentina 2026 World Cup sky blue and white striped adidas home jersey with the AFA crest and three stars, the kit Argentina will wear in the World Cup Final against Spain" style="max-height: 260px; max-width: 100%; object-fit: contain;" />
+    </div>
+    <p style="font-weight: 800; margin: 12px 0 0;">Argentina · Home</p>
+    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0;">Sky Blue &amp; White Stripes</p>
+  </div>
+  <div style="flex: 1; min-width: 240px; max-width: 340px; text-align: center;">
+    <div style="background: #e8e8e8; border-radius: 10px; padding: 16px; display: flex; align-items: center; justify-content: center;">
+      <img src="/images/posts/adidas-world-cup-home-kits/spain.jpg" alt="Spain 2026 World Cup red adidas home jersey with navy and gold trim and the RFEF crest, the kit Spain will wear in the World Cup Final against Argentina" style="max-height: 260px; max-width: 100%; object-fit: contain;" />
+    </div>
+    <p style="font-weight: 800; margin: 12px 0 0;">Spain · Home</p>
+    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0;">Red with Navy</p>
+  </div>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Kit images via adidas</p>
+
 ## What Argentina Will Wear: The Light-Blue-and-White Stripes
 
 Argentina wears home, which means the **albiceleste**: the instantly recognizable light-blue-and-white vertical stripes, paired with **white shorts and white socks**. It is one of the most famous jerseys on earth and needs no introduction, the same sky-blue-and-white the country has worn through its greatest moments. This is the adidas home shirt, and it carries the three stars above the crest for Argentina's 1978, 1986, and 2022 titles. Win on Sunday and a fourth star is coming. There is nothing to overthink here. When Argentina reaches a final, the stripes come out, and they remain one of the best-looking kits in international football.
