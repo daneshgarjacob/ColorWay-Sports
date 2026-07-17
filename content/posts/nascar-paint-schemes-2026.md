@@ -2,8 +2,8 @@
 title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blaney's Pocono Throwback to Red Bull's Return"
 category: "Motorsports"
 date: "2026-06-10"
-updatedDate: "2026-07-14"
-excerpt: "A leaked Coca-Cola paint scheme for Bubba Wallace's #23 puts a soccer ball on a Cup car as the World Cup final nears. Plus Denny Hamlin's purple Yahoo car, Red Bull's NASCAR return, Chase Elliott's patriotic NAPA #9, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, graded, newest first."
+updatedDate: "2026-07-16"
+excerpt: "Bubba Wallace's Coca-Cola #23 is now confirmed for North Wilkesboro, a soccer ball on a Cup car as the World Cup final lands, as NASCAR returns to the historic short track for its first points race there in 30 years. Plus Austin Dillon's Winchester buck car, the Hendrick lineup, Denny Hamlin's purple Yahoo car, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, graded, newest first."
 gradient: "linear-gradient(135deg, #0A1A3F 0%, #15306E 45%, #C8102E 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKdtr6RW8AAk58E.jpg"
 coverImagePosition: "center center"
@@ -14,29 +14,53 @@ teams: []
 
 This is our running tracker for every 2026 NASCAR Cup Series special paint scheme, newest first, updated every time a team pulls the covers off something worth looking at. Each scheme gets the full ColorWay treatment, and where we have already published a complete breakdown, the entry links straight to it. Reveal week loaded the tracker from both ends of the calendar. This Sunday's Pocono race brings the showpiece: Ryan Blaney's Team Penske 60th-anniversary Wabash throwback, our top-graded scheme of the season so far, with Penske and Hendrick rolling out their full Tricky Triangle grids alongside it. And next weekend's inaugural San Diego street race at Naval Base Coronado is the bigger headline — Red Bull is back in NASCAR, on two Trackhouse cars, with a patriotic Chase Elliott NAPA #9 for that same Navy-250 weekend.
 
-*Updated Tuesday July 14 with a rumored Coca-Cola scheme for Bubba Wallace's No. 23, leaked out of the 23XI shop with a soccer ball on the door as the World Cup final approaches — unconfirmed, and graded on the look alone. Previously updated Thursday July 9 with Richard Childress Racing's new "Legends Always Live On" Kyle Busch tribute, Austin Hill's No. 33 for Sunday's Quaker State 400 at EchoPark Speedway in Atlanta. Previously updated June 27 with the Sonoma Raceway reveals — Joe Gibbs Racing's wine-country lineup led by Denny Hamlin's purple Yahoo car, Hendrick Motorsports' four-car "California bound" set, and Brandon Jones's highlighter-yellow NIBCO scheme. Earlier entries: the San Diego reveals (Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9), the full Penske and Hendrick Pocono lineups, Ryan Blaney's Wabash throwback, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
+*Updated Thursday July 16 for the inaugural Window World 450 at North Wilkesboro Speedway, NASCAR's first points-paying Cup race at the historic short track in 30 years. Bubba Wallace's Coca-Cola No. 23 is now officially confirmed and running there, 23XI Racing's own reveal replacing the earlier shop leak, with the soccer ball still on the door as the World Cup final arrives. Also new: Austin Dillon's Winchester "Supreme Long Range" buck car at RCR, and the Hendrick Motorsports lineup led by William Byron's All-Pro red-and-yellow No. 24 and Chase Elliott's LLumar debut. Previously updated July 9 with Richard Childress Racing's "Legends Always Live On" Kyle Busch tribute on Austin Hill's No. 33. Previously updated June 27 with the Sonoma Raceway reveals: Joe Gibbs Racing's wine-country lineup led by Denny Hamlin's purple Yahoo car, Hendrick Motorsports' four-car "California bound" set, and Brandon Jones's highlighter-yellow NIBCO scheme. Earlier entries: the San Diego reveals (Red Bull's return on Trackhouse's #88 and #97, and Chase Elliott's patriotic NAPA Gold Filters #9), the full Penske and Hendrick Pocono lineups, Ryan Blaney's Wabash throwback, both RCR Kyle Busch tribute schemes, and the Coca-Cola 600 Memorial Day tributes.*
 
-## 1. RUMORED: Bubba Wallace's Coca-Cola #23 Puts a Soccer Ball on a Cup Car · 23XI Racing
+## 1. CONFIRMED: Bubba Wallace's Coca-Cola #23 Puts a Soccer Ball on a Cup Car · North Wilkesboro
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BW_Channel23/status/2075568777115140421"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/23XIRacing/status/2077756442069581930"></a></blockquote>
 </div>
 
-<div style="background: #fff8e6; border: 1px solid #f0dfae; border-left: 4px solid #d99b1c; border-radius: 10px; padding: 14px 18px; margin: 0 0 1.6em;">
-<p style="margin: 0; color: #5c4708; font-size: 15px; line-height: 1.6;"><strong>Not confirmed.</strong> This one comes from a leaked shop photo circulating on social, not a team reveal. 23XI Racing has not announced it and Bubba Wallace has not raced it. We are grading the look, not the rumor, and we will update this entry the moment it is official.</p>
-</div>
+It is official. What started as a shop photo making the rounds is now a confirmed 23XI Racing reveal, and Bubba Wallace's No. 23 Toyota will run the Coca-Cola scheme at the inaugural Window World 450 at North Wilkesboro on July 19. The detail everyone zoomed in on when the leak first surfaced is still the whole story: the soccer ball sitting right beside the wordmark on the door.
 
-A photo out of the shop is making the rounds this week, and it shows what appears to be a Coca-Cola car built for Bubba Wallace's No. 23 Toyota. The detail everyone is zooming in on is not the sponsor. It is the soccer ball sitting right next to the wordmark on the door.
+Coca-Cola is one of the longest-running global partners in world soccer, the 2026 World Cup final lands July 19 on American soil the same day this car races, and this is what it looks like when those two calendars collide in a Cup garage. A stock car carrying a soccer ball through the middle of a World Cup summer is the kind of crossover we almost never get, and the timing is too clean to be an accident.
 
-Coca-Cola is one of the longest-running global partners in world soccer, the 2026 World Cup final lands July 19 on American soil, and this is what it looks like when those two calendars collide in a Cup garage. A stock car carrying a soccer ball through the middle of a World Cup summer is the kind of crossover we almost never get, and the timing is too clean to be an accident.
+The look itself is pure Coca-Cola, and that is the point. The car is drenched in that unmistakable Coke red, with the white Spencerian script running down the flanks and across the hood, a white 23 outlined on the doors and roof, Bubba's signature on the quarter panel, and the ball worked in beside the wordmark. It is a corporate livery, but it is arguably the most recognizable corporate color story on earth. Red and white with that script needs no explanation from any camera angle, at any speed, to anyone on the planet.
 
-The look itself is pure Coca-Cola, and that is the point. The car is drenched in that unmistakable Coke red, with the white Spencerian script running down the flanks and across the hood, a white 23 outlined in black on the doors and roof, and the ball worked in beside the wordmark. It is a corporate livery, but it is arguably the most recognizable corporate color story on earth. Red and white with that script needs no explanation from any camera angle, at any speed, to anyone on the planet.
-
-**Grade: A-** — Coke red and the white script are instantly readable at 190 mph, and the soccer ball is a genuinely clever, timely hook with the World Cup final days away. It stops just short of an A because it leans on a standing corporate palette rather than a daring one-off swing, but as a crossover moment it is hard to beat.
+**Grade: A-** — Coke red and the white script are instantly readable at 190 mph, and the soccer ball is a genuinely clever, timely hook with the World Cup final landing the very same day. It stops just short of an A because it leans on a standing corporate palette rather than a daring one-off swing, but as a crossover moment it is hard to beat.
 
 ---
 
-## 2. Austin Hill #33 "Legends Always Live On" · RCR Kyle Busch Tribute · Atlanta
+## 2. Austin Dillon #3 Winchester "Supreme Long Range" · RCR · North Wilkesboro
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RCRracing/status/2077843320798163394"></a></blockquote>
+</div>
+
+Richard Childress Racing brought a hunting camp to the short track. Austin Dillon's No. 3 Chevrolet runs a Winchester "Supreme Long Range" scheme for North Wilkesboro, a white-and-silver car with a full-color whitetail buck airbrushed across the rear decklid and the Supreme Long Range wordmark stamped over it like an ammo box. The Winchester red "W" sits on the rear bumper, Bass Pro Shops rides along, and the whole thing leans all the way into the outdoors theme instead of just dropping a logo on a primary.
+
+For a nostalgic weekend at a track that spent decades off the schedule, an airbrushed animal is a wonderfully old-school swing. NASCAR has a long history of hunting and outdoors sponsors going full wildlife on the sheet metal, and this is a clean, modern take on that tradition. The buck is the kind of detail that reads on a die-cast shelf as much as it does on the broadcast, and it is easily the most distinctive one-off in the North Wilkesboro field outside the throwbacks.
+
+**Grade: B+** — a bold, characterful outdoors scheme with genuine personality, and the airbrushed buck is a real stop-and-look moment. It lands just short of A- because the white-and-silver base around the artwork plays it a little safe, but on charm and theme commitment it is one of the more fun cars of the weekend.
+
+---
+
+## 3. Hendrick Motorsports' North Wilkesboro Lineup: Byron's All-Pro Red, Elliott's LLumar Debut
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamHendrick/status/2077780152411451661"></a></blockquote>
+</div>
+
+"Geared up for North Wilkesboro." Hendrick Motorsports rolled out all four Chevrolets for the Window World 450, and this is a primaries-first drop rather than a throwback set. William Byron's No. 24 flies the All-Pro Aluminum colors for the first time since April, a bright red-and-yellow package with the big yellow 24 that is the clear pop of the lineup. Chase Elliott's No. 9 debuts its red LLumar look for 2026. Kyle Larson's No. 5 runs the familiar blue HendrickCars.com scheme and Alex Bowman's No. 48 wears the standard Ally blue, both of them standing liveries.
+
+For a milestone weekend, the return of Cup points racing to North Wilkesboro after 30 years, this is Hendrick playing it straight while other teams reach for throwbacks and one-offs. Byron's red-and-yellow No. 24 is the one that draws the eye, and Elliott's LLumar red gives the set a second bright note, but two of the four cars are business-as-usual primaries. Sharp and camera-friendly, just not built for the occasion the way Austin Cindric's Rusty Wallace black-and-gold tribute down pit road is.
+
+**Grade: B** — clean, high-recognition Hendrick primaries led by Byron's All-Pro red-and-yellow No. 24, but a mostly standing-livery lineup on a weekend that was begging for throwbacks. Solid, not special.
+
+---
+
+## 4. Austin Hill #33 "Legends Always Live On" · RCR Kyle Busch Tribute · Atlanta
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RCRracing/status/2075309145188675953"></a></blockquote>
@@ -50,7 +74,7 @@ We do not put a letter grade on a tribute. For the full story of RCR's Kyle Busc
 
 ---
 
-## 3. Joe Gibbs Racing's Sonoma Paint Schemes: Denny Hamlin's Purple Yahoo Car Leads the Wine Country Lineup
+## 5. Joe Gibbs Racing's Sonoma Paint Schemes: Denny Hamlin's Purple Yahoo Car Leads the Wine Country Lineup
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JoeGibbsRacing/status/2070522965712679103"></a></blockquote>
@@ -64,7 +88,7 @@ For a Sonoma weekend where most teams default to their standing primaries, JGR's
 
 ---
 
-## 4. Hendrick Motorsports' Sonoma Lineup: Larson, Byron, Elliott, and Bowman Go "California Bound"
+## 6. Hendrick Motorsports' Sonoma Lineup: Larson, Byron, Elliott, and Bowman Go "California Bound"
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamHendrick/status/2070146590581411982"></a></blockquote>
@@ -78,7 +102,7 @@ This is Hendrick doing what Hendrick does: polished, high-recognition primaries 
 
 ---
 
-## 5. Brandon Jones's NIBCO Highlighter Car: The Sonoma Scheme That "Absolutely Pops"
+## 7. Brandon Jones's NIBCO Highlighter Car: The Sonoma Scheme That "Absolutely Pops"
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LASTCARonBROCK/status/2070633249114914963"></a></blockquote>
@@ -92,7 +116,7 @@ Love it or laugh at it, this is the most talked-about single paint scheme of the
 
 ---
 
-## 6. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
+## 8. Red Bull Returns to NASCAR: Shane van Gisbergen #88 and Connor Zilisch #97 · Trackhouse Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TeamTrackhouse/status/2065119928030523567"></a></blockquote>
@@ -106,7 +130,7 @@ The reveal staging is the part we keep coming back to. Trackhouse did not shoot 
 
 ---
 
-## 7. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
+## 9. Chase Elliott #9 NAPA "Gold Filters" Patriotic Scheme · Hendrick Motorsports · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NAPARacing/status/2065147885063163966"></a></blockquote>
@@ -120,7 +144,7 @@ This is a clean, well-resolved take on a NASCAR staple. Patriotic schemes turn u
 
 ---
 
-## 8. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
+## 10. Josh Berry #21 Stars and Stripes Military Tribute · Wood Brothers Racing · San Diego
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MQL_Racing/status/2066507838524920037"></a></blockquote>
@@ -132,7 +156,7 @@ Josh Berry's No. 21 Wood Brothers Ford goes full stars and stripes for San Diego
 
 ---
 
-## 9. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
+## 11. The Pocono Preview: Penske and Hendrick Roll Out the Tricky Triangle Lineup · June 14
 
 Before San Diego, there is a race this Sunday — and both of the sport's superpowers used reveal day to lay their full Pocono grids on the table. Team Penske's PPG-branded preview lines up all three Fords for the June 14 race: Austin Cindric's #2 in the yellow-and-blue Menards/Ideal Door package, Joey Logano's #22 in the timeless Shell-Pennzoil red and yellow, and Ryan Blaney's #12 in the royal-blue Wabash throwback we have ranked as the best paint scheme of the 2026 season so far. Logano's Shell-Pennzoil is still one of the cleanest standing liveries in the garage, but it is Blaney's throwback that makes this Penske drop matter — the full breakdown is right below.
 
@@ -148,7 +172,7 @@ Hendrick Motorsports answered with all four of its cars "set for Pennsylvania": 
 
 ---
 
-## 10. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
+## 12. Ryan Blaney #12 Wabash · Team Penske 60th Anniversary Throwback · Pocono, June 14
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -195,7 +219,7 @@ The original is Ryan Newman's royal blue Alltel #12 Dodge, the car that delivere
 
 ---
 
-## 11. Josh Berry #21 Capgemini · Wood Brothers Racing
+## 13. Josh Berry #21 Capgemini · Wood Brothers Racing
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -208,7 +232,7 @@ Wood Brothers Racing unveiled the Capgemini partnership scheme for Josh Berry's 
 
 ---
 
-## 12. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
+## 14. Austin Hill #33 Rebel Bourbon · RCR Kyle Busch Tribute
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -221,7 +245,7 @@ Richard Childress Racing built Austin Hill's #33 Rebel Bourbon scheme around a m
 
 ---
 
-## 13. Austin Dillon #3 Dow · RCR
+## 15. Austin Dillon #3 Dow · RCR
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -234,7 +258,7 @@ Austin Dillon's #3 Dow Camaro runs the black base with the red diamond-cut Dow g
 
 ---
 
-## 14. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
+## 16. 600 Miles of Remembrance · Coca-Cola 600 Memorial Day Tributes
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 280px; max-width: 750px;">
@@ -248,9 +272,17 @@ The Coca-Cola 600 at Charlotte is the one weekend a year when every single car i
 
 ## What Drops Next
 
-The next big reveal day is San Diego. The inaugural Naval Base Coronado street race on June 21 — the first NASCAR points race ever held on an active U.S. military base — is exactly the kind of event that pulls special schemes out of every team in the garage, and Trackhouse's Red Bull cars and Elliott's patriotic NAPA #9 are almost certainly the first of many. Expect more Navy-250 and San Diego-specific liveries to drop in the days before the green flag. Beyond that, the Penske 60th anniversary program still has Joey Logano's #22 and Austin Cindric's #2 as obvious throwback candidates, the Wood Brothers heritage rotation always has another Motorcraft moment in it, and Darlington's official throwback weekend sits later in the schedule. We add every scheme worth covering to this tracker as it drops, newest at the top, with grades on the ones we have full takes on. Bookmark this page and check back after every reveal day.
+North Wilkesboro is the reveal event of the moment. The inaugural Window World 450 on July 19 marks NASCAR's return to the historic short track for points racing after a 30-year absence, and a milestone weekend like this pulls throwbacks and one-offs out of the whole garage. Austin Cindric's No. 2 leads the way with a black-and-gold tribute to Rusty Wallace's 1993 North Wilkesboro sweep, and more heritage looks are dropping in the days before the green flag alongside Bubba Wallace's Coca-Cola crossover, RCR's Winchester buck car, and the Hendrick lineup. Beyond North Wilkesboro, Darlington's official throwback weekend later in the schedule remains the season's biggest single day for retro schemes, and the Penske 60th anniversary program still has more anniversary looks in it. We add every scheme worth covering to this tracker as it drops, newest at the top, with grades on the ones we have full takes on. Bookmark this page and check back after every reveal day.
 
 ## Frequently Asked Questions
+
+**What is the Window World 450 at North Wilkesboro?**
+
+The Window World 450 is the NASCAR Cup Series race at North Wilkesboro Speedway on July 19, 2026, the first points-paying Cup race at the historic short track in 30 years and the first 450-lap Cup race since 1974. The All-Star Race, which had been held at North Wilkesboro, moved to Dover for 2026, and North Wilkesboro took a spot on the points schedule in its place. The nostalgia of the weekend has pulled throwbacks and special paint schemes out of teams up and down the garage.
+
+**What paint scheme is Bubba Wallace running at North Wilkesboro?**
+
+Bubba Wallace's No. 23 23XI Racing Toyota runs a confirmed Coca-Cola scheme at North Wilkesboro, a Coke-red car with the white Coca-Cola script down the sides and a soccer ball worked in beside the wordmark on the door. The soccer ball ties the car to Coca-Cola's role as a longtime global soccer partner, timed to the 2026 World Cup final, which is played on American soil the same day the race runs.
 
 **Is Red Bull returning to NASCAR in 2026?**
 

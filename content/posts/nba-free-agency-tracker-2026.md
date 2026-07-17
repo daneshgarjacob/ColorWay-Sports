@@ -1,9 +1,9 @@
 ---
-title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (LaMelo Ball to Minnesota, Jaylen Brown to the Sixers, Paul George's Celtics Green)"
+title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Giannis Antetokounmpo to Miami, LaMelo Ball to Minnesota, Jaylen Brown to the Sixers)"
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-14"
-excerpt: "Every 2026 NBA free agency and trade move in their new jersey: LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, Paul George in Celtics green, and more. Updated all summer."
+updatedDate: "2026-07-16"
+excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, Paul George in Celtics green, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -21,6 +21,20 @@ Free agency is the second draft of the NBA offseason, and the fun part for us is
   <span style="display: block; font-size: 1.15em; font-weight: 800; color: #ffffff; line-height: 1.4;">Spot a signing we haven't added yet?</span>
   <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #dbe4f5; margin-top: 8px;">Free agency moves fast and we do not want to miss anyone. Reply to our post on X <a href="https://x.com/colorwaysports" target="_blank" rel="noopener" style="color: #9fe3b8; font-weight: 700;">@ColorWaySports</a> or email <a href="mailto:jake@colorwaysports.com" style="color: #9fe3b8; font-weight: 700;">jake@colorwaysports.com</a> with the player and their new team, and we will get them into the tracker in their new colors.</span>
 </div>
+
+## Giannis Antetokounmpo, Miami Heat
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2077849158765994330"></a></blockquote>
+</div>
+
+This is the colorway swap of the decade. Giannis Antetokounmpo spent every season of his career to this point in the Milwaukee Bucks' green, cream, and blue, one of the most recognizable identities in the league and the uniform he turned into two MVPs and a championship. Now he steps into the Miami Heat's red, black, and white, holding up a No. 7 at his introductory press conference between Pat Riley and Erik Spoelstra. Miami's look is one of the cleaner modern identities in the NBA, all sharp contrast and no clutter, and seeing the best player of his generation in Heat colors instead of Bucks green is exactly the kind of jersey and uniform reset this tracker was built for.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2077883343425667278"></a></blockquote>
+</div>
+
+The Heat followed the presser with the full jersey reveal, and the white Association set with the red, black, and yellow side striping already looks like it was built for him. A player this singular changing teams is rare enough. Watching him trade one iconic colorway for another is the sort of visual moment that only comes along a few times a decade.
 
 ## LaMelo Ball, Minnesota Timberwolves
 
