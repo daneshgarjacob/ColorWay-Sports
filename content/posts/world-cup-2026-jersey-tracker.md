@@ -41,7 +41,7 @@ For the standalone rankings of every individual home kit, away kit, and third ki
 
 <div style="margin: 1.5em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 800; color: #fff; font-size: 1.05em;">Matches Graded</span>
-  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">100 / 104</span>
+  <span style="font-weight: 900; color: #FF5910; font-size: 1.5em;">101 / 104</span>
 </div>
 
 <a href="/stories/world-cup-round-of-32-kit-matchups-ranked" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #00694b 0%, #0a1030 100%); border-radius: 16px; text-decoration: none;">
@@ -84,6 +84,39 @@ Below, every match of the tournament in reverse chronological order, the most re
 </div>
 
 The Final is set, and for once both teams get to wear the shirts that made them. Argentina go with the Albiceleste home, the sky-blue-and-white stripes with the AFA crest and three stars, chasing a fourth. Spain counter in their red adidas home with the navy and gold trim and the RFEF crest. Because red and the pale stripes never clash, neither side has to reach for a change kit, so the sport's showpiece gets two of its most iconic identities at full strength on the same pitch. Red against sky-blue-and-white reads cleanly from every seat and every camera angle, and there is real history stitched into both crests. It lands at 8.5 rather than a perfect score because the pairing is handsome and classic rather than a bold color-on-color detonation, but as a final, this is exactly the matchup the tournament wanted. We will confirm the grade once both teams take the field on Sunday. Eight and a half out of 10.
+
+## Match 101: France vs England — Third-Place Playoff
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 40px 28px; margin: 2em 0 0.75em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 5px 14px; background: linear-gradient(90deg, #002395 0%, #FFFFFF 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Third-Place Playoff · Match 101 · Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-france-home.jpg" alt="France 2026 World Cup Nike deep blue home jersey with a tonal diagonal pattern, a white polo collar, and the gold rooster crest, worn in the Third-Place Playoff vs England" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">FRANCE</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dfrance%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+    <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 200px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;">
+        <img src="/images/posts/wc-england-home.jpg" alt="England 2026 World Cup white Nike home jersey with red and blue trim and the Three Lions crest, worn in the Third-Place Playoff vs France" style="max-height: 180px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">ENGLAND</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dengland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.12); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.25);">
+  <p style="font-size: 1.5em; font-weight: 900; margin: 0; text-align: center; color: #00c864;">Score: 9 / 10</p>
+</div>
+
+France against England in the Third-Place Playoff is a heavyweight consolation-match kit clash where both teams get to run their first-choice home shirts one more time before flying home. France wear the Nike deep blue home, the tonal-diagonal shirt with the white polo collar, the tricolor trim, and the gold Coq Sportif rooster crest that has anchored one of the tournament's most-praised identities from the group stage onward. England answer in the Three Lions white home with the red-and-blue trim and the crest that has carried the country through the entire knockout bracket. Blue against white is a timeless high-value pairing that separates instantly on the broadcast, the deep French navy giving the frame its identity anchor while England's crisp white stays legible from every camera angle and every seat. Both federations passing on their alternates for the consolation match reads as a nod to the shirts that got them here, both crests carrying serious brand weight, and the whole thing lands as one of the cleanest late-tournament kit matchups. It sits at 9 rather than the 9.5 the Norway-vs-England Quarterfinal earned because a bold color-vs-white pop from the road side would lift the pairing another half, and the French polo collar detail is easier to appreciate up close than at broadcast distance. Nine out of 10.
 
 ## Match 100: England vs Argentina
 
