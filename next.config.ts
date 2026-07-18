@@ -40,6 +40,18 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // GSC 7/18: stray external links use /posts/<slug>; our pattern is /stories/<slug>
+      {
+        source: "/posts/:slug",
+        destination: "/stories/:slug",
+        permanent: true,
+      },
+      // GSC 7/18: crawled slug variant of the Ravens iridescent rumors post
+      {
+        source: "/stories/ravens-iridescent-rumors-2026",
+        destination: "/stories/ravens-uniform-rumors-iridescent-2026",
+        permanent: true,
+      },
       // Old WordPress URLs -- redirect to homepage
       {
         source: "/wp-content/:path*",
