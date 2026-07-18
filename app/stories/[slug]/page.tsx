@@ -8,6 +8,8 @@ import RelatedStories from "@/components/RelatedStories";
 import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
+import TrackerTeamIndex from "@/components/TrackerTeamIndex";
+import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -143,6 +145,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     if (gameItems.length >= 8) jumpItems = gameItems;
   }
   const jumpNavIsGames = slug === "mlb-uniform-tracker-2026";
+  const teamIndex =
+    slug === "mlb-uniform-tracker-2026" ? buildMlbTeamIndex(post.contentHtml) : null;
 
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
@@ -200,6 +204,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         ) : (
           <TrackerJumpNav items={jumpItems} />
         ))}
+
+      {teamIndex && <TrackerTeamIndex teams={teamIndex} />}
 
       {/* Article body */}
       <main className="max-w-[720px] mx-auto px-5 py-12">
