@@ -13,9 +13,7 @@ teams: []
 homepageFeature: true
 ---
 
-The 2026 World Cup Final is set: **Spain vs Argentina**, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. Both teams are set to wear their home kits, and it delivers one of the cleanest kit matchups a final can offer, because the colors do not clash and each side gets the shirt that made it. Here is the full breakdown, as a quick list.
-
-*This is the widely reported, no-clash home-vs-home matchup, consistent across outlets and in line with how both teams have dressed all tournament. FIFA posts the official match-kit directive closer to kickoff; we will lock this the moment it is official and update the moment they take the field.*
+The 2026 World Cup Final is set: **Spain vs Argentina**, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. Both teams wear their home kits, and it delivers one of the cleanest kit matchups a final can offer, because the colors do not clash and each side gets the shirt that made it. Here is the full breakdown, as a quick list.
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
   <div style="flex: 1; min-width: 240px; max-width: 340px; text-align: center;">
