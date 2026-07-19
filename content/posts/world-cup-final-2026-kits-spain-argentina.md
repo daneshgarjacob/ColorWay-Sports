@@ -1,5 +1,5 @@
 ---
-title: "World Cup Final 2026 Kits: What Spain and Argentina Wear at MetLife Stadium"
+title: "World Cup Final 2026 Kits: What Spain and Argentina Are Wearing Today at MetLife Stadium"
 category: "Soccer"
 date: "2026-07-17"
 updatedDate: "2026-07-19"

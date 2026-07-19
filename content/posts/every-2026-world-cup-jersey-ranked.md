@@ -1,11 +1,12 @@
 ---
-title: Every 2026 World Cup Jersey Ranked From Worst to Best
+title: 'Every 2026 World Cup Jersey Ranked From Worst to Best (Including Both Final Kits)'
 category: Soccer
 date: '2026-04-13'
+updatedDate: '2026-07-19'
 excerpt: >-
-  We ranked all 52 national team kits from Nike, Adidas, and Puma for the 2026
-  FIFA World Cup. From Qatar's blank canvas to France's Statue of Liberty
-  masterpiece, here's where every team lands.
+  All 52 national team kits from Nike, Adidas, and Puma at the 2026 FIFA World
+  Cup, ranked worst to best. See where Spain's red and Argentina's stripes, the
+  two World Cup Final jerseys, really land.
 gradient: 'linear-gradient(135deg, #5B0E2D 0%, #1a3c6e 100%)'
 logoSrc: /logos/world-cup-2026.png
 league: soccer
