@@ -25,7 +25,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, July 18
 
-Saturday flipped the wardrobe from Friday's City Connect night to an alternates showcase, and a 15-game slate with a Cleveland doubleheader delivered plenty to grade. The Cardinals' Victory Blue takes Jersey of the Day, the Braves' light blue City Connect and Boston's yellow marathon look kept the color coming, the Athletics broke out the gold Sacramento alternate, and a Mets-Phillies classic takes the Matchup of the Day crown. The slate grades out to 7.2 out of 10.
+Saturday flipped the wardrobe from Friday's City Connect night to a loaded alternate jersey showcase: 15 games, a Cleveland doubleheader, and some of the best uniform pairings of the week. The Cardinals' Victory Blue jersey steals Jersey of the Day, the Braves' light blue City Connect and the Red Sox's yellow Boston marathon jersey kept the color coming, the Athletics broke out the gold "Sacramento" script, and a Mets-Phillies rivalry classic in road gray and cream takes the Matchup of the Day crown. The Saturday slate grades out to 7.2 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #C41E3A 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
