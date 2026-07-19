@@ -2,7 +2,7 @@
 title: "World Cup Final 2026 Kits: What Spain and Argentina Wear at MetLife Stadium"
 category: "Soccer"
 date: "2026-07-17"
-updatedDate: "2026-07-17"
+updatedDate: "2026-07-19"
 excerpt: "The 2026 World Cup Final is Spain vs Argentina. Here is exactly what each team wears, in a quick list: Spain in red, Argentina in the light-blue-and-white stripes, an all-adidas final graded 8.5."
 gradient: "linear-gradient(135deg, #C60B1E 0%, #0a1030 50%, #75AADB 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 homepageFeature: true
 ---
 
-The 2026 World Cup Final is set: **Spain vs Argentina**, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. Both teams wear their home kits, and it delivers one of the cleanest kit matchups a final can offer, because the colors do not clash and each side gets the shirt that made it. Here is the full breakdown, as a quick list.
+It is game day. The 2026 World Cup Final is here: **Spain vs Argentina**, today, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. Both teams wear their home kits, and it delivers one of the cleanest kit matchups a final can offer, because the colors do not clash and each side gets the shirt that made it. Here is the full breakdown, as a quick list.
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
   <div style="flex: 1; min-width: 240px; max-width: 340px; text-align: center;">

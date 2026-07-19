@@ -10,7 +10,6 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "nba"
 teams: []
-homepageHero: true
 ---
 
 <div style="margin: 0 0 1.5em;">
