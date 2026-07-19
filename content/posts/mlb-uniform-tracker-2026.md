@@ -17,21 +17,6 @@ This is the ColorWay Sports MLB daily uniform tracker: what every team actually 
 
 Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) and the per-team schedule pages linked at the bottom of this tracker map what all 30 teams plan to wear and when, so you can call tonight's uniform before first pitch. This page is the receipts: what they actually put on.
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 1.5em 0;">
-  <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #9bc824; font-size: 1.6em; line-height: 1;">7</span>
-    <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Days Tracked</span>
-  </div>
-  <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #FF5910; font-size: 1.6em; line-height: 1;">176</span>
-    <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Uniforms Logged</span>
-  </div>
-  <div style="padding: 1.1em 0.6em; background: linear-gradient(135deg, #2a2d3a 0%, #181a24 100%); border-radius: 14px; border: 1px solid rgba(255,255,255,0.08); text-align: center;">
-    <span style="display: block; font-weight: 900; color: #6CACE4; font-size: 1.6em; line-height: 1;">83</span>
-    <span style="display: block; font-weight: 700; color: #ffffff; font-size: 0.68em; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 7px;">Alternates Worn</span>
-  </div>
-</div>
-
 <div style="margin: 1.5em 0; padding: 1.2em 1.6em; background: linear-gradient(135deg, #004687 0%, #1c1c1c 100%); border-radius: 14px;">
   <span style="display: block; font-size: 0.7em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #7BB2DD; margin-bottom: 5px;">Best-Dressed Game So Far</span>
   <span style="display: block; font-size: 1.12em; font-weight: 900; color: #ffffff;">Red Sox Red at Mets Black &amp; Royals Powder Blue at Mets Black · 8.5 / 10</span>

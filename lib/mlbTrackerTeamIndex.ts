@@ -8,7 +8,7 @@ export type TeamGame = {
   day: string; // "Jul 17"
   opp: string; // "at Yankees" / "vs Giants" (+ " · G1" for doubleheaders)
   uniform?: string; // "Road Gray" — omitted if the card markup didn't parse
-  grade?: string; // "8.5"
+  uniformColor?: string; // swatch hex lifted from the game card's own dot
 };
 
 export type TeamIndexEntry = {
@@ -123,9 +123,11 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
     if (!away && !home) continue;
 
     const slice = contentHtml.slice(slot.start, slot.end);
-    const uniLabels = [...slice.matchAll(/vertical-align: middle;"><\/span>([^<]+)<\/p>/g)].map((u) => u[1].trim());
-    const gradeMatch = slice.match(/Matchup Grade: ([\d.]+)\s*\/\s*10/);
-    const grade = gradeMatch ? gradeMatch[1] : undefined;
+    // Each jersey card carries its own colored dot next to the uniform label —
+    // lift both so the index swatch always matches the card exactly.
+    const uniLabels = [...slice.matchAll(/background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g)].map(
+      (u) => ({ color: u[1].trim(), label: u[2].trim() }),
+    );
     const dayShort = shortDay(slot.day);
     const sfx = suffix ? ` · ${suffix}` : "";
 
@@ -134,8 +136,8 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
         id: slot.id,
         day: dayShort,
         opp: `at ${homeName}${sfx}`,
-        uniform: uniLabels.length === 2 ? uniLabels[0] : undefined,
-        grade,
+        uniform: uniLabels.length === 2 ? uniLabels[0].label : undefined,
+        uniformColor: uniLabels.length === 2 ? uniLabels[0].color : undefined,
       });
     }
     if (home) {
@@ -143,8 +145,8 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
         id: slot.id,
         day: dayShort,
         opp: `vs ${awayName}${sfx}`,
-        uniform: uniLabels.length === 2 ? uniLabels[1] : undefined,
-        grade,
+        uniform: uniLabels.length === 2 ? uniLabels[1].label : undefined,
+        uniformColor: uniLabels.length === 2 ? uniLabels[1].color : undefined,
       });
     }
   }

@@ -104,18 +104,18 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                     <span className="text-[13px] font-semibold text-blue-dark truncate group-hover:text-[#2f6bed] transition-colors">
                       {g.opp}
                     </span>
-                    <span className="ml-auto flex items-center gap-2.5 shrink-0">
-                      {g.uniform && (
+                    {g.uniform && (
+                      <span className="ml-auto flex items-center gap-1.5 shrink-0">
+                        <span
+                          aria-hidden
+                          className="inline-block w-2.5 h-2.5 rounded-full border border-black/20 shrink-0"
+                          style={{ background: g.uniformColor || "#ececf0" }}
+                        />
                         <span className="text-[11px] font-semibold uppercase tracking-wide text-black/45">
                           {g.uniform}
                         </span>
-                      )}
-                      {g.grade && (
-                        <span className="text-[11px] font-extrabold text-[#7a9e17] tabular-nums">
-                          {g.grade}
-                        </span>
-                      )}
-                    </span>
+                      </span>
+                    )}
                   </button>
                 </li>
               ))}
