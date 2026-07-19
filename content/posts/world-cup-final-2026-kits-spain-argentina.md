@@ -1,9 +1,9 @@
 ---
-title: "World Cup Final 2026 Kits: What Spain and Argentina Are Wearing Today at MetLife Stadium"
+title: "World Cup Final 2026 Kits: What Spain Wore to Win It All Against Argentina at MetLife Stadium"
 category: "Soccer"
 date: "2026-07-17"
 updatedDate: "2026-07-19"
-excerpt: "The 2026 World Cup Final is Spain vs Argentina. Here is exactly what each team wears, in a quick list: Spain in red, Argentina in the light-blue-and-white stripes, an all-adidas final graded 8.5."
+excerpt: "Spain beat Argentina 1-0 to win the 2026 World Cup in their red home jersey against the light-blue-and-white stripes. Exactly what both teams wore in the all-adidas final, graded 8.5."
 gradient: "linear-gradient(135deg, #C60B1E 0%, #0a1030 50%, #75AADB 130%)"
 cardStyle: words
 kicker: World Cup Final
@@ -13,7 +13,7 @@ teams: []
 homepageFeature: true
 ---
 
-It is game day. The 2026 World Cup Final is here: **Spain vs Argentina**, today, Sunday, July 19, kicking off at 3 p.m. ET at MetLife Stadium in East Rutherford, New Jersey. Both teams wear their home kits, and it delivers one of the cleanest kit matchups a final can offer, because the colors do not clash and each side gets the shirt that made it. Here is the full breakdown, as a quick list.
+**Spain are World Champions.** La Roja beat Argentina 1-0 in the 2026 World Cup Final on Sunday, July 19 at MetLife Stadium in East Rutherford, New Jersey, and they did it in the red home shirt. Both teams wore their home kits, and it delivered one of the cleanest kit matchups a final can offer, because the colors do not clash and each side got the shirt that made it. Here is exactly what both teams wore, as a quick list.
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
   <div style="flex: 1; min-width: 240px; max-width: 340px; text-align: center;">
@@ -35,9 +35,9 @@ It is game day. The 2026 World Cup Final is here: **Spain vs Argentina**, today,
 
 ## The 2026 World Cup Final Kits, Explained
 
-1. **Argentina wears the home Albiceleste.** Argentina go with the light-blue-and-white vertical stripes, paired with white shorts and white socks. It is the adidas home shirt, one of the most recognizable jerseys on earth, and it carries the AFA crest with three stars for the 1978, 1986, and 2022 titles.
+1. **Argentina wore the home Albiceleste.** Argentina went with the light-blue-and-white vertical stripes, paired with white shorts and white socks. It is the adidas home shirt, one of the most recognizable jerseys on earth, and it carries the AFA crest with three stars for the 1978, 1986, and 2022 titles.
 
-2. **Spain wears the home red.** Spain wear their red adidas home shirt with navy blue shorts and socks. La Roja's red is as core to Spain's football identity as the stripes are to Argentina, and the shirt carries the RFEF crest with a single star for the 2010 World Cup win.
+2. **Spain wore the home red, and won the World Cup in it.** Spain wore their red adidas home shirt with navy blue shorts and socks. La Roja's red is as core to Spain's football identity as the stripes are to Argentina, and the shirt carries the RFEF crest with a single star for the 2010 World Cup win.
 
 3. **Both teams wear home, so there is no kit clash.** Red and the pale sky-blue-and-white stripes do not conflict, which means neither side has to switch to an away or third kit. The final gets both nations at full strength, in the shirts fans recognize in a silhouette.
 
