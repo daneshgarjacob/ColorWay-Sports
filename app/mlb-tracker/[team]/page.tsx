@@ -306,6 +306,12 @@ export default async function TeamTrackerPage({
               {entry.name} full 2026 uniform schedule &rarr;
             </Link>
             <Link
+              href="/mlb-tracker"
+              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+            >
+              All 30 team calendars &rarr;
+            </Link>
+            <Link
               href={`/stories/${TRACKER_SLUG}`}
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >

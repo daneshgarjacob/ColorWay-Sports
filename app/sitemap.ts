@@ -12,14 +12,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  // Per-team MLB uniform calendars. Like the tool pages below, these are not
-  // auto-collected — they're listed here so all 30 get crawled.
-  const teamUrls = allTeamKeys().map((team) => ({
-    url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
-    lastModified: new Date(),
-    changeFrequency: "daily" as const,
-    priority: 0.7,
-  }));
+  // Per-team MLB uniform calendars plus their hub page. Like the tool pages
+  // below, these are not auto-collected — they're listed here so they get crawled.
+  const teamUrls = [
+    {
+      url: "https://www.colorwaysports.com/mlb-tracker",
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+    },
+    ...allTeamKeys().map((team) => ({
+      url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
+  ];
 
   return [
     {

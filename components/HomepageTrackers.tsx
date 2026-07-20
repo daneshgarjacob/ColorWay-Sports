@@ -28,6 +28,16 @@ const trackers: TrackerCard[] = [
     centered: false,
   },
   {
+    href: "/mlb-tracker",
+    kicker: "MLB · All 30 Teams · Visual Calendars",
+    title: "MLB Uniform Calendars 2026: Every Jersey, Team by Team",
+    dek: "A visual calendar for all 30 clubs. Click any team to see the jersey they wore every single day of the season laid out month by month, plus how many times each uniform has come out at home versus on the road. Built from the daily tracker, so it updates itself every morning.",
+    status: "Live · 30 Teams",
+    grade: "A",
+    image: "/images/posts/mlb-daily-tracker/calendars-cover.jpg",
+    centered: false,
+  },
+  {
     slug: "mlb-uniform-schedule-2026",
     kicker: "MLB · All 30 Teams",
     title: "MLB Uniform Schedule 2026: What Every Team Wears and When",
