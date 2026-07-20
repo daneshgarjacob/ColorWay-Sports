@@ -45,7 +45,8 @@ const trackers: TrackerCard[] = [
     status: "Guide · MLB",
     grade: "A",
     image: "/images/posts/mlb-uniform-schedule-2026-cover.jpg",
-    centered: false,
+    // Odd card out of a 2-up grid — centre it on its own row underneath.
+    centered: true,
   },
 ];
 

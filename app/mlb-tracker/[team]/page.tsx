@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getPostBySlug } from "@/lib/posts";
+import TeamUniformBreakdown from "@/components/TeamUniformBreakdown";
 import {
   buildMlbTeamIndex,
   uniformUsage,
@@ -87,11 +88,14 @@ export default async function TeamTrackerPage({
             </p>
 
             <div className="flex flex-wrap gap-x-8 gap-y-3 mt-7">
-              <Stat label="Games logged" value={entry.games.length} />
-              <Stat label="At home" value={homeGames} />
-              <Stat label="On the road" value={roadGames} />
-              <Stat label="Uniforms worn" value={usage.length} />
+              <Stat label="Games logged" value={entry.games.length} href="#usage" />
+              <Stat label="At home" value={homeGames} href="#usage-home" />
+              <Stat label="On the road" value={roadGames} href="#usage-road" />
+              <Stat label="Uniforms worn" value={usage.length} href="#usage" />
             </div>
+            <p className="text-white/45 text-[12px] mt-4 mb-0">
+              Tap a number to see which jerseys, and on which days.
+            </p>
           </div>
         </section>
 
@@ -107,48 +111,7 @@ export default async function TeamTrackerPage({
           </section>
         ) : (
           <>
-            {/* Uniform usage counts */}
-            <section className="max-w-[860px] mx-auto px-5 pt-12">
-              <h2 className="text-[13px] font-extrabold uppercase tracking-[0.18em] text-blue-dark mb-1">
-                Uniform Usage
-              </h2>
-              <p className="text-[13px] text-black/45 mt-0 mb-5">
-                How often each jersey has come out, and where.
-              </p>
-
-              <div className="grid gap-3 sm:grid-cols-2">
-                {usage.map((u) => (
-                  <div
-                    key={u.uniform}
-                    className="flex items-center gap-4 border border-black/[0.08] rounded-xl p-3.5 bg-white"
-                  >
-                    <div className="w-14 h-14 rounded-lg bg-[#f2f3f6] flex items-center justify-center shrink-0 overflow-hidden">
-                      {u.img ? (
-                        // eslint-disable-next-line @next/next/no-img-element
-                        <img
-                          src={u.img}
-                          alt={`${entry.name} ${u.uniform}`}
-                          className="max-h-[52px] max-w-full object-contain"
-                        />
-                      ) : (
-                        <span
-                          aria-hidden
-                          className="w-5 h-5 rounded-full border border-black/15"
-                          style={{ background: u.color || "#dcdce2" }}
-                        />
-                      )}
-                    </div>
-                    <div className="min-w-0 flex-1">
-                      <p className="text-[14px] font-bold text-blue-dark m-0 truncate">{u.uniform}</p>
-                      <p className="text-[12px] text-black/50 m-0 mt-0.5">
-                        <strong className="text-black/70">{u.total}</strong>{" "}
-                        {u.total === 1 ? "game" : "games"} &middot; {u.home} home &middot; {u.road} road
-                      </p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </section>
+            <TeamUniformBreakdown teamName={entry.name} games={entry.games} />
 
             {/* Affiliate — high buyer intent: they're browsing this club's jerseys */}
             <section className="max-w-[860px] mx-auto px-5 pt-8">
@@ -325,13 +288,22 @@ export default async function TeamTrackerPage({
   );
 }
 
-function Stat({ label, value }: { label: string; value: number }) {
-  return (
-    <div>
+function Stat({ label, value, href }: { label: string; value: number; href?: string }) {
+  const body = (
+    <>
       <p className="text-white text-[30px] font-extrabold leading-none m-0">{value}</p>
       <p className="text-white/65 text-[11px] font-bold uppercase tracking-[0.14em] m-0 mt-1.5">
         {label}
       </p>
-    </div>
+    </>
+  );
+  if (!href) return <div>{body}</div>;
+  return (
+    <a
+      href={href}
+      className="block rounded-lg -m-1 p-1 hover:bg-white/10 transition-colors"
+    >
+      {body}
+    </a>
   );
 }

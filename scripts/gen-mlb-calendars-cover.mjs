@@ -19,7 +19,7 @@ const TILE_COLORS = [
 const COLS = 7, ROWS = 4, CELL = 96, GAP = 11;
 const gridW = COLS * CELL + (COLS - 1) * GAP;
 const gridX = W - gridW - 96;
-const gridY = 352;
+const gridY = 396;
 
 let cells = "";
 let filled = 0;
@@ -52,16 +52,64 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
 
-  <text x="96" y="352" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#2f6bed">MLB · ALL 30 TEAMS</text>
-  <text x="96" y="462" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Uniform</text>
-  <text x="96" y="552" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Calendars</text>
-  <rect x="96" y="598" width="150" height="5" fill="#2f6bed"/>
-  <text x="96" y="674" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="rgba(255,255,255,0.68)">Every jersey. Every team. Every day.</text>
-  <text x="96" y="752" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="3" fill="rgba(255,255,255,0.42)">HOME &amp; ROAD USAGE COUNTS</text>
+  <text x="176" y="396" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#2f6bed">ALL 30 TEAMS · 2026</text>
+  <text x="96" y="506" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Uniform</text>
+  <text x="96" y="596" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Calendars</text>
+  <rect x="96" y="642" width="150" height="5" fill="#2f6bed"/>
+  <text x="96" y="718" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="rgba(255,255,255,0.68)">Every jersey. Every team. Every day.</text>
+  <text x="96" y="796" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="3" fill="rgba(255,255,255,0.42)">HOME &amp; ROAD USAGE COUNTS</text>
 
   ${cells}
 </svg>`;
 
+// All 30 club marks in a strip across the top, so the cover says "every team"
+// before you read a word. Fetched from the ESPN CDN, same source the site
+// already uses for team logos elsewhere.
+const ABBRS = [
+  "ari", "atl", "bal", "bos", "chc", "chw", "cin", "cle", "col", "det",
+  "hou", "kc", "laa", "lad", "mia", "mil", "min", "nym", "nyy", "ath",
+  "phi", "pit", "sd", "sf", "sea", "stl", "tb", "tex", "tor", "wsh",
+];
+
+const dl = async (u) => {
+  const r = await fetch(u);
+  if (!r.ok) throw new Error(`${r.status} ${u}`);
+  return Buffer.from(await r.arrayBuffer());
+};
+
+const LOGO = 40, LOGO_GAP = 8, STRIP_Y = 96;
+const stripW = ABBRS.length * LOGO + (ABBRS.length - 1) * LOGO_GAP;
+const stripX = Math.round((W - stripW) / 2);
+
+const logoLayers = [];
+for (let i = 0; i < ABBRS.length; i++) {
+  try {
+    const buf = await sharp(await dl(`https://a.espncdn.com/i/teamlogos/mlb/500/${ABBRS[i]}.png`))
+      .resize({ height: LOGO, width: LOGO, fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+      .png()
+      .toBuffer();
+    logoLayers.push({ input: buf, top: STRIP_Y, left: stripX + i * (LOGO + LOGO_GAP) });
+  } catch (e) {
+    console.warn("  skipped logo", ABBRS[i], e.message);
+  }
+}
+console.log(`composited ${logoLayers.length}/${ABBRS.length} team logos`);
+
+// MLB mark anchoring the headline block.
+let mlbLayer = [];
+try {
+  const mlb = await sharp(resolve(root, "public/logos/mlb.png"))
+    .resize({ height: 62, fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .png()
+    .toBuffer();
+  mlbLayer = [{ input: mlb, top: 262, left: 96 }];
+} catch (e) {
+  console.warn("  skipped MLB mark:", e.message);
+}
+
 const out = resolve(root, "public/images/posts/mlb-daily-tracker/calendars-cover.jpg");
-await sharp(Buffer.from(svg)).jpeg({ quality: 88 }).toFile(out);
+await sharp(Buffer.from(svg))
+  .composite([...logoLayers, ...mlbLayer])
+  .jpeg({ quality: 88 })
+  .toFile(out);
 console.log("wrote", out);

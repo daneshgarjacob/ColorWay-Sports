@@ -25,7 +25,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, July 19
 
-Sunday in baseball means throwback and alternate jerseys, and this 16-game slate with a Dodgers-Yankees doubleheader delivered the goods: the Mariners debuted the black-and-cream Steelheads throwback in a walk-off win, the Tigers' brand-new navy alternate met the Angels' white throwback alternate in our Matchup of the Day, Paul Skenes pitched in the Pirates' black alternate right on schedule, and the White Sox and Blue Jays went full color-on-color. The Sunday slate grades out to 7.3 out of 10.
+Sunday in baseball means throwback and alternate jerseys, and this 16-game slate delivered the goods: the Mariners debuted the black-and-cream Steelheads throwback in a walk-off win, the Tigers' brand-new navy alternate met the Angels' white throwback alternate in our Matchup of the Day, Paul Skenes pitched in the Pirates' black alternate right on schedule, and the White Sox and Blue Jays went full color-on-color. The Sunday slate grades out to 7.3 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
@@ -173,40 +173,7 @@ After Saturday's yellow marathon party, Boston went back to the classic home whi
 
 Paul Skenes took the mound, and right on cue, the Pirates wore the black alternate jersey, not the City Connect, the standard black alternate. That is now a pattern this tracker has receipts for: when Skenes pitches, Pittsburgh dresses him in black. Against Cleveland's home whites the all-black road look reads sharp and a little menacing, which is exactly the vibe when the best pitcher in baseball is dealing.
 
-### Dodgers at Yankees (Game 1)
-
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0C2340 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/dodgers-blue-road.jpg" alt="Dodgers blue road jersey worn July 19 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #005A9C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Blue Road</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/yankees-home-white.jpg" alt="Yankees home white jersey worn July 19 2026 vs the Dodgers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">YANKEES</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-  </div>
-</div>
-
-<div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.5 / 10</p>
-</div>
-
-The marquee doubleheader in the Bronx opened with Los Angeles in the blue road jersey against the Yankee pinstripes. Dodger blue on white is one of the great color pairings in American sports, and the blue road is a rarer sight than the grays, so getting it in the opener of a Bronx doubleheader is the best-case draw for anyone watching this rivalry for the uniforms.
-
-### Dodgers at Yankees (Game 2)
+### Dodgers at Yankees
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -237,7 +204,7 @@ The marquee doubleheader in the Bronx opened with Los Angeles in the blue road j
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7 / 10</p>
 </div>
 
-For the nightcap the Dodgers went to the standard road gray, the one with "Dodgers" in script across the chest rather than the city name. It is the workhorse of their road set and the more traditional of the two grays, and after the blue in the opener it gave the doubleheader two genuinely different looks in the same ballpark on the same day.
+The Dodgers closed the Bronx series in the standard road gray, the one with "Dodgers" in script across the chest rather than the city name. It is the workhorse of their road set and the more traditional of the two grays, and after Saturday's blue it gave the weekend two genuinely different looks in the same ballpark.
 
 ### Mets at Phillies
 
@@ -581,6 +548,39 @@ Saturday flipped the wardrobe from Friday's City Connect night to a loaded alter
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2078557040213983511"></a></blockquote>
 
 Our pick from the Saturday slate: St. Louis in the Victory Blue alternate out in the desert against the Diamondbacks. The powder-toned jersey with the birds-on-the-bat chest is a top-five alternate uniform in baseball for us, a look that manages to feel both vintage and fresh, and it wears even better under the lights. Straight from the Cardinals' own feed, on the field and not on the rack.
+
+### Dodgers at Yankees
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0C2340 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/dodgers-blue-road.jpg" alt="Dodgers blue road jersey worn July 18 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #005A9C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Blue Road</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/yankees-home-white.jpg" alt="Yankees home white jersey worn July 18 2026 vs the Dodgers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">YANKEES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.5 / 10</p>
+</div>
+
+The marquee series in the Bronx got its best look on Saturday, with Los Angeles in the blue road jersey against the Yankee pinstripes. Dodger blue on white is one of the great color pairings in American sports, and the blue road is a rarer sight than the grays, so drawing it in the middle game of a Dodgers-Yankees weekend is the best-case outcome for anyone watching this rivalry for the uniforms.
 
 ### Mets at Phillies
 
