@@ -1,5 +1,6 @@
 ---
 title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
+homepageFeature: true
 category: MLB
 date: '2026-04-06'
 updatedDate: "2026-07-20"

@@ -10,7 +10,7 @@ kicker: World Cup Final
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
-homepageFeature: true
+homepageFeature: false
 ---
 
 **Spain are World Champions.** La Roja beat Argentina 1-0 in the 2026 World Cup Final on Sunday, July 19 at MetLife Stadium in East Rutherford, New Jersey, and they did it in the red home shirt. Both teams wore their home kits, and it delivered one of the cleanest kit matchups a final can offer, because the colors do not clash and each side got the shirt that made it. Here is exactly what both teams wore, as a quick list.

@@ -12,7 +12,7 @@ logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: []
 featuredOrder: 1
-homepageHero: true
+homepageHero: false
 ---
 
 <div style="margin: 0 0 1.5em;">

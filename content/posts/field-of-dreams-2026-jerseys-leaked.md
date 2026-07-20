@@ -1,5 +1,6 @@
 ---
 title: "Twins and Phillies 2026 Field of Dreams Uniforms Are Official: Full Look and Grades"
+homepageHero: true
 category: MLB
 date: "2026-07-11"
 updatedDate: "2026-07-20"
