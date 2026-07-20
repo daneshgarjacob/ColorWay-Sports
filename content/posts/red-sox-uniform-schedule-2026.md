@@ -86,6 +86,8 @@ The Boston Red Sox quietly retired one of their jerseys for 2026 — and the Cit
 
 The Red Sox carry five uniforms in 2026, and the lineup is the same five they settled into for 2025 after a major shake-up: the navy alternate was retired and the Fenway Green City Connect was added. The 2026 tweaks are cosmetic — a return to the cleaner 2023 jersey template, plus a re-spacing of the "RED SOX" lettering on the home whites after fans flagged the crowded original in spring. All of it debuted with the home opener on April 3 against San Diego.
 
+We ranked and graded [every Red Sox jersey for 2026](/stories/red-sox-jerseys-2026-ranked), and the two City Connects did not come out well.
+
 ## Home Whites (Most Home Games)
 
 The home white is Boston's bread and butter: a clean white jersey with red piping, "RED SOX" arched across the chest in red script outlined in blue, and red numbers on the back with no player names — a classic touch the Red Sox keep at home. It's worn for the bulk of the homestand, essentially every home game that isn't a Friday or a Saturday (those belong to the two City Connects). For 2026 the lettering was re-spaced after the original drew complaints for crowding the buttons, and the fix was ready for Opening Day. It's understated and timeless, exactly what a home flannel at Fenway should be.
@@ -101,6 +103,8 @@ On the road, Boston wears the standard gray set with "BOSTON" across the chest i
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
 </div>
+
+For what Boston has actually worn each day this season, the [Red Sox uniform calendar](/mlb-tracker/red-sox) lays out the whole year.
 
 ## Red Alternate (Friday Road Games)
 

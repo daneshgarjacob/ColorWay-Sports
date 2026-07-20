@@ -29,9 +29,13 @@ Before the tournament, each federation submits its kits to FIFA — at minimum a
 
 Once the draw is set, FIFA runs color-contrast checks across the fixtures and assigns each team a full kit — shirt, shorts, and socks — for each match, then circulates those designations in advance. This is why you will occasionally see a team in a combination that looks slightly off to you: a colored shirt with white shorts, or a change short pulled in to separate two sides whose shirts were fine but whose shorts were not. FIFA is not dressing teams to look good in isolation. It is dressing **two teams at once** so the pair reads cleanly from the broadcast truck, the VAR booth, and the back row of a 70,000-seat stadium.
 
+If you want the visual record rather than the rulebook, our [2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker) graded all 104 kit pairings of the tournament.
+
 ## The "home team" myth
 
 There is a designated "home" team in every match — it is the one listed first, and it is the reason one set of fans is treated as the host for ticketing and bench-side logistics. But at a neutral-site World Cup, that label is administrative, not a uniform guarantee. The designated home team does **not** automatically get its primary kit. A nation can be told to wear its alternate even when its primary jersey is the shirt the entire world knows it by, simply because the opponent's first-choice kit got there first in the contrast math. Being "home" on the team sheet and being in your home shirt are two different things at this tournament.
+
+The same logic drives why [goalkeepers wear different colors](/stories/why-goalkeepers-wear-different-colors-world-cup) from everyone else on the pitch, and why [national teams wear the colors they do](/stories/why-national-teams-wear-their-colors) in the first place.
 
 ## It is not just the shirt
 

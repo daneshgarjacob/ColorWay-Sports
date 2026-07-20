@@ -1,5 +1,6 @@
 ---
 title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Giannis Antetokounmpo to Miami, LaMelo Ball to Minnesota, Jaylen Brown to the Sixers)"
+resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"
 updatedDate: "2026-07-16"

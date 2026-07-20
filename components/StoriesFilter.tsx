@@ -72,7 +72,18 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
   return (
     <main className="max-w-[1200px] mx-auto px-5 py-12">
       <h1 className="text-3xl font-bold text-black mb-2">{heading}</h1>
-      <p className="text-gray-medium mb-8">{description}</p>
+      <p className="text-gray-medium mb-2">{description}</p>
+      {/* Any filtered view needs an obvious way back to everything — without this
+          a search leaves you stuck on "Search: ..." with no exit. */}
+      {(query || league || team) && (
+        <a
+          href="/stories"
+          className="inline-flex items-center gap-1.5 text-[13px] font-bold text-[#2f6bed] hover:underline mb-8"
+        >
+          &larr; Back to all stories
+        </a>
+      )}
+      {!(query || league || team) && <div className="mb-8" />}
 
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

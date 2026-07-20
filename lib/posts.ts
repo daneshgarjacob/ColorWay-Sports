@@ -61,6 +61,9 @@ export interface PostMeta {
   teams?: string[];
   featuredOrder?: number;
   homepageOrder?: number;
+  /** Opt-in: let updatedDate resurface this post in Latest. Trackers only —
+   *  routine refreshes (e.g. uniform-schedule posts) should NOT jump the feed. */
+  resurfaceOnUpdate?: boolean;
   homepageHero?: boolean;
   homepageFeature?: boolean;
   topViewsRank?: number;
@@ -180,6 +183,7 @@ export function getAllPosts(): PostMeta[] {
       teams: data.teams || [],
       featuredOrder: data.featuredOrder,
       homepageOrder: data.homepageOrder,
+      resurfaceOnUpdate: data.resurfaceOnUpdate,
       homepageHero: data.homepageHero,
       homepageFeature: data.homepageFeature,
       topViewsRank: data.topViewsRank,
@@ -197,8 +201,10 @@ export function getAllPosts(): PostMeta[] {
     if (a.homepageOrder && b.homepageOrder) return a.homepageOrder - b.homepageOrder;
     if (a.homepageOrder) return -1;
     if (b.homepageOrder) return 1;
-    const aEffective = a.updatedDate || a.date;
-    const bEffective = b.updatedDate || b.date;
+    // Only posts that opt in resurface on update — otherwise a routine refresh
+    // to 30 uniform-schedule posts would flood Latest Stories.
+    const aEffective = a.resurfaceOnUpdate ? a.updatedDate || a.date : a.date;
+    const bEffective = b.resurfaceOnUpdate ? b.updatedDate || b.date : b.date;
     return aEffective > bEffective ? -1 : 1;
   });
 }
@@ -206,8 +212,10 @@ export function getAllPosts(): PostMeta[] {
 export function getAllPostsByDate(): PostMeta[] {
   const posts = getAllPosts();
   return [...posts].sort((a, b) => {
-    const aEffective = a.updatedDate || a.date;
-    const bEffective = b.updatedDate || b.date;
+    // Only posts that opt in resurface on update — otherwise a routine refresh
+    // to 30 uniform-schedule posts would flood Latest Stories.
+    const aEffective = a.resurfaceOnUpdate ? a.updatedDate || a.date : a.date;
+    const bEffective = b.resurfaceOnUpdate ? b.updatedDate || b.date : b.date;
     return aEffective > bEffective ? -1 : 1;
   });
 }

@@ -5,8 +5,9 @@ date: "2026-07-20"
 updatedDate: "2026-07-20"
 excerpt: "All five Boston Red Sox jerseys and uniforms for 2026 ranked and graded, from the yellow City Connect at the bottom to the red alternate at number one."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 130%)"
-cardStyle: words
-kicker: "MLB · Boston Red Sox · Ranked and Graded"
+coverImage: "/images/posts/red-sox-jerseys-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/mlb.png"
 league: mlb
 teams:
@@ -17,14 +18,14 @@ The Boston Red Sox carry five jerseys in 2026, and the gap between the best and 
 
 Here is every Red Sox jersey for 2026, ranked worst to first and graded.
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2067311217589252309"></a></blockquote>
-
 ## 5. Fenway Green City Connect
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #0d5c3a, #0C2340); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">C-</div>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065621943991062566"></a></blockquote>
 
 The concept is genuinely great. Build a uniform around the Green Monster, the most famous wall in American sports, and you have a City Connect with a real reason to exist. Most City Connects reach for an abstraction. This one reaches for a physical object every Red Sox fan can picture instantly.
 
@@ -39,7 +40,7 @@ We would happily hang this jersey on a wall. We just do not think it belongs on 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">C</div>
 </div>
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2043400193098367008"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065935525651821033"></a></blockquote>
 
 The "Marathon" kit earns more goodwill than the green one, and it deserves it. The yellow and blue come straight from the Boston Marathon, the jersey honors a day the city owns, and the meaning behind it is real rather than manufactured. As a gesture, it is one of the better City Connect ideas in the league.
 
@@ -54,7 +55,7 @@ We like that they made it. We like it less every time they wear it, and that is 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065935525651821033"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
 
 Now we are in the good half of the closet, and the drop-off between fourth and third is a cliff. Boston's road gray is the classic version of a road gray: the arched red "BOSTON" wordmark across the chest, navy trim holding it together, and nothing else asking for attention.
 
@@ -69,7 +70,7 @@ It sits at three rather than higher only because the home white does the same jo
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2067311217589252309"></a></blockquote>
 
 The home white is the uniform the franchise is actually built around, and it has barely needed to change in decades. The red "Red Sox" script with the navy outline, the hanging socks logo on the sleeve, red and navy piping doing exactly as much as it needs to and no more.
 
@@ -84,7 +85,7 @@ It sits at second only because there is one Boston jersey with more personality,
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A+</div>
 </div>
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065621943991062566"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2043400193098367008"></a></blockquote>
 
 The best jersey the Red Sox own, and the only one in the closet that earns an A-plus. Boston in full red is loud in the way a team called the Red Sox should be loud, and it is the rare alternate that feels more like the franchise than the primary uniforms do.
 

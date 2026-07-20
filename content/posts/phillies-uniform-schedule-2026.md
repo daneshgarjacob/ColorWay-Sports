@@ -93,6 +93,8 @@ Here is how the Phillies uniform rotation breaks down for the 2026 season. All f
 
 Based on the current schedule, here is how many games the Phillies are expected to wear each uniform this season: Red Pinstripes (39 games), Cream (22 games), City Connect (10 games), Powder Blue (10 games), Road Gray (80 games), and one Field of Dreams game.
 
+For what the Phillies have actually worn so far this season, day by day, see the [Phillies uniform calendar](/mlb-tracker/phillies).
+
 ## Red Pinstripes (Home Nights)
 
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-pinstripes-pitcher.jpg" alt="Phillies pitcher wearing red pinstripe home jersey with IBX patch" style="width: 100%; border-radius: 10px;" />
@@ -136,6 +138,8 @@ The City Connect uniforms are worn on Friday night home games at Citizens Bank P
 The City Connect design features a midnight navy gradient with "Philly" in a gothic font inspired by the Constitution and other historical documents signed in Philadelphia. There are Liberty Bell cracks inside each letter. It is a creative concept. But we are not in love with these. The dark navy base makes them feel heavy, and the overall look does not pop the way the rest of the Phillies' closet does. The concept is solid on paper, but on the field they just do not hit the same as the powder blues or creams. Still, giving them their own designated night keeps the rotation clean and gives fans who do love them a guaranteed day to see them.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect jersey on Fanatics →</a>
+
+Philadelphia's biggest uniform moment of 2026 comes on the road: the [Field of Dreams throwback](/stories/field-of-dreams-2026-jerseys-leaked) they wear against the Twins in Iowa on August 13.
 
 ## Road Grays (Away Games)
 

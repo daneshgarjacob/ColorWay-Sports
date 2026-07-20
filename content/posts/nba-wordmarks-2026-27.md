@@ -82,6 +82,8 @@ The Minnesota Timberwolves 2026-27 wordmark goes back to the original 1989-1996 
   </blockquote>
 </div>
 
+For how these wordmarks translate onto the jerseys themselves, our [NBA traditional jersey index](/stories/nba-traditional-jersey-index-2026) tracks which teams still run a classic look and which have drifted, and the [interview with the Orlando Magic's Chief Marketing Officer](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand) covers who actually signs off on an NBA identity change.
+
 ## The Bottom Line on the New 2026-27 NBA Wordmarks
 
 Four NBA teams are getting refreshed jersey wordmarks for the 2026-27 season. The Atlanta Hawks, Brooklyn Nets, and Minnesota Timberwolves are all going throwback, which is the across-the-board NBA trend right now (the Knicks Classic Edition, the Lakers Classic Edition, the Spurs Fiesta era reboot, and now three more franchises leaning on their history). Throwback uniforms move merchandise, signal franchise confidence, and give the broadcast a visual identity that holds up against the current league-wide minimalist drift.

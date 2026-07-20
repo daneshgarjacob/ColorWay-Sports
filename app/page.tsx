@@ -1,7 +1,7 @@
 import Header from "@/components/Header";
-import ExclusiveBanner from "@/components/ExclusiveBanner";
 import HomepageTrackers from "@/components/HomepageTrackers";
 import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
+import MlbAlternatesWatch from "@/components/MlbAlternatesWatch";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import Footer from "@/components/Footer";
@@ -99,6 +99,8 @@ export default function Home() {
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
         <HomepageTrackers />
+        <MlbAlternatesWatch />
+        <TraditionalJerseyIndex />
 
         {/* Latest stories — 3 equal cards */}
         {lead.length > 0 && (
@@ -175,8 +177,6 @@ export default function Home() {
           </section>
         )}
 
-        <ExclusiveBanner />
-        <TraditionalJerseyIndex />
       </main>
       <Footer />
     </>

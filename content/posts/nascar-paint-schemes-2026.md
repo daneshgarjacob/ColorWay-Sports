@@ -1,5 +1,6 @@
 ---
 title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blaney's Pocono Throwback to Red Bull's Return"
+resurfaceOnUpdate: true
 category: "Motorsports"
 date: "2026-06-10"
 updatedDate: "2026-07-16"
