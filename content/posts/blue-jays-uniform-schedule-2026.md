@@ -2,7 +2,7 @@
 title: "Toronto Blue Jays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-20"
 excerpt: "The Toronto Blue Jays carry six uniforms in 2026 — home whites, road grays, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the 'Night Mode' City Connect. Here's every jersey, when they wear it, and why the blues do most of the work."
 gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
@@ -22,6 +22,13 @@ The Toronto Blue Jays run six uniforms in 2026, and unlike a rigidly scheduled t
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
+
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #134A8E 0%, #134A8Ecc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Blue Jays have actually worn this season, day by day.</p>
+  <a href="/mlb-tracker/blue-jays" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #134A8E; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Blue Jays uniform calendar →</a>
 </div>
 
 ## Sample Home-and-Road Week at a Glance

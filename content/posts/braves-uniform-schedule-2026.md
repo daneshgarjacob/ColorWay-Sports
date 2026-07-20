@@ -2,7 +2,7 @@
 title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-20"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, cream Sunday alternates, navy weeknight alts, and the City Connect on Friday nights. We break down the full Braves uniform schedule."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-city-connect-2026/braves-cc-cover.jpg"
@@ -24,6 +24,13 @@ The Atlanta Braves have one of the deeper uniform closets in the National League
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
+
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #CE1141 0%, #CE1141cc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Braves have actually worn this season, day by day.</p>
+  <a href="/mlb-tracker/braves" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #CE1141; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Braves uniform calendar →</a>
 </div>
 
 ## Sample Week at a Glance

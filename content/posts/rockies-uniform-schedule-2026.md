@@ -2,7 +2,7 @@
 title: "Colorado Rockies Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-20"
 excerpt: "The Colorado Rockies run four uniforms in 2026 — home white pinstripes, road grays, the purple alternate, and the day-to-night City Connect. Here's every jersey, when they wear it, and why the black vest still isn't back."
 gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"
@@ -22,6 +22,13 @@ The Colorado Rockies carry four uniforms in 2026, which makes their closet one o
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
+
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #333366 0%, #333366cc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Rockies have actually worn this season, day by day.</p>
+  <a href="/mlb-tracker/rockies" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #333366; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Rockies uniform calendar →</a>
 </div>
 
 ## Sample Home-and-Road Week at a Glance

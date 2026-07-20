@@ -2,7 +2,7 @@
 title: "Washington Nationals Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-20"
 excerpt: "The Washington Nationals run five uniforms in 2026 — the script 'Nationals' home white, the 'WASHINGTON' road gray, the red 'curly W' alternate, the navy alternate, and the denim-blue 'District Blueprint' City Connect that replaced the old Cherry Blossom kit. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
 coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
@@ -22,6 +22,13 @@ The Washington Nationals carry five uniforms in 2026, and unlike a rigidly sched
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
+
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #AB0003 0%, #AB0003cc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Nationals have actually worn this season, day by day.</p>
+  <a href="/mlb-tracker/nationals" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #AB0003; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Nationals uniform calendar →</a>
 </div>
 
 ## Sample Home-and-Road Week at a Glance

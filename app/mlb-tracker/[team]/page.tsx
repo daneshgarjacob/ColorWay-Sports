@@ -8,9 +8,13 @@ import {
   buildMlbTeamIndex,
   uniformUsage,
   gamesByMonth,
+  monthCalendar,
+  fanaticsJerseyHref,
   allTeamKeys,
   teamMetaByKey,
 } from "@/lib/mlbTrackerTeamIndex";
+
+const WEEKDAYS = ["S", "M", "T", "W", "T", "F", "S"];
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 
@@ -146,6 +150,52 @@ export default async function TeamTrackerPage({
               </div>
             </section>
 
+            {/* Affiliate — high buyer intent: they're browsing this club's jerseys */}
+            <section className="max-w-[860px] mx-auto px-5 pt-8">
+              <div className="border border-black/[0.08] rounded-xl bg-[#f5f7fa] p-4 flex items-center gap-3.5 flex-wrap">
+                <span
+                  aria-hidden
+                  className="w-11 h-11 rounded-[10px] bg-[#e8eefb] flex items-center justify-center shrink-0"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="22"
+                    height="22"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#2f6bed"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
+                    <path d="M3 6h18" />
+                    <path d="M16 10a4 4 0 0 1-8 0" />
+                  </svg>
+                </span>
+                <span className="flex-1 min-w-[160px]">
+                  <span className="block text-[15px] font-bold text-blue-dark leading-tight">
+                    Shop {entry.name} jerseys
+                  </span>
+                  <span className="block text-[13px] text-black/45 leading-tight mt-0.5">
+                    Authentic and replica, from Fanatics
+                  </span>
+                </span>
+                <a
+                  href={fanaticsJerseyHref(entry.name)}
+                  target="_blank"
+                  rel="sponsored noopener"
+                  data-fanatics-jersey-cta
+                  className="ml-auto bg-[#2f6bed] text-white text-[14px] font-bold px-[18px] py-2.5 rounded-lg whitespace-nowrap hover:opacity-90 transition-opacity"
+                >
+                  Shop now &rarr;
+                </a>
+              </div>
+              <p className="text-[12px] text-black/35 mt-2 mb-0 px-0.5">
+                ColorWay Sports may earn a commission on purchases, at no extra cost to you.
+              </p>
+            </section>
+
             {/* Visual calendar */}
             <section className="max-w-[860px] mx-auto px-5 pt-12">
               <h2 className="text-[13px] font-extrabold uppercase tracking-[0.18em] text-blue-dark mb-1">
@@ -155,64 +205,94 @@ export default async function TeamTrackerPage({
                 One tile per game. The jersey shown is what they wore that day.
               </p>
 
-              {months.map(({ month, games }) => (
-                <div key={month} className="mb-9">
-                  <h3 className="text-[15px] font-extrabold text-blue-dark m-0 mb-3">
-                    {month}
-                    <span className="ml-2 text-[11px] font-semibold text-black/35">
-                      {games.length} {games.length === 1 ? "game" : "games"}
-                    </span>
-                  </h3>
+              {months.map(({ month, games }) => {
+                const { weeks } = monthCalendar(month, games);
+                return (
+                  <div key={month} className="mb-10">
+                    <h3 className="text-[15px] font-extrabold text-blue-dark m-0 mb-3">
+                      {month}
+                      <span className="ml-2 text-[11px] font-semibold text-black/35">
+                        {games.length} {games.length === 1 ? "game" : "games"}
+                      </span>
+                    </h3>
 
-                  <div className="grid grid-cols-3 sm:grid-cols-5 lg:grid-cols-7 gap-2.5">
-                    {games.map((g, i) => (
-                      <Link
-                        key={`${g.id}-${i}`}
-                        href={`/stories/${TRACKER_SLUG}#${g.id}`}
-                        className="group border border-black/[0.08] rounded-xl overflow-hidden bg-white hover:border-black/25 hover:shadow-[0_2px_12px_rgba(10,23,51,0.10)] transition-all"
-                      >
-                        <div className="flex items-center justify-between px-2 pt-1.5">
-                          <span className="text-[10px] font-extrabold text-blue-dark">{g.date}</span>
-                          <span
-                            className={`text-[8px] font-extrabold uppercase tracking-wider px-1 py-px rounded ${
-                              g.home ? "bg-blue-dark text-white" : "bg-black/[0.07] text-black/50"
-                            }`}
+                    <div className="grid grid-cols-7 gap-1 sm:gap-1.5 mb-1.5">
+                      {WEEKDAYS.map((d, i) => (
+                        <div
+                          key={i}
+                          className="text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider text-black/30 text-center"
+                        >
+                          {d}
+                        </div>
+                      ))}
+                    </div>
+
+                    <div className="grid grid-cols-7 gap-1 sm:gap-1.5">
+                      {weeks.flat().map((cell, i) => {
+                        if (cell.kind === "blank") {
+                          return <div key={i} className="aspect-[3/4]" />;
+                        }
+                        if (cell.kind === "off") {
+                          return (
+                            <div
+                              key={i}
+                              className="aspect-[3/4] rounded-lg bg-black/[0.025] border border-black/[0.04] flex items-start justify-center pt-1"
+                            >
+                              <span className="text-[9px] sm:text-[10px] font-semibold text-black/20">
+                                {cell.date}
+                              </span>
+                            </div>
+                          );
+                        }
+                        const g = cell.games[0];
+                        const extra = cell.games.length - 1;
+                        return (
+                          <Link
+                            key={i}
+                            href={`/stories/${TRACKER_SLUG}#${g.id}`}
+                            title={`${g.day} — ${g.home ? "vs" : "at"} ${g.oppName}${g.uniform ? ` · ${g.uniform}` : ""}`}
+                            className="group aspect-[3/4] rounded-lg border border-black/[0.09] bg-white hover:border-black/30 hover:shadow-[0_2px_10px_rgba(10,23,51,0.10)] transition-all flex flex-col overflow-hidden"
                           >
-                            {g.home ? "H" : "A"}
-                          </span>
-                        </div>
-                        <div className="h-[74px] flex items-center justify-center px-1.5 py-1">
-                          {g.img ? (
-                            // eslint-disable-next-line @next/next/no-img-element
-                            <img
-                              src={g.img}
-                              alt={`${entry.name} ${g.uniform || "uniform"} worn ${g.day} ${g.opp}`}
-                              className="max-h-[68px] max-w-full object-contain"
-                              loading="lazy"
-                            />
-                          ) : (
-                            <span
-                              aria-hidden
-                              className="w-6 h-6 rounded-full border border-black/15"
-                              style={{ background: g.uniformColor || "#e6e6ec" }}
-                            />
-                          )}
-                        </div>
-                        <div className="px-2 pb-2">
-                          <p className="text-[9.5px] font-bold text-black/55 m-0 truncate leading-tight">
-                            {g.home ? "vs" : "at"} {g.oppName}
-                          </p>
-                          {g.uniform && (
-                            <p className="text-[9px] text-black/40 m-0 truncate leading-tight mt-0.5">
-                              {g.uniform}
+                            <div className="flex items-center justify-between px-1 pt-0.5 shrink-0">
+                              <span className="text-[9px] sm:text-[10px] font-extrabold text-blue-dark leading-none">
+                                {cell.date}
+                              </span>
+                              <span
+                                className={`text-[7px] sm:text-[8px] font-extrabold leading-none px-1 py-0.5 rounded ${
+                                  g.home ? "bg-blue-dark text-white" : "bg-black/[0.08] text-black/45"
+                                }`}
+                              >
+                                {g.home ? "H" : "A"}
+                              </span>
+                            </div>
+                            <div className="flex-1 flex items-center justify-center px-0.5 min-h-0">
+                              {g.img ? (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img
+                                  src={g.img}
+                                  alt={`${entry.name} ${g.uniform || "uniform"} worn ${g.day} ${g.opp}`}
+                                  className="max-h-full max-w-full object-contain"
+                                  loading="lazy"
+                                />
+                              ) : (
+                                <span
+                                  aria-hidden
+                                  className="w-5 h-5 rounded-full border border-black/15"
+                                  style={{ background: g.uniformColor || "#e6e6ec" }}
+                                />
+                              )}
+                            </div>
+                            <p className="text-[7.5px] sm:text-[8.5px] font-bold text-black/45 m-0 px-1 pb-1 truncate leading-tight shrink-0 text-center">
+                              {g.home ? "vs" : "at"} {g.oppName}
+                              {extra > 0 ? ` +${extra}` : ""}
                             </p>
-                          )}
-                        </div>
-                      </Link>
-                    ))}
+                          </Link>
+                        );
+                      })}
+                    </div>
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </section>
           </>
         )}

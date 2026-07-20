@@ -25,20 +25,20 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, July 19
 
-Sunday in baseball means throwback and alternate jerseys, and this 16-game slate with a Dodgers-Yankees doubleheader delivered the goods: the Mariners debuted the black-and-cream Steelheads throwback in a walk-off win, the Tigers' brand-new navy alternate met the Angels' cream City Connect in our Matchup of the Day, Paul Skenes pitched in the Pirates' black alternate right on schedule, and the White Sox and Blue Jays went full color-on-color. The Sunday slate grades out to 7.3 out of 10.
+Sunday in baseball means throwback and alternate jerseys, and this 16-game slate with a Dodgers-Yankees doubleheader delivered the goods: the Mariners debuted the black-and-cream Steelheads throwback in a walk-off win, the Tigers' brand-new navy alternate met the Angels' white throwback alternate in our Matchup of the Day, Paul Skenes pitched in the Pirates' black alternate right on schedule, and the White Sox and Blue Jays went full color-on-color. The Sunday slate grades out to 7.3 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
-  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #F0E2C6;">⚾ Jersey of the Day</span>
-  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Angels Cream City Connect</span>
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Angels White Throwback Alternate</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2078979343263674686"></a></blockquote>
 
-Our pick from the Sunday slate: the Angels in the cream City Connect, the warm off-white jersey with the red script and the halo floating over the A. It is the rare City Connect that leans classic instead of loud, and against Detroit's new navy alternate it anchored the best-dressed game of the day, straight from the Angels' own feed.
+Our pick from the Sunday slate: the Angels in the white throwback alternate, the retro jersey with the arched red "Angels" script, the halo floating over the A, and the California state patch on the sleeve. It is the best uniform in the Angels' closet and the one that most deserves regular work, and against Detroit's new navy alternate it anchored the best-dressed game of the day, straight from the Angels' own feed.
 
 ### Tigers at Angels
 
-<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #F0E2C6 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
   </div>
@@ -58,10 +58,10 @@ Our pick from the Sunday slate: the Angels in the cream City Connect, the warm o
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/angels-cream-cc.png" alt="Angels cream city connect jersey worn July 19 2026 vs the Tigers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/angels-white-alternate.jpg" alt="Angels white throwback alternate jersey worn July 19 2026 vs the Tigers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ANGELS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F0E2C6; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Cream City Connect</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>White Alternate</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
@@ -72,7 +72,7 @@ Our pick from the Sunday slate: the Angels in the cream City Connect, the warm o
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
-The Jersey Matchup of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey with the orange "Detroit" script across the chest, against the Angels' cream City Connect with the red script and the halo over the A. Deep navy on warm cream is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
+The Jersey Matchup of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey with the orange "Detroit" script across the chest, against the Angels' white throwback alternate with the arched red "Angels" script, the halo over the A, and the California sleeve patch. Deep navy against crisp retro white is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
 
 ### White Sox at Blue Jays
 

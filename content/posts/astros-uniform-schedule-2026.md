@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-06-29"
+updatedDate: "2026-07-20"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -22,6 +22,13 @@ The Houston Astros carry five uniforms in 2026, and while their rotation isn't a
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
+
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #EB6E1F 0%, #EB6E1Fcc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Astros have actually worn this season, day by day.</p>
+  <a href="/mlb-tracker/astros" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #EB6E1F; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Astros uniform calendar →</a>
 </div>
 
 ## Sample Home-and-Road Week at a Glance

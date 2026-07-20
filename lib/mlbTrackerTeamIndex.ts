@@ -223,6 +223,69 @@ export function gamesByMonth(entry: TeamIndexEntry): Array<{ month: string; game
     .map(([month, games]) => ({ month, games: [...games].sort((a, b) => a.date - b.date) }));
 }
 
+const MONTH_INDEX: Record<string, number> = {
+  January: 0, February: 1, March: 2, April: 3, May: 4, June: 5,
+  July: 6, August: 7, September: 8, October: 9, November: 10, December: 11,
+};
+
+export type CalendarCell =
+  | { kind: "blank" }
+  | { kind: "off"; date: number }
+  | { kind: "game"; date: number; games: TeamGame[] };
+
+/**
+ * A true month grid: leading blanks so the 1st lands on the right weekday, then
+ * every calendar day. Days without a logged game come back as "off" so the page
+ * can grey them out. Doubleheaders collapse into one cell holding both games.
+ */
+export function monthCalendar(
+  month: string,
+  games: TeamGame[],
+  year = 2026,
+): { weeks: CalendarCell[][] } {
+  const mIdx = MONTH_INDEX[month] ?? 0;
+  const daysInMonth = new Date(Date.UTC(year, mIdx + 1, 0)).getUTCDate();
+  const firstWeekday = new Date(Date.UTC(year, mIdx, 1)).getUTCDay(); // 0 = Sunday
+
+  const byDate = new Map<number, TeamGame[]>();
+  for (const g of games) {
+    const list = byDate.get(g.date) || [];
+    list.push(g);
+    byDate.set(g.date, list);
+  }
+
+  const cells: CalendarCell[] = [];
+  for (let i = 0; i < firstWeekday; i++) cells.push({ kind: "blank" });
+  for (let d = 1; d <= daysInMonth; d++) {
+    const dayGames = byDate.get(d);
+    cells.push(dayGames?.length ? { kind: "game", date: d, games: dayGames } : { kind: "off", date: d });
+  }
+  while (cells.length % 7 !== 0) cells.push({ kind: "blank" });
+
+  const weeks: CalendarCell[][] = [];
+  for (let i = 0; i < cells.length; i += 7) weeks.push(cells.slice(i, i + 7));
+  return { weeks };
+}
+
+/** Fanatics deep link for a club's jerseys (double-encoded per the affiliate format). */
+export function fanaticsJerseyHref(teamName: string): string {
+  const FULL: Record<string, string> = {
+    Yankees: "new york yankees", "Red Sox": "boston red sox", "Blue Jays": "toronto blue jays",
+    Rays: "tampa bay rays", Orioles: "baltimore orioles", Guardians: "cleveland guardians",
+    Twins: "minnesota twins", "White Sox": "chicago white sox", Tigers: "detroit tigers",
+    Royals: "kansas city royals", Astros: "houston astros", Mariners: "seattle mariners",
+    Rangers: "texas rangers", Angels: "los angeles angels", Athletics: "athletics",
+    Braves: "atlanta braves", Phillies: "philadelphia phillies", Mets: "new york mets",
+    Marlins: "miami marlins", Nationals: "washington nationals", Brewers: "milwaukee brewers",
+    Cubs: "chicago cubs", Cardinals: "st louis cardinals", Pirates: "pittsburgh pirates",
+    Reds: "cincinnati reds", Dodgers: "los angeles dodgers", Padres: "san diego padres",
+    Giants: "san francisco giants", Diamondbacks: "arizona diamondbacks", Rockies: "colorado rockies",
+  };
+  const query = `${FULL[teamName] || teamName.toLowerCase()} jersey`;
+  const target = `https://www.fanatics.com/search?query=${encodeURIComponent(query)}`;
+  return `https://fanatics.93n6tx.net/5kZn3j?u=${encodeURIComponent(target)}`;
+}
+
 /** Slugs for generateStaticParams — all 30 clubs. */
 export function allTeamKeys(): string[] {
   return TEAMS.map(([name]) => name.toLowerCase().replace(/\s+/g, "-"));
