@@ -48,6 +48,8 @@ Goalkeepers originally wore the same shirt as everyone else. In the game's early
 
 The modern neon era arrived with sportswear brands realizing the goalkeeper shirt was the one place on the pitch where anything goes. The rule that started as plain green practicality now produces some of the most experimental jerseys at every World Cup.
 
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
+
 ## Frequently Asked Questions
 
 **Why do goalkeepers wear different colors than their team?**

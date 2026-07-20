@@ -1,6 +1,5 @@
 import Header from "@/components/Header";
 import HomepageTrackers from "@/components/HomepageTrackers";
-import TraditionalJerseyIndex from "@/components/TraditionalJerseyIndex";
 import MlbAlternatesWatch from "@/components/MlbAlternatesWatch";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
@@ -100,7 +99,6 @@ export default function Home() {
         </h1>
         <HomepageTrackers />
         <MlbAlternatesWatch />
-        <TraditionalJerseyIndex />
 
         {/* Latest stories — 3 equal cards */}
         {lead.length > 0 && (

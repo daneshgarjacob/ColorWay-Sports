@@ -3472,6 +3472,8 @@ The 2026 FIFA World Cup is the biggest jersey and uniform tracker opportunity of
   <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsoccer-national-teams%2Fo-3690%2Bz-981768652-96597765%3Fvap%3D1" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #012169 0%, #C8102E 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(1,33,105,0.35);">Shop National Team Jerseys on Fanatics</a>
 </div>
 
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
+
 ## Frequently Asked Questions
 
 **What jersey is each team wearing in their World Cup match today?**

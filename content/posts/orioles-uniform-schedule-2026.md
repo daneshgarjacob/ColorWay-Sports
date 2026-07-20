@@ -92,6 +92,8 @@ The home white is the Orioles' default jersey at Camden Yards. It carries the "O
 
 There is nothing to fix here. The cartoon bird cap is one of the most beloved marks in the sport, and the clean white jersey with the orange-and-black script lets it shine. When the Orioles are not wearing something special, this is the look, and it never gets old.
 
+For what the Orioles have actually worn so far this season, day by day, see the [Orioles uniform calendar](/mlb-tracker/orioles).
+
 ## Road Gray (Away Games)
 
 On the road, the Orioles wear a gray uniform with "Baltimore" written in script across the chest. It is the standard travel jersey: clean, classic, and built to let the home team's colors be the star. The city name on the road and the team name at home is a traditional baseball touch, and Baltimore does it right.
@@ -137,6 +139,8 @@ Also new for 2026 is an alternate cap with a black crown, an orange bill, and an
 Most fans coming to a "uniform schedule" page expect a clean grid like the one the Phillies run, where every day of the week maps to a specific jersey. The Orioles simply do not work that way, and we would rather tell you that than make something up. Their one anchor is the Friday City Connect. Beyond that, it is home whites at home, road grays on the road, and the orange and black alternates mixed in whenever the team feels like it. The orange-on-orange throwback floats in a few times a year on its own schedule.
 
 There are upsides to a loose system. The alternates stay fresh because you cannot fully predict them, and the team keeps the flexibility to match a uniform to the moment. The trade-off is that you lose the "every Thursday" anticipation that makes the Phillies rotation so satisfying to follow. For now, if you are planning a trip to Camden Yards and you want a specific jersey, Friday is your safest bet for the new cream "BMORE" City Connect. Everything else is a pleasant surprise.
+
+Every jersey the Orioles wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

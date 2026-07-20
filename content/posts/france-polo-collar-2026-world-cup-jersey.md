@@ -50,6 +50,8 @@ Out of all 48 nations at the 2026 FIFA World Cup, only two are wearing a polo co
 
 Every other 2026 nation is wearing either a round crew-neck collar, a v-neck, or a modernized rib collar. Polo-collar treatments were common through the 1980s and 1990s — the 1998 France World Cup–winning shirt is the most famous example — but the modern kit-design trend has swung heavily toward crew-necks and rib collars for aerodynamic and merchandising reasons. Nike and Puma keeping the polo look on France and Uruguay in 2026 is the exception, not the rule.
 
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
+
 ## FAQ: France's 2026 World Cup Jersey Collar
 
 **Why does France have a collar on their 2026 World Cup jersey?**

@@ -90,6 +90,8 @@ The Blue Jays carry six uniforms in 2026, and the set itself is unchanged on the
 
 Here's the twist with Toronto: the alternate is really the default. The royal-blue jersey — a clean blue top with "Blue Jays" across the chest, white-and-navy trim, and the navy cap with the bird-and-leaf logo — was Toronto's most-worn uniform in 2025 by a wide margin, on the field for more than a third of the season and used freely at home and on the road. It's bright, it's modern, and it leans into the half of the team's name that everyone actually says. Most clubs treat a colored alternate as a once-a-week treat; the Blue Jays treat blue as the house style, which is exactly why it feels like home rather than a costume.
 
+For what the Blue Jays have actually worn so far this season, day by day, see the [Blue Jays uniform calendar](/mlb-tracker/blue-jays).
+
 ## Powder-Blue Alternate (The Fan Favorite)
 
 The powder blue is the one fans buy. Toronto's modern version, introduced before the 2020 season, is a soft sky-blue jersey with navy-white-navy serifed split lettering and numerals — a nod to the powder-blue road sets the club wore on and off since 1977 — paired with a navy cap. It was the second-most-worn uniform in 2025 and got a national spotlight during Toronto's run to the 2025 World Series, which only cemented its status. It's nostalgic without being a literal throwback, and it's comfortably the most beloved look the team owns. Between this and the royal blue, some shade of blue covers the large majority of the Blue Jays' calendar.
@@ -122,6 +124,8 @@ Let's be straight about it: the Blue Jays are not a scheduled-rotation team the 
 It still works, because the looks fans care about get plenty of air. The two blues are the jerseys Toronto sells the most of, so leaning into them keeps the brand loud and consistent rather than rationing the color. The whites and grays are happy to do the quieter work in between, and the red and the City Connect stay special precisely because they're rare.
 
 One more note, since fans often ask: the Blue Jays *do* carry a jersey advertising patch — the **TD Bank** mark they've worn on the left sleeve since 2023, which remains in place for 2026. It's joined on the right sleeve by the **50th season** commemorative patch across the set — and on the City Connect, that 50th mark moves up to the cap.
+
+Every jersey the Blue Jays wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

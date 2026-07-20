@@ -68,6 +68,8 @@ Stars are permanent. The gold FIFA World Champions badge is a loaner. Since 2008
 
 We covered every patch on the USMNT shirt, including why the United States does not wear any stars, in our [breakdown of the USMNT's 2026 jersey patches](/stories/usmnt-2026-world-cup-jersey-patches).
 
+The [USMNT crest](/stories/usmnt-crest-us-soccer-badge-explained) is a good example of a badge with no stars at all, and we cover [every patch on the 2026 USMNT shirt](/stories/usmnt-2026-world-cup-jersey-patches) separately.
+
 ## Do Women's Titles Count? Ask the USWNT
 
 Star math runs separately for men's and women's teams. The United States men's team wears zero stars because it has never won a World Cup. The United States women's team wears four, for the 1991, 1999, 2015, and 2019 Women's World Cups. Same federation, same crest, different star count depending on which team is wearing the shirt. Several other federations do the same, which is why a country's jersey can look "wrong" if you only follow one of its teams.
@@ -77,6 +79,8 @@ Star math runs separately for men's and women's teams. The United States men's t
 A few storied star counts are missing from this World Cup. Italy's four stars did not make it through qualifying. And plenty of 2026 contenders are playing for their first: the Netherlands has three lost finals and no star, Portugal and Belgium have never reached one, and hosts United States, Mexico, and Canada are all starless. Whoever breaks through would join the shortest list in sports, eight nations before this tournament with at least one star, and would get to sew it on before their next competitive match.
 
 For how each of these teams' shirts actually look and rank this summer, see our [ranking of every 2026 World Cup jersey](/stories/every-2026-world-cup-jersey-ranked) and our live [match-by-match jersey tracker](/stories/world-cup-2026-jersey-tracker).
+
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
 
 ## Frequently Asked Questions
 

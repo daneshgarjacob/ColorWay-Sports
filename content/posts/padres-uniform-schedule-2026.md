@@ -94,6 +94,8 @@ The home white with brown pinstripes is the everyday look at Petco Park. The "Pa
 
 This is the foundation of the whole rotation. The brown pinstripes on white read as classic without feeling dated, and the gold trim keeps the wordmark from disappearing. When people picture the modern Padres, this is the jersey and uniform they see first, and it earns that spot.
 
+For what the Padres have actually worn so far this season, day by day, see the [Padres uniform calendar](/mlb-tracker/padres).
+
 ## Brown Alternate (Home and Road)
 
 The brown alternate is the team's swing jersey. It shows up at home on some dates, usually Saturdays, and it travels well too. There is no fixed day attached to it, which is exactly why it works as an alternate rather than a scheduled look. The Padres pull it out when they want the full brown statement instead of the white pinstripe.
@@ -137,6 +139,8 @@ Here is the honest version of the Padres rotation. Two things are locked in: Cit
 Everything else is the team's call. The home white pinstripe is the default on other home dates, but Saturday in particular can flip to the brown alternate whenever the team wants. On the road, the brown and sand uniforms trade off with no day-of-week pattern at all. So while teams like the Phillies run a true seven-day system, the Padres run two firm anchors with discretion filling in the rest. That is not a knock, it just means the brown-versus-white guessing game on a random Tuesday is real.
 
 What is not in question is the identity. Brown and gold, sand on the road, camo for the military, and now a Día de los Muertos City Connect that actually says something. It is a deep, distinctive closet, and the two anchors give it just enough structure to feel like a plan.
+
+Every jersey the Padres wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

@@ -92,6 +92,8 @@ The home white uniform with the Atlanta script across the chest is the Braves' p
 
 The home whites are one of the most underrated primary uniforms in the National League. The script Atlanta wordmark sits in clean proportion across the chest, the tomahawk underline ties the look back to the franchise's full visual identity, and the red and navy palette reads strong on broadcast against the green outfield grass at Truist Park. Most weekday and Saturday home games in 2026 are the whites.
 
+For what the Braves have actually worn so far this season, day by day, see the [Braves uniform calendar](/mlb-tracker/braves).
+
 ## Road Grays (Most Road Games)
 
 The road gray uniform with the Atlanta script across the chest is the away look for 2026. Same script Atlanta wordmark in navy with the red tomahawk underline, same red player numbers, gray base instead of white. The road grays mirror the home whites in lettering and trim, just with the city name color story translated onto the gray fabric. Cap is the all-navy road version with the script a logo. Every road game in 2026 stays in the grays unless an event or holiday tribute overrides the call.
@@ -120,6 +122,8 @@ The Friday night slot keeps the City Connect predictable. Fans who want the alte
 The Braves found a balance most MLB teams cannot pull off. The home whites and road grays still carry the majority of the calendar so the franchise's primary identity stays in front of the broadcast every night. The City Connect gets a fixed Friday night slot, the cream gets every home Sunday, and the navy gets the weeknight rotation. Every alternate has its lane. None of them step on the others.
 
 The result is a closet that gives fans a new look on most days of a homestand without losing the visual through-line that ties every Braves uniform back to the Atlanta script and the red and navy palette. The Phillies and Marlins are the only other teams in baseball running a true scheduled rotation, and the Braves are right behind them. More teams should treat their uniform schedule the way Atlanta does.
+
+Every jersey the Braves wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

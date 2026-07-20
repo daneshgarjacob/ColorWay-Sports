@@ -49,6 +49,8 @@ The USMNT is a Nike team, so the maker's mark on the chest is the swoosh, sittin
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USMNT/status/2065237653579075818"></a></blockquote>
 </div>
 
+For the crest itself rather than the patches around it, see [what the US Soccer badge actually means](/stories/usmnt-crest-us-soccer-badge-explained).
+
 ## Why World Cup Jerseys Carry These Badges
 
 The layout is not random. World Cup kit rules give every shirt the same architecture: the team crest on one side of the chest, the kit maker's mark on the other, and the official competition badge on the sleeve, with player name and number on the back. It is why every team at the tournament looks like part of the same event even though all 48 shirts are different — the badges are the shared grammar. The USMNT's white "Set in Stripes" home kit follows that grammar exactly, which is what made its SoFi debut read instantly as a World Cup jersey and not just another national-team shirt.
@@ -58,6 +60,8 @@ The layout is not random. World Cup kit rules give every shirt the same architec
 </div>
 
 We graded the USMNT's white home kit against Paraguay's navy storm away an 8 out of 10 — the cleanest pairing of the tournament so far — in our running [2026 FIFA World Cup Jersey &amp; Uniform Tracker](/stories/world-cup-2026-jersey-tracker), where every match kit matchup gets a grade.
+
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
 
 ## Frequently Asked Questions
 

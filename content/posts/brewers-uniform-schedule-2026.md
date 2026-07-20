@@ -90,6 +90,8 @@ The Brewers carry five uniforms in 2026, and the headline change is at the botto
 
 The cream home is the Brewers' signature look and the one most fans picture: a warm off-white jersey with "Brewers" arched across the chest in navy block lettering trimmed in gold, navy and gold piping, and the navy cap carrying the modernized ball-in-glove logo. The cream — rather than a bright white — gives it a throwback warmth that pairs perfectly with the retro logo. It's the default for the bulk of every homestand, splitting time with the white pinstripe set on the days that aren't claimed by the Friday City Connect. It's clean, classic, and unmistakably Milwaukee.
 
+For what the Brewers have actually worn so far this season, day by day, see the [Brewers uniform calendar](/mlb-tracker/brewers).
+
 ## White Pinstripe Home Alternate (Home Games)
 
 The white pinstripe is the cream home's running mate at American Family Field. It shares the same styling — "Brewers" across the chest in navy and gold, the ball-in-glove crest — but on a crisp white base laced with navy pinstripes. There's no fixed rule splitting it from the cream; the two simply rotate through the homestand by feel, and the pinstripes give the home schedule a second, slightly sharper look without changing the team's color story. It's the quiet workhorse of the home closet.
@@ -120,6 +122,8 @@ Gone. The Brewers retired the traditional gray road uniform ahead of 2026 and re
 Let's be straight about it: the Brewers are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Milwaukee really only has two soft anchors — **the navy ball-in-glove alternate on Sundays and the "Wisco" City Connect on Friday home games**. Everything else is feel and matchup: the cream home and white pinstripe trade off through the homestand with no fixed day attached, and the powder blue road handles most away games, with the navy alternate riding along for road Sundays. One constant across the closet: since 2023 the Brewers have worn a **Northwestern Mutual** advertising patch on the sleeve, and the new powder blue road carries its own powder-blue-and-gold version alongside a Wisconsin state-outline patch on the opposite sleeve.
 
 It still works, because the anchors cover the jerseys fans actually plan around. The ball-in-glove is the heart of the brand and the City Connect is the one people buy tickets and merch to see, so handing each a standing slot builds anticipation even without a rigid system. The cream and the pinstripes are perfectly content to handle the quiet day-to-day work in between.
+
+Every jersey the Brewers wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

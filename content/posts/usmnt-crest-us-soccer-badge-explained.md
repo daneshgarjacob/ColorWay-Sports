@@ -61,6 +61,8 @@ The crest is only one piece of the shirt's front. At this World Cup the USMNT je
 
 As for how those shirts have looked in actual matches, the USMNT's red-and-white striped home landed one of the best grades of the knockout rounds in our live [2026 World Cup jersey tracker](/stories/world-cup-2026-jersey-tracker), where we grade every kit matchup of all 104 games.
 
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
+
 ## Frequently Asked Questions
 
 **What's the history behind the USMNT badge?**

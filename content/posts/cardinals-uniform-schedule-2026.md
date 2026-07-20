@@ -94,6 +94,8 @@ The home white is the foundation of the entire rotation. It carries the famous b
 
 There is nothing to fix here, and that is the point. This is one of the most recognizable uniforms in all of sports, and the two cardinals perched on the yellow bat have been a constant for generations. It is the look people picture when they think of St. Louis baseball, and it anchors everything else the team puts on.
 
+For what the Cardinals have actually worn so far this season, day by day, see the [Cardinals uniform calendar](/mlb-tracker/cardinals).
+
 ## Road Gray (Most Road Games)
 
 The road gray is exactly what you would expect: clean, classic, and built to let the home team be the star. It swaps the chest wordmark for a "St. Louis" script and travels for nearly every road game that is not a Saturday. Like the home white, it carries the navy cap and the Stifel patch.
@@ -129,6 +131,8 @@ Most MLB teams have no real pattern to their uniform choices. They throw on an a
 When you know that Friday at home means "The Lou," Saturday at home means the cream, and Saturday on the road means the powder blue, it builds anticipation. Fans can plan around it. Season ticket holders know exactly what they are getting. And each jersey keeps its own identity instead of blurring into the next.
 
 The Cardinals have five uniforms that all serve a purpose. The home white is the classic. The road gray is the workhorse. The cream is the vintage Saturday look at home. The powder blue is the Saturday throwback on the road. And "The Lou" is the Friday-night statement. Every jersey has its lane, and none of them step on each other. More teams should take notes.
+
+Every jersey the Cardinals wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

@@ -277,6 +277,8 @@ Design is subjective, so treat this as the opening argument rather than the last
 
 The arc is unmistakable: World Cup design went from commissioned posters, to host-by-host experiments, to one clean global mark in 1970, to a vibrant, culturally specific golden age across 2010–2022 — and now, with 2026, into a locked template that will repeat for decades. The emblems that age best are the ones unmistakably about *their* host rather than a formula: Brazil's interlocking hands, South Africa's leaping figure, the bold marks of Russia and Qatar, and the timeless simplicity of Mexico 1970. The 2026 mark is clean and handsome, but it is also the last bespoke-feeling cover before the template takes over — which may make this the final ranking like it we ever get to write.
 
+Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).
+
 ## Frequently Asked Questions
 
 **What was the first official World Cup logo?**

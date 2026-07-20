@@ -94,6 +94,8 @@ The home white is Houston's foundation: a clean white jersey with orange and nav
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2069470106288058857"></a></blockquote>
 </div>
 
+For what the Astros have actually worn so far this season, day by day, see the [Astros uniform calendar](/mlb-tracker/astros).
+
 ## Road Grays (Most Away Games)
 
 On the road, the Astros wear the standard gray set with "HOUSTON" across the chest rather than the team name — the city, not the club, the way most road sets are built — in navy lettering with orange trim, names on the back, and the navy cap with the orange brim that's reserved for the road. It's the workmanlike default for most away games, the look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
@@ -137,6 +139,8 @@ Be honest about it: Houston's system is looser than the truly scheduled teams. T
 It still works, because the anchor is the part fans care about. The City Connect is the jersey people buy tickets and merch to see, and giving it a standing Monday slot builds anticipation even without a rigid system everywhere else. The whites and grays are happy to do the quiet work in between, and the orange and navy alternates keep the week from ever feeling monochrome.
 
 One more constant: the entire rotation runs on the navy, orange, and white identity Houston adopted in its 2013 rebrand, when the franchise returned to its traditional colors and the "H-star" logo. More than a decade later, it's one of the most cohesive brand packages in baseball — every jersey in the closet, City Connect included, reads instantly as the Astros.
+
+Every jersey the Astros wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

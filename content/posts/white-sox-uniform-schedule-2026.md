@@ -90,6 +90,8 @@ The White Sox carry five uniforms in 2026 under MLB's "4+1" rule — one home, o
 
 The home white is the look most fans picture: a clean white jersey laced with black pinstripes, "Sox" arched across the chest in the team's custom Old English Gothic script in black with silver trim, worn with the black "SOX" cap. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the black alternate or a City Connect promotion. This design has been in place since the 1991 rebrand that swapped the franchise's old red and blue for the monochrome black-and-silver palette, and it is the longest-running uniform in White Sox history. It is understated, instantly recognizable, and the team is smart to leave it almost entirely alone.
 
+For what the White Sox have actually worn so far this season, day by day, see the [White Sox uniform calendar](/mlb-tracker/white-sox).
+
 ## Road Grays (Most Away Games)
 
 On the road, the White Sox wear the standard gray set with "CHICAGO" arched across the chest in the same Gothic lettering as the home jersey — black trimmed in silver — with the black cap. It's the workmanlike default for most away games, the quiet road look that lets the home team's colors be the star. For 2026 the sleeve carries the new CME Group patch in a blue-on-gray treatment, the one cosmetic tweak to an otherwise timeless gray. Nothing flashy, and it doesn't need to be.
@@ -118,6 +120,8 @@ Let's be straight about it: the White Sox are not a scheduled-rotation team the 
 It still works, because the staples carry the load and the City Connect is the part fans care about most. The home whites and the black alternate are the looks people already know they're getting, while the red Bulls collaboration is the jersey that moves merch and sells the night. Tying the splashiest kit to specific events builds anticipation even without a fixed schedule. The pinstripes and grays are perfectly content to handle the quiet work in between.
 
 One more constant across all five: for the first time in franchise history, every White Sox jersey carries a sleeve advertising patch in 2026 — the **CME Group** logo, recolored to match whichever uniform it sits on. The deal was announced in late January 2026, and the team framed it as a partnership with a fellow Chicago institution rather than a flashy branding grab.
+
+Every jersey the White Sox wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
 
 ## Frequently Asked Questions
 

@@ -4,8 +4,9 @@ import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 
-// Homepage strip: how much of the league went off-primary on the latest logged
-// day. Built from the daily tracker, so it refreshes itself every morning.
+// Homepage strip for the MLB jersey tracker: the latest logged day's numbers
+// with a route straight into the tracker. Parsed from the tracker post itself,
+// so it refreshes every morning with no extra work.
 export default async function MlbAlternatesWatch() {
   const post = await getPostBySlug(TRACKER_SLUG);
   if (!post) return null;
@@ -29,10 +30,10 @@ export default async function MlbAlternatesWatch() {
                 color: "#2f6bed",
               }}
             >
-              ● Alternates Watch
+              ● Updated Daily
             </span>
             <h2 className="text-2xl font-bold" style={{ color: "#1a1a1a" }}>
-              How Much of MLB Went Off-Primary
+              MLB Jersey Tracker
             </h2>
           </div>
           <Link
@@ -48,7 +49,7 @@ export default async function MlbAlternatesWatch() {
             }}
             className="hover:text-orange transition-colors shrink-0"
           >
-            See every jersey →
+            See Every Jersey →
           </Link>
         </div>
 
@@ -59,13 +60,13 @@ export default async function MlbAlternatesWatch() {
                 {data.alternates}
               </p>
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Alternates worn
+                Alternates
               </p>
             </div>
             <div>
               <p className="text-[38px] font-extrabold leading-none m-0 text-blue-dark">{pct}%</p>
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Of all uniforms
+                Of jerseys worn
               </p>
             </div>
             <div>
@@ -73,7 +74,7 @@ export default async function MlbAlternatesWatch() {
                 {data.games}
               </p>
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Games logged
+                Games
               </p>
             </div>
           </div>
