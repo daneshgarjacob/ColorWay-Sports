@@ -9,6 +9,11 @@ export type TeamGame = {
   opp: string; // "at Yankees" / "vs Giants" (+ " · G1" for doubleheaders)
   uniform?: string; // "Road Gray" — omitted if the card markup didn't parse
   uniformColor?: string; // swatch hex lifted from the game card's own dot
+  img?: string; // jersey shot from the game card, for the calendar thumbnails
+  home: boolean; // drives the home/road splits on the team page
+  month: string; // "July" — calendar grouping
+  date: number; // 19
+  oppName: string; // "Angels" (no at/vs prefix)
 };
 
 export type TeamIndexEntry = {
@@ -64,6 +69,12 @@ function shortDay(dayHeading: string): string {
   // "Friday, July 17" -> "Jul 17"
   const m = dayHeading.match(/^[A-Z][a-z]+, ([A-Z][a-z]+) (\d+)/);
   return m ? `${MONTH_ABBR[m[1]] || m[1]} ${m[2]}` : dayHeading;
+}
+
+function parseDayParts(dayHeading: string): { month: string; date: number } {
+  // "Friday, July 17" -> { month: "July", date: 17 }
+  const m = dayHeading.match(/^[A-Z][a-z]+, ([A-Z][a-z]+) (\d+)/);
+  return m ? { month: m[1], date: Number(m[2]) } : { month: "", date: 0 };
 }
 
 function shortSuffix(paren: string): string {
@@ -128,7 +139,10 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
     const uniLabels = [...slice.matchAll(/background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g)].map(
       (u) => ({ color: u[1].trim(), label: u[2].trim() }),
     );
+    // Jersey shots appear in the same away-then-home order as the labels.
+    const imgs = [...slice.matchAll(/<img[^>]+src="(\/images\/posts\/mlb-daily-tracker\/[^"]+)"/g)].map((m2) => m2[1]);
     const dayShort = shortDay(slot.day);
+    const { month, date } = parseDayParts(slot.day);
     const sfx = suffix ? ` · ${suffix}` : "";
 
     if (away) {
@@ -138,6 +152,11 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
         opp: `at ${homeName}${sfx}`,
         uniform: uniLabels.length === 2 ? uniLabels[0].label : undefined,
         uniformColor: uniLabels.length === 2 ? uniLabels[0].color : undefined,
+        img: imgs.length === 2 ? imgs[0] : undefined,
+        home: false,
+        month,
+        date,
+        oppName: homeName,
       });
     }
     if (home) {
@@ -147,10 +166,71 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
         opp: `vs ${awayName}${sfx}`,
         uniform: uniLabels.length === 2 ? uniLabels[1].label : undefined,
         uniformColor: uniLabels.length === 2 ? uniLabels[1].color : undefined,
+        img: imgs.length === 2 ? imgs[1] : undefined,
+        home: true,
+        month,
+        date,
+        oppName: awayName,
       });
     }
   }
 
   // Keep division order stable (as declared), teams alphabetical within division.
   return [...byName.values()];
+}
+
+// ---- per-team page helpers -------------------------------------------------
+
+export type UniformUsage = {
+  uniform: string;
+  color?: string;
+  img?: string;
+  total: number;
+  home: number;
+  road: number;
+};
+
+/** Every uniform a club has worn, most-worn first, split home vs road. */
+export function uniformUsage(entry: TeamIndexEntry): UniformUsage[] {
+  const byUniform = new Map<string, UniformUsage>();
+  for (const g of entry.games) {
+    if (!g.uniform) continue;
+    let u = byUniform.get(g.uniform);
+    if (!u) {
+      u = { uniform: g.uniform, color: g.uniformColor, img: g.img, total: 0, home: 0, road: 0 };
+      byUniform.set(g.uniform, u);
+    }
+    u.total += 1;
+    if (g.home) u.home += 1;
+    else u.road += 1;
+    if (!u.img && g.img) u.img = g.img;
+  }
+  return [...byUniform.values()].sort((a, b) => b.total - a.total || a.uniform.localeCompare(b.uniform));
+}
+
+/** Games bucketed by calendar month, oldest month first, days ascending. */
+export function gamesByMonth(entry: TeamIndexEntry): Array<{ month: string; games: TeamGame[] }> {
+  const order = Object.keys(MONTH_ABBR);
+  const byMonth = new Map<string, TeamGame[]>();
+  for (const g of entry.games) {
+    if (!g.month) continue;
+    const list = byMonth.get(g.month) || [];
+    list.push(g);
+    byMonth.set(g.month, list);
+  }
+  return [...byMonth.entries()]
+    .sort((a, b) => order.indexOf(a[0]) - order.indexOf(b[0]))
+    .map(([month, games]) => ({ month, games: [...games].sort((a, b) => a.date - b.date) }));
+}
+
+/** Slugs for generateStaticParams — all 30 clubs. */
+export function allTeamKeys(): string[] {
+  return TEAMS.map(([name]) => name.toLowerCase().replace(/\s+/g, "-"));
+}
+
+export function teamMetaByKey(key: string) {
+  const found = TEAMS.find(([name]) => name.toLowerCase().replace(/\s+/g, "-") === key);
+  if (!found) return null;
+  const [name, division, color, slug] = found;
+  return { key, name, division, color, scheduleHref: `/stories/${slug}` };
 }

@@ -84,12 +84,23 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                 </span>
               </p>
               <Link
-                href={active.scheduleHref}
+                href={`/mlb-tracker/${active.key}`}
                 className="text-[11px] font-bold text-[#2f6bed] hover:underline whitespace-nowrap"
               >
-                Full 2026 uniform schedule &rarr;
+                Calendar &amp; usage &rarr;
               </Link>
             </div>
+            <Link
+              href={`/mlb-tracker/${active.key}`}
+              className="flex items-center justify-between gap-3 mb-3 px-3.5 py-2.5 rounded-xl border border-black/[0.08] bg-[#fafbfc] hover:border-black/25 transition-colors group"
+            >
+              <span className="text-[12px] font-semibold text-blue-dark">
+                See every {active.name} jersey on a visual calendar
+              </span>
+              <span className="text-[11px] font-bold text-[#2f6bed] whitespace-nowrap group-hover:underline">
+                Open &rarr;
+              </span>
+            </Link>
             <ul className="m-0 p-0 list-none divide-y divide-black/[0.05]">
               {active.games.map((g, i) => (
                 <li key={`${g.id}-${i}`}>

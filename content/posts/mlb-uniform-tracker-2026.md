@@ -49,7 +49,7 @@ Our pick from the Sunday slate: the Angels in the cream City Connect, the warm o
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/tigers-navy-alternate.png" alt="Tigers navy alternate jersey worn July 19 2026 at the Angels, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/tigers-navy-script-alternate.jpg" alt="Tigers navy alternate jersey with orange Detroit script worn July 19 2026 at the Angels, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">TIGERS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2340; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
@@ -72,7 +72,7 @@ Our pick from the Sunday slate: the Angels in the cream City Connect, the warm o
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
-The Jersey Matchup of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey the Tigers just added to the wardrobe this season, against the Angels' cream City Connect with the red script and the halo over the A. Deep navy on warm cream is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
+The Jersey Matchup of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey with the orange "Detroit" script across the chest, against the Angels' cream City Connect with the red script and the halo over the A. Deep navy on warm cream is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
 
 ### White Sox at Blue Jays
 
