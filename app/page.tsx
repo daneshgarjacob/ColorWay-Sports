@@ -98,9 +98,7 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        <ExclusiveBanner />
         <HomepageTrackers />
-        <TraditionalJerseyIndex />
 
         {/* Latest stories — 3 equal cards */}
         {lead.length > 0 && (
@@ -176,6 +174,9 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        <ExclusiveBanner />
+        <TraditionalJerseyIndex />
       </main>
       <Footer />
     </>
