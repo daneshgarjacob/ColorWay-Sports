@@ -182,10 +182,10 @@ Paul Skenes took the mound, and right on cue, the Pirates wore the black alterna
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/dodgers-alt-road-gray.png" alt="Dodgers road gray jersey worn July 19 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/dodgers-blue-road.jpg" alt="Dodgers blue road jersey worn July 19 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #005A9C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Blue Road</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
@@ -204,7 +204,7 @@ Paul Skenes took the mound, and right on cue, the Pirates wore the black alterna
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.5 / 10</p>
 </div>
 
-The marquee doubleheader in the Bronx opened with Los Angeles in the road grays against the Yankee pinstripes. It is the most traditional look a Dodgers-Yankees game can produce, gray script on white pinstripes with no alternate colors anywhere in the frame, and there is a case that this understated version of the rivalry is the one that ages best.
+The marquee doubleheader in the Bronx opened with Los Angeles in the blue road jersey against the Yankee pinstripes. Dodger blue on white is one of the great color pairings in American sports, and the blue road is a rarer sight than the grays, so getting it in the opener of a Bronx doubleheader is the best-case draw for anyone watching this rivalry for the uniforms.
 
 ### Dodgers at Yankees (Game 2)
 
@@ -215,7 +215,7 @@ The marquee doubleheader in the Bronx opened with Los Angeles in the road grays 
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/dodgers-alt-road-gray.png" alt="Dodgers alternate road gray jersey worn July 19 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/dodgers-road-gray.png" alt="Dodgers road gray jersey worn July 19 2026 at the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
@@ -237,7 +237,7 @@ The marquee doubleheader in the Bronx opened with Los Angeles in the road grays 
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7 / 10</p>
 </div>
 
-Los Angeles stayed in the road grays for the nightcap, so the doubleheader ran gray-on-pinstripes from start to finish. There is no drama in it, but there is not supposed to be: this is the uniform pairing the rivalry has used for most of its history, and two games of it in one day is about as classic as a 2026 slate gets.
+For the nightcap the Dodgers went to the standard road gray, the one with "Dodgers" in script across the chest rather than the city name. It is the workhorse of their road set and the more traditional of the two grays, and after the blue in the opener it gave the doubleheader two genuinely different looks in the same ballpark on the same day.
 
 ### Mets at Phillies
 
