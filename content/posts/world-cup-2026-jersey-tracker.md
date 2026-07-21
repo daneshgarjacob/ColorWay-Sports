@@ -21,6 +21,13 @@ homepageHero: false
 
 The 2026 FIFA World Cup is the first 48-team World Cup in tournament history, co-hosted by the United States, Canada, and Mexico across 16 host cities, with 104 matches across 39 days from June 11 through the Final on July 19, 2026. This is the running ColorWay Sports tracker grading every match kit and uniform pairing across the entire tournament. Every match gets a grade, every kit matchup gets analyzed, every Adidas, Nike, Puma, and other-brand reveal gets tracked. Now complete: every match from kickoff in Group A through Spain beating Argentina 1-0 in the Final to become World Champions.
 
+<div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: linear-gradient(135deg, #002D72 0%, #101528 60%, #E81828 130%); border-radius: 16px;">
+  <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #9fb6e8; margin-bottom: 6px;">The Tournament Is Over. This One Runs Every Day.</span>
+  <span style="display: block; font-size: 1.22em; font-weight: 900; color: #ffffff; line-height: 1.35; margin-bottom: 8px;">If you liked grading kit matchups, we do it for all 30 MLB teams every single night.</span>
+  <span style="display: block; font-size: 0.95em; line-height: 1.55; color: #dbe4f5; margin-bottom: 12px;">Our <a href="/stories/mlb-uniform-tracker-2026" style="color: #ffffff; text-decoration: underline;">MLB daily uniform tracker</a> logs what every club actually wore in every game, with a grade on each pairing, updated every morning through October. Browse it by team, or check the <a href="/stories/mlb-uniform-schedule-2026" style="color: #ffffff; text-decoration: underline;">2026 MLB uniform schedule guide</a> to call tonight's jersey before first pitch.</span>
+  <a href="/stories/mlb-uniform-tracker-2026" style="display: inline-block; padding: 9px 20px; background: #ffffff; color: #002D72; border-radius: 999px; font-size: 0.85em; font-weight: 800; text-decoration: none; letter-spacing: 0.04em;">Open the MLB daily tracker →</a>
+</div>
+
 <a href="/world-cup-rooting-guide" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #003087 0%, #2f6bed 100%); border-radius: 16px; text-decoration: none;">
   <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #bcd0f5; margin-bottom: 6px;">Interactive Tool</span>
   <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">Fill out your World Cup bracket →</span>

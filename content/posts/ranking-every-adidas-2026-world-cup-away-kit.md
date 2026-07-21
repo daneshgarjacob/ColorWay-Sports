@@ -22,6 +22,12 @@ Here's our ranking from worst to best.
 
 **Want to grab one?** Shop the full Adidas 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+away+jersey&tag=colorwaysport-20) or at [adidas.com](https://www.adidas.com).
 
+
+<div style="margin: 1.6em 0; padding: 1.3em 1.6em; background: linear-gradient(135deg, #002D72 0%, #101528 60%, #E81828 130%); border-radius: 14px;">
+  <span style="display: block; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #9fb6e8; margin-bottom: 5px;">We Grade Kits Every Day</span>
+  <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #ffffff;">The World Cup is over, but the grading is not. Our <a href="/stories/mlb-uniform-tracker-2026" style="color: #ffffff; text-decoration: underline;">MLB daily uniform tracker</a> logs what all 30 clubs wore in every game with a grade on each pairing, updated every morning, and the <a href="/stories/mlb-uniform-schedule-2026" style="color: #ffffff; text-decoration: underline;">2026 MLB uniform schedule guide</a> maps what each team wears and when.</span>
+</div>
+
 ## 25. Qatar: F
 
 ![Qatar Away Kit](/images/posts/adidas-world-cup-away-kits/qatar-front.jpg)
@@ -31,6 +37,10 @@ Here's our ranking from worst to best.
 *Image courtesy of Adidas*
 
 There's just nothing here. White kit, maroon accents, no pattern, no personality. This is the most boring away kit in the entire batch. It looks like a plain training top you'd grab off a clearance rack. For a country that just hosted the last World Cup, you'd expect more effort than this. Easily our least favorite.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DQatar%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Qatar Jerseys</a>
+</div>
 
 ## 24. Algeria: D-
 
@@ -42,6 +52,10 @@ There's just nothing here. White kit, maroon accents, no pattern, no personality
 
 The two-tone green is not it. The collar is strange, and the overall look just feels off. Algeria has had some solid kits in the past, but this one misses the mark. The red accents try to add some flair, but the whole thing feels like two different jerseys stitched together. Don't love it at all.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DAlgeria%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Algeria Jerseys</a>
+</div>
+
 ## 23. Saudi Arabia: C+
 
 ![Saudi Arabia Away Kit](/images/posts/adidas-world-cup-away-kits/saudi-arabia-front.jpg)
@@ -51,6 +65,10 @@ The two-tone green is not it. The collar is strange, and the overall look just f
 *Image courtesy of Adidas*
 
 This one's not bad, but it's not good either. The white base with gold and green detailing is clean, and the Arabic script on the crest is a nice touch. But there's just not enough color going on. It needs more personality. It's the definition of playing it safe.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSaudi%2520Arabia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Saudi Arabia Jerseys</a>
+</div>
 
 ## 22. Peru: B-
 
@@ -62,6 +80,10 @@ This one's not bad, but it's not good either. The white base with gold and green
 
 The colorful logo is the best part of this kit. The neon magenta, yellow, and orange on the trefoil and crest pop against the black base. But outside of those accent colors, the jersey itself is pretty plain. The details carry it, but the overall design doesn't do enough.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DPeru%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Peru Jerseys</a>
+</div>
+
 ## 21. Greece: B-
 
 ![Greece Away Kit](/images/posts/adidas-world-cup-away-kits/greece-front.jpg)
@@ -72,12 +94,20 @@ The colorful logo is the best part of this kit. The neon magenta, yellow, and or
 
 Very boring. The deep blue is a nice color and it pops, but the design just doesn't do enough. The subtle vertical stripes give it a little something, but it looks more like a good t-shirt than an actual World Cup kit. Not enough there.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DGreece%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Greece Jerseys</a>
+</div>
+
 ## 20. Chile: B-
 
 ![Chile Away Kit](/images/posts/adidas-world-cup-away-kits/chile-front.jpg)
 *Image courtesy of Adidas*
 
 The flowering desert concept is cool on paper, but the pink floral pattern on a white base doesn't really translate to a soccer kit. It's unique, we'll give it that. But we're not in love with how it turned out.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DChile%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Chile Jerseys</a>
+</div>
 
 ## 19. Ukraine: B-
 
@@ -89,6 +119,10 @@ The flowering desert concept is cool on paper, but the pink floral pattern on a 
 
 Blue and yellow is always a strong color combo, and the geometric pattern on the chest has some nice detail. But we don't really like the specific shade of blue they went with here. It's not bad, just not great.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DUkraine%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Ukraine Jerseys</a>
+</div>
+
 ## 18. Italy: B-
 
 ![Italy Away Kit](/images/posts/adidas-world-cup-away-kits/italy-front.jpg)
@@ -98,6 +132,10 @@ Blue and yellow is always a strong color combo, and the geometric pattern on the
 *Image courtesy of Adidas*
 
 We like Italy's kit, we just don't love it. The subtle weave pattern on white is clean, and the blue and gold collar is a nice touch that nods to Italian tailoring. But for a team with Italy's design history, this feels like it could have been more. Still in the European playoffs, so they might not even get to wear it at the World Cup.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DItaly%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Italy Jerseys</a>
+</div>
 
 ## 17. Colombia: B-
 
@@ -109,6 +147,10 @@ We like Italy's kit, we just don't love it. The subtle weave pattern on white is
 
 They're okay. The teal wave pattern with the yellow trim has a cool vibe to it, but nothing about this kit really grabs you. Colombia has done better in the past, and this one just doesn't stand out enough in a batch of 25 kits.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DColombia%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Colombia Jerseys</a>
+</div>
+
 ## 16. Germany: B-
 
 ![Germany Away Kit](/images/posts/adidas-world-cup-away-kits/germany-front.jpg)
@@ -118,6 +160,10 @@ They're okay. The teal wave pattern with the yellow trim has a cool vibe to it, 
 *Image courtesy of Adidas*
 
 Germany's older away jerseys were better. The navy blue with aqua accents is fine, and the chevron pattern is subtle, but we've seen this team do more interesting things with their away kits over the years. The retro trefoil looks good on it, though. That's about the best thing we can say.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DGermany%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Germany Jerseys</a>
+</div>
 
 ## 15. Sweden: B
 
@@ -129,6 +175,10 @@ Germany's older away jerseys were better. The navy blue with aqua accents is fin
 
 The royal blue with the wavy pattern and gold trim is solid. The 70s-inspired design gives it a retro feel, but the pattern itself is a little weird up close. It works from a distance better than it does in your hands. Still in the European playoffs, so this one could end up at the World Cup.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSweden%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Sweden Jerseys</a>
+</div>
+
 ## 14. UAE: B
 
 ![UAE Away Kit](/images/posts/adidas-world-cup-away-kits/uae-front.jpg)
@@ -138,6 +188,10 @@ The royal blue with the wavy pattern and gold trim is solid. The 70s-inspired de
 *Image courtesy of Adidas*
 
 We actually kind of like this one. The red geometric pattern is bold, and the white trim keeps it clean. For a team that didn't qualify for the World Cup, this is one of the better-looking kits in the whole batch.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DUAE%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop UAE Jerseys</a>
+</div>
 
 ## 13. Hungary: B
 
@@ -149,6 +203,10 @@ We actually kind of like this one. The red geometric pattern is bold, and the wh
 
 Clean and classic. The white base with the red collar and sleeve detailing is simple but effective. The double crest with the 125th anniversary badge is a nice detail. Nothing flashy, just a well-put-together kit. We like the collar and the stripes.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DHungary%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Hungary Jerseys</a>
+</div>
+
 ## 12. Wales: B
 
 ![Wales Away Kit](/images/posts/adidas-world-cup-away-kits/wales-front.jpg)
@@ -158,6 +216,10 @@ Clean and classic. The white base with the red collar and sleeve detailing is si
 *Image courtesy of Adidas*
 
 We've been liking the lighter colors Adidas has been doing with this whole batch, and Wales fits right in. The cream base with the abstract dragon pattern and green/red shoulder stripes is solid. Nothing special, but it looks good. Still fighting for a World Cup spot in the European playoffs.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DWales%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Wales Jerseys</a>
+</div>
 
 ## 11. Northern Ireland: B
 
@@ -169,6 +231,10 @@ We've been liking the lighter colors Adidas has been doing with this whole batch
 
 The use of mint green on the white base is sharp. The diagonal lines add some texture without being too busy. Simple but clean. We like the use of green on this one.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DNorthern%2520Ireland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Northern Ireland Jerseys</a>
+</div>
+
 ## 10. South Africa: B
 
 ![South Africa Away Kit](/images/posts/adidas-world-cup-away-kits/south-africa-front.jpg)
@@ -178,6 +244,10 @@ The use of mint green on the white base is sharp. The diagonal lines add some te
 *Image courtesy of Adidas*
 
 South Africa's green and gold is iconic, and this kit delivers. The woven pattern in the green, the gold shoulder stripes, and the polo collar give it a sophisticated look. The Protea crest in gold is beautiful. This is a kit that looks even better in person.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSouth%2520Africa%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop South Africa Jerseys</a>
+</div>
 
 ## 9. Scotland: B
 
@@ -189,6 +259,10 @@ South Africa's green and gold is iconic, and this kit delivers. The woven patter
 
 That salmon red with the purple pinstripes is a great color combo. It's different from anything else in this batch and it stands out. The retro v-neck collar ties it all together. We like that color a lot.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DScotland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Scotland Jerseys</a>
+</div>
+
 ## 8. Mexico: B
 
 ![Mexico Away Kit](/images/posts/adidas-world-cup-away-kits/mexico-front.jpg)
@@ -198,6 +272,10 @@ That salmon red with the purple pinstripes is a great color combo. It's differen
 *Image courtesy of Adidas*
 
 The white away with the green and red trim on the collar and sleeves is clean. We like the green and red on the sleeves. The subtle Grecas pattern is a nice nod to Mexican architecture without being over the top. As a host nation, Mexico's away kit does the job well.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DMexico%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Mexico Jerseys</a>
+</div>
 
 ## 7. Argentina: B
 
@@ -209,6 +287,10 @@ The white away with the green and red trim on the collar and sleeves is clean. W
 
 We like Argentina's kit. The black base with the blue swirling floral pattern is eye-catching. But with Argentina's history of iconic away kits, this one doesn't quite reach that level. It's good, not legendary. We like it, we just don't love it.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DArgentina%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Argentina Jerseys</a>
+</div>
+
 ## 6. Curacao: B+
 
 ![Curacao Away Kit](/images/posts/adidas-world-cup-away-kits/curacao-front.jpg)
@@ -218,6 +300,10 @@ We like Argentina's kit. The black base with the blue swirling floral pattern is
 *Image courtesy of Adidas*
 
 This is Curacao's first ever World Cup, and they showed up with a kit that matches the energy. The pastel yellow base with the pink, turquoise, and orange stripes on the shoulders is fun and different. We love the colors on the top. The retro trefoil looks perfect on this one.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DCuracao%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Curacao Jerseys</a>
+</div>
 
 ## 5. Japan: B+
 
@@ -229,6 +315,10 @@ This is Curacao's first ever World Cup, and they showed up with a kit that match
 
 The rainbow vertical stripes on the off-white base are clean. Each of the 12 colored lines represents the unity of the team, with the bold red stripe in the middle representing the fans and the rising sun. It's subtle, creative, and one of the more thoughtful designs in the entire batch. Nice cool touch.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DJapan%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Japan Jerseys</a>
+</div>
+
 ## 4. Costa Rica: A-
 
 ![Costa Rica Away Kit](/images/posts/adidas-world-cup-away-kits/costa-rica-front.jpg)
@@ -238,6 +328,10 @@ The rainbow vertical stripes on the off-white base are clean. Each of the 12 col
 *Image courtesy of Adidas*
 
 This is how you make a kit. The tropical blue and pink pattern inspired by the Toucan and Costa Rican rainforests is bold, colorful, and completely unique. Costa Rica didn't qualify for the World Cup, but they won the kit game. Come out with a bang, make it fun. That's exactly what they did. We love it.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DCosta%2520Rica%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Costa Rica Jerseys</a>
+</div>
 
 ## 3. Belgium: A-
 
@@ -249,6 +343,10 @@ This is how you make a kit. The tropical blue and pink pattern inspired by the T
 
 The pink and blue surrealist art pattern is a tribute to legendary Belgian artist Rene Magritte, and it works. That hint of pink is what makes it. This kit takes a risk and it pays off. It's wearable as a fashion piece, not just a soccer jersey. One of our favorites in the whole batch.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DBelgium%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Belgium Jerseys</a>
+</div>
+
 ## 2. Spain: A-
 
 ![Spain Away Kit](/images/posts/adidas-world-cup-away-kits/spain-front.jpg)
@@ -258,6 +356,10 @@ The pink and blue surrealist art pattern is a tribute to legendary Belgian artis
 *Image courtesy of Adidas*
 
 These are so clean. The off-white base with the burgundy and gold trim looks premium. The subtle pattern across the front adds just enough texture without being busy. And Lamine Yamal's name and number on the back is going to be everywhere this summer. That burgundy and gold combo just looks right on Spain. One of the best away kits Adidas has ever made for La Roja.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSpain%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Spain Jerseys</a>
+</div>
 
 ## 1. Venezuela: A
 
@@ -274,3 +376,7 @@ Venezuela takes the top spot. The white base is minimal, but the pops of yellow,
 **Shop all Adidas 2026 World Cup kits:** [Amazon](https://www.amazon.com/s?k=adidas+2026+world+cup+away+jersey&tag=colorwaysport-20) | [Adidas.com](https://www.adidas.com)
 
 *We may earn a small commission from links on this page. It doesn't cost you anything extra.*
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DVenezuela%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Venezuela Jerseys</a>
+</div>

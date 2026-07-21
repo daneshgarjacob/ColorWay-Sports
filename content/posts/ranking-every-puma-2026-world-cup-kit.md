@@ -23,6 +23,12 @@ We ranked all 12 kits (home and away combined) from worst to best.
 
 **Want to grab one of these kits?** You can shop the full Puma 2026 World Cup collection on [Amazon](https://www.amazon.com/s?k=puma+2026+world+cup+jersey&tag=colorwaysport-20) or directly at [puma.com](https://us.puma.com/us/en/sport/soccer/national-team-kits).
 
+
+<div style="margin: 1.6em 0; padding: 1.3em 1.6em; background: linear-gradient(135deg, #002D72 0%, #101528 60%, #E81828 130%); border-radius: 14px;">
+  <span style="display: block; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #9fb6e8; margin-bottom: 5px;">We Grade Kits Every Day</span>
+  <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #ffffff;">The World Cup is over, but the grading is not. Our <a href="/stories/mlb-uniform-tracker-2026" style="color: #ffffff; text-decoration: underline;">MLB daily uniform tracker</a> logs what all 30 clubs wore in every game with a grade on each pairing, updated every morning, and the <a href="/stories/mlb-uniform-schedule-2026" style="color: #ffffff; text-decoration: underline;">2026 MLB uniform schedule guide</a> maps what each team wears and when.</span>
+</div>
+
 ## 12. Egypt: D
 
 ![Egypt Home Kit](/images/posts/puma-world-cup-kits/egypt-home.jpg)
@@ -33,12 +39,20 @@ We ranked all 12 kits (home and away combined) from worst to best.
 
 We don't love either of these. The home kit has a pyramid-inspired graphic on red, but it just doesn't come together. The away is white with a subtle version of the same pattern, and it's even more forgettable. Egypt has such a rich visual history to pull from, and neither kit takes advantage of it. These are pretty boring across the board.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DEgypt%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Egypt Jerseys</a>
+</div>
+
 ## 11. Czech Republic: C
 
 ![Czech Republic Home Kit](/images/posts/puma-world-cup-kits/czech-republic-home.jpg)
 *Image courtesy of Puma*
 
 Czech Republic only has a home kit available so far. The dark cherry red is a nice base color, but the button collar feels out of place on a soccer jersey. The sleeve trim is fine. There's just not enough going on here to make it memorable, especially when you see what Puma did for some of the other teams in this collection. It's okay. Nothing more.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DCzech%2520Republic%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Czech Republic Jerseys</a>
+</div>
 
 ## 10. Switzerland: C+
 
@@ -50,12 +64,20 @@ Czech Republic only has a home kit available so far. The dark cherry red is a ni
 
 Switzerland's home is a standard red kit with a subtle wave pattern. It's clean, but it's boring. The away is where things get interesting, with a green topographic map design inspired by Swiss passports. Sounds cool on paper, but it ends up looking more like a goalkeeper jersey than a proper away kit. We love Switzerland as a country, but this set doesn't do it justice.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSwitzerland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Switzerland Jerseys</a>
+</div>
+
 ## 9. Iceland: C+
 
 ![Iceland Home Kit](/images/posts/puma-world-cup-kits/iceland-home.jpg)
 *Image courtesy of Puma*
 
 Iceland only has a home kit so far, and it's a solid blue with the snowflake crest. That's about it. Puma says it's inspired by volcanic landscapes and glaciers, but we don't really see that translating to the actual jersey. The blue is a nice shade, and the kit is clean, but for a country with that much natural drama in its landscape, they could have done more with the design.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DIceland%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Iceland Jerseys</a>
+</div>
 
 ## 8. Paraguay: B
 
@@ -67,6 +89,10 @@ Iceland only has a home kit so far, and it's a solid blue with the snowflake cre
 
 Paraguay's home kit stands out immediately. The red and white stripes have a hand-painted, almost chalk-like texture that gives the classic look a fresh twist. It reminds us a lot of Atletico Madrid, and that's a good thing. The away kit goes a completely different direction with a dark blue tie-dye pattern. It's bold, but we don't love it as much. The home carries this set.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DParaguay%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Paraguay Jerseys</a>
+</div>
+
 ## 7. New Zealand: B
 
 ![New Zealand Home Kit](/images/posts/puma-world-cup-kits/new-zealand-home.jpg)
@@ -76,6 +102,10 @@ Paraguay's home kit stands out immediately. The red and white stripes have a han
 *Image courtesy of Puma*
 
 The All Whites went with a black home and white away, which is a nod to New Zealand's rugby identity. The black home has a tonal fern pattern that only shows up in certain light, and we actually kind of dig it. The away is similar but flipped to white with a swirl pattern. Both are simple, both are clean. Not flashy, but respectable for a country making just their second World Cup appearance.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DNew%2520Zealand%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop New Zealand Jerseys</a>
+</div>
 
 ## 6. Austria: B
 
@@ -87,6 +117,10 @@ The All Whites went with a black home and white away, which is a nod to New Zeal
 
 Austria's home is straightforward: red body, black sleeves and shoulders. It's clean but doesn't take any risks. The away is more interesting with a marble pattern inspired by Vienna's cafe culture. The soft blue and white tones look sharp, and the geometric gold lines add a nice detail. The away saves this set from being forgettable.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DAustria%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Austria Jerseys</a>
+</div>
+
 ## 5. Senegal: B+
 
 ![Senegal Home Kit](/images/posts/puma-world-cup-kits/senegal-home.jpg)
@@ -96,6 +130,10 @@ Austria's home is straightforward: red body, black sleeves and shoulders. It's c
 *Image courtesy of Puma*
 
 Senegal's home kit is one of the more unique designs in the entire Puma collection. It's white with soft pastel patterns inspired by the Car Rapide, the hand-painted minibuses that are everywhere in Dakar. The design is subtle but the cultural connection is strong. The away is a deep green with a diamond pattern down the center. We like it, but it doesn't hit as hard as the home. The home jersey carries this set for us.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DSenegal%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Senegal Jerseys</a>
+</div>
 
 ## 4. Morocco: B+
 
@@ -107,6 +145,10 @@ Senegal's home kit is one of the more unique designs in the entire Puma collecti
 
 Morocco's set is solid across the board. The home is red with green accents and a geometric pattern on the collar and sleeves inspired by traditional Moroccan tilework. The collar itself isn't our favorite, but the details are nice. The away is white with gold geometric patterns that feel almost hand-drawn. We like the color and the pattern on that one. Both kits are good, and the combination of red, green, white, and gold just works for Morocco's identity.
 
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DMorocco%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Morocco Jerseys</a>
+</div>
+
 ## 3. Ghana: A-
 
 ![Ghana Home Kit](/images/posts/puma-world-cup-kits/ghana-home.jpg)
@@ -116,6 +158,10 @@ Morocco's set is solid across the board. The home is red with green accents and 
 *Image courtesy of Puma*
 
 Ghana brought it. The home kit is white with a colorful abstract line drawing that covers the entire front of the jersey. Red, yellow, green, and teal lines weave around the iconic black star. It looks like street art, and it's one of the most creative kits in this whole collection. The away goes golden yellow with a kente-inspired pattern. Both jerseys feel authentically Ghanaian. This is how you do cultural design on a soccer kit.
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DGhana%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Ghana Jerseys</a>
+</div>
 
 ## 2. Portugal: A-
 
@@ -128,6 +174,10 @@ Ghana brought it. The home kit is white with a colorful abstract line drawing th
 This is Puma's first World Cup with Portugal, and they delivered. The home is a deep red with a wave pattern and teal accents on the collar and cuffs. Simple, but the color pops and it looks great. The away is even better. The teal and white ocean wave pattern with the chevron shape is one of the best away kits we've seen from any brand this cycle. It's bold, it's different, and it still feels distinctly Portuguese. The away kit alone almost carried this to the top spot.
 
 [Shop the Portugal Away Jersey on Amazon](https://www.amazon.com/dp/B0GQPCZN1B?tag=colorwaysport-20)
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DPortugal%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Portugal Jerseys</a>
+</div>
 
 ## 1. Ivory Coast: A
 
@@ -144,3 +194,7 @@ Our favorite set in the entire Puma collection, and it's not particularly close.
 **Shop all Puma 2026 World Cup kits:** [Amazon](https://www.amazon.com/s?k=puma+2026+world+cup+jersey&tag=colorwaysport-20) | [Puma.com](https://us.puma.com/us/en/sport/soccer/national-team-kits)
 
 *We may earn a small commission from links on this page. It doesn't cost you anything extra.*
+
+<div style="display: flex; justify-content: center; margin: 0 0 1.6em;">
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3DIvory%2520Coast%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 8px 18px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Ivory Coast Jerseys</a>
+</div>
