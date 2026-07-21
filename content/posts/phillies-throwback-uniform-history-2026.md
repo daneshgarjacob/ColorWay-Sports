@@ -2,7 +2,7 @@
 title: "The Phillies Throwback Playbook: Why the 1939 Field of Dreams Uniform Is Their Best Look"
 category: MLB
 date: "2026-07-20"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "A guide to the Phillies throwback jerseys and uniforms, from powder blue to the 1939 Field of Dreams road set they wear in Iowa on August 13."
 gradient: "linear-gradient(135deg, #E81828 0%, #284898 130%)"
 coverImage: "/images/posts/phillies-throwbacks/cover.jpg"
@@ -30,6 +30,8 @@ We graded it an A- in our [full Field of Dreams 2026 uniform breakdown](/stories
 
 ## The Powder Blues
 
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/1778558612677247446"></a></blockquote>
+
 The powder blue is the throwback Phillies fans actually campaign for, and it is easy to see why. Philadelphia wore powder blue on the road from the early 1970s into the late 1980s, a stretch that covers the 1980 championship, and the modern version pairs it with a maroon-leaning red that reads warmer than the current primary.
 
 It works because powder blue is a color almost nobody else in baseball is using seriously. In a sport that has drifted toward navy and gray, a full powder blue uniform is instantly identifiable from any camera angle, and it does not need a patch or a story to justify itself.
@@ -42,7 +44,11 @@ The cream is the sneakiest item in the closet because it is not technically a th
 
 Cream also solves a problem white does not. Under afternoon light at Citizens Bank Park, a true white can blow out on camera, while cream holds detail and makes the red script sit forward instead of glowing. It is the most quietly smart uniform Philadelphia owns.
 
+We logged the cream on the field most recently against the Mets on July 18, and it graded out as the best-dressed matchup of that day in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which records what all 30 teams wear every single day.
+
 ## The Red Pinstripes
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/1570209833282064385"></a></blockquote>
 
 The red pinstripe alternate is the loudest thing in the rotation and the most divisive. Pinstripes in a color other than navy are rare in baseball for a reason, and on a red base they can read busy on a small screen.
 
