@@ -22,6 +22,8 @@ topViewsRank: 1
 
 The Phillies have one of the best uniform rotations in baseball, and the reason is simple. They have a system. Instead of wearing random jerseys on random days like most teams do, Philadelphia has a clear schedule for all five of their uniforms. Every fan knows what to expect when they walk into Citizens Bank Park, and the whole closet works together.
 
+This page covers when each jersey comes out. If you want our verdict on which ones are actually any good, we ranked and graded [every Phillies jersey for 2026](/stories/phillies-jerseys-2026-ranked), from the City Connect at the bottom to the creams at number one.
+
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
 <div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>

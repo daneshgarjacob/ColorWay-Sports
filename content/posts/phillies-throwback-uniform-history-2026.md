@@ -40,6 +40,8 @@ The Phillies wear it on Thursdays in 2026. Our [Phillies uniform schedule](/stor
 
 ## The Cream Alternate
 
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2078617620421496987"></a></blockquote>
+
 The cream is the sneakiest item in the closet because it is not technically a throwback at all. It is a current alternate that borrows the warmth of an older fabric without pinning itself to a specific season, which lets Philadelphia get the visual benefit of a period uniform on a regular home date.
 
 Cream also solves a problem white does not. Under afternoon light at Citizens Bank Park, a true white can blow out on camera, while cream holds detail and makes the red script sit forward instead of glowing. It is the most quietly smart uniform Philadelphia owns.
@@ -50,9 +52,11 @@ We logged the cream on the field most recently against the Mets on July 18, and 
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/1570209833282064385"></a></blockquote>
 
-The red pinstripe alternate is the loudest thing in the rotation and the most divisive. Pinstripes in a color other than navy are rare in baseball for a reason, and on a red base they can read busy on a small screen.
+The red pinstripes are not a throwback at all, which is exactly why they belong in this conversation. White jersey, red pinstripes, red cap, matching pinstripe pants, and the Phillies have worn this set as their primary home uniform since 1992. It is the one look on this page that never left.
 
-What saves it is that the Phillies commit. The pinstripes are fine enough not to vibrate, the script sits cleanly on top of them, and the whole uniform belongs unmistakably to one franchise. It is not the best thing they wear, but it is never boring, and it fills the slot a home night alternate is supposed to fill.
+Pinstripes in a color other than navy are rare in baseball for a reason. They can read busy on a small screen, and red is the hardest color to pull it off with. What saves it is that the Phillies commit. The stripes are fine enough not to vibrate, the script sits cleanly on top of them, and the whole uniform belongs unmistakably to one franchise.
+
+That thirty-plus-year run is the reason the rest of the closet works. A team can afford powder blue Thursdays and cream day games precisely because the foundation underneath never moves.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
