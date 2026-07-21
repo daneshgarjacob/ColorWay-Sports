@@ -67,6 +67,8 @@ That correction changes the read on the uniform. A cream-and-black pinstripe wou
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
 </div>
 
+This is the third Field of Dreams game, and we ranked [every uniform ever worn in Dyersville](/stories/field-of-dreams-uniform-history-ranked) across all three. For how this set fits into Philadelphia's wider archive, see [the Phillies throwback playbook](/stories/phillies-throwback-uniform-history-2026).
+
 ## What Era Are These Throwbacks From?
 
 This is where the two uniforms separate. The Phillies are wearing 1939 to 1941, and the sleeve patch commemorates baseball's centennial as it was celebrated in 1939. It is a specific season with a specific reason behind it.
