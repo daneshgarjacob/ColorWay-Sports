@@ -51,22 +51,7 @@ It just does not come together. The bear inside the wishbone C makes the chest b
 
 This is the one that surprised us most on a second look. It has the best individual pieces of any uniform in the program and the least satisfying result.
 
-## 4. Twins, 2026
-
-<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #f5f5f5, #002B5C); color: white; text-align: center;">
-  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">C+</div>
-</div>
-
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2079214024139350432"></a></blockquote>
-
-Minnesota's 2026 entry is a white jersey with navy pinstripes, a navy "Twins" script with a red outline whose "s" tail curves back to underline the wordmark, and the Minnie and Paul patch on the sleeve. The cap is navy with the interlocking white T and red C.
-
-It is a good-looking uniform and an authentic one. The Twins arrived in Minnesota in 1961, the Minnie and Paul mark lived on their uniforms from 1961 to 1986, and everything here belongs to the franchise rather than being borrowed.
-
-The problem is how close it sits to what they already wear. Put this next to a normal Twins home uniform and a casual viewer will struggle to tell you what changed. For a game whose entire appeal is that it looks like nothing else on the schedule, "very slightly different from Tuesday" is not enough. We covered the full unveiling in our [Field of Dreams 2026 uniform breakdown](/stories/field-of-dreams-2026-jerseys-leaked).
-
-## 3. Reds, 2022
+## 4. Reds, 2022
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #f5f5f5, #C6011F); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
@@ -75,11 +60,26 @@ The problem is how close it sits to what they already wear. Put this next to a n
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Reds/status/1556639565569474568"></a></blockquote>
 
-Cincinnati went white with royal blue pinstripes, a matching white cap, and "REDS" tucked inside a wishbone C on the left chest, a look the club wore from 1914 and on and off through the 1920s. This is a genuinely cool uniform and a genuinely deep cut, and it clears the bar the Cubs and Twins missed: you would never mistake it for a normal Reds game.
+Cincinnati went white with royal blue pinstripes, a matching white cap, and "REDS" tucked inside a wishbone C on the left chest, a look the club wore from 1914 and on and off through the 1920s. This is a genuinely cool uniform and a genuinely deep cut, and it clears the bar the Cubs missed: you would never mistake it for a normal Reds game.
 
 What keeps it from climbing higher is that it is not clean. Royal blue pinstripes on white, a white cap with more blue pinstripes, and a red wordmark inside a blue-adjacent frame gives the eye too many competing lines. Every element is defensible and the sum is a little noisy.
 
 Cool, historically sharp, and one editing pass away from being very good.
+
+## 3. Twins, 2026
+
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #f5f5f5, #002B5C); color: white; text-align: center;">
+  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2079214024139350432"></a></blockquote>
+
+Minnesota's 2026 entry is a white jersey with navy pinstripes, a navy "Twins" script with a red outline whose "s" tail curves back to underline the wordmark, and the Minnie and Paul patch on the sleeve. The cap is navy with the interlocking white T and red C.
+
+It is a good-looking uniform and an authentic one. The Twins arrived in Minnesota in 1961, the Minnie and Paul mark lived on their uniforms from 1961 to 1986, and everything here belongs to the franchise rather than being borrowed.
+
+The only thing holding it back is how close it sits to what they already wear. Put it next to a normal Twins home uniform and the differences are real but quiet, and a game built on looking like nothing else on the schedule rewards a bigger swing. That is a small complaint about a genuinely nice jersey, and the Minnie and Paul patch alone does more work than most of the marks below it on this list. We covered the full unveiling in our [Field of Dreams 2026 uniform breakdown](/stories/field-of-dreams-2026-jerseys-leaked).
 
 ## 2. Yankees, 2021
 
@@ -132,7 +132,7 @@ That gap is why the 2026 game matters more than a normal special-event date. It 
 
 Three games in, the pattern is not about which era a team picks. Every one of these uniforms is historically sound. The difference is whether the whole thing is finished.
 
-The Phillies and Yankees both look like photographs from their era, head to toe, with nothing left blank and nothing fighting for attention. The White Sox picked the perfect year and then left the cap empty. The Cubs found a great logo and buried it in a busy chest. The Twins did everything right and landed two shades away from their normal uniform. The Reds got the boldness and missed the polish.
+The Phillies and Yankees both look like photographs from their era, head to toe, with nothing left blank and nothing fighting for attention. The White Sox picked the perfect year and then left the cap empty. The Cubs found a great logo and buried it in a busy chest. The Twins did everything right and landed a shade too close to their normal uniform. The Reds got the boldness and missed the polish.
 
 A throwback is a whole outfit. The ones that finish high here treat it that way.
 
@@ -141,8 +141,8 @@ A throwback is a whole outfit. The ones that finish high here treat it that way.
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f6edd8; border: 1px solid #e0cfa4; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>1. Phillies (2026)</strong> — A- · 1939-41 road, centennial patch</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>2. Yankees (2021)</strong> — B+ · early-century road gray</p>
-  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>3. Reds (2022)</strong> — B- · 1914 wishbone C, blue pinstripes</p>
-  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>4. Twins (2026)</strong> — C+ · 1961, Minnie and Paul patch</p>
+  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>3. Twins (2026)</strong> — B · 1961, Minnie and Paul patch</p>
+  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>4. Reds (2022)</strong> — B- · 1914 wishbone C, blue pinstripes</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>5. Cubs (2022)</strong> — C · cream, 1927-36 bear logo</p>
   <p style="margin: 0; color: #2a2213; font-size: 0.98em;"><strong>6. White Sox (2021)</strong> — C- · 1919 pinstripes, blank cap</p>
 </div>

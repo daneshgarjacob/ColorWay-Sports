@@ -41,13 +41,13 @@ The Twins called theirs "our 1961 inspired uniforms," and the official reveal is
 
 The sleeve patch is the "Minnie and Paul" logo, created in 1961 and worn on Twins home uniforms from 1961 through 1986. That matters, because it makes this an authentic Twins throwback rather than a costume. The franchise arrived in Minnesota in 1961, so a 1961 uniform is not the team dressing up as somebody else's history. It is the team wearing its own first season.
 
-What holds it to a B+ is that white pinstripes plus a script wordmark is the safest formula in the entire throwback playbook. It is nearly impossible to make it look bad and genuinely hard to make it memorable. This one is clean, warm, and correct, and it will photograph beautifully in the cornfield. It just is not saying as much as the uniform in the other dugout.
+What holds it to a B is that white pinstripes plus a script wordmark is the safest formula in the entire throwback playbook. It is nearly impossible to make it look bad and genuinely hard to make it memorable. This one is clean, warm, and correct, and it will photograph beautifully in the cornfield. It just is not saying as much as the uniform in the other dugout.
 
-**Grade: B+**
+**Grade: B**
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #002B5C, #D31145); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B+</div>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2079214024139350432"></a></blockquote>
@@ -117,6 +117,6 @@ Both Field of Dreams jerseys and the matching caps went on sale alongside the of
 
 ## The Bottom Line on the 2026 Field of Dreams Uniforms
 
-Both of these are legitimate throwbacks pulled from real seasons, which is more than most special-event uniforms can claim. The Phillies earn an A- because the 1939 to 1941 road look is their most distinctive uniform ever and the centennial patch ties it to a dated event. The Twins earn a B+ for a clean, authentic 1961 home pinstripe with the Minnie and Paul patch, held back only by how safe the pinstripe-and-script formula is. We will grade the actual on-field pairing when the Twins and Phillies wear these in the cornfield on August 13, and it will show up in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) the next morning.
+Both of these are legitimate throwbacks pulled from real seasons, which is more than most special-event uniforms can claim. The Phillies earn an A- because the 1939 to 1941 road look is their most distinctive uniform ever and the centennial patch ties it to a dated event. The Twins earn a B for a clean, authentic 1961 home pinstripe with the Minnie and Paul patch, held back only by how safe the pinstripe-and-script formula is. We will grade the actual on-field pairing when the Twins and Phillies wear these in the cornfield on August 13, and it will show up in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) the next morning.
 
 *Uniform images via @MLB, @Phillies, and @Twins. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by Major League Baseball or any of its clubs.*

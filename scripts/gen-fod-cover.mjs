@@ -80,7 +80,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <text x="750" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" letter-spacing="10" fill="#9c2b1f" font-style="italic">COLORWAY · OFFICIAL FIRST LOOK</text>
   <rect x="640" y="152" width="220" height="2" fill="#9c2b1f" opacity="0.45"/>
 
-  ${gradeBadge(minCx, "TWINS", "B+", "#002B5C")}
+  ${gradeBadge(minCx, "TWINS", "B", "#002B5C")}
   ${gradeBadge(phiCx, "PHILLIES", "A-", "#9c2b1f")}
 
   <text x="750" y="712" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="900" fill="#16233f" letter-spacing="1">Field of Dreams 2026</text>
