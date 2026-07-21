@@ -2,7 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -23,6 +23,8 @@ The Chicago White Sox carry five uniforms in 2026, and unlike a rigidly schedule
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
 </div>
+
+This page covers when each jersey comes out. For our verdict on which ones are actually any good, we ranked and graded [every White Sox jersey for 2026](/stories/white-sox-jerseys-2026-ranked), from the red City Connect at the bottom to the black alternate at number one.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #27251F 0%, #27251Fcc 100%);">
