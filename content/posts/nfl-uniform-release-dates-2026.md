@@ -10,7 +10,9 @@ league: "nfl"
 teams: ["tennessee-titans", "atlanta-falcons", "washington-commanders", "baltimore-ravens", "los-angeles-rams"]
 ---
 
-It's uniform season in the NFL. All five 2026 NFL uniform reveals are now officially complete. Here's every confirmed reveal with grades and rankings in final order from best to worst.
+It's uniform season in the NFL. All five 2026 NFL uniform overhauls are now officially complete. Here's every confirmed reveal with grades and rankings in final order from best to worst.
+
+*A second wave arrived in July: alternate jerseys and helmets rather than full redesigns, starting with the Jets' new white "White Out" helmet. Those are graded separately in our [2026 NFL alternate uniform tracker](/stories/nfl-alternate-uniform-tracker-2026), updated as the Rams and Bills reveal theirs.*
 
 ## 1. Washington Commanders - April 15 (Revealed) - Grade: A
 
