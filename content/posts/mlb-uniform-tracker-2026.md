@@ -26,7 +26,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Monday, July 20
 
-Monday nights are usually when the wardrobe goes quiet, and this 15-game slate mostly proved it: eight teams in plain road gray, six home whites, and only a handful of clubs willing to put color on the field. The ones that did carried the night. The White Sox and Rangers gave us black against the cleanest whites in baseball for our Matchup of the Day, the Rays and Blue Jays went blue on blue, the Mets' royal alternate met Milwaukee's home cream, and the Angels wore the white throwback alternate for a second straight day. Zero City Connects, which is exactly what a Monday looks like. The slate grades out to 7.3 out of 10.
+Monday nights are usually when the wardrobe goes quiet, and this 15-game slate mostly proved it: nine teams in plain road gray, eight in home whites or pinstripes, and exactly one City Connect on the entire board. The clubs that did put color on the field carried the night. The White Sox and Rangers gave us black against the cleanest whites in baseball for our Matchup of the Day, the Rays and Blue Jays went blue on blue, the Mets' royal alternate met Milwaukee's home cream, Houston broke out the white Space City City Connect, and the Angels wore the white throwback alternate for a second straight day. The slate grades out to 7.3 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
@@ -357,20 +357,20 @@ Milestone night at Citizens Bank Park, and both teams dressed for it in their st
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/astros-home-white.png" alt="Astros home white jersey worn July 20 2026 vs the Marlins, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/astros-space-city-cc.png" alt="Astros white Space City City Connect jersey worn July 20 2026 vs the Marlins, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ASTROS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Space City City Connect</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
 </div>
 
 <div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 6.5 / 10</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.5 / 10</p>
 </div>
 
-Miami went back to the plain black alternate, the script Marlins with the teal and red trim, and not the Retro Wave City Connect. Houston stayed in the home whites with the navy-and-orange. Black at white is clean enough, but the Marlins' black is the least interesting jersey in a closet that owns the best City Connect in the sport, so this one grades on what it could have been.
+The only City Connect on the entire Monday board, and it is one of the good ones. Houston wore the white Space City jersey, the navy ASTROS wordmark cut through by the big orange-to-yellow gradient star, the nebula-print sleeve trim, and the "we choose to go to the moon" line stitched down by the hem. Miami answered with the plain black alternate, script Marlins in teal and red, not the Retro Wave City Connect. Black against a white City Connect gives the Astros' star and sleeve gradients all the room they need, and it is the rare Monday game where somebody actually dressed up.
 
 ### Nationals at Rockies
 
