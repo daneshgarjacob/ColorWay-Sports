@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: Road Grays Gone, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Los Angeles Angels cut their road grays at the start of the 2026 season — the 'Los Angeles' wordmark and all — and have worn just three uniforms ever since: the home whites, the red 'Angels' jersey that's now their everyday road look, and the cream surf-themed City Connect. Here's every jersey, when they wear it, and why red is the team's default."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Los Angeles Angels have run a three-uniform closet all 2026 season: they cut
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Angels have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/angels" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #BA0021; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Angels uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Angels uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## Sample Home-and-Road Week at a Glance
 

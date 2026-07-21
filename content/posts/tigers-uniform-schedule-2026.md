@@ -2,7 +2,7 @@
 title: "Detroit Tigers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Detroit Tigers run five uniforms in 2026 — home whites, road grays, the brand-new orange home alternate, the navy road alternate, and the Motor City City Connect. Here's every jersey, when they wear it, and why the franchise wore orange for the first time in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #FA4616 50%, #0C2340 100%)"
 coverImage: "/images/posts/tigers-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Detroit Tigers run five uniforms in 2026, and this is the most the closet ha
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Tigers have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/tigers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #0C2340; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Tigers uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Tigers uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## Sample Home-and-Road Week at a Glance
 

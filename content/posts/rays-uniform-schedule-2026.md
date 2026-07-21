@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, and the black 'Grit x Glow' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Tampa Bay Rays carry one of the most colorful — and least predictable — 
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Rays have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/rays" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #8FBCE6; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Rays uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Rays uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## Sample Home-and-Road Week at a Glance
 

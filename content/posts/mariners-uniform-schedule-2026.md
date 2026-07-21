@@ -2,7 +2,7 @@
 title: "Seattle Mariners Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Seattle Mariners run five uniforms in 2026 — the home whites, road navy, the Northwest green alternate, the brand-new Steelheads Sunday throwback, and an all-new rush-blue City Connect. Here's every jersey, when they wear it, and what changed this year."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #005C5C 50%, #0C2C56 100%)"
 coverImage: "/images/posts/mariners-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Seattle Mariners carry five uniforms in 2026, and this is the most interesti
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Mariners have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/mariners" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #0C2C56; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Mariners uniform calendar →</a>
 </div>
+
+Want to see whether the Mariners stuck to the plan? Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) records every jersey worn league-wide each night, and the [full 2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) covers how all 30 clubs run their rotations.
 
 ## Sample Home-and-Road Week at a Glance
 

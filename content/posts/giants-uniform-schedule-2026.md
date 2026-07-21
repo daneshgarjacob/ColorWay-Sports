@@ -2,7 +2,7 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: >-
   The Giants have six uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
@@ -32,6 +32,8 @@ The Giants carry six uniforms in 2026, and the closet got a real shake-up this y
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Giants have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/giants" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #FD5A1E; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Giants uniform calendar →</a>
 </div>
+
+A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) is the record, logging what the Giants and every other team actually put on each day, and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) puts all 30 rotations side by side.
 
 ## Sample Week at a Glance
 

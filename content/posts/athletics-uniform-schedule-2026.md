@@ -2,7 +2,7 @@
 title: "Athletics Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Athletics carry four uniforms in 2026 — home whites, road grays, the kelly green alternate, and the brand-new gold 'Sacramento' alternate. Here's every jersey, when they wear it, and why the team has no city name on its chest."
 gradient: "linear-gradient(135deg, #006341 0%, #EFB21E 50%, #006341 100%)"
 coverImage: "/images/posts/athletics-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Athletics run four uniforms in 2026, and while their rotation isn't as rigid
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Athletics have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/athletics" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #003831; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Athletics uniform calendar →</a>
 </div>
+
+The Athletics do not always follow the script. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) catches what they actually wore, game by game, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) does the same forecasting work for the other 29 clubs.
 
 ## Sample Home-and-Road Week at a Glance
 

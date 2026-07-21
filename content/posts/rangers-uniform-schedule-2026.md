@@ -2,7 +2,7 @@
 title: "Texas Rangers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Texas Rangers run five uniforms in 2026 — home whites, road grays, the Sunday powder blues, the royal-blue road alternate, and the brand-new 'Tejas' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Texas Rangers carry five uniforms in 2026, and unlike a rigidly scheduled te
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Rangers have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/rangers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #003278; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Rangers uniform calendar →</a>
 </div>
+
+A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) is the record, logging what the Rangers and every other team actually put on each day, and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) puts all 30 rotations side by side.
 
 ## Sample Home-and-Road Week at a Glance
 

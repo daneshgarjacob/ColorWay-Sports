@@ -2,7 +2,7 @@
 title: "Cincinnati Reds Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Cincinnati Reds run five uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #C6011F 0%, #000000 50%, #C6011F 100%)"
 coverImage: "/images/posts/reds-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Cincinnati Reds carry five uniforms in 2026, and the headline is that they n
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Reds have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/reds" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #C6011F; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Reds uniform calendar →</a>
 </div>
+
+The Reds do not always follow the script. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) catches what they actually wore, game by game, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) does the same forecasting work for the other 29 clubs.
 
 ## Sample Home-and-Road Week at a Glance
 

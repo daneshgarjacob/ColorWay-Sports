@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -37,6 +37,8 @@ The Phillies have one of the best uniform rotations in baseball, and the reason 
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Phillies have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/phillies" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #E81828; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Phillies uniform calendar →</a>
 </div>
+
+Want to see whether the Phillies stuck to the plan? Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) records every jersey worn league-wide each night, and the [full 2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) covers how all 30 clubs run their rotations.
 
 ## Sample Week at a Glance
 

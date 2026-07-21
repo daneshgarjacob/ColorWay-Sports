@@ -2,7 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Chicago Cubs run four uniforms in 2026, and unlike a rigidly scheduled team 
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Cubs have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/cubs" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #0E3386; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Cubs uniform calendar →</a>
 </div>
+
+Want to see whether the Cubs stuck to the plan? Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) records every jersey worn league-wide each night, and the [full 2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) covers how all 30 clubs run their rotations.
 
 ## Sample Home Week at a Glance
 

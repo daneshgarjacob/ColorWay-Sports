@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The New York Mets carry five uniforms in 2026, and unlike a rigidly scheduled te
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Mets have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/mets" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #FF5910; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Mets uniform calendar →</a>
 </div>
+
+A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) is the record, logging what the Mets and every other team actually put on each day, and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) puts all 30 rotations side by side.
 
 ## Sample Home-and-Road Week at a Glance
 

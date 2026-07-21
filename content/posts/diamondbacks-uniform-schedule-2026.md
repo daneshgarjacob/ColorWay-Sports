@@ -2,7 +2,7 @@
 title: "Arizona Diamondbacks Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Arizona Diamondbacks run five uniforms in 2026 — home off-whites, road grays, the Sedona red alternate, the black alternate, and the purple-and-teal 'Serpientes' City Connect. Here's every jersey, when they wear it, and how the new teal-forward identity came together."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Arizona Diamondbacks carry five uniforms in 2026, and unlike a rigidly sched
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Diamondbacks have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/diamondbacks" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #A71930; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Diamondbacks uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Diamondbacks uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## Sample Home-and-Road Week at a Glance
 

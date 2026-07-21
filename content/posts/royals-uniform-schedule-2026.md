@@ -2,7 +2,7 @@
 title: 'Kansas City Royals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: >-
   The Royals run a five-jersey uniform rotation in 2026, anchored by City
   Connect Fridays and powder blue Saturdays. We break down every jersey and
@@ -33,6 +33,8 @@ The Royals carry five uniforms in 2026, and the rotation has two anchors you can
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Royals have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/royals" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #004687; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Royals uniform calendar →</a>
 </div>
+
+The Royals do not always follow the script. Our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) catches what they actually wore, game by game, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) does the same forecasting work for the other 29 clubs.
 
 ## Sample Week at a Glance
 

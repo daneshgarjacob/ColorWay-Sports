@@ -2,7 +2,7 @@
 title: "Pittsburgh Pirates Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white pinstripes, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
 gradient: "linear-gradient(135deg, #27251F 0%, #FDB827 50%, #27251F 100%)"
 coverImage: "/images/posts/pirates-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Pittsburgh Pirates run four uniforms in 2026, and the closet is about as bla
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Pirates have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/pirates" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #FDB827; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Pirates uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Pirates uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## Sample Home-and-Road Week at a Glance
 

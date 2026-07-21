@@ -4,7 +4,7 @@ title: >-
   Sundays
 category: MLB
 date: '2026-04-24'
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: >-
   The Miami Marlins gave every weekend home game its own jersey in 2026. Retro
   Wave Fridays, home whites Saturdays, teal Sundays. We break down the full
@@ -39,6 +39,8 @@ The Miami Marlins built a weekend uniform schedule for 2026, and it is one of th
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Marlins have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/marlins" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #00A3E0; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Marlins uniform calendar →</a>
 </div>
+
+If you are trying to call tonight's Marlins uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
 ## The Weekend at a Glance
 

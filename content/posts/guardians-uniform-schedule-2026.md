@@ -2,7 +2,7 @@
 title: "Cleveland Guardians Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Cleveland Guardians run five uniforms in 2026 — home whites, road grays, the red alternate, the navy alternate, and the 'CLE' City Connect built from the Guardians of Traffic statues. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
@@ -30,6 +30,8 @@ The Cleveland Guardians carry five uniforms in 2026, and unlike a rigidly schedu
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Guardians have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/guardians" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #00385D; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Guardians uniform calendar →</a>
 </div>
+
+This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Guardians and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
 ## Sample Home-and-Road Week at a Glance
 

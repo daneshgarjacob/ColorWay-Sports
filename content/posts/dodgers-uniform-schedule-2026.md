@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
@@ -32,6 +32,8 @@ The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball fo
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Dodgers have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/dodgers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #005A9C; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Dodgers uniform calendar →</a>
 </div>
+
+This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Dodgers and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
 ## Sample Week at a Glance
 

@@ -2,7 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-21"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
@@ -32,6 +32,8 @@ The New York Yankees have the simplest uniform schedule in Major League Baseball
   <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every jersey the Yankees have actually worn this season, day by day.</p>
   <a href="/mlb-tracker/yankees" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #0C2340; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Yankees uniform calendar →</a>
 </div>
+
+This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Yankees and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
 ## Sample Week at a Glance
 
