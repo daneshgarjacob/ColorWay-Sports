@@ -2,6 +2,7 @@
 
 import { useSearchParams } from "next/navigation";
 import StoryCard from "@/components/StoryCard";
+import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS } from "@/lib/teamLogos";
 
 interface PostMeta {
   slug: string;
@@ -39,6 +40,7 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
   let filtered = posts;
   let heading = "Stories";
   let description = "All the latest on uniforms, scorebugs, stadiums, and the visual side of sports.";
+  let headingLogo: string | undefined;
 
   if (query) {
     const q = query.toLowerCase();
@@ -57,6 +59,7 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
     filtered = posts.filter((p) => p.league === league);
     heading = `${leagueNames[league] || league.toUpperCase()} Stories`;
     description = `All ${leagueNames[league] || league.toUpperCase()} coverage from ColorWay Sports.`;
+    headingLogo = LEAGUE_LOGOS[league];
   }
 
   if (team) {
@@ -67,11 +70,17 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
       .join(" ");
     heading = teamName;
     description = `All ${teamName} coverage from ColorWay Sports.`;
+    headingLogo = TEAM_LOGO_BY_SLUG[team];
   }
 
   return (
     <main className="max-w-[1200px] mx-auto px-5 py-12">
-      <h1 className="text-3xl font-bold text-black mb-2">{heading}</h1>
+      <h1 className="flex items-center gap-3 text-3xl font-bold text-black mb-2">
+        {headingLogo && (
+          <img src={headingLogo} alt="" className="w-9 h-9 object-contain flex-shrink-0" />
+        )}
+        {heading}
+      </h1>
       <p className="text-gray-medium mb-2">{description}</p>
       {/* Any filtered view needs an obvious way back to everything — without this
           a search leaves you stuck on "Search: ..." with no exit. */}
