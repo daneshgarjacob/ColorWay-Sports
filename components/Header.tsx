@@ -520,7 +520,7 @@ export default function Header() {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search stories..."
+                placeholder="Discover"
                 className="flex-1 px-4 py-2.5 text-[15px] focus:outline-none"
               />
               <button type="submit" className="px-3 py-2.5 text-gray-medium hover:text-orange transition-colors">
