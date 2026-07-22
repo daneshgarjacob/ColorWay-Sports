@@ -14,6 +14,10 @@ export function GET() {
     t: p.title,
     s: p.slug,
     l: p.league ?? "",
+    // Excerpt is searched too, trimmed to keep the payload down. Without it a
+    // query like "roof status" finds nothing, because the roof headlines say
+    // "Is the Globe Life Field Roof Open Today?" and never the word "status".
+    e: (p.excerpt ?? "").slice(0, 160),
   }));
 
   // Teams and competitions resolve to their filtered stories page, which is the

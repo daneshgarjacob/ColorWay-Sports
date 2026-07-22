@@ -133,7 +133,7 @@ const navLinks = [
 ];
 
 type SearchIndex = {
-  posts: { t: string; s: string; l: string }[];
+  posts: { t: string; s: string; l: string; e?: string }[];
   teams: { n: string; s: string; g?: string }[];
 };
 
@@ -229,7 +229,13 @@ export default function Header() {
       .slice(0, 4)
       .map((x) => x.t);
     const posts = index.posts
-      .map((p) => ({ p, r: scoreMatch(p.t, q) }))
+      .map((p) => {
+        const inTitle = scoreMatch(p.t, q);
+        if (inTitle >= 0) return { p, r: inTitle };
+        // Excerpt hits still surface, just below everything matched by title.
+        const inBody = scoreMatch(`${p.t} ${p.e ?? ""}`, q);
+        return { p, r: inBody < 0 ? -1 : inBody + 10 };
+      })
       .filter((x) => x.r >= 0)
       .sort((a, b) => a.r - b.r)
       .slice(0, 6)
