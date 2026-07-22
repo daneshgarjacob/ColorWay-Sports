@@ -14,6 +14,7 @@ if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 const W = 1500, H = 1000;
 
 const STADIUMS = [
+  { slug: "globe-life-field-roof-2026", stadium: "GLOBE LIFE FIELD", team: "TEXAS RANGERS", c1: "#003278", c2: "#0A1428", accent: "#C0111F", titleSize: 104 },
   { slug: "daikin-park-roof-2026", stadium: "DAIKIN PARK", team: "HOUSTON ASTROS", c1: "#002D62", c2: "#0A1A30", accent: "#EB6E1F" },
   { slug: "tmobile-park-roof-2026", stadium: "T-MOBILE PARK", team: "SEATTLE MARINERS", c1: "#0C2C56", c2: "#0A1A2A", accent: "#15A0A0" },
   { slug: "american-family-field-roof-2026", stadium: "AMERICAN FAMILY FIELD", team: "MILWAUKEE BREWERS", c1: "#0A2351", c2: "#0A1426", accent: "#FFC52F", titleSize: 86 },

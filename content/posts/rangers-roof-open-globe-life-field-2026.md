@@ -9,16 +9,13 @@ excerpt: >-
   home games. Live day-of status, the 2026 roof schedule, and the weather
   rules.
 gradient: 'linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)'
-coverImage: /images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg
-coverImagePosition: center 90%
+coverImage: /images/posts/roof-covers/globe-life-field-roof-2026.jpg
+coverImagePosition: center center
 league: mlb
 teams:
   - texas-rangers
 topViewsRank: 6
 ---
-
-<img src="/images/posts/rangers-roof-open-2026/rangers-roof-open-all-season.jpg" alt="Globe Life Field in Arlington Texas with the retractable roof open showing the Rangers home ballpark interior on a clear night" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Texas Rangers</p>
 
 The Globe Life Field roof is closed for the vast majority of Texas Rangers home games in 2026. The retractable roof has stayed shut for over 80% of regular season games every year since the ballpark opened in 2020, and 2026 is tracking the same. Texas heat, humidity, rain risk, and the team's climate-controlled philosophy keep the roof down by default.
 
