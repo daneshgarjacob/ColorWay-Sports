@@ -313,7 +313,7 @@ export default function Header() {
                   type="text"
                   value={searchQuery}
                   onFocus={() => { loadIndex(); setSugOpen(true); }}
-                  onChange={(e) => { setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
+                  onChange={(e) => { loadIndex(); setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
                   onKeyDown={onSearchKeyDown}
                   placeholder="Discover jerseys, teams, uniforms…"
                   aria-label="Discover stories and teams"
