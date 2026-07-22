@@ -30,6 +30,13 @@ export function GET() {
 
   return Response.json(
     { posts, teams },
-    { headers: { "Cache-Control": "public, max-age=3600, s-maxage=86400" } }
+    {
+      headers: {
+        // Browsers must revalidate quickly: a long max-age would keep a reader
+        // on a stale index for an hour after publishing, so new posts would be
+        // invisible to Discover. The CDN still holds it, and a deploy purges.
+        "Cache-Control": "public, max-age=60, s-maxage=3600, stale-while-revalidate=86400",
+      },
+    }
   );
 }
