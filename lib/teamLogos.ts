@@ -273,4 +273,15 @@ export const COMPETITION_LOGOS: Record<string, string> = {
   "Bundesliga": "/logos/leagues/soccer-bundesliga.png",
   "Ligue 1": "/logos/leagues/soccer-ligue-1.png",
   "MLS": "/logos/leagues/soccer-mls.png",
+  // F1 constructors, from Formula 1's own media CDN.
+  "Alpine": "/logos/leagues/racing-alpine.png",
+  "Aston Martin": "/logos/leagues/racing-aston-martin.png",
+  "Ferrari": "/logos/leagues/racing-ferrari.png",
+  "Haas": "/logos/leagues/racing-haas.png",
+  "McLaren": "/logos/leagues/racing-mclaren.png",
+  "Mercedes": "/logos/leagues/racing-mercedes.png",
+  "Racing Bulls": "/logos/leagues/racing-racing-bulls.png",
+  "Red Bull Racing": "/logos/leagues/racing-red-bull-racing.png",
+  "Williams": "/logos/leagues/racing-williams.png",
+  // Audi and Cadillac join for 2026; F1 has not published logo assets for them yet.
 };
