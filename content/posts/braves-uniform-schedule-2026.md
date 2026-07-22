@@ -121,7 +121,7 @@ Atlanta's other weeknight alternate. Navy base carrying the same script, worn on
 
 The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white ATL kit it had worn since 2023 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
 
-The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
+The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
 
 ## Why This System Works
 
@@ -150,6 +150,7 @@ Mostly, yes. The Braves are one of the few teams that run close to a true schedu
 
 ## More MLB Uniform Coverage
 
+- [Every Braves Jersey in 2026, Ranked](/stories/braves-jerseys-2026-ranked) — all five graded, worst to first
 - [Phillies Uniform Schedule 2026: Every Jersey and When They Wear It](/stories/phillies-uniform-schedule-2026) — the full five-jersey scheduled rotation
 - [Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays](/stories/marlins-uniform-schedule-2026) — the weekend uniform schedule that gave every weekend home game its own look
 - [Yankees Uniform Schedule 2026](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
