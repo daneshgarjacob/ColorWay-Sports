@@ -315,7 +315,7 @@ export default function Header() {
                   onFocus={() => { loadIndex(); setSugOpen(true); }}
                   onChange={(e) => { loadIndex(); setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
                   onKeyDown={onSearchKeyDown}
-                  placeholder="Discover jerseys, teams, uniforms…"
+                  placeholder="Discover"
                   aria-label="Discover stories and teams"
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
