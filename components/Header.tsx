@@ -80,8 +80,9 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "Soccer (Fútbol)",
+    label: "Soccer",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
+    leagueLogo: "/logos/leagues/soccer-ball.svg",
     teams: [
       "International Competitions",
       "UEFA Champions League",
@@ -94,24 +95,44 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "Racing",
-    storiesLink: { label: "F1 (Formula One)", href: "/stories?league=f1" },
+    label: "F1",
+    storiesLink: { label: "All F1 Stories", href: "/stories?league=f1" },
     leagueLogo: "/logos/leagues/racing-f1.png",
     teams: [
       "Alpine", "Aston Martin", "Audi", "Cadillac",
       "Ferrari", "Haas", "McLaren", "Mercedes",
       "Racing Bulls", "Red Bull Racing", "Williams",
     ],
-    extraLinks: [{ label: "NASCAR", href: "/stories?league=nascar" }],
+  },
+  {
+    label: "NASCAR",
+    storiesLink: { label: "All NASCAR Stories", href: "/stories?league=nascar" },
+    leagueLogo: "/logos/leagues/racing-nascar.png",
+    teams: [],
+  },
+  {
+    // The long tail. Each of these graduates to its own rail item once it has
+    // enough stories to be worth a permanent slot.
+    label: "More",
+    storiesLink: { label: "All Stories", href: "/stories" },
+    teams: [],
+    extraLinks: [
+      { label: "College", href: "/stories?league=college" },
+      { label: "Rugby", href: "/stories?league=rugby" },
+      { label: "Cricket", href: "/stories?league=cricket" },
+      { label: "UFL", href: "/stories?league=ufl" },
+    ],
   },
 ];
 
+// "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
-  { label: "Home", href: "/" },
   { label: "Stories", href: "/stories" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
+
+const hasDropdown = (l: NavLeague) => l.teams.length > 0 || (l.extraLinks?.length ?? 0) > 0;
 
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -183,9 +204,28 @@ export default function Header() {
             </div>
           </Link>
 
-          {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-5 ml-auto">
-            {/* Regular nav links first */}
+          {/* Row 1 centre — persistent search. Sits between the wordmark and the
+              utility links so the masthead reads brand / find / about, and the
+              league rail below carries all the section navigation. */}
+          <form onSubmit={handleSearch} className="hidden lg:flex flex-1 justify-center px-8 max-w-[520px] mx-auto">
+            <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
+              <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              <input
+                ref={searchInputRef}
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Search jerseys, teams, uniforms…"
+                aria-label="Search stories"
+                className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/50 focus:outline-none"
+              />
+            </div>
+          </form>
+
+          {/* Row 1 right — utility links only */}
+          <nav className="hidden lg:flex items-center gap-5 flex-shrink-0">
             {navLinks.map((link) => (
               <Link
                 key={link.label}
@@ -195,10 +235,29 @@ export default function Header() {
                 {link.label}
               </Link>
             ))}
+          </nav>
 
-            {/* Divider */}
-            <div className="w-px h-5 bg-white/20" />
+          {/* Mobile hamburger — three absolutely centered bars so the open
+              state forms a geometrically exact X with no stray pixels */}
+          <button
+            className="lg:hidden relative w-10 h-10"
+            onClick={() => {
+              setMobileOpen(!mobileOpen);
+              setMobileLeague(null);
+            }}
+            aria-label="Toggle menu"
+          >
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+          </button>
+        </div>
 
+        {/* Row 2 — the league rail. Light so the full-colour league marks read
+            properly, horizontally scrollable so new sports just join the end
+            instead of breaking the layout. */}
+        <div className="hidden lg:block bg-white border-t border-black/[0.06]">
+          <nav className="hidden lg:flex items-center gap-1.5 max-w-[1200px] mx-auto px-4 sm:px-5 h-[46px] overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div
@@ -208,12 +267,12 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14px] font-medium text-white/85 transition-colors flex items-center gap-1.5 hover:text-white"
+                  className="text-[13.5px] font-bold text-[#14223f]/85 transition-colors flex items-center gap-1.5 hover:text-[#2f6bed] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#2f6bed]/[0.07]"
                   style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
                     // Leagues with no team list go straight to their stories page
-                    if (league.teams.length === 0) {
+                    if (!hasDropdown(league)) {
                       window.location.href = league.storiesLink.href;
                       return;
                     }
@@ -224,7 +283,7 @@ export default function Header() {
                     <img src={league.leagueLogo} alt="" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
                   )}
                   {league.label}
-                  {league.teams.length > 0 && (
+                  {hasDropdown(league) && (
                     <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                     </svg>
@@ -232,7 +291,7 @@ export default function Header() {
                 </button>
 
                 {/* Dropdown — only for leagues with teams */}
-                {league.teams.length > 0 && (
+                {hasDropdown(league) && (
                   <div
                     className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
@@ -290,62 +349,6 @@ export default function Header() {
               </div>
             ))}
           </nav>
-
-          {/* Search icon — desktop */}
-          <div
-            className="hidden lg:flex items-center ml-2 relative"
-            onMouseEnter={() => setSearchOpen(true)}
-            onMouseLeave={() => { if (!searchQuery) setTimeout(() => setSearchOpen(false), 150); }}
-          >
-            <button
-              onClick={() => setSearchOpen(!searchOpen)}
-              className="p-2 text-white/85 hover:text-white transition-colors"
-              aria-label="Search"
-            >
-              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-            </button>
-
-            {searchOpen && (
-              <form
-                onSubmit={handleSearch}
-                className="absolute right-0 top-full pt-1 z-50"
-              >
-                <div className="flex items-center gap-2 bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl border border-black/10 rounded-2xl shadow-lg p-2">
-                  <input
-                    ref={searchInputRef}
-                    type="text"
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    placeholder="Search stories..."
-                    className="w-[220px] px-3 py-1.5 text-[13px] focus:outline-none"
-                    autoFocus
-                  />
-                  <button type="button" onClick={() => { setSearchOpen(false); setSearchQuery(""); }} className="text-gray-medium hover:text-black p-1">
-                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                  </button>
-                </div>
-              </form>
-            )}
-          </div>
-
-          {/* Mobile hamburger — three absolutely centered bars so the open
-              state forms a geometrically exact X with no stray pixels */}
-          <button
-            className="lg:hidden relative w-10 h-10"
-            onClick={() => {
-              setMobileOpen(!mobileOpen);
-              setMobileLeague(null);
-            }}
-            aria-label="Toggle menu"
-          >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
-          </button>
         </div>
       </header>
 
@@ -395,7 +398,7 @@ export default function Header() {
           {/* League sections */}
           {leagues.map((league) => (
             <div key={league.label} className="w-full max-w-[300px]">
-              {league.teams.length > 0 ? (
+              {hasDropdown(league) ? (
                 <>
                   <button
                     className="w-full text-xl font-medium text-black transition-colors flex items-center justify-center gap-2 hover:text-[var(--league-accent)]"
