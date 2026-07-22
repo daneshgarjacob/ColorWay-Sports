@@ -3,7 +3,10 @@
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
-import { TEAM_LOGOS as teamLogos } from "@/lib/teamLogos";
+import { TEAM_LOGOS, COMPETITION_LOGOS } from "@/lib/teamLogos";
+
+// Nav rows look up team logos first, then soccer competitions / racing series.
+const teamLogos: Record<string, string> = { ...TEAM_LOGOS, ...COMPETITION_LOGOS };
 
 // Team logos come from the shared lib/teamLogos map (single source of truth).
 
@@ -93,6 +96,7 @@ const leagues: NavLeague[] = [
   {
     label: "Racing",
     storiesLink: { label: "F1 (Formula One)", href: "/stories?league=f1" },
+    leagueLogo: "/logos/leagues/racing-f1.png",
     teams: [
       "Alpine", "Aston Martin", "Audi", "Cadillac",
       "Ferrari", "Haas", "McLaren", "Mercedes",

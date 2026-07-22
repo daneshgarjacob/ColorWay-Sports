@@ -263,3 +263,14 @@ export const LEAGUE_LOGOS: Record<string, string> = {
   mlb: "/logos/leagues/mlb.png",
   nhl: "/logos/leagues/nhl.png",
 };
+
+// Soccer competitions + racing series shown in the nav dropdowns.
+export const COMPETITION_LOGOS: Record<string, string> = {
+  "UEFA Champions League": "/logos/leagues/soccer-uefa-champions-league.png",
+  "Premier League": "/logos/leagues/soccer-premier-league.png",
+  "La Liga": "/logos/leagues/soccer-la-liga.png",
+  "Serie A": "/logos/leagues/soccer-serie-a.png",
+  "Bundesliga": "/logos/leagues/soccer-bundesliga.png",
+  "Ligue 1": "/logos/leagues/soccer-ligue-1.png",
+  "MLS": "/logos/leagues/soccer-mls.png",
+};
