@@ -5,12 +5,14 @@ date: "2026-06-27"
 updatedDate: '2026-07-21'
 excerpt: "loanDepot Park has the least-open roof in MLB. Live status, why it stays shut in Miami, the Marlins' roof rules, and how it compares to every other retractable roof."
 gradient: "linear-gradient(135deg, #0077C8 0%, #111111 55%, #EF3340 100%)"
-coverImage: "/images/posts/roof-covers/loandepot-park-roof-2026.jpg"
-coverImagePosition: "center center"
 league: "mlb"
 teams: ["miami-marlins"]
----
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/marlins.png"
+cardStyle: words
+kicker: Roof Status
 
+---
 loanDepot Park has the least-open roof in Major League Baseball. The Marlins play the vast majority of home games with the roof closed, because a Miami summer means brutal tropical sun, oppressive humidity, and near-daily afternoon thunderstorms. The retractable roof exists to keep all of that out, so for most of the season it simply stays shut and the ballpark runs as a climate-controlled, indoor venue.
 
 

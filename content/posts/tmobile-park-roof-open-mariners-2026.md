@@ -5,12 +5,14 @@ date: "2026-06-27"
 updatedDate: '2026-07-21'
 excerpt: "T-Mobile Park's roof is a rain umbrella, not a dome. Live status, how to check today, the Mariners' roof rules, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1A1A1A 55%, #15A0A0 100%)"
-coverImage: "/images/posts/roof-covers/tmobile-park-roof-2026.jpg"
-coverImagePosition: "center center"
 league: "mlb"
 teams: ["seattle-mariners"]
----
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/mariners.png"
+cardStyle: words
+kicker: Roof Status
 
+---
 The T-Mobile Park roof works differently from every other retractable roof in baseball. It is a giant umbrella, not a dome. The roof slides over the field to keep the rain off, but it never fully encloses the building, so the sides stay open to the Seattle air even when the roof is shut. For the Mariners, the roof is about rain, not heat, and it is open more often than the roofs in the hot-weather markets.
 
 
