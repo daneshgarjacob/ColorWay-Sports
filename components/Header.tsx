@@ -208,7 +208,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14px] font-medium text-white/85 transition-colors flex items-center gap-1 hover:text-white"
+                  className="text-[14px] font-medium text-white/85 transition-colors flex items-center gap-1.5 hover:text-white"
                   style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -220,6 +220,9 @@ export default function Header() {
                     setOpenDropdown(openDropdown === league.label ? null : league.label);
                   }}
                 >
+                  {league.leagueLogo && (
+                    <img src={league.leagueLogo} alt="" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
+                  )}
                   {league.label}
                   {league.teams.length > 0 && (
                     <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -399,6 +402,9 @@ export default function Header() {
                     style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
                     onClick={() => setMobileLeague(mobileLeague === league.label ? null : league.label)}
                   >
+                    {league.leagueLogo && (
+                      <img src={league.leagueLogo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
+                    )}
                     {league.label}
                     <svg className={`w-4 h-4 transition-transform duration-200 ${mobileLeague === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />

@@ -285,3 +285,20 @@ export const COMPETITION_LOGOS: Record<string, string> = {
   "Williams": "/logos/leagues/racing-williams.png",
   // Audi and Cadillac join for 2026; F1 has not published logo assets for them yet.
 };
+
+// Canonical display name for a slug, derived from the logo maps above so the
+// nav and the /stories filter can never disagree. Rebuilding a name from its
+// slug ("uefa-champions-league" -> "Uefa Champions League") mangles every
+// acronym, so look it up here first and only fall back to title-casing.
+const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, "-");
+
+export const DISPLAY_NAME_BY_SLUG: Record<string, string> = Object.fromEntries(
+  [...Object.keys(TEAM_LOGOS), ...Object.keys(COMPETITION_LOGOS)].map((name) => [slugify(name), name])
+);
+
+export function displayNameForSlug(slug: string): string {
+  return (
+    DISPLAY_NAME_BY_SLUG[slug] ??
+    slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")
+  );
+}

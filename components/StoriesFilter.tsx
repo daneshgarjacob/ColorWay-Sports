@@ -2,7 +2,7 @@
 
 import { useSearchParams } from "next/navigation";
 import StoryCard from "@/components/StoryCard";
-import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS } from "@/lib/teamLogos";
+import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, displayNameForSlug } from "@/lib/teamLogos";
 
 interface PostMeta {
   slug: string;
@@ -64,10 +64,7 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
 
   if (team) {
     filtered = posts.filter((p) => p.teams?.includes(team));
-    const teamName = team
-      .split("-")
-      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-      .join(" ");
+    const teamName = displayNameForSlug(team);
     heading = teamName;
     description = `All ${teamName} coverage from ColorWay Sports.`;
     headingLogo = TEAM_LOGO_BY_SLUG[team];
