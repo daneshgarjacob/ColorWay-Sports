@@ -140,12 +140,22 @@ type SearchIndex = {
 // Rank matches so a typed "lakers" surfaces the Los Angeles Lakers team page
 // above any story that merely mentions them: word-start beats mid-word, and
 // teams outrank stories at equal quality.
-function scoreMatch(haystack: string, q: string) {
+//
+// Multi-word queries match on EVERY term rather than the exact phrase, because
+// nobody types a headline verbatim — "roof status" has to find "Is the Globe
+// Life Field Roof Open Today? Rangers 2026 Roof Schedule".
+function scoreMatch(haystack: string, query: string) {
   const h = haystack.toLowerCase();
-  const i = h.indexOf(q);
-  if (i < 0) return -1;
-  if (i === 0) return 0;
-  return /\s|-/.test(h[i - 1]) ? 1 : 2;
+  const terms = query.split(/\s+/).filter(Boolean);
+  if (!terms.length) return -1;
+  let worst = 0;
+  for (const t of terms) {
+    const i = h.indexOf(t);
+    if (i < 0) return -1;
+    const rank = i === 0 ? 0 : /\s|-|\(/.test(h[i - 1]) ? 1 : 2;
+    if (rank > worst) worst = rank;
+  }
+  return worst;
 }
 
 const hasDropdown = (l: NavLeague) => l.teams.length > 0 || (l.extraLinks?.length ?? 0) > 0;
