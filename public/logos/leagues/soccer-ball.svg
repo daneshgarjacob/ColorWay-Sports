@@ -1,9 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Soccer">
-  <circle cx="32" cy="32" r="29" fill="#ffffff" stroke="currentColor" stroke-width="4"/>
-  <path fill="currentColor" d="M32 15.5l10.5 7.6-4 12.3H25.5l-4-12.3L32 15.5z"/>
-  <path fill="currentColor" d="M32 4.2l6.1 4.4-1.3 4-9.6 0-1.3-4L32 4.2z"/>
-  <path fill="currentColor" d="M8.1 22.6l6.2 4.5-1.5 4.6-9.6-.1-1.1-3.6 6-5.4z"/>
-  <path fill="currentColor" d="M55.9 22.6l6 5.4-1.1 3.6-9.6.1-1.5-4.6 6.2-4.5z"/>
-  <path fill="currentColor" d="M18.6 47.9l2.4 7.2-3 2.8-7.6-5.6 1.1-3.7 7.1-.7z"/>
-  <path fill="currentColor" d="M45.4 47.9l7.1.7 1.1 3.7-7.6 5.6-3-2.8 2.4-7.2z"/>
+  <!-- Classic truncated-icosahedron ball: one centre pentagon, five radiating
+       seams, five edge pentagons clipped by the ball's circumference. -->
+  <defs>
+    <clipPath id="ballClip"><circle cx="32" cy="32" r="27.5"/></clipPath>
+  </defs>
+  <circle cx="32" cy="32" r="27.5" fill="#fff"/>
+  <g clip-path="url(#ballClip)">
+    <!-- centre pentagon -->
+    <path fill="currentColor" d="M32 17.6l11 8-4.2 12.9H25.2L21 25.6z"/>
+    <!-- edge pentagons, pushed past the rim so the clip cuts them cleanly -->
+    <path fill="currentColor" d="M32 2.4l11.6 8.4-2.8 8.6H23.2l-2.8-8.6z"/>
+    <path fill="currentColor" d="M4.6 22.3l8.7 6.4-3.1 9.6-9.9 3.2-5.4-7.4 3.4-10.6z"/>
+    <path fill="currentColor" d="M59.4 22.3l6.3 1.2 3.4 10.6-5.4 7.4-9.9-3.2-3.1-9.6z"/>
+    <path fill="currentColor" d="M20.4 46.2h9.4l3.4 10.5-7.6 5.5-9.6-4.5-1.3-8.9z"/>
+    <path fill="currentColor" d="M43.6 46.2l5.7 2.6-1.3 8.9-9.6 4.5-7.6-5.5 3.4-10.5z"/>
+    <!-- seams from the centre pentagon out to each edge pentagon -->
+    <g stroke="currentColor" stroke-width="2.6" stroke-linecap="round" fill="none">
+      <path d="M32 17.6V9.2"/>
+      <path d="M21 25.6l-8-2.8"/>
+      <path d="M43 25.6l8-2.8"/>
+      <path d="M25.2 38.5l-5 7.2"/>
+      <path d="M38.8 38.5l5 7.2"/>
+    </g>
+  </g>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="currentColor" stroke-width="3.4"/>
 </svg>

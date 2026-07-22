@@ -181,7 +181,7 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-white/10 transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-[#003087]/72 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.22)]" : "bg-[#003087] shadow-none"}`}>
-        <div className="max-w-[1200px] mx-auto px-4 sm:px-5 flex items-center justify-between h-[80px] sm:h-[100px]">
+        <div className="w-full px-4 sm:px-8 xl:px-12 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
             <svg width="38" height="38" viewBox="0 0 100 100" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
@@ -207,7 +207,7 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <form onSubmit={handleSearch} className="hidden lg:flex flex-1 justify-center px-8 max-w-[520px] mx-auto">
+          <form onSubmit={handleSearch} className="hidden lg:flex flex-1 justify-center max-w-[620px] mx-auto">
             <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
               <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -225,12 +225,12 @@ export default function Header() {
           </form>
 
           {/* Row 1 right — utility links only */}
-          <nav className="hidden lg:flex items-center gap-5 flex-shrink-0">
+          <nav className="hidden lg:flex items-center gap-1 flex-shrink-0">
             {navLinks.map((link) => (
               <Link
                 key={link.label}
                 href={link.href}
-                className="text-[14px] font-medium text-white/85 hover:text-white transition-colors"
+                className="text-[13.5px] font-semibold tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
               >
                 {link.label}
               </Link>
@@ -257,7 +257,7 @@ export default function Header() {
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
         <div className="hidden lg:block bg-white border-t border-black/[0.06]">
-          <nav className="hidden lg:flex items-center gap-1.5 max-w-[1200px] mx-auto px-4 sm:px-5 h-[46px] overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+          <nav className="hidden lg:flex items-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div

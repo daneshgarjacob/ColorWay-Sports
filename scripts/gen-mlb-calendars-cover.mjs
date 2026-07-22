@@ -39,17 +39,20 @@ for (let r = 0; r < ROWS; r++) {
       const cx = x + CELL / 2, ty = y + 24;
       cells += `<path d="M${cx - 13} ${ty} l-15 7 -6 17 9 4 4 -8 v30 q0 6 6 6 h30 q6 0 6 -6 v-30 l4 8 9 -4 -6 -17 -15 -7 -7 6 -6 4 -6 -4 z" fill="#ffffff" opacity="0.92"/>`;
     } else {
-      cells += `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="14" fill="#ffffff" opacity="0.07"/>`;
+      cells += `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="14" fill="#ffffff" opacity="0.10"/>`;
     }
   }
 }
 
+// Gradient lifted well off near-black (Jake 7/22): the dark club marks along the
+// top strip (Yankees, Pirates, White Sox, Rockies) vanished against the old
+// #080f20 corner. Still unmistakably brand navy, just lighter.
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#14223f"/>
-      <stop offset="0.55" stop-color="#0d1730"/>
-      <stop offset="1" stop-color="#080f20"/>
+      <stop offset="0" stop-color="#37578f"/>
+      <stop offset="0.55" stop-color="#284376"/>
+      <stop offset="1" stop-color="#1d3157"/>
     </linearGradient>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
