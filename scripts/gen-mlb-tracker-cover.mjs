@@ -48,10 +48,16 @@ const mlbLogoPath = resolve(root, "public/logos/mlb.png");
 const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
 const tiles = resolve(root, "public/images/posts/mlb-daily-tracker");
 // Two clean SOLO jerseys side by side (no overlap — Jake killed the messy fan 7/9).
-// 7/11 (Jake): flipped so the Dodgers home white is the bigger front jersey (left
-// slot, h370) and the Yankees road gray sits smaller behind it (right slot, h330).
-const leftJerseyPath = resolve(tiles, "dodgers-home-white.png");
-const rightJerseyPath = resolve(tiles, "yankees-road-gray.png");
+// 7/22 (Jake): read as a real matchup, "Yankees at Dodgers" — away on the left,
+// home on the right, both the SAME size. Each source PNG carries a different
+// amount of transparent padding, so trim to content first and match on the
+// trimmed height; sizing the raw files would leave them visually unequal.
+// Both must be FRONT-ONLY shots (feedback_prefer_front_only_jersey_shots): our
+// only Yankees road gray is a front+back composite, which is precisely what made
+// the pair look mismatched, so the matchup runs Dodgers at Yankees instead —
+// both sources are clean 800x800 front-only cutouts.
+const leftJerseyPath = resolve(tiles, "dodgers-road-gray.png");   // away
+const rightJerseyPath = resolve(tiles, "yankees-home-white-cutout.png"); // home
 
 const composites = [];
 
@@ -61,13 +67,18 @@ if (existsSync(mlbLogoPath)) {
   composites.push({ input: mlb, top: BADGE.y + Math.round((BADGE.h - m.height) / 2), left: BADGE.x + 24 });
 }
 
-if (existsSync(leftJerseyPath)) {
-  const lj = await sharp(leftJerseyPath).resize({ height: 370 }).png().toBuffer();
-  composites.push({ input: lj, top: 42, left: 900 });
-}
-if (existsSync(rightJerseyPath)) {
-  const rj = await sharp(rightJerseyPath).resize({ height: 330 }).png().toBuffer();
-  composites.push({ input: rj, top: 82, left: 1210 });
+const JERSEY_H = 330, JERSEY_GAP = 46, RIGHT_MARGIN = 74, JERSEY_TOP = 62;
+if (existsSync(leftJerseyPath) && existsSync(rightJerseyPath)) {
+  const [lj, rj] = await Promise.all(
+    [leftJerseyPath, rightJerseyPath].map((f) =>
+      sharp(f).trim().resize({ height: JERSEY_H }).png().toBuffer()
+    )
+  );
+  const [lm, rm] = await Promise.all([sharp(lj).metadata(), sharp(rj).metadata()]);
+  const totalW = (lm.width || 0) + JERSEY_GAP + (rm.width || 0);
+  const startX = W - RIGHT_MARGIN - totalW;
+  composites.push({ input: lj, top: JERSEY_TOP, left: startX });
+  composites.push({ input: rj, top: JERSEY_TOP, left: startX + (lm.width || 0) + JERSEY_GAP });
 }
 
 if (existsSync(cwLogoPath)) {

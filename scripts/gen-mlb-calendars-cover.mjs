@@ -34,8 +34,10 @@ for (let r = 0; r < ROWS; r++) {
       const col = TILE_COLORS[filled % TILE_COLORS.length];
       filled++;
       cells += `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="14" fill="${col}"/>`;
-      // Simplified jersey silhouette so the tiles read as uniforms, not swatches.
-      cells += `<path d="M${x + 26} ${y + 30} l14 -8 h20 l14 8 v12 l-10 4 v30 h-42 v-30 l-10 -4 z" fill="#ffffff" opacity="0.9"/>`;
+      // Jersey silhouette: centred in the cell, with real sleeves, a collar
+      // notch and a rounded hem so it reads as a shirt rather than a clipped box.
+      const cx = x + CELL / 2, ty = y + 24;
+      cells += `<path d="M${cx - 13} ${ty} l-15 7 -6 17 9 4 4 -8 v30 q0 6 6 6 h30 q6 0 6 -6 v-30 l4 8 9 -4 -6 -17 -15 -7 -7 6 -6 4 -6 -4 z" fill="#ffffff" opacity="0.92"/>`;
     } else {
       cells += `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="14" fill="#ffffff" opacity="0.07"/>`;
     }
@@ -52,7 +54,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
 
-  <text x="176" y="396" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#2f6bed">ALL 30 TEAMS · 2026</text>
+  <text x="96" y="396" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#2f6bed">ALL 30 TEAMS · 2026</text>
   <text x="96" y="506" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Uniform</text>
   <text x="96" y="596" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900" fill="#ffffff" letter-spacing="-1">Calendars</text>
   <rect x="96" y="642" width="150" height="5" fill="#2f6bed"/>
@@ -107,9 +109,23 @@ try {
   console.warn("  skipped MLB mark:", e.message);
 }
 
+// ColorWay mark, bottom-right — every other branded cover carries it and this
+// one was missing it.
+let cwLayer = [];
+try {
+  const cw = await sharp(resolve(root, "public/brand/colorway-sports-logo-white.png"))
+    .resize({ height: 60, fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .png()
+    .toBuffer();
+  const m = await sharp(cw).metadata();
+  cwLayer = [{ input: cw, top: H - 60 - 44, left: W - (m.width || 200) - 60 }];
+} catch (e) {
+  console.warn("  skipped ColorWay mark:", e.message);
+}
+
 const out = resolve(root, "public/images/posts/mlb-daily-tracker/calendars-cover.jpg");
 await sharp(Buffer.from(svg))
-  .composite([...logoLayers, ...mlbLayer])
+  .composite([...logoLayers, ...mlbLayer, ...cwLayer])
   .jpeg({ quality: 88 })
   .toFile(out);
 console.log("wrote", out);
