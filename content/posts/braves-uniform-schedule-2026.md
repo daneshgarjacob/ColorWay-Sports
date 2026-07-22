@@ -5,15 +5,11 @@ date: "2026-05-25"
 updatedDate: "2026-07-22"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
-coverImage: "/images/posts/braves-city-connect-2026/braves-cc-cover.jpg"
-coverImagePosition: "center 50%"
+coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
 logoSrc: "/logos/mlb.png"
 league: "mlb"
 teams: ["atlanta-braves"]
 ---
-
-<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.jpg" alt="Atlanta Braves 2026 uniform schedule cover showing the powder blue City Connect Atlanta script jersey" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
 The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Braves wordmark for the bulk of home games at Truist Park. Road grays with the Atlanta script for most away games. A red alternate and a navy alternate splitting select weeknights. The new powder blue City Connect for Friday night home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
 

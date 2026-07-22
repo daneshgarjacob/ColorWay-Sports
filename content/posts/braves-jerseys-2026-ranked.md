@@ -1,9 +1,9 @@
 ---
-title: "Every Braves Jersey in 2026, Ranked: The Powder Blue City Connect Is the Best Thing They Wear and the Red Alternate Is the Worst"
+title: "Every Braves Jersey in 2026, Ranked: The Powder Blue City Connect Is an A+ and One Braves Uniform Has Quietly Vanished"
 category: MLB
 date: "2026-07-22"
 updatedDate: "2026-07-22"
-excerpt: "All five Atlanta Braves jerseys and uniforms for 2026 ranked and graded, from the red alternate at the bottom to the powder blue City Connect at number one."
+excerpt: "Every Atlanta Braves jersey and uniform for 2026, ranked and graded worst to first, plus the one alternate that has disappeared from the rotation."
 gradient: "linear-gradient(135deg, #8FBCE6 0%, #CE1141 130%)"
 logoSrc: "/logos/mlb.png"
 logoSrc2: "/logos/braves.png"
@@ -20,15 +20,15 @@ Then in April they put out a powder blue City Connect and quietly made the best 
 
 That is the tension running through this closet. Four of these five jerseys are arrangements of a theme the Braves have been playing since 1987, and they range from very good to genuinely flat. The fifth steps outside the palette entirely, and it is not close.
 
-There is also a jersey missing from this list, and we get to that at the bottom.
+There is also a uniform missing from this list. The Braves still sell it, it used to have a standing weekly slot, and as far as we can tell they have not put it on once all season. That one is at the bottom.
 
-Here is every Braves jersey for 2026, ranked worst to first and graded.
+Here is every Braves jersey and uniform for 2026, ranked worst to first and graded.
 
 ## 5. Red Alternate
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #CE1141, #13274F); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B-</div>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Braves/status/2078301704278138935"></a></blockquote>
@@ -37,7 +37,9 @@ The problem is the script. Atlanta's "Braves" wordmark is navy with a white outl
 
 Look at what happens to the tomahawk. On the home whites that logo is the sharpest graphic in the uniform. On the red it becomes a red-on-red shape held together by an outline, and from the upper deck or a center field camera it goes soft.
 
-Nothing here is badly made. The navy piping down the placket and around the sleeves is correct and the proportions are right. It just does the one thing an alternate should never do, which is make the team's best assets harder to see. Every other jersey on this list sharpens the version of the Braves you already know. This one dims it.
+None of that makes it a bad jersey. The navy piping down the placket and around the sleeves is correct, the proportions are right, and red is a real Braves color rather than a costume the way half the league's alternates are. A red jersey with that script on it still looks like Atlanta from the first glance.
+
+It lands where it lands because it is the one uniform in this closet that makes the team's best graphic slightly harder to read instead of easier. It ties with the navy on grade, and the navy edges it on the tiebreak below.
 
 ## 4. Navy Alternate
 
@@ -48,7 +50,7 @@ Nothing here is badly made. The navy piping down the placket and around the slee
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Braves/status/2069889520837812661"></a></blockquote>
 
-The weeknight alternate, and it edges out the red for one structural reason: navy is already the anchor of this identity. The cap is navy. The script is navy. The piping is navy. Putting the whole jersey in it reads as the team turning up its own volume rather than reaching for a color it has to justify.
+Graded dead even with the red, and it takes the higher slot for one structural reason: navy is already the anchor of this identity. The cap is navy. The script is navy. The piping is navy. Putting the whole jersey in it reads as the team turning up its own volume rather than reaching for a color it has to justify.
 
 That also caps how far it can climb. The navy is the safest thing the Braves could possibly have done with an alternate slot, and safe is exactly what it looks like on a Wednesday night. It photographs well, it never embarrasses itself, and it is almost impossible to feel strongly about. When a franchise owns lettering this good, an alternate should be doing more than changing the background behind it.
 
@@ -125,9 +127,11 @@ We cannot find it on the field in 2026.
 
 Our [daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all thirty clubs actually wore, game by game, and across every Braves game we have logged this season the cream has not appeared once. The detail that makes that hard to dismiss: the cream is supposed to be the Sunday home look, and on **Sunday, July 19, at home against the Rangers, Atlanta wore the standard home whites.** That is precisely the slot the cream is meant to occupy, and it went to a different jersey.
 
-One Sunday is not proof. But combined with a search that turns up no 2026 photograph of the Braves in cream at all, the likeliest explanation is that it has quietly dropped out of the rotation this year, whatever the team store still says. We are not going to rank a jersey we cannot show you wearing.
+There is a second reason nobody has raised an alarm about this, and it is the more interesting one. **Atlanta's cream is barely warmer than its white.** Put the two side by side on a hanger and the difference is obvious. Put one of them on a player under stadium lights, on a broadcast feed, at thirty yards, and it mostly reads as a white jersey with red lettering. Compare that to the Phillies, whose cream is warm enough that nobody watching could mistake it for their home whites. If the Braves quietly stopped wearing theirs, the honest answer is that a lot of people would never notice, and that is at least as much a comment on the jersey as it is on the fans.
 
-If it turns up, we will slot it in, and on design alone it would land near the top. The [Braves uniform calendar](/mlb-tracker/braves) is where it would show up first.
+One Sunday is not proof, and we are not calling it retired. But combined with a search that turns up no 2026 photograph of the Braves in cream at all, the likeliest explanation is that it has dropped out of the rotation this year, whatever the team store still says. We are not going to rank a jersey we cannot show you wearing.
+
+If it turns up, we will slot it in. The [Braves uniform calendar](/mlb-tracker/braves) is where it would show first.
 
 ## Every Braves Jersey in 2026, at a Glance
 
@@ -136,7 +140,7 @@ If it turns up, we will slot it in, and on design alone it would land near the t
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>2. Home White</strong> — A- · most home games</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>3. Road Gray</strong> — B+ · away games</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>4. Navy Alternate</strong> — B · select weeknights</p>
-  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>5. Red Alternate</strong> — B- · select weeknights</p>
+  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>5. Red Alternate</strong> — B · select weeknights</p>
   <p style="margin: 0; color: #2a2213; font-size: 0.98em;"><strong>Unranked: Cream Alternate</strong> — still sold, not seen on the field in 2026</p>
 </div>
 
@@ -144,7 +148,7 @@ For which look comes out on which day, the [Braves uniform schedule](/stories/br
 
 ## The Bottom Line on the Braves Jersey Rankings
 
-Atlanta owns one of the best-drawn chest marks in baseball and has been smart enough to leave it alone for forty years. The home white and the road gray are both good uniforms because that script is a good piece of lettering, and the two colored alternates are the weakest things in the closet for the same underlying reason: putting a dark script on a dark jersey throws away the contrast that makes the wordmark work everywhere else.
+Atlanta owns one of the best-drawn chest marks in baseball and has been smart enough to leave it alone for forty years. The home white and the road gray are both good uniforms because that script is a good piece of lettering, and the two colored alternates land level with each other, both good without being essential, for the same underlying reason: putting a dark script on a dark jersey gives away some of the contrast that makes the wordmark work everywhere else.
 
 The cream, which used to be the answer to that problem, appears to have quietly left the rotation.
 
@@ -170,7 +174,7 @@ Not so far in 2026. The cream 1966 throwback is still sold as a current alternat
 
 **Why is the Braves red alternate ranked last?**
 
-Because the "Braves" script is drawn in navy with a white outline, and navy on red leaves almost no value contrast. The script and the tomahawk both go soft at distance, which is the opposite of what an alternate should do to a team's best graphic.
+It grades a B, level with the navy, so last here is a narrow call rather than a knock. The tiebreak is contrast: the "Braves" script is navy with a white outline, and navy on red leaves very little separation, so the script and the tomahawk both soften at distance in a way they do not on white or gray.
 
 **What jersey are the Braves wearing today?**
 
