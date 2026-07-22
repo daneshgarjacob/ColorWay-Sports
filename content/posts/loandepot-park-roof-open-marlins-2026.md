@@ -30,6 +30,16 @@ loanDepot Park has the least-open roof in Major League Baseball. The Marlins pla
   </div>
 </div>
 
+
+<div style="margin: 1.75em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #eef8f2; border: 1px solid #c3e6d2; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #d8f0e2; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#12925a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2z"/><path d="M13 5v2"/><path d="M13 17v2"/><path d="M13 11v2"/></svg></div>
+<div style="flex: 1 1 170px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Going to the game?</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Find Marlins home tickets on SeatGeek</div></div>
+<a href="https://seatgeek.com/miami-marlins-tickets" target="_blank" rel="sponsored noopener" data-ticket-cta style="background: #12925a; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Get Tickets &rarr;</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on ticket purchases, at no extra cost to you.</p>
+</div>
+
 ## Is the loanDepot Park Roof Open or Closed Today?
 
 <div style="margin: 1.5em 0; padding: 1.75em 1.5em; background: linear-gradient(135deg, #0077C8 0%, #EF3340 100%); border-radius: 16px; text-align: center;">
