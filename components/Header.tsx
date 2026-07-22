@@ -132,6 +132,22 @@ const navLinks = [
   { label: "Contact", href: "/contact" },
 ];
 
+type SearchIndex = {
+  posts: { t: string; s: string; l: string }[];
+  teams: { n: string; s: string; g?: string }[];
+};
+
+// Rank matches so a typed "lakers" surfaces the Los Angeles Lakers team page
+// above any story that merely mentions them: word-start beats mid-word, and
+// teams outrank stories at equal quality.
+function scoreMatch(haystack: string, q: string) {
+  const h = haystack.toLowerCase();
+  const i = h.indexOf(q);
+  if (i < 0) return -1;
+  if (i === 0) return 0;
+  return /\s|-/.test(h[i - 1]) ? 1 : 2;
+}
+
 const hasDropdown = (l: NavLeague) => l.teams.length > 0 || (l.extraLinks?.length ?? 0) > 0;
 
 export default function Header() {
@@ -141,7 +157,11 @@ export default function Header() {
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [scrolled, setScrolled] = useState(false);
+  const [index, setIndex] = useState<SearchIndex | null>(null);
+  const [sugOpen, setSugOpen] = useState(false);
+  const [activeSug, setActiveSug] = useState(-1);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const searchBoxRef = useRef<HTMLDivElement>(null);
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const handleSearch = (e: React.FormEvent) => {
@@ -152,6 +172,25 @@ export default function Header() {
       setSearchQuery("");
     }
   };
+
+  // Pull the index on first focus only — no cost for readers who never search.
+  const loadIndex = () => {
+    if (index) return;
+    fetch("/search-index.json")
+      .then((r) => r.json())
+      .then(setIndex)
+      .catch(() => {});
+  };
+
+  // Dismiss suggestions on an outside click.
+  useEffect(() => {
+    if (!sugOpen) return;
+    const onDoc = (e: MouseEvent) => {
+      if (!searchBoxRef.current?.contains(e.target as Node)) setSugOpen(false);
+    };
+    document.addEventListener("mousedown", onDoc);
+    return () => document.removeEventListener("mousedown", onDoc);
+  }, [sugOpen]);
 
   // Close dropdown when clicking outside
   useEffect(() => {
@@ -168,6 +207,46 @@ export default function Header() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  // Teams first, then stories. Both capped so the panel never runs off-screen.
+  const q = searchQuery.trim().toLowerCase();
+  const suggestions = (() => {
+    if (!index || q.length < 2) return { teams: [], posts: [] };
+    const teams = index.teams
+      .map((t) => ({ t, r: scoreMatch(t.n, q) }))
+      .filter((x) => x.r >= 0)
+      .sort((a, b) => a.r - b.r || a.t.n.length - b.t.n.length)
+      .slice(0, 4)
+      .map((x) => x.t);
+    const posts = index.posts
+      .map((p) => ({ p, r: scoreMatch(p.t, q) }))
+      .filter((x) => x.r >= 0)
+      .sort((a, b) => a.r - b.r)
+      .slice(0, 6)
+      .map((x) => x.p);
+    return { teams, posts };
+  })();
+  const flatSuggestions = [
+    ...suggestions.teams.map((t) => `/stories?team=${encodeURIComponent(t.s)}`),
+    ...suggestions.posts.map((p) => `/stories/${p.s}`),
+  ];
+  const hasSuggestions = flatSuggestions.length > 0;
+
+  const onSearchKeyDown = (e: React.KeyboardEvent) => {
+    if (!sugOpen || !hasSuggestions) return;
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      setActiveSug((i) => (i + 1) % flatSuggestions.length);
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      setActiveSug((i) => (i <= 0 ? flatSuggestions.length - 1 : i - 1));
+    } else if (e.key === "Enter" && activeSug >= 0) {
+      e.preventDefault();
+      window.location.href = flatSuggestions[activeSug];
+    } else if (e.key === "Escape") {
+      setSugOpen(false);
+    }
+  };
 
   const handleMouseEnter = (label: string) => {
     if (dropdownTimeout.current) clearTimeout(dropdownTimeout.current);
@@ -207,22 +286,78 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <form onSubmit={handleSearch} className="hidden lg:flex flex-1 justify-center max-w-[620px] mx-auto">
-            <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
-              <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-              <input
-                ref={searchInputRef}
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search jerseys, teams, uniforms…"
-                aria-label="Search stories"
-                className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/50 focus:outline-none"
-              />
-            </div>
-          </form>
+          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[620px] mx-auto relative">
+            <form onSubmit={handleSearch}>
+              <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
+                <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+                <input
+                  ref={searchInputRef}
+                  type="text"
+                  value={searchQuery}
+                  onFocus={() => { loadIndex(); setSugOpen(true); }}
+                  onChange={(e) => { setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
+                  onKeyDown={onSearchKeyDown}
+                  placeholder="Discover jerseys, teams, uniforms…"
+                  aria-label="Discover stories and teams"
+                  aria-expanded={sugOpen && hasSuggestions}
+                  role="combobox"
+                  aria-controls="discover-suggestions"
+                  className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/50 focus:outline-none"
+                />
+              </div>
+            </form>
+
+            {sugOpen && hasSuggestions && (
+              <div
+                id="discover-suggestions"
+                role="listbox"
+                className="absolute left-0 right-0 top-full mt-2 bg-white rounded-2xl shadow-xl border border-black/10 overflow-hidden z-50 py-1"
+              >
+                {suggestions.teams.length > 0 && (
+                  <p className="px-4 pt-2 pb-1 text-[10px] font-bold uppercase tracking-[0.14em] text-gray-medium">Teams</p>
+                )}
+                {suggestions.teams.map((t, i) => (
+                  <Link
+                    key={t.s}
+                    href={`/stories?team=${encodeURIComponent(t.s)}`}
+                    role="option"
+                    aria-selected={activeSug === i}
+                    onClick={() => setSugOpen(false)}
+                    className={`flex items-center gap-2.5 px-4 py-2 text-[13.5px] font-semibold text-black transition-colors ${activeSug === i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                  >
+                    {t.g && <img src={t.g} alt="" className="w-5 h-5 object-contain flex-shrink-0" />}
+                    {t.n}
+                  </Link>
+                ))}
+
+                {suggestions.posts.length > 0 && (
+                  <p className="px-4 pt-2.5 pb-1 text-[10px] font-bold uppercase tracking-[0.14em] text-gray-medium border-t border-border mt-1">Stories</p>
+                )}
+                {suggestions.posts.map((p, i) => (
+                  <Link
+                    key={p.s}
+                    href={`/stories/${p.s}`}
+                    role="option"
+                    aria-selected={activeSug === suggestions.teams.length + i}
+                    onClick={() => setSugOpen(false)}
+                    className={`block px-4 py-2 text-[13px] text-black/85 leading-snug transition-colors ${activeSug === suggestions.teams.length + i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                  >
+                    {p.t}
+                  </Link>
+                ))}
+
+                <button
+                  type="button"
+                  onClick={handleSearch}
+                  className="w-full text-left px-4 py-2.5 mt-1 text-[12.5px] font-bold text-[#2f6bed] border-t border-border hover:bg-[#2f6bed]/[0.06] transition-colors"
+                >
+                  See all results for “{searchQuery.trim()}” →
+                </button>
+              </div>
+            )}
+          </div>
 
           {/* Row 1 right — utility links only */}
           <nav className="hidden lg:flex items-center gap-1 flex-shrink-0">
@@ -257,7 +392,7 @@ export default function Header() {
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
         <div className="hidden lg:block bg-white border-t border-black/[0.06]">
-          <nav className="hidden lg:flex items-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
+          <nav className="hidden lg:flex items-center justify-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div
@@ -293,7 +428,7 @@ export default function Header() {
                 {/* Dropdown — only for leagues with teams */}
                 {hasDropdown(league) && (
                   <div
-                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
+                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
