@@ -67,11 +67,20 @@ export default async function MlbTrackerHub() {
                       href={`/mlb-tracker/${t.key}`}
                       className="group flex items-center gap-3 border border-black/[0.08] rounded-xl px-4 py-3.5 bg-white hover:border-black/25 hover:shadow-[0_2px_12px_rgba(10,23,51,0.08)] transition-all"
                     >
-                      <span
-                        aria-hidden
-                        className="w-2.5 h-9 rounded-full shrink-0"
-                        style={{ background: t.color }}
-                      />
+                      {t.logo ? (
+                        <img
+                          src={t.logo}
+                          alt=""
+                          aria-hidden
+                          className="w-9 h-9 object-contain shrink-0"
+                        />
+                      ) : (
+                        <span
+                          aria-hidden
+                          className="w-2.5 h-9 rounded-full shrink-0"
+                          style={{ background: t.color }}
+                        />
+                      )}
                       <span className="min-w-0 flex-1">
                         <span className="block text-[15px] font-bold text-blue-dark leading-tight">
                           {t.name}

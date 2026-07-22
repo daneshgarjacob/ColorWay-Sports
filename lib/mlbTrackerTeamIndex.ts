@@ -22,6 +22,7 @@ export type TeamIndexEntry = {
   division: string;
   color: string;
   scheduleHref: string;
+  logo: string;
   games: TeamGame[];
 };
 
@@ -85,6 +86,39 @@ function shortSuffix(paren: string): string {
 
 const strip = (s: string) => s.replace(/<[^>]+>/g, "").trim();
 
+const MLB_TEAM_LOGO: Record<string, string> = {
+  "yankees": "/logos/teams/mlb-new-york-yankees.png",
+  "red-sox": "/logos/teams/mlb-boston-red-sox.png",
+  "blue-jays": "/logos/teams/mlb-toronto-blue-jays.png",
+  "rays": "/logos/teams/mlb-tampa-bay-rays.png",
+  "orioles": "/logos/teams/mlb-baltimore-orioles.png",
+  "guardians": "/logos/teams/mlb-cleveland-guardians.png",
+  "twins": "/logos/teams/mlb-minnesota-twins.png",
+  "white-sox": "/logos/teams/mlb-chicago-white-sox.png",
+  "tigers": "/logos/teams/mlb-detroit-tigers.png",
+  "royals": "/logos/teams/mlb-kansas-city-royals.png",
+  "astros": "/logos/teams/mlb-houston-astros.png",
+  "mariners": "/logos/teams/mlb-seattle-mariners.png",
+  "rangers": "/logos/teams/mlb-texas-rangers.png",
+  "angels": "/logos/teams/mlb-los-angeles-angels.png",
+  "athletics": "/logos/teams/mlb-oakland-athletics.png",
+  "braves": "/logos/teams/mlb-atlanta-braves.png",
+  "phillies": "/logos/teams/mlb-philadelphia-phillies.png",
+  "mets": "/logos/teams/mlb-new-york-mets.png",
+  "marlins": "/logos/teams/mlb-miami-marlins.png",
+  "nationals": "/logos/teams/mlb-washington-nationals.png",
+  "brewers": "/logos/teams/mlb-milwaukee-brewers.png",
+  "cubs": "/logos/teams/mlb-chicago-cubs.png",
+  "cardinals": "/logos/teams/mlb-st-louis-cardinals.png",
+  "pirates": "/logos/teams/mlb-pittsburgh-pirates.png",
+  "reds": "/logos/teams/mlb-cincinnati-reds.png",
+  "dodgers": "/logos/teams/mlb-los-angeles-dodgers.png",
+  "padres": "/logos/teams/mlb-san-diego-padres.png",
+  "giants": "/logos/teams/mlb-san-francisco-giants.png",
+  "diamondbacks": "/logos/teams/mlb-arizona-diamondbacks.png",
+  "rockies": "/logos/teams/mlb-colorado-rockies.png",
+};
+
 export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
   const byName = new Map<string, TeamIndexEntry>();
   for (const [name, division, color, slug] of TEAMS) {
@@ -94,6 +128,7 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
       division,
       color,
       scheduleHref: `/stories/${slug}`,
+      logo: MLB_TEAM_LOGO[name.toLowerCase().replace(/\s+/g, "-")] || "",
       games: [],
     });
   }
@@ -295,5 +330,5 @@ export function teamMetaByKey(key: string) {
   const found = TEAMS.find(([name]) => name.toLowerCase().replace(/\s+/g, "-") === key);
   if (!found) return null;
   const [name, division, color, slug] = found;
-  return { key, name, division, color, scheduleHref: `/stories/${slug}` };
+  return { key, name, division, color, scheduleHref: `/stories/${slug}`, logo: MLB_TEAM_LOGO[key] || "" };
 }

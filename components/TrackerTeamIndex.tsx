@@ -60,11 +60,21 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                               : "border-black/10 text-blue-dark hover:border-black/30"
                         }`}
                       >
-                        <span
-                          aria-hidden
-                          className="inline-block w-2 h-2 rounded-full shrink-0"
-                          style={{ background: t.color, opacity: disabled ? 0.35 : 1 }}
-                        />
+                        {t.logo ? (
+                          <img
+                            src={t.logo}
+                            alt=""
+                            aria-hidden
+                            className="w-4 h-4 object-contain shrink-0"
+                            style={{ opacity: disabled ? 0.4 : 1 }}
+                          />
+                        ) : (
+                          <span
+                            aria-hidden
+                            className="inline-block w-2 h-2 rounded-full shrink-0"
+                            style={{ background: t.color, opacity: disabled ? 0.35 : 1 }}
+                          />
+                        )}
                         {t.name}
                       </button>
                     );

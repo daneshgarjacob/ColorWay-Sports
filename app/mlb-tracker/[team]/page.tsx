@@ -79,6 +79,11 @@ export default async function TeamTrackerPage({
             >
               &larr; MLB Daily Uniform Tracker
             </Link>
+            {entry.logo && (
+              <div className="flex items-center justify-center w-16 h-16 rounded-2xl bg-white shadow-sm mt-5 mb-1">
+                <img src={entry.logo} alt="" className="w-11 h-11 object-contain" />
+              </div>
+            )}
             <h1 className="text-white text-[34px] sm:text-[44px] font-extrabold leading-[1.08] mt-3 mb-2">
               {entry.name} Uniform Calendar
             </h1>
