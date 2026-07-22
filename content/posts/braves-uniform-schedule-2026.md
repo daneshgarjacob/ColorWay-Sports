@@ -112,7 +112,7 @@ Atlanta's other weeknight alternate. Navy base carrying the same script, worn on
 
 ## City Connect (Friday Night Home Games)
 
-<img src="/images/posts/braves-city-connect-2026/braves-cc-cover.jpg" alt="Atlanta Braves 2026 powder blue City Connect uniform with the Atlanta script, worn on Friday night home games at Truist Park" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/braves-city-connect-2026/braves-cc-pitcher-hallway.jpg" alt="Atlanta Braves player wearing the full 2026 powder blue City Connect uniform, with the Atlanta script jersey, cream pants, and the powder blue cap with the red lowercase a" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
 The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white ATL kit it had worn since 2023 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
