@@ -2,7 +2,7 @@
 title: "T-Mobile Park Roof Open or Closed Today? 2026 Seattle Mariners Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: '2026-07-21'
+updatedDate: '2026-07-22'
 excerpt: "T-Mobile Park's roof is a rain umbrella, not a dome. Live status, how to check today, the Mariners' roof rules, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1A1A1A 55%, #15A0A0 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ The T-Mobile Park roof works differently from every other retractable roof in ba
 <div style="margin: 1.75em 0; border: 2px solid #0C2C56; border-radius: 16px; overflow: hidden;">
   <div style="background: #0C2C56; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 21, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, July 22, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
-<div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Reds at Mariners · 6:40 PM PT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">A dry Seattle evening near <strong>85&deg;F</strong> with no rain in the window. The Mariners make the call on rain, and with none in the forecast expect the roof open to the air.</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Reds at Mariners &middot; 12:40 PM PT</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Dry and <strong>83&deg;F</strong> at first pitch with no rain in the forecast. T-Mobile Park's roof is an umbrella rather than a dome and the call is made on rain alone, so a clear afternoon means it stays open.</div>
     <a href="https://x.com/Mariners" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #0C2C56; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Mariners &rarr;</a>
   </div>
 </div>
