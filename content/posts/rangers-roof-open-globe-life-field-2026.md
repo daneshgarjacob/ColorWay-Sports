@@ -1,7 +1,7 @@
 ---
 title: >-
   Is the Globe Life Field Roof Open Today? Rangers 2026 Roof Schedule
-updatedDate: '2026-07-02'
+updatedDate: '2026-07-21'
 category: MLB
 date: '2026-04-01'
 excerpt: >-
@@ -21,6 +21,20 @@ topViewsRank: 6
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Texas Rangers</p>
 
 The Globe Life Field roof is closed for the vast majority of Texas Rangers home games in 2026. The retractable roof has stayed shut for over 80% of regular season games every year since the ballpark opened in 2020, and 2026 is tracking the same. Texas heat, humidity, rain risk, and the team's climate-controlled philosophy keep the roof down by default.
+
+<div style="margin: 1.75em 0; border: 2px solid #003278; border-radius: 16px; overflow: hidden;">
+  <div style="background: #003278; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 21, 2026</span>
+  </div>
+  <div style="padding: 1.5em; text-align: center; background: #ffffff;">
+    <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected · final call about 90 minutes before first pitch</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">White Sox at Rangers · 7:05 PM CT</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">First-pitch temperature near <strong>103&deg;F</strong> with no rain in the forecast. The Rangers close the roof for heat in more than 80% of home games, so expect it shut with the air conditioning running.</div>
+    <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
+  </div>
+</div>
 
 ## How to Check Today's Globe Life Field Roof Status
 

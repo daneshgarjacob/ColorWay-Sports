@@ -2,7 +2,7 @@
 title: "Is the American Family Field Roof Open Today? Brewers 2026 Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-02"
+updatedDate: '2026-07-21'
 excerpt: "Is the American Family Field roof open or closed today? Live status in seconds, plus the Brewers 2026 roof rules, the roof hotline, and the rain policy."
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 coverImage: "/images/posts/roof-covers/american-family-field-roof-2026.jpg"
@@ -12,6 +12,21 @@ teams: ["milwaukee-brewers"]
 ---
 
 American Family Field has one of the busiest and most distinctive roofs in baseball. The fan-shaped panels swing open and closed like a hand-held fan, a design unlike any other ballpark, and the Brewers move it constantly. Over the course of a year the club opens and closes the roof around 230 times, chasing the best possible weather for every home game in a Milwaukee climate that swings from snow to summer heat.
+
+
+<div style="margin: 1.75em 0; border: 2px solid #12284B; border-radius: 16px; overflow: hidden;">
+  <div style="background: #12284B; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 21, 2026</span>
+  </div>
+  <div style="padding: 1.5em; text-align: center; background: #ffffff;">
+    <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
+<div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Mets at Brewers · 6:40 PM CT</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">A comfortable Milwaukee night near <strong>78&deg;F</strong> with only a slight rain chance. The Brewers work the roof constantly and open it in good baseball weather, so expect it open.</div>
+    <a href="https://x.com/Brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #12284B; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Brewers &rarr;</a>
+  </div>
+</div>
 
 ## Is the American Family Field Roof Open or Closed Today?
 

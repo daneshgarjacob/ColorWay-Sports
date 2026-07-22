@@ -2,7 +2,7 @@
 title: "Is the Rogers Centre Dome Open Today? 2026 Toronto Blue Jays Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-06-27"
+updatedDate: '2026-07-21'
 excerpt: "Rogers Centre opens its roof more than any park in MLB, but not until Toronto warms up. Live status, how the Blue Jays decide, the rules, and how it ranks among MLB roofs."
 gradient: "linear-gradient(135deg, #134A8E 0%, #1A1A1A 55%, #1D9BD7 100%)"
 coverImage: "/images/posts/roof-covers/rogers-centre-roof-2026.jpg"
@@ -12,6 +12,21 @@ teams: ["toronto-blue-jays"]
 ---
 
 Rogers Centre, still called "the dome" by most Blue Jays fans, opens its roof more than any other stadium in baseball when the weather allows. The catch is Toronto's climate. From the March and April cold straight through to May, the roof stays closed, and the dome only really opens up once spring finally arrives. Once it does, Rogers Centre plays as open-air as any retractable-roof park in the league.
+
+
+<div style="margin: 1.75em 0; border: 2px solid #134A8E; border-radius: 16px; overflow: hidden;">
+  <div style="background: #134A8E; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 21, 2026</span>
+  </div>
+  <div style="padding: 1.5em; text-align: center; background: #ffffff;">
+    <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
+<div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rays at Blue Jays · 7:07 PM ET</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Around <strong>67&deg;F</strong> but with a better-than-even rain chance in Toronto tonight. Rogers Centre closes against rain risk, so expect it shut.</div>
+    <a href="https://x.com/BlueJays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #134A8E; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @BlueJays &rarr;</a>
+  </div>
+</div>
 
 ## Is the Rogers Centre Dome Open Today?
 
