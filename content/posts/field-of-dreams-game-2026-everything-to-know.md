@@ -37,6 +37,8 @@ If you want the wider context on why Philadelphia keeps winning at this, our [Ph
 
 Between now and August 13 the Phillies are still running their normal five-jersey rotation, and it is the most tightly scheduled closet in baseball. The [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026) maps which look comes out on which day, and the [Phillies uniform calendar](/mlb-tracker/phillies) shows every jersey they have actually worn this season, game by game, so you can see how rare a one-night throwback like this really is.
 
+If it is the Phillies jersey you came for, we broke that one down on its own: [every detail of the 1939 throwback](/stories/phillies-field-of-dreams-jersey-2026), patch included.
+
 ## The Details
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f6edd8; border: 1px solid #e0cfa4; border-radius: 14px;">

@@ -35,6 +35,8 @@ Everything here pulls in one direction. The slanted script is the most distincti
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2079207284308058302"></a></blockquote>
 
+For a closer look at just the Phillies jersey, including the 1939 centennial sleeve patch and how it ranks against the rest of their closet, see our [full breakdown of the Phillies Field of Dreams jersey](/stories/phillies-field-of-dreams-jersey-2026).
+
 ## The Twins Field of Dreams Uniform: Our Grade
 
 The Twins called theirs "our 1961 inspired uniforms," and the official reveal is noticeably better than the leaked rack photos indicated. This is a white home jersey with navy pinstripes and no trim, carrying a navy "Twins" script with red outline across the chest. The tail of the "s" curves back to underline the wordmark, which is the single best detail on the jersey. Back numbers are navy with red outlines, the cap is navy with the interlocking white "T" and red "C," and the socks are navy.
