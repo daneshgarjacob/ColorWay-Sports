@@ -68,15 +68,15 @@ This page is the plan. For the receipts, our [MLB daily uniform tracker](/storie
       <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Whites</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
     </div>
-    <div style="padding: 1.2em 0.3em; background: #87CEEB; color: #003366;">
-      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌴</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
-      <div style="font-size: 0.65em; color: #444; margin-top: 0.3em;">Saturday</div>
-    </div>
     <div style="padding: 1.2em 0.3em; background: #ffffff; color: #005A9C; border-right: 1px solid #eee;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏟️</div>
       <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Whites</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
+    </div>
+    <div style="padding: 1.2em 0.3em; background: #EDE3CE; color: #12244a; border-right: 1px solid #eee;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">✨</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
+      <div style="font-size: 0.65em; color: #444; margin-top: 0.3em;">Saturday</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #ffffff; color: #005A9C;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏟️</div>
@@ -118,6 +118,13 @@ The block "Los Angeles" wordmark is the centerpiece of the design, a nod to the 
 Most MLB teams either underuse their uniform rotation or overuse it. The Yankees never wear anything but pinstripes and grays, which is the brand. The Diamondbacks and Mariners rotate four or five looks across a homestand without a clear rule. The Dodgers found a middle ground that works for the franchise. The home whites and road grays carry the vast majority of the calendar so the Dodgers visual identity stays consistent across every broadcast. The City Connect gets a fixed weekly slot at Saturday home games so fans always know when to expect it. The royal blue road alternate adds a third color story on the road without crowding the rotation.
 
 The system protects the franchise's heritage by keeping the classic uniforms front and center, while the alternates give Dodger Stadium and the broadcast crew enough variety to track. The team's [opening night ring ceremony for 2026](/stories/dodgers-opening-night-2026-ring-ceremony-review) was a clear reminder that this is a franchise built on tradition first and innovation second.
+
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Dodgers games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
+<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream on Fubo →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 
