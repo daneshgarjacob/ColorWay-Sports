@@ -275,6 +275,13 @@ The Coca-Cola 600 at Charlotte is the one weekend a year when every single car i
 
 North Wilkesboro is the reveal event of the moment. The inaugural Window World 450 on July 19 marks NASCAR's return to the historic short track for points racing after a 30-year absence, and a milestone weekend like this pulls throwbacks and one-offs out of the whole garage. Austin Cindric's No. 2 leads the way with a black-and-gold tribute to Rusty Wallace's 1993 North Wilkesboro sweep, and more heritage looks are dropping in the days before the green flag alongside Bubba Wallace's Coca-Cola crossover, RCR's Winchester buck car, and the Hendrick lineup. Beyond North Wilkesboro, Darlington's official throwback weekend later in the schedule remains the season's biggest single day for retro schemes, and the Penske 60th anniversary program still has more anniversary looks in it. We add every scheme worth covering to this tracker as it drops, newest at the top, with grades on the ones we have full takes on. Bookmark this page and check back after every reveal day.
 
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch NASCAR live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every race on Fubo, no cable needed</div></div>
+<a href="https://www.fubo.tv/welcome/leagues/31656944?irmp=7169536&irad=596299" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream on Fubo →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
+
 ## Frequently Asked Questions
 
 **What is the Window World 450 at North Wilkesboro?**
