@@ -2,7 +2,7 @@
 title: "Field of Dreams Game 2026: The Uniforms, the Matchup, and How to Watch Phillies vs Twins in Iowa"
 category: MLB
 date: "2026-07-21"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-22"
 excerpt: "Everything to know about the 2026 Field of Dreams Game on August 13: the Phillies and Twins throwback jerseys, the start time, and how to watch on Netflix."
 gradient: "linear-gradient(135deg, #284898 0%, #0b2d1a 55%, #E81828 130%)"
 coverImage: "/images/posts/field-of-dreams-game-2026/buxton-harper-uniforms.jpg"
@@ -34,6 +34,8 @@ We care about this game for one reason above all the others, which is that it pr
 We graded both in full in our [complete breakdown of the 2026 Field of Dreams uniforms](/stories/field-of-dreams-2026-jerseys-leaked): the Phillies took an **A-**, the Twins a **B**. And because six of these uniforms now exist across three games, we ranked [every Field of Dreams uniform ever worn](/stories/field-of-dreams-uniform-history-ranked), where Philadelphia's 1939 set lands at number one and the 1919 White Sox throwback everyone remembers turns out to be overrated.
 
 If you want the wider context on why Philadelphia keeps winning at this, our [Phillies throwback playbook](/stories/phillies-throwback-uniform-history-2026) covers the powder blues, the cream alternate, and the red pinstripes alongside the 1939 set.
+
+Between now and August 13 the Phillies are still running their normal five-jersey rotation, and it is the most tightly scheduled closet in baseball. The [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026) maps which look comes out on which day, and the [Phillies uniform calendar](/mlb-tracker/phillies) shows every jersey they have actually worn this season, game by game, so you can see how rare a one-night throwback like this really is.
 
 ## The Details
 

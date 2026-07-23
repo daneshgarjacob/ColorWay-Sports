@@ -25,7 +25,7 @@ The Daikin Park roof is closed for the vast majority of Houston Astros home game
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Marlins at Astros &middot; 7:10 PM CT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">First-pitch temperature near <strong>101&deg;F</strong> with a slight 13% rain chance. Houston heat keeps the Daikin Park roof shut for nearly every July home game, so expect it closed and air conditioned.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">First-pitch temperature near <strong>93&deg;F</strong> with a 13% rain chance. Cooler than a typical Houston July evening, but the Astros keep the Daikin Park roof shut for nearly every home game in this stretch, so expect it closed and air conditioned.</div>
     <a href="https://x.com/astros" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #002D62; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @astros &rarr;</a>
   </div>
 </div>

@@ -30,7 +30,7 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">White Sox at Rangers &middot; 7:05 PM CT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">First-pitch temperature near <strong>103&deg;F</strong> with no rain in the forecast. The Rangers close the roof for heat in more than 80% of home games, so expect it shut with the air conditioning running.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">First-pitch temperature near <strong>85&deg;F</strong> with no rain in the forecast. That is milder than a typical Texas July night but still above the roughly 65 to 80&deg;F band where Globe Life actually opens, and the Rangers close for heat in more than 80% of home games, so expect it shut.</div>
     <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
   </div>
 </div>

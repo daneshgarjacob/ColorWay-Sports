@@ -315,7 +315,7 @@ export default function Header() {
                   onFocus={() => { loadIndex(); setSugOpen(true); }}
                   onChange={(e) => { loadIndex(); setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
                   onKeyDown={onSearchKeyDown}
-                  placeholder="Discover"
+                  placeholder="Discover teams, jerseys, logos"
                   aria-label="Discover stories and teams"
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
@@ -520,7 +520,7 @@ export default function Header() {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Discover"
+                placeholder="Discover teams, jerseys, logos"
                 className="flex-1 px-4 py-2.5 text-[15px] focus:outline-none"
               />
               <button type="submit" className="px-3 py-2.5 text-gray-medium hover:text-orange transition-colors">
