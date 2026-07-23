@@ -283,7 +283,12 @@ export const COMPETITION_LOGOS: Record<string, string> = {
   "Racing Bulls": "/logos/leagues/racing-racing-bulls.png",
   "Red Bull Racing": "/logos/leagues/racing-red-bull-racing.png",
   "Williams": "/logos/leagues/racing-williams.png",
-  // Audi and Cadillac join for 2026; F1 has not published logo assets for them yet.
+  // The 2026 newcomers. F1's own CDN has no assets for either, so these came
+  // from marks Jake supplied and were background-knocked to transparent; the
+  // Cadillac one is cropped to the crest, since the wordmark under it is
+  // illegible at nav size.
+  "Audi": "/logos/leagues/racing-audi.png",
+  "Cadillac": "/logos/leagues/racing-cadillac.png",
 };
 
 // Canonical display name for a slug, derived from the logo maps above so the
