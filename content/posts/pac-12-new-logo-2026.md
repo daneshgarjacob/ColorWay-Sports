@@ -5,7 +5,7 @@ date: "2026-04-27"
 updatedDate: "2026-05-06"
 excerpt: "The 2026 Pac-12 has nine schools after realignment: Oregon State, Washington State, Boise State, Colorado State, Fresno State, San Diego State, Texas State, Utah State, and Gonzaga. We break down the football lineup, every team's reaction, and the new conference logo."
 gradient: "linear-gradient(135deg, #2C3340 0%, #1A2030 100%)"
-league: "ncaa"
+league: "college"
 teams: []
 coverImage: "/images/posts/pac-12-new-logo-2026/pac-12-old-vs-new.jpg"
 coverImagePosition: "center 50%"

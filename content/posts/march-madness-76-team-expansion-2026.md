@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #E8F0FF 0%, #FFE8D6 100%)"
 coverImage: "/images/posts/march-madness-76-expansion/march-madness.png"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
-league: "ncaa"
+league: "college"
 teams: []
 ---
 

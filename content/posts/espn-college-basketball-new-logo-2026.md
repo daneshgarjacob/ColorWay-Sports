@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%)"
 coverImage: "/images/posts/espn-college-basketball-new-logo-2026/espn-cbb-new-logo.jpg"
 coverImagePosition: "center center"
 coverImageFit: "contain"
-league: "ncaa"
+league: "college"
 teams: []
 ---
 
