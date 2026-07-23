@@ -100,9 +100,13 @@ async function build() {
       const lM = await sharp(logo).metadata();
       const layers = [{ input: logo, left: Math.round(W / 2 - lM.width / 2), top: Math.round(196 - lM.height / 2) }];
       if (hasCw) {
-        const cw = await sharp(CWLOGO).resize(200, null, { fit: "inside" }).png().toBuffer();
+        // House standard for the ColorWay mark on a 1500x1000 cover: 60px tall,
+        // 60px from the right edge, 44px from the bottom. Matches the MLB
+        // tracker and calendar covers -- these were rendering at 200x25, less
+        // than half the size, which read as sloppy across the set.
+        const cw = await sharp(CWLOGO).resize({ height: 60 }).png().toBuffer();
         const cwM = await sharp(cw).metadata();
-        layers.push({ input: cw, left: W - cwM.width - 54, top: H - cwM.height - 30 });
+        layers.push({ input: cw, left: W - (cwM.width || 485) - 60, top: H - 60 - 44 });
       }
       const composed = await sharp(Buffer.from(svg)).composite(layers).jpeg({ quality: 88 }).toBuffer();
       await writeFile(resolve(dir, "cover.jpg"), composed);
