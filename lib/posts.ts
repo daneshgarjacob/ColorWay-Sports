@@ -129,6 +129,33 @@ function rehypeHeadingIds(collected: HeadingItem[]) {
   };
 }
 
+// Rehype plugin: lazy-load images. Every reader downloads images raw from
+// public/ (no next/image), so an image-heavy page like the daily tracker (300+
+// jersey tiles) ships its entire library on load whether or not the reader
+// scrolls to it — a real Fast Data Transfer cost. loading="lazy" defers
+// off-screen images until they scroll into view. The FIRST image stays eager so
+// the largest-contentful-paint element is never delayed.
+function rehypeLazyImages() {
+  return () => (tree: HastNode) => {
+    let first = true;
+    const visit = (node: HastNode) => {
+      if (node.type === "element" && node.tagName === "img") {
+        if (first) {
+          first = false; // keep the hero image eager for LCP
+        } else if (node.properties?.loading === undefined) {
+          node.properties = {
+            ...node.properties,
+            loading: "lazy",
+            decoding: "async",
+          };
+        }
+      }
+      (node.children || []).forEach(visit);
+    };
+    visit(tree);
+  };
+}
+
 function extractFaqs(content: string): FaqItem[] {
   const faqHeadingIdx = content.search(/^##\s+Frequently Asked Questions\b/m);
   if (faqHeadingIdx === -1) return [];
@@ -234,6 +261,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeHeadingIds(headings))
+    .use(rehypeLazyImages())
     .use(rehypeStringify)
     .process(content);
   const contentHtml = processed.toString();
