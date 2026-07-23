@@ -266,6 +266,10 @@ export const LEAGUE_LOGOS: Record<string, string> = {
 
 // Soccer competitions + racing series shown in the nav dropdowns.
 export const COMPETITION_LOGOS: Record<string, string> = {
+  // Drawn in-house. FIFA's published IP guidelines carve "incorporation into
+  // the overall design, look and feel of a website" out of editorial use, and a
+  // nav row on every page is precisely that, so their mark stays off the chrome.
+  "International Competitions": "/logos/leagues/international-globe.svg",
   "UEFA Champions League": "/logos/leagues/soccer-uefa-champions-league.png",
   "Premier League": "/logos/leagues/soccer-premier-league.png",
   "La Liga": "/logos/leagues/soccer-la-liga.png",

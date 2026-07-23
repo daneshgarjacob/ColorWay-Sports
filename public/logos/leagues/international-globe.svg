@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="International competitions">
+  <!-- Globe for the International Competitions row. Drawn in-house rather than
+       using FIFA's mark: FIFA's own IP guidelines exclude "incorporation into
+       the overall design, look and feel of a website" from editorial use, and a
+       nav item on every page is exactly that. Solid fill so it reads at 18px. -->
+  <circle cx="32" cy="32" r="28" fill="currentColor"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round">
+    <!-- equator and two parallels -->
+    <path d="M5 32h54"/>
+    <path d="M10.5 19.5h43"/>
+    <path d="M10.5 44.5h43"/>
+    <!-- meridian pair, giving the sphere its turn -->
+    <path d="M32 4.2c8.6 8.2 12.9 17.5 12.9 27.8S40.6 51.6 32 59.8"/>
+    <path d="M32 4.2c-8.6 8.2-12.9 17.5-12.9 27.8S23.4 51.6 32 59.8"/>
+  </g>
+  <circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="4"/>
+</svg>
