@@ -80,7 +80,7 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "Soccer (Fútbol)",
+    label: "Soccer/Fútbol",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
     leagueLogo: "/logos/leagues/soccer-ball.svg",
     teams: [

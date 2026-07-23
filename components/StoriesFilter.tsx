@@ -26,7 +26,7 @@ const leagueNames: Record<string, string> = {
   mlb: "MLB",
   nhl: "NHL",
   f1: "F1",
-  soccer: "Soccer (Fútbol)",
+  soccer: "Soccer/Fútbol",
   cricket: "Cricket",
   rugby: "Rugby",
   nascar: "NASCAR",
