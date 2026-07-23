@@ -3,14 +3,30 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { getAllPostsByDate } from "@/lib/posts";
 import StoriesFilter from "@/components/StoriesFilter";
+import { storiesMetadata } from "@/lib/storyFilters";
 import { Suspense } from "react";
 
-export const metadata: Metadata = {
-  title: "All Stories – ColorWay Sports",
-  alternates: {
-    canonical: "https://www.colorwaysports.com/stories",
-  },
-};
+type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
+
+const first = (v: string | string[] | undefined) =>
+  Array.isArray(v) ? v[0] : v;
+
+// Reading searchParams here makes the route dynamic, which is the point: each
+// ?league= / ?team= view needs its own title and its own canonical instead of
+// inheriting one that pointed every filtered URL back at /stories. It also means
+// the filtered list is server-rendered, so the story links are in the HTML.
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: SearchParams;
+}): Promise<Metadata> {
+  const sp = await searchParams;
+  return storiesMetadata({
+    league: first(sp.league),
+    team: first(sp.team),
+    query: first(sp.q),
+  });
+}
 
 // Hand-built cards for the interactive World Cup tools. They're standalone pages,
 // not markdown posts, so we inject them here and pin them to the top of the grid

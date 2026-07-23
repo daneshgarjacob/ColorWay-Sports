@@ -1,9 +1,29 @@
 import { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { allTeamKeys } from "@/lib/mlbTrackerTeamIndex";
+import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
+
+  // League and team filter views of /stories. Only the ones with enough posts
+  // behind them get listed — see MIN_POSTS_TO_INDEX in lib/storyFilters. These
+  // are linked from the nav on every page but were canonicalised away until
+  // 2026-07-23, so none of them had ever been indexable.
+  const filterUrls = [
+    ...indexableLeagues().map(({ slug }) => ({
+      url: `https://www.colorwaysports.com/stories?league=${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
+    ...indexableTeams().map(({ slug }) => ({
+      url: `https://www.colorwaysports.com/stories?team=${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
+  ];
 
   const postUrls = posts.map((post) => ({
     url: `https://www.colorwaysports.com/stories/${post.slug}`,
@@ -86,6 +106,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    ...filterUrls,
     ...teamUrls,
     ...postUrls,
   ];

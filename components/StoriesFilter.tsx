@@ -2,7 +2,7 @@
 
 import { useSearchParams } from "next/navigation";
 import StoryCard from "@/components/StoryCard";
-import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, displayNameForSlug } from "@/lib/teamLogos";
+import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, LEAGUE_NAMES, displayNameForSlug } from "@/lib/teamLogos";
 
 interface PostMeta {
   slug: string;
@@ -19,20 +19,6 @@ interface PostMeta {
   league?: string;
   teams?: string[];
 }
-
-const leagueNames: Record<string, string> = {
-  nfl: "NFL",
-  nba: "NBA",
-  mlb: "MLB",
-  nhl: "NHL",
-  f1: "F1",
-  soccer: "Soccer/Fútbol",
-  cricket: "Cricket",
-  rugby: "Rugby",
-  nascar: "NASCAR",
-  college: "College",
-  ufl: "UFL",
-};
 
 export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
   const searchParams = useSearchParams();
@@ -60,8 +46,8 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
 
   if (league) {
     filtered = posts.filter((p) => p.league === league);
-    heading = `${leagueNames[league] || league.toUpperCase()} Stories`;
-    description = `All ${leagueNames[league] || league.toUpperCase()} coverage from ColorWay Sports.`;
+    heading = `${LEAGUE_NAMES[league] || league.toUpperCase()} Stories`;
+    description = `All ${LEAGUE_NAMES[league] || league.toUpperCase()} coverage from ColorWay Sports.`;
     headingLogo = LEAGUE_LOGOS[league];
   }
 

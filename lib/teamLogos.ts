@@ -264,6 +264,23 @@ export const LEAGUE_LOGOS: Record<string, string> = {
   nhl: "/logos/leagues/nhl.png",
 };
 
+// Display names for every league slug used in post frontmatter. Single source of
+// truth: the /stories heading and the filter page's <title> both read from here,
+// so renaming a league (e.g. "Soccer" -> "Soccer/Fútbol") is a one-line change.
+export const LEAGUE_NAMES: Record<string, string> = {
+  nfl: "NFL",
+  nba: "NBA",
+  mlb: "MLB",
+  nhl: "NHL",
+  f1: "F1",
+  soccer: "Soccer/Fútbol",
+  cricket: "Cricket",
+  rugby: "Rugby",
+  nascar: "NASCAR",
+  college: "College",
+  ufl: "UFL",
+};
+
 // Soccer competitions + racing series shown in the nav dropdowns.
 export const COMPETITION_LOGOS: Record<string, string> = {
   // Drawn in-house. FIFA's published IP guidelines carve "incorporation into
