@@ -159,5 +159,6 @@ In football, usually yes. The break at the waist is what gives a player proporti
 
 ## More NFL Uniform Coverage
 
+- [Monochrome NFL Uniforms Look Like Pajamas, and There Is an Actual Design Reason Why](/stories/monochrome-nfl-uniforms-why-they-look-bad) — the full case against one-color kits
 - [2026 NFL Alternate Uniform Tracker](/stories/nfl-alternate-uniform-tracker-2026) — every new alternate jersey and helmet of 2026, graded, newest first
 - [Every 2026 NFL Uniform Reveal, Ranked](/stories/nfl-uniform-release-dates-2026) — the five full redesigns from the spring
