@@ -610,9 +610,12 @@ export default function Header() {
               ) : (
                 <Link
                   href={league.storiesLink.href}
-                  className="block text-xl font-medium text-black hover:text-orange transition-colors text-center"
+                  className="flex items-center justify-center gap-2 text-xl font-medium text-black hover:text-orange transition-colors"
                   onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                 >
+                  {league.leagueLogo && (
+                    <img src={league.leagueLogo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
+                  )}
                   {league.label}
                 </Link>
               )}
