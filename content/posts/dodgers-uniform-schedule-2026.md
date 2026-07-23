@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-23"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
@@ -12,10 +12,10 @@ league: "mlb"
 teams: ["los-angeles-dodgers"]
 ---
 
-<img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Los Angeles Dodgers royal blue road alternate jersey worn in-game during the 2026 MLB season, paired with the home whites and City Connect Los Dodgers uniform" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Los Angeles Dodgers royal blue road alternate jersey worn in-game during the 2026 MLB season, paired with the home whites and the cream City of Dreamers City Connect uniform" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Dodgers</p>
 
-The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball for 2026, with four jerseys in active circulation and clear context for when each one shows up. Home whites with the Dodgers script for the vast majority of home games at Dodger Stadium. Road grays for most away games. The royal blue road alternate that the franchise added recently for select road series. The City Connect with the Los Dodgers wordmark for Friday night home games. The closet stays focused around the classic Dodgers visual identity while giving fans new looks to track across the calendar.
+The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball for 2026, with four jerseys in active circulation and clear context for when each one shows up. Home whites with the Dodgers script for the vast majority of home games at Dodger Stadium. Road grays for most away games. The royal blue road alternate that the franchise added recently for select road series. The cream "City of Dreamers" City Connect for Saturday home games. The closet stays focused around the classic Dodgers visual identity while giving fans new looks to track across the calendar.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -71,7 +71,7 @@ This page is the plan. For the receipts, our [MLB daily uniform tracker](/storie
     <div style="padding: 1.2em 0.3em; background: #87CEEB; color: #003366;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌴</div>
       <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
-      <div style="font-size: 0.65em; color: #444; margin-top: 0.3em;">Friday</div>
+      <div style="font-size: 0.65em; color: #444; margin-top: 0.3em;">Saturday</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #ffffff; color: #005A9C; border-right: 1px solid #eee;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏟️</div>
@@ -86,7 +86,7 @@ This page is the plan. For the receipts, our [MLB daily uniform tracker](/storie
   </div>
 </div>
 
-Here is how the Dodgers uniform rotation breaks down for the 2026 season. Home whites carry the vast majority of home games at Dodger Stadium. The City Connect with the Los Dodgers wordmark is locked to Friday nights at home. Road games default to the traditional road grays with the Los Angeles script across the chest. The royal blue road alternate gets pulled for select road series and gives fans a third recognizable Dodgers look on the broadcast. The rotation is tight on purpose, the franchise refusing to dilute the classic Dodgers identity with more alternates than the closet can support.
+Here is how the Dodgers uniform rotation breaks down for the 2026 season. Home whites carry the vast majority of home games at Dodger Stadium. The cream "City of Dreamers" City Connect is locked to Saturday home games. Road games default to the traditional road grays with the Los Angeles script across the chest. The royal blue road alternate gets pulled for select road series and gives fans a third recognizable Dodgers look on the broadcast. The rotation is tight on purpose, the franchise refusing to dilute the classic Dodgers identity with more alternates than the closet can support.
 
 ## Home Whites (Most Home Games)
 
@@ -107,15 +107,15 @@ The royal blue road alternate is the newer addition to the Dodgers' active rotat
 
 The blue alternate is not the default road call in 2026. The Dodgers pull it for select road series and the rest of the away calendar stays in the traditional road grays. For the full background on when the franchise officially added the alternate and how it differs from the spring training blue jersey, see our [Dodgers blue road jersey 2026 breakdown](/stories/dodgers-blue-road-jersey-official-2026).
 
-## City Connect (Friday Night Home Games)
+## City Connect (Saturday Home Games)
 
-The Los Dodgers City Connect uniform anchors Friday night home games at Dodger Stadium in 2026. Sky blue jersey, Los Dodgers wordmark across the chest in a custom script with downtown LA tower and palm tree treatments inside the letters, all-sky-blue cap with the LA logo in white. The Dodgers introduced the City Connect in 2023 and it has settled into the Friday night slot as the consistent date fans can plan around for the alternate identity.
+The cream "City of Dreamers" City Connect uniform anchors Saturday home games at Dodger Stadium in 2026. Cream jersey with "Los Angeles" in blue block letters across the chest, a contrail streaking off the wordmark, and a spray of multicolored flecks the team calls a galaxy of stars. This is the Dodgers' second City Connect, and it debuted on Saturday, June 22, 2024, against the Angels, making Los Angeles the first team in baseball with two City Connect designs. It has settled into the Saturday slot as the consistent date fans can plan around for the alternate identity.
 
-The Los Dodgers wordmark is the centerpiece of the design. It directly nods to the team's massive Spanish-speaking fan base in Southern California and threads the bilingual identity through the rotation in a way few other City Connect programs have matched. Tying the jersey to Friday nights keeps the rotation predictable. Fans who want the City Connect on the back of a Dodgers jersey know exactly when to attend. The cleanest version of the Dodgers identity is still the home whites, but the City Connect has carved out a real lane.
+The block "Los Angeles" wordmark is the centerpiece of the design, a nod to the signage at the Los Angeles Memorial Coliseum where the Dodgers played their first three seasons after moving west. The paint-fleck pattern stands for the brilliance and diversity of the city, the whole thing built around the idea of Los Angeles as a city of dreams and dreamers. Tying the jersey to Saturdays keeps the rotation predictable. Fans who want the City Connect on the back of a Dodgers jersey know exactly when to attend. The cleanest version of the Dodgers identity is still the home whites, but the City Connect has carved out a real lane.
 
 ## Why This System Works
 
-Most MLB teams either underuse their uniform rotation or overuse it. The Yankees never wear anything but pinstripes and grays, which is the brand. The Diamondbacks and Mariners rotate four or five looks across a homestand without a clear rule. The Dodgers found a middle ground that works for the franchise. The home whites and road grays carry the vast majority of the calendar so the Dodgers visual identity stays consistent across every broadcast. The City Connect gets a fixed weekly slot at Friday home games so fans always know when to expect it. The royal blue road alternate adds a third color story on the road without crowding the rotation.
+Most MLB teams either underuse their uniform rotation or overuse it. The Yankees never wear anything but pinstripes and grays, which is the brand. The Diamondbacks and Mariners rotate four or five looks across a homestand without a clear rule. The Dodgers found a middle ground that works for the franchise. The home whites and road grays carry the vast majority of the calendar so the Dodgers visual identity stays consistent across every broadcast. The City Connect gets a fixed weekly slot at Saturday home games so fans always know when to expect it. The royal blue road alternate adds a third color story on the road without crowding the rotation.
 
 The system protects the franchise's heritage by keeping the classic uniforms front and center, while the alternates give Dodger Stadium and the broadcast crew enough variety to track. The team's [opening night ring ceremony for 2026](/stories/dodgers-opening-night-2026-ring-ceremony-review) was a clear reminder that this is a franchise built on tradition first and innovation second.
 
@@ -123,15 +123,15 @@ The system protects the franchise's heritage by keeping the classic uniforms fro
 
 **What jersey are the Los Angeles Dodgers wearing today?**
 
-The Dodgers keep a tight rotation with one fixed slot, so the day and location point you to the look. The Los Dodgers City Connect is locked to Friday night home games at Dodger Stadium. Every other home game is the home whites, and most road games are the road grays, with the royal blue road alternate pulled only for select road series. Check whether they are home or away and whether it is a Friday night at home, and you can usually call the jersey.
+The Dodgers keep a tight rotation with one fixed slot, so the day and location point you to the look. The cream City of Dreamers City Connect is locked to Saturday home games at Dodger Stadium. Every other home game is the home whites, and most road games are the road grays, with the royal blue road alternate pulled only for select road series. Check whether they are home or away and whether it is a Saturday at home, and you can usually call the jersey.
 
 **How many uniforms do the Dodgers have in 2026?**
 
-Four are in active rotation: the home whites, the road grays, the royal blue road alternate, and the Los Dodgers City Connect. The closet stays focused on purpose so the classic Dodgers identity carries the bulk of the calendar.
+Four are in active rotation: the home whites, the road grays, the royal blue road alternate, and the cream City of Dreamers City Connect. The closet stays focused on purpose so the classic Dodgers identity carries the bulk of the calendar.
 
 **When do the Dodgers wear the City Connect uniform?**
 
-The Los Dodgers City Connect anchors Friday night home games at Dodger Stadium. The Dodgers introduced it in 2023 and it has settled into a fixed Friday slot, so fans always know when to expect it.
+The cream "City of Dreamers" City Connect anchors Saturday home games at Dodger Stadium. It debuted on June 22, 2024, against the Angels, the Dodgers' second City Connect design, and it has settled into a fixed Saturday slot, so fans always know when to expect it.
 
 **When do the Dodgers wear the royal blue road alternate?**
 
@@ -139,7 +139,7 @@ The royal blue road alternate is not the default road look. The Dodgers pull it 
 
 **Do the Dodgers follow a strict uniform rotation?**
 
-Mostly. The home whites and road grays carry the vast majority of the calendar, and the City Connect has a fixed Friday home slot. The one discretionary call is the royal blue road alternate, which appears only on select road series rather than on a set day.
+Mostly. The home whites and road grays carry the vast majority of the calendar, and the City Connect has a fixed Saturday home slot. The one discretionary call is the royal blue road alternate, which appears only on select road series rather than on a set day.
 
 ## More MLB Uniform Coverage
 
