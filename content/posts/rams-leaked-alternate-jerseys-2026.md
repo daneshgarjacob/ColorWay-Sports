@@ -1,72 +1,158 @@
 ---
-title: "Leaked Rams Alternate Jerseys 2026: The Blue-and-White Is Perfect, the Gold Is a Miss"
+title: "Rams New Alternate Jerseys 2026: Fearsome White and Classic Sol Revealed, All 5 Uniforms Graded"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-07-16"
-excerpt: "Leaked 2026 Rams alternate jerseys surface ahead of the official July 23 unveiling: a clean royal-and-white set that should be the primary, plus a gold throwback that misses. Our take."
-gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFA300 130%)"
-cardStyle: words
-kicker: Leak
+updatedDate: "2026-07-24"
+excerpt: "The Rams officially revealed two new alternate jerseys, Fearsome White and Classic Sol. We grade both, plus all five 2026 Rams uniforms in the rotation."
+gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
+kicker: Reveal
 logoSrc: "/logos/nfl.png"
 logoSrc2: "/logos/rams.png"
+coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/cover-threaded-with-greatness.jpg"
+coverImagePosition: "center 32%"
 league: nfl
 teams: ["los-angeles-rams"]
 ---
 
-The Los Angeles Rams alternates are leaking, and this is the first real look we have at what the team is stacking on top of its 2026 uniform system. A pair of jerseys surfaced on social from The Style Scout, and the two of them could not tell a more different story about where this franchise's identity should go.
+It is official. The Los Angeles Rams pulled the covers off two brand-new alternate uniforms, and the pair could not be more different: a clean royal-and-white set called **Fearsome White**, and a mustard-gold throwback called **Classic Sol**. Both were teased under the "Threaded with Greatness" banner, both are on the field this season, and both are exactly the kind of heritage-driven swing this franchise has needed. One of them is the best the Rams have looked in years. The other is a fun classic that we like more than we expected to.
+
+We are grading both new jerseys below, and then we are grading the whole closet, all five uniforms the Rams will roll out in 2026, from the A-tier white to the black Midnight Mode rivalry set.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/stylescout1/status/2077839223286055241"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2080503240764854665"></a></blockquote>
 </div>
 
-The timing is not a coincidence. The Rams have already announced that they will officially unveil two brand-new alternate uniforms on **July 23**, in a special reveal for season ticket holders, and these leaked jerseys line up exactly with that. These are the two alternates, surfacing a week early. Both carry the official Nike and NFL tags in the photos: a gold throwback top with royal-blue numbers, and a white jersey with royal-blue numbers and blue shoulder caps. So we are treating these as real, and grading the look ahead of the official drop. One of them is the best this team has looked in years. The other is exactly the problem we keep coming back to.
+## Fearsome White: The Best Uniform the Rams Own
 
-## The White-and-Blue Jersey Is Everything the Rams Should Be
+Start with the one we love, because we really love it. The **Fearsome White** jersey is a crisp white top with royal-blue numbers, a continuous "Rams Royal" stripe that sweeps up and over the shoulder to mirror the curve of the helmet horn, and television numbers centered on the sleeve. Paired with white pants, it is about as clean and timeless as an NFL uniform gets. This is the look people have been begging the Rams to lean into, and seeing it on the field with white-on-white is genuinely exciting.
 
-Start with the good news, because it is really good. The white jersey with royal-blue numbers, blue shoulder caps, and the ram-horn accent is a clean, timeless, instantly recognizable Rams uniform. This is the look people actually miss. It reads perfectly from across a stadium, it photographs beautifully, and it carries all the heritage of the franchise's best eras without a single gimmick. Royal blue and white is the color story this team was built on, and seeing it rendered this crisply is a reminder of how far the current sol-yellow and bone identity strayed from it.
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-behind-the-design.jpg" alt="Los Angeles Rams new 2026 Fearsome White alternate jersey with royal blue numbers and white horn helmet" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-Here is our honest wish, and we are not going to be shy about it: the Rams should make royal blue and white the primary. Not an alternate. Not a once-a-year throwback. The primary. This jersey and uniform is sharper than anything in the regular rotation, and a full-time return to blue and white would instantly become one of the cleanest looks in the NFC. Build the whole identity around this and never look back.
+The best part might be the new helmet. Instead of the standard set, the Fearsome White look pairs the modern "Rams Royal" shell with **white horns, a white facemask, and new 3D bumper logos**. That white facemask is the exact detail we have been asking this equipment staff for, and it ties the whole classic-modern balance together. Blue shell, white horns, white cage. It works.
 
-**Grade: A.** Timeless, clean, and unmistakably Rams. We would run it every week.
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-23-helmet.jpg" alt="Los Angeles Rams Fearsome White helmet closeup showing white horns, white facemask and black-outlined royal blue numbers" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-## The Gold Jersey Is the Miss
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-shoulder-detail.jpg" alt="Close-up of the Los Angeles Rams Fearsome White jersey shoulder stripe and white facemask helmet detail" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-Then there is the gold. The mustard-yellow throwback with royal-blue numbers leans hard on nostalgia, and we understand the appeal on paper, but in practice it does not work for us. The yellow tone washes out, it fights the blue instead of complementing it, and a little of that color goes a very long way. As a rare one-off it is tolerable. As a look you would want in heavy rotation, it is a hard pass. Everything great about the blue-and-white set is the restraint. Everything shaky about the gold is the volume.
+The name is a nod to the **Fearsome Foursome**, the legendary 1960s Rams defensive line of Deacon Jones, Merlin Olsen, Rosey Grier, and Lamar Lundy that defined an era of defensive dominance. The custom name-and-number styling mixes that vintage feel with modern application, bridging the team's past and present. It is heritage done right.
 
-**Grade: C.** Nostalgic, but the yellow overwhelms the palette. This is the one we would leave in the closet.
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-history-fearsome-foursome.jpg" alt="Los Angeles Rams Fearsome White uniform history graphic honoring the Fearsome Foursome defensive line" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-## One Plea to the Equipment Staff: Run the White Facemask
+The one thing keeping this from a perfect score is the lettering. The numbers carry a black outline, and the Nike swoosh is black too, which pushes the whole thing a little closer to a Colts jersey than it should be. Drop the black, and this is a flawless uniform. Even with it, this is our honest wish: the Rams should make royal blue and white the primary and never look back. It is sharper than anything in the regular rotation.
 
-If the Rams do lean into this blue-and-white look, there is one detail that would take it from great to perfect: a white facemask. The white cage is the finishing touch that ties the whole classic era together, softens the helmet, and gives the uniform that clean, throwback-modern balance the best looks in the league have. It is a small change with an outsized payoff. Blue-and-white jersey, blue helmet, white facemask. That is the version of the Rams we want to see take the field.
+<div style="margin: 1.75em 0; padding: 1.35em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 100%); border-radius: 14px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 0.8em; color: #FFD100; margin: 0 0 0.35em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Fearsome White</p>
+  <p style="font-size: 3.6em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">A-</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">The Cleanest Look The Rams Own</p>
+</div>
 
-## The Bottom Line on the Leaked Rams Alternate Uniforms
+## Classic Sol: The Gold Throwback That Won Us Over
 
-These leaks are a split decision, and the split is instructive. The white-and-blue jersey is a glimpse of the identity this franchise should commit to full time, and the gold throwback is a reminder that nostalgia without restraint is just noise. If the Rams are listening, the move is obvious: promote the blue and white, add a white facemask, and treat the gold as the occasional novelty it deserves to be. For the full picture on where this uniform system started, see our [Los Angeles Rams new uniforms 2026 review](/stories/rams-new-uniforms-2026-review). We will update this post the moment either alternate is officially confirmed.
+We were less excited about the yellow one going in, and it won us over anyway. **Classic Sol** honors the 1951 World Champions Los Angeles Rams, layering "Rams Royal" satin materials onto the "Sol" gold chassis for a premium, throwback feel. The original multi-striped white pants make a return to complete the look, and the sleeve striping pays homage to the traditional three-stripe color blocking of the era, a detail that intentionally rhymes with the Rams' Coliseum ally, the USC Trojans.
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/classic-sol-behind-the-design.jpg" alt="Los Angeles Rams new 2026 Classic Sol gold alternate jersey with royal blue numbers and white pants" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/classic-sol-usc-sleeve-detail.jpg" alt="Los Angeles Rams Classic Sol jersey sleeve detail showing the traditional three-stripe color blocking that nods to USC" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+The helmet here is the standard Rams shell with the "RAMS" bumper, and the gold-with-white-pants combination reads cleaner than we feared. It is not our favorite jersey in the league, and yellow is always a hard color to carry over a full uniform, but the throwback striping gives it a genuinely classic, nostalgic charm. We want to see it under the lights before we fall all the way in, but this is a nice, warm nod to the franchise's roots.
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/classic-sol-history-1951.jpg" alt="Los Angeles Rams Classic Sol uniform history graphic honoring the 1951 World Champions with white pants" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/classic-sol-1951-champion.jpg" alt="Los Angeles Rams player in the new 2026 Classic Sol gold jersey and white pants in front of a 1951 World Champions Rams banner" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<div style="margin: 1.75em 0; padding: 1.35em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 100%); border-radius: 14px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 0.8em; color: #FFD100; margin: 0 0 0.35em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Classic Sol</p>
+  <p style="font-size: 3.6em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">A Warm, Nostalgic Throwback</p>
+</div>
+
+## Every 2026 Rams Uniform, Graded
+
+With the two new alternates in the mix, the Rams now carry five looks for 2026: three colored, two white. Here is where all of them land for us, worst to best.
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg" alt="All five Los Angeles Rams 2026 uniforms side by side: Primary White, Classic Sol, Primary Royal, Fearsome White and the black Midnight Mode" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/rams-2026-uniform-design-sheet.jpg" alt="Los Angeles Rams 2026 uniform design sheet showing Primary Royal, Primary White, Midnight Mode, Fearsome White and Classic Sol" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+**Midnight Mode (Rivalries) — C.** The all-black rivalry uniform is a monochrome black set for a team that has no black in its color scheme, which is a hard sell for us every time. It is one of the better versions of that idea, but it is still an idea we do not love. If you want the full argument, we broke down [why monochrome NFL uniforms tend to look bad](/stories/monochrome-nfl-uniforms-why-they-look-bad) and [what the NFL Rivalries uniform program actually is](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+**Primary Royal — C+.** The blue home uniform is fine, but the coloring just bothers us. Something about the blue-over-gold on the Nike template reads heavy and off, the same issue we have with the Chargers' full blue-and-gold look. It is the set we will see most on Sundays, and it is the one we would change first. More on it in our [full Rams 2026 uniform review](/stories/rams-new-uniforms-2026-review).
+
+**Classic Sol — B-.** The new gold throwback, graded above. A fun, classic nod to 1951.
+
+**Fearsome White — A-.** The new royal-and-white alternate, graded above. Drop the black outline and it is perfect.
+
+**Primary White — A.** The white away set is still incredible. The Rams nailed it when they first brought it back as a throwback, and it remains one of the cleanest road looks in the NFC. If anything, a couple of the tweaks this year cost it a shot at an A+, but it is still the standard the rest of the closet is chasing.
+
+<div style="margin: 2.25em 0; padding: 1.75em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 50%, #003594 100%); border-radius: 16px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 1.05em; color: #FFD100; margin: 0 0 0.75em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">The Rams 2026 Closet, Ranked</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.35em 0; letter-spacing: 0.5px;">Primary White <strong style="color:#FFD100;">A</strong></p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.35em 0; letter-spacing: 0.5px;">Fearsome White <strong style="color:#FFD100;">A-</strong></p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.35em 0; letter-spacing: 0.5px;">Classic Sol <strong style="color:#FFD100;">B-</strong></p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.35em 0; letter-spacing: 0.5px;">Primary Royal <strong style="color:#FFD100;">C+</strong></p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.35em 0; letter-spacing: 0.5px;">Midnight Mode <strong style="color:#FFD100;">C</strong></p>
+</div>
+
+## When Will the Rams Wear the New Alternate Jerseys?
+
+The Rams have already locked in the game dates for both new looks, and this is our one small gripe: the white gets one game and the gold gets two, when we would flip it.
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/see-them-live-wear-dates.jpg" alt="Los Angeles Rams schedule graphic showing when the Classic Sol and Fearsome White alternate jerseys will be worn in 2026" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+- **Classic Sol (gold):** Week 2 at home vs. the New York Giants (Monday, September 21) and Week 13 at home vs. the Kansas City Chiefs (Thursday, December 3).
+- **Fearsome White (white):** Week 12 at home vs. the Green Bay Packers (Wednesday, November 25).
+
+If it were up to us, the Fearsome White would get two dates and the Classic Sol would get one. That is us being picky about our favorite of the two, but when the best uniform you own only comes out once, that is a hard rule to sit still for.
+
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/new-alt-jerseys-available-now.jpg" alt="Back view of the Los Angeles Rams new 2026 Classic Sol Stafford and Fearsome White Garrett alternate jerseys" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+## The Bottom Line on the Rams' New Alternate Uniforms
+
+This is a strong reveal. The Fearsome White is the identity we wish the Rams would commit to full time, an A- today that becomes a clear A the second they drop the black outline. The Classic Sol is a warm, nostalgic throwback that we like more than we thought we would. Add in an elite Primary White, a Primary Royal that still is not clicking, and a Midnight Mode we could take or leave, and the Rams have quietly built one of the more interesting five-uniform closets in the league. Give us the white-on-white every week, and we will be very happy. For the set that started it all this offseason, revisit our [full Los Angeles Rams 2026 uniform review](/stories/rams-new-uniforms-2026-review).
 
 ## Frequently Asked Questions
 
-**Are the leaked Rams alternate jerseys real?**
-They surfaced on social media from The Style Scout, and the photos show official-looking Nike and NFL tags, with the leaker saying the alternates match everything already known about the Rams' plans. They are not officially confirmed by the team yet, so we are treating them as a credible leak and grading the look, not the announcement.
+**What are the new Rams alternate jerseys for 2026?**
+The Los Angeles Rams officially revealed two new alternate uniforms: Fearsome White, a clean royal-and-white jersey with white pants and a white-horn, white-facemask helmet, and Classic Sol, a gold throwback with royal-blue numbers and multi-striped white pants. Both were unveiled under the team's "Threaded with Greatness" campaign.
 
-**What are the leaked 2026 Rams alternate uniforms?**
-Two jerseys leaked: a gold throwback top with royal-blue numbers, and a white jersey with royal-blue numbers and blue shoulder caps. Both are alternates layered on top of the Rams' current 2026 uniform system.
+**Why is the Rams white jersey called Fearsome White?**
+The name honors the Fearsome Foursome, the dominant 1960s Rams defensive line of Deacon Jones, Merlin Olsen, Rosey Grier, and Lamar Lundy. The uniform blends that heritage with modern details like a continuous Rams Royal shoulder stripe, centered sleeve numbers, and a new white-horn helmet.
 
-**Are the Rams going back to blue and white?**
-The leaked white-and-blue jersey suggests a strong return to the franchise's classic royal-and-white identity, at least as an alternate. Our take is that the Rams should go further and make blue and white the full-time primary, because it is the cleanest look the team owns.
+**What does Classic Sol honor?**
+Classic Sol is a throwback to the 1951 World Champions Los Angeles Rams. It layers Rams Royal satin onto the team's gold "Sol" base, brings back the original multi-striped white pants, and uses three-stripe sleeve blocking that nods to the era and to USC, the Rams' longtime Los Angeles Coliseum ally.
 
-**When are the Rams revealing their new uniforms in 2026?**
-The Los Angeles Rams are officially unveiling two new alternate uniforms on July 23, 2026, in a special reveal event for season ticket holders. The jerseys in this post leaked roughly a week ahead of that unveiling, and they match what the team has said is coming.
+**Did the Rams change their helmet for the new alternates?**
+For the Fearsome White look, yes. It uses the modern Rams Royal shell but adds white horns, a white facemask, and new 3D bumper logos. The Classic Sol pairs with the standard Rams helmet and the "RAMS" front bumper.
 
-**When will the Rams wear the new alternate jerseys?**
-No official game schedule has been released yet. Alternate uniforms are typically worn once or twice per season for special games, and the team usually announces the specific dates closer to the season. We will update this post when the Rams confirm the alternates on July 23 and, later, the games they will wear them.
+**When will the Rams wear the new alternate jerseys in 2026?**
+The Rams will wear Classic Sol in Week 2 at home vs. the New York Giants (September 21) and Week 13 at home vs. the Kansas City Chiefs (December 3). They will wear Fearsome White in Week 12 at home vs. the Green Bay Packers (November 25).
 
-**Why did the Rams change their uniforms?**
-The Rams overhauled their identity for 2026, and the current set built around sol yellow and bone has drawn heavy criticism for straying from the team's classic look. These leaked blue-and-white and gold alternates read as a nod back toward the heritage colors fans have been asking for. Our full breakdown is in the [Rams new uniforms 2026 review](/stories/rams-new-uniforms-2026-review).
+**How many uniforms do the Rams have for 2026?**
+Five: Primary Royal, Primary White, the black Midnight Mode rivalry uniform, and the two new alternates, Fearsome White and Classic Sol. That is three colored jerseys and two white ones.
+
+**What is our grade for the new Rams alternate uniforms?**
+We give Fearsome White an A- and Classic Sol a B-. Across the full closet, our grades are: Primary White A, Fearsome White A-, Classic Sol B-, Primary Royal C+, and Midnight Mode C.
+
+**Are the Rams going back to blue and white full time?**
+Not officially. The Fearsome White is an alternate, not the primary. But it is the cleanest look the team owns, and our honest take is that the Rams should promote royal blue and white to full-time primary status.
 
 ## More NFL Coverage
 
-- [Los Angeles Rams New Uniforms 2026 Review](/stories/rams-new-uniforms-2026-review) — the full uniform system, graded
-- [Washington Commanders 2026 Uniform Schedule](/stories/commanders-uniform-schedule-2026) — an NFC rival's full jersey calendar
+- [Los Angeles Rams New Uniforms 2026 Review](/stories/rams-new-uniforms-2026-review) — the full primary uniform system, graded
+- [What Is the NFL Rivalries Uniform Program?](/stories/what-is-the-nfl-rivalries-uniform-program) — the story behind Midnight Mode and every rivalry alternate
+- [Why Monochrome NFL Uniforms Look Bad](/stories/monochrome-nfl-uniforms-why-they-look-bad) — our case against the all-black look
 - [NFL Uniform Release Dates 2026](/stories/nfl-uniform-release-dates-2026) — every team's new-look reveal, tracked
 
-*ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Los Angeles Rams or the National Football League. Leaked images via The Style Scout on X.*
+*ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Los Angeles Rams or the National Football League. Uniform images via the Los Angeles Rams.*
