@@ -2,6 +2,7 @@
 title: "Every 2026 NFL Uniform Reveal: Dates, Grades, and Rankings for All 5 Teams"
 category: "NFL"
 date: "2026-04-16"
+updatedDate: "2026-07-24"
 excerpt: "All five 2026 NFL uniform reveals are in. The Commanders earned our highest grade ever with an A. The Ravens dropped A-. The Titans earned B+. The Falcons B. The Rams B-. Here's every grade, date, and breakdown ranked."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
 logoSrc: "/logos/nfl.png"
@@ -12,7 +13,7 @@ teams: ["tennessee-titans", "atlanta-falcons", "washington-commanders", "baltimo
 
 It's uniform season in the NFL. All five 2026 NFL uniform overhauls are now officially complete. Here's every confirmed reveal with grades and rankings in final order from best to worst.
 
-*A second wave arrived in July: alternate jerseys and helmets rather than full redesigns, starting with the Jets' new white "White Out" helmet. Those are graded separately in our [2026 NFL alternate uniform tracker](/stories/nfl-alternate-uniform-tracker-2026), updated as the Rams and Bills reveal theirs.*
+*A second wave arrived in July: alternate jerseys and helmets rather than full redesigns, starting with the Jets' new white "White Out" helmet and now the Rams' Classic Sol and Fearsome White alternates. Those are graded separately in our [2026 NFL alternate uniform tracker](/stories/nfl-alternate-uniform-tracker-2026) and our [Rams new alternate jerseys breakdown](/stories/rams-leaked-alternate-jerseys-2026), with the Bills still to come.*
 
 ## 1. Washington Commanders - April 15 (Revealed) - Grade: A
 
@@ -63,7 +64,7 @@ The Falcons went back to basics after the 2020 set missed badly. Clean numbers, 
 <img src="/images/posts/rams-new-uniforms-2026-review/Cover-Photo-Rams-Uni.jpg" alt="Los Angeles Rams new 2026 uniforms reveal featuring Matthew Stafford in updated blue and yellow home jersey" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-The Rams killed the gradient, added horn stripes to the shoulders and sleeves, and introduced a new italicized "RAMS" wordmark for the helmet bumper. Necessary changes, not exciting ones. The white away uniform is the strongest piece of the reveal at a B+. The blue home uniform still isn't clicking for us even with the cleanup, and it lands at a C+. The new LA logo going monochrome gold is fine but nothing more, earning a B. The helmet itself was left untouched, which is the biggest missed opportunity of the rebrand. Two more uniforms are coming in summer 2026. [Read our full Rams breakdown and grade here](/stories/rams-new-uniforms-2026-review).
+The Rams killed the gradient, added horn stripes to the shoulders and sleeves, and introduced a new italicized "RAMS" wordmark for the helmet bumper. Necessary changes, not exciting ones. The white away uniform is the strongest piece of the reveal at a B+. The blue home uniform still isn't clicking for us even with the cleanup, and it lands at a C+. The new LA logo going monochrome gold is fine but nothing more, earning a B. The helmet itself was left untouched, which is the biggest missed opportunity of the rebrand. Update: the two summer alternates have now dropped, the gold Classic Sol and the royal-and-white Fearsome White, and we graded both in our [Rams new alternate jerseys 2026 breakdown](/stories/rams-leaked-alternate-jerseys-2026). [Read our full Rams redesign breakdown here](/stories/rams-new-uniforms-2026-review).
 
 <div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 50%, #003594 100%); border-radius: 12px; text-align: center; border: 2px solid #FFD100;">
   <p style="font-size: 5em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
