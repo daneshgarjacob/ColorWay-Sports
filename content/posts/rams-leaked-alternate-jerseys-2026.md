@@ -14,15 +14,11 @@ league: nfl
 teams: ["los-angeles-rams"]
 ---
 
-It is official. The Los Angeles Rams pulled the covers off two brand-new alternate uniforms, and the pair could not be more different: a clean royal-and-white set called **Fearsome White**, and a mustard-gold throwback called **Classic Sol**. Both were teased under the "Threaded with Greatness" banner, both are on the field this season, and both are exactly the kind of heritage-driven swing this franchise has needed. One of them is the best the Rams have looked in years. The other is a fun classic that we like more than we expected to.
+It is official. The Los Angeles Rams pulled the covers off two brand-new alternate uniforms, and the pair could not be more different: a clean royal-and-white set called **Fearsome White**, and a mustard-gold throwback called **Classic Sol**. Both were teased under the "Threaded with Greatness" banner, both are on the field this season, and both are exactly the kind of heritage-driven swing this franchise has needed. One of them is the best new alternate the Rams have dropped in years. The other is a fun classic that we like more than we expected to.
 
 We are grading both new jerseys below, and then we are grading the whole closet, all five uniforms the Rams will roll out in 2026, from the A-tier white to the black Midnight Mode rivalry set.
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2080503240764854665"></a></blockquote>
-</div>
-
-## Fearsome White: The Best Uniform the Rams Own
+## Fearsome White: The Best New Jersey of the Rams' Reveal
 
 Start with the one we love, because we really love it. The **Fearsome White** jersey is a crisp white top with royal-blue numbers, a continuous "Rams Royal" stripe that sweeps up and over the shoulder to mirror the curve of the helmet horn, and television numbers centered on the sleeve. Paired with white pants, it is about as clean and timeless as an NFL uniform gets. This is the look people have been begging the Rams to lean into, and seeing it on the field with white-on-white is genuinely exciting.
 
@@ -42,12 +38,16 @@ The name is a nod to the **Fearsome Foursome**, the legendary 1960s Rams defensi
 <img src="/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-history-fearsome-foursome.jpg" alt="Los Angeles Rams Fearsome White uniform history graphic honoring the Fearsome Foursome defensive line" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
-The one thing keeping this from a perfect score is the lettering. The numbers carry a black outline, and the Nike swoosh is black too, which pushes the whole thing a little closer to a Colts jersey than it should be. Drop the black, and this is a flawless uniform. Even with it, this is our honest wish: the Rams should make royal blue and white the primary and never look back. It is sharper than anything in the regular rotation.
+The one thing keeping this from a perfect score is the lettering. The numbers carry a black outline, and the Nike swoosh is black too, which pushes the whole thing a little closer to a Colts jersey than it should be. Drop the black, and this is a flawless uniform. Even with it, we would love to see the Rams lean harder into royal blue and white. It is sharper than the blue they run most Sundays, and it is the alternate we would reach for first.
 
 <div style="margin: 1.75em 0; padding: 1.35em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 100%); border-radius: 14px; text-align: center; border: 2px solid #FFD100;">
   <p style="font-size: 0.8em; color: #FFD100; margin: 0 0 0.35em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Fearsome White</p>
   <p style="font-size: 3.6em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">A-</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">The Cleanest Look The Rams Own</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">The Best New Jersey In The Reveal</p>
+</div>
+
+<div style="text-align: center; margin: 1.35em 0 0.5em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #2f6bed; color: #ffffff; font-size: 0.85em; font-weight: 800; padding: 11px 24px; border-radius: 999px; text-decoration: none; letter-spacing: 0.8px; text-transform: uppercase;">Shop the Fearsome White at Fanatics →</a>
 </div>
 
 ## Classic Sol: The Gold Throwback That Won Us Over
@@ -72,6 +72,10 @@ The helmet here is the standard Rams shell with the "RAMS" bumper, and the gold-
   <p style="font-size: 0.8em; color: #FFD100; margin: 0 0 0.35em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Classic Sol</p>
   <p style="font-size: 3.6em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">A Warm, Nostalgic Throwback</p>
+</div>
+
+<div style="text-align: center; margin: 1.35em 0 0.5em;">
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #2f6bed; color: #ffffff; font-size: 0.85em; font-weight: 800; padding: 11px 24px; border-radius: 999px; text-decoration: none; letter-spacing: 0.8px; text-transform: uppercase;">Shop the Classic Sol at Fanatics →</a>
 </div>
 
 ## Every 2026 Rams Uniform, Graded
@@ -113,10 +117,16 @@ The Rams have already locked in the game dates for both new looks, and this is o
 - **Classic Sol (gold):** Week 2 at home vs. the New York Giants (Monday, September 21) and Week 13 at home vs. the Kansas City Chiefs (Thursday, December 3).
 - **Fearsome White (white):** Week 12 at home vs. the Green Bay Packers (Wednesday, November 25).
 
-If it were up to us, the Fearsome White would get two dates and the Classic Sol would get one. That is us being picky about our favorite of the two, but when the best uniform you own only comes out once, that is a hard rule to sit still for.
+If it were up to us, the Fearsome White would get two dates and the Classic Sol would get one. That is us being picky about our favorite of the two, but when the best of the two new alternates only comes out once, that is a hard rule to sit still for.
 
 <img src="/images/posts/rams-leaked-alternate-jerseys-2026/new-alt-jerseys-available-now.jpg" alt="Back view of the Los Angeles Rams new 2026 Classic Sol Stafford and Fearsome White Garrett alternate jerseys" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
+
+<div style="margin: 1.75em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 100%); border-radius: 16px; text-align: center; border: 2px solid #FFD100;">
+  <p style="font-size: 1.15em; color: #ffffff; font-weight: 800; margin: 0 0 0.9em;">Both new alternates are available now.</p>
+  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #FFD100; color: #003594; font-size: 1em; font-weight: 900; padding: 13px 30px; border-radius: 999px; text-decoration: none; letter-spacing: 0.5px; text-transform: uppercase;">Shop Rams Jerseys at Fanatics →</a>
+  <p style="font-size: 0.72em; color: #cdd9f0; margin: 1em 0 0;">ColorWay Sports may earn a commission on purchases made through these links, at no extra cost to you.</p>
+</div>
 
 ## The Bottom Line on the Rams' New Alternate Uniforms
 
@@ -146,7 +156,7 @@ Five: Primary Royal, Primary White, the black Midnight Mode rivalry uniform, and
 We give Fearsome White an A- and Classic Sol a B-. Across the full closet, our grades are: Primary White A, Fearsome White A-, Classic Sol B-, Primary Royal C+, and Midnight Mode C.
 
 **Are the Rams going back to blue and white full time?**
-Not officially. The Fearsome White is an alternate, not the primary. But it is the cleanest look the team owns, and our honest take is that the Rams should promote royal blue and white to full-time primary status.
+Not officially. The Fearsome White is an alternate, not the primary. But it is one of the cleanest looks the team owns, and our honest take is that the Rams should lean further into royal blue and white.
 
 ## More NFL Coverage
 
