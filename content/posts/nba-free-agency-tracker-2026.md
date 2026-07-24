@@ -1,10 +1,10 @@
 ---
-title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (Giannis Antetokounmpo to Miami, LaMelo Ball to Minnesota, Jaylen Brown to the Sixers)"
+title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (LeBron James to the 76ers, Giannis Antetokounmpo to Miami, LaMelo Ball to Minnesota)"
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-16"
-excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, Paul George in Celtics green, and more. Updated all summer."
+updatedDate: "2026-07-24"
+excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -22,6 +22,14 @@ Free agency is the second draft of the NBA offseason, and the fun part for us is
   <span style="display: block; font-size: 1.15em; font-weight: 800; color: #ffffff; line-height: 1.4;">Spot a signing we haven't added yet?</span>
   <span style="display: block; font-size: 0.98em; line-height: 1.55; color: #dbe4f5; margin-top: 8px;">Free agency moves fast and we do not want to miss anyone. Reply to our post on X <a href="https://x.com/colorwaysports" target="_blank" rel="noopener" style="color: #9fe3b8; font-weight: 700;">@ColorWaySports</a> or email <a href="mailto:jake@colorwaysports.com" style="color: #9fe3b8; font-weight: 700;">jake@colorwaysports.com</a> with the player and their new team, and we will get them into the tracker in their new colors.</span>
 </div>
+
+## LeBron James, Philadelphia 76ers
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ShamsCharania/status/2080677097463312412"></a></blockquote>
+</div>
+
+The biggest name in the sport changes colors. After the run that defined a generation in the Lakers' purple and gold, LeBron James signs with the Philadelphia 76ers and steps into the Liberty red, white, and royal blue, wearing his signature No. 23. It is the boldest colorway on a résumé that already includes Cavaliers wine and gold and Heat black and red, and dropping the most recognizable player alive into Sixers blue next to Jaylen Brown gives Philadelphia the most talked-about uniform in the league overnight. There is a wrinkle behind the number, too: LeBron cannot wear his other career digit, 6, because it is retired league-wide for Bill Russell and hangs in Philadelphia for Julius Erving. We broke down the number and every edition of the jersey in our [full LeBron 76ers jersey number breakdown](/stories/lebron-james-76ers-jersey-number).
 
 ## Giannis Antetokounmpo, Miami Heat
 
@@ -95,13 +103,17 @@ Rim-protecting center Mitchell Robinson rounds out Boston's reload, swapping the
 
 ## The Bottom Line on the 2026 NBA Free Agency Jersey Moves
 
-The story of this free agency period is written in colorways as much as contracts. Boston reloaded around a new-look core, and seeing Paul George, Mike Conley, and Mitchell Robinson all pull on the kelly green at once is a jarring, exciting reset for one of the sport's most storied uniforms. Out west, the Lakers rebuilt their backcourt with Collin Sexton and Quentin Grimes and added Sandro Mamukelashvili up front, all three now in the purple and gold. On the other side of it, Jaylen Brown in Philadelphia red, white, and blue is the jersey swap that will define the season, a cornerstone leaving the green for its biggest rival. We will keep this tracker updated with every new signing in their new colors as the summer rolls on, so check back and help us make sure we never miss a move.
+The story of this free agency period is written in colorways as much as contracts, and it now runs straight through Philadelphia: LeBron James in Sixers red, white, and blue, wearing No. 23 next to Jaylen Brown, is the headline jersey change of the entire class. Boston reloaded around a new-look core, and seeing Paul George, Mike Conley, and Mitchell Robinson all pull on the kelly green at once is a jarring, exciting reset for one of the sport's most storied uniforms. Out west, the Lakers rebuilt their backcourt with Collin Sexton and Quentin Grimes and added Sandro Mamukelashvili up front, all three now in the purple and gold. On the other side of it, Jaylen Brown in Philadelphia red, white, and blue is the jersey swap that will define the season, a cornerstone leaving the green for its biggest rival. We will keep this tracker updated with every new signing in their new colors as the summer rolls on, so check back and help us make sure we never miss a move.
 
 ## Frequently Asked Questions
 
 **Where can I see NBA players in their new team jerseys for 2026?**
 
 Right here. This ColorWay Sports tracker collects every 2026 NBA free agency signing in their new team jersey and uniform, led by the team's official announcement so you see the real player in the real colors. We update it throughout the offseason as new signings are made official.
+
+**What number does LeBron James wear with the Philadelphia 76ers?**
+
+LeBron James wears No. 23 with the 76ers. He cannot wear his other career number, 6, because it is retired league-wide across the NBA for Bill Russell and also retired by the 76ers for Julius Erving. Full details are in our [LeBron 76ers jersey number breakdown](/stories/lebron-james-76ers-jersey-number).
 
 **Who did the Boston Celtics sign in 2026 free agency?**
 
