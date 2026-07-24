@@ -117,7 +117,7 @@ The Rams have already locked in the game dates for both new looks, and this is o
 - **Classic Sol (gold):** Week 2 at home vs. the New York Giants (Monday, September 21) and Week 13 at home vs. the Kansas City Chiefs (Thursday, December 3).
 - **Fearsome White (white):** Week 12 at home vs. the Green Bay Packers (Wednesday, November 25).
 
-If it were up to us, the Fearsome White would get two dates and the Classic Sol would get one. That is us being picky about our favorite of the two, but when the best of the two new alternates only comes out once, that is a hard rule to sit still for.
+If it were up to us, the Fearsome White would get two dates and the Classic Sol would get one. That is us being picky about our favorite of the two, but when the best of the two new alternates only comes out once, that is a hard rule to sit still for. For the full week-by-week breakdown of every jersey this season, see our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 <img src="/images/posts/rams-leaked-alternate-jerseys-2026/new-alt-jerseys-available-now.jpg" alt="Back view of the Los Angeles Rams new 2026 Classic Sol Stafford and Fearsome White Garrett alternate jerseys" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
@@ -160,6 +160,7 @@ Not officially. The Fearsome White is an alternate, not the primary. But it is o
 
 ## More NFL Coverage
 
+- [Los Angeles Rams 2026 Uniform Schedule](/stories/rams-uniform-schedule-2026) — when they wear every jersey, week by week
 - [Los Angeles Rams New Uniforms 2026 Review](/stories/rams-new-uniforms-2026-review) — the full primary uniform system, graded
 - [What Is the NFL Rivalries Uniform Program?](/stories/what-is-the-nfl-rivalries-uniform-program) — the story behind Midnight Mode and every rivalry alternate
 - [Why Monochrome NFL Uniforms Look Bad](/stories/monochrome-nfl-uniforms-why-they-look-bad) — our case against the all-black look
