@@ -2,7 +2,7 @@
 title: "Is the American Family Field Roof Open Today? Brewers 2026 Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-23"
+updatedDate: "2026-07-24"
 excerpt: "Is the American Family Field roof open or closed today? Live status in seconds, plus the Brewers 2026 roof rules, the roof hotline, and the rain policy."
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ American Family Field has one of the busiest and most distinctive roofs in baseb
 <div style="margin: 1.75em 0; border: 2px solid #12284B; border-radius: 16px; overflow: hidden;">
   <div style="background: #12284B; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, July 23, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, July 24, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
-    <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
-    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Brewers home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Brewers are off today.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No home game at American Family Field. When Milwaukee is home the fan-blade roof moves more than 200 times a year chasing the best conditions, so a dry, mild night usually means open.</div>
+    <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed &middot; open for today's game</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rockies at Brewers &middot; Final</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>79&deg;F</strong> and partly cloudy in Milwaukee, exactly the mild, dry window the Brewers open the fan-blade roof for. It was open-air baseball at American Family Field today.</div>
     <a href="https://x.com/Brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #12284B; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Brewers &rarr;</a>
   </div>
 </div>
