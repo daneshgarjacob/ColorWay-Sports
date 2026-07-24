@@ -2,6 +2,7 @@
 title: "Los Angeles Rams New Uniforms 2026: Full Review and Grade for Every Jersey"
 category: "NFL"
 date: "2026-04-16"
+updatedDate: "2026-07-24"
 excerpt: "The Rams officially revealed their new logo, wordmark, and updated uniforms on April 16. The gradient is finally dead. Here is our full jersey-by-jersey review and overall grade for the 2026 Rams rebrand."
 gradient: "linear-gradient(135deg, #003594 0%, #FFD100 50%, #003594 100%)"
 logoSrc: "/logos/nfl.png"
@@ -95,6 +96,8 @@ The helmet itself did not get touched, and that is the biggest missed opportunit
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Rams</p>
 
 The reveal also hinted that two additional uniforms are coming in summer 2026. The bone-colored rivalry alternate may or may not survive the transition. We never loved it beyond the little blue shoulder accents, so we would not be upset if it gets phased out. We will have to wait and see what the Rams cook up for the second wave.
+
+**Update:** the second wave has landed. The Rams revealed the gold **Classic Sol** and the royal-and-white **Fearsome White** alternates, and we graded all five 2026 looks in our [Rams new alternate jerseys 2026 breakdown](/stories/rams-leaked-alternate-jerseys-2026). Our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) maps when each jersey comes out week by week, and we dug into the history behind the white set in [Who Were the Fearsome Foursome?](/stories/who-were-the-fearsome-foursome).
 
 ## The Overall Grade: B-
 
