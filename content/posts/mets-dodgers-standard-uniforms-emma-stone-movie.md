@@ -30,7 +30,19 @@ When a feature film shoots a baseball game, the production almost always wants t
 
 Here is the detail that makes this a real uniform story. The Mets almost always break out an alternate for **Friday home games** at Citi Field, most often their fan-favorite black jersey, and on some Friday nights the gray "NYC" City Connect. Either way, a Friday under the lights at Citi Field is usually an alternate night rather than a plain-pinstripes night, which is what fans plan tickets and merchandise around.
 
-But not this Friday. With "The Catch" filming, the Mets went with the **home white pinstripes** instead, the clean, classic look that plays best on screen. The Dodgers matched the energy in their road grays with the script Dodgers across the chest. It gave the broadcast something you almost never see anymore on a City Connect Friday: two of the most timeless uniforms in the sport, sharing a field with nothing flashy in the frame. Sometimes the simplest look is the best one, and this time it was a movie's call, not a manager's. For the full rundown of what every team wore that night, see our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026), and for the Mets' normal weekly rotation, our [New York Mets uniform schedule](/stories/mets-uniform-schedule-2026).
+But not this Friday. With "The Catch" filming, the Mets went with the **home white pinstripes** instead, the clean, classic look that plays best on screen. The Dodgers matched the energy in their road grays with the script Dodgers across the chest. It gave the broadcast something you almost never see anymore on a City Connect Friday: two of the most timeless uniforms in the sport, sharing a field with nothing flashy in the frame. Sometimes the simplest look is the best one, and this time it was a movie's call, not a manager's.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Mets/status/2080739561848685048"></a>
+  </blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Dodgers/status/2080826226118377678"></a>
+  </blockquote>
+</div> For the full rundown of what every team wore that night, see our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026), and for the Mets' normal weekly rotation, our [New York Mets uniform schedule](/stories/mets-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
