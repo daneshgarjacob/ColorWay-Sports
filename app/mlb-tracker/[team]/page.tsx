@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getPostBySlug } from "@/lib/posts";
 import TeamUniformBreakdown from "@/components/TeamUniformBreakdown";
+import MlbTonightBlock from "@/components/MlbTonightBlock";
 import {
   buildMlbTeamIndex,
   uniformUsage,
@@ -19,6 +20,9 @@ const WEEKDAYS = ["S", "M", "T", "W", "T", "F", "S"];
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 
+// ISR: regenerate hourly so the "wearing today" block stays current.
+export const revalidate = 1800;
+
 export function generateStaticParams() {
   return allTeamKeys().map((team) => ({ team }));
 }
@@ -31,8 +35,8 @@ export async function generateMetadata({
   const { team } = await params;
   const meta = teamMetaByKey(team);
   if (!meta) return {};
-  const title = `${meta.name} Uniform Calendar 2026: Every Jersey, Every Game`;
-  const description = `A day-by-day visual calendar of every jersey the ${meta.name} have worn in 2026, plus how many times each uniform has been worn at home and on the road.`;
+  const title = `What Are the ${meta.name} Wearing Today? 2026 Uniform Tracker & Calendar`;
+  const description = `What are the ${meta.name} wearing today? Tonight's game and expected uniform, plus a day-by-day visual calendar of every jersey the ${meta.name} have worn in 2026, updated every morning.`;
   return {
     title,
     description,
@@ -103,6 +107,13 @@ export default async function TeamTrackerPage({
             </p>
           </div>
         </section>
+
+        <MlbTonightBlock
+          teamKey={team}
+          teamName={entry.name}
+          color={meta.color}
+          trackerSlug={TRACKER_SLUG}
+        />
 
         {entry.games.length === 0 ? (
           <section className="max-w-[860px] mx-auto px-5 pt-12">
