@@ -22,7 +22,7 @@ When a feature film shoots a baseball game, the production almost always wants t
 
 ## Why the Mets Broke Their Friday-Night Habit
 
-Here is the detail that makes this a real uniform story. The Mets almost always wear their **black alternate on Friday home games** at Citi Field. It has become the closest thing they have to a scheduling rule, a standing Friday-night slot that fans plan tickets and merchandise around. Black on a Friday is simply what the Mets do.
+Here is the detail that makes this a real uniform story. The Mets almost always break out an alternate for **Friday home games** at Citi Field, most often their fan-favorite black jersey, and on some Friday nights the gray "NYC" City Connect. Either way, a Friday under the lights at Citi Field is usually an alternate night rather than a plain-pinstripes night, which is what fans plan tickets and merchandise around.
 
 But not this Friday. With "Keychain" filming, the Mets went with the **home white pinstripes** instead, the clean, classic look that plays best on screen. The Dodgers matched the energy in their road grays with the script Dodgers across the chest. It gave the broadcast something you almost never see anymore on a City Connect Friday: two of the most timeless uniforms in the sport, sharing a field with nothing flashy in the frame. Sometimes the simplest look is the best one, and this time it was a movie's call, not a manager's. For the full rundown of what every team wore that night, see our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026), and for the Mets' normal weekly rotation, our [New York Mets uniform schedule](/stories/mets-uniform-schedule-2026).
 
@@ -41,10 +41,28 @@ The movie is "Keychain," a baseball film starring Emma Stone. It shot on locatio
 Reported cast members include Emma Stone, who plays "the most hated woman in baseball," Chris Pine as a baseball player, and Mets star Juan Soto appearing as himself. Tim Robbins, Sissy Spacek, and Ashley Padilla are also reportedly part of the cast.
 
 **Do the Mets always wear black on Fridays?**
-In 2026 the black alternate is the Mets' standing Friday-night home look at Citi Field, one of the only fixed days in an otherwise flexible rotation. July 24 was a rare exception because of the movie shoot. You can see the full breakdown in our [Mets uniform schedule](/stories/mets-uniform-schedule-2026).
+The Mets typically wear an alternate for Friday home games in 2026, most often the black jersey and sometimes the gray "NYC" City Connect, so the exact Friday look can vary. What is clear is that July 24 was an exception either way: they wore their plain white pinstripes because of the movie shoot rather than any of their usual Friday alternates. More on their rotation in our [Mets uniform schedule](/stories/mets-uniform-schedule-2026).
 
 **Why do movies use classic baseball uniforms instead of City Connects?**
 Classic home whites and road grays read as timeless baseball on screen and are easy to license and stage, while City Connects and modern alternates tie a scene to a specific season and can complicate the production. That is why baseball films almost always put teams in their most recognizable primary uniforms.
+
+**What is the movie "Keychain" about?**
+"Keychain" is a baseball-themed feature film that shot scenes at Citi Field in July 2026. Emma Stone reportedly stars as "the most hated woman in baseball," with Chris Pine as a ballplayer, which is why the production needed live game scenes and classic-looking uniforms at the Mets' ballpark.
+
+**Is Juan Soto in the Emma Stone movie?**
+By reports, yes. Mets star Juan Soto appears in "Keychain" as himself in a scene shot at Citi Field. Cameos from real players are common when a film stages an actual major league game.
+
+**Did the Mets wear their City Connect on July 24?**
+No. The Mets wore their standard home white pinstripes on July 24, not the gray "NYC" City Connect and not the black alternate. The plain pinstripes were the classic look the movie production wanted on camera.
+
+**What uniform did the Dodgers wear against the Mets on July 24?**
+The Dodgers wore their classic road grays with the blue "Dodgers" script, one of the most timeless looks in the sport, matching the standard-uniform theme for the film shoot.
+
+**Could Mets fans be in the movie?**
+Yes. The production put out a casting call for Mets fans to attend and cheer at Citi Field as paid extras during the filming week, so real fans in the stands are part of the ballpark scenes.
+
+**When was "Keychain" filmed at Citi Field?**
+Reports put the Citi Field shoot across the July 20 to July 24, 2026 homestand, wrapping on the Friday night that the Mets and Dodgers wore their classic uniforms.
 
 ## More MLB Coverage
 

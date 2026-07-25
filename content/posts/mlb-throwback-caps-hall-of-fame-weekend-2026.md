@@ -57,6 +57,24 @@ Because it is Hall of Fame Weekend. Your team is wearing a throwback cap from it
 **Can I buy the MLB throwback caps?**
 Yes. The Hall of Fame Weekend and Cooperstown Collection throwback caps are sold for all 30 teams, so you can pick up your team's vintage design.
 
+**Do MLB teams wear throwback jerseys for Hall of Fame Weekend, or just caps?**
+For 2026 the throwbacks were on the caps, not the jerseys. Teams kept their current jerseys, including City Connects and alternates, so the vintage caps were the shared thread tying all 30 clubs together for the weekend.
+
+**How long do the teams wear the throwback caps?**
+Only the Hall of Fame induction weekend, which in 2026 ran Friday, July 24 through Sunday, July 26. Teams return to their normal cap rotation once the weekend is over.
+
+**What is the Cooperstown Collection?**
+The Cooperstown Collection is MLB's officially licensed line of throwback and vintage team gear, named for the home of the National Baseball Hall of Fame in Cooperstown, New York. The Hall of Fame Weekend caps fall under that heritage umbrella and are sold to fans.
+
+**Why do teams wear old caps for the Hall of Fame?**
+The Hall of Fame is a celebration of baseball history, so wearing throwback caps lets every team honor its own past at the same moment the sport is enshrining its legends in Cooperstown. It is a visual way for the whole league to lean into heritage for one weekend.
+
+**Is Hall of Fame Weekend the same weekend every year?**
+It is always in late July, tied to the annual induction ceremony in Cooperstown. The exact dates shift from year to year, but the league-wide throwback-cap tradition returns with it each summer.
+
+**Why is the Hall of Fame in Cooperstown?**
+The National Baseball Hall of Fame is located in Cooperstown, New York, long tied to the origins of the game, and it is where the annual induction ceremony takes place. That is the event MLB's throwback-cap weekend is built around.
+
 ## More MLB Coverage
 
 - [2026 MLB Uniform Tracker](/stories/mlb-uniform-tracker-2026) — what every team wore, every night, updated daily
