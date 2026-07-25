@@ -2,7 +2,7 @@
 title: "Is the Rogers Centre Dome Open Today? 2026 Toronto Blue Jays Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-24"
+updatedDate: "2026-07-25"
 excerpt: "Rogers Centre opens its roof more than any park in MLB, but not until Toronto warms up. Live status, how the Blue Jays decide, the rules, and how it ranks among MLB roofs."
 gradient: "linear-gradient(135deg, #134A8E 0%, #1A1A1A 55%, #1D9BD7 100%)"
 league: "mlb"
@@ -19,12 +19,12 @@ Rogers Centre, still called "the dome" by most Blue Jays fans, opens its roof mo
 <div style="margin: 1.75em 0; border: 2px solid #134A8E; border-radius: 16px; overflow: hidden;">
   <div style="background: #134A8E; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, July 24, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Saturday, July 25, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Blue Jays home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Blue Jays are off today.</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Blue Jays are on the road today (at Boston).</div>
     <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No home game at Rogers Centre. When Toronto is home the roof opens on mild, dry days and closes for heat, cold, or rain.</div>
     <a href="https://x.com/BlueJays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #134A8E; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @BlueJays &rarr;</a>
   </div>
