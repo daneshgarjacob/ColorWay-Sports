@@ -33,7 +33,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, July 24
 
-Fifteen games and one of the most fun uniform nights of the season, because this was Hall of Fame Weekend. All 30 clubs wore throwback caps to mark the induction ceremony, and the jerseys followed suit with a City Connect and alternate blowout: the Rays' Devil Rays fauxback, Boston's green CC, the Rangers' red Tejas set, Baltimore's cream-and-green BMORE, Philadelphia's blue Philly, and plenty more. Only one game on the entire slate had both teams in their standard uniforms, and there is a reason for that, which we get into below. The Angels' throwback “Los Angeles” caps take Jersey of the Day, the clean Dodgers-Mets primary matchup is our Matchup of the Day, and the slate grades out to 8 out of 10.
+Fifteen games and one of the most fun uniform nights of the season, because this was [Hall of Fame Weekend](/stories/mlb-throwback-caps-hall-of-fame-weekend-2026). All 30 clubs wore throwback caps to mark the induction ceremony, and the jerseys followed suit with a City Connect and alternate blowout: the Rays' Devil Rays fauxback, Boston's green CC, the Rangers' red Tejas set, Baltimore's cream-and-green BMORE, Philadelphia's blue Philly, and plenty more. Only one game on the entire slate had both teams in their standard uniforms, and there is a reason for that, which we get into below. The Angels' throwback “Los Angeles” caps take Jersey of the Day, the clean Dodgers-Mets primary matchup is our Matchup of the Day, and the slate grades out to 8 out of 10.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
@@ -80,7 +80,7 @@ On a night when all 30 teams wore throwback caps for Hall of Fame Weekend, the A
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8 / 10</p>
 </div>
 
-The one game on the board where both teams wore their standard uniforms, and it is a beauty for it. Los Angeles in the classic road gray with the script Dodgers, New York in the clean home white with the blue and orange: no City Connect, no alternate, just two of the sport's most timeless looks sharing a field. There is a fun reason it was the only primary-on-primary matchup of the night, too, with a Hollywood movie shooting scenes at Citi Field this week, and sometimes the simplest frame is the best one.
+The one game on the board where both teams wore their standard uniforms, and it is a beauty for it. Los Angeles in the classic road gray with the script Dodgers, New York in the clean home white with the blue and orange: no City Connect, no alternate, just two of the sport's most timeless looks sharing a field. There is a fun reason it was the only primary-on-primary matchup of the night, too, with a [Hollywood movie shooting scenes at Citi Field](/stories/mets-dodgers-standard-uniforms-emma-stone-movie) this week, and sometimes the simplest frame is the best one.
 
 ### Rockies at Brewers
 
@@ -331,10 +331,10 @@ The star of the night. Tampa Bay brought back the Devil Rays fauxback, the white
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/marlins-black-alternate.png" alt="Marlins black alternate jersey worn July 24 2026 vs the Padres, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/marlins-black-cc.jpg" alt="Marlins black City Connect jersey worn July 24 2026 vs the Padres, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARLINS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0A0A0A; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black Alternate</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0A0A0A; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black City Connect</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
@@ -344,7 +344,7 @@ The star of the night. Tampa Bay brought back the Devil Rays fauxback, the white
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.5 / 10</p>
 </div>
 
-Two of the more distinctive palettes in the sport share a field. San Diego's sand-and-chocolate brown runs against Miami's black alternate with the teal and red Marlins script, and the brown-versus-black pairing is darker and richer than anything else on the board.
+Two of the more distinctive palettes in the sport share a field. San Diego's sand-and-chocolate brown runs against Miami's black City Connect with the vice-inspired teal and pink Miami script, and the brown-versus-black pairing is darker and richer than anything else on the board.
 
 ### Blue Jays at Red Sox
 

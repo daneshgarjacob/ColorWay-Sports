@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-25"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -114,7 +114,7 @@ The blue alternate is the wild card. It's a royal-blue top with orange striping 
 
 ## Black Alternate (Friday Home Games)
 
-Black is back, and it's the closest thing the Mets have to a hard rule. The black alternate — a black jersey with the blue-and-orange "Mets" wordmark (the heavy drop shadow dropped for a cleaner two-color graphic in 2024), the blue cap, white pants with blue piping, and black socks — has become the team's Friday-night home look at Citi Field. The black trim era ran from 1998 to 2011 before the Mets shelved it, and its revival as a weekly alternate taps directly into a wave of nostalgia for that turn-of-the-century identity. Giving it a standing Friday slot is the rare bit of scheduling discipline in an otherwise loose rotation, and fans clearly love seeing it back under the lights.
+Black is back, and it's the closest thing the Mets have to a hard rule. The black alternate — a black jersey with the blue-and-orange "Mets" wordmark (the heavy drop shadow dropped for a cleaner two-color graphic in 2024), the blue cap, white pants with blue piping, and black socks — has become the team's Friday-night home look at Citi Field. The black trim era ran from 1998 to 2011 before the Mets shelved it, and its revival as a weekly alternate taps directly into a wave of nostalgia for that turn-of-the-century identity. Giving it a standing Friday slot is the rare bit of scheduling discipline in an otherwise loose rotation, and fans clearly love seeing it back under the lights. The one notable exception came Friday, July 24, 2026, when the Mets broke the habit and wore their classic white pinstripes instead, because the Emma Stone movie "Keychain" was filming game scenes at Citi Field and the production wanted a timeless look. We broke that down in [why the Mets and Dodgers skipped City Connect night](/stories/mets-dodgers-standard-uniforms-emma-stone-movie).
 
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065839072023609557"></a></blockquote>
