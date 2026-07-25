@@ -14,6 +14,12 @@ teams: []
 
 If you flipped on any Major League Baseball game the weekend of July 24 and noticed your team, and every other team, wearing a different, old-school cap, you are not imagining it. Every one of the 30 MLB clubs swapped their normal hats for **throwback caps** across the weekend of Friday, July 24 through Sunday, July 26, 2026. It is one of the best cap weekends of the season, and there is a single reason behind it: the National Baseball Hall of Fame induction.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Angels/status/2080808306034274741"></a>
+  </blockquote>
+</div>
+
 ## The Short Answer: It's Hall of Fame Weekend
 
 MLB holds a league-wide throwback-cap tradition to coincide with **Hall of Fame Weekend**, the late-July stretch when the newest class is inducted into the National Baseball Hall of Fame in Cooperstown, New York. To celebrate the sport's history while its legends are enshrined, all 30 teams reach back into their own past and wear a vintage cap design for that weekend's games. It is a nod to heritage across the entire league at the exact moment baseball is honoring its history.
