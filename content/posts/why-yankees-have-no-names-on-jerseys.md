@@ -6,7 +6,7 @@ updatedDate: "2026-07-23"
 excerpt: "The Yankees have never worn player names on the backs of their jerseys, home or road. The tradition goes back nearly a century, and the reason is the same one that built the brand."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1c2a4a 55%, #C4CED4 130%)"
 logoSrc: "/logos/mlb.png"
-logoSrc2: "/logos/yankees.png"
+logoSrc2: "/logos/teams/mlb-new-york-yankees.png"
 cardStyle: words
 kicker: Explained
 league: mlb
