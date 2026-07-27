@@ -29,11 +29,13 @@ export default async function MlbTonightBlock({
   teamName,
   color,
   trackerSlug,
+  scheduleHref,
 }: {
   teamKey: string;
   teamName: string;
   color: string;
   trackerSlug: string;
+  scheduleHref?: string;
 }) {
   const id = MLB_TEAM_ID[teamKey];
   if (!id) return null;
@@ -102,12 +104,22 @@ export default async function MlbTonightBlock({
               field we will log exactly what they wear, right here.
             </p>
           )}
-          <Link
-            href={`/stories/${trackerSlug}`}
-            className="inline-block mt-3.5 text-[13px] font-bold text-[#2f6bed] hover:underline"
-          >
-            See today&rsquo;s confirmed uniforms in the daily tracker &rarr;
-          </Link>
+          <div className="mt-3.5 flex flex-col gap-1.5">
+            <Link
+              href={`/stories/${trackerSlug}`}
+              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+            >
+              See today&rsquo;s confirmed uniforms in the daily tracker &rarr;
+            </Link>
+            {scheduleHref && (
+              <Link
+                href={scheduleHref}
+                className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              >
+                Browse the {teamName}&rsquo; full 2026 uniform schedule: every jersey and when they wear it &rarr;
+              </Link>
+            )}
+          </div>
         </div>
       </div>
       <p className="text-[11px] text-black/35 mt-2 mb-0 px-0.5">

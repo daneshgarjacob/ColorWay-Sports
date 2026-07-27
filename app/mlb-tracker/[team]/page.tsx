@@ -113,6 +113,7 @@ export default async function TeamTrackerPage({
           teamName={entry.name}
           color={meta.color}
           trackerSlug={TRACKER_SLUG}
+          scheduleHref={meta.scheduleHref}
         />
 
         {entry.games.length === 0 ? (
