@@ -17,7 +17,7 @@ The 2026 NBA Playoffs are here, and for the first time in decades, the broadcast
 
 We liked a lot of what TNT brought to the table over the years, especially the pregame and halftime shows. But we were never in love with their scorebug during the playoffs. We were hoping for something better, and now we get to see if NBC and Amazon can deliver on the production side.
 
-This is the first of several posts we are doing on the 2026 NBA Playoffs. We will also be breaking down the announcers, the playoff court designs, the scorebugs, and the jersey matchups for every series. For now, here is the broadcast schedule and where to watch every game.
+This is the first of several posts we are doing on the 2026 NBA Playoffs. We will also be breaking down the announcers, the playoff court designs, the scorebugs, and the jersey matchups for every series. For now, here is the broadcast schedule and where to watch every game. Once the bracket reached the championship round, we put together the full [June NBA Finals and Stanley Cup Final TV schedule on ABC](/stories/nba-finals-stanley-cup-final-abc-schedule-june-2026) with every game date, tipoff time, and channel.
 
 ## What Channel Is the NBA Play-In Tournament On?
 

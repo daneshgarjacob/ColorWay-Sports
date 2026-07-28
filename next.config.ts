@@ -52,6 +52,12 @@ const nextConfig: NextConfig = {
         destination: "/stories/ravens-uniform-rumors-iridescent-2026",
         permanent: true,
       },
+      // GSC 7/28: old slug for the Rangers/Globe Life roof-status post
+      {
+        source: "/stories/globe-life-field-roof-status-2026",
+        destination: "/stories/rangers-roof-open-globe-life-field-2026",
+        permanent: true,
+      },
       // Old WordPress URLs -- redirect to homepage
       {
         source: "/wp-content/:path*",

@@ -14,7 +14,7 @@ coverImagePosition: "center 30%"
 ![Dallas Cowboys 2026 Draft Hat Interior](/images/posts/nfl-draft-hats-2026/cowboys-inside.jpg)
 *Image courtesy of New Era*
 
-New Era just dropped the official 2026 NFL Draft hats, and we went through every single one. There are 31 hats available right now, with one notable absence: the Los Angeles Rams. We'll get into that later.
+New Era just dropped the official 2026 NFL Draft hats, and we went through every single one. There are 31 hats available right now, with one notable absence: the Los Angeles Rams. We'll get into that later. The draft itself lands in Pittsburgh this year, and the [city is painting itself black and gold](/stories/nfl-draft-2026-pittsburgh-city-cleanup) to host it.
 
 The collection this year follows a pretty consistent format. Team primary color on the crown, secondary color on the brim, oversized 3D chrome logo on the front, and a small NFL Draft pin on the side. What really sets these apart are the hidden interior designs. Flip the hat over and you'll find custom artwork inside every single one, from city landmarks to team-specific graphics. Some of them are incredible. Some of them are lazy.
 

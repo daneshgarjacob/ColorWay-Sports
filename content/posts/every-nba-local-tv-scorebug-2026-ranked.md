@@ -75,7 +75,7 @@ The Lakers scorebug on Spectrum SportsNet is fine. It is functional, clean, and 
 ![Houston Rockets Scorebug](/images/posts/nba-local-scorebugs-2026/HOU-SB.jpg)
 *Screenshot via YouTube*
 
-Houston's scorebug has a modern feel to it, which fits the Rockets' recent rebrand and overall direction. The design is competent but does not do much to stand out from the crowd. It gets the job done without leaving much of an impression.
+Houston's scorebug has a modern feel to it, which fits the Rockets' recent rebrand and overall direction. The design is competent but does not do much to stand out from the crowd. It gets the job done without leaving much of an impression. We go deeper on the design in our full [Houston Rockets scorebug review](/stories/rockets-scorebug-2026).
 
 ### 9. Denver Nuggets (Altitude) - B-
 

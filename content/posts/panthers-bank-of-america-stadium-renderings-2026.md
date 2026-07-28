@@ -63,3 +63,4 @@ It is the Panthers' broader plan for the area around the stadium, aimed at makin
 
 - [Jaguars Moving to Orlando for 2027 While a New Stadium Gets Built](/stories/jaguars-orlando-camping-world-stadium-2027) — another NFL franchise reshaping its home
 - [The Dodger Stadium Traffic and Parking Problem](/stories/dodger-stadium-traffic-parking-problem-2026) — what happens when the building is great and getting there is not
+- [Kansas City Royals New Downtown Ballpark Renderings](/stories/royals-new-ballpark-renderings-2026) — a $3 billion stadium at Crown Center set to open in 2030

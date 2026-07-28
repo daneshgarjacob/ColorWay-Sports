@@ -80,7 +80,7 @@ San Antonio deserved better. The Final Four deserved better. And honestly, the f
 
 ## The Bottom Line
 
-The 2026 Final Four court is safe, corporate, and forgettable. We want the NCAA to take risks again. Give us color. Give us a logo that fills the floor. Give us a reason to remember what this court looked like five years from now. Right now, we can't even tell it apart from last year's.
+The 2026 Final Four court is safe, corporate, and forgettable. We want the NCAA to take risks again. Give us color. Give us a logo that fills the floor. Give us a reason to remember what this court looked like five years from now. Right now, we can't even tell it apart from last year's. The court is not the only thing shifting about the tournament either, and we broke down why [March Madness expanding to 76 teams](/stories/march-madness-76-team-expansion-2026) is a mistake, along with what the new bracket actually looks like.
 
 ![2026 Final Four - Design Inspiration Board](/images/posts/final-four-court-2026-logo.jpg)
 *The NCAA's design inspiration board for the 2026 Final Four. The colors and energy here are exactly what we wish made it onto the actual court. Images via NCAA*
