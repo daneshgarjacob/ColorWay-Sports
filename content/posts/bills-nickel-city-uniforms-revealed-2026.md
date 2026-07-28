@@ -9,6 +9,7 @@ coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
 coverImagePosition: "center 30%"
 league: "nfl"
 teams: ["buffalo-bills"]
+homepageFeature: true
 ---
 
 <img src="/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg" alt="Buffalo Bills Nickel City alternate uniform 2026, gray jersey with blue charging buffalo helmet" style="width: 100%; border-radius: 10px;" />
