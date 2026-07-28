@@ -262,6 +262,9 @@ export const LEAGUE_LOGOS: Record<string, string> = {
   nba: "/logos/leagues/nba.png",
   mlb: "/logos/leagues/mlb.png",
   nhl: "/logos/leagues/nhl.png",
+  soccer: "/logos/leagues/soccer-ball.svg",
+  f1: "/logos/leagues/racing-f1.png",
+  nascar: "/logos/leagues/racing-nascar.png",
 };
 
 // Display names for every league slug used in post frontmatter. Single source of
