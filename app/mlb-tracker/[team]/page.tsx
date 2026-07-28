@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 import { getPostBySlug } from "@/lib/posts";
 import TeamUniformBreakdown from "@/components/TeamUniformBreakdown";
 import MlbTonightBlock from "@/components/MlbTonightBlock";
+import InlineNewsletter from "@/components/InlineNewsletter";
 import {
   buildMlbTeamIndex,
   uniformUsage,
@@ -276,6 +277,10 @@ export default async function TeamTrackerPage({
             </section>
           </>
         )}
+
+        <section className="max-w-[860px] mx-auto px-5">
+          <InlineNewsletter />
+        </section>
 
         <section className="max-w-[860px] mx-auto px-5 pt-4">
           <div className="border border-black/[0.08] rounded-2xl p-5 bg-[#fafbfc] flex flex-wrap items-center gap-x-6 gap-y-2">
