@@ -131,6 +131,28 @@ export const TEAM_LOGOS: Record<string, string> = {
 // Keyed by the URL slug the nav builds (name.toLowerCase().replace(/\\s+/g, '-')),
 // so the /stories?team=<slug> page can look a logo up from the query param.
 export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
+  // Soccer competitions + F1 constructors — filter-page logos for /stories?team=<slug>.
+  // The nav shows these via COMPETITION_LOGOS (by display name); this maps the slug the
+  // nav builds so the filter heading gets the same logo. Assets in /logos/leagues/.
+  "international-competitions": "/logos/leagues/international-globe.svg",
+  "uefa-champions-league": "/logos/leagues/soccer-uefa-champions-league.png",
+  "premier-league": "/logos/leagues/soccer-premier-league.png",
+  "la-liga": "/logos/leagues/soccer-la-liga.png",
+  "serie-a": "/logos/leagues/soccer-serie-a.png",
+  "bundesliga": "/logos/leagues/soccer-bundesliga.png",
+  "ligue-1": "/logos/leagues/soccer-ligue-1.png",
+  "mls": "/logos/leagues/soccer-mls.png",
+  "alpine": "/logos/leagues/racing-alpine.png",
+  "aston-martin": "/logos/leagues/racing-aston-martin.png",
+  "audi": "/logos/leagues/racing-audi.png",
+  "cadillac": "/logos/leagues/racing-cadillac.png",
+  "ferrari": "/logos/leagues/racing-ferrari.png",
+  "haas": "/logos/leagues/racing-haas.png",
+  "mclaren": "/logos/leagues/racing-mclaren.png",
+  "mercedes": "/logos/leagues/racing-mercedes.png",
+  "racing-bulls": "/logos/leagues/racing-racing-bulls.png",
+  "red-bull-racing": "/logos/leagues/racing-red-bull-racing.png",
+  "williams": "/logos/leagues/racing-williams.png",
   "arizona-cardinals": "/logos/teams/nfl-arizona-cardinals.png",
   "atlanta-falcons": "/logos/teams/nfl-atlanta-falcons.png",
   "baltimore-ravens": "/logos/teams/nfl-baltimore-ravens.png",
