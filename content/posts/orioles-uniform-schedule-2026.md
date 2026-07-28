@@ -2,7 +2,7 @@
 title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-20"
+updatedDate: '2026-07-28'
 excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
@@ -15,7 +15,7 @@ teams:
 ---
 
 
-The Orioles do not run their uniform rotation the way the Phillies or Cardinals do. There is no tidy day-by-day script where every fan knows that Tuesday means one jersey and Saturday means another. Baltimore keeps things loose. They have one firm, team-announced rule for 2026, and everything else is decided closer to game time. We think that is worth being honest about up front, because plenty of "uniform schedule" pages will try to invent a pattern that does not exist. The Orioles closet is deep and it is good, but the only thing you can truly count on is the new City Connect on Friday home games.
+The Orioles do not run their uniform rotation the way the Phillies or Cardinals do. There is no tidy day-by-day script where every fan knows that Tuesday means one jersey and Saturday means another. Baltimore keeps things loose. They have one firm, team-announced rule for 2026, and everything else is decided closer to game time. We think that is worth being honest about up front, because plenty of "uniform schedule" pages will try to invent a pattern that does not exist. The Orioles closet is deep and it is good, but the only thing you can truly count on is the new City Connect on Friday home games. If you want our take on the looks themselves, we ranked [every Orioles jersey for 2026](/stories/orioles-jerseys-2026-ranked) from worst to best.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -88,6 +88,10 @@ This is a representative home week, not a guaranteed one. Apart from the Friday 
 
 ## Home White (The Everyday Look)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2082195127196402165"></a></blockquote>
+</div>
+
 The home white is the Orioles' default jersey at Camden Yards. It carries the "Orioles" script across the chest and pairs with the classic white-front cap topped by the smiling cartoon Oriole Bird. This is the uniform you will see most often on any given homestand, and it is the one the rest of the closet builds around.
 
 There is nothing to fix here. The cartoon bird cap is one of the most beloved marks in the sport, and the clean white jersey with the orange-and-black script lets it shine. When the Orioles are not wearing something special, this is the look, and it never gets old.
@@ -96,11 +100,19 @@ For what the Orioles have actually worn so far this season, day by day, see the 
 
 ## Road Gray (Away Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2081916788850188367"></a></blockquote>
+</div>
+
 On the road, the Orioles wear a gray uniform with "Baltimore" written in script across the chest. It is the standard travel jersey: clean, classic, and built to let the home team's colors be the star. The city name on the road and the team name at home is a traditional baseball touch, and Baltimore does it right.
 
 Like most road grays around the league, this one does not need to change. It does its job, and the orange-and-black trim keeps it unmistakably Orioles.
 
 ## Orange Alternate
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2081444213950935345"></a></blockquote>
+</div>
 
 The orange alternate is one of two color-pop jerseys in the rotation. It features the "Orioles" script and turns the whole look into a wall of Baltimore orange. It can show up at home on no set day, which is part of the fun. When the team decides a game calls for extra energy, the orange comes out.
 
@@ -113,6 +125,10 @@ This is the one true event uniform in the closet. The orange-on-orange combo pai
 We love that it stays rare. A head-to-toe orange uniform is the kind of thing that would wear out its welcome fast if the team rolled it out every week. Saving it for a handful of dates a season keeps it feeling like an occasion, and it ties the modern Orioles back to one of the franchise's golden runs.
 
 ## Black Alternate
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2081197746158006709"></a></blockquote>
+</div>
 
 The black alternate gives the rotation its darkest look. The jersey carries an orange "Orioles" wordmark and pairs with the black-crown "O's" script cap, which swaps out the cartoon bird for a sleeker, more modern feel. Like the orange jersey, it appears at the team's discretion with no day-of-week pattern.
 
