@@ -21,6 +21,22 @@ const WEEKDAYS = ["S", "M", "T", "W", "T", "F", "S"];
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 
+// Today's date in US Eastern, for the visible "Updated" freshness stamp + schema.
+// Recomputed on every ISR revalidation (below), so the page always reads current —
+// a real freshness signal for "what are they wearing tonight" searches.
+function etDate(): { long: string; iso: string } {
+  const now = new Date();
+  return {
+    long: now.toLocaleDateString("en-US", {
+      timeZone: "America/New_York",
+      month: "long",
+      day: "numeric",
+      year: "numeric",
+    }),
+    iso: now.toLocaleDateString("en-CA", { timeZone: "America/New_York" }),
+  };
+}
+
 // ISR: regenerate hourly so the "wearing today" block stays current.
 export const revalidate = 1800;
 
@@ -65,11 +81,25 @@ export default async function TeamTrackerPage({
   const months = gamesByMonth(entry);
   const homeGames = entry.games.filter((g) => g.home).length;
   const roadGames = entry.games.length - homeGames;
+  const { long: updatedLong, iso: updatedIso } = etDate();
 
   return (
     <>
       <Header />
       <main className="pb-20">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebPage",
+              name: `What Are the ${entry.name} Wearing Today?`,
+              url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
+              dateModified: updatedIso,
+              description: `The ${entry.name}'s uniform for today's game plus a day-by-day calendar of every jersey they have worn in 2026, updated every game.`,
+            }),
+          }}
+        />
         {/* Team hero */}
         <section
           className="px-5 pt-12 pb-10"
@@ -95,6 +125,9 @@ export default async function TeamTrackerPage({
             <p className="text-white/80 text-[15px] max-w-[560px] m-0">
               Every jersey the {entry.name} have worn in 2026, day by day. Tap any game to jump
               straight to it in the tracker.
+            </p>
+            <p className="text-white/70 text-[12px] font-semibold mt-2 mb-0">
+              Updated {updatedLong} · refreshed every game
             </p>
 
             <div className="flex flex-wrap gap-x-8 gap-y-3 mt-7">
