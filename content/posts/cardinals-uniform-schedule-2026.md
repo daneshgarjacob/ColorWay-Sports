@@ -2,7 +2,7 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-28"
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
   down all five looks and exactly when each jersey is worn in 2026.
@@ -15,7 +15,7 @@ teams:
 ---
 
 
-The Cardinals have one of the most disciplined uniform rotations in baseball, and the reason is simple. They have a system, and they stick to it. Instead of pulling jerseys at random the way most teams do, St. Louis ties specific looks to specific days. Every fan knows what to expect when they walk into Busch Stadium, and the whole closet works together. There are five uniforms in the 2026 mix, and once you learn the pattern you can call the jersey before the lineup card is even posted.
+The Cardinals have one of the most disciplined uniform rotations in baseball, and the reason is simple. They have a system, and they stick to it. Instead of pulling jerseys at random the way most teams do, St. Louis ties specific looks to specific days. Every fan knows what to expect when they walk into Busch Stadium, and the whole closet works together. There are five uniforms in the 2026 mix, and once you learn the pattern you can call the jersey before the lineup card is even posted. If you want our take on the looks themselves, we also ranked [every Cardinals jersey for 2026](/stories/cardinals-jerseys-2026-ranked) from worst to best.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -90,6 +90,10 @@ All four of the standard uniforms carry the Stifel sleeve advertisement patch, w
 
 ## Home White (Most Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2079951170198495667"></a></blockquote>
+</div>
+
 The home white is the foundation of the entire rotation. It carries the famous birds-on-bat "Cardinals" wordmark across the chest and is paired with the navy "StL" cap. The Cardinals wear it for nearly every home game at Busch Stadium that is not a Friday or a Saturday, which makes it the most-seen jersey on the schedule by a wide margin.
 
 There is nothing to fix here, and that is the point. This is one of the most recognizable uniforms in all of sports, and the two cardinals perched on the yellow bat have been a constant for generations. It is the look people picture when they think of St. Louis baseball, and it anchors everything else the team puts on.
@@ -98,17 +102,29 @@ For what the Cardinals have actually worn so far this season, day by day, see th
 
 ## Road Gray (Most Road Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2080050919345889485"></a></blockquote>
+</div>
+
 The road gray is exactly what you would expect: clean, classic, and built to let the home team be the star. It swaps the chest wordmark for a "St. Louis" script and travels for nearly every road game that is not a Saturday. Like the home white, it carries the navy cap and the Stifel patch.
 
 This is a uniform that does not need to change. Road grays exist to do a job, and the Cardinals' version does it well without any clutter or gimmicks. It is the quiet workhorse of the rotation, on the field more than any look except the home white.
 
 ## Cream Alternate (Saturday Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2076118188815679993"></a></blockquote>
+</div>
+
 The cream alternate is reserved for Saturday home games at Busch Stadium, and it is the standout of the standard set. It carries a "St. Louis" script and leans hard into a vintage, Stan Musial-era feel. For 2026 the team brought back real braid piping on the cream, which is a small detail that makes a real difference up close and gives the jersey the kind of old-school craftsmanship the off-white fabric deserves.
 
 Tying the cream to Saturday home dates is a smart call. The off-white tone reads completely differently under natural daylight than the home white does, and giving it one designated day a week keeps it feeling special instead of routine. This is the Cardinals at their most timeless, and it is a uniform we would happily see more of if the system allowed it.
 
 ## Powder Blue "Victory Blue" (Saturday Road Games)
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2081191742426976460"></a></blockquote>
+</div>
 
 The powder-blue "Victory Blue" alternate is the Saturday-road counterpart to the cream, and it comes with the one piece of headwear that breaks the navy pattern: a red cap. It is a throwback to the powder-blue road look the Cardinals wore from 1976 to 1984, and the team revived it as a road alternate in 2019. The 2026 set restores the real braid piping here too, sharpening a uniform that already had plenty of nostalgia behind it.
 
@@ -117,7 +133,7 @@ The powder blue and the cream never appear in the same series role, because one 
 ## City Connect "The Lou" (Friday Home Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/1792542107132957120"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2080749348334293288"></a></blockquote>
 </div>
 
 The City Connect is the boldest thing in the closet, and it lives on Friday home games at Busch Stadium. This is the second straight season "The Lou" has held down the Friday home slot, and it remains the same design the Cardinals unveiled in May 2024. It is an all-red jersey with a red cap and white pants, and it carries real meaning on every panel. The birds-on-bat is modernized, the chest reads "The Lou" in chain-stitch, a nod to the nickname rapper Nelly gave the city, and Nelly himself co-designed the uniform. Red pinstripes represent the Mississippi River, and a fleur-de-lis from the city flag sits on the sleeve. The Stifel patch appears here in a red version to match.

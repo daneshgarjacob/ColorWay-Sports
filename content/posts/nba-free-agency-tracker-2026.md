@@ -3,7 +3,7 @@ title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (LeB
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-24"
+updatedDate: "2026-07-28"
 excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
@@ -27,6 +27,10 @@ Free agency is the second draft of the NBA offseason, and the fun part for us is
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ShamsCharania/status/2080677097463312412"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2081749013229957378"></a></blockquote>
 </div>
 
 The biggest name in the sport changes colors. After the run that defined a generation in the Lakers' purple and gold, LeBron James signs with the Philadelphia 76ers and steps into the Liberty red, white, and royal blue, wearing his signature No. 23. It is the boldest colorway on a résumé that already includes Cavaliers wine and gold and Heat black and red, and dropping the most recognizable player alive into Sixers blue next to Jaylen Brown gives Philadelphia the most talked-about uniform in the league overnight. There is a wrinkle behind the number, too: LeBron cannot wear his other career digit, 6, because it is retired league-wide for Bill Russell and hangs in Philadelphia for Julius Erving. We broke down the number and every edition of the jersey in our [full LeBron 76ers jersey number breakdown](/stories/lebron-james-76ers-jersey-number).
