@@ -2,7 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-28"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -13,7 +13,7 @@ teams:
   - chicago-cubs
 ---
 
-The Chicago Cubs run four uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, the Cubs keep their closet loose — there's really only one jersey that owns a fixed day. The headline change isn't a new look at all; it's a subtraction. The Cubs no longer carry a City Connect, having retired the navy "Wrigleyville" kit after 2024 and replaced it with the powder-blue "Blues" alternate. Here's the full Cubs closet for 2026 and exactly when each jersey comes out.
+The Chicago Cubs run four uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, the Cubs keep their closet loose — there's really only one jersey that owns a fixed day. The headline change isn't a new look at all; it's a subtraction. The Cubs no longer carry a City Connect, having retired the navy "Wrigleyville" kit after 2024 and replaced it with the powder-blue "Blues" alternate. Here's the full Cubs closet for 2026 and exactly when each jersey comes out. And if you want our take on the looks themselves, we ranked [every Cubs jersey for 2026](/stories/cubs-jerseys-2026-ranked) from worst to best.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -90,17 +90,33 @@ The Cubs carry four uniforms in 2026, and the rotation is the same one they sett
 
 ## Home Pinstripes (Most Home Games)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cubs/status/2081743157214040368"></a></blockquote>
+</div>
+
 The home pinstripe is Chicago's signature and one of the most recognizable looks in the sport: a white jersey with royal-blue pinstripes, the famous red Cubs "bullseye" roundel on the left chest — the enclosed "C" with "UBS" tucked inside, ringed in blue and red — and a blue cap with the red "C." It's worn for the bulk of the homestand, essentially every home game that isn't a summer Friday (those belong to the Blues alternate). The Cubs have leaned on this template since pinstripes arrived at Wrigley in 1957, and there's nothing here that needs touching. It's a clean, timeless home flannel, and the ivy-and-pinstripes pairing is as classic as baseball gets.
 
 ## Road Grays (Most Away Games)
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cubs/status/2081959583040324007"></a></blockquote>
+</div>
 
 On the road, Chicago wears the standard gray set with "CHICAGO" arched across the chest in blue with red trim, player names on the back, and the blue cap. It's the default for most away games — the workmanlike road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be; the wordmark and the cap do all the identifying you need from the upper deck.
 
 ## Royal-Blue Alternate (Manager's Choice)
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cubs/status/2075036716562628849"></a></blockquote>
+</div>
+
 The Cubs' other alternate is the one that's been in the closet for years: a solid royal-blue jersey carrying the Cubs wordmark across the chest, paired with the blue cap and its red "C." Unlike the Blues alternate, it isn't tied to a day — it's a manager's-choice look Chicago can pull on at home or on the road when the staff wants more blue on the field. It's the quiet, traditional counterpart to the splashier powder-blue set, and for 2026 it wears the same 150th-anniversary and Motorola sleeve patches as the rest of the closet.
 
 ## Powder-Blue "Blues" Alternate (Friday Home Games)
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cubs/status/2073142530716119367"></a></blockquote>
+</div>
 
 This is the jersey people circle on the calendar. Introduced for 2025, the powder-blue "Blues" alternate is a love letter to Chicago's electric-blues heritage and to the team's own past — the Cubs were the first MLB club to wear baby blue back in 1941, and the color hadn't been a staple since the early 1980s. The chest mark blends early-Cubs typography with a blues-instrument feel; the left sleeve carries a guitar-pick patch split by a lightning bolt — a nod to electrifying the blues — and the socks read "Sweet Home Chicago" with six royal stripes for the six strings on a guitar. The cap pairs a royal crown and brim with a white front panel and a red button. It debuted on April 5, 2025, and it's worn at home on Fridays during the summer months. Tying the loudest jersey in the closet to a guaranteed weekly slot is the smart move every team should make — fans know exactly when to come see it.
 
