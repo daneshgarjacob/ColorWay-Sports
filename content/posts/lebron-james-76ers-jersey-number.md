@@ -93,5 +93,6 @@ No. The 76ers have not retired No. 23, which is why LeBron was able to take his 
 ## More NBA Coverage
 
 - [2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey](/stories/nba-free-agency-tracker-2026) — every offseason move, logged in the new uniform
+- [Philadelphia 76ers 2026 Christmas Jersey, Reviewed](/stories/sixers-christmas-jersey-2026) — the design LeBron will wear on Christmas Day, graded
 
 *ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Philadelphia 76ers or the National Basketball Association.*

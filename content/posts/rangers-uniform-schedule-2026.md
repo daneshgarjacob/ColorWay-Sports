@@ -13,7 +13,7 @@ teams:
   - texas-rangers
 ---
 
-The Texas Rangers carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on a couple of firm habits rather than a published timetable. There are two real anchors — the powder blue that owns Sunday home games and the new "Tejas" City Connect that owns Friday nights at Globe Life Field — and everything else is the default, with the whites and grays handling the day-to-day work. Here's the full Rangers wardrobe for 2026 and when each jersey actually comes out.
+The Texas Rangers carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on a couple of firm habits rather than a published timetable. There are two real anchors — the powder blue that owns Sunday home games and the new ["Tejas" City Connect](/stories/rangers-tejas-city-connect-2026-official) that owns Friday nights at Globe Life Field — and everything else is the default, with the whites and grays handling the day-to-day work. Here's the full Rangers wardrobe for 2026 and when each jersey actually comes out.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">

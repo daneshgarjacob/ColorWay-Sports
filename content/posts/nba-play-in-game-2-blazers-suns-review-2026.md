@@ -16,7 +16,7 @@ teams: ["portland-trail-blazers", "phoenix-suns"]
   <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">via Amazon Prime Video</p>
 </div>
 
-The Portland Trail Blazers beat the Phoenix Suns 114-110 in the second game of the 2026 NBA Play-In Tournament on Amazon Prime Video. This was the 8 vs. 7 matchup in the Western Conference, with the winner locking in the seventh seed and a first-round date with the Thunder. We watched the whole thing with a focus on the visuals. Here's our review.
+The Portland Trail Blazers beat the Phoenix Suns 114-110 in the second game of the 2026 NBA Play-In Tournament on Amazon Prime Video. This was the 8 vs. 7 matchup in the Western Conference, with the winner locking in the seventh seed and a first-round date with the Thunder. We watched the whole thing with a focus on the visuals. Here's our review. For more Play-In coverage, see our [Night 2 Play-In jersey review](/stories/nba-play-in-2026-night-2-jersey-review) of the other matchups.
 
 ## The Scorebug: "Winner Is 7th Seed"
 

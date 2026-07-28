@@ -50,7 +50,7 @@ We will admit we were against this one at first. We are traditionalists about th
 
 The reason it works is that it is not trying to be loud. The royal blue with the white "Los Angeles" script keeps the same lettering language as the rest of the closet, and the gray pants underneath it do a lot of quiet work, keeping it tied to a road look instead of turning the whole thing into a costume. It photographs cleanly under the lights and it gives a team that spends most of its road schedule in muted gray an actual color story when it wants one.
 
-It gets a B+ and not an A because we are still a little hesitant about the Dodgers wearing color on the road at all. That is a preference, not a flaw in the jersey, and we know it. But when the gray sets exist and they are this good, a blue alternate has to clear a very high bar to feel necessary, and this one lands just short of it. It is a good jersey. It is not one of the best they own.
+It gets a B+ and not an A because we are still a little hesitant about the Dodgers wearing color on the road at all. That is a preference, not a flaw in the jersey, and we know it. But when the gray sets exist and they are this good, a blue alternate has to clear a very high bar to feel necessary, and this one lands just short of it. It is a good jersey. It is not one of the best they own. We broke down exactly when the team pulls it out in our [Dodgers royal blue alternate jersey guide](/stories/dodgers-royal-alternate-jersey-2026).
 
 ## 3. Alternate Road Gray
 

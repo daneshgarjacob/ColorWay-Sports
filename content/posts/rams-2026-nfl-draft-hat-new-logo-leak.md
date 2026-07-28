@@ -17,7 +17,7 @@ The Rams' 2026 NFL Draft hat just leaked, and if this is real, we're getting our
 
 The biggest change on the front is the logo itself. The gradient is gone. The LA is now a flat yellow on a royal blue crown with a yellow brim. The outline around the letters has a metallic silver look to it, which gives the whole thing a more premium feel compared to the current set.
 
-We're intrigued to see what the new logo colors and team uniforms look like if these leaks are true. It's a little disconcerting that there is so much yellow in the logo and that it's just yellow. No blue accents within the lettering, no secondary color mixed in. We like that they got rid of the gradient, but we're actually more of the opinion that there should be more blue as opposed to more yellow across the entire identity. The current set leans heavily on that "sol" yellow, and this draft hat suggests they're doubling down on it.
+We're intrigued to see what the new logo colors and team uniforms look like if these leaks are true. It's a little disconcerting that there is so much yellow in the logo and that it's just yellow. No blue accents within the lettering, no secondary color mixed in. We like that they got rid of the gradient, but we're actually more of the opinion that there should be more blue as opposed to more yellow across the entire identity. The current set leans heavily on that "sol" yellow, and this draft hat suggests they're doubling down on it. For the rest of the league, we [graded all 31 official 2026 NFL Draft hats](/stories/grading-every-2026-nfl-draft-hat).
 
 ## The Back: A Brand New Wordmark
 

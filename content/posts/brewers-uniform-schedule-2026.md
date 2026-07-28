@@ -13,7 +13,7 @@ teams:
   - milwaukee-brewers
 ---
 
-The Milwaukee Brewers carry five uniforms in 2026, and the closet looks different than it did a year ago. The traditional road grays are gone — retired in favor of a brand-new powder blue road set that revives the franchise's 1970s look — and the team rolled out a second City Connect, the "Wisco" kit, to go with it. The rotation runs more on feel than a published timetable, but there are a couple of reliable anchors once you know them. Here's the full Brewers wardrobe for 2026 and when each jersey actually comes out.
+The Milwaukee Brewers carry five uniforms in 2026, and the closet looks different than it did a year ago. The traditional road grays are gone — retired in favor of a brand-new powder blue road set that revives the franchise's 1970s look — and the team rolled out a second City Connect, the ["Wisco" kit](/stories/brewers-wisco-city-connect-2026), to go with it. The rotation runs more on feel than a published timetable, but there are a couple of reliable anchors once you know them. Here's the full Brewers wardrobe for 2026 and when each jersey actually comes out.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">

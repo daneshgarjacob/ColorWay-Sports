@@ -37,7 +37,7 @@ The Lakers have a long history of looking great on Christmas Day. Think about th
 <img src="/images/posts/nba-xmas-2026-lakers/lakers-xmas-detail2.jpg" alt="Los Angeles Lakers 2026 Christmas jersey side angle showing dark design" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
-Compared to teams like the Hawks, who got bold brushstrokes and actual color in their Christmas design, the Lakers jersey feels drab. It is not the worst jersey in the collection, but for a franchise with this much brand equity and visual history, landing in the middle of the pack is not good enough. The Lakers should never have a forgettable Christmas jersey, and this one is dangerously close to that.
+Compared to teams like the [Hawks, who got bold brushstrokes and actual color](/stories/hawks-christmas-jersey-2026) in their Christmas design, the Lakers jersey feels drab. It is not the worst jersey in the collection, but for a franchise with this much brand equity and visual history, landing in the middle of the pack is not good enough. The Lakers should never have a forgettable Christmas jersey, and this one is dangerously close to that.
 
 Check out our [Full 2026 NBA Christmas Jersey Rankings](/stories/nba-christmas-jerseys-2026-leaked) to see where every team landed.
 
