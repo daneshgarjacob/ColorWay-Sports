@@ -6,7 +6,7 @@ excerpt: "We ranked all 50 away kits from Nike, Adidas, and Puma for the 2026 FI
 gradient: "linear-gradient(135deg, #5B0E2D 0%, #C4A44A 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/wc-france-away.jpg"
 coverImagePosition: "center 30%"
 ---

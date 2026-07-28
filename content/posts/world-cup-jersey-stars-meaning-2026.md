@@ -9,7 +9,7 @@ coverImagePosition: "center 30%"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 ---
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 0 0 2em;">

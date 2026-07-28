@@ -7,7 +7,7 @@ excerpt: "All 51 home kits at the 2026 FIFA World Cup, ranked worst to best. Spa
 gradient: "linear-gradient(135deg, #1a3c6e 0%, #5B0E2D 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/wc-brazil-home.jpg"
 coverImagePosition: "center 30%"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2026-07-04"
 excerpt: "France wears a white polo collar on their 2026 FIFA World Cup home jersey — a Nike callback to Les Bleus' heritage identity. Uruguay is the only other 2026 World Cup nation with a polo collar. Full FAQ, history, and every collar treatment on every kit."
 gradient: "linear-gradient(135deg, #002395 0%, #FFFFFF 50%, #ED2939 100%)"
 league: "soccer"
-teams: ["france", "uruguay"]
+teams: ["france", "uruguay", "international-competitions"]
 coverImage: "/images/posts/france-polo-collar-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"

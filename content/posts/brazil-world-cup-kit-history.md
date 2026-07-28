@@ -8,7 +8,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #FFDF00 0%, #009C3B 55%, #002776 100%)'
 logoSrc: /logos/world-cup-2026.png
 league: soccer
-teams: []
+teams: ["international-competitions"]
 coverImage: /images/posts/brazil-world-cup-kit-history/cover.jpg
 coverImagePosition: center center
 ---

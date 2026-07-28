@@ -6,7 +6,7 @@ excerpt: "Adidas dropped 25 new away kits with the retro trefoil logo for the 20
 gradient: "linear-gradient(135deg, #000000 0%, #1a3c6e 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/i.jpg"
 coverImagePosition: "center 30%"
 ---

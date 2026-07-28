@@ -7,7 +7,7 @@ excerpt: "Puma released kits for all 12 of their national teams ahead of the 202
 gradient: "linear-gradient(135deg, #000000 0%, #1a3c6e 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/puma-world-cup-kits/ivory-coast-home.jpg"
 coverImagePosition: "center 20%"
 ---

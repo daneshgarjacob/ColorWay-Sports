@@ -7,7 +7,7 @@ excerpt: "Adidas released 23 home kits for the 2026 FIFA World Cup, and both Wor
 gradient: "linear-gradient(135deg, #000000 0%, #1a3c6e 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/adidas-world-cup-home-kits/cover-all-kits.jpg"
 coverImagePosition: "center 30%"
 ---

@@ -9,7 +9,7 @@ coverImage: "/images/posts/wc-usa-home.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 ---
 
 <div style="margin: 0 0 2em;">

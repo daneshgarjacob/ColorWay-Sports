@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #00694b 0%, #0a1030 100%)"
 coverImage: "/images/posts/wc-r32-kit-matchups-ranked-cover.jpg"
 coverImagePosition: "center center"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 ---
 
 <img src="/images/posts/wc-r32-kit-matchups-ranked-cover.jpg" alt="2026 World Cup Round of 32 kit matchups ranked cover graphic with the FIFA World Cup 26 logo, Norway's white alternate jersey, and Congo DR's sky blue home jersey, covering all 16 knockout jersey and uniform pairings graded by ColorWay Sports" style="width: 100%; border-radius: 10px;" />

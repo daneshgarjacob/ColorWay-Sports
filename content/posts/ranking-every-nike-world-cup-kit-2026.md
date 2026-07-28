@@ -6,7 +6,7 @@ excerpt: "We ranked every Nike national team jersey for the 2026 World Cup from 
 gradient: "linear-gradient(135deg, #5B0E2D 0%, #C4A44A 100%)"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 coverImage: "/images/posts/wc-all-uniforms.jpeg"
 coverImagePosition: "center 30%"
 ---

@@ -9,7 +9,7 @@ coverImagePosition: "center center"
 coverImageFit: "contain"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 bestRating: 10
 worstRating: 0
 reviews:

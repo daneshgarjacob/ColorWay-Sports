@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #0B1A2F 0%, #1D4D2B 55%, #C6FF00 100%)"
 overlayText: "GK COLORS"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">

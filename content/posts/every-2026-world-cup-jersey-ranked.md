@@ -10,7 +10,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #5B0E2D 0%, #1a3c6e 100%)'
 logoSrc: /logos/world-cup-2026.png
 league: soccer
-teams: []
+teams: ["international-competitions"]
 coverImage: /images/posts/wc-all-jerseys-ranked-cover.jpg
 coverImagePosition: center center
 topViewsRank: 9

@@ -9,7 +9,7 @@ cardStyle: words
 kicker: World Cup Final
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
-teams: []
+teams: ["international-competitions"]
 homepageFeature: false
 ---
 
