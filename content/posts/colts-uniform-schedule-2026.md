@@ -1,7 +1,6 @@
 ---
 title: "Colts 2026 Uniform Schedule: The New 'Rivalries' Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
-homepageFeature: true
 date: "2026-07-29"
 updatedDate: "2026-07-29"
 excerpt: "The Colts' 2026 alternate schedule is out: the new Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."

@@ -83,20 +83,22 @@ export default async function MlbAlternatesWatch() {
             <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/35 m-0 mb-2">
               {data.day}
             </p>
-            <div className="flex flex-wrap gap-1.5">
+            <div className="flex flex-wrap gap-2">
               {data.topLooks.map((l) => (
                 <span
                   key={l.label}
-                  className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full border border-black/[0.09] bg-[#fafbfc]"
+                  className="inline-flex items-center gap-2 pl-2.5 pr-3 py-1.5 rounded-full border border-black/[0.07] bg-white shadow-[0_1px_2px_rgba(16,23,42,0.06)]"
                 >
                   <span
                     aria-hidden
-                    className="inline-block w-2.5 h-2.5 rounded-full border border-black/15 shrink-0"
+                    className="inline-block w-2.5 h-2.5 rounded-full ring-1 ring-black/10 shrink-0"
                     style={{ background: l.color || "#e6e6ec" }}
                   />
-                  <span className="text-[12px] font-semibold text-blue-dark">{l.label}</span>
+                  <span className="text-[12.5px] font-semibold text-blue-dark leading-none">{l.label}</span>
                   {l.count > 1 && (
-                    <span className="text-[11px] font-bold text-black/35">×{l.count}</span>
+                    <span className="inline-flex items-center justify-center min-w-[17px] h-[17px] px-1 rounded-full bg-black/[0.05] text-[10.5px] font-bold text-black/45 leading-none">
+                      {l.count}
+                    </span>
                   )}
                 </span>
               ))}
