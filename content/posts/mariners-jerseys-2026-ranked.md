@@ -1,9 +1,9 @@
 ---
-title: "Every Seattle Mariners Jersey in 2026, Ranked: The New Steelheads Throwback Leads and the Road Navy Comes Last"
+title: "Every Seattle Mariners Jersey in 2026, Ranked: The Northwest Green Wins and the Road Navy Comes Last"
 category: MLB
 date: "2026-07-29"
 updatedDate: "2026-07-29"
-excerpt: "Every Seattle Mariners jersey and uniform for 2026, ranked and graded worst to first, from the workhorse road navy up to the meaningful new black-and-cream Steelheads throwback."
+excerpt: "Every Seattle Mariners jersey and uniform for 2026, ranked and graded worst to first, from the workhorse road navy up to the beloved Northwest green alternate."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1d1d1d 50%, #005C5C 100%)"
 logoSrc: "/logos/mlb.png"
 logoSrc2: "/logos/teams/mlb-seattle-mariners.png"
@@ -14,37 +14,37 @@ teams:
   - seattle-mariners
 ---
 
-The Mariners quietly run one of the most cohesive closets in baseball, built almost entirely around deep navy and Pacific Northwest green, with no road grays anywhere in sight. For 2026 they added the piece that reshuffles the whole thing: a black-and-cream Steelheads throwback with real weight behind it. Here is every Seattle Mariners jersey and uniform for 2026, ranked worst to first and graded.
+The Mariners quietly run one of the most cohesive closets in baseball, built almost entirely around deep navy and Pacific Northwest green, with no road grays anywhere in sight. For 2026 they added a black-and-cream Steelheads throwback with real weight behind it and reworked the City Connect, but the crown still belongs to the color that has defined the franchise for three decades. Here is every Seattle Mariners jersey and uniform for 2026, ranked worst to first and graded.
 
 ## 5. Road Navy
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #0C2C56, #06182f); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B+</div>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2025583859447062643"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2082594949355475116"></a></blockquote>
 </div>
 
 The road navy is the workhorse, and it is the piece that trips up anyone new to the franchise: the Mariners dropped grays after 2022 and made navy their primary road jersey, so "Seattle" in silver and Northwest green on a navy base is what you see in most away games. It gives Seattle one of the darker, moodier road looks in the league, and it fits a team whose entire identity is built on deep navy and saltwater green.
 
-It lands at the bottom here not because it is bad, but because everything above it has a stronger hook. A navy road top is handsome but heavy, and it is the one look in the rotation without a real signature detail to set it apart, it is the neutral backbone the more distinctive jerseys get to play off of. That is a valuable role, and it still grades a solid B.
+It grades a B+ on the strength of that cohesive palette, this is one of the better plain road jerseys in baseball, not a filler gray. It lands at No. 5 only because everything above it brings more color or more story. As far as workhorses go, though, this is a genuinely good one.
 
-## 4. City Connect (Rush-Blue)
+## 4. Steelheads Sunday Throwback
 
-<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #1b3a8a, #C99700); color: white; text-align: center;">
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #1a1a1a, #C9B892); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B+</div>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mlb-daily-tracker/mariners-city-connect.jpg" alt="Seattle Mariners 2026 rush-blue City Connect jersey, Seattle in Pilots-style gold lettering" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2017701428765315231"></a></blockquote>
 </div>
 
-The 2026 City Connect scrapped the old royal-and-black version for a rush-blue kit that is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside. That is a lot of references stacked into one uniform.
+The 2026 headliner is a black-and-cream uniform modeled on the Seattle Steelheads, the city's 1946 Negro leagues club, worn every Sunday home game as part of "Steelheads Sundays." The significance is enormous: it is the first time an MLB team has folded a Negro leagues uniform into its regular-season rotation rather than wearing one for a single tribute game, and the club paired it with a $500,000 commitment to local Black-led baseball. That part is an easy A+.
 
-We grade it a B+ because it mostly pulls the layering off, it is busy but not cluttered, and every nod actually means something to Seattle instead of feeling invented. City Connects live or die on whether the story reads as authentic, and this one does. It just sits a notch below the looks that carry the same local weight with cleaner execution.
+The jersey itself we grade a B+. The warm cream and clean black make a handsome, vintage combination, and it is a genuinely good-looking uniform, it just sits a step behind Seattle's brighter, more distinctive sets as a pure look. Meaningful, sharp, and exactly the kind of alternate that deserves a standing weekly slot, even if it is not quite the best-dressed thing in the closet.
 
 ## 3. Home Whites
 
@@ -59,47 +59,47 @@ We grade it a B+ because it mostly pulls the layering off, it is busy but not cl
 
 The home white is the cornerstone: a clean white jersey with "Mariners" arched across the chest in navy, trimmed in Northwest green and silver, under the navy cap with the ball-and-compass-rose "S." There is nothing flashy about it, and that is exactly why it works. The compass-rose identity is one of the sharper marks in the American League, and the whites let it sit front and center with nothing competing for attention.
 
-It grades an A- as the textbook version of a home uniform, timeless, balanced, and instantly Seattle. The only reason it is not higher is that it is the safe pick in a closet where two other looks bring more color and more story. A great home white is supposed to be the steady one, and this is a very good one.
+It grades an A- as the textbook version of a home uniform, timeless, balanced, and instantly Seattle. The only reason it is not higher is that the two looks ahead of it bring more color and more punch. A great home white is supposed to be the steady one, and this is a very good one.
 
-## 2. Northwest Green Alternate
+## 2. City Connect (Rush-Blue)
 
-<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #005C5C, #003b3b); color: white; text-align: center;">
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #1b3a8a, #C99700); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A-</div>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MarinersPR/status/2077438417290629516"></a></blockquote>
+</div>
+
+The 2026 City Connect scrapped the old royal-and-black version for a rush-blue kit that is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in gold lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside.
+
+That is a lot of references, and the reason it grades an A is that it stacks all of them without ever looking cluttered. Every nod means something specific to Seattle, the rush-blue-and-gold palette is genuinely fresh, and it manages to feel modern and deeply local at once. This is one of the best City Connects in the league, and a huge upgrade on the version it replaced.
+
+## 1. Northwest Green Alternate
+
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #007C7C, #004b4b); color: white; text-align: center;">
+  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A+</div>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/1977488266296476089"></a></blockquote>
 </div>
 
-The Northwest green is the saltwater teal that has been in the Mariners' DNA since the 1993 rebrand, and it is the splash of color that makes the whole rotation pop. "Mariners" sits across the chest in silver with navy trim, and the jersey pulls double duty, owning select Saturday home games and traveling as the contrast look on the road. It is the single most distinctly Seattle color the franchise owns.
+The Northwest green is the crown jewel. It is the saltwater teal that has been in the Mariners' DNA since the 1993 rebrand, "Mariners" across the chest in silver with navy trim, and it is the single most distinctly Seattle color anyone owns in sports. It pulls double duty too, owning select Saturday home games and traveling as the contrast look on the road, so it stays in heavy circulation instead of getting buried as a once-a-month alternate.
 
-It grades an A-, and honestly it is a hair from the top. The green is beloved for a reason, it is unique in the league, tied to the team's best years, and it photographs beautifully under the lights. The only thing that keeps it out of first is that the jersey ahead of it does something a color alone cannot.
-
-## 1. Steelheads Sunday Throwback
-
-<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #1a1a1a, #C9B892); color: white; text-align: center;">
-  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2017701428765315231"></a></blockquote>
-</div>
-
-The headline addition takes the top spot. For 2026 the Mariners introduced a black-and-cream uniform modeled on the Seattle Steelheads, the city's 1946 Negro leagues club, and handed it every Sunday home game as part of "Steelheads Sundays." On looks alone it is a winner, the warm cream and clean black are a gorgeous combination that gives the closet a vintage tone the retired Sunday creams never quite matched.
-
-What pushes it to an A is what is behind it. This is the first time an MLB club has folded a Negro leagues uniform into its regular-season rotation instead of wearing one for a single tribute game, and the team paired it with a $500,000 commitment to local Black-led baseball. A jersey that looks this good and carries this much meaning, worn every week rather than once, is exactly what a great alternate should be. Best look in the closet, and the most important one too.
+It grades an A+, the best jersey in the closet and one of the best alternates in all of baseball. The green is unique in the league, tied to the franchise's best years, and it photographs like nothing else under the T-Mobile Park lights. When the Mariners want to look their absolute best, this is what they reach for, and they are right to.
 
 ## The Bottom Line
 
-Seattle's 2026 set is deep and genuinely cohesive: a rock-solid home white, a moody navy backbone with no grays in sight, the beloved Northwest green, a layered new City Connect, and a Steelheads throwback that is both the best-looking and the most meaningful jersey the franchise has ever run out weekly. It is one of the more thoughtful closets in the league, and the Steelheads addition is the kind of move more teams should be making.
+Seattle's 2026 set is deep and genuinely cohesive, and it is topped by one of the great alternates in the sport: the Northwest green is the crown jewel, with the excellent new rush-blue City Connect right behind it, then the timeless home white, the meaningful Steelheads Sunday throwback, and the moody navy backbone. There is not a weak jersey in the rotation, and the green remains the reason the Mariners are one of the best-dressed teams in baseball.
 
 ## Frequently Asked Questions
 
 **How many uniforms do the Mariners have in 2026?**
 
-Five: the home whites, the road navy, the Northwest green alternate, the brand-new black-and-cream Steelheads Sunday throwback, and the redesigned rush-blue City Connect.
+Five: the home whites, the road navy, the Northwest green alternate, the black-and-cream Steelheads Sunday throwback, and the redesigned rush-blue City Connect.
 
 **Do the Mariners wear gray road uniforms?**
 
@@ -111,4 +111,4 @@ Every Sunday home game at T-Mobile Park, as part of "Steelheads Sundays," honori
 
 **What is the best Mariners jersey for 2026?**
 
-We rank the Steelheads Sunday throwback No. 1. It is the best-looking jersey in the closet and the most meaningful, the first Negro leagues uniform an MLB team has worn as a standing part of its regular-season rotation. The Northwest green alternate is a close second.
+We rank the Northwest green alternate No. 1 with an A+. It is the saltwater teal that has defined the franchise since 1993, the most distinctly Seattle color in sports, and one of the best alternates in all of baseball. The new rush-blue City Connect is a close second at an A.
