@@ -2,7 +2,7 @@
 title: "Is the American Family Field Roof Open Today? Brewers 2026 Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-28"
+updatedDate: "2026-07-29"
 excerpt: "Is the American Family Field roof open or closed today? Live status in seconds, plus the Brewers 2026 roof rules, the roof hotline, and the rain policy."
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 league: "mlb"
@@ -19,7 +19,7 @@ American Family Field has one of the busiest and most distinctive roofs in baseb
 <div style="margin: 1.75em 0; border: 2px solid #12284B; border-radius: 16px; overflow: hidden;">
   <div style="background: #12284B; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 28, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, July 29, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>

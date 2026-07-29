@@ -2,7 +2,7 @@
 title: "loanDepot Park Roof Open or Closed Today? 2026 Miami Marlins Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-28"
+updatedDate: "2026-07-29"
 excerpt: "loanDepot Park has the least-open roof in MLB. Live status, why it stays shut in Miami, the Marlins' roof rules, and how it compares to every other retractable roof."
 gradient: "linear-gradient(135deg, #0077C8 0%, #111111 55%, #EF3340 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ loanDepot Park has the least-open roof in Major League Baseball. The Marlins pla
 <div style="margin: 1.75em 0; border: 2px solid #00A3E0; border-radius: 16px; overflow: hidden;">
   <div style="background: #00A3E0; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Tuesday, July 28, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, July 29, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #c0392b; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; likely sealed for today's game</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Phillies at Marlins &middot; today</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>85&deg;F</strong> and humid at first pitch, classic Miami in July: loanDepot Park stays closed and climate-controlled, the default for nearly every summer game with the heat and humidity in play, even on a night the rain holds off.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>88&deg;F</strong> and humid at first pitch, classic Miami in July: loanDepot Park stays closed and climate-controlled, the default for nearly every summer game with the heat and humidity in play, even on a day the rain holds off.</div>
     <a href="https://x.com/Marlins" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #00A3E0; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Marlins &rarr;</a>
   </div>
 </div>
