@@ -49,9 +49,24 @@ Here is the Winter Warrior itself, so you can see exactly what the whiteout look
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vikings/status/1798701377209630911"></a></blockquote>
 </div>
 
+## Every Vikings 2026 Home Game and What They Wear
+
+Minnesota's home slate is loaded with game-day themes, but it is worth being clear about which are actual jersey changes and which are just promotions worn with the standard purple-and-white. Only two are true alternate uniforms: the Rivalries jersey and the Winter Warrior. The one other look worth circling is the Week 7 all-purple combo against the Colts, purple over purple, one of the boldest ways the team wears its standard set. Here is the full home schedule and what comes out for each.
+
+<div style="border: 1px solid #e3e3ea; border-radius: 12px; overflow: hidden; margin: 1.5em 0; font-size: 0.95em;">
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #4F2683; color: #ffffff;"><span style="font-weight: 800;">Week 1 &middot; vs. Packers &middot; Sep 13</span><span style="color: #f0e6ff;">Classic purple (season opener, 9/11 tribute)</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #ffffff;"><span style="font-weight: 700; color: #1a1a1a;">Week 4 &middot; vs. Dolphins &middot; Oct 4</span><span style="color: #6b7180;">Standard &middot; Crucial Catch</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #f3eefc;"><span style="font-weight: 800; color: #4F2683;">Week 7 &middot; vs. Colts &middot; Oct 25</span><span style="color: #4F2683; font-weight: 700;">All-Purple combo</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #ffffff;"><span style="font-weight: 700; color: #1a1a1a;">Week 9 &middot; vs. Bills &middot; Nov 9</span><span style="color: #6b7180;">Standard &middot; Salute to Service</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #ffffff;"><span style="font-weight: 700; color: #1a1a1a;">Week 12 &middot; vs. Falcons &middot; Nov 29</span><span style="color: #6b7180;">Standard &middot; My Cause My Cleats</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #f3eefc;"><span style="font-weight: 800; color: #4F2683;">Week 15 &middot; vs. Lions &middot; Dec 20</span><span style="color: #4F2683; font-weight: 700;">Rivalries alternate (SNF)</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #f3eefc;"><span style="font-weight: 800; color: #4F2683;">Week 16 &middot; vs. Commanders &middot; TBD</span><span style="color: #4F2683; font-weight: 700;">Winter Warrior alternate</span></div>
+<div style="display: flex; justify-content: space-between; gap: 12px; padding: 12px 16px; background: #ffffff;"><span style="font-weight: 700; color: #1a1a1a;">Week 18 &middot; vs. Bears &middot; TBD</span><span style="color: #6b7180;">Standard</span></div>
+</div>
+
 ## The Bottom Line
 
-The Vikings' 2026 alternate slate is a strong two-punch: a brand-new Rivalries jersey getting the Sunday-night spotlight against the Lions in Week 15, and the reliably great Winter Warrior whiteout back against the Commanders in Week 16. We will update this page with our full grade on the Rivalries uniform the day it is revealed, and with the Week 16 date and time once the league locks the Christmas-week schedule.
+The Vikings' 2026 alternate slate is a strong two-punch: a brand-new Rivalries jersey getting the Sunday-night spotlight against the Lions in Week 15, and the reliably great Winter Warrior whiteout back against the Commanders in Week 16. Add the bold all-purple combo against the Colts in Week 7, and those are the three home looks to circle, the rest of the slate pairs the standard purple-and-white with the league's usual game-day themes. We will update this page with our full grade on the Rivalries uniform the day it is revealed, and with the Week 16 date and time once the league locks the Christmas-week schedule.
 
 ## Frequently Asked Questions
 
@@ -70,3 +85,7 @@ Essentially, yes. "Winter Whiteout" is the name of the Week 16 game-day theme, a
 **Are both Vikings alternate games at home?**
 
 Yes. Both the Week 15 Rivalries debut against the Lions and the Week 16 Winter Whiteout against the Commanders are home games at U.S. Bank Stadium in Minneapolis.
+
+**How many alternate uniforms do the Vikings have in 2026?**
+
+Two true alternate uniforms: the new Rivalries jersey (Week 15 vs. the Lions) and the Winter Warrior (Week 16 vs. the Commanders). The other themed home games, such as Salute to Service and My Cause My Cleats, are promotions worn with the standard purple-and-white, and the Vikings also break out an all-purple combo for Week 7 against the Colts.
