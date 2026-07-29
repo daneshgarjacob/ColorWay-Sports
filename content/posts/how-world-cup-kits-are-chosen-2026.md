@@ -10,7 +10,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: ["international-competitions"]
-topViewsRank: 3
+topViewsRank: 8
 ---
 
 <div style="margin-top: -2rem;"></div>

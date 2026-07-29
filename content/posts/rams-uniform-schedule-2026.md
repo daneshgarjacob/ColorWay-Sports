@@ -2,6 +2,7 @@
 title: "Los Angeles Rams 2026 Uniform Schedule: When They Wear Classic Sol, Fearsome White, and Every Jersey"
 category: NFL
 date: "2026-07-24"
+topViewsRank: 6
 updatedDate: "2026-07-24"
 excerpt: "The Rams' 2026 uniform schedule: the confirmed Classic Sol and Fearsome White alternate dates, plus a week-by-week outlook for the royal, white, and Midnight Mode looks."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"

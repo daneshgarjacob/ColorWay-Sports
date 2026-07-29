@@ -11,7 +11,7 @@ coverImageFit: "cover"
 league: "mlb"
 teams: []
 featuredOrder: 1
-topViewsRank: 5
+topViewsRank: 12
 ---
 
 The hats are the other half of MLB's USA 250 Fourth of July rollout, and they are arguably the cleaner idea. While the [Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026) give every team its own base, the New Era 59FIFTY caps run a single design across all 30 clubs and just swap the logo and one trim color. It is the kind of leaguewide set that looks fantastic lined up in a row.

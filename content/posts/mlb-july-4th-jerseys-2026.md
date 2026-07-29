@@ -11,7 +11,7 @@ coverImageFit: "cover"
 league: "mlb"
 teams: []
 featuredOrder: 1
-topViewsRank: 4
+topViewsRank: 11
 ---
 
 2026 is America's 250th birthday, the Semiquincentennial, and Major League Baseball is marking it with a leaguewide USA 250 set for the Fourth of July weekend. Nearly every club is in, one shared design language and dozens of different takes on red, white, and blue. There is exactly one holdout, the Toronto Blue Jays, and we are going to be a little rude about it below before we admit they get a pass.

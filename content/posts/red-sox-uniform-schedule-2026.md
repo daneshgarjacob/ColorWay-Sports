@@ -2,6 +2,7 @@
 title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the One That's Gone"
 category: MLB
 date: "2026-06-23"
+topViewsRank: 2
 updatedDate: "2026-07-21"
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
