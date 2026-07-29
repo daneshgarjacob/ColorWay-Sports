@@ -24,7 +24,7 @@ The Mariners quietly run one of the most cohesive closets in baseball, built alm
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Seattle Mariners road navy jersey for 2026, Seattle across the chest in silver and Northwest green" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2025583859447062643"></a></blockquote>
 </div>
 
 The road navy is the workhorse, and it is the piece that trips up anyone new to the franchise: the Mariners dropped grays after 2022 and made navy their primary road jersey, so "Seattle" in silver and Northwest green on a navy base is what you see in most away games. It gives Seattle one of the darker, moodier road looks in the league, and it fits a team whose entire identity is built on deep navy and saltwater green.
@@ -39,7 +39,7 @@ It lands at the bottom here not because it is bad, but because everything above 
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mariners-uniform-schedule-2026/mariners-city-connect.jpg" alt="Seattle Mariners 2026 rush-blue City Connect jersey, Seattle in Pilots-style lettering with gold accents" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<img src="/images/posts/mlb-daily-tracker/mariners-city-connect.jpg" alt="Seattle Mariners 2026 rush-blue City Connect jersey, Seattle in Pilots-style gold lettering" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
 </div>
 
 The 2026 City Connect scrapped the old royal-and-black version for a rush-blue kit that is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside. That is a lot of references stacked into one uniform.
@@ -54,7 +54,7 @@ We grade it a B+ because it mostly pulls the layering off, it is busy but not cl
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mlb-daily-tracker/mariners-home-white.jpg" alt="Seattle Mariners home white jersey for 2026, Mariners arched in navy with Northwest green and silver trim" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/1976702517984612395"></a></blockquote>
 </div>
 
 The home white is the cornerstone: a clean white jersey with "Mariners" arched across the chest in navy, trimmed in Northwest green and silver, under the navy cap with the ball-and-compass-rose "S." There is nothing flashy about it, and that is exactly why it works. The compass-rose identity is one of the sharper marks in the American League, and the whites let it sit front and center with nothing competing for attention.
