@@ -43,6 +43,12 @@ One quick bit of housekeeping, because the graphic can be read two ways: "Winter
 
 We are big fans of this one. The Winter Warrior leans all the way into what Minnesota actually is, a cold-weather team that plays a December brand of football, and an all-white kit under the U.S. Bank Stadium lights with the metallic-gray trim reads like frost on the sleeves. A stadium-wide whiteout in the crowd to match the uniform is exactly the kind of coordinated moment that makes a look feel like an event instead of a jersey change. We grade the Winter Warrior a **B+**, and the purple horns on that white shell are the detail that keeps it from feeling generic.
 
+Here is the Winter Warrior itself, so you can see exactly what the whiteout looks like, the white helmet and all:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vikings/status/1798701377209630911"></a></blockquote>
+</div>
+
 ## The Bottom Line
 
 The Vikings' 2026 alternate slate is a strong two-punch: a brand-new Rivalries jersey getting the Sunday-night spotlight against the Lions in Week 15, and the reliably great Winter Warrior whiteout back against the Commanders in Week 16. We will update this page with our full grade on the Rivalries uniform the day it is revealed, and with the Week 16 date and time once the league locks the Christmas-week schedule.

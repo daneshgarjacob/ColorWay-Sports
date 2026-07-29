@@ -48,6 +48,12 @@ The White Out is the Colts' all-white combination, the white jersey worn with wh
 
 Saving the best for last: Indiana Nights returns for a fourth season in Week 16 against the Cincinnati Bengals. This is the set with the black helmet, a black-and-deep-blue color story inspired by the Indiana night sky, and the state-honoring "Indiana" C logo. In a league where a lot of "night" alternates end up as generic blackout jobs, this one actually has a point of view, the blue keeps it tied to the Colts' real identity instead of throwing the whole brand out for a black jersey. It is the strongest look on their 2026 slate and one of the better alternates in the conference. We grade it an **A-**, and the black helmet is what pushes it over the top.
 
+Here is the Indiana Nights set up close, so you can see the black helmet and the heather-blue jersey:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFL/status/1682029242371170304"></a></blockquote>
+</div>
+
 ## The Bottom Line
 
 The Colts' 2026 alternate schedule is well built: a new Rivalries jersey debuting in Week 3 against the Texans, the clean White Out for the Cowboys in Week 9, and the excellent Indiana Nights closing things out against the Bengals in Week 16. Three home games, three distinct looks, no overlap. We will add our full grade on the Rivalries uniform as soon as it is unveiled.
