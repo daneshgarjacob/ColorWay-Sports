@@ -44,14 +44,12 @@ export default function Home() {
   const pinnedHero = filtered.find((p) => p.homepageHero);
   const heroPost = pinnedHero || byDateDesc.find(hasCover) || byDateDesc[0];
 
-  // The 3 Latest cards are hand-curated to the strongest current covers (the
-  // `homepageFeature` frontmatter flag is too polluted across old posts to give
-  // clean control). Curated slugs take the front slots in order; any remaining
-  // slot fills with the newest cover post so a words-only card never lands here.
-  const FEATURED_SLUGS = [
-    "chargers-super-chargers-2026",
-    "rams-uniform-schedule-2026",
-  ];
+  // The 3 Latest cards auto-cycle: they fill with the NEWEST cover posts by date
+  // so the top of the page always shows fresh, visual stories (Jake wants it to
+  // stay up to date). Add a slug to FEATURED_SLUGS to manually pin one to the
+  // front; otherwise it's purely newest-covers-first. A words-only card never
+  // lands here because the fill prefers posts that have a cover image.
+  const FEATURED_SLUGS: string[] = [];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)
   ).filter(

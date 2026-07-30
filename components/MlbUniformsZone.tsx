@@ -6,34 +6,48 @@ const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 const WEEKEND = new Set(["Saturday", "Sunday"]);
 
 // The three MLB tools as static side-by-side tiles (Jake picked the static
-// 3-across over a rotating strip): tracker | calendars | schedule.
-const TOOLS = [
+// 3-across over a rotating strip), color-blocked blue / white / red:
+// tracker | calendars | schedule. Deks in Title Case (Jake's call).
+type TileTheme = "blue" | "white" | "red";
+const TOOLS: { href: string; title: string; dek: string; theme: TileTheme }[] = [
   {
     href: "/stories/mlb-uniform-tracker-2026",
     title: "Daily Uniform Tracker",
-    dek: "What every team wore last night, logged every morning.",
+    dek: "What Every Team Wore Last Night, Logged Every Morning.",
+    theme: "blue",
   },
   {
     href: "/mlb-tracker",
     title: "Team Uniform Calendars",
-    dek: "Every jersey, team by team, laid out all season.",
+    dek: "Every Jersey, Team By Team, Laid Out All Season.",
+    theme: "white",
   },
   {
     href: "/stories/mlb-uniform-schedule-2026",
     title: "Uniform Schedule",
-    dek: "What each team wears and when, for all 30 teams.",
+    dek: "What Each Team Wears And When, For All 30 Teams.",
+    theme: "red",
   },
 ];
 
-// ColorWay "Outline Stamp" mark (matches the header logo), white for navy tiles.
-function CwStamp() {
+const THEMES: Record<
+  TileTheme,
+  { bg: string; border?: string; title: string; dek: string; cta: string; stamp: string; mlbChip: boolean }
+> = {
+  blue: { bg: "#003087", title: "#ffffff", dek: "#9FB6D6", cta: "#ffffff", stamp: "#ffffff", mlbChip: true },
+  white: { bg: "#ffffff", border: "1px solid #e5e5e5", title: "#003087", dek: "#6B7280", cta: "#003087", stamp: "#003087", mlbChip: false },
+  red: { bg: "#C8102E", title: "#ffffff", dek: "rgba(255,255,255,0.82)", cta: "#ffffff", stamp: "#ffffff", mlbChip: true },
+};
+
+// ColorWay "Outline Stamp" mark (matches the header logo); color adapts per tile.
+function CwStamp({ color = "#fff" }: { color?: string }) {
   return (
     <svg viewBox="0 0 100 100" width="17" height="17" aria-hidden="true">
-      <circle cx="50" cy="50" r="37" fill="none" stroke="#fff" strokeWidth="3.2" />
+      <circle cx="50" cy="50" r="37" fill="none" stroke={color} strokeWidth="3.2" />
       <g transform="translate(0,3)">
-        <circle cx="40.8" cy="32" r="2.7" fill="#fff" />
-        <rect x="39.6" y="33" width="2.9" height="33" rx="1.4" fill="#fff" />
-        <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#fff" />
+        <circle cx="40.8" cy="32" r="2.7" fill={color} />
+        <rect x="39.6" y="33" width="2.9" height="33" rx="1.4" fill={color} />
+        <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill={color} />
       </g>
     </svg>
   );
@@ -82,26 +96,41 @@ export default async function MlbUniformsZone() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
-          {TOOLS.map((t) => (
-            <Link
-              key={t.href}
-              href={t.href}
-              className="group relative flex flex-col overflow-hidden rounded-xl bg-blue-dark p-5 transition-transform hover:-translate-y-0.5"
-            >
-              <div className="mb-6 flex items-center gap-2.5">
-                <span className="inline-flex items-center rounded-md bg-white px-1.5 py-1">
-                  <img src="/logos/mlb.png" alt="MLB" className="h-[15px] w-auto object-contain" />
+          {TOOLS.map((t) => {
+            const th = THEMES[t.theme];
+            return (
+              <Link
+                key={t.href}
+                href={t.href}
+                className="group relative flex flex-col overflow-hidden rounded-xl p-5 transition-transform hover:-translate-y-0.5"
+                style={{ background: th.bg, border: th.border }}
+              >
+                <div className="mb-6 flex items-center gap-2.5">
+                  {th.mlbChip ? (
+                    <span className="inline-flex items-center rounded-md bg-white px-1.5 py-1">
+                      <img src="/logos/mlb.png" alt="MLB" className="h-[15px] w-auto object-contain" />
+                    </span>
+                  ) : (
+                    <img src="/logos/mlb.png" alt="MLB" className="h-[17px] w-auto object-contain" />
+                  )}
+                  <CwStamp color={th.stamp} />
+                </div>
+                <p className="text-lg font-bold leading-tight" style={{ color: th.title }}>
+                  {t.title}
+                </p>
+                <p className="mt-1 text-[12px] leading-snug" style={{ color: th.dek }}>
+                  {t.dek}
+                </p>
+                <span
+                  className="mt-3 text-[11px] font-bold uppercase tracking-[0.12em]"
+                  style={{ color: th.cta }}
+                >
+                  Open{" "}
+                  <span className="inline-block transition-transform group-hover:translate-x-0.5">→</span>
                 </span>
-                <CwStamp />
-              </div>
-              <p className="text-lg font-bold leading-tight text-white">{t.title}</p>
-              <p className="mt-1 text-[12px] leading-snug text-[#9FB6D6]">{t.dek}</p>
-              <span className="mt-3 text-[11px] font-bold uppercase tracking-[0.12em] text-white">
-                Open{" "}
-                <span className="inline-block transition-transform group-hover:translate-x-0.5">→</span>
-              </span>
-            </Link>
-          ))}
+              </Link>
+            );
+          })}
         </div>
 
         {/* Jersey Stats of the Day — all of last night's data in one card */}
