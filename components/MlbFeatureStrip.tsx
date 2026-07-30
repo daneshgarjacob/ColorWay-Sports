@@ -22,19 +22,25 @@ export default async function MlbFeatureStrip() {
             href={href}
             className="group border border-border rounded-xl overflow-hidden bg-white hover:-translate-y-0.5 transition-transform"
           >
-            <div
-              className="p-5 sm:p-6 flex flex-col justify-center min-h-[132px]"
-              style={{ background: "linear-gradient(135deg, #002D72 0%, #0a1730 55%, #FF5910 130%)" }}
-            >
-              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-white/80">
-                ⚾ Jersey of the Day
-              </span>
-              <span className="mt-1.5 text-2xl font-extrabold text-white leading-tight">
-                {jotd.title}
-              </span>
-              <span className="mt-3 text-[11px] font-bold uppercase tracking-[0.15em] text-[#FF5910] group-hover:text-white transition-colors">
-                See it on the tracker →
-              </span>
+            <div className="p-4 sm:p-5 flex items-center gap-4">
+              {jotd.image && (
+                <img
+                  src={jotd.image}
+                  alt=""
+                  className="h-[84px] w-auto object-contain flex-shrink-0"
+                />
+              )}
+              <div className="min-w-0">
+                <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
+                  ⚾ Jersey of the Day
+                </span>
+                <p className="mt-1 text-xl font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
+                  {jotd.title}
+                </p>
+                <span className="mt-2 inline-block text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
+                  See it on the tracker →
+                </span>
+              </div>
             </div>
           </Link>
         )}
@@ -46,7 +52,7 @@ export default async function MlbFeatureStrip() {
             className="group border border-border rounded-xl overflow-hidden bg-white hover:-translate-y-0.5 transition-transform"
           >
             <div className="p-4 sm:p-5">
-              <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center justify-between mb-2">
                 <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
                   ★ Matchup of the Day
                 </span>
@@ -56,17 +62,12 @@ export default async function MlbFeatureStrip() {
                   </span>
                 )}
               </div>
-              <div className="flex items-center gap-3">
+              <div className="flex items-center justify-center gap-6">
                 {motd.images.map((src, i) => (
-                  <div
-                    key={i}
-                    className="flex-1 h-[80px] rounded-lg bg-[#ececf0] flex items-center justify-center p-1.5"
-                  >
-                    <img src={src} alt="" className="max-h-[70px] max-w-full object-contain" />
-                  </div>
+                  <img key={i} src={src} alt="" className="h-[84px] w-auto object-contain" />
                 ))}
               </div>
-              <p className="mt-3 text-[15px] font-bold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
+              <p className="mt-2 text-center text-[15px] font-bold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
                 {motd.matchup}
               </p>
             </div>

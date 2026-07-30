@@ -89,8 +89,8 @@ export default async function MlbUniformsHub() {
             <>
               <div className="flex items-center gap-1.5 mb-3 pb-3 border-b border-border">
                 <img src="/logos/mlb.png" alt="MLB" className="h-[16px] w-auto object-contain" />
-                <span className="text-[12px] font-bold text-[#0B1F4A] uppercase tracking-widest">
-                  MLB Jersey Tracker
+                <span className="text-[12px] font-bold text-[#0B1F4A] uppercase tracking-[0.12em]">
+                  MLB Jersey Stats of the Day
                 </span>
               </div>
               <div className="flex items-baseline justify-between mb-3">

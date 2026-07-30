@@ -29,14 +29,20 @@ function newestDaySlice(html: string): { day: string; slice: string } | null {
   return { day, slice: html.slice(start, end) };
 }
 
-export type Jotd = { title: string; day: string } | null;
+export type Jotd = { title: string; day: string; image: string | null } | null;
 
 export function getJotd(html: string): Jotd {
   const d = newestDaySlice(html);
   if (!d) return null;
   const m = d.slice.match(/Jersey of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/);
   if (!m) return null;
-  return { title: strip(m[1]), day: d.day };
+  const title = strip(m[1]);
+  // Find the matching jersey image from that day's game cards, by alt text.
+  const esc = title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const im = d.slice.match(
+    new RegExp(`<img[^>]+src="(\\/images\\/posts\\/mlb-daily-tracker\\/[^"]+)"[^>]*alt="${esc} jersey worn`, "i"),
+  );
+  return { title, day: d.day, image: im ? im[1] : null };
 }
 
 export type Motd = { matchup: string; grade: string; images: string[] } | null;
