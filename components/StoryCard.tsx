@@ -151,6 +151,8 @@ export default function StoryCard({
       {/* Card body */}
       <div className="p-6">
         <div className="flex items-center gap-2">
+          {logoSrc && <img src={logoSrc} alt="" className="h-[18px] w-auto object-contain" />}
+          {logoSrc2 && <img src={logoSrc2} alt="" className="h-[18px] w-auto object-contain" />}
           <span
             className="text-[11px] font-semibold uppercase tracking-widest"
             style={{ color: leagueColor(category) }}

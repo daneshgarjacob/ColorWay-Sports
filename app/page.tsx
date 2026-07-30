@@ -150,9 +150,13 @@ export default function Home() {
                     .filter(Boolean)
                     .join(" ")}
                 >
-                  <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
-                    {post.category}
-                  </span>
+                  <div className="flex items-center gap-1.5">
+                    {post.logoSrc && <img src={post.logoSrc} alt="" className="h-[15px] w-auto object-contain" />}
+                    {post.logoSrc2 && <img src={post.logoSrc2} alt="" className="h-[15px] w-auto object-contain" />}
+                    <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
+                      {post.category}
+                    </span>
+                  </div>
                   <h3 className="text-[15px] font-bold text-[#0B1F4A] leading-snug group-hover:text-orange transition-colors duration-150">
                     {post.title}
                   </h3>

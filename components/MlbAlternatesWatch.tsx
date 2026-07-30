@@ -4,9 +4,9 @@ import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 
-// Homepage strip for the MLB jersey tracker: the latest logged day's numbers
-// with a route straight into the tracker. Parsed from the tracker post itself,
-// so it refreshes every morning with no extra work.
+// Homepage strip for the MLB jersey tracker: one clean stat — the share of the
+// most recent day's jerseys that were alternates — with a route into the tracker.
+// Parsed from the tracker post itself, so it refreshes every morning.
 export default async function MlbAlternatesWatch() {
   const post = await getPostBySlug(TRACKER_SLUG);
   if (!post) return null;
@@ -19,7 +19,7 @@ export default async function MlbAlternatesWatch() {
     <section style={{ borderBottom: "1px solid #e5e5e5" }} className="bg-white">
       <div className="max-w-[1200px] mx-auto px-5 py-8">
         <div className="flex items-baseline justify-between gap-4 flex-wrap mb-5">
-          <div className="flex items-baseline gap-4 flex-wrap">
+          <div className="flex items-center gap-4 flex-wrap">
             <span
               style={{
                 fontFamily: "'JetBrains Mono', 'Courier New', monospace",
@@ -32,9 +32,12 @@ export default async function MlbAlternatesWatch() {
             >
               ● Updated Daily
             </span>
-            <h2 className="text-2xl font-bold" style={{ color: "#1a1a1a" }}>
-              MLB Jersey Tracker
-            </h2>
+            <span className="flex items-center gap-2">
+              <img src="/logos/mlb.png" alt="MLB" className="h-6 w-auto object-contain" />
+              <h2 className="text-2xl font-bold" style={{ color: "#1a1a1a" }}>
+                MLB Jersey Tracker
+              </h2>
+            </span>
           </div>
           <Link
             href={`/stories/${TRACKER_SLUG}`}
@@ -53,58 +56,15 @@ export default async function MlbAlternatesWatch() {
           </Link>
         </div>
 
-        <div className="grid gap-5 md:grid-cols-[auto_1fr] md:items-center">
-          <div className="flex items-center gap-7">
-            <div>
-              <p className="text-[38px] font-extrabold leading-none m-0 text-blue-dark">
-                {data.alternates}
-              </p>
-              <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Alternates
-              </p>
-            </div>
-            <div>
-              <p className="text-[38px] font-extrabold leading-none m-0 text-blue-dark">{pct}%</p>
-              <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Of jerseys worn
-              </p>
-            </div>
-            <div>
-              <p className="text-[38px] font-extrabold leading-none m-0 text-blue-dark">
-                {data.games}
-              </p>
-              <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/45 m-0 mt-1.5">
-                Games
-              </p>
-            </div>
-          </div>
-
-          <div className="min-w-0">
-            <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-black/35 m-0 mb-2">
-              {data.day}
-            </p>
-            <div className="flex flex-wrap gap-2">
-              {data.topLooks.map((l) => (
-                <span
-                  key={l.label}
-                  className="inline-flex items-center gap-2 pl-2.5 pr-3 py-1.5 rounded-full border border-black/[0.07] bg-white shadow-[0_1px_2px_rgba(16,23,42,0.06)]"
-                >
-                  <span
-                    aria-hidden
-                    className="inline-block w-2.5 h-2.5 rounded-full ring-1 ring-black/10 shrink-0"
-                    style={{ background: l.color || "#e6e6ec" }}
-                  />
-                  <span className="text-[12.5px] font-semibold text-blue-dark leading-none">{l.label}</span>
-                  {l.count > 1 && (
-                    <span className="inline-flex items-center justify-center min-w-[17px] h-[17px] px-1 rounded-full bg-black/[0.05] text-[10.5px] font-bold text-black/45 leading-none">
-                      {l.count}
-                    </span>
-                  )}
-                </span>
-              ))}
-            </div>
-          </div>
+        <div className="flex items-baseline gap-3 flex-wrap">
+          <span className="text-[44px] font-extrabold leading-none text-blue-dark">{pct}%</span>
+          <span className="text-[15px] sm:text-base font-semibold text-black/70 leading-snug">
+            of the jerseys worn last night were alternates, City Connects, or throwbacks
+          </span>
         </div>
+        <p className="text-[12px] font-medium text-black/45 mt-2">
+          {data.alternates} of {data.totalUniforms} jerseys worn across {data.games} games · {data.day}
+        </p>
       </div>
     </section>
   );

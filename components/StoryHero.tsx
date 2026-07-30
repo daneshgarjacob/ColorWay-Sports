@@ -78,6 +78,8 @@ export default function StoryHero({ post }: { post: PostMeta }) {
         {/* Body */}
         <div className="lg:col-span-2 p-6 sm:p-8 flex flex-col justify-center">
           <div className="flex items-center gap-2">
+            {logoSrc && <img src={logoSrc} alt="" className="h-[22px] w-auto object-contain" />}
+            {logoSrc2 && <img src={logoSrc2} alt="" className="h-[22px] w-auto object-contain" />}
             <span
               className="text-[11px] font-semibold uppercase tracking-widest"
               style={{ color: leagueColor(category) }}
