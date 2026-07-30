@@ -37,7 +37,7 @@ export default function StoryHero({ post }: { post: PostMeta }) {
       <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.99] active:duration-150 grid grid-cols-1 lg:grid-cols-5">
         {/* Cover */}
         <div
-          className="relative overflow-hidden aspect-[3/2] lg:aspect-auto lg:col-span-3 lg:min-h-[340px] flex items-center justify-center"
+          className="relative overflow-hidden aspect-[3/2] lg:aspect-auto lg:col-span-3 lg:min-h-[290px] flex items-center justify-center"
           style={{ background: (coverImageFit === "contain" || !coverImage) ? gradient : undefined }}
         >
           {coverImage ? (
@@ -76,7 +76,7 @@ export default function StoryHero({ post }: { post: PostMeta }) {
         </div>
 
         {/* Body */}
-        <div className="lg:col-span-2 p-6 sm:p-8 flex flex-col justify-center">
+        <div className="lg:col-span-2 p-5 sm:p-7 flex flex-col justify-center">
           <div className="flex items-center gap-2">
             {logoSrc && <img src={logoSrc} alt="" className="h-[22px] w-auto object-contain" />}
             {logoSrc2 && <img src={logoSrc2} alt="" className="h-[22px] w-auto object-contain" />}
@@ -93,13 +93,13 @@ export default function StoryHero({ post }: { post: PostMeta }) {
               </>
             )}
           </div>
-          <h3 className="mt-3 text-2xl sm:text-[28px] font-extrabold text-blue-dark leading-tight tracking-tight group-hover:text-orange transition-colors duration-200">
+          <h3 className="mt-3 text-xl sm:text-2xl font-extrabold text-blue-dark leading-tight tracking-tight group-hover:text-orange transition-colors duration-200">
             {title}
           </h3>
           <p className="mt-3 text-[15px] text-gray-medium leading-relaxed line-clamp-3">
             {excerpt}
           </p>
-          <span className="mt-5 text-[12px] font-bold uppercase tracking-[0.15em] text-orange">
+          <span className="mt-4 text-[12px] font-bold uppercase tracking-[0.15em] text-orange">
             Read the story →
           </span>
         </div>

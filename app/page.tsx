@@ -1,7 +1,5 @@
 import Header from "@/components/Header";
-import MlbUniformsHub from "@/components/MlbUniformsHub";
-import MlbFeatureStrip from "@/components/MlbFeatureStrip";
-import WeekdayStandardIndex from "@/components/WeekdayStandardIndex";
+import MlbUniformsZone from "@/components/MlbUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import Footer from "@/components/Footer";
@@ -98,18 +96,16 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        {/* Hero story — the primary visual anchor at the top */}
+        {/* Hero story + Latest stories — the top story band, the visual identity of the site */}
         {heroPost && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-2">
+          <section className="max-w-[1200px] mx-auto px-5 pt-7 pb-2">
             <StoryHero post={heroPost} />
           </section>
         )}
 
-        <MlbUniformsHub />
-
         {/* Latest stories grid */}
         {gridPosts.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-4">
+          <section className="max-w-[1200px] mx-auto px-5 pt-5 pb-8">
             <div className="flex items-baseline justify-between mb-3">
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
                 Latest Stories
@@ -121,17 +117,17 @@ export default function Home() {
                 All stories →
               </Link>
             </div>
-            <hr className="border-border mb-8" />
+            <hr className="border-border mb-6" />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {gridPosts.map((post) => (
-                <StoryCard key={post.slug} {...post} />
+                <StoryCard key={post.slug} {...post} compact />
               ))}
             </div>
           </section>
         )}
 
-        <MlbFeatureStrip />
-        <WeekdayStandardIndex />
+        {/* All the MLB uniform tools, grouped in one tinted zone */}
+        <MlbUniformsZone />
 
         {/* More stories — compact bordered grid */}
         {compact.length > 0 && (

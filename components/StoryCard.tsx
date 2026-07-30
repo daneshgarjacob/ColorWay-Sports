@@ -19,6 +19,7 @@ interface StoryCardProps {
   kicker?: string;
   bodyPreview?: string;
   showDate?: boolean;
+  compact?: boolean;
 }
 
 export default function StoryCard({
@@ -40,6 +41,7 @@ export default function StoryCard({
   kicker,
   bodyPreview,
   showDate,
+  compact,
 }: StoryCardProps) {
   const displayDate = updatedDate || date;
   const formattedDate = displayDate
@@ -149,7 +151,7 @@ export default function StoryCard({
       </Link>
 
       {/* Card body */}
-      <div className="p-6">
+      <div className={compact ? "p-4" : "p-6"}>
         <div className="flex items-center gap-2">
           {logoSrc && <img src={logoSrc} alt="" className="h-[18px] w-auto object-contain" />}
           {logoSrc2 && <img src={logoSrc2} alt="" className="h-[18px] w-auto object-contain" />}
@@ -169,12 +171,12 @@ export default function StoryCard({
         <h3 className="mt-2.5">
           <Link
             href={href ?? `/stories/${slug}`}
-            className="text-lg font-bold text-blue-dark hover:text-orange transition-colors duration-200 leading-snug"
+            className={`${compact ? "text-base" : "text-lg"} font-bold text-blue-dark hover:text-orange transition-colors duration-200 leading-snug`}
           >
             {title}
           </Link>
         </h3>
-        <p className="mt-2.5 text-sm text-gray-medium leading-relaxed line-clamp-3">
+        <p className={`mt-2.5 text-sm text-gray-medium leading-relaxed ${compact ? "line-clamp-2" : "line-clamp-3"}`}>
           {excerpt}
         </p>
       </div>
