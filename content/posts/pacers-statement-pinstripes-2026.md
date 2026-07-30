@@ -10,7 +10,7 @@ kicker: NBA
 logoSrc: "/logos/nba.png"
 logoSrc2: "/logos/teams/nba-indiana-pacers.png"
 coverImage: "/images/posts/pacers-statement-pinstripes-2026/cover.jpg"
-coverImagePosition: "center 8%"
+coverImagePosition: "center 4%"
 league: nba
 teams: ["indiana-pacers"]
 ---

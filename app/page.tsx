@@ -44,30 +44,34 @@ export default function Home() {
   const pinnedHero = filtered.find((p) => p.homepageHero);
   const heroPost = pinnedHero || byDateDesc.find(hasCover) || byDateDesc[0];
 
-  // The 3 Latest cards auto-cycle: they fill with the NEWEST cover posts by date
-  // so the top of the page always shows fresh, visual stories (Jake wants it to
-  // stay up to date). Add a slug to FEATURED_SLUGS to manually pin one to the
-  // front; otherwise it's purely newest-covers-first. A words-only card never
-  // lands here because the fill prefers posts that have a cover image.
-  const FEATURED_SLUGS: string[] = [];
+  // The 3 Latest cards are curated to nice visual covers: Chargers + Rams stay
+  // pinned (Jake wants them kept), and any remaining slot fills with the newest
+  // GENUINELY-NEW cover post by PUBLISH date. Evergreen "living" trackers (NBA
+  // free agency, the MLB daily tracker/schedule) are excluded so they don't hog
+  // a slot via updatedDate churn. Words-only cards never land here.
+  const FEATURED_SLUGS: string[] = [
+    "chargers-super-chargers-2026",
+    "rams-uniform-schedule-2026",
+  ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)
   ).filter(
     (p): p is (typeof filtered)[number] => Boolean(p) && p!.slug !== heroPost.slug
   );
   const featuredSlugs = new Set(featured.map((p) => p.slug));
-  // The MLB daily tracker + schedule already headline the MLB zone below, so
-  // keep them out of the Latest grid to avoid doubling up.
-  const MLB_ZONE_SLUGS = new Set([
+  const GRID_EXCLUDE = new Set([
     "mlb-uniform-tracker-2026",
     "mlb-uniform-schedule-2026",
+    "nba-free-agency-tracker-2026",
   ]);
-  const gridPool = byDateDesc.filter(
-    (p) =>
-      p.slug !== heroPost.slug &&
-      !featuredSlugs.has(p.slug) &&
-      !MLB_ZONE_SLUGS.has(p.slug)
-  );
+  const gridPool = [...filtered]
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .filter(
+      (p) =>
+        p.slug !== heroPost.slug &&
+        !featuredSlugs.has(p.slug) &&
+        !GRID_EXCLUDE.has(p.slug)
+    );
   const coverFirst = [
     ...gridPool.filter(hasCover),
     ...gridPool.filter((p) => !hasCover(p)),
