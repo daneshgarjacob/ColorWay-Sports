@@ -2,10 +2,42 @@ import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 import { getJotd, getMotd, getWeekdayStandard } from "@/lib/mlbHomepage";
-import TrackerCarousel from "./TrackerCarousel";
-
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 const WEEKEND = new Set(["Saturday", "Sunday"]);
+
+// The three MLB tools as static side-by-side tiles (Jake picked the static
+// 3-across over a rotating strip): tracker | calendars | schedule.
+const TOOLS = [
+  {
+    href: "/stories/mlb-uniform-tracker-2026",
+    title: "Daily Uniform Tracker",
+    dek: "What every team wore last night, logged every morning.",
+  },
+  {
+    href: "/mlb-tracker",
+    title: "Team Uniform Calendars",
+    dek: "Every jersey, team by team, laid out all season.",
+  },
+  {
+    href: "/stories/mlb-uniform-schedule-2026",
+    title: "Uniform Schedule",
+    dek: "What each team wears and when, for all 30 teams.",
+  },
+];
+
+// ColorWay "Outline Stamp" mark (matches the header logo), white for navy tiles.
+function CwStamp() {
+  return (
+    <svg viewBox="0 0 100 100" width="17" height="17" aria-hidden="true">
+      <circle cx="50" cy="50" r="37" fill="none" stroke="#fff" strokeWidth="3.2" />
+      <g transform="translate(0,3)">
+        <circle cx="40.8" cy="32" r="2.7" fill="#fff" />
+        <rect x="39.6" y="33" width="2.9" height="33" rx="1.4" fill="#fff" />
+        <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#fff" />
+      </g>
+    </svg>
+  );
+}
 
 // One grouped MLB zone on a soft-tinted band: the tracker carousel up top,
 // then a single "Jersey Stats of the Day" card (Jersey of the Day + Matchup
@@ -49,7 +81,28 @@ export default async function MlbUniformsZone() {
           </Link>
         </div>
 
-        <TrackerCarousel />
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
+          {TOOLS.map((t) => (
+            <Link
+              key={t.href}
+              href={t.href}
+              className="group relative flex flex-col overflow-hidden rounded-xl bg-blue-dark p-5 transition-transform hover:-translate-y-0.5"
+            >
+              <div className="mb-6 flex items-center gap-2.5">
+                <span className="inline-flex items-center rounded-md bg-white px-1.5 py-1">
+                  <img src="/logos/mlb.png" alt="MLB" className="h-[15px] w-auto object-contain" />
+                </span>
+                <CwStamp />
+              </div>
+              <p className="text-lg font-bold leading-tight text-white">{t.title}</p>
+              <p className="mt-1 text-[12px] leading-snug text-[#9FB6D6]">{t.dek}</p>
+              <span className="mt-3 text-[11px] font-bold uppercase tracking-[0.12em] text-white">
+                Open{" "}
+                <span className="inline-block transition-transform group-hover:translate-x-0.5">→</span>
+              </span>
+            </Link>
+          ))}
+        </div>
 
         {/* Jersey Stats of the Day — all of last night's data in one card */}
         {data && (
