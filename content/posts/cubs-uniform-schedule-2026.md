@@ -8,6 +8,8 @@ gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-chicago-cubs.png"
 league: mlb
 teams:
   - chicago-cubs

@@ -8,6 +8,8 @@ gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-minnesota-twins.png"
 league: mlb
 teams:
   - minnesota-twins

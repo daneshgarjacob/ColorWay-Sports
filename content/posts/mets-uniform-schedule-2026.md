@@ -8,6 +8,8 @@ gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-new-york-mets.png"
 league: mlb
 teams:
   - new-york-mets

@@ -8,6 +8,8 @@ gradient: "linear-gradient(135deg, #006341 0%, #EFB21E 50%, #006341 100%)"
 coverImage: "/images/posts/athletics-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-oakland-athletics.png"
 league: mlb
 teams:
   - athletics

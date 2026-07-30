@@ -8,6 +8,8 @@ gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-milwaukee-brewers.png"
 league: mlb
 teams:
   - milwaukee-brewers

@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
-import HomepageTrackers from "@/components/HomepageTrackers";
-import MlbAlternatesWatch from "@/components/MlbAlternatesWatch";
+import MlbUniformsHub from "@/components/MlbUniformsHub";
+import MlbFeatureStrip from "@/components/MlbFeatureStrip";
+import WeekdayStandardIndex from "@/components/WeekdayStandardIndex";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import Footer from "@/components/Footer";
@@ -97,8 +98,7 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        <HomepageTrackers />
-        <MlbAlternatesWatch />
+        <MlbUniformsHub />
 
         {/* Latest stories — 3 equal cards */}
         {lead.length > 0 && (
@@ -127,6 +127,9 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        <MlbFeatureStrip />
+        <WeekdayStandardIndex />
 
         {/* More stories — compact bordered grid */}
         {compact.length > 0 && (

@@ -10,6 +10,8 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #004687 0%, #1d1d1d 50%, #7BB2DD 100%)'
 coverImage: /images/posts/royals-uniform-schedule-cover.jpg
 coverImagePosition: center center
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-kansas-city-royals.png"
 league: mlb
 teams:
   - kansas-city-royals

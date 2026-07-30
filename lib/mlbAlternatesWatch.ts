@@ -2,7 +2,7 @@
 // the league on the most recent logged day, parsed from the daily tracker post.
 // Feeds <MlbAlternatesWatch /> on the homepage.
 
-const PRIMARY = /^(home white|road gray|home cream|home grey|road grey)$/i;
+const PRIMARY = /^(home white pinstripes|home white|road gray|road grey|home grey|home cream)$/i;
 
 export type AlternatesDay = {
   day: string;            // "Sunday, July 19"

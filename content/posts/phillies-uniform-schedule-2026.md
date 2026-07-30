@@ -11,6 +11,8 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #E81828 0%, #002D72 50%, #E81828 100%)'
 coverImage: /images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg
 coverImagePosition: center 60%
+logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-philadelphia-phillies.png"
 league: mlb
 teams:
   - philadelphia-phillies
