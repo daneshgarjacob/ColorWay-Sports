@@ -39,7 +39,7 @@ It grades a C. There is so much going on, tire tread, racing stripes, VINs, hidd
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mlb-daily-tracker/tigers-road-gray.jpg" alt="Detroit Tigers road gray jersey for 2026 with the navy Detroit script across the chest" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2079313352027746757"></a></blockquote>
 </div>
 
 On the road, Detroit wears the standard gray set with the script "Detroit" arched across the chest in navy, the wordmark the club has worn on its travel grays since the mid-1990s, paired with the navy cap. It is understated, but it is a genuinely good-looking road gray.
@@ -54,7 +54,7 @@ It grades a B+. The arched navy script gives it more character than the average 
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<img src="/images/posts/mlb-daily-tracker/tigers-home-white.jpg" alt="Detroit Tigers home white jersey for 2026 with the navy Old English D on the left chest" style="width: 100%; max-width: 340px; border-radius: 10px; background: #ececf0;" />
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2082519117358120993"></a></blockquote>
 </div>
 
 The home white is a clean white jersey with the navy Old English D on the left chest, navy piping, and the navy cap with the white D. The Old English D has appeared on Detroit's home uniform in some form every season since 1905, and it is one of the most recognizable marks in the sport.
@@ -69,7 +69,7 @@ It grades an A-. This is a rock-solid classic and there is nothing to fix, but i
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TonyPaul1984/status/2037948439028252786"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2080125012674056230"></a></blockquote>
 </div>
 
 Unveiled in the same February 2026 reveal as the orange, the navy alternate is a knockout. It runs the script "Detroit" across a navy base in orange lettering with white trim, using the 1984-inspired template, complete with the V-neck collar, cuff striping, and roundel sleeve patch. The Tigers wear it for select road games.
@@ -84,7 +84,7 @@ It grades an A. The orange-on-navy is rich and confident, and the throwback deta
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2024520883990089728"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2075780388861984961"></a></blockquote>
 </div>
 
 The orange home alternate takes the crown. For the first time in 126 years, the Tigers are wearing orange in regular-season games, and they nailed it. The orange base keeps the classic Old English D on the upper-left chest, rendered in navy trimmed in white so it pops, and pairs with white pants and a new navy cap with an orange brim. The V-neck collar and three-color sleeve striping pull straight from the 1984 champions, and it is reserved for Friday home games at Comerica Park.
