@@ -1,7 +1,6 @@
 ---
 title: "Chargers 'Super Chargers' 2026 Uniform Schedule: Every Game the All-Navy Alternate Comes Out"
 category: "NFL"
-homepageHero: true
 date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "The Chargers released their 2026 'Super Chargers' uniform schedule. The all-navy alternate hits SoFi Stadium three times, and it's one of our favorite looks in the entire NFL."
