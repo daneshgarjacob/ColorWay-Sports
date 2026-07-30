@@ -28,63 +28,59 @@ export default function Home() {
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
 
-  // LATEST STORIES — blend of "what's new" + "what's working right now".
-  // Newest post becomes the oversized hero, then 2 more newest + 1 top-ranked
-  // recent post (proven traffic in the last 30 days) fill the grid below.
-  // Falls back to date if there's no recent ranked post.
-  const RECENT_WINDOW_DAYS = 30;
-  const today = Date.now();
+  // LATEST STORIES — the hero + 3-card grid are the visual identity of the
+  // site, so they lead with the strongest real covers and never words-only
+  // cards. Pinned features take the front slots; the rest fill with the newest
+  // cover posts by date.
   const effectiveDate = (p: { date: string; updatedDate?: string }) =>
     p.updatedDate || p.date;
-  const ageDays = (p: { date: string; updatedDate?: string }) =>
-    (today - new Date(effectiveDate(p)).getTime()) / 86400000;
-
   const byDateDesc = [...filtered].sort((a, b) =>
     effectiveDate(b).localeCompare(effectiveDate(a))
   );
+  const hasCover = (p: { coverImage?: string }) => Boolean(p.coverImage);
 
-  const newest = byDateDesc.slice(0, 3);
-  const newestSlugs = new Set(newest.map((p) => p.slug));
-
-  const popularRecent = filtered
-    .filter((p) => !newestSlugs.has(p.slug))
-    .filter((p) => typeof p.topViewsRank === "number")
-    .filter((p) => ageDays(p) <= RECENT_WINDOW_DAYS)
-    .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999))
-    .slice(0, 1);
-
-  let lead = [...newest, ...popularRecent];
-  if (lead.length < 4) {
-    const partialLeadSlugs = new Set(lead.map((p) => p.slug));
-    const fillers = byDateDesc
-      .filter((p) => !partialLeadSlugs.has(p.slug))
-      .slice(0, 4 - lead.length);
-    lead = [...lead, ...fillers];
-  }
-
-  // A post can pin itself to the hero slot with `homepageHero: true` in frontmatter.
-  // This keeps a strong, real-photo lead (e.g. the F1 British GP cover) in place until
-  // we deliberately choose a replacement, instead of auto-swapping to whatever is newest.
+  // A post can pin itself to the hero slot with `homepageHero: true`; otherwise
+  // lead with the newest post that carries a real cover image.
   const pinnedHero = filtered.find((p) => p.homepageHero);
-  const heroPost = pinnedHero || lead[0];
+  const heroPost = pinnedHero || byDateDesc.find(hasCover) || byDateDesc[0];
 
-  // A post can pin itself into one of the 3 Latest cards with `homepageFeature: true`,
-  // even if it's not among the newest by date (e.g. keeping the F1 British GP card in
-  // the grid after it's no longer the hero). Pinned features take the front slots; the
-  // rest fill from the date-driven lead. No date is faked to achieve placement.
-  const pinnedFeatures = filtered.filter(
-    (p) => p.homepageFeature && p.slug !== heroPost.slug
+  // The 3 Latest cards are hand-curated to the strongest current covers (the
+  // `homepageFeature` frontmatter flag is too polluted across old posts to give
+  // clean control). Curated slugs take the front slots in order; any remaining
+  // slot fills with the newest cover post so a words-only card never lands here.
+  const FEATURED_SLUGS = [
+    "chargers-super-chargers-2026",
+    "rams-uniform-schedule-2026",
+  ];
+  const featured = FEATURED_SLUGS.map((s) =>
+    filtered.find((p) => p.slug === s)
+  ).filter(
+    (p): p is (typeof filtered)[number] => Boolean(p) && p!.slug !== heroPost.slug
   );
-  const pinnedFeatureSlugs = new Set(pinnedFeatures.map((p) => p.slug));
-  const autoGrid = lead.filter(
-    (p) => p.slug !== heroPost.slug && !pinnedFeatureSlugs.has(p.slug)
+  const featuredSlugs = new Set(featured.map((p) => p.slug));
+  // The MLB daily tracker + schedule already headline the MLB zone below, so
+  // keep them out of the Latest grid to avoid doubling up.
+  const MLB_ZONE_SLUGS = new Set([
+    "mlb-uniform-tracker-2026",
+    "mlb-uniform-schedule-2026",
+  ]);
+  const gridPool = byDateDesc.filter(
+    (p) =>
+      p.slug !== heroPost.slug &&
+      !featuredSlugs.has(p.slug) &&
+      !MLB_ZONE_SLUGS.has(p.slug)
   );
-  const gridPosts = [...pinnedFeatures, ...autoGrid].slice(0, 3);
+  const coverFirst = [
+    ...gridPool.filter(hasCover),
+    ...gridPool.filter((p) => !hasCover(p)),
+  ];
+  const gridPosts = [...featured, ...coverFirst].slice(0, 3);
+  const gridSlugs = new Set(gridPosts.map((p) => p.slug));
 
-  // MORE STORIES — pure popularity by topViewsRank, excluding what's already in Latest.
-  const leadSlugs = new Set(lead.map((p) => p.slug));
+  // MORE STORIES — pure popularity by topViewsRank, excluding the hero + Latest grid.
+  const shownSlugs = new Set([heroPost.slug, ...gridSlugs]);
   const compact = filtered
-    .filter((p) => !leadSlugs.has(p.slug))
+    .filter((p) => !shownSlugs.has(p.slug))
     .filter((p) => typeof p.topViewsRank === "number")
     .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999))
     .slice(0, 6);
