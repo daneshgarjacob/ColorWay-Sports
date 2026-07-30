@@ -98,11 +98,18 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
+        {/* Hero story — the primary visual anchor at the top */}
+        {heroPost && (
+          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-2">
+            <StoryHero post={heroPost} />
+          </section>
+        )}
+
         <MlbUniformsHub />
 
-        {/* Latest stories — 3 equal cards */}
-        {lead.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-10 pb-4">
+        {/* Latest stories grid */}
+        {gridPosts.length > 0 && (
+          <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-4">
             <div className="flex items-baseline justify-between mb-3">
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
                 Latest Stories
@@ -115,11 +122,6 @@ export default function Home() {
               </Link>
             </div>
             <hr className="border-border mb-8" />
-            {heroPost && (
-              <div className="mb-6">
-                <StoryHero post={heroPost} />
-              </div>
-            )}
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {gridPosts.map((post) => (
                 <StoryCard key={post.slug} {...post} />
