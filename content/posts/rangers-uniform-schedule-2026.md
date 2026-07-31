@@ -2,7 +2,7 @@
 title: "Texas Rangers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-31"
 excerpt: "The Texas Rangers run five uniforms in 2026 — home whites, road grays, the Sunday powder blues, the royal-blue road alternate, and the brand-new 'Tejas' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,33 @@ The Rangers carry five uniforms in 2026, and the headline change is at the botto
 
 The home white is the Rangers' bread and butter: a clean white jersey with "Rangers" in blue script across the chest — a wordmark the franchise brought back in 2020 for the first time since 1993 — paired with red, white, and blue sleeve trim and a Texas-flag accent. The pants are white with a red-white-and-blue side stripe, and it's worn with the blue cap and its white block "T." It's the default for the bulk of every homestand, essentially any home game that isn't claimed by the Friday City Connect or the Sunday powder blue. It's the cornerstone look of the post-rebrand identity, and Texas is smart to leave it almost entirely alone.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2081849356722798803"></a></blockquote>
+</div>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Rangers wear the standard gray set with "TEXAS" arched across the chest in blue block lettering outlined in red and white — the same heritage-leaning wordmark from the 2020 rebrand — with player names on the back and the blue cap. The pants stay gray with the matching side stripe. It's the workmanlike default for most away games, the kind of clean, no-nonsense road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2083289206139330979"></a></blockquote>
+</div>
 
 ## Powder Blues (Sunday Home Games)
 
 The powder blue is the fan favorite, and it owns Sunday home games. It's built on the same template as the home white but swaps the base for a soft light blue, with the "Rangers" script and the trim rendered in red, plus a powder-blue cap with a darker brim. The throwback nods to the baby-blue road sets the Rangers wore through the late 1970s and 1980s, and it came back as part of the 2020 rebrand. Texas actually weighed running the reds on Fridays and reconsidered the Sunday slot, but kept the powder blue there because it tested as the more popular look with fans — and on a sunny Sunday at Globe Life Field, it's easy to see why.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2076428217087635491"></a></blockquote>
+</div>
+
 ## Royal-Blue Road Alternate (Manager's Choice, Mostly Road)
 
 The royal-blue alternate is the wild card. It's a bright royal-blue top carrying the same "TEXAS" wordmark as the road grays, worn with the standard gray road pants and the blue cap. There's no fixed day attached to it — it's the jersey the Rangers reach for when they want a jolt of color away from home, and they trot it out fairly often on the road across a full season rather than on any set schedule. It's the boldest everyday look in the closet, and the lack of a timetable is exactly what keeps it feeling like a little event whenever it turns up.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2082826225265881168"></a></blockquote>
+</div>
 
 ## City Connect — The "Tejas" Kit (Friday Home Games)
 
@@ -113,6 +129,10 @@ The newest piece, unveiled in April 2026, is a full reset of the program. Out go
 <div style="margin: 1.5em 0; text-align: center;">
 <img src="/images/posts/city-connect-2026-rangers/rangers-cc-front.jpg" alt="Texas Rangers 2026 Tejas City Connect jersey, deep red with white Tejas lettering and papel picado detailing" style="max-width: 560px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Texas Rangers</div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2080745438093943051"></a></blockquote>
 </div>
 
 ## How the Rangers Rotation Actually Works
