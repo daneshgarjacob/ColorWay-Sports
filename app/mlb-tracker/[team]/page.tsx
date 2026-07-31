@@ -52,8 +52,11 @@ export async function generateMetadata({
   const { team } = await params;
   const meta = teamMetaByKey(team);
   if (!meta) return {};
-  const title = `What Are the ${meta.name} Wearing Today? 2026 Uniform Tracker & Calendar`;
-  const description = `What are the ${meta.name} wearing today? Tonight's game and expected uniform, plus a day-by-day visual calendar of every jersey the ${meta.name} have worn in 2026, updated every morning.`;
+  // Title + description carry BOTH tenses on purpose: the highest-volume queries
+  // split between "what are they wearing today/tonight" and "what did they wear
+  // last night/yesterday", and we rank for neither if the page only says "today".
+  const title = `What Are the ${meta.name} Wearing Today? Last Night's Jersey & 2026 Uniform Tracker`;
+  const description = `What are the ${meta.name} wearing today, and what jersey did they wear last night? Tonight's expected uniform, yesterday's game, and a day-by-day calendar of every uniform the ${meta.name} have worn in 2026. Updated every morning.`;
   return {
     title,
     description,
@@ -83,6 +86,47 @@ export default async function TeamTrackerPage({
   const roadGames = entry.games.length - homeGames;
   const { long: updatedLong, iso: updatedIso } = etDate();
 
+  // games are newest-first, so [0] is the most recently logged game.
+  const lastGame = entry.games[0];
+  const topUniform = usage[0];
+
+  // Question-shaped FAQ, rendered visibly below AND as FAQPage schema, because
+  // schema-only answers get ignored. Every answer is pinned to the real logged
+  // date rather than asserting "last night" — the tracker is updated the morning
+  // after, so a hard "last night" claim would be wrong until Jake logs the slate.
+  const lastWorn = lastGame?.uniform
+    ? `the ${lastGame.uniform}`
+    : "a uniform we're still confirming";
+  const faq: Array<{ q: string; a: string }> = [];
+  if (lastGame) {
+    faq.push({
+      q: `What jersey did the ${entry.name} wear last night?`,
+      a: `In the most recent ${entry.name} game we have logged (${lastGame.day}, ${lastGame.opp}), they wore ${lastWorn}. We log every game the morning after it is played, so this updates daily.`,
+    });
+    faq.push({
+      q: `What uniform did the ${entry.name} wear yesterday?`,
+      a: `Our latest logged ${entry.name} game is ${lastGame.day} (${lastGame.opp}), when they wore ${lastWorn}. The day-by-day calendar on this page shows every jersey they have worn in 2026.`,
+    });
+  }
+  faq.push({
+    q: `What are the ${entry.name} wearing today?`,
+    a: `The ${entry.name}'s next game and expected uniform are at the top of this page, refreshed every morning based on their 2026 rotation, the opponent, and whether they are at home or on the road.`,
+  });
+  faq.push({
+    q: `What are the ${entry.name} wearing tonight?`,
+    a: `Tonight's expected ${entry.name} uniform is shown at the top of this page. If they are not playing tonight, we show their next scheduled game instead.`,
+  });
+  faq.push({
+    q: `What are the ${entry.name} wearing tomorrow?`,
+    a: `Uniform assignments are usually confirmed the day of the game. For what to expect, the ${entry.name} 2026 uniform schedule breaks down which jersey they wear on which day, at home and on the road.`,
+  });
+  if (entry.games.length > 0) {
+    faq.push({
+      q: `How many different uniforms have the ${entry.name} worn in 2026?`,
+      a: `The ${entry.name} have worn ${usage.length} different uniform${usage.length === 1 ? "" : "s"} across the ${entry.games.length} game${entry.games.length === 1 ? "" : "s"} we have logged this season${topUniform ? `. Their most-worn look is the ${topUniform.uniform}, in ${topUniform.total} game${topUniform.total === 1 ? "" : "s"}` : ""}.`,
+    });
+  }
+
   return (
     <>
       <Header />
@@ -97,6 +141,23 @@ export default async function TeamTrackerPage({
               url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
               dateModified: updatedIso,
               description: `The ${entry.name}'s uniform for today's game plus a day-by-day calendar of every jersey they have worn in 2026, updated every game.`,
+            }),
+          }}
+        />
+        {/* FAQPage schema — the play for "what did the <team> wear last night"
+            style searches, which is where People Also Ask and featured snippets
+            get served. Mirrors the visible FAQ section further down the page. */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: faq.map((f) => ({
+                "@type": "Question",
+                name: f.q,
+                acceptedAnswer: { "@type": "Answer", text: f.a },
+              })),
             }),
           }}
         />
@@ -120,12 +181,21 @@ export default async function TeamTrackerPage({
               </div>
             )}
             <h1 className="text-white text-[34px] sm:text-[44px] font-extrabold leading-[1.08] mt-3 mb-2">
-              {entry.name} Uniform Calendar
+              What Are the {entry.name} Wearing Today?
             </h1>
             <p className="text-white/80 text-[15px] max-w-[560px] m-0">
-              Every jersey the {entry.name} have worn in 2026, day by day. Tap any game to jump
-              straight to it in the tracker.
+              Tonight&rsquo;s expected uniform, what they wore last night, and every jersey the{" "}
+              {entry.name} have worn in 2026, day by day.
             </p>
+            {/* The direct answer to "what did they wear last night", above the
+                fold and labelled with the real date so it stays true. */}
+            {lastGame && (
+              <p className="text-white text-[14px] mt-3 mb-0">
+                <span className="font-bold">Last game</span>
+                <span className="text-white/70"> · {lastGame.day} {lastGame.opp} · </span>
+                <span className="font-bold">{lastGame.uniform || "uniform to be confirmed"}</span>
+              </p>
+            )}
             <p className="text-white/70 text-[12px] font-semibold mt-2 mb-0">
               Updated {updatedLong} · refreshed every game
             </p>
@@ -310,6 +380,25 @@ export default async function TeamTrackerPage({
             </section>
           </>
         )}
+
+        {/* Visible twin of the FAQPage schema above. Google discounts answers
+            that exist only in markup, so these have to render for real. */}
+        <section className="max-w-[860px] mx-auto px-5 pt-12">
+          <h2 className="text-[13px] font-extrabold uppercase tracking-[0.18em] text-blue-dark mb-1">
+            {entry.name} Uniform Questions
+          </h2>
+          <p className="text-[13px] text-black/45 mt-0 mb-4">
+            What they wore last night, what they&rsquo;re wearing today, and what to expect next.
+          </p>
+          <div className="border-t border-black/[0.08]">
+            {faq.map((f) => (
+              <div key={f.q} className="border-b border-black/[0.08] py-4">
+                <h3 className="text-[15px] font-extrabold text-blue-dark m-0 mb-1.5">{f.q}</h3>
+                <p className="text-[14px] leading-relaxed text-black/60 m-0">{f.a}</p>
+              </div>
+            ))}
+          </div>
+        </section>
 
         <section className="max-w-[860px] mx-auto px-5">
           <InlineNewsletter />
