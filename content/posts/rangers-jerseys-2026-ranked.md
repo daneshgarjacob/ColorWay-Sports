@@ -78,7 +78,7 @@ It grades a B+, and this is the one we genuinely enjoy. The soft blue base does 
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2083289206139330979"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2082826225265881168"></a></blockquote>
 </div>
 
 On the road, Texas wears the standard gray set with the "TEXAS" wordmark across the chest and the blue cap. It is the look the Rangers carry for most away games, and it is the quiet workhorse of the closet.
@@ -93,7 +93,7 @@ It grades an A-, and the pants are a big part of why. This is a uniform that wor
 </div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2082826225265881168"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2083289206139330979"></a></blockquote>
 </div>
 
 The royal blue alternate is the wild card and the best jersey Texas owns. It is a bright royal-blue top carrying the same "TEXAS" wordmark as the road grays, worn with standard gray road pants and the blue cap. There is no fixed day attached to it. It is the jersey the Rangers reach for when they want a jolt of color away from home, and it turns up fairly often across a full season without ever being scheduled.

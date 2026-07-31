@@ -103,7 +103,7 @@ The home white is the Rangers' bread and butter: a clean white jersey with "Rang
 On the road, the Rangers wear the standard gray set with "TEXAS" arched across the chest in blue block lettering outlined in red and white — the same heritage-leaning wordmark from the 2020 rebrand — with player names on the back and the blue cap. The pants stay gray with the matching side stripe. It's the workmanlike default for most away games, the kind of clean, no-nonsense road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2083289206139330979"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2082826225265881168"></a></blockquote>
 </div>
 
 ## Powder Blues (Sunday Home Games)
@@ -119,7 +119,7 @@ The powder blue is the fan favorite, and it owns Sunday home games. It's built o
 The royal-blue alternate is the wild card. It's a bright royal-blue top carrying the same "TEXAS" wordmark as the road grays, worn with the standard gray road pants and the blue cap. There's no fixed day attached to it — it's the jersey the Rangers reach for when they want a jolt of color away from home, and they trot it out fairly often on the road across a full season rather than on any set schedule. It's the boldest everyday look in the closet, and the lack of a timetable is exactly what keeps it feeling like a little event whenever it turns up.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2082826225265881168"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2083289206139330979"></a></blockquote>
 </div>
 
 ## City Connect — The "Tejas" Kit (Friday Home Games)
