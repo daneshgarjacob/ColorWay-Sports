@@ -8,6 +8,7 @@ excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, 
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
 logoSrc: "/logos/mlb.png"
+logoSrc2: "/logos/teams/mlb-atlanta-braves.png"
 league: "mlb"
 teams: ["atlanta-braves"]
 ---
