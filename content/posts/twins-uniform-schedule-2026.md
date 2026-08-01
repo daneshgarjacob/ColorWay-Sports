@@ -2,7 +2,7 @@
 title: "Minnesota Twins Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-07-31"
 excerpt: "The Minnesota Twins run five uniforms in 2026 — home whites, road pinstripe grays, the redesigned navy 'Twins' alternate, the cream 'Twin Cities' alternate, and the blue 'Ripple Effect' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
@@ -94,9 +94,17 @@ The Twins carry five uniforms in 2026, and the set is the same one they built ou
 
 The home white is Minnesota's signature look: a clean white jersey with the "Twins" script across the chest — the standalone "T" leading into a connected cursive "wins" with the underline tail, a design lineage that traces straight back to the 1987 World Series club. It's worn with the navy "TC" cap, the interlocking Twin Cities mark that has ridden along since the team came to Minnesota. This is the default for the bulk of every homestand, essentially any home game not handed to one of the alternates, and it is one of the cleanest, most timeless home looks in the American League. The Twins are smart to leave it almost entirely alone.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2081487987125211217"></a></blockquote>
+</div>
+
 ## Road Pinstripe Grays (Most Away Games)
 
 On the road, the Twins wear a gray set laced with navy pinstripes and "Minnesota" arched across the chest in navy, paired with the white "M" cap that carries the red North Star above the letter. For 2026 the team freshened the sleeve patch, swapping in a new mark built around the club's "MIN" abbreviation set in gray inside a navy baseball with silver stitching. It's the workmanlike default for most away games — more functional than iconic — but the pinstripes give it a quiet heritage nod, since plenty of Twins Hall of Famers wore them across their Minnesota careers.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2083329824639025457"></a></blockquote>
+</div>
 
 ## Navy Alternate (Manager's Choice, Mostly Road)
 
@@ -107,13 +115,25 @@ The navy alternate is the headline change for 2026. The base navy stayed, but th
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2080109850533441741"></a></blockquote>
+</div>
+
 ## Cream "Twin Cities" Alternate (Manager's Choice, Mostly Home)
 
 The cream alternate is the most civic-minded jersey in the closet. It revives a legacy cream base and stretches "Twin Cities" across the chest, with a crisscrossed flag-style mark pairing an "M" for Minneapolis and "StP" for St. Paul — a deliberate move to honor both halves of the metro rather than lean on one. It's worn with a navy "TC" cap rendered in cream lettering to match. Like the navy, it has no standing day on the calendar; it's a manager's-choice look that mostly shows up at home. It is arguably the best thing the 2023 rebrand produced, blending history, civic pride, and clean modern type into one cohesive package.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2081195186961465602"></a></blockquote>
+</div>
+
 ## City Connect — The "Ripple Effect" Kit (Friday Home Games)
 
 The City Connect, introduced in June 2024, is the most conceptually loaded jersey the Twins own. The base is a wash of blues run through with darker striations, a sublimated pattern meant to read as ripples spreading across the surface of a lake — the "Ripple Effect," leaning all the way into the Land of 10,000 Lakes identity. Instead of a chest wordmark it carries a white "MN" patch built around the North Star motif, claiming the whole state rather than just the Twin Cities. The cap is the showpiece: a yellow state silhouette framing glowing northern lights, with "10,000 Lakes" on one side and, under the brim, a purple-outlined topographic map of Lake Minnetonka as a nod to Prince. After debuting with blue pants, the team switched to white pants in 2025 to balance the design. It's the closest thing Minnesota has to a scheduled look — worn mostly on Friday home games — and it's a vivid, unmistakably local entry in the City Connect program.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2080759251354464461"></a></blockquote>
+</div>
 
 ## How the Twins Rotation Actually Works
 

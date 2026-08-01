@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-07-31"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,33 @@ The cream home is the Brewers' signature look and the one most fans picture: a w
 
 For what the Brewers have actually worn so far this season, day by day, see the [Brewers uniform calendar](/mlb-tracker/brewers).
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2079395502869602339"></a></blockquote>
+</div>
+
 ## White Pinstripe Home Alternate (Home Games)
 
 The white pinstripe is the cream home's running mate at American Family Field. It shares the same styling — "Brewers" across the chest in navy and gold, the ball-in-glove crest — but on a crisp white base laced with navy pinstripes. There's no fixed rule splitting it from the cream; the two simply rotate through the homestand by feel, and the pinstripes give the home schedule a second, slightly sharper look without changing the team's color story. It's the quiet workhorse of the home closet.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2081492781126611452"></a></blockquote>
+</div>
 
 ## Powder Blue Road (Most Away Games)
 
 This is the big one for 2026. The Brewers retired their traditional road grays and brought back powder blue as the primary road uniform — a direct revival of the look the franchise wore from 1970 into the mid-1980s. The new version features a powder blue base with "Milwaukee" arched across the chest in navy block lettering outlined in gold, with the numbers mirroring that navy-and-gold treatment, paired with the navy cap that carries a yellow front panel and the ball-in-glove crest. It's a nostalgia play executed cleanly, and it instantly becomes one of the most distinctive road looks in the National League. Powder blue is now the standard for most away games, the everyday road uniform that the grays used to be.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2083321073433563381"></a></blockquote>
+</div>
+
 ## Navy Alternate — The Ball-in-Glove Look (Sundays)
 
 The navy alternate is the closest thing the Brewers have to a hard rule. It's a navy jersey built around the franchise's heritage "ball-in-glove" logo — the famous "m" and "b" hidden inside a fielder's mitt — with gold accents, worn with the matching navy ball-in-glove cap. Since it joined the rotation, it's been the team's go-to Sunday uniform, and the Brewers wear it on Sundays both at home and on the road. Leaning the most heritage-forward jersey in the closet into a standing weekly slot is smart: the ball-in-glove is the soul of the brand, and giving it a guaranteed day each week keeps it in steady circulation.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2077083479725002840"></a></blockquote>
+</div>
 
 ## City Connect — The "Wisco" Kit (Friday Home Games)
 
@@ -113,6 +129,10 @@ The "Wisco Way" City Connect — its chest wordmark reading simply "Wisco" — w
 <div style="margin: 1.5em 0; text-align: center;">
 <img src="/images/posts/city-connect-2026-brewers/brewers-cc-hero.jpg" alt="Milwaukee Brewers 2026 Wisco Way City Connect jersey, blue with a gold Wisco script and the Wisconsin-W cap" style="max-width: 380px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Milwaukee Brewers</div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2081122563103641770"></a></blockquote>
 </div>
 
 ## What Happened to the Road Grays?
