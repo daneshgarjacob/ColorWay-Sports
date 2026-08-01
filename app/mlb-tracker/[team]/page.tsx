@@ -110,7 +110,7 @@ export default async function TeamTrackerPage({
   }
   faq.push({
     q: `What are the ${entry.name} wearing today?`,
-    a: `The ${entry.name}'s next game and expected uniform are at the top of this page, refreshed every morning based on their 2026 rotation, the opponent, and whether they are at home or on the road.`,
+    a: `The ${entry.name}${entry.name.endsWith("s") ? "'" : "'s"} next game and expected uniform are at the top of this page, refreshed every morning based on their 2026 rotation, the opponent, and whether they are at home or on the road.`,
   });
   faq.push({
     q: `What are the ${entry.name} wearing tonight?`,
