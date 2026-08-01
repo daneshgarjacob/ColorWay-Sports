@@ -140,7 +140,7 @@ export default async function TeamTrackerPage({
               name: `What Are the ${entry.name} Wearing Today?`,
               url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
               dateModified: updatedIso,
-              description: `The ${entry.name}'s uniform for today's game plus a day-by-day calendar of every jersey they have worn in 2026, updated every game.`,
+              description: `The ${entry.name}${entry.name.endsWith("s") ? "'" : "'s"} uniform for today's game plus a day-by-day calendar of every jersey they have worn in 2026, updated every game.`,
             }),
           }}
         />
