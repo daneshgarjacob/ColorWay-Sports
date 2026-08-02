@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 130%)"
 coverImage: "/images/posts/red-sox-jerseys-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams:
   - boston-red-sox

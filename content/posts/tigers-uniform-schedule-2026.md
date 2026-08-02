@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0C2340 0%, #FA4616 50%, #0C2340 100%)"
 coverImage: "/images/posts/tigers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-detroit-tigers.png"
 league: mlb
 teams:

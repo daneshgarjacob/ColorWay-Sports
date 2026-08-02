@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "The story that pinstripes were invented to make Babe Ruth look slimmer is a myth. Here is where baseball pinstripes actually came from, who wore them first, and why they stuck."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1c2a4a 55%, #C4CED4 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 cardStyle: words
 kicker: Explained
 league: mlb

@@ -5,7 +5,7 @@ date: "2026-07-22"
 updatedDate: "2026-07-22"
 excerpt: "A close look at the Phillies Field of Dreams jersey for August 13: the 1939 slanted script, the centennial sleeve patch, and how it stacks up against the rest of the closet."
 gradient: "linear-gradient(135deg, #E81828 0%, #8a8d8f 55%, #284898 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/phillies.png"
 cardStyle: words
 kicker: Field of Dreams

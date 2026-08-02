@@ -7,7 +7,7 @@ excerpt: "Rogers Centre opens its roof more than any park in MLB, but not until 
 gradient: "linear-gradient(135deg, #134A8E 0%, #1A1A1A 55%, #1D9BD7 100%)"
 league: "mlb"
 teams: ["toronto-blue-jays"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/blue-jays.png"
 cardStyle: words
 kicker: Roof Status

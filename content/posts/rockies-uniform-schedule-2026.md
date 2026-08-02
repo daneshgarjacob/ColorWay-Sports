@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-colorado-rockies.png"
 league: mlb
 teams:

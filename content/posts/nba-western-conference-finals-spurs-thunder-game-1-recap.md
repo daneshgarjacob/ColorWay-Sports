@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #007DC3 0%, #0A0A0A 50%, #BAC3C9 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "oklahoma-city-thunder"]
 bestRating: 10

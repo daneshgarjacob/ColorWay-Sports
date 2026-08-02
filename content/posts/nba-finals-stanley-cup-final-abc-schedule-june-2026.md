@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #000000 35%, #B4975A 70%, #CC0000
 coverImage: "/images/posts/nba-nhl-finals-abc-june-2026/abc-nba-finals-stanley-cup-final-june-2026-schedule.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs", "carolina-hurricanes", "vegas-golden-knights"]
 featuredOrder: 1

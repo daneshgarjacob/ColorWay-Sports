@@ -7,7 +7,7 @@ excerpt: "On a City Connect-heavy Friday, the Mets and Dodgers were the only tea
 gradient: "linear-gradient(135deg, #002D72 0%, #0a1a3a 55%, #FF5910 130%)"
 cardStyle: words
 kicker: MLB
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
 ---

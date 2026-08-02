@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every San Francisco Giants jersey and uniform for 2026, ranked and graded worst to first, from the D-graded black Gigantes alternate up to the classic cream home uniform."
 gradient: "linear-gradient(135deg, #FD5A1E 0%, #1d1d1d 50%, #000000 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-san-francisco-giants.png"
 cardStyle: words
 kicker: Ranked

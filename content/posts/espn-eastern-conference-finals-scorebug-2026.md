@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #1D428A 0%, #B0B7BC 100%)"
 coverImage: "/images/posts/espn-ecf-2026-presentation/full-scorebug-full-screen.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "cleveland-cavaliers"]
 bestRating: 10

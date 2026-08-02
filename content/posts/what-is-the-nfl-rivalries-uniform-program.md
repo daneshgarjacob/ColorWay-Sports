@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "Nike's NFL Rivalries program gives teams a special alternate uniform for one home game a year against a division rival. Here is how it works, who has one, and who is next in 2026."
 gradient: "linear-gradient(135deg, #013369 0%, #101820 55%, #D50A0A 130%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 cardStyle: words
 kicker: Explained
 league: nfl

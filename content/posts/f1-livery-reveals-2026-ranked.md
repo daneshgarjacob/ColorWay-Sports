@@ -4,7 +4,7 @@ category: "F1"
 date: "2026-03-23"
 excerpt: "New regulations, new cars, new liveries. We ranked all 11 teams from best to worst."
 gradient: "linear-gradient(135deg, #15151E 0%, #E10600 100%)"
-logoSrc: "/logos/f1.png"
+logoSrc: "/logos/leagues/racing-f1.png"
 league: "f1"
 teams: []
 ---

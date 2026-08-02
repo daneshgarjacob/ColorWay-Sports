@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0080C6 0%, #FFC20E 50%, #FF7900 130%)"
 coverImage: "/images/posts/chargers-bucs-uniforms-december-2026/bucs-creamsicle-portrait.jpg"
 coverImagePosition: "center 22%"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: nfl
 teams:
   - los-angeles-chargers

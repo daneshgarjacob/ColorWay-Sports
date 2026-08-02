@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every Baltimore Orioles jersey and uniform for 2026, ranked and graded worst to first, from the cream 'BMORE' City Connect up to the beloved cartoon-bird home whites."
 gradient: "linear-gradient(135deg, #DF4601 0%, #1d1d1d 50%, #000000 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-baltimore-orioles.png"
 cardStyle: words
 kicker: Ranked

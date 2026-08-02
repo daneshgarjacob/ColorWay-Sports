@@ -4,7 +4,7 @@ category: "NFL"
 date: "2026-03-30"
 excerpt: "The Houston Texans revealed their 25th anniversary logo ahead of the 2026 season. We break down the design and give it a grade."
 gradient: "linear-gradient(135deg, #03202f 0%, #a71930 100%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: []
 coverImage: "/images/posts/texans-25th-anniversary.jpg"

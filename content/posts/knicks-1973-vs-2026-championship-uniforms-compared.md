@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #F58426 0%, #1d1d1d 50%, #006BB6 100%)"
 coverImage: "/images/posts/knicks-1973-vs-2026-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1

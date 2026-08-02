@@ -7,7 +7,7 @@ excerpt: "Every special livery and helmet for the 2026 F1 Spa and Hungary double
 gradient: "linear-gradient(135deg, #E10600 0%, #1a0a0a 55%, #B0132A 130%)"
 cardStyle: words
 kicker: F1 Liveries
-logoSrc: "/logos/f1.png"
+logoSrc: "/logos/leagues/racing-f1.png"
 league: f1
 teams: []
 ---

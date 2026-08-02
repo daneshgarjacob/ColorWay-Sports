@@ -7,7 +7,7 @@ excerpt: "Is the American Family Field roof open or closed today? Live status in
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 league: "mlb"
 teams: ["milwaukee-brewers"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/brewers.png"
 cardStyle: words
 kicker: Roof Status

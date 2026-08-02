@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "Every Los Angeles Dodgers jersey and uniform for 2026, ranked and graded worst to first, from the City Connect up to the home whites we think are the best in baseball."
 gradient: "linear-gradient(135deg, #005A9C 0%, #12244a 55%, #EF3E42 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/dodgers.png"
 cardStyle: words
 kicker: Ranked

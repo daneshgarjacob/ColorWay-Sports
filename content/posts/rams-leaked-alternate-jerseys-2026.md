@@ -6,7 +6,7 @@ updatedDate: "2026-07-24"
 excerpt: "The Rams officially revealed two new alternate jerseys, Fearsome White and Classic Sol. We grade both, plus all five 2026 Rams uniforms in the rotation."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 kicker: Reveal
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/rams.png"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/cover-threaded-with-greatness.jpg"
 coverImagePosition: "center 32%"

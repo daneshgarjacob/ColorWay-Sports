@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-tampa-bay-rays.png"
 league: mlb
 teams:

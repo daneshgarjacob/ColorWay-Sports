@@ -7,7 +7,7 @@ excerpt: "LeBron James signed with the Philadelphia 76ers and will wear No. 23. 
 gradient: "linear-gradient(135deg, #006BB6 0%, #0a1a3a 55%, #ED174C 130%)"
 cardStyle: words
 kicker: NBA
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: nba
 teams: []
 ---

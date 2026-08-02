@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every Toronto Blue Jays jersey and uniform for 2026, ranked and graded worst to first, from the F-graded 'Night Mode' City Connect up to the powder blue and royal blue we love the most."
 gradient: "linear-gradient(135deg, #134A8E 0%, #1d1d1d 50%, #A5C8E4 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-toronto-blue-jays.png"
 cardStyle: words
 kicker: Ranked

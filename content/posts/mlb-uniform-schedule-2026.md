@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 coverImage: "/images/posts/mlb-uniform-schedule-2026-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: "mlb"
 teams: []
 topViewsRank: 3

@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #1A2B5C 0%, #BF0A30 50%, #1A2B5C 100%)"
 coverImage: "/images/posts/250-patches/HJu4msVXMAAlzSa.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs"]
 featuredOrder: 1

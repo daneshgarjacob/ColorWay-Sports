@@ -9,7 +9,7 @@ gradient: "linear-gradient(135deg, #115740 0%, #0d1f18 55%, #f5f5f5 130%)"
 coverImage: "/images/posts/nfl-alternate-tracker-2026/jets-white-out-reveal.jpg"
 coverImagePosition: "center 18%"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: ["new-york-jets"]
 ---

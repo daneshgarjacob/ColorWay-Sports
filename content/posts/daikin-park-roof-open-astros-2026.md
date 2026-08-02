@@ -7,7 +7,7 @@ excerpt: "Daikin Park roof closed for most Houston Astros home games. Live statu
 gradient: "linear-gradient(135deg, #002D62 0%, #1A1A1A 55%, #EB6E1F 100%)"
 league: "mlb"
 teams: ["houston-astros"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/astros.png"
 cardStyle: words
 kicker: Roof Status

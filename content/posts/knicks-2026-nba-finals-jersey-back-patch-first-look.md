@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 50%, #006BB6 100%)"
 coverImage: "/images/jerseys/nba/knicks-both-icon-blue-finals.png"
 coverImagePosition: "center center"
 coverImageFit: "contain"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1

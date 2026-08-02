@@ -6,7 +6,7 @@ excerpt: "The 2026 NBA Playoffs logo is the classic NBA wordmark used across cou
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #F58426 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/NBA-Playoffs-Logo.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

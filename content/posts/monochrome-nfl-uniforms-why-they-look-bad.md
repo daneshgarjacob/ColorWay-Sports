@@ -5,7 +5,7 @@ date: "2026-07-22"
 updatedDate: "2026-07-22"
 excerpt: "Head-to-toe one-color uniforms are the most common mistake in football design. The problem is not taste, it is the waistline, and one 2015 game proved it."
 gradient: "linear-gradient(135deg, #14223f 0%, #2f6bed 60%, #0080C6 130%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 cardStyle: words
 kicker: Opinion
 league: nfl

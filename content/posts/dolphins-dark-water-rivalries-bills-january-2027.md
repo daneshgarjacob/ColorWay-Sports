@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0b1a2b 0%, #008E97 55%, #FC4C02 130%)"
 coverImage: "/images/posts/dolphins-rivalries-2026/dolphins-rivalries-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: nfl
 teams:
   - miami-dolphins

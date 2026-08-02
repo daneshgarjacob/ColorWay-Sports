@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 50%, #000000 100%)"
 coverImage: "/images/posts/nba-playoffs-crowd-giveaway-2026/msg-knicks-finals-g4-new-york-forever-blue-shirts-white-towels.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns", "oklahoma-city-thunder"]
 featuredOrder: 1

@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #0A0A0A 50%, #F58426 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/conference-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "cleveland-cavaliers"]
 bestRating: 10

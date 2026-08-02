@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every St. Louis Cardinals jersey and uniform for 2026, ranked and graded worst to first, from the all-red City Connect up to the timeless birds-on-the-bat home white."
 gradient: "linear-gradient(135deg, #C41E3A 0%, #1d1d1d 50%, #0C2340 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/cardinals.png"
 cardStyle: words
 kicker: Ranked

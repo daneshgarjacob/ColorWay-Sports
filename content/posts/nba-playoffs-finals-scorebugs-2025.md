@@ -6,7 +6,7 @@ excerpt: "The NBA changed its scorebug every round of the 2025 playoffs. We rank
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/NBA-Finals-2015-scorebug-cover.jpg"
 coverImagePosition: "center center"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

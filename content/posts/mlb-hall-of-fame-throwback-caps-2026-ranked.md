@@ -7,7 +7,7 @@ excerpt: "We ranked all 30 MLB Hall of Fame Weekend throwback caps for 2026 and 
 gradient: "linear-gradient(135deg, #0C2340 0%, #1a1a2e 55%, #C8102E 130%)"
 cardStyle: words
 kicker: MLB
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
 ---

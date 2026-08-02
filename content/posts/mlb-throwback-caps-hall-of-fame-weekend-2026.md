@@ -7,7 +7,7 @@ excerpt: "Turned on a game and every MLB team is wearing an old-school cap? Here
 gradient: "linear-gradient(135deg, #041E42 0%, #0a1a3a 55%, #C8102E 130%)"
 cardStyle: words
 kicker: MLB
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
 ---

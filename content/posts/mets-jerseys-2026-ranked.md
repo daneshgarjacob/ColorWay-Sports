@@ -5,7 +5,7 @@ date: "2026-07-27"
 updatedDate: "2026-07-27"
 excerpt: "Every New York Mets jersey for 2026, ranked and graded. The timeless black alternate takes the crown, the home pinstripes sit right behind, and the City Connect finishes last."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a1a1a 55%, #FF5910 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-new-york-mets.png"
 cardStyle: words
 kicker: Ranked

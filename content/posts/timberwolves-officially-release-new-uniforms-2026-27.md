@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
 coverImage: "/images/posts/official-wolves-rebrand-2026/cover-image-wolves.jpg"
 coverImagePosition: "center top"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["minnesota-timberwolves"]
 featuredOrder: 1

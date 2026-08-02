@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-06-26"
 excerpt: "New Era's 2026 NBA Draft hats swap chrome for crystals, with a rhinestone team logo and a franchise chain pin on every cap. We graded all 30."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0b0b0b 50%, #C8102E 100%)"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 coverImage: "/images/posts/nba-draft-hats-2026/lakers.jpg"

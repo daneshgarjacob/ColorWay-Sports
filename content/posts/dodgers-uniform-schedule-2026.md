@@ -7,7 +7,7 @@ excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home white
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-los-angeles-dodgers.png"
 league: "mlb"
 teams: ["los-angeles-dodgers"]

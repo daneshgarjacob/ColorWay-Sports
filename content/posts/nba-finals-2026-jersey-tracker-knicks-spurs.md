@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/nba-finals-tracker-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs"]
 featuredOrder: 1

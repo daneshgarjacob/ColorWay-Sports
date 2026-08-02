@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "Every San Diego Padres jersey and uniform for 2026, ranked and graded worst to first. The military camo tribute is the best thing they own, and the hyped City Connect lands near the bottom."
 gradient: "linear-gradient(135deg, #2F241D 0%, #4a3626 55%, #FFC425 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/padres.png"
 cardStyle: words
 kicker: Ranked

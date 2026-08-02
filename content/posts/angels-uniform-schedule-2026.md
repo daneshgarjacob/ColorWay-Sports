@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-los-angeles-angels.png"
 league: mlb
 teams:

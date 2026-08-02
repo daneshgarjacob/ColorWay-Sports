@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #E81828 0%, #101528 55%, #284898 130%)"
 coverImage: "/images/posts/home-run-derby-2026/cover-derby-looks-ranked.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
 ---

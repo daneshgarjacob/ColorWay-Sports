@@ -6,7 +6,7 @@ updatedDate: "2026-07-29"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-san-francisco-49ers.png"
 league: "nfl"
 teams: ["san-francisco-49ers"]

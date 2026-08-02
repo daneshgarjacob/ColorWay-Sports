@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/fearsome-white-history-fearsome-foursome.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/rams.png"
 league: nfl
 teams: ["los-angeles-rams"]

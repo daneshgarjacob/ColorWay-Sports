@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #552583 0%, #006BB6 50%, #C4CED4 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks", "san-antonio-spurs", "los-angeles-lakers", "orlando-magic"]
 featuredOrder: 1

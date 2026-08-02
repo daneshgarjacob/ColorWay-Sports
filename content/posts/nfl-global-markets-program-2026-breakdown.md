@@ -4,7 +4,7 @@ category: "NFL"
 date: "2026-03-30"
 excerpt: "The NFL expanded its Global Markets Program for 2026, assigning 29 teams to 22 countries. We break down every assignment, rank the most global teams, and ask whether this approach actually works."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: []
 coverImage: "/images/posts/nfl-global-markets-2026.jpg"

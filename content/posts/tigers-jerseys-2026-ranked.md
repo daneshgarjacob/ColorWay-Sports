@@ -5,7 +5,7 @@ date: "2026-07-29"
 updatedDate: "2026-07-29"
 excerpt: "Every Detroit Tigers jersey, ranked worst to first, from the C-graded Motor City City Connect up to the historic new orange alternate, the first Tigers orange in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d1d1d 50%, #FA4616 120%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-detroit-tigers.png"
 cardStyle: words
 kicker: Ranked

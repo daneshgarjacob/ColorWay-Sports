@@ -6,7 +6,7 @@ excerpt: "The Lakers' 2026 Christmas jersey features a dark purple satin texture
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 coverImage: "/images/posts/nba-xmas-2026-lakers/lakers-xmas-cover.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["los-angeles-lakers"]
 ---

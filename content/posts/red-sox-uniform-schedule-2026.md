@@ -9,7 +9,7 @@ gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-boston-red-sox.png"
 league: mlb
 teams:

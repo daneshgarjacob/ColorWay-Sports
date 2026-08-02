@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #041E42 0%, #860038 50%, #0a0a0a 100%)"
 coverImage: "/images/posts/cavs-game-rules/HJCEePXWUAAqZCV.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["cleveland-cavaliers", "new-york-knicks"]
 featuredOrder: 1

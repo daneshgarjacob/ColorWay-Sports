@@ -5,7 +5,7 @@ date: "2026-04-28"
 updatedDate: "2026-05-01"
 excerpt: "Every 2026 F1 Miami GP special livery and helmet ranked. Cadillac Stars and Stripes, VCARB Summer Edition yellow, plus Miami helmet drops from Bottas, Leclerc, Sainz, Ocon, and Bortoleto."
 gradient: "linear-gradient(135deg, #FFE5F1 0%, #D6F0F0 100%)"
-logoSrc: "/logos/f1.png"
+logoSrc: "/logos/leagues/racing-f1.png"
 coverImage: "/images/posts/f1-miami-gp-2026/cadillac-miami-gp-5.avif"
 league: "f1"
 teams: []

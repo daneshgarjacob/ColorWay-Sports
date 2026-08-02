@@ -5,7 +5,7 @@ date: "2026-04-16"
 updatedDate: "2026-07-24"
 excerpt: "All five 2026 NFL uniform reveals are in. The Commanders earned our highest grade ever with an A. The Ravens dropped A-. The Titans earned B+. The Falcons B. The Rams B-. Here's every grade, date, and breakdown ranked."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 overlayText: "Uniform Update"
 league: "nfl"
 teams: ["tennessee-titans", "atlanta-falcons", "washington-commanders", "baltimore-ravens", "los-angeles-rams"]

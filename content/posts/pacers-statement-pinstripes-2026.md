@@ -7,7 +7,7 @@ updatedDate: "2026-07-30"
 excerpt: "The Pacers unveiled a gold, black-pinstriped Statement jersey reviving their iconic 1997 look, with 'Boom, Baby!' stitched at the hem. We grade the return of the pinstripes."
 gradient: "linear-gradient(135deg, #002D62 0%, #1d1d1d 55%, #FDBB30 130%)"
 kicker: NBA
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 logoSrc2: "/logos/teams/nba-indiana-pacers.png"
 coverImage: "/images/posts/pacers-statement-pinstripes-2026/cover.jpg"
 coverImagePosition: "center 4%"

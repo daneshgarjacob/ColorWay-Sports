@@ -5,7 +5,7 @@ date: "2026-07-21"
 updatedDate: "2026-07-21"
 excerpt: "The Chicago White Sox jerseys and uniforms they have actually worn in 2026, ranked and graded, from the red City Connect at the bottom to the black alternate at number one."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/white-sox.png"
 cardStyle: words
 kicker: Ranked

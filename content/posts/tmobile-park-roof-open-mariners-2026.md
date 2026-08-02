@@ -7,7 +7,7 @@ excerpt: "T-Mobile Park's roof is a rain umbrella, not a dome. Live status, how 
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1A1A1A 55%, #15A0A0 100%)"
 league: "mlb"
 teams: ["seattle-mariners"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/mariners.png"
 cardStyle: words
 kicker: Roof Status

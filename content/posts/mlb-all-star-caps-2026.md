@@ -7,7 +7,7 @@ excerpt: "New Era's 2026 MLB All-Star Game caps go tonal and patriotic for Phila
 gradient: "linear-gradient(135deg, #0A3161 0%, #141422 50%, #B31942 100%)"
 coverImage: "/images/posts/mlb-all-star-caps-2026/phillies-game.jpg"
 coverImagePosition: "center 45%"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: "mlb"
 teams: []
 homepageFeature: false

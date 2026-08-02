@@ -6,7 +6,7 @@ excerpt: "The Warriors' 2026 Christmas jersey features a Bay Bridge-inspired pat
 gradient: "linear-gradient(135deg, #1D428A 0%, #FFC72C 100%)"
 coverImage: "/images/posts/nba-xmas-2026-warriors/warriors-xmas-cover.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["golden-state-warriors"]
 ---
