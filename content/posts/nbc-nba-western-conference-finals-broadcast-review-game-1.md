@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #FCAF17 0%, #1A1A1A 50%, #003087 100%)"
 coverImage: "/images/posts/nbc-nba-western-conference-finals-broadcast-review-game-1/nbc-full-screen-wcf-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "oklahoma-city-thunder"]
 bestRating: 10

@@ -6,7 +6,7 @@ excerpt: "The Knicks' 2026 Christmas jersey is the lightest design in Nike's all
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 coverImage: "/images/posts/nba-xmas-2026-knicks/knicks-xmas-cover.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 ---

@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 50%, #1d1d1d 100%)"
 coverImage: "/images/posts/knicks-finals-gear/champions-gear-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1

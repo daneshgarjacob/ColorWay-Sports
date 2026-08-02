@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-11"
 excerpt: "We grabbed every local TV scorebug in the NBA for the 2026 season. All 30 teams ranked and organized by network. Almost half the league shares the same FanDuel template."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 coverImage: "/images/posts/nba-local-scorebugs-2026/LAL-SB.jpg"

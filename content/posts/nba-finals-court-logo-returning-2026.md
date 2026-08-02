@@ -6,7 +6,7 @@ excerpt: "The NBA will paint the Larry O'Brien Trophy at center court and The Fi
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #1D428A 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/2009-Finals-Lakers-Magic-Trophy-Court.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

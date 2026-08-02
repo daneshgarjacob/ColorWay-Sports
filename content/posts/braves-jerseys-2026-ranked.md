@@ -5,7 +5,7 @@ date: "2026-07-22"
 updatedDate: "2026-07-22"
 excerpt: "Every Atlanta Braves jersey and uniform for 2026, ranked and graded worst to first, plus the one alternate that has disappeared from the rotation."
 gradient: "linear-gradient(135deg, #8FBCE6 0%, #CE1141 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/braves.png"
 cardStyle: words
 kicker: Ranked

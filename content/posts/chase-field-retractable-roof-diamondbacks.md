@@ -7,7 +7,7 @@ excerpt: "Is the Chase Field roof open today? Live day-of status for the Diamond
 gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
 league: "mlb"
 teams: ["arizona-diamondbacks"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/dbacks.png"
 cardStyle: words
 kicker: Roof Status

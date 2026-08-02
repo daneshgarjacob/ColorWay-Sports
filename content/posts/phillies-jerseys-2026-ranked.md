@@ -5,7 +5,7 @@ date: "2026-07-21"
 updatedDate: "2026-07-21"
 excerpt: "All five Philadelphia Phillies jerseys and uniforms for 2026 ranked and graded, from the City Connect at the bottom to the cream alternates at number one."
 gradient: "linear-gradient(135deg, #E81828 0%, #284898 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/phillies.png"
 cardStyle: words
 kicker: Ranked

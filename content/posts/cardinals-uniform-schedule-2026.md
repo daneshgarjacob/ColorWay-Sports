@@ -9,7 +9,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #C41E3A 0%, #1d1d1d 50%, #0C2340 100%)'
 coverImage: /images/posts/cardinals-uniform-schedule-cover.jpg
 coverImagePosition: center center
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-st-louis-cardinals.png"
 league: mlb
 teams:

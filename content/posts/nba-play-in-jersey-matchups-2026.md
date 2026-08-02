@@ -6,7 +6,7 @@ excerpt: "We're tracking every home team jersey choice in the 2026 NBA Playoffs.
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 coverImage: "/images/posts/NBA-Playoffs-Jersey-Matchups/hornets-magic-play-in.jpg"
 coverImagePosition: "center 15%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

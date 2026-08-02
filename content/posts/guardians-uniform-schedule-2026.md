@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-cleveland-guardians.png"
 league: mlb
 teams:

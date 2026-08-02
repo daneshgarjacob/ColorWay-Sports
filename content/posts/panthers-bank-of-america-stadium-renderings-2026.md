@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "Carolina released fresh renderings of its $1.3 billion Bank of America Stadium renovation, headlined by a glowing crown over the Charlotte skyline, a 500-level social patio, and a completion target of 2030."
 gradient: "linear-gradient(135deg, #0085CA 0%, #101820 55%, #BFC0BF 130%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 cardStyle: words
 kicker: Stadium
 league: nfl

@@ -4,7 +4,7 @@ category: "F1"
 date: "2026-03-26"
 excerpt: "Three teams have dropped special liveries for the 2026 Japanese Grand Prix at Suzuka. We rank them all and pick a favorite."
 gradient: "linear-gradient(135deg, #E10600 0%, #1E1E1E 50%, #E10600 100%)"
-logoSrc: "/logos/f1.png"
+logoSrc: "/logos/leagues/racing-f1.png"
 coverImage: "/images/posts/mercedes-japan-gp-1.avif"
 league: "f1"
 teams: []

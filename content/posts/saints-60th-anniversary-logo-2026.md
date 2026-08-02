@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #000000 0%, #9F8958 50%, #000000 100%)"
 coverImage: "/images/posts/saints-60-year-logo/HJvhSUUW4AAg1K0.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: ["new-orleans-saints"]
 featuredOrder: 1

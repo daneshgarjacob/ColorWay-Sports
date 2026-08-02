@@ -6,7 +6,7 @@ excerpt: "The Pistons' 2026 Christmas jersey features Motor City flames and turq
 gradient: "linear-gradient(135deg, #C8102E 0%, #006BB6 50%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-pistons/pistons-xmas-hero.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["detroit-pistons"]
 ---

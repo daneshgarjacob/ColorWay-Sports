@@ -6,7 +6,7 @@ excerpt: "We graded all 18 NBA playoff courts used in Round 1 of the 2026 NBA Pl
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 50%, #ec0089 100%)"
 coverImage: "/images/courts/nba/spurs-courtside-logo.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 bestRating: 10

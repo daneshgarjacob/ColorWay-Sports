@@ -6,7 +6,7 @@ excerpt: "We graded the three 2026 NBA Playoffs broadcast scorebugs from ABC/ESP
 gradient: "#0a0a0a"
 coverImage: "/images/posts/nba-playoffs-scorebug-ranked-2026/abc-full-screen.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 bestRating: 10

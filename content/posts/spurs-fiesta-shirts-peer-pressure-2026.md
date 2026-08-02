@@ -6,7 +6,7 @@ excerpt: "The San Antonio Spurs put a Fiesta-themed playoff shirt on every seat 
 gradient: "linear-gradient(135deg, #ec0089 0%, #f7a800 50%, #00b2a9 100%)"
 coverImage: "/images/posts/spurs-fiesta-shirts-peer-pressure-2026/spurs-fiesta-arena-wide.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs"]
 topViewsRank: 13

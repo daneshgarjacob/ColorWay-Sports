@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every Chicago Cubs jersey and uniform for 2026, ranked and graded worst to first, from the road grays up to the timeless Wrigley home pinstripes we love the most."
 gradient: "linear-gradient(135deg, #0E3386 0%, #1d1d1d 50%, #CC3433 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-chicago-cubs.png"
 cardStyle: words
 kicker: Ranked

@@ -9,7 +9,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #DF4601 0%, #1d1d1d 50%, #000000 100%)'
 coverImage: /images/posts/orioles-uniform-schedule-cover.jpg
 coverImagePosition: center center
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-baltimore-orioles.png"
 league: mlb
 teams:

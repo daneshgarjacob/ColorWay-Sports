@@ -6,7 +6,7 @@ excerpt: "The Kings' 2026 Christmas jersey features a purple Light the Beam-insp
 gradient: "linear-gradient(135deg, #5A2D81 0%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["sacramento-kings"]
 ---

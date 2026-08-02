@@ -7,7 +7,7 @@ excerpt: "loanDepot Park has the least-open roof in MLB. Live status, why it sta
 gradient: "linear-gradient(135deg, #0077C8 0%, #111111 55%, #EF3340 100%)"
 league: "mlb"
 teams: ["miami-marlins"]
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/marlins.png"
 cardStyle: words
 kicker: Roof Status

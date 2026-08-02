@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #000000 0%, #C4CED4 50%, #000000 100%)"
 coverImage: "/images/posts/nba-finals-patch-/spurs-finals-back-patch-on-jersey.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "new-york-knicks"]
 featuredOrder: 1

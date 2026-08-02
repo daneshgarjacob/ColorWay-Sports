@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 35%, #000000 70%, #C4CED4
 coverImage: "/images/posts/google-nba-finals/google-search-bar-spurs-knicks-colors.jpg"
 coverImagePosition: "center center"
 coverImageFit: "contain"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "new-york-knicks"]
 featuredOrder: 1

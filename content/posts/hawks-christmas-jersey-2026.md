@@ -6,7 +6,7 @@ excerpt: "The Hawks' 2026 Christmas jersey uses blue and green brushstroke patte
 gradient: "linear-gradient(135deg, #E03A3E 0%, #26282A 100%)"
 coverImage: "/images/posts/nba-xmas-2026-hawks/hawks-xmas-cover.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["atlanta-hawks"]
 ---

@@ -9,7 +9,7 @@ gradient: "linear-gradient(135deg, #efe1c1 0%, #16233f 130%)"
 coverImage: "/images/posts/field-of-dreams-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
 ---

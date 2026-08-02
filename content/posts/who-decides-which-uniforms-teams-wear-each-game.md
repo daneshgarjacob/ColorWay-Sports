@@ -6,7 +6,7 @@ excerpt: "Who decides which jersey teams wear each game? We break down the proce
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #0a0a1a 100%)"
 coverImage: "/images/jerseys/nba/lakers-hero-image.jpg"
 coverImagePosition: "center 63%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

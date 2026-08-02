@@ -6,7 +6,7 @@ excerpt: "The 76ers' 2026 Christmas jersey wraps glowing neon-red stars around t
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 100%)"
 coverImage: "/images/posts/nba-xmas-2026-sixers/sixers-xmas-cover.jpg"
 coverImagePosition: "center 10%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["philadelphia-76ers"]
 ---

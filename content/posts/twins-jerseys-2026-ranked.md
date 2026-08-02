@@ -5,7 +5,7 @@ date: "2026-07-31"
 updatedDate: "2026-07-31"
 excerpt: "Every Minnesota Twins jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Ripple Effect City Connect up to the classic home whites."
 gradient: "linear-gradient(135deg, #002B5C 0%, #0a1f3c 50%, #D31145 120%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-minnesota-twins.png"
 cardStyle: words
 kicker: Ranked

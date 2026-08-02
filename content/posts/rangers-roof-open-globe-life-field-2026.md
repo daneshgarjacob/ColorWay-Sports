@@ -13,7 +13,7 @@ league: mlb
 teams:
   - texas-rangers
 topViewsRank: 10
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/rangers.png"
 cardStyle: words
 kicker: Roof Status

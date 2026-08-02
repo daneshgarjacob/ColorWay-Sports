@@ -7,7 +7,7 @@ excerpt: "Why do the Pirates keep wearing black when Paul Skenes pitches? The an
 gradient: "linear-gradient(135deg, #27251F 0%, #0d0d10 55%, #FDB827 130%)"
 cardStyle: words
 kicker: Explained
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/pirates.svg"
 league: mlb
 teams: []

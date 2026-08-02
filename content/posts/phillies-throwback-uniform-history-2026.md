@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #E81828 0%, #284898 130%)"
 coverImage: "/images/posts/phillies-throwbacks/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams:
   - philadelphia-phillies

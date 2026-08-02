@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #284898 0%, #0b2d1a 55%, #E81828 130%)"
 coverImage: "/images/posts/field-of-dreams-game-2026/buxton-harper-uniforms.jpg"
 coverImagePosition: "center 12%"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams:
   - philadelphia-phillies

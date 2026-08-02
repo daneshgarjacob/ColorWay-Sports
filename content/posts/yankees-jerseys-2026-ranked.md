@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "Every New York Yankees jersey and uniform for 2026, ranked and graded. The home pinstripes, the road grays, and the first designated alternate in franchise history the Yankees refuse to actually wear."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1c2a4a 55%, #8a8d8f 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-new-york-yankees.png"
 cardStyle: words
 kicker: Ranked

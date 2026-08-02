@@ -4,7 +4,7 @@ category: "NBA"
 date: "2026-04-13"
 excerpt: "The complete 2026 NBA Playoffs TV schedule with every game time, channel, and network. ESPN, ABC, NBC, Peacock, and Amazon Prime Video all have games. Here is where to watch every first-round matchup and what channel each game is on."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 coverImage: "/images/posts/nba-playoffs-2026/Inside-the-NBA-ESPN-crew.jpg"

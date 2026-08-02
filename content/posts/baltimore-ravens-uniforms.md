@@ -6,7 +6,7 @@ excerpt: "Every Baltimore Ravens uniform from 1996 through The Next Flight 2026 
 gradient: "linear-gradient(135deg, #241773 0%, #000000 50%, #9E7C0C 100%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
 coverImagePosition: "center 60%"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: ["baltimore-ravens"]
 ---

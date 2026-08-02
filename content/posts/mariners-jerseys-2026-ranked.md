@@ -5,7 +5,7 @@ date: "2026-07-29"
 updatedDate: "2026-07-29"
 excerpt: "Every Seattle Mariners jersey and uniform for 2026, ranked and graded worst to first, from the workhorse road navy up to the beloved Northwest green alternate."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1d1d1d 50%, #005C5C 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-seattle-mariners.png"
 cardStyle: words
 kicker: Ranked

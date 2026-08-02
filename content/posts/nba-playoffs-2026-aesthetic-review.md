@@ -6,7 +6,7 @@ excerpt: "The NBA Play-In Tournament stanchion gets branded. The First Round, Se
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
 coverImage: "/images/posts/nba-playoffs-2026-aesthetic-review/backboard-2026-no-logo-1.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

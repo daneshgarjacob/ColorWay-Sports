@@ -5,7 +5,7 @@ date: "2026-07-31"
 updatedDate: "2026-07-31"
 excerpt: "Every Texas Rangers jersey and uniform for 2026, ranked worst to first and graded, from the B- home whites up to the royal blue road alternate."
 gradient: "linear-gradient(135deg, #003278 0%, #0a2f6b 50%, #C0111F 120%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-texas-rangers.png"
 cardStyle: words
 kicker: Ranked

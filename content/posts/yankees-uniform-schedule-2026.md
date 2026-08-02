@@ -7,7 +7,7 @@ excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
 coverImagePosition: "center 50%"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-new-york-yankees.png"
 league: "mlb"
 teams: ["new-york-yankees"]

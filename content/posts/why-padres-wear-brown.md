@@ -5,7 +5,7 @@ date: "2026-07-23"
 updatedDate: "2026-07-23"
 excerpt: "The Padres have worn brown since their very first game in 1969, lost it for a generation, and brought it back full-time in 2020. Here is why brown is San Diego's whole identity."
 gradient: "linear-gradient(135deg, #2F241D 0%, #4a3626 55%, #FFC425 130%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/padres.png"
 cardStyle: words
 kicker: Explained

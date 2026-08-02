@@ -6,7 +6,7 @@ excerpt: "The Celtics' 2026 Christmas jersey uses neon green on a black base and
 gradient: "linear-gradient(135deg, #007A33 0%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-xmas-hero.jpg"
 coverImagePosition: "center 40%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["boston-celtics"]
 ---

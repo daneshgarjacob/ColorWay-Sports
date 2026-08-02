@@ -6,7 +6,7 @@ excerpt: "The Blazers beat the Suns 114-110 in the second Play-In game on Amazon
 gradient: "linear-gradient(135deg, #E03A3E 0%, #1D1160 50%, #E56020 100%)"
 coverImage: "/images/posts/nba-play-in-game-2-2026/Suns-Cover.jpg"
 coverImagePosition: "center 100%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["portland-trail-blazers", "phoenix-suns"]
 ---

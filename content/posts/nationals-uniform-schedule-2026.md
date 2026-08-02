@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
 coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-washington-nationals.png"
 league: mlb
 teams:

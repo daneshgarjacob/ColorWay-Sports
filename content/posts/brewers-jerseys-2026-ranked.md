@@ -5,7 +5,7 @@ date: "2026-07-31"
 updatedDate: "2026-07-31"
 excerpt: "Every Milwaukee Brewers jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Wisco City Connect up to the excellent powder blue road set."
 gradient: "linear-gradient(135deg, #12284B 0%, #1a3a63 50%, #FFC52F 120%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-milwaukee-brewers.png"
 cardStyle: words
 kicker: Ranked

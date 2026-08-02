@@ -6,7 +6,7 @@ excerpt: "Amazon Prime Video just aired the first game of the 2026 NBA postseaso
 gradient: "linear-gradient(135deg, #1D428A 0%, #00788C 50%, #98002E 100%)"
 coverImage: "/images/posts/nba-playoffs-2026/heat-hornets-basket.pmg.jpg"
 coverImagePosition: "center 60%"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 ---

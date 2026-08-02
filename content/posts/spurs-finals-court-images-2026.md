@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #C4CED4 0%, #000000 50%, #D4A017 100%)"
 coverImage: "/images/posts/spurs-finals-court-images-2026/HJvmtR_WkAANr_3.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs"]
 featuredOrder: 1

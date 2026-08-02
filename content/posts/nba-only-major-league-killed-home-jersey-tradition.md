@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #1D428A 0%, #0A0A0A 50%, #C8102E 100%)"
 coverImage: "/images/posts/nba-only-major-league-killed-home-jersey-tradition/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 featuredOrder: 2

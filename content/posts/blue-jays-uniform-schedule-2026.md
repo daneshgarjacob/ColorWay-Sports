@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-toronto-blue-jays.png"
 league: mlb
 teams:

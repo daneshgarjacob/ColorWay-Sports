@@ -5,7 +5,7 @@ date: "2026-07-28"
 updatedDate: "2026-07-28"
 excerpt: "Every Houston Astros jersey and uniform for 2026, ranked and graded worst to first, from the navy alternate up to the white 'Stros' City Connect and the classic Houston orange."
 gradient: "linear-gradient(135deg, #002D62 0%, #1d1d1d 50%, #EB6E1F 100%)"
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-houston-astros.png"
 cardStyle: words
 kicker: Ranked

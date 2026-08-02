@@ -12,7 +12,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #FF1493 0%, #00A3A3 50%, #000000 100%)'
 coverImage: /images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg
 coverImagePosition: center 5%
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-miami-marlins.png"
 league: mlb
 teams:

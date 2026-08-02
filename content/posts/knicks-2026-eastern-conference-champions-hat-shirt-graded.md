@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #1d1d1d 0%, #F58426 50%, #006BB6 100%)"
 coverImage: "/images/posts/knicks-finals-gear/knicks-2026-nba-finals-locker-room-hat.png"
 coverImagePosition: "center center"
 coverImageFit: "contain"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["new-york-knicks"]
 featuredOrder: 1

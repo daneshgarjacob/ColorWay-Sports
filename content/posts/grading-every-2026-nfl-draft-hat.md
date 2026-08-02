@@ -4,7 +4,7 @@ category: "NFL"
 date: "2026-04-16"
 excerpt: "New Era dropped the 2026 NFL Draft hats for all 32 teams. We graded every single one, including the hidden interior designs. The Rams hat finally dropped with the new logo reveal."
 gradient: "linear-gradient(135deg, #013369 0%, #d50a0a 100%)"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: []
 coverImage: "/images/posts/nfl-draft-hats-2026/cowboys-inside.jpg"

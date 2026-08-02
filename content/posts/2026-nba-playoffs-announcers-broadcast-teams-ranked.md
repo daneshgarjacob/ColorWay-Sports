@@ -5,7 +5,7 @@ date: "2026-04-13"
 updatedDate: "2026-06-26"
 excerpt: "Mike Breen, Richard Jefferson, and Tim Legler call the 2026 NBA Finals for ESPN on ABC. Full rankings of every NBA Playoff broadcast crew across ESPN, NBC, and Amazon Prime including the studio teams."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 100%)"
-logoSrc: "/logos/nba.png"
+logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: []
 coverImage: "/images/posts/nba-playoffs-2026/ESPN-Finals-OG-Broadcast.jpg"

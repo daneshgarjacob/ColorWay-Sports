@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-logoSrc: "/logos/nfl.png"
+logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-washington-commanders.png"
 league: nfl
 teams: ["washington-commanders"]

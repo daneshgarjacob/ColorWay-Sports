@@ -9,7 +9,7 @@ excerpt: >-
 gradient: 'linear-gradient(135deg, #2F241D 0%, #1d1d1d 50%, #FFC425 100%)'
 coverImage: /images/posts/padres-uniform-schedule-cover.jpg
 coverImagePosition: center center
-logoSrc: "/logos/mlb.png"
+logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-san-diego-padres.png"
 league: mlb
 teams:
