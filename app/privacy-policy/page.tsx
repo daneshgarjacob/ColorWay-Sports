@@ -23,7 +23,7 @@ export default function PrivacyPolicyPage() {
             Privacy <span className="text-orange">Policy</span>
           </h1>
           <p className="text-lg text-gray-medium max-w-[600px] mx-auto leading-relaxed">
-            Last updated: April 3, 2026
+            Last updated: August 3, 2026
           </p>
         </div>
 
@@ -111,22 +111,41 @@ export default function PrivacyPolicyPage() {
                 </a>
               </li>
               <li>
+                <strong>Fanatics:</strong> We participate in the Fanatics affiliate program.
+                Links to jerseys and other merchandise may contain affiliate tracking codes.{" "}
+                <a
+                  href="https://www.fanatics.com/privacy-policy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Fanatics&apos; Privacy Policy
+                </a>
+              </li>
+              <li>
+                <strong>Fubo:</strong> We participate in the Fubo affiliate program. Links to
+                streaming subscriptions may contain affiliate tracking codes.{" "}
+                <a
+                  href="https://legal.fubo.tv/policies/en-US/?name=privacy-policy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Fubo&apos;s Privacy Policy
+                </a>
+              </li>
+              <li>
                 <strong>Amazon Associates:</strong> We participate in the Amazon Associates
                 Program, an affiliate advertising program. Links to Amazon products may contain
                 affiliate tracking codes.
               </li>
               <li>
-                <strong>Google AdSense:</strong> We may display ads through Google AdSense,
-                which uses cookies to serve ads based on your visits to this and other websites.
-                You can opt out of personalized advertising by visiting{" "}
-                <a
-                  href="https://www.google.com/settings/ads"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-orange hover:underline"
-                >
-                  Google Ads Settings
-                </a>.
+                <strong>Advertising:</strong> ColorWay Sports does not currently serve
+                third-party display advertising, and we do not use Google AdSense. Our revenue
+                comes from the affiliate relationships listed above. If we begin working with an
+                advertising partner, we will update this policy before any advertising cookies
+                are set, and you will be able to manage your preferences through the consent
+                tool we provide at that time.
               </li>
             </ul>
           </section>
