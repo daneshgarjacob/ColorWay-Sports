@@ -2,7 +2,7 @@
 title: "MLB Uniform Schedule 2026: What Every Team Wears and When (All 30 Teams)"
 category: "MLB"
 date: "2026-07-06"
-updatedDate: "2026-07-06"
+updatedDate: "2026-08-03"
 excerpt: "The full 2026 MLB uniform guide: how many jerseys all 30 teams have, which days they wear each one, and the four clubs that run a true schedule."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 coverImage: "/images/posts/mlb-uniform-schedule-2026-cover.jpg"
@@ -237,7 +237,7 @@ Before the team-by-team tables, it helps to know that every club falls into one 
 </div>
 <div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
 <a href="/stories/giants-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">San Francisco Giants</a>
-<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
+<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
 <span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
 <span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Orange Fridays and a new "Gigantes" heritage alternate</span>
 </div>
@@ -262,7 +262,7 @@ Start with three questions: is the team home or away, is it a day game or a nigh
 Four: the Philadelphia Phillies, Miami Marlins, St. Louis Cardinals, and New York Yankees. For these clubs, the day of the week reliably tells you the jersey. Every other team locks one or two anchor days, most often a City Connect Friday, and leaves the remaining games to the club's discretion.
 
 **How many uniforms does each MLB team have in 2026?**
-Most teams carry five distinct looks in 2026. The deepest closets belong to the Orioles, Blue Jays, Padres, and Giants at six, while the leanest are the Yankees and Angels at three and a small group of four-jersey clubs like the Dodgers, Cubs, Rockies, Pirates, and Athletics. The counts include home, road, alternates, City Connects, and any throwback in the regular rotation.
+Most teams carry five distinct looks in 2026. The deepest closets belong to the Orioles, Blue Jays, and Padres at six, while the leanest are the Yankees and Angels at three and a small group of four-jersey clubs like the Dodgers, Cubs, Rockies, Pirates, and Athletics. The counts include home, road, alternates, City Connects, and any throwback in the regular rotation.
 
 **What day do MLB teams wear City Connect jerseys?**
 There is no league-wide rule, but Friday night home games are the most common City Connect slot in 2026. Teams like the Guardians, Tigers, Royals, Rangers, and Braves all lock their City Connect to Fridays. A few break the pattern, such as the Astros wearing their "Stros" City Connect on Monday home games.

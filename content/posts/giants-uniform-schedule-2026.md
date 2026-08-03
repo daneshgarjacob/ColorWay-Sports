@@ -2,9 +2,9 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-03"
 excerpt: >-
-  The Giants have six uniforms in 2026, including the new Gigantes alternate. We
+  The Giants have five uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
 gradient: 'linear-gradient(135deg, #FD5A1E 0%, #1d1d1d 50%, #000000 100%)'
 coverImage: /images/posts/giants-uniform-schedule-cover.jpg
@@ -17,7 +17,9 @@ teams:
 ---
 
 
-The Giants carry six uniforms in 2026, and the closet got a real shake-up this year. The big news is the new Gigantes alternate, a black-and-orange jersey with cream pants that honors the franchise's Latino heritage. It joins a rotation that already had a clear backbone at Oracle Park: certain themed jerseys are tied to specific home days. If you know the day of the week, you can usually guess the look. We walk through every jersey below and lay out when each one comes out.
+The Giants carry five uniforms in 2026, and the closet got a real shake-up this year. The big news is the new Gigantes alternate, a black-and-orange jersey with cream pants that honors the franchise's Latino heritage. It joins a rotation that already had a clear backbone at Oracle Park: certain themed jerseys are tied to specific home days. If you know the day of the week, you can usually guess the look. We walk through every jersey below and lay out when each one comes out.
+
+One thing to clear up first, because it trips up almost everyone, including plenty of Giants fans: **San Francisco does not have a plain white home jersey.** Their home uniform is cream. In bright Oracle Park daylight the cream reads white on camera, which is why you will see it described both ways, but it is one jersey, not two. The only true-white top the Giants own is the City Connect.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -50,9 +52,9 @@ A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-t
     <div style="padding: 0.6em 0.3em;">Sun</div>
   </div>
   <div style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center;">
-    <div style="padding: 1.2em 0.3em; background: #f7f7f2; color: #333;">
-      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚪</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+    <div style="padding: 1.2em 0.3em; background: #F5F0E1; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Cream</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #1a1a2e; color: #fff;">
@@ -60,14 +62,14 @@ A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-t
       <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
       <div style="font-size: 0.65em; color: rgba(255,255,255,0.7); margin-top: 0.3em;">Tuesday</div>
     </div>
-    <div style="padding: 1.2em 0.3em; background: #f7f7f2; color: #333;">
-      <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚪</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
+    <div style="padding: 1.2em 0.3em; background: #F5F0E1; color: #333;">
+      <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌾</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Cream</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #F5F0E1; color: #333;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌾</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Cream</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Cream</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #FD5A1E; color: #fff;">
@@ -82,33 +84,29 @@ A schedule is a forecast. Our [MLB daily uniform tracker](/stories/mlb-uniform-t
     </div>
     <div style="padding: 1.2em 0.3em; background: #F5F0E1; color: #333;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🌾</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Cream</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Cream</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home Day</div>
     </div>
   </div>
 </div>
 
-That is a representative home week. The three home themed-days do the heavy lifting: Tuesday is the City Connect, Friday is the Orange jersey, and Saturday is the new Gigantes alternate. The home white and cream fill the rest of the home dates. On the road, the Giants wear gray, and the themed days do not travel, so they are home only.
+That is a representative home week. The three home themed-days do the heavy lifting: Tuesday is the City Connect, Friday is the Orange jersey, and Saturday is the new Gigantes alternate. The home cream fills every remaining home date. On the road, the Giants wear gray, and the themed days do not travel, so they are home only.
 
-All six uniforms now carry the Airwallex advertisement patch on the jersey, which is new for 2026 and replaced the Chevrolet/Cruise patch the Giants had worn previously. Here is how the full rotation breaks down.
+All five uniforms now carry the Airwallex advertisement patch on the jersey, which is new for 2026 and replaced the Chevrolet/Cruise patch the Giants had worn previously. Here is how the full rotation breaks down.
 
-## Home White
+## Home Cream (The Giants' Home White)
 
-The home white is the Giants' primary uniform at Oracle Park. It carries the black-and-orange "Giants" script across the chest and pairs with the black cap and its orange interlocking SF. It is the look most fans picture for a standard home game.
+This is the one that causes the confusion, so we will be direct about it: the cream jersey is the Giants' home white. It is not a throwback, it is not an alternate, and there is no second white version sitting next to it in the closet. Every home game that a themed day does not claim, this is the jersey.
 
-There is nothing fancy here, and that is the point. This set is the anchor of the rotation, the baseline that the themed jerseys play off of. The Giants wear it for home games that are not claimed by one of the themed days, and it is the safe, classic San Francisco look that never goes out of style.
+It carries the black-and-orange "Giants" script across the chest and pairs with the black cap and its orange interlocking SF. The base is a warm off-white that looks unmistakably cream in the shade or under the lights, and washes out to something very close to true white in direct Oracle Park sun. That is the whole reason people describe it two different ways, and why you will find listings and even some team coverage splitting it into a "home white" and a "cream alternate." There is only one jersey.
+
+There is nothing fancy about it, and that is the point. It is the anchor of the rotation, the baseline the themed jerseys play off of, and one of the better daytime looks in the National League when the cream really catches the sun. If you want the tell for a game photo: the "Giants" wordmark means the cream home, and the orange gradient "G" means the City Connect, which is the only genuinely white top they own.
 
 ## Road Gray
 
 The road gray uniform reads "San Francisco" across the chest and is exactly what you would expect on the road. Clean, traditional, and built to let the home team's colors be the star.
 
 The Giants wear this jersey for away games. The themed home days do not travel with the team, so on the road it is gray almost every time. It is a simple set that does its job and stays out of the way.
-
-## Cream Alternate
-
-The cream alternate is the Giants' traditional home throwback look, an off-white jersey that leans into the franchise's deep history. Under natural daylight at Oracle Park, the cream fabric reads completely different from the bright home white, with a warmer vintage tone.
-
-This is one of the better day-game looks in the National League. The Giants use it to fill home dates that the themed jerseys do not claim, and it tends to show up most for daytime games where the cream really catches the sun. Day-versus-night and cream-versus-white choices here are discretionary, so the exact day can vary, but the cream is a regular part of the home mix.
 
 ## Orange Alternate (Orange Friday)
 
@@ -144,9 +142,9 @@ Every Giants jersey in 2026 carries the Airwallex advertisement patch on the sle
 
 The Giants run a partial themed-day system at home, and it gives the week some structure. Tuesday means the City Connect, Friday means the Orange jersey, and Saturday means Gigantes. Those three days are locked in, they are home only, and they give fans something to plan around.
 
-The rest of the schedule is more flexible. The home white and the cream alternate split the remaining home dates, and the choice between them, along with day-versus-night calls, is discretionary. On the road, it is gray. So while San Francisco is not as rigidly scheduled top to bottom as a team like the Phillies, the parts that are locked in are some of the best themed days in the sport. Orange Friday is a genuine tradition, the music City Connect has a real sense of place, and the new Gigantes set gives Saturday its own identity.
+The rest is simple, and simpler than most people assume. Every home date the themed days do not claim goes to the cream, and on the road it is gray. There is no home white to alternate with, so there is no coin flip to call. So while San Francisco is not as rigidly scheduled top to bottom as a team like the Phillies, the parts that are locked in are some of the best themed days in the sport. Orange Friday is a genuine tradition, the music City Connect has a real sense of place, and the new Gigantes set gives Saturday its own identity.
 
-Six uniforms, three standing themed days, and a closet that finally has a fresh piece in the Gigantes alternate. It is a strong year for the look of this team.
+Five uniforms, three standing themed days, and a closet that finally has a fresh piece in the Gigantes alternate. It is a strong year for the look of this team.
 
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
 <div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
@@ -159,7 +157,7 @@ Six uniforms, three standing themed days, and a closet that finally has a fresh 
 
 **What jersey are the San Francisco Giants wearing today?**
 
-The Giants run three locked themed days at home, so the day of the week tells you a lot. At Oracle Park, Tuesday is the music City Connect, Friday is the Orange Friday alternate, and Saturday is the new Gigantes alternate. The home white and cream alternate split the remaining home dates at the staff's discretion, and on the road it is the road gray every time since the themed days do not travel. Check the day and whether they are home or away, and the three Tuesday-Friday-Saturday hooks will usually give you the look.
+The Giants run three locked themed days at home, so the day of the week tells you a lot. At Oracle Park, Tuesday is the music City Connect, Friday is the Orange Friday alternate, and Saturday is the new Gigantes alternate. Every other home date is the cream home jersey, which is their version of a home white, and on the road it is the road gray every time since the themed days do not travel. Check the day and whether they are home or away, and the three Tuesday-Friday-Saturday hooks will usually give you the look.
 
 **Is the Giants "Gigantes" uniform a City Connect?**
 
@@ -183,7 +181,11 @@ It is the Airwallex advertisement patch, new for 2026. It replaced the Chevrolet
 
 **How many uniforms do the Giants have in 2026?**
 
-Six: the home white, the road gray, the cream alternate, the orange "Orange Friday" alternate, the 2025 music City Connect, and the new Gigantes Saturday alternate.
+Five: the cream home jersey, the road gray, the orange "Orange Friday" alternate, the 2025 music City Connect, and the new Gigantes Saturday alternate.
+
+**Do the Giants have a white home jersey?**
+
+Not a plain white one. The Giants' home uniform is cream, and it fills every home date the themed days do not claim. It reads close to white in bright sun at Oracle Park, which is why it often gets listed as a "home white" and a separate "cream alternate," but those are the same jersey. The only true-white top in the rotation is the City Connect, which you can spot by the orange gradient "G" instead of the "Giants" script.
 
 ## More MLB Coverage
 
