@@ -140,12 +140,41 @@ export default function PrivacyPolicyPage() {
                 affiliate tracking codes.
               </li>
               <li>
-                <strong>Advertising:</strong> ColorWay Sports does not currently serve
-                third-party display advertising, and we do not use Google AdSense. Our revenue
-                comes from the affiliate relationships listed above. If we begin working with an
-                advertising partner, we will update this policy before any advertising cookies
-                are set, and you will be able to manage your preferences through the consent
-                tool we provide at that time.
+                <strong>Mediavine:</strong> We use Mediavine to manage the display advertising
+                on this site. Mediavine and its advertising partners may use cookies and similar
+                technologies to serve and measure ads, including personalized advertising based
+                on your browsing. We do not use Google AdSense.{" "}
+                <a
+                  href="https://www.mediavine.com/privacy-policy/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Mediavine&apos;s Privacy Policy
+                </a>
+              </li>
+              <li>
+                <strong>Your advertising choices:</strong> You can manage your consent
+                preferences at any time using the privacy settings link Mediavine provides on
+                this site. You can also opt out of personalized advertising industry-wide
+                through the{" "}
+                <a
+                  href="https://optout.aboutads.info/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Digital Advertising Alliance
+                </a>{" "}
+                or the{" "}
+                <a
+                  href="https://www.networkadvertising.org/choices/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Network Advertising Initiative
+                </a>.
               </li>
             </ul>
           </section>

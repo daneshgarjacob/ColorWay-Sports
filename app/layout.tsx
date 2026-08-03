@@ -81,6 +81,19 @@ export default function RootLayout({
             })
           }}
         />
+        {/* Mediavine ad script, installed verbatim from their dashboard.
+            Deliberately a plain tag in <head> rather than next/script: with
+            strategy="beforeInteractive" Next emits only a preload link plus a
+            __next_s queue entry, so no literal <script src> tag appears in the
+            server HTML for Mediavine's verifier to find. Load behaviour is
+            equivalent, and this is what their install instructions specify. */}
+        <script
+          type="text/javascript"
+          async
+          data-noptimize="1"
+          data-cfasync="false"
+          src="//scripts.mediavine.com/tags/248fd8c4-77fb-4142-acb9-6610f6e7c3ea.js"
+        />
       </head>
       <body className="min-h-screen bg-background text-foreground font-sans antialiased">
         {children}
