@@ -1,7 +1,7 @@
 ---
 title: >-
   Is the Globe Life Field Roof Open Today? Rangers 2026 Roof Schedule
-updatedDate: "2026-07-31"
+updatedDate: "2026-08-03"
 category: MLB
 date: '2026-04-01'
 excerpt: >-
@@ -24,13 +24,13 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
 <div style="margin: 1.75em 0; border: 2px solid #003278; border-radius: 16px; overflow: hidden;">
   <div style="background: #003278; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, July 31, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Monday, August 3, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
-    <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
-    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Rangers home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Rangers are on the road today (at the Astros).</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No home game at Globe Life Field. When Texas is home in July, the roof is closed for the large majority of games, because the North Texas heat makes an open roof impractical.</div>
+    <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for tonight&rsquo;s first pitch</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Rangers host the Giants tonight, and the roof is expected to be closed.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Right around 99 degrees at first pitch in Arlington with no rain in the forecast, which is exactly the North Texas heat the roof exists for. Globe Life stays shut for the large majority of summer dates.</div>
     <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
   </div>
 </div>

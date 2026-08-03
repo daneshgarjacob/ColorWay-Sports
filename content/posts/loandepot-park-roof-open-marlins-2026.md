@@ -2,7 +2,7 @@
 title: "loanDepot Park Roof Open or Closed Today? 2026 Miami Marlins Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-07-31"
+updatedDate: "2026-08-03"
 excerpt: "loanDepot Park has the least-open roof in MLB. Live status, why it stays shut in Miami, the Marlins' roof rules, and how it compares to every other retractable roof."
 gradient: "linear-gradient(135deg, #0077C8 0%, #111111 55%, #EF3340 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ loanDepot Park has the least-open roof in Major League Baseball. The Marlins pla
 <div style="margin: 1.75em 0; border: 2px solid #00A3E0; border-radius: 16px; overflow: hidden;">
   <div style="background: #00A3E0; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, July 31, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Monday, August 3, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Marlins home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Marlins are on the road today (at the Mets).</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No home game at loanDepot Park. When Miami is home in the summer, the roof is closed for nearly every game, because the humidity and near-daily afternoon storms make an open roof impractical.</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Marlins are off today.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at loanDepot Park. When Miami is home in the summer, the roof is closed for nearly every game, because the humidity and near-daily afternoon storms make an open roof impractical.</div>
     <a href="https://x.com/Marlins" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #00A3E0; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Marlins &rarr;</a>
   </div>
 </div>
