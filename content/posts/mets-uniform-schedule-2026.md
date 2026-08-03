@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-25"
+updatedDate: "2026-08-03"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -130,6 +130,28 @@ The City Connect, unveiled in April 2024, is the most conceptually loaded jersey
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065853193603485730"></a></blockquote>
 </div>
 
+## Special-Occasion Wears (Not Part of the Rotation)
+
+The five jerseys above are the rotation. Everything in this section is separate: one-off tributes and anniversary looks the Mets pull out for a specific weekend and then put away. They are worth knowing about, because they are usually the best-looking thing the team wears all year, but you cannot plan a ticket around them the way you can a Friday black or a Saturday City Connect.
+
+<div style="margin: 1.5em 0; border: 2px solid #002D72; border-radius: 16px; overflow: hidden;">
+  <div style="background: #002D72; padding: 10px 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">1986 Cooperstown Throwback</span>
+    <span style="font-size: 0.65em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; padding: 3px 11px; border-radius: 999px; background: #FF5910; color: #ffffff;">One-Off &middot; Not In Rotation</span>
+  </div>
+  <div style="padding: 1.3em 1.5em; background: #ffffff;">
+    <div style="font-size: 0.95em; color: #1c1c1c; font-weight: 700; line-height: 1.5;">Worn Saturday, August 1 and Sunday, August 2, 2026, at home against the Marlins, to mark 40 years since the 1986 World Series title.</div>
+    <div style="margin-top: 9px; font-size: 0.95em; color: #444; line-height: 1.6;">A Cooperstown Collection pinstriped white with the blue "Mets" script outlined in orange, and the detail that makes it: racing-stripe piping running over both shoulders and down the V-neck placket. That shoulder piping is a genuine 1980s design cue almost nobody in baseball wears anymore, and it is the reason this jersey outclasses most of what the league puts out new. We made it our Jersey of the Day on both nights it appeared.</div>
+    <a href="/stories/mlb-uniform-tracker-2026" style="display: inline-block; margin-top: 14px; padding: 9px 20px; background: #002D72; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.82em; text-decoration: none; letter-spacing: 0.4px;">See it in the daily tracker &rarr;</a>
+  </div>
+</div>
+
+<div style="margin: 1.25em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2083935203198722248"></a></blockquote>
+</div>
+
+Because it is an anniversary wear rather than a rotation piece, it does not change the count: the Mets still carry five uniforms in 2026. If they bring the pinstripe throwback back for another date this season, our [daily tracker](/stories/mlb-uniform-tracker-2026) will log it the morning after.
+
 ## How the Mets Rotation Actually Works
 
 Let's be straight about it: the Mets are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; New York really only has two soft anchors — **the black alternate on Friday home games and the gray City Connect on Saturday home games**. Everything else is feel and matchup: home pinstripes for the rest of the homestand, road grays for most of the trip, and the blue alternate dropped in whenever the staff wants a jolt of color, with no day-of-week assignment behind it.
@@ -151,7 +173,10 @@ One more constant across all five: every Mets jersey carries the **NewYork-Presb
 The Mets only have two fixed days, both at home: the black alternate on Friday home games and the gray "NYC" City Connect on Saturday home games. Everything else is manager's choice rather than a daily script, so the home white pinstripes cover most other home games, the road grays cover most away games, and the blue alternate can pop up on any day, usually on the road. Check the day of week and whether they are home: if it is a Friday or Saturday home game you can count on the anchor, otherwise expect the pinstripes at home or the grays on the road.
 
 **How many uniforms do the Mets have in 2026?**
-Five: the home white pinstripes, the road grays, the blue alternate, the black alternate, and the gray "NYC" City Connect. The set carried over from 2025, with only detail changes for 2026 — a "DAVEY" memorial patch and the restored road "NEW YORK" lettering size.
+Five: the home white pinstripes, the road grays, the blue alternate, the black alternate, and the gray "NYC" City Connect. The set carried over from 2025, with only detail changes for 2026 — a "DAVEY" memorial patch and the restored road "NEW YORK" lettering size. The 1986 Cooperstown throwback worn over the August 1-2 anniversary weekend is a one-off tribute, not a sixth uniform.
+
+**What was the Mets pinstripe throwback jersey in August 2026?**
+That's the Cooperstown Collection 1986 throwback, worn at home against the Marlins on Saturday, August 1 and Sunday, August 2 to mark 40 years since the Mets' last World Series title. It's a pinstriped white with the blue "Mets" script outlined in orange and racing-stripe piping over both shoulders and down the V-neck. It is a one-off anniversary wear, not part of the regular rotation, so it isn't on the weekly grid above.
 
 **When do the Mets wear the black jerseys?**
 The black alternate has become the Mets' Friday-night home look at Citi Field in 2026. The black-trim look originally ran from 1998 to 2011 and was revived as a recurring home alternate.
