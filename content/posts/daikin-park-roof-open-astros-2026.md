@@ -25,7 +25,7 @@ The Daikin Park roof is closed for the vast majority of Houston Astros home game
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for tonight&rsquo;s first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Astros host the Blue Jays tonight, and the roof is expected to be closed.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Low 80s in Houston at first pitch but with humidity near 75 percent and a small rain chance, and Houston keeps the roof shut for nearly every August game regardless.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Around 91 degrees in Houston at first pitch with a small rain chance, and Houston keeps the roof shut for nearly every August game regardless.</div>
     <a href="https://x.com/astros" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #002D62; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @astros &rarr;</a>
   </div>
 </div>

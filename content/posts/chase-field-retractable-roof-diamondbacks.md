@@ -29,7 +29,7 @@ We put together the full breakdown on the Chase Field retractable roof, includin
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for tonight&rsquo;s first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Diamondbacks host the Padres tonight, and the roof is expected to be closed.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Around 111 degrees in Phoenix at first pitch. Chase Field closes and pre-cools the building on days like this, so an open roof is off the table until the desert cools down in the fall.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Around 112 degrees in Phoenix at first pitch. Chase Field closes and pre-cools the building on days like this, so an open roof is off the table until the desert cools down in the fall.</div>
     <a href="https://x.com/ChaseFieldRoof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #A71930; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @ChaseFieldRoof &rarr;</a>
   </div>
 </div>
