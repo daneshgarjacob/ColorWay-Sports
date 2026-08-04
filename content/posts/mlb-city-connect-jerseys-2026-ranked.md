@@ -7,7 +7,6 @@ gradient: "linear-gradient(135deg, #002D72 0%, #E31937 100%)"
 coverImage: "/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.jpg"
 coverImagePosition: "center 20%"
 logoSrc: "/logos/leagues/mlb.png"
-logoSrc2: "/logos/teams/mlb-atlanta-braves.png"
 league: "mlb"
 teams: ["atlanta-braves", "milwaukee-brewers", "pittsburgh-pirates", "san-francisco-giants", "san-diego-padres", "texas-rangers", "baltimore-orioles", "cincinnati-reds", "kansas-city-royals"]
 bestRating: 10
