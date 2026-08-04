@@ -100,6 +100,11 @@ The orange home alternate takes the crown. For the first time in 126 years, the 
 
 It grades an A, and it is the best thing in the closet. For a franchise this traditional to break out orange at all is an event, and they did it exactly right, going bold on the color while anchoring the whole thing to the one mark that makes them unmistakably Detroit. It is a thrill to see on the field, and tying it to a standing Friday slot turns it into a weekly reason to show up. New, historic, and genuinely great.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Orange Home Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520orange%2520home%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## The Bottom Line
 
 The 2026 reveal reshaped the Tigers' closet. The historic orange alternate is now the best jersey they own, with the excellent navy road alternate right behind it, both proving that one of baseball's most conservative franchises can do color when it commits. The road gray remains a sharp classic and the Old English D home white is the dependable backbone. The lone miss is the busy Motor City City Connect, and the team seems to agree, quietly shrinking its role for 2026.

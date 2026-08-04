@@ -85,6 +85,11 @@ The purple alternate is the franchise's calling card and the closest thing this 
 
 It grades an A-, comfortably the best thing Colorado owns. The argument is simple: this is the only uniform in the closet where the team's defining colour is the entire jersey rather than an accent, and the moment purple stops being trim and becomes the whole canvas, everything else falls into place. It is instantly identifiable from any camera angle, which is exactly what the City Connect spent a fortune in concept work failing to achieve. Naming a weekday after it was the smartest thing this franchise has done with its uniforms. Few clubs own a colour this completely, and this is the jersey that proves it.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Purple Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520purple%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Rockies Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

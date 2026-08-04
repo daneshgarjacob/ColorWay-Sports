@@ -100,6 +100,11 @@ This is the big one for 2026. Milwaukee retired the traditional road grays outri
 
 It grades an A, and it is the only genuinely great uniform the Brewers own. The jersey is excellent and the helmet is the piece that seals it, the yellow front panel giving the whole look a jolt most road sets never get near. Powder blue is a nostalgia play that a lot of clubs run as a once-a-week novelty, and Milwaukee had the nerve to make it the everyday road uniform instead. That is the right call. It is instantly one of the most distinctive road looks in the National League, and it is the only jersey here that made us want to see more of it.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Powder Blue Road.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520powder%2520blue%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Why Do the Brewers Sometimes Wear Pinstripes and Sometimes Not?
 
 Because there is no rule. The cream home and the white pinstripe home alternate simply rotate through a homestand by feel, with no fixed day separating them, which is genuinely odd for a club that otherwise runs a tidy schedule. The navy alternate owns Sundays and the Wisco City Connect owns Friday home games, but the cream and the pinstripes just trade off. If you are trying to predict which one shows up on a given afternoon, the [Brewers uniform calendar](/mlb-tracker/brewers) is the honest answer.

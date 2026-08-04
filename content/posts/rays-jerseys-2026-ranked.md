@@ -100,6 +100,11 @@ The navy is the dark-tops workhorse: a deep navy base with Columbia blue piping,
 
 It grades a B+ and takes the top spot, which is a slightly unglamorous result for a closet with a rainbow throwback and a skate-themed City Connect in it. The navy wins because it is the only jersey here with nothing wrong with it. The base is strong, the Columbia blue piping ties it to the best colour the team owns, the lettering is present and legible, and it works equally well at home and on the trip, which nothing else in this wardrobe can claim. It is doing the job the missing road gray used to do while looking considerably better than a road gray would. No gimmick, no missing wordmark, no nostalgia required. Just the most complete uniform Tampa Bay puts on the field.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Navy Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520navy%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Rays Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

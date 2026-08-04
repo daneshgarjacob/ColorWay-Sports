@@ -100,6 +100,11 @@ The navy alternate is the dark counterpart to the red: a navy base with the "Nat
 
 It grades an A, the best jersey Washington owns, and part of that is design and part of it is memory. On navy, the script that looks stranded on a white shirt suddenly has something to push against, and the red-and-white lettering glows under the lights in a way it simply cannot at home in daylight. The same wordmark, on the right base, becomes a completely different jersey. The rest is 2019. This is the look the Nationals lived in through the run to the only World Series title in franchise history, and for anyone who watched it, the navy is not an alternate at all. It is what that team looked like. Uniforms accumulate meaning, and this one has more of it than anything else in the closet.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Navy Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520navy%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Nationals Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

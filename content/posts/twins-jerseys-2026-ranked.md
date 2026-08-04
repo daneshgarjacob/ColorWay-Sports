@@ -100,6 +100,11 @@ The home white is Minnesota's signature look and the best jersey they own. A cle
 
 It grades an A-, and the script is the entire reason. That wordmark is a genuinely lovely piece of lettering, the kind of mark most franchises would kill for, and the Twins have been smart enough to leave it almost completely alone for decades. On a clean white base with the navy and red trim doing just enough, it is one of the most timeless home looks in the American League. Everything good in this closet traces back to that script, and this is the jersey that shows it off best.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Home White.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## What About the Field of Dreams Uniform?
 
 Not ranked here, and deliberately so. The Twins face the Phillies in the 2026 Field of Dreams Game in Iowa, and both clubs wear special throwbacks built for that single night. It is a one-off event uniform rather than part of the rotation, so it sits outside these rankings. We covered [the 2026 Field of Dreams uniforms](/stories/field-of-dreams-game-2026-everything-to-know) separately.

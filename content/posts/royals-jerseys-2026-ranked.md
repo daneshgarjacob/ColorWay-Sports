@@ -100,6 +100,11 @@ Introduced as a full set in 2025 and now the Saturday signature at Kauffman Stad
 
 It grades an A-, the best jersey Kansas City owns and, for our money, the best alternate uniform in baseball. Powder blue is the rarest good colour in the sport, only a handful of clubs run one, and nobody wears it with the conviction the Royals do. The white-front cap is the piece that elevates the whole thing, giving the crowned R somewhere bright to sit and stopping the head-to-toe blue from going flat. Its real trick is versatility: the full powder set is the loud, complete statement, and the powder top over white pants is a lighter, cleaner version of the same idea, and both look right. Almost no alternate in baseball works in two configurations. Handing it a standing Saturday slot is the last correct decision in a jersey full of them.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Powder Blue.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Royals Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

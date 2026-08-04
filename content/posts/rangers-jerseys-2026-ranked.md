@@ -100,6 +100,11 @@ The royal blue alternate is the wild card and the best jersey Texas owns. It is 
 
 It grades an A-, and it takes the top spot because it is the look we have always liked most. Royal blue is the color this franchise is actually built on, and seeing it as the base of a jersey rather than as trim on someone else's is the most confident the Rangers ever look. It carries the same wordmark as the road gray, but a saturated blue field does more for that lettering than gray or white ever could. The absence of a set schedule is the final piece: because it is the manager's call rather than a standing Tuesday, it keeps a little event energy every time it shows up. The best thing in the closet, and it is not the one with the biggest story attached.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Royal Blue Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%2520rangers%2520royal%2520blue%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Rangers Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

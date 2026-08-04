@@ -86,6 +86,11 @@ The kelly green is the fan favourite and the closest thing this team has to a ha
 
 It grades an A, the highest mark in this closet, and the shade is the whole argument. This is not a muted forest green or a corporate hunter green, it is a bright, unapologetic kelly that no other team in baseball is brave enough to wear, and the gold sitting on top of it is exactly the right amount of loud. Nothing else in the league looks like it. It is also the one uniform here with no asterisk attached: no missing city, no patch working against the message, no interim anything. Fifty years of arguments about where this franchise plays and the answer to what it should look like has not changed once. Give it a standing Friday slot and get out of the way, which is precisely what they have done.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Kelly Green Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520kelly%2520green%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Athletics Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">

@@ -100,6 +100,11 @@ Teal Sundays. Miami wears the original 1993 Florida Marlins teal for every Sunda
 
 It grades an A, and it is not close to anything else in this closet. That teal is one of the great colours in baseball history, specific enough that you can date it to the year, and nobody else in the sport is anywhere near it. The design is disciplined too: one loud colour, one strong wordmark, white pants to keep it grounded, and no concept to explain. Everything the Retro Wave is straining to say about Miami being bright and distinctive and a bit 1990s, this jersey says without trying, because it actually is those things. Handing it a standing Sunday slot is the single best decision in this wardrobe, and it is the only Marlins uniform that makes you want to watch the game it is in.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Teal Throwback.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520teal%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## What About the Caribbean Blue Alternate?
 
 Not in play. The blue alternate with the cursive "Marlins" script is still part of the official wardrobe, but Miami has not worn it in a single game in 2026. Our [daily uniform tracker](/stories/mlb-uniform-tracker-2026) has logged every Marlins game this season and the blue has not appeared once, so we have left it out of this ranking rather than grade a jersey that is not on the field. If it comes back, we will add it.

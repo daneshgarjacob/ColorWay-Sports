@@ -100,6 +100,11 @@ The 2025 overhaul gave the navy the biggest change of any jersey in the closet. 
 
 It grades an A-, the best thing Cleveland owns, and it wins by subtraction. Every other jersey in this closet is trying to solve the problem of putting a long team name on a chest. This one refused to play, threw the words away, and let the logo be the whole uniform. The Diamond C is a genuinely excellent mark, sharp and geometric and unmistakable, and blown up at chest scale in red on navy it hits from any seat in the building. It is also the exact opposite instinct to the City Connect: one idea, executed at full size, with nothing else competing. Four years into a rebrand, this is the jersey that finally looks like a team that knows who it is.
 
+<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Navy Alternate.</div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520navy%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
+</div>
+
 ## Every Guardians Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f4f6fa; border: 1px solid #dae0ea; border-radius: 14px;">
