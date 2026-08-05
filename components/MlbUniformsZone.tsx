@@ -253,28 +253,68 @@ export default async function MlbUniformsZone() {
               standard white &amp; gray jerseys, across every day logged this season.
             </p>
 
-            <div className="grid grid-cols-7 gap-2 sm:gap-4 items-end" style={{ height: 168 }}>
-              {weekday.map((s) => {
-                const weekend = WEEKEND.has(s.weekday);
-                return (
-                  <div key={s.weekday} className="flex h-full flex-col items-center justify-end">
-                    <span className="text-[11px] font-bold text-[#0B1F4A] mb-1">{s.pct}%</span>
-                    <div className="w-full flex items-end" style={{ height: "100%" }}>
+            {/* Gridlines sit behind the bars so a value can be read off the chart
+                without relying on the number above each bar. */}
+            <div className="relative pl-7">
+              <div
+                className="pointer-events-none absolute left-7 right-0 top-0"
+                style={{ height: 150 }}
+                aria-hidden="true"
+              >
+                {[0, 25, 50, 75, 100].map((v) => (
+                  <div key={v} className="absolute left-0 right-0" style={{ bottom: `${v}%` }}>
+                    <div
+                      className={v === 0 ? "border-t border-[#c9cfd8]" : "border-t border-dashed border-[#e8ebf0]"}
+                    />
+                    <span
+                      style={{ fontFamily: "var(--font-mono, monospace)" }}
+                      className="absolute right-full -translate-y-1/2 pr-2 text-[9px] font-semibold text-[#b9bfc9] tabular-nums"
+                    >
+                      {v}
+                    </span>
+                  </div>
+                ))}
+              </div>
+
+              <div
+                className="relative grid grid-cols-7 gap-2 sm:gap-4 items-end"
+                style={{ height: 150 }}
+              >
+                {weekday.map((s) => {
+                  const weekend = WEEKEND.has(s.weekday);
+                  return (
+                    <div key={s.weekday} className="relative flex h-full items-end">
                       <div
                         className="w-full rounded-t-md transition-all duration-500"
                         style={{ height: `${s.pct}%`, background: weekend ? "#f59e0b" : "#2f6bed" }}
+                        title={`${s.short}: ${s.pct}% standard jerseys`}
                       />
+                      <span
+                        className="absolute inset-x-0 text-center text-[11px] font-bold text-[#0B1F4A] tabular-nums"
+                        style={{ bottom: `calc(${s.pct}% + 5px)` }}
+                      >
+                        {s.pct}%
+                      </span>
                     </div>
+                  );
+                })}
+              </div>
+
+              <div className="grid grid-cols-7 gap-2 sm:gap-4 mt-2">
+                {weekday.map((s) => {
+                  const weekend = WEEKEND.has(s.weekday);
+                  return (
                     <span
-                      className={`text-[11px] mt-2 ${
+                      key={s.weekday}
+                      className={`text-[11px] text-center ${
                         weekend ? "font-bold text-[#b06a00]" : "font-semibold text-[#8A8F98]"
                       }`}
                     >
                       {s.short}
                     </span>
-                  </div>
-                );
-              })}
+                  );
+                })}
+              </div>
             </div>
 
             <div className="flex items-center gap-5 mt-5 text-[10px] font-semibold uppercase tracking-wider text-[#8A8F98]">
