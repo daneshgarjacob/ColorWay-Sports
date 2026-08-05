@@ -22,6 +22,8 @@ const THRESHOLD = 200 * 1024; // only touch files over 200 KB
 const MAX_DIM = 1600; // article column maxes ~800px; 1600 covers retina
 const JPEG_OPTS = { quality: 80, mozjpeg: true };
 const WEBP_OPTS = { quality: 80 };
+const TARGET = 300 * 1024; // AGENTS.md: finished images should land at or under ~300 KB
+const QUALITY_FLOOR = 60; // below this the artifacts start showing on jersey shots
 const REF_DIRS = ["content", "app", "components", "lib", "scripts"];
 const REF_EXTS = new Set([".md", ".mdx", ".ts", ".tsx", ".js", ".mjs", ".css", ".json", ".xml"]);
 const DRY = process.argv.includes("--dry-run");
@@ -102,6 +104,19 @@ async function compressOne(file, log) {
         .png({ palette: true, quality: 90, dither: 1.0 })
         .toBuffer();
       if (pal.length < buf.length) buf = pal;
+    }
+  }
+
+  // A single pass at quality 80 leaves big photos above the 300 KB target. Step the
+  // quality down until it fits, rather than declaring an oversized file "optimal".
+  if (buf.length > TARGET && targetExt !== ".png") {
+    const encode = (q) => targetExt === ".webp"
+      ? resized.webp({ ...WEBP_OPTS, quality: q }).toBuffer()
+      : resized.jpeg({ ...JPEG_OPTS, quality: q }).toBuffer();
+    for (let q = JPEG_OPTS.quality - 8; q >= QUALITY_FLOOR; q -= 8) {
+      const smaller = await encode(q);
+      buf = smaller;
+      if (buf.length <= TARGET) break;
     }
   }
 
