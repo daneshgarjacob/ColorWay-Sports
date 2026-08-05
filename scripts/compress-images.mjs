@@ -92,7 +92,10 @@ async function compressOne(file, log) {
   } else {
     // transparent png stays png
     buf = await resized.png({ compressionLevel: 9, adaptiveFiltering: true }).toBuffer();
-    if (buf.length > 1024 * 1024) {
+    // Lossless recompression alone rarely beats a photo-heavy PNG by the 10% margin
+    // below, so anything still over THRESHOLD would be skipped as "already optimal"
+    // and stay oversized. Reach for the palette encode at THRESHOLD, not at 1 MB.
+    if (buf.length > THRESHOLD) {
       const pal = await sharp(file)
         .rotate()
         .resize({ width: MAX_DIM, height: MAX_DIM, fit: "inside", withoutEnlargement: true })
