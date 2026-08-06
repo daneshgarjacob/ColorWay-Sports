@@ -20,7 +20,7 @@ One note on what is here and what is not. Only released kits are ranked. Ten of 
 The lowest grade in the whole exercise. Black with gold and an all-over worker-bee pattern, and on paper a Manchester industrial-heritage nod should work. It just does not come together. Nothing about it says Manchester City, and once the bee print is doing the talking there is no blue anywhere to anchor it. **Grade: C+**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083138853888479377"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
 </div>
 
 ## 29. Tottenham, Home
@@ -32,7 +32,7 @@ Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the col
 A tribute to the 2007 Champions League win, white with red trim. The concept is fine and the reference is a good one, but the graphic treatment on the body does not land, and for a club that is usually immaculate this is the weak link in an otherwise strong pair. **Grade: B-**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079461371859575062"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079846410136986108"></a></blockquote>
 </div>
 
 ## 27. Atletico Madrid, Away

@@ -12,7 +12,7 @@ teams: []
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083138853888479377"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
 </div>
 
 We ranked every 2026/27 kit at Europe's fifteen biggest clubs, and Manchester City came out of it with an unwanted distinction: they are the only club on that list without a single shirt graded above a B. Their away kit also took the lowest grade of the whole exercise. Here is why, shirt by shirt.
