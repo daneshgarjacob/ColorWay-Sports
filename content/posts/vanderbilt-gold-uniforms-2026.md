@@ -77,14 +77,14 @@ October 31, 2020, against Ole Miss. Vanderbilt unveiled that gold jersey on Octo
 
 ## Our Grade: B+
 
-We like this a lot more than we expected to, and we are giving the jersey itself an A. The old gold is the correct gold, the helmet is genuinely excellent, and the white-with-black-outline number treatment is the right solve for a hard base color. It is also just a pleasant thing to look at, which is not a small compliment for a monochrome uniform.
+We like this a lot more than we expected to. The old gold is the correct gold, the helmet is genuinely excellent, and the white-with-black-outline number treatment is the right solve for a hard base color. It is also just a pleasant thing to look at, which is not a small compliment for a monochrome uniform.
 
-The overall grade lands at B+ for one reason: we have not seen it on a field. Gold is the least forgiving color on broadcast. It is the one that goes beige in afternoon sun, turns brown under warm stadium lights, and loses its edge against a green field, and every gold uniform we have graded has looked at least slightly different in motion than it did in the studio. Nothing about these photos suggests a problem. But "looks great in a dark studio" and "looks great in the fourth quarter" are two different tests, and this set has only passed one of them. Give us a game and this grade can move up.
+The grade lands at B+ for one reason: we have not seen it on a field. Gold is the least forgiving color on broadcast. It is the one that goes beige in afternoon sun, turns brown under warm stadium lights, and loses its edge against a green field, and every gold uniform we have graded has looked at least slightly different in motion than it did in the studio. Nothing about these photos suggests a problem. But "looks great in a dark studio" and "looks great in the fourth quarter" are two different tests, and this set has only passed one of them. Give us a game and this grade can move up.
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #C9A227 0%, #111111 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(201, 162, 39, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Jersey: A &nbsp;·&nbsp; Helmet: A &nbsp;·&nbsp; Shade Of Gold: A &nbsp;·&nbsp; Sponsor Patch: C+ &nbsp;·&nbsp; Unproven On Field</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Right Shade Of Gold · Excellent Helmet · Not Yet Proven On The Field</p>
 </div>
 
 ## The Bottom Line
@@ -125,4 +125,4 @@ SRM Concrete is a Vanderbilt jersey-patch sponsor, and the patch appears on the 
 
 **What grade do Vanderbilt's new gold uniforms get?**
 
-Our overall grade is a B+. The jersey, the helmet, and the choice of old gold all earn A marks on their own. The overall grade is held to a B+ because gold is the hardest color to trust on broadcast and we have not seen this uniform on a field yet, and because the white sponsor patch sits at maximum contrast against the gold base.
+Our grade is a B+. The choice of old gold over a brighter, more saturated gold is the decision that makes the uniform work, and the helmet is the strongest single piece. It is held to a B+ because gold is the hardest color to trust on broadcast and we have not seen this uniform on a field yet, and because the white sponsor patch sits at maximum contrast against the gold base.
