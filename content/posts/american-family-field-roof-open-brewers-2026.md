@@ -2,7 +2,7 @@
 title: "Is the American Family Field Roof Open Today? Brewers 2026 Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-06"
 excerpt: "Is the American Family Field roof open or closed today? Live status in seconds, plus the Brewers 2026 roof rules, the roof hotline, and the rain policy."
 gradient: "linear-gradient(135deg, #0A2351 0%, #1A1A1A 55%, #FFC52F 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ American Family Field has one of the busiest and most distinctive roofs in baseb
 <div style="margin: 1.75em 0; border: 2px solid #12284B; border-radius: 16px; overflow: hidden;">
   <div style="background: #12284B; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, August 5, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, August 6, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
-    <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
-    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for tonight&rsquo;s first pitch</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Brewers host the Pirates tonight, and the roof is expected to be closed.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">A pleasant 74 degrees at first pitch in Milwaukee, so temperature is not the issue: it is the roughly one-in-four chance of rain. American Family Field&rsquo;s fan-blade roof moves more than any other in baseball, and the Brewers close it when there is a real chance of weather. This one is closer to a coin flip than most, so it is worth confirming.</div>
+    <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for this afternoon&rsquo;s first pitch</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Brewers host the Pirates this afternoon, and the roof is expected to be open.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">About 73 degrees at first pitch in Milwaukee with no rain in the forecast. American Family Field has the only fan-blade roof in baseball and the Brewers move it constantly to chase the best conditions, so a dry 73-degree afternoon is an easy open.</div>
     <a href="https://x.com/Brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #12284B; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Brewers &rarr;</a>
   </div>
 </div>

@@ -2,7 +2,7 @@
 title: "Daikin Park Roof Open or Closed Today? 2026 Houston Astros Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-06"
 excerpt: "Daikin Park roof closed for most Houston Astros home games. Live status, how to check today, the roof rules, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #002D62 0%, #1A1A1A 55%, #EB6E1F 100%)"
 league: "mlb"
@@ -19,13 +19,13 @@ The Daikin Park roof is closed for the vast majority of Houston Astros home game
 <div style="margin: 1.75em 0; border: 2px solid #002D62; border-radius: 16px; overflow: hidden;">
   <div style="background: #002D62; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, August 5, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, August 6, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
-    <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
-    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected for this afternoon&rsquo;s first pitch</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Astros host the Blue Jays this afternoon, and the roof is expected to be closed.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">About 91 degrees at first pitch in Houston with no rain due, but August humidity does the work here. Daikin Park is closed for the vast majority of summer games regardless of the rain chance.</div>
+    <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Astros home date</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Astros are off today.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at Daikin Park. When Houston is home in the summer, the roof is closed for nearly every game, because the heat and humidity make an open roof impractical.</div>
     <a href="https://x.com/astros" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #002D62; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @astros &rarr;</a>
   </div>
 </div>
