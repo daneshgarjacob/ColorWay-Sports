@@ -52,11 +52,15 @@ Nine home games, eight on the road, and a Week 10 bye.
 
 ## Kelly Green (Expected 3 Games, Dates Not Yet Announced)
 
-The 1990s throwback came back in 2023 and has been the most talked-about alternate in football since. Philadelphia has settled into roughly three wearings a season, and in 2025 those were all divisional games. Applying the same logic to the 2026 schedule, the live candidates are the home dates against division rivals and the biggest national windows:
+The 1990s throwback came back in 2023 and has been the most talked-about alternate in football since. Philadelphia has settled into three wearings a season, and the club's own 2025 announcement is the useful precedent: **all three were NFC East games, and one of them was on the road at Dallas**, which the Eagles noted was the first road wearing since the jerseys returned in 2023. The other two were home games against the Giants and the Commanders.
 
-- **Week 7 vs. Cowboys, Monday, October 26.** A Monday-night home game against Dallas is the single most likely Kelly Green slot on the calendar.
-- **Week 9 vs. Giants, November 8.** A daytime home divisional game, which is exactly the profile Philadelphia has used before.
-- **Week 1 vs. Commanders, September 13.** An opening-day home game against a division rival, and the club has used Kelly Green for statement dates.
+That road game matters more than it looks. A visiting team can only wear a coloured jersey if the home team wears white, and Dallas is the one club in the league that wears white at home by tradition. So a trip to AT&T Stadium is the rare road date where Kelly Green is actually available to Philadelphia.
+
+Applying that to the 2026 schedule, these are the live candidates:
+
+- **Week 12 at Cowboys, Thursday, November 26.** The Thanksgiving game, and a direct repeat of the 2025 fixture they chose last year. The white-at-home rule makes it possible, and it is the biggest audience the Eagles will play in front of all season.
+- **Week 7 vs. Cowboys, Monday, October 26.** A Monday-night home game against Dallas, the other half of the same rivalry.
+- **Week 9 vs. Giants, November 8.** A daytime home divisional game, the exact profile of one of the 2025 wearings.
 
 Treat those as our read, not as news. What is worth saying plainly is that Kelly Green is a better uniform than the midnight green primary, and the gap is wide enough that three games a year feels like a mistake the Eagles are making on purpose.
 
@@ -74,12 +78,12 @@ Midnight green is a genuinely unusual colour and the Eagles deserve credit for s
 
 ## The White Road Set (8 Games)
 
-White jersey, midnight green pants or white pants depending on the week, for all eight road games. Two are worth noting. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, where Philadelphia is likely to be the plain half opposite the Cowboys' 1960s throwback. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
+White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a coloured jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
 
 ## Frequently Asked Questions
 
 **When do the Eagles wear Kelly Green in 2026?**
-Philadelphia has not announced the dates yet. The Eagles have worn Kelly Green about three times a season since bringing it back in 2023, usually for home divisional games, which points at the Week 7 Monday-night game against Dallas, the Week 9 home game against the Giants, and the Week 1 opener against Washington.
+Philadelphia has not announced the 2026 dates yet. The Eagles have worn Kelly Green three times a season since bringing it back in 2023, and in 2025 all three were NFC East games, including a road game at Dallas. Our read for 2026 is the Thanksgiving game at Dallas on November 26, the Week 7 Monday-night home game against Dallas, and the Week 9 home game against the Giants.
 
 **When do the Eagles wear the black alternate in 2026?**
 No date has been announced. Philadelphia wore black once in 2025, on Black Friday. The Week 16 Christmas Eve game against Houston on December 24 is the most natural slot on the 2026 schedule.

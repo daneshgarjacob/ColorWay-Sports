@@ -66,7 +66,9 @@ There is an old superstition around the navy jersey being unlucky for Dallas. We
 
 The best uniform Dallas owns comes out once a year. The 1960s throwback pairs a **white helmet** with the navy jersey, oversized stars on the white shoulder yoke, solid block numbers, and white pants with twin navy stripes. The Cowboys have worn it on Thanksgiving in 2022, 2023, 2024 and 2025, and 2026 puts Philadelphia at AT&T Stadium on Thursday, November 26.
 
-If it happens, and everything about the pattern says it will, it is the marquee uniform game of the Dallas season. The white helmet is the whole trick: it removes the silver that anchors every other Cowboys look and leaves a cleaner, older, more graphic uniform underneath. Against an Eagles side in road whites it should be one of the better-looking broadcasts of the year.
+If it happens, and everything about the pattern says it will, it is the marquee uniform game of the Dallas season. The white helmet is the whole trick: it removes the silver that anchors every other Cowboys look and leaves a cleaner, older, more graphic uniform underneath.
+
+The other half of the frame is genuinely open. Because Dallas wears white at home, a visiting team is free to bring a coloured jersey to AT&T Stadium, and Philadelphia used exactly that loophole in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the throwback returned. The Eagles have not announced their 2026 Kelly Green dates, but if they repeat it on Thanksgiving, this becomes a 1960s Cowboys throwback against a 1990s Eagles throwback on the biggest audience of the season. See our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) for where we think the Kelly Greens land.
 
 ## The Arctic White Helmet
 
