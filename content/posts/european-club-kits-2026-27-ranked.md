@@ -199,23 +199,7 @@ Yellow with a tonal graphic across the front and lower body drawn from the steel
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BVB/status/2084225693768909136"></a></blockquote>
 </div>
 
-## 8. Atletico Madrid, Home
-
-Red and white vertical stripes carrying a tonal trident pattern for Neptune's fountain, with deep royal blue framing a V-neck collar. Atletico's home shirt is always nice, and the reason is always the same: they keep it simple. The trident is there if you look and invisible if you do not, which is exactly how a pattern like that should behave. **Grade: A-**
-
-<div style="display: flex; justify-content: center; margin: 1.75em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/atletienglish/status/2083520035352354933"></a></blockquote>
-</div>
-
-## 7. Arsenal, Home
-
-Red body, crisp white sleeves, a bespoke crewneck collar and faint red patterning across the body referencing the Emirates rooflines for the stadium's twentieth anniversary. The stripes at the top of the sleeve are the detail that makes it, and the way the dark red plays against the lighter red gives it depth most red shirts do not have. We would have liked some blue in there somewhere. **Grade: A-**
-
-<div style="display: flex; justify-content: center; margin: 1.75em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2067948011502858575"></a></blockquote>
-</div>
-
-## 6. Liverpool, Home
+## 8. Liverpool, Home
 
 Deep red carrying the all-over geometric graphic from the 1989 to 1991 Candy era, the shirt Liverpool won the 1989/90 title in. ESPN ranked it third of every Premier League kit, the highest-placed home shirt in the league, and we are close to that. The shade of red is the best thing about it. **Grade: A-**
 
@@ -223,7 +207,15 @@ Deep red carrying the all-over geometric graphic from the 1989 to 1991 Candy era
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2068620186757038400"></a></blockquote>
 </div>
 
-## 5. Barcelona, Away
+## 7. Atletico Madrid, Home
+
+Red and white vertical stripes carrying a tonal trident pattern for Neptune's fountain, with deep royal blue framing a V-neck collar. Atletico's home shirt is always nice, and the reason is always the same: they keep it simple. The trident is there if you look and invisible if you do not, which is exactly how a pattern like that should behave. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Atleti/status/2083565863743975793"></a></blockquote>
+</div>
+
+## 6. Barcelona, Away
 
 The strangest thing in the group and one of the best. A Nike, Barcelona and Kobe Bryant collaboration: a purple-to-black gradient, iridescent serpent detailing, a snakeskin pattern and a custom Gold Mamba typeface in metallic gold. We are enormous Kobe people here, so that counts for something on its own, but the colours genuinely work too. **Grade: A-**
 
@@ -231,12 +223,20 @@ The strangest thing in the group and one of the best. A Nike, Barcelona and Kobe
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2081349079842410988"></a></blockquote>
 </div>
 
-## 4. Paris Saint-Germain, Away
+## 5. Paris Saint-Germain, Away
 
 Almost an inverted version of the home shirt, and it works for the same reasons. The colours are right, and the black at the sleeve tips is the small decision that finishes it. Most clubs treat the away shirt as the place to get weird. PSG treated it as the place to prove the home shirt's idea travels. **Grade: A-**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2085059092154843395"></a></blockquote>
+</div>
+
+## 4. Arsenal, Home
+
+Red body, crisp white sleeves, a bespoke crewneck collar and faint red patterning across the body referencing the Emirates rooflines for the stadium's twentieth anniversary. The stripes at the top of the sleeve are the detail that makes it, and the way the dark red plays against the lighter red gives it depth most red shirts do not have. We would have liked some blue in there somewhere. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2067948011502858575"></a></blockquote>
 </div>
 
 ## 3. Manchester United, Away
@@ -260,7 +260,7 @@ The thick red and black stripes are back, bold and wide and unmistakable, runnin
 Old Royal blue restored, with a bold wide central red Hechter stripe flanked by two crisp white lines that carries unbroken onto the back. This is the kit of the season. It is simple, it is exactly to the point, and that centre stripe running the full length of the shirt is the single best design decision anyone made this year. Nothing else on this list does more with less. **Grade: A**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2053025920328335577"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_inside/status/2085440247853138247"></a></blockquote>
 </div>
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #004170 0%, #DA291C 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 65, 112, 0.25); text-align: center;">
