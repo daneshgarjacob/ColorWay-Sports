@@ -53,7 +53,7 @@ The lid is our favorite part of the set. A gold shell with a white center stripe
 
 The black facemask is the other correct call. A gold mask would have washed the front of the helmet into one flat shape; black draws the outline of the cage and gives the helmet structure from the front. And "VUFB" on the bumper instead of a wordmark is a nice piece of understatement from a program that has generally resisted shouting.
 
-## The Numbers, the Patches, and the Details
+## Inside Vanderbilt's New Gold Jersey: Numbers, Patches, and Details
 
 White numbers with a black outline is the right answer on gold. White alone would have floated; black alone would have gone muddy against a warm base. The outline gives you separation at distance, which matters more on gold than on any other base color because gold is the one that turns to beige on a wide camera shot.
 

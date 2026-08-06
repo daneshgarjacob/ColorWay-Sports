@@ -55,7 +55,7 @@ The other thing the white shell does is make the oval G pop harder than it does 
   </blockquote>
 </div>
 
-## The Jersey Does Not Try to Be Clever
+## Georgia's New White Jersey Does Not Try to Be Clever
 
 Look at what is not on this jersey. No wordmark across the chest. No gradient. No alternate number font invented for the occasion. No sleeve print. Georgia took the number set it already wears, black with a red outline, and put it on white, and that restraint is why the uniform is going to age well.
 
