@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-20"
+updatedDate: "2026-08-06"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -155,6 +155,20 @@ Every jersey the Astros wear gets logged the morning after in our [MLB daily uni
 
 **What jersey are the Houston Astros wearing today?**
 The one hard rule is the white "Stros" City Connect on Monday home games at Daikin Park, so if it is a Monday at home, that is the look. The orange alternate is the frequent Friday choice and travels home or away, and the navy alternate is the customary Sunday jersey. On most other home days the Astros wear the home whites, and on the road they default to the gray "Houston" set. Check the day of the week and whether Houston is home or away to narrow it down.
+
+**What jersey did the Astros wear last night?**
+
+For a Monday home night at Daikin Park it was the white "Stros" City Connect, which is the one hard rule on the Houston calendar. A Friday night is usually the orange alternate, home or away, and a Sunday night is customarily the navy alternate. Any other home night is the home whites and any other road night is the gray "Houston" set.
+
+For the uniform we logged in their most recent game, see the [Astros uniform tracker](/mlb-tracker/astros), which we update every morning.
+
+**What uniform are the Astros wearing tonight?**
+
+Start with the day. Monday at home is the white "Stros" City Connect, Friday is the frequent orange-alternate night and it travels, and Sunday is the customary navy alternate. Outside those, the Astros wear the home whites at Daikin Park and the gray "Houston" set on the road.
+
+**What are the Astros wearing tomorrow?**
+
+Look at tomorrow's day of the week and whether Houston is home. A Monday home game is the City Connect, a Friday leans orange either way, and a Sunday leans navy. Any other date defaults to the home whites at home or the grays on the road.
 
 **How many uniforms do the Astros have in 2026?**
 Five: the home white, the road gray, the orange alternate, the navy alternate, and the white "Stros" City Connect. The set carried over from 2025, when the old navy "Space City" City Connect was retired and the new white version took its place.

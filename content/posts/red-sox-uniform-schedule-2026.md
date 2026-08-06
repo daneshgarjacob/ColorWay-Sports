@@ -3,7 +3,7 @@ title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the 
 category: MLB
 date: "2026-06-23"
 topViewsRank: 2
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
@@ -158,6 +158,20 @@ One more constant: all five jerseys carry the **MassMutual** advertising patch o
 
 **What jersey are the Boston Red Sox wearing today?**
 The Red Sox have three hard anchors built around Friday and Saturday. Friday home games at Fenway are the Fenway Green City Connect, Friday road games are the red alternate, and Saturday home games are the yellow "Marathon" City Connect. Any other home game is the home whites, and the rest of the road trip is the gray "BOSTON" set. Check the day of the week and whether the team is home or away, since Friday and Saturday are where the answer actually changes.
+
+**What jersey did the Red Sox wear last night?**
+
+Boston builds three hard anchors around Friday and Saturday. A Friday home night at Fenway was the Fenway Green City Connect, a Friday road night was the red alternate, and a Saturday home night was the yellow "Marathon" City Connect. Any other home night was the home whites and any other road night the gray "BOSTON" set.
+
+For the uniform we logged in their most recent game, see the [Red Sox uniform tracker](/mlb-tracker/red-sox), which we update every morning.
+
+**What uniform are the Red Sox wearing tonight?**
+
+Friday at Fenway is the Fenway Green City Connect. Friday on the road is the red alternate. Saturday at Fenway is the yellow "Marathon" City Connect. Every other home game is the home whites and the rest of the road trip is the gray "BOSTON" set.
+
+**What are the Red Sox wearing tomorrow?**
+
+Friday and Saturday are where the answer actually changes, so start there: Friday is green at home and red on the road, Saturday at home is the yellow Marathon kit. Any other date is the whites at Fenway or the grays on the trip.
 
 **How many uniforms do the Red Sox have in 2026?**
 Five: the home white, the road gray, the red alternate, the yellow "Marathon" City Connect, and the new Fenway Green City Connect. The old navy alternate was retired after the 2024 season.

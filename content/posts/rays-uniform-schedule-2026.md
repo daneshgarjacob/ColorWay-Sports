@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, and the black 'Grit x Glow' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -132,6 +132,20 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 
 **What jersey are the Tampa Bay Rays wearing today?**
 The Rays have two soft anchors at home. Most Friday home games are the 1998 Devil Rays "rainbow" throwback, and most Saturday home games are the black "Grit x Glow" City Connect. Outside those nights there's no fixed day-of-week system, so the home whites, the Columbia blue, and the navy alternate all float, and the two blue tops also handle the road over gray pants. Check the day of the week and whether the Rays are home or away, and remember Friday-rainbow and Saturday-City-Connect are the only reliable tells.
+
+**What jersey did the Rays wear last night?**
+
+A Friday home night was most likely the 1998 Devil Rays "rainbow" throwback and a Saturday home night the black "Grit x Glow" City Connect. Those are Tampa Bay's only reliable tells. Outside them the home whites, the Columbia blue and the navy alternate all float, and the two blue tops also handle road games over gray pants.
+
+For the uniform we logged in their most recent game, see the [Rays uniform tracker](/mlb-tracker/rays), which we update every morning.
+
+**What uniform are the Rays wearing tonight?**
+
+Friday at home leans rainbow throwback, Saturday at home leans the black "Grit x Glow" City Connect. Any other night there is no system, so the home whites, Columbia blue and navy alternate are all live, with the blues also covering the road over gray pants.
+
+**What are the Rays wearing tomorrow?**
+
+Remember the two anchors: Friday rainbow and Saturday City Connect. Every other date is genuinely unpredictable, with the whites and the two blue tops all in play at home and the blues handling the road.
 
 **How many uniforms do the Rays have in 2026?**
 Five core looks: the home white with the sunburst "Rays" wordmark, the Columbia blue alternate, the navy alternate, the 1998 Devil Rays "rainbow" throwback, and the black "Grit x Glow" City Connect. The Columbia blue and navy tops also serve as the road jerseys over gray pants.

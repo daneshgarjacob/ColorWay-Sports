@@ -2,7 +2,7 @@
 title: "Texas Rangers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-31"
+updatedDate: "2026-08-06"
 excerpt: "The Texas Rangers run five uniforms in 2026 — home whites, road grays, the Sunday powder blues, the royal-blue road alternate, and the brand-new 'Tejas' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-uniform-schedule-2026/cover.jpg"
@@ -154,6 +154,20 @@ One thing worth noting for anyone expecting a separate red jersey: there isn't o
 
 **What jersey are the Texas Rangers wearing today?**
 The Rangers have two firm habits at home. Friday home games at Globe Life Field are the red "Tejas" City Connect, and Sunday home games are the powder blue. Any other home game is most likely the home whites, and most road games are the gray "TEXAS" set. The royal-blue alternate has no fixed day and shows up mostly on the road whenever the staff wants a jolt of color. Check the day of the week and whether the Rangers are home or away to land on today's look.
+
+**What jersey did the Rangers wear last night?**
+
+A Friday home night at Globe Life Field was the red "Tejas" City Connect. Sunday home games are the powder blue, though those are usually day games. Any other home night was most likely the home whites and any road night the gray "TEXAS" set, with the royal-blue alternate showing up mostly on the road on no fixed day.
+
+For the uniform we logged in their most recent game, see the [Rangers uniform tracker](/mlb-tracker/rangers), which we update every morning.
+
+**What uniform are the Rangers wearing tonight?**
+
+Friday at Globe Life Field is the red "Tejas" City Connect and Sunday is the powder blue. Any other home game is most likely the home whites, and the road default is the gray "TEXAS" set, with the royal blue as an occasional road jolt.
+
+**What are the Rangers wearing tomorrow?**
+
+Two firm home habits do the work: Friday is the "Tejas" City Connect and Sunday is the powder blue. Everything else is home whites or road grays, with the royal-blue alternate unscheduled.
 
 **How many uniforms do the Rangers have in 2026?**
 Five: the home white, the road gray, the powder blue, the royal-blue road alternate, and the new "Tejas" City Connect. The cream "Peagle" City Connect from 2023–2025 was retired and replaced by the red "Tejas" set.

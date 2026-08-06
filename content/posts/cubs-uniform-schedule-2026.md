@@ -2,7 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-28"
+updatedDate: "2026-08-06"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -151,6 +151,20 @@ Two constants tie the whole 2026 closet together. Every jersey carries the **Mot
 **What jersey are the Chicago Cubs wearing today?**
 
 The Cubs keep a loose closet with only one hard rule, so start with the day and the location. The powder-blue "Blues" alternate is worn at home on Fridays during the summer months, and that is the only fixed slot. Outside that Friday hook, home games are the white pinstripes and road games are the grays, with the royal-blue alternate dropped in at the manager's discretion. If it is a summer Friday at Wrigley, expect the Blues; otherwise check home or away and assume the pinstripes or grays.
+
+**What jersey did the Cubs wear last night?**
+
+A summer Friday home night at Wrigley was the powder-blue "Blues" alternate, which is the Cubs' only fixed slot. Any other home night was the white pinstripes and any road night was the grays, with the royal-blue alternate dropped in at the manager's discretion rather than on a schedule.
+
+For the uniform we logged in their most recent game, see the [Cubs uniform tracker](/mlb-tracker/cubs), which we update every morning.
+
+**What uniform are the Cubs wearing tonight?**
+
+If it is a Friday at Wrigley during the summer months, it is the powder-blue "Blues." Outside that one hook the Cubs keep a loose closet: pinstripes at home, grays on the road, and the royal-blue alternate whenever the manager wants it.
+
+**What are the Cubs wearing tomorrow?**
+
+The only date you can call with confidence is a summer Friday at Wrigley, which is the powder-blue alternate. Otherwise check whether the Cubs are home or away and assume the white pinstripes or the road grays.
 
 **How many uniforms do the Cubs have in 2026?**
 Four: the home white pinstripes, the road grays, the royal-blue alternate, and the powder-blue "Blues" alternate. There's no City Connect in the mix — the navy "Wrigleyville" City Connect was retired after the 2024 season.

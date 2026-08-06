@@ -2,7 +2,7 @@
 title: "Cleveland Guardians Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Cleveland Guardians run five uniforms in 2026 — home whites, road grays, the red alternate, the navy alternate, and the 'CLE' City Connect built from the Guardians of Traffic statues. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
@@ -135,6 +135,20 @@ One more constant across all five: every Guardians jersey carries the **Marathon
 **What jersey are the Cleveland Guardians wearing today?**
 
 Cleveland keeps a loose closet with just one soft anchor, so the day and location are the best guide. The navy "CLE" City Connect is worn on Friday home games at Progressive Field. Beyond that there is no fixed day-of-week system: the home whites cover most home dates, the road grays cover most away games, and the red and navy alternates are manager's choice, with red usually at home and navy usually on the road. If it is a Friday at home expect the City Connect, otherwise check home or away and assume the whites or grays.
+
+**What jersey did the Guardians wear last night?**
+
+A Friday home night at Progressive Field was the navy "CLE" City Connect, Cleveland's one soft anchor. Any other home night was most likely the home whites and any road night the grays, with the red and navy alternates as manager's choice, red usually at home and navy usually on the road.
+
+For the uniform we logged in their most recent game, see the [Guardians uniform tracker](/mlb-tracker/guardians), which we update every morning.
+
+**What uniform are the Guardians wearing tonight?**
+
+Friday at Progressive Field is the navy "CLE" City Connect. Beyond that Cleveland keeps a loose closet, so expect the home whites or the road grays, with red at home and navy on the road when an alternate gets pulled.
+
+**What are the Guardians wearing tomorrow?**
+
+A Friday home game means the City Connect. Any other date comes down to home or away, meaning the whites or the grays, with the red and navy alternates a game-time decision.
 
 **How many uniforms do the Guardians have in 2026?**
 Five: the home white, the road gray, the red alternate, the navy alternate, and the navy "CLE" City Connect. The set carried over unchanged from 2025, the year Cleveland overhauled the closet with new piping, a horizontal "Guardians" script, and a new home cap.

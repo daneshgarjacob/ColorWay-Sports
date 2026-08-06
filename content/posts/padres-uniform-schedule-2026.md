@@ -2,7 +2,7 @@
 title: 'San Diego Padres Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-20"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Padres have six uniforms in 2026, anchored by City Connect Fridays and
   camo Sundays. We break down every jersey and when they wear it.
@@ -156,6 +156,20 @@ Every jersey the Padres wear gets logged the morning after in our [MLB daily uni
 **What jersey are the San Diego Padres wearing today?**
 
 Two home days are locked in: the "Obsidian" City Connect on every Friday home game and the camouflage military jersey on every Sunday home game. The home white pinstripe is the default for other home dates, with Saturday often flipping to the brown alternate at the team's choice. On the road the Padres rotate between the brown "San Diego" set and the sand pinstripe set with no fixed day. Check the day of week and whether they are home: Friday means the City Connect, Sunday means the camo, and otherwise expect the home whites or a team's-choice alternate.
+
+**What jersey did the Padres wear last night?**
+
+A Friday home night at Petco Park was the "Obsidian" City Connect. Sunday home games are the camouflage military jersey, though those are usually day games. Any other home night was most likely the home white pinstripe, with Saturday often flipping to the brown alternate, and road nights rotate between the brown "San Diego" set and the sand pinstripes.
+
+For the uniform we logged in their most recent game, see the [Padres uniform tracker](/mlb-tracker/padres), which we update every morning.
+
+**What uniform are the Padres wearing tonight?**
+
+Friday at Petco Park is the "Obsidian" City Connect and Sunday is the camo military jersey. Other home dates default to the white pinstripe, with Saturday often the brown alternate. On the road the Padres rotate between the brown "San Diego" set and the sand pinstripes with no fixed day.
+
+**What are the Padres wearing tomorrow?**
+
+Two home days are locked: Friday is the City Connect and Sunday is the camo. Other home dates are the white pinstripes or a team's-choice brown alternate, and the road is a rotation between brown and sand.
 
 **What is the San Diego Padres City Connect uniform for 2026?**
 

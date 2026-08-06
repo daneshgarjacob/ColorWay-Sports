@@ -2,7 +2,7 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-28"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
   down all five looks and exactly when each jersey is worn in 2026.
@@ -164,6 +164,20 @@ Every jersey the Cardinals wear gets logged the morning after in our [MLB daily 
 **What jersey are the St. Louis Cardinals wearing today?**
 
 The Cardinals run a strict day-of-week system, so the day and the location tell you the look. At home, Friday is "The Lou" red City Connect, Saturday is the cream alternate, and every other home game is the home white. On the road, Saturday is the powder-blue "Victory Blue" alternate and every other away game is the road gray. Check whether they are home or away and what day it is, and you can call the jersey before the lineup card is posted.
+
+**What jersey did the Cardinals wear last night?**
+
+The Cardinals run a strict day-of-week system, so the answer is exact. A Friday home night was "The Lou" red City Connect, a Saturday home night was the cream alternate, and any other home night was the home white. On the road, Saturday was the powder-blue "Victory Blue" alternate and every other night was the road gray.
+
+For the uniform we logged in their most recent game, see the [Cardinals uniform tracker](/mlb-tracker/cardinals), which we update every morning.
+
+**What uniform are the Cardinals wearing tonight?**
+
+Because St. Louis keeps a strict system, you can call it before the lineup card is posted. At home: Friday is the red City Connect, Saturday is the cream, everything else is the home white. On the road: Saturday is the powder-blue "Victory Blue," everything else is the road gray.
+
+**What are the Cardinals wearing tomorrow?**
+
+The Cardinals are one of the easiest teams in baseball to predict a day out. Home Friday is the red City Connect, home Saturday is the cream, other home games are the white. Away Saturday is the powder blue, other away games are the gray.
 
 **When do the St. Louis Cardinals wear their red City Connect uniform in 2026?**
 

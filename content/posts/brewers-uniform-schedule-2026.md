@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-31"
+updatedDate: "2026-08-06"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -158,6 +158,20 @@ Every jersey the Brewers wear gets logged the morning after in our [MLB daily un
 
 **What jersey are the Milwaukee Brewers wearing today?**
 The Brewers run more on feel than a fixed timetable, but there are two soft anchors: the navy ball-in-glove alternate on Sundays, home and away, and the "Wisco" City Connect on Friday home games. On the road most other days they wear the new powder blue set, since the gray road uniforms are retired. At home the cream and the white pinstripe trade off through the homestand with no fixed rule. Check whether it is a Sunday or a Friday home game first, and otherwise expect powder blue on the road or cream or pinstripes at home.
+
+**What jersey did the Brewers wear last night?**
+
+A Friday home night was the "Wisco" City Connect and a Sunday was the navy ball-in-glove alternate, home or away. Those are Milwaukee's two soft anchors. Any other road night was the powder blue set, since the gray road uniforms are retired, and any other home night was the cream or the white pinstripe.
+
+For the uniform we logged in their most recent game, see the [Brewers uniform tracker](/mlb-tracker/brewers), which we update every morning.
+
+**What uniform are the Brewers wearing tonight?**
+
+Friday at home is the "Wisco" City Connect and Sunday is the navy ball-in-glove alternate either way. Otherwise the Brewers wear powder blue on the road, because the grays are gone, and trade off between the cream and the white pinstripe at home with no fixed rule.
+
+**What are the Brewers wearing tomorrow?**
+
+Check for a Friday home game, which means the City Connect, or a Sunday, which means the navy ball-in-glove. Beyond those, the Brewers run on feel: powder blue on the road and cream or pinstripes at American Family Field.
 
 **How many uniforms do the Brewers have in 2026?**
 Five: the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the "Wisco" City Connect. The traditional road grays were retired ahead of 2026.

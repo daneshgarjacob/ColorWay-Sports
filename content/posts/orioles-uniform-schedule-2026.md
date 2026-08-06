@@ -2,7 +2,7 @@
 title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: '2026-07-28'
+updatedDate: "2026-08-06"
 excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
@@ -172,6 +172,20 @@ Every jersey the Orioles wear gets logged the morning after in our [MLB daily un
 **What jersey are the Baltimore Orioles wearing today?**
 
 The Orioles run a loose rotation with one firm rule: the new cream "BMORE" City Connect on every Friday home game. Beyond that there is no day-by-day script, so any other home game is the team's choice between the home whites, the orange alternate, or the black alternate, with the rare orange-on-orange combo a few times a year. Road games use the gray "Baltimore" jerseys. Check the day of week and whether they are home: a Friday home game means the City Connect, otherwise the home whites are the safest bet and the alternates are a game-time call.
+
+**What jersey did the Orioles wear last night?**
+
+A Friday home night at Camden Yards was the cream "BMORE" City Connect, which is Baltimore's one firm rule. Any other home night was the team's choice between the home whites, the orange alternate and the black alternate, and every road game was the gray "Baltimore" set.
+
+For the uniform we logged in their most recent game, see the [Orioles uniform tracker](/mlb-tracker/orioles), which we update every morning.
+
+**What uniform are the Orioles wearing tonight?**
+
+Friday at Camden Yards is the cream "BMORE" City Connect. Any other home game is a game-time choice between the home whites, the orange alternate and the black alternate, with the whites the safest bet. On the road it is the gray "Baltimore" jerseys.
+
+**What are the Orioles wearing tomorrow?**
+
+A Friday home game means the City Connect. Beyond that there is no day-by-day script, so the home whites are the safest call at home and the grays are automatic on the road, with the orange and black alternates a coin flip.
 
 **What is the Baltimore Orioles City Connect uniform for 2026?**
 

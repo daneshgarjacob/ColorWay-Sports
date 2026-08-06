@@ -2,7 +2,7 @@
 title: 'Kansas City Royals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Royals run a five-jersey uniform rotation in 2026, anchored by City
   Connect Fridays and powder blue Saturdays. We break down every jersey and
@@ -143,6 +143,20 @@ Friday means City Connect. Saturday means powder blue. Those two pieces give fan
 **What jersey are the Kansas City Royals wearing today?**
 
 Check the day of the week and whether the Royals are home or away. The two fixed anchors are the "Forever Fountains" City Connect on Friday home games and the powder blue full set on Saturday home games (and Opening Day) at Kauffman Stadium. Outside of those, the home default is the white jersey and the road default is the gray, with the royal blue alternate worn at the team's discretion. So if it is a Friday or Saturday home game you know the look, and most other days come down to home white or road gray.
+
+**What jersey did the Royals wear last night?**
+
+A Friday home night at Kauffman Stadium was the "Forever Fountains" City Connect and a Saturday home game the full powder blue set. Any other home night was most likely the white jersey and any road night the gray, with the royal blue alternate worn at the team's discretion.
+
+For the uniform we logged in their most recent game, see the [Royals uniform tracker](/mlb-tracker/royals), which we update every morning.
+
+**What uniform are the Royals wearing tonight?**
+
+Friday at Kauffman is the "Forever Fountains" City Connect and Saturday is the powder blue full set, which is also the Opening Day look. Any other home game defaults to the white and any road game to the gray, with the royal blue alternate a team decision.
+
+**What are the Royals wearing tomorrow?**
+
+If tomorrow is a Friday or Saturday home game you already know the look: City Connect or powder blue. Most other days come down to home white or road gray.
 
 **What is the Kansas City Royals City Connect uniform for 2026?**
 

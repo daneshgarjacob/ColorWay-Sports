@@ -2,7 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
@@ -129,6 +129,20 @@ A child watching a Yankees game in 2026 sees the same look on Aaron Judge that t
 
 **What jersey are the New York Yankees wearing today?**
 This one is easy: home games mean the home pinstripes, and road games mean the road grays. The Yankees do not run alternates, City Connects, or day-of-week looks, so the only thing you need to know is whether the team is home or away. The navy alternate road jersey exists in the closet but has not been worn in a regular season game. So if the Yankees are home it is pinstripes, and if they are away it is grays.
+
+**What jersey did the Yankees wear last night?**
+
+If the Yankees were at home it was the home pinstripes, and if they were on the road it was the road grays. That is the whole answer. New York does not run alternates, City Connects or day-of-week looks, so the hour and the day of the week make no difference.
+
+For the uniform we logged in their most recent game, see the [Yankees uniform tracker](/mlb-tracker/yankees), which we update every morning.
+
+**What uniform are the Yankees wearing tonight?**
+
+Home means the home pinstripes and away means the road grays. The Yankees are the simplest team in baseball to predict, because they carry no alternates and no City Connect. A navy alternate road jersey exists in the closet but has never been worn in a regular season game.
+
+**What are the Yankees wearing tomorrow?**
+
+Only one thing matters: whether the Yankees are home or away. Home is pinstripes, away is grays, every day of the week, day game or night game.
 
 **Why don't the Yankees have alternate jerseys?**
 It is a deliberate branding choice. Home pinstripes and road grays have been the entire visual identity for over a century, and the team treats that continuity as the brand itself. Adding extra looks would erase part of what makes the Yankees distinct, so they keep the rotation to a simple home-or-road switch.

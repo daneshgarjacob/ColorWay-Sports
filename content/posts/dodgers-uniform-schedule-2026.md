@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-07-23"
+updatedDate: "2026-08-06"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
@@ -132,6 +132,20 @@ The system protects the franchise's heritage by keeping the classic uniforms fro
 **What jersey are the Los Angeles Dodgers wearing today?**
 
 The Dodgers keep a tight rotation with one fixed slot, so the day and location point you to the look. The cream City of Dreamers City Connect is locked to Saturday home games at Dodger Stadium. Every other home game is the home whites, and most road games are the road grays, with the royal blue road alternate pulled only for select road series. Check whether they are home or away and whether it is a Saturday at home, and you can usually call the jersey.
+
+**What jersey did the Dodgers wear last night?**
+
+A Saturday home night at Dodger Stadium was the cream City of Dreamers City Connect, which is locked to that slot. Any other home night was the home whites. Most road nights were the road grays, with the royal blue road alternate pulled only for select road series.
+
+For the uniform we logged in their most recent game, see the [Dodgers uniform tracker](/mlb-tracker/dodgers), which we update every morning.
+
+**What uniform are the Dodgers wearing tonight?**
+
+Saturday at Dodger Stadium is the cream City of Dreamers City Connect. Every other home game is the home whites. On the road it is the grays most nights, with the royal blue alternate reserved for select series.
+
+**What are the Dodgers wearing tomorrow?**
+
+Check whether the Dodgers are home and whether it is a Saturday. A Saturday at Chavez Ravine is the City Connect, any other home date is the whites, and the road is the grays apart from the occasional royal blue series.
 
 **How many uniforms do the Dodgers have in 2026?**
 

@@ -2,7 +2,7 @@
 title: "Arizona Diamondbacks Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Arizona Diamondbacks run five uniforms in 2026 — home off-whites, road grays, the Sedona red alternate, the black alternate, and the purple-and-teal 'Serpientes' City Connect. Here's every jersey, when they wear it, and how the new teal-forward identity came together."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg"
@@ -139,6 +139,20 @@ One more constant across all five: every Diamondbacks jersey carries the **Avnet
 **What jersey are the Arizona Diamondbacks wearing today?**
 
 Arizona only has one fixed slot, so the day and location are your best guide. The purple-and-teal "Serpientes" City Connect is worn for Friday home games at Chase Field. Beyond that Friday anchor there is no strict day-of-week script: the off-whites cover most home dates, the road grays cover most away games, and the Sedona red and black alternates are manager's choice, dropped in at home or on the road, often on a Saturday or giveaway night. If it is a Friday at home expect the City Connect, otherwise check home or away and assume the off-whites or grays.
+
+**What jersey did the Diamondbacks wear last night?**
+
+A Friday home night at Chase Field was the purple-and-teal "Serpientes" City Connect, Arizona's one fixed slot. Any other home night was most likely the off-whites and any road night the grays, with the Sedona red and black alternates appearing at the team's choice, often on a Saturday or a giveaway night.
+
+For the uniform we logged in their most recent game, see the [Diamondbacks uniform tracker](/mlb-tracker/diamondbacks), which we update every morning.
+
+**What uniform are the Diamondbacks wearing tonight?**
+
+Friday at Chase Field is the "Serpientes" City Connect. Beyond that there is no day-of-week script, so expect the off-whites at home and the road grays on the trip, with the Sedona red or black alternate a game-time call.
+
+**What are the Diamondbacks wearing tomorrow?**
+
+Look for a Friday home game, which locks in the purple-and-teal City Connect. Any other date comes down to home or away, meaning the off-whites or the grays, with the red and black alternates as manager's choice.
 
 **How many uniforms do the Diamondbacks have in 2026?**
 Five: the home off-white, the road gray, the Sedona red alternate, the black alternate, and the purple-and-teal "Serpientes" City Connect. The set carried over from the 2024 overhaul, with only fabric and detail tweaks for 2026.

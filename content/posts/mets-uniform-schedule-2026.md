@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-03"
+updatedDate: "2026-08-06"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -171,6 +171,20 @@ One more constant across all five: every Mets jersey carries the **NewYork-Presb
 
 **What jersey are the New York Mets wearing today?**
 The Mets only have two fixed days, both at home: the black alternate on Friday home games and the gray "NYC" City Connect on Saturday home games. Everything else is manager's choice rather than a daily script, so the home white pinstripes cover most other home games, the road grays cover most away games, and the blue alternate can pop up on any day, usually on the road. Check the day of week and whether they are home: if it is a Friday or Saturday home game you can count on the anchor, otherwise expect the pinstripes at home or the grays on the road.
+
+**What jersey did the Mets wear last night?**
+
+A Friday home night at Citi Field was the black alternate and a Saturday was the gray "NYC" City Connect. Those are the Mets' only two fixed days. Any other home night was most likely the white pinstripes and any road night the grays, with the blue alternate able to pop up on any date, usually on the road.
+
+For the uniform we logged in their most recent game, see the [Mets uniform tracker](/mlb-tracker/mets), which we update every morning.
+
+**What uniform are the Mets wearing tonight?**
+
+Friday at Citi Field is the black alternate, Saturday is the "NYC" City Connect. Everything else is manager's choice rather than a script, so expect the white pinstripes at home and the grays on the road, with the blue alternate a possibility either way.
+
+**What are the Mets wearing tomorrow?**
+
+If tomorrow is a Friday or Saturday home game, the anchor is reliable: black on Friday, City Connect on Saturday. Any other date is the pinstripes at home or the grays on the road, with the blue alternate turning up on no fixed schedule.
 
 **How many uniforms do the Mets have in 2026?**
 Five: the home white pinstripes, the road grays, the blue alternate, the black alternate, and the gray "NYC" City Connect. The set carried over from 2025, with only detail changes for 2026 — a "DAVEY" memorial patch and the restored road "NEW YORK" lettering size. The 1986 Cooperstown throwback worn over the August 1-2 anniversary weekend is a one-off tribute, not a sixth uniform.

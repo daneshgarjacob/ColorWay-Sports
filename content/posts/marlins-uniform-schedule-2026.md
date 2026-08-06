@@ -4,7 +4,7 @@ title: >-
   Sundays
 category: MLB
 date: '2026-04-24'
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Miami Marlins gave every weekend home game its own jersey in 2026. Retro
   Wave Fridays, home whites Saturdays, teal Sundays. We break down the full
@@ -144,6 +144,20 @@ More teams should take notes.
 **What jersey are the Miami Marlins wearing today?**
 
 For home games, the weekend is locked in: Retro Wave City Connect on Friday, the home white uniform on Saturday, and the teal throwback on Sunday. Monday through Thursday home games use the standard home white or the black alternate depending on the series and promotional night, and all road games use the away grays. Check the day of week and whether Miami is home or away, and the weekend schedule will tell you the rest.
+
+**What jersey did the Marlins wear last night?**
+
+A Friday home night at loanDepot Park was the Retro Wave City Connect and a Sunday was the teal throwback. Saturday home games are the home white. A Monday through Thursday home night was either the home white or the black alternate depending on the series and the promotional night, and every road game was the away grays.
+
+For the uniform we logged in their most recent game, see the [Marlins uniform tracker](/mlb-tracker/marlins), which we update every morning.
+
+**What uniform are the Marlins wearing tonight?**
+
+Friday at home is the Retro Wave City Connect, Saturday is the home white, and Sunday is the teal throwback. Monday through Thursday at home is the home white or the black alternate depending on the promotion. On the road it is the away grays.
+
+**What are the Marlins wearing tomorrow?**
+
+Miami's weekend is locked: Friday Retro Wave, Saturday home white, Sunday teal. Midweek home games come down to the series and the promotional schedule, and every road game is the grays.
 
 **What is the Miami Marlins uniform schedule for 2026?**
 

@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: The Road Grays Are Back, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-03"
+updatedDate: "2026-08-06"
 excerpt: "The Angels run five uniforms in 2026: the home whites, the road grays, the red 'Angels' jersey, the Surf City Connect, and the 1980s throwback white. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -147,6 +147,20 @@ One more note on what's *not* in the closet: the Angels don't carry a navy or po
 
 **What jersey are the Los Angeles Angels wearing today?**
 The Angels do not run a fixed day-of-week script, so the safest bet is the red "Angels" jersey, which is comfortably their most-worn shirt. The one soft anchor is the cream surf-themed City Connect on Friday home games. On the road you will see either the red or the "Los Angeles" grays, which returned to the rotation this season. At home it is the white, the red, or the 1980s throwback white, which arrives in unannounced bunches. Check whether the Angels are home or away and whether it is a Friday, and assume red any time you are unsure.
+
+**What jersey did the Angels wear last night?**
+
+The Angels do not run a day-of-week script, so night games come down to probability rather than a rule: the red "Angels" jersey is comfortably their most-worn shirt and is the safest assumption for any evening game, home or away. The one exception is a Friday home night, which is the cream surf-themed City Connect.
+
+For the uniform we logged in their most recent game, see the [Angels uniform tracker](/mlb-tracker/angels), which we update every morning.
+
+**What uniform are the Angels wearing tonight?**
+
+Assume the red "Angels" alternate unless it is a Friday home game, which is the cream City Connect. On the road at night you will see either the red or the returning "Los Angeles" grays, and at home the white or the 1980s throwback white can also appear in unannounced bunches.
+
+**What are the Angels wearing tomorrow?**
+
+Check two things: whether the Angels are home or away, and whether it is a Friday. A Friday home game is the cream City Connect. Everything else is a coin flip weighted heavily toward the red jersey, with the whites and the 1980s throwback filling in at home and the "Los Angeles" grays on the road.
 
 **How many uniforms do the Angels have in 2026?**
 Five: the home white, the "Los Angeles" road gray, the red "Angels" jersey, the cream Surf City City Connect, and the 1980s throwback white. Three of the five are white or cream tops, which is unusual for any club.

@@ -2,7 +2,7 @@
 title: "Seattle Mariners Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Seattle Mariners run five uniforms in 2026 — the home whites, road navy, the Northwest green alternate, the brand-new Steelheads Sunday throwback, and an all-new rush-blue City Connect. Here's every jersey, when they wear it, and what changed this year."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #005C5C 50%, #0C2C56 100%)"
 coverImage: "/images/posts/mariners-uniform-schedule-2026/cover.jpg"
@@ -138,6 +138,20 @@ One more constant worth noting: since 2025 the Mariners have carried a **Nintend
 
 **What jersey are the Seattle Mariners wearing today?**
 It depends on the day and whether they are home or away. At home, the soft anchors are the rush-blue City Connect on Friday, the Northwest green alternate on Saturday, and the new black-and-cream Steelheads throwback on Sunday, with the home whites covering the rest of the homestand. On the road the default is the navy "Seattle" jersey, with the Northwest green free to travel when the home team wears navy or black. Check the day of week and whether Seattle is at home or away, and the weekend anchors will usually tell you the rest.
+
+**What jersey did the Mariners wear last night?**
+
+Seattle stacks its anchors on the weekend at home: Friday night was the rush-blue City Connect, Saturday was the Northwest green alternate, and Sunday was the black-and-cream Steelheads throwback. Any other home night was the home whites. On the road the default is the navy "Seattle" jersey, with the Northwest green free to travel when the home team wears navy or black.
+
+For the uniform we logged in their most recent game, see the [Mariners uniform tracker](/mlb-tracker/mariners), which we update every morning.
+
+**What uniform are the Mariners wearing tonight?**
+
+At T-Mobile Park: Friday is the rush-blue City Connect, Saturday is the Northwest green, Sunday is the Steelheads throwback, and the home whites cover the rest of the homestand. On the road expect the navy "Seattle" jersey, or the green if the home team is in navy or black.
+
+**What are the Mariners wearing tomorrow?**
+
+The weekend anchors do most of the work: Friday City Connect, Saturday Northwest green, Sunday Steelheads. Weekday home games are the whites. On the road it is navy, since the Mariners no longer wear gray road uniforms.
 
 **How many uniforms do the Mariners have in 2026?**
 Five: the home white, the road navy, the Northwest green alternate, the new Steelheads Sunday throwback, and an all-new rush-blue City Connect. That fits MLB's "4+1" structure — four standard uniforms plus the City Connect. Both the Steelheads look and the City Connect are new for 2026.

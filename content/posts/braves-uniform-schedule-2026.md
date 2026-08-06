@@ -3,7 +3,7 @@ title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
 topViewsRank: 5
-updatedDate: "2026-07-22"
+updatedDate: "2026-08-06"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
@@ -140,6 +140,20 @@ Every jersey the Braves wear gets logged the morning after in our [MLB daily uni
 
 **What jersey are the Atlanta Braves wearing today?**
 The Braves run one of baseball's closest things to a scheduled rotation, so the day tells you a lot. The powder blue City Connect is locked to Friday night home games, and the red and navy alternates get pulled for select weeknights, often Tuesday or Wednesday. Most other home games are the home whites, and every road game stays in the gray Atlanta set. Check the day of the week and whether Atlanta is home or away to land on the right look.
+
+**What jersey did the Braves wear last night?**
+
+A Friday home night was the powder blue City Connect, which is locked to that slot. Tuesday and Wednesday nights are where the red and navy alternates usually get pulled. Any other home night was the home whites, and every road game stays in the gray Atlanta set regardless of the hour.
+
+For the uniform we logged in their most recent game, see the [Braves uniform tracker](/mlb-tracker/braves), which we update every morning.
+
+**What uniform are the Braves wearing tonight?**
+
+Friday night at Truist Park is the powder blue City Connect. A Tuesday or Wednesday night is the most likely spot for the red or navy alternate. Any other home night is the home whites, and on the road it is the gray Atlanta set every time.
+
+**What are the Braves wearing tomorrow?**
+
+The Braves run one of the closest things to a scheduled rotation in baseball, so tomorrow's day tells you most of it. Friday night at home is the powder blue City Connect, select weeknights are the red or navy alternates, other home games are the whites, and all road games are the grays.
 
 **How many uniforms do the Braves have in 2026?**
 Five in active rotation: the home whites, the road grays, the red alternate, the navy alternate, and the powder blue City Connect. A cream alternate is still sold at retail but has not appeared on the field this season.

@@ -2,7 +2,7 @@
 title: "Detroit Tigers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Detroit Tigers run five uniforms in 2026 — home whites, road grays, the brand-new orange home alternate, the navy road alternate, and the Motor City City Connect. Here's every jersey, when they wear it, and why the franchise wore orange for the first time in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #FA4616 50%, #0C2340 100%)"
 coverImage: "/images/posts/tigers-uniform-schedule-2026/cover.jpg"
@@ -134,6 +134,20 @@ One more constant: the home and road jerseys carry the **Meijer** advertising pa
 
 **What jersey are the Detroit Tigers wearing today?**
 Check the day of the week and whether the Tigers are home or away. The two fixed anchors are the orange home alternate on Friday home games and the Motor City City Connect on select Monday home games at Comerica Park. Most other home games are the home whites, and the road default is the gray set, with the navy alternate sprinkled into select road games at the team's discretion. So Friday home means orange and a Monday home night can mean City Connect, while everything else comes down to home white or road gray.
+
+**What jersey did the Tigers wear last night?**
+
+A Friday home night at Comerica Park was the orange home alternate, and a select Monday home night was the Motor City City Connect. Any other home night was most likely the home whites and any road night the gray set, with the navy alternate sprinkled into select road games at the team's discretion.
+
+For the uniform we logged in their most recent game, see the [Tigers uniform tracker](/mlb-tracker/tigers), which we update every morning.
+
+**What uniform are the Tigers wearing tonight?**
+
+Friday at Comerica Park is the orange home alternate, and a Monday home night can mean the Motor City City Connect on select dates. Everything else comes down to the home whites at home or the gray set on the road, with the navy alternate an occasional road pick.
+
+**What are the Tigers wearing tomorrow?**
+
+Friday at home means orange and a select Monday home night can mean the City Connect. Any other date is home white or road gray, with the navy alternate unscheduled.
 
 **How many uniforms do the Tigers have in 2026?**
 Five: the home white, the road gray, the new orange home alternate, the new navy road alternate, and the Motor City City Connect. The two alternates were unveiled in February 2026 and are the first major additions to the closet in years.

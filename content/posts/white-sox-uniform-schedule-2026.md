@@ -2,7 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -138,6 +138,20 @@ Every jersey the White Sox wear gets logged the morning after in our [MLB daily 
 
 **What jersey are the Chicago White Sox wearing today?**
 The White Sox do not run a fixed day-of-week system, so check whether the team is home or away first. The two recognizable defaults are the home white pinstripes for most home games and the road grays on the trip. The black alternate tends to surface on weekend home nights, and the red Bulls-inspired City Connect is tied to specific promotional dates rather than a standing weekday, so it can land on almost any home game. If it is a weekend home night, the black alternate is a good bet, otherwise expect home pinstripes at home and grays on the road.
+
+**What jersey did the White Sox wear last night?**
+
+A weekend home night at Rate Field was most likely the black alternate, which is where that jersey tends to surface. Any other home night was the white pinstripes and any road night the grays. The red Bulls-inspired City Connect is tied to specific promotional dates rather than a standing weekday, so it can land on almost any home game.
+
+For the uniform we logged in their most recent game, see the [White Sox uniform tracker](/mlb-tracker/white-sox), which we update every morning.
+
+**What uniform are the White Sox wearing tonight?**
+
+If it is a weekend home night, the black alternate is a good bet. Otherwise expect the home white pinstripes at Rate Field or the road grays on the trip. The red City Connect follows the promotional calendar rather than a day of the week.
+
+**What are the White Sox wearing tomorrow?**
+
+There is no fixed day-of-week system, so check home or away first: pinstripes at home, grays on the road. A weekend home night leans black alternate, and the red City Connect depends entirely on the promotional schedule.
 
 **How many uniforms do the White Sox have in 2026?**
 Five, under MLB's "4+1" rule: the home white pinstripes, the road grays, the black alternate, the charcoal "Southside" alternate, and the new red Bulls-inspired City Connect. For 2026 all five also carry the new CME Group sleeve patch.

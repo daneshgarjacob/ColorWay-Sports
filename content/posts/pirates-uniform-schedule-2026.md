@@ -2,7 +2,7 @@
 title: "Pittsburgh Pirates Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white pinstripes, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
 gradient: "linear-gradient(135deg, #27251F 0%, #FDB827 50%, #27251F 100%)"
 coverImage: "/images/posts/pirates-uniform-schedule-2026/cover.jpg"
@@ -128,6 +128,20 @@ It still works, because the one anchor covers the jersey fans actually plan arou
 
 **What jersey are the Pittsburgh Pirates wearing today?**
 If it's a Friday home game at PNC Park, it's the new all-black City Connect with gold gothic "Pirates" lettering. Any other home game is most likely the home white pinstripes, and most road games are the gray "Pittsburgh" script set. The black alternate is the wild card with no fixed day, so it can turn up at home or away whenever the staff wants it. Check the day of the week and whether the Pirates are home or away, and Friday-at-home is your one reliable City Connect tell.
+
+**What jersey did the Pirates wear last night?**
+
+A Friday home night at PNC Park was the all-black City Connect with the gold gothic "Pirates" lettering. Any other home night was most likely the home white pinstripes and any road night the gray "Pittsburgh" script set, with the black alternate a wild card that can turn up on any date.
+
+For the uniform we logged in their most recent game, see the [Pirates uniform tracker](/mlb-tracker/pirates), which we update every morning.
+
+**What uniform are the Pirates wearing tonight?**
+
+Friday at PNC Park is the all-black City Connect. Any other home game is most likely the white pinstripes, and the road is the gray "Pittsburgh" script set. The black alternate has no fixed day and can appear either way.
+
+**What are the Pirates wearing tomorrow?**
+
+Friday at home is your one reliable tell, and it means the City Connect. Otherwise check home or away and assume the white pinstripes or the gray script set.
 
 **How many uniforms do the Pirates have in 2026?**
 Four: the home white pinstripes, the road gray "Pittsburgh" script, the black alternate, and the new City Connect. Three are holdovers; only the City Connect was redesigned for 2026.

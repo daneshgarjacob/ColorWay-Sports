@@ -2,7 +2,7 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-03"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Giants have five uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
@@ -158,6 +158,20 @@ Five uniforms, three standing themed days, and a closet that finally has a fresh
 **What jersey are the San Francisco Giants wearing today?**
 
 The Giants run three locked themed days at home, so the day of the week tells you a lot. At Oracle Park, Tuesday is the music City Connect, Friday is the Orange Friday alternate, and Saturday is the new Gigantes alternate. Every other home date is the cream home jersey, which is their version of a home white, and on the road it is the road gray every time since the themed days do not travel. Check the day and whether they are home or away, and the three Tuesday-Friday-Saturday hooks will usually give you the look.
+
+**What jersey did the Giants wear last night?**
+
+The Giants lock three themed days at Oracle Park, so the day is decisive. A Tuesday home night was the music City Connect, a Friday was the Orange Friday alternate, and a Saturday was the Gigantes alternate. Any other home night was the cream home jersey, and every road night was the road gray, because the themed days do not travel.
+
+For the uniform we logged in their most recent game, see the [Giants uniform tracker](/mlb-tracker/giants), which we update every morning.
+
+**What uniform are the Giants wearing tonight?**
+
+At Oracle Park: Tuesday is the music City Connect, Friday is Orange Friday, Saturday is Gigantes. Any other home date is the cream home jersey, which functions as San Francisco's home white. On the road it is the gray every time.
+
+**What are the Giants wearing tomorrow?**
+
+The three Tuesday, Friday and Saturday hooks at home will usually give you tomorrow's look. Outside them it is the cream at home and the gray on the road, since none of the themed uniforms travel.
 
 **Is the Giants "Gigantes" uniform a City Connect?**
 

@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-06"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -185,6 +185,20 @@ More teams should take notes.
 
 **What jersey are the Philadelphia Phillies wearing today?**
 The Phillies run a strict scheduled rotation, so the day of the week tells you almost everything at home. Home night games are the red pinstripes, except Thursdays (powder blues) and Fridays (City Connect). Home day games are the creams, except Thursdays. Thursday home games are always the powder blues, and Friday night home games are the City Connect. Every road game is the gray road uniform. Check whether the Phillies are home or away, then the day and whether it's a day or night game, and you'll know exactly what they're wearing.
+
+**What jersey did the Phillies wear last night?**
+
+The Phillies run the strictest rotation in baseball, so a home night game is exact: red pinstripes, except Thursdays, which are always the powder blues, and Friday nights, which are always the City Connect. Every road game is the gray road uniform regardless of the day or the hour.
+
+For the uniform we logged in their most recent game, see the [Phillies uniform tracker](/mlb-tracker/phillies), which we update every morning.
+
+**What uniform are the Phillies wearing tonight?**
+
+For a home night game it is the red pinstripes, unless it is a Thursday (powder blues) or a Friday night (City Connect). Home day games are the creams, again except Thursdays. On the road it is the gray road uniform every single game.
+
+**What are the Phillies wearing tomorrow?**
+
+You can call it exactly. Work out three things: home or away, the day of the week, and day game or night game. Home nights are red pinstripes, home days are creams, Thursdays are always powder blues, Friday nights are the City Connect, and every road game is the grays.
 
 **How many uniforms do the Phillies have in 2026?**
 Five: the red pinstripes, the cream alternates, the powder blues, the City Connect, and the road grays. All five carry the Independence Blue Cross (IBX) sleeve patch and a chain-stitched wordmark for 2026.
