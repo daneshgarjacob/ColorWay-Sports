@@ -27,6 +27,10 @@ ESPN ranked it 34th of every Premier League kit and described it as plain by des
 
 **Grade: B-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2083517559312425236"></a></blockquote>
+</div>
+
 ## The Away Shirt: B
 
 Worn before it was sold. Tottenham posted its first outing on July 28, so it has already had a game in it even though kit-tracking sites still have it filed as a leak and it has not gone on general sale. It comes with custom shorts rather than reusing another set.

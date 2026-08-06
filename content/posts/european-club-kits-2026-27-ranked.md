@@ -27,6 +27,10 @@ The lowest grade in the whole exercise. Black with gold and an all-over worker-b
 
 Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the collar and cuffs, referencing the mid-1980s Hummel shirts. The problem is that this is almost exactly what Tottenham wear every year. ESPN ranked it 34th of every Premier League shirt and called it plain by design, and that is about right. It is not bad. It is just the same. **Grade: B-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2083517559312425236"></a></blockquote>
+</div>
+
 ## 29. AC Milan, Away
 
 A tribute to the 2007 Champions League win, white with red trim. The concept is fine and the reference is a good one, but the graphic treatment on the body does not land, and for a club that is usually immaculate this is the weak link in an otherwise strong pair. **Grade: B-**
