@@ -3,7 +3,12 @@ import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 import { getJotd, getMotd, getWeekdayStandard } from "@/lib/mlbHomepage";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
-const WEEKEND = new Set(["Saturday", "Sunday"]);
+// Friday belongs with the weekend, not the work week. Across every day logged in
+// 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
+// Fri 41%, Sat 52%, Sun 57% against a 59% average — Friday is the single biggest
+// colour night of the week, lower than either weekend day. Grouping it as a
+// weekday put the chart's own break in the wrong place.
+const COLOR_DAYS = new Set(["Friday", "Saturday", "Sunday"]);
 
 // The three MLB tools as static side-by-side tiles (Jake picked the static
 // 3-across over a rotating strip), color-blocked blue / white / red:
@@ -249,8 +254,9 @@ export default async function MlbUniformsZone() {
               </h3>
             </div>
             <p className="text-[11px] text-[#8A8F98] mb-6">
-              Teams go traditional on weekdays and break out the color on weekends. Average share of
-              standard white &amp; gray jerseys, across every day logged this season.
+              Teams go traditional Monday through Thursday and break out the color Friday through
+              Sunday. Average share of standard white &amp; gray jerseys, across every day logged this
+              season.
             </p>
 
             {/* Gridlines sit behind the bars so a value can be read off the chart
@@ -281,12 +287,12 @@ export default async function MlbUniformsZone() {
                 style={{ height: 150 }}
               >
                 {weekday.map((s) => {
-                  const weekend = WEEKEND.has(s.weekday);
+                  const colorDay = COLOR_DAYS.has(s.weekday);
                   return (
                     <div key={s.weekday} className="relative flex h-full items-end">
                       <div
                         className="w-full rounded-t-md transition-all duration-500"
-                        style={{ height: `${s.pct}%`, background: weekend ? "#f59e0b" : "#2f6bed" }}
+                        style={{ height: `${s.pct}%`, background: colorDay ? "#f59e0b" : "#2f6bed" }}
                         title={`${s.short}: ${s.pct}% standard jerseys`}
                       />
                       <span
@@ -302,12 +308,12 @@ export default async function MlbUniformsZone() {
 
               <div className="grid grid-cols-7 gap-2 sm:gap-4 mt-2">
                 {weekday.map((s) => {
-                  const weekend = WEEKEND.has(s.weekday);
+                  const colorDay = COLOR_DAYS.has(s.weekday);
                   return (
                     <span
                       key={s.weekday}
                       className={`text-[11px] text-center ${
-                        weekend ? "font-bold text-[#b06a00]" : "font-semibold text-[#8A8F98]"
+                        colorDay ? "font-bold text-[#b06a00]" : "font-semibold text-[#8A8F98]"
                       }`}
                     >
                       {s.short}
@@ -320,11 +326,11 @@ export default async function MlbUniformsZone() {
             <div className="flex items-center gap-5 mt-5 text-[10px] font-semibold uppercase tracking-wider text-[#8A8F98]">
               <span className="flex items-center gap-1.5">
                 <span className="inline-block w-3 h-3 rounded-sm" style={{ background: "#2f6bed" }} />
-                Weekday
+                Mon&ndash;Thu
               </span>
               <span className="flex items-center gap-1.5">
                 <span className="inline-block w-3 h-3 rounded-sm" style={{ background: "#f59e0b" }} />
-                Weekend
+                Fri&ndash;Sun
               </span>
             </div>
           </div>
