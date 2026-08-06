@@ -11,10 +11,6 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2068620186757038400"></a></blockquote>
-</div>
-
 Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all thirty home and away shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
 
 One note on what is here and what is not. Only released kits are ranked. Ten of the fifteen third kits are still leaks, including Liverpool's and Real Madrid's, which both launch on August 12, and we do not grade a shirt until the club has actually put it out. Those get their own post once they land.
@@ -22,6 +18,10 @@ One note on what is here and what is not. Only released kits are ranked. Ten of 
 ## 30. Manchester City, Away
 
 The lowest grade in the whole exercise. Black with gold and an all-over worker-bee pattern, and on paper a Manchester industrial-heritage nod should work. It just does not come together. Nothing about it says Manchester City, and once the bee print is doing the talking there is no blue anywhere to anchor it. **Grade: C+**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083138853888479377"></a></blockquote>
+</div>
 
 ## 29. Tottenham, Home
 
@@ -31,37 +31,65 @@ Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the col
 
 A tribute to the 2007 Champions League win, white with red trim. The concept is fine and the reference is a good one, but the graphic treatment on the body does not land, and for a club that is usually immaculate this is the weak link in an otherwise strong pair. **Grade: B-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079461371859575062"></a></blockquote>
+</div>
+
 ## 27. Atletico Madrid, Away
 
 Black with neon green accents. Atletico usually get change kits right by keeping them quiet, and this one goes the other way. The neon is a lot, and it does not have a reason to be there. Not a disaster, just not for us. **Grade: B-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/atletienglish/status/2084216243087683751"></a></blockquote>
+</div>
 
 ## 26. Bayern Munich, Away
 
 Mostly white with navy and red, and it revives the classic Bayern e.V. crest on a shirt for the first time in nearly twenty-five years, which is a genuinely lovely detail. Footy Headlines called it their best change kit in years. Our issue is simpler: it looks a lot like Real Madrid's home shirt. White with dark trim and a navy collar is not a Bayern silhouette. **Grade: B-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBayernEN/status/2079104556038828506"></a></blockquote>
+</div>
+
 ## 25. Chelsea, Away
 
 Solid black with Midwest Gold trim and a standalone gold lion crest, Chelsea's first mostly black away in years. Taken on its own it is a nice shirt. The trouble is it has nothing to do with Chelsea. Strip the crest off and you could sell this to half of Europe. **Grade: B-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2083507887482228945"></a></blockquote>
+</div>
 
 ## 24. Inter, Away
 
 Built on baseball, of all things. White with navy pinstripes, a giant Inter monogram crest and "Inter Milano" inside the collar. We are the last people who will object to a football club borrowing from baseball, and the pinstripes are executed well. It just never quite tips over into something we love. **Grade: B-**
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2083507887482228945"></a></blockquote>
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Inter_en/status/2078036432153669786"></a></blockquote>
 </div>
 
 ## 23. Manchester City, Home
 
 A sky-blue gradient fading from darker shoulders to white at the hem, meant to hold every shade of blue in club history, with a metallic silver crest. The idea is better than the execution. ESPN said the colours look like they ran in the wash, and once you have read that you cannot unsee it. City are the only club on this list without a single kit above a B. **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2060677603325870087"></a></blockquote>
+</div>
+
 ## 22. Real Madrid, Away
 
 Dark green and white, drawn from the crest. Green is a legitimate Real Madrid secondary and the tonal treatment is clean, but there is not enough contrast anywhere to give your eye something to hold. It needs one pop of colour it never gets. **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2080204500158062814"></a></blockquote>
+</div>
+
 ## 21. Juventus, Away
 
 Pale pink with black and white, and speckled embossed detailing on the front most likely drawn from zebra motifs. Juventus and pink have real history, so this is not the provocation it looks like. It is just fine rather than good. **Grade: B**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/juventusfc/status/2084882095348797862"></a></blockquote>
+</div>
 
 ## 20. Real Madrid, Home
 
@@ -71,9 +99,17 @@ White with dark green collar and cuff trim, a diamond jacquard drawn from the ge
 
 Black and Lyon Blue honouring the 1998 shirt, with University Gold detailing, the collar back, and graphics referencing Milanese tailoring through tailors' scissors. The shirt itself is good and the 1998 reference is a strong one. The collar is what holds it back for us, and on a kit this close to being excellent that is the detail we keep returning to. **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Inter/status/2084946100536983729"></a></blockquote>
+</div>
+
 ## 18. Liverpool, Away
 
 White with maroon-red logos, the classic adidas Trefoil, and a shield-crest pattern lifted straight off 1970s Anfield match tickets. The match-ticket detail is the best story of any away shirt this season. The shirt itself is clean and a little boring, which is also what Liverpool usually do with their white one. **Grade: B**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2082376871744827629"></a></blockquote>
+</div>
 
 ## 17. Bayern Munich, Home
 
@@ -83,75 +119,119 @@ Deep red with tonal vertical pinstripes woven in, gold on the collar and cuffs, 
 
 Solid blue with gold piping on the shoulder seams and side panels and a gold laurel-wreath graphic around the collar and cuffs. The gold works and the crest looks great. The oddity is the enormous empty space across the chest, because Chelsea are going into 2026/27 without a front-of-shirt sponsor. It will look considerably better once something fills it. **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2081730243011002596"></a></blockquote>
+</div>
+
 ## 15. Manchester United, Home
 
 Clean red with a polo collar and banded cuffs, marking fifty years since the 1977 FA Cup final. It is a bit boring, and it is also unmistakably a classic Manchester United shirt, which is most of what a United home kit needs to be. The retro collar is the right amount of reaching. **Grade: B+**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2085020754111017291"></a></blockquote>
+</div>
 
 ## 14. Juventus, Home
 
 Proper black and white vertical stripes are back, with a retro fold-over white polo collar, and gold metallic replacing last season's pink on the crest and branding. The stripes and the collar are both excellent. The gold is the problem: it makes the Jeep sponsor and the Juventus crest genuinely hard to read against the white. **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/juventusfc/status/2084338513546195089"></a></blockquote>
+</div>
+
 ## 13. Arsenal, Third
 
 Yellow, and finally back to red, blue and yellow together. Arsenal wearing yellow as a change kit is one of the great looks in football and it has been away too long, so getting all three colours into one shirt is the right call. The only reservation is the shade of yellow itself, which is not quite the one we wanted. **Grade: B+**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2085059067936915903"></a></blockquote>
+</div>
 
 ## 12. Arsenal, Away
 
 Navy with yellow accents, a deliberate return to bruised-banana territory. What we like most is that all three Arsenal colours are in play here too. Last season's away blue edges it for us on the colour alone, but this is a strong shirt. **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2083130562739617929"></a></blockquote>
+</div>
+
 ## 11. Barcelona, Home
 
 Four vertical blaugrana stripes echoing the 2006/07 shirt, with a tonal gradient through them, collar and cuff framing drawn from the renovated Camp Nou facade panels, and new serif numbering inspired by Gaudi. There is more thought in this shirt than almost any other on the list. We have liked past Barcelona homes more, but this is a good one. **Grade: B+**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2083242236137836715"></a></blockquote>
+</div>
 
 ## 10. Borussia Dortmund, Third
 
 Purple with neon yellow collar trim and yellow PUMA logos. It reads a little like a goalkeeper shirt, which is usually a criticism and here somehow is not. Dortmund went somewhere genuinely unusual, the colour is good, and one of only two third kits released in this entire group turning out to be this interesting is a small gift. **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlackYellow/status/2082723621043077141"></a></blockquote>
+</div>
+
 ## 9. Borussia Dortmund, Home
 
 Yellow with a tonal graphic across the front and lower body drawn from the steel framework of the Minister Stein colliery and the Dortmunder U-Tower. Simple with a pop, which is the whole brief for a Dortmund home shirt. The industrial reference is specific to the city instead of being generic heritage filler. **Grade: B+**
-
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2083130562739617929"></a></blockquote>
-</div>
 
 ## 8. Atletico Madrid, Home
 
 Red and white vertical stripes carrying a tonal trident pattern for Neptune's fountain, with deep royal blue framing a V-neck collar. Atletico's home shirt is always nice, and the reason is always the same: they keep it simple. The trident is there if you look and invisible if you do not, which is exactly how a pattern like that should behave. **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/atletienglish/status/2083520035352354933"></a></blockquote>
+</div>
+
 ## 7. Arsenal, Home
 
 Red body, crisp white sleeves, a bespoke crewneck collar and faint red patterning across the body referencing the Emirates rooflines for the stadium's twentieth anniversary. The stripes at the top of the sleeve are the detail that makes it, and the way the dark red plays against the lighter red gives it depth most red shirts do not have. We would have liked some blue in there somewhere. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2067948011502858575"></a></blockquote>
+</div>
 
 ## 6. Liverpool, Home
 
 Deep red carrying the all-over geometric graphic from the 1989 to 1991 Candy era, the shirt Liverpool won the 1989/90 title in. ESPN ranked it third of every Premier League kit, the highest-placed home shirt in the league, and we are close to that. The shade of red is the best thing about it. **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2068620186757038400"></a></blockquote>
+</div>
+
 ## 5. Barcelona, Away
 
 The strangest thing in the group and one of the best. A Nike, Barcelona and Kobe Bryant collaboration: a purple-to-black gradient, iridescent serpent detailing, a snakeskin pattern and a custom Gold Mamba typeface in metallic gold. We are enormous Kobe people here, so that counts for something on its own, but the colours genuinely work too. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2081349079842410988"></a></blockquote>
+</div>
 
 ## 4. Paris Saint-Germain, Away
 
 Almost an inverted version of the home shirt, and it works for the same reasons. The colours are right, and the black at the sleeve tips is the small decision that finishes it. Most clubs treat the away shirt as the place to get weird. PSG treated it as the place to prove the home shirt's idea travels. **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2085059092154843395"></a></blockquote>
+</div>
+
 ## 3. Manchester United, Away
 
 Blue and red, drawing on the 1988 away shirt and the nearby River Irwell, with echoes of the 2016/17 away. This is the best away shirt of the season and it is not particularly close. The blue is superb, and the pop of red at the collar is the whole thing. One caveat worth knowing before you buy: multiple owners have reported fabric pulls and snagged threads after light wear. **Grade: A**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2084252441428849007"></a></blockquote>
+</div>
 
 ## 2. AC Milan, Home
 
 The thick red and black stripes are back, bold and wide and unmistakable, running across the full body front and back, with white shorts, black socks, a monochrome badge and a wax seal enshrining the Rossoneri crest at the back neck. Milan always do a really good job of this, and the reason is that they never overthink it. Simple and nice. **Grade: A**
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079461371859575062"></a></blockquote>
-</div>
-
 ## 1. Paris Saint-Germain, Home
 
 Old Royal blue restored, with a bold wide central red Hechter stripe flanked by two crisp white lines that carries unbroken onto the back. This is the kit of the season. It is simple, it is exactly to the point, and that centre stripe running the full length of the shirt is the single best design decision anyone made this year. Nothing else on this list does more with less. **Grade: A**
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2053025920328335577"></a></blockquote>
 </div>
 
