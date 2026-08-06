@@ -87,7 +87,7 @@ The only thing keeping this from a flat-out perfect grade is that we have not se
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #BA0C2F 0%, #111111 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(186, 12, 47, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Helmet: A+ &nbsp;·&nbsp; Jersey: A- &nbsp;·&nbsp; Pants: B+ &nbsp;·&nbsp; No Gimmicks: A+</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Helmet: A+ &nbsp;·&nbsp; Jersey: A- &nbsp;·&nbsp; Pants: B+</p>
 </div>
 
 ## The Bottom Line
