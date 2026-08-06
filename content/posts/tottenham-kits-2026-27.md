@@ -3,7 +3,7 @@ title: "Tottenham's 2026/27 Kits: Reviewed And Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-06"
-excerpt: "Tottenham have released only one 2026/27 kit and it looks almost exactly like last year's. The home shirt and jersey graded, plus what is still coming."
+excerpt: "Tottenham's 2026/27 home shirt looks almost exactly like last year's, and the away they have not sold yet is better. Both jerseys graded."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #132257 55%, #0E1A38 120%)"
 cardStyle: words
 kicker: Graded
@@ -15,7 +15,7 @@ teams: []
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2082353177077432619"></a></blockquote>
 </div>
 
-Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. Only the home shirt has properly launched, the away has been worn once without a retail release, and the third is still a leak. That leaves exactly one shirt we are willing to grade, and it is the one that looks the most like last season's.
+Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. The home shirt has launched, the away has been worn in a match without reaching shops, and the third is still a leak. Two shirts to grade, and the better of them is the one you cannot buy yet.
 
 ## The Home Shirt: B-
 
@@ -27,11 +27,13 @@ ESPN ranked it 34th of every Premier League kit and described it as plain by des
 
 **Grade: B-**
 
-## The Away Shirt: On The Pitch, Not Yet In Shops
+## The Away Shirt: B
 
-This one is in an odd in-between state. Kit-tracking sites still have it filed as a leak, but Tottenham themselves posted it going out for "a first outing" on July 28, so it has already been worn in a match. It comes with custom shorts, which is a change from the usual approach.
+Worn before it was sold. Tottenham posted its first outing on July 28, so it has already had a game in it even though kit-tracking sites still have it filed as a leak and it has not gone on general sale. It comes with custom shorts rather than reusing another set.
 
-That is worth being precise about, because a shirt the club has played in is not really a leak any more even if the retail launch has not happened. We are holding the grade until we have spent proper time with it rather than grading off a matchday post, and we will update this section when we do.
+It is the better of the two Tottenham shirts, which is not a high bar this season, and the important thing is that it reads as a decision rather than a repeat. That alone puts it above the home kit.
+
+**Grade: B**
 
 ## The Third Shirt: Not Yet Released
 
@@ -43,11 +45,11 @@ Same rule applies. We grade it when Tottenham release it.
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #132257 0%, #0A1128 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(19, 34, 87, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B- &nbsp;·&nbsp; Away: Pending &nbsp;·&nbsp; Third: Pending</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B- &nbsp;·&nbsp; Away: B &nbsp;·&nbsp; Third: Pending</p>
 </div>
 
-Worth being upfront about this one: a wardrobe grade built on a single shirt is not really a wardrobe grade. It currently just mirrors the home kit. The away has been on the pitch but not in shops, and if the leaked purple third arrives looking the way it appears to, this grade has real room to move. We will revise it as the other two settle.
+Two graded shirts, and the away is the one carrying it. This is still the thinnest wardrobe of Europe's fifteen biggest clubs, because the third has not landed and the away has not reached shops, but it is no longer the lowest. If the leaked purple third arrives looking the way it appears to, this grade has room to move again.
 
 ## Who Makes Tottenham's Kits?
 
@@ -55,7 +57,7 @@ Nike, who have supplied Tottenham since 2017.
 
 ## The Bottom Line
 
-One properly released kit, and it is a white shirt with navy trim carrying a mid-1980s Hummel reference so subtle it barely registers. The away has been worn once but not retailed and the third is still a leak, so the B- wardrobe grade is provisional and rests entirely on the home shirt. The leaked purple third is the one to watch. Wardrobe grade: B-, pending two more kits.
+The home shirt is a white-and-navy repeat carrying a mid-1980s Hummel reference so subtle it barely registers, and it grades a B-. The away, worn once but not yet in shops, is the better shirt at a B. The third is still a leak. Wardrobe grade: B, and the leaked purple third is the one to watch.
 
 See where the home shirt landed against the rest of the continent in [our full ranking of every 2026/27 European club kit](/stories/european-club-kits-2026-27-ranked).
 
@@ -65,9 +67,9 @@ See where the home shirt landed against the rest of the continent in [our full r
 
 Only the home shirt has properly launched: Lilywhite with a diagonal tonal stripe woven into the fabric and navy blue on the collar and cuffs, referencing mid-1980s Hummel designs. The away shirt has been worn in a match but not retailed, and the third is still a leak. Nike make all of them.
 
-**What grade does Tottenham's 2026/27 home kit get?**
+**What grade do Tottenham's 2026/27 kits get?**
 
-A B-. The Hummel reference is a good idea executed so subtly that the shirt reads as the same white-and-navy Tottenham kit as every other season.
+The home shirt gets a B- and the away gets a B. The wardrobe grade is a B. The third kit has not been released and is not graded.
 
 **Why does Tottenham's 2026/27 home shirt look like last season's?**
 
