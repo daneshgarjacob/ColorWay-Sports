@@ -55,11 +55,13 @@ Arsenal in yellow as a change kit is one of the genuinely great looks in footbal
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #EF0107 0%, #063672 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(239, 1, 7, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A-</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: A- &nbsp;·&nbsp; Away: B+ &nbsp;·&nbsp; Third: B+</p>
 </div>
 
-Three kits, all good, and no weak link. The wardrobe grade sits above the straight average of the three shirts on purpose, because the thing Arsenal got right this season is a wardrobe decision rather than a shirt decision: they brought their three colours back and used them across the whole set. That is worth something the individual grades do not capture.
+Three kits, all good, and no weak link, which is more than most clubs on the continent managed. Arsenal are also one of only two clubs in Europe with a complete wardrobe to judge, so this is a grade with nothing missing behind it.
+
+The thing that does not show up in the numbers is that Arsenal's best decision this season was a wardrobe decision rather than a shirt decision. Bringing red, blue and yellow back and using all three across the set is worth more than any single kit here, and if we were grading intent rather than execution this would be higher.
 
 ## Who Makes Arsenal's Kits?
 

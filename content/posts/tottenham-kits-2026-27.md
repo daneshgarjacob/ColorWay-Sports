@@ -11,7 +11,11 @@ league: "soccer"
 teams: []
 ---
 
-Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. One kit is out. The away and the third are both still leaks, which means there is exactly one shirt to grade, and it is the one that looks the most like last season's.
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2082353177077432619"></a></blockquote>
+</div>
+
+Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. Only the home shirt has properly launched, the away has been worn once without a retail release, and the third is still a leak. That leaves exactly one shirt we are willing to grade, and it is the one that looks the most like last season's.
 
 ## The Home Shirt: B-
 
@@ -23,11 +27,11 @@ ESPN ranked it 34th of every Premier League kit and described it as plain by des
 
 **Grade: B-**
 
-## The Away Shirt: Not Yet Released
+## The Away Shirt: On The Pitch, Not Yet In Shops
 
-Still a leak. What has surfaced suggests it comes with custom shorts, which would be a change from the usual approach. Tottenham are one of only two clubs on our list whose away shirt has not launched.
+This one is in an odd in-between state. Kit-tracking sites still have it filed as a leak, but Tottenham themselves posted it going out for "a first outing" on July 28, so it has already been worn in a match. It comes with custom shorts, which is a change from the usual approach.
 
-We will grade it and update this post when it is officially out.
+That is worth being precise about, because a shirt the club has played in is not really a leak any more even if the retail launch has not happened. We are holding the grade until we have spent proper time with it rather than grading off a matchday post, and we will update this section when we do.
 
 ## The Third Shirt: Not Yet Released
 
@@ -43,7 +47,7 @@ Same rule applies. We grade it when Tottenham release it.
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B- &nbsp;·&nbsp; Away: Pending &nbsp;·&nbsp; Third: Pending</p>
 </div>
 
-Worth being upfront about this one: a wardrobe grade built on a single shirt is not really a wardrobe grade. It currently just mirrors the home kit. If the leaked purple third arrives looking the way it appears to, this grade has real room to move, and we will revise it when the other two land.
+Worth being upfront about this one: a wardrobe grade built on a single shirt is not really a wardrobe grade. It currently just mirrors the home kit. The away has been on the pitch but not in shops, and if the leaked purple third arrives looking the way it appears to, this grade has real room to move. We will revise it as the other two settle.
 
 ## Who Makes Tottenham's Kits?
 
@@ -51,7 +55,7 @@ Nike, who have supplied Tottenham since 2017.
 
 ## The Bottom Line
 
-One released kit, and it is a white shirt with navy trim carrying a mid-1980s Hummel reference so subtle it barely registers. Tottenham's away and third shirts are both still unreleased, so the B- wardrobe grade is provisional and rests entirely on the home shirt. The leaked purple third is the one to watch. Wardrobe grade: B-, pending two more kits.
+One properly released kit, and it is a white shirt with navy trim carrying a mid-1980s Hummel reference so subtle it barely registers. The away has been worn once but not retailed and the third is still a leak, so the B- wardrobe grade is provisional and rests entirely on the home shirt. The leaked purple third is the one to watch. Wardrobe grade: B-, pending two more kits.
 
 See where the home shirt landed against the rest of the continent in [our full ranking of every 2026/27 European club kit](/stories/european-club-kits-2026-27-ranked).
 
@@ -59,7 +63,7 @@ See where the home shirt landed against the rest of the continent in [our full r
 
 **What are Tottenham's 2026/27 kits?**
 
-Only the home shirt has been released: Lilywhite with a diagonal tonal stripe woven into the fabric and navy blue on the collar and cuffs, referencing mid-1980s Hummel designs. The away and third kits have both leaked but neither has officially launched. Nike make all of them.
+Only the home shirt has properly launched: Lilywhite with a diagonal tonal stripe woven into the fabric and navy blue on the collar and cuffs, referencing mid-1980s Hummel designs. The away shirt has been worn in a match but not retailed, and the third is still a leak. Nike make all of them.
 
 **What grade does Tottenham's 2026/27 home kit get?**
 
@@ -71,7 +75,7 @@ Because it largely does. The one new element is a diagonal tonal stripe patterne
 
 **When do Tottenham's 2026/27 away and third kits come out?**
 
-Neither has a confirmed release date. Both have leaked, with the third appearing to be dark purple with lighter purple vertical stripes. We will grade them and update this post when Tottenham officially release them.
+Neither has a confirmed retail date. The away kit has already been worn in a match, with Tottenham posting its first outing on July 28, 2026, but it has not gone on general sale. The third remains a leak and appears to be dark purple with lighter purple vertical stripes. We will grade both and update this post as they settle.
 
 **What is the Tottenham 2026/27 third kit?**
 

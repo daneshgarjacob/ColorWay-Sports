@@ -27,6 +27,10 @@ There is a decent version of this idea. It would involve the gradient being much
 
 **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2060677603325870087"></a></blockquote>
+</div>
+
 ## The Away Shirt: C+
 
 Black with yellow-gold accents and an all-over worker-bee pattern, with all logos rendered monochrome. The bee is a Manchester symbol and an industrial-heritage nod.

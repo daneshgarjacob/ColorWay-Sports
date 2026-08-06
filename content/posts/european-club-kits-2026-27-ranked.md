@@ -3,7 +3,7 @@ title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-06"
-excerpt: "We graded 29 home and away jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the one C+, and every wardrobe ranked."
+excerpt: "We graded 30 home and away jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the one C+, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Ranked
@@ -15,35 +15,35 @@ teams: []
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2068620186757038400"></a></blockquote>
 </div>
 
-Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all twenty-nine home and away shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
+Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all thirty home and away shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
 
 One note on what is here and what is not. Only released kits are ranked. Ten of the fifteen third kits are still leaks, including Liverpool's and Real Madrid's, which both launch on August 12, and we do not grade a shirt until the club has actually put it out. Those get their own post once they land.
 
-## 29. Manchester City, Away
+## 30. Manchester City, Away
 
 The lowest grade in the whole exercise. Black with gold and an all-over worker-bee pattern, and on paper a Manchester industrial-heritage nod should work. It just does not come together. Nothing about it says Manchester City, and once the bee print is doing the talking there is no blue anywhere to anchor it. **Grade: C+**
 
-## 28. Tottenham, Home
+## 29. Tottenham, Home
 
 Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the collar and cuffs, referencing the mid-1980s Hummel shirts. The problem is that this is almost exactly what Tottenham wear every year. ESPN ranked it 34th of every Premier League shirt and called it plain by design, and that is about right. It is not bad. It is just the same. **Grade: B-**
 
-## 27. AC Milan, Away
+## 28. AC Milan, Away
 
 A tribute to the 2007 Champions League win, white with red trim. The concept is fine and the reference is a good one, but the graphic treatment on the body does not land, and for a club that is usually immaculate this is the weak link in an otherwise strong pair. **Grade: B-**
 
-## 26. Atletico Madrid, Away
+## 27. Atletico Madrid, Away
 
 Black with neon green accents. Atletico usually get change kits right by keeping them quiet, and this one goes the other way. The neon is a lot, and it does not have a reason to be there. Not a disaster, just not for us. **Grade: B-**
 
-## 25. Bayern Munich, Away
+## 26. Bayern Munich, Away
 
 Mostly white with navy and red, and it revives the classic Bayern e.V. crest on a shirt for the first time in nearly twenty-five years, which is a genuinely lovely detail. Footy Headlines called it their best change kit in years. Our issue is simpler: it looks a lot like Real Madrid's home shirt. White with dark trim and a navy collar is not a Bayern silhouette. **Grade: B-**
 
-## 24. Chelsea, Away
+## 25. Chelsea, Away
 
 Solid black with Midwest Gold trim and a standalone gold lion crest, Chelsea's first mostly black away in years. Taken on its own it is a nice shirt. The trouble is it has nothing to do with Chelsea. Strip the crest off and you could sell this to half of Europe. **Grade: B-**
 
-## 23. Inter, Away
+## 24. Inter, Away
 
 Built on baseball, of all things. White with navy pinstripes, a giant Inter monogram crest and "Inter Milano" inside the collar. We are the last people who will object to a football club borrowing from baseball, and the pinstripes are executed well. It just never quite tips over into something we love. **Grade: B-**
 
@@ -51,21 +51,25 @@ Built on baseball, of all things. White with navy pinstripes, a giant Inter mono
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2083507887482228945"></a></blockquote>
 </div>
 
-## 22. Manchester City, Home
+## 23. Manchester City, Home
 
 A sky-blue gradient fading from darker shoulders to white at the hem, meant to hold every shade of blue in club history, with a metallic silver crest. The idea is better than the execution. ESPN said the colours look like they ran in the wash, and once you have read that you cannot unsee it. City are the only club on this list without a single kit above a B. **Grade: B**
 
-## 21. Real Madrid, Away
+## 22. Real Madrid, Away
 
 Dark green and white, drawn from the crest. Green is a legitimate Real Madrid secondary and the tonal treatment is clean, but there is not enough contrast anywhere to give your eye something to hold. It needs one pop of colour it never gets. **Grade: B**
 
-## 20. Juventus, Away
+## 21. Juventus, Away
 
 Pale pink with black and white, and speckled embossed detailing on the front most likely drawn from zebra motifs. Juventus and pink have real history, so this is not the provocation it looks like. It is just fine rather than good. **Grade: B**
 
-## 19. Real Madrid, Home
+## 20. Real Madrid, Home
 
 White with dark green collar and cuff trim, a diamond jacquard drawn from the geometry of the crown, and pink on the three stripes. The jacquard is nice work up close. But this is Real Madrid, the most-copied home shirt in the sport, and they have done far better than this. The pink on the shoulders is the part we would take back. **Grade: B**
+
+## 19. Inter, Home
+
+Black and Lyon Blue honouring the 1998 shirt, with University Gold detailing, the collar back, and graphics referencing Milanese tailoring through tailors' scissors. The shirt itself is good and the 1998 reference is a strong one. The collar is what holds it back for us, and on a kit this close to being excellent that is the detail we keep returning to. **Grade: B**
 
 ## 18. Liverpool, Away
 
@@ -139,9 +143,17 @@ Blue and red, drawing on the 1988 away shirt and the nearby River Irwell, with e
 
 The thick red and black stripes are back, bold and wide and unmistakable, running across the full body front and back, with white shorts, black socks, a monochrome badge and a wax seal enshrining the Rossoneri crest at the back neck. Milan always do a really good job of this, and the reason is that they never overthink it. Simple and nice. **Grade: A**
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079461371859575062"></a></blockquote>
+</div>
+
 ## 1. Paris Saint-Germain, Home
 
 Old Royal blue restored, with a bold wide central red Hechter stripe flanked by two crisp white lines that carries unbroken onto the back. This is the kit of the season. It is simple, it is exactly to the point, and that centre stripe running the full length of the shirt is the single best design decision anyone made this year. Nothing else on this list does more with less. **Grade: A**
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2053025920328335577"></a></blockquote>
+</div>
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #004170 0%, #DA291C 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 65, 112, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Kit Of The Season</p>
@@ -155,19 +167,19 @@ Individual shirts are one thing. What a club actually looks like across a season
 
 - **Paris Saint-Germain, A.** The best wardrobe in Europe and the only club with both kits at A- or better. Restraint won the season.
 - **Manchester United, A-.** Carried by the away shirt, which is the best change kit of the year.
-- **Arsenal, A-.** Three kits, all good, and the return of red, blue and yellow together is worth something on its own.
-- **Atletico Madrid, B+.** A strong home shirt and a change kit that overreaches.
-- **Barcelona, B+.** A thoughtful home shirt and the boldest away in Europe.
-- **Borussia Dortmund, B+.** The most consistent club here, with both graded kits at exactly the same level.
-- **Juventus, B+.** Stripes back where they belong, held back by gold that fights the sponsor.
+- **Barcelona, A-.** A thoughtful home shirt and the boldest away in Europe.
+- **Arsenal, B+.** Three kits, no weak link, and red, blue and yellow back together across the set.
 - **AC Milan, B+.** The widest gap of any club: an A home shirt and a B- away.
-- **Bayern Munich, B.** A welcome return to the classic red, and an away that looks like somebody else's.
+- **Liverpool, B+.** A top-six home shirt with a quiet white one behind it.
+- **Borussia Dortmund, B+.** The most consistent club here, with both graded kits at exactly the same level.
+- **Atletico Madrid, B+.** A strong home shirt and a change kit that overreaches.
+- **Juventus, B+.** Stripes back where they belong, held back by gold that fights the sponsor.
 - **Chelsea, B.** Both shirts fine, neither one especially Chelsea.
-- **Liverpool, B.** A top-six home shirt with two quiet kits behind it.
 - **Real Madrid, B.** Two shirts, two Bs, and the sport's most valuable home kit settling for fine.
-- **Tottenham, B-.** Only one released kit, and it is the same one as last year.
+- **Bayern Munich, B.** A welcome return to the classic red, and an away that looks like somebody else's.
+- **Inter, B.** A good home shirt with a collar we cannot get past, and an away built on baseball.
+- **Tottenham, B-.** The thinnest wardrobe on the list, and the home shirt is last year's.
 - **Manchester City, B-.** The only club without a single kit above a B.
-- **Inter,** pending. Their home shirt is graded once we have spent more time with the collar.
 
 ## What This Season Actually Tells Us
 
@@ -215,4 +227,4 @@ Because Chelsea are going into the season without a front-of-shirt sponsor, so t
 
 **How many kits are in this ranking?**
 
-Twenty-nine, covering every home and away shirt released by Europe's fifteen biggest clubs plus the two third kits that have launched. Inter's home shirt and the ten unreleased third kits are not graded yet.
+Thirty, covering every home and away shirt released by Europe's fifteen biggest clubs plus the two third kits that have launched. The ten unreleased third kits are not graded yet.
