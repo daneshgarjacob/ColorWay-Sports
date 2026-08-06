@@ -457,7 +457,7 @@ Seven road teams wore colour on Wednesday and Boston still took the day in the p
 </div>
 
 <div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
-  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 9 / 10</p>
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
 Fifteen games, and this is the only one where neither team wore white. San Diego brought the brown with the gold script, Arizona answered in Sedona red, and the result is the rarest thing on a baseball schedule: a broadcast with no neutral half. Brown and red should not work together, two warm colours close enough on the wheel to muddy each other, and the reason it does is the gold. It sits on the Padres' chest and sleeves and gives the eye somewhere cool to land between the two heavy tones. Put this on any night of the season and it stands out. On a Wednesday where eight visitors wore gray, it is not close.
