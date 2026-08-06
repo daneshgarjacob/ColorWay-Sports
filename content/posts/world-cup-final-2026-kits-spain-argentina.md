@@ -1,9 +1,9 @@
 ---
-title: "World Cup Final 2026 Kits: What Spain Wore to Win It All Against Argentina at MetLife Stadium"
+title: "World Cup Final 2026 Kits: What Spain and Argentina Wore"
 category: "Soccer"
 date: "2026-07-17"
-updatedDate: "2026-07-19"
-excerpt: "Spain beat Argentina 1-0 to win the 2026 World Cup in their red home jersey against the light-blue-and-white stripes. Exactly what both teams wore in the all-adidas final, graded 8.5."
+updatedDate: "2026-08-06"
+excerpt: "Spain beat Argentina 1-0 in their red home jersey against the light blue and white stripes. What both teams wore in the all-adidas final."
 gradient: "linear-gradient(135deg, #C60B1E 0%, #0a1030 50%, #75AADB 130%)"
 cardStyle: words
 kicker: World Cup Final

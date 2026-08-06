@@ -1,8 +1,9 @@
 ---
-title: "Every World Cup Logo, Ranked: The Best and Worst Tournament Emblems in History (1930–2026)"
+title: "Every World Cup Logo, Ranked: Best and Worst, 1930 to 2026"
 category: "Soccer"
 date: "2026-06-18"
-excerpt: "We ranked all 23 official World Cup emblems ever made, from Uruguay's 1930 art-deco poster to the trophy tucked inside the 2026 '26' mark. See where Brazil's interlocking hands, South Africa's leaping figure, England 1966, and the iconic Mexico 1970 land — and which World Cup logos are the best and worst of all time."
+updatedDate: "2026-08-06"
+excerpt: "We ranked all 23 official World Cup emblems, from Uruguay's 1930 art-deco poster to the trophy hidden inside the 2026 mark."
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #11161D 55%, #FF5910 100%)"
 coverImage: "/images/posts/world-cup-logo-history/cover.jpg"
 coverImagePosition: "center center"

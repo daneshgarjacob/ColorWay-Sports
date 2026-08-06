@@ -57,7 +57,7 @@ The other thing the white shell does is make the oval G pop harder than it does 
 
 ## Georgia's New White Jersey Does Not Try to Be Clever
 
-Look at what is not on this jersey. No wordmark across the chest. No gradient. No alternate number font invented for the occasion. No sleeve print. Georgia took the number set it already wears, black with a red outline, and put it on white, and that restraint is why the uniform is going to age well.
+Look at what is not on this jersey. No wordmark across the chest. No gradient. No alternate number font invented for the occasion. No sleeve print. Georgia took the number set it already wears, black with a red outline, and put it on white. Knowing when to stop is why this uniform is going to age well.
 
 <img src="/images/posts/georgia-all-white-2026/georgia-all-white-details.jpg" alt="Detail shots of the Georgia 2026 all-white uniform: the white helmet front with red DAWGS bumper, the red collar with the oval G and SEC patch, and the black and red stripe on the jersey hem" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Georgia Athletics / Nike</p>
@@ -87,7 +87,7 @@ The only thing keeping this from a flat-out perfect grade is that we have not se
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #BA0C2F 0%, #111111 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(186, 12, 47, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Helmet: A+ &nbsp;·&nbsp; Jersey: A- &nbsp;·&nbsp; Pants: B+ &nbsp;·&nbsp; Restraint: A+</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Helmet: A+ &nbsp;·&nbsp; Jersey: A- &nbsp;·&nbsp; Pants: B+ &nbsp;·&nbsp; No Gimmicks: A+</p>
 </div>
 
 ## The Bottom Line

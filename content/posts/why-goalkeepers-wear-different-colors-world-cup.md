@@ -1,7 +1,8 @@
 ---
-title: "Why Do Goalkeepers Wear Different Colors? The World Cup Rule Behind Those Neon Jerseys, Explained"
+title: "Why Do Goalkeepers Wear Different Colors? The Actual Rule"
 category: "Soccer"
 date: "2026-07-02"
+updatedDate: "2026-08-06"
 excerpt: "Goalkeepers wear different colors because the Laws of the Game require it: keepers must stand out from both teams and the referee. How the rule works in 2026."
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #1D4D2B 55%, #C6FF00 100%)"
 overlayText: "GK COLORS"

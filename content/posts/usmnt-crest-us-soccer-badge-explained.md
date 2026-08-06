@@ -1,8 +1,8 @@
 ---
-title: "The USMNT Crest, Explained: What the US Soccer Badge Means, Why It Has No Stars, and What Changed for the 2026 World Cup"
+title: "The USMNT Crest, Explained: Why the US Badge Has No Stars"
 category: "Soccer"
 date: "2026-07-02"
-updatedDate: "2026-07-06"
+updatedDate: "2026-08-06"
 excerpt: "What the US Soccer crest on the USMNT jersey actually means: the shield, the stripes, why the men wear zero stars while the USWNT wears four."
 gradient: "linear-gradient(135deg, #1A3A8F 0%, #0B1A2F 55%, #C8102E 100%)"
 coverImage: "/images/posts/usmnt-crest-explained/usmnt-crest-cover.jpg"
