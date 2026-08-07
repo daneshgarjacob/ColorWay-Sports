@@ -46,6 +46,8 @@ export interface PostMeta {
   category: string;
   date: string;
   updatedDate?: string;
+  /** Author slug or display name; resolved via lib/authors. Defaults to Jake. */
+  author?: string;
   excerpt: string;
   gradient: string;
   logoSrc?: string;
@@ -195,6 +197,7 @@ export function getAllPosts(): PostMeta[] {
       category: data.category || "General",
       date: data.date || "2026-01-01",
       updatedDate: data.updatedDate,
+      author: data.author,
       excerpt: data.excerpt || "",
       gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
       logoSrc: data.logoSrc,
@@ -272,6 +275,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     category: data.category || "General",
     date: data.date || "2026-01-01",
     updatedDate: data.updatedDate,
+    author: data.author,
     excerpt: data.excerpt || "",
     gradient: data.gradient || "linear-gradient(135deg, #003087 0%, #FF5910 100%)",
     logoSrc: data.logoSrc,

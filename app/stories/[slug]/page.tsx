@@ -16,6 +16,8 @@ import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart }
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPostBySlug, getAllPosts, getRelatedPosts } from "@/lib/posts";
+import AuthorBio from "@/components/AuthorBio";
+import { getAuthor, authorSchema } from "@/lib/authors";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -63,17 +65,15 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const modifiedDateStr = post.updatedDate || post.date;
   const modifiedIso = new Date(modifiedDateStr.includes("T") ? modifiedDateStr : modifiedDateStr + "T12:00:00Z").toISOString();
 
+  const author = getAuthor(post.author);
+
   const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
     headline: post.title,
     description: post.excerpt,
     datePublished: publishedIso,
     dateModified: modifiedIso,
-    author: {
-      "@type": "Organization",
-      name: "ColorWay Sports",
-      url: "https://www.colorwaysports.com",
-    },
+    author: authorSchema(author),
     publisher: {
       "@type": "Organization",
       name: "ColorWay Sports",
@@ -183,8 +183,16 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-extrabold text-black leading-[1.1] tracking-tight">
             {post.title}
           </h1>
-          <div className="flex items-center gap-2 mt-3">
-            <span className="text-black/70 text-sm">ColorWay Sports</span>
+          <div className="flex items-center gap-2 mt-3 flex-wrap">
+            <span className="text-black/70 text-sm">
+              By{" "}
+              <Link
+                href={`/authors/${author.slug}`}
+                className="font-semibold text-black hover:text-orange transition-colors"
+              >
+                {author.name}
+              </Link>
+            </span>
             <span className="text-black/30">·</span>
             <time className="text-black/50 text-sm">
               {post.updatedDate ? "Updated " : ""}
@@ -221,6 +229,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <InstagramEmbed />
           </>
         )}
+
+        {/* Byline card — a named human behind every grade */}
+        <AuthorBio author={author} />
 
         {/* Inline newsletter signup */}
         <InlineNewsletter />

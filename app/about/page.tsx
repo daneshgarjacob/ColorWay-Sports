@@ -52,6 +52,25 @@ export default function AboutPage() {
           </p>
         </div>
 
+        {/* Who's behind it */}
+        <div className="mt-14">
+          <h2 className="text-xl font-extrabold text-black mb-6 tracking-[-0.01em]">Who Writes This</h2>
+          <div className="space-y-6 text-[0.95rem] leading-[1.8] text-foreground">
+            <p>
+              ColorWay Sports was founded and is edited by{" "}
+              <Link href="/authors/jake-daneshgar" className="text-orange font-semibold hover:underline">
+                Jake Daneshgar
+              </Link>
+              , who writes and grades everything you see here. Every letter grade on this site
+              is one person&apos;s judgment, applied the same way every time, and signed.
+            </p>
+            <p>
+              That matters to us. Plenty of sites will tell you a jersey is good. We tell you
+              who thinks so, and why, and you get to disagree with a name rather than a logo.
+            </p>
+          </div>
+        </div>
+
         {/* What We Cover */}
         <div className="mt-14">
           <h2 className="text-xl font-extrabold text-black mb-6 tracking-[-0.01em]">What We Cover</h2>

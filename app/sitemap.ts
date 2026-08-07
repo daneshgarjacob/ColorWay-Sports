@@ -2,6 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { allTeamKeys } from "@/lib/mlbTrackerTeamIndex";
 import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
+import { AUTHORS } from "@/lib/authors";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
@@ -48,6 +49,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     })),
   ];
+
+  // Author pages. Google's guidance is to make bylines crawlable and linked;
+  // these are only reachable from post footers otherwise.
+  const authorUrls = AUTHORS.map((a) => ({
+    url: `https://www.colorwaysports.com/authors/${a.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  }));
 
   return [
     {
@@ -106,6 +116,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    ...authorUrls,
     ...filterUrls,
     ...teamUrls,
     ...postUrls,
