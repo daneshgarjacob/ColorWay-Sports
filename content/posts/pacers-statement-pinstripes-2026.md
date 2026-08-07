@@ -1,7 +1,6 @@
 ---
 title: "The Pacers Brought Back the Pinstripes: Grading Indiana's New Gold Statement Jersey"
 category: NBA
-homepageHero: true
 date: "2026-07-30"
 updatedDate: "2026-07-30"
 excerpt: "The Pacers unveiled a gold, black-pinstriped Statement jersey reviving their iconic 1997 look, with 'Boom, Baby!' stitched at the hem. We grade the return of the pinstripes."
