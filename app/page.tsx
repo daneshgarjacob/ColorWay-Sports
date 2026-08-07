@@ -52,6 +52,7 @@ export default function Home() {
   const FEATURED_SLUGS: string[] = [
     "chargers-super-chargers-2026",
     "rams-uniform-schedule-2026",
+    "vanderbilt-gold-uniforms-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

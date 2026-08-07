@@ -1,7 +1,6 @@
 ---
 title: "Vanderbilt's New Gold Uniforms: The Commodores' Old Gold Is Back After Six Years, Reviewed and Graded"
 category: "College"
-homepageHero: true
 date: "2026-08-06"
 updatedDate: "2026-08-06"
 excerpt: "Vanderbilt revealed an all-gold football uniform, the first gold jersey the Commodores have worn since 2020. Every design detail, the shade, and our grade."
