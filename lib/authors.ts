@@ -37,13 +37,13 @@ export const AUTHORS: Author[] = [
     slug: "jake-daneshgar",
     name: "Jake Daneshgar",
     type: "Person",
-    role: "Founder and Editor",
+    role: "Founder and Editor in Chief",
     shortBio:
-      "Jake Daneshgar is the founder and editor of ColorWay Sports. He writes about uniforms, kits and logo design, and grades the jerseys teams actually wear.",
+      "Jake Daneshgar is the founder and editor in chief of ColorWay Sports, covering uniforms, jerseys, kits and logo design across every major league.",
     bio: [
-      "Jake Daneshgar founded ColorWay Sports in 2026 to cover the part of sports that most outlets skip: the way the game actually looks. Uniforms, kits, logos, caps, scorebugs, stadium design and liveries.",
-      "He edits the site and writes across baseball, football and European soccer, with a particular interest in what makes a uniform worth keeping — color, contrast, typography, restraint, and whether a design earns its place in a team's wardrobe.",
-      "Grades here are judgment calls, made against the same criteria every time. Nothing is promoted to make a list flow better.",
+      "Jake Daneshgar founded ColorWay Sports in 2026 to cover the part of sports that most outlets skip: the way the game actually looks. Uniforms, jerseys, kits, logos, caps, scorebugs, stadium design and liveries.",
+      "He edits the site and writes across all sports — MLB, the NFL, the NBA, the NHL, college football, European soccer, Formula 1 and NASCAR — grading new jersey releases, uniform schedules, rebrands and logo history as they happen.",
+      "ColorWay Sports maintains daily uniform trackers for MLB and the NFL, jersey rankings for all 30 MLB clubs, and graded rankings of the kits, caps and logos that turn up across the sports calendar.",
     ],
     // sameAs is intentionally empty until the ColorWay Sports X URL is confirmed.
     // Do NOT guess a handle — a wrong sameAs points Google at someone else's identity.

@@ -70,11 +70,6 @@ export default function AboutPage() {
               </Link>
               , updated game by game through the season.
             </p>
-            <p>
-              Every letter grade here is signed. Plenty of sites will tell you a jersey is good.
-              We tell you who thinks so, and why, and you get to disagree with a name rather
-              than a logo.
-            </p>
           </div>
         </div>
 
