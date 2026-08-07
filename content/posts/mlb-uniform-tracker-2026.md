@@ -204,6 +204,7 @@ All fifteen games are in, and the road teams ran the day. Seven of the fifteen v
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BD3039 0%, #0C2340 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Red Sox Home White</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, August 5, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2085191606483698004"></a></blockquote>
@@ -595,6 +596,7 @@ Seven road teams wore colour on Wednesday and Boston still took the day in the p
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #2F241D 0%, #f5f5f5 50%, #A71930 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, August 5, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
@@ -635,6 +637,7 @@ A full fifteen-game slate, and for once the road teams refused to blend in. Nine
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #005A9C 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Dodgers Blue Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, August 4, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Dodgers/status/2084822046928949254"></a></blockquote>
@@ -1026,6 +1029,7 @@ The royal blue alternate is the one Dodgers look that does not rely on the scrip
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #f5f5f5 50%, #BD3039 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, August 4, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
@@ -1062,6 +1066,7 @@ A quiet eight-game Monday to open the week, and the road teams may as well have 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #005A9C 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Dodgers Road Gray</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, August 3, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Dodgers/status/2084430324440900094"></a></blockquote>
@@ -1262,6 +1267,7 @@ The cursive "Dodgers" script in blue on gray with the red number underneath is o
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #C41E3A 0%, #f5f5f5 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, August 3, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -1302,6 +1308,7 @@ A full 15-game Sunday, and Sunday is the one day of the week with standing unifo
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mets Cooperstown Throwback</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, August 2, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2083935203198722248"></a></blockquote>
@@ -1691,6 +1698,7 @@ Back-to-back for the Cooperstown pinstripes, and we are not going to pretend oth
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #f5f5f5 50%, #005A9C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, August 2, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -1731,6 +1739,7 @@ A full 15-game Saturday, and the two best looks on the board were both history l
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mets Cooperstown Throwback</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, August 1, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2083656409053343971"></a></blockquote>
@@ -2066,6 +2075,7 @@ The Mets pulled out the Cooperstown Collection pinstripes to mark 40 years since
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #003831 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, August 1, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2160,6 +2170,7 @@ A full 15-game Friday, and the City Connects came out in force: the Reds and Ori
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mets Black Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 31, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2083285208086827028"></a></blockquote>
@@ -2387,6 +2398,7 @@ New York's black alternate is the rare black jersey that earns it: the orange-an
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #f5f5f5 50%, #EB6E1F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 31, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2589,6 +2601,7 @@ A 10-game Thursday heavy on the home whites, with the color coming from the alte
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #005A9C 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Dodgers Home White</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 30, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Dodgers/status/2083064035583603171"></a></blockquote>
@@ -2600,6 +2613,7 @@ The Dodgers' home whites are about as clean as it gets in baseball: the cursive 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #00A3E0 0%, #f5f5f5 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 30, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2937,6 +2951,7 @@ A full 16-game Wednesday, headlined by a Braves-Mets split doubleheader at Citi 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mets Black Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, July 29, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2082575398563430669"></a></blockquote>
@@ -2948,6 +2963,7 @@ The Mets' black alternate is one of the most beloved looks in the National Leagu
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #f5f5f5 50%, #003831 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, July 29, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -3483,6 +3499,7 @@ Fifteen games on the board Tuesday, headlined by a Guardians-Reds split doublehe
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #003831 0%, #EFB21E 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Athletics Kelly Green</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, July 28, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2082319174853066910"></a></blockquote>
@@ -3560,6 +3577,7 @@ The nightcap brought the wardrobe out. Cleveland's navy alternate with the big r
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2C56 0%, #f5f5f5 50%, #005A9C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, July 28, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -3996,6 +4014,7 @@ A full 11-game Monday to open the week, and the color came out early. The Braves
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mets Home White</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, July 27, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2081923031606108494"></a></blockquote>
@@ -4205,6 +4224,7 @@ Gray at Miami's home whites, a quiet, businesslike pairing to open the week in S
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, July 27, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -4377,6 +4397,7 @@ Fifteen getaway-day games, and Sunday dialed the color back a notch from Saturda
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #DF4601 0%, #1a1a1a 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Orioles Orange Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 26, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Orioles/status/2081444213950935345"></a></blockquote>
@@ -4388,6 +4409,7 @@ Baltimore's orange alternate is a jolt of pure color, the black “Orioles” sc
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BA0021 0%, #f5f5f5 50%, #FD5A1E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 26, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -4904,6 +4926,7 @@ Fifteen more games the day after Hall of Fame Weekend, and the alternates and Ci
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #1c1c1c 0%, #6cc24a 55%, #8FBCE6 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Rays Devil Rays Throwback Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, July 25, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RaysBaseball/status/2081178015556313429"></a></blockquote>
@@ -4915,6 +4938,7 @@ Nobody had more fun on Saturday than Tampa Bay. The Devil Rays throwback — a w
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #f5f5f5 50%, #FF5910 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, July 25, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -5431,6 +5455,7 @@ Fifteen games and one of the most fun uniform nights of the season, because this
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Angels Throwback “Los Angeles” Caps</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 24, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2080808306034274741"></a></blockquote>
@@ -5442,6 +5467,7 @@ On a night when all 30 teams wore throwback caps for Hall of Fame Weekend, the A
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #f5f5f5 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 24, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -5944,6 +5970,7 @@ A five-game Thursday getaway slate, and it played about as quiet as that number 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #13274F 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Braves Home White</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 23, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Braves/status/2080364443897119142"></a></blockquote>
@@ -5955,6 +5982,7 @@ On a night this short on color, the cleanest classic wins by default, and Atlant
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #f5f5f5 50%, #134A8E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 23, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -6127,6 +6155,7 @@ Seventeen games, the biggest slate this tracker has logged in a single day, and 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2340 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Tigers Navy Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, July 22, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Tigers/status/2080125012674056230"></a></blockquote>
@@ -6138,6 +6167,7 @@ Detroit's navy alternate is the quiet success story of the 2026 uniform year. Th
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #f5f5f5 50%, #9ecae1 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, July 22, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -6706,6 +6736,7 @@ Rain took two games off the board, with the Pirates at Yankees and the Orioles a
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #005A9C 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Dodgers Royal Blue Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, July 21, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Dodgers/status/2079759189518225542"></a></blockquote>
@@ -6717,6 +6748,7 @@ The Dodgers have been leaning on the royal blue alternate more and more, and it 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #8FBCE6 0%, #f5f5f5 50%, #1749B7 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Tuesday, July 21, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -7153,6 +7185,7 @@ Monday nights are usually when the wardrobe goes quiet, and this 15-game slate m
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Angels White Throwback Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, July 20, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2079433697749819557"></a></blockquote>
@@ -7164,6 +7197,7 @@ Back-to-back Jersey of the Day honors for the same uniform, and it earned them a
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #f5f5f5 50%, #003278 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Monday, July 20, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -7666,6 +7700,7 @@ Sunday in baseball means throwback and alternate jerseys, and this 16-game slate
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #BA0021 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Angels White Throwback Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 19, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2078979343263674686"></a></blockquote>
@@ -7677,6 +7712,7 @@ Our pick from the Sunday slate: the Angels in the white throwback alternate, the
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 19, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -8179,6 +8215,7 @@ Saturday flipped the wardrobe from Friday's City Connect night to a loaded alter
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #C41E3A 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Cardinals Victory Blue</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, July 18, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2078557040213983511"></a></blockquote>
@@ -8223,6 +8260,7 @@ The marquee series in the Bronx got its best look on Saturday, with Los Angeles 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #002D72 0%, #FF5910 50%, #E81828 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, July 18, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -8725,6 +8763,7 @@ Friday means City Connect night across baseball, and a full 14-game slate delive
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #2F241D 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #C7A97B;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Mariners Navy Alternate</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 17, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2078341204538962310"></a></blockquote>
@@ -8736,6 +8775,7 @@ Our pick from a loaded Friday: Seattle's navy-and-teal alternate, worn at home a
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #E8B24B 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 17, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -9205,6 +9245,7 @@ Baseball is back. The All-Star break wrapped and the second half opened with a s
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #2F241D 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #C7A97B;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Phillies Powder Blue</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 16, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2077835923216048149"></a></blockquote>
@@ -9251,6 +9292,7 @@ A 15-game getaway-day slate to close the weekend, and it played out the way Sund
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #2F241D 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #C7A97B;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Padres Camouflage</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 12, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Padres/status/2076451362020401393"></a></blockquote>
@@ -9394,6 +9436,7 @@ Cleveland in road gray, Miami in its blue alternate jersey. The Marlins' Caribbe
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #E8B24B 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
     <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Sunday, July 12, 2026</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
@@ -9764,6 +9807,7 @@ A big 16-game Saturday, headlined by the Brewers and Pirates finally playing Fri
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #004687 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Royals Powder Blue</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Saturday, July 11, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2076022867515285577"></a></blockquote>
@@ -10305,6 +10349,7 @@ Fourteen games, with Brewers at Pirates rained out and rescheduled as a Saturday
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2340 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #FA9F63;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Tigers Orange</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Friday, July 10, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tigers/status/2075780388861984961"></a></blockquote>
@@ -10780,6 +10825,7 @@ The full 13-game slate is in the books. A mostly classic Thursday: a dozen home 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #12284B 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Brewers Powder Blue</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Thursday, July 9, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2075416043380441235"></a></blockquote>
@@ -11222,6 +11268,7 @@ A full 15-game slate. Ten home teams stayed in white or cream, eight road teams 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #134A8E 0%, #1c1c1c 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #8FBCE6;">⚾ Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Blue Jays Powder Blue</span>
+  <span style="display: block; font-size: 0.68em; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.78); margin-top: 4px;">Wednesday, July 8, 2026</span>
 </div>
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2075059812665311554"></a></blockquote>
