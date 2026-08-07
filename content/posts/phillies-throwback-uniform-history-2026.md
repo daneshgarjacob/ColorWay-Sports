@@ -2,7 +2,7 @@
 title: "The Phillies Throwback Playbook: Why the 1939 Field of Dreams Uniform Is Their Best Look"
 category: MLB
 date: "2026-07-20"
-updatedDate: "2026-07-21"
+updatedDate: "2026-08-07"
 excerpt: "A guide to the Phillies throwback jerseys and uniforms, from powder blue to the 1939 Field of Dreams road set they wear in Iowa on August 13."
 gradient: "linear-gradient(135deg, #E81828 0%, #284898 130%)"
 coverImage: "/images/posts/phillies-throwbacks/cover.jpg"
@@ -86,6 +86,15 @@ It is also, for now, a one-night uniform. That scarcity is part of the appeal, a
 </div>
 
 For what Philadelphia has actually worn day by day this season, the [Phillies uniform calendar](/mlb-tracker/phillies) lays out the whole year, and every game gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Phillies Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
+<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dphillies%20throwback" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "The Cavaliers Are Going Back to the Throwback Jerseys for Their Potential Series-Clinching Game 6"
 category: "NBA"
 date: "2026-05-15"
+updatedDate: "2026-08-07"
 excerpt: "Cavs switch to Classic Edition throwback blue for Game 6 vs Pistons — the same uniform they were 2-0 in when they flipped the series."
 gradient: "linear-gradient(135deg, #6F263D 0%, #2d0e1a 60%, #1a0a10 100%)"
 coverImage: "/images/posts/cavs-throwback-jerseys-game-6-pistons-2026-playoffs/cavs-throwback.jpg"
@@ -38,3 +39,12 @@ Detroit comes into Cleveland in the Association Edition whites on the road. The 
 The Cavaliers made the boldest possible uniform call for a potential closeout game. They are not going to their primary home look or their Statement Edition black. They are going back to the exact uniform they wore when they turned the series around. If they close out the Pistons in the throwback blue Thursday night, that jersey is going to mean something to Cleveland for a very long time.
 
 We will update the [2026 NBA Playoffs Round 2 Jersey Tracker](/stories/nba-playoffs-2026-round-2-jersey-tracker) with the Game 6 result and final grade after the game.
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Cavaliers Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
+<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dcavaliers%20throwback" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>

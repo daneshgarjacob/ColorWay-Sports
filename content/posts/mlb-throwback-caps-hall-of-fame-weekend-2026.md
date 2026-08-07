@@ -2,7 +2,7 @@
 title: "Why Is Every MLB Team Wearing Throwback Caps? 2026 Hall of Fame Weekend, Explained"
 category: MLB
 date: "2026-07-25"
-updatedDate: "2026-07-25"
+updatedDate: "2026-08-07"
 excerpt: "Turned on a game and every MLB team is wearing an old-school cap? Here's why: all 30 teams wore throwback caps for 2026 Hall of Fame Weekend, July 24 to 26."
 gradient: "linear-gradient(135deg, #041E42 0%, #0a1a3a 55%, #C8102E 130%)"
 cardStyle: words
@@ -42,6 +42,15 @@ A few stood out. The Los Angeles Angels, for example, paired their road grays wi
 ## Why It Matters for Uniform Fans
 
 Cap weekends like this are a reminder that the hat is doing more identity work than any other piece of a baseball uniform. A single throwback lid can flip a team's entire look decades into the past without touching the jersey, and seeing all 30 clubs do it at once is the closest the sport gets to a league-wide heritage night. If you have ever wanted to see what your team looked like a generation ago without digging through old photos, Hall of Fame Weekend puts it right on the field.
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Hall of Fame Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
+<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dbaseball%20hall%20of%20fame" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
 
 ## Frequently Asked Questions
 

@@ -2,6 +2,7 @@
 title: "World Series Logo History 1986-2025: Every Era Ranked Best to Worst"
 category: "MLB"
 date: "2026-07-15"
+updatedDate: "2026-08-07"
 excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes the A, the nineties globe and bat era a B minus, Capital One a D."
 gradient: "linear-gradient(135deg, #F8EFE0 0%, #E5D5BC 100%)"
 league: "mlb"
@@ -215,6 +216,15 @@ The sponsor does not help. Capital One sits inside the championship mark of the 
 ## The Worst Era
 
 **2022 to 2025, the Capital One Era, grade D.** Not because it is ugly, because it is not. Because it is the same logo four times with the year swapped and a bank in the corner. The one job of an annual mark is to be annual. Three of these four are interchangeable, and the fourth, the genuinely lovely 2025 cursive, only proves the rest could have been better if anyone had asked.
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop World Series Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
+<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dworld%20series" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
 
 ## Frequently Asked Questions About World Series Logo History
 
