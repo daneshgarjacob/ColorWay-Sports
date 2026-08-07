@@ -13,6 +13,12 @@
 export interface Author {
   slug: string;
   name: string;
+  /**
+   * schema.org type. Use "Person" for a real named human who actually wrote the
+   * piece. Use "Organization" for a desk/staff credit — claiming a Person that
+   * is not a real writer is exactly the pattern Google's spam policies target.
+   */
+  type: "Person" | "Organization";
   /** Shown under the name on the author page and in the post footer. */
   role: string;
   /** One or two sentences, appended to the end of every post. */
@@ -30,17 +36,35 @@ export const AUTHORS: Author[] = [
   {
     slug: "jake-daneshgar",
     name: "Jake Daneshgar",
-    role: "Founder and Editor, ColorWay Sports",
+    type: "Person",
+    role: "Founder and Editor",
     shortBio:
-      "Jake Daneshgar is the founder and editor of ColorWay Sports, where he grades uniforms, kits, logos and broadcast design across every major league.",
+      "Jake Daneshgar is the founder and editor of ColorWay Sports. He writes about uniforms, kits and logo design, and grades the jerseys teams actually wear.",
     bio: [
-      "Jake Daneshgar founded ColorWay Sports in 2026 to cover the part of sports that most outlets skip: the way the game actually looks. Uniforms, kits, logos, caps, scorebugs, stadium design, liveries and paint schemes.",
-      "He graded all 143 MLB jerseys worn in the 2026 season, team by team, and maintains daily uniform trackers for MLB and the NFL that log what every club wore, in every game, as it happens. He also grades European club kits, college football uniforms, F1 liveries and NASCAR paint schemes.",
-      "Every grade on this site is his own judgment call, made against the same criteria each time: color, contrast, typography, restraint, and whether a design earns its place in a team's wardrobe. Nothing is graded by committee and nothing is promoted to make a list flow better.",
+      "Jake Daneshgar founded ColorWay Sports in 2026 to cover the part of sports that most outlets skip: the way the game actually looks. Uniforms, kits, logos, caps, scorebugs, stadium design and liveries.",
+      "He edits the site and writes across baseball, football and European soccer, with a particular interest in what makes a uniform worth keeping — color, contrast, typography, restraint, and whether a design earns its place in a team's wardrobe.",
+      "Grades here are judgment calls, made against the same criteria every time. Nothing is promoted to make a list flow better.",
     ],
-    // TODO: add X profile URL once confirmed — see note in AuthorBio.
+    // sameAs is intentionally empty until the ColorWay Sports X URL is confirmed.
+    // Do NOT guess a handle — a wrong sameAs points Google at someone else's identity.
     sameAs: [],
     email: "jake@colorwaysports.com",
+  },
+  {
+    // Desk credit for continuously-updated data posts (daily trackers, uniform
+    // schedules). Typed Organization, not Person, because no single human sits
+    // behind a page that is re-logged every night — that is the honest credit
+    // and it is what wire desks use.
+    slug: "colorway-sports-staff",
+    name: "ColorWay Sports Staff",
+    type: "Organization",
+    role: "Uniform Tracking Desk",
+    shortBio:
+      "The ColorWay Sports tracking desk logs what every team wears, game by game, and keeps the trackers current all season.",
+    bio: [
+      "The ColorWay Sports tracking desk maintains the running uniform records: what every club wore, in every game, updated through the season rather than written once.",
+      "These pages are logs before they are articles. Combinations are recorded from broadcast and club sources as games finish, and grades are added by the editor.",
+    ],
   },
 ];
 
@@ -65,19 +89,26 @@ export function authorUrl(author: Author): string {
   return `https://www.colorwaysports.com/authors/${author.slug}`;
 }
 
-/** schema.org Person node, reused by post pages and author pages. */
+/** schema.org author node, reused by post pages and author pages. */
 export function authorSchema(author: Author): Record<string, unknown> {
-  return {
-    "@type": "Person",
+  const base: Record<string, unknown> = {
+    "@type": author.type,
     name: author.name,
     url: authorUrl(author),
-    jobTitle: author.role,
     description: author.shortBio,
     ...(author.sameAs && author.sameAs.length > 0 ? { sameAs: author.sameAs } : {}),
-    worksFor: {
+  };
+
+  // jobTitle/worksFor only make sense for a human. An Organization author is
+  // part of the publisher, not employed by it.
+  if (author.type === "Person") {
+    base.jobTitle = author.role;
+    base.worksFor = {
       "@type": "Organization",
       name: "ColorWay Sports",
       url: "https://www.colorwaysports.com",
-    },
-  };
+    };
+  }
+
+  return base;
 }

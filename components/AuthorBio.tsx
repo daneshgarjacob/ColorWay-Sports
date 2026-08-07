@@ -23,7 +23,7 @@ export default function AuthorBio({ author }: { author: Author }) {
         </div>
         <div className="min-w-0">
           <p className="text-[10px] uppercase tracking-[0.18em] text-gray-light font-semibold mb-1">
-            Written By
+            {author.type === "Person" ? "Written By" : "Tracked By"}
           </p>
           <Link
             href={`/authors/${author.slug}`}

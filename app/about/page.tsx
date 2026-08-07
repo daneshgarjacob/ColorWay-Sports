@@ -61,12 +61,19 @@ export default function AboutPage() {
               <Link href="/authors/jake-daneshgar" className="text-orange font-semibold hover:underline">
                 Jake Daneshgar
               </Link>
-              , who writes and grades everything you see here. Every letter grade on this site
-              is one person&apos;s judgment, applied the same way every time, and signed.
+              . Our running uniform records are kept by the{" "}
+              <Link
+                href="/authors/colorway-sports-staff"
+                className="text-orange font-semibold hover:underline"
+              >
+                tracking desk
+              </Link>
+              , updated game by game through the season.
             </p>
             <p>
-              That matters to us. Plenty of sites will tell you a jersey is good. We tell you
-              who thinks so, and why, and you get to disagree with a name rather than a logo.
+              Every letter grade here is signed. Plenty of sites will tell you a jersey is good.
+              We tell you who thinks so, and why, and you get to disagree with a name rather
+              than a logo.
             </p>
           </div>
         </div>

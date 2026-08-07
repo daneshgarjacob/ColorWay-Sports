@@ -51,7 +51,9 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
         mainEntityOfPage: { "@type": "WebPage", "@id": authorUrl(author) },
       },
       {
-        "@type": "ProfilePage",
+        // ProfilePage describes a person's profile; a desk credit is just a
+        // collection of the pages it maintains.
+        "@type": author.type === "Person" ? "ProfilePage" : "CollectionPage",
         mainEntity: { "@id": authorUrl(author) },
         url: authorUrl(author),
       },
