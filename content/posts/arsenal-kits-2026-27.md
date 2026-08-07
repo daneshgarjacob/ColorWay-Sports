@@ -11,10 +11,6 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2067948011502858575"></a></blockquote>
-</div>
-
 Arsenal are one of only two clubs in Europe with all three 2026/27 kits already released, which makes them one of the few we can grade completely. The headline is that red, blue and yellow are back together across the wardrobe for the first time in a while, and that alone earns the season a lot of goodwill here. Below is every shirt, graded, plus the overall wardrobe grade.
 
 ## The Home Shirt: A-
@@ -26,6 +22,10 @@ The detail that makes it is the striping at the top of the sleeve, and the way t
 The one thing we would change: some blue somewhere. Arsenal's blue is one of the best secondary colours in the sport and there is none of it here.
 
 **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2067948011502858575"></a></blockquote>
+</div>
 
 ## The Away Shirt: B+
 
@@ -69,9 +69,9 @@ adidas, who returned as Arsenal's supplier in 2019 and have made every kit since
 
 ## The Bottom Line
 
-Arsenal have the joint-most complete wardrobe in Europe for 2026/27 and one of the better ones. The home shirt is the best of the three thanks to its two-tone red and the sleeve striping, and both change kits earn their place by putting red, blue and yellow back together. Wardrobe grade: A-.
+Arsenal have the joint-most complete wardrobe in Europe for 2026/27 and one of the better ones. The home shirt is the best of the three thanks to its two-tone red and the sleeve striping, and both change kits earn their place by putting red, blue and yellow back together. Wardrobe grade: B+.
 
-See how Arsenal's shirts stack up against the rest of the continent in [our full ranking of every 2026/27 European club kit](/stories/european-club-kits-2026-27-ranked).
+See how Arsenal's shirts stack up against the rest of the continent in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 
@@ -81,7 +81,7 @@ Three shirts, all released. The home is red with white sleeves, a crewneck colla
 
 **What grade do Arsenal's 2026/27 kits get?**
 
-The home shirt gets an A-, the away a B+, and the third a B+. The overall wardrobe grade is an A-.
+The home shirt gets an A-, the away a B+, and the third a B+. The overall wardrobe grade is a B+.
 
 **Is the Arsenal 2026/27 third kit yellow?**
 

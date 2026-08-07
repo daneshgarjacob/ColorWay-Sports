@@ -11,10 +11,6 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2082353177077432619"></a></blockquote>
-</div>
-
 Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. The home shirt has launched, the away has been worn in a match without reaching shops, and the third is still a leak. Two shirts to grade, and the better of them is the one you cannot buy yet.
 
 ## The Home Shirt: B-
@@ -38,6 +34,10 @@ Worn before it was sold. Tottenham posted its first outing on July 28, so it has
 It is the better of the two Tottenham shirts, which is not a high bar this season, and the important thing is that it reads as a decision rather than a repeat. That alone puts it above the home kit.
 
 **Grade: B**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2082353177077432619"></a></blockquote>
+</div>
 
 ## The Third Shirt: Not Yet Released
 
@@ -63,7 +63,7 @@ Nike, who have supplied Tottenham since 2017.
 
 The home shirt is a white-and-navy repeat carrying a mid-1980s Hummel reference so subtle it barely registers, and it grades a B-. The away, worn once but not yet in shops, is the better shirt at a B. The third is still a leak. Wardrobe grade: B, and the leaked purple third is the one to watch.
 
-See where the home shirt landed against the rest of the continent in [our full ranking of every 2026/27 European club kit](/stories/european-club-kits-2026-27-ranked).
+See where both shirts landed against the rest of the continent in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27), [Chelsea's 2026/27 kits](/stories/chelsea-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
 

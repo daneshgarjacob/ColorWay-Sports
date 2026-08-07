@@ -271,23 +271,23 @@ Old Royal blue restored, with a bold wide central red Hechter stripe flanked by 
 
 ## Every Wardrobe, Ranked
 
-Individual shirts are one thing. What a club actually looks like across a season is another, so here is every wardrobe, best to worst.
+Individual shirts are one thing. What a club actually looks like across a season is another, so here is every wardrobe, best to worst. Each club links to its own full breakdown.
 
-- **Paris Saint-Germain, A.** The best wardrobe in Europe and the only club with both kits at A- or better. Restraint won the season.
-- **Manchester United, A-.** Carried by the away shirt, which is the best change kit of the year.
-- **Barcelona, A-.** A thoughtful home shirt and the boldest away in Europe.
-- **Arsenal, B+.** Three kits, no weak link, and red, blue and yellow back together across the set.
-- **AC Milan, B+.** The widest gap of any club: an A home shirt and a B- away.
-- **Liverpool, B+.** A top-six home shirt with a quiet white one behind it.
-- **Borussia Dortmund, B+.** The most consistent club here, with both graded kits at exactly the same level.
-- **Atletico Madrid, B+.** A strong home shirt and a change kit that overreaches.
-- **Juventus, B+.** Stripes back where they belong, held back by gold that fights the sponsor.
-- **Chelsea, B.** Both shirts fine, neither one especially Chelsea.
-- **Real Madrid, B.** Two shirts, two Bs, and the sport's most valuable home kit settling for fine.
-- **Bayern Munich, B.** A welcome return to the classic red, and an away that looks like somebody else's.
-- **Inter, B.** A good home shirt with a collar we cannot get past, and an away built on baseball.
-- **Tottenham, B.** Still the thinnest wardrobe on the list, but the away shirt is a clear step up on the home.
-- **Manchester City, B-.** The only club without a single kit above a B, and now the only club left at B-.
+- **[Paris Saint-Germain](/stories/psg-kits-2026-27), A.** The best wardrobe in Europe and the only club with both kits at A- or better. Restraint won the season.
+- **[Manchester United](/stories/manchester-united-kits-2026-27), A-.** Carried by the away shirt, which is the best change kit of the year.
+- **[Barcelona](/stories/barcelona-kits-2026-27), A-.** A thoughtful home shirt and the boldest away in Europe.
+- **[Arsenal](/stories/arsenal-kits-2026-27), B+.** Three kits, no weak link, and red, blue and yellow back together across the set.
+- **[AC Milan](/stories/ac-milan-kits-2026-27), B+.** The widest gap of any club: an A home shirt and a B- away.
+- **[Liverpool](/stories/liverpool-kits-2026-27), B+.** A top-six home shirt with a quiet white one behind it.
+- **[Borussia Dortmund](/stories/borussia-dortmund-kits-2026-27), B+.** The most consistent club here, with both graded kits at exactly the same level.
+- **[Atletico Madrid](/stories/atletico-madrid-kits-2026-27), B+.** A strong home shirt and a change kit that overreaches.
+- **[Juventus](/stories/juventus-kits-2026-27), B+.** Stripes back where they belong, held back by gold that fights the sponsor.
+- **[Chelsea](/stories/chelsea-kits-2026-27), B.** Both shirts fine, neither one especially Chelsea.
+- **[Real Madrid](/stories/real-madrid-kits-2026-27), B.** Two shirts, two Bs, and the sport's most valuable home kit settling for fine.
+- **[Bayern Munich](/stories/bayern-munich-kits-2026-27), B.** A welcome return to the classic red, and an away that looks like somebody else's.
+- **[Inter](/stories/inter-kits-2026-27), B.** A good home shirt with a collar we cannot get past, and an away built on baseball.
+- **[Tottenham](/stories/tottenham-kits-2026-27), B.** Still the thinnest wardrobe on the list, but the away shirt is a clear step up on the home.
+- **[Manchester City](/stories/manchester-city-kits-2026-27), B-.** The only club without a single kit above a B, and now the only club left at B-.
 
 ## What This Season Actually Tells Us
 

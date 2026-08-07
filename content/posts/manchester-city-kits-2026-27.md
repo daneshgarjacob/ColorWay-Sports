@@ -11,10 +11,6 @@ league: "soccer"
 teams: []
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
-</div>
-
 We ranked every 2026/27 kit at Europe's fifteen biggest clubs, and Manchester City came out of it with an unwanted distinction: they are the only club on that list without a single shirt graded above a B. Their away kit also took the lowest grade of the whole exercise. Here is why, shirt by shirt.
 
 ## The Home Shirt: B
@@ -41,6 +37,10 @@ Heritage references work when they sit on top of an identity. This one replaced 
 
 **Grade: C+**
 
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
+</div>
+
 ## The Third Shirt: Not Yet Released
 
 City's third kit has not launched. What is known is unusual enough to be worth flagging: it was designed through PUMA's AI Creator tool, from roughly 180,000 designs submitted by supporters, narrowed to ten finalists.
@@ -65,7 +65,7 @@ PUMA, who have supplied City since 2019 in what was reported at the time as one 
 
 Manchester City are the only one of Europe's fifteen biggest clubs without a kit graded above a B for 2026/27. The gradient home shirt has a good idea and a poor execution, and the worker-bee away shirt is the lowest-graded kit in our entire European ranking because it forgot to be blue. The AI-designed third kit is still to come. Wardrobe grade: B-.
 
-See where both shirts landed against the rest of the continent in [our full ranking of every 2026/27 European club kit](/stories/european-club-kits-2026-27-ranked).
+See where both shirts landed against the rest of the continent in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
 
