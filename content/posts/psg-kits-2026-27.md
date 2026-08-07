@@ -2,7 +2,7 @@
 title: "PSG's 2026/27 Kits: The Best Wardrobe In Europe, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-07"
 excerpt: "PSG have the best wardrobe in Europe for 2026/27 and the kit of the season. Both jerseys graded, and why restraint won."
 gradient: "linear-gradient(135deg, #004170 0%, #0A1A2F 55%, #DA291C 120%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Nike, who have supplied Paris Saint-Germain since 1989.
 
 PSG have the best wardrobe in Europe for 2026/27. The home shirt is the kit of the season at an A, built on a single unbroken Hechter stripe and the restored Old Royal blue, and the away is an inverted take on the same idea at an A-. Wardrobe grade: A.
 
-See where every one of these shirts landed in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
 ## Frequently Asked Questions
 

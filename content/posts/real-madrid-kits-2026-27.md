@@ -2,7 +2,7 @@
 title: "Real Madrid's 2026/27 Kits: Two Bs For The Biggest Kit"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-07"
 excerpt: "Real Madrid's 2026/27 home jersey has pink on the three stripes and both kits graded a B. The most valuable shirt in football settling for fine."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #0B3D2E 50%, #E5A0B5 120%)"
 cardStyle: words
@@ -71,7 +71,7 @@ adidas, who have supplied Real Madrid since 1998.
 
 Real Madrid graded two Bs for 2026/27, which is a mild disappointment for the most valuable kit in football. The home shirt's crown-derived jacquard and dark green trim are good work undone by pink on the three stripes, and the green away lacks any pop of contrast. The pink third kit lands August 12. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

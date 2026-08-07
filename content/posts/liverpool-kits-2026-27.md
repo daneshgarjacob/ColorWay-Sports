@@ -2,7 +2,7 @@
 title: "Liverpool's 2026/27 Kits: The Candy Shirt Returns, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-07"
 excerpt: "Liverpool's 2026/27 home jersey revives the 1989 Candy graphic and ESPN ranked it third in the league. Every kit graded."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 55%, #00B2A9 120%)"
 cardStyle: words
@@ -75,7 +75,7 @@ adidas, who have supplied Liverpool since 2025.
 
 Liverpool's 2026/27 home shirt is one of the best in Europe at an A-, built on the 1989 Candy graphic and the deepest red they have worn in years. The white away is a clean B carrying a pattern taken from 1970s Anfield match tickets, and the unreleased black third is a provisional B-. Wardrobe grade: B+.
 
-See where every one of these shirts landed in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

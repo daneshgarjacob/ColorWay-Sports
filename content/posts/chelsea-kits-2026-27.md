@@ -2,7 +2,7 @@
 title: "Chelsea's 2026/27 Kits: Why The Home Shirt Looks Empty"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-07"
 excerpt: "Chelsea's 2026/27 home jersey has a blank chest because they have no shirt sponsor. Both kits graded, plus the gold laurel detail."
 gradient: "linear-gradient(135deg, #034694 0%, #0A1A2F 55%, #C9A227 120%)"
 cardStyle: words
@@ -71,7 +71,7 @@ Nike, who have supplied Chelsea since 2017.
 
 Chelsea's 2026/27 home shirt is a B+, with the best gold trim work in the Premier League let down by a blank chest where a sponsor should be. The black away with the standalone gold lion is a B-, a nice shirt that could belong to any club. The retro-crest third is still to come. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 31 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 
