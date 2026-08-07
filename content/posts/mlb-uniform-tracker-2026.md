@@ -33,14 +33,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, August 6
 
-Six of the eleven games are in, and the road teams have taken over completely. Five of the six visitors turned up in colour: red for the Angels in Baltimore, blue for the Mets in Cleveland, black for the Pirates in Milwaukee, royal for the Blue Jays at Wrigley, and navy for the Tigers in Seattle. Only the Athletics went with the gray. At home it was white in five of six parks, with Milwaukee the exception in the cream.
-
-<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #F6EEDD 0%, #12284B 100%); border-radius: 12px 12px 0 0;">
-  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
-  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Brewers Home Cream</span>
-</div>
-
-On a day when five road teams reached for colour, the best-looking thing on the schedule was a cream uniform with nothing on it. Milwaukee's home cream has no pinstripes, which is the decision that makes it work: the navy script and the gold outline get a warm, slightly aged base to sit on, and nothing competes with them. Cream is a difficult colour on television, because it can read as dirty white if the shade is even slightly wrong. This one is right, and it is the closest thing in the league to looking like a uniform from a photograph taken sixty years ago.
+Six of the eleven games are in, and the road teams have taken over completely. Five of the six visitors turned up in colour: red for the Angels in Baltimore, blue for the Mets in Cleveland, black for the Pirates in Milwaukee, royal for the Blue Jays at Wrigley, and navy for the Tigers in Seattle. Only the Athletics went with the gray. At home it was white in five of six parks, with Milwaukee the exception in the cream. Five games are still to finish, so the Jersey and Matchup of the Day are open until the full slate is in.
 
 ### Athletics at Cincinnati Reds
 

@@ -2,7 +2,7 @@
 title: "Every 2026 NFL Historic Sideline Hat, Ranked: The Throwbacks Are Better Than the Real Ones"
 category: NFL
 date: "2026-08-04"
-updatedDate: "2026-08-04"
+updatedDate: "2026-08-06"
 excerpt: "2026 NFL historic sideline hats, ranked. All 26 New Era throwback caps graded worst to first. The Eagles win, and six teams got left out."
 gradient: "linear-gradient(135deg, #46280F 0%, #17120D 52%, #C08A2E 100%)"
 coverImage: "/images/posts/nfl-sideline-hats-2026-ranked/cover-historic-sideline-hats-ranked.jpg"
@@ -274,7 +274,7 @@ The reason is the same thing that sank half the primary ranking. New Era's 2026 
 
 The teams that jumped furthest prove it. Tampa Bay went from our worst-graded primary to a top-three throwback by swapping a red-on-red flag for Bucco Bruce on creamsicle. New Orleans, Cincinnati, and the Giants all made similar leaps. Meanwhile the four teams whose historic cap graded lower than their primary, the Rams, Jets, Bears, and Jaguars, are all teams whose modern logo is already excellent or whose history is too short to raid.
 
-For the standard team-color versions of these caps, see our [2026 NFL sideline hat rankings](/stories/nfl-sideline-hats-2026-ranked).
+For the standard team-color versions of these caps, see our [2026 NFL sideline hat rankings](/stories/nfl-sideline-hats-2026-ranked), and for the white-crown version of the collection, where the logos are rendered in full colour instead of tonally, see [all 32 white sideline hats ranked](/stories/nfl-white-sideline-hats-2026-ranked).
 
 ## More NFL Uniform Coverage
 

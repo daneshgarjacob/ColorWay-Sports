@@ -2,7 +2,7 @@
 title: "Every 2026 NFL Sideline Hat, Ranked: We Graded All 32 New Era Caps and Only Three Earned an A"
 category: NFL
 date: "2026-08-04"
-updatedDate: "2026-08-04"
+updatedDate: "2026-08-06"
 excerpt: "2026 NFL sideline hats, ranked. We graded all 32 New Era 9SEVENTY caps worst to first. Only three earned an A. The Rams win."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 52%, #D50A0A 100%)"
 coverImage: "/images/posts/nfl-sideline-hats-2026-ranked/cover-sideline-hats-ranked.jpg"
@@ -332,7 +332,7 @@ For teams whose logo is a bold silhouette or already an outline, the Colts, the 
 
 The lesson is the same one uniform designers keep relearning. A house style is only a good idea if you are willing to break it for the teams it does not fit.
 
-For the throwback versions of these same caps, which grade a full half-letter higher as a group, see our [2026 NFL historic sideline hat rankings](/stories/nfl-historic-sideline-hats-2026-ranked).
+For the throwback versions of these same caps, which grade a full half-letter higher as a group, see our [2026 NFL historic sideline hat rankings](/stories/nfl-historic-sideline-hats-2026-ranked). There is also a white-crown version of this exact collection, and it fixes the biggest problem on this list: every logo gets its real colours back, so the marks that vanished here suddenly work. Tampa Bay goes from last of 32 to one of the best. See [all 32 white sideline hats ranked](/stories/nfl-white-sideline-hats-2026-ranked).
 
 ## More NFL Uniform Coverage
 
