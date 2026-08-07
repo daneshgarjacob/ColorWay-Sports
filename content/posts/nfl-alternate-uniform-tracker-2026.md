@@ -1,5 +1,6 @@
 ---
 title: "2026 NFL Alternate Uniform Tracker: The Jets' New White Out Helmet Looks Great, but Five Helmets for a Team This Bad Is Getting Comical"
+author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NFL"
 date: "2026-07-21"

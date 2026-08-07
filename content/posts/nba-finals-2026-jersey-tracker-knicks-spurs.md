@@ -1,5 +1,6 @@
 ---
 title: "2026 NBA Finals Jersey & Uniform Tracker: Every Knicks vs Spurs Matchup Graded"
+author: "colorway-sports-staff"
 category: "NBA"
 date: "2026-06-01"
 updatedDate: "2026-06-14"

@@ -1,5 +1,6 @@
 ---
 title: "2026 NHL Conference Finals Jersey Tracker: Every Matchup Graded"
+author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-05-21"
 updatedDate: "2026-05-30"

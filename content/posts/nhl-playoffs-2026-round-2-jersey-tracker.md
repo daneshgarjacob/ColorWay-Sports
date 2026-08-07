@@ -1,5 +1,6 @@
 ---
 title: "2026 NHL Stanley Cup Playoffs Round 2 Jersey Tracker: Every Matchup Graded"
+author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-05-02"
 updatedDate: "2026-05-19"

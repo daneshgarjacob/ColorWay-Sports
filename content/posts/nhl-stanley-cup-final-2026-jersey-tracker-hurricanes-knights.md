@@ -1,5 +1,6 @@
 ---
 title: "2026 NHL Stanley Cup Final Jersey & Uniform Tracker: Every Hurricanes vs Knights Matchup Graded — Carolina Wins the Cup in 6"
+author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-06-01"
 updatedDate: "2026-06-15"

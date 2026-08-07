@@ -1,5 +1,6 @@
 ---
 title: "2026 World Cup Jersey Tracker: All 48 Teams, Every Kit Graded"
+author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-06-02"
 updatedDate: "2026-08-06"

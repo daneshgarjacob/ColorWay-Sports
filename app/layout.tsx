@@ -77,7 +77,11 @@ export default function RootLayout({
               "name": "ColorWay Sports",
               "alternateName": "ColorWay",
               "url": "https://www.colorwaysports.com",
-              "logo": "https://www.colorwaysports.com/brand/colorway-logo.jpg"
+              "logo": "https://www.colorwaysports.com/brand/colorway-logo.jpg",
+              // Ties the domain to the brand's own X account. This belongs on the
+              // publisher, NOT on a writer's Person node — the account is the
+              // publication, not any individual.
+              "sameAs": ["https://x.com/ColorWaySports"]
             })
           }}
         />

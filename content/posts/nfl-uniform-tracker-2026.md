@@ -1,5 +1,6 @@
 ---
 title: "2026 NFL Uniform Tracker: What Every Team Is Wearing, Game by Game, Graded"
+author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: NFL
 date: "2026-08-04"

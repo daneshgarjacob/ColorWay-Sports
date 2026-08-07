@@ -2,6 +2,7 @@
 title: >-
   2026 NBA Playoffs Round 1 Jersey Tracker: Every Game and Uniform Matchup
   Graded
+author: "colorway-sports-staff"
 category: NBA
 date: '2026-04-16'
 updatedDate: '2026-05-19'

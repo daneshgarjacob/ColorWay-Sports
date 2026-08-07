@@ -1,5 +1,6 @@
 ---
 title: '2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded'
+author: "colorway-sports-staff"
 category: NBA
 date: '2026-05-05'
 updatedDate: '2026-05-18'

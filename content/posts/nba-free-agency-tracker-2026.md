@@ -1,5 +1,6 @@
 ---
 title: "2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey (LeBron James to the 76ers, Giannis Antetokounmpo to Miami, LaMelo Ball to Minnesota)"
+author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"

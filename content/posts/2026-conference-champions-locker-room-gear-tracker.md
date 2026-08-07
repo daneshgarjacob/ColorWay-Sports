@@ -1,5 +1,6 @@
 ---
 title: "2026 Conference Champions Locker Room Gear Tracker: Every NBA and NHL Hat and T-Shirt Graded"
+author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-05-27"
 updatedDate: "2026-05-27"

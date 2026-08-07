@@ -1,5 +1,6 @@
 ---
 title: "2026 NBA Conference Finals Jersey Tracker: Every Matchup Graded"
+author: "colorway-sports-staff"
 category: "NBA"
 date: "2026-05-18"
 updatedDate: "2026-05-30"

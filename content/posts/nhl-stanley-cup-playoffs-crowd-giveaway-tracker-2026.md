@@ -1,5 +1,6 @@
 ---
 title: "2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded"
+author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-04-29"
 updatedDate: "2026-06-15"

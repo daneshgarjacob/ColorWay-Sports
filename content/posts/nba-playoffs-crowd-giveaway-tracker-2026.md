@@ -1,5 +1,6 @@
 ---
 title: "2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded"
+author: "colorway-sports-staff"
 category: "NBA"
 date: "2026-04-23"
 updatedDate: "2026-06-10"
