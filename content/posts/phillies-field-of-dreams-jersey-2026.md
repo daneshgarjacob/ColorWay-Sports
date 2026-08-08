@@ -2,7 +2,7 @@
 title: "Phillies Field of Dreams Jersey 2026: Every Detail of the 1939 Throwback, and Why It Is the Best Thing They Will Wear"
 category: MLB
 date: "2026-07-22"
-updatedDate: "2026-07-22"
+updatedDate: "2026-08-08"
 excerpt: "A close look at the Phillies Field of Dreams jersey for August 13: the 1939 slanted script, the centennial sleeve patch, and how it stacks up against the rest of the closet."
 gradient: "linear-gradient(135deg, #E81828 0%, #8a8d8f 55%, #284898 130%)"
 logoSrc: "/logos/leagues/mlb.png"

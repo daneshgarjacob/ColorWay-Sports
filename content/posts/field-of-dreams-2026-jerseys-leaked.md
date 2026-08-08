@@ -3,7 +3,7 @@ title: "Twins and Phillies 2026 Field of Dreams Uniforms Are Official: Full Look
 homepageFeature: true
 category: MLB
 date: "2026-07-11"
-updatedDate: "2026-07-20"
+updatedDate: "2026-08-08"
 excerpt: "MLB unveiled the Twins and Phillies 2026 Field of Dreams uniforms. Full look, letter grades on both throwback jerseys, and how the official reveal differs from the leak."
 gradient: "linear-gradient(135deg, #efe1c1 0%, #16233f 130%)"
 coverImage: "/images/posts/field-of-dreams-2026/cover.jpg"

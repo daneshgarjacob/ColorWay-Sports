@@ -2,7 +2,7 @@
 title: "Every Field of Dreams Uniform Ever, Ranked: The 1919 White Sox Throwback Is Overrated"
 category: MLB
 date: "2026-07-20"
-updatedDate: "2026-07-20"
+updatedDate: "2026-08-08"
 excerpt: "All six Field of Dreams Game jerseys and uniforms ranked and graded. Only one earns an A, and the most famous throwback of the bunch finishes dead last."
 gradient: "linear-gradient(135deg, #efe1c1 0%, #16233f 130%)"
 coverImage: "/images/posts/field-of-dreams-history/cover.jpg"

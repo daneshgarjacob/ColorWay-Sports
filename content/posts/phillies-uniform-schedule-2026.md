@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: Every Jersey and When They Wear It'
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-08"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -145,7 +145,7 @@ The City Connect design features a midnight navy gradient with "Philly" in a got
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect jersey on Fanatics →</a>
 
-Philadelphia's biggest uniform moment of 2026 comes on the road: the [Field of Dreams throwback](/stories/field-of-dreams-2026-jerseys-leaked) they wear against the Twins in Iowa on August 13.
+Philadelphia's biggest uniform moment of 2026 comes on the road: the [Field of Dreams throwback](/stories/field-of-dreams-2026-jerseys-leaked) they wear against the Twins in Iowa on **Thursday, August 13**, a gray 1939-41 set with the slanted red script. It is the only night all season the Phillies wear something outside the rotation on this page. The game is on Netflix at 7:30 p.m. ET — [everything you need to know is here](/stories/field-of-dreams-game-2026-everything-to-know), and we broke down [the Phillies jersey in detail](/stories/phillies-field-of-dreams-jersey-2026).
 
 ## Road Grays (Away Games)
 

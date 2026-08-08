@@ -2,7 +2,7 @@
 title: "Minnesota Twins Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-08"
 excerpt: "The Minnesota Twins run five uniforms in 2026 — home whites, road pinstripe grays, the redesigned navy 'Twins' alternate, the cream 'Twin Cities' alternate, and the blue 'Ripple Effect' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
@@ -186,6 +186,14 @@ No. Outside of the City Connect's Friday-home habit, the Twins pick their jersey
 
 **What are the Minnesota Twins' team colors?**
 Twins Navy, scarlet red, and "Kasota gold" — a warm tan named for the Kasota limestone quarried in southern Minnesota — locked in by the 2023 rebrand. Kasota gold runs through the trim and accents on every uniform as the connective thread across the set.
+
+## The One Game That Breaks the Rotation
+
+Nothing in the schedule above applies on **Thursday, August 13**. That night the Twins host the Phillies at the Field of Dreams site in Dyersville, Iowa, and both clubs wear one-off throwbacks built for the occasion: Minnesota in a white pinstriped set drawn from the original 1960s uniforms, Philadelphia in a gray road throwback lifted from 1939-41. It is the only date all season when the Twins wear something that is not in this closet, and the game is on Netflix at 7:30 p.m. ET.
+
+- [Field of Dreams Game 2026: the uniforms, the matchup, and how to watch](/stories/field-of-dreams-game-2026-everything-to-know)
+- [Both Field of Dreams uniforms, fully graded](/stories/field-of-dreams-2026-jerseys-leaked)
+- [Every Field of Dreams uniform ever, ranked](/stories/field-of-dreams-uniform-history-ranked)
 
 ## More MLB Coverage
 

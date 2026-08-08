@@ -2,7 +2,7 @@
 title: "Field of Dreams Game 2026: The Uniforms, the Matchup, and How to Watch Phillies vs Twins in Iowa"
 category: MLB
 date: "2026-07-21"
-updatedDate: "2026-07-22"
+updatedDate: "2026-08-08"
 excerpt: "Everything to know about the 2026 Field of Dreams Game on August 13: the Phillies and Twins throwback jerseys, the start time, and how to watch on Netflix."
 gradient: "linear-gradient(135deg, #284898 0%, #0b2d1a 55%, #E81828 130%)"
 coverImage: "/images/posts/field-of-dreams-game-2026/buxton-harper-uniforms.jpg"
