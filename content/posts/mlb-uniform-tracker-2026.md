@@ -35,7 +35,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, August 8
 
-All fifteen games are in, and Saturday was the mirror image of Friday. A night after eleven clubs wore a City Connect, exactly one did: the Nationals in the District Blueprint. Everything else went traditional. Eight home teams wore the plain white or the pinstripes, and the only home clubs that reached for anything else were the Royals in the powder blue, the Giants in the Gigantes, and the Diamondbacks in the black. The road was where the colour went: the Braves and Twins in navy, the Rays in navy, the Orioles in black, the Rockies in purple, the Angels in red for a third straight night at Miami, and the Dodgers in the blue alternate in Phoenix. Nine of the fifteen visitors still wore the gray.
+All fifteen games are in, and Saturday was the mirror image of Friday. A night after eleven clubs wore a City Connect, exactly one did: the Nationals in the District Blueprint. Nine home teams went to the plain white or the pinstripes. The six that reached for something else all had a reason: the Cardinals in the cream, which carries the "St. Louis" script and is reserved for Saturday home games at Busch, the Royals in the powder blue, the Giants in the Gigantes, the Pirates in the black alternate, the Diamondbacks in the black, and Washington in the City Connect. The road is where the rest of the colour went: the Braves and Twins in navy, the Rays in navy, the Orioles in black, the Rockies in purple, the Angels in red for a third straight night at Miami, and the Dodgers in the blue alternate in Phoenix. Nine of the fifteen visitors still wore the gray.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #111111 0%, #FDB827 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
@@ -307,10 +307,10 @@ The Pirates own the best black jersey in baseball and it is not particularly clo
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/cardinals-home-white.jpg" alt="Cardinals Home White jersey worn August 8 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/cardinals-cream-alternate.jpg" alt="Cardinals Cream Alternate jersey worn August 8 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CARDINALS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F3EAD3; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Cream Alternate</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%20louis%20cardinals%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
