@@ -9,6 +9,7 @@ coverImage: "/images/posts/dolphins-rivalries-2026/dolphins-rivalries-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
+logoSrc2: "/logos/teams/nfl-miami-dolphins.png"
 league: nfl
 teams:
   - miami-dolphins
