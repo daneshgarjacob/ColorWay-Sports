@@ -6,6 +6,8 @@ updatedDate: "2026-08-08"
 excerpt: "The Bills wore Nickel City on the field for the first time. The gray jersey washes out at distance and the helmet carries the whole uniform. Downgraded to C−."
 gradient: "linear-gradient(135deg, #9EA2A2 0%, #00338D 55%, #C60C30 120%)"
 cardStyle: words
+logoSrc: "/logos/leagues/nfl.png"
+logoSrc2: "/logos/teams/nfl-buffalo-bills.png"
 kicker: Graded
 league: "nfl"
 teams:
