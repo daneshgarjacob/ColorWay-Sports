@@ -39,7 +39,16 @@ Fourteen of Sunday's fifteen games are logged below, with only the Astros and Pa
 
 The colour moved to the road. Six visiting clubs skipped the gray: the Angels in red for a fourth straight game in Miami, the Orioles in orange at Texas, the Dodgers in the blue in Phoenix, and three separate navies from the Guardians, Tigers and Rays. The other eight road teams all wore the gray, which is the highest gray count we have logged in a week.
 
-At home the split came out even, seven classics against seven alternates. The Marlins broke out the teal throwback, the Royals and Rangers both went powder blue on the same afternoon, Washington wore the red, and Pittsburgh went back to the black alternate a day after it was our Jersey of the Day.
+At home the split came out even, seven classics against seven alternates. The Marlins broke out the teal throwback, the Royals and Rangers both went powder blue on the same afternoon, Washington wore the red, and Pittsburgh went back to the black alternate a day after it was our Jersey of the Day. The best pairing of the afternoon was in Arlington, where Baltimore's orange ran into Texas in the powder blue. It was the only game on the board with no white and no gray anywhere in the frame, one warm colour against one cool one, and it is our Matchup of the Day.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0A0A0A 0%, #3BA39C 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Marlins Teal Throwback</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Marlins/status/2086574839951700151"></a></blockquote>
+
+This is our No. 1 Marlins jersey and the only A in their closet, and Sunday is the only day you can see it. Miami hands the 1993 teal a standing Sunday home slot, which means the best thing the franchise owns is also the hardest to catch. The formula is simple enough that it is strange nobody copies it: one loud colour that belongs to exactly one team, a block wordmark with the swoosh underline, a legacy patch on the sleeve, and white pants so nothing competes with the teal. The Retro Wave spends an entire concept trying to say that Miami is bright and a little bit 1990s. The teal just is.
 
 ### Cincinnati Reds at Washington Nationals
 
@@ -313,7 +322,11 @@ At home the split came out even, seven classics against seven alternates. The Ma
 
 ### Baltimore Orioles at Texas Rangers
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #DF4601 0%, #f5f5f5 50%, #9BB7D4 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+  </div>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
   </div>
@@ -336,6 +349,7 @@ At home the split came out even, seven classics against seven alternates. The Ma
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%20rangers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 
 ### Detroit Tigers at San Francisco Giants
