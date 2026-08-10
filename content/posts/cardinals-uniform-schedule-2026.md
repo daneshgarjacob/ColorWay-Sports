@@ -2,7 +2,7 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
   down all five looks and exactly when each jersey is worn in 2026.
@@ -102,6 +102,8 @@ There is nothing to fix here, and that is the point. This is one of the most rec
 
 For what the Cardinals have actually worn so far this season, day by day, see the [Cardinals uniform calendar](/mlb-tracker/cardinals).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Gray (Most Road Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -111,6 +113,8 @@ For what the Cardinals have actually worn so far this season, day by day, see th
 The road gray is exactly what you would expect: clean, classic, and built to let the home team be the star. It swaps the chest wordmark for a "St. Louis" script and travels for nearly every road game that is not a Saturday. Like the home white, it carries the navy cap and the Stifel patch.
 
 This is a uniform that does not need to change. Road grays exist to do a job, and the Cardinals' version does it well without any clutter or gimmicks. It is the quiet workhorse of the rotation, on the field more than any look except the home white.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Cream Alternate (Saturday Home Games)
 
@@ -122,6 +126,8 @@ The cream alternate is reserved for Saturday home games at Busch Stadium, and it
 
 Tying the cream to Saturday home dates is a smart call. The off-white tone reads completely differently under natural daylight than the home white does, and giving it one designated day a week keeps it feeling special instead of routine. This is the Cardinals at their most timeless, and it is a uniform we would happily see more of if the system allowed it.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
+
 ## Powder Blue "Victory Blue" (Saturday Road Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -132,6 +138,8 @@ The powder-blue "Victory Blue" alternate is the Saturday-road counterpart to the
 
 The powder blue and the cream never appear in the same series role, because one is home-only and the other is road-only. That separation is the cleanest part of the whole system. When the Cardinals are on the road on a Saturday, the powder blue comes out, and it remains a road-only alternate. It was not promoted to a full-time road jersey, which is the right move. A weekly throwback keeps its charm in a way an everyday uniform never could.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Victory Blue jersey on Fanatics →</a>
+
 ## City Connect "The Lou" (Friday Home Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -141,6 +149,8 @@ The powder blue and the cream never appear in the same series role, because one 
 The City Connect is the boldest thing in the closet, and it lives on Friday home games at Busch Stadium. This is the second straight season "The Lou" has held down the Friday home slot, and it remains the same design the Cardinals unveiled in May 2024. It is an all-red jersey with a red cap and white pants, and it carries real meaning on every panel. The birds-on-bat is modernized, the chest reads "The Lou" in chain-stitch, a nod to the nickname rapper Nelly gave the city, and Nelly himself co-designed the uniform. Red pinstripes represent the Mississippi River, and a fleur-de-lis from the city flag sits on the sleeve. The Stifel patch appears here in a red version to match.
 
 Here is the detail that surprises people: this is the first red jersey in the regular-season history of the franchise. For a team whose entire identity is the color red, the Cardinals had never actually worn a red jersey until "The Lou" arrived. We like the concept and the storytelling far more than we expected to, and giving it a fixed Friday-night home date keeps the rotation tidy while guaranteeing fans a night to see it.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the The Lou City Connect on Fanatics →</a>
 
 ## Why This System Works
 

@@ -2,7 +2,7 @@
 title: 'San Diego Padres Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Padres have six uniforms in 2026, anchored by City Connect Fridays and
   camo Sundays. We break down every jersey and when they wear it.
@@ -98,11 +98,15 @@ This is the foundation of the whole rotation. The brown pinstripes on white read
 
 For what the Padres have actually worn so far this season, day by day, see the [Padres uniform calendar](/mlb-tracker/padres).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Brown Alternate (Home and Road)
 
 The brown alternate is the team's swing jersey. It shows up at home on some dates, usually Saturdays, and it travels well too. There is no fixed day attached to it, which is exactly why it works as an alternate rather than a scheduled look. The Padres pull it out when they want the full brown statement instead of the white pinstripe.
 
 We like this one a lot. Brown is the color that sets San Diego apart from every other team in the league, and leaning into a solid brown jersey instead of hiding it is the right instinct. The only knock is that the flexible usage makes it harder to predict, but that is the trade-off for keeping the closet interesting.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520brown%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the brown alternate on Fanatics →</a>
 
 ## Road Brown "San Diego" (Away)
 
@@ -110,17 +114,23 @@ On the road, one of the primary looks is the brown "San Diego" jersey paired wit
 
 There is no day-of-week rule for the road jerseys. The Padres rotate between this brown set and the sand pinstripe set game to game based on the team's preference. If you are watching a road game and trying to guess which one comes out, it really is a guess, and that is by design.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520brown%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the brown road jersey on Fanatics →</a>
+
 ## Road Sand Pinstripes (Away)
 
 The sand and tan uniform with brown pinstripes is the other half of the road rotation. It also wears "San Diego" across the chest, and the sand base gives it a warm, throwback feel that plays well in afternoon light.
 
 This is one of the more distinctive road uniforms in baseball. Most teams default to plain gray on the road, so a sand pinstripe jersey stands out the moment the Padres take the field. Like the brown road set, it has no assigned day and gets mixed in at the team's discretion.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520sand%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the sand pinstripe jersey on Fanatics →</a>
+
 ## Camouflage Military Jersey (Sunday Home Games)
 
 The camouflage jersey with "Padres" on the chest and a US flag sleeve patch is a San Diego tradition that goes back to 2008. In 2026 it is the Sunday home uniform. The Padres wear it for home Sunday games as a tribute to the city's deep military community. On the road they stick with their gray and brown sets, so the camo is a home-only look.
 
 No team owns the military tribute the way San Diego does, and tying it to a standing Sunday slot is the right move. It turns a one-off gesture into a weekly ritual that fans can count on, and it keeps the connection to the area's Navy and Marine roots front and center. This is one of the easiest calls on the entire schedule.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520camo%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the camo military jersey on Fanatics →</a>
 
 ## City Connect "Obsidian" (Friday Home Games)
 
@@ -133,6 +143,8 @@ The new City Connect is the headline change for 2026. The Padres retired their 2
 The design is a real departure. The jersey is an obsidian-blue with bone-colored pants and a bone-crown cap topped by an obsidian bill. The cap carries the 1998-revival orange-and-blue interlocking "SD," and there is a "La Catrina" skeletal patch on the sleeve, with marigold, aqua, and fireberry accents running through the set. The whole thing is built to honor San Diego's binational identity with Baja, and it pulls that off.
 
 We think this is a major upgrade over the pink surf set. The Día de los Muertos concept gives it meaning beyond just a color swap, and the bone and obsidian palette feels intentional rather than trendy. Giving it a standing Friday night slot is the smart play, because it guarantees fans who want to see it a date to plan around and keeps the jersey feeling like an event.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Obsidian City Connect on Fanatics →</a>
 
 ## What Is Scheduled and What Is Not
 

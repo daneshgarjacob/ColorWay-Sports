@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The New 'Rivalries' Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-07-29"
+updatedDate: "2026-08-10"
 excerpt: "The Colts' 2026 alternate schedule is out: the new Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -38,6 +38,8 @@ Indianapolis is part of the 2026 class of the NFL x Nike Rivalries program, and 
 
 The White Out is the Colts' all-white combination, the white jersey worn with white pants, and it returns in Week 9 for a marquee home date against the Dallas Cowboys on November 8. There is nothing fancy here, and that is the appeal. Indianapolis has one of the cleanest color palettes in football, and stripping it down to head-to-toe white with the royal-blue horseshoe doing all the accent work is a genuinely sharp, minimalist look. We grade it a **B**: it is crisp and it photographs beautifully, but an all-white kit is inherently a little safe, and it leans on the crowd and the opponent to bring the color.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dindianapolis%2520colts%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white jersey on Fanatics →</a>
+
 ## Week 16 vs. Bengals: Indiana Nights
 
 <div style="background: linear-gradient(135deg, #0a1a2e 0%, #05386b 100%); border-radius: 14px; padding: 22px 24px; margin: 1.6em 0; border-left: 5px solid #A2AAAD;">
@@ -53,6 +55,8 @@ Here is the Indiana Nights set up close, so you can see the black helmet and the
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFL/status/1682029242371170304"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dindianapolis%2520colts%2520indiana%2520nights%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Indiana Nights jersey on Fanatics →</a>
 
 ## The Bottom Line
 

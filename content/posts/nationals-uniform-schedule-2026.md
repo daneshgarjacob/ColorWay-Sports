@@ -2,7 +2,7 @@
 title: "Washington Nationals Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Washington Nationals run five uniforms in 2026 — the script 'Nationals' home white, the 'WASHINGTON' road gray, the red 'curly W' alternate, the navy alternate, and the denim-blue 'District Blueprint' City Connect that replaced the old Cherry Blossom kit. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
 coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,25 @@ The Nationals carry five uniforms in 2026, and the set is the same one they sett
 
 The home white is Washington's signature look and the jersey most fans picture: a clean white shirt with the cursive "Nationals" script angled gently upward across the chest in red, trimmed in navy, with the red "curly W" cap on top. It became the primary home uniform back in 2022, taking over from the older "curly W" chest look, and in 2024 the front chest number was dropped for a tidier finish. It's the default for the bulk of every homestand — essentially any home game that isn't claimed by the Friday or Saturday City Connect. It's understated and timeless, exactly what a home flannel in D.C. should be.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays — "WASHINGTON" (Most Away Games)
 
 On the road, the Nationals wear the standard gray set with "WASHINGTON" arched across the chest in block navy lettering, trimmed in white and red, with the curly W cap and tricolor red-white-and-blue piping running down the jersey and pants. The wordmark and trim were refreshed in the 2024 redesign, swapping in the cleaner block "WASHINGTON" treatment the team wears today. It's the workmanlike default for most away games, the kind of road look that lets the home team's colors be the star while still reading unmistakably as the Nats.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Red Alternate — The "Curly W" (Manager's Choice)
 
 The red alternate is back, and it's one of the most popular looks in the closet. After sitting out a single season, it returned ahead of 2025 as a red jersey with the "curly W" logo on the left chest — and in the refresh the old piping was removed for a cleaner, more modern finish. There's no fixed day attached to it; it's the jersey the Nationals reach for when they want a jolt of color, and it shows up both at home and on the road. The bright red against the white pants is the boldest the team's regular wardrobe gets, and keeping it off a schedule is part of what makes it feel like a treat whenever it appears.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Curly W red alternate on Fanatics →</a>
+
 ## Navy Alternate — Script "Nationals" (Manager's Choice)
 
 The navy alternate is the darker counterpart to the red — a navy jersey with the "Nationals" script across the chest, paired with the curly W cap. Like the home white, it had its front chest number removed in the 2024 cleanup, leaving a simpler, more uniform graphic. It's another no-fixed-day option that the staff can call on either at home or on the trip, and it tends to surface for night games where the dark top pops under the lights. It rounds out the red-white-and-navy core without trying to reinvent anything — and around Independence Day, Washington has long leaned into a stars-and-stripes treatment of the curly W, a patriotic nod that fits the team in the nation's capital.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## City Connect — The "District Blueprint" (Friday and Saturday Home Games)
 
@@ -114,6 +122,8 @@ This is the newest and most conceptually loaded piece in the closet, and it repl
 <img src="/images/posts/nationals-uniform-schedule-2026/nationals-city-connect.jpg" alt="Washington Nationals 2026 District Blueprint City Connect jersey by Nike, blue with a DC street-map pattern and the interlocking DC monogram" style="max-width: 340px; width: 100%; border-radius: 6px;" />
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the District Blueprint City Connect on Fanatics →</a>
 
 ## How the Nationals Rotation Actually Works
 

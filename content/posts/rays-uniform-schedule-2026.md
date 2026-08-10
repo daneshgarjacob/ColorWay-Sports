@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, and the black 'Grit x Glow' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,25 @@ The Rays didn't overhaul the set for 2026, but there's a real story brewing on t
 
 The home white is the Rays' cleanest look and the one that anchors the brand: a white jersey with "Rays" arched across the chest in navy, the signature yellow sunburst bursting off the "R," navy piping, and the navy cap with the white "TB." It's the default for the bulk of every homestand that isn't claimed by the Friday throwback or the Saturday City Connect. After a decade-plus of identity churn, the sunburst wordmark is the through-line that ties the modern Rays together, and the white home is where it reads best — understated, sunny, and unmistakably Tampa Bay.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Columbia Blue Alternate (Home or Road, Manager's Choice)
 
 The Columbia blue is the softest, most distinctive color in the closet and a genuine point of difference in a league full of navy and red. It's a light-blue top that, since a 2022 tweak, wears the standalone sunburst logo on the right chest rather than a chest wordmark — a subtle, modern move that lets the color do the talking. There's no fixed day attached to it: the Rays reach for it both at home and on the road whenever they want that breezy, beachy look, and it pairs naturally with gray pants on the trip. It's one of the better light-blue uniforms in baseball, and the lack of a schedule keeps it feeling like a treat.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520columbia%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Columbia blue alternate on Fanatics →</a>
 
 ## Navy Alternate (Home or Road, Manager's Choice)
 
 The navy alternate is the dark-tops workhorse. It's a deep navy jersey with Columbia blue piping, white character lettering, and outlined numbers, worn both at home and away with no day-of-week rule behind it. When the Rays travel, the navy top over gray pants is one of their default road combinations — a reminder that since 2023 Tampa Bay has leaned on its colored alternates on the road rather than a traditional gray jersey with "TAMPA BAY" across the chest. It's the steady, slightly anonymous option that lets the louder jerseys be the event.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
+
 ## Devil Rays "Rainbow" Throwback (Most Friday Home Games)
 
 This is the fan favorite, and it's the closest thing the Rays have to a hard rule. The 1998 "rainbow" Devil Rays throwback — the gradient purple-to-green-to-yellow wordmark, the playful original identity from the franchise's debut season — has been the team's Friday home look since 2023, and it also comes out on Opening Day. Tampa Bay essentially turned a nostalgia uniform into a standing weekly event, and it worked: the rainbow set is the jersey that gets the loudest reaction at Tropicana Field and the one casual fans most associate with the throwback craze. Giving the franchise's most beloved old look a guaranteed Friday slot is exactly the kind of scheduling instinct that builds anticipation.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520devil%2520rays%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Devil Rays rainbow throwback on Fanatics →</a>
 
 ## City Connect — "Grit x Glow" (Most Saturday Home Games)
 
@@ -114,6 +122,8 @@ The City Connect, unveiled in 2024, is the most conceptually loaded jersey the R
 <img src="/images/posts/rays-uniform-schedule-2026/rays-city-connect.jpg" alt="Tampa Bay Rays 2026 Grit x Glow City Connect jersey, charcoal black with glowing Tampa Bay lettering" style="max-width: 380px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Grit x Glow City Connect on Fanatics →</a>
 
 ## How the Rays Rotation Actually Works
 

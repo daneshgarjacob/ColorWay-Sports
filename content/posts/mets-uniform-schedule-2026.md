@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ The white pinstripe is the Mets' signature and the jersey most fans picture: a c
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2069499941429354640"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Mets wear the standard gray set with "NEW YORK" radially arched across the chest in the team's Tiffany typeface, blue lettering outlined in orange, names on the back, and the blue cap. The 2025 refresh swapped the old blue piping for thin blue-orange-blue triple stripes around the collar, the cuffs, and down the pants seams — a subtle nod to the franchise's heritage striping — and for 2026 the "NEW YORK" wordmark was bumped back up to its pre-2024 size. It's the workmanlike default for most away games, and the triple-stripe trim gives it just enough character to avoid feeling generic.
@@ -105,6 +107,8 @@ On the road, the Mets wear the standard gray set with "NEW YORK" radially arched
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068425792166437282"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Blue Alternate (Manager's Choice, Mostly Road)
 
@@ -114,6 +118,8 @@ The blue alternate is the wild card. It's a royal-blue top with orange striping 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2068787760761041364"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue alternate on Fanatics →</a>
+
 ## Black Alternate (Friday Home Games)
 
 Black is back, and it's the closest thing the Mets have to a hard rule. The black alternate — a black jersey with the blue-and-orange "Mets" wordmark (the heavy drop shadow dropped for a cleaner two-color graphic in 2024), the blue cap, white pants with blue piping, and black socks — has become the team's Friday-night home look at Citi Field. The black trim era ran from 1998 to 2011 before the Mets shelved it, and its revival as a weekly alternate taps directly into a wave of nostalgia for that turn-of-the-century identity. Giving it a standing Friday slot is the rare bit of scheduling discipline in an otherwise loose rotation, and fans clearly love seeing it back under the lights. The one notable exception came Friday, July 24, 2026, when the Mets broke the habit and wore their classic white pinstripes instead, because the Emma Stone movie "Keychain" was filming game scenes at Citi Field and the production wanted a timeless look. We broke that down in [why the Mets and Dodgers skipped City Connect night](/stories/mets-dodgers-standard-uniforms-emma-stone-movie).
@@ -122,6 +128,8 @@ Black is back, and it's the closest thing the Mets have to a hard rule. The blac
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065839072023609557"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
+
 ## City Connect — The "NYC" Subway Kit (Saturday Home Games)
 
 The City Connect, unveiled in April 2024, is the most conceptually loaded jersey the Mets own. The base is concrete gray for the city's "concrete jungle," with pinstripes built from circles and diamonds that mirror the MTA's local and express subway symbols, and "NYC" arched across the chest in black capitals outlined in white — a deliberate move to claim the whole city rather than just Queens. Purple threads through the details for the 7 line that runs to Citi Field: purple flourishes, purple undersleeves added in 2025, and a "The World's City" inscription near the collar. The black cap carries a cross-section of the Queensboro Bridge steelwork on the front and a subway-map print inside, and the sleeve patch is shaped like a vintage subway token. Since debuting on April 27, 2024, it has anchored Saturday home games. It's busy, it's specific, and it is unmistakably New York — easily one of the more thoughtful entries in the City Connect program.
@@ -129,6 +137,8 @@ The City Connect, unveiled in April 2024, is the most conceptually loaded jersey
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2065853193603485730"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520mets%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the NYC Subway City Connect on Fanatics →</a>
 
 ## Special-Occasion Wears (Not Part of the Rotation)
 

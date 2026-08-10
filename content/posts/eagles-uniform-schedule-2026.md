@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: When Kelly Green and the Black Alternate Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Eagles 2026 uniform schedule: midnight green at home, white on the road, and the Kelly Green games worth planning around once the dates land."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -64,11 +64,15 @@ Applying that to the 2026 schedule, these are the live candidates:
 
 Treat those as our read, not as news. What is worth saying plainly is that Kelly Green is a better uniform than the midnight green primary, and the gap is wide enough that three games a year feels like a mistake the Eagles are making on purpose.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520kelly%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Kelly Green throwback on Fanatics →</a>
+
 ## The Black Alternate (Expected 1 Game)
 
 Philadelphia wore the black alternate once in 2025, on Black Friday, and the league allows up to four alternate wearings a season. There is no announced 2026 date. The schedule offers one obvious hook: **Week 16 against Houston on Thursday, December 24**, a Christmas Eve game that is the closest thing 2026 has to the holiday-night slot the blacks have occupied before.
 
 The black set is the weakest thing the Eagles own. It is not badly made, it just has nothing to do with Philadelphia, and it competes for wearings with a throwback that people genuinely love.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## Midnight Green (The Home Base)
 
@@ -76,9 +80,13 @@ The midnight green primary carries the rest of the home schedule, which as thing
 
 Midnight green is a genuinely unusual colour and the Eagles deserve credit for sticking with it, but the current set leans hard on the black trim and the result reads darker and heavier than it needs to. The 2026 change is small: an updated wordmark on the jersey, not a redesign.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520midnight%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Midnight Green home jersey on Fanatics →</a>
+
 ## The White Road Set (8 Games)
 
 White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a coloured jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## Frequently Asked Questions
 

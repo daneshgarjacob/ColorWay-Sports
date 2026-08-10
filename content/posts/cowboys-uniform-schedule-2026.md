@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: When the Thanksgiving Throwback and the Navy Road Set Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Cowboys 2026 uniform schedule: white at home, navy on the road, and the Thanksgiving throwback that has owned the holiday for four straight years."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -56,11 +56,15 @@ The white jersey with the metallic-silver-blue pants is the uniform Dallas has b
 
 The white set is the better of the two primaries and it is not particularly close. The navy star on the white shell, the blue-and-white sleeve stripe, and the silver-blue pants make a combination nobody else in the league is running, and the fact that Dallas insists on wearing it at home means the good version is the one their own crowd sees.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white home jersey on Fanatics →</a>
+
 ## The Navy Road Set (8 Games)
 
 The navy jersey with silver pants goes on the road eight times, opening the season at the Giants on September 13 and closing it at Washington in Week 18. Between those are the two most interesting road looks of the year: Week 6 at Green Bay on October 18 and Week 7 at Philadelphia on Monday, October 26, back-to-back trips into the two best-dressed buildings in the NFC.
 
 There is an old superstition around the navy jersey being unlucky for Dallas. We have no opinion on that. What we will say is that the navy is the plainer of the two sets, because the silver-blue that makes the home whites distinctive gets swapped for a flatter silver, and the shoulder stripe loses most of its contrast against the darker base.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy road jersey on Fanatics →</a>
 
 ## The Thanksgiving Throwback (Week 12, Projected)
 
@@ -69,6 +73,8 @@ The best uniform Dallas owns comes out once a year. The 1960s throwback pairs a 
 If it happens, and everything about the pattern says it will, it is the marquee uniform game of the Dallas season. The white helmet is the whole trick: it removes the silver that anchors every other Cowboys look and leaves a cleaner, older, more graphic uniform underneath.
 
 The other half of the frame is genuinely open. Because Dallas wears white at home, a visiting team is free to bring a coloured jersey to AT&T Stadium, and Philadelphia used exactly that loophole in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the throwback returned. The Eagles have not announced their 2026 Kelly Green dates, but if they repeat it on Thanksgiving, this becomes a 1960s Cowboys throwback against a 1990s Eagles throwback on the biggest audience of the season. See our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) for where we think the Kelly Greens land.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Thanksgiving throwback on Fanatics →</a>
 
 ## The Arctic White Helmet
 

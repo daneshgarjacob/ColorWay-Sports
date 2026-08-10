@@ -2,7 +2,7 @@
 title: "Detroit Tigers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Detroit Tigers run five uniforms in 2026 — home whites, road grays, the brand-new orange home alternate, the navy road alternate, and the Motor City City Connect. Here's every jersey, when they wear it, and why the franchise wore orange for the first time in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #FA4616 50%, #0C2340 100%)"
 coverImage: "/images/posts/tigers-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,25 @@ The Tigers carry five uniforms in 2026, and the headline is the two brand-new al
 
 The home white is the cornerstone of the most recognizable identity in baseball: a clean white jersey with the navy Old English D on the left chest, navy piping, and the navy cap with the white D. It's the default for the bulk of the homestand — every home game that isn't a Friday (now the orange alternate) or a Monday City Connect night. The Old English D has appeared on Detroit's home uniform in some form every season since 1905, and the team guards it closely; there's nothing here to reinvent, and that's exactly the point. It is the look the rest of the wardrobe orbits.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, Detroit wears the standard gray set with the script "Detroit" arched across the chest in navy — the wordmark the club has worn on its travel grays since the mid-1990s — paired with the navy cap. It's the default for most away games, the unfussy road look that lets the home club's colors carry the visual load. There's nothing flashy about it, and a road gray doesn't need to be flashy to do its job.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Orange Home Alternate (Friday Home Games)
 
 This is the big one. For the first time in 126 years, the Tigers will wear orange in a regular-season game. The orange alternate keeps the classic Old English D on the upper-left chest — rendered in navy trimmed in white so it reads against the bright base — and pairs with white pants and a new navy cap that swaps the orange D onto an orange brim, a callback to a look the team flirted with in the 1990s. The V-neck collar and three-color sleeve striping pull straight from the 1984 champions, and the new roundel sleeve patch ties it to the franchise's mid-century tiger-head logos. It's reserved for Friday home games at Comerica Park, which makes the loudest jersey in the closet the easiest one to plan a ticket around. Detroit has historically been one of the sport's most conservative uniform clubs, so seeing orange on the field at all is a genuine event.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
+
 ## Navy Road Alternate (Select Road Games)
 
 The navy alternate is the orange jersey's travel companion, unveiled in the same February 2026 reveal. It runs the script "Detroit" wordmark across a navy base, but flips the palette — orange lettering with white trim — for the road version of that 1984-inspired template, complete with the matching V-neck, cuff striping, and roundel sleeve patch. The Tigers will wear it for select road games rather than on a fixed day, so there's no calendar hook here the way there is with the orange Fridays at home; it's the discretionary dark top that gives the road schedule an occasional jolt of color against the workmanlike grays.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## Motor City City Connect (Select Monday Home Games)
 
@@ -114,6 +122,8 @@ Detroit's "Motor City" City Connect, introduced in May 2024, is back for a third
 <img src="/images/posts/tigers-uniform-schedule-2026/tigers-city-connect.jpg" alt="Detroit Tigers 2026 Motor City City Connect jersey, navy with tire-tread detailing and Motor City across the chest" style="max-width: 380px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520tigers%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Motor City City Connect on Fanatics →</a>
 
 ## How the Rotation Works
 

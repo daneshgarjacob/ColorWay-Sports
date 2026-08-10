@@ -2,7 +2,7 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Giants have five uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
@@ -102,17 +102,23 @@ It carries the black-and-orange "Giants" script across the chest and pairs with 
 
 There is nothing fancy about it, and that is the point. It is the anchor of the rotation, the baseline the themed jerseys play off of, and one of the better daytime looks in the National League when the cream really catches the sun. If you want the tell for a game photo: the "Giants" wordmark means the cream home, and the orange gradient "G" means the City Connect, which is the only genuinely white top they own.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home cream jersey on Fanatics →</a>
+
 ## Road Gray
 
 The road gray uniform reads "San Francisco" across the chest and is exactly what you would expect on the road. Clean, traditional, and built to let the home team's colors be the star.
 
 The Giants wear this jersey for away games. The themed home days do not travel with the team, so on the road it is gray almost every time. It is a simple set that does its job and stays out of the way.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Orange Alternate (Orange Friday)
 
 The orange alternate is the "Orange Friday" jersey, and it is one of the longest-running uniform traditions in baseball. The bold orange top is unmistakable and gives the Giants a signature pop of color that no other team in the league owns the same way.
 
 The Giants wear this jersey for Friday night home games at Oracle Park. Orange Friday has been a staple in San Francisco for years, and tying the jersey to a specific night each week keeps it feeling like an event. Fans know that a Friday home game means orange, and that kind of predictability is exactly what makes a uniform rotation work. It is a tradition worth protecting, and the Giants clearly know it.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
 
 ## City Connect (Tuesdays)
 
@@ -121,6 +127,8 @@ The City Connect is the 2025 "music" set, and it remains the Giants' City Connec
 The Giants wear this jersey on Tuesday home games, plus the occasional concert night. We like the ambition here. The music-poster concept is one of the more genuinely San Francisco ideas in the entire City Connect series, and it commits to the bit instead of slapping a city nickname on a dark base. The psychedelic script will not be for everyone, but it has a clear sense of place, and giving it a designated day keeps it from getting lost in the shuffle.
 
 To be clear, this is the Giants' City Connect. The new Gigantes set, which we cover next, is a separate Saturday alternate and is not a City Connect.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## Gigantes Alternate (Fiesta Gigantes Saturdays)
 
@@ -133,6 +141,8 @@ The Gigantes set is the headline addition for 2026, and it is an alternate, not 
 The Giants wear this uniform for Saturday home games as part of "Fiesta Gigantes Saturdays." They first wore it on Saturday, March 28, 2026, against the Yankees. We think this is a strong piece of work. The Candlestick-era lettering gives it real roots, the step-fret detailing rewards a close look, and the cream pants tie it back into the rest of the Giants' closet so it does not feel like a costume. Pinning it to Saturday gives fans a standing date to look forward to, and it keeps the jersey feeling special instead of overexposed.
 
 Again, the important distinction: Gigantes is a Saturday home alternate. The Giants' City Connect is the separate 2025 black music set worn on Tuesdays. The two are easy to mix up because both lean black, but they are different uniforms with different jobs.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520gigantes%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Gigantes alternate on Fanatics →</a>
 
 ## The Airwallex Patch
 

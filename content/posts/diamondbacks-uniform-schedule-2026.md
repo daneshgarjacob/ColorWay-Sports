@@ -2,7 +2,7 @@
 title: "Arizona Diamondbacks Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Arizona Diamondbacks run five uniforms in 2026 — home off-whites, road grays, the Sedona red alternate, the black alternate, and the purple-and-teal 'Serpientes' City Connect. Here's every jersey, when they wear it, and how the new teal-forward identity came together."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg"
@@ -94,13 +94,19 @@ The Diamondbacks carry five uniforms in 2026, and the set is essentially the one
 
 The home jersey is Arizona's signature, and it leans into the franchise's roots: an off-white, cream-tinged base inspired by the original 1998 design, with the standalone "A" logo on the left chest in Sedona red outlined in teal and black piping running the placket and sleeves. It's paired with either the Sedona red cap with a black brim or the all-black cap, both carrying the outlined "A." It's worn for the bulk of every homestand — essentially any home game that isn't claimed by the Friday City Connect or handed to one of the colored alternates. The off-white tone is the move that ties the whole identity together: warmer than a pure white, distinctly desert, and unmistakably Arizona.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home off-white jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Diamondbacks wear the standard gray set with "Arizona" arched across the chest in Sedona red lettering outlined in teal, names on the back, and the black cap carrying the throwback "D" with a Sedona red brim. The black piping and the radial "Arizona" wordmark give it a classic baseball-throwback feel, a deliberate step back toward the clean look the franchise wore in its early years. It's the workmanlike default for most away games, and it lets the home team's colors be the star without ever feeling generic.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Sedona Red Alternate (Manager's Choice, Often Home)
 
 The Sedona red alternate is the loudest piece of the regular closet. It's a Sedona red top with the full "Diamondbacks" wordmark scripted across the chest in black outlined in teal, teal front numbers, and teal-and-black braiding at the sleeves and neckline — worn with either gray or off-white pants. The 2024 redesign switched the chest from the old "D-backs" abbreviation to the complete "Diamondbacks" script, a small change that makes the jersey read bigger and bolder from the seats. There's no fixed day attached to it; it's the look the staff reaches for when they want a jolt of color, and it's a fixture on Saturday home dates and giveaway nights. It's the brightest, most desert-forward thing in the rotation.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Sedona red alternate on Fanatics →</a>
 
 ## Black Alternate (Manager's Choice)
 
@@ -111,9 +117,13 @@ The black alternate is the closet's nighttime look: a black jersey with teal pip
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
+
 ## City Connect — The "Serpientes" Kit (Friday Home Games)
 
 The City Connect is the most conceptually loaded jersey the Diamondbacks own, and the 2026 version is the redesigned "Serpientes 2.0" set unveiled in May 2025 — a purple-and-teal homage to the franchise's original 1998 colors that replaced the sand-toned first edition. The body runs deep purple with a snakeskin-evolution pattern blended into heritage pinstripes, "Serpientes" — Spanish for "snakes" — scripted across the chest, and a modernized version of the 1998–2006 alternate sleeve trim, a direct callback to the dark-sleeved look Arizona wore winning the 2001 World Series. The cap carries an "S" logo in the same purple-and-teal colorway rather than the standard "A," "Arizona Born" is inscribed on the collar, and a state-flag patch sits on the sleeve. Since debuting on May 9, 2025, during Mexican Heritage Weekend, it has anchored Friday home games at Chase Field. It brought purple and teal back to the field after years away, and fans embraced it immediately — easily one of the more thoughtful entries in the City Connect program.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Serpientes City Connect on Fanatics →</a>
 
 ## Whatever Happened to the Sand Uniforms?
 

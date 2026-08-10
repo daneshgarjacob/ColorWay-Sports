@@ -2,7 +2,7 @@
 title: "Colorado Rockies Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Colorado Rockies run four uniforms in 2026 — home white pinstripes, road grays, the purple alternate, and the day-to-night City Connect. Here's every jersey, when they wear it, and why the black vest still isn't back."
 gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"
@@ -94,13 +94,19 @@ The Rockies carry four uniforms in 2026, and the headline change to the set is r
 
 The home white is Colorado's signature: a clean white jersey laced with purple pinstripes, "Rockies" arched across the chest in silver trimmed in black, and the black cap with the interlocking "CR" in purple outlined in silver. It's the default for the bulk of every homestand at Coors Field — essentially any home game that isn't a Friday (the City Connect) or a Purple Monday. The purple pinstripe is one of the more distinctive home looks in baseball, a detail the Rockies have kept through every refresh since 1993, and it remains the cleanest expression of the team's identity. Timeless does not need tinkering.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Rockies wear the standard gray set with "Colorado" radially arched across the chest in purple, purple piping on the shoulders, names on the back, and the same black "CR" cap. The switch to a "Colorado" road wordmark — rather than "Rockies" — leans into the state-pride angle the franchise has favored for its away identity. It's the workmanlike default for most away games, understated in the way a road flannel should be, letting the home team's colors be the star while the purple trim keeps it from feeling generic.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Purple Alternate (Purple Mondays and More)
 
 The purple alternate is the franchise's calling card, and it has the closest thing to a hard rule in the closet. Introduced in 2000 and built in a similar style to the road jersey — "Colorado" across the chest, but without the shoulder piping — it became the centerpiece of "Purple Mondays" starting in 2012, when the Rockies committed to wearing it every Monday they play. It's versatile, too: paired with the white pinstriped pants at home and the gray pants on the road, so it can surface on either side of the schedule and on days other than Monday. Few teams own a single color as completely as Colorado owns purple, and giving it a standing weekly slot keeps the team's defining hue in heavy rotation.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520purple%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the purple alternate on Fanatics →</a>
 
 ## City Connect — The Day-to-Night Kit (Friday Home Games)
 
@@ -110,6 +116,8 @@ The newest piece, unveiled April 12, 2025 and first worn that April, is the most
 <img src="/images/posts/rockies-uniform-schedule-2026/rockies-city-connect.jpg" alt="Colorado Rockies 2026 day-to-night City Connect jersey, blue fading to purple with the mountain logo" style="max-width: 380px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%2520rockies%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the day-to-night City Connect on Fanatics →</a>
 
 ## What About the Black Vest?
 

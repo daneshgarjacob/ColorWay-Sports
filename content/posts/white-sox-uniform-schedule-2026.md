@@ -2,7 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -96,17 +96,25 @@ The home white is the look most fans picture: a clean white jersey laced with bl
 
 For what the White Sox have actually worn so far this season, day by day, see the [White Sox uniform calendar](/mlb-tracker/white-sox).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the White Sox wear the standard gray set with "CHICAGO" arched across the chest in the same Gothic lettering as the home jersey — black trimmed in silver — with the black cap. It's the workmanlike default for most away games, the quiet road look that lets the home team's colors be the star. For 2026 the sleeve carries the new CME Group patch in a blue-on-gray treatment, the one cosmetic tweak to an otherwise timeless gray. Nothing flashy, and it doesn't need to be.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Black Alternate (Weekend Home Games)
 
 The black alternate is the closest thing the White Sox have to a signature dark look, and it leans all the way into the South Side identity. It's a black jersey with the diagonal "SOX" script across the chest in silver, paired with the black cap and, most often, the white pinstriped pants. It's a staple of the rotation — frequently a weekend home choice, especially under the lights — and along with the home whites it forms the instantly recognizable two-jersey core of the closet. The all-black, minimalist palette is exactly the kind of thing that made the White Sox look so distinct when they adopted it in 1991, and more than three decades later it still reads as one of the sharpest dark uniforms in baseball.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
+
 ## "Southside" — The Original City Connect, Now a Standard Alternate
 
 The charcoal-and-white "Southside" kit was the team's first City Connect, introduced by Nike in 2021 and an immediate hit: a dark charcoal jersey with white pinstripes and the Gothic-styled "Southside" lettering, a tribute to the South Side neighborhoods. When the new red City Connect arrived for 2025, the Southside look didn't get retired — it converted into a regular alternate, filling the second of the team's two alternate slots under the 4+1 rule. In practice it took a back seat the year the new kit launched, but it remains an available option in 2026, a reminder that the original City Connect was popular enough to keep around even after its successor showed up.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520southside%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Southside alternate on Fanatics →</a>
 
 ## Red City Connect — The Bulls Collaboration (Promotional Home Dates)
 
@@ -116,6 +124,8 @@ The newest and loudest piece is the red City Connect, revealed on April 28, 2025
 <img src="/images/posts/white-sox-uniform-schedule-2026/white-sox-city-connect.jpg" alt="Chicago White Sox 2026 City Connect jersey, red with black pinstripes and Chicago across the chest" style="max-width: 380px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520red%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red Bulls City Connect on Fanatics →</a>
 
 ## How the White Sox Rotation Actually Works
 

@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ The home white is Houston's foundation: a clean white jersey with orange and nav
 
 For what the Astros have actually worn so far this season, day by day, see the [Astros uniform calendar](/mlb-tracker/astros).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Astros wear the standard gray set with "HOUSTON" across the chest rather than the team name — the city, not the club, the way most road sets are built — in navy lettering with orange trim, names on the back, and the navy cap with the orange brim that's reserved for the road. It's the workmanlike default for most away games, the look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
@@ -105,6 +107,8 @@ On the road, the Astros wear the standard gray set with "HOUSTON" across the che
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066001319916114102"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Orange Alternate (Frequent Friday Look)
 
@@ -114,6 +118,8 @@ The orange alternate is the splash of color in the rotation: a vivid orange jers
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2069569877589836184"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
+
 ## Navy Alternate (Customary Sunday Jersey)
 
 The navy alternate is the dark counterpart: a navy-blue jersey with "Astros" stitched across the chest in orange — a nod to the 1970s, when the team last wore the club name in orange on a colored top — with white or gray pants and the navy "H-star" cap. In practice it's become Houston's go-to Sunday look at Daikin Park, the deep-navy bookend to a week that opens in the white City Connect. It's the most understated of the three colored options and a clean, heritage-tinged alternate that rounds out the navy-and-orange identity.
@@ -122,6 +128,8 @@ The navy alternate is the dark counterpart: a navy-blue jersey with "Astros" sti
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2068794718360654018"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
+
 ## City Connect — The White "Stros" Kit (Monday Home Games)
 
 The newest piece, unveiled in March 2025, is a complete reinvention of Houston's City Connect program. Gone is the all-navy "Space City" design; in its place is an almost entirely white uniform with "Stros" across the chest — the first time the organization has formally embraced the fan-driven nickname. A broken orange star anchors the front, with digital-style navy lettering and numbers placed to the lower right of it, lunar-pattern trim and pinstriping running through the details, and "Space City" set on a moon-surface texture along the back of the collar. "HTX" is stitched along the beltline, a Union Station mission patch sits on the sleeve, and the only non-white elements on the body are the "afterburner" socks — a fiery orange-and-yellow gradient that recalls the classic tequila-sunrise rainbow. It debuted on March 31, 2025, and it now owns every Monday home game. Tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
@@ -129,6 +137,8 @@ The newest piece, unveiled in March 2025, is a complete reinvention of Houston's
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066695957496922528"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Stros City Connect on Fanatics →</a>
 
 ## What Happened to the Navy "Space City" City Connect?
 

@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words
@@ -62,6 +62,8 @@ Packers president Ed Policy has said the design leans on the club's ownership st
 
 Our read is Week 5 against Chicago. A brand-new alternate wants the biggest possible stage, Bears-Packers is the league's marquee rivalry, and a Week 18 finale with a floating kickoff is the worst slot to bet a launch on.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
+
 ## Packers Fans Get Two Rivalries Looks This Year
 
 Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has already confirmed it will debut **its own Rivalries uniform against the Packers on Christmas Day**, which is Week 16 at Soldier Field. So Green Bay is on the field for two different Rivalries debuts in the same season: their own at home, and Chicago's on the road on December 25. No other team has that on its calendar.
@@ -74,13 +76,19 @@ The green jersey with gold pants is one of the two or three least-changed unifor
 
 There is not much to say about it that has not been said. The dark green and gold combination is unmistakable, the numbers are legible, and the whole thing looks better in bad weather than almost anything else in the league, which is convenient given where it is worn in December.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the green home jersey on Fanatics →</a>
+
 ## The White Road Set
 
 White jersey, gold pants, for all eight road games. The stretch worth circling is late: **Week 12 at the Rams on November 25**, where Los Angeles is wearing the Fearsome White alternate, then **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set. Two of Green Bay's road trips this year are somebody else's uniform showcase.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
+
 ## The All-White Alternate
 
 Green Bay has run an all-white alternate for the last couple of seasons, and has generally paired it with a throwback in the same year, the 1923 Classic navy set in 2025. With a Rivalries uniform now taking one of the alternate slots, whether the all-white returns in 2026 is an open question. No date has been announced either way.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the all-white alternate on Fanatics →</a>
 
 ## Frequently Asked Questions
 

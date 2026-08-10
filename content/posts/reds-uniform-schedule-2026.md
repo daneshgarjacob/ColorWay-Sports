@@ -2,7 +2,7 @@
 title: "Cincinnati Reds Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Cincinnati Reds run five uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #C6011F 0%, #000000 50%, #C6011F 100%)"
 coverImage: "/images/posts/reds-uniform-schedule-2026/cover.jpg"
@@ -94,13 +94,19 @@ The big 2026 story is the City Connect shuffle. Cincinnati revealed an all-new r
 
 The home white is Cincinnati's signature and the jersey most fans picture: a clean white shirt laced with red pinstripes, the red wishbone-"C" with "REDS" tucked inside it across the chest, and player numbers in a vintage early-1900s-style typeface. The cap is the all-red one with the white wishbone "C" lightly outlined in black. It's the default for the bulk of every homestand — essentially any home date that isn't claimed by the Friday black or the Saturday red City Connect. It's one of the more timeless home looks in the National League, and the Reds are right to leave it almost entirely alone.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520reds%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the Reds wear the standard gray set with "CINCINNATI" arched across the chest in red, player names and numbers on the back in the same vintage typeface, and the two-tone road cap — a red crown with a black bill. It's the workmanlike default for most away games, the look that lets the home team's colors be the star. Nothing flashy, and on a club this committed to its classic identity, it doesn't need to be.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520reds%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Red Alternate (Manager's Choice, Mostly Home)
 
 The red alternate is the splash of color in an otherwise traditional closet. It's a solid red jersey with the cursive "Reds" script across the chest in white, paired with the all-red cap. There's no rigid day attached to it the way there is for the two City Connects — it's the jersey the Reds reach for when they want the lineup in full red, most often at home and frequently on a Sunday. Because it isn't locked to the weekly grid, it keeps a little bit of event energy whenever it shows up.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520reds%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
 
 ## Red City Connect 2.0 — The All-Red Set (Saturday Home Games)
 
@@ -111,9 +117,13 @@ This is the newest piece in the closet and the one that made headlines. Unveiled
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520reds%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the all-red City Connect on Fanatics →</a>
+
 ## Black City Connect — The Original "C" Set (Friday Home Games)
 
 The first Reds City Connect, introduced in 2023 with Nike, didn't go away — it just changed jobs. The primarily black uniform features "CINCY" across the chest, a modified diamond-shaped "C" on the cap and sleeve, an Ohio buckeye emblem, and the city's Latin motto "Juncta Juvant" ("Strength in Unity") worked into the details. For 2023 through 2025 it was the team's lone City Connect; for 2026, with the red set taking over Saturdays, the black "C" was officially reassigned as the Friday-night home alternate. Keeping it around rather than mothballing it gives the Reds a genuine two-City-Connect rotation, and it lets fans who bought into the original design still see it under the lights once a week.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520reds%2520black%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the original black City Connect on Fanatics →</a>
 
 ## How the Reds Rotation Actually Works
 

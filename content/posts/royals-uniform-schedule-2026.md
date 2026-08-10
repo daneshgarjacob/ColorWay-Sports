@@ -2,7 +2,7 @@
 title: 'Kansas City Royals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Royals run a five-jersey uniform rotation in 2026, anchored by City
   Connect Fridays and powder blue Saturdays. We break down every jersey and
@@ -97,11 +97,15 @@ The home whites are the foundation of the Royals' look and the uniform you will 
 
 This is the default home uniform on any home date that is not claimed by the Friday City Connect or the Saturday powder blue. There is no documented Sunday rule, so most Sundays you will see these whites as well. As the everyday home jersey it does exactly what it needs to do, which is let the alternates be the special occasions while keeping the core look timeless. One small note for 2026: MLB lightened the Royals' blue and gold slightly in its style guides this year, though it is not clear whether that lighter blue actually reached the on-field fabric. If it did, the difference is subtle.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Gray (Away Default)
 
 The road grays are the away counterpart to the home whites, with "Kansas City" arched across the chest. This is the standard travel uniform, worn for the bulk of road games across the schedule. Like every good road set, its job is to stay out of the way and let the home team's jersey be the star, and the Royals' version handles that cleanly.
 
 There is no fixed day-of-week wrinkle on the road for Kansas City, so the gray is simply the default whenever the Royals are the visiting team and no other look is called for.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## City Connect "Forever Fountains" (Friday Home Games)
 
@@ -113,17 +117,23 @@ The "Forever Fountains" City Connect is the headline addition to the Royals' uni
 
 The design is a love letter to Kansas City's nickname as the City of Fountains. Both the jersey and the pants are white, and the lettering runs through a fuchsia-to-blue gradient, with purple in the mix, meant to capture a Kansas City sunset fading into the blue of the city's 200-plus fountains. A crown logo sits on the chest, the cap carries a fuchsia-to-royal-blue gradient, and there is a new heart patch on the sleeve. Look inside the collar and you will find "HEY HEY HEY HEY," a nod to the chant heard around town. It is a bold, expressive uniform, and tying it to a single night each week is the right call. Friday at the K now has its own signature look, and it keeps the jersey feeling like an event instead of just another option in the pile.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Forever Fountains City Connect on Fanatics →</a>
+
 ## Powder Blue (Saturday Home Games and Opening Day)
 
 The powder blue is the Royals' throwback-flavored full set, and it is the team's Saturday signature at home. This is a complete powder blue look, meaning a powder-blue jersey and powder-blue pants together, paired with a distinctive white-front cap carrying the crowned-R logo. Kansas City introduced it as a full set in 2025, and it quickly became one of the most recognizable alternates in the league.
 
 Here is the honest framing on when it shows up. The powder blue on Saturday home games, along with Opening Day, is the Royals' established practice, announced in 2025, and it is strongly expected to continue in 2026. We want to be clear that this is the team's standing routine rather than a freshly issued 2026 directive, so treat it as the heavy favorite for Saturdays rather than an ironclad rule. That caveat aside, if you are heading to Kauffman on a Saturday, the powder blue is what you should expect to see. It is a gorgeous uniform, and giving it a weekly home is exactly how an alternate stays special.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue jersey on Fanatics →</a>
+
 ## Royal Blue Alternate (Discretionary)
 
 The royal blue alternate top rounds out the rotation, and it is the one piece without a fixed rule. This is a discretionary jersey, meaning the Royals pull it out when they want to rather than tying it to a specific day or matchup. You might see it on a getaway day, a particular promotion, or simply when the club feels like it.
 
 Because it has no scheduled slot, the royal blue is the wild card of the closet. That is not a knock. Not every uniform needs a designated night, and keeping one look flexible gives the Royals room to mix things up without disrupting the Friday and Saturday anchors that fans plan around.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520royals%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
 
 ## How the Royals' Rotation Works
 

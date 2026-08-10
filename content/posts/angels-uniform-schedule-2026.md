@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: The Road Grays Are Back, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Angels run five uniforms in 2026: the home whites, the road grays, the red 'Angels' jersey, the Surf City Connect, and the 1980s throwback white. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ The home white is the Angels' cleanest look: a white jersey with "Angels" arched
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2069656870512713990"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Road Games)
 
 The road gray reads "Los Angeles" across the chest in red script, and it is the only jersey in the closet that carries the city name rather than the team name. It pairs with the same red halo cap as the whites and the red alternate.
@@ -105,6 +107,8 @@ The road gray reads "Los Angeles" across the chest in red script, and it is the 
 This is the one with a story attached. The grays looked finished at the start of 2026, sat out long enough that plenty of people wrote them off, and then came back. Mike Trout wore them at the All-Star Game, and the Angels ran them through Hall of Fame Weekend in late July, pairing the set with a vintage "Los Angeles" throwback cap for one of the sharpest lids anyone wore that weekend. They are back in the rotation for road games, sharing the trip with the red alternate rather than being replaced by it.
 
 It matters more than a gray road uniform normally would, because it is the only thing keeping "Los Angeles" on the field. Every other jersey the Angels own says "Angels." Lose the grays and the city name goes with them.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## The Red "Angels" Jersey — Home, Road, and Everywhere
 
@@ -114,11 +118,15 @@ Here's the jersey that defines the modern Angels: the red alternate, a bright re
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2068574664742351248"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red Angels jersey on Fanatics →</a>
+
 ## Throwback White Alternate
 
 The best-looking uniform the Angels own, and the one people are most likely to miss. It is a white V-neck pullover with red and navy striping around the collar and the sleeve cuffs, "Angels" across the chest in the block-serif lettering of the California Angels era with a halo ringing the "A", red numbers, and the state of California on the sleeve inside a gold halo.
 
 There is no assigned day for it. It shows up in bunches, typically taking several home games in a row during a homestand and then vanishing for weeks, which is why a lot of fans have never worked out when to expect it. The honest answer is that you cannot plan around it the way you can the Friday City Connect. If it turns up, the Angels are wearing the sharpest thing in their closet, and we [ranked it the best jersey they own](/stories/angels-jerseys-2026-ranked) with an A+.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the throwback white alternate on Fanatics →</a>
 
 ## City Connect — The Surf Kit (Friday Home Games)
 
@@ -127,6 +135,8 @@ The City Connect, unveiled in 2022 and debuted on June 11 that year against the 
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2060468503371751552"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Surf City Connect on Fanatics →</a>
 
 ## How the Angels Rotation Actually Works
 

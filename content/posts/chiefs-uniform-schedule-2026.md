@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -56,9 +56,13 @@ Red jersey, white pants, red helmet, and a gold-outlined number that has barely 
 
 There is a strong argument that the Chiefs simply got it right the first time. The red is saturated without being loud, the gold does the work of a trim colour rather than a second primary, and the arrowhead reads instantly at any distance. Nothing in the last decade of alternate-uniform design has produced anything Kansas City would obviously be better off wearing.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520chiefs%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red home jersey on Fanatics →</a>
+
 ## The White Road Set (9 Games)
 
 White jersey, red pants, red helmet. Nine games, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo has its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520chiefs%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The Red-on-Red Wrinkle
 

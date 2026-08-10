@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-07-16"
+updatedDate: "2026-08-10"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -60,13 +60,19 @@ Here is the entire season at a glance. Burgundy is the heritage jersey, white is
 
 This is the story of the schedule. The white jersey, worn just three times as an alternate in 2025, is now Washington's most-featured road look and the closest thing the closet has to a primary. It is a clean white set with the burgundy and gold trim, worn with the burgundy helmet and the gold spear-W, and it opens the season Week 1 in Philadelphia. Washington leans on it for six games, mostly on the road: at the Eagles, home against the Giants, then at the 49ers, Cardinals, Titans, and Jaguars. Promoting the whites is a smart, understated call. It is the crispest jersey the franchise owns, it photographs beautifully in daylight, and it lets the burgundy and gold read as accents rather than fighting for attention. For a team that spent years without a settled identity, making the white the anchor is a confident, grown-up move.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white primary jersey on Fanatics →</a>
+
 ## Burgundy Jersey (The Heritage Look, 9 Games)
 
 The burgundy is the heart of the wardrobe, and it works the hardest, going nine times in 2026. This is the jersey that carries the franchise's history, the deep burgundy with gold numbers and the gold spear-W on the burgundy helmet, and Washington saves it for the games that matter most on the calendar. It debuts Week 2 at Dallas, holds down the home opener against Seattle, and travels to London against the Colts in Week 4. From there it owns the heavy NFC East and prime-time stretch: home against the Eagles, home against the Rams, at the Giants, home against the Texans, at the Vikings, and the Week 18 finale against the Cowboys. Nine wearings is a clear signal that burgundy is still the emotional primary even if white is the technical one, and it keeps the franchise's most recognizable jersey and uniform in heavy rotation for the biggest matchups of the year.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520burgundy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the burgundy heritage jersey on Fanatics →</a>
+
 ## The "Hail Raiser" Black Alternate (2 Games, Both at Home)
 
 The one everyone wants to see. The Hail Raiser is Washington's all-black alternate, a blacked-out jersey and pants with burgundy and gold striping and a completely different black helmet carrying the spear-W alternate logo. The name plays on the franchise's fight-song heritage, and the whole set is built to be a stadium event. It comes out exactly twice in 2026, and both are at home under the lights of a marquee slot: Week 11 against the Bengals and Week 15 against the Falcons. Holding the black look to two home games is the right restraint. Alternates lose their punch when they show up every month, so parking the Hail Raiser at two home dates keeps it feeling like a happening rather than a habit. If you are buying one Commanders jersey for the drama of it, this is the uniform on the shortlist. We broke the full look down in our [Commanders new uniforms review](/stories/commanders-new-uniforms-2026).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Hail Raiser black alternate on Fanatics →</a>
 
 ## How the Commanders Rotation Actually Works
 

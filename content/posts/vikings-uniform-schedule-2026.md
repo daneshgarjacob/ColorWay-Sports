@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -84,6 +84,8 @@ The season opens in the throwbacks. Minnesota will wear its **Classic** uniform 
 
 This is the right uniform for the occasion and the right occasion for the uniform. The Classic is the best thing hanging in Minnesota's closet, a straight line back to the Purple People Eaters era without any of the modern clutter, and putting it on the field for the opener against Green Bay means the oldest rivalry in the division gets the oldest look in the building. We grade the Classic an **A-**, and the gray facemask is the detail that does the heavy lifting. Modern Vikings helmets use a purple cage that flattens the front of the shell. The gray reads like a photograph from 1975.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Classic Throwback on Fanatics →</a>
+
 ## Week 15 vs. Lions: The New "Rivalries" Jersey Debuts
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;"><img src="/images/posts/vikings-uniform-schedule-2026/week-15-rivalries.jpg" alt="Minnesota Vikings Week 15 Rivalries uniform announcement vs the Detroit Lions on December 20 at 7:20 PM" style="width: 100%; max-width: 420px; border-radius: 12px;" /></div>
@@ -94,6 +96,8 @@ The headliner is the debut of Minnesota's entry in the NFL x Nike Rivalries prog
 That is about as good a debut slot as a jersey can get. A prime-time NFC North game against the Lions, the whole country watching, and a new uniform coming out of the tunnel for the first time. Rivalries jerseys live or die on whether the design actually says something about the matchup, and putting the reveal on national TV against the exact rival it was built around is the right way to do it. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 **When we will actually see it:** the game is in December, but the jersey is not. Sources told SportsLogos.net that the league plans to unveil the second wave of Rivalries uniforms, the NFC North and AFC South, on **August 25**. That is the date to watch. We will grade the Vikings uniform the day it drops and update this page.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Week 16 vs. Commanders: The Winter Warrior "Whiteout"
 
@@ -110,9 +114,13 @@ Here is the Winter Warrior itself, so you can see exactly what the whiteout look
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vikings/status/1798701377209630911"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520winter%2520warrior%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Winter Warrior whiteout on Fanatics →</a>
+
 ## All-Purple (Week 7, Confirmed)
 
 The boldest thing the Vikings do with their standard set gets a date. Purple jersey over purple pants comes out for the Indianapolis Colts on Sunday, October 25 at noon, and the team listed it as a straight uniform choice rather than a themed promotion. Monochrome purple is a genuinely divisive look, and we land on the side that likes it: the Vikings own one of the two or three best base colors in the league, and the mono treatment is the only version of the uniform where the color gets to be the entire statement. The white pants are more classical. The purple pants are more Minnesota.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520purple%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the purple jersey on Fanatics →</a>
 
 ## Purple Over White (5 Home Games, Confirmed)
 
@@ -125,6 +133,8 @@ Worth being clear about what those themes are and are not. Crucial Catch, Salute
 The white road jersey handles all eight away games: at the Bears, Buccaneers, Saints, Lions, Packers, 49ers, Patriots, and Jets. The Vikings have not published a road-by-road jersey schedule, so these follow the standard NFL convention where the visiting team wears white. Pants are the variable, since Minnesota alternates between purple and white below the waist depending on the week.
 
 Two road dates stand out. Week 11 is the Mexico City game against the San Francisco 49ers at Estadio Azteca on Sunday night, November 22, where San Francisco is the designated home team and Minnesota is the visitor despite the neutral site. And Week 8 at Detroit on November 1 is the first of two meetings with the Lions, which means the Rivalries jersey is being saved for the rematch in Minneapolis, exactly as the program is designed.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Vikings Rotation Works in 2026
 

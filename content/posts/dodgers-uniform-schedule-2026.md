@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
@@ -95,9 +95,13 @@ The home white uniform with the Dodgers script across the chest is the primary i
 
 The home whites are one of the most heritage-rich primary uniforms in baseball. There is no scenario in which the Dodgers should ever consider a meaningful redesign on this set. The chain-stitched Dodgers script, the LA cap logo, and the red number contrast all tie into a visual identity that has been instantly recognizable for seven decades. Every weeknight home game and every weekend daytime home game in 2026 is the whites.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Road Games)
 
 The road gray uniform with the Los Angeles script across the chest is the default away look in 2026. Royal blue Los Angeles wordmark, red player numbers, no name on the back, all-blue road cap. The road grays mirror the home whites in lettering and number treatment, just with the city name swapped in for the team name and the gray base for the white. This is the cleanest version of the Dodgers' road identity and the look most road games carry across the season.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Royal Blue Road Alternate (Select Road Series)
 
@@ -108,11 +112,15 @@ The royal blue road alternate is the newer addition to the Dodgers' active rotat
 
 The blue alternate is not the default road call in 2026. The Dodgers pull it for select road series and the rest of the away calendar stays in the traditional road grays. For the full background on when the franchise officially added the alternate and how it differs from the spring training blue jersey, see our [Dodgers blue road jersey 2026 breakdown](/stories/dodgers-blue-road-jersey-official-2026).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
+
 ## City Connect (Saturday Home Games)
 
 The cream "City of Dreamers" City Connect uniform anchors Saturday home games at Dodger Stadium in 2026. Cream jersey with "Los Angeles" in blue block letters across the chest, a contrail streaking off the wordmark, and a spray of multicolored flecks the team calls a galaxy of stars. This is the Dodgers' second City Connect, and it debuted on Saturday, June 22, 2024, against the Angels, making Los Angeles the first team in baseball with two City Connect designs. It has settled into the Saturday slot as the consistent date fans can plan around for the alternate identity.
 
 The block "Los Angeles" wordmark is the centerpiece of the design, a nod to the signage at the Los Angeles Memorial Coliseum where the Dodgers played their first three seasons after moving west. The paint-fleck pattern stands for the brilliance and diversity of the city, the whole thing built around the idea of Los Angeles as a city of dreams and dreamers. Tying the jersey to Saturdays keeps the rotation predictable. Fans who want the City Connect on the back of a Dodgers jersey know exactly when to attend. The cleanest version of the Dodgers identity is still the home whites, but the City Connect has carved out a real lane.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## Why This System Works
 

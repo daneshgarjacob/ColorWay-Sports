@@ -2,7 +2,7 @@
 title: "Minnesota Twins Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-08"
+updatedDate: "2026-08-10"
 excerpt: "The Minnesota Twins run five uniforms in 2026 — home whites, road pinstripe grays, the redesigned navy 'Twins' alternate, the cream 'Twin Cities' alternate, and the blue 'Ripple Effect' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ The home white is Minnesota's signature look: a clean white jersey with the "Twi
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2081487987125211217"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Pinstripe Grays (Most Away Games)
 
 On the road, the Twins wear a gray set laced with navy pinstripes and "Minnesota" arched across the chest in navy, paired with the white "M" cap that carries the red North Star above the letter. For 2026 the team freshened the sleeve patch, swapping in a new mark built around the club's "MIN" abbreviation set in gray inside a navy baseball with silver stitching. It's the workmanlike default for most away games — more functional than iconic — but the pinstripes give it a quiet heritage nod, since plenty of Twins Hall of Famers wore them across their Minnesota careers.
@@ -105,6 +107,8 @@ On the road, the Twins wear a gray set laced with navy pinstripes and "Minnesota
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2083329824639025457"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road pinstripe gray jersey on Fanatics →</a>
 
 ## Navy Alternate (Manager's Choice, Mostly Road)
 
@@ -119,6 +123,8 @@ The navy alternate is the headline change for 2026. The base navy stayed, but th
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2080109850533441741"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
+
 ## Cream "Twin Cities" Alternate (Manager's Choice, Mostly Home)
 
 The cream alternate is the most civic-minded jersey in the closet. It revives a legacy cream base and stretches "Twin Cities" across the chest, with a crisscrossed flag-style mark pairing an "M" for Minneapolis and "StP" for St. Paul — a deliberate move to honor both halves of the metro rather than lean on one. It's worn with a navy "TC" cap rendered in cream lettering to match. Like the navy, it has no standing day on the calendar; it's a manager's-choice look that mostly shows up at home. It is arguably the best thing the 2023 rebrand produced, blending history, civic pride, and clean modern type into one cohesive package.
@@ -127,6 +133,8 @@ The cream alternate is the most civic-minded jersey in the closet. It revives a 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2081195186961465602"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Twin Cities cream alternate on Fanatics →</a>
+
 ## City Connect — The "Ripple Effect" Kit (Friday Home Games)
 
 The City Connect, introduced in June 2024, is the most conceptually loaded jersey the Twins own. The base is a wash of blues run through with darker striations, a sublimated pattern meant to read as ripples spreading across the surface of a lake — the "Ripple Effect," leaning all the way into the Land of 10,000 Lakes identity. Instead of a chest wordmark it carries a white "MN" patch built around the North Star motif, claiming the whole state rather than just the Twin Cities. The cap is the showpiece: a yellow state silhouette framing glowing northern lights, with "10,000 Lakes" on one side and, under the brim, a purple-outlined topographic map of Lake Minnetonka as a nod to Prince. After debuting with blue pants, the team switched to white pants in 2025 to balance the design. It's the closest thing Minnesota has to a scheduled look — worn mostly on Friday home games — and it's a vivid, unmistakably local entry in the City Connect program.
@@ -134,6 +142,8 @@ The City Connect, introduced in June 2024, is the most conceptually loaded jerse
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Twins/status/2080759251354464461"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520twins%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Ripple Effect City Connect on Fanatics →</a>
 
 ## How the Twins Rotation Actually Works
 

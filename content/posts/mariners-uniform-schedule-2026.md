@@ -2,7 +2,7 @@
 title: "Seattle Mariners Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Seattle Mariners run five uniforms in 2026 — the home whites, road navy, the Northwest green alternate, the brand-new Steelheads Sunday throwback, and an all-new rush-blue City Connect. Here's every jersey, when they wear it, and what changed this year."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #005C5C 50%, #0C2C56 100%)"
 coverImage: "/images/posts/mariners-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,25 @@ The big story for 2026 is turnover at the top of the closet. Seattle is retiring
 
 The home white is the cornerstone: a clean white jersey with "Mariners" arched across the chest in navy, trimmed in Northwest green and silver, paired with the navy cap carrying the ball-and-compass-rose "S." It's the default for the bulk of every homestand — essentially any home game not claimed by the City Connect, the green, or the Steelheads weekend looks. There's nothing flashy here, and that's the point: the compass-rose identity is one of the more handsome marks in the American League, and the whites let it sit front and center without competition. Timeless does not need tinkering.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%2520mariners%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Navy (Most Away Games)
 
 This is the one newcomers to the franchise tend to get wrong. The Mariners no longer wear gray on the road — they dropped grays after 2022 and made **navy** their primary road jersey for 2023, a move nudged along by MLB's uniform rules at the time. The navy top reads "Seattle" across the chest in silver and Northwest green, worn with the same navy compass cap, and it's the default for most away games. It gives Seattle one of the darker, moodier road looks in the league, which suits a team whose whole identity is built around deep navy and saltwater green. It's the workhorse of the away schedule.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%2520mariners%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road navy jersey on Fanatics →</a>
 
 ## Northwest Green Alternate (Saturday Home Games + Select Road)
 
 The Northwest green — the saltwater teal that's been part of the Mariners' DNA since the 1993 rebrand — is the splash of color in the rotation. It's a green jersey with "Mariners" across the chest in silver with navy trim, and it pulls double duty: it owns select Saturday home games, and it also travels, coming out on the road when the home club is wearing navy or black and Seattle wants the contrast. That flexibility is exactly why it doesn't lock neatly into a single day on the grid. It's the most distinctly *Seattle* color the team owns, and giving it both a home slot and a road job keeps it in regular circulation.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%2520mariners%2520northwest%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Northwest Green alternate on Fanatics →</a>
+
 ## Steelheads Sunday — The New Black-and-Cream Throwback (Sunday Home Games)
 
 This is the headline addition. For 2026 the Mariners introduce a black-and-cream uniform modeled on the **Seattle Steelheads**, the city's Negro leagues club that played in 1946, and it takes over Sunday home games as part of "Steelheads Sundays" at T-Mobile Park. It replaces the cream Sunday alternate Seattle had worn for years. It's a meaningful piece of design history, too: the move makes the Mariners the first MLB club to fold a Negro leagues uniform into its regular-season rotation rather than wearing one only for a single tribute game. Handing it a standing weekly slot — every Sunday at home — is what separates this from a one-off, and it's the rare alternate that's as much civic history lesson as it is a jersey.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%2520mariners%2520steelheads%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Steelheads throwback on Fanatics →</a>
 
 ## City Connect — The New Rush-Blue Kit (Friday Home Games)
 
@@ -114,6 +122,8 @@ The 2023 City Connect is gone, and the 2026 redesign stays in Seattle's blue fam
 <img src="/images/posts/mariners-uniform-schedule-2026/mariners-city-connect.jpg" alt="Seattle Mariners 2026 rush-blue Seattle City Connect jersey by Nike, royal blue with gold Pilots-style Seattle lettering" style="max-width: 340px; width: 100%; border-radius: 6px;" />
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%2520mariners%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the rush-blue City Connect on Fanatics →</a>
 
 ## What Happened to the Cream Sunday Uniform?
 

@@ -2,7 +2,7 @@
 title: "Athletics Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Athletics carry four uniforms in 2026 — home whites, road grays, the kelly green alternate, and the brand-new gold 'Sacramento' alternate. Here's every jersey, when they wear it, and why the team has no city name on its chest."
 gradient: "linear-gradient(135deg, #006341 0%, #EFB21E 50%, #006341 100%)"
 coverImage: "/images/posts/athletics-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ The home white is the A's bread and butter: a clean white jersey with green and 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2068829099565670825"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, the A's wear the standard gray set with "Athletics" across the chest, player names on the back, and the green cap with the interlocking gold "A." It's the default for most away games, the workmanlike road look that lets the home team's colors be the star. Like the home white, it skips any city identifier — a quiet but constant reminder that this team is, for now, just the Athletics. Nothing flashy, and it doesn't need to be.
@@ -105,6 +107,8 @@ On the road, the A's wear the standard gray set with "Athletics" across the ches
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2069911273463292088"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Kelly Green Alternate (Friday Home Games)
 
@@ -114,6 +118,8 @@ The kelly green is the fan favorite and the closest thing the A's have to a hard
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2067105463355982190"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520kelly%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the kelly green alternate on Fanatics →</a>
+
 ## Gold "Sacramento" Alternate (Saturday Home Games)
 
 The newest piece, revealed in September 2025, is the gold "Sacramento" jersey, and it's the one that replaced the old gold "A's" top. It's a gold/yellow jersey with "Sacramento" stitched across the chest in green script trimmed in white, a green A's logo on the left sleeve, and green sleeve piping trimmed in white — billed as a modern take on the Athletics' iconic gold. The team designed it as a thank-you to the Capital Region that took the club in, and it anchors "Sacramento Saturdays" home games at Sutter Health Park, with players free to wear it on other days as well. There's an irony baked into it that critics flagged immediately: the same jersey carries the Las Vegas tourism patch, a reminder that the club has one foot out the door even as it salutes its temporary home. Loud, specific, and a little bittersweet, it's the signature look of a strange interim chapter.
@@ -121,6 +127,8 @@ The newest piece, revealed in September 2025, is the gold "Sacramento" jersey, a
 <div style="margin: 1.25em 0; text-align: center;">
 <img src="/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey-cropped.jpg" alt="Athletics 2026 gold Sacramento alternate jersey, gold with Sacramento in green script across the chest and the green A's cap, worn for Sacramento Saturdays at Sutter Health Park" style="max-width: 100%; border-radius: 10px;" />
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the gold Sacramento alternate on Fanatics →</a>
 
 ## What Happened to the Old Gold "A's" Jersey?
 

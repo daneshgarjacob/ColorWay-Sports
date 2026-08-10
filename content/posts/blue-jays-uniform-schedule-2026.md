@@ -2,7 +2,7 @@
 title: "Toronto Blue Jays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Toronto Blue Jays carry six uniforms in 2026 — home whites, road grays, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the 'Night Mode' City Connect. Here's every jersey, when they wear it, and why the blues do most of the work."
 gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
@@ -94,17 +94,25 @@ Here's the twist with Toronto: the alternate is really the default. The royal-bl
 
 For what the Blue Jays have actually worn so far this season, day by day, see the [Blue Jays uniform calendar](/mlb-tracker/blue-jays).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520royal%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
+
 ## Powder-Blue Alternate (The Fan Favorite)
 
 The powder blue is the one fans buy. Toronto's modern version, introduced before the 2020 season, is a soft sky-blue jersey with navy-white-navy serifed split lettering and numerals — a nod to the powder-blue road sets the club wore on and off since 1977 — paired with a navy cap. It was the second-most-worn uniform in 2025 and got a national spotlight during Toronto's run to the 2025 World Series, which only cemented its status. It's nostalgic without being a literal throwback, and it's comfortably the most beloved look the team owns. Between this and the royal blue, some shade of blue covers the large majority of the Blue Jays' calendar.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue alternate on Fanatics →</a>
 
 ## Home Whites (Select Home Games)
 
 The home white is the classic, but at Rogers Centre it's used more sparingly than you'd expect — the blues simply get more run. It's a crisp white jersey with the "Blue Jays" logo on the chest in royal blue, navy trim, player names on the back, and the navy cap with the bird-and-leaf mark. It's the look that says "ballgame at home" in the most traditional sense, and it remains a clean, timeless template. It just isn't the everyday home uniform here the way whites are for most clubs; in Toronto, it shares the homestand with two different blues.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Select Away Games)
 
 On the road, Toronto wears the standard gray set with "Toronto" across the chest in the team's navy-white-navy split lettering, names on the back, and the all-navy cap. It's frequently called one of the best gray road uniforms in baseball — understated, well-proportioned, and unmistakably Blue Jays. But like the whites, it gets out-snapped by the royal blue on the road, so it's a select-game look rather than the automatic travel uniform. When it does appear, it's a reminder of how good a simple, classic gray can look.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Red Canada Day Uniform (July 1 Only)
 
@@ -115,9 +123,13 @@ Once a year, the closet turns red. For Canada Day, the Blue Jays swap the blues 
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520canada%2520day%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Canada Day jersey on Fanatics →</a>
+
 ## "Night Mode" City Connect (Home Night Games)
 
 Yes — the Blue Jays do have a City Connect, and it's one of the moodier entries in the program. Unveiled in 2024, the "Night Mode" kit is built on a deep "pitch blue" inspired by Lake Ontario after dark, with an illustration of the Toronto skyline running across the chest in brighter blue and red, centered by a red "Toronto" wordmark and a uniform number on the front — the first time "Toronto" had appeared on the home chest in two decades. The cap is pitch blue with a stylized red-and-blue split "T," a nod to the pillars of Toronto City Hall, and for 2026 it's where the 50th-season mark lives. By design, the City Connect only comes out for home night games, where the dark palette plays best under the lights. It's specific, it's atmospheric, and it's unmistakably Toronto after sundown.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Night Mode City Connect on Fanatics →</a>
 
 ## How the Blue Jays Rotation Actually Works
 

@@ -2,7 +2,7 @@
 title: "Pittsburgh Pirates Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white pinstripes, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
 gradient: "linear-gradient(135deg, #27251F 0%, #FDB827 50%, #27251F 100%)"
 coverImage: "/images/posts/pirates-uniform-schedule-2026/cover.jpg"
@@ -94,13 +94,19 @@ The Pirates carry four uniforms in 2026, and three of them are holdovers — the
 
 The home white is the Pirates' default and the look most fans picture: a clean white jersey laced with thin black-and-gold pinstripes, "Pirates" scripted across the chest, and the black cap with the gold "P." It's worn for the bulk of every homestand — essentially any home game that isn't claimed by the Friday City Connect. It's a quiet, classic baseball look, and the pinstriping is exactly the kind of subtle detail that reads as old-school without trying too hard. The Pirates are smart to leave it almost entirely alone.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Grays — The "Pittsburgh" Script (Most Away Games)
 
 On the road, Pittsburgh wears the standard gray set with the cursive "Pittsburgh" wordmark arched across the chest, paired with the black cap and gold "P." This script was revived ahead of the 2020 season — script "Pittsburgh" had last appeared on the road jerseys from 1990 through 2000, and for the 19 years in between the away tops used a blocky capitalized treatment. Fans loved the throwback cursive enough that the team brought it back, and it's been the road default ever since. It's the workmanlike look for most away games, and the retro script gives it a warmth that a plain block font never had.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Black Alternate — The Black "Pittsburgh" (Manager's Choice)
 
 The black alternate is the wild card and one of the most popular shirts in the closet. It's a black jersey with the same retro "Pittsburgh" script across the chest in gold, worn with the black cap. Like the gray road top, this black alternate was unveiled in January 2020 as part of the "script is back" refresh. There's no fixed day attached to it — it's the jersey the Pirates reach for when they want to lean all the way into the black-and-gold, and it shows up both at home and on the road. Paul Skenes has made no secret of loving it, which is part of why it gets so much camera time on his starts. It's the darkest, boldest piece in the regular rotation, and the lack of a schedule is exactly what keeps it feeling like a choice rather than a chore.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## City Connect — The New Black-and-Gold Kit (Friday Home Games)
 
@@ -110,6 +116,8 @@ The biggest story of the Pirates' 2026 season is the brand-new City Connect, whi
 <img src="/images/posts/city-connect-2026-pirates/pirates-cc-hero.jpg" alt="Pittsburgh Pirates 2026 City Connect jersey, matte black with gold gothic Pirates lettering" style="max-width: 560px; width: 100%; border-radius: 10px;" />
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Pittsburgh Pirates</div>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black-and-gold City Connect on Fanatics →</a>
 
 ## How the Pirates Rotation Actually Works
 

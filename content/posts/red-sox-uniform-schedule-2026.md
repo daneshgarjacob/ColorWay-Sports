@@ -3,7 +3,7 @@ title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the 
 category: MLB
 date: "2026-06-23"
 topViewsRank: 2
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
@@ -101,6 +101,8 @@ The home white is Boston's bread and butter: a clean white jersey with red pipin
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2067311217589252309"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Away Games)
 
 On the road, Boston wears the standard gray set with "BOSTON" across the chest in red — the road jerseys switched to red lettering back in 2014 to match the home typeface — with player names on the back and the navy cap. It's the default for most away games, the workmanlike road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be.
@@ -108,6 +110,8 @@ On the road, Boston wears the standard gray set with "BOSTON" across the chest i
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2068562622803316758"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 For what Boston has actually worn each day this season, the [Red Sox uniform calendar](/mlb-tracker/red-sox) lays out the whole year.
 
@@ -119,6 +123,8 @@ The red alternate is the one that moved. A red jersey worn with white pants, "RE
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2043400193098367008"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520red%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
+
 ## Yellow City Connect — The "Marathon" Kit (Saturday Home Games)
 
 Boston's original City Connect, introduced in 2021, is one of the most beloved alternates in the sport. The yellow-and-blue color scheme is pulled straight from the Boston Marathon: a bright yellow jersey with "BOSTON" stenciled in light blue, light-blue sleeve striping, a light-blue cap, and a "617" race-bib patch on the sleeve honoring the city's area code. Since 2024 it's been the every-Saturday home uniform, and it remains the team's signature kit for Patriots' Day and Marathon weekend in April. It's vivid, civic, and completely Boston — one of the best City Connects MLB ever approved.
@@ -127,6 +133,8 @@ Boston's original City Connect, introduced in 2021, is one of the most beloved a
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065935525651821033"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the yellow City Connect on Fanatics →</a>
+
 ## Fenway Green — The Green Monster City Connect (Friday Home Games)
 
 The newest piece, unveiled in 2025, leans all the way into Fenway Park itself. The green jersey is inspired by the Green Monster, down to a font that matches the wall's hand-operated scoreboard numerals, yellow numbers that echo the scoreboard's current-inning run total, "1912" on the collar for the year Fenway opened, and a green cap with a gray "B." It reportedly became the best-selling City Connect in MLB history, and it now owns Friday night home games. Tying the loudest, most place-specific jersey in the closet to a guaranteed weekly slot is a smart move — fans know exactly when to come see it.
@@ -134,6 +142,8 @@ The newest piece, unveiled in 2025, leans all the way into Fenway Park itself. T
 <div style="margin: 1.25em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RedSox/status/2065621943991062566"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%2520red%2520sox%2520green%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Fenway Green City Connect on Fanatics →</a>
 
 ## What Happened to the Navy Alternate?
 

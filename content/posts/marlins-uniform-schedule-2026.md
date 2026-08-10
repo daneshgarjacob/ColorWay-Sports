@@ -4,7 +4,7 @@ title: >-
   Sundays
 category: MLB
 date: '2026-04-24'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Miami Marlins gave every weekend home game its own jersey in 2026. Retro
   Wave Fridays, home whites Saturdays, teal Sundays. We break down the full
@@ -103,11 +103,15 @@ Miami wears the Retro Wave uniform for every Friday home game at loanDepot park.
 
 This one works because it matches the city. Most City Connects feel forced, like a designer handed a team a mood board with no actual connection to the market. The Marlins' Retro Wave is one of the few that ties directly into the visual identity of where the team plays. Tying it to Friday nights is the right call too, because the neon reads best under the lights and Friday is when Miami fills the ballpark. Owning the weekend kickoff with the most distinctive jersey in the closet is smart scheduling.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Retro Wave City Connect on Fanatics →</a>
+
 ## Home Whites Saturdays
 
 The Saturday slot belongs to the standard home white uniform. This is the current Marlins everyday home jersey: clean white with black piping, the stylized "M" cap logo, and the "Miami" wordmark across the chest in black and Caliente red. It is the modern everyday look the team runs out most often when there is no alternate in play.
 
 Saturdays at loanDepot park often run as day-night splits or afternoon starts, and the white jersey is the most versatile canvas for either window. The whites also let Friday and Sunday stand out more by keeping Saturday visually simple. You get the loud jersey on Friday, the classic on Saturday, and the nostalgia bomb on Sunday. The three days build on each other instead of fighting for attention.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Teal Sundays
 
@@ -121,6 +125,8 @@ Sundays are Teal Sundays, the best jersey program any MLB team has launched in y
 </div>
 
 The rollout for the teal jersey was as clean as the uniform itself. The Marlins branded the whole program as "Teal Sundays" with the tagline "Every Stitch Tells Our Story," and they change their social media profile picture to the classic Florida Marlins logo every Sunday to match. We wrote the full grade on the teal jersey in its own post: [Marlins Teal Alternate Jersey 2026: Grading the Throwback](/stories/marlins-teal-alternate-jersey-2026). Short version, it is an A+. The best uniform the Marlins have put on the field since the original teal era.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520teal%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the teal alternate on Fanatics →</a>
 
 ## Why the Weekend System Works
 

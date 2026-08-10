@@ -3,7 +3,7 @@ title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
 topViewsRank: 5
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
@@ -92,9 +92,13 @@ The home whites are one of the most underrated primary uniforms in the National 
 
 For what the Braves have actually worn so far this season, day by day, see the [Braves uniform calendar](/mlb-tracker/braves).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Grays (Most Road Games)
 
 The road gray uniform with the Atlanta script across the chest is the away look for 2026. Same script Atlanta wordmark in navy with the red tomahawk underline, same red player numbers, gray base instead of white. The road grays mirror the home whites in lettering and trim, just with the city name color story translated onto the gray fabric. Cap is the all-navy road version with the script a logo. Every road game in 2026 stays in the grays unless an event or holiday tribute overrides the call.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Cream Alternate (Missing So Far in 2026)
 
@@ -104,13 +108,19 @@ The cream alternate is a 1966 throwback to Atlanta's first season after the move
 
 One Sunday is not proof, and we are not calling it retired. But treat the cream as a maybe rather than a scheduled weekly appointment until it actually turns up. The [Braves uniform calendar](/mlb-tracker/braves) is where it would show first.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
+
 ## Red Alternate (Select Weeknight Games)
 
 The red alternate is the colored jersey the Braves are actually putting on in 2026. Red base, "Braves" script in navy with a white outline, the tomahawk beside it, navy piping down the placket and around the sleeves. It gets pulled for select weeknight games to break up the run of whites and grays, and unlike the City Connect on Fridays it is not locked to a fixed day.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
+
 ## Navy Alternate (Select Weeknight Games)
 
 Atlanta's other weeknight alternate. Navy base carrying the same script, worn on the occasional midweek date — the Braves put it on for a Wednesday game on June 24. It shows up less often than the red does, so of the two colored jerseys the red is the one to expect on a given weeknight, with the navy the rarer sighting.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## City Connect (Friday Night Home Games)
 
@@ -120,6 +130,8 @@ Atlanta's other weeknight alternate. Navy base carrying the same script, worn on
 The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white ATL kit it had worn since 2023 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
 
 The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue City Connect on Fanatics →</a>
 
 ## Why This System Works
 

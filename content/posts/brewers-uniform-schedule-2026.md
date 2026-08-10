@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -98,6 +98,8 @@ For what the Brewers have actually worn so far this season, day by day, see the 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2079395502869602339"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream home jersey on Fanatics →</a>
+
 ## White Pinstripe Home Alternate (Home Games)
 
 The white pinstripe is the cream home's running mate at American Family Field. It shares the same styling — "Brewers" across the chest in navy and gold, the ball-in-glove crest — but on a crisp white base laced with navy pinstripes. There's no fixed rule splitting it from the cream; the two simply rotate through the homestand by feel, and the pinstripes give the home schedule a second, slightly sharper look without changing the team's color story. It's the quiet workhorse of the home closet.
@@ -105,6 +107,8 @@ The white pinstripe is the cream home's running mate at American Family Field. I
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2081492781126611452"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white pinstripe alternate on Fanatics →</a>
 
 ## Powder Blue Road (Most Away Games)
 
@@ -114,6 +118,8 @@ This is the big one for 2026. The Brewers retired their traditional road grays a
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2083321073433563381"></a></blockquote>
 </div>
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue road jersey on Fanatics →</a>
+
 ## Navy Alternate — The Ball-in-Glove Look (Sundays)
 
 The navy alternate is the closest thing the Brewers have to a hard rule. It's a navy jersey built around the franchise's heritage "ball-in-glove" logo — the famous "m" and "b" hidden inside a fielder's mitt — with gold accents, worn with the matching navy ball-in-glove cap. Since it joined the rotation, it's been the team's go-to Sunday uniform, and the Brewers wear it on Sundays both at home and on the road. Leaning the most heritage-forward jersey in the closet into a standing weekly slot is smart: the ball-in-glove is the soul of the brand, and giving it a guaranteed day each week keeps it in steady circulation.
@@ -121,6 +127,8 @@ The navy alternate is the closest thing the Brewers have to a hard rule. It's a 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2077083479725002840"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520navy%2520ball%2520in%2520glove%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the ball-in-glove navy alternate on Fanatics →</a>
 
 ## City Connect — The "Wisco" Kit (Friday Home Games)
 
@@ -134,6 +142,8 @@ The "Wisco Way" City Connect — its chest wordmark reading simply "Wisco" — w
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2081122563103641770"></a></blockquote>
 </div>
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Wisco City Connect on Fanatics →</a>
 
 ## What Happened to the Road Grays?
 

@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-05"
+updatedDate: "2026-08-10"
 excerpt: "The Bills confirmed every 2026 home uniform: two Nickel City games, Cold Front against Miami, and a red alternate finale. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
@@ -79,25 +79,35 @@ The new gray set gets two dates, and the pairing is smart. It debuts in Week 3 a
 
 Putting the second wearing in a Saturday night December game in Buffalo is the correct instinct. If there is snow on the field, the gray reads as industrial rather than flat, which is exactly the argument the uniform is making.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520nickel%2520city%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Nickel City alternate on Fanatics →</a>
+
 ## Cold Front (Rivalries, 1 Game, Confirmed)
 
 The all-white Cold Front uniform, Buffalo's entry in the NFL Rivalries program and one of the best-received sets of that first 2025 wave, gets a single 2026 date: Week 11 at home against the Miami Dolphins on Sunday, November 22, the Salute to Service game. The set is built around a white shell helmet with a metal-flake finish, a frosted metallic charging buffalo, and a center stripe designed to look like cracking ice. Against Miami in late November it is the whole thesis of the Rivalries program in one image, a cold-weather team dressing like the weather and a warm-weather team visiting it. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 One wearing only is the frustrating part. Cold Front is the highest-graded uniform Buffalo owns and it comes out once.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Cold Front Rivalries jersey on Fanatics →</a>
+
 ## Red Alternate (Week 18, Confirmed)
 
 The Bills close the regular season in red against the New York Jets, a home finale carrying the Play 60, Coach of the Week, and high school tackle celebrations. The red jersey is the loudest thing in the closet and it is the right call for a season-ending home game against a division rival. The date has not been set, since the league holds Week 18 for flexible scheduling, so this one moves.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
+
 ## Blue Primary (4 Home Games, Confirmed)
 
 The blue jersey remains the base, and it draws the four biggest non-alternate home dates on the calendar: the Week 2 home opener against the Detroit Lions on Thursday, September 17, which is also the first regular-season game at the new Highmark Stadium, then Crucial Catch against the New England Patriots in Week 4, Native American Heritage against the Baltimore Ravens in Week 8, and Thanksgiving night against the Kansas City Chiefs in Week 12. Royal blue over white with the white helmet is the look most people picture when they picture the Bills, and the team clearly wanted it for the moments that matter most. Opening a new stadium in it is the tell.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue primary jersey on Fanatics →</a>
 
 ## The White Road Set (9 Games, Expected)
 
 The white road jersey is the workhorse, projecting to all nine away games: at the Texans, Rams, Raiders, Vikings, Jets, Patriots, Packers, Broncos, and Dolphins. The Bills have not published a road-by-road jersey schedule, so these follow the standard NFL convention where the visiting team wears white. Pants are the variable, since Buffalo alternates between blue and white below the waist depending on the week and the opponent.
 
 Two road dates are worth circling. Week 16 is Christmas Day at Denver on Netflix, and Week 17 is January 3 at Miami, which is the game the Dolphins have set aside for their near-black Dark Water Rivalries uniform. We covered [why Dark Water divides opinion](/stories/dolphins-dark-water-rivalries-bills-january-2027) separately, and a white-clad Buffalo across from it should be one of the better-looking broadcasts of the season.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The Red Helmet Report, and Why It Is Not on the Grid Yet
 

@@ -3,7 +3,7 @@ title: "Los Angeles Rams 2026 Uniform Schedule: When They Wear Classic Sol, Fear
 category: NFL
 date: "2026-07-24"
 topViewsRank: 6
-updatedDate: "2026-07-24"
+updatedDate: "2026-08-10"
 excerpt: "The Rams' 2026 uniform schedule: the confirmed Classic Sol and Fearsome White alternate dates, plus a week-by-week outlook for the royal, white, and Midnight Mode looks."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -71,21 +71,31 @@ Here is the whole season at a glance. Classic Sol and Fearsome White are the con
 
 The gold throwback is the Rams' most-featured alternate in 2026, and both dates are marquee national windows. It debuts in Week 2 at home against the New York Giants on Monday, September 21, then returns in Week 13 at home against the Kansas City Chiefs on Thursday, December 3. Classic Sol honors the 1951 World Champions Rams, pairing the gold "Sol" jersey with the returning multi-striped white pants and the standard royal helmet. Putting it in two prime-time home games is a smart move: a nostalgic gold set plays best under the lights, and the Rams get to show it off to the biggest audiences of their year. We graded it a B- in our [full alternate breakdown](/stories/rams-leaked-alternate-jerseys-2026).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520throwback%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Classic Sol throwback on Fanatics →</a>
+
 ## Fearsome White (Royal-and-White Alternate, 1 Game, Confirmed)
 
 The cleanest new look in the closet gets a single date, and it is a good one: Week 12 at home against the Green Bay Packers on Wednesday, November 25, a standalone holiday-week showcase. Fearsome White is a crisp white jersey with royal-blue numbers, a continuous horn stripe over the shoulder, and a new white-horn, white-facemask helmet, all a nod to the legendary Fearsome Foursome defensive line. It is the highest-graded jersey the Rams own outside their primary white, and our one gripe is that it only comes out once. If you are catching one alternate live in 2026, this is the one. It earned an A- in our [reveal grades](/stories/rams-leaked-alternate-jerseys-2026).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Fearsome White alternate on Fanatics →</a>
 
 ## Primary Royal (The Home Blue, Expected)
 
 The royal home jersey remains the Rams' base look and projects to about six games, worn at home in the weeks not claimed by an alternate. That includes the Week 1 opener against the 49ers, home dates against the Bills, Cardinals, and Chargers, and the December stretch against the Cowboys and Seahawks. It is the blue-over-yellow set the Rams will wear most on Sundays, and it is the one we would tweak first, but it anchors the home schedule as the default.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520royal%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the primary royal jersey on Fanatics →</a>
+
 ## Primary White (The Road Set, Expected)
 
 The white road uniform is the workhorse, projecting to eight games across the away schedule: at the Broncos, Eagles, Raiders, Commanders, Cardinals, 49ers, Seahawks, and Buccaneers. It remains one of the cleanest road looks in the NFC and the standard the rest of the closet is chasing. Note that the new Fearsome White is a separate alternate; the primary white is the everyday road set the Rams take on the road all season.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the primary white jersey on Fanatics →</a>
+
 ## Midnight Mode (Rivalries Alternate, Date TBD)
 
 The all-black Midnight Mode is the Rams' entry in the NFL Rivalries program, and its 2026 game date has not been announced yet. When it lands, expect it at a home prime-time or division game, which would slot it into one of the projected royal weeks above. We will update this schedule the moment the Rams confirm it. For the wider context on the program, see our [explainer on the NFL Rivalries uniforms](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Midnight Mode alternate on Fanatics →</a>
 
 ## How the Rams Rotation Works in 2026
 

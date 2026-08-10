@@ -2,7 +2,7 @@
 title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
@@ -100,6 +100,8 @@ There is nothing to fix here. The cartoon bird cap is one of the most beloved ma
 
 For what the Orioles have actually worn so far this season, day by day, see the [Orioles uniform calendar](/mlb-tracker/orioles).
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
+
 ## Road Gray (Away Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -110,6 +112,8 @@ On the road, the Orioles wear a gray uniform with "Baltimore" written in script 
 
 Like most road grays around the league, this one does not need to change. It does its job, and the orange-and-black trim keeps it unmistakably Orioles.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
+
 ## Orange Alternate
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -119,6 +123,8 @@ Like most road grays around the league, this one does not need to change. It doe
 The orange alternate is one of two color-pop jerseys in the rotation. It features the "Orioles" script and turns the whole look into a wall of Baltimore orange. It can show up at home on no set day, which is part of the fun. When the team decides a game calls for extra energy, the orange comes out.
 
 There is no published schedule for it. You might catch it on a weeknight or a weekend afternoon. That unpredictability is the trade-off with a loose rotation: you lose the "every Thursday" certainty, but you also never quite know when one of the louder jerseys will appear.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
 
 ## Orange-on-Orange Retro Combo
 
@@ -136,6 +142,8 @@ The black alternate gives the rotation its darkest look. The jersey carries an o
 
 It is a sharp option for a night game when the team wants a moodier vibe, and the orange-on-black contrast reads well under the lights. Whether you see it on a given homestand is entirely up to the team.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
+
 ## City Connect (Friday Home Games)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -147,6 +155,8 @@ Here is the one jersey with a real, fixed schedule. The Orioles wear their City 
 The 2026 City Connect is brand new and a complete reset. It replaced the 2023 black-and-grayscale version with a far warmer concept built around the theme "From the Stoop to the Yard." The jersey has a cream base with green sleeves and an orange-trimmed green "BMORE" wordmark, with an Oriole Bird perched on the R. Warehouse-brick orange accents nod to the iconic B&O Warehouse beyond right field. The cap is a green crown with a cream front and an orange bill, carrying an ornate orange "Camden B." A sleeve patch shaped like a Eutaw Street home run plaque reads "From the stoop to the yard" alongside the 410 area code.
 
 We think this is a massive upgrade over the old grayscale set. The cream and green is unexpected for Baltimore, but it gives the City Connect its own identity instead of just being a darker version of the regular jersey. Tying it to Friday nights is smart. It gives fans a guaranteed day to see it and gives the new look a weekly stage. In a rotation that is otherwise loose, the Friday City Connect is the anchor.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## The New Orange "B" Cap
 

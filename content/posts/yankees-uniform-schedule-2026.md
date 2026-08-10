@@ -2,7 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-10"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
@@ -95,11 +95,15 @@ The home pinstripes are the most iconic uniform in all of professional sports. W
 
 The Starr Insurance corporate patch on the right sleeve is the only modern addition to the look, and the team kept the patch placement and sizing as restrained as possible to not interrupt the classic balance of the jersey. Cap is the navy New Era 59FIFTY with the interlocking NY in white. Belt is black, stirrups are navy with white piping. Every detail is locked in.
 
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+
 ## Road Gray (Every Road Game)
 
 The road gray uniform is the only thing the Yankees wear when they are not at home. NEW YORK across the chest in navy block lettering with white outline, no player name on the back, road gray fabric throughout. The cap flips to the all-navy road version with the white interlocking NY. The road gray has been the franchise's away identity since the early 1900s and has barely changed in a century.
 
 Yankees road grays are the closest thing in baseball to a uniform that does not need to update. The gray is slightly warmer than most road sets in the league, the NEW YORK wordmark sits in perfect proportion to the chest, and the back of the jersey reads cleaner without a name plate than every other team in the league. Every road game in 2026 is the road grays. No exceptions.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Navy Alternate (Sitting in the Closet)
 
@@ -109,6 +113,8 @@ Yankees road grays are the closest thing in baseball to a uniform that does not 
 The navy blue alternate road jersey is the first alternate uniform in the 123-year history of the New York Yankees. It was quietly reclassified from a Spring Training Road Uniform to an official Alternate Road Uniform before the 2026 season after Yankees players pitched the team on actually wearing it during the regular season. The design carries NEW YORK across the chest in grey lettering with white trim and the back only shows the player number, no name, in the same grey and white treatment.
 
 As of the date of this post, the Yankees have not worn the navy alternate in a 2026 regular season game. We hope they never do. The Yankees are the Yankees because of what they refuse to wear, not because of what they allow. Home pinstripes and road grays are the entire visual identity that has built the brand for over a century, and adding a third regular season uniform erases part of that distinction. The full breakdown of why the navy alternate exists and why it should stay on the rack is in our [Yankees first alternate uniform deep dive](/stories/yankees-first-alternate-uniform-2026).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## Why the Yankees Schedule Looks the Way It Does
 
