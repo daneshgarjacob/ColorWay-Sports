@@ -5,7 +5,7 @@ date: "2026-08-10"
 updatedDate: "2026-08-10"
 excerpt: "Tim Anderson retired Monday, and the White Sox are pulling the charcoal Southside City Connect uniform out of storage to honor him. The jersey has not appeared in 2026."
 gradient: "linear-gradient(135deg, #27251F 0%, #0a0a0a 55%, #C4CED4 130%)"
-coverImage: "/images/posts/white-sox-southside-city-connect-tim-anderson/cover.jpg"
+coverImage: "/images/posts/white-sox-southside-city-connect-tim-anderson/cover-players.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/mlb.png"
@@ -31,6 +31,11 @@ The résumé is real. Anderson won the American League batting title in 2019 hit
 Every one of those All-Star seasons happened while the Southside kit was in rotation. If you picture Anderson at his loudest, bat flip and all, you are probably picturing him in charcoal pinstripes. Pairing the tribute to the jersey rather than just running a video board montage is the kind of detail most clubs skip.
 
 ## We Were Never Sold on the Jersey Itself
+
+<div style="margin: 1.5em 0; text-align: center;">
+<img src="/images/posts/white-sox-southside-city-connect-tim-anderson/southside-jersey.jpg" alt="Chicago White Sox Southside City Connect jersey, charcoal with white pinstripes and Gothic Southside lettering" style="max-width: 380px; width: 100%; border-radius: 10px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
+</div>
 
 Here is our honest position. The Southside has never been our favorite thing the White Sox own. The Gothic lettering is heavy, the charcoal reads closer to dark gray than black under most lighting, and the whole set always felt like it was reaching for an identity the team already had in its regular blacks. Chicago's [black alternate](/stories/white-sox-jerseys-2026-ranked) is an A in our rankings and the best jersey in the closet. The Southside was never going to beat it.
 
@@ -81,4 +86,4 @@ The team has announced a pregame ceremony on September 17, not a Hall of Fame in
 - [2026 MLB Uniform Tracker](/stories/mlb-uniform-tracker-2026) — what every team wore last night
 - [White Sox Uniform Calendar](/mlb-tracker/white-sox) — every jersey they have actually worn this season
 
-*Retirement and ceremony details via the Chicago White Sox and MLB. Uniform usage counts are our own, from the ColorWay Sports 2026 MLB uniform tracker. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Chicago White Sox or Major League Baseball.*
+*Retirement and ceremony details via the Chicago White Sox and MLB. Uniform usage counts are our own, from the ColorWay Sports 2026 MLB uniform tracker. Cover image is the City Connect uniform unveil graphic via the Chicago White Sox; jersey image via Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Chicago White Sox or Major League Baseball.*
