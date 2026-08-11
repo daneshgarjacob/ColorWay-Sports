@@ -14,6 +14,11 @@ league: mlb
 teams: ["chicago-white-sox"]
 ---
 
+<div style="margin: 0 0 1.75em;">
+<img src="/images/posts/white-sox-southside-city-connect-tim-anderson/cover-players.jpg" alt="Chicago White Sox players including Tim Anderson wearing the Southside City Connect uniforms at the unveil" style="width: 100%; border-radius: 12px;" />
+<div style="font-size: 0.72em; color: #999; margin-top: 6px; text-align: center;">City Connect uniform unveil image via the Chicago White Sox and MLB</div>
+</div>
+
 Tim Anderson announced his retirement on Monday after ten major league seasons, and the White Sox answered with the exact right gesture. They are honoring him before their September 17 home game against the Detroit Tigers, and for that game they are bringing the original charcoal "Southside" City Connect out of storage for the first time all season.
 
 We have been tracking every White Sox uniform this year, and the Southside has not appeared once. Not a single game. That is what makes this worth writing about.
@@ -86,4 +91,4 @@ The team has announced a pregame ceremony on September 17, not a Hall of Fame in
 - [2026 MLB Uniform Tracker](/stories/mlb-uniform-tracker-2026) — what every team wore last night
 - [White Sox Uniform Calendar](/mlb-tracker/white-sox) — every jersey they have actually worn this season
 
-*Retirement and ceremony details via the Chicago White Sox and MLB. Uniform usage counts are our own, from the ColorWay Sports 2026 MLB uniform tracker. Cover image is the City Connect uniform unveil graphic via the Chicago White Sox; jersey image via Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Chicago White Sox or Major League Baseball.*
+*Retirement and ceremony details via the Chicago White Sox and MLB. Uniform usage counts are our own, from the ColorWay Sports 2026 MLB uniform tracker. Cover and hero image is the City Connect uniform unveil graphic, via the Chicago White Sox and Major League Baseball. Jersey image via Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Chicago White Sox or Major League Baseball.*
