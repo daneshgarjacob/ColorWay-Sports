@@ -2,7 +2,8 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
+resurfaceOnUpdate: true
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
   down all five looks and exactly when each jersey is worn in 2026.
@@ -96,7 +97,7 @@ All four of the standard uniforms carry the Stifel sleeve advertisement patch, w
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2079951170198495667"></a></blockquote>
 </div>
 
-The home white is the foundation of the entire rotation. It carries the famous birds-on-bat "Cardinals" wordmark across the chest and is paired with the navy "StL" cap. The Cardinals wear it for nearly every home game at Busch Stadium that is not a Friday or a Saturday, which makes it the most-seen jersey on the schedule by a wide margin.
+The home white is the foundation of the entire rotation. It carries the famous birds-on-bat "Cardinals" wordmark across the chest and is paired with the navy "StL" cap, which has always been the home pairing even through the years the road cap was red. The Cardinals wear it for nearly every home game at Busch Stadium that is not a Friday or a Saturday, which makes it the most-seen jersey on the schedule by a wide margin.
 
 There is nothing to fix here, and that is the point. This is one of the most recognizable uniforms in all of sports, and the two cardinals perched on the yellow bat have been a constant for generations. It is the look people picture when they think of St. Louis baseball, and it anchors everything else the team puts on.
 
@@ -110,9 +111,9 @@ For what the Cardinals have actually worn so far this season, day by day, see th
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2080050919345889485"></a></blockquote>
 </div>
 
-The road gray is exactly what you would expect: clean, classic, and built to let the home team be the star. It swaps the chest wordmark for a "St. Louis" script and travels for nearly every road game that is not a Saturday. Like the home white, it carries the navy cap and the Stifel patch.
+The road gray is exactly what you would expect: clean, classic, and built to let the home team be the star. It swaps the chest wordmark for a "St. Louis" script and travels for nearly every road game that is not a Saturday, and it carries the Stifel patch.
 
-This is a uniform that does not need to change. Road grays exist to do a job, and the Cardinals' version does it well without any clutter or gimmicks. It is the quiet workhorse of the rotation, on the field more than any look except the home white.
+**The cap on top of it changed on August 11, 2026.** For most of this season the road gray was paired with the all-red cap. It is now the navy "StL" cap for every remaining road game, after a fan vote. The section below has the full story, and it is one of our favorite things a team has done all year.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
@@ -127,6 +128,50 @@ The cream alternate is reserved for Saturday home games at Busch Stadium, and it
 Tying the cream to Saturday home dates is a smart call. The off-white tone reads completely differently under natural daylight than the home white does, and giving it one designated day a week keeps it feeling special instead of routine. This is the Cardinals at their most timeless, and it is a uniform we would happily see more of if the system allowed it.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
+
+## The Navy Road Cap Is Back, and the Fans Chose It
+
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #0C2340, #C41E3A); color: white; text-align: center;">
+  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade &#183; The Decision</span>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A+</div>
+</div>
+
+<img src="/images/posts/cardinals-uniform-schedule-2026/navy-caps-road.jpg" alt="St. Louis Cardinals navy caps on the road announcement graphic, reading The Fans Have Spoken" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the St. Louis Cardinals</p>
+
+On August 11, 2026, the Cardinals announced they are returning to the navy "StL" cap as their primary road cap, effective immediately, starting with that weekend's series against the Cubs. It covers every remaining road game of the season.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2087266880218128462"></a></blockquote>
+</div>
+
+Here is the part that earns the grade. This was not a marketing decision, it was a vote. St. Louis sent a uniform survey to fans in early August asking them to weigh in on jersey and cap combinations, including whether they preferred navy or red with the road grays. Roughly **15,000 fans responded and about 80 percent chose navy.** The team announced the change a week later.
+
+Eighty percent is not a close call, and a week is not a long deliberation. The Cardinals asked, got a landslide, and acted on it inside the same season rather than filing it away for a future rebrand. More clubs should run this play.
+
+### What Changed, and When
+
+- **1992 to 2012:** the navy cap with the red "StL" was the standard road cap, and effectively the only one.
+- **2013 to 2025:** St. Louis moved to an all-red road cap, and navy got pushed to occasional use, mostly Sunday home games or trips to face other red-capped teams.
+- **August 11, 2026:** navy returns as the primary road cap for all remaining road games, regardless of opponent.
+
+Here is what the road look had been for most of this season, in red, for comparison:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2084726226145493265"></a></blockquote>
+</div>
+
+### Why Navy Is the Right Answer
+
+The gray uniform is built around the birds-on-bat, and the birds-on-bat is built around red. When you put a red cap on top of it, the red at the crown competes with the red in the chest logo, and the whole look flattens into one register. There is no anchor.
+
+Navy solves it by doing what a cap is supposed to do. It gives the eye somewhere dark to land, it frames the red script instead of echoing it, and it pulls the third color of the uniform, the navy already living in the birds-on-bat outline and the sleeve trim, up to the top of the frame. The set reads as three colors doing three jobs rather than two shades of red arguing.
+
+It is also just the more recognizable Cardinals look. The navy cap is what most of the country pictures when they picture this team on the road, which is exactly why 80 percent of the fan base said so.
+
+One thing the announcement did not address: the red cap that pairs with the powder-blue "Victory Blue" alternate on Saturday road games. That is a separate pairing and nothing has been said about changing it.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520navy%2520cap" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #0C2340; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Cardinals navy cap on Fanatics →</a>
 
 ## Powder Blue "Victory Blue" (Saturday Road Games)
 
@@ -204,6 +249,18 @@ The cream alternate is worn for Saturday home games at Busch Stadium, and the po
 **Do the Cardinals wear red jerseys on Saturdays?**
 
 This is a common misconception. The Cardinals' red jersey is the "The Lou" City Connect, and it is worn on Friday home games, not Saturdays. On a home Saturday they wear the cream alternate, and on a road Saturday they wear the powder blue.
+
+**What cap are the Cardinals wearing on the road in 2026?**
+
+The navy "StL" cap. St. Louis announced on August 11, 2026 that navy is the primary road cap again for every remaining road game, after about 80 percent of roughly 15,000 fan survey responses picked it over the all-red cap. The red cap had been the road standard since 2013.
+
+**Why did the Cardinals switch back to navy caps?**
+
+A fan vote. The team sent out a uniform survey in early August 2026 asking fans about jersey and cap combinations, including navy versus red with the road grays. Navy won in a landslide and the Cardinals made the change the following week, starting with the series against the Cubs.
+
+**When did the Cardinals stop wearing red caps on the road?**
+
+August 11, 2026. The all-red road cap had been in use since 2013. Before that, from 1992 through 2012, the navy cap was the standard road cap.
 
 **What cap do the Cardinals wear with the powder blue uniform?**
 
