@@ -32,7 +32,7 @@ Nine home games, eight on the road, and a Week 11 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #FFB612; color: #203731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Rivalries</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -50,29 +50,25 @@ Nine home games, eight on the road, and a Week 11 bye.
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Green Bay has not published a game-by-game uniform schedule, so the grid follows the standard home-and-away rotation. The <strong>new Rivalries uniform is not marked</strong> because its date has not been announced; it will replace one of the green home weeks. The Packers have also carried an all-white alternate in recent seasons with no confirmed 2026 date. We will update this page once the Rivalries uniform is revealed.</p>
 
-## The New Rivalries Uniform (1 Game, Date Not Yet Announced)
+## The New Rivalries Uniform (Week 5 vs. Bears, Confirmed)
 
 The Rivalries program gives a team one bespoke alternate, worn once a season at a home game against a division opponent. The 2025 wave covered the AFC East and NFC West and produced Buffalo's Cold Front and Miami's Dark Water. The 2026 wave brings in the AFC South and the NFC North, so all four of Green Bay, Chicago, Detroit and Minnesota get one.
 
-Packers president Ed Policy has said the design leans on the club's ownership structure, describing a uniform that will "celebrate owners and emphasize our uniqueness." That is the only real clue in circulation. What we can narrow down is the date, because the rules leave only three possibilities, all divisional home games:
+**The date is now confirmed: Week 5 against the Bears, Sunday October 11 at Lambeau Field.** Green Bay teased the set on August 12 and named the debut game with it, which is the call we had projected here, and for the reason we gave: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry.
 
-- **Week 5 vs. Bears, October 11.** The oldest rivalry in the sport, in a daytime October window.
-- **Week 10 vs. Vikings, November 15.** Another marquee divisional date at Lambeau.
-- **Week 18 vs. Lions.** The regular-season finale, date and time still to be set.
-
-Our read is Week 5 against Chicago. A brand-new alternate wants the biggest possible stage, Bears-Packers is the league's marquee rivalry, and a Week 18 finale with a floating kickoff is the worst slot to bet a launch on.
+Packers president Ed Policy has said the design leans on the club's ownership structure, describing a uniform that will "celebrate owners and emphasize our uniqueness." The full look has not been revealed yet. We will grade it the day it drops.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Packers Fans Get Two Rivalries Looks This Year
 
-Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has already confirmed it will debut **its own Rivalries uniform against the Packers on Christmas Day**, which is Week 16 at Soldier Field. So Green Bay is on the field for two different Rivalries debuts in the same season: their own at home, and Chicago's on the road on December 25. No other team has that on its calendar.
+Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has confirmed it will debut **its own Rivalries uniform against the Packers on Christmas Day**, which is Week 16 at Soldier Field, and our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has that side of it. So Green Bay is on the field for two different Rivalries debuts in the same season: their own at home, and Chicago's on the road on December 25. No other team has that on its calendar.
 
 Minnesota's home schedule adds one more confirmed detail. The Vikings have announced they will wear their **classic uniforms against the Packers**, which is Green Bay's Week 1 trip to Minnesota on September 13. So the season opens with the Packers in road whites opposite a throwback.
 
 ## The Green Home Set
 
-The green jersey with gold pants is one of the two or three least-changed uniforms in American sport, and it carries the bulk of the home schedule: Atlanta on a Thursday in Week 3, Chicago in Week 5, Dallas in Week 6, Carolina on a Thursday in Week 8, Minnesota in Week 10, then Buffalo, Miami, Houston and Detroit down the stretch.
+The green jersey with gold pants is one of the two or three least-changed uniforms in American sport, and it carries the bulk of the home schedule: Atlanta on a Thursday in Week 3, Dallas in Week 6, Carolina on a Thursday in Week 8, Minnesota in Week 10, then Buffalo, Miami, Houston and Detroit down the stretch.
 
 There is not much to say about it that has not been said. The dark green and gold combination is unmistakable, the numbers are legible, and the whole thing looks better in bad weather than almost anything else in the league, which is convenient given where it is worn in December.
 
