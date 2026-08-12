@@ -58,6 +58,15 @@ const nextConfig: NextConfig = {
         destination: "/stories/rangers-roof-open-globe-life-field-2026",
         permanent: true,
       },
+      // 8/12: Midnight Navy was published as its own post the morning Denver
+      // announced it, then merged into the full Broncos uniform-schedule post.
+      // Single-uniform posts measured ~0 clicks at position 9-14; the schedule
+      // posts sit at 2-3. One deep URL per team.
+      {
+        source: "/stories/broncos-midnight-navy-2026",
+        destination: "/stories/broncos-uniform-schedule-2026",
+        permanent: true,
+      },
       // Old WordPress URLs -- redirect to homepage
       {
         source: "/wp-content/:path*",

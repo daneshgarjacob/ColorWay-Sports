@@ -76,11 +76,55 @@ There is nothing wrong with the white set. It is well proportioned, the orange t
 
 ## Midnight Navy: The Primetime Play (2 Games)
 
-Week 3 against the Rams on Sunday Night Football, and Week 16 against the Bills on Christmas Day on Netflix.
+<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #0C2340, #132e52); color: white; text-align: center;">
+  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
+  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A-</div>
+</div>
 
-Denver spent both navy games on the two nights the largest possible audience is watching, and that is smart calendar management. We wrote about this set in detail in our [Broncos Midnight Navy breakdown](/stories/broncos-midnight-navy-2026), including the part that is still genuinely undecided: the helmet.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin: 1.5em 0;">
+  <div style="background: #0C2340; border-radius: 12px; padding: 18px 20px; color: #ffffff;">
+    <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.12em; color: #FB4F14;">WEEK 3 · SEPT. 27</div>
+    <div style="font-size: 22px; font-weight: 800; margin-top: 6px; color: #ffffff;">vs. Los Angeles Rams</div>
+    <div style="font-size: 14px; margin-top: 8px; color: #c8d4e6;">6:20 p.m. MT · Sunday Night Football</div>
+    <div style="font-size: 14px; margin-top: 4px; color: #c8d4e6;">Denver's first home SNF game since 2023</div>
+  </div>
+  <div style="background: #0C2340; border-radius: 12px; padding: 18px 20px; color: #ffffff;">
+    <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.12em; color: #FB4F14;">WEEK 16 · DEC. 25</div>
+    <div style="font-size: 22px; font-weight: 800; margin-top: 6px; color: #ffffff;">vs. Buffalo Bills</div>
+    <div style="font-size: 14px; margin-top: 8px; color: #c8d4e6;">2:30 p.m. MT · Christmas Gameday on Netflix</div>
+    <div style="font-size: 14px; margin-top: 4px; color: #c8d4e6;">A rematch of last season's Divisional Round</div>
+  </div>
+</div>
 
-The team has said it will announce the helmet, pant and sock colors ahead of each game. Denver has worn this jersey with the Summit White shell (2024, against the Browns) and with the primary navy shell (2025, against the Bengals), and the announcement graphic showed both. Anyone telling you today which helmet goes with which game is reading a graphic, not a release.
+Denver spent both navy games on the two nights the largest possible audience is watching, and that is smart calendar management. The Rams game is the first home Sunday night game Denver has had since 2023, and the Christmas date is a rematch of a Divisional Round game people are still arguing about. If you are going to break out the second-best thing in the closet, break it out when the audience is biggest.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2087554888943219077"></a></blockquote>
+</div>
+
+<img src="/images/posts/broncos-uniform-schedule-2026/midnight-navy-announcement.jpg" alt="Denver Broncos Midnight Navy 2026 announcement graphic showing Week 3 vs Rams and Week 16 vs Bills" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Denver Broncos</p>
+
+The set works because it is not a costume. Navy is not a color Denver borrowed for a one-off blackout gimmick, it is a color the team wore as its primary from 1997 through 2011, which covers both Super Bowl wins of the John Elway era and most of what a whole generation of fans grew up on. Peyton Manning threw his record-setting 509th career touchdown pass in navy, and the Broncos beat the Packers on Sunday Night Football in navy during the Super Bowl 50 run.
+
+The execution is clean too. The deep navy base, the orange piping, the 5280 helmet bumper and the number treatment all read from distance, and the set avoids the trap most navy alternates fall into, which is going so dark the whole uniform becomes a silhouette on television. The orange is doing real work. We hold it at an A- rather than an A for one reason: the numbers get slightly lost against the navy at speed. That is a legibility problem, not a taste problem.
+
+### The Helmet Is Genuinely Undecided
+
+This is the part worth being precise about, because it is already getting reported wrong.
+
+The announcement graphic shows two players in Midnight Navy, one in a navy helmet and one in a white helmet, and that has been read in a few places as a confirmed split, one helmet per game. It is not. The Broncos' own release says plainly that the team "will announce the corresponding helmet, pant and sock colors ahead of the matchups." Nothing has been assigned to a date.
+
+What the graphic is doing is showing you both options, and both have real precedent:
+
+- **In 2024**, Denver paired the **Summit White helmet** with an all-Midnight Navy uniform and beat the Browns in it.
+- **In 2025**, Denver went the other way, pairing its **primary metallic satin navy helmet** with the same all-blue set against the Bengals.
+
+Denver is 2-0 in Midnight Navy since the Mile High Collection arrived ahead of the 2024 season. Reading the graphic as a schedule is guessing. Reading it as a menu is closer to the truth.
+
+For what it is worth, we think the white helmet is the better of the two. The navy-on-navy version is handsome but it flattens out under stadium lights, and the white shell is what gives the set its contrast and lets the orange do something. If Denver wants the Christmas game to look like an event on Netflix, white is the shell that photographs.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #0C2340; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Broncos navy jersey on Fanatics →</a>
 
 ## The Orange Crush Throwback: Only Twice, and That Is the Problem
 
@@ -142,6 +186,14 @@ Twice. Week 6 against the Seattle Seahawks on Thursday Night Football on October
 
 Week 3 against the Los Angeles Rams on Sunday Night Football on September 27, and Week 16 against the Buffalo Bills on Christmas Day.
 
+**What helmet do the Broncos wear with the Midnight Navy jersey?**
+
+Not announced yet. The Broncos said they will confirm the helmet, pant and sock colors ahead of each game. Denver has worn this jersey with the Summit White helmet in 2024 against the Browns and with the primary metallic satin navy helmet in 2025 against the Bengals, so both are live options, and the announcement graphic shows both.
+
+**Is Midnight Navy a throwback?**
+
+No. It is a modern alternate from the Mile High Collection, introduced ahead of the 2024 season. It references real history, since navy was Denver's primary jersey color from 1997 through 2011, but it is not a reproduction of an old uniform. The Orange Crush set is the actual throwback.
+
 **What are the Broncos wearing on Christmas Day 2026?**
 
 The Midnight Navy jersey, against the Buffalo Bills. The helmet has not been announced.
@@ -156,7 +208,6 @@ Summit White, at Kansas City on Monday, September 14, on ABC.
 
 ## More NFL Coverage
 
-- [Broncos Midnight Navy 2026](/stories/broncos-midnight-navy-2026) — both navy dates, and the open helmet question
 - [Chiefs 2026 Uniform Schedule](/stories/chiefs-uniform-schedule-2026) — the Week 1 and Week 8 opponent, and the smallest closet in the league
 - [Seahawks 2026 Uniform Schedule](/stories/seahawks-uniform-schedule-2026) — the Week 6 throwback opponent
 - [Chargers 2026 Uniform Schedule](/stories/chargers-uniform-schedule-2026) — Denver's Week 5 and Week 18 opponent
