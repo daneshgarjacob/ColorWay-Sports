@@ -133,15 +133,41 @@ For what it is worth, we think the white helmet is the better of the two. The na
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-Week 6 against Seattle on Thursday Night Football, and Week 18 against the Chargers. That is it. Two games.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin: 1.5em 0;">
+  <div style="background: #1b6ac9; border-radius: 12px; padding: 18px 20px; color: #ffffff;">
+    <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.12em; color: #FB4F14;">WEEK 6 · OCT. 15</div>
+    <div style="font-size: 22px; font-weight: 800; margin-top: 6px; color: #ffffff;">vs. Seattle Seahawks</div>
+    <div style="font-size: 14px; margin-top: 8px; color: #dbe7f7;">Thursday Night Football on Prime Video</div>
+    <div style="font-size: 14px; margin-top: 4px; color: #dbe7f7;">A standalone national window</div>
+  </div>
+  <div style="background: #1b6ac9; border-radius: 12px; padding: 18px 20px; color: #ffffff;">
+    <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.12em; color: #FB4F14;">WEEK 18 · JAN. 9 OR 10, 2027</div>
+    <div style="font-size: 22px; font-weight: 800; margin-top: 6px; color: #ffffff;">vs. Los Angeles Chargers</div>
+    <div style="font-size: 14px; margin-top: 8px; color: #dbe7f7;">Empower Field at Mile High · broadcast TBD</div>
+    <div style="font-size: 14px; margin-top: 4px; color: #dbe7f7;">The season finale</div>
+  </div>
+</div>
 
-This is the one real complaint we have with an otherwise well-built schedule. The Orange Crush throwback is the best uniform the Broncos own and one of the best in the league, full stop. The royal blue shell, the striped socks, the whole late-70s package, it is the rare throwback that does not feel like a costume because Denver never stopped being that team in the fan base's head. It grades an A from us and we would not argue with anyone who called it higher.
+Two games. That is it.
+
+Denver announced them separately, and the wording on the second one tells you the team knows exactly how scarce this is. When the Week 18 date dropped, the Broncos posted it as "dusting off the throwbacks one more time."
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2087313452821885277"></a></blockquote>
+</div>
+
+<img src="/images/posts/broncos-uniform-schedule-2026/throwback-week-18-chargers.jpg" alt="Denver Broncos Orange Crush throwback uniform for Week 18 against the Chargers at Empower Field at Mile High" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Denver Broncos</p>
+
+Look at what the set actually is. The royal blue helmet with the white "D", the orange jersey with white numbers outlined in blue, white pants, and the striped socks that nobody else in the league is running. It is a complete late-70s package rather than a modern uniform with a retro logo dropped on it, and it photographs beautifully in daylight at altitude.
+
+This is the one real complaint we have with an otherwise well-built schedule. The Orange Crush throwback is the best uniform the Broncos own and one of the best in the league, full stop. It is the rare throwback that does not feel like a costume, because Denver never stopped being that team in the fan base's head. It grades an A from us and we would not argue with anyone who called it higher.
 
 And it gets the same two games as a modern alternate that was invented in 2024.
 
 We understand the constraint. Teams are capped on alternate games, and Denver used its full allotment of four. But the allocation inside that cap was a choice, and splitting it two-and-two treats the throwback and the Midnight Navy as equals. They are not. If you have four alternate games and one of your alternates is a genuine classic, give it three and give the modern one a single primetime slot. The Christmas game would still have been a great navy showcase on its own.
 
-There is a small consolation. The Week 6 throwback is on Thursday Night Football, so at least one of the two lands in a standalone national window rather than getting buried in the 1 p.m. wall. The Week 18 date against the Chargers is scheduled for January 9 or 10 with the broadcast still to be determined, which means it could end up in a good window or a forgotten one depending on what the season looks like by then.
+There is a small consolation. The Week 6 throwback is on Thursday Night Football, so at least one of the two lands in a standalone national window rather than getting buried in the 1 p.m. wall. The Week 18 date against the Chargers is scheduled for January 9 or 10, 2027, with the broadcast still to be determined, which means it could end up in a good window or a forgotten one depending on what the season looks like by then.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #1b6ac9; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Broncos throwback jersey on Fanatics →</a>
 
@@ -180,7 +206,7 @@ Look up the week number in the schedule above. Denver announced every jersey for
 
 **When do the Broncos wear the throwback uniform in 2026?**
 
-Twice. Week 6 against the Seattle Seahawks on Thursday Night Football on October 15, and Week 18 against the Los Angeles Chargers on January 9 or 10.
+Twice. Week 6 against the Seattle Seahawks on Thursday Night Football on October 15, and Week 18 against the Los Angeles Chargers at Empower Field on January 9 or 10, 2027.
 
 **When do the Broncos wear the Midnight Navy uniform in 2026?**
 
