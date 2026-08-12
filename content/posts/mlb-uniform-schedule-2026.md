@@ -2,7 +2,7 @@
 title: "MLB Uniform Schedule 2026: What Every Team Wears and When (All 30 Teams)"
 category: "MLB"
 date: "2026-07-06"
-updatedDate: "2026-08-03"
+updatedDate: "2026-08-12"
 excerpt: "The full 2026 MLB uniform guide: how many jerseys all 30 teams have, which days they wear each one, and the four clubs that run a true schedule."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 coverImage: "/images/posts/mlb-uniform-schedule-2026-cover.jpg"
@@ -257,6 +257,18 @@ The single biggest reason so many teams have drifted from "no system" to "partia
 
 **What jersey is my MLB team wearing today?**
 Start with three questions: is the team home or away, is it a day game or a night game, and what day of the week is it. Almost every road game is the gray road uniform. At home, the day of the week is your best clue, because most teams lock a City Connect or alternate to a specific weeknight, usually Friday. Only the Phillies, Marlins, Cardinals, and Yankees run a full weekly schedule you can predict every day. For the rest, pick your team from the tables above and open its full 2026 uniform schedule for the exact day-by-day logic.
+
+**What jersey did my MLB team wear last night?**
+
+For the uniform we logged in a team's most recent game, open its page in the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026), which we update every morning. The tables above are the season plan, and the tracker is the record of what actually went on the field.
+
+**What uniform is my MLB team wearing tonight?**
+
+Same three questions as above: home or away, day or night, and what day of the week it is. Road games are almost always the gray set. At home, weeknights are where the City Connects and alternates live, most often Friday. Pick your team from the tables above for the exact logic.
+
+**What is my MLB team wearing tomorrow?**
+
+Look up the day of the week in your team's schedule. Friday is the single most predictable day in baseball, since most clubs anchor a City Connect or an alternate to it, and Sunday is the next most predictable. The four clubs with a full weekly rotation are the Phillies, Marlins, Cardinals and Yankees.
 
 **Which MLB teams have a set uniform schedule?**
 Four: the Philadelphia Phillies, Miami Marlins, St. Louis Cardinals, and New York Yankees. For these clubs, the day of the week reliably tells you the jersey. Every other team locks one or two anchor days, most often a City Connect Friday, and leaves the remaining games to the club's discretion.
