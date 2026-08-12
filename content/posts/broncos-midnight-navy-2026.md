@@ -141,6 +141,7 @@ No. It is a modern alternate from the Mile High Collection, introduced ahead of 
 
 ## More NFL Coverage
 
+- [Denver Broncos 2026 Uniform Schedule](/stories/broncos-uniform-schedule-2026) — all 17 games, every jersey, week by week
 - [Rams 2026 Uniform Schedule](/stories/rams-uniform-schedule-2026) — the Week 3 opponent's full jersey calendar
 - [Bills 2026 Uniform Schedule](/stories/bills-uniform-schedule-2026) — the Christmas Day opponent, and the busiest home closet in the league
 - [Seahawks 2026 Uniform Schedule](/stories/seahawks-uniform-schedule-2026) — Denver's Week 6 throwback opponent
