@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -105,6 +105,22 @@ Miami runs a simple system with two exceptions carved out of December. Aqua at h
 The interesting thing about 2026 is that both exceptions land in the final month, so the season back-loads all of its visual variety. It also means Miami wears a non-aqua jersey at home twice in four weeks, which for a team whose entire brand identity is that one color is a slightly strange way to finish. Give us the white throwback twice and the blackout never, and this becomes one of the better-dressed schedules in the AFC.
 
 ## Frequently Asked Questions
+
+**What jersey are the Dolphins wearing today?**
+
+Aqua at home and white on the road, with two confirmed exceptions. The white throwback comes out in Week 14 against Chicago, and the Dark Water Rivalries set gets Week 17 against Buffalo. Both are home games at Hard Rock Stadium.
+
+**What jerseys are the Dolphins wearing this week?**
+
+Aqua at home and white on the road, with two confirmed exceptions. The white throwback comes out in Week 14 against Chicago, and the Dark Water Rivalries set gets Week 17 against Buffalo. Both are home games at Hard Rock Stadium.
+
+**What uniform did the Dolphins wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Dolphins wearing next week?**
+
+Aqua in Miami and white on the trip, unless it is Week 14 or Week 17, which are the two confirmed alternate dates.
 
 **When do the Dolphins wear their throwback uniform in 2026?**
 Once, at home in Week 14 against the Chicago Bears on Sunday, December 13. It is the white 1966 set with the leaping dolphin helmet logo, the uniform Miami wore through the 1973 championship season.

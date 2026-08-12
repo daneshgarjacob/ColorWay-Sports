@@ -2,7 +2,7 @@
 title: "Los Angeles Chargers 2026 Uniform Schedule: When They Wear the Super Chargers Navy and Charger Power Gold"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Chargers' 2026 uniform schedule: four confirmed jersey games, including three Super Chargers navy nights and a gold Charger Power road game against Tampa Bay."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -107,6 +107,22 @@ Four alternates in one season is a lot, and the Chargers can do it because their
 The pattern across the year is worth noticing too. The first eight weeks are entirely base uniforms, then the alternates land in a cluster from Week 9 through Week 17. That keeps the powder blue from feeling like a rerun and puts the best-looking sets in the part of the season people actually watch.
 
 ## Frequently Asked Questions
+
+**What jersey are the Chargers wearing today?**
+
+Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+
+**What jerseys are the Chargers wearing this week?**
+
+Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+
+**What uniform did the Chargers wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Chargers wearing next week?**
+
+Powder blue at home and white away, unless the week lands on one of the four confirmed alternate dates in the grid above.
 
 **When do the Chargers wear the Super Chargers navy uniform in 2026?**
 Three times, all at SoFi Stadium: Week 9 against the Houston Texans on Sunday, November 8, Week 12 against the New England Patriots on Sunday, November 29 on Sunday Night Football, and Week 17 against the Kansas City Chiefs, whose kickoff time has not been set.

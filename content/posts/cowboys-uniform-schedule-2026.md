@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: When the Thanksgiving Throwback and the Navy Jersey Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Cowboys 2026 uniform schedule: white nearly every week, the rare navy jersey, and the Thanksgiving throwback that has owned the holiday for four straight years."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -89,6 +89,22 @@ The Eagles have not announced their 2026 Kelly Green dates, and our [Eagles 2026
 Dallas added an all-white helmet combination on Christmas Day 2025, pairing the Arctic White shell with the navy jersey and white pants. It is a separate look from the Thanksgiving throwback, which uses a different white helmet with the classic stripe. No 2026 date has been announced. If the club brings it back, a nationally televised December game is the natural slot, which points at Week 15 at the Rams or Week 16 against Jacksonville.
 
 ## Frequently Asked Questions
+
+**What jersey are the Cowboys wearing today?**
+
+White, almost certainly. Dallas wears white at home by choice and ends up in white on the road too, because the home team picks first and nearly every host takes its dark jersey. The one date on the calendar that changes is Thanksgiving, Week 12 against the Eagles on November 26, which we project as the 1960s throwback. Three or so games will end up navy and those dates have not been announced.
+
+**What jerseys are the Cowboys wearing this week?**
+
+White, almost certainly. Dallas wears white at home by choice and ends up in white on the road too, because the home team picks first and nearly every host takes its dark jersey. The one date on the calendar that changes is Thanksgiving, Week 12 against the Eagles on November 26, which we project as the 1960s throwback. Three or so games will end up navy and those dates have not been announced.
+
+**What uniform did the Cowboys wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Cowboys wearing next week?**
+
+White unless it is Thanksgiving. Dallas has not released a game-by-game schedule for 2026, so the week-by-week grid above is our projection, and the handful of navy dates are still unknown.
 
 **Why do the Cowboys wear white at home?**
 It is a Dallas tradition going back decades. Most NFL teams wear their coloured jersey at home and white on the road, and the Cowboys do the opposite.

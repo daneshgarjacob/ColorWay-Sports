@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -79,6 +79,22 @@ For a team that has spent the last several seasons as the most-watched franchise
 If that ever changes, it will most likely arrive through the Rivalries program, which is expanding by division and has not yet reached the AFC West. We will update this page the day it does.
 
 ## Frequently Asked Questions
+
+**What jersey are the Chiefs wearing today?**
+
+Red if Kansas City is at Arrowhead, white if they are on the road. That really is the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+
+**What jerseys are the Chiefs wearing this week?**
+
+Red if Kansas City is at Arrowhead, white if they are on the road. That really is the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+
+**What uniform did the Chiefs wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Chiefs wearing next week?**
+
+Red at home, white on the road. Eight home games in red, nine road games in white, and no alternates to complicate it.
 
 **What uniform do the Chiefs wear at home in 2026?**
 The red jersey with white pants and the red helmet, for all eight home games. Kansas City has no home alternate.

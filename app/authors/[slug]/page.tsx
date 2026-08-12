@@ -43,21 +43,26 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
   // the resolved author rather than the raw frontmatter string.
   const posts = getAllPostsByDate().filter((p) => getAuthor(p.author).slug === author.slug);
 
+  // The subject node is inlined rather than referenced by @id. A bare
+  // { "@id": ... } reference carries no @type, and Google reports it as
+  // "Invalid object type for field mainEntity" instead of resolving it
+  // against the @graph — so ProfilePage gets dropped entirely.
+  const subject = {
+    "@id": `${authorUrl(author)}#${author.type === "Person" ? "person" : "organization"}`,
+    ...authorSchema(author),
+    mainEntityOfPage: { "@type": "WebPage", "@id": authorUrl(author) },
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        ...authorSchema(author),
-        mainEntityOfPage: { "@type": "WebPage", "@id": authorUrl(author) },
-      },
-      {
-        // ProfilePage describes a person's profile; a desk credit is just a
-        // collection of the pages it maintains.
-        "@type": author.type === "Person" ? "ProfilePage" : "CollectionPage",
-        mainEntity: { "@id": authorUrl(author) },
-        url: authorUrl(author),
-      },
-    ],
+    // ProfilePage describes a person's profile; a desk credit is just a
+    // collection of the pages it maintains. ProfilePage requires mainEntity;
+    // CollectionPage takes `about`, which does not accept a Person/Organization
+    // under mainEntity's stricter rules.
+    ...(author.type === "Person"
+      ? { "@type": "ProfilePage", mainEntity: subject }
+      : { "@type": "CollectionPage", about: subject }),
+    url: authorUrl(author),
   };
 
   const initials = author.name

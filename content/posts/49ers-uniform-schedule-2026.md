@@ -2,7 +2,7 @@
 title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -68,6 +68,22 @@ The 49ers wear their standard scarlet and white for most of the season, includin
 The 49ers' 2026 wardrobe is carried entirely by the 1994 throwbacks, three chances to see one of the best looks the sport has ever produced, including two in primetime. The black Rivalries returning for Week 14 against the Rams is the one sour note, a good black uniform on a team that has no business wearing black. Wear the throwbacks, frame the scarlet, and leave the blackout to the teams that actually need it.
 
 ## Frequently Asked Questions
+
+**What jersey are the 49ers wearing today?**
+
+Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+
+**What jerseys are the 49ers wearing this week?**
+
+Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+
+**What uniform did the 49ers wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the 49ers wearing next week?**
+
+Scarlet at Levi's or white on the road, unless the week is one of the four special dates above.
 
 **When do the 49ers wear the 1994 throwbacks in 2026?**
 

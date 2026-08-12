@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words
@@ -91,6 +91,22 @@ Green Bay has run an all-white alternate for the last couple of seasons, and has
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the all-white alternate on Fanatics →</a>
 
 ## Frequently Asked Questions
+
+**What jersey are the Packers wearing today?**
+
+Green at Lambeau and white on the road. Green Bay also has a new Rivalries uniform coming for one game and an all-white alternate in the closet, but neither date has been announced yet, so the week-by-week grid above is the base rotation.
+
+**What jerseys are the Packers wearing this week?**
+
+Green at Lambeau and white on the road. Green Bay also has a new Rivalries uniform coming for one game and an all-white alternate in the closet, but neither date has been announced yet, so the week-by-week grid above is the base rotation.
+
+**What uniform did the Packers wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Packers wearing next week?**
+
+Green at home, white on the road. The one Rivalries date is still unannounced.
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
 The date has not been announced. Rivalries uniforms are worn once a season at a home game against a division opponent, which leaves three possibilities for Green Bay: Week 5 against the Bears on October 11, Week 10 against the Vikings on November 15, or the Week 18 finale against the Lions.

@@ -3,7 +3,7 @@ title: "Los Angeles Rams 2026 Uniform Schedule: When They Wear Classic Sol, Fear
 category: NFL
 date: "2026-07-24"
 topViewsRank: 6
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Rams' 2026 uniform schedule: the confirmed Classic Sol and Fearsome White alternate dates, plus a week-by-week outlook for the royal, white, and Midnight Mode looks."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -102,6 +102,22 @@ The all-black Midnight Mode is the Rams' entry in the NFL Rivalries program, and
 The system is straightforward: royal blue at home, white on the road, and the two new alternates saved for three showcase home games. Classic Sol takes two prime-time dates, Fearsome White gets its holiday-week showcase, and Midnight Mode waits for its rivalry slot. The only moving parts are the pants and the exact combinations, which the equipment staff decides the week of each game, so the jersey schedule tells you most of the story but not every detail. For the grades on all five looks, read our [Rams new alternate jerseys 2026 breakdown](/stories/rams-leaked-alternate-jerseys-2026).
 
 ## Frequently Asked Questions
+
+**What jersey are the Rams wearing today?**
+
+Royal at home and white on the road, with three confirmed alternate dates. Classic Sol, the gold set, comes out in Week 2 against the Giants and Week 13 against Kansas City, and Fearsome White gets Week 12 against Green Bay. The Midnight Mode Rivalries jersey has no announced date yet.
+
+**What jerseys are the Rams wearing this week?**
+
+Royal at home and white on the road, with three confirmed alternate dates. Classic Sol, the gold set, comes out in Week 2 against the Giants and Week 13 against Kansas City, and Fearsome White gets Week 12 against Green Bay. The Midnight Mode Rivalries jersey has no announced date yet.
+
+**What uniform did the Rams wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Rams wearing next week?**
+
+Royal at SoFi and white on the road, unless the week is one of the three confirmed alternate games in the grid above.
 
 **When do the Rams wear the Classic Sol jersey in 2026?**
 Twice, both at home and both in prime time: Week 2 against the New York Giants on Monday, September 21, and Week 13 against the Kansas City Chiefs on Thursday, December 3. Classic Sol is the gold throwback that honors the 1951 World Champions Rams.

@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -145,6 +145,22 @@ The logic is clean. The Classic throwback opens the season on a date that deserv
 The Vikings did the thing more teams should do: they published a jersey for every home game instead of teasing one at a time. Three real uniform changes anchor the slate, the Classic against Green Bay in Week 1, the new Rivalries jersey against Detroit in Week 15, and the Winter Warrior whiteout against Washington in Week 16, with the all-purple combo against the Colts as the fourth look worth circling. The rest is the purple-and-white primary paired with the league's usual game-day causes. The one thing still missing is the Rivalries design itself, and if the reported August 25 unveil holds, that gap closes in three weeks.
 
 ## Frequently Asked Questions
+
+**What jersey are the Vikings wearing today?**
+
+Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 is the Classic throwback, Week 7 is the all-purple set, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white, and every road game is the white set.
+
+**What jerseys are the Vikings wearing this week?**
+
+Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 is the Classic throwback, Week 7 is the all-purple set, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white, and every road game is the white set.
+
+**What uniform did the Vikings wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Vikings wearing next week?**
+
+Check the grid above. Five different home looks are confirmed for 2026, so the week decides it. Road games are always white.
 
 **What uniform do the Vikings wear against the Packers in 2026?**
 

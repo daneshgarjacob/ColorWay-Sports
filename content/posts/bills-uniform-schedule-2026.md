@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Bills confirmed every 2026 home uniform: two Nickel City games, Cold Front against Miami, and a red alternate finale. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
@@ -120,6 +120,22 @@ Ahead of the uniform schedule, both a FanDuel report and WKBW's Matt Bove indica
 The system is unusually clean for a team with this many looks. Blue at home for the marquee dates, white on the road, and three different alternates each given a specific job: Nickel City twice as the new-uniform showcase, Cold Front once for Salute to Service against Miami, red once to close the year. Nothing is wasted and nothing is over-worn, which is more than most teams manage. The only real gripe is that the best uniform in the building gets the fewest snaps.
 
 ## Frequently Asked Questions
+
+**What jersey are the Bills wearing today?**
+
+Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+
+**What jerseys are the Bills wearing this week?**
+
+Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+
+**What uniform did the Bills wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Bills wearing next week?**
+
+Check the grid above rather than guessing, because Buffalo confirmed its home schedule and it rotates four different looks. Every road week is white.
 
 **When do the Bills wear the Nickel City uniform in 2026?**
 Twice, both at home: Week 3 against the Los Angeles Chargers on Sunday, September 27, and Week 15 against the Chicago Bears on Saturday, December 19. Nickel City is the all-gray jersey and pant set worn with the blue "Charge" helmet.

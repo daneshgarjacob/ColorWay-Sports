@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Jaguars' 2026 uniform schedule: the confirmed Rivalries jersey date against the Colts, two London home games, and a week-by-week look at the teal and white sets."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -102,6 +102,22 @@ Jacksonville runs the simplest system in the division. Teal at home, white on th
 That is the criticism. Jacksonville owns two of the better assets in the league, the teal and the Prowler throwback, and it is heading into a season with two showcase games in London and a brand-new Rivalries uniform without a published plan for any of it. The uniforms are good. The staging is not.
 
 ## Frequently Asked Questions
+
+**What jersey are the Jaguars wearing today?**
+
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas could go either way because the Cowboys wear white at home.
+
+**What jerseys are the Jaguars wearing this week?**
+
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas could go either way because the Cowboys wear white at home.
+
+**What uniform did the Jaguars wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Jaguars wearing next week?**
+
+Teal if Jacksonville is the home team, including the two London games, and white otherwise.
 
 **When do the Jaguars wear their Rivalries uniform in 2026?**
 Once, at home in Week 8 against the Indianapolis Colts on Sunday, November 1. Jacksonville is in the 2026 Rivalries wave with the rest of the AFC South, and the design has not been unveiled yet.

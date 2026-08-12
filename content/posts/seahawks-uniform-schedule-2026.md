@@ -2,7 +2,7 @@
 title: "Seattle Seahawks 2026 Uniform Schedule: When They Wear the Royal Blue Throwback and Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -112,6 +112,22 @@ Seattle got the sequencing right in a way most teams do not. Navy carries the or
 The one thing missing is the action green alternate, which has no date. We are not going to complain about that. Between the royal blue throwback getting two nights and the Rivalries set getting Christmas, Seattle has already spent its non-navy games on the two best uniforms it owns, and a team with nine home dates and three showcase jerseys is running a deeper schedule than almost anyone.
 
 ## Frequently Asked Questions
+
+**What jersey are the Seahawks wearing today?**
+
+College Navy at home and white on the road, with three confirmed exceptions. The royal blue throwback comes out twice, Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform gets Week 16 against the Rams on Christmas Day.
+
+**What jerseys are the Seahawks wearing this week?**
+
+College Navy at home and white on the road, with three confirmed exceptions. The royal blue throwback comes out twice, Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform gets Week 16 against the Rams on Christmas Day.
+
+**What uniform did the Seahawks wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Seahawks wearing next week?**
+
+College Navy at Lumen Field and white on the road, unless the week is one of the three confirmed alternate dates.
 
 **When do the Seahawks wear the royal blue throwback in 2026?**
 Twice, both at home and both in primetime: Week 7 against the Kansas City Chiefs on Sunday, October 25 on Sunday Night Football, and Week 13 against the Dallas Cowboys on Monday, December 7 on Monday Night Football.

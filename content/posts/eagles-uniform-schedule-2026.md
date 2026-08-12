@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: When Kelly Green and the Black Alternate Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Eagles 2026 uniform schedule: midnight green at home, white on the road, and the Kelly Green games worth planning around once the dates land."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -89,6 +89,22 @@ White jersey, midnight green pants or white pants depending on the week, for all
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## Frequently Asked Questions
+
+**What jersey are the Eagles wearing today?**
+
+Midnight green at home and white on the road covers most of the season. Philadelphia is also expected to wear Kelly Green about three times and the black alternate about once, but the team has not announced those dates yet. Kelly Green can only come out in a week the opponent is wearing white.
+
+**What jerseys are the Eagles wearing this week?**
+
+Midnight green at home and white on the road covers most of the season. Philadelphia is also expected to wear Kelly Green about three times and the black alternate about once, but the team has not announced those dates yet. Kelly Green can only come out in a week the opponent is wearing white.
+
+**What uniform did the Eagles wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Eagles wearing next week?**
+
+Midnight green at the Linc and white on the road. The Kelly Green and black alternate dates are still unannounced, so the grid above is the base rotation.
 
 **When do the Eagles wear Kelly Green in 2026?**
 Philadelphia has not announced the 2026 dates yet. The Eagles have worn Kelly Green three times a season since bringing it back in 2023, and in 2025 all three were NFC East games, including a road game at Dallas. Our read for 2026 is the Thanksgiving game at Dallas on November 26, the Week 7 Monday-night home game against Dallas, and the Week 9 home game against the Giants.

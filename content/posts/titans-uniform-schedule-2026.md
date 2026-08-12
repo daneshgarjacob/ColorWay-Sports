@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: When They Wear the Brand-New Blue and White Sets"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus what we know about the Rivalries uniform still to be unveiled."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -103,6 +103,22 @@ There is not much of a rotation, and that is the point. Two uniforms, one white 
 We think that is the right way to introduce a rebrand. Wear the new thing every week until people know it, then add to it. The risk is that the Titans are also the only team in the league with a brand-new set and no plan to showcase it, no announced theme games, no schedule graphic, nothing. A first season in new uniforms is free attention, and right now Tennessee is the only club not spending it.
 
 ## Frequently Asked Questions
+
+**What jersey are the Titans wearing today?**
+
+Titans Blue at home and white on the road in the new uniform set. Two weeks are unsettled: Week 10 against Jacksonville is the likely slot for the Rivalries jersey, which has not been revealed, and Week 11 at Dallas could go either way because the Cowboys wear white at home.
+
+**What jerseys are the Titans wearing this week?**
+
+Titans Blue at home and white on the road in the new uniform set. Two weeks are unsettled: Week 10 against Jacksonville is the likely slot for the Rivalries jersey, which has not been revealed, and Week 11 at Dallas could go either way because the Cowboys wear white at home.
+
+**What uniform did the Titans wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Titans wearing next week?**
+
+Titans Blue at Nissan Stadium and white on the road, with Week 10 and Week 11 the two dates still in question.
 
 **What are the new Titans uniforms for 2026?**
 Two uniforms. At home, a Titans blue jersey with "TITANS" across the chest, worn with white or light blue pants. On the road, a white jersey with "TENNESSEE" across the chest in light blue, worn with light blue or white pants. Both use a white helmet with a white facemask and a light blue and red stripe. It is Tennessee's first uniform change since 2018.

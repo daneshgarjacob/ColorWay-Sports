@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of Houston's new Rivalries jersey."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -114,6 +114,22 @@ Houston's system is three jerseys and a plan. Navy is the default at home, white
 What we like about it is the spacing. Weeks 1, 7, and 11 are far enough apart that each one lands as an event, and none of them competes with another. What we would change is the balance. Battle Red gets one date and navy gets five, and that ratio is backwards for a team whose red uniform is the one people actually want to see.
 
 ## Frequently Asked Questions
+
+**What jersey are the Texans wearing today?**
+
+Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+
+**What jerseys are the Texans wearing this week?**
+
+Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+
+**What uniform did the Texans wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Texans wearing next week?**
+
+Deep Steel Blue at NRG and white on the road, unless the week is one of the three confirmed alternate games above.
 
 **When do the Texans wear Battle Red in 2026?**
 Once, at home in Week 7 against the New York Giants on Sunday, October 25. It is the Battle Red Game, and fans are asked to wear red to match the team.

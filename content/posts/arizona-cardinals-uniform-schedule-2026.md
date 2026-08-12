@@ -2,7 +2,7 @@
 title: "Arizona Cardinals 2026 Uniform Schedule: When They Wear the Desert Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Cardinals' 2026 uniform schedule: the confirmed Rivalries jersey date against Seattle, plus a week-by-week look at the cardinal red and white sets."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -94,6 +94,22 @@ Arizona's system is red at home, white on the road, and one Rivalries game in Se
 The Rivalries set is the best uniform Arizona owns and it gets one wearing. The black alternate gets none, which we are fine with. What we would like to see is the desert uniform treated as a recurring look rather than a one-off, because it does something the base set cannot: it makes the Cardinals look like a team from a specific place. Nine home games is a lot of red.
 
 ## Frequently Asked Questions
+
+**What jersey are the Cardinals wearing today?**
+
+Cardinal red at home and white on the road, with two exceptions. Week 2 against Seattle is the desert Rivalries jersey, which is confirmed, and Week 8 at Dallas could go either way because the Cowboys wear white at home. Check whether Arizona is home or away in the grid above and you have the answer for every other week.
+
+**What jerseys are the Cardinals wearing this week?**
+
+Cardinal red at home and white on the road, with two exceptions. Week 2 against Seattle is the desert Rivalries jersey, which is confirmed, and Week 8 at Dallas could go either way because the Cowboys wear white at home. Check whether Arizona is home or away in the grid above and you have the answer for every other week.
+
+**What uniform did the Cardinals wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Cardinals wearing next week?**
+
+Cardinal red if the Cardinals are at State Farm Stadium, white if they are travelling. The only scheduled exception left is the Rivalries jersey in Week 2 against the Seahawks.
 
 **When do the Cardinals wear the Rivalries uniform in 2026?**
 Once, at home in Week 2 against the Seattle Seahawks on Sunday, September 20, as part of the team's Hispanic Heritage game. Arizona debuted the desert-themed set in the program's first wave with the rest of the NFC West.

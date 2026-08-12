@@ -2,7 +2,7 @@
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -108,6 +108,22 @@ The system is simple once you see the three anchors. Green at home, white on the
 What makes 2026 different from most Jets seasons is the helmet. Between the green shell, the new all-white shell, and the throwback white with green striping, they now have real variety up top, which is where uniform programs usually run out of room. The rest is pants and combinations, decided the week of each game.
 
 ## Frequently Asked Questions
+
+**What jersey are the Jets wearing today?**
+
+Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey.
+
+**What jerseys are the Jets wearing this week?**
+
+Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey.
+
+**What uniform did the Jets wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Jets wearing next week?**
+
+Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above.
 
 **When do the Jets wear the White Out uniform in 2026?**
 Once, at home in Week 2 against the Green Bay Packers on Sunday, September 20. It pairs a new all-white helmet, a white shell with a white facemask, with a white uniform for a full monochrome look. It is the first time the Jets have worn white helmets with their primary white set.

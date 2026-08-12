@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -82,6 +82,22 @@ For the wider context on how this closet came together, see our [Commanders new 
 
 ## Frequently Asked Questions
 
+**What jersey are the Commanders wearing today?**
+
+Burgundy is the most likely answer, since Washington wears it nine times including two road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+
+**What jerseys are the Commanders wearing this week?**
+
+Burgundy is the most likely answer, since Washington wears it nine times including two road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+
+**What uniform did the Commanders wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Commanders wearing next week?**
+
+Burgundy more often than not. Check the grid above, because Washington wears burgundy on a few road trips too, which is where most guesses go wrong.
+
 **What is the Washington Commanders' primary jersey in 2026?**
 The white jersey is the Commanders' primary look for 2026. After appearing only three times as an alternate in 2025, the whites are now the team's most-featured everyday uniform and are worn six times, mostly on the road, starting Week 1 in Philadelphia.
 
@@ -99,9 +115,6 @@ Three: the white jersey (now the primary), the burgundy heritage jersey, and the
 
 **What pants do the Commanders wear with each jersey?**
 Washington has said pants colors are not locked in for 2026 and will be decided the week of each game. That means the burgundy and white jerseys can pair with different pant colors across the season, so the exact combinations are set game to game even though the jersey assignments are fixed.
-
-**What jersey are the Commanders wearing this week?**
-Check the week number against the schedule above. Burgundy covers most division and prime-time games, white handles the everyday and road slate, and the black Hail Raiser appears only in Week 11 and Week 15 at home.
 
 ## More NFL Coverage
 

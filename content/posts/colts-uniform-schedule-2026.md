@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The New 'Rivalries' Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-12"
 excerpt: "The Colts' 2026 alternate schedule is out: the new Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -63,6 +63,22 @@ Here is the Indiana Nights set up close, so you can see the black helmet and the
 The Colts' 2026 alternate schedule is well built: a new Rivalries jersey debuting in Week 3 against the Texans, the clean White Out for the Cowboys in Week 9, and the excellent Indiana Nights closing things out against the Bengals in Week 16. Three home games, three distinct looks, no overlap. We will add our full grade on the Rivalries uniform as soon as it is unveiled.
 
 ## Frequently Asked Questions
+
+**What jersey are the Colts wearing today?**
+
+Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road.
+
+**What jerseys are the Colts wearing this week?**
+
+Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road.
+
+**What uniform did the Colts wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Colts wearing next week?**
+
+The standard royal blue at home or white on the road, unless the week is one of the three alternate dates above.
 
 **When do the Colts wear alternate uniforms in 2026?**
 

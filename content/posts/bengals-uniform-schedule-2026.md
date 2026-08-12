@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals 2026 Uniform Schedule: When They Wear the White Bengal and Open In Orange"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-11"
+updatedDate: "2026-08-12"
 excerpt: "The Bengals' 2026 uniform schedule: confirmed dates for the all-white White Bengal jersey and the Open In Orange opener, plus a week-by-week look at the black and white sets."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover.jpg"
@@ -110,6 +110,22 @@ The system is unusual and it is worth understanding, because Cincinnati is delib
 The rest is simple. Orange helmet for the opener, black at home for five games, white on the road for nine, and the two White Bengal nights carved out of the middle and the end. Three helmet shells in one season, black, orange, and white, is more variety up top than most of the league gets, and Cincinnati earned that by designing a stripe that works on all three.
 
 ## Frequently Asked Questions
+
+**What jersey are the Bengals wearing today?**
+
+Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay is Open In Orange, and the White Bengal comes out at home twice, Week 10 against Pittsburgh and Week 17 against Baltimore. All three are confirmed.
+
+**What jerseys are the Bengals wearing this week?**
+
+Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay is Open In Orange, and the White Bengal comes out at home twice, Week 10 against Pittsburgh and Week 17 against Baltimore. All three are confirmed.
+
+**What uniform did the Bengals wear last week?**
+
+For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+
+**What are the Bengals wearing next week?**
+
+Black at Paycor Stadium and white on the trip, unless it is one of the three confirmed dates: Open In Orange in Week 1, or the White Bengal in Week 10 and Week 17.
 
 **When do the Bengals wear the White Bengal uniform in 2026?**
 Twice, both at home. Week 10 against the Pittsburgh Steelers on Sunday, November 15 at 8:20 p.m. on Sunday Night Football, and Week 17 against the Baltimore Ravens on Thursday, December 31 at 8:15 p.m. The Week 17 game is the New Year's Eve White Bengal Stripe event.
