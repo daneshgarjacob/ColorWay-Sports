@@ -45,6 +45,38 @@ const TEAMS = {
     // The new primary mark is light blue on light blue, so it needs the disc.
     disc: true,
   },
+  texans: {
+    slug: 'texans-uniform-schedule-2026',
+    logo: 'nfl-houston-texans',
+    eyebrow: 'HOUSTON TEXANS',
+    looks: ['LIBERTY WHITE', 'BATTLE RED', 'RIVALRIES'],
+    base: '#12405c', mid: '#0a2a3d', deep: '#03202F', accent: '#dce8ef',
+    disc: true,
+  },
+  jaguars: {
+    slug: 'jaguars-uniform-schedule-2026',
+    logo: 'nfl-jacksonville-jaguars',
+    eyebrow: 'JACKSONVILLE JAGUARS',
+    looks: ['TEAL', 'RIVALRIES'],
+    base: '#006778', mid: '#00404d', deep: '#101820', accent: '#D7A22A',
+    disc: true,
+  },
+  cardinals: {
+    slug: 'arizona-cardinals-uniform-schedule-2026',
+    logo: 'nfl-arizona-cardinals',
+    eyebrow: 'ARIZONA CARDINALS',
+    looks: ['CARDINAL RED', 'RIVALRY JERSEYS'],
+    base: '#97233F', mid: '#5e1628', deep: '#141414', accent: '#FFB612',
+    disc: true,
+  },
+  seahawks: {
+    slug: 'seahawks-uniform-schedule-2026',
+    logo: 'nfl-seattle-seahawks',
+    eyebrow: 'SEATTLE SEAHAWKS',
+    looks: ['ROYAL BLUE THROWBACK', 'RIVALRIES'],
+    base: '#0b3a6b', mid: '#002244', deep: '#000d1c', accent: '#69BE28',
+    disc: false,
+  },
 };
 
 async function build(key) {

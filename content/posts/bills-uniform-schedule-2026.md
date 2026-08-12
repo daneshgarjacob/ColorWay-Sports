@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-11"
 excerpt: "The Bills confirmed every 2026 home uniform: two Nickel City games, Cold Front against Miami, and a red alternate finale. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
@@ -48,10 +48,10 @@ All eight home games, straight from the team. This is the part nobody has to gue
 
 ## The Full 2026 Bills Uniform Schedule, Week by Week
 
-Home games carry the confirmed jersey. Road games follow the white road set, which is the standard away look. Week 7 is the bye.
+Home games carry the confirmed jersey. Road games follow the white road set, with one exception: Houston is wearing white at home in Week 1, so Buffalo opens the season in a colored jersey. Week 7 is the bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #00338D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #00338D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue Primary</div></div>
   <div style="background: #9EA2A2; color: #14223f; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Nickel City</div></div>
   <div style="background: #00338D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue Primary</div></div>
@@ -71,7 +71,7 @@ Home games carry the confirmed jersey. Road games follow the white road set, whi
   <div style="background: #C60C30; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jets</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Red Alternate</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid can and cannot promise: every ★ is <strong>officially confirmed by the Bills</strong>, and that covers all eight home games. The nine road games are the white road set, which is the standard away look but has not been announced week by week. Pant colors and the exact combinations are an equipment-staff call the week of each game, and the Week 18 date against the Jets has not been scheduled yet.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid can and cannot promise: every ★ is <strong>officially confirmed by the Bills</strong>, and that covers all eight home games. Eight of the nine road games are the white road set, which is the standard away look but has not been announced week by week. The ninth is the Week 1 opener at Houston, where the Texans have confirmed their Liberty White uniforms, and since two teams cannot both wear white, Buffalo will be in color. Pant colors and the exact combinations are an equipment-staff call the week of each game, and the Week 18 date against the Jets has not been scheduled yet.</p>
 
 ## Nickel City (Gray Alternate, 2 Games, Confirmed)
 
@@ -101,9 +101,11 @@ The blue jersey remains the base, and it draws the four biggest non-alternate ho
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue primary jersey on Fanatics →</a>
 
-## The White Road Set (9 Games, Expected)
+## The White Road Set (8 Games, Expected)
 
-The white road jersey is the workhorse, projecting to all nine away games: at the Texans, Rams, Raiders, Vikings, Jets, Patriots, Packers, Broncos, and Dolphins. The Bills have not published a road-by-road jersey schedule, so these follow the standard NFL convention where the visiting team wears white. Pants are the variable, since Buffalo alternates between blue and white below the waist depending on the week and the opponent.
+The white road jersey is the workhorse, projecting to eight of the nine away games: at the Rams, Raiders, Vikings, Jets, Patriots, Packers, Broncos, and Dolphins. The Bills have not published a road-by-road jersey schedule, so these follow the standard NFL convention where the visiting team wears white. Pants are the variable, since Buffalo alternates between blue and white below the waist depending on the week and the opponent.
+
+The exception is the opener. Houston has confirmed it will wear its **Liberty White** uniforms for Week 1 at Reliant Stadium, and two teams cannot both wear white, so Buffalo will be in a colored jersey for that game. The blue primary is the natural read. It is a rare season-opening road date where the Bills get to wear color, and it comes courtesy of the home team's announcement rather than their own. See our [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) for the Houston side of it.
 
 Two road dates are worth circling. Week 16 is Christmas Day at Denver on Netflix, and Week 17 is January 3 at Miami, which is the game the Dolphins have set aside for their near-black Dark Water Rivalries uniform. We covered [why Dark Water divides opinion](/stories/dolphins-dark-water-rivalries-bills-january-2027) separately, and a white-clad Buffalo across from it should be one of the better-looking broadcasts of the season.
 
