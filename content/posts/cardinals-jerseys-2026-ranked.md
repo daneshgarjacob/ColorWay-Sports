@@ -2,7 +2,7 @@
 title: "Every St. Louis Cardinals Jersey in 2026, Ranked: The Birds on the Bat Still Rule and the City Connect Comes in Last"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-08-12"
 excerpt: "Every St. Louis Cardinals jersey and uniform for 2026, ranked and graded worst to first, from the all-red City Connect up to the timeless birds-on-the-bat home white."
 gradient: "linear-gradient(135deg, #C41E3A 0%, #1d1d1d 50%, #0C2340 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -44,7 +44,9 @@ We respect the storytelling more than we expected to. As a jersey to actually lo
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2080050919345889485"></a></blockquote>
 </div>
 
-The road gray is the quiet workhorse of the whole rotation. It swaps the birds-on-the-bat for a clean "St. Louis" script, keeps the navy cap, and travels for nearly every road game that is not a Saturday. There is nothing flashy here and nothing that needs fixing. It exists to do a job and it does it without any clutter.
+The road gray is the quiet workhorse of the whole rotation. It swaps the birds-on-the-bat for a clean "St. Louis" script and travels for nearly every road game that is not a Saturday. There is nothing flashy here and nothing that needs fixing. It exists to do a job and it does it without any clutter.
+
+The cap on top of it just got better. St. Louis wore an all-red road cap from 2013 until August 11, 2026, when a fan survey came back about 80 percent in favor of navy and the team switched for the rest of the season. That matters to this grade, because the red cap was the thing holding the road look back, for the same reason we dock the home white when it wears red: the red at the crown competes with the red in the chest logo instead of framing it. With the navy cap on, this is a better uniform than the B+ suggests. See the [Cardinals uniform schedule](/stories/cardinals-uniform-schedule-2026) for the full story on the change.
 
 It sits at a B+ for a simple reason: it is very good, but it is the most replaceable-feeling look in a closet full of standouts. When the cream, the powder blue, and that home white are all sharing the same rotation, a solid gray is going to be the one that grades a touch lower. That is a compliment to everything else more than a hit on this.
 
