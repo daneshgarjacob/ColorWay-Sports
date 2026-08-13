@@ -18,6 +18,12 @@ import sharp from 'sharp';
 const W = 1500, H = 1000;
 
 const CONFIGS = {
+  'cal-joe-roth': {
+    dir: 'public/images/posts/cal-joe-roth-uniforms-2026',
+    art: 'full-uniform.jpg',
+    mode: 'bleed',
+    position: 'north',
+  },
   'gators-blue-helmet': {
     dir: 'public/images/posts/gators-blue-helmet-uniforms-2026',
     art: 'helmet.jpg',

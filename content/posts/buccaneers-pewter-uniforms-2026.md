@@ -70,7 +70,11 @@ A pewter jersey with a red "Buccaneers" wordmark on the chest and red pirate shi
 
 **Are the Buccaneers' pewter jerseys new for 2026?**
 
-Yes. Tampa Bay has worn pewter jerseys before, but this released set is the current all-pewter alternate for the 2026 season.
+Not exactly. Pewter is not new to Tampa Bay, which has worn pewter jerseys before. What is new is that the club has now released the full head-to-toe version and assigned it a game, December 20 against New Orleans.
+
+**Will the Buccaneers wear pewter in other games?**
+
+Tampa Bay has confirmed December 20 against the Saints. The rest of the Buccaneers' uniform assignments for 2026 have not been published, so it is not yet clear whether pewter appears more than once.
 
 **Who are the Buccaneers playing in the pewter uniforms?**
 
