@@ -12,6 +12,9 @@ league: "college"
 teams: []
 ---
 
+<img src="/images/posts/cal-joe-roth-uniforms-2026/detail-3.jpg" alt="Cal Golden Bears players in the 2026 Joe Roth throwback uniforms, gold helmets and royal blue jerseys with gold numbers, shot with motion blur in the tunnel" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cal Football</p>
+
 Cal announced on Wednesday that it is bringing back the Joe Roth uniforms for the season opener against UCLA, and this is the best throwback any program has revealed this offseason. It is also the one with the most behind it.
 
 *Every uniform photo in this post comes from Cal's official reveal. These are the school's images, not ColorWay Sports originals.*

@@ -1,5 +1,6 @@
 ---
 title: "Florida's New Matte Blue Helmet Is an A+, and the All-Blue Gators Uniform Deserves Better Than the Hate"
+homepageHero: true
 category: "College"
 date: "2026-08-13"
 updatedDate: "2026-08-13"
