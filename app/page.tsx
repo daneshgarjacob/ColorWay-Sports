@@ -50,9 +50,9 @@ export default function Home() {
   // free agency, the MLB daily tracker/schedule) are excluded so they don't hog
   // a slot via updatedDate churn. Words-only cards never land here.
   const FEATURED_SLUGS: string[] = [
-    "chargers-super-chargers-2026",
-    "rams-uniform-schedule-2026",
-    "florida-gators-throwback-uniforms-2026",
+    "gators-blue-helmet-uniforms-2026",
+    "tulane-city-edition-uniforms-2026",
+    "broncos-uniform-schedule-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

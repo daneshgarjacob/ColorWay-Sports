@@ -1,7 +1,6 @@
 ---
 title: "Georgia's New All-White Uniforms: The First White Helmet in Bulldogs History, Fully Graded"
 category: "College"
-homepageHero: true
 date: "2026-08-06"
 updatedDate: "2026-08-06"
 excerpt: "Georgia revealed all-white uniforms for September 12 against Western Kentucky, the first white helmet in program history. Every detail of the new jersey, graded."
