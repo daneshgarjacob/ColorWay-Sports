@@ -19,6 +19,27 @@ const CONFIGS = {
     line2: 'RETURNS',
     sub: ['SEPT 17', 'FOR TIM ANDERSON'],
   },
+  'gators-blue-helmet': {
+    out: 'public/images/posts/gators-blue-helmet-uniforms-2026',
+    base: '#0021A5', mid: '#06103a', deep: '#03030f', accent: '#FA4616',
+    teamLogo: 'public/images/posts/gators-blue-helmet-uniforms-2026/team-logo.png',
+    eyebrow: 'FLORIDA GATORS',
+    line1: 'MATTE BLUE',
+    line2: 'HELMET',
+    sub: ['ORANGE JERSEY', 'FIRST-EVER ALL-BLUE'],
+  },
+  'ty-gibbs-mms-bristol': {
+    out: 'public/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026',
+    base: '#45230D', mid: '#2b1608', deep: '#120902', accent: '#FFD200',
+    leagueLogo: 'public/logos/leagues/racing-nascar.png',
+    // No licensable sponsor mark, so the car number carries the left plate.
+    mark: '54',
+    markColor: '#FFD200',
+    eyebrow: "KYLE BUSCH TRIBUTE",
+    line1: "M&amp;M'S IS BACK",
+    line2: 'AT BRISTOL',
+    sub: ['SEPT 19', 'TY GIBBS'],
+  },
 };
 
 const key = process.argv[2];
@@ -48,6 +69,10 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   ${ribs}
   ${c.disc ? `<circle cx="300" cy="500" r="212" fill="#ffffff" opacity="0.055"/>
   <circle cx="300" cy="500" r="196" fill="#ffffff"/>` : ''}
+  ${c.mark ? `<circle cx="300" cy="500" r="212" fill="#ffffff" opacity="0.05"/>
+  <text x="300" y="500" text-anchor="middle" dominant-baseline="central"
+        font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="230"
+        font-weight="900" fill="${c.markColor || '#ffffff'}" letter-spacing="-6">${c.mark}</text>` : ''}
 
   <text x="620" y="330" font-family="Arial, Helvetica, sans-serif" font-size="30"
         font-weight="800" fill="${c.accent}" letter-spacing="7">${c.eyebrow}</text>
@@ -62,17 +87,25 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
         font-weight="700" fill="#ffffff" opacity="0.42" letter-spacing="4">COLORWAY SPORTS</text>
 </svg>`;
 
-const team = await sharp(c.teamLogo).resize({ height: 250, fit: 'inside' }).toBuffer();
-const teamMeta = await sharp(team).metadata();
-const league = await sharp(c.leagueLogo).resize({ height: 86, fit: 'inside' }).toBuffer();
-const leagueMeta = await sharp(league).metadata();
+// Both logos are optional: some posts have no licensable team mark (use `mark`
+// for a numeral instead), and college posts have no league logo to reach for.
+const layers = [];
+
+if (c.teamLogo) {
+  const team = await sharp(c.teamLogo).resize({ height: 250, fit: 'inside' }).toBuffer();
+  const teamMeta = await sharp(team).metadata();
+  layers.push({ input: team, left: Math.round(300 - teamMeta.width / 2), top: Math.round(H / 2 - teamMeta.height / 2) });
+}
+
+if (c.leagueLogo) {
+  const league = await sharp(c.leagueLogo).resize({ height: 86, fit: 'inside' }).toBuffer();
+  const leagueMeta = await sharp(league).metadata();
+  layers.push({ input: league, left: W - leagueMeta.width - 74, top: 764 });
+}
 
 await mkdir(c.out, { recursive: true });
 const info = await sharp(Buffer.from(svg))
-  .composite([
-    { input: team, left: Math.round(300 - teamMeta.width / 2), top: Math.round(H / 2 - teamMeta.height / 2) },
-    { input: league, left: W - leagueMeta.width - 74, top: 764 },
-  ])
+  .composite(layers)
   .jpeg({ quality: 90 })
   .toFile(`${c.out}/cover.jpg`);
 
