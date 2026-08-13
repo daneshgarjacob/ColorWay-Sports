@@ -18,6 +18,12 @@ import sharp from 'sharp';
 const W = 1500, H = 1000;
 
 const CONFIGS = {
+  'buccaneers-schedule': {
+    dir: 'public/images/posts/buccaneers-uniform-schedule-2026',
+    art: 'pewter-uniform.jpg',
+    mode: 'bleed',
+    position: 'north',
+  },
   'cal-joe-roth': {
     dir: 'public/images/posts/cal-joe-roth-uniforms-2026',
     art: 'full-uniform.jpg',

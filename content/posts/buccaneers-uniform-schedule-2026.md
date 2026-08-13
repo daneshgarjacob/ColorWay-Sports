@@ -20,7 +20,10 @@ Tampa Bay has not published a full week-by-week uniform schedule. Most NFL teams
 
 **December 6 vs the Los Angeles Chargers — the creamsicle throwbacks.** The white shell, Bucco Bruce on the side, and the orange the franchise wore from 1976 through 1996. We broke down [that matchup in full when it was announced](/stories/chargers-bucs-uniforms-december-2026), including what the Chargers are wearing opposite it.
 
-**December 20 vs the New Orleans Saints — the all-pewter set.** Head to toe, and the newest addition to the wardrobe.
+**December 20 vs the New Orleans Saints — the all-pewter set.** Head to toe, and the newest addition to the wardrobe. Kickoff is 1:00 PM.
+
+<img src="/images/posts/buccaneers-uniform-schedule-2026/saints-matchup.jpg" alt="Tampa Bay Buccaneers graphic announcing the Saints at Buccaneers game on December 20 at 1:00 PM, the date the all-pewter uniform will be worn" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Tampa Bay Buccaneers</p>
 
 ## The All-Pewter Uniform
 
@@ -65,6 +68,10 @@ Tampa Bay has not confirmed which jerseys it wears in any other week. Open quest
 - Any colour-rush or alternate helmet pairings beyond the creamsicle's white shell.
 
 ## Frequently Asked Questions
+
+**What jersey are the Buccaneers wearing today?**
+
+Tampa Bay has not published week-by-week uniform assignments for 2026, so there is no confirmed jersey for most dates. The two games that are locked in are December 6 in the creamsicle throwbacks and December 20 in the all-pewter set. We update this page the moment the team announces more.
 
 **What is the Buccaneers' uniform schedule for 2026?**
 

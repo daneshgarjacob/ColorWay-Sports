@@ -12,9 +12,6 @@ league: "college"
 teams: []
 ---
 
-<img src="/images/posts/cal-joe-roth-uniforms-2026/full-uniform.jpg" alt="Cal Golden Bears Joe Roth throwback uniform for 2026, with a gold helmet carrying the blue Cal script, a royal blue jersey with gold and white shoulder stripes, gold pants and striped socks" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cal Football</p>
-
 Cal announced on Wednesday that it is bringing back the Joe Roth uniforms for the season opener against UCLA, and this is the best throwback any program has revealed this offseason. It is also the one with the most behind it.
 
 *Every uniform photo in this post comes from Cal's official reveal. These are the school's images, not ColorWay Sports originals.*
@@ -50,6 +47,9 @@ The rest of the set:
 - **A royal blue jersey**, noticeably brighter than the Berkeley navy Cal has used in recent years, with gold and white stripes wrapping the shoulders.
 - **A small gold block C at the collar**, sitting in the V of the neckline.
 - **Gold pants**, and white socks with blue and gold stripes.
+
+<img src="/images/posts/cal-joe-roth-uniforms-2026/full-uniform.jpg" alt="Cal Golden Bears Joe Roth throwback uniform for 2026, with a gold helmet carrying the blue Cal script, a royal blue jersey with gold and white shoulder stripes, gold pants and striped socks" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cal Football</p>
 
 <img src="/images/posts/cal-joe-roth-uniforms-2026/collar-c.jpg" alt="Close-up of the gold block C embroidered at the collar of the Cal Joe Roth throwback jersey" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Cal Football</p>
