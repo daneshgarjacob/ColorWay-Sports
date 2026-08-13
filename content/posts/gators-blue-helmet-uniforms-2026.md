@@ -3,7 +3,7 @@ title: "Florida's New Matte Blue Helmet Is an A+, and the All-Blue Gators Unifor
 category: "College"
 date: "2026-08-13"
 updatedDate: "2026-08-13"
-excerpt: "Florida revealed two new uniform combinations, a blue helmet with orange jerseys and the program's first all-blue set. The helmet is the best piece of the Gators wardrobe. We grade both."
+excerpt: "Florida revealed a matte blue helmet, orange jerseys, and its first all-blue uniform. We grade every piece and explain the striping fix nobody noticed."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/gators-blue-helmet-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -56,15 +56,17 @@ Orange is Florida's most distinctive asset and the program has been shy with it,
 
 The number cleanup helps more than it sounds like it should. A single blue line border on an orange jersey is high contrast without being busy, and it lets the numeral hold its shape at speed. Orange and blue is a difficult pairing at number size because both colors are saturated, and a thin single border is the right amount of separation.
 
-## The All-Blue Is Not the Disaster the Timeline Says
+## The All-Blue Jersey: A-, and Not the Disaster the Timeline Says
 
 Here is where we part ways with a lot of the reaction.
 
 Monochrome sets have a deserved bad reputation in college football, because most of them are one flat color with the team's actual identity deleted. Florida did not do that. The blue is Florida's blue rather than a fashion navy, the orange and white accents are still present and still doing work, and the redrawn master striping gives the set an actual line running head to toe. A monochrome uniform lives or dies on whether it has structure, and this one has structure.
 
-Is it better than the orange combination? No. Monochrome flattens depth by definition, and on a hot Gainesville afternoon it will read as one blue mass in wide shots regardless of how good the striping is. It is a night-game uniform and should be treated as one.
+The shoulder striping is what saves it. On an orange or white jersey a stripe is decoration. On a blue jersey over blue pants it is the only thing breaking the silhouette into parts, and Florida put orange and white exactly where the eye needs a break. The white numbers with orange outlines are the other rescue. Blue numbers on a blue jersey would have been the lazy version of this uniform and it would have been unreadable at distance.
 
-But "not the best combination Florida owns" is very different from "bad," and the pile-on has been about the number of combinations rather than the design. That is a separate argument, and it is not one the design team lost.
+Is it better than the orange combination? No, and that is why it lands at **A-** rather than higher. Monochrome flattens depth by definition, and on a hot Gainesville afternoon it will read as one blue mass in wide shots no matter how good the striping is. This is a night uniform and Florida should treat it as one. Under the lights in the Swamp it is going to look outstanding.
+
+But "not the best combination Florida owns" is very different from "bad," and the pile-on has been about the number of combinations rather than the design. That is a separate argument, and it is not one the design team lost. It is a lot of blue. If you like blue, and we do, that is a feature.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dflorida%2520gators%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop Florida Gators jerseys on Fanatics →</a>
 
@@ -84,9 +86,11 @@ No games have been announced for either new combination. Florida opens at home a
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Matte Shell A+ · Script Returns · Real Striping Logic</p>
 </div>
 
-**The helmet: A+.** Matte blue shell, orange Gators script, white facemask, correct striping. It is the best helmet Florida has put on the field in a decade and the script coming back is overdue.
+**The matte blue helmet: A+.** Matte shell, orange Gators script, white facemask, correct striping. It is the best helmet Florida has put on the field in a decade and the script coming back is overdue.
 
-**The uniforms: A.** The orange combination is excellent and the all-blue is good, and both benefit from striping that finally matches across every piece.
+**The orange jersey combination: A.** Blue helmet, orange jersey, white pants is the best new look Florida has produced in years, and the cleaner number border is what finishes it.
+
+**The all-blue jersey: A-.** Genuinely good, genuinely a night uniform, and held back only by what monochrome always costs you in depth.
 
 **Overall: A.** Florida solved a real problem this week. Its shoulder, helmet, and pant striping used to be three different ideas, and now they are one idea. That is the kind of unglamorous fix that makes every combination in the closet better, including the ones that already existed.
 
@@ -132,4 +136,40 @@ No. The throwback revealed on August 10, 2026 is a separate 1960s-inspired set w
 
 **What grade do Florida's new uniforms get?**
 
-Our overall grade is A, with an A+ for the helmet specifically. The orange and white combination is the strongest of the new looks, and the all-blue set is a good night uniform.
+Our overall grade is A. The matte blue helmet is an A+, the blue helmet with orange jerseys and white pants is an A, and the all-blue jersey set is an A-.
+
+**What is Florida wearing this season?**
+
+Florida's 2026 wardrobe includes its standard orange, blue, and white uniforms, the new blue helmet with orange jerseys and white pants, the new all-blue set, and the 1960s Spurrier throwback. No games have been assigned to the new combinations yet.
+
+**What will Florida wear against Florida Atlantic?**
+
+Florida has not announced a uniform for the September 5 opener against FAU. The Gators traditionally open at home in orange jerseys, but the school has made no announcement.
+
+**Are Florida's new jerseys orange or blue?**
+
+Both. One new combination uses orange jerseys with white pants under the blue helmet, and the other is an all-blue jersey and pant set. The blue helmet is the shared piece.
+
+**Is Florida's blue helmet matte or gloss?**
+
+Matte. The shell has a matte blue finish, which holds color under stadium lights instead of blowing out to white in the highlights the way a gloss shell does.
+
+**What logo is on Florida's new helmet?**
+
+The orange "Gators" script with a white outline sits on both sides. The Gator head logo appears on the front bumper. This is not the interlocking UF monogram and it is not the oval F from the throwback helmet.
+
+**Why are people upset about Florida's new uniforms?**
+
+Most of the criticism is about how many uniform combinations Florida now owns rather than about the designs themselves. The most common joke on social media was that the Gators have more jersey combinations than wins.
+
+**Did Florida change its regular uniforms too?**
+
+Slightly, and it is the most important change. The shoulder striping on the existing blue and white jerseys was redrawn to match the master stripe used on the helmets and pants, so all of Florida's uniforms now share one striping system.
+
+**How many uniform combinations does Florida have in 2026?**
+
+Florida has not published a full count. The 2026 additions are two new combinations plus the Spurrier throwback, layered on top of the program's existing orange, blue, and white looks.
+
+**Who wore the new Florida uniforms in the reveal photos?**
+
+Sophomore wide receiver Vernell Brown III modeled the all-blue set in Florida's announcement.

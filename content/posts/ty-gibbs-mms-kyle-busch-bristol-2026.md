@@ -3,7 +3,7 @@ title: "M&M's Returns to NASCAR for One Night: Ty Gibbs Will Run Kyle Busch's Co
 category: "Motorsports"
 date: "2026-08-13"
 updatedDate: "2026-08-13"
-excerpt: "Samantha Busch announced that the M&M's paint scheme comes back on Ty Gibbs' No. 54 at the Bristol Night Race, built as a mosaic of Kyle Busch's career. Full design, date, and grade."
+excerpt: "Samantha Busch announced the M&M's paint scheme returns on Ty Gibbs' No. 54 at the Bristol Night Race, built as a mosaic of Kyle's career."
 gradient: "linear-gradient(135deg, #45230D 0%, #7a3d12 50%, #FFD200 130%)"
 coverImage: "/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -147,3 +147,39 @@ Yes. Ty Gibbs earned his first career Cup Series win at Bristol in the Food City
 **What grade does the Kyle Busch tribute car get?**
 
 Our grade is A+. The colors, the career mosaic, and the choice of Bristol all land, and the only thing we would change is the number, which was never actually available to change.
+
+**What car is Ty Gibbs driving at Bristol?**
+
+The No. 54 Toyota Camry for Joe Gibbs Racing, in the M&M's paint scheme, at the Bristol Night Race on September 19, 2026.
+
+**Is M&M's coming back to NASCAR?**
+
+Only for this one race. Mars ended its full-time NASCAR sponsorship after the 2022 season and is returning as primary sponsor of the No. 54 for the Bristol Night Race specifically to honor Kyle Busch. No further races have been announced.
+
+**Who announced the Kyle Busch tribute car?**
+
+Samantha Busch, Kyle's wife, announced it on social media. It was first reported by @joe_srigley before the teams confirmed it.
+
+**How many times did Kyle Busch win at Bristol?**
+
+He won 9 NASCAR Cup Series races at Bristol and 23 races there across all three NASCAR national series. He also swept all three national-series races in a single Bristol weekend twice, in 2010 and 2017.
+
+**What was Kyle Busch's car number?**
+
+He drove the No. 18 M&M's Toyota for Joe Gibbs Racing for 15 seasons, from 2008 through 2022, and the No. 8 Chevrolet for Richard Childress Racing from 2023 until his death in 2026.
+
+**How many championships did Kyle Busch win?**
+
+Two NASCAR Cup Series championships, in 2015 and 2019.
+
+**When was the last time the M&M's car won a race?**
+
+April 2022, on the dirt at Bristol Motor Speedway. The scheme's final win and its final appearance will both have come at the same track.
+
+**What is the Bristol Night Race?**
+
+The NASCAR Cup Series race run under the lights at Bristol Motor Speedway, a half-mile concrete oval in Tennessee. The 2026 running is Saturday, September 19.
+
+**Will the M&M's car run after Bristol?**
+
+Nothing beyond the Bristol Night Race has been announced. Samantha Busch described it as the M&M'S colors coming back "one last time."
