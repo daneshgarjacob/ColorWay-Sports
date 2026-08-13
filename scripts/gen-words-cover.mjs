@@ -19,6 +19,16 @@ const CONFIGS = {
     line2: 'RETURNS',
     sub: ['SEPT 17', 'FOR TIM ANDERSON'],
   },
+  'buccaneers-pewter': {
+    out: 'public/images/posts/buccaneers-pewter-uniforms-2026',
+    base: '#34302B', mid: '#211f1b', deep: '#0d0c0a', accent: '#D50A0A',
+    teamLogo: 'public/logos/teams/nfl-tampa-bay-buccaneers.png',
+    leagueLogo: 'public/logos/leagues/nfl.png',
+    eyebrow: 'TAMPA BAY BUCCANEERS',
+    line1: 'ALL PEWTER',
+    line2: 'IS HERE',
+    sub: ['DEC 20', 'VS SAINTS'],
+  },
   'gators-blue-helmet': {
     out: 'public/images/posts/gators-blue-helmet-uniforms-2026',
     base: '#0021A5', mid: '#06103a', deep: '#03030f', accent: '#FA4616',
