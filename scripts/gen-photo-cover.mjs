@@ -20,6 +20,16 @@ const CONFIGS = {
     line2: 'HELMET',
     sub: ['GRADE: A+', 'ORANGE JERSEY', 'FIRST ALL-BLUE'],
   },
+  'ty-gibbs-mms-bristol': {
+    dir: 'public/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026',
+    art: 'car-front.jpg',
+    orient: 'landscape',
+    deep: '#0a0a0a', base: '#1a1a1a', accent: '#FFD200',
+    eyebrow: 'KYLE BUSCH TRIBUTE',
+    line1: "M&amp;M'S IS BACK",
+    line2: 'AT BRISTOL',
+    sub: ['SEPT 19', 'TY GIBBS', 'NO. 54'],
+  },
 };
 
 const key = process.argv[2];
@@ -49,12 +59,11 @@ if (c.orient === 'portrait') {
   artLeft = W - meta.width;
   fadeFrom = artLeft;
 } else {
-  // Landscape art fills the right 58% and is allowed to cover-crop, since a wide
-  // render loses nothing meaningful off the sides.
-  const aw = Math.round(W * 0.58);
-  artBuf = await sharp(`${c.dir}/${c.art}`).resize({ width: aw, height: H, fit: 'cover' }).toBuffer();
-  artLeft = W - aw;
-  fadeFrom = artLeft;
+  // Landscape art goes full bleed. Squeezing a car render into a side panel would
+  // crop the nose or the tail off, so the text sits on a scrim over the art instead.
+  artBuf = await sharp(`${c.dir}/${c.art}`).resize({ width: W, height: H, fit: 'cover' }).toBuffer();
+  artLeft = 0;
+  fadeFrom = 0;
 }
 
 const subText = c.sub.join('  ·  ');
@@ -65,7 +74,7 @@ const overlay = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${
       <stop offset="100%" stop-color="${c.deep}" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="${fadeFrom}" y="0" width="300" height="${H}" fill="url(#fade)"/>
+  <rect x="${fadeFrom}" y="0" width="${c.orient === 'portrait' ? 300 : 900}" height="${H}" fill="url(#fade)"/>
 
   <text x="74" y="330" font-family="Arial, Helvetica, sans-serif" font-size="27"
         font-weight="800" fill="${c.accent}" letter-spacing="6">${c.eyebrow}</text>

@@ -12,11 +12,8 @@ league: "nascar"
 teams: []
 ---
 
-<div style="display: flex; justify-content: center; margin: 0 0 2em;">
-  <blockquote class="twitter-tweet">
-    <a href="https://twitter.com/joe_srigley/status/2087920724065366186"></a>
-  </blockquote>
-</div>
+<img src="/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026/car-front.jpg" alt="Ty Gibbs' No. 54 Joe Gibbs Racing Toyota Camry in the M&M's tribute paint scheme for Kyle Busch, with red, yellow, green, blue and orange panels filled with a photo mosaic of his career" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Joe Gibbs Racing</p>
 
 M&M's left NASCAR at the end of 2022 and everybody understood it was over. It is coming back for exactly one race, and the reason is the best and worst reason there could be.
 
@@ -25,6 +22,12 @@ Ty Gibbs will drive the M&M's paint scheme on the No. 54 Joe Gibbs Racing Toyota
 Bristol was one of his favorite tracks. It is also where the M&M's car won for the last time.
 
 ## What Was Announced
+
+<div style="display: flex; justify-content: center; margin: 0 0 2em;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/joe_srigley/status/2087920724065366186"></a>
+  </blockquote>
+</div>
 
 The tribute was first reported by [@joe_srigley](https://twitter.com/joe_srigley) before the teams confirmed it. Here is the full picture:
 
@@ -64,11 +67,23 @@ A tribute paint scheme can go two ways. You can reissue the original livery exac
 
 Mars went the second way, and the execution is smarter than a straight reissue would have been.
 
-The base is not the yellow-and-brown people might expect. The car is built from large blocks of the full M&M's candy palette, red, yellow, green, blue, and orange, each panel flowing into the next across the hood, doors, and quarters. That is what makes it read instantly from the grandstand and on a television cut, which is the entire job of a paint scheme. The red and yellow characters ride the rear quarters, the lowercase m logos sit on the hood and door, and the 54 is a plain white numeral with no outline, which is the right restraint on a car this busy.
+The base is not the yellow-and-brown people might expect. The car is built from large blocks of the full M&M's candy palette, red, yellow, green, blue, and orange, each panel flowing into the next across the hood, doors, and quarters. That is what makes it read instantly from the grandstand and on a television cut, which is the entire job of a paint scheme. The red and yellow characters ride the rear quarter, the lowercase m logos sit on the hood and door, and the 54 is a white numeral with a single black outline, which is the right amount of separation on a car this busy.
 
-Then look closer. **Every one of those color blocks is filled with photographs from Kyle's career**, printed small and dense so they read as texture at speed and as fifteen seasons of a person's life from the pit wall. Trucks, Xfinity cars, the 18, victory lane, the bow ties, the burnouts. From a hundred yards it is the M&M's car. From ten feet it is a scrapbook.
+Then look closer, because this is the part that makes it.
+
+**Every one of those color blocks is filled with photographs from Kyle's career**, and here is the trick: each photo is duotoned into the color of the block it sits in. The blue panel is entirely blue-tinted images, the red panel entirely red, the orange panel entirely orange. That is why the car still reads as clean blocks of M&M's color at 130 miles an hour instead of turning into visual mud. The detail costs nothing at distance and pays off completely up close.
+
+<img src="/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026/mosaic-detail.jpg" alt="Close-up of the Ty Gibbs No. 54 M&M's tribute paint scheme showing photographs from Kyle Busch's career duotoned into each block of color, including the No. 18 Camry, an Interstate Batteries car, a Snickers truck and victory celebrations" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Joe Gibbs Racing</p>
+
+And the photographs are not generic. In the blue block alone you can pick out the No. 18 Camry, the Interstate Batteries car, a Snickers Truck Series entry, a young Kyle in a helmet, the KYLE BUSCH windshield banner, and arms raised in victory lane. The red block carries the Sprint Cup era. From a hundred yards it is the M&M's car. From ten feet it is fifteen seasons of a person's life.
 
 That is a genuinely hard thing to execute at 1:1 scale on a stock car, and it is the difference between a tribute and a decal package. Bristol is also a half mile, so the cars are never far from anyone. This is one of the few tracks on the schedule where a scheme with this much detail actually gets seen.
+
+<img src="/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026/car-full.jpg" alt="Full side view of the No. 54 M&M's Kyle Busch tribute Toyota Camry, showing the M&M's characters on the rear quarter, the JGR35 mark on the front fender and the white 54 with a black outline on the door" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Joe Gibbs Racing</p>
+
+One more thing worth noticing on the full car: **JGR35** sits on the front fender. Joe Gibbs Racing was founded in 1991, so 2026 marks 35 years, and fifteen of them had Kyle Busch in the 18. Putting that badge on this particular car was not an accident.
 
 ## The Number Is the One Thing We Would Change
 
