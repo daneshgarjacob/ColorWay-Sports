@@ -39,12 +39,14 @@ Nine games on the board and the road teams brought the colour again. Six have fi
 
 The split that stands out is at home. Five of the six home clubs wore white, and Washington was the only one to answer with colour, pulling the navy alternate against the Cubs' gray. That is the inverse of Wednesday, when all fifteen home teams wore white and every alternate belonged to a road team.
 
-Two games are still pending, Milwaukee at the Dodgers and Texas at the Angels, and neither club has confirmed a uniform yet. The one that matters most tonight is already locked in: **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have released special uniforms for it, and it takes our Jersey of the Day and Jersey Matchup of the Day.
+Two games are still pending, Milwaukee at the Dodgers and Texas at the Angels, and neither club has confirmed a uniform yet. The one that matters most tonight is already locked in: **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have released special uniforms for it, and it takes both of our daily honours below.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #C4CED4 0%, #E81828 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Phillies Field of Dreams Gray</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2088015648903274619"></a></blockquote>
 
 <div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
   <img src="/images/posts/mlb-daily-tracker/phillies-field-of-dreams-gray.jpg" alt="Philadelphia Phillies 2026 Field of Dreams jersey, gray with a red Phillies script outlined in black, red and black placket piping and the 1839 Baseball Centennial patch on the sleeve" style="max-width: 380px; width: 100%; border-radius: 12px;" />
@@ -88,6 +90,10 @@ The detail to look for on the broadcast is the **1839 Baseball Centennial patch 
     </div>
   </div>
 </div>
+</div>
+
+<div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
 Two takes on the same brief, and they split cleanly. Minnesota did the expected thing beautifully: cream with navy pinstripes, the red "Twins" script outlined in navy with a tail running under it, the most literal reading of 1930s baseball you can build. Philadelphia refused the cream entirely and put its best script on plain gray.
