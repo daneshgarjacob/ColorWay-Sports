@@ -62,9 +62,13 @@ Ty Gibbs kept his own response to four words on Instagram: "So honored to drive 
 
 A tribute paint scheme can go two ways. You can reissue the original livery exactly, which is clean and safe and says nothing new. Or you can build something that only works because of who it is for.
 
-Mars went the second way. The M&M's yellow and brown is the base, so it reads instantly from the grandstand and on a television cut, which is the entire job of a paint scheme. Then the career photographs are worked into the body as a mosaic, so the closer you get the more of it you see. From a hundred yards it is the M&M's car. From the pit wall it is fifteen seasons of a person's life.
+Mars went the second way, and the execution is smarter than a straight reissue would have been.
 
-That is a genuinely hard thing to execute at 1:1 scale on a stock car, and it is the difference between a tribute and a decal package. Bristol is also a half mile, so the cars are never far from anyone. This is one of the few tracks on the schedule where a detailed scheme actually gets seen.
+The base is not the yellow-and-brown people might expect. The car is built from large blocks of the full M&M's candy palette, red, yellow, green, blue, and orange, each panel flowing into the next across the hood, doors, and quarters. That is what makes it read instantly from the grandstand and on a television cut, which is the entire job of a paint scheme. The red and yellow characters ride the rear quarters, the lowercase m logos sit on the hood and door, and the 54 is a plain white numeral with no outline, which is the right restraint on a car this busy.
+
+Then look closer. **Every one of those color blocks is filled with photographs from Kyle's career**, printed small and dense so they read as texture at speed and as fifteen seasons of a person's life from the pit wall. Trucks, Xfinity cars, the 18, victory lane, the bow ties, the burnouts. From a hundred yards it is the M&M's car. From ten feet it is a scrapbook.
+
+That is a genuinely hard thing to execute at 1:1 scale on a stock car, and it is the difference between a tribute and a decal package. Bristol is also a half mile, so the cars are never far from anyone. This is one of the few tracks on the schedule where a scheme with this much detail actually gets seen.
 
 ## The Number Is the One Thing We Would Change
 
@@ -122,7 +126,7 @@ The Bristol Night Race at Bristol Motor Speedway on Saturday, September 19, 2026
 
 **What does the Kyle Busch tribute paint scheme look like?**
 
-It uses the classic M&M's yellow and brown colors, with a mosaic of photographs from moments across Kyle Busch's career built into the design of the car.
+The No. 54 Toyota is divided into large blocks of the M&M's candy colors, red, yellow, green, blue, and orange, and every block is filled with a dense photo mosaic of moments from Kyle Busch's career. The M&M's characters appear on the rear quarters, the lowercase m logos sit on the hood and door, and the 54 is a plain white numeral.
 
 **Why is M&M's returning to NASCAR?**
 
