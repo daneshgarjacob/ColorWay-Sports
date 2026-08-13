@@ -67,6 +67,14 @@ const nextConfig: NextConfig = {
         destination: "/stories/broncos-uniform-schedule-2026",
         permanent: true,
       },
+      // 8/13: the all-pewter post was folded into the Buccaneers schedule page
+      // the same way. Schedule queries are what earn; a single-uniform post
+      // would have orphaned against it.
+      {
+        source: "/stories/buccaneers-pewter-uniforms-2026",
+        destination: "/stories/buccaneers-uniform-schedule-2026",
+        permanent: true,
+      },
       // Old WordPress URLs -- redirect to homepage
       {
         source: "/wp-content/:path*",

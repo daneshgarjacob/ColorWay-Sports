@@ -19,8 +19,8 @@ const CONFIGS = {
     line2: 'RETURNS',
     sub: ['SEPT 17', 'FOR TIM ANDERSON'],
   },
-  'buccaneers-pewter': {
-    out: 'public/images/posts/buccaneers-pewter-uniforms-2026',
+  'buccaneers-schedule': {
+    out: 'public/images/posts/buccaneers-uniform-schedule-2026',
     base: '#34302B', mid: '#211f1b', deep: '#0d0c0a', accent: '#D50A0A',
     teamLogo: 'public/logos/teams/nfl-tampa-bay-buccaneers.png',
     leagueLogo: 'public/logos/leagues/nfl.png',
