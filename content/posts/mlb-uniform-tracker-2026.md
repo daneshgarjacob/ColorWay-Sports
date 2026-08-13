@@ -39,7 +39,60 @@ Nine games on the board and the road teams brought the colour again. Six have fi
 
 The split that stands out is at home. Five of the six home clubs wore white, and Washington was the only one to answer with colour, pulling the navy alternate against the Cubs' gray. That is the inverse of Wednesday, when all fifteen home teams wore white and every alternate belonged to a road team.
 
-Three games are still pending: Milwaukee at the Dodgers, Texas at the Angels, and the one that matters most tonight, **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have special uniforms for it, and it gets our Jersey of the Day and Jersey Matchup of the Day once they are on the field.
+Two games are still pending, Milwaukee at the Dodgers and Texas at the Angels, and neither club has confirmed a uniform yet. The one that matters most tonight is already locked in: **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have released special uniforms for it, and it takes our Jersey of the Day and Jersey Matchup of the Day.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #C4CED4 0%, #E81828 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Phillies Field of Dreams Gray</span>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
+  <img src="/images/posts/mlb-daily-tracker/phillies-field-of-dreams-gray.jpg" alt="Philadelphia Phillies 2026 Field of Dreams jersey, gray with a red Phillies script outlined in black, red and black placket piping and the 1839 Baseball Centennial patch on the sleeve" style="max-width: 380px; width: 100%; border-radius: 12px;" />
+</div>
+
+Philadelphia went with gray rather than cream, and that is the call that makes this set. Everybody expects a Field of Dreams uniform to be cream, because cream is the shorthand for old, and the Twins went there. The Phillies went the other way and it reads more like a jersey that actually existed than a costume of one.
+
+The script is the reason. Red "Phillies" with a black outline and that long tail sweeping under the word is the best wordmark the franchise owns, and on a plain gray field with red and black piping running the placket, there is nothing competing with it. No nameplate clutter, no gradient, no drop shadow. The whole jersey is one shape.
+
+The detail to look for on the broadcast is the **1839 Baseball Centennial patch on the right sleeve**, which both clubs are wearing tonight. It is the small piece that ties the game to the reason it exists, and it is doing more work than any amount of manufactured vintage would.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphillies%2520field%2520of%2520dreams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Phillies Field of Dreams jersey on Fanatics →</a>
+
+### Philadelphia Phillies at Minnesota Twins
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #E81828 0%, #C4CED4 50%, #002B5C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+  </div>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #8B6F3E 0%, #5A7247 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Field of Dreams</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/phillies-field-of-dreams-gray.jpg" alt="Phillies Field of Dreams Gray jersey worn August 13 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PHILLIES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Field of Dreams Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphillies%2520field%2520of%2520dreams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/twins-field-of-dreams-cream.jpg" alt="Twins Field of Dreams Cream jersey worn August 13 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">TWINS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F5F1E3; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Field of Dreams Cream</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtwins%2520field%2520of%2520dreams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+Two takes on the same brief, and they split cleanly. Minnesota did the expected thing beautifully: cream with navy pinstripes, the red "Twins" script outlined in navy with a tail running under it, the most literal reading of 1930s baseball you can build. Philadelphia refused the cream entirely and put its best script on plain gray.
+
+Side by side, the gray is what keeps this from being two cream jerseys blurring into the corn. Cream against gray gives you an actual value difference on camera, which matters at a ballpark with no stands behind the outfield and nothing but green and sky in the background. Both sleeves carry the 1839 Baseball Centennial patch.
 
 ### Cleveland Guardians at Detroit Tigers
 
