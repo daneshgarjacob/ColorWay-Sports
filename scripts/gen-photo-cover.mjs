@@ -28,14 +28,15 @@ const CONFIGS = {
     dir: 'public/images/posts/cal-joe-roth-uniforms-2026',
     art: 'full-uniform.jpg',
     mode: 'bleed',
-    position: 'north',
+    focusY: 0.30,
   },
   'gators-blue-helmet': {
     dir: 'public/images/posts/gators-blue-helmet-uniforms-2026',
-    art: 'helmet.jpg',
+    // Helmet worn WITH the orange jersey, so the crop can run from the top of
+    // the shell down into the orange the way Jake wants it framed.
+    art: 'helmet-orange.jpg',
     mode: 'bleed',
-    // Helmet sits high in a portrait frame, so pull the window toward the top.
-    position: 'north',
+    focusY: 0.28,
   },
   'ty-gibbs-mms-bristol': {
     dir: 'public/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026',
@@ -53,11 +54,22 @@ if (!c) {
 }
 
 if (c.mode === 'bleed') {
-  const info = await sharp(`${c.dir}/${c.art}`)
-    .resize({ width: W, height: H, fit: 'cover', position: c.position || 'centre' })
+  // `focusY` is where the centre of the 3:2 window sits vertically in the source,
+  // 0 = very top, 1 = very bottom. Gravity presets only give top/middle/bottom,
+  // and framing a helmet down through the jersey needs finer control than that.
+  const wide = await sharp(`${c.dir}/${c.art}`).resize({ width: W }).toBuffer();
+  const wm = await sharp(wide).metadata();
+  let buf = wide;
+  if (wm.height > H) {
+    const focusY = typeof c.focusY === 'number' ? c.focusY : 0.5;
+    const top = Math.max(0, Math.min(wm.height - H, Math.round(focusY * wm.height - H / 2)));
+    buf = await sharp(wide).extract({ left: 0, top, width: W, height: H }).toBuffer();
+  }
+  const info = await sharp(buf)
+    .resize({ width: W, height: H, fit: 'cover' })
     .jpeg({ quality: 88 })
     .toFile(`${c.dir}/cover.jpg`);
-  console.log(`wrote ${c.dir}/cover.jpg — ${info.width}x${info.height}, ${Math.round(info.size / 1024)}KB (bleed, no text)`);
+  console.log(`wrote ${c.dir}/cover.jpg — ${info.width}x${info.height}, ${Math.round(info.size / 1024)}KB (bleed, focusY ${c.focusY ?? 0.5})`);
 } else {
   // Contained: art can't fill the frame, so a themed field plus words earns its place.
   const bg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
