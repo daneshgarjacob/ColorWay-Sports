@@ -2,7 +2,7 @@
 title: "Barcelona's 2026/27 Kits: The Kobe Away Shirt, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
+updatedDate: "2026-08-12"
 excerpt: "Barcelona's 2026/27 away jersey is a Kobe Bryant collaboration and the boldest kit in Europe. Both shirts graded, plus the Gaudi numbering."
 gradient: "linear-gradient(135deg, #A50044 0%, #004D98 55%, #6B2FA0 120%)"
 cardStyle: words
@@ -45,12 +45,22 @@ We are enormous Kobe people here, so that counts for something on its own. But t
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2081349079842410988"></a></blockquote>
 </div>
 
+## What Does Barcelona's 2026/27 Third Kit Look Like?
+
+Released August 12, and it is the best colour story of the release week. Nike went back to the 1996/97 Kappa away shirt and pulled a light green out of it that nobody else in Europe is wearing, then ran a sharp vertical zigzag down the front to place it firmly in the nineties without tipping into costume. A navy Spotify wordmark sits on the chest and the Swoosh is pink, a pairing that should not work against that green and completely does.
+
+The campaign runs under "More than players, culés first" and is built around La Masia, and the shirt earns the sentiment because the reference is a real one rather than decoration. The green is what makes it. It sits in the same nostalgic register as the light blue the club wore in the Messi years, and it is a genuinely lovely thing to look at. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2087434033844080747"></a></blockquote>
+</div>
+
 ## Barcelona's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #A50044 0%, #004D98 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A-</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A-</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: A-</p>
 </div>
 
 ## The Gaudi Numbering Is The Detail To Notice
@@ -65,9 +75,9 @@ Nike, who have supplied Barcelona since 1998.
 
 ## The Bottom Line
 
-Barcelona's 2026/27 away shirt is the boldest kit in Europe, a Kobe Bryant collaboration with a purple-to-black gradient and iridescent serpent detailing, graded A-. The home shirt is a thoughtful B+ built on four blaugrana stripes and Gaudi-inspired numbering, held back only by the gradient running through the stripes. Wardrobe grade: A-.
+Barcelona's 2026/27 away shirt is the boldest kit in Europe, a Kobe Bryant collaboration with a purple-to-black gradient and iridescent serpent detailing, graded A-. The third is its equal for different reasons, a light green lifted from the 1996/97 Kappa away that is the nicest colour anyone released this summer. The home shirt is a thoughtful B+ built on four blaugrana stripes and Gaudi-inspired numbering, held back only by the gradient running through the stripes. Wardrobe grade: A-.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

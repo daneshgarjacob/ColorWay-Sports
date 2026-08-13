@@ -71,7 +71,7 @@ adidas, who returned as Arsenal's supplier in 2019 and have made every kit since
 
 Arsenal have the joint-most complete wardrobe in Europe for 2026/27 and one of the better ones. The home shirt is the best of the three thanks to its two-tone red and the sleeve striping, and both change kits earn their place by putting red, blue and yellow back together. Wardrobe grade: B+.
 
-See how Arsenal's shirts stack up against the rest of the continent in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See how Arsenal's shirts stack up against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

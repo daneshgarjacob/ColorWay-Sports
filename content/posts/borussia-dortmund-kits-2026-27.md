@@ -71,7 +71,7 @@ PUMA, who have supplied Borussia Dortmund since 2012.
 
 Dortmund's home shirt is a B+ built on a tonal pattern taken from the Minister Stein colliery steelwork and the Dortmunder U-Tower, and their purple third, one of only two released in Europe, matches it at B+. The anthracite away is still unreleased. Wardrobe grade: B+.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

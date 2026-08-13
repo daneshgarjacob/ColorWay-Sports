@@ -65,7 +65,7 @@ adidas, who have supplied Manchester United since 2015.
 
 Manchester United's 2026/27 away shirt is the best change kit in Europe, an A, thanks to a superb blue and a single pop of red at the collar. The home shirt is a solid B+ carrying a polo collar for the fiftieth anniversary of the 1977 FA Cup final. Buyers have reported fabric snagging on the away. Wardrobe grade: A-.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
 ## Frequently Asked Questions
 

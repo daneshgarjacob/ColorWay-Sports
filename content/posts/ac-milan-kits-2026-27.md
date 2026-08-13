@@ -81,7 +81,7 @@ PUMA, who have supplied AC Milan since 2018.
 
 AC Milan's home shirt is the second-best kit of the 2026/27 season, an A, built on restored thick red and black stripes that finally carry across the back as well as the front. The Athens-tribute away shirt is a B-. The third, out August 7, is black with fluorescent red that reacts to UV light, which is the cleverest idea in any European kit this season and also too dark to enjoy most of the time, and it is a B- as well. The gap between the home and the other two is the widest of any club in Europe. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
 ## Frequently Asked Questions
 

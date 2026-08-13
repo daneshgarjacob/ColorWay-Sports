@@ -81,7 +81,7 @@ adidas, who have supplied Juventus since 2019.
 
 Juventus restored proper wide black and white stripes and a retro fold-over polo collar for 2026/27, and both are excellent. The gold that replaced last season's pink is the new problem, because gold on white leaves the Jeep sponsor and the crest hard to read. The pale pink away is a B. The black flame third, out August 7, is doing too much and is too dark to show any of it, and it grades a C+. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

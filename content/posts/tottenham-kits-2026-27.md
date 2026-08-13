@@ -63,7 +63,7 @@ Nike, who have supplied Tottenham since 2017.
 
 The home shirt is a white-and-navy repeat carrying a mid-1980s Hummel reference so subtle it barely registers, and it grades a B-. The away, worn in a match before it ever hit the shelves, is the better shirt at a B. The third is still a leak. Wardrobe grade: B, and the leaked purple third is the one to watch.
 
-See where both shirts landed against the rest of the continent in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27), [Chelsea's 2026/27 kits](/stories/chelsea-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
+See where both shirts landed against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27), [Chelsea's 2026/27 kits](/stories/chelsea-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
 

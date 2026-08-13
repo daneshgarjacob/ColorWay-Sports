@@ -71,7 +71,7 @@ adidas, who have supplied Bayern Munich since 1965.
 
 Bayern's 2026/27 home shirt is a welcome return to a classic deep red with tonal pinstripes and gold trim, graded B, though safe rather than special. The away revives the Bayern e.V. crest for the first time in twenty-five years, which is lovely, but the white-and-navy result looks too much like Real Madrid's home shirt. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

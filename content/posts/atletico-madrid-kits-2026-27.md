@@ -67,7 +67,7 @@ Nike, who have supplied Atletico Madrid since 2001.
 
 Atletico Madrid's home shirt is one of the best in Europe at an A-, built on red and white stripes with a tonal Neptune trident pattern and royal blue framing the collar. The black away shirt with neon green accents is a B- and a strange departure for a club that normally keeps change kits quiet. Wardrobe grade: B+.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

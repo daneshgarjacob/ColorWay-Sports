@@ -65,7 +65,7 @@ PUMA, who have supplied City since 2019 in what was reported at the time as one 
 
 Manchester City are the only one of Europe's fifteen biggest clubs without a kit graded above a B for 2026/27. The gradient home shirt has a good idea and a poor execution, and the worker-bee away shirt is the lowest-graded kit in our entire European ranking because it forgot to be blue. The AI-designed third kit is still to come. Wardrobe grade: B-.
 
-See where both shirts landed against the rest of the continent in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
+See where both shirts landed against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
 

@@ -2,7 +2,7 @@
 title: "Real Madrid's 2026/27 Kits: Two Bs For The Biggest Kit"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
+updatedDate: "2026-08-12"
 excerpt: "Real Madrid's 2026/27 home jersey has pink on the three stripes and both kits graded a B. The most valuable shirt in football settling for fine."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #0B3D2E 50%, #E5A0B5 120%)"
 cardStyle: words
@@ -45,23 +45,29 @@ Worth flagging for buyers: some owners have reported fabric snagging on this shi
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2080204500158062814"></a></blockquote>
 </div>
 
-## The Third Shirt: Not Yet Released
+## What Does Real Madrid's 2026/27 Third Kit Look Like?
 
-Real Madrid's third kit launches August 12. It is a vibrant pink base with a geometric print of circles, diamonds and dotted lines drawn from Latin American art, with matching pink shorts and socks. Given how we feel about the pink on the home shirt, we are curious whether committing to it fully works better than using it as trim. We grade it once it is out.
+Released August 12, and it is the first pink Real Madrid have worn in six years, only the third in the club's history. A dark pink base carries a tonal geometric pattern of interlocking circles and diamonds across the front and back, with ivory on the collar, cuffs, three stripes and logos, and a retro "RMCF" wordmark across the shoulders. adidas describe it as a nod to Latin American craftsmanship and the club's support across the region.
+
+The execution is good. The ivory trim stops the pink going sickly, the tonal pattern gives the shirt something to look at up close without shouting, and committing fully to a colour is a more defensible choice than using it as trim. Our reservation is the colour itself rather than the design. Pink is a hard sell on this badge, and this lands as a shirt we respect more than we like. **Grade: B+**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2087667946923425807"></a></blockquote>
+</div>
 
 ## Real Madrid's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #1B4A3A 0%, #0A0A0A 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: B</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: B &nbsp;·&nbsp; Third: B+</p>
 </div>
 
 ## The Pink Question
 
-Real Madrid have put pink on both the home shirt's shoulders and, from August 12, an entire third kit. Two very different bets on the same colour.
+Real Madrid have put pink on both the home shirt's shoulders and, since August 12, an entire third kit. Two very different bets on the same colour.
 
-Our read is that the third kit is the more defensible one. A shirt that commits fully to a colour is making a statement you can accept or reject. Pink used as trim on the most traditional white shirt in football is neither one thing nor the other, and it is the reason the home kit sits at a B rather than higher.
+Our read is that the third kit is the more defensible one, and grading it a B+ against the home shirt's B says so. A shirt that commits fully to a colour is making a statement you can accept or reject. Pink used as trim on the most traditional white shirt in football is neither one thing nor the other, and it is the reason the home kit sits at a B rather than higher.
 
 ## Who Makes Real Madrid's Kits?
 
@@ -69,9 +75,9 @@ adidas, who have supplied Real Madrid since 1998.
 
 ## The Bottom Line
 
-Real Madrid graded two Bs for 2026/27, which is a mild disappointment for the most valuable kit in football. The home shirt's crown-derived jacquard and dark green trim are good work undone by pink on the three stripes, and the green away lacks any pop of contrast. The pink third kit lands August 12. Wardrobe grade: B.
+Real Madrid graded two Bs and a B+ for 2026/27, which is a mild disappointment for the most valuable kit in football. The home shirt's crown-derived jacquard and dark green trim are good work undone by pink on the three stripes, and the green away lacks any pop of contrast. The pink third kit is the best of the three and the only one doing something with conviction. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 33 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 
