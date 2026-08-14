@@ -35,11 +35,11 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, August 13
 
-Nine games on the board and the road teams brought the colour again. Seven have finished and five of the first six visitors skipped the gray or wore it as the whole look: Cleveland in navy at Detroit, Cincinnati in the red script at Rate Field, Pittsburgh in the black alternate rather than the City Connect for the second straight night, Seattle in navy at Yankee Stadium after leading with the Northwest Green there on Wednesday, and Boston and Chicago in road grays at Toronto and Washington.
+Nine games on the board and the road teams brought the colour again. All nine are final, and five of the first six visitors skipped the gray or wore it as the whole look: Cleveland in navy at Detroit, Cincinnati in the red script at Rate Field, Pittsburgh in the black alternate rather than the City Connect for the second straight night, Seattle in navy at Yankee Stadium after leading with the Northwest Green there on Wednesday, and Boston and Chicago in road grays at Toronto and Washington.
 
 The split that stands out is at home. Five of the six home clubs wore white, and Washington was the only one to answer with colour, pulling the navy alternate against the Cubs' gray. That is the inverse of Wednesday, when all fifteen home teams wore white and every alternate belonged to a road team.
 
-The two late games are Milwaukee at the Dodgers, where the Brewers went to the powder blue against a Dodgers home white, and Texas at the Angels in a road gray against Anaheim's home white. Both were still playing at the time of writing and get their scores added when they finish. The game that mattered most tonight: **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have released special uniforms for it, and it takes both of our daily honours below.
+The two late games are Milwaukee at the Dodgers, where the Brewers went to the powder blue against a Dodgers home white, and Texas at the Angels in a road gray against Anaheim's home white. Both finished late, Milwaukee taking a one-run game and the Angels shutting out Texas. The game that mattered most tonight: **Philadelphia at Minnesota at the Field of Dreams site in Dyersville, Iowa.** Both clubs have released special uniforms for it, and it takes both of our daily honours below.
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #C4CED4 0%, #E81828 100%); border-radius: 12px 12px 0 0;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
@@ -266,7 +266,7 @@ Side by side, the gray is what keeps this from being two cream jerseys blurring 
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Late Game</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Brewers 5, Dodgers 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -293,7 +293,7 @@ Side by side, the gray is what keeps this from being two cream jerseys blurring 
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Late Game</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Angels 7, Rangers 0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
