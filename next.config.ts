@@ -75,6 +75,13 @@ const nextConfig: NextConfig = {
         destination: "/stories/buccaneers-uniform-schedule-2026",
         permanent: true,
       },
+      // 8/13: I duplicated an existing Netflix scorebug review. The new Field of
+      // Dreams redesign coverage was folded into the original URL and this 301s.
+      {
+        source: "/stories/netflix-mlb-scorebug-2026",
+        destination: "/stories/netflix-mlb-scorebug-2026-review",
+        permanent: true,
+      },
       // Old WordPress URLs -- redirect to homepage
       {
         source: "/wp-content/:path*",
