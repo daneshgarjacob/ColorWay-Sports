@@ -28,7 +28,7 @@ const CONFIGS = {
     dir: 'public/images/posts/cal-joe-roth-uniforms-2026',
     art: 'full-uniform.jpg',
     mode: 'bleed',
-    focusY: 0.30,
+    focusY: 0.40,
   },
   'gators-blue-helmet': {
     dir: 'public/images/posts/gators-blue-helmet-uniforms-2026',
