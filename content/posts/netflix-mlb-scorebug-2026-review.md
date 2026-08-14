@@ -17,8 +17,8 @@ Netflix carried the 2026 Field of Dreams game between the Phillies and the Twins
 
 ## The New Bug, Broken Down
 
-<img src="/images/posts/netflix-mlb-scorebug-2026/scorebug-diagram.jpg" alt="ColorWay Sports recreation of the redesigned Netflix MLB scorebug from the 2026 Field of Dreams game, showing the batter bar, pitcher bar, Phillies and Twins score chips, the Netflix wordmark, the base diamonds, the inning indicator, the count and the outs" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">ColorWay Sports recreation of the layout. This is our own drawing, not a broadcast still.</p>
+<img src="/images/posts/netflix-mlb-scorebug-2026/scorebug.jpg" alt="The redesigned Netflix MLB scorebug during the 2026 Field of Dreams game, showing the Schwarber batter bar in Phillies red, the pitcher bar in blue, the Phillies and Twins colour chips with the score, the Netflix wordmark, the base diamonds, the inning, the count and the outs" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The redesigned bug during the Field of Dreams broadcast</p>
 
 One rounded translucent panel, stacked in four zones:
 
@@ -117,6 +117,6 @@ For clarity and modern construction it is among the best in baseball right now. 
 
 B+. Modern, very legible in HD, and well built, but with no connection to the broadcast it belongs to and no place for challenge information.
 
-**Where can I see the real Netflix scorebug?**
+**Where can I see the Netflix scorebug?**
 
-On the Netflix broadcast itself. The redesign diagram in this article is a ColorWay Sports recreation of the layout, drawn by us, not a still from the broadcast.
+On the Netflix broadcast itself. The images in this article are our own screenshots of the March debut and the August Field of Dreams redesign.
