@@ -1,7 +1,7 @@
 ---
 title: >-
   Is the Globe Life Field Roof Open Today? Rangers 2026 Roof Schedule
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-13"
 category: MLB
 date: '2026-04-01'
 excerpt: >-
@@ -24,7 +24,7 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
 <div style="margin: 1.75em 0; border: 2px solid #003278; border-radius: 16px; overflow: hidden;">
   <div style="background: #003278; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, August 12, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, August 13, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
@@ -34,7 +34,6 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
     <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
   </div>
 </div>
-
 ## How to Check Today's Globe Life Field Roof Status
 
 <div style="margin: 1.5em 0; padding: 1.75em 1.5em; background: linear-gradient(135deg, #003278 0%, #C0111F 100%); border-radius: 16px; text-align: center;">

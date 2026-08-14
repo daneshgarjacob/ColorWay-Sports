@@ -2,6 +2,7 @@
 title: "Tennessee Titans Rebrand: New Uniforms, New Logo, New Era"
 category: "NFL"
 date: "2026-03-24"
+updatedDate: "2026-08-13"
 excerpt: "The Titans unveiled a full rebrand with new uniforms and a new logo. The jerseys are clean. The logo is a letdown. We break it all down."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #C8102E 50%, #4B92DB 100%)"
 logoSrc: "/logos/titans.png"
@@ -55,3 +56,23 @@ There's room to have fun with it, to give it some edge, some personality that ma
 The jerseys are carrying this rebrand. They're clean, they're modern, and they're going to look good on the field once the games start. The lighter blue was the right move. The Cam Ward era has a look that fits.
 
 But the logo holds it back from being a home run. An A- on the uniforms and a B- on the logo averages out to a solid B+ overall. Not blown away, but not disappointed either. We'll see how it all comes together under the stadium lights.
+
+## Update, August 13: They Finally Hit the Field
+
+We said we would see how it came together under the stadium lights. It came together.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Titans/status/2088091399837381073"></a>
+  </blockquote>
+</div>
+
+Tennessee wore the new set in game action for the first time on Thursday night, and the thing that carries on a phone screen carries on a field. The lighter blue is the reason. Photography in a stadium flattens colour, and the old navy went nearly black under lights and read as a dark mass at distance. This blue holds its identity in the same conditions, which is the whole argument for the change and the part you cannot judge from a studio render.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Titans/status/2088058532788576547"></a>
+  </blockquote>
+</div>
+
+Nothing here changes our grades. The uniforms were the strong part of this rebrand in March and seeing them live only confirms it. The logo is still the piece holding the package back from an A. But the on-field test was the open question, and the uniforms passed it.
