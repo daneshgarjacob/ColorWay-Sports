@@ -5,7 +5,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-08-14"
+updatedDate: "2026-08-15"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded.jpg"
@@ -48,6 +48,8 @@ The Friday effect is doing most of this work. The Mets wear black at home every 
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Athletics Green Alternate</span>
 </div>
 
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2088486789694829013"></a></blockquote>
+
 <div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
   <img src="/images/posts/mlb-daily-tracker/athletics-green-alternate.jpg" alt="Athletics Green Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-width: 380px; width: 100%; border-radius: 12px;" />
 </div>
@@ -62,6 +64,8 @@ It is also worth saying plainly, given where this franchise is: a team in a temp
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Blue Jays Navy City Connect</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2088464692477878321"></a></blockquote>
 
 <div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
   <img src="/images/posts/mlb-daily-tracker/blue-jays-city-connect-navy.jpg" alt="Toronto Blue Jays Navy City Connect jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-width: 380px; width: 100%; border-radius: 12px;" />
