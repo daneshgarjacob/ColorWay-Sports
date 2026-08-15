@@ -2,6 +2,7 @@
 title: "Washington Commanders New Uniforms 2026: Ranked, Reviewed, and Graded (Our Highest Score Yet)"
 category: "NFL"
 date: "2026-04-15"
+updatedDate: "2026-08-14"
 excerpt: "The Commanders officially revealed their 2026 uniforms and we gave them the highest grade we've ever given an NFL redesign. Full breakdown of every jersey including the Hail Raiser black alternate."
 gradient: "linear-gradient(135deg, #5A1414 0%, #FFB612 50%, #000000 100%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -101,6 +102,18 @@ This is the highest grade we've given any NFL uniform redesign.
   <p style="font-size: 1.1em; color: #FFB612; margin: 0 0 0.75em; text-transform: uppercase; letter-spacing: 2px;">Overall Grade</p>
   <p style="font-size: 5em; font-weight: 900; color: #FFB612; margin: 0; line-height: 1;">A</p>
 </div>
+
+## Update: The Commanders Uniforms on the Field for the First Time
+
+Washington finally put the burgundy and gold on grass, and the set survives the transition better than almost any redesign we have covered this year.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2088410896800370930"></a></blockquote>
+
+They look outstanding. The gloss on the burgundy helmet is the piece that could have gone wrong, because glossy shells can read cheap under stadium lighting, and instead it does exactly what it is supposed to: it catches light, separates cleanly from the burgundy jersey, and gives the whole combination a depth that a matte shell would have flattened. The gold pants are the right gold, warm rather than mustard, and the block numbers hold their shape from the upper deck.
+
+The contrast with Atlanta is instructive and it is the whole argument for this redesign. Both teams were correcting a failed modern set. The Falcons subtracted until they arrived at neutral, and on the field the result is a uniform you stop noticing. Washington subtracted toward something specific: a look the franchise actually won with, that a generation of fans has an emotional relationship with. On the field that reads instantly. One approach avoids being wrong; the other commits to being right.
+
+The **A** stands, and if anything the on-field debut makes us more confident in it than the reveal did.
 
 ## How Do the 2026 Commanders Uniforms Compare to Other NFL Redesigns?
 

@@ -2,7 +2,7 @@
 title: "What Is the NFL Rivalries Program? The Alternate Uniforms Teams Wear Once a Year, Explained"
 category: NFL
 date: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-08-14"
 excerpt: "Nike's NFL Rivalries program gives teams a special alternate uniform for one home game a year against a division rival. Here is how it works, who has one, and who is next in 2026."
 gradient: "linear-gradient(135deg, #013369 0%, #101820 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -35,6 +35,18 @@ The Miami Dolphins built one of the most talked-about sets of that first wave, t
 ## Who Is Next in 2026
 
 The program continues expanding by division, and the next wave brings in the AFC South and the NFC North. That means the Texans, Colts, Jaguars, and Titans on one side and the Bears, Lions, Packers, and Vikings on the other are the teams to watch for new Rivalries reveals tied to the 2026 season. Some of the best rivalries in the league, Bears-Packers chief among them, are about to get their own one-game uniforms, and that is a lot of design worth waiting for.
+
+## The First Rivalries-on-Rivalries Game: Seahawks vs. Rams on Christmas Day
+
+The program gets its biggest stage yet on **Friday, December 25**, when Seattle hosts the Rams in Week 16 and, as both teams confirmed on August 14, **both wear their Rivalries uniforms.**
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2088295574114390256"></a></blockquote>
+
+Every previous Rivalries game has been one team in a special uniform against an opponent in its normal set. This is the first time both sides show up in theirs, and it happens to land on Christmas Day, one of the few regular-season windows the league treats like a holiday event.
+
+The reason this matters beyond the novelty is that it fixes the program's core weakness. One team in a special jersey looks like a merchandise drop that the other team is standing next to. Two rivals in matching-concept uniforms looks like the thing the program was pitched as: a designated grudge match with its own visual identity. Seattle's set against the Rams' all-black Midnight Mode is also a genuinely strong color pairing, which does not hurt.
+
+Full details on both sides in the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 ## The Bottom Line
 

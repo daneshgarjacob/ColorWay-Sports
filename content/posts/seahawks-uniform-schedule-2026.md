@@ -2,7 +2,7 @@
 title: "Seattle Seahawks 2026 Uniform Schedule: When They Wear the Royal Blue Throwback and Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-14"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -78,6 +78,14 @@ Two wearings is also the right number. Seattle spent years treating this uniform
 Seattle wears its Rivalries uniform against the Rams on Friday, December 25. Christmas Day, at home, against a division rival, in the slot the league reserves for its biggest audiences of the regular season. That is the best placement any team has given a Rivalries jersey in the program's short history.
 
 The Seahawks came into the program with the first wave in 2025 alongside the rest of the NFC West and the AFC East, so this is the uniform's second season rather than a debut. The rule across the program is one wearing per year at a home game against a division rival, and Seattle used its single wearing on the most-watched date available to it. Compare that with the teams that spend theirs on a one o'clock afternoon game in November and the difference in staging is obvious.
+
+**Update, August 14:** the Rams confirmed they are wearing their Rivalries uniform for this game too. Both teams announced it together, so Christmas Day is a full Rivalries-on-Rivalries matchup, Seattle's set against the Rams' all-black Midnight Mode.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2088295574114390256"></a></blockquote>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2088295799931441481"></a></blockquote>
+
+That has not happened before in the program, and it is the version of Rivalries the league presumably wanted all along. A single team in a special uniform reads as a merchandise drop. Two rivals in matching-concept uniforms on the biggest regular-season stage of the year reads as an event. Whatever you think of the jerseys individually, the staging here is the best the program has managed. See the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) for their side of it.
 
 For the background on how the waves and the rules work, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
