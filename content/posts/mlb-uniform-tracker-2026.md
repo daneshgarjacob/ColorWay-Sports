@@ -36,27 +36,42 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, August 14
 
-Fourteen games on the board, and the eleven logged so far produced the loudest colour night of the month. **Nine of the ten home teams skipped white.** Cincinnati in the black City Connect, Pittsburgh in theirs, Detroit in orange, the Mets in black, Cleveland in the navy City Connect, Tampa Bay in the Devil Rays throwback, Atlanta in red, Toronto in the navy City Connect, and Houston in orange. Only the Cubs broke the pattern, and they broke it upward, going to the light blue rather than the home whites.
+Fourteen games on the board, all fourteen logged, and it was the loudest colour night of the month. **Nine of the ten home teams skipped white.** Cincinnati in the black City Connect, Pittsburgh in theirs, Detroit in orange, the Mets in black, Cleveland in the navy City Connect, Tampa Bay in the Devil Rays throwback, Atlanta in red, Toronto in the navy City Connect, and Houston in orange. Only the Cubs broke the pattern, and they broke it upward, going to the light blue rather than the home whites.
 
 That is a full inversion of Wednesday, when all fifteen home clubs wore white and every alternate in baseball belonged to a visitor. Tonight the visitors did the opposite: six of the ten came in gray, and only Boston in red, San Diego in the sand pinstripes, Chicago in black, and Seattle in navy brought anything else.
 
-The Friday effect is doing most of this work. The Mets wear black at home every Friday, City Connects cluster on Friday nights across the league, and the result is a slate where the colour is concentrated rather than scattered. Kansas City opened the west coast window in the road gray against an Angels home white — the first time the plain Angels home white has appeared in this log, as against the 1980s throwback they usually reach for. Three late games at the Athletics, Dodgers, and Giants are still to come.
+The Friday effect is doing most of this work. The Mets wear black at home every Friday, City Connects cluster on Friday nights across the league, and the result is a slate where the colour is concentrated rather than scattered. Kansas City opened the west coast window in the road gray against an Angels home white — the first time the plain Angels home white has appeared in this log, as against the 1980s throwback they usually reach for. The west coast then delivered the two best-looking games of the night: the Athletics in kelly green against a Rangers road gray, and Colorado's purple against San Francisco's orange, which is the rarest colour-on-colour pairing the schedule can produce.
 
 
-<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
-  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
-  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Diamondbacks Black Alternate</span>
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #003831 0%, #EFB21E 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Athletics Green Alternate</span>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
-  <img src="/images/posts/mlb-daily-tracker/diamondbacks-black-alternate.jpg" alt="Arizona Diamondbacks Black Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-width: 380px; width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/mlb-daily-tracker/athletics-green-alternate.jpg" alt="Athletics Green Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-width: 380px; width: 100%; border-radius: 12px;" />
 </div>
 
-Arizona owns one of the five best colour combinations in baseball and wore none of it. Sedona red and Sonoran sand are specific, regional, and instantly identifiable as this franchise and no other. The black alternate is none of those things. Cover the wordmark and this is a jersey that could belong to nineteen different teams.
+Kelly green and gold is the most underused colour pair in American sport, and this is the only team that owns it. Nobody else in baseball is within reach of this green. It is not forest, it is not hunter, it is not the safe dark green a brand consultant reaches for when they want green without commitment. It is loud, and it has been loud since the early seventies.
 
-The particular waste is the opponent. Atlanta came out in the red alternate, which means the frame was set up for Sedona red against Atlanta red, or for the sand to do what sand does against a saturated colour. Instead the visitor turned itself into a silhouette. Black against red is not a bad pairing in the abstract, but it is a pairing available to anyone, and Arizona gave up the one it owns to get it.
+The jersey earns the day because it does almost nothing beyond letting the colour work. Gold script, gold piping down the placket, white pants underneath so the green reads at full strength instead of getting muddied by a matching bottom. There is no gradient, no secondary logo crowding the chest, no attempt to modernise a look that was already right.
 
-This is not a poorly made jersey. The teal-to-black gradient sleeve trim is executed cleanly and the numbers are legible. It is a poorly chosen one, and on a night when nine home clubs reached for colour, the team with the best colour in the building reached for the least.
+It is also worth saying plainly, given where this franchise is: a team in a temporary ballpark with an unresolved future still puts the best colour combination in the league on the field most nights. The uniform is the most stable thing about the Athletics right now.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Blue Jays Navy City Connect</span>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 0 0 0.8em;">
+  <img src="/images/posts/mlb-daily-tracker/blue-jays-city-connect-navy.jpg" alt="Toronto Blue Jays Navy City Connect jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-width: 380px; width: 100%; border-radius: 12px;" />
+</div>
+
+Toronto is one of the easiest cities in baseball to dress. The club owns a royal blue nobody confuses for anyone else, a maple leaf with more instant recognition than most franchise marks, and a colour scheme already tied to a national identity. The City Connect throws all of it away and comes back with navy.
+
+Navy is what a team picks when it cannot decide. It is the safest colour in sport, it is already worn by a third of the league, and on this jersey it actively fights the one element that should carry the design. The red accents want a bright field to sit against, the way red sits on white on the Canadian flag. Against navy they go dull, and the whole thing reads closer to a generic road alternate than a tribute to a specific place.
+
+The frustrating part is that the concept had somewhere obvious to go. Red and white is right there, unclaimed, nationally understood, and used by nobody else in the league. Toronto had the clearest brief of any City Connect and answered it with the colour that says the least.
 
 ### St. Louis Cardinals at Chicago Cubs
 
@@ -354,6 +369,102 @@ This is not a poorly made jersey. The teal-to-black gradient sleeve trim is exec
     </div>
   </div>
 </div>
+
+### Texas Rangers at Athletics
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Athletics 8, Rangers 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rangers-road-gray.jpg" alt="Rangers Road Gray jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%20rangers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/athletics-green-alternate.jpg" alt="Athletics Green Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ATHLETICS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #003831; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Green Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+
+### Milwaukee Brewers at Los Angeles Dodgers
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; margin: 1.4em 0 0.6em; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 3, Brewers 1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/brewers-powder-blue-alternate.jpg" alt="Brewers Powder Blue Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #9ecae1; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Powder Blue Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%20brewers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/dodgers-home-white.png" alt="Dodgers Home White jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%20angeles%20dodgers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+
+### Colorado Rockies at San Francisco Giants
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #333366 0%, #C4CED4 50%, #FD5A1E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rockies 5, Giants 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rockies-purple-alternate.jpg" alt="Rockies Purple Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROCKIES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #333366; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Purple Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%20rockies%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/giants-orange-alternate.jpg" alt="Giants Orange Friday Alternate jersey worn August 14 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">GIANTS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #FD5A1E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Orange Friday Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%20francisco%20giants%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div style="margin: 0 0 1.4em; padding: 0.65em 1em; background: rgba(155, 200, 36, 0.12); border-radius: 10px; border: 1px solid rgba(155, 200, 36, 0.25);">
+  <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
+</div>
+
+Purple against orange is the loudest frame the schedule can produce, and it almost never happens, because both of these are alternates that have to be chosen on the same night by two clubs with no reason to coordinate. Colorado's purple is a true violet rather than a navy pretending, and San Francisco's orange is the actual orange from the cap, not a muted jersey version of it.
+
+What makes it work rather than clash is the value match. Both tops sit at nearly the same darkness, so neither one flattens the other on camera, and both teams paired them with gray or white below rather than doubling down. The result is two saturated blocks of colour at the same weight, which reads as a deliberate pairing even though nobody planned it.
+
+The one thing keeping it off a 9 is the caps. Colorado's black crown drains a little energy out of the purple, and a purple cap on purple would have pushed this into the best-looking game of the month.
 
 ## Thursday, August 13
 

@@ -10,6 +10,8 @@ import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
+import TeamWoreLastNight from "@/components/TeamWoreLastNight";
+import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -91,6 +93,19 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     ...(post.coverImage ? { image: `https://www.colorwaysports.com${post.coverImage}` } : {}),
   };
 
+  // MLB team schedule posts get a live "what did they wear last night" block
+  // sourced from the daily tracker. These are the pages that actually rank for
+  // "what are the <team> wearing", so the freshness belongs here rather than on
+  // the league-wide tracker. Only loads the tracker for those slugs.
+  const isMlbSchedulePost =
+    post.league === "mlb" && /-uniform-schedule-2026$/.test(slug);
+  const trackerPost = isMlbSchedulePost
+    ? await getPostBySlug("mlb-uniform-tracker-2026")
+    : null;
+  const teamLatest = trackerPost
+    ? getTeamLatestFromTracker(trackerPost.contentHtml, slug)
+    : null;
+
   const graph: Record<string, unknown>[] = [articleSchema];
 
   if (post.faqs && post.faqs.length > 0) {
@@ -104,6 +119,39 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           text: faq.answer,
         },
       })),
+    });
+  }
+
+  // The live block visibly asks and answers two of the four target phrasings, so
+  // those two get FAQ schema. "right now" / "what jersey did" are deliberately
+  // NOT declared — schema should only claim questions the page actually answers
+  // on screen. Google matches paraphrases to the same block anyway.
+  if (teamLatest?.latest) {
+    const q = teamWearQuestions(teamLatest.team);
+    const g = teamLatest.latest;
+    const place = g.home ? "at home" : "on the road";
+    graph.push({
+      "@type": "FAQPage",
+      mainEntity: [
+        {
+          "@type": "Question",
+          name: q.lastNight,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: g.uniform
+              ? `On ${g.month} ${g.date} the ${teamLatest.team} wore the ${g.uniform} ${place} ${g.opp}.`
+              : `The ${teamLatest.team} last played ${g.opp} on ${g.month} ${g.date}.`,
+          },
+        },
+        {
+          "@type": "Question",
+          name: q.tonight,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call tonight's look before first pitch. Their most recent logged game was ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
+          },
+        },
+      ],
     });
   }
 
@@ -206,6 +254,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           </div>
         </div>
       </div>
+
+      {teamLatest?.latest && (
+        <TeamWoreLastNight data={teamLatest} accent={leagueColor(post.category)} />
+      )}
 
       {jumpItems.length > 0 &&
         (jumpNavIsGames ? (

@@ -119,6 +119,27 @@ const MLB_TEAM_LOGO: Record<string, string> = {
   "rockies": "/logos/teams/mlb-colorado-rockies.png",
 };
 
+// Game headings are written two ways in the tracker: short ("Cubs at Cardinals")
+// on days logged before 2026-08-05, full ("St. Louis Cardinals at Chicago Cubs")
+// after. Exact-match-only lookup silently dropped every full-name game — 125 of
+// them, all of Aug 5-14, missing from the hub and all 30 team calendars with no
+// error. Fall back to a suffix match, which resolves both forms.
+//
+// Suffix matching is safe for all 30 clubs: no short name is a suffix of another
+// ("Chicago White Sox" does not end with "Red Sox"), and "Athletics" is
+// identical in both forms.
+function resolveTeam(
+  byName: Map<string, TeamIndexEntry>,
+  heading: string,
+): TeamIndexEntry | undefined {
+  const exact = byName.get(heading);
+  if (exact) return exact;
+  for (const [name, entry] of byName) {
+    if (heading.endsWith(` ${name}`)) return entry;
+  }
+  return undefined;
+}
+
 export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
   const byName = new Map<string, TeamIndexEntry>();
   for (const [name, division, color, slug] of TEAMS) {
@@ -164,8 +185,8 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
     const awayName = m[1].trim();
     const homeName = m[2].trim();
     const suffix = m[3] ? shortSuffix(`(${m[3]})`) : "";
-    const away = byName.get(awayName);
-    const home = byName.get(homeName);
+    const away = resolveTeam(byName, awayName);
+    const home = resolveTeam(byName, homeName);
     if (!away && !home) continue;
 
     const slice = contentHtml.slice(slot.start, slot.end);
@@ -179,33 +200,38 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
     const dayShort = shortDay(slot.day);
     const { month, date } = parseDayParts(slot.day);
     const sfx = suffix ? ` · ${suffix}` : "";
+    // Always label the opponent with its SHORT name. The headings mix short and
+    // full forms across days, and using the raw heading text produced calendars
+    // reading "vs Cubs" on one row and "vs Milwaukee Brewers" on the next.
+    const awayLabel = away?.name ?? awayName;
+    const homeLabel = home?.name ?? homeName;
 
     if (away) {
       away.games.push({
         id: slot.id,
         day: dayShort,
-        opp: `at ${homeName}${sfx}`,
+        opp: `at ${homeLabel}${sfx}`,
         uniform: uniLabels.length === 2 ? uniLabels[0].label : undefined,
         uniformColor: uniLabels.length === 2 ? uniLabels[0].color : undefined,
         img: imgs.length === 2 ? imgs[0] : undefined,
         home: false,
         month,
         date,
-        oppName: homeName,
+        oppName: homeLabel,
       });
     }
     if (home) {
       home.games.push({
         id: slot.id,
         day: dayShort,
-        opp: `vs ${awayName}${sfx}`,
+        opp: `vs ${awayLabel}${sfx}`,
         uniform: uniLabels.length === 2 ? uniLabels[1].label : undefined,
         uniformColor: uniLabels.length === 2 ? uniLabels[1].color : undefined,
         img: imgs.length === 2 ? imgs[1] : undefined,
         home: true,
         month,
         date,
-        oppName: awayName,
+        oppName: awayLabel,
       });
     }
   }
