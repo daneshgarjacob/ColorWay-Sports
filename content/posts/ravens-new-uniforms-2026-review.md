@@ -2,6 +2,7 @@
 title: "Baltimore Ravens New Uniforms 2026 Review: Every Jersey and Helmet Graded"
 category: "NFL"
 date: "2026-04-16"
+updatedDate: "2026-08-15"
 excerpt: "The Ravens unveiled The Next Flight with four jerseys, three helmets, and a full brand refresh including the all-new Darkness blackout uniform. We grade every piece of the 2026 Ravens rebrand."
 gradient: "linear-gradient(135deg, #241773 0%, #000000 50%, #9E7C0C 100%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -13,6 +14,14 @@ teams: ["baltimore-ravens"]
 
 <img src="/images/posts/ravens-uniforms-2026-reveal/HGEHe-lbIAADd2x.jpg" alt="Baltimore Ravens The Next Flight 2026 uniform reveal showing all four jerseys including primary purple home, white road with Baltimore wordmark, Purple Rising alternate, and all-black Darkness alternate" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Baltimore Ravens</p>
+
+**Update, August 15, 2026: The Next Flight is on the field.** The Ravens debuted the collection in their preseason opener against the Philadelphia Eagles at M&T Bank Stadium, announcing it themselves with "Time to debut The Next Flight uniforms." That is four months between the reveal and the first live look. We log every combination the Ravens wear this season in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet">
+    <a href="https://twitter.com/Ravens/status/2088755894343409773"></a>
+  </blockquote>
+</div>
 
 Wow. There is a lot to unpack here. The Baltimore Ravens officially unveiled their 2026 uniform collection tonight under the campaign "The Next Flight," and this is the biggest uniform change in [Ravens uniform history](/stories/ravens-uniform-history-every-jersey) since the franchise debuted in 1996. Four jerseys, three helmets, new wordmarks, new collar patterns, new sleeve shields, an all-new blackout alternate uniform called "Darkness," and a full brand refresh. We are going to go piece by piece. For the complete picture, jump to our [Baltimore Ravens uniforms hub](/stories/baltimore-ravens-uniforms) covering every era and the full Next Flight collection in one place.
 
