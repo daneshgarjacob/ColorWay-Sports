@@ -29,14 +29,25 @@ function newestDaySlice(html: string): { day: string; slice: string } | null {
   return { day, slice: html.slice(start, end) };
 }
 
-// Returns the first match of `re` that is NOT immediately preceded by "Worst ",
-// so the tracker's "Worst Jersey of the Day" pill can never satisfy a lookup
-// meant for the real one. `re` must carry the g flag.
-function firstNonWorst(hay: string, re: RegExp): RegExpExecArray | null {
+// Returns the first match of `re` that is NOT immediately preceded by a
+// negative-award prefix, so a "worst" pill can never satisfy a lookup meant for
+// the real one. `re` must carry the g flag.
+//
+// As of 2026-08-14 the negative award is called "Stinker of the Day", which does
+// not contain "Jersey of the Day", so nothing currently collides. This guard is
+// kept deliberately: the previous name WAS "Worst Jersey of the Day", which did
+// collide, and silently promoted the worst jersey to the homepage as the best.
+// If the award is ever renamed again, add the new prefix here first.
+// Written as an explicit scan rather than a RegExp lookbehind so it does not
+// depend on lookbehind support in older Safari.
+const NEGATIVE_PREFIXES = ["Worst ", "Stinker ", "Ugliest "];
+
+function firstPositive(hay: string, re: RegExp): RegExpExecArray | null {
   re.lastIndex = 0;
   let m: RegExpExecArray | null;
   while ((m = re.exec(hay)) !== null) {
-    if (!/Worst $/.test(hay.slice(Math.max(0, m.index - 6), m.index))) return m;
+    const before = hay.slice(Math.max(0, m.index - 12), m.index);
+    if (!NEGATIVE_PREFIXES.some((p) => before.endsWith(p))) return m;
   }
   return null;
 }
@@ -46,13 +57,7 @@ export type Jotd = { title: string; day: string; image: string | null } | null;
 export function getJotd(html: string): Jotd {
   const d = newestDaySlice(html);
   if (!d) return null;
-  // This guard is load-bearing: the tracker also carries a "Worst Jersey of the
-  // Day" pill whose label CONTAINS this one. Without it, whichever pill appears
-  // first in the day's HTML wins, and on any day the worst pill is written first
-  // the homepage promotes the worst jersey as the best. Written as an explicit
-  // scan rather than a lookbehind so it does not depend on RegExp lookbehind
-  // support in older Safari.
-  const m = firstNonWorst(d.slice, /Jersey of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/g);
+  const m = firstPositive(d.slice, /Jersey of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/g);
   if (!m) return null;
   const title = strip(m[1]);
   // Find the matching jersey image from that day's game cards, by alt text.
@@ -68,8 +73,10 @@ export type Motd = { matchup: string; grade: string; images: string[] } | null;
 export function getMotd(html: string): Motd {
   const d = newestDaySlice(html);
   if (!d) return null;
-  // Same guard as getJotd: never let a "Worst ..." variant satisfy this lookup.
-  const bannerMatch = firstNonWorst(d.slice, /Jersey Matchup of the Day/g);
+  // The banner is "ColorWay Clash of the Day" as of 2026-08-14. "Jersey Matchup
+  // of the Day" is the pre-rename name, still accepted so an unmigrated day
+  // entry degrades to working rather than to a blank homepage card.
+  const bannerMatch = firstPositive(d.slice, /(?:ColorWay Clash|Jersey Matchup) of the Day/g);
   if (!bannerMatch) return null;
   const bannerIdx = bannerMatch.index;
 

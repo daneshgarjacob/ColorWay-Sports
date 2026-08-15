@@ -59,7 +59,7 @@ function CwStamp({ color = "#fff" }: { color?: string }) {
 }
 
 // One grouped MLB zone on a soft-tinted band: the tracker carousel up top,
-// then a single "Jersey Stats of the Day" card (Jersey of the Day + Matchup
+// then a single "Jersey Stats of the Day" card (Jersey of the Day + ColorWay Clash
 // of the Day + last night's category mix — all the same day's data), then the
 // day-of-week pattern chart. Replaces MlbUniformsHub + MlbFeatureStrip +
 // WeekdayStandardIndex so the homepage groups all the MLB tools in one place.
@@ -178,7 +178,7 @@ export default async function MlbUniformsZone() {
                 </Link>
               )}
 
-              {/* Matchup of the Day */}
+              {/* ColorWay Clash of the Day */}
               {motd && (
                 <Link
                   href={href}
@@ -186,7 +186,7 @@ export default async function MlbUniformsZone() {
                 >
                   <div className="flex items-center justify-between mb-2">
                     <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
-                      ★ Matchup of the Day
+                      ★ ColorWay Clash of the Day
                     </span>
                     {motd.grade && (
                       <span className="text-[11px] font-extrabold text-[#1F6B4E]">

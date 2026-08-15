@@ -43,7 +43,7 @@ The Friday effect is doing most of this work. The Mets wear black at home every 
 
 
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
-  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Worst Jersey of the Day</span>
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Diamondbacks Black Alternate</span>
 </div>
 
@@ -358,7 +358,7 @@ The detail to look for on the broadcast is the **1839 Baseball Centennial patch 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #E81828 0%, #C4CED4 50%, #002B5C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -737,7 +737,7 @@ The Northwest Green is the best colour any team currently runs and it does not g
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #C4CED4 50%, #134A8E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -1351,7 +1351,7 @@ There is no trick to it, which is exactly why it wins. The Dodger home white is 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #f5f5f5 50%, #003831 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -1560,7 +1560,7 @@ The powder blue is technically Milwaukee's road uniform, not an alternate, and t
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #E81828 0%, #f5f5f5 50%, #C41E3A 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2041,7 +2041,7 @@ This is our No. 1 Marlins jersey and the only A in their closet, and Sunday is t
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #DF4601 0%, #f5f5f5 50%, #9BB7D4 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2491,7 +2491,7 @@ The Pirates own the best black jersey in baseball and it is not particularly clo
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #f5f5f5 50%, #111111 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -2995,7 +2995,7 @@ The Rush-Blue is the rare City Connect that reads as a real uniform rather than 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #FD5A1E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -3175,7 +3175,7 @@ Thursday at Citizens Bank Park means powder blue, and it is the most reliable st
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #005C5C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; Jersey Matchup of the Day &#9733;</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
   </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -3738,7 +3738,7 @@ Seven road teams wore colour on Wednesday and Boston still took the day in the p
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #2F241D 0%, #f5f5f5 50%, #A71930 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
@@ -4169,7 +4169,7 @@ The royal blue alternate is the one Dodgers look that does not rely on the scrip
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #f5f5f5 50%, #BD3039 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
@@ -4405,7 +4405,7 @@ The cursive "Dodgers" script in blue on gray with the red number underneath is o
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #C41E3A 0%, #f5f5f5 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -4834,7 +4834,7 @@ Back-to-back for the Cooperstown pinstripes, and we are not going to pretend oth
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #f5f5f5 50%, #005A9C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -5209,7 +5209,7 @@ The Mets pulled out the Cooperstown Collection pinstripes to mark 40 years since
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #003831 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -5530,7 +5530,7 @@ New York's black alternate is the rare black jersey that earns it: the orange-an
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #f5f5f5 50%, #EB6E1F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -5743,7 +5743,7 @@ The Dodgers' home whites are about as clean as it gets in baseball: the cursive 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #00A3E0 0%, #f5f5f5 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -6091,7 +6091,7 @@ The Mets' black alternate is one of the most beloved looks in the National Leagu
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #f5f5f5 50%, #003831 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -6703,7 +6703,7 @@ The nightcap brought the wardrobe out. Cleveland's navy alternate with the big r
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2C56 0%, #f5f5f5 50%, #005A9C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -7348,7 +7348,7 @@ Gray at Miami's home whites, a quiet, businesslike pairing to open the week in S
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -7531,7 +7531,7 @@ Baltimore's orange alternate is a jolt of pure color, the black “Orioles” sc
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BA0021 0%, #f5f5f5 50%, #FD5A1E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -8058,7 +8058,7 @@ Nobody had more fun on Saturday than Tampa Bay. The Devil Rays throwback — a w
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #f5f5f5 50%, #FF5910 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -8585,7 +8585,7 @@ On a night when all 30 teams wore throwback caps for Hall of Fame Weekend, the A
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #f5f5f5 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -9098,7 +9098,7 @@ On a night this short on color, the cleanest classic wins by default, and Atlant
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #f5f5f5 50%, #134A8E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -9281,7 +9281,7 @@ Detroit's navy alternate is the quiet success story of the 2026 uniform year. Th
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #f5f5f5 50%, #9ecae1 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -9860,7 +9860,7 @@ The Dodgers have been leaning on the royal blue alternate more and more, and it 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #8FBCE6 0%, #f5f5f5 50%, #1749B7 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -9892,7 +9892,7 @@ The Dodgers have been leaning on the royal blue alternate more and more, and it 
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
-The Jersey Matchup of the Day, and it is the second blue-on-blue meeting between these two in three days. Tampa Bay's columbia blue with the sunburst is the best jersey the Rays own, and Toronto answered again with the royal blue alternate, the arched BLUE JAYS wordmark over the bird crest. Two blues this far apart in value should not work together, and they do, because pale sky against deep royal reads as contrast rather than clash. Nothing else on this board put two colors on the field with no white and no gray anywhere in the frame.
+The ColorWay Clash of the Day, and it is the second blue-on-blue meeting between these two in three days. Tampa Bay's columbia blue with the sunburst is the best jersey the Rays own, and Toronto answered again with the royal blue alternate, the arched BLUE JAYS wordmark over the bird crest. Two blues this far apart in value should not work together, and they do, because pale sky against deep royal reads as contrast rather than clash. Nothing else on this board put two colors on the field with no white and no gray anywhere in the frame.
 
 ### Twins at Guardians
 
@@ -10307,7 +10307,7 @@ Back-to-back Jersey of the Day honors for the same uniform, and it earned them a
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #f5f5f5 50%, #003278 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -10339,7 +10339,7 @@ Back-to-back Jersey of the Day honors for the same uniform, and it earned them a
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
-The Jersey Matchup of the Day, and it is a study in how far clean beats busy. Chicago's black alternate with the gothic SOX wordmark is the sharpest thing in a wardrobe that has not had much to celebrate, and Texas answered with the whitest whites in the league, that unbroken cream-free home set with the royal and red piping running down the placket. Black against pure white is the oldest contrast in the book, and under the Globe Life roof it reads like a tuxedo. No City Connect, no throwback, no gimmick, just two teams wearing their best plain clothes.
+The ColorWay Clash of the Day, and it is a study in how far clean beats busy. Chicago's black alternate with the gothic SOX wordmark is the sharpest thing in a wardrobe that has not had much to celebrate, and Texas answered with the whitest whites in the league, that unbroken cream-free home set with the royal and red piping running down the placket. Black against pure white is the oldest contrast in the book, and under the Globe Life roof it reads like a tuxedo. No City Connect, no throwback, no gimmick, just two teams wearing their best plain clothes.
 
 ### Twins at Guardians
 
@@ -10820,7 +10820,7 @@ Our pick from the Sunday slate: the Angels in the white throwback alternate, the
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #f5f5f5 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -10852,7 +10852,7 @@ Our pick from the Sunday slate: the Angels in the white throwback alternate, the
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8.5 / 10</p>
 </div>
 
-The Jersey Matchup of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey with the orange "Detroit" script across the chest, against the Angels' white throwback alternate with the arched red "Angels" script, the halo over the A, and the California sleeve patch. Deep navy against crisp retro white is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
+The ColorWay Clash of the Day, and it is not close: Detroit's brand-new navy alternate, the dark blue jersey with the orange "Detroit" script across the chest, against the Angels' white throwback alternate with the arched red "Angels" script, the halo over the A, and the California sleeve patch. Deep navy against crisp retro white is a gorgeous uniform frame, two of the best-looking alternates in the American League sharing one field, and the kind of matchup that makes a Sunday getaway game appointment viewing for jersey fans.
 
 ### White Sox at Blue Jays
 
@@ -11366,7 +11366,7 @@ The marquee series in the Bronx got its best look on Saturday, with Los Angeles 
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #002D72 0%, #FF5910 50%, #E81828 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -11398,7 +11398,7 @@ The marquee series in the Bronx got its best look on Saturday, with Los Angeles 
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 8 / 10</p>
 </div>
 
-The Jersey Matchup of the Day comes from the NL East: New York's road gray with the blue-and-orange script into Philadelphia's cream alternate with the maroon-tinged pinstripes. This is one of baseball's oldest uniform rivalries, and the pairing of a classic gray jersey against a warm cream home look is exactly the kind of throwback frame that needs no City Connect help. Two storied looks, one storied rivalry, and an easy call for the day's crown.
+The ColorWay Clash of the Day comes from the NL East: New York's road gray with the blue-and-orange script into Philadelphia's cream alternate with the maroon-tinged pinstripes. This is one of baseball's oldest uniform rivalries, and the pairing of a classic gray jersey against a warm cream home look is exactly the kind of throwback frame that needs no City Connect help. Two storied looks, one storied rivalry, and an easy call for the day's crown.
 
 ### Cardinals at Diamondbacks
 
@@ -11879,7 +11879,7 @@ Our pick from a loaded Friday: Seattle's navy-and-teal alternate, worn at home a
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #E8B24B 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -12537,7 +12537,7 @@ Cleveland in road gray, Miami in its blue alternate jersey. The Marlins' Caribbe
 
 <div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #E8B24B 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
   <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ Jersey Matchup of the Day ★</span>
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">★ ColorWay Clash of the Day ★</span>
   </div>
   <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px;">
     <div style="text-align: center; margin-bottom: 12px;">
