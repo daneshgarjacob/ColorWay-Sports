@@ -53,7 +53,10 @@ export default function Home() {
   // single biggest query on the site at 87 clicks, plus 73 more on "rams jersey
   // schedule 2026". It earns a slot even though it is older than the rest.
   const FEATURED_SLUGS: string[] = [
-    "field-of-dreams-2027-royals-red-sox-uniforms",
+    // Every slug here MUST have a real coverImage. The hero plus these three are
+    // the top of the page, and a words-only or ColorWay-generated card is never
+    // allowed in that group. Check the post's frontmatter before adding one.
+    "college-football-blackout-uniforms-2026-ranked",
     "gators-blue-helmet-uniforms-2026",
     "rams-uniform-schedule-2026",
   ];
