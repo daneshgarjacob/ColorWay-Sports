@@ -2,7 +2,7 @@
 title: "Every Field of Dreams Uniform Ever, Ranked: The 1919 White Sox Throwback Is Overrated"
 category: MLB
 date: "2026-07-20"
-updatedDate: "2026-08-08"
+updatedDate: "2026-08-15"
 excerpt: "All six Field of Dreams Game jerseys and uniforms ranked and graded. Only one earns an A, and the most famous throwback of the bunch finishes dead last."
 gradient: "linear-gradient(135deg, #efe1c1 0%, #16233f 130%)"
 coverImage: "/images/posts/field-of-dreams-history/cover.jpg"
@@ -148,6 +148,8 @@ A throwback is a whole outfit. The ones that finish high here treat it that way.
 </div>
 
 The 2026 game is Thursday, August 13 at 7:30 p.m. ET, Phillies at Twins, streaming on Netflix. We will grade the on-field pairing the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [Phillies uniform calendar](/mlb-tracker/phillies) tracks everything Philadelphia wears between now and then.
+
+The 2027 edition is already set: Royals against Red Sox on August 12, 2027. Kansas City posted its 1969 inaugural-season throwback within a day of the announcement and Boston teased a 1930s cap logo. Full breakdown of [both 2027 Field of Dreams uniforms here](/stories/field-of-dreams-2027-royals-red-sox-uniforms).
 
 ## Frequently Asked Questions
 

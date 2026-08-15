@@ -2,8 +2,8 @@
 title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-12"
-excerpt: "We graded 33 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
+updatedDate: "2026-08-15"
+excerpt: "We graded 35 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Ranked
@@ -11,9 +11,9 @@ league: "soccer"
 teams: []
 ---
 
-Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all thirty-three shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
+Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all thirty-five shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
 
-One note on what is here and what is not. Only released kits are ranked. Juventus and AC Milan both put their third shirts out on August 7 and both are graded below, but eleven of the fifteen third kits are still leaks, including Liverpool's and Real Madrid's, which both launch on August 12. We do not grade a shirt until the club has actually put it out. Those get added here as they land.
+One note on what is here and what is not. Only released kits are ranked. Six of the fifteen third shirts have officially launched, Juventus's and AC Milan's on August 7, Arsenal's, Borussia Dortmund's, Real Madrid's and Barcelona's since, and all six are graded below. The other nine are not out yet. Liverpool's was scheduled for August 12 and the club still has not put it out, so it is not ranked here despite full images being in circulation. We do not grade a shirt until the club has actually released it. Those get added as they land.
 
 ## 35. Manchester City, Away
 
@@ -359,7 +359,7 @@ Manchester City are the only one of Europe's fifteen biggest clubs without a sin
 
 **Why are most third kits not in this ranking?**
 
-Because most of them are not out yet. Four of the fifteen third kits have officially launched, Arsenal's, Borussia Dortmund's, Juventus's and AC Milan's, and all four are ranked here. The other eleven are still leaks, including Liverpool's and Real Madrid's, which launch on August 12. We do not grade a shirt until the club has released it.
+Because several of them are not out yet. Six of the fifteen third kits have officially launched, Arsenal's, Borussia Dortmund's, Juventus's, AC Milan's, Real Madrid's and Barcelona's, and all six are ranked here. The other nine are still to come. Liverpool's was due on August 12 and the club has not launched it, so it stays out of the ranking. We do not grade a shirt until the club has released it.
 
 **What is the Barcelona Kobe Bryant kit?**
 

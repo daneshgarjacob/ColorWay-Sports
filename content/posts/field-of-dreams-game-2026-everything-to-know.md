@@ -2,7 +2,7 @@
 title: "Field of Dreams Game 2026: The Uniforms, the Matchup, and How to Watch Phillies vs Twins in Iowa"
 category: MLB
 date: "2026-07-21"
-updatedDate: "2026-08-08"
+updatedDate: "2026-08-15"
 excerpt: "Everything to know about the 2026 Field of Dreams Game on August 13: the Phillies and Twins throwback jerseys, the start time, and how to watch on Netflix."
 gradient: "linear-gradient(135deg, #284898 0%, #0b2d1a 55%, #E81828 130%)"
 coverImage: "/images/posts/field-of-dreams-game-2026/buxton-harper-uniforms.jpg"
@@ -67,6 +67,8 @@ We log what all 30 clubs wear every single day in our [MLB daily uniform tracker
 The reason to care is the clothes. A regular season game between the Phillies and Twins is a Thursday, but a Phillies team in a 1939 road set with a 100th-anniversary sleeve patch, against a Twins club in 1961 pinstripes with the Minnie and Paul patch on the sleeve, in a cornfield, on Netflix, is the only night all season that looks like this.
 
 Philadelphia is bringing the best uniform in the history of the event. That is worth 7:30 on a Thursday.
+
+**Next up:** MLB has already set the 2027 game, Royals against Red Sox on August 12, 2027, and Kansas City has posted its 1969 throwback jersey a year early. We broke down [both 2027 Field of Dreams uniforms here](/stories/field-of-dreams-2027-royals-red-sox-uniforms).
 
 ## Frequently Asked Questions
 
