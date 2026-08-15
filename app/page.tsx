@@ -53,9 +53,9 @@ export default function Home() {
   // single biggest query on the site at 87 clicks, plus 73 more on "rams jersey
   // schedule 2026". It earns a slot even though it is older than the rest.
   const FEATURED_SLUGS: string[] = [
-    "cal-joe-roth-uniforms-2026",
+    "field-of-dreams-2027-royals-red-sox-uniforms",
+    "gators-blue-helmet-uniforms-2026",
     "rams-uniform-schedule-2026",
-    "buccaneers-uniform-schedule-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

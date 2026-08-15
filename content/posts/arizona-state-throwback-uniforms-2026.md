@@ -1,5 +1,6 @@
 ---
 title: "Arizona State's 'Roses & Devils' Throwback Uniforms Are the Best Jersey Reveal of the College Football Offseason"
+homepageHero: true
 category: "College"
 date: "2026-08-15"
 updatedDate: "2026-08-15"
@@ -78,7 +79,7 @@ It is not a perfect A-plus only because the modern jersey cut leaves the shoulde
 
 Gold Sparky helmet, maroon jersey with the block **ARIZONA STATE** wordmark, gold pants, and a name that points straight at the best team in program history. Arizona State did not modernize the 1996 uniform, which is exactly why it lands. Grade: **A**.
 
-Arizona State also opens its Big 12 slate against Mississippi State on September 6, a game where the Bulldogs are wearing [one of the seven new adidas alternates](/stories/adidas-college-football-alternate-uniforms-2026-ranked). For the rest of this offseason's college jersey reveals, we graded [Florida's matte blue helmet](/stories/gators-blue-helmet-uniforms-2026), [Georgia's first white helmet](/stories/georgia-all-white-uniforms-2026), [Vanderbilt's return to old gold](/stories/vanderbilt-gold-uniforms-2026), and [Tulane's Mardi Gras City Edition](/stories/tulane-city-edition-uniforms-2026).
+Arizona State also plays Mississippi State on September 6, a game where the Bulldogs are debuting one of the seven new adidas alternate uniforms that dropped this week. For the rest of this offseason's college jersey reveals, we graded [Florida's matte blue helmet](/stories/gators-blue-helmet-uniforms-2026), [Georgia's first white helmet](/stories/georgia-all-white-uniforms-2026), [Vanderbilt's return to old gold](/stories/vanderbilt-gold-uniforms-2026), and [Tulane's Mardi Gras City Edition](/stories/tulane-city-edition-uniforms-2026).
 
 ## Frequently Asked Questions
 
