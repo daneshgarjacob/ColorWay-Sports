@@ -68,6 +68,8 @@ export interface PostMeta {
   resurfaceOnUpdate?: boolean;
   homepageHero?: boolean;
   homepageFeature?: boolean;
+  /** Render a newsletter signup above the article body too (daily-updated posts). */
+  newsletterTop?: boolean;
   topViewsRank?: number;
   reviews?: ReviewItem[];
   bestRating?: number;
@@ -216,6 +218,7 @@ export function getAllPosts(): PostMeta[] {
       resurfaceOnUpdate: data.resurfaceOnUpdate,
       homepageHero: data.homepageHero,
       homepageFeature: data.homepageFeature,
+      newsletterTop: data.newsletterTop,
       topViewsRank: data.topViewsRank,
       reviews: data.reviews,
       bestRating: data.bestRating,

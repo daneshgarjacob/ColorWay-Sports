@@ -2,7 +2,17 @@
 
 import { useState } from "react";
 
-export default function InlineNewsletter() {
+type Props = {
+  eyebrow?: string;
+  heading?: string;
+  body?: string;
+};
+
+export default function InlineNewsletter({
+  eyebrow = "The ColorWay Sports Newsletter",
+  heading = "Get every uniform drop in your inbox.",
+  body = "New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.",
+}: Props = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -48,16 +58,16 @@ export default function InlineNewsletter() {
           className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-2"
           style={{ fontFamily: "var(--font-sans)" }}
         >
-          The ColorWay Sports Newsletter
+          {eyebrow}
         </p>
         <h2
           className="text-2xl sm:text-3xl font-extrabold text-black leading-tight tracking-tight mb-2"
           style={{ fontFamily: "var(--font-sans)" }}
         >
-          Get every uniform drop in your inbox.
+          {heading}
         </h2>
         <p className="text-[15px] text-black/60 mb-5 leading-relaxed">
-          New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.
+          {body}
         </p>
         {status === "success" ? (
           <p className="text-base font-semibold text-[#2f6bed] py-3">

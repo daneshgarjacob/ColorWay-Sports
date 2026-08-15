@@ -19,9 +19,21 @@ export default function EmailCapture() {
       if (Date.now() - dismissedAt < sevenDays) return;
     }
 
+    // Fire at HALF THE PAGE **or** a fixed depth, whichever comes first.
+    //
+    // The percentage-only version silently never fired on the site's most
+    // valuable pages. The MLB daily tracker is ~200,000 words; 50% of it is
+    // roughly 100,000 words down, so the one page a reader has a reason to
+    // revisit every single morning was the one page that never asked them to
+    // subscribe. Short pages still use the percentage (2,400px may be past
+    // their end); long pages now trigger at a depth a real reader reaches.
+    const DEPTH_PX = 2400;
+
     const handleScroll = () => {
       const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
-      if (scrollHeight > 0 && window.scrollY / scrollHeight > 0.5) {
+      if (scrollHeight <= 0) return;
+      const deepEnough = window.scrollY / scrollHeight > 0.5 || window.scrollY > DEPTH_PX;
+      if (deepEnough) {
         setShow(true);
         window.removeEventListener("scroll", handleScroll);
       }

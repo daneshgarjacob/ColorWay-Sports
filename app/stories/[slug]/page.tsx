@@ -216,6 +216,21 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
       {teamIndex && <TrackerTeamIndex teams={teamIndex} />}
 
+      {/* Daily-updated posts get a signup ABOVE the body as well as below it.
+          On a post the length of the MLB tracker the footer form is tens of
+          thousands of words past where anyone stops reading, so the page with
+          the strongest reason to subscribe was the one never asking. Opt-in via
+          `newsletterTop: true` in frontmatter so no other post is affected. */}
+      {post.newsletterTop && (
+        <div className="max-w-[720px] mx-auto px-5 pt-8">
+          <InlineNewsletter
+            eyebrow="Updated Every Morning"
+            heading="Never check the site to find out."
+            body="We log every uniform in every game, every day. Get the day's slate, the standouts, and the misses in one email."
+          />
+        </div>
+      )}
+
       {/* Article body */}
       <main className="max-w-[720px] mx-auto px-5 py-12">
         {slug === "lakers-jersey-tracker-2025-26" ? (
