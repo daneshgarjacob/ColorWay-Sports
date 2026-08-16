@@ -95,6 +95,23 @@ const TEAMS = {
     // The ny mark is royal blue on a royal blue field, so it needs the disc.
     disc: true,
   },
+  steelers: {
+    slug: 'steelers-uniform-schedule-2026',
+    logo: 'nfl-pittsburgh-steelers',
+    eyebrow: 'PITTSBURGH STEELERS',
+    looks: ['BLACK', '1933 THROWBACK'],
+    base: '#2a2a2a', mid: '#181818', deep: '#000000', accent: '#FFB612',
+    disc: true,
+  },
+  browns: {
+    slug: 'browns-uniform-schedule-2026',
+    logo: 'nfl-cleveland-browns',
+    eyebrow: 'CLEVELAND BROWNS',
+    looks: ['BROWN', 'ALPHA DAWG'],
+    base: '#5a3608', mid: '#311D00', deep: '#160c00', accent: '#FF3C00',
+    // The Browns mark is orange on a brown field, close enough to need the disc.
+    disc: true,
+  },
 };
 
 async function build(key) {
