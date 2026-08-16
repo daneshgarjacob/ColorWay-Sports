@@ -36,14 +36,43 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, August 16
 
-Fourteen games in the book with Seattle at Houston still to come Sunday night, and after a Saturday that carried six City Connects this was the hard swing back the other way: **zero City Connects, zero throwbacks, and one single alternate worn by a home team all afternoon.** Sunday is the plainest day on the baseball calendar and this one made the case better than most.
+Fifteen games, and after a Saturday that carried six City Connects this was the hard swing back the other way: **zero City Connects, zero throwbacks, and only two home clubs in anything but white.** Sunday is the plainest day on the baseball calendar and this one made the case better than most.
 
-Thirteen of the fourteen home clubs wore white or cream. Toronto was the only exception, going back to the powder blue against the Yankees for a second straight day, and it was the only splash of colour in a home dugout anywhere in the league.
+Thirteen of the fifteen home teams wore white or cream. Toronto went back to the powder blue against the Yankees for a second straight day, and Houston opened the night game in the orange alternate. Those were the only two home clubs that reached for colour at all.
 
-The road teams did the work instead. Eight visiting clubs pulled on the standard gray, and five reached for something: **Washington and Milwaukee in navy, the White Sox in black, and Texas and Kansas City both in royal blue** in games that started seven minutes apart in California. San Diego made fourteen with the khaki road set, which is not an alternate at all but is still the only jersey in the sport built on a sand base.
+The road teams did the work instead. Eight visiting clubs pulled on the standard gray, and six reached for something: **Washington, Milwaukee and Seattle in navy, the White Sox in black, and Texas and Kansas City both in royal blue** in games that started seven minutes apart in California. San Diego made fifteen with the khaki road set, which is not an alternate at all but is still the only jersey in the sport built on a sand base.
 
-That leaves the day with a wardrobe of grays and whites and two shades of blue, which sounds dull and mostly is, but it is also the truest picture of what a baseball Sunday looks like when nobody has a promotion to run.
+Strip it down and the whole slate runs on grays, whites, three navies and two royals, with one orange jersey in Houston to break it. That sounds dull and mostly is, but it is also the truest picture of what a baseball Sunday looks like when nobody has a promotion to run.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #134A8E 0%, #8FBCE6 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Blue Jays Powder Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2089089216655347949"></a></blockquote>
+
+Toronto wore this for a second straight day and it was the only home jersey in the league on Sunday that had any colour in it at all, which is a small indictment of everyone else and a large compliment to the Blue Jays.
+
+Powder blue is a hard colour to own. Most of the teams that carry one treat it as a novelty, a once-a-month Sunday softener, and it shows: the sets look thin, the caps do not match, and the whole thing reads as a costume. Toronto treats it as a real uniform. The maple leaf in the roundel holds up at that value because it is a heavy, solid mark with enough internal contrast to survive a light background, and the royal blue trim gives the powder something to push against instead of letting it float.
+
+The Yankees are also the ideal opponent for it. New York's road gray is the most conservative uniform in the sport and it functions here as a neutral wall, so the powder reads brighter than it would against a white or a colour. Two clubs with genuinely opposite instincts, and the one taking the risk won the frame.
+
+There is a version of this argument that says powder blue belongs on the road, and we have made it on this page before. Toronto is the counter-example. When the jersey is built properly and the mark is strong enough, it works at home too.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Brewers Navy Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2089127591529599358"></a></blockquote>
+
+Milwaukee owns one of the two or three best marks in baseball and this is the jersey that hides it.
+
+The ball-in-glove is a genuinely great piece of design, an *m* and a *b* built into a fielder's mitt, and it does its work through outline and negative space rather than colour. That means it needs a light field. On the cream and on the powder blue it reads instantly, the glove shape resolves at distance, and the joke lands for anyone seeing it for the first time. On navy it goes flat. The yellow holds, the outline does not, and from the middle deck it collapses into a shape rather than a logo.
+
+The deeper problem is that navy is not really a Brewers colour. It arrived as a road-alternate convenience and it competes with the identity the club actually spent the last few years rebuilding around, which is the retro yellow-and-blue palette from the Bambi's Bombers era. Milwaukee has a cream, a powder blue and a proper home white. All three are better than this, and all three do more work for the mark.
+
+Wearing it in Los Angeles against a home white made it worse. Dodger Stadium in August is the best light in the sport, and the Brewers spent it in the one jersey they own that looks the same in every light there is.
 ### Baltimore Orioles at Tampa Bay Rays
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -78,7 +107,7 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Pirates 8, Red Sox 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -133,10 +162,7 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
 
 ### New York Yankees at Toronto Blue Jays
 
-<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #8FBCE6 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
-  <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
-  </div>
+<div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Yankees 4, Blue Jays 3</span>
@@ -342,7 +368,7 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rockies 13, Giants 7</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -371,7 +397,7 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Athletics 5, Rangers 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -429,7 +455,7 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Brewers 6, Dodgers 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -448,6 +474,38 @@ That leaves the day with a wardrobe of grays and whites and two shades of blue, 
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%20angeles%20dodgers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Seattle Mariners at Houston Astros
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2C56 0%, #ffffff 50%, #EB6E1F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Mariners Navy Alternate jersey worn August 16 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARINERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2C56; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%20mariners%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/astros-orange-alternate.jpg" alt="Astros Orange Alternate jersey worn August 16 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ASTROS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #EB6E1F; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Orange Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%20astros%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
 </div>
