@@ -4,8 +4,8 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: NFL
 date: "2026-08-04"
-updatedDate: "2026-08-06"
-excerpt: "What NFL teams are wearing, game by game. Every helmet, jersey and pants combination logged and graded, starting with all 49 preseason games."
+updatedDate: "2026-08-15"
+excerpt: "What NFL teams are wearing, game by game. Every helmet, jersey and pants combination logged and graded, all 32 teams, from Week 1 onward."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 cardStyle: words
@@ -18,7 +18,7 @@ If you came here to find out what an NFL team is wearing tonight, that is exactl
 
 Baseball has a jersey. Football has a combination. A team can wear the same jersey three weeks running and look like three different teams depending on the helmet and the pants underneath it, and nobody keeps a proper record of it. So we are keeping it: what all 32 teams actually wear, game by game, all season, with a grade on every matchup.
 
-It starts with the preseason, because the preseason is where teams quietly test combinations they are thinking about using when it counts, and where throwbacks and one-offs turn up with no announcement at all.
+**Live game-by-game logging starts with Week 1 on Wednesday, September 9**, when Seattle hosts New England to open the season. Until then every card below shows the matchup and each team's identity colours, so you can see what is coming and who is playing whom. We do not guess at a combination before it is worn.
 
 <div style="display:flex;gap:22px;flex-wrap:wrap;align-items:center;margin:1.4em 0 0.4em;padding:13px 16px;background:#f5f7fa;border:1px solid #e3e6ec;border-radius:11px;"><span style="font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#6b7180;">Reading a card</span><span style="font-size:12px;color:#14223f;">Each team shows three bars, top to bottom: <b>helmet</b>, <b>jersey</b>, <b>pants</b>.</span><span style="font-size:11.5px;color:#8a8f98;">Away team left, home team right. Grade sits under the matchup.</span></div>
 
@@ -26,7 +26,9 @@ It starts with the preseason, because the preseason is where teams quietly test 
 
 Every game gets its own entry with both teams. Each team shows three bars, labelled **helmet**, **jersey** and **pants**, because that is how a football uniform is actually built and because the interesting decisions live in the pants. Monochrome, white over white, colour over colour, a throwback shell under a modern jersey: none of that shows up if you only record "they wore navy."
 
-Once a game kicks off we do three things. We log the actual combination and the bars update to match it. We add the team's own post showing the uniform, so you can see it rather than take our word for it. And we grade the matchup, because two good uniforms can still make an ugly game to look at, and that is worth saying.
+From Week 1 onward, every game that kicks off gets three things. We log the actual combination and the bars update to match it. We add the team's own post showing the uniform, so you can see it rather than take our word for it. And we grade the matchup, because two good uniforms can still make an ugly game to look at, and that is worth saying.
+
+Until then the bars show each team's identity colours and read **Not yet worn**. That label is doing real work: we would rather show you nothing than a combination we have not actually seen.
 
 Games run earliest first while the preseason is ahead of us. Once the season starts the newest games move to the top, the same way our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026) runs.
 
