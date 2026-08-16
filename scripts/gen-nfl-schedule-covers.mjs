@@ -77,6 +77,24 @@ const TEAMS = {
     base: '#0b3a6b', mid: '#002244', deep: '#000d1c', accent: '#69BE28',
     disc: false,
   },
+  lions: {
+    slug: 'lions-uniform-schedule-2026',
+    logo: 'nfl-detroit-lions',
+    eyebrow: 'DETROIT LIONS',
+    looks: ['HONOLULU BLUE', 'RIVALRIES'],
+    base: '#0076B6', mid: '#0a4a72', deep: '#04263b', accent: '#B0B7BC',
+    // The Lions mark is Honolulu blue on a Honolulu blue field, so it needs the disc.
+    disc: true,
+  },
+  giants: {
+    slug: 'new-york-giants-uniform-schedule-2026',
+    logo: 'nfl-new-york-giants',
+    eyebrow: 'NEW YORK GIANTS',
+    looks: ['ROYAL BLUE', 'LEGACY THROWBACK'],
+    base: '#0B2265', mid: '#07163f', deep: '#030a20', accent: '#A71930',
+    // The ny mark is royal blue on a royal blue field, so it needs the disc.
+    disc: true,
+  },
 };
 
 async function build(key) {
