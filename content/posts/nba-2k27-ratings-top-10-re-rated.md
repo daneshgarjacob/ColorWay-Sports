@@ -14,11 +14,11 @@ teams: []
 
 NBA 2K finished its Top 100 countdown this morning with Shai Gilgeous-Alexander at No. 1, and the full NBA 2K27 player ratings are now out. So we did the obvious thing: we re-rated the top 10 ourselves. Every 2K reveal is below, card by card, with our number next to theirs so you can see exactly where we split.
 
-First, what 2K actually did. **Three players share the top rating at 97** — Gilgeous-Alexander, Victor Wembanyama and Nikola Jokic — and nobody reached 98, let alone the 99 that used to get handed out before a season. Then 2K stacked six players inside a two-point band from 97 down to 96, which is the real problem with their list. When the top six are functionally identical, the ranking stops saying anything.
+First, what 2K actually did. **Three players share the top rating at 97**, Gilgeous-Alexander, Victor Wembanyama and Nikola Jokic, and nobody reached 98, let alone the 99 that used to get handed out before a season. Then 2K stacked six players inside a two-point band from 97 down to 96, which is the real problem with their list. When the top six are functionally identical, the ranking stops saying anything.
 
 Ours says something. Nikola Jokic comes down a point, Giannis Antetokounmpo loses two, Kevin Durant and Cade Cunningham fall out of the top 10 entirely, and Tyrese Maxey climbs six spots to get in. Here is the NBA 2K27 top 10, re-rated and counted down.
 
-## 10. Jayson Tatum, Boston Celtics
+## 10. Jayson Tatum, Boston Celtics · Our Rating: 91
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2088294577086071165"></a></blockquote>
@@ -28,7 +28,7 @@ Ours says something. Nikola Jokic comes down a point, Giannis Antetokounmpo lose
 
 Tatum did not get a top-10 card from 2K. He landed 12th, inside the 20-through-11 group above. We have him tenth, and we still cut the number by two, which sounds contradictory until you look at what happened to Boston. The Celtics traded Jaylen Brown to Philadelphia this summer and got Paul George back, which leaves Tatum carrying an offense with nothing like the second option he had. A 93 is a rating for a guy on a contender. He makes our ten because the floor is still enormous. He is tenth because everything around him got worse.
 
-## 9. Tyrese Maxey, Philadelphia 76ers
+## 9. Tyrese Maxey, Philadelphia 76ers · Our Rating: 91
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2088294577086071165"></a></blockquote>
@@ -38,7 +38,7 @@ Tatum did not get a top-10 card from 2K. He landed 12th, inside the 20-through-1
 
 Maxey is the other player in that 20-through-11 group we are pulling up. Six spots, and the number barely moves, because the ranking is the point. Maxey is going to have a monster year. Philadelphia added LeBron James and Jaylen Brown around him and the entire league is going to spend the season talking about that roster, but Maxey is the one who actually has the ball, and the Sixers are his team in a way the names above him on 2K's list do not change. A 92 that finishes 15th is 2K hedging. We would rather be early.
 
-## 8. Stephen Curry, Golden State Warriors
+## 8. Stephen Curry, Golden State Warriors · Our Rating: 93
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089385451920732650"></a></blockquote>
@@ -48,7 +48,7 @@ Maxey is the other player in that 20-through-11 group we are pulling up. Six spo
 
 The number is right. Curry is 38 and still the most gravitational shooter alive, which is a skill that does not decay the way athleticism does, and Golden State brought Jimmy Butler back in rather than blowing the thing up. There is no version of a healthy Curry who is not a top-10 player, and 93 prices that correctly. We move him up one spot and leave the rating alone.
 
-## 7. Giannis Antetokounmpo, Miami Heat
+## 7. Giannis Antetokounmpo, Miami Heat · Our Rating: 94
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089386359710728690"></a></blockquote>
@@ -60,7 +60,7 @@ The biggest gap between our board and theirs. Giannis is in a Miami Heat jersey 
 
 And this is where the board falls off. After Giannis there is a real drop, which is the thing 2K's compressed 96-to-97 tier hides completely.
 
-## 6. Anthony Edwards, Minnesota Timberwolves
+## 6. Anthony Edwards, Minnesota Timberwolves · Our Rating: 95
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089386074477080752"></a></blockquote>
@@ -70,7 +70,7 @@ And this is where the board falls off. After Giannis there is a real drop, which
 
 We take the number and move the man. 2K has Edwards behind Giannis. We have him ahead. Edwards is 25, he has been the best player on a conference finalist, and he is the rare young star whose game has kept adding rather than just getting more efficient. Minnesota also added LaMelo Ball this summer, which should mean more open looks, not fewer. If you are asking who you would rather build the next five years around, Edwards or Giannis, that is not a hard question anymore.
 
-## 5. Jalen Brunson, New York Knicks
+## 5. Jalen Brunson, New York Knicks · Our Rating: 95
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089386636488704400"></a></blockquote>
@@ -80,7 +80,7 @@ We take the number and move the man. 2K has Edwards behind Giannis. We have him 
 
 A point down, same spot. Brunson is the engine of a Knicks team that now has Karl-Anthony Towns, OG Anunoby and Mikal Bridges around him, and he is the reason that group functions. The single point is a size tax and nothing more. At 6'2" there are playoff series where the shot-making has to be perfect for New York to survive, and 96 should be reserved for players who do not have that ceiling on them.
 
-## 4. Luka Doncic, Los Angeles Lakers
+## 4. Luka Doncic, Los Angeles Lakers · Our Rating: 96
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089386953582252214"></a></blockquote>
@@ -90,7 +90,7 @@ A point down, same spot. Brunson is the engine of a Knicks team that now has Kar
 
 The one number in the top six we would not touch. Doncic in Lakers purple and gold is still the most complete offensive engine in basketball, a player who controls tempo, shot quality and matchups by himself. The defensive questions are permanent and they are the reason he is not higher. Ninety-six is exactly right.
 
-## 3. Nikola Jokic, Denver Nuggets
+## 3. Nikola Jokic, Denver Nuggets · Our Rating: 96
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089387237784113552"></a></blockquote>
@@ -100,7 +100,7 @@ The one number in the top six we would not touch. Doncic in Lakers purple and go
 
 The take that will get us the most mail. Jokic is arguably the best basketball player alive and we are still moving him out of the 97 tier, because the tier should mean something. He has one ring, in 2023, and Denver has not been back to a conference finals since. Every year the individual numbers get more absurd and every year the Nuggets exit early, and at some point the rating has to account for a team that keeps losing with the best player in the series. It is one point. It is also the difference between "best player in the world" and "best player on a team that gets out of the second round," and right now those are two different people.
 
-## 2. Victor Wembanyama, San Antonio Spurs
+## 2. Victor Wembanyama, San Antonio Spurs · Our Rating: 97
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089387508278984816"></a></blockquote>
@@ -108,9 +108,9 @@ The take that will get us the most mail. Jokic is arguably the best basketball p
 
 **2K says 97. We agree.**
 
-No argument. Wembanyama is 22 and already the most disruptive defensive player in the league, with a Spurs roster that has quietly turned into a real one around him — Stephon Castle at 87, Dylan Harper at 85, De'Aaron Fox at 84. Ninety-seven is correct and it is probably going to look low by March.
+No argument. Wembanyama is 22 and already the most disruptive defensive player in the league, with a Spurs roster that has quietly turned into a real one around him: Stephon Castle at 87, Dylan Harper at 85, De'Aaron Fox at 84. Ninety-seven is correct and it is probably going to look low by March.
 
-## 1. Shai Gilgeous-Alexander, Oklahoma City Thunder
+## 1. Shai Gilgeous-Alexander, Oklahoma City Thunder · Our Rating: 97
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBA2K/status/2089387777620332753"></a></blockquote>
@@ -175,15 +175,15 @@ Four players hold the same rank on both boards. Gilgeous-Alexander, Wembanyama, 
 
 The top 10 is where the argument is loudest, but these are the five outside it we would change most.
 
-**LeBron James, Philadelphia 76ers — 2K says 91. We say 87.** The single most generous rating in the game. James is 41, on a two-year deal, and joining a team where he is genuinely the fourth-best player. Ninety-one is a legacy number. Eighty-seven is what a 41-year-old complementary star is worth, and it is still a very good rating.
+**LeBron James, Philadelphia 76ers. 2K says 91. We say 87.** The single most generous rating in the game. James is 41, on a two-year deal, and joining a team where he is genuinely the fourth-best player. Ninety-one is a legacy number. Eighty-seven is what a 41-year-old complementary star is worth, and it is still a very good rating.
 
-**Anthony Davis, Washington Wizards — 2K says 90. We say 86.** Availability is a skill and Davis does not have it. He has one guaranteed year left in Washington next to Trae Young, and a player who cannot be counted on to be on the floor should not carry a 90.
+**Anthony Davis, Washington Wizards. 2K says 90. We say 86.** Availability is a skill and Davis does not have it. He has one guaranteed year left in Washington next to Trae Young, and a player who cannot be counted on to be on the floor should not carry a 90.
 
-**Kevin Durant, Houston Rockets — 2K says 93. We say 90.** Still one of the purest scorers who has ever played, and still 37 in a Rockets jersey next to Alperen Sengun and Amen Thompson. Ninety is not disrespect. Ninety-three is fiction, and it is why he is the one 2K put in the top 10 that we could not keep there.
+**Kevin Durant, Houston Rockets. 2K says 93. We say 90.** Still one of the purest scorers who has ever played, and still 37 in a Rockets jersey next to Alperen Sengun and Amen Thompson. Ninety is not disrespect. Ninety-three is fiction, and it is why he is the one 2K put in the top 10 that we could not keep there.
 
-**Jamal Murray, Denver Nuggets — 2K says 89. We say 87.** Way too high. Murray has two or three unguardable playoff runs on his resume and a whole lot of ordinary regular seasons in between, and 89 prices in only the good version.
+**Jamal Murray, Denver Nuggets. 2K says 89. We say 87.** Way too high. Murray has two or three unguardable playoff runs on his resume and a whole lot of ordinary regular seasons in between, and 89 prices in only the good version.
 
-**Deni Avdija, Portland Trail Blazers — 2K says 88. We say 90.** The only player on this list we are moving up. Avdija took a genuine leap in Portland and 2K has not caught up. At 90 he sits one point behind our No. 10, which is the point: he is far closer to that group than a 25th-place ranking suggests.
+**Deni Avdija, Portland Trail Blazers. 2K says 88. We say 90.** The only player on this list we are moving up. Avdija took a genuine leap in Portland and 2K has not caught up. At 90 he sits one point behind our No. 10, which is the point: he is far closer to that group than a 25th-place ranking suggests.
 
 One we are watching without a number: **Tyrese Haliburton at 90.** We think he has a great year coming in Indiana. We would rather grade that after we see it than guess at it now.
 
@@ -191,9 +191,28 @@ One we are watching without a number: **Tyrese Haliburton at 90.** We think he h
 
 Here is what makes this ratings drop different, and it is a uniform story as much as a basketball one. The top of NBA 2K27 is full of players you will not recognize by their colors.
 
-**Giannis is in a Miami Heat jersey.** **Luka Doncic is in Lakers purple and gold.** **Kevin Durant is in Rockets red.** **Jaylen Brown is in a 76ers uniform** and Paul George went the other way to Boston. **Anthony Davis is a Washington Wizard.** And **Kawhi Leonard, at 93, is going back to Toronto** — the Raptors agreed to acquire him from the Clippers for Brandon Ingram, Gradey Dick and a stack of picks, a deal on hold pending the league's cap investigation, with Leonard expecting to be a Raptor by training camp. That would put him back in the jersey he won the 2019 title in.
+**Giannis is in a Miami Heat jersey.** **Luka Doncic is in Lakers purple and gold.** **Kevin Durant is in Rockets red.** **Jaylen Brown is in a 76ers uniform** and Paul George went the other way to Boston. **Anthony Davis is a Washington Wizard.** And **Kawhi Leonard, at 93, is going back to Toronto**, and the Raptors agreed to acquire him from the Clippers for Brandon Ingram, Gradey Dick and a stack of picks, a deal on hold pending the league's cap investigation, with Leonard expecting to be a Raptor by training camp. That would put him back in the jersey he won the 2019 title in.
 
-The 76ers now hold four of 2K's top 18 — Maxey at 92, James, Brown and Joel Embiid all at 91 — which means four of the eighteen best players in the game wear the same uniform. The Knicks have three of the top 24 in Brunson, Towns and Anunoby.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; max-width: 720px; margin: 1.75em auto;">
+  <div>
+    <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold jersey with purple trim, the uniform Luka Doncic wears as a Laker in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(85, 37, 130, 0.05); border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Luka Doncic &middot; Lakers Icon gold</p>
+  </div>
+  <div>
+    <img src="/images/jerseys/nba/rockets-icon-red.png" alt="Houston Rockets Icon Edition red jersey, the uniform Kevin Durant wears in Houston in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(206, 17, 65, 0.05); border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Kevin Durant &middot; Rockets Icon red</p>
+  </div>
+  <div>
+    <img src="/images/jerseys/nba/sixers-icon-blue.png" alt="Philadelphia 76ers Icon Edition blue jersey, the uniform Jaylen Brown wears after his trade from Boston" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(0, 107, 182, 0.05); border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Jaylen Brown &middot; 76ers Icon blue</p>
+  </div>
+  <div>
+    <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey, the uniform Kawhi Leonard won the 2019 title in and returns to in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(206, 17, 65, 0.05); border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Kawhi Leonard &middot; Raptors Icon red</p>
+  </div>
+</div>
+
+The 76ers now hold four of 2K's top 18, Maxey at 92 with James, Brown and Joel Embiid all at 91, which means four of the eighteen best players in the game wear the same uniform. The Knicks have three of the top 24 in Brunson, Towns and Anunoby.
 
 For a game that sells itself on authenticity, the jerseys are going to do a lot of the storytelling this year.
 
