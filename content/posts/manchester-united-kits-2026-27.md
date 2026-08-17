@@ -2,8 +2,8 @@
 title: "Man United's 2026/27 Kits: Best Away Shirt Of The Season"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
-excerpt: "Manchester United's 2026/27 away kit is the best change jersey in Europe. Both shirts graded, plus the fabric problem buyers keep reporting."
+updatedDate: "2026-08-16"
+excerpt: "Manchester United's 2026/27 away kit is the best change jersey in Europe. All three shirts graded, plus the fabric problem buyers keep reporting."
 gradient: "linear-gradient(135deg, #DA291C 0%, #1B1B1B 55%, #00369B 120%)"
 cardStyle: words
 kicker: Graded
@@ -11,7 +11,7 @@ league: "soccer"
 teams: []
 ---
 
-Manchester United have the best away shirt of the 2026/27 season and it is not particularly close. That is the headline, and it is unusual, because United's away kits have been the least reliable part of their wardrobe for years. The home shirt is solid without being exciting. Together they make the third-best wardrobe in Europe.
+Manchester United have the best away shirt of the 2026/27 season and it is not particularly close. That is the headline, and it is unusual, because United's away kits have been the least reliable part of their wardrobe for years. The home shirt is solid without being exciting, and the ivory third is the one that lets the set down. Together they make a B+ wardrobe.
 
 ## What Does Manchester United's 2026/27 Home Kit Look Like?
 
@@ -43,17 +43,33 @@ The blue is superb, and the pop of red at the collar is the whole thing. It is t
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2084252441428849007"></a></blockquote>
 </div>
 
+## What Does Manchester United's 2026/27 Third Kit Look Like?
+
+Ivory, with a bespoke floral pattern of hand-drawn roses worked into the fabric. Maroon runs across the collar, the sleeve trims, the adidas mark and the devil crest, drawn from the city's red-brick architecture, and green accents come from the fittings on local community buildings. adidas trace the artwork to Manchester's community spaces, Salford Lads and Girls Club among them.
+
+On paper this is one of the richest concepts of the season. Roses are the right symbol for a Manchester club, the Salford Lads Club reference is specific rather than decorative, and building a palette out of brickwork and community-hall paint is a genuinely good idea. Almost nobody does this much homework.
+
+The trouble is how little of it survives the walk from the lookbook to the pitch. The rose print is tonal, so at any real distance it reads as fabric texture rather than pattern. Ivory, maroon and green is a quiet combination to begin with, and it goes quieter under floodlights. What you actually watch a match in is an off-white shirt with dark trim on it.
+
+That is the frustrating part. There is nothing wrong with this kit. It is well made, the maroon is a better choice than a plain red would have been, and it will photograph beautifully in a studio. It just does not do anything once the whistle goes, and a third shirt is the one slot in the wardrobe where a club is allowed to be interesting.
+
+**Grade: B-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2088642021023998267"></a></blockquote>
+</div>
+
 ## Manchester United's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #DA291C 0%, #00369B 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A-</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A &nbsp;·&nbsp; Third: B-</p>
 </div>
 
 ## The Away Shirt Bucked The Season's Trend
 
-Across our full European ranking, away kits had a bad year. Five of the six B- grades were change shirts and so was the only C+. Just two aways reached A- and only one reached an A.
+Across our full European ranking, change kits had a bad year. Seven of the eight B- grades are away or third shirts, and both C+ grades are too. Just two aways reached A- and only one reached an A.
 
 That one was United's. In a season where clubs used the change shirt as a place to experiment and mostly got it wrong, United's worked precisely because it did not experiment. Blue base, red at the collar, done.
 
@@ -63,7 +79,7 @@ adidas, who have supplied Manchester United since 2015.
 
 ## The Bottom Line
 
-Manchester United's 2026/27 away shirt is the best change kit in Europe, an A, thanks to a superb blue and a single pop of red at the collar. The home shirt is a solid B+ carrying a polo collar for the fiftieth anniversary of the 1977 FA Cup final. Buyers have reported fabric snagging on the away. Wardrobe grade: A-.
+Manchester United's 2026/27 away shirt is the best change kit in Europe, an A, thanks to a superb blue and a single pop of red at the collar. The home shirt is a solid B+ carrying a polo collar for the fiftieth anniversary of the 1977 FA Cup final. The ivory third is a B-, a beautifully researched kit that disappears on a pitch. Buyers have reported fabric snagging on the away. Wardrobe grade: B+.
 
 See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
@@ -71,11 +87,11 @@ See where every one of these shirts landed in [our full ranking of all 35 Europe
 
 **What are Manchester United's 2026/27 kits?**
 
-The home shirt is clean red with a polo collar and banded cuffs marking fifty years since the 1977 FA Cup final. The away is blue and red, drawing on the 1988 away shirt and the River Irwell. Both are made by adidas. The third kit has not been released.
+The home shirt is clean red with a polo collar and banded cuffs marking fifty years since the 1977 FA Cup final. The away is blue and red, drawing on the 1988 away shirt and the River Irwell. The third is ivory with a hand-drawn rose print, maroon trim and green accents. All three are made by adidas.
 
 **What grade do Manchester United's 2026/27 kits get?**
 
-The home shirt gets a B+ and the away gets an A, making it the best change kit of the season in our European ranking. The wardrobe grade is an A-.
+The home shirt gets a B+, the away gets an A, making it the best change kit of the season in our European ranking, and the third gets a B-. The wardrobe grade is a B+.
 
 **What is the best away kit of 2026/27?**
 
@@ -84,6 +100,10 @@ Manchester United's. It is the only away shirt we graded an A. The blue is excel
 **Is there a problem with the Manchester United 2026/27 away shirt?**
 
 Multiple owners have reported fabric pulls and snagged threads after light wear. The design is excellent but the durability complaints are widespread enough to be worth knowing before buying.
+
+**What does the Manchester United 2026/27 third kit look like?**
+
+Ivory, with a hand-drawn rose pattern worked into the fabric, maroon at the collar, cuffs, adidas mark and crest, and green accents. The references come from Salford Lads and Girls Club and Manchester's red-brick architecture. We graded it a B-: a genuinely thoughtful concept that reads as a plain off-white shirt at match distance.
 
 **Why does the Manchester United 2026/27 home shirt have a polo collar?**
 
