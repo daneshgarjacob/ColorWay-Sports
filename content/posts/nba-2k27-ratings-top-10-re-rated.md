@@ -1,5 +1,5 @@
 ---
-title: "NBA 2K27 Ratings: Our Top 10 Re-Rated, and Why Jokic Is Not a 97"
+title: "NBA 2K27 Ratings: Our Top 10 Re-Rated, and Why LeBron Is Not a 91"
 author: "jake-daneshgar"
 category: "NBA"
 date: "2026-08-17"
@@ -16,7 +16,9 @@ NBA 2K finished its Top 100 countdown this morning with Shai Gilgeous-Alexander 
 
 First, what 2K actually did. **Three players share the top rating at 97**, Gilgeous-Alexander, Victor Wembanyama and Nikola Jokic, and nobody reached 98, let alone the 99 that used to get handed out before a season. Then 2K stacked six players inside a two-point band from 97 down to 96, which is the real problem with their list. When the top six are functionally identical, the ranking stops saying anything.
 
-Ours says something. Nikola Jokic comes down a point, Giannis Antetokounmpo loses two, Kevin Durant and Cade Cunningham fall out of the top 10 entirely, and Tyrese Maxey climbs six spots to get in. Here is the NBA 2K27 top 10, re-rated and counted down.
+Ours says something. Nikola Jokic comes down a point, Giannis Antetokounmpo loses two, Kevin Durant and Cade Cunningham fall out of the top 10 entirely, and Tyrese Maxey climbs six spots to get in. And just outside the ten sits the rating we would change more than any other in the game: **2K has LeBron James at 91 in his first year as a 76er, and we have him at 87.** More on that below.
+
+Here is the NBA 2K27 top 10, re-rated and counted down.
 
 ## 10. Jayson Tatum, Boston Celtics · Our Rating: 91
 
@@ -193,24 +195,25 @@ Here is what makes this ratings drop different, and it is a uniform story as muc
 
 **Giannis is in a Miami Heat jersey.** **Luka Doncic is in Lakers purple and gold.** **Kevin Durant is in Rockets red.** **Jaylen Brown is in a 76ers uniform** and Paul George went the other way to Boston. **Anthony Davis is a Washington Wizard.** And **Kawhi Leonard, at 93, is going back to Toronto**, and the Raptors agreed to acquire him from the Clippers for Brandon Ingram, Gradey Dick and a stack of picks, a deal on hold pending the league's cap investigation, with Leonard expecting to be a Raptor by training camp. That would put him back in the jersey he won the 2019 title in.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; max-width: 720px; margin: 1.75em auto;">
-  <div>
-    <img src="/images/jerseys/nba/lakers-icon-gold.png" alt="Los Angeles Lakers Icon Edition gold jersey with purple trim, the uniform Luka Doncic wears as a Laker in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(85, 37, 130, 0.05); border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Luka Doncic &middot; Lakers Icon gold</p>
-  </div>
-  <div>
-    <img src="/images/jerseys/nba/rockets-icon-red.png" alt="Houston Rockets Icon Edition red jersey, the uniform Kevin Durant wears in Houston in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(206, 17, 65, 0.05); border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Kevin Durant &middot; Rockets Icon red</p>
-  </div>
-  <div>
-    <img src="/images/jerseys/nba/sixers-icon-blue.png" alt="Philadelphia 76ers Icon Edition blue jersey, the uniform Jaylen Brown wears after his trade from Boston" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(0, 107, 182, 0.05); border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Jaylen Brown &middot; 76ers Icon blue</p>
-  </div>
-  <div>
-    <img src="/images/jerseys/nba/raptors-icon-red.png" alt="Toronto Raptors Icon Edition red jersey, the uniform Kawhi Leonard won the 2019 title in and returns to in NBA 2K27" style="width: 100%; aspect-ratio: 4/5; object-fit: contain; background: rgba(206, 17, 65, 0.05); border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Kawhi Leonard &middot; Raptors Icon red</p>
-  </div>
+**LeBron James in Philadelphia 76ers red, white and royal blue** is the one that still does not compute. After the Lakers years, the most recognizable player alive is in Liberty red wearing No. 23, because his other number, 6, is retired league-wide for Bill Russell and hangs in Philadelphia for Julius Erving.
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2081749013229957378"></a></blockquote>
 </div>
+
+**Giannis in Miami Heat red, black and white** is the colorway swap of the decade. Every season of his career had been in Bucks green, cream and blue, the uniform he turned into two MVPs and a title. Miami followed the introductory press conference with the full jersey reveal, and the white Association set with the red, black and yellow side striping already looks built for him.
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2077883343425667278"></a></blockquote>
+</div>
+
+**Jaylen Brown trading Celtics green for 76ers red and blue** is the most jarring look of the lot, a franchise cornerstone swapping one Atlantic Division identity for its biggest rival.
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2074592514476999009"></a></blockquote>
+</div>
+
+Kevin Durant's Rockets debut got its own treatment when Houston built an entire rebrand launch around him in the new Icon Edition red No. 7, ketchup and mustard back for the first time in thirty years. We graded the whole thing in our [Houston Rockets 2026-27 rebrand breakdown](/stories/houston-rockets-2026-rebrand-graded).
 
 The 76ers now hold four of 2K's top 18, Maxey at 92 with James, Brown and Joel Embiid all at 91, which means four of the eighteen best players in the game wear the same uniform. The Knicks have three of the top 24 in Brunson, Towns and Anunoby.
 
