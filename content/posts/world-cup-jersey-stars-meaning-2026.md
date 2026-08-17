@@ -1,9 +1,9 @@
 ---
-title: "World Cup Jersey Stars: Every Count, and Uruguay's Extra Two"
+title: "World Cup Stars on Jerseys: How Many Stars Every Team Has in 2026"
 category: "Soccer"
 date: "2026-07-02"
-updatedDate: "2026-08-06"
-excerpt: "Each star above a World Cup crest is one title. Every 2026 team's count, plus why Uruguay wears four stars for only two World Cups."
+updatedDate: "2026-08-17"
+excerpt: "How many stars does each World Cup team have? Every 2026 nation's count, from Brazil's five down to Uruguay's four for only two titles."
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #11161D 55%, #FFD700 100%)"
 coverImage: "/images/posts/wc-brazil-home.jpg"
 coverImagePosition: "center 30%"
