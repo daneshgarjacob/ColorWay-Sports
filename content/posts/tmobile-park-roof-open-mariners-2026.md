@@ -2,7 +2,7 @@
 title: "T-Mobile Park Roof Open or Closed Today? 2026 Seattle Mariners Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: "2026-08-16"
+updatedDate: "2026-08-17"
 excerpt: "T-Mobile Park's roof is a rain umbrella, not a dome. Live status, how to check today, the Mariners' roof rules, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1A1A1A 55%, #15A0A0 100%)"
 league: "mlb"
@@ -19,12 +19,12 @@ The T-Mobile Park roof works differently from every other retractable roof in ba
 <div style="margin: 1.75em 0; border: 2px solid #0C2C56; border-radius: 16px; overflow: hidden;">
   <div style="background: #0C2C56; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Sunday, August 16, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Monday, August 17, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Mariners home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Mariners are on the road today, in Houston.</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Mariners are off today.</div>
     <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at T-Mobile Park. Seattle summers are the most roof-friendly in the league, so expect open on the next home date unless rain moves in.</div>
     <a href="https://x.com/Mariners" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #0C2C56; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Mariners &rarr;</a>
   </div>
