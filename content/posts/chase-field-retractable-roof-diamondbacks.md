@@ -2,7 +2,7 @@
 title: "Is the Chase Field Roof Open Today? 2026 Arizona Diamondbacks Roof Schedule"
 category: "MLB"
 date: "2026-04-06"
-updatedDate: "2026-08-13"
+updatedDate: "2026-08-16"
 excerpt: "Is the Chase Field roof open today? Live day-of status for the Diamondbacks, how the Phoenix roof decision works, the cable saga, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
 league: "mlb"
@@ -23,13 +23,13 @@ We put together the full breakdown on the Chase Field retractable roof, includin
 <div style="margin: 1.75em 0; border: 2px solid #A71930; border-radius: 16px; overflow: hidden;">
   <div style="background: #A71930; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, August 13, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Sunday, August 16, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Diamondbacks home date</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Diamondbacks are on the road today.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at Chase Field. Phoenix heat in August means closed on essentially every home date until the weather breaks.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at Chase Field. Phoenix in August means this roof is shut by default, so expect closed on the next home date.</div>
     <a href="https://x.com/ChaseFieldRoof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #A71930; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @ChaseFieldRoof &rarr;</a>
   </div>
 </div>
