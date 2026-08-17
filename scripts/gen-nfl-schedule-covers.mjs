@@ -112,6 +112,55 @@ const TEAMS = {
     // The Browns mark is orange on a brown field, close enough to need the disc.
     disc: true,
   },
+  ravens: {
+    slug: 'ravens-uniform-schedule-2026',
+    logo: 'nfl-baltimore-ravens',
+    eyebrow: 'BALTIMORE RAVENS',
+    looks: ['PURPLE', 'NEXT FLIGHT'],
+    base: '#2e1d7a', mid: '#241773', deep: '#120b3a', accent: '#9E7C0C',
+    disc: true,
+  },
+  patriots: {
+    slug: 'patriots-uniform-schedule-2026',
+    logo: 'nfl-new-england-patriots',
+    eyebrow: 'NEW ENGLAND PATRIOTS',
+    looks: ['NAVY', "NOR'EASTER"],
+    base: '#0b3a63', mid: '#002244', deep: '#00101f', accent: '#C60C30',
+    disc: true,
+  },
+  saints: {
+    slug: 'saints-uniform-schedule-2026',
+    logo: 'nfl-new-orleans-saints',
+    eyebrow: 'NEW ORLEANS SAINTS',
+    looks: ['BLACK', 'GOLD ALTERNATE'],
+    base: '#2e2a1f', mid: '#101820', deep: '#000000', accent: '#D3BC8D',
+    // The fleur-de-lis is gold on a warm dark field, so it needs the disc.
+    disc: true,
+  },
+  falcons: {
+    slug: 'falcons-uniform-schedule-2026',
+    logo: 'nfl-atlanta-falcons',
+    eyebrow: 'ATLANTA FALCONS',
+    looks: ['NEW RED HOME SET', '1966 THROWBACK'],
+    base: '#A71930', mid: '#6b0f1e', deep: '#1a0207', accent: '#000000',
+    disc: true,
+  },
+  panthers: {
+    slug: 'panthers-uniform-schedule-2026',
+    logo: 'nfl-carolina-panthers',
+    eyebrow: 'CAROLINA PANTHERS',
+    looks: ['PANTHER BLUE', 'BLACK'],
+    base: '#0085CA', mid: '#08496e', deep: '#02202f', accent: '#BFC0BF',
+    disc: true,
+  },
+  raiders: {
+    slug: 'raiders-uniform-schedule-2026',
+    logo: 'nfl-las-vegas-raiders',
+    eyebrow: 'LAS VEGAS RAIDERS',
+    looks: ['BLACK', 'SILVER'],
+    base: '#3a3a3a', mid: '#1c1c1c', deep: '#000000', accent: '#A5ACAF',
+    disc: true,
+  },
 };
 
 async function build(key) {
