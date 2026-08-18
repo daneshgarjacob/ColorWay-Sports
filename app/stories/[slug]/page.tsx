@@ -1,6 +1,5 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import DisqusComments from "@/components/DisqusComments";
 import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
@@ -306,12 +305,6 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
         {/* Related stories */}
         <RelatedStories posts={relatedPosts} />
-
-        {/* Comments */}
-        <DisqusComments
-          url={`https://www.colorwaysports.com/stories/${slug}`}
-          identifier={slug}
-        />
 
         {/* Bottom divider and back link */}
         <div className="border-t border-border mt-12 pt-8 flex items-center justify-between">
