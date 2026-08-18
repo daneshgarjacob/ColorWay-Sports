@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-08-17"
+updatedDate: "2026-08-18"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -111,3 +111,5 @@ Mercedes-Benz Stadium in Atlanta on October 31, moved from Jacksonville while Ev
 **What color helmet does Georgia normally wear?**
 
 Red, with the black oval G. The September 12 game against Western Kentucky is the only time in program history the Bulldogs have worn a white helmet.
+
+<div data-cfb-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More 2026 college uniform schedules</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">What the other programs wear, week by week.</p><a href="/stories/alabama-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Alabama 2026 Uniform Schedule</a><a href="/stories/florida-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Florida 2026 Uniform Schedule</a><a href="/stories/ohio-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Ohio State 2026 Uniform Schedule</a><a href="/stories/texas-am-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas A&M 2026 Uniform Schedule</a><a href="/stories/texas-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas 2026 Uniform Schedule</a></div>

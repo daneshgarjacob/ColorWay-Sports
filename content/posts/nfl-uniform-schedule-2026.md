@@ -76,4 +76,12 @@ The home team picks its jersey first and the visiting team wears the contrasting
 
 The 2026 season is the most jersey-heavy year the NFL has had, and the Rivalries program is the reason. Twenty teams have told you exactly when their alternates come out, which is more transparency than the league has ever offered. The other twelve are still holding dates back, and a few of them are sitting on the best-looking uniforms in the sport. We update every team page as soon as a date is confirmed, so this guide stays current all season.
 
+## More NFL Uniform Coverage
+
+- [NFL Uniform Rankings 2026: All 32 Teams Graded](/stories/best-nfl-uniforms-2026-ranked) — every team's look, worst to first
+- [2026 NFL Uniform Tracker](/stories/nfl-uniform-tracker-2026) — what every team wears, game by game, graded
+- [What Is the NFL Rivalries Program?](/stories/what-is-the-nfl-rivalries-uniform-program) — the alternates teams wear once a year, explained
+- [Every 2026 NFL Uniform Reveal](/stories/nfl-uniform-release-dates-2026) — dates, grades and rankings for the new looks
+- [The NFL's 2026 Global Markets Program](/stories/nfl-global-markets-program-2026-breakdown) — which teams play where, and in what
+
 *Uniform dates confirmed by team announcements; primary home and road assignments follow the standard NFL rotation and are our projection until each club confirms. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any of its clubs.*
