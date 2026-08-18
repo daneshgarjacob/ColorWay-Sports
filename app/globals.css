@@ -138,6 +138,48 @@ a {
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* Jersey matchup cards: keep them inside the viewport on small phones.
+   These cards are inline-styled in the markdown as a `1fr auto 1fr` grid.
+   Default grid tracks and grid items both floor at min-content, so the two
+   "Shop on Fanatics" pills plus the VS gutters set a hard ~343px minimum and
+   push the right-hand column off screen below ~360px (Mediavine flagged this
+   2026-08-18). minmax(0,1fr) + min-width:0 lets the columns actually shrink;
+   the rest just buys back horizontal room on the narrowest screens.
+   No-op at >430px, where the desktop/tablet layout is byte-identical. */
+.prose div[style*="1fr auto 1fr"] {
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) !important;
+}
+
+.prose div[style*="1fr auto 1fr"] > div {
+  min-width: 0 !important;
+}
+
+/* the Shop pill is an inline-block in a centered flex column, so it needs an
+   explicit cap or it keeps its own content width and overflows the column */
+.prose div[style*="1fr auto 1fr"] > div > * {
+  max-width: 100% !important;
+}
+
+@media (max-width: 430px) {
+  /* the dark card wrapper: 40px of side padding is most of the budget */
+  .prose div:has(> div[style*="1fr auto 1fr"]) {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  /* the centre "VS" label — direct child only, never the team captions */
+  .prose div[style*="1fr auto 1fr"] > p {
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+  }
+
+  .prose div[style*="1fr auto 1fr"] a {
+    letter-spacing: 0.5px !important;
+    padding-left: 9px !important;
+    padding-right: 9px !important;
+  }
+}
+
 .prose p[style*="text-align: center"] {
   max-width: 80%;
   margin-left: auto;

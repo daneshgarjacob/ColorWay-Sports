@@ -27,16 +27,19 @@ export default function CookieConsent() {
       aria-live="polite"
       aria-label="Cookie consent"
       style={{
+        /* Anchored to the TOP, not the bottom: Mediavine's adhesion ad occupies
+           the bottom of the viewport at a very high z-index once ads are live,
+           and a bottom-anchored banner loads behind it. */
         position: "fixed",
-        bottom: 0,
+        top: 0,
         left: 0,
         right: 0,
-        zIndex: 9999,
+        zIndex: 2147483647,
         background: "rgba(15, 17, 24, 0.97)",
         backdropFilter: "blur(12px)",
         WebkitBackdropFilter: "blur(12px)",
-        borderTop: "1px solid rgba(255, 255, 255, 0.08)",
-        boxShadow: "0 -8px 32px rgba(0, 0, 0, 0.4)",
+        borderBottom: "1px solid rgba(255, 255, 255, 0.08)",
+        boxShadow: "0 8px 32px rgba(0, 0, 0, 0.4)",
         color: "#fff",
         fontFamily: "Inter, system-ui, sans-serif",
         padding: "16px 20px",
@@ -95,7 +98,7 @@ export default function CookieConsent() {
               letterSpacing: "0.3px",
               cursor: "pointer",
               fontFamily: "inherit",
-              boxShadow: "0 2px 12px rgba(255, 89, 16, 0.35)",
+              boxShadow: "0 2px 12px rgba(47, 107, 237, 0.35)",
             }}
           >
             Accept All
