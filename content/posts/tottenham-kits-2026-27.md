@@ -1,15 +1,17 @@
 ---
-title: "Tottenham's 2026/27 Kits: Reviewed And Graded"
+title: "What Kit Are Tottenham Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
-excerpt: "Tottenham's 2026/27 home shirt looks almost exactly like last year's, and the away shirt is the better of the two. Both jerseys graded."
+updatedDate: "2026-08-18"
+excerpt: "What kit are Tottenham wearing today? The expected shirt for their next match, plus every 2026/27 Tottenham kit and jersey graded."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #132257 55%, #0E1A38 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
 teams: []
 ---
+
+<div data-epl-matchday style="margin: 1.75em 0; border: 2px solid #132257; border-radius: 16px; overflow: hidden;"><div style="background: #132257; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What Tottenham Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Matchweek 1</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2.4em; font-weight: 900; color: #b3261e; line-height: 1;">AWAY KIT</div><div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; clubs confirm on matchday</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Brentford vs Tottenham Hotspur</div><div style="margin-top: 4px; font-size: 0.9em; color: #555;">Saturday, August 22 &middot; 12:30 p.m. ET</div><div style="margin-top: 10px; font-size: 0.95em; color: #444; line-height: 1.55;">Brentford wear red and white stripes at home, which clashes directly with Tottenham's white shirt, so the away kit is the likely call.</div><a href="https://x.com/SpursOfficial" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #132257; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Confirm on @SpursOfficial &rarr;</a><div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #eef0f4;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #8892a0; margin: 0 0 8px;">What the other big six are wearing</p><a href="/stories/arsenal-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Arsenal</a><a href="/stories/chelsea-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Chelsea</a><a href="/stories/liverpool-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Liverpool</a><a href="/stories/manchester-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester City</a><a href="/stories/manchester-united-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester United</a></div></div></div>
 
 Tottenham are the least complete wardrobe of Europe's fifteen biggest clubs going into 2026/27. The home and away shirts have both launched and are in shops, and the third is still a leak. Two shirts to grade, and the better of them is the one that took the longest to reach the shelves.
 

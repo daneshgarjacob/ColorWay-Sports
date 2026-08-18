@@ -1,15 +1,17 @@
 ---
-title: "Chelsea's 2026/27 Kits: Why The Home Shirt Looks Empty"
+title: "What Kit Are Chelsea Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
-excerpt: "Chelsea's 2026/27 home jersey has a blank chest because they have no shirt sponsor. Both kits graded, plus the gold laurel detail."
+updatedDate: "2026-08-18"
+excerpt: "What kit are Chelsea wearing today? The expected shirt for their next match, plus every 2026/27 Chelsea kit and jersey graded."
 gradient: "linear-gradient(135deg, #034694 0%, #0A1A2F 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
 teams: []
 ---
+
+<div data-epl-matchday style="margin: 1.75em 0; border: 2px solid #034694; border-radius: 16px; overflow: hidden;"><div style="background: #034694; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What Chelsea Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Matchweek 1</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2.4em; font-weight: 900; color: #1a7f37; line-height: 1;">HOME KIT</div><div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; clubs confirm on matchday</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Fulham vs Chelsea</div><div style="margin-top: 4px; font-size: 0.9em; color: #555;">Monday, August 24 &middot; 3:00 p.m. ET</div><div style="margin-top: 10px; font-size: 0.95em; color: #444; line-height: 1.55;">Fulham wear white at home. Chelsea's royal blue does not clash with it, so the away side can keep the home shirt rather than change.</div><a href="https://x.com/ChelseaFC" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #034694; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Confirm on @ChelseaFC &rarr;</a><div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #eef0f4;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #8892a0; margin: 0 0 8px;">What the other big six are wearing</p><a href="/stories/arsenal-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Arsenal</a><a href="/stories/liverpool-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Liverpool</a><a href="/stories/manchester-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester City</a><a href="/stories/manchester-united-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester United</a><a href="/stories/tottenham-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Tottenham</a></div></div></div>
 
 Chelsea's 2026/27 home shirt has an unusual problem: a large empty space across the chest, because the club are going into the season without a front-of-shirt sponsor. It is the first thing you notice and it is not really a design fault. The away shirt has a different problem, and that one is a design fault.
 

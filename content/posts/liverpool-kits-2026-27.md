@@ -1,15 +1,17 @@
 ---
-title: "Liverpool's 2026/27 Kits: The Candy Shirt Returns, Graded"
+title: "What Kit Are Liverpool Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-15"
-excerpt: "Liverpool's 2026/27 home jersey revives the 1989 Candy graphic and ESPN ranked it third in the league. Every kit graded."
+updatedDate: "2026-08-18"
+excerpt: "What kit are Liverpool wearing today? The expected shirt for their next match, plus every 2026/27 Liverpool kit and jersey graded."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 55%, #00B2A9 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
 teams: []
 ---
+
+<div data-epl-matchday style="margin: 1.75em 0; border: 2px solid #C8102E; border-radius: 16px; overflow: hidden;"><div style="background: #C8102E; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What Liverpool Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Matchweek 1</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2.4em; font-weight: 900; color: #1a7f37; line-height: 1;">HOME KIT</div><div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; clubs confirm on matchday</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Newcastle United vs Liverpool</div><div style="margin-top: 4px; font-size: 0.9em; color: #555;">Sunday, August 23 &middot; 11:30 a.m. ET</div><div style="margin-top: 10px; font-size: 0.95em; color: #444; line-height: 1.55;">Newcastle's black-and-white stripes read clearly against Liverpool's all-red, so Liverpool normally travel to St James' Park in the home kit.</div><a href="https://x.com/LFC" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #C8102E; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Confirm on @LFC &rarr;</a><div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #eef0f4;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #8892a0; margin: 0 0 8px;">What the other big six are wearing</p><a href="/stories/arsenal-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Arsenal</a><a href="/stories/chelsea-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Chelsea</a><a href="/stories/manchester-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester City</a><a href="/stories/manchester-united-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Manchester United</a><a href="/stories/tottenham-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Tottenham</a></div></div></div>
 
 Liverpool's home shirt is one of the best in Europe and the two behind it are quiet. That is the whole story of this wardrobe. The home kit revives the 1989 to 1991 Candy-era graphic, the shirt Liverpool won the 1989/90 title in, and it is the strongest heritage reference any club made this season.
 
