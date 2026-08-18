@@ -2,7 +2,7 @@
 title: "F1 Monaco Grand Prix 2026: Every Special Livery Tracker and Ranking — Aston Martin's Maaden Iridescent and Audi's Tazio Nuvolari Yellow Tribute Lead the Reveal Weekend"
 category: "F1"
 date: "2026-06-01"
-updatedDate: "2026-06-04"
+updatedDate: "2026-08-18"
 excerpt: "Every 2026 F1 Monaco GP special livery and race suit ranked. Aston Martin drops a stunning Maaden iridescent green-to-gold color-changing livery on the AMR25 at the top of the leaderboard. Audi follows with a Tazio Nuvolari tribute swapping the standard white Audi rings for bright Nuvolari yellow on the titanium-silver car plus matching black-and-yellow race suits for Hülkenberg and Bortoleto. McLaren takes a retro 1976 orange-and-black throwback for the team's 1000th Grand Prix. Charles Leclerc unveils a white-and-red Monaco flag race suit for his home race."
 gradient: "linear-gradient(135deg, #FF8000 0%, #000000 50%, #BF1B26 100%)"
 logoSrc: "/logos/leagues/racing-f1.png"
@@ -260,3 +260,5 @@ The 2026 Formula 1 Monaco Grand Prix takes place at the Circuit de Monaco in Mon
 **Will Ferrari run a special car livery at the 2026 Monaco GP?**
 
 Ferrari has not announced a 2026 Monaco GP special car livery as of Sunday June 1. The team's only Monaco-specific reveal so far is the Charles Leclerc home race suit covered above. The standard 2026 Ferrari livery will run on both the Leclerc and Hamilton chassis for the weekend unless the team announces a late one-off through race week.
+
+<div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More 2026 special liveries</p><a href="/stories/f1-barcelona-gp-special-liveries-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Barcelona GP Special Liveries</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">every one-off, graded</span></a><a href="/stories/f1-spa-hungary-special-liveries-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Spa and Hungary Special Liveries</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the summer one-offs</span></a><a href="/stories/f1-livery-reveals-2026-ranked" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Every 2026 Livery Reveal, Ranked</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the full grid, graded</span></a></div>

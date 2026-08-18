@@ -2,7 +2,7 @@
 title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-16"
+updatedDate: "2026-08-18"
 excerpt: "We graded 35 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
@@ -380,3 +380,5 @@ Because Chelsea are going into the season without a front-of-shirt sponsor, so t
 **How many kits are in this ranking?**
 
 Thirty-three, covering every home and away shirt released by Europe's fifteen biggest clubs plus the four third kits that have launched. The eleven unreleased third kits are not graded yet.
+
+<div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More club kit coverage</p><a href="/stories/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Barcelona's Olivia Rodrigo El Clasico Kit</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the collaboration shirt, graded</span></a><a href="/stories/marseille-new-logo-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Marseille's New Logo</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the rebrand, reviewed</span></a><a href="/stories/inter-miami-cenit-third-kit-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Inter Miami's Cenit Third Kit</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the third shirt, graded</span></a></div>

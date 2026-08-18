@@ -3,7 +3,7 @@ title: "2026 NASCAR Paint Scheme Tracker: Every Special Scheme Graded, From Blan
 resurfaceOnUpdate: true
 category: "Motorsports"
 date: "2026-06-10"
-updatedDate: "2026-07-16"
+updatedDate: "2026-08-18"
 excerpt: "Bubba Wallace's Coca-Cola #23 is now confirmed for North Wilkesboro, a soccer ball on a Cup car as the World Cup final lands, as NASCAR returns to the historic short track for its first points race there in 30 years. Plus Austin Dillon's Winchester buck car, the Hendrick lineup, Denny Hamlin's purple Yahoo car, and Ryan Blaney's Wabash throwback. Our running tracker of every 2026 NASCAR Cup Series special paint scheme, graded, newest first."
 gradient: "linear-gradient(135deg, #0A1A3F 0%, #15306E 45%, #C8102E 100%)"
 coverImage: "/images/posts/nascar-paint-jobs-2026/HKdtr6RW8AAk58E.jpg"
@@ -331,3 +331,5 @@ This tracker covers the biggest paint scheme stories of the 2026 season so far: 
 **What was the Alltel #12 car?**
 
 The Alltel #12 was Ryan Newman's Team Penske entry through the 2000s, sponsored by the telecommunications company Alltel and best remembered in royal blue with a white lower swoosh. Newman put the Alltel car in victory lane at the 2008 Daytona 500, the franchise-defining win the 2026 Wabash throwback recreates, and the original car still lives in the Team Penske collection, which is how it ended up parked next to Blaney's 2026 Mustang at the reveal.
+
+<div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More 2026 paint schemes</p><a href="/stories/ty-gibbs-mms-kyle-busch-bristol-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Ty Gibbs' M&M's Bristol Scheme</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the Kyle Busch tribute</span></a></div>

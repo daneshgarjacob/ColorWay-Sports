@@ -3,7 +3,7 @@ title: "2026 World Cup Jersey Tracker: All 48 Teams, Every Kit Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-06-02"
-updatedDate: "2026-08-06"
+updatedDate: "2026-08-18"
 excerpt: "Every 2026 World Cup kit matchup graded, all 48 teams across 104 matches, from the opener through Spain beating Argentina 1-0 in the final."
 gradient: "linear-gradient(135deg, #012169 0%, #C8102E 50%, #006847 100%)"
 coverImage: "/images/posts/world-cup-2026-jersey-tracker/cover-branded.jpg"
@@ -3539,3 +3539,5 @@ The 2026 FIFA World Cup Final is being played on Sunday July 19, 2026 at MetLife
 ---
 
 *For our running rankings of every individual 2026 FIFA World Cup kit from Adidas, Nike, Puma, and other suppliers, see our [Adidas home kit ranking](/stories/ranking-every-adidas-2026-world-cup-home-kit), [Adidas away kit ranking](/stories/ranking-every-adidas-2026-world-cup-away-kit), [Nike kit ranking](/stories/ranking-every-nike-world-cup-kit-2026), [Puma kit ranking](/stories/ranking-every-puma-2026-world-cup-kit), [every World Cup home jersey ranked](/stories/every-2026-world-cup-home-jersey-ranked), [every World Cup away jersey ranked](/stories/every-2026-world-cup-away-jersey-ranked), and [every World Cup jersey ranked](/stories/every-2026-world-cup-jersey-ranked).*
+
+<div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More 2026 World Cup coverage</p><a href="/stories/world-cup-final-2026-kits-spain-argentina" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">What Spain and Argentina Wore in the Final</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the all-adidas showpiece</span></a><a href="/stories/france-polo-collar-2026-world-cup-jersey" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">France's Polo Collar Shirt</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the detail that split opinion</span></a><a href="/stories/trionda-2026-world-cup-ball-explained" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">The Trionda Match Ball, Explained</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">adidas' 2026 tournament ball</span></a></div>
