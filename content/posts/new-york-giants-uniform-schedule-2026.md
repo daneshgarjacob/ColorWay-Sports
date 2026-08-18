@@ -139,6 +139,8 @@ Only realistically in Week 17 at Dallas. The Cowboys wear white at home, which i
 
 Three on the current schedule: the royal blue home set, the white road set, and the Legacy throwback for one confirmed game.
 
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a></div>
+
 ## More NFL Coverage
 
 - [Cowboys 2026 Uniform Schedule](/stories/cowboys-uniform-schedule-2026) — the white-at-home club, and the Week 17 wrinkle

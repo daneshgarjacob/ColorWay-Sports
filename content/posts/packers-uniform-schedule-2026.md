@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words
@@ -118,6 +118,8 @@ The green jersey with gold pants at home, and the white jersey with gold pants o
 
 **Is the full Packers 2026 uniform schedule official?**
 No. Green Bay has not published a game-by-game uniform schedule. The grid follows the standard home-and-away rotation, and the Rivalries game will replace one of the green home weeks once the date is confirmed.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

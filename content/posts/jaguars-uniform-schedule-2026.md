@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Jaguars' 2026 uniform schedule: the confirmed Rivalries jersey date against the Colts, two London home games, and a week-by-week look at the teal and white sets."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -136,6 +136,8 @@ Yes, in Week 16 at Dallas on December 27. The Cowboys wear white at home, which 
 
 **Is the full Jaguars 2026 uniform schedule official?**
 No. One game is confirmed by the team, the Rivalries jersey in Week 8. Jacksonville announced themes for its other home games, but those are promotional rather than uniform announcements, so the rest is our projection.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/colts-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Indianapolis Colts 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

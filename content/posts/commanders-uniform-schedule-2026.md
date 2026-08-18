@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -115,6 +115,8 @@ Three: the white jersey (now the primary), the burgundy heritage jersey, and the
 
 **What pants do the Commanders wear with each jersey?**
 Washington has said pants colors are not locked in for 2026 and will be decided the week of each game. That means the burgundy and white jerseys can pair with different pant colors across the season, so the exact combinations are set game to game even though the jersey assignments are fixed.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

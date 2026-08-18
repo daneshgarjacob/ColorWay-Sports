@@ -2,7 +2,7 @@
 title: "Arizona Cardinals 2026 Uniform Schedule: When They Wear the Desert Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Cardinals' 2026 uniform schedule: the confirmed Rivalries jersey date against Seattle, plus a week-by-week look at the cardinal red and white sets."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -131,6 +131,8 @@ Nine at State Farm Stadium, in Weeks 2, 5, 7, 10, 12, 13, 15, 17, and 18. The by
 
 **Is the full Cardinals 2026 uniform schedule official?**
 No. One game is confirmed by the team, the Rivalries jersey in Week 2. Arizona announced themes for all nine home games, but the others are promotional platforms rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/rams-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Rams 2026 Uniform Schedule</a><a href="/stories/49ers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco 49ers 2026 Uniform Schedule</a><a href="/stories/seahawks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Seahawks 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

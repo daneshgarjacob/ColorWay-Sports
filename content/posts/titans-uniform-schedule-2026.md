@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: When They Wear the Brand-New Blue and White Sets"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus what we know about the Rivalries uniform still to be unveiled."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -137,6 +137,8 @@ Eight, in Weeks 1, 2, 5, 7, 10, 13, 15, and 17. The bye is Week 9, and the seaso
 
 **Is the full Titans 2026 uniform schedule official?**
 No, and less of it is official than for most teams. Tennessee has not announced a uniform for any individual game and has not published a home-game uniform schedule, so every assignment here follows the standard NFL home-and-away convention and is our projection.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/colts-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Indianapolis Colts 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

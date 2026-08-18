@@ -137,6 +137,8 @@ Black, at home against Denver in Week 12 on November 27, unless the team announc
 
 Four in the closet: the black home set, the white road set, the all-black Color Rush and the 1933 throwback with the gold helmet. Only the first two have games assigned so far.
 
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/ravens-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Ravens 2026 Uniform Schedule</a><a href="/stories/bengals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Bengals 2026 Uniform Schedule</a><a href="/stories/browns-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Browns 2026 Uniform Schedule</a></div>
+
 ## More NFL Coverage
 
 - [Bengals 2026 Uniform Schedule](/stories/bengals-uniform-schedule-2026) — the twice-a-year AFC North opponent, with three confirmed dates

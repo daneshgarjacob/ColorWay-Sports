@@ -131,6 +131,8 @@ No. Detroit is the designated home team for the Week 10 game on November 15, so 
 
 Two with games assigned, the navy home set and the white road set, plus the Storm Blue Nor'easter and the Pat Patriot red throwback, neither of which has a confirmed date.
 
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a></div>
+
 ## More NFL Coverage
 
 - [Lions 2026 Uniform Schedule](/stories/lions-uniform-schedule-2026) — the Munich host, week by week

@@ -132,6 +132,8 @@ Three on the current schedule: the navy home set, the white road set, and the Ri
 
 Their new Nike Rivalries uniform, against the Green Bay Packers at Soldier Field, at noon Central on Netflix.
 
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/packers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Green Bay Packers 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a></div>
+
 ## More NFL Coverage
 
 - [Packers 2026 Uniform Schedule](/stories/packers-uniform-schedule-2026) — the other half of the Rivalries split, week by week

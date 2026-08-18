@@ -125,6 +125,8 @@ Nothing has been announced. Carolina's variety comes from recombining its existi
 
 Three jerseys, black, Panther blue and white, combined with two helmets and three pants options, which produces a large number of possible looks.
 
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/falcons-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Atlanta Falcons 2026 Uniform Schedule</a><a href="/stories/saints-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New Orleans Saints 2026 Uniform Schedule</a><a href="/stories/buccaneers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Buccaneers 2026 Uniform Schedule</a></div>
+
 ## More NFL Coverage
 
 - [Falcons 2026 Uniform Schedule](/stories/falcons-uniform-schedule-2026) — Weeks 2 and 18, and the new red home set

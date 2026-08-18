@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: When Kelly Green and the Black Alternate Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Eagles 2026 uniform schedule: midnight green at home, white on the road, and the Kelly Green games worth planning around once the dates land."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -120,6 +120,8 @@ Four: midnight green home, white road, the Kelly Green throwback, and the black 
 
 **Is the full Eagles 2026 uniform schedule official?**
 No. The Eagles have not published a game-by-game uniform schedule, and the Kelly Green and black dates are unannounced. The grid follows the standard home-and-away rotation and will be updated when Philadelphia confirms its alternates.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

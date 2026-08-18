@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: When the Thanksgiving Throwback and the Navy Jersey Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Cowboys 2026 uniform schedule: white nearly every week, the rare navy jersey, and the Thanksgiving throwback that has owned the holiday for four straight years."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -123,6 +123,8 @@ Three looks: the white uniform, the navy uniform, and the Thanksgiving throwback
 
 **Is the full Cowboys 2026 uniform schedule official?**
 No. Dallas has not published a game-by-game schedule yet, though it typically does in late August and we will update this page when it does. White is our projection for every week other than Thanksgiving, because Dallas takes white whenever it has the choice. Three or four games will end up in navy, and those dates are not yet known.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -110,6 +110,8 @@ Yes. Red pants with the red jersey is the one combination they vary, usually for
 
 **Is the full Chiefs 2026 uniform schedule official?**
 The Chiefs do not publish one, because home red and road white covers every game. The grid above follows that convention. Pants are a week-of-game call.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/broncos-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Denver Broncos 2026 Uniform Schedule</a><a href="/stories/raiders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Las Vegas Raiders 2026 Uniform Schedule</a><a href="/stories/chargers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Chargers 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

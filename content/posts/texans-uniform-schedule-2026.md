@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of Houston's new Rivalries jersey."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -151,6 +151,8 @@ Eight at Reliant Stadium, in Weeks 1, 2, 4, 7, 11, 12, 15, and 18. The Week 6 ga
 
 **Is the full Texans 2026 uniform schedule official?**
 No. Three games are confirmed by the team: Liberty White in Week 1, Battle Red in Week 7, and the Rivalries debut in Week 11. Houston announced themes for all eight home games, but the others are promotional themes rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/colts-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Indianapolis Colts 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

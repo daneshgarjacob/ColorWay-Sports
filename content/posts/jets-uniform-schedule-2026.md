@@ -2,7 +2,7 @@
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -142,6 +142,8 @@ Eight, in Weeks 2, 5, 7, 8, 10, 14, 16, and 17. Their bye is Week 13, and the We
 
 **Is the full Jets 2026 uniform schedule official?**
 No. Only three games are confirmed by the team: the White Out in Week 2, the Classic in Week 7, and Gotham City Rivalries in Week 16. The Jets announced themes for all eight home games but named a uniform for only those three, so the green-home and white-road assignments everywhere else are our projection based on the standard NFL home-and-away convention.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

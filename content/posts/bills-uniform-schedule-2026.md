@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Bills confirmed every 2026 home uniform: two Nickel City games, Cold Front against Miami, and a red alternate finale. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
@@ -157,6 +157,8 @@ Reports say Buffalo plans to keep the red helmet and pair it with a holiday game
 
 **Is the full Bills 2026 uniform schedule official?**
 The home half is. The Bills confirmed the jersey for all eight home games. The nine road games follow the standard white road convention and are our projection until the team says otherwise.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

@@ -3,7 +3,7 @@ title: "Los Angeles Rams 2026 Uniform Schedule: When They Wear Classic Sol, Fear
 category: NFL
 date: "2026-07-24"
 topViewsRank: 6
-updatedDate: "2026-08-14"
+updatedDate: "2026-08-18"
 excerpt: "The Rams' 2026 uniform schedule: confirmed dates for Classic Sol, Fearsome White, and the Midnight Mode Rivalries jersey on Christmas Day, plus a week-by-week outlook for the royal and white sets."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -145,6 +145,8 @@ Five: the royal home jersey, the white road jersey, the black Midnight Mode riva
 
 **Is the full Rams 2026 uniform schedule official?**
 Only the three alternate games are officially confirmed by the Rams: Classic Sol in Weeks 2 and 13, and Fearsome White in Week 12. The royal-home and white-road assignments for the rest of the season follow the standard NFL home-and-away convention and are our projection until the team confirms each week.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/arizona-cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Cardinals 2026 Uniform Schedule</a><a href="/stories/49ers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco 49ers 2026 Uniform Schedule</a><a href="/stories/seahawks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Seahawks 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

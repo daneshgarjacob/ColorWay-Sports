@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The New 'Rivalries' Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Colts' 2026 alternate schedule is out: the new Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -95,3 +95,5 @@ The White Out is the Colts' all-white combination, a white jersey worn with whit
 **Has the Colts' Rivalries uniform been revealed?**
 
 Not yet. The Colts are part of the 2026 NFL x Nike Rivalries program and will debut the jersey in Week 3 against the Texans on September 27, with the full uniform unveiled closer to the game. We will update this page with our grade the day it is revealed.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a></div>

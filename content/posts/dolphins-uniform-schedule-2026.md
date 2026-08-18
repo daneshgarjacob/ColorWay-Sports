@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -139,6 +139,8 @@ Eight at Hard Rock Stadium, in Weeks 3, 5, 8, 9, 12, 14, 16, and 17. The bye is 
 
 **Is the full Dolphins 2026 uniform schedule official?**
 No. Two games are confirmed by the team: the throwback in Week 14 and Dark Water Rivalries in Week 17. Miami announced themes for all eight home games, but the other six are promotional themes rather than uniform announcements, so the aqua-home and white-road assignments elsewhere are our projection based on the standard NFL home-and-away convention.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 

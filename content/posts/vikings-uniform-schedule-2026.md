@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -189,6 +189,8 @@ Five looks in the rotation: the purple home primary, the white road set, the Cla
 **Is the full Vikings 2026 uniform schedule official?**
 
 The home half is. The Vikings confirmed the jersey for all nine home games when they announced their 2026 game themes. The eight road games follow the standard white road convention and are our projection until the team says otherwise.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/packers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Green Bay Packers 2026 Uniform Schedule</a></div>
 
 ## More NFL Coverage
 
