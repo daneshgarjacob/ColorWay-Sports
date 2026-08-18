@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -200,6 +200,8 @@ There's no fixed rule. Both are home uniforms and the Brewers rotate between the
 
 **Did the Brewers get rid of their gray road uniforms?**
 Yes. The gray road set was retired ahead of the 2026 season and replaced by the powder blue throwback as the primary road uniform.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cubs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Cubs 2026 Uniform Schedule</a><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

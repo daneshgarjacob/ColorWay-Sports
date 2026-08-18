@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg"
@@ -177,3 +177,5 @@ Mostly. The home whites and road grays carry the vast majority of the calendar, 
 - [Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays](/stories/marlins-uniform-schedule-2026) — the weekend uniform schedule that gave every weekend home game its own look
 - [Yankees Uniform Schedule 2026](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Dodgers Blue Road Jersey Official 2026](/stories/dodgers-blue-road-jersey-official-2026) — the deep dive on the royal blue road alternate
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/diamondbacks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Diamondbacks 2026 Uniform Schedule</a><a href="/stories/rockies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Colorado Rockies 2026 Uniform Schedule</a><a href="/stories/padres-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Diego Padres 2026 Uniform Schedule</a><a href="/stories/giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco Giants 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>

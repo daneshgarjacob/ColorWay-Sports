@@ -3,7 +3,7 @@ title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
 topViewsRank: 5
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
@@ -187,3 +187,5 @@ Mostly, yes. The Braves are one of the few teams that run close to a true schedu
 - [Yankees Uniform Schedule 2026](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Dodgers Uniform Schedule 2026](/stories/dodgers-uniform-schedule-2026) — the four-jersey LA rotation
 - [Braves City Connect 2026 Official](/stories/braves-city-connect-2026-official) — the deep dive on the ATL wordmark Friday night jersey
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/marlins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Marlins 2026 Uniform Schedule</a><a href="/stories/mets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Mets 2026 Uniform Schedule</a><a href="/stories/phillies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Phillies 2026 Uniform Schedule</a><a href="/stories/nationals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Nationals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>

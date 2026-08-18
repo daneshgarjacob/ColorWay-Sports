@@ -2,7 +2,7 @@
 title: "Toronto Blue Jays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Toronto Blue Jays carry six uniforms in 2026 — home whites, road grays, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the 'Night Mode' City Connect. Here's every jersey, when they wear it, and why the blues do most of the work."
 gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
@@ -184,6 +184,8 @@ There's no fixed day for it. The modern powder blue, introduced before the 2020 
 
 **Do the Blue Jays have a sponsor patch on their jersey?**
 Yes. The Blue Jays have worn a TD Bank advertising patch on the left sleeve since 2023, and it stays on the jerseys for 2026. Separately, a 50th-season commemorative patch sits on the right sleeve of every jersey except the City Connect, where it moves to the cap.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/orioles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Orioles 2026 Uniform Schedule</a><a href="/stories/red-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Boston Red Sox 2026 Uniform Schedule</a><a href="/stories/yankees-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Yankees 2026 Uniform Schedule</a><a href="/stories/rays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Rays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

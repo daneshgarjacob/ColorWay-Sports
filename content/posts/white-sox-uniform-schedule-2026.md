@@ -2,7 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -180,6 +180,8 @@ No. The navy "Winning Ugly"-era v-neck throwback, long worn on select Sundays, w
 
 **What sponsor patch is on the White Sox jersey in 2026?**
 CME Group, the Chicago-based derivatives marketplace. It's the first jersey advertising patch in franchise history, announced in late January 2026, and it appears on the sleeve of all five uniforms, recolored to match each jersey.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/guardians-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Guardians 2026 Uniform Schedule</a><a href="/stories/tigers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Tigers 2026 Uniform Schedule</a><a href="/stories/royals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Royals 2026 Uniform Schedule</a><a href="/stories/twins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Twins 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

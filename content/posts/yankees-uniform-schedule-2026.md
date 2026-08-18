@@ -2,7 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-hero.jpg"
@@ -167,3 +167,5 @@ It is the first alternate uniform in the 123-year history of the franchise, recl
 - [Phillies Uniform Schedule 2026: Every Jersey and When They Wear It](/stories/phillies-uniform-schedule-2026) — the full five-jersey scheduled rotation
 - [Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays](/stories/marlins-uniform-schedule-2026) — the weekend uniform schedule that gave every weekend home game its own look
 - [The Yankees Designated Their First Alternate Uniform in Franchise History](/stories/yankees-first-alternate-uniform-2026) — the full story of the navy alternate and why we hope they never wear it
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/orioles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Orioles 2026 Uniform Schedule</a><a href="/stories/red-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Boston Red Sox 2026 Uniform Schedule</a><a href="/stories/rays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Rays 2026 Uniform Schedule</a><a href="/stories/blue-jays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Toronto Blue Jays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>

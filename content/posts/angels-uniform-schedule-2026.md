@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: The Road Grays Are Back, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Angels run five uniforms in 2026: the home whites, the road grays, the red 'Angels' jersey, the Surf City Connect, and the 1980s throwback white. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -195,6 +195,8 @@ It's a 1980s California Angels throwback: a white V-neck pullover with red and n
 
 **What cap do the Angels wear?**
 The primary cap is red with a silver-haloed "A", the "Big A" mark the team has used since 2002, and it pairs with the whites, the grays, and the red alternate alike. The City Connect uses its own two-tone cap to match the cream surf look, and the throwback white is worn with a period-correct throwback cap.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/astros-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Astros 2026 Uniform Schedule</a><a href="/stories/athletics-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Athletics 2026 Uniform Schedule</a><a href="/stories/mariners-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Mariners 2026 Uniform Schedule</a><a href="/stories/rangers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas Rangers 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

@@ -2,7 +2,7 @@
 title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-08-12"
+updatedDate: "2026-08-18"
 resurfaceOnUpdate: true
 excerpt: >-
   The Cardinals run one of the most rigid uniform systems in baseball. We break
@@ -270,6 +270,8 @@ The powder-blue "Victory Blue" alternate is paired with a red cap, which is the 
 **Did the Cardinals change their uniforms for 2026?**
 
 There is no new uniform and no anniversary patch for 2026. The Cardinals reverted the jersey template to a classic Majestic-style cut with a wider front placket and restored real braid piping on the cream and powder blue alternates. The Stifel sleeve patch remains on all four standard uniforms, with a red version on the City Connect.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cubs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Cubs 2026 Uniform Schedule</a><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/brewers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Milwaukee Brewers 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

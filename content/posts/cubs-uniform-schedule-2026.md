@@ -2,7 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -191,6 +191,8 @@ Two. The Motorola "batwing" advertising patch appears on all home, road, and alt
 
 **Do the Cubs wear player names on their home pinstripes?**
 The home pinstripes keep the classic clean front and the iconic bullseye logo; the road grays carry "CHICAGO" across the chest with player names on the back for away games.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/brewers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Milwaukee Brewers 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 

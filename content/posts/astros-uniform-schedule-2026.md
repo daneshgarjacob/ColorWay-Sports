@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-10"
+updatedDate: "2026-08-18"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -197,6 +197,8 @@ The navy alternate — navy with "Astros" in orange across the chest — has bec
 
 **Do the Astros have a strict uniform rotation like the Phillies?**
 No. Outside of the City Connect on Monday home games, the Astros pick their jerseys with more flexibility — home whites and road grays handle most days, with the orange and navy alternates floating into their customary Friday and Sunday slots rather than following a rigid published schedule.
+
+<div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/angels-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Angels 2026 Uniform Schedule</a><a href="/stories/athletics-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Athletics 2026 Uniform Schedule</a><a href="/stories/mariners-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Mariners 2026 Uniform Schedule</a><a href="/stories/rangers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas Rangers 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 
 ## More MLB Coverage
 
