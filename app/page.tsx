@@ -57,7 +57,7 @@ export default function Home() {
     // the top of the page, and a words-only or ColorWay-generated card is never
     // allowed in that group. Check the post's frontmatter before adding one.
     "college-football-blackout-uniforms-2026-ranked",
-    "gators-blue-helmet-uniforms-2026",
+    "florida-uniform-schedule-2026",
     "rams-uniform-schedule-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
