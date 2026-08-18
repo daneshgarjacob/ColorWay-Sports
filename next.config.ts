@@ -40,6 +40,69 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // 2026-08-18: 12 thin NBA team scorebug one-offs consolidated into the ranked hub.
+      // Each earned 0-2 clicks per 90 days and the hub already carried the same grade and
+      // analysis for every team, so nothing was lost. Images are shared and stay in place.
+      {
+        source: "/stories/blazers-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/bulls-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/jazz-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/knicks-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/lakers-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/mavericks-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/nets-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/nuggets-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/pelicans-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/raptors-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/suns-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
+      {
+        source: "/stories/wizards-scorebug-2026",
+        destination: "/stories/every-nba-local-tv-scorebug-2026-ranked",
+        permanent: true,
+      },
       // GSC 7/18: stray external links use /posts/<slug>; our pattern is /stories/<slug>
       {
         source: "/posts/:slug",
