@@ -45,6 +45,17 @@ const api = `https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=${date}`;
 const data = await fetch(api).then(r => r.json());
 const games = data?.dates?.[0]?.games ?? [];
 
+// Confirmed uniforms for the date, if we have them yet. Fill this in as they
+// come in during the evening pass, then re-run. Anything not listed stays
+// labelled Expected.
+//   scripts/mlb-confirmed/YYYY-MM-DD.json  ->  { "phillies": "Home Pinstripes" }
+let confirmed = {};
+const confirmedPath = `scripts/mlb-confirmed/${date}.json`;
+if (fs.existsSync(confirmedPath)) {
+  confirmed = JSON.parse(fs.readFileSync(confirmedPath, "utf8"));
+  console.log(`  using ${Object.keys(confirmed).length} confirmed uniforms from ${confirmedPath}`);
+}
+
 const state = {}; // slug -> {opp, home, time}
 for (const g of games) {
   const h = g.teams.home.team.name, a = g.teams.away.team.name;
@@ -64,14 +75,17 @@ function block(slug) {
     line = `The ${team} are off.`;
     why = "";
   } else {
-    big = s.home ? (HOME[slug] || "Home Uniform") : (ROAD[slug] || "Road Grays");
-    sub = "Expected &middot; we confirm it the morning after";
+    const isConfirmed = Boolean(confirmed[slug]);
+    big = isConfirmed ? confirmed[slug] : (s.home ? (HOME[slug] || "Home Uniform") : (ROAD[slug] || "Road Grays"));
+    sub = isConfirmed ? "Confirmed" : "Expected &middot; we confirm it the morning after";
     line = s.home ? `${s.opp} at ${team} &middot; ${s.time}` : `${team} at ${s.opp} &middot; ${s.time}`;
-    why = s.home
-      ? "At home the exact jersey follows the rotation in the table below, which is set by the day of the week and whether it is a day or night game."
-      : "Road games are the gray road set every time, regardless of the day.";
+    why = isConfirmed
+      ? `Confirmed for tonight's game against the ${s.opp.split(" ").pop()}.`
+      : s.home
+        ? "At home the exact jersey follows the rotation in the table below, which is set by the day of the week and whether it is a day or night game."
+        : "Road games are the gray road set every time, regardless of the day.";
   }
-  const colour = !s ? "#5a6472" : (s.home ? "#1a7f37" : "#14284b");
+  const colour = !s ? "#5a6472" : (confirmed[slug] ? "#1a7f37" : "#14284b");
   // NOTE: emitted as a SINGLE line on purpose. A multi-line block made the
   // replace-regex run past its own closing tag and eat the following affiliate
   // block on re-run. One line means the match can only ever be this block.

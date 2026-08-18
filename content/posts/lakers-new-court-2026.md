@@ -47,21 +47,20 @@ Put the black lane and the yellow together and you get a floor that is high cont
 
 The quickest way to judge the new floor is to put it next to the two courts the Lakers have been using at Crypto.com Arena.
 
-<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
-  <div style="flex: 1; min-width: 260px; max-width: 420px;">
-    <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
-      <img src="/images/courts/nba/lakers-home.png" alt="Los Angeles Lakers primary home court at Crypto.com Arena, light hardwood with a purple and gold key and the classic Lakers centre logo" style="width: 100%; display: block;" />
-    </div>
-    <p style="font-weight: 800; margin: 12px 0 0; text-align: center;">The primary court</p>
-    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0; text-align: center;">Purple and gold carrying the floor, light wood everywhere else</p>
+<div style="margin: 2em 0 0.5em; text-align: center;">
+  <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
+    <img src="/images/courts/nba/lakers-home.png" alt="Los Angeles Lakers primary home court at Crypto.com Arena, light hardwood with a purple and gold key and the classic Lakers centre logo" style="width: 100%; display: block;" />
   </div>
-  <div style="flex: 1; min-width: 260px; max-width: 420px;">
-    <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
-      <img src="/images/courts/nba/lakers-alternate-home.png" alt="Los Angeles Lakers alternate City Edition home court at Crypto.com Arena, the darker floor the club uses for City Edition games" style="width: 100%; display: block;" />
-    </div>
-    <p style="font-weight: 800; margin: 12px 0 0; text-align: center;">The City Edition court</p>
-    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0; text-align: center;">Where the LA mark and the darker palette already live</p>
+  <p style="font-weight: 800; margin: 12px auto 0; max-width: 100%;">The primary court</p>
+  <p style="font-size: 0.85em; color: #777; margin: 2px auto 0; max-width: 100%;">Purple and gold carrying the floor, light wood everywhere else</p>
+</div>
+
+<div style="margin: 2.25em 0 0.5em; text-align: center;">
+  <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
+    <img src="/images/courts/nba/lakers-alternate-home.png" alt="Los Angeles Lakers alternate City Edition home court at Crypto.com Arena, the darker floor the club uses for City Edition games" style="width: 100%; display: block;" />
   </div>
+  <p style="font-weight: 800; margin: 12px auto 0; max-width: 100%;">The City Edition court</p>
+  <p style="font-size: 0.85em; color: #777; margin: 2px auto 0; max-width: 100%;">Where the LA mark and the darker palette already live</p>
 </div>
 
 Set side by side, the story gets clearer. The **primary court** is the franchise as most people picture it, purple and gold doing the work with the wood left alone. The **City Edition court** is where the club has been experimenting, and it is where the LA mark and the darker treatment were already being tested.
