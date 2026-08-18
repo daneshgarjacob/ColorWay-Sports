@@ -1,9 +1,9 @@
 ---
-title: "World Cup Stars on Jerseys: How Many Stars Every Team Has in 2026"
+title: "What Do the Stars on Soccer Jerseys Mean? Every World Cup Team's Count"
 category: "Soccer"
 date: "2026-07-02"
-updatedDate: "2026-08-17"
-excerpt: "How many stars does each World Cup team have? Every 2026 nation's count, from Brazil's five down to Uruguay's four for only two titles."
+updatedDate: "2026-08-18"
+excerpt: "Each star above the crest on a soccer jersey means one World Cup title. What they mean, plus every 2026 team's count, from Brazil's five to Uruguay's disputed four."
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #11161D 55%, #FFD700 100%)"
 coverImage: "/images/posts/wc-brazil-home.jpg"
 coverImagePosition: "center 30%"
@@ -22,7 +22,7 @@ teams: ["international-competitions"]
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">If you have been watching the 2026 World Cup and wondering what the little stars above the crest on some jerseys mean, here is the short answer: each star represents a World Cup title. Brazil wears five. Germany wears four. Argentina wears three and a gold champions badge on top of that. And then there is Uruguay, which wears four stars despite winning the World Cup twice, and FIFA has officially signed off on it. In this guide we break down every star count in the 2026 field, the rules behind them, and the stories that make a few of these jerseys and uniforms more complicated than they look.</p>
 
-## The Short Answer: One Star = One World Cup Title
+## What the Stars on a Soccer Jersey Mean: One Star = One World Cup Title
 
 The stars stitched above a national team's crest are a running count of that country's FIFA World Cup championships. The tradition started with Brazil, which added three stars after winning its third title in 1970, and other champions followed. There is no rule forcing a team to display them, but every men's world champion now does. The stars sit directly above the crest on the jersey, and most federations carry them onto training gear, uniforms, and merchandise too.
 
@@ -85,9 +85,9 @@ Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tr
 
 ## Frequently Asked Questions
 
-**What do the stars on World Cup jerseys mean?**
+**What do the stars on a soccer jersey mean?**
 
-Each star above the crest on a national team jersey represents one FIFA World Cup title won by that country. Brazil wears five stars, the most of any nation, followed by Germany with four, Argentina with three, France with two, and England and Spain with one each. Uruguay wears four stars, two for its World Cup wins and two for the 1924 and 1928 Olympic titles that FIFA recognizes as world championships.
+Each star above the crest on a national team soccer jersey represents one FIFA World Cup title won by that country. Brazil wears five stars, the most of any nation, followed by Germany with four, Argentina with three, France with two, and England and Spain with one each. Uruguay wears four stars, two for its World Cup wins and two for the 1924 and 1928 Olympic titles that FIFA recognizes as world championships.
 
 **Why does Uruguay have 4 stars on its jersey?**
 
