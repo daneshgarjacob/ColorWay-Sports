@@ -19,13 +19,13 @@ A note on how we grade. This is about the uniform as a piece of design: the colo
 
 ## 32. New Orleans Saints &middot; F
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2089034456132878795"></a></blockquote>
 </div>
 
 For contrast, this is the era we are comparing against.
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2011815643180405214"></a></blockquote>
 </div>
 
@@ -35,7 +35,7 @@ The Saints have been our least favourite uniform in the league for a long time, 
 
 ## 31. Jacksonville Jaguars &middot; C
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Jaguars/status/2088753173615792133"></a></blockquote>
 </div>
 
@@ -45,7 +45,7 @@ The logo on the side of the jersey does not work and it has not for years. The w
 
 ## 30. Arizona Cardinals &middot; C+
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2088315105008353325"></a></blockquote>
 </div>
 
@@ -55,7 +55,7 @@ The Cardinals have no identity in this uniform. The 2023 refresh was a real atte
 
 ## 29. Cleveland Browns &middot; C+
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2088706876783399183"></a></blockquote>
 </div>
 
@@ -66,7 +66,7 @@ Lower than most of this list and higher than most people would put them, and bot
 ## 28. Atlanta Falcons &middot; B-
 
 <img src="/images/posts/falcons-new-uniforms-2026/falcons-full-closet.webp" alt="Atlanta Falcons 2026 uniform set, the full closet of home red, away white and alternate jerseys" style="width: 100%; border-radius: 10px; margin: 1.4em 0 0.4em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Atlanta Falcons</p>
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Atlanta Falcons</p>
 
 The more time we spend with the new Falcons set the more it looks like the old Falcons set. It is fine. It is also boring, and it does not pop off the screen the way a rebrand should. Atlanta had licence to reach for something fun, the throwbacks prove they know how, and instead they played it safe. The helmet is the piece we like least.
 
@@ -74,7 +74,7 @@ The more time we spend with the new Falcons set the more it looks like the old F
 
 ## 27. Denver Broncos &middot; B-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2089033704244945315"></a></blockquote>
 </div>
 
@@ -84,7 +84,7 @@ Denver could have been so much better than this. The throwback with the lighter 
 
 ## 26. Houston Texans &middot; B-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2088997021495566703"></a></blockquote>
 </div>
 
@@ -94,7 +94,7 @@ Genuinely one of the better rebrands in recent memory. Houston used to own the w
 
 ## 25. Miami Dolphins &middot; B-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiDolphins/status/2088446771852677469"></a></blockquote>
 </div>
 
@@ -104,11 +104,11 @@ Truly disappointing, and the only reason it stays in the B range at all is the c
 
 ## 24. Los Angeles Rams &middot; B-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2088713827601039574"></a></blockquote>
 </div>
 <img src="/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg" alt="Los Angeles Rams 2026 uniform closet, all five sets: Primary Royal, Primary White, Classic Sol, Fearsome White and Midnight Mode" style="width: 100%; border-radius: 10px; margin: 0.4em 0 0.3em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Los Angeles Rams</p>
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Los Angeles Rams</p>
 
 This one is partly nostalgia and we will own that. The old royal and yellow, with a helmet colour that deliberately did not match the jersey, was a better idea than what replaced it, and the navy and bronze Seattle-era sets were better too. The primary white is genuinely good. The primary home jersey is the problem, which is a bad place to have your problem. We like the Rams on the road and we do not like them at home.
 
@@ -116,7 +116,7 @@ This one is partly nostalgia and we will own that. The old royal and yellow, wit
 
 ## 23. Carolina Panthers &middot; B-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2088693811664814463"></a></blockquote>
 </div>
 
@@ -126,7 +126,7 @@ Carolina has one of the best colours in the league and a uniform that does not d
 
 ## 22. Las Vegas Raiders &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Raiders/status/2088057858680410431"></a></blockquote>
 </div>
 
@@ -136,7 +136,7 @@ Everyone loves the Raiders uniform. We think it is fine. It is classic and the s
 
 ## 21. Indianapolis Colts &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Colts/status/2089389057638105119"></a></blockquote>
 </div>
 
@@ -146,7 +146,7 @@ Simple and better than expected. The Colts sit in roughly the same category as t
 
 ## 20. New England Patriots &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Patriots/status/2088094058585502130"></a></blockquote>
 </div>
 
@@ -157,9 +157,9 @@ New England took a step back when the post-Brady rebrand promoted an alternate t
 ## 19. Baltimore Ravens &middot; B
 
 <img src="/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg" alt="Baltimore Ravens The Next Flight 2026 uniform collection, every jersey including primary purple, white road, Purple Rising and the Darkness blackout" style="width: 100%; border-radius: 10px; margin: 1.4em 0 0.3em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Baltimore Ravens</p>
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Baltimore Ravens</p>
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2088803387038990352"></a></blockquote>
 </div>
 
@@ -169,7 +169,7 @@ The tough one. We like the Ravens uniform and we always have, and that is exactl
 
 ## 18. Tennessee Titans &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Titans/status/2088391668386980052"></a></blockquote>
 </div>
 
@@ -179,7 +179,7 @@ Seen on the field rather than in the reveal images, the new Titans set is nice. 
 
 ## 17. Seattle Seahawks &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2088823180219846963"></a></blockquote>
 </div>
 
@@ -189,7 +189,7 @@ Great colours, dated execution. The royal blue throwback is better than anything
 
 ## 16. Tampa Bay Buccaneers &middot; B
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2089387136948597022"></a></blockquote>
 </div>
 
@@ -200,9 +200,9 @@ A B here is not a knock. We like what Tampa does, and the creamsicle throwbacks 
 ## 15. Washington Commanders &middot; B+
 
 <img src="/images/posts/commanders-reveal-2026/commanders-reveal-all-three.jpg" alt="Washington Commanders 2026 uniform reveal showing all three jerseys, burgundy home, white road and the Hail Raiser black alternate" style="width: 100%; border-radius: 10px; margin: 1.4em 0 0.3em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Washington Commanders</p>
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Washington Commanders</p>
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2088423522573894117"></a></blockquote>
 </div>
 
@@ -212,7 +212,7 @@ Washington is moving in the right direction and this year's set is the proof. Th
 
 ## 14. New York Jets &middot; B+
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2088434193495715976"></a></blockquote>
 </div>
 
@@ -222,7 +222,7 @@ A good set. The colours work, the helmet is strong, the facemask colour is right
 
 ## 13. San Francisco 49ers &middot; B+
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2088105869410181183"></a></blockquote>
 </div>
 
@@ -232,7 +232,7 @@ Classic, permanent, and correctly left alone. San Francisco does not chase trend
 
 ## 12. Cincinnati Bengals &middot; B+
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2089383146307322366"></a></blockquote>
 </div>
 
@@ -242,7 +242,7 @@ One of the best closets in the NFL. The Bengals and the Chargers led the generat
 
 ## 11. Buffalo Bills &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2088718388516266250"></a></blockquote>
 </div>
 
@@ -252,7 +252,7 @@ Bottom of the A- tier, and there for a reason. The colours pop and Buffalo does 
 
 ## 10. Philadelphia Eagles &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2088784207120138296"></a></blockquote>
 </div>
 
@@ -262,7 +262,7 @@ Philadelphia handles its colours as well as anyone. The only thing keeping this 
 
 ## 9. Kansas City Chiefs &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Chiefs/status/2089070488664285614"></a></blockquote>
 </div>
 
@@ -272,7 +272,7 @@ A rival, and a very good uniform. The Chiefs feel like an NFL uniform in a way t
 
 ## 8. Detroit Lions &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2088048738308678047"></a></blockquote>
 </div>
 
@@ -282,7 +282,7 @@ Really nice, and a notch behind the Packers and Vikings in a division where that
 
 ## 7. Pittsburgh Steelers &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2088411671765160340"></a></blockquote>
 </div>
 
@@ -292,7 +292,7 @@ The helmet alone is worth the grade. A logo on one side only is the kind of thin
 
 ## 6. Minnesota Vikings &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vikings/status/2088717822822068723"></a></blockquote>
 </div>
 
@@ -302,7 +302,7 @@ The NFC North is our favourite division on this list and Minnesota is a big reas
 
 ## 5. Dallas Cowboys &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2089088101599924359"></a></blockquote>
 </div>
 
@@ -312,7 +312,7 @@ This grade is almost entirely about the pants. The white jersey over those silve
 
 ## 4. Green Bay Packers &middot; A-
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/packers/status/2088108084669661517"></a></blockquote>
 </div>
 
@@ -322,7 +322,7 @@ An all-time home uniform. The detail we love most is that Green Bay never chased
 
 ## 3. Chicago Bears &middot; A
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChicagoBears/status/2088711596671459350"></a></blockquote>
 </div>
 
@@ -332,7 +332,7 @@ Some of the cleanest uniforms in the NFL and the best in an already strong divis
 
 ## 2. New York Giants &middot; A
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2089448927988772993"></a></blockquote>
 </div>
 
@@ -343,15 +343,15 @@ We have always loved this one. The blue is right, the white is right, and the he
 ## 1. Los Angeles Chargers &middot; A
 
 <img src="/images/posts/best-nfl-uniforms-2026-ranked/chargers-full-closet.jpg" alt="Los Angeles Chargers 2026 uniform closet showing all eight combinations, powder blue, white road, gold and the Super Chargers navy alternate" style="width: 100%; border-radius: 10px; margin: 1.4em 0 0.3em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">The full Chargers closet, via Los Angeles Chargers. Note the gold jersey pairs with white pants in 2026, not the gold-on-gold shown here.</p>
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1em;">The full Chargers closet, via Los Angeles Chargers. Note the gold jersey pairs with white pants in 2026, not the gold-on-gold shown here.</p>
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2088086333264724015"></a></blockquote>
 </div>
 
 This is the shade we mean. The Chargers powder blue of the Philip Rivers era, next to what they wear now.
 
-<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<div style="display: flex; justify-content: flex-start; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFLLegacy/status/1545449086068748289"></a></blockquote>
 </div>
 
