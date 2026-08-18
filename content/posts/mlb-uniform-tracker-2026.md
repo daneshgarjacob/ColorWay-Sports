@@ -36,7 +36,29 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Monday, August 17
 
-Eleven games on the Monday slate, including a doubleheader in Cincinnati, and all eleven are now logged. Cincinnati split the doubleheader wardrobe, home white in the opener and the red script alternate in the nightcap, neither of them the City Connect. Arizona, the White Sox and the Dodgers all brought colour or a rare set on the road, and Colorado is in the purple alternate rather than the City Connect. The Dodgers pulled out the Los Angeles alternate gray, which is the script they almost never wear.
+Eleven games, a doubleheader in Cincinnati, and **zero City Connects across the entire slate.** Nine of the eleven home clubs wore white, with only Cincinnati's red script in the nightcap and Colorado's purple breaking it. The colour came from the road instead: seven visiting or home clubs reached for an alternate, led by two blacks, Atlanta's navy, Arizona's Sedona red and the Los Angeles alternate grey the Dodgers almost never wear.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2340 0%, #C41E3A 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Cardinals Road Gray</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2089460431400083843"></a></blockquote>
+
+On a day with almost nothing to choose from, the best-looking thing on a field was a road gray, which tells you how good this particular road gray is. The navy cap and helmet are the reason. St. Louis made navy the primary road lid this season and it changes the whole balance of the uniform: the birds-on-the-bat is a red-and-yellow mark sitting on a cool grey field, and a red cap on top of that made the top half of the player fight itself. Navy gives the red somewhere to land.
+
+It also fixes the oldest problem with grey. Road uniforms flatten under stadium light because everything in them is the same value, and a dark cap restores the contrast at the one point a broadcast camera actually frames, which is a player's head and shoulders.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Rays Home White</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RaysBaseball/status/2089519910338671014"></a></blockquote>
+
+This is a hard one to award on a night when nobody wore anything, and that is exactly why Tampa Bay gets it. When every club is in its plainest set, the ranking becomes a straight question of whose plainest set is worst, and the Rays lose that. The light blue and the yellow sunburst are a genuinely distinctive palette and almost none of it appears on the home white. What is left is a white jersey with a navy wordmark that could belong to a dozen franchises.
+
+The Rays own one of the more interesting colour stories in the sport. The home uniform is where they use the least of it.
 
 ### St. Louis Cardinals at Cincinnati Reds, Game 1
 
@@ -48,7 +70,7 @@ Eleven games on the Monday slate, including a doubleheader in Cincinnati, and al
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/cardinals-road-gray.jpg" alt="St. Louis Cardinals Road Gray jersey worn August 17 2026 against the Cincinnati Reds, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/cardinals-road-gray.jpg" alt="Cardinals Road Gray jersey worn August 17 2026 against the Cincinnati Reds, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CARDINALS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
@@ -77,7 +99,7 @@ Eleven games on the Monday slate, including a doubleheader in Cincinnati, and al
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/cardinals-road-gray.jpg" alt="St. Louis Cardinals Road Gray jersey worn August 17 2026 against the Cincinnati Reds, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/cardinals-road-gray.jpg" alt="Cardinals Road Gray jersey worn August 17 2026 against the Cincinnati Reds, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CARDINALS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
@@ -156,7 +178,10 @@ Eleven games on the Monday slate, including a doubleheader in Cincinnati, and al
 
 ### Chicago White Sox at Chicago Cubs
 
-<div style="margin: 1.4em 0 0.6em;">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #ffffff 50%, #0E3386 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
