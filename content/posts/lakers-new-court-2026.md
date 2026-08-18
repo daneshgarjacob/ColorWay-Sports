@@ -43,6 +43,31 @@ Black is not a Lakers colour. It is a Lakers *alternate*, and there is a differe
 
 Put the black lane and the yellow together and you get a floor that is high contrast but low warmth. It is modern. It is not especially Lakers.
 
+## Compare It to What the Lakers Actually Play On
+
+The quickest way to judge the new floor is to put it next to the two courts the Lakers have been using at Crypto.com Arena.
+
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0 0.5em;">
+  <div style="flex: 1; min-width: 260px; max-width: 420px;">
+    <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
+      <img src="/images/courts/nba/lakers-home.png" alt="Los Angeles Lakers primary home court at Crypto.com Arena, light hardwood with a purple and gold key and the classic Lakers centre logo" style="width: 100%; display: block;" />
+    </div>
+    <p style="font-weight: 800; margin: 12px 0 0; text-align: center;">The primary court</p>
+    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0; text-align: center;">Purple and gold carrying the floor, light wood everywhere else</p>
+  </div>
+  <div style="flex: 1; min-width: 260px; max-width: 420px;">
+    <div style="border-radius: 10px; overflow: hidden; border: 1px solid #e3e6ec;">
+      <img src="/images/courts/nba/lakers-alternate-home.png" alt="Los Angeles Lakers alternate City Edition home court at Crypto.com Arena, the darker floor the club uses for City Edition games" style="width: 100%; display: block;" />
+    </div>
+    <p style="font-weight: 800; margin: 12px 0 0; text-align: center;">The City Edition court</p>
+    <p style="font-size: 0.85em; color: #777; margin: 2px 0 0; text-align: center;">Where the LA mark and the darker palette already live</p>
+  </div>
+</div>
+
+Set side by side, the story gets clearer. The **primary court** is the franchise as most people picture it, purple and gold doing the work with the wood left alone. The **City Edition court** is where the club has been experimenting, and it is where the LA mark and the darker treatment were already being tested.
+
+The new practice floor is not a departure from both. It is the City Edition direction being promoted to the default. That is the actual news here, and it is why "it is only the practice court" undersells it: this is the alternate becoming the standard.
+
 ## The 2000-2012 Court Is Still the Benchmark
 
 For our money the best Lakers floor ever was the one they ran from roughly 2000 to 2012. Light hardwood, purple and gold doing all the work, no black filling space, the logo given room to breathe.
