@@ -52,7 +52,7 @@ SEC home teams wear color and visitors wear white, which makes the road dates pr
 
 **October 24.** Bye week.
 
-**October 31 vs. Florida**, Mercedes-Benz Stadium, Atlanta. The World's Largest Outdoor Cocktail Party, relocated to Atlanta this year while EverBank Stadium is renovated. A neutral site, so the designation matters and we will confirm it in game week.
+**October 31 vs. Florida**, Mercedes-Benz Stadium, Atlanta. The World's Largest Outdoor Cocktail Party, relocated to Atlanta this year while EverBank Stadium is renovated. ✅ **Answered: Florida's own published uniform schedule has the Gators in white**, which puts Georgia in red.
 
 **November 7 at Ole Miss**, Oxford. Road. White expected.
 
@@ -62,13 +62,13 @@ SEC home teams wear color and visitors wear white, which makes the road dates pr
 
 **November 28 vs. Georgia Tech**, Athens. Clean, Old-Fashioned Hate at home. Red expected, and the most likely spot for anything Georgia is holding back.
 
-## The Florida Game Is the One to Watch
+## The Florida Game Is Already Answered
 
-Georgia and Florida are playing at **Mercedes-Benz Stadium in Atlanta on October 31** rather than in Jacksonville, because EverBank Stadium is under renovation. Neutral-site games do not follow the ordinary home-and-away rule, so the designated home team decides who wears color. That is the single least predictable uniform date on Georgia's schedule and we will update this page when it is announced.
+Georgia and Florida are playing at **Mercedes-Benz Stadium in Atlanta on October 31** rather than in Jacksonville, because EverBank Stadium is under renovation. Neutral-site games do not follow the ordinary home-and-away rule, so this looked like the least predictable date on the schedule. Florida settled it for everyone: the Gators published a full game-by-game uniform schedule and have themselves in an orange helmet, **white jersey** and white pants for Atlanta. That puts **Georgia in red**. See our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for their full grid.
 
 ## The Bottom Line
 
-Georgia's 2026 uniform schedule has one locked alternate and it is a genuinely historic one: the first white helmet the program has ever worn, on September 12 against Western Kentucky. Everything else follows the SEC pattern of red at home and white on the road, with the relocated Florida game in Atlanta as the one real unknown and the Georgia Tech finale as the most likely spot for a surprise.
+Georgia's 2026 uniform schedule has one locked alternate and it is a genuinely historic one: the first white helmet the program has ever worn, on September 12 against Western Kentucky. Everything else follows the SEC pattern of red at home and white on the road, with the Georgia Tech finale as the most likely spot for a surprise.
 
 For more, see our [Georgia all-white uniforms graded](/stories/georgia-all-white-uniforms-2026) and the [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
@@ -88,7 +88,7 @@ Yes. The silver britches pair with both the red home jersey and the white road j
 
 **Where is Georgia playing Florida in 2026?**
 
-Mercedes-Benz Stadium in Atlanta on October 31, moved from Jacksonville while EverBank Stadium is renovated. Because it is a neutral site, the uniform designation has not been confirmed.
+Mercedes-Benz Stadium in Atlanta on October 31, moved from Jacksonville while EverBank Stadium is renovated. Florida's published uniform schedule has the Gators in white for that game, which puts Georgia in red.
 
 **What color helmet does Georgia normally wear?**
 
