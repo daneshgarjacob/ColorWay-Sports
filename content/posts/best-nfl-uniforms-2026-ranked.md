@@ -23,6 +23,12 @@ A note on how we grade. This is about the uniform as a piece of design: the colo
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2089034456132878795"></a></blockquote>
 </div>
 
+For contrast, this is the era we are comparing against.
+
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2011815643180405214"></a></blockquote>
+</div>
+
 The Saints have been our least favourite uniform in the league for a long time, and it comes down to how the pieces are put together rather than the palette. The contrasting collar on the black jersey is too big and it cuts the whole thing in half. Black and gold is a genuinely great colour pair. New Orleans just does not use it correctly, the alternates do not help, and something changed when Nike took over that the Reebok-era Drew Brees sets did not have. Those popped. These do not. Full disclosure: it is harder to love a uniform on a team that is not winning, and the NFC South as a whole is our least favourite division on this list.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%20orleans%20saints%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop New Orleans Saints Jerseys &rarr;</a></p>
@@ -336,8 +342,17 @@ We have always loved this one. The blue is right, the white is right, and the he
 
 ## 1. Los Angeles Chargers &middot; A
 
+<img src="/images/posts/best-nfl-uniforms-2026-ranked/chargers-full-closet.jpg" alt="Los Angeles Chargers 2026 uniform closet showing all eight combinations, powder blue, white road, gold and the Super Chargers navy alternate" style="width: 100%; border-radius: 10px; margin: 1.4em 0 0.3em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">The full Chargers closet, via Los Angeles Chargers. Note the gold jersey pairs with white pants in 2026, not the gold-on-gold shown here.</p>
+
 <div style="display: flex; justify-content: center; margin: 1.6em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2088086333264724015"></a></blockquote>
+</div>
+
+This is the shade we mean. The Chargers powder blue of the Philip Rivers era, next to what they wear now.
+
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFLLegacy/status/1545449086068748289"></a></blockquote>
 </div>
 
 Our favourite team, and the uniform most people already call the best in the league. We agree, with two complaints we do not hear enough people make. First: the powder blues are not powder any more. They are not close, and they are nowhere near what they were in the Philip Rivers era. That colour was the whole point. Second: the Super Chargers set needs white pants, and the current pairing wastes it. The Chargers take chances, they are genuinely known for their uniforms, and that is worth a great deal. All of which is why this is an A and not an A+. There is a version of this uniform that is the best in sports and a couple of colour and pant decisions are standing between them and it.
