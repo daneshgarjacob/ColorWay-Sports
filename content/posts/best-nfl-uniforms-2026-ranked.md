@@ -18,6 +18,10 @@ A note on how we grade. This is about the uniform as a piece of design: the colo
 
 ## 32. New Orleans Saints &middot; F
 
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2089034456132878795"></a></blockquote>
+</div>
+
 The Saints have been our least favourite uniform in the league for a long time, and it comes down to how the pieces are put together rather than the palette. The contrasting collar on the black jersey is too big and it cuts the whole thing in half. Black and gold is a genuinely great colour pair. New Orleans just does not use it correctly, the alternates do not help, and something changed when Nike took over that the Reebok-era Drew Brees sets did not have. Those popped. These do not. Full disclosure: it is harder to love a uniform on a team that is not winning, and the NFC South as a whole is our least favourite division on this list.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%20orleans%20saints%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop New Orleans Saints Jerseys &rarr;</a></p>
@@ -50,11 +54,21 @@ Lower than most of this list and higher than most people would put them, and bot
 
 ## 28. Los Angeles Rams &middot; B-
 
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2088713827601039574"></a></blockquote>
+</div>
+<img src="/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg" alt="Los Angeles Rams 2026 uniform closet, all five sets: Primary Royal, Primary White, Classic Sol, Fearsome White and Midnight Mode" style="width: 100%; border-radius: 10px; margin: 0.4em 0 0.3em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1em;">via Los Angeles Rams</p>
+
 This one is partly nostalgia and we will own that. The old royal and yellow, with a helmet colour that deliberately did not match the jersey, was a better idea than what replaced it, and the navy and bronze Seattle-era sets were better too. The primary white is genuinely good. The primary home jersey is the problem, which is a bad place to have your problem. We like the Rams on the road and we do not like them at home.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%20angeles%20rams%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop Los Angeles Rams Jerseys &rarr;</a></p>
 
 ## 27. Carolina Panthers &middot; B-
+
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2088693811664814463"></a></blockquote>
+</div>
 
 Carolina has one of the best colours in the league and a uniform that does not deserve it. They finally fixed the shoulder logo and the numbers that were far too small, so this is better than it was. It still does not pop. Everything here is a notch below where the palette says it should be, and that gap is the whole grade.
 
@@ -101,11 +115,19 @@ Truly disappointing, and the only reason it stays in the B range at all is the c
 
 ## 22. Seattle Seahawks &middot; B
 
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2088823180219846963"></a></blockquote>
+</div>
+
 Great colours, dated execution. The royal blue throwback is better than anything in the current set, which is the clearest possible signal that a refresh is overdue. Seattle is not doing anything wrong here. They are just wearing a uniform that belongs to a previous decade.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%20seahawks%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop Seattle Seahawks Jerseys &rarr;</a></p>
 
 ## 21. Tampa Bay Buccaneers &middot; B
+
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2089387136948597022"></a></blockquote>
+</div>
 
 A B here is not a knock. We like what Tampa does, and the creamsicle throwbacks pull the whole grade up. The pewter is a genuinely distinctive colour and the helmet shade is good. The palette overall is not our favourite and the set does not pop off the screen, which is what keeps it here rather than higher.
 
@@ -163,6 +185,10 @@ New England took a step back when the post-Brady rebrand promoted an alternate t
 
 ## 15. San Francisco 49ers &middot; B+
 
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2088105869410181183"></a></blockquote>
+</div>
+
 Classic, permanent, and correctly left alone. San Francisco does not chase trends and that restraint is the right instinct for a franchise this old. The colours are not our favourite in the league, which is the only thing keeping this out of the A tier, but this is a uniform that will look right in fifty years.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%20francisco%2049ers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop San Francisco 49ers Jerseys &rarr;</a></p>
@@ -199,6 +225,10 @@ A good set. The colours work, the helmet is strong, the facemask colour is right
 
 ## 11. Minnesota Vikings &middot; A-
 
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vikings/status/2088717822822068723"></a></blockquote>
+</div>
+
 The NFC North is our favourite division on this list and Minnesota is a big reason why. The colour work is excellent, the schemes are considered, the matte helmet is a genuinely good call, and the throwback is superb. Every time the Vikings come on screen the uniform looks expensive. That is the whole job.
 
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%20vikings%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop Minnesota Vikings Jerseys &rarr;</a></p>
@@ -214,6 +244,10 @@ An all-time home uniform. The detail we love most is that Green Bay never chased
 <p style="margin: 0.6em 0 0;"><a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%20bay%20packers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="font-size: 0.85em; font-weight: 700; color: #2f6bed; text-decoration: none;">Shop Green Bay Packers Jerseys &rarr;</a></p>
 
 ## 9. Detroit Lions &middot; A-
+
+<div style="display: flex; justify-content: center; margin: 1.6em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2088048738308678047"></a></blockquote>
+</div>
 
 Really nice, and a notch behind the Packers and Vikings in a division where that is no insult. The colours are strong. The silver is the sticking point: we like the colour and not entirely the way it is used. A slightly more throwback direction would push Detroit up this list quickly.
 
