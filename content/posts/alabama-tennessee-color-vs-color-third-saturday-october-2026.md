@@ -21,9 +21,6 @@ This is the best uniform news of the college football offseason and it is not pa
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2090137112364384426"></a></blockquote>
 </div>
 
-<img src="/images/posts/alabama-tennessee-color-vs-color-third-saturday-october-2026/third-saturday-in-october.jpg" alt="Third Saturday in October announcement artwork showing Alabama in crimson jerseys against Tennessee in orange jerseys, with the Third Saturday in October shield logo carrying the Alabama A and Tennessee T" style="width:100%;max-width:640px;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Tennessee Athletics</p>
-
 ## What Was Announced
 
 - **October 17, 2026** at Neyland Stadium in Knoxville. Tennessee in orange, Alabama in crimson.
