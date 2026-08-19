@@ -68,6 +68,27 @@ export function getJotd(html: string): Jotd {
   return { title, day: d.day, image: im ? im[1] : null };
 }
 
+export type Stinker = { title: string; day: string; image: string | null } | null;
+
+// The negative award. Deliberately the mirror of getJotd rather than a shared
+// helper: getJotd must SKIP a negative banner (firstPositive), this one must
+// find it, and collapsing the two invites exactly the bug the prefix guard
+// above exists to prevent. Older days used "Worst Jersey of the Day", so that
+// spelling is still accepted and an unmigrated day degrades to working.
+export function getStinker(html: string): Stinker {
+  const d = newestDaySlice(html);
+  if (!d) return null;
+  const re = /(?:Stinker|Worst Jersey|Ugliest Jersey) of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/;
+  const m = d.slice.match(re);
+  if (!m) return null;
+  const title = strip(m[1]);
+  const esc = title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const im = d.slice.match(
+    new RegExp(`<img[^>]+src="(\\/images\\/posts\\/mlb-daily-tracker\\/[^"]+)"[^>]*alt="${esc} jersey worn`, "i"),
+  );
+  return { title, day: d.day, image: im ? im[1] : null };
+}
+
 export type Motd = { matchup: string; grade: string; images: string[] } | null;
 
 export function getMotd(html: string): Motd {

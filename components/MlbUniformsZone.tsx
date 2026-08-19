@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
-import { getJotd, getMotd, getWeekdayStandard } from "@/lib/mlbHomepage";
+import { getJotd, getMotd, getStinker, getWeekdayStandard } from "@/lib/mlbHomepage";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // Friday belongs with the weekend, not the work week. Across every day logged in
 // 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
@@ -59,8 +59,9 @@ function CwStamp({ color = "#fff" }: { color?: string }) {
 }
 
 // One grouped MLB zone on a soft-tinted band: the tracker carousel up top,
-// then a single "Jersey Stats of the Day" card (Jersey of the Day + ColorWay Clash
-// of the Day + last night's category mix — all the same day's data), then the
+// then a single "Jersey Stats of the Day" card (the day's three awards across the
+// top — Jersey of the Day, Stinker, ColorWay Clash — over a category-mix strip),
+// then the
 // day-of-week pattern chart. Replaces MlbUniformsHub + MlbFeatureStrip +
 // WeekdayStandardIndex so the homepage groups all the MLB tools in one place.
 export default async function MlbUniformsZone() {
@@ -70,6 +71,7 @@ export default async function MlbUniformsZone() {
   const data = buildAlternatesWatch(post.contentHtml);
   const jotd = getJotd(post.contentHtml);
   const motd = getMotd(post.contentHtml);
+  const stinker = getStinker(post.contentHtml);
   const weekday = getWeekdayStandard(post.contentHtml);
   const href = `/stories/${TRACKER_SLUG}`;
 
@@ -178,6 +180,32 @@ export default async function MlbUniformsZone() {
                 </Link>
               )}
 
+              {/* Stinker of the Day — the negative award, equal weight to the other two */}
+              {stinker && (
+                <Link
+                  href={href}
+                  className="group flex items-center gap-4 md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border"
+                >
+                  {stinker.image && (
+                    <img
+                      src={stinker.image}
+                      alt=""
+                      className="h-[76px] w-auto object-contain flex-shrink-0"
+                    />
+                  )}
+                  <div className="min-w-0">
+                    <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#6B7280]">
+                      👎 Stinker of the Day
+                    </span>
+                    <p className="mt-1 text-lg font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
+                      {stinker.title}
+                    </p>
+                    <span className="mt-1.5 inline-block text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
+                      See it on the tracker →
+                    </span>
+                  </div>
+                </Link>
+              )}
               {/* ColorWay Clash of the Day */}
               {motd && (
                 <Link
@@ -205,36 +233,34 @@ export default async function MlbUniformsZone() {
                 </Link>
               )}
 
-              {/* Last night's category mix */}
-              <div className="md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border">
-                <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
-                  Last Night's Mix
-                </span>
-                <div className="mt-3 flex flex-col gap-3">
-                  {data.categories.map((c) => {
-                    const pct = Math.round((c.count / data.totalUniforms) * 100);
-                    return (
-                      <div key={c.label}>
-                        <div className="flex items-baseline justify-between mb-1">
-                          <span className="text-[11px] font-bold text-[#0B1F4A]">{c.label}</span>
-                          <span className="text-[11px] font-bold text-[#0B1F4A]">
-                            {c.count}/{data.totalUniforms}
-                            <span className="ml-1 text-[10px] text-[#8A8F98] font-normal">
-                              ({pct}%)
-                            </span>
-                          </span>
-                        </div>
-                        <div className="w-full bg-[#F0F0F4] rounded-full h-2 overflow-hidden">
-                          <div
-                            className="h-2 rounded-full transition-all duration-500"
-                            style={{ width: `${pct}%`, background: c.color }}
-                          />
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
+            </div>
+            {/* Last night's category mix — a strip under the awards rather than a
+                fourth column, so all three awards keep a full-size jersey tile.
+                Three bars also read better side by side than stacked narrow. */}
+            <div className="mt-5 pt-4 border-t border-border grid grid-cols-1 sm:grid-cols-[auto_repeat(3,1fr)] gap-x-5 gap-y-3 items-center">
+              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
+                Last Night's Mix
+              </span>
+              {data.categories.map((c) => {
+                const pct = Math.round((c.count / data.totalUniforms) * 100);
+                return (
+                  <div key={c.label}>
+                    <div className="flex items-baseline justify-between mb-1 gap-2">
+                      <span className="text-[11px] font-bold text-[#0B1F4A]">{c.label}</span>
+                      <span className="text-[11px] font-bold text-[#0B1F4A] tabular-nums">
+                        {c.count}/{data.totalUniforms}
+                        <span className="ml-1 text-[10px] text-[#8A8F98] font-normal">({pct}%)</span>
+                      </span>
+                    </div>
+                    <div className="w-full bg-[#F0F0F4] rounded-full h-2 overflow-hidden">
+                      <div
+                        className="h-2 rounded-full transition-all duration-500"
+                        style={{ width: `${pct}%`, background: c.color }}
+                      />
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </div>
         )}
