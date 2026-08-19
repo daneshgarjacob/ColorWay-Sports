@@ -22,12 +22,13 @@ The Rockets finished the job. After [rebranding the uniforms and logos in June](
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2090121595410952322"></a></blockquote>
 </div>
 
-<div style="display:flex;align-items:center;gap:12px;margin:1.4em 0;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#CE0E2D,#FFCC00);max-width:260px;">
+<div style="display:flex;align-items:center;gap:12px;margin:1.4em auto;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#CE0E2D,#FFCC00);max-width:260px;">
 <span style="font-size:0.72em;text-transform:uppercase;letter-spacing:0.12em;font-weight:700;color:#fff;">ColorWay Grade</span>
 <span style="font-size:1.9em;font-weight:800;line-height:1;color:#fff;margin-left:auto;">D-</span>
 </div>
 
 <img src="/images/posts/houston-rockets-court-2026-27-graded/core-court.jpg" alt="Houston Rockets Core Court at Toyota Center for 2026-27, light hardwood with a large red rocket R logo outlined in yellow at center, red painted lanes and red baselines with yellow accents" style="width:100%;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Houston Rockets</p>
 
 The color is the good part. Red lanes, red baselines, and real Championship Yellow doing structural work rather than sitting there as a pinstripe. Bright courts are better than beige ones, and after years of NBA floors drifting toward tasteful nothing, Houston committing to saturated red and mustard is the correct instinct. **More yellow is the right call and they should push it further.**
 
@@ -45,12 +46,13 @@ That is the trouble with putting a mark this detailed at center court. A floor l
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonRockets/status/2090125445375099060"></a></blockquote>
 </div>
 
-<div style="display:flex;align-items:center;gap:12px;margin:1.4em 0;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#1A1A1A,#CE0E2D);max-width:260px;">
+<div style="display:flex;align-items:center;gap:12px;margin:1.4em auto;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#1A1A1A,#CE0E2D);max-width:260px;">
 <span style="font-size:0.72em;text-transform:uppercase;letter-spacing:0.12em;font-weight:700;color:#fff;">ColorWay Grade</span>
 <span style="font-size:1.9em;font-weight:800;line-height:1;color:#fff;margin-left:auto;">C+</span>
 </div>
 
 <img src="/images/posts/houston-rockets-court-2026-27-graded/statement-court.jpg" alt="Houston Rockets Statement Court at Toyota Center for 2026-27, light hardwood with a large black Dunkstronaut astronaut logo outlined in red at center court" style="width:100%;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Houston Rockets</p>
 
 The **Dunkstronaut at center court is the best idea in this entire rebrand.** A dunking astronaut, rendered as a single bold silhouette, is exactly what a floor logo should be: one shape, readable instantly, impossible to confuse with any other team in the league. It is the rare mascot mark that gets *better* the larger you print it, which is the opposite of the R.
 
