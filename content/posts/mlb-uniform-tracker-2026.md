@@ -36,7 +36,31 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Tuesday, August 18
 
-A full fifteen-game slate, and for the second night running not one City Connect came out of a closet. The home clubs stayed conservative: eight of the fifteen hosts wore a plain white, with Philadelphia and Chicago's pinstripes and Milwaukee's cream the only variations on that theme. Four home alternates broke it up, and Colorado's purple was the loudest of them. The road brought more. Nine visitors wore a standard gray, but San Diego's brown, Arizona's black, the navies out of Seattle and Washington and the Angels' red made the away dugout the better-dressed one for a second straight night. The Dodgers again passed on their usual gray for the Los Angeles alternate they hardly ever wear.
+A full fifteen-game slate, and for the second night running not one City Connect came out of a closet. The home clubs stayed conservative: eight of the fifteen hosts wore a plain white, with Philadelphia and Chicago's pinstripes and Milwaukee's cream the only variations on that theme. Four home alternates broke it up, and Colorado's purple was the loudest of them. The road brought the color. Nine visitors wore a standard gray, but Arizona's black, the navies out of Seattle and Washington, San Diego's brown and the Angels' red kept the away dugouts from running together. The Dodgers again passed on their usual gray for the Los Angeles alternate they hardly ever wear.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">New York Mets Home White</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2089793224160211023"></a></blockquote>
+
+On a night when eight home clubs wore a plain white, the Mets made the case that plain white is a design problem most of the league quietly loses. The blue script with the orange outline does something almost no other home wordmark manages, which is carry two colors at once without either one demoting itself to trim. Orange is genuinely hard to place on white because it goes pale under stadium light, and New York solves it by never letting the orange stand on its own. It exists only as an edge against blue.
+
+The cap finishes it. Royal with the orange interlocking NY is one of the few in the sport that reads as clearly from the upper deck as it does in a dugout shot, and against white it gives the uniform a fixed point to hang from. Nothing here is new and nothing is trying to be. It is a very well balanced white uniform on a night that asked for one.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">San Diego Padres Brown Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Padres/status/2089906542753481024"></a></blockquote>
+
+We have been on record all season that the brown is one of the better ideas in the sport, and the best-dressed game we have logged is this same brown against Arizona's Sedona red. That is exactly the problem tonight. Brown needs a partner color to play against, and at Citi Field it did not have one.
+
+Set against a white jersey and a royal cap, San Diego's brown stops reading as brown and starts reading as an absence. It is the darkest thing on the field with nothing near its own value to push against, so the broadcast camera renders it as a silhouette rather than a color. The gold lettering that carries this uniform in daylight goes muddy under lights, and from the center field angle the wordmark is close to unreadable.
+
+None of that is an argument against the brown. It is an argument against wearing it into a plain white.
 
 ### New York Yankees at Baltimore Orioles
 
@@ -446,7 +470,10 @@ A full fifteen-game slate, and for the second night running not one City Connect
 
 ### Los Angeles Dodgers at Colorado Rockies
 
-<div style="margin: 1.4em 0 0.6em;">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #ffffff 50%, #333366 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 7, Rockies 6</span>
@@ -472,6 +499,10 @@ A full fifteen-game slate, and for the second night running not one City Connect
   </div>
 </div>
 </div>
+
+Gray against purple has no business working as well as this did. The Dodgers' alternate is the quieter of their two grays, the Los Angeles script in royal rather than the heavier Dodgers wordmark, and quiet is exactly what this pairing needed. Colorado's purple is a saturated violet that takes over whatever frame it enters, and put against a busy road uniform it turns the whole picture into noise.
+
+What makes it land is that both clubs are working in the same family. Dodger royal and Rockies purple sit close enough on the wheel to look deliberate and far enough apart that nobody confuses the two, and the gray gives the purple somewhere to breathe. Coors at night does the rest. Purple reads as its actual color under those lights in a way it never quite does in daylight.
 
 ## Monday, August 17
 
