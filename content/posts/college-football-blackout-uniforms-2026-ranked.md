@@ -140,3 +140,5 @@ Nebraska and Washington tie at a B-. Nebraska has the more legible jersey thanks
 **What grades do the 2026 blackout uniforms get?**
 
 Nebraska B-, Washington B-, and Louisville F.
+
+<div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More college uniform coverage</p><a href="/stories/nc-state-wolfpack-warriors-army-uniform-2026" style="display: block; padding: 10px 0; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">NC State's Wolfpack Warriors Army Uniform</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">camo, a US Army partnership, and a September 11 debut, graded B+</span></a></div>
