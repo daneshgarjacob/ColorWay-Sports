@@ -40,6 +40,12 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // ⚠️ DO NOT add a redirect for /ads.txt. Tried it 2026-08-19 (301 to
+      // adstxt.mediavine.com) and it silently did NOT match — /ads.txt returned 404 in
+      // production while every other rule in this array kept working. The docs say
+      // redirects are checked before the filesystem, but a source with a file
+      // extension did not resolve here. ads.txt is served as a real file from
+      // public/ads.txt instead; see the header comment in that file for how to refresh it.
       // 2026-08-18: 12 thin NBA team scorebug one-offs consolidated into the ranked hub.
       // Each earned 0-2 clicks per 90 days and the hub already carried the same grade and
       // analysis for every team, so nothing was lost. Images are shared and stay in place.
