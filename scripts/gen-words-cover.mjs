@@ -7,6 +7,18 @@ import { mkdir } from 'node:fs/promises';
 const W = 1500, H = 1000;
 
 const CONFIGS = {
+  // NHL x Fanatics Hometown Remix, announced 2026-08-19. No designs have been
+  // shown, so there is nothing licensable to put on a cover.
+  'nhl-hometown-remix': {
+    out: 'public/images/posts/nhl-hometown-remix-2026-27',
+    base: '#1b2733', mid: '#111a24', deep: '#05090d', accent: '#5ec8f0',
+    teamLogo: 'public/logos/NHL.png',
+    leagueLogo: null,
+    eyebrow: 'NHL x FANATICS',
+    line1: 'HOMETOWN',
+    line2: 'REMIX',
+    sub: ['ALL 32 TEAMS', '2026-27'],
+  },
   'white-sox-southside': {
     out: 'public/images/posts/white-sox-southside-city-connect-tim-anderson',
     base: '#27251F', mid: '#1a1917', deep: '#0a0a0a', accent: '#C4CED4',
