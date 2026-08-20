@@ -101,9 +101,11 @@ For what the Padres have actually worn so far this season, day by day, see the [
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
 
-## Brown Alternate (Home and Road)
+## Brown Alternate (Road, in Practice)
 
-The brown alternate is the team's swing jersey. It shows up at home on some dates, usually Saturdays, and it travels well too. There is no fixed day attached to it, which is exactly why it works as an alternate rather than a scheduled look. The Padres pull it out when they want the full brown statement instead of the white pinstripe.
+The brown alternate was written up as a swing jersey that turns up at home on some dates and travels too. **Our own logging says otherwise.** Across the games we have tracked, the Padres have worn it 15 times and every single one was on the road. They had 17 home games in that stretch and did not reach for it once.
+
+So treat this as a road jersey. There is still no fixed day attached to it, and it remains the look San Diego chooses when it wants the full brown statement rather than the white pinstripe, but if you are trying to predict a Padres home game this is not the one to guess.
 
 We like this one a lot. Brown is the color that sets San Diego apart from every other team in the league, and leaning into a solid brown jersey instead of hiding it is the right instinct. The only knock is that the flexible usage makes it harder to predict, but that is the trade-off for keeping the closet interesting.
 
