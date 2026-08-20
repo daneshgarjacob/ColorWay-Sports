@@ -27,6 +27,11 @@ Tennessee revealed this year's Smokey Grey on August 20, and it is the best one 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2090446895470530819"></a></blockquote>
 </div>
 
+<div style="display:flex;align-items:center;gap:12px;margin:1.4em auto;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#FF8200,#58595B);max-width:260px;">
+<span style="font-size:0.72em;text-transform:uppercase;letter-spacing:0.12em;font-weight:700;color:#fff;">ColorWay Grade</span>
+<span style="font-size:1.9em;font-weight:800;line-height:1;color:#fff;margin-left:auto;">B-</span>
+</div>
+
 The details are where it earns the tribute:
 
 - **Neyland's signature** in script across the back helmet bumper.
@@ -42,6 +47,12 @@ This is also **the first Smokey Grey of the adidas era**. Tennessee left Nike th
 </div>
 
 **It debuts October 3 against Auburn at Neyland Stadium.** One game, as always with this series.
+
+### Our Grade: B-
+
+Grey jerseys are not our favorite thing in college football, and that is the ceiling this one runs into. Working against that, this is about as well as the idea gets executed. The Ayres Hall print on the sleeves is the best part of the set, a real piece of design rather than a pattern for the sake of one, and it rewards a closer look without shouting from the stands. The orange numbers give the jersey the pop it needs, which is the thing most grey sets get wrong when they go tonal and disappear.
+
+The pants are the quietly correct decision. Cream instead of grey keeps this from turning into a single flat block of colorless uniform, and it is the difference between a grey jersey and a grey uniform. Tennessee did the version of this we would ask for. We would just rather have the orange.
 
 ## What Tennessee Wears the Rest of the Year
 
@@ -123,6 +134,10 @@ October 3 against Auburn at Neyland Stadium. The Smokey Grey Series is a once-a-
 **What is on the 2026 Smokey Grey uniform?**
 
 Neyland's signature on the back helmet bumper, a white star on the helmet, Ayres Hall printed in tonal grey across the shoulder yokes, the vintage interlocking UT monogram in orange, orange numbers outlined in white, and cream pants with an orange, cream and grey stripe.
+
+**Is the 2026 Tennessee Smokey Grey uniform any good?**
+
+We grade it a B-. The Ayres Hall sleeve print is genuinely well designed, the orange numbers keep the jersey from going flat, and the cream pants stop it from becoming an all-grey uniform. The grey jersey itself is the limit on how high it can score.
 
 **Is Tennessee wearing adidas in 2026?**
 
