@@ -53,6 +53,16 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable} ${hanken.variable}`}>
       <head>
+        {/* Mediavine's "force all ads secure" requirement, verbatim from
+            https://help.mediavine.com/force-all-ads-secure-with-a-content-security-policy
+            This is deliberately the ONLY CSP directive on the site. It blocks
+            insecure subresources from rendering, and it does not allowlist
+            anything, so it cannot starve the ad stack the way a full
+            script-src/frame-src policy would.
+            ⚠️ Do NOT add `upgrade-insecure-requests` alongside it. Mediavine is
+            explicit that upgrade-insecure-requests prevents block-all-mixed-content
+            from applying at all, which would silently undo this. */}
+        <meta httpEquiv="Content-Security-Policy" content="block-all-mixed-content" />
         <meta name="apple-mobile-web-app-title" content="ColorWay Sports" />
         <meta name="impact-site-verification" content="d7f27018-e02f-435c-8b26-94ff434d2e4c" />
         <script
