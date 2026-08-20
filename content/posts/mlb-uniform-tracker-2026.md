@@ -27,13 +27,6 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 </div>
 <p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
-<div style="margin: 1.5em 0; padding: 1.2em 1.6em; background: linear-gradient(135deg, #0C2340 0%, #003831 100%); border-radius: 14px;">
-  <span style="display: block; font-size: 0.7em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #EFB21E; margin-bottom: 5px;">Best-Dressed Game So Far</span>
-  <span style="display: block; font-size: 1.12em; font-weight: 900; color: #ffffff;">Padres Brown at Diamondbacks Sedona Red &middot; 8.5 / 10</span>
-  <span style="display: block; font-size: 0.72em; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #EFB21E; margin-top: 6px;">From Wednesday, August 5, 2026</span>
-  <span style="display: block; font-size: 0.9em; line-height: 1.5; color: #e6ecf5; margin-top: 6px;">Nineteen games have now reached our 8.5 ceiling across 28 days and 370 games of tracking, and San Diego's brown against Arizona's Sedona red is the newest of them, brown against deep red being about as saturated a colour-on-colour frame as the schedule produces. Nobody has cracked a 9 yet.</span>
-</div>
-
 ## Wednesday, August 19
 
 A full fifteen-game Wednesday, and the story is black. **Four different clubs reached for a black alternate on the same night** — Pittsburgh, the White Sox, Arizona and Miami — which is as many blacks as the league has produced on any slate we have logged. Underneath that the card was conservative: ten home whites and seven standard road grays account for more than half of it. The rest of the colour came from three reds (Cleveland, Cincinnati's script rather than the City Connect, and the Angels in Houston), Colorado's purple at Coors, Milwaukee's cream, Washington's navy in Texas, Seattle's Northwest Green, and San Diego's brown at Citi Field for a second straight night. The Dodgers again passed on their usual gray for the Los Angeles alternate, a third night running.
@@ -42,6 +35,8 @@ A full fifteen-game Wednesday, and the story is black. **Four different clubs re
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Seattle Mariners Northwest Green Alternate</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2090268190584828105"></a></blockquote>
 
 Northwest Green is the best color any team added in the last decade and Seattle still treats it like a guest. It came out at American Family Field on a night when four clubs went black, and it was the only jersey on the slate doing something no other franchise could do.
 
@@ -53,6 +48,8 @@ The knock is how rarely it appears. A color this distinctive should be a primary
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">San Diego Padres Brown Alternate</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Padres/status/2090076683948700051"></a></blockquote>
 
 Same jersey, same ballpark, second night in a row, and that is exactly why it lands here again.
 
