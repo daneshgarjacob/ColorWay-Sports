@@ -7,7 +7,7 @@ date: "2026-08-19"
 updatedDate: "2026-08-19"
 excerpt: "The NHL and Fanatics are giving all 32 teams a Hometown Remix jersey in 2026-27. Here is what the program is, when designs drop, and every one graded as it lands."
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
-coverImage: "/images/posts/nhl-hometown-remix-2026-27/cover.jpg"
+coverImage: "/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/NHL.png"
@@ -18,6 +18,19 @@ teams: []
 The NHL and Fanatics announced on Wednesday that all 32 teams will wear a special edition jersey in 2026-27 under a program called **Hometown Remix**. It is the first league-wide uniform program Fanatics has run since taking over as the NHL's on-ice outfitter in 2024, and it is the first league-wide program of any kind since adidas closed out Reverse Retro.
 
 **No designs have been shown yet.** This page is where we will grade all 32 as they land.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Fanatics/status/2090091280688668994"></a></blockquote>
+</div>
+
+<img src="/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg" alt="NHL Hometown Remix program logo, HOMETOWN in white block capitals with REMIX below it in a green graffiti script and an arrow, on black" style="width:100%;max-width:640px;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the NHL and Fanatics</p>
+
+The program logo is the only thing anyone has actually seen: block capitals for HOMETOWN, a green graffiti script for REMIX, and an arrow. It is a music-and-street-culture reference rather than a hockey one, which tells you something about the direction before a single sweater exists.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLPR/status/2090091784798122396"></a></blockquote>
+</div>
 
 ## What Hometown Remix Actually Is
 
@@ -86,4 +99,4 @@ No. Reverse Retro was an adidas program that took real uniforms from a team's hi
 **How many games will teams wear the Hometown Remix jersey?**
 The NHL has not said.
 
-*ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
+*Hometown Remix logo via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
