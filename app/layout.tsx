@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Inter, Playfair_Display, Hanken_Grotesk } from "next/font/google";
 import EmailCapture from "@/components/EmailCapture";
-import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 const inter = Inter({
@@ -102,7 +101,6 @@ export default function RootLayout({
       <body className="min-h-screen bg-background text-foreground font-sans antialiased">
         {children}
         <EmailCapture />
-        <CookieConsent />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-RKP192Y1DM"
           strategy="afterInteractive"
