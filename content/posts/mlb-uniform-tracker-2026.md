@@ -38,6 +38,30 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 A full fifteen-game Wednesday, and the story is black. **Four different clubs reached for a black alternate on the same night** — Pittsburgh, the White Sox, Arizona and Miami — which is as many blacks as the league has produced on any slate we have logged. Underneath that the card was conservative: ten home whites and seven standard road grays account for more than half of it. The rest of the colour came from three reds (Cleveland, Cincinnati's script rather than the City Connect, and the Angels in Houston), Colorado's purple at Coors, Milwaukee's cream, Washington's navy in Texas, Seattle's Northwest Green, and San Diego's brown at Citi Field for a second straight night. The Dodgers again passed on their usual gray for the Los Angeles alternate, a third night running.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2C56 0%, #005C5C 100%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Seattle Mariners Northwest Green Alternate</span>
+</div>
+
+Northwest Green is the best color any team added in the last decade and Seattle still treats it like a guest. It came out at American Family Field on a night when four clubs went black, and it was the only jersey on the slate doing something no other franchise could do.
+
+The green works because it is not a hockey green or a forest green borrowed from somewhere else. It is a specific, slightly muted evergreen pulled off the Pacific Northwest, and it sits between the navy and the silver in the Mariners' palette without fighting either. Put it on the road over gray and the whole uniform gets quieter and better at once, which is the opposite of what most alternates do.
+
+The knock is how rarely it appears. A color this distinctive should be a primary, not an occasional. On a night of black alternates and plain whites it was the one jersey on a field anywhere that told you where the team was from.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">San Diego Padres Brown Alternate</span>
+</div>
+
+Same jersey, same ballpark, second night in a row, and that is exactly why it lands here again.
+
+We said yesterday that brown needs a partner color and a plain white gives it none. Tonight San Diego proved the point by doing it twice. Wearing the brown once into a white-and-royal home set is a choice. Wearing it into the same set on consecutive nights, in the same series, at the same park, under the same lights, is a rotation problem rather than a design problem.
+
+The Padres own the best road option in the sport for a matchup like this. The khaki set they wore in the opener on Monday is warmer, it separates from a white jersey instead of collapsing into a silhouette, and it is the one uniform in baseball that no other team can approximate. They had it in the bag and left it there for two straight games.
+
+None of this is an argument against the brown. It is an argument for wearing it where it can be seen.
+
 ### Detroit Tigers at Pittsburgh Pirates
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -127,7 +151,10 @@ A full fifteen-game Wednesday, and the story is black. **Four different clubs re
 
 ### Chicago White Sox at Chicago Cubs
 
-<div style="margin: 1.4em 0 0.6em;">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #ffffff 50%, #0E3386 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; White Sox 3, Cubs 0</span>
@@ -153,6 +180,12 @@ A full fifteen-game Wednesday, and the story is black. **Four different clubs re
   </div>
 </div>
 </div>
+
+Black against white pinstripes, on the South Side, in the only series in baseball where both teams are named after the same city. The Crosstown matchup does the thing a rivalry uniform pairing should do without anybody designing a thing for it.
+
+What makes it work is that the two clubs are opposites by nature rather than by coordination. Chicago's black alternate is the most severe uniform in the American League, all charcoal and silver with nothing warm in it. The Cubs' home white is the friendliest look in the National League, pinstripes and a royal roundel that has barely changed in seventy years. Put them on the same field and the contrast is total: dark against light, industrial against nostalgic, no shared color anywhere.
+
+The best clashes are usually two saturated colors shouting at each other. This one is the other kind, where the whole frame is built on value rather than hue, and it holds up just as well.
 
 ### Arizona Diamondbacks at Boston Red Sox
 
