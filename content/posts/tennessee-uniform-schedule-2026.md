@@ -50,6 +50,9 @@ This is also **the first Smokey Grey of the adidas era**. Tennessee left Nike th
 
 ### Our Grade: B-
 
+<img src="/images/posts/tennessee-uniform-schedule-2026/smokey-grey.jpg" alt="Tennessee 2026 Smokey Grey uniform, a grey jersey with orange numbers outlined in white, Ayres Hall printed in tonal grey across the shoulder yokes, and cream pants with an orange, cream and grey stripe" style="width:100%;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Tennessee Football / adidas</p>
+
 Grey jerseys are not our favorite thing in college football, and that is the ceiling this one runs into. Working against that, this is about as well as the idea gets executed. The Ayres Hall print on the sleeves is the best part of the set, a real piece of design rather than a pattern for the sake of one, and it rewards a closer look without shouting from the stands. The orange numbers give the jersey the pop it needs, which is the thing most grey sets get wrong when they go tonal and disappear.
 
 The pants are the quietly correct decision. Cream instead of grey keeps this from turning into a single flat block of colorless uniform, and it is the difference between a grey jersey and a grey uniform. Tennessee did the version of this we would ask for. We would just rather have the orange.
