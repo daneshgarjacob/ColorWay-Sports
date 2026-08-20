@@ -44,6 +44,15 @@ const CONFIGS = {
     mode: 'bleed',
     position: 'centre',
   },
+  'tennessee-schedule': {
+    dir: 'public/images/posts/tennessee-uniform-schedule-2026',
+    // Tunnel shot from the Smokey Grey reveal. Framed high so the crop keeps the
+    // helmet, the Ayres Hall shoulder print and the top of the numbers, which are
+    // the three things that identify this set at thumbnail size.
+    art: 'smokey-grey.jpg',
+    mode: 'bleed',
+    focusY: 0.34,
+  },
 };
 
 const key = process.argv[2];
