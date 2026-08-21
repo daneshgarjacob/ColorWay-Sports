@@ -68,6 +68,22 @@ for (const card of cards) {
   }
 }
 
+// First-time uniforms: a tile that exists on disk but has never appeared in a
+// card yet, so the learner cannot know it. Seed those here on their debut day;
+// after the day block ships, the learner picks them up from the post itself.
+const SEED = {
+  "phillies|Black City Connect": { src: "/images/posts/mlb-daily-tracker/phillies-city-connect.jpg", swatch: "#101820" },
+  "orioles|BMORE City Connect": { src: "/images/posts/mlb-daily-tracker/orioles-bmore-cc.jpg", swatch: "#EAE3CE" },
+};
+for (const [k, v] of Object.entries(SEED)) {
+  if (!tile.has(k)) {
+    tile.set(k, v);
+    const slug = k.split("|")[0];
+    if (!seenUni.has(slug)) seenUni.set(slug, new Set());
+    seenUni.get(slug).add(k.split("|")[1]);
+  }
+}
+
 // ---- tonight's data --------------------------------------------------------
 const confirmed = JSON.parse(fs.readFileSync(`scripts/mlb-confirmed/${date}.json`, "utf8"));
 const sched = await fetch(
