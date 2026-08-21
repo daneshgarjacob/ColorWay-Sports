@@ -1,6 +1,5 @@
 ---
 title: "Arizona State's 'Roses & Devils' Throwback Uniforms Are the Best Jersey Reveal of the College Football Offseason"
-homepageHero: true
 category: "College"
 date: "2026-08-15"
 updatedDate: "2026-08-15"

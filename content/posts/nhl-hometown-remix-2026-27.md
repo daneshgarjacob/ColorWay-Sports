@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-08-19"
-updatedDate: "2026-08-19"
+updatedDate: "2026-08-21"
 excerpt: "The NHL and Fanatics are giving all 32 teams a Hometown Remix jersey in 2026-27. Here is what the program is, when designs drop, and every one graded as it lands."
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
 coverImage: "/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg"
@@ -74,6 +74,8 @@ Nothing has been revealed. As designs drop we will add each team here with a Col
   <p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.6em;">0 of 32 revealed</p>
   <p style="margin: 0; color: #14284b; font-size: 15px; line-height: 1.6;">Check back after <strong>September 29</strong>. Every jersey gets added here with a grade as soon as it is official.</p>
 </div>
+
+<div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The other NHL jersey story right now</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">The Islanders let fans vote a third jersey concept in. Hometown Remix is the league doing the opposite.</p><a href="/stories/islanders-third-jersey-navy-lighthouse" style="display: block; padding: 9px 0; color: #14284b; font-weight: 700; text-decoration: none;">Islanders Third Jersey: The Fan-Voted Navy Lighthouse, Graded</a></div>
 
 ## The Bottom Line
 

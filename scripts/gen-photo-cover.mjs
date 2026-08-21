@@ -30,6 +30,22 @@ const CONFIGS = {
     mode: 'bleed',
     focusY: 0.40,
   },
+  'baylor-schedule': {
+    // Throwback reveal shot from the Colorado Traditions Game set, framed high so
+    // the crop keeps the face, the gold-outlined BAYLOR wordmark and the numbers.
+    dir: 'public/images/posts/baylor-uniform-schedule-2026',
+    art: 'throwback-full.jpg',
+    mode: 'bleed',
+    focusY: 0.38,
+  },
+  'missouri-schedule': {
+    // Black helmet through the gold pants, so both halves of the 1970s
+    // throwback are in the frame.
+    dir: 'public/images/posts/missouri-uniform-schedule-2026',
+    art: 'throwback-full.jpg',
+    mode: 'bleed',
+    focusY: 0.45,
+  },
   'gators-blue-helmet': {
     dir: 'public/images/posts/gators-blue-helmet-uniforms-2026',
     // Helmet worn WITH the orange jersey, so the crop can run from the top of
