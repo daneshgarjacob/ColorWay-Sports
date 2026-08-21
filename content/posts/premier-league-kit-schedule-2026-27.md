@@ -70,30 +70,30 @@ This is the part almost nobody explains properly, so here it is straight.
 
 Twenty clubs, three of them new: Coventry City up after twenty-five years, Hull City after a decade, and Ipswich Town straight back after one season down.
 
-- **Arsenal** — red with white sleeves
-- **Aston Villa** — claret with blue sleeves
+- **[Arsenal](/stories/arsenal-kits-2026-27)** — red with white sleeves
+- **[Aston Villa](/stories/aston-villa-kits-2026-27)** — claret with blue sleeves
 - **AFC Bournemouth** — red and black stripes
 - **Brentford** — red and white stripes
 - **Brighton and Hove Albion** — blue and white stripes
-- **Chelsea** — royal blue
-- **Coventry City** — sky blue
+- **[Chelsea](/stories/chelsea-kits-2026-27)** — royal blue
+- **[Coventry City](/stories/coventry-city-kits-2026-27)** — sky blue
 - **Crystal Palace** — red and blue stripes
-- **Everton** — royal blue
+- **[Everton](/stories/everton-kits-2026-27)** — royal blue
 - **Fulham** — white with black shorts
 - **Hull City** — amber and black stripes
 - **Ipswich Town** — blue
-- **Leeds United** — all white
-- **Liverpool** — all red
-- **Manchester City** — sky blue
-- **Manchester United** — red
-- **Newcastle United** — black and white stripes
+- **[Leeds United](/stories/leeds-united-kits-2026-27)** — all white
+- **[Liverpool](/stories/liverpool-kits-2026-27)** — all red
+- **[Manchester City](/stories/manchester-city-kits-2026-27)** — sky blue
+- **[Manchester United](/stories/manchester-united-kits-2026-27)** — red
+- **[Newcastle United](/stories/newcastle-kits-2026-27)** — black and white stripes
 - **Nottingham Forest** — red
 - **Sunderland** — red and white stripes
-- **Tottenham Hotspur** — white with navy shorts
+- **[Tottenham Hotspur](/stories/tottenham-kits-2026-27)** — white with navy shorts
 
 Seven of the twenty wear red as a primary home color and six wear a shade of blue. That is more than half the league fighting over two colors, and it is why change kits come out so often here.
 
-<div data-epl-hub-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">Every kit, club by club, graded</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">The full 2026/27 wardrobe for each of the big six, with our grades and what they are wearing next.</p><a href="/stories/arsenal-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Arsenal Wearing Today?</a><a href="/stories/chelsea-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Chelsea Wearing Today?</a><a href="/stories/liverpool-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Liverpool Wearing Today?</a><a href="/stories/manchester-city-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Man City Wearing Today?</a><a href="/stories/manchester-united-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Man United Wearing Today?</a><a href="/stories/tottenham-kits-2026-27" style="display: block; padding: 9px 0; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Tottenham Wearing Today?</a></div>
+<div data-epl-hub-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">Every kit, club by club</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">The full 2026/27 wardrobe for each club we cover, and what they are wearing next.</p><a href="/stories/arsenal-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Arsenal Wearing Today?</a><a href="/stories/aston-villa-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Aston Villa Wearing Today?</a><a href="/stories/chelsea-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Chelsea Wearing Today?</a><a href="/stories/coventry-city-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Coventry City Wearing Today?</a><a href="/stories/everton-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Everton Wearing Today?</a><a href="/stories/leeds-united-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Leeds United Wearing Today?</a><a href="/stories/liverpool-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Liverpool Wearing Today?</a><a href="/stories/manchester-city-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Manchester City Wearing Today?</a><a href="/stories/manchester-united-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Manchester United Wearing Today?</a><a href="/stories/newcastle-kits-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Newcastle United Wearing Today?</a><a href="/stories/tottenham-kits-2026-27" style="display: block; padding: 9px 0; color: #14284b; font-weight: 700; text-decoration: none;">What Kit Are Tottenham Wearing Today?</a></div>
 
 ## Frequently Asked Questions
 
