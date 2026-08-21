@@ -6,7 +6,9 @@ date: "2026-08-21"
 updatedDate: "2026-08-21"
 excerpt: "What Texas Tech wears every game in 2026, week by week, including the exact date the new Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
-cardStyle: words
+coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center 30%"
+coverImageFit: "cover"
 kicker: Schedule
 league: "college"
 teams: []
@@ -15,13 +17,30 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it comes with the one date every Red Raiders fan is asking about: **the new Patrick Mahomes "Let's Ride" uniform debuts Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX.
 
+<p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Texas Tech Athletics.</p>
+
 ## The Let's Ride Uniform Is the Headline
 
 For the third straight year, adidas and Patrick Mahomes have given his alma mater a signature uniform, and this one is called Let's Ride. Red and black, Mahomes' Gladiator logo worked into the design, and his name on the back of the helmet. Texas Tech gets it for one confirmed night: September 18 against Houston.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2090468941109805307"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2090473596263022632"></a></blockquote>
 </div>
+
+The name is not just a slogan. The reveal shoot put the Masked Rider, Texas Tech's horseback mascot, in the frame with the uniform, and the whole set is built around that all-black-with-red identity.
+
+<img src="/images/posts/texas-tech-uniform-schedule-2026/lets-ride-masked-rider.jpg" alt="Texas Tech Let's Ride 2026 uniform, an all-black jersey and pants with red numbers and trim, worn next to the Masked Rider on horseback in the end zone" style="width:100%;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Texas Tech Athletics / adidas</p>
+
+The details are where the Mahomes of it all lives:
+
+- **His name across the back helmet bumper** in the heartbeat-line script, with GUNS UP on the front bumper.
+- **The Gladiator logo** in red at the collarbone, opposite the Double T.
+- **Carbon-fiber texture** inside the shoulder chevrons and the helmet's Double T decal.
+- Red block numbers on an otherwise all-black jersey, black pants, black shells.
+
+<img src="/images/posts/texas-tech-uniform-schedule-2026/lets-ride-details.jpg" alt="Texas Tech Let's Ride 2026 uniform details, the black helmet with carbon fiber Double T and Mahomes back bumper, and the red Gladiator logo at the jersey collar" style="width:100%;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Texas Tech Athletics / adidas</p>
 
 <div style="display:flex;align-items:center;gap:12px;margin:1.4em auto;padding:10px 16px;border-radius:10px;background:linear-gradient(135deg,#CC0000,#000000);max-width:260px;">
 <span style="font-size:0.72em;text-transform:uppercase;letter-spacing:0.12em;font-weight:700;color:#fff;">ColorWay Grade</span>
