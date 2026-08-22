@@ -17,6 +17,11 @@ If you turned on a Major League Baseball game this weekend and noticed a small p
 
 Here is the short answer, and then the longer one: the patch is the Players' Weekend logo, it sits on the side of the cap, every player, coach and manager in the league is wearing it, and it is the only thing about the uniform that changes. No nickname jerseys, no special uniforms. Just the patch.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sportslogosnet/status/2090945430859161880"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## What the Patch on MLB Caps Actually Is
 
 The patch is the official **Players' Weekend logo**, applied to the side panel of each team's regular game cap. It is a league-wide mark rather than a team-specific one, so it looks the same on a Dodgers cap as it does on an Orioles cap. Teams keep their normal caps underneath it.
@@ -39,7 +44,15 @@ One consequence of the patch-only format: it is genuinely league-wide. The Yanke
 
 The uniforms went back to normal, but the personalization did not disappear. It moved off the jersey and onto everything a player holds or wears on their feet.
 
-**Custom bats.** This is the centerpiece now. More than **400 players** are swinging custom bat designs this weekend, built through Victus and Marucci, with artwork honoring hometowns and home countries, family members, alma maters, old nicknames and charitable causes. It is the largest participation the program has had.
+**Custom bats.** This is the centerpiece now. More than **400 players** are swinging custom bat designs this weekend, built through Victus and Marucci, with artwork honoring hometowns and home countries, family members, alma maters, old nicknames and charitable causes. It is the largest participation the program has had. Julio Rodriguez went Spider-Man, and Jordan Walker brought two: an Iron Man bat and a Home Run Derby champion bat.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 1.2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2090919278736200029"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2090928219583021240"></a></blockquote>
+</div>
 
 **Custom cleats.** Players can wear personalized cleats across all three days, which is where a lot of the visual creativity that used to live on the jerseys ended up.
 
@@ -57,7 +70,11 @@ MLB built the 2026 weekend around three themes, one per day, carried across in-s
 - **Causes**, focused on charitable and community work.
 - **Appreciation**, celebrating the people who helped players reach the majors.
 
-The themes drive the storytelling and the bat and cleat designs. They do not change anything about the uniforms.
+The themes drive the storytelling and the bat and cleat designs. They do not change anything about the uniforms. The Off-Field Interests day is where you get things like Pete Crow-Armstrong's locker listing his three favorite albums.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2091231566085161048"></a></blockquote>
+</div>
 
 ## How This Compares to MLB's Other Patch and Cap Weekends
 
