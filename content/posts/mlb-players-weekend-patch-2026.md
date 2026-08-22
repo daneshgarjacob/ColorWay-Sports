@@ -28,10 +28,6 @@ Here is what it looks like on an actual cap. This is the Twins version, and ever
 
 The patch is the official **Players' Weekend logo**, applied to the side panel of each team's regular game cap. It is a league-wide mark rather than a team-specific one, so it looks the same on a Dodgers cap as it does on an Orioles cap. Teams keep their normal caps underneath it.
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sportslogosnet/status/2090945430859161880"></a></blockquote>
-</div>
-
 That is the entire on-field uniform change. Every club is wearing its usual jersey rotation this weekend, right down to City Connects and alternates. On Friday night alone, ten teams wore City Connect jerseys, and every one of those jerseys was paired with a normal team cap carrying the Players' Weekend patch. If your team looked different this weekend, that was the regular uniform schedule doing its thing, not Players' Weekend.
 
 We tracked every jersey worn across the weekend in our [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026), which logs all 30 teams' looks game by game.

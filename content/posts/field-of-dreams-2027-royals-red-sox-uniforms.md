@@ -34,7 +34,7 @@ It is not the regular jersey. This is a throwback to the **1969 inaugural season
 - **A different "Royals" script.** This is the wordmark Kansas City used from 1969 through 2001. The tell is the **R**: on the 1969 version the lower right leg of the R lines up with the bottom of the **o**, while the modern R dips below it.
 - **An off-white base with a subtle woven pattern**, which is there to suggest wool flannel rather than modern polyester.
 
-*The wordmark comparison and the flannel-texture catch are Chris Creamer's work at [SportsLogos.Net](https://news.sportslogos.net/2026/08/14/royals-unveil-2027-mlb-at-field-of-dreams-game-uniform-red-sox-tease-their-logo/baseball/), who spotted both within hours of the reveal.*
+*The wordmark comparison and the flannel-texture catch are Chris Creamer's work at SportsLogos.Net, who spotted both within hours of the reveal.*
 
 That last detail is the one worth caring about. Throwback jerseys have spent two decades being modern jerseys with old graphics printed on them. Building a fabric pattern that reads as flannel on camera is a different level of effort, and if it works in Iowa it is the sort of thing every other club copies within two seasons.
 
