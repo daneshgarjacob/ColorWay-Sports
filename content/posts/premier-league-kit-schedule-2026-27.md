@@ -79,9 +79,14 @@ Palace brought the most interesting shirt of the weekend to a fixture that did n
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
   <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #0044a9 0%, #d0021b 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B+</span></div>
-  <p style="color: #fff; font-size: 15px; font-weight: 900; text-align: center; margin: 0 0 4px;">IPSWICH BLUE HOME &middot; VS &middot; SUNDERLAND RED STRIPES HOME</p>
-  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 10px 0 0; font-weight: 700;">Final &middot; Ipswich 2, Sunderland 1</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-home.png" alt="Ipswich Town 2026/27 blue home shirt, worn in the 2-1 win over Sunderland on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">IPSWICH &middot; BLUE HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland 2026/27 red and white striped home shirt with black trim, worn at Ipswich Town on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">SUNDERLAND &middot; RED STRIPES HOME</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Ipswich 2, Sunderland 1</p>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Ipswich and Sunderland shown as ColorWay colorway renders, not photographs.</p>
 
 This is what English football looked like for most of the last century, and there is a reason it keeps working. Plain blue against red and white stripes needs no ruling, no third kit and no conversation, and the stripes do all the visual work while Ipswich's block blue sits underneath them as a clean background. It is a comfortable, well-built matchup rather than a memorable one. Sunderland's stripes carry it, Ipswich's shirt is honest but plain, and nothing here surprises you. **B+.**
 
@@ -89,9 +94,14 @@ This is what English football looked like for most of the last century, and ther
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
   <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #d0021b 0%, #101c3a 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B</span></div>
-  <p style="color: #fff; font-size: 15px; font-weight: 900; text-align: center; margin: 0 0 4px;">BRENTFORD RED STRIPES HOME &middot; VS &middot; SPURS NAVY AWAY</p>
-  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 10px 0 0; font-weight: 700;">Final &middot; Brentford 3, Tottenham 0</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/brentford-home.png" alt="Brentford 2026/27 red and white striped home shirt by Joma, worn in the 3-0 win over Tottenham on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">BRENTFORD &middot; RED STRIPES HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/tottenham-away.png" alt="Tottenham Hotspur 2026/27 navy away shirt with coloured streak pattern, worn at Brentford with home white socks to clear the kit clash" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">SPURS &middot; NAVY AWAY</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Brentford 3, Tottenham 0</p>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Brentford shirt photo via Joma. Tottenham away shirt photo via the official Spurs store. Spurs paired this shirt with navy shorts and white home socks.</p>
 
 The contrast is fine. Red and white stripes against a dark navy separates cleanly and nobody watching was ever confused about who was who. The problem is what it took to get there. Spurs wore the navy away shirt and navy shorts with the white socks from their home kit, which solves the sock clash on paper and produces a kit that does not quite belong to itself on television. A navy body sitting on white socks reads as unfinished rather than deliberate, and mixed-kit combinations almost always look like a compromise because that is what they are. Good matchup, awkward assembly. **B.**
 
