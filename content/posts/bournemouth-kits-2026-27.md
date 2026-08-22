@@ -23,17 +23,30 @@ The red and black stripes, widened for a more classic proportion, with gold deta
 
 **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/afcbournemouth/status/2075482656373080342"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: B
 
 A purple base with a bold retro geometric pattern of zig-zags and diagonal lines, drawn straight from early nineties shirt design, on sale from July 30. Purple has no particular Bournemouth history and the nineties revival is the most crowded trend in kit design right now, so this could easily have been generic. It survives because the pattern is committed rather than half-hearted; a timid version of this shirt would have been worse than a loud one.
 
 **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/afcbournemouth/status/2082726637368480167"></a></blockquote>
+</div>
+
 ## The Third Shirt: A-
 
 An off-white base with navy applications and gold details, a navy polo collar, an embossed 'The Cherries' crest treatment and a subtle repeating cherry pattern, unveiled August 12. This is the best shirt in the wardrobe. Off-white with navy and gold is a restrained, expensive-looking combination that almost nobody in the league is using, the polo collar suits it, and building the graphic from the club's own nickname is a far better idea than another abstract print.
 
 **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/afcbournemouth/status/2087259254801543503"></a></blockquote>
+</div>
 
 ## Bournemouth's 2026/27 Wardrobe Grade
 

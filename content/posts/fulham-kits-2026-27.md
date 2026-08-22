@@ -23,17 +23,30 @@ The usual clean white base with red trim at the collar and framing black sleeve 
 
 **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FulhamFC/status/2080217605491597398"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: A-
 
 A red and black checkerboard, modernising the Le Coq Sportif shirt of 1996-97, and the big move is the return of the minimalist 'FFC' monogram used between 1972 and 1977 and worn on the run to the 1975 FA Cup Final. Red shorts and socks complete it. Checkerboard is a hard pattern to wear and this one holds together because the scale is right and the monogram gives it a period anchor rather than leaving it as a novelty. The boldest thing Fulham have put out in years.
 
 **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FulhamFC/status/2084205129641898190"></a></blockquote>
+</div>
+
 ## The Third Shirt: B-
 
 A bright sky blue base with neon pink details and a horizontal line graphic that creates a wave effect across the front and lower back, on sale from August 10. It is a perfectly competent modern third kit and it has nothing whatsoever to do with Fulham. Sky blue and neon pink is a colour pairing chosen for the shelf rather than the club, and after a home shirt about the Thames and an away shirt about 1975, it is the one that arrives with no story attached.
 
 **Grade: B-**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FulhamFC/status/2086739332942233893"></a></blockquote>
+</div>
 
 ## Fulham's 2026/27 Wardrobe Grade
 

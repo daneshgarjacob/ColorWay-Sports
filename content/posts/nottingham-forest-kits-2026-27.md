@@ -23,11 +23,20 @@ The traditional red base with white adidas branding, crest and shoulder stripes,
 
 **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFFC/status/2078804546479100393"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: A-
 
 A Collegiate Green base with a subtle all-over graphic across the body and sleeves, red detailing at the collar and cuffs, matching red three stripes over the shoulders, and the adidas Trefoil returning to a Forest shirt, embroidered in white on the right of the chest. Green is a genuinely unusual choice for this club and it works because the red trim keeps it tethered to the identity, but the Trefoil is what makes the shirt. Available from August 14.
 
 **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFFC/status/2088158681674449022"></a></blockquote>
+</div>
 
 ## Nottingham Forest's 2026/27 Wardrobe Grade
 

@@ -23,6 +23,11 @@ Amber and black vertical stripes across the front, sleeves and back, a white fol
 
 **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HullCity/status/2064756980829610066"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: B+
 
 Predominantly white, revisiting a colour Hull used for away kits between 1988 and 1990, with black and amber panels across the shoulders, the club colours repeated at the crew-neck collar and cuffs, and the current crest positioned centrally on the chest as a nod to where it sat on those earlier shirts. The centred crest is the detail that makes it, because it is the kind of period reference most clubs would not bother with, and the shoulder panels give a white shirt some structure without turning it into a graphic.

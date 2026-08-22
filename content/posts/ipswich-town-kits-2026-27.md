@@ -23,6 +23,11 @@ Blue with a tonal embossed graphic across the front, sleeves and back, based on 
 
 **Grade: B+**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IpswichTown/status/2073732623537410250"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: A-
 
 A modern reinterpretation of the 1996-98 away shirt: a cream yellow base with black and red horizontal pinstripes, black collar and cuffs with red detailing, and black shorts and socks. Horizontal pinstripes in three colours should be a mess and this is not, because the cream base is warm enough to hold the black and red without the shirt turning into a test pattern. It is the boldest thing Ipswich have worn in years and the period reference earns it.

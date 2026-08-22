@@ -29,11 +29,20 @@ A deep navy base with cream vertical pinstripes, a thick cream crew-neck collar 
 
 **Grade: A-**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BrentfordFC/status/2082029544576299040"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Third Shirt: B
 
 A vibrant yellow base with subtle tonal vertical pinstripes, a solid black crew-neck collar and cuffs, black branding throughout, and matching yellow shorts and socks, with the founding year '1889' printed in black below the collar on the upper back. Yellow and black is a clean, high-visibility combination and the tonal pinstripes tie it back to the away shirt's family. It is the least distinctive of the three and it does not need to be more than that. On sale August 7.
 
 **Grade: B**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BrentfordFC/status/2085652181533798501"></a></blockquote>
+</div>
 
 ## Brentford's 2026/27 Wardrobe Grade
 

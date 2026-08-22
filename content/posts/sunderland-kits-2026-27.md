@@ -23,17 +23,30 @@ The red and white stripes, built as a tribute to the 1936-37 FA Cup winning side
 
 **Grade: A**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SunderlandAFC/status/2082360978189222088"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: B
 
 A first-ever collaboration with the Elvis Presley Estate, and it is pink. The base draws on Presley's Cadillac and his wardrobe, a black panel cuts sharply across the top, hummel's chevrons run down the sleeves, and the neck tape carries 'Can't Help Falling in Love With You'. It is the most divisive shirt in the Premier League this season and it is genuinely well executed, but a licensing collaboration with a musician is a different thing from a football kit, and the black panel is doing more design work than the Elvis connection is. Fun, memorable, and a little bit rented.
 
 **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SunderlandAFC/status/2078489970978025519"></a></blockquote>
+</div>
+
 ## The Third Shirt: A-
 
 Deep blue with a repeating tonal stained-glass graphic that works the football emblem from Sunderland's ship badge into the pattern, finished with metallic copper for the retro crest and the hummel branding. The outer back neck reads 'Glass Making Since The 7th Century' in the same copper. Sunderland's glassmaking history is a genuinely local idea nobody else could use, the stained-glass motif is the right visual for it, and copper on deep blue is a combination you rarely see on a football shirt. Excellent third kit.
 
 **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SunderlandAFC/status/2088158681385103421"></a></blockquote>
+</div>
 
 ## Sunderland's 2026/27 Wardrobe Grade
 

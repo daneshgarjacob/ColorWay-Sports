@@ -23,17 +23,30 @@ Predominantly white with a large blue and red sash running across the chest, rev
 
 **Grade: A**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CPFC/status/2078864690088939813"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## The Away Shirt: B
 
 The 'Eagle Black' kit. A sleek black base with red and blue trim on the collar, cuffs, shoulders and sides, a tone-on-tone eagle plumage graphic, and an eagle silhouette on the front. It is well made and the plumage texture is genuinely nice up close, but a black away shirt with team-colour trim is the most common template in the league, and the eagle silhouette on the chest is doing a lot of work to make it distinct. Solid rather than special.
 
 **Grade: B**
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CPFC/status/2088222854043009356"></a></blockquote>
+</div>
+
 ## The Third Shirt: B+
 
 The 'Eagle Wings' kit, and the shirt that used to be the home. Palace's traditional red and blue vertical stripes are reimagined as diagonal lightning-bolt shapes with sublimated eagle-wing patterns, framed in dark navy with red on the collar and cuffs. Taking the stripes and skewing them into something angular is a bolder idea than most thirds attempt, and it keeps the club's core identity in the wardrobe rather than abandoning it. Loses a step because the diagonal treatment makes the stripes read as pattern rather than as Palace.
 
 **Grade: B+**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CPFC/status/2090771649112969585"></a></blockquote>
+</div>
 
 ## Crystal Palace's 2026/27 Wardrobe Grade
 
