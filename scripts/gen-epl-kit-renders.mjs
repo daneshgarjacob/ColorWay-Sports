@@ -14,8 +14,11 @@ const OUT = resolve(homedir(), 'Desktop/colorway-archive/epl-2026-27-kits');
 // key, body base, body pattern, sleeves, collar, cuffs
 // pattern: {type:'solid'} | {type:'vstripes',colors,widths} | {type:'hpin',colors,gap}
 const KITS = [
-  { key: 'coventry-home', sleeves: '#4a9bd4', collar: '#12284B', cuffs: '#ffffff',
-    pattern: { type: 'vstripes', colors: ['#4a9bd4', '#ffffff', '#12284B', '#ffffff'], widths: [46, 22, 3, 22] } },
+  // Corrected 8/21 against the real shirt: white base with equal textured sky
+  // stripes and a navy collar, not sky-dominant. Kept for reference; the library
+  // now uses the CCFC store laydown cutout instead.
+  { key: 'coventry-home', sleeves: '#3D9BD6', collar: '#12284B', cuffs: '#ffffff',
+    pattern: { type: 'vstripes', colors: ['#3D9BD6', '#ffffff'], widths: [34, 34] } },
   { key: 'hull-home', sleeves: '#101010', collar: '#101010', cuffs: '#F5A100',
     pattern: { type: 'vstripes', colors: ['#F5A100', '#101010'], widths: [34, 34] } },
   { key: 'everton-home', sleeves: '#003399', collar: '#F5C518', cuffs: '#F5C518',
