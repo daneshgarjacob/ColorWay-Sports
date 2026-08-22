@@ -17,14 +17,20 @@ If you turned on a Major League Baseball game this weekend and noticed a small p
 
 Here is the short answer, and then the longer one: the patch is the Players' Weekend logo, it sits on the side of the cap, every player, coach and manager in the league is wearing it, and it is the only thing about the uniform that changes. No nickname jerseys, no special uniforms. Just the patch.
 
+Here is what it looks like on an actual cap. This is the Twins version, and every other club's is the same patch in the same spot.
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sportslogosnet/status/2090945430859161880"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/tlschwerz/status/2085104375446352182"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 ## What the Patch on MLB Caps Actually Is
 
 The patch is the official **Players' Weekend logo**, applied to the side panel of each team's regular game cap. It is a league-wide mark rather than a team-specific one, so it looks the same on a Dodgers cap as it does on an Orioles cap. Teams keep their normal caps underneath it.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sportslogosnet/status/2090945430859161880"></a></blockquote>
+</div>
 
 That is the entire on-field uniform change. Every club is wearing its usual jersey rotation this weekend, right down to City Connects and alternates. On Friday night alone, ten teams wore City Connect jerseys, and every one of those jerseys was paired with a normal team cap carrying the Players' Weekend patch. If your team looked different this weekend, that was the regular uniform schedule doing its thing, not Players' Weekend.
 
@@ -113,6 +119,9 @@ Custom bats and custom cleats are the centerpiece. More than 400 players are usi
 
 **What are the Players' Weekend themes for 2026?**
 Three themes, one per day: Off-Field Interests, Causes, and Appreciation. They shape the in-stadium and broadcast storytelling and inspire many of the custom bat and cleat designs.
+
+**Can I buy the Players' Weekend cap?**
+Yes. New Era sells the Players' Weekend caps as a 59FIFTY Authentic Collection release, with the patch on the side exactly as the players wear it, and they are available for all 30 teams.
 
 **Can I buy the Players' Weekend custom bats and cleats?**
 The custom bats and cleats are auctioned on MLB Auctions after the weekend, with proceeds going to charities chosen by the players.
