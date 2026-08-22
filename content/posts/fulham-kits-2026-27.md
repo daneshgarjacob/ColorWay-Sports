@@ -1,0 +1,70 @@
+---
+title: "What Kit Are Fulham Wearing Today? 2026/27 Kits Graded"
+author: "colorway-sports-staff"
+category: "Soccer"
+date: "2026-08-22"
+updatedDate: "2026-08-22"
+excerpt: "What kit are Fulham wearing today? The expected shirt for their next match, plus every 2026/27 Fulham kit and jersey graded."
+gradient: "linear-gradient(135deg, #1a1a1a 0%, #000000 55%, #CC0000 130%)"
+cardStyle: words
+kicker: Graded
+league: "soccer"
+teams: []
+resurfaceOnUpdate: true
+---
+
+<div data-epl-matchday style="margin: 1.75em 0; border: 2px solid #000000; border-radius: 16px; overflow: hidden;"><div style="background: #000000; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What Fulham Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Matchweek 2</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2.4em; font-weight: 900; color: #b8860b; line-height: 1;">CHANGE KIT</div><div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; clubs confirm on matchday</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Sunderland vs Fulham</div><div style="margin-top: 4px; font-size: 0.9em; color: #555;">Sunday, August 30 &middot; 10:00 a.m. ET</div><div style="margin-top: 10px; font-size: 0.95em; color: #444; line-height: 1.55;">Fulham's white home shirt cannot be worn against Sunderland's red and white stripes, so the visitors change. The red and black away clashes with Sunderland red too, which points at the sky blue third.</div><a href="https://x.com/FulhamFC" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #000000; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Confirm on @FulhamFC &rarr;</a><div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #eef0f4;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #8892a0; margin: 0 0 8px;">What the rest of the league is wearing</p><a href="/stories/premier-league-kit-schedule-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #3D195B; border: 1px solid #3D195B; border-radius: 999px; color: #ffffff; font-size: 13px; font-weight: 700; text-decoration: none;">Full matchweek kit schedule</a><a href="/stories/arsenal-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Arsenal</a><a href="/stories/aston-villa-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Aston Villa</a><a href="/stories/bournemouth-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Bournemouth</a><a href="/stories/brentford-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Brentford</a><a href="/stories/brighton-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Brighton</a><a href="/stories/chelsea-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Chelsea</a><a href="/stories/coventry-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Coventry</a><a href="/stories/crystal-palace-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Crystal Palace</a><a href="/stories/everton-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Everton</a><a href="/stories/hull-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Hull City</a><a href="/stories/ipswich-town-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Ipswich</a><a href="/stories/leeds-united-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Leeds</a><a href="/stories/liverpool-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Liverpool</a><a href="/stories/manchester-city-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Man City</a><a href="/stories/manchester-united-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Man United</a><a href="/stories/newcastle-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Newcastle</a><a href="/stories/nottingham-forest-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Forest</a><a href="/stories/sunderland-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Sunderland</a><a href="/stories/tottenham-kits-2026-27" style="display: inline-block; padding: 5px 12px; margin: 0 6px 6px 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 999px; color: #2f6bed; font-size: 13px; font-weight: 700; text-decoration: none;">Tottenham</a></div></div></div>
+
+Fulham's 2026/27 wardrobe is a study in how much a club can get out of its own back catalogue. The home shirt looks at the river, the away shirt looks at 1996, and the third looks at nothing in particular, which is exactly the pattern you would expect.
+
+## The Home Shirt: B+
+
+The usual clean white base with red trim at the collar and framing black sleeve cuffs, lifted by a tonal embossed chevron pattern that mimics the ripples of the River Thames. Fulham's home shirt is one of the hardest in the league to make interesting, because white with black shorts is the entire identity and there is nowhere to hide. The Thames emboss is the right kind of solution: invisible at distance, satisfying up close, and it does not compromise the plainness that makes the shirt what it is.
+
+**Grade: B+**
+
+## The Away Shirt: A-
+
+A red and black checkerboard, modernising the Le Coq Sportif shirt of 1996-97, and the big move is the return of the minimalist 'FFC' monogram used between 1972 and 1977 and worn on the run to the 1975 FA Cup Final. Red shorts and socks complete it. Checkerboard is a hard pattern to wear and this one holds together because the scale is right and the monogram gives it a period anchor rather than leaving it as a novelty. The boldest thing Fulham have put out in years.
+
+**Grade: A-**
+
+## The Third Shirt: B-
+
+A bright sky blue base with neon pink details and a horizontal line graphic that creates a wave effect across the front and lower back, on sale from August 10. It is a perfectly competent modern third kit and it has nothing whatsoever to do with Fulham. Sky blue and neon pink is a colour pairing chosen for the shelf rather than the club, and after a home shirt about the Thames and an away shirt about 1975, it is the one that arrives with no story attached.
+
+**Grade: B-**
+
+## Fulham's 2026/27 Wardrobe Grade
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #000000 0%, #CC0000 100%); border-radius: 16px; text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: B-</p>
+</div>
+
+## Who Makes Fulham's Kits
+
+adidas. Every shirt above is part of the adidas Fulham 2026/27 range.
+
+## Frequently Asked Questions
+
+**What kit are Fulham wearing today?**
+
+Fulham travel to Sunderland on Sunday, August 30, and they will have to change. Their white home shirt clashes with Sunderland’s red and white stripes, and the red and black away clashes with Sunderland red, so the sky blue third is the likely call. We update this page as each matchweek is confirmed.
+
+**What is the pattern on the Fulham home shirt?**
+
+A tonal embossed chevron structure that mimics the ripples and flow of the River Thames, which runs alongside Craven Cottage.
+
+**What is the Fulham away kit based on?**
+
+The 1996-97 Le Coq Sportif away shirt. The red and black checkerboard is a modernised version of it, and it brings back the minimalist FFC monogram used from 1972 to 1977.
+
+**Who makes Fulham kits?**
+
+adidas.
+
+## The Bottom Line
+
+Fulham's home shirt solves an unsolvable brief with a Thames emboss you only notice up close, and the checkerboard away is the most confident thing the club has produced in a decade, carried by the returning FFC monogram. The sky blue and neon pink third is the outlier, a good-looking shirt with no connection to the club attached to it. Two out of three with real ideas is a strong season.
