@@ -1,9 +1,9 @@
 ---
-title: "Inter Miami Went White: Grading the 2026 'Cénit' Third Kit Messi Just Unveiled"
+title: "Inter Miami Third Kit 2026: The White Cénit Shirt Messi Unveiled, Graded"
 category: Soccer
 date: "2026-07-30"
-updatedDate: "2026-07-30"
-excerpt: "Inter Miami's 2026 'Cénit' third kit swaps the pink base for a clean Miami White, with pink, mint, and black accents. We grade the new look."
+updatedDate: "2026-08-22"
+excerpt: "Inter Miami's new third kit for 2026 is the white Cénit shirt: Miami White with pink, mint and black accents instead of the usual pink. Graded here."
 gradient: "linear-gradient(135deg, #F7B5CD 0%, #111111 55%, #6FE3C7 120%)"
 cardStyle: words
 kicker: MLS
