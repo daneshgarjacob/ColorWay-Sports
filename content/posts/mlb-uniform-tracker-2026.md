@@ -29,7 +29,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, August 21
 
-Fifteen games on the Friday card, and the slate leaned hard into City Connects: Philadelphia's black, Boston's Green Monster green, Miami's Retro Wave, Baltimore's cream BMORE, and Milwaukee's powder blue Wisco all on the same night, with two of them, the Phillies and Orioles sets, making their first appearance of the tracker era. All ten games with verified uniforms are logged below, West Coast included.
+Fifteen games on the Friday card, and the slate leaned hard into City Connects: Philadelphia's black, Boston's Green Monster green, Miami's Retro Wave, Baltimore's cream BMORE, and Milwaukee's powder blue Wisco all on the same night, with two of them, the Phillies and Orioles sets, making their first appearance of the tracker era. Ten of the fifteen are verified and carded below; the five late games in Denver, Phoenix, San Diego, Los Angeles and Seattle join them once their uniforms are confirmed.
 
 ### Atlanta Braves at Milwaukee Brewers
 
