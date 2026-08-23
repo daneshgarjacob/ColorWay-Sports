@@ -83,7 +83,6 @@ The script is the bigger problem. "Serpientes" is set in a thin, wide, pale lett
 </div>
 </div>
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2091236638944862356"></a></blockquote>
 
 Kansas City in powder blue against Detroit in the road greys is the cleanest-looking matchup on a fifteen-game card, and it works because neither club is trying. The Royals' powder blue is the softest color on the field tonight and the Tigers' grey is the plainest, which should be a recipe for a washed-out television picture. It is the opposite. The navy Detroit script and the navy-and-white Royals lettering give both shirts a hard edge, so the two pale bodies separate cleanly and the wordmarks carry the contrast.
 
