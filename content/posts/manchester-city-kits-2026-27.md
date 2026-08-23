@@ -55,7 +55,7 @@ We will grade it when it is officially out, and we will update this post at that
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #6CABDD 0%, #1C2C5B 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(108, 171, 221, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: C+ &nbsp;·&nbsp; Third: Pending</p>
 </div>
 

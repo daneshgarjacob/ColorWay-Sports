@@ -3,7 +3,7 @@ title: "What Kit Are Ipswich Town Wearing Today? 2026/27 Kits Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "What kit are Ipswich Town wearing today? The expected shirt for their next match, plus every 2026/27 Ipswich Town kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #0044a9 0%, #002d6e 55%, #7a1230 130%)"
 coverImage: "/images/posts/ipswich-town-kits-2026-27/cover.jpg"
@@ -46,7 +46,7 @@ Light blue with claret detailing on the round collar, sleeve cuffs and shoulder 
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0044a9 0%, #7a1230 100%); border-radius: 16px; text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: B-</p>
 </div>
 

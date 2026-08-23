@@ -3,7 +3,7 @@ title: "What Kit Are Fulham Wearing Today? 2026/27 Kits Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "What kit are Fulham wearing today? The expected shirt for their next match, plus every 2026/27 Fulham kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #000000 55%, #CC0000 130%)"
 coverImage: "/images/posts/fulham-kits-2026-27/cover.jpg"
@@ -54,7 +54,7 @@ A bright sky blue base with neon pink details and a horizontal line graphic that
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #000000 0%, #CC0000 100%); border-radius: 16px; text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: B-</p>
 </div>
 

@@ -3,7 +3,7 @@ title: "What Kit Are Leeds United Wearing Today? 2026/27 Kits Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "What kit are Leeds United wearing today? The expected shirt for their next match, plus every 2026/27 Leeds United kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0f2450 55%, #FFCD00 130%)"
 coverImage: "/images/posts/leeds-united-kits-2026-27/cover.jpg"
@@ -26,6 +26,10 @@ All white, as it must be, but with horizontal pinstripes, which Leeds have never
 
 **Grade: A-**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LUFC/status/2082818492970029319"></a></blockquote>
+</div>
 ## The Away Shirt: A
 
 The Yorkshire rose shirt, and the second club first: it carries the classic adidas Trefoil, which Leeds have never worn. An all-over rose pattern, and an old Leeds crest with a large Yorkshire rose on it instead of the current badge. Released early, on June 4, 2026, and it is the shirt that got the most attention of the three.
@@ -33,6 +37,10 @@ The Yorkshire rose shirt, and the second club first: it carries the classic adid
 
 **Grade: A**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LUFC/status/2073849835799630228"></a></blockquote>
+</div>
 ## The Third Shirt: B
 
 Dark grey and black with a tonal geometric graphic referencing the city's urban architecture and landmarks. On sale from Friday, August 21, 2026, which makes it the newest shirt in the Premier League as this season opens. Grey thirds are common. Grey thirds with a real local reference are not.
@@ -40,6 +48,10 @@ Dark grey and black with a tonal geometric graphic referencing the city's urban 
 
 **Grade: B**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LUFC/status/2090697311252795663"></a></blockquote>
+</div>
 ## Leeds United's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #1D428A 0%, #FFCD00 100%); border-radius: 16px; text-align: center;">

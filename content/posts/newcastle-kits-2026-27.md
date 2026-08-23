@@ -26,6 +26,10 @@ The stripes are still stripes, but adidas has broken them up with a disrupted pa
 
 **Grade: B**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFC/status/2064612311843615063"></a></blockquote>
+</div>
 ## The Away Shirt: A-
 
 A Night Navy base with white and Vista Blue detailing, and the two things that make it are historical. adidas has used the Trefoil logo instead of the modern performance mark, and the crest is the 1976 to 1983 NUFC badge rather than the current one. The all-over graphic is a brickwork pattern taken from St James' Park itself. Released July 24, 2026.
@@ -33,6 +37,10 @@ A Night Navy base with white and Vista Blue detailing, and the two things that m
 
 **Grade: A-**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFC/status/2080986672695840948"></a></blockquote>
+</div>
 ## The Third Shirt: B-
 
 Fresh Lilac, which is a pastel purple, with deeper purple on the V-neck collar, the cuffs and the three stripes, and a monochrome crest. It went on sale August 13. This is the shirt in the wardrobe with no Newcastle precedent behind it at all, which is exactly what a third kit is for.
@@ -40,11 +48,15 @@ Fresh Lilac, which is a pastel purple, with deeper purple on the V-neck collar, 
 
 **Grade: B-**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFC/status/2087811394087326165"></a></blockquote>
+</div>
 ## Newcastle's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #241F20 0%, #41B6E6 100%); border-radius: 16px; text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: B-</p>
 </div>
 

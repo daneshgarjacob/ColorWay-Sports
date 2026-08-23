@@ -3,7 +3,7 @@ title: "What Kit Are Everton Wearing Today? 2026/27 Kits Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "What kit are Everton wearing today? The expected shirt for their next match, plus every 2026/27 Everton kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #003399 0%, #001b52 55%, #F5C518 130%)"
 coverImage: "/images/posts/everton-kits-2026-27/cover.jpg"
@@ -33,6 +33,10 @@ The best shirt in the wardrobe. A crisp white base with fine navy vertical pinst
 
 **Grade: A-**
 
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Everton/status/2080201251523084545"></a></blockquote>
+</div>
 ## The Third Shirt: B
 
 Teal green with a dark green crew collar and cuffs, both edged in a thin gold trim, with gold Castore branding and a gold crest. Teal has no Everton history behind it, which is fine for a third shirt, and the gold keeps it from reading as a training top.
@@ -44,7 +48,7 @@ Teal green with a dark green crew collar and cuffs, both edged in a thin gold tr
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #003399 0%, #1a4fb8 100%); border-radius: 16px; text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B+ &nbsp;·&nbsp; Away: A- &nbsp;·&nbsp; Third: B</p>
 </div>
 

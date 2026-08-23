@@ -3,7 +3,7 @@ title: "What Kit Are Hull City Wearing Today? 2026/27 Kits Graded"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "What kit are Hull City wearing today? The expected shirt for their next match, plus every 2026/27 Hull City kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #F5A12D 0%, #a86a12 55%, #000000 130%)"
 coverImage: "/images/posts/hull-city-kits-2026-27/cover.jpg"
@@ -40,7 +40,7 @@ Predominantly white, revisiting a colour Hull used for away kits between 1988 an
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #F5A12D 0%, #000000 100%); border-radius: 16px; text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: A- &nbsp;·&nbsp; Away: B+</p>
 </div>
 
