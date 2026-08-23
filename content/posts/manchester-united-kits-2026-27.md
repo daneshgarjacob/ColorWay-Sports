@@ -3,9 +3,11 @@ title: "What Kit Are Man United Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Man United wearing today? The expected shirt for their next match, plus every 2026/27 Manchester United kit and jersey graded."
+excerpt: "What kit are Man United wearing today? The expected shirt for their next match, plus every 2026/27 Man United kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #DA291C 0%, #1B1B1B 55%, #00369B 120%)"
-cardStyle: words
+coverImage: "/images/posts/manchester-united-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -86,6 +88,14 @@ Manchester United's 2026/27 away shirt is the best change kit in Europe, an A, t
 See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
 ## Frequently Asked Questions
+
+**What jersey are Man United wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Man United jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Man United uniform for the 2026/27 season?**
+
+Man United have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What are Manchester United's 2026/27 kits?**
 

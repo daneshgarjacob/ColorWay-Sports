@@ -3,9 +3,11 @@ title: "What Kit Are Liverpool Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Liverpool wearing today? The expected shirt for their next match, plus every 2026/27 Liverpool kit and jersey graded."
+excerpt: "What kit are Liverpool wearing today? The expected shirt for their next match, plus every 2026/27 Liverpool kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 55%, #00B2A9 120%)"
-cardStyle: words
+coverImage: "/images/posts/liverpool-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -82,6 +84,14 @@ Liverpool's 2026/27 home shirt is one of the best in Europe at an A-, built on t
 See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
+
+**What jersey are Liverpool wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Liverpool jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Liverpool uniform for the 2026/27 season?**
+
+Liverpool have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What are Liverpool's 2026/27 kits?**
 

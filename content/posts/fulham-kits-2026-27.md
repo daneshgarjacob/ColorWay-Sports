@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Fulham wearing today? The expected shirt for their next match, plus every 2026/27 Fulham kit and jersey graded."
+excerpt: "What kit are Fulham wearing today? The expected shirt for their next match, plus every 2026/27 Fulham kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #000000 55%, #CC0000 130%)"
-cardStyle: words
+coverImage: "/images/posts/fulham-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -61,6 +63,14 @@ A bright sky blue base with neon pink details and a horizontal line graphic that
 adidas. Every shirt above is part of the adidas Fulham 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Fulham wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Fulham jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Fulham uniform for the 2026/27 season?**
+
+Fulham have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Fulham wearing today?**
 

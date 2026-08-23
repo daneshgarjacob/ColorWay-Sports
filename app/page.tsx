@@ -56,7 +56,7 @@ export default function Home() {
     // Every slug here MUST have a real coverImage. The hero plus these three are
     // the top of the page, and a words-only or ColorWay-generated card is never
     // allowed in that group. Check the post's frontmatter before adding one.
-    "baylor-uniform-schedule-2026",
+    "islanders-third-jersey-navy-lighthouse",
     "missouri-uniform-schedule-2026",
     "rams-uniform-schedule-2026",
   ];

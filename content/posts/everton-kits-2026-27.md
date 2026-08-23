@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Everton wearing today? The expected shirt for their next match, plus every 2026/27 Everton kit and jersey graded."
+excerpt: "What kit are Everton wearing today? The expected shirt for their next match, plus every 2026/27 Everton kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #003399 0%, #001b52 55%, #F5C518 130%)"
-cardStyle: words
+coverImage: "/images/posts/everton-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -51,6 +53,14 @@ Teal green with a dark green crew collar and cuffs, both edged in a thin gold tr
 Castore. Every shirt above is part of the Castore Everton 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Everton wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Everton jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Everton uniform for the 2026/27 season?**
+
+Everton have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Everton wearing today?**
 

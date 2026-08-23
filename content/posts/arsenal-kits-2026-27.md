@@ -3,9 +3,11 @@ title: "What Kit Are Arsenal Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Arsenal wearing today? The expected shirt for their next match, plus every 2026/27 Arsenal kit and jersey graded."
+excerpt: "What kit are Arsenal wearing today? The expected shirt for their next match, plus every 2026/27 Arsenal kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #EF0107 0%, #063672 55%, #DB0007 120%)"
-cardStyle: words
+coverImage: "/images/posts/arsenal-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -76,6 +78,14 @@ Arsenal have the joint-most complete wardrobe in Europe for 2026/27 and one of t
 See how Arsenal's shirts stack up against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
+
+**What jersey are Arsenal wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Arsenal jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Arsenal uniform for the 2026/27 season?**
+
+Arsenal have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What are Arsenal's 2026/27 kits?**
 

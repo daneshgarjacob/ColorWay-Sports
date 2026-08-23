@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Hull City wearing today? The expected shirt for their next match, plus every 2026/27 Hull City kit and jersey graded."
+excerpt: "What kit are Hull City wearing today? The expected shirt for their next match, plus every 2026/27 Hull City kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #F5A12D 0%, #a86a12 55%, #000000 130%)"
-cardStyle: words
+coverImage: "/images/posts/hull-city-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -47,6 +49,14 @@ Predominantly white, revisiting a colour Hull used for away kits between 1988 an
 Oxen Sports. Every shirt above is part of the Oxen Sports Hull City 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Hull City wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Hull City jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Hull City uniform for the 2026/27 season?**
+
+Hull City have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Hull City wearing today?**
 

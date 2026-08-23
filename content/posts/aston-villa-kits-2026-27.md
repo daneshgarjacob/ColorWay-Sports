@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Aston Villa wearing today? The expected shirt for their next match, plus every 2026/27 Aston Villa kit and jersey graded."
+excerpt: "What kit are Aston Villa wearing today? The expected shirt for their next match, plus every 2026/27 Aston Villa kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #670E36 0%, #3a0620 55%, #95BFE5 130%)"
-cardStyle: words
+coverImage: "/images/posts/aston-villa-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -51,6 +53,14 @@ An icy light blue base with claret and yellow, carrying an all-over graphic buil
 adidas. Every shirt above is part of the adidas Aston Villa 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Aston Villa wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Aston Villa jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Aston Villa uniform for the 2026/27 season?**
+
+Aston Villa have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Aston Villa wearing today?**
 

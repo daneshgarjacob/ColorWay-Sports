@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Crystal Palace wearing today? The expected shirt for their next match, plus every 2026/27 Crystal Palace kit and jersey graded."
+excerpt: "What kit are Crystal Palace wearing today? The expected shirt for their next match, plus every 2026/27 Crystal Palace kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #1B458F 0%, #121f3d 55%, #C4122E 130%)"
-cardStyle: words
+coverImage: "/images/posts/crystal-palace-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -61,6 +63,14 @@ The 'Eagle Wings' kit, and the shirt that used to be the home. Palace's traditio
 Macron. Every shirt above is part of the Macron Crystal Palace 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Crystal Palace wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Crystal Palace jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Crystal Palace uniform for the 2026/27 season?**
+
+Crystal Palace have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Crystal Palace wearing today?**
 

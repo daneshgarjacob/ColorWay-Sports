@@ -3,9 +3,11 @@ title: "What Kit Are Tottenham Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Tottenham wearing today? The expected shirt for their next match, plus every 2026/27 Tottenham kit and jersey graded."
+excerpt: "What kit are Tottenham wearing today? The expected shirt for their next match, plus every 2026/27 Tottenham kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #132257 55%, #0E1A38 120%)"
-cardStyle: words
+coverImage: "/images/posts/tottenham-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -68,6 +70,14 @@ The home shirt is a white-and-navy repeat carrying a mid-1980s Hummel reference 
 See where both shirts landed against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27), [Chelsea's 2026/27 kits](/stories/chelsea-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
+
+**What jersey are Tottenham wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Tottenham jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Tottenham uniform for the 2026/27 season?**
+
+Tottenham have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What are Tottenham's 2026/27 kits?**
 

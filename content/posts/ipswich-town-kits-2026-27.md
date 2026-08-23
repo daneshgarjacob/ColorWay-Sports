@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Ipswich Town wearing today? The expected shirt for their next match, plus every 2026/27 Ipswich Town kit and jersey graded."
+excerpt: "What kit are Ipswich Town wearing today? The expected shirt for their next match, plus every 2026/27 Ipswich Town kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #0044a9 0%, #002d6e 55%, #7a1230 130%)"
-cardStyle: words
+coverImage: "/images/posts/ipswich-town-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -53,6 +55,14 @@ Light blue with claret detailing on the round collar, sleeve cuffs and shoulder 
 Umbro. Every shirt above is part of the Umbro Ipswich Town 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Ipswich Town wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Ipswich Town jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Ipswich Town uniform for the 2026/27 season?**
+
+Ipswich Town have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Ipswich Town wearing today?**
 

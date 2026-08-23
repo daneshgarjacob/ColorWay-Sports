@@ -3,9 +3,11 @@ title: "What Kit Are Man City Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Manchester City wearing today? The expected shirt for their next match, plus every 2026/27 Man City kit and jersey graded."
+excerpt: "What kit are Man City wearing today? The expected shirt for their next match, plus every 2026/27 Man City kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #6CABDD 0%, #1C2C5B 55%, #F0B310 120%)"
-cardStyle: words
+coverImage: "/images/posts/manchester-city-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -70,6 +72,14 @@ Manchester City are the only one of Europe's fifteen biggest clubs without a kit
 See where both shirts landed against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
+
+**What jersey are Man City wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Man City jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Man City uniform for the 2026/27 season?**
+
+Man City have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What are Manchester City's 2026/27 kits?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Islanders Third Jersey Revealed: Fans Voted the Navy Lighthouse In, and We Graded It"
-homepageHero: true
+homepageHero: false
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-08-21"

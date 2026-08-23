@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
 updatedDate: "2026-08-22"
-excerpt: "Every Premier League kit matchup, matchweek by matchweek. What each club wears, who has to change, and the rule that decides it three days before kickoff."
+excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
-cardStyle: words
+coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Schedule
 league: "soccer"
 teams: []

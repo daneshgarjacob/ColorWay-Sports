@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-22"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Brighton wearing today? The expected shirt for their next match, plus every 2026/27 Brighton and Hove Albion kit and jersey graded."
+excerpt: "What kit are Brighton wearing today? The expected shirt for their next match, plus every 2026/27 Brighton kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #0057B8 0%, #003a7a 55%, #00B7C8 130%)"
-cardStyle: words
+coverImage: "/images/posts/brighton-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -53,6 +55,14 @@ Deep teal, inspired by the sea and the Downs around the city, with hyper turq ac
 Nike. Every shirt above is part of the Nike Brighton and Hove Albion 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Brighton wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Brighton jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Brighton uniform for the 2026/27 season?**
+
+Brighton have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Brighton wearing today?**
 

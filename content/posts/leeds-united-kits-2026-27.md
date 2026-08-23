@@ -4,9 +4,11 @@ author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
 updatedDate: "2026-08-22"
-excerpt: "What kit are Leeds United wearing today? The expected shirt for their next match, plus every 2026/27 Leeds United kit and jersey graded."
+excerpt: "What kit are Leeds United wearing today? The expected shirt for their next match, plus every 2026/27 Leeds United kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0f2450 55%, #FFCD00 130%)"
-cardStyle: words
+coverImage: "/images/posts/leeds-united-kits-2026-27/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
 teams: []
@@ -51,6 +53,14 @@ Dark grey and black with a tonal geometric graphic referencing the city's urban 
 adidas. Every shirt above is part of the adidas Leeds United 2026/27 range.
 
 ## Frequently Asked Questions
+
+**What jersey are Leeds United wearing today?**
+
+Same answer as the kit question above: the matchday block at the top of this page shows the expected Leeds United jersey for their next fixture. In football the shirt is usually called a kit, but jersey and uniform mean the same thing here.
+
+**What is the Leeds United uniform for the 2026/27 season?**
+
+Leeds United have three uniforms for 2026/27: a home kit, an away kit and a third kit. Each one is described and graded on this page, and the matchday block tells you which of the three they are wearing next.
 
 **What kit are Leeds wearing today?**
 
