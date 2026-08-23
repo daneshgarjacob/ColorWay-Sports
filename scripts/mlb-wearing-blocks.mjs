@@ -32,7 +32,11 @@ const SLUG = {
   "Colorado Rockies":"rockies","Los Angeles Dodgers":"dodgers","San Diego Padres":"padres",
   "San Francisco Giants":"giants",
 };
-const SHORT = Object.fromEntries(Object.entries(SLUG).map(([n,s]) => [s, n.split(" ").pop()]));
+// Last word of the club name, EXCEPT where that is ambiguous or wrong. Without
+// these three, both Sox pages rendered "What the Sox Are Wearing" and Toronto
+// rendered "What the Jays Are Wearing". Same override list as mlb-tracker-day.mjs.
+const SHORT_OVERRIDE = { "red-sox":"Red Sox", "white-sox":"White Sox", "blue-jays":"Blue Jays" };
+const SHORT = Object.fromEntries(Object.entries(SLUG).map(([n,s]) => [s, SHORT_OVERRIDE[s] ?? n.split(" ").pop()]));
 // team-specific road/home naming where the generic label would be wrong
 const ROAD = { padres:"Road Khakis", braves:"Road Atlanta Set" };
 const HOME = { giants:"Home Creams", braves:"Home Braves Set" };
