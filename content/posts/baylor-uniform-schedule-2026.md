@@ -8,7 +8,7 @@ excerpt: "What Baylor wears every game in 2026, week by week, including the date
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: true
 coverImage: "/images/posts/baylor-uniform-schedule-2026/cover.jpg"
-coverImagePosition: "center 45%"
+coverImagePosition: "center 18%"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
