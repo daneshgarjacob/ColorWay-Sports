@@ -3,7 +3,7 @@ title: "Premier League Kit Schedule 2026/27: What Every Club Is Wearing This Mat
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-08-22"
+updatedDate: "2026-08-23"
 excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
 coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover.jpg"
@@ -21,7 +21,7 @@ This page is that schedule. Every fixture, every matchweek, who wears what, and 
 
 ## Matchweek 1: Every Kit Matchup
 
-Ten fixtures across four days to open the season. Six are played and confirmed, four are still to come. The headline so far is Manchester United opening the season in an ivory third kit at newly promoted Hull City, and losing.
+Ten fixtures across four days to open the season. Nine are played and confirmed, one is still to come. Two clubs have already gone off-script: Manchester United opened in an ivory third kit at newly promoted Hull City, and Aston Villa went to Brighton in the brand new black and gold away shirt that only went on sale the day before.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Arsenal vs Coventry City</div><div style="font-size: 0.78em; font-weight: 700; color: #EF0107;">Red &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #4a9bd4;">Sky Blue &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Arsenal 3, Coventry 0 &middot; Graded B+</div></div>
@@ -30,17 +30,17 @@ Ten fixtures across four days to open the season. Six are played and confirmed, 
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 22</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Ipswich Town vs Sunderland</div><div style="font-size: 0.78em; font-weight: 700; color: #0044a9;">Blue &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #d0021b;">Red Stripes &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Ipswich 2, Sunderland 1 &middot; Graded B+</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 22</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Nottingham Forest vs Leeds</div><div style="font-size: 0.78em; font-weight: 700; color: #DD0000;">Red &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #999;">White &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Forest 0, Leeds 1 &middot; Graded A-</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 22</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Brentford vs Tottenham</div><div style="font-size: 0.78em; font-weight: 700; color: #d0021b;">Red Stripes &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #101c3a;">Navy &middot; Away</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Brentford 3, Tottenham 0 &middot; Graded B</div></div>
-  <div style="background: #ffffff; border: 1px solid #e3e7ec; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Brighton vs Aston Villa</div><div style="font-size: 0.78em; font-weight: 700; color: #0057B8;">Blue Pinstripes &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #670E36;">Claret &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #8892a0; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Expected</div></div>
-  <div style="background: #ffffff; border: 1px solid #e3e7ec; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Man City vs Bournemouth</div><div style="font-size: 0.78em; font-weight: 700; color: #6CABDD;">Sky Blue &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #d0021b;">Red Stripes &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #8892a0; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Expected</div></div>
-  <div style="background: #ffffff; border: 1px solid #e3e7ec; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Newcastle vs Liverpool</div><div style="font-size: 0.78em; font-weight: 700; color: #333;">Black Stripes &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #C8102E;">Red &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #8892a0; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Expected</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Brighton vs Aston Villa</div><div style="font-size: 0.78em; font-weight: 700; color: #0057B8;">Blue Pinstripes &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #1a1a1a;">Black and Gold &middot; Away</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Brighton 4, Aston Villa 0 &middot; Graded A-</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Man City vs Bournemouth</div><div style="font-size: 0.78em; font-weight: 700; color: #6CABDD;">Sky Blue &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #d0021b;">Red Stripes &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Man City 2, Bournemouth 1 &middot; Graded B+</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 23</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Newcastle vs Liverpool</div><div style="font-size: 0.78em; font-weight: 700; color: #333;">Black Stripes &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #C8102E;">Red &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Kits Confirmed &middot; Graded A</div></div>
   <div style="background: #ffffff; border: 1px solid #e3e7ec; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Fulham vs Chelsea</div><div style="font-size: 0.78em; font-weight: 700; color: #666;">White &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #034694;">Royal Blue &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #8892a0; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Expected</div></div>
 </div>
 
-<p style="font-size: 0.8em; color: #8892a0; margin: -0.5em 0 2em; line-height: 1.5;">Fixtures showing a final score are <strong>confirmed</strong>, taken from what the clubs actually wore. Kits still marked <strong>Expected</strong> follow the Premier League's clash rules and each club's 2026/27 wardrobe. Clubs post the confirmed shirt on matchday. We update this grid as each one lands.</p>
+<p style="font-size: 0.8em; color: #8892a0; margin: -0.5em 0 2em; line-height: 1.5;">Fixtures marked <strong>Final</strong> or <strong>Kits Confirmed</strong> show what the clubs actually wore. Kits still marked <strong>Expected</strong> follow the Premier League's clash rules and each club's 2026/27 wardrobe, and Sunday proved that is a prediction and not a promise. Clubs post the confirmed shirt on matchday. We update this grid as each one lands.</p>
 
 ## Matchweek 1, Graded
 
-Every fixture gets a kit matchup grade once it kicks off. Six played, six graded, four still to come. Best of the weekend so far is Forest against Leeds.
+Every fixture gets a kit matchup grade once it kicks off. Nine played, nine graded, one still to come. Best of the weekend is Newcastle against Liverpool, the fixture nobody has to think about and nobody ever needs to fix.
 
 ### Arsenal vs Coventry City: B+
 
@@ -57,6 +57,23 @@ Every fixture gets a kit matchup grade once it kicks off. Six played, six graded
 
 Red with white sleeves against sky blue with white stripes is the kind of contrast the opening night of a season deserves, and Coventry's 1987 pinstripes gave the away end a shirt with an actual story on it. What keeps it from the A range is that this is the league's default look: Arsenal's home red is the expected call at the Emirates, and a great kit matchup usually needs one side to bring something you do not see every week. Clean, classic, a half-step short of special. **B+.**
 
+### Newcastle United vs Liverpool: A
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #241F20 0%, #6d6d6d 50%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade A</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/newcastle-home.png" alt="Newcastle United 2026/27 black and white striped home shirt by adidas with a bright blue shoulder accent, worn at home against Liverpool" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">NEWCASTLE &middot; BLACK STRIPES HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/liverpool-home.png" alt="Liverpool 2026/27 red home shirt by adidas with a scattered white and pink graphic print, worn at St James&rsquo; Park against Newcastle United" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">LIVERPOOL &middot; RED HOME</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Kits Confirmed &middot; St James&rsquo; Park</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Newcastle and Liverpool shirt photos via Soccer Wearhouse.</p>
+
+The best kit matchup of the opening weekend, and the one that required the least work from anybody. Black and white stripes against plain red is about as far apart as two shirts can get, so no away kit, no third kit, no sock swap, no conversation. What lifts it above Forest and Leeds is that both shirts have something going on inside the classic. Newcastle's stripes are broken up by a bright blue flash across the shoulder and down the cuff, the first time in years the club has let a third color onto the home shirt, and Liverpool's red is covered in a scattered white and pink graphic that only resolves when the camera gets close. Two of the oldest looks in English football, both quietly modernised, neither one compromised. **A.**
+
+Newcastle led 1-0 through Anthony Elanga's fifth-minute goal at the time of writing. We will patch the final score in as soon as it lands.
+
 ### Nottingham Forest vs Leeds United: A-
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
@@ -71,6 +88,23 @@ Red with white sleeves against sky blue with white stripes is the kind of contra
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Leeds shirt photo via Soccer Wearhouse. Forest shown as a ColorWay colorway render, not a photograph.</p>
 
 The best looking fixture of the weekend, and it did not need a single intervention from anybody. Forest's plain red and Leeds' white produce the cleanest separation on the card without either club reaching for an alternate, and all white is genuinely rare in this league: Leeds are the only club who own it outright, so this is not a default pairing even though both sides are at home in their own colors. And this year's Leeds white has something to say up close, too. The horizontal blue and yellow pinstripes are a first in the club's history, a deliberate flip of the constantly cited 2005/06 vertical-pinstripe Admiral shirt. Heritage color, new idea, perfect contrast. **A-.**
+
+### Brighton vs Aston Villa: A-
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #0057B8 0%, #1a1a1a 60%, #C9A227 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade A-</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/brighton-home.png" alt="Brighton and Hove Albion 2026/27 royal blue home shirt by Nike with white pinstripes and a 125th anniversary collar inscription, worn in the 4-0 win over Aston Villa" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">BRIGHTON &middot; BLUE PINSTRIPES HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/aston-villa-away.png" alt="Aston Villa 2026/27 black and gold away shirt by adidas with a gold lion crest and claret and sky blue collar trim, worn in the 4-0 loss at Brighton" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">ASTON VILLA &middot; BLACK AND GOLD AWAY</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Brighton 4, Aston Villa 0</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Brighton shirt photo via the official Brighton and Hove Albion club store. Aston Villa shirt photo via Ultra Football.</p>
+
+The kit story of Sunday. Villa did not wear claret. They went to the Amex in the **black and gold away shirt that only reached the club shop on Saturday**, which means a kit that had been on sale for roughly twenty four hours made its competitive debut in the season opener. It is a genuinely good shirt: black with a tonal zigzag through the body, a gold lion, gold adidas trefoil, and claret and sky blue banded into the collar and cuffs so the club colors are still in there if you look. Against Brighton's royal blue and white pinstripes it produces total separation, and Brighton's own shirt is carrying the club's 125th anniversary with a **We are Brighton 1901-2026** inscription stitched inside the white collar.
+
+Why the change at all? Villa's home shirt pairs claret with sky blue sleeves, and sky blue sleeves against Brighton's royal blue is exactly the sort of secondary color overlap the league's contrast standard exists to catch. Whether that forced Villa's hand or the club simply wanted the new shirt on the pitch for its first weekend on sale, the decision was signed off three working days before kickoff, not on the day. Brighton won 4-0 with Joao Gomes sent off before the break. **A-.**
 
 ### Everton vs Crystal Palace: B+
 
@@ -97,6 +131,21 @@ Palace brought the most interesting shirt of the weekend, and they did it withou
 
 This is what English football looked like for most of the last century, and there is a reason it keeps working. Plain blue against red and white stripes needs no ruling, no third kit and no conversation, and the stripes do all the visual work while Ipswich's block blue sits underneath them as a clean background. It is a comfortable, well-built matchup rather than a memorable one. Sunderland's stripes carry it, Ipswich's shirt is honest but plain, and nothing here surprises you. **B+.**
 
+### Manchester City vs Bournemouth: B+
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #6CABDD 0%, #d0021b 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B+</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-city-home.png" alt="Manchester City 2026/27 sky blue home shirt by Puma fading to white at the hem, worn in the 2-1 win over Bournemouth at the Etihad" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN CITY &middot; SKY BLUE HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/bournemouth-home.png" alt="AFC Bournemouth 2026/27 red and black striped home shirt, their first by hummel, with gold chevrons on the shoulders, worn at Manchester City" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">BOURNEMOUTH &middot; RED STRIPES HOME</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Man City 2, Bournemouth 1</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester City shirt photo via Soccer Wearhouse. Bournemouth shirt photo via the official AFC Bournemouth Superstore.</p>
+
+Sky blue against red and black stripes needs no intervention, so both clubs wore home and the league never had to get involved. The reason this sits at B+ rather than higher is the same reason Arsenal against Coventry did: it is the default. Neither club reached for anything, and a great kit matchup usually needs one side to turn up in something you do not see every week. What it does have is a debut. This is **Bournemouth's first home shirt under hummel** after years with Umbro, and the chevrons land better than expected, running in gold across the shoulders with a tonal crest pattern inside the red stripes. City's own home shirt fades from sky blue into white at the hem, which reads well in a stadium and slightly less well next to a shirt as busy as Bournemouth's. Clean, legible, unremarkable. **B+.**
+
 ### Brentford vs Tottenham: B
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
@@ -122,9 +171,9 @@ The contrast is fine. Red and white stripes against a dark navy separates cleanl
 
 Hull did their part. Amber with black central and side stripes is one of the most distinctive home shirts in the country, it photographs beautifully, and a promoted club opening its Premier League return in it is exactly right. United are the problem. Ivory is a warm off-white, Hull's amber is a warm yellow, and putting the two beside each other flattens a matchup that should have been vivid. Their blue away kit would have separated better and there was no rule forcing them past it, which makes the third kit a marketing decision dressed up as a clash solution. Add three centralised badges to a shirt with no red anywhere on it and you have something that reads as a merchandise drop rather than a Manchester United kit. Great home shirt, avoidable away call. **B-.**
 
-### What Actually Happened on Saturday
+### What Actually Happened on Friday and Saturday
 
-Six of the ten fixtures have now been played, and the kit calls were more interesting than the league's clash rules suggested they would be.
+Six fixtures across the first two days, and the kit calls were more interesting than the league's clash rules suggested they would be.
 
 **Arsenal vs Coventry City**, Friday, the opener. Red against sky blue is one of the cleanest contrasts in the league, so neither side had a reason to change. Coventry's first Premier League fixture since 2001 ended 3-0, with Havertz, Saka and Odegaard scoring.
 
@@ -138,15 +187,19 @@ Six of the ten fixtures have now been played, and the kit calls were more intere
 
 **Brentford vs Tottenham.** The best illustration of the three-day rule on the entire card. Spurs did have to change, and Tottenham published the confirmed colours in advance: the **new navy away shirt with navy shorts, but the white socks from the home kit**, because Brentford wear black socks with the red and white stripes. That is a club splitting two kits at sock level to satisfy a contrast standard, days before kickoff, and then losing 3-0 anyway.
 
+### What Actually Happened on Sunday
+
+Three fixtures, and one of them broke the pattern.
+
+**Brighton vs Aston Villa.** We expected both clubs in their home shirts. **Villa changed.** They wore the new black and gold away kit, a shirt that had been on general sale for about a day, and lost 4-0 with Joao Gomes sent off in the first half. Villa's home shirt puts sky blue on the sleeves, and sky blue sleeves against Brighton's royal blue is the kind of overlap the contrast standard is written for, so the change is defensible on the rules alone. It is still the second time in three days a club has opened its season in a kit almost nobody predicted, after Manchester United's ivory third at Hull.
+
+**Manchester City vs Bournemouth.** Called correctly. Sky blue against red and black stripes clears the contrast standard without anybody reaching for an alternate, so both clubs wore home. City came from behind to win 2-1, Marc Guehi equalising on 84 minutes and Josko Gvardiol winning it in stoppage time.
+
+**Newcastle vs Liverpool.** Called correctly, and the best looking fixture of the weekend. Black and white stripes against all red is the perfect contrast, both clubs at home in their own colors, nothing for the league to resolve. Anthony Elanga put Newcastle in front inside five minutes.
+
 ### Still to Come
 
-**Brighton vs Aston Villa**, Sunday. Blue and white stripes against claret and blue. Villa's claret is dominant enough that this one usually survives without a change, and the current expectation is that both sides wear home.
-
-**Manchester City vs Bournemouth**, Sunday. Sky blue against red and black stripes, no clash, both home.
-
-**Newcastle vs Liverpool**, Sunday. Black and white stripes against all red is the perfect contrast, and both clubs wear home. One of the few fixtures on the calendar where nobody has to think about it.
-
-**Fulham vs Chelsea**, Monday. White against royal blue, both home, and the fixture that closes the matchweek.
+**Fulham vs Chelsea**, Monday. White against royal blue, both home, and the fixture that closes the matchweek. Chelsea's blue is dark enough against Fulham's white that this is another one the rules leave alone, but as Sunday showed, an expected kit is not a confirmed kit until the club posts it.
 
 ## How Premier League Kit Clashes Actually Get Decided
 
@@ -172,7 +225,7 @@ Twenty clubs, three of them new: Coventry City up after twenty-five years, Hull 
 - **Aston Villa** — claret with blue sleeves
 - **AFC Bournemouth** — red and black stripes
 - **Brentford** — red and white stripes
-- **Brighton and Hove Albion** — royal blue with white pinstripes, carrying a 125th anniversary collar graphic
+- **Brighton and Hove Albion** — royal blue with white pinstripes, with a **We are Brighton 1901-2026** inscription inside the collar for the club's 125th anniversary
 - **Chelsea** — royal blue
 - **Coventry City** — sky blue
 - **Crystal Palace** — white with a blue and red sash, the 1976 design revived; the traditional stripes now live on the third kit
