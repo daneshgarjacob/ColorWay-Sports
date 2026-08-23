@@ -31,6 +31,64 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 Fifteen games and all thirty uniforms verified, and after a white-and-gray start the night turned colorful: Pittsburgh's black, Los Angeles's cream City Connect, Boston's yellow, Arizona's purple Serpientes, Kansas City's powder blue, St. Louis's powder blue, Cincinnati's red script, Chicago's royal blue, plus navy alternates for the Rays, Guardians, Twins and Braves. It is also the middle day of Players' Weekend, so every cap on the field carries [the patch on its side panel](/stories/mlb-players-weekend-patch-2026). Two of tonight's looks are debuts in this tracker: the Cubs' royal blue alternate and Boston's yellow City Connect.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #9BCBEB 0%, #C41E3A 130%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #f5f5f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">St. Louis Cardinals Powder Blue</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Cardinals/status/2091252144988897479"></a></blockquote>
+
+Two clubs wore powder blue tonight and the Cardinals wore it better, which is not the result you would expect against Kansas City. The difference is the red. St. Louis run the powder blue with the birds-on-the-bat in red across the chest and red piping down the sleeve, so the shirt has a warm accent doing the work instead of leaning on the pastel alone. Powder blue is a soft color and it needs something with heat next to it or it drifts.
+
+The other half of it is that this is a road uniform being worn like one. Grey pants would have killed it; the matching powder blue trousers make it a complete look rather than a jersey borrowed for the night. Quinn Mathews pitching in it, red cap, red-brimmed everything, on the same weekend every cap in the league carries the Players' Weekend patch, is about as good as a throwback palette gets in 2026. Philadelphia won 12-3. The uniform was the best thing St. Louis had all night.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Arizona Diamondbacks Purple City Connect</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Dbacks/status/2091252471230591244"></a></blockquote>
+
+The Serpientes set has a real idea in it and the execution keeps getting in the way. Purple is Arizona's own history and reclaiming it is the right instinct, but this is three shades of it at once: a deep purple body, a lighter turquoise-leaning script, and pale blue trim that belongs to a different uniform. Nothing anchors. The eye never finds a primary color because there is not one.
+
+The script is the bigger problem. "Serpientes" is set in a thin, wide, pale letterform that has no weight at chest height, so from the outfield camera it reads as a smudge rather than a wordmark. Compare it to the Cardinals' powder blue in the same night's slate: one accent color, high contrast, legible from anywhere in the park. Arizona's is louder and says less. Cincinnati beat them and the broadcast still could not make the shirt look good.
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #ffffff 50%, #004687 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/tigers-road-gray.jpg" alt="Detroit Tigers Road Gray jersey worn August 22 2026 against the Royals, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">TIGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #b7b7bd; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%20tigers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/royals-powder-blue.jpg" alt="Kansas City Royals Powder Blue jersey worn August 22 2026 against the Tigers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROYALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #7BAFD4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Powder Blue</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%20city%20royals%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2091236638944862356"></a></blockquote>
+
+Kansas City in powder blue against Detroit in the road greys is the cleanest-looking matchup on a fifteen-game card, and it works because neither club is trying. The Royals' powder blue is the softest color on the field tonight and the Tigers' grey is the plainest, which should be a recipe for a washed-out television picture. It is the opposite. The navy Detroit script and the navy-and-white Royals lettering give both shirts a hard edge, so the two pale bodies separate cleanly and the wordmarks carry the contrast.
+
+It is also the matchup that best explains why powder blue survived. It is a road color by origin, built to sit against grey without either side disappearing, and Kansas City wearing it at home flips that logic and still works. Add the Players' Weekend patch on both caps and this is a very 2026 frame of a very 1980 idea.
+
 ### Toronto Blue Jays at New York Yankees
 
 <div style="margin: 1.4em 0 0.6em;">
