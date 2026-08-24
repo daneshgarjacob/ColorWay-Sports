@@ -30,6 +30,10 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
   ${ribs}
 
+  <!-- Ghosted program wordmark behind the crests, SportsLogos-card style but cleaner. -->
+  <text x="${W / 2}" y="585" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif"
+        font-size="192" font-weight="900" fill="#ffffff" opacity="0.07" letter-spacing="4">RIVALRIES</text>
+
   <text x="${W / 2}" y="800" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
         font-size="30" font-weight="800" fill="#D50A0A" letter-spacing="7">AFC SOUTH &#183; NFC NORTH</text>
 
@@ -56,6 +60,16 @@ for (let i = 0; i < LOGOS.length; i++) {
     top: Math.round(cy - meta.height / 2),
   });
 }
+
+// NFL shield centered between the crest rows, where the ghost wordmark peaks.
+const shield = await sharp('public/logos/leagues/nfl.png')
+  .resize({ height: 84, fit: "inside" }).toBuffer();
+const shieldMeta = await sharp(shield).metadata();
+composites.push({
+  input: shield,
+  left: Math.round(W / 2 - shieldMeta.width / 2),
+  top: 398,
+});
 
 await mkdir(OUT, { recursive: true });
 const info = await sharp(Buffer.from(svg))
