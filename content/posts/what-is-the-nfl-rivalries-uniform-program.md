@@ -6,7 +6,9 @@ updatedDate: "2026-08-24"
 excerpt: "The 2026 Rivalries uniforms get revealed Tuesday, August 25 — all eight AFC South and NFC North teams at once. Here is how the program works and what to watch for."
 gradient: "linear-gradient(135deg, #013369 0%, #101820 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
-cardStyle: words
+coverImage: "/images/posts/what-is-the-nfl-rivalries-uniform-program/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 homepageHero: true
 kicker: Explained
 league: nfl

@@ -34,6 +34,9 @@ export default function InlineNewsletter({
       const data = await res.json();
       if (res.ok) {
         setStatus("success");
+        // Also suppress the scroll-triggered EmailCapture popup on this
+        // browser — a reader who subscribed here should never see it again.
+        localStorage.setItem("cw-email-subscribed", "true");
       } else {
         setErrorMsg(data.error || "Something went wrong. Try again.");
         setStatus("error");
