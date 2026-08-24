@@ -7,7 +7,7 @@ updatedDate: "2026-08-24"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
-coverImagePosition: "center 45%"
+coverImagePosition: "center 32%"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
