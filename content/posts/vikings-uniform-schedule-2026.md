@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"

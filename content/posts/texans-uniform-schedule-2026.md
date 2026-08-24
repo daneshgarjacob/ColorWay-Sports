@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of Houston's new Rivalries jersey."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -89,7 +89,7 @@ The most interesting date on the calendar is one where we do not yet know what t
 
 The AFC South is one of the two divisions in the 2026 Rivalries wave alongside the NFC North, and the program's rule is that the uniform comes out once a season at a home game against a division rival. Houston picked its most-played primetime rival and put the debut in a standalone national window, which is about as well-staged as this could be. Indianapolis is doing the same thing from the other side, debuting [their Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season.
 
-We are holding our grade until the reveal. The league is expected to unveil the 2026 Rivalries uniforms in late August, and we will update this page with the design and a verdict the day it lands. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+We are holding our grade until the reveal. The league unveils the full 2026 Rivalries class on Tuesday morning, August 25 at 9 a.m. CT, and we will update this page with the design and a verdict the day it lands. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 ## Deep Steel Blue at Home (The Base Set, Expected)
 

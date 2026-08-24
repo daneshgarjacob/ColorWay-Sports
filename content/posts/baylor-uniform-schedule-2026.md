@@ -6,7 +6,7 @@ date: "2026-08-21"
 updatedDate: "2026-08-21"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
-homepageHero: true
+homepageHero: false
 coverImage: "/images/posts/baylor-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center top"
 coverImageFit: "cover"

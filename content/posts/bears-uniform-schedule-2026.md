@@ -2,6 +2,7 @@
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
+updatedDate: "2026-08-24"
 excerpt: "The Bears wear their new Rivalries uniform exactly once, on Christmas Day against the Packers. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 cardStyle: words
@@ -53,7 +54,7 @@ Only Week 16 is confirmed by the team. Everything else follows the standard rule
 
 Chicago is part of the 2026 class of the NFL x Nike Rivalries program, which is rolling through the league division by division. The NFC North gets its turn this year, and the Bears will wear their set **one time**: Friday, December 25, at noon Central, at home against Green Bay on Netflix.
 
-The uniform itself has not been fully revealed yet. We will grade it the day it drops.
+The uniform itself has not been fully revealed yet, but that changes Tuesday: the league unveils the entire 2026 Rivalries class on the morning of August 25. We will grade it the day it drops.
 
 The scheduling here is close to perfect. Rivalries jerseys are supposed to be worn against the rival they were designed around, and Bears versus Packers is the oldest rivalry in the NFL, 200-plus meetings deep. Putting the debut on Christmas Day, in the noon window, on a streaming platform that has made the holiday slate its own event, is the single largest audience Chicago will have all year. If you are only going to wear a uniform once, wear it then.
 
@@ -118,7 +119,7 @@ Once, in Week 16 on Christmas Day, Friday, December 25 at noon Central, at home 
 
 **Have the Bears revealed their Rivalries uniform?**
 
-Not yet. Chicago is in the 2026 NFC North class of the NFL x Nike Rivalries program and has confirmed the date but not the design. We will grade it here as soon as it is unveiled.
+Not yet. Chicago is in the 2026 NFC North class of the NFL x Nike Rivalries program and has confirmed the date but not the design. The league-wide reveal comes Tuesday morning, August 25, and we will grade it here the moment it is unveiled.
 
 **Will the Bears wear their orange jersey in 2026?**
 

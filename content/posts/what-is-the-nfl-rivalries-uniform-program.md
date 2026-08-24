@@ -2,17 +2,33 @@
 title: "What Is the NFL Rivalries Program? The Alternate Uniforms Teams Wear Once a Year, Explained"
 category: NFL
 date: "2026-07-23"
-updatedDate: "2026-08-14"
-excerpt: "Nike's NFL Rivalries program gives teams a special alternate uniform for one home game a year against a division rival. Here is how it works, who has one, and who is next in 2026."
+updatedDate: "2026-08-24"
+excerpt: "The 2026 Rivalries uniforms get revealed Tuesday, August 25 — all eight AFC South and NFC North teams at once. Here is how the program works and what to watch for."
 gradient: "linear-gradient(135deg, #013369 0%, #101820 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 cardStyle: words
+homepageHero: true
 kicker: Explained
 league: nfl
 teams: []
 ---
 
 If you have seen a team break out a dramatic alternate uniform for a single division game and wondered what the occasion was, the answer is almost certainly the Rivalries program. It is one of the more interesting things Nike and the NFL have done with uniforms in years, and it is built around a simple, smart idea. Here is how it works.
+
+## The 2026 Reveal Is Tuesday, August 25
+
+The wait is nearly over. The NFL unveils the entire 2026 Rivalries class on **Tuesday morning, August 25, at 9 a.m. Central**, and this year's wave covers the AFC South and the NFC North — all eight teams at once. We will grade every one of them the day they drop.
+
+Each team's schedule page has the full picture of when its new uniform hits the field:
+
+- [Houston Texans](/stories/texans-uniform-schedule-2026) — debuts Week 11 vs the Colts on Thursday Night Football, November 19
+- [Indianapolis Colts](/stories/colts-uniform-schedule-2026) — debuts Week 3 vs the Texans, September 27, the first 2026 set to see the field
+- [Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026) — debuts Week 8 vs the Colts, November 1
+- [Tennessee Titans](/stories/titans-uniform-schedule-2026) — game not yet named, on top of a full rebrand year
+- [Chicago Bears](/stories/bears-uniform-schedule-2026) — debuts Week 16 vs the Packers, Christmas Day on Netflix
+- [Detroit Lions](/stories/lions-uniform-schedule-2026) — debuts Week 8 vs the Vikings, November 1
+- [Green Bay Packers](/stories/packers-uniform-schedule-2026) — game not yet announced; the design reportedly nods to the club's fan ownership
+- [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — debuts Week 15 vs the Lions on Sunday Night Football, December 20
 
 ## What the Rivalries Program Is
 
@@ -65,6 +81,10 @@ Once per season, in a single home game against a division opponent. The one-game
 **Which teams have Rivalries uniforms?**
 
 The program launched in 2025 with the AFC East and NFC West, including the Bills, Jets, Patriots, Dolphins, 49ers, Seahawks, Rams, and Cardinals. The AFC South and NFC North teams are next, debuting their sets for the 2026 season.
+
+**When are the 2026 Rivalries uniforms revealed?**
+
+Tuesday, August 25, 2026, at 9 a.m. Central. The league unveils all eight AFC South and NFC North sets at once, and we will grade every one of them the day they drop.
 
 **When did the NFL Rivalries program start?**
 

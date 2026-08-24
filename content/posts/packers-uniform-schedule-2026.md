@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words

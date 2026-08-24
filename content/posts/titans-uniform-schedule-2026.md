@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: When They Wear the Brand-New Blue and White Sets"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus what we know about the Rivalries uniform still to be unveiled."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -34,7 +34,7 @@ Tennessee did not add an alternate in the rebrand. It built two uniforms and gav
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#bfdcf5;">Home</strong> &middot; Titans blue jersey, "TITANS" chest &middot; white or light blue pants</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#bfdcf5;">Road</strong> &middot; White jersey, "TENNESSEE" chest &middot; light blue or white pants</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#bfdcf5;">Helmet</strong> &middot; White shell, white facemask, light blue and red stripe</p>
-  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#bfdcf5;">Rivalries</strong> &middot; Confirmed for 2026, not yet unveiled</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#bfdcf5;">Rivalries</strong> &middot; Confirmed for 2026 &middot; Reveal August 25</p>
 </div>
 
 ## The Full 2026 Titans Uniform Schedule, Week by Week
@@ -84,7 +84,7 @@ Paired with the light blue pants, this is the best combination Tennessee owns. I
 
 ## The Rivalries Uniform Nobody Has Seen Yet
 
-Tennessee is in the 2026 wave of the NFL x Nike Rivalries program, which covers the AFC South and the NFC North this year. That much is settled. What is not settled is anything else: the design has not been unveiled, and the Titans have not named the game.
+Tennessee is in the 2026 wave of the NFL x Nike Rivalries program, which covers the AFC South and the NFC North this year. That much is settled. The design gets its reveal Tuesday morning, August 25 at 9 a.m. CT, when the league unveils the entire 2026 class at once. What the Titans still have not done is name the game.
 
 We can narrow it down, though, because the program has a rule. Rivalries uniforms are worn at a home game against a division rival, and Tennessee has three of those: the Texans in Week 5, the Jaguars in Week 10, and the Colts in Week 15. Week 5 is early for a jersey that has not been revealed yet, and Week 15 against Indianapolis is plausible. Our read is Week 10 against Jacksonville on Sunday, November 15, which is the read the reporting has pointed at as well, but we want to be clear that it is a read and not a confirmation.
 

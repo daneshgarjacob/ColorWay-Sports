@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Jaguars' 2026 uniform schedule: the confirmed Rivalries jersey date against the Colts, two London home games, and a week-by-week look at the teal and white sets."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -67,7 +67,7 @@ Jacksonville hosts Indianapolis on Sunday, November 1 for its Rivalries game, an
 
 The program's structure is simple: one wearing a season, at a home game against a division rival, with a look built around the community and the matchup. What is unusual about the AFC South this year is how much of it points at Indianapolis. The Colts are the opponent for [Jacksonville's Rivalries game](/stories/colts-uniform-schedule-2026) and for Houston's in Week 11, while Indianapolis debuts its own against the Texans in Week 3. Three brand-new uniforms in one division, and the Colts are on the field for all three.
 
-We are holding a grade until the reveal, which is expected in late August. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+We are holding a grade until the reveal, which lands Tuesday morning, August 25 at 9 a.m. CT, when the league unveils the entire 2026 class at once. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

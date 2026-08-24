@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The New 'Rivalries' Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-08-18"
+updatedDate: "2026-08-24"
 excerpt: "The Colts' 2026 alternate schedule is out: the new Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -26,7 +26,7 @@ The Colts have locked in their 2026 alternate uniform schedule, and it is a thre
 <div style="font-size: 0.95em; color: #cfe0f5;">vs. Houston Texans</div>
 </div>
 
-Indianapolis is part of the 2026 class of the NFL x Nike Rivalries program, and the Colts will debut their new Rivalries uniform in Week 3 against the Houston Texans on September 27. The full look will be revealed closer to the game, so we are holding our grade until we see it, but the concept is a good one: a jersey built specifically around a division rivalry, worn against that rival. The AFC South does not always get the national spotlight, and a fresh look for a Texans-Colts game is a smart way to give the rivalry some teeth. We will update this page with our verdict the day it drops.
+Indianapolis is part of the 2026 class of the NFL x Nike Rivalries program, and the Colts will debut their new Rivalries uniform in Week 3 against the Houston Texans on September 27. The full look gets revealed Tuesday morning, August 25, when the league unveils the entire 2026 Rivalries class at once, so we are holding our grade only until then, but the concept is a good one: a jersey built specifically around a division rivalry, worn against that rival. The AFC South does not always get the national spotlight, and a fresh look for a Texans-Colts game is a smart way to give the rivalry some teeth. We will update this page with our verdict the day it drops.
 
 ## Week 9 vs. Cowboys: The White Out
 
@@ -94,6 +94,6 @@ The White Out is the Colts' all-white combination, a white jersey worn with whit
 
 **Has the Colts' Rivalries uniform been revealed?**
 
-Not yet. The Colts are part of the 2026 NFL x Nike Rivalries program and will debut the jersey in Week 3 against the Texans on September 27, with the full uniform unveiled closer to the game. We will update this page with our grade the day it is revealed.
+Not yet. The Colts are part of the 2026 NFL x Nike Rivalries program and will debut the jersey in Week 3 against the Texans on September 27, and the league unveils the full 2026 Rivalries class on Tuesday, August 25 at 9 a.m. CT. We will update this page with our grade the day it is revealed.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
