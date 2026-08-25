@@ -5,7 +5,9 @@ date: "2026-08-12"
 updatedDate: "2026-08-25"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
-cardStyle: words
+coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-chicago-bears.png"
 league: nfl
