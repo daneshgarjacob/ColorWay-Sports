@@ -2,8 +2,8 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-24"
-excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of Houston's new Rivalries jersey."
+updatedDate: "2026-08-25"
+excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["houston-texans"]
 ---
 
-Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and one of them is a uniform nobody has seen. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut their new Rivalries uniform against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
+Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and as of August 25 all three have a face. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut the brand-new HOUSTON/US Rivalries uniform, the first white helmet in franchise history included, against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -83,13 +83,26 @@ Our only complaint is the frequency. One Battle Red game a season is not enough 
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520battle%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Battle Red jersey on Fanatics →</a>
 
-## The Rivalries Debut (Week 11 vs. Colts, Confirmed)
+## The "HOUSTON/US" Rivalries Uniform, Revealed (Week 11 vs. Colts)
 
-The most interesting date on the calendar is one where we do not yet know what the uniform looks like. Houston debuts its new Rivalries jersey against Indianapolis on Thursday, November 19, in a Thursday Night Football window, and the design has not been revealed.
+<img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-group.jpg" alt="Houston Texans HOUSTON/US Rivalries uniform reveal, players in the Liberty White jersey and helmet with H-Town Blue and Battle Red tile stripes" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Houston Texans</p>
 
-The AFC South is one of the two divisions in the 2026 Rivalries wave alongside the NFC North, and the program's rule is that the uniform comes out once a season at a home game against a division rival. Houston picked its most-played primetime rival and put the debut in a standalone national window, which is about as well-staged as this could be. Indianapolis is doing the same thing from the other side, debuting [their Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season.
+The wait is over. Houston's Rivalries uniform dropped Tuesday morning under the name HOUSTON/US, with the tagline "By the H. For the H.," and it is built from the city itself: Liberty White as the base, H-Town Blue and Battle Red doing the accent work, and the blue-and-white street-tile mosaics you see all over Houston running through the stripes, the nameplate, and the numbers. The "Be Someone" bridge inspired the jersey numbers, the chrome facemask is a nod to slab culture and candy paint, and the inner collar reads HOUSTON in tiled letters.
 
-We are holding our grade until the reveal. The league unveils the full 2026 Rivalries class on Tuesday morning, August 25 at 9 a.m. CT, and we will update this page with the design and a verdict the day it lands. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+The headline piece is the helmet, the first white shell in Texans history, a tribute to the white prototype the late Robert C. McNair held up in 1999 before the franchise settled on Deep Steel Blue. It carries a gothic H-Town "H" with a star on the side, a tiled red-and-blue center stripe, and an H-TOWN front bumper with a clean border around it, which is exactly the kind of small detail this program is supposed to deliver.
+
+Our first take: we like this a lot. The palette is the win, light, bright, and completely different from the navy-heavy base set, and the chrome blue facemask might be the single best piece of hardware in the entire 2026 Rivalries class. Putting the bullhead logo on the jersey chest is a smart move that keeps the primary mark on the uniform. Our one real quibble is the helmet logo: the gothic H is cool, but we would have preferred the primary bullhead on that white shell, because a first-ever white Texans helmet with the classic logo would have been an instant icon. The full grade lands once we have run through all eight Rivalries reveals.
+
+<img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-details.jpg" alt="Houston Texans Rivalries uniform details: white helmet, tiled name plate, Be Someone jersey numbers, bullhead chest logo, and tiled stripe" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Houston Texans</p>
+
+<img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-stroud.jpg" alt="C.J. Stroud seated on a Houston tiled TEXANS bench in the full HOUSTON/US Rivalries uniform" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Houston Texans</p>
+
+Houston debuts the uniform against Indianapolis on Thursday, November 19, in a standalone Thursday Night Football window, the best possible stage for it. The program's rule is that the uniform comes out at a home game against a division rival, and Indianapolis is doing the same thing from the other side, debuting [their Anvil Strike Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season. Rivalries merchandise goes on sale September 1, and the set stays in Houston's rotation for three seasons. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Deep Steel Blue at Home (The Base Set, Expected)
 
@@ -135,7 +148,7 @@ Deep Steel Blue at NRG and white on the road, unless the week is one of the thre
 Once, at home in Week 7 against the New York Giants on Sunday, October 25. It is the Battle Red Game, and fans are asked to wear red to match the team.
 
 **When do the Texans wear their Rivalries uniform in 2026?**
-Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football. It is the debut of the jersey, which has not been unveiled yet. Houston is in the 2026 Rivalries wave along with the rest of the AFC South and the NFC North.
+Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football. The uniform was revealed on August 25 under the name HOUSTON/US: a Liberty White base with H-Town Blue and Battle Red tile stripes, the first white helmet in franchise history with a chrome blue facemask, and a gothic H-Town "H" on the shell. It stays in the rotation for three seasons.
 
 **Do the Texans wear white at home in 2026?**
 Yes, in Week 1 against Buffalo on September 13. Houston confirmed the Liberty White uniforms for the opener and asked fans to wear white. Because the home team picks first, that allows Buffalo to wear a colored jersey.

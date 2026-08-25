@@ -1,9 +1,9 @@
 ---
-title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the Rivalries Jersey and the Teal Set"
+title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-24"
-excerpt: "The Jaguars' 2026 uniform schedule: the confirmed Rivalries jersey date against the Colts, two London home games, and a week-by-week look at the teal and white sets."
+updatedDate: "2026-08-25"
+excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["jacksonville-jaguars"]
 ---
 
-Jacksonville has named a uniform for exactly one game in 2026, and it is the right one: the Rivalries jersey against Indianapolis in Week 8. The rest of the schedule is teal at home and white on the road, with one genuine oddity in the middle, back-to-back home games played in London. Here is the full Jacksonville Jaguars 2026 uniform schedule: the confirmed date first, then a week-by-week outlook for the teal home set and the white road set.
+Jacksonville has named a uniform for exactly one game in 2026, and it is the right one: the brand-new Bold City Rivalries jersey, revealed August 25, against Indianapolis in Week 8. The rest of the schedule is teal at home and white on the road, with one genuine oddity in the middle, back-to-back home games played in London. Here is the full Jacksonville Jaguars 2026 uniform schedule: the confirmed date first, then a week-by-week outlook for the teal home set and the white road set.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -61,13 +61,24 @@ Here is the whole season at a glance. The confirmed jersey game is marked with a
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>Week 8 Rivalries game is confirmed</strong> by the Jaguars. The other home themes are promotional, such as Crucial Catch and Salute to Service, so the teal-home and white-road assignments are our projection based on the standard NFL convention and on what Jacksonville actually wore at home last season, which was overwhelmingly teal. Black remains in the closet as an alternate and the Prowler throwback exists, but <strong>neither has been announced for any 2026 game.</strong> Week 16 at Dallas is flagged because the Cowboys wear white at home, which would let Jacksonville wear teal on the road.</p>
 
-## The Rivalries Jersey (Week 8 vs. Colts, Confirmed)
+## The "Bold City" Rivalries Uniform, Revealed (Week 8 vs. Colts)
 
-Jacksonville hosts Indianapolis on Sunday, November 1 for its Rivalries game, and like the rest of the AFC South, the Jaguars are in the 2026 wave of the Nike program alongside the NFC North. The design has not been unveiled.
+<img src="/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-group.jpg" alt="Jacksonville Jaguars Bold City Rivalries uniform reveal, five players in alabaster jerseys with teal helmets and gold face masks" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Jacksonville Jaguars</p>
 
-The program's structure is simple: one wearing a season, at a home game against a division rival, with a look built around the community and the matchup. What is unusual about the AFC South this year is how much of it points at Indianapolis. The Colts are the opponent for [Jacksonville's Rivalries game](/stories/colts-uniform-schedule-2026) and for Houston's in Week 11, while Indianapolis debuts its own against the Texans in Week 3. Three brand-new uniforms in one division, and the Colts are on the field for all three.
+The reveal landed Tuesday morning under the name Bold City, built on the motto "Fortune Favors the Bold." The base jersey is alabaster, an off-white cream, with a cursive "Jaguars" script across the chest outlined in gold as a nod to the team's Southern roots. The numbers carry a printed jaguar-spot pattern with gold trim and a teal shadow, the inner collar reads "Bold City," the outer collar reads "Since '95" for the inaugural season, and the pants are black with an all-over jaguar-spot print and a teal-and-gold side stripe. The helmet is a gloss teal shell with a metallic gold face mask and a "904" front bumper for the area code, and the primary logo gets a sun-washed makeover, the gold swapped for alabaster.
 
-We are holding a grade until the reveal, which lands Tuesday morning, August 25 at 9 a.m. CT, when the league unveils the entire 2026 class at once. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+<img src="/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-details.jpg" alt="Jacksonville Jaguars Bold City uniform details: teal helmet with gold face mask, alabaster jersey, spotted black pants, wordmarks and color palette" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Jacksonville Jaguars</p>
+
+Our first take: the helmet is the best thing here by a wide margin. That light gloss teal with the gold cage is a genuinely beautiful piece, and it makes the case for more teal headwear in Jacksonville's future all by itself. The rest is more complicated. Alabaster and gold together give the whole thing a New Orleans feel at first glance, which is a strange note for a franchise whose entire visual edge is that nobody else owns teal. The 904 on the bumper joins the growing pile of area-code and zip-code references around the league, a trend that is wearing thin for us, and the number font and nameplate are fine without being memorable. The spotted pants are the gamble: cool up close, a little gimmicky, and we have real questions about how that print reads at field distance. We also held out hope the program would bring back the leaping Prowler jaguar, and the sun-washed primary logo, nice as it is, is not that.
+
+<img src="/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-logo.jpg" alt="Jacksonville Jaguars Bold City sun-washed primary logo in alabaster, black, and teal colorways" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Jacksonville Jaguars</p>
+
+Add it up and Bold City is fine, well-crafted, clearly researched, but not the swing we wanted from the team with the league's most distinctive palette. The full grade lands once we have run through all eight 2026 Rivalries reveals.
+
+Jacksonville hosts Indianapolis on Sunday, November 1 for the debut. What is unusual about the AFC South this year is how much of it points at Indianapolis. The Colts are the opponent for [Jacksonville's Rivalries game](/stories/colts-uniform-schedule-2026) and for Houston's in Week 11, while Indianapolis debuts its own Anvil Strike set against the Texans in Week 3. Three brand-new uniforms in one division, and the Colts are on the field for all three. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
@@ -120,7 +131,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Teal if Jacksonville is the home team, including the two London games, and white otherwise.
 
 **When do the Jaguars wear their Rivalries uniform in 2026?**
-Once, at home in Week 8 against the Indianapolis Colts on Sunday, November 1. Jacksonville is in the 2026 Rivalries wave with the rest of the AFC South, and the design has not been unveiled yet.
+Once, at home in Week 8 against the Indianapolis Colts on Sunday, November 1. The design was revealed on August 25 as Bold City: an alabaster jersey with a cursive Jaguars script, jaguar-spot numbers and black spotted pants, and a gloss teal helmet with a gold face mask and a 904 bumper. It stays in the rotation for three seasons.
 
 **Will the Jaguars wear the Prowler throwbacks in 2026?**
 Not announced. Jacksonville wore the Prowler throwback four times in 2025, but the 2026 game themes announcement does not name it for any date. If the team adds throwback games, this page gets updated.
