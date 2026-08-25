@@ -72,6 +72,7 @@ for (const card of cards) {
 // card yet, so the learner cannot know it. Seed those here on their debut day;
 // after the day block ships, the learner picks them up from the post itself.
 const SEED = {
+  "angels|Cream City Connect": { src: "/images/posts/mlb-daily-tracker/angels-cream-cc.jpg", swatch: "#F2E9D4" },
   "rays|Columbia Blue Alternate": { src: "/images/posts/mlb-daily-tracker/rays-light-blue-alternate.jpg", swatch: "#75AADB" },
   "tigers|Navy City Connect": { src: "/images/posts/mlb-daily-tracker/tigers-motor-city-cc.jpg", swatch: "#0C2340" },
   "astros|Navy Alternate": { src: "/images/posts/mlb-daily-tracker/astros-navy-alternate.jpg", swatch: "#002D62" },
