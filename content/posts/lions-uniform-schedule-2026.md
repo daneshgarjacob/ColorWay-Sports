@@ -62,7 +62,15 @@ The design landed with the rest of the 2026 class on August 25, and Detroit went
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-helmet.jpg" alt="Detroit Lions Rivalries electric blue helmet with carbon fiber stripes and carbon fiber lion logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
-Our first take: this is the interesting one. The bone shade genuinely works, a warmer, richer base than a standard white that gives the whole set some texture, and the carbon-fiber numbers are a clever way to do "Motor City" without writing it out. The helmet is a real upgrade on the flat blue alternate shells Detroit has run in recent seasons, though it still does not touch the classic silver primary. The honest knock is that the finished jersey lands closer to a Panthers road white than anything unmistakably Detroit, black-accented white with blue trim is a crowded lane. Good, not great: we do not hate it, we do not love it. Full grade once we have run through all eight reveals.
+Our first take: this is the interesting one. The bone shade genuinely works, a warmer, richer base than a standard white that gives the whole set some texture, and the carbon-fiber numbers are a clever way to do "Motor City" without writing it out. The helmet is a real upgrade on the flat blue alternate shells Detroit has run in recent seasons, though it still does not touch the classic silver primary. The honest knock is on the jersey itself: strip away the carbon fill and what is left is a white shirt with black shoulder wedges and blue trim, which is a silhouette Carolina already owns, and none of the Detroit-specific ideas live above the waist where the camera actually sits.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0076B6 0%, #1A1A1A 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 118, 182, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">The Bone Base and the Blue Helmet Work · The Jersey Borrows Someone Else's Outline</p>
+</div>
+
+Fifth in the 2026 class. The bone shade is a real choice and the electric-blue carbon helmet is the best alternate lid Detroit has put on the field, both of which keep this comfortably out of the bottom tier. What holds it at a C is that the racing story stops at the numbers, and the rest of the jersey settles into a shape that reads as somebody else's road white before it reads as Honolulu blue and silver.
 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-detroit-flex.jpg" alt="Detroit Lions Rivalries uniform, player flexing in the bone white jersey with carbon fiber numbers and blue trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
@@ -125,7 +133,7 @@ If Detroit does reach for the black, Week 16 against the Giants on Monday night 
 
 Detroit spent a decade as one of the worst-dressed teams in the league and is now, after the 2024 clean-up, one of the best. Honolulu blue and silver is a genuinely unusual pairing that nobody else can use, and the current set finally stopped apologising for it.
 
-The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, bone white with carbon-fiber numbers under an electric-blue helmet, is a genuine departure, and our early read is good-not-great.
+The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, bone white with carbon-fiber numbers under an electric-blue helmet, is a genuine departure that we grade a **C**: the base and the helmet land, the jersey shape does not.
 
 ## Frequently Asked Questions
 

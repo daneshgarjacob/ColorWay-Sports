@@ -92,7 +92,15 @@ The wait is over. Houston's Rivalries uniform dropped Tuesday morning under the 
 
 The headline piece is the helmet, the first white shell in Texans history, a tribute to the white prototype the late Robert C. McNair held up in 1999 before the franchise settled on Deep Steel Blue. It carries a gothic H-Town "H" with a star on the side, a tiled red-and-blue center stripe, and an H-TOWN front bumper with a clean border around it, which is exactly the kind of small detail this program is supposed to deliver.
 
-Our first take: we like this a lot. The palette is the win, light, bright, and completely different from the navy-heavy base set, and the chrome blue facemask might be the single best piece of hardware in the entire 2026 Rivalries class. Putting the bullhead logo on the jersey chest is a smart move that keeps the primary mark on the uniform. Our one real quibble is the helmet logo: the gothic H is cool, but we would have preferred the primary bullhead on that white shell, because a first-ever white Texans helmet with the classic logo would have been an instant icon. The full grade lands once we have run through all eight Rivalries reveals.
+Our first take: we like this a lot. The palette is the win, light, bright, and completely different from the navy-heavy base set, and the chrome blue facemask might be the single best piece of hardware in the entire 2026 Rivalries class. Putting the bullhead logo on the jersey chest is a smart move that keeps the primary mark on the uniform. Our one real quibble is the helmet logo: the gothic H is cool, but we would have preferred the primary bullhead on that white shell, because a first-ever white Texans helmet with the classic logo would have been an instant icon.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0091DA 0%, #A71930 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 145, 218, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Best Facemask in the Class · The Bullhead Belonged on That Shell</p>
+</div>
+
+Second place in the 2026 class, and the gap between this and an A is one decision. The palette, the tile work, and that chrome cage are all excellent. Putting a secondary mark on the first white helmet the franchise has ever made is the swing that did not connect, because that shell was a chance to make the bullhead iconic in a color it has never worn.
 
 <img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-details.jpg" alt="Houston Texans Rivalries uniform details: white helmet, tiled name plate, Be Someone jersey numbers, bullhead chest logo, and tiled stripe" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Houston Texans</p>

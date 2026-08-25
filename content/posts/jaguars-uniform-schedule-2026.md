@@ -76,7 +76,15 @@ Our first take: the helmet is the best thing here by a wide margin. That light g
 <img src="/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-logo.jpg" alt="Jacksonville Jaguars Bold City sun-washed primary logo in alabaster, black, and teal colorways" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Jacksonville Jaguars</p>
 
-Add it up and Bold City is fine, well-crafted, clearly researched, but not the swing we wanted from the team with the league's most distinctive palette. The full grade lands once we have run through all eight 2026 Rivalries reveals.
+Add it up and Bold City is a well-researched uniform that keeps reaching for references instead of leaning on the one asset nobody else in football owns.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #00A3A1 0%, #101820 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 163, 161, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C+</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">A Beautiful Teal Helmet on a Uniform That Keeps Changing the Subject</p>
+</div>
+
+Fourth in the 2026 class, and the helmet is doing almost all of the lifting. The gloss teal shell with the gold cage is genuinely one of the best pieces of the year. Below it, the alabaster and gold read closer to New Orleans than Jacksonville, the 904 bumper is the third area-code reference we have graded this year, and the spotted pants are the kind of print that looks sharp in a studio and turns to noise from the upper deck. The teal is the reason this franchise looks like nobody else, and Bold City spends most of its ideas somewhere else.
 
 Jacksonville hosts Indianapolis on Sunday, November 1 for the debut. What is unusual about the AFC South this year is how much of it points at Indianapolis. The Colts are the opponent for [Jacksonville's Rivalries game](/stories/colts-uniform-schedule-2026) and for Houston's in Week 11, while Indianapolis debuts its own Anvil Strike set against the Texans in Week 3. Three brand-new uniforms in one division, and the Colts are on the field for all three. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 

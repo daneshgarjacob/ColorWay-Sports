@@ -57,7 +57,15 @@ Only Week 16 is confirmed by the team. Everything else follows the standard rule
 
 The reveal landed Tuesday morning under the banner "Return of the Monsters," and it is the Bears' heritage run through a modern filter. The navy jersey carries burnt orange numbers with white trim drawn from the 1948 era, the three-stripe sleeve trim dates to the 1930s, and the front of the jersey wears the football-shaped GSH patch for George Halas, a direct replica of the memorial patch the team wore in 1983. The pants are orange, the socks run the navy-and-orange stripes, and the orange helmet gets a revamped classic BEARS wordmark on the bumper plus the four stars of the Chicago flag on the rear stripe. "Monsters of the Midway" is stitched inside the collar, and the old crawling-bear-over-the-football Chicago logo is back in the identity package.
 
-Our first take: this is the one to beat. Everything the concept promises actually shows up on the uniform, the orange number pop against the navy, the sock striping, the shoulder stripes, the helmet treatment, and it all reads as a throwback with a modern build rather than a costume. The GSH patch is the detail of the entire 2026 class, a real piece of franchise history put back exactly where it lived. It is the rare alternate that feels like it could be a primary, which is fitting for a team whose primaries we already love. Full grade once we have run through all eight reveals, but this is the early leader.
+Our first take: this is the one to beat. Everything the concept promises actually shows up on the uniform, the orange number pop against the navy, the sock striping, the shoulder stripes, the helmet treatment, and it all reads as a throwback with a modern build rather than a costume. The GSH patch is the detail of the entire 2026 class, a real piece of franchise history put back exactly where it lived. It is the rare alternate that feels like it could be a primary, which is fitting for a team whose primaries we already love. Having now seen all eight of the 2026 Rivalries sets, this is the best of them, and it is not particularly close.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #C83803 0%, #0B162A 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(200, 56, 3, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A-</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Best of the Eight · The 1983 GSH Patch Is the Detail of the Class</p>
+</div>
+
+What keeps it off an A is the ceiling the concept sets for itself. This is a heritage uniform executed almost perfectly, so the only real critique is that Chicago was never going to surprise anyone here, and the orange pants are the one piece that will divide a room. That is a small price for the best-looking set in the class.
 
 <img src="/images/posts/bears-uniform-schedule-2026/rivalries-built-for-balance.jpg" alt="Chicago Bears Rivalries uniform: player seated with orange helmet, navy jersey, orange pants, and striped socks" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Chicago Bears</p>
@@ -106,7 +114,7 @@ Chicago has an orange alternate in the closet and has used it in recent seasons,
 
 The Bears are running one of the smallest closets in the NFL and it does not cost them a thing, because the thing they own is already great. Navy and orange, the wishbone C, and sixty years of not messing with it.
 
-The one swing they are taking is well placed. A brand-new Rivalries uniform, debuting against Green Bay, on Christmas Day, at Soldier Field, on Netflix. That is the biggest stage the franchise will have this season and they are using it on the rivalry that defines them. And now that we have seen the uniform, navy and burnt orange with the 1983 GSH patch and orange pants, the design deserves the stage. The scheduling was always an A; the uniform is our early favorite of the entire 2026 class.
+The one swing they are taking is well placed. A brand-new Rivalries uniform, debuting against Green Bay, on Christmas Day, at Soldier Field, on Netflix. That is the biggest stage the franchise will have this season and they are using it on the rivalry that defines them. And now that we have seen the uniform, navy and burnt orange with the 1983 GSH patch and orange pants, the design deserves the stage. The scheduling was always an A, and the uniform earns an **A-**, the best set in the entire 2026 Rivalries class.
 
 ## Frequently Asked Questions
 
