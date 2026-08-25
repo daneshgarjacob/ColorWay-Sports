@@ -87,6 +87,10 @@ The Miami Dolphins built one of the most talked-about sets of that first wave, t
 
 The program continues expanding by division, and the 2026 wave brought in the AFC South and the NFC North: the Texans, Colts, Jaguars, and Titans on one side and the Bears, Lions, Packers, and Vikings on the other, all revealed together on August 25. Some of the best rivalries in the league, Bears-Packers chief among them, now have their own one-game uniforms.
 
+The rest of the league now has dates too. **The AFC West and the NFC East are up in 2027**, which brings in Chiefs-Raiders and Cowboys-Eagles, two of the loudest rivalries in the sport. **The AFC North and the NFC South follow in 2028**, closing the loop with Steelers-Ravens. By the end of 2028 all 32 clubs will own a Rivalries set.
+
+It is worth understanding why the league is in no hurry to stop. The 2025 launch, the AFC East and NFC West class, became Fanatics' highest-selling product launch ever. Whatever you make of any individual uniform, the program is not a design experiment the league is testing. It is the most commercially successful thing Nike and the NFL have done with jerseys in years, and that is why it is rolling through every division rather than quietly disappearing after one wave.
+
 ## The First Rivalries-on-Rivalries Game: Seahawks vs. Rams on Christmas Day
 
 The program gets its biggest stage yet on **Friday, December 25**, when Seattle hosts the Rams in Week 16 and, as both teams confirmed on August 14, **both wear their Rivalries uniforms.**
@@ -124,6 +128,10 @@ Tuesday, August 25, 2026. The league unveiled all eight AFC South and NFC North 
 **When did the NFL Rivalries program start?**
 
 The inaugural season was 2025, with the AFC East and NFC West teams debuting the first Rivalries uniforms.
+
+**Which teams get Rivalries uniforms next?**
+
+The AFC West and the NFC East are up in 2027, followed by the AFC North and the NFC South in 2028. That completes the rollout, giving all 32 clubs a Rivalries set by the end of the 2028 season.
 
 **What is the Dolphins Rivalries uniform?**
 
