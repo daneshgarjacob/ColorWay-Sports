@@ -1,93 +1,59 @@
-// Branded 3:2 hero/cover for the MLB daily uniform tracker.
-// Same family as gen-wc-tracker-cover.mjs: navy gradient + bars, MLB mark in a
-// white badge chip, three transparent jersey cutouts fanned top-right, ColorWay
-// mark bottom-right, bottom-left kept clear for the homepage card status pill.
-// Jersey cutouts come from the repo's own staged tracker images.
-// Usage: node scripts/gen-mlb-tracker-cover.mjs
-import sharp from "sharp";
-import { existsSync, mkdirSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, resolve } from "node:path";
-
-const __dir = dirname(fileURLToPath(import.meta.url));
-const root = resolve(__dir, "..");
-
+import sharp from 'sharp';
+import { readdirSync } from 'node:fs';
 const W = 1500, H = 1000;
-const c1 = "#002D72", c2 = "#0a0d16", accent = "#E81828";
+const logos = readdirSync('public/logos/teams').filter(f => f.startsWith('mlb-')).sort();
+const M = 92; // shared left margin for kicker, logos, headline
 
-const bars = Array.from({ length: 8 }, (_, i) => {
-  const x = 90 + i * 175;
-  return `<rect x="${x}" y="0" width="10" height="${150 + (i % 4) * 45}" fill="#ffffff" opacity="0.10"/>`;
-}).join("\n  ");
-
-const BADGE = { x: 100, y: 72, w: 200, h: 284, r: 24 };
-
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="${c1}"/>
-      <stop offset="1" stop-color="${c2}"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d2a52"/><stop offset="55%" stop-color="#0a1c38"/><stop offset="100%" stop-color="#050d1c"/>
     </linearGradient>
-    <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0.5"/>
-    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.22" r="0.75">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.045 0"/></filter>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
-  ${bars}
-  <rect width="${W}" height="${H}" fill="url(#scrim)"/>
-  <rect x="${BADGE.x}" y="${BADGE.y}" width="${BADGE.w}" height="${BADGE.h}" rx="${BADGE.r}" fill="#ffffff"/>
-  <text x="100" y="478" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="7" fill="${accent}">30 TEAMS · EVERY GAME · EVERY DAY</text>
-  <rect x="100" y="502" width="120" height="8" fill="${accent}"/>
-  <text x="96" y="610" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#ffffff">MLB DAILY</text>
-  <text x="96" y="700" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-2" fill="#ffffff">UNIFORM TRACKER</text>
-  <text x="100" y="760" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff" opacity="0.92">What Every Team Wore Last Night, Logged Every Morning</text>
+  <polygon points="1325,1000 1825,0 1865,0 1865,140 1410,1000" fill="#000000" opacity="0.22"/>
+  <polygon points="1280,1000 1780,0 1812,0 1315,1000" fill="#D50032" opacity="0.85"/>
+  <rect width="${W}" height="${H}" fill="url(#glow)"/>
+  <rect width="${W}" height="${H}" filter="url(#noise)"/>
+
+  <g transform="translate(${M} 66) skewX(-8)">
+    <rect x="0" y="0" width="446" height="52" fill="#D50032"/>
+    <text x="24" y="36" font-family="Hanken Grotesk" font-weight="800" font-size="25" fill="#ffffff" letter-spacing="4">MLB UNIFORM TRACKER</text>
+  </g>
+  <g transform="translate(${M + 462} 66) skewX(-8)">
+    <rect x="0" y="0" width="304" height="52" fill="none" stroke="#8fb2e8" stroke-width="2"/>
+    <text x="24" y="36" font-family="Hanken Grotesk" font-weight="800" font-size="25" fill="#8fb2e8" letter-spacing="4">UPDATED DAILY</text>
+  </g>
+
+  <g transform="translate(${M} 724) skewX(-6)">
+    <text x="0" y="0" font-family="Anton" font-size="150" fill="#ffffff">WHAT EVERY TEAM</text>
+  </g>
+  <g transform="translate(${M} 884) skewX(-6)">
+    <text x="0" y="0" font-family="Anton" font-size="150" fill="#ffffff">IS WEARING <tspan fill="#ff4b63">TONIGHT</tspan></text>
+  </g>
+
+  <line x1="${M}" y1="928" x2="1265" y2="928" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
 </svg>`;
 
-const mlbLogoPath = resolve(root, "public/logos/mlb.png");
-const cwLogoPath = resolve(root, "public/brand/colorway-sports-logo-white.png");
-const tiles = resolve(root, "public/images/posts/mlb-daily-tracker");
-// Two clean SOLO jerseys side by side (no overlap — Jake killed the messy fan 7/9).
-// 7/22 (Jake): read as a real matchup, "Yankees at Dodgers" — away on the left,
-// home on the right, both the SAME size. Each source PNG carries a different
-// amount of transparent padding, so trim to content first and match on the
-// trimmed height; sizing the raw files would leave them visually unequal.
-// Both must be FRONT-ONLY shots (feedback_prefer_front_only_jersey_shots): our
-// only Yankees road gray is a front+back composite, which is precisely what made
-// the pair look mismatched, so the matchup runs Dodgers at Yankees instead —
-// both sources are clean 800x800 front-only cutouts.
-const leftJerseyPath = resolve(tiles, "dodgers-road-gray.png");   // away
-const rightJerseyPath = resolve(tiles, "yankees-home-white-cutout.png"); // home
-
-const composites = [];
-
-if (existsSync(mlbLogoPath)) {
-  const mlb = await sharp(mlbLogoPath).resize({ width: BADGE.w - 48 }).png().toBuffer();
-  const m = await sharp(mlb).metadata();
-  composites.push({ input: mlb, top: BADGE.y + Math.round((BADGE.h - m.height) / 2), left: BADGE.x + 24 });
+const comps = [];
+// 3 rows x 10, left edge of every column aligned, first column flush at M
+for (let i = 0; i < 30; i++) {
+  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 94, width: 116, fit: 'inside' }).toBuffer();
+  const m = await sharp(buf).metadata();
+  const row = Math.floor(i / 10), col = i % 10;
+  const cellX = M + col * 138;
+  const cy = 176 + row * 128 + 47;
+  comps.push({ input: buf, left: cellX, top: Math.round(cy - m.height / 2) });
 }
+// real wordmark bottom-right next to the drawn flag roundel
+const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
+const wmm = await sharp(wm).metadata();
+comps.push({ input: wm, left: 92, top: 951 });
 
-const JERSEY_H = 330, JERSEY_GAP = 46, RIGHT_MARGIN = 74, JERSEY_TOP = 62;
-if (existsSync(leftJerseyPath) && existsSync(rightJerseyPath)) {
-  const [lj, rj] = await Promise.all(
-    [leftJerseyPath, rightJerseyPath].map((f) =>
-      sharp(f).trim().resize({ height: JERSEY_H }).png().toBuffer()
-    )
-  );
-  const [lm, rm] = await Promise.all([sharp(lj).metadata(), sharp(rj).metadata()]);
-  const totalW = (lm.width || 0) + JERSEY_GAP + (rm.width || 0);
-  const startX = W - RIGHT_MARGIN - totalW;
-  composites.push({ input: lj, top: JERSEY_TOP, left: startX });
-  composites.push({ input: rj, top: JERSEY_TOP, left: startX + (lm.width || 0) + JERSEY_GAP });
-}
-
-if (existsSync(cwLogoPath)) {
-  const logo = await sharp(cwLogoPath).resize({ height: 60 }).png().toBuffer();
-  const m = await sharp(logo).metadata();
-  composites.push({ input: logo, top: H - 60 - 44, left: W - (m.width || 200) - 60 });
-}
-
-mkdirSync(resolve(root, "public/images/posts/mlb-daily-tracker"), { recursive: true });
-const out = resolve(root, "public/images/posts/mlb-daily-tracker/cover-branded.jpg");
-await sharp(Buffer.from(svg)).resize(W, H).composite(composites).jpeg({ quality: 86 }).toFile(out);
-console.log("wrote", out);
+const out = process.argv[2];
+const info = await sharp(Buffer.from(svg)).composite(comps).jpeg({ quality: 86 }).toFile(out);
+console.log(`${out} ${info.width}x${info.height} ${Math.round(info.size/1024)}KB`);
