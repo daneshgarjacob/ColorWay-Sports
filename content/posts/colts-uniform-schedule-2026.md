@@ -36,7 +36,17 @@ The build: a dark "Anvil Steel" anthracite jersey and pants with the classic roy
 <img src="/images/posts/colts-uniform-schedule-2026/rivalries-anvil-strike-helmet.jpg" alt="Indianapolis Colts Anvil Strike metallic blue helmet with silver horseshoe logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Indianapolis Colts</p>
 
-Our first take: the helmet is the star, full stop. That metallic blue shell is gorgeous, and honestly it is good enough that Indianapolis could make a case for wearing it every week. The jersey is where we cool off. The anthracite reads as an off-black that does not say much, and a franchise built on one of the cleanest color identities in the sport went to the same dark-neutral well that half the league's alternates already draw from. Put the whole fit together and it reads more Lions than Colts, a grey body under a bright blue lid. The details are genuinely good, the silver horseshoe on the chest and the grommet stripes reward a close look, but the base color keeps it from being special. Full grade coming once we have run through all eight 2026 Rivalries reveals.
+Our verdict: the metallic blue helmet is a beautiful object, and it is stranded on a uniform that has nothing to do with the Indianapolis Colts. That is the whole problem. Take the shell off and what is left is an anthracite jersey and anthracite pants in a color the franchise has never worn, tied to an anvil that appears nowhere in Colts history. This is a club whose entire visual power is subtraction: royal blue, white, a horseshoe, and the discipline to stop there. Anvil Strike answers that with a dark neutral, which is the one direction that identity cannot absorb.
+
+The details make the miss worse rather than better. Putting the horseshoe on a Colts jersey for the first time in franchise history should be a landmark, and instead it arrives as a silver mark on a grey shirt where it barely separates from the fabric. The grommet stripes and the reflective trim are careful work that you will never see past the third row. And the finished silhouette, a grey body under a bright blue lid, belongs to Detroit, which is a genuine identity problem when the entire premise of the program is a uniform built to be unmistakably yours against a rival who knows you best.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #002C5F 0%, #3F4444 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 44, 95, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">F</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">A Gorgeous Helmet Marooned on Someone Else's Uniform</p>
+</div>
+
+We do not hand out many of these, and we are not grading the craftsmanship, which is fine. We are grading the decision. When the best sentence available about a uniform is that its helmet would look tremendous on a different one, the design has failed the assignment. Indianapolis should put that metallic blue shell in the regular rotation and leave the rest of this in the box.
 
 Here is how it slots into the closet next to the white, primary blue, and Indiana Nights sets:
 
@@ -77,7 +87,7 @@ Here is the Indiana Nights set up close, so you can see the black helmet and the
 
 ## The Bottom Line
 
-The Colts' 2026 alternate schedule is well built: the new Anvil Strike Rivalries jersey debuting in Week 3 against the Texans, the clean White Out for the Cowboys in Week 9, and the excellent Indiana Nights closing things out against the Bengals in Week 16. Three home games, three distinct looks, no overlap. Our early read on Anvil Strike is a great helmet on a forgettable jersey, and the full grade lands once we have graded all eight 2026 Rivalries reveals.
+The Colts' 2026 alternate schedule is well built: the new Anvil Strike Rivalries jersey debuting in Week 3 against the Texans, the clean White Out for the Cowboys in Week 9, and the excellent Indiana Nights closing things out against the Bengals in Week 16. Three home games, three distinct looks, no overlap. The scheduling is the strong part. Anvil Strike itself grades an **F** from us, a superb metallic blue helmet attached to an anthracite uniform that has no roots in Indianapolis, and the Week 9 White Out and Week 16 Indiana Nights are both comfortably better nights to look at.
 
 ## Frequently Asked Questions
 

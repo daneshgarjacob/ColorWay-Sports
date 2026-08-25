@@ -21,16 +21,23 @@ If you have seen a team break out a dramatic alternate uniform for a single divi
 
 The wait is over. The NFL unveiled the entire 2026 Rivalries class on Tuesday morning, August 25, covering the AFC South and the NFC North, all eight teams at once. The AFC South sets have names now: Houston's HOUSTON/US, Indianapolis's Anvil Strike, Jacksonville's Bold City, and Tennessee's Music City. Rivalries merchandise for the whole class goes on sale September 1, and each set stays in its team's rotation for three seasons.
 
-Each team's schedule page has the full reveal, our first take, and when the uniform hits the field:
+We have now graded all eight. It is the widest spread the program has produced in either wave: one set we would put straight into a regular rotation, and three we would put back in the box. Each team's schedule page has the full reveal, our grade, and when the uniform hits the field.
 
-- [Houston Texans](/stories/texans-uniform-schedule-2026) — HOUSTON/US: the first white helmet in team history, chrome blue face mask, street-tile stripes. Debuts Week 11 vs the Colts on Thursday Night Football, November 19
-- [Indianapolis Colts](/stories/colts-uniform-schedule-2026) — Anvil Strike: anthracite body, metallic royal blue helmet, first horseshoe ever on the jersey. Debuts Week 3 vs the Texans, September 27, the first 2026 set to see the field
-- [Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026) — Bold City: alabaster jersey, gloss teal helmet with gold face mask, jaguar-spot pants. Debuts Week 8 vs the Colts, November 1
-- [Tennessee Titans](/stories/titans-uniform-schedule-2026) — Music City: two-tone blue, neon numbers, Titans Blue helmet. Debuts Week 10 vs the Jaguars, November 15, now confirmed
-- [Chicago Bears](/stories/bears-uniform-schedule-2026) — "Return of the Monsters": navy and burnt orange, the 1983 GSH patch, orange pants and striped socks. Debuts Week 16 vs the Packers, Christmas Day on Netflix
-- [Detroit Lions](/stories/lions-uniform-schedule-2026) — bone white with carbon-fiber numbers and an electric-blue carbon-striped helmet. Debuts Week 8 vs the Vikings, November 1
-- [Green Bay Packers](/stories/packers-uniform-schedule-2026) — a 1919 fan-ownership tribute: hunter green, stock-certificate striping, cream matte helmet with the Lombardi-era GB logo. Debuts Week 5 vs the Bears, October 11
-- [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — deep purple, ivory, and gold with rune-carved numbers and SKOL in runes on the bumper. Debuts Week 15 vs the Lions on Sunday Night Football, December 20
+**AFC South**
+
+- [Houston Texans](/stories/texans-uniform-schedule-2026) — HOUSTON/US: the first white helmet in team history, chrome blue face mask, street-tile stripes. Debuts Week 11 vs the Colts on Thursday Night Football, November 19. **Our grade: B**
+- [Indianapolis Colts](/stories/colts-uniform-schedule-2026) — Anvil Strike: anthracite body, metallic royal blue helmet, first horseshoe ever on the jersey. Debuts Week 3 vs the Texans, September 27, the first 2026 set to see the field. **Our grade: F**
+- [Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026) — Bold City: alabaster jersey, gloss teal helmet with gold face mask, jaguar-spot pants. Debuts Week 8 vs the Colts, November 1. **Our grade: C+**
+- [Tennessee Titans](/stories/titans-uniform-schedule-2026) — Music City: two-tone blue, neon numbers, Titans Blue helmet. Debuts Week 10 vs the Jaguars, November 15. **Our grade: B-**
+
+**NFC North**
+
+- [Chicago Bears](/stories/bears-uniform-schedule-2026) — "Return of the Monsters": navy and burnt orange, the 1983 GSH patch, orange pants and striped socks. Debuts Week 16 vs the Packers, Christmas Day on Netflix. **Our grade: A-, the best set in the class**
+- [Detroit Lions](/stories/lions-uniform-schedule-2026) — bone white with carbon-fiber numbers and an electric-blue carbon-striped helmet. Debuts Week 8 vs the Vikings, November 1. **Our grade: C**
+- [Green Bay Packers](/stories/packers-uniform-schedule-2026) — a 1919 fan-ownership tribute: hunter green, stock-certificate striping, cream matte helmet with the Lombardi-era GB logo. Debuts Week 5 vs the Bears, October 11. **Our grade: F**
+- [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — deep purple, ivory, and gold with rune-carved numbers and SKOL in runes on the bumper. Debuts Week 15 vs the Lions on Sunday Night Football, December 20. **Our grade: F**
+
+The through line in the three failing grades is the same one: each of those clubs already owns an elite, decades-old identity, and each traded it for set dressing that only works in close-up. Chicago is the counterexample, and it is the reason the Bears set wins. They dug into their own history instead of decorating over it.
 
 ## What the Rivalries Program Is
 

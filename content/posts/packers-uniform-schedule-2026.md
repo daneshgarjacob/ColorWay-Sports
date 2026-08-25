@@ -60,7 +60,17 @@ The design landed with the rest of the 2026 class on August 25, and it delivers 
 <img src="/images/posts/packers-uniform-schedule-2026/rivalries-gb-logo.jpg" alt="Green Bay Packers Rivalries uniform detail card: the interlocking GB logo, a modernized Lombardi-era sideline mark" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
 
-Our first take: this is Green Bay playing it safe, which is very on brand, and the result is minimalist in both the good and the flat sense. The cream helmet is lovely, and the interlocking GB is the find of the set, a genuinely great logo most fans have never seen that deserves to outlive this one-game uniform. Go Pack Go on the back bumper is a charming touch. But the jersey itself is a bit bland, a dark green body that leans entirely on its trim to say anything, and next to what the Bears did with the same rivalry the restraint reads less like confidence and more like a pass. The concept, stock certificates and currency lettering for the only fan-owned team in the league, is the smartest story in the 2026 class; we just wish the uniform told it louder. Full grade once we have run through all eight reveals.
+Our verdict: this is the best story in the 2026 class attached to a uniform you cannot read from your seat. Green Bay is the only fan-owned franchise in American professional sports, the stock certificates are real objects sitting in real living rooms across Wisconsin, and the design team turned that into currency-engraved numerals and hairline borders lifted from the certificate edges. On a detail card, it is superb. At broadcast distance, all of it disappears, and what is left on the field is a green jersey slightly darker than the green jersey Green Bay already wears.
+
+Then there is what it costs to get there. The gold shell with the G is the most recognizable helmet in football and one of the most recognizable objects in American sport, and this set benches it for a cream lid carrying a mark the audience has never been taught. We like the interlocking GB a great deal, enough that it deserves a real future rather than one afternoon, but giving up that helmet has to buy something enormous. It buys a quieter version of the normal uniform.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #203731 0%, #0d1a14 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(32, 55, 49, 0.25); text-align: center;">
+  <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">F</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">A Concept You Cannot See From the Stands · The Wrong Helmet to Give Up</p>
+</div>
+
+The grade is not about restraint. Restraint is Green Bay's best quality and we would defend the regular home uniform against anything in the league. It is about a one-game showcase, on the league's oldest rivalry, in front of the largest audience Lambeau gets, that asks the most storied fan base in the sport to trade the gold helmet for a set whose ideas only exist in close-up.
 
 <img src="/images/posts/packers-uniform-schedule-2026/rivalries-details-gopackgo.jpg" alt="Green Bay Packers Rivalries uniform detail card: Go Pack Go on the back of the helmet and Making History since 1919 inside the collar" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
@@ -71,7 +81,7 @@ The debut is **Week 5 against the Bears, Sunday, October 11 at 3:25 CT at Lambea
 
 ## Packers Fans Get Two Rivalries Looks This Year
 
-Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has confirmed it will debut **its own Rivalries uniform against the Packers on Christmas Day**, which is Week 16 at Soldier Field, and our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has that side of it. So Green Bay is on the field for two different Rivalries debuts in the same season: their own at home, and Chicago's on the road on December 25. No other team has that on its calendar.
+Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has confirmed it will debut **its own Rivalries uniform against the Packers on Christmas Day**, which is Week 16 at Soldier Field, and our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has that side of it. So Green Bay is on the field for two different Rivalries debuts in the same season: their own at home, and Chicago's on the road on December 25. No other team has that on its calendar, and the comparison is not kind. We grade Chicago's set an A-, the best of the 2026 class, and Green Bay's an F. Same rivalry, same program, opposite results.
 
 Minnesota's home schedule adds one more confirmed detail. The Vikings have announced they will wear their **classic uniforms against the Packers**, which is Green Bay's Week 1 trip to Minnesota on September 13. So the season opens with the Packers in road whites opposite a throwback.
 
