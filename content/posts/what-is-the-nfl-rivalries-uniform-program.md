@@ -39,6 +39,32 @@ We have now graded all eight. It is the widest spread the program has produced i
 
 The through line in the three failing grades is the same one: each of those clubs already owns an elite, decades-old identity, and each traded it for set dressing that only works in close-up. Chicago is the counterexample, and it is the reason the Bears set wins. They dug into their own history instead of decorating over it.
 
+The helmets tell a different story from the uniforms, and it is worth reading separately: six of the eight teams changed their shell, and two clubs built genuinely excellent helmets on uniforms we did not rate. We ranked [all eight Rivalries helmets on their own](/stories/nfl-rivalries-helmets-2026-ranked), where Houston finishes sixth despite owning the best facemask in the class, and Indianapolis lands fifth on a set we failed.
+
+## Every 2026 Rivalries Game, All Sixteen Teams
+
+The league published the full wearing schedule alongside the reveal, and this is the part most coverage buried: **all sixteen Rivalries teams wear their sets in 2026**, the eight new clubs and the eight from the 2025 class. Here is every date on the calendar, in order.
+
+<div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #013369 0%, #101820 100%); border-radius: 16px; border: 2px solid #ffffff;">
+  <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">The Full 2026 Rivalries Calendar</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 2</strong> &middot; Cardinals vs. Seahawks &middot; September 20</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 3</strong> &middot; Colts vs. Texans &middot; September 27</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 5</strong> &middot; Packers vs. Bears &middot; October 11</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 8</strong> &middot; Lions vs. Vikings, and Jaguars vs. Colts &middot; November 1</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 10</strong> &middot; Titans vs. Jaguars &middot; November 15</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 11</strong> &middot; Bills vs. Dolphins &middot; November 22</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 11</strong> &middot; Texans vs. Colts &middot; November 19, Thursday night</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 13</strong> &middot; Patriots vs. Bills &middot; December 6</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 14</strong> &middot; 49ers vs. Rams &middot; December 13</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 15</strong> &middot; Vikings vs. Lions &middot; December 20, Sunday night</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 16</strong> &middot; Seahawks vs. Rams, both in Rivalries &middot; December 25</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 16</strong> &middot; Bears vs. Packers &middot; December 25, Netflix</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 16</strong> &middot; Jets vs. Patriots &middot; December 27</p>
+  <p style="font-size: 0.98em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ec5ff;">Week 17</strong> &middot; Dolphins vs. Bills &middot; January 3</p>
+</div>
+
+Two things jump out of that calendar. **Christmas Day carries three Rivalries uniforms**, including the Seahawks and Rams wearing theirs against each other, the first time the program has put both teams in their sets in the same game. And **Buffalo appears in three different Rivalries games**, wearing its own Cold Front in Week 11 and then standing across from New England's Nor'easter and Miami's Dark Water in the closing month. No team is more central to the program's 2026 calendar without being in this year's class.
+
 ## What the Rivalries Program Is
 
 The NFL Rivalries program is a Nike initiative that gives a rotating group of teams a brand-new alternate uniform designed specifically to be worn against a division rival. The whole point is the matchup. Instead of a generic alternate a team can wear whenever, a Rivalries uniform is tied to the games that matter most on the schedule, the ones against the teams in your own division that you play twice a year and usually cannot stand.

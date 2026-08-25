@@ -1,8 +1,8 @@
 ---
-title: "New England Patriots 2026 Uniform Schedule: Every Jersey, Every Week, and the Nor'easter Rivalries Question"
+title: "New England Patriots 2026 Uniform Schedule: Every Jersey, Every Week, and the Confirmed Nor'easter Rivalries Game"
 category: NFL
 date: "2026-08-16"
-excerpt: "The Patriots own the Storm Blue Nor'easter and the Pat Patriot throwback, and have announced no dates. Here is the full 2026 jersey schedule, week by week."
+excerpt: "The Nor'easter Rivalries uniform is confirmed for Week 13 against Buffalo. Here is the full Patriots 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -41,7 +41,7 @@ Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The s
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Munich</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · SNF</div></div>
-  <div style="background: #eceff3; color: #4a4a4a; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy or Rivalries</div></div>
+  <div style="background: #002244; color: #ffffff; border: 2px solid #C60C30; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Nor'easter</div></div>
   <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy · TNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -49,19 +49,21 @@ Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The s
   <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
 </div>
 
-**Nothing on that grid is confirmed by the team.** The grid follows the standard rule, navy at home and white on the road, with Week 13 left open for the reason below.
+**One game is now confirmed: Week 13 against Buffalo is the Nor'easter Rivalries game.** Everything else on the grid follows the standard rule, navy at home and white on the road.
 
-## The Nor'easter Rivalries Uniform (Reported, Not Confirmed)
+## The Nor'easter Rivalries Uniform (Week 13 vs. Bills, Confirmed)
 
 New England already owns its Rivalries uniform. The Patriots were in the **2025** class of the NFL x Nike Rivalries program alongside the rest of the AFC East, and the set is called **Nor'easter**: a Storm Blue jersey with **six stars on the neckline for the six New England states**, built around the region's maritime history. It debuted on a Thursday night against the Jets.
 
 Clubs in an earlier class can wear their set again in later seasons, so a 2026 appearance is entirely normal. The question is only when.
 
-**What is actually reported:** the uniform tracker account @PatsUnis, citing a Pro Shop retail listing, said New England would wear it in **Week 13 against Buffalo**. The game is real and correctly slotted, Sunday, December 6 at 4:25 on CBS, and a home game against a division rival is exactly where a Rivalries uniform belongs.
+**It is now official.** The NFL published the full 2026 Rivalries wearing schedule on August 25, and New England is down for **Week 13 against Buffalo**, Sunday, December 6 at 4:25 on CBS at Gillette Stadium. That is the game the reporting had pointed at for weeks, and it is exactly where a Rivalries uniform belongs: at home, against a division rival.
 
-**What does not exist:** any official source. Patriots.com has published a schedule but no uniform schedule and no home-game themes page. The claim traces back to a retail listing interpreted by a fan account.
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Patriots/status/2092264479526363229"></a></blockquote>
+</div>
 
-We are leaving Week 13 marked open rather than putting Rivalries on the grid. If the team confirms it, this page changes the same day.
+Nor'easter remains one of the few Rivalries uniforms that solved its brief properly. Most of the program reaches for a city; New England reached for a region, which is the honest way to dress a team that represents six states and plays in none of the cities it is named after.
 
 ## The Pat Patriot Throwback
 
@@ -86,7 +88,7 @@ That means New England wears white and the Lions wear Honolulu blue. Patriots.co
 ## How the Patriots Rotation Works in 2026
 
 1. **Navy at home, white on the road**, unless the team designates otherwise.
-2. **The Nor'easter Rivalries set exists** and can be worn again, but no date is official. Week 13 vs Buffalo is reported only.
+2. **The Nor'easter Rivalries set is confirmed for Week 13** at home against Buffalo on December 6.
 3. **No Pat Patriot throwback date** has been announced.
 4. **Munich is a road game.** White, not navy.
 5. **Pants and helmet combinations** are a week-of call, as they are for every club.
@@ -95,7 +97,7 @@ That means New England wears white and the Lions wear Honolulu blue. Patriots.co
 
 New England has the pieces for a good uniform season and has committed to none of it publicly. Nor'easter is one of the few Rivalries uniforms that solved its brief properly, using a region rather than a city, and Pat Patriot remains the best logo the franchise has ever had.
 
-Week 13 against Buffalo is the date to watch. It is the right game for the uniform and the reporting points there. It is just not official yet.
+Week 13 against Buffalo is now on the board officially, and it is the right game for the uniform. What is still missing is a Pat Patriot date, which remains the biggest unspent asset on this schedule.
 
 ## Frequently Asked Questions
 
@@ -113,7 +115,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **When do the Patriots wear the Rivalries uniform in 2026?**
 
-No date is official. A fan account citing a Pro Shop listing reported Week 13 against Buffalo on December 6, and that is the most likely game, but the team has not confirmed it.
+Once, at home in Week 13 against the Buffalo Bills on Sunday, December 6 at 4:25 on CBS. The NFL confirmed the date on August 25 as part of the league-wide Rivalries wearing schedule.
 
 **What is the Patriots Nor'easter uniform?**
 

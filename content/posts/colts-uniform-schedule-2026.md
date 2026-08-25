@@ -33,7 +33,7 @@ Indianapolis is part of the 2026 class of the NFL x Nike Rivalries program, and 
 
 The build: a dark "Anvil Steel" anthracite jersey and pants with the classic royal blue numbers, an updated shoulder-pad stripe with horseshoe-inspired grommets, high-shine reflective accents, and, for the first time in team history, the horseshoe stitched onto the jersey itself as a silver metallic mark. On top of it all sits a metallic royal blue helmet with a silver horseshoe, a high-gloss version of the most famous shell in football.
 
-<img src="/images/posts/colts-uniform-schedule-2026/rivalries-anvil-strike-helmet.jpg" alt="Indianapolis Colts Anvil Strike metallic blue helmet with silver horseshoe logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<img src="/images/posts/colts-uniform-schedule-2026/rivalries-anvil-strike-helmet.jpg" alt="Indianapolis Colts Anvil Strike detail, the first horseshoe on a Colts jersey rendered in silver metallic, with the royal blue helmet and INDY bumper behind it" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Indianapolis Colts</p>
 
 Our verdict: the metallic blue helmet is a beautiful object, and it is stranded on a uniform that has nothing to do with the Indianapolis Colts. That is the whole problem. Take the shell off and what is left is an anthracite jersey and anthracite pants in a color the franchise has never worn, tied to an anvil that appears nowhere in Colts history. This is a club whose entire visual power is subtraction: royal blue, white, a horseshoe, and the discipline to stop there. Anvil Strike answers that with a dark neutral, which is the one direction that identity cannot absorb.
