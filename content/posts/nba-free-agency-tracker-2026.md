@@ -4,8 +4,8 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-07-28"
-excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Jaylen Brown to the Sixers, and more. Updated all summer."
+updatedDate: "2026-08-25"
+excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Klay Thompson to the Heat, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -49,6 +49,16 @@ This is the colorway swap of the decade. Giannis Antetokounmpo spent every seaso
 </div>
 
 The Heat followed the presser with the full jersey reveal, and the white Association set with the red, black, and yellow side striping already looks like it was built for him. A player this singular changing teams is rare enough. Watching him trade one iconic colorway for another is the sort of visual moment that only comes along a few times a decade.
+
+## Klay Thompson, Miami Heat
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2092377241816576173"></a></blockquote>
+</div>
+
+Klay Thompson in Heat red is the second Miami colorway swap of the summer that stops you mid-scroll, and it lands differently than the Giannis one. Thompson wore Warriors blue and gold for eleven seasons and four championships, then two years of Mavericks blue that never quite looked right on him, and Miami's red, black and white is the first identity since Golden State that actually suits the way he plays. He arrives on a two-year deal after a Dallas buyout and clearing waivers, and he is back in **No. 11**, the number he wore at Washington State before the 11 he made famous in the Bay.
+
+The uniform math works in his favor. Miami's red Icon jersey is one of the cleanest primary looks in the league, all sharp black-and-yellow side striping over a saturated red, and it photographs like nothing else in the East. Thompson has spent his whole career in a cool-toned palette, so seeing him in warm red is the kind of visual jolt this tracker exists for.
 
 ## LaMelo Ball, Minnesota Timberwolves
 
