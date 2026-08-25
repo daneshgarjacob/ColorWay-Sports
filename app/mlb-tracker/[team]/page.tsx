@@ -220,6 +220,22 @@ export default async function TeamTrackerPage({
           scheduleHref={meta.scheduleHref}
         />
 
+        {/* Quick nav: the two things every team-searcher wants, one tap away */}
+        <nav className="max-w-[860px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
+          <a
+            href={meta.scheduleHref}
+            className="flex-1 min-w-[220px] text-center bg-[#2f6bed] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
+          >
+            {entry.name} Uniform Schedule &rarr;
+          </a>
+          <a
+            href="#calendar"
+            className="flex-1 min-w-[220px] text-center border-2 border-[#2f6bed] text-[#2f6bed] text-[15px] font-bold px-5 py-3 rounded-xl hover:bg-[#2f6bed]/5 transition-colors"
+          >
+            Uniform Calendar &darr;
+          </a>
+        </nav>
+
         {entry.games.length === 0 ? (
           <section className="max-w-[860px] mx-auto px-5 pt-12">
             <p className="text-[15px] text-black/60">
@@ -281,7 +297,7 @@ export default async function TeamTrackerPage({
             </section>
 
             {/* Visual calendar */}
-            <section className="max-w-[860px] mx-auto px-5 pt-12">
+            <section id="calendar" className="max-w-[860px] mx-auto px-5 pt-12 scroll-mt-24">
               <h2 className="text-[13px] font-extrabold uppercase tracking-[0.18em] text-blue-dark mb-1">
                 The Calendar
               </h2>
