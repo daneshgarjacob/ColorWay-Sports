@@ -101,4 +101,6 @@ No. Reverse Retro was an adidas program that took real uniforms from a team's hi
 **How many games will teams wear the Hometown Remix jersey?**
 The NHL has not said.
 
+<div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More NHL design</p><a href="/stories/canadiens-new-center-ice-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Montreal's New Center Ice for 2026-27, Graded</a><a href="/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">The Stanley Cup Playoffs Ice Logo, Explained</a></div>
+
 *Hometown Remix logo via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
