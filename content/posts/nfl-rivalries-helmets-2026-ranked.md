@@ -24,6 +24,9 @@ This is a different exercise from [our grades on the full uniforms](/stories/wha
 
 ## 8. Minnesota Vikings
 
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-vikings.jpg" alt="Minnesota Vikings Rivalries helmet, matte deep purple shell with a gold face mask, gold knot crown stripe, the white horn, and SKOL in rune characters on the bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Minnesota Vikings</p>
+
 The gold facemask is the reason this finishes last, and it is not close.
 
 Minnesota's helmet works in its normal form because the white horn wraps a deep purple shell and a light cage keeps the front of it sharp. Swapping in gold does the opposite of everything that helmet does well. It closes the face down, it drags the whole thing toward costume, and it turns the crispest front-of-helmet in the division into something muddy. Add the gold knot stripe over the crown and the rune inscription on the bumper, and you have three separate ideas competing for the same square inches.
@@ -31,6 +34,9 @@ Minnesota's helmet works in its normal form because the white horn wraps a deep 
 The rune bumper is the clearest symptom. It is the most prominent type on the helmet and it communicates nothing to anyone in the stadium, because it is an alphabet essentially nobody reads. Interesting on a detail card, invisible in a game.
 
 ## 7. Green Bay Packers
+
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-packers.jpg" alt="Green Bay Packers Rivalries helmet, the first matte finish in team history in cream with a green and gold center stripe and a matte green face mask" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Green Bay Packers</p>
 
 The cream matte shell is genuinely handsome, and it still lands seventh, because of what it costs.
 
@@ -40,6 +46,9 @@ The mark itself is lovely. We said in [our Packers writeup](/stories/packers-uni
 
 ## 6. Houston Texans
 
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-texans.jpg" alt="Houston Texans Rivalries helmet, the first white shell in franchise history with a tiled red and blue center stripe, chrome blue face mask, and H-TOWN front bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Houston Texans</p>
+
 Houston built the best facemask in the entire class and bolted it to the shell that gets the least out of it.
 
 That chrome blue cage is superb, a genuine piece of hardware design, and the white shell behind it is a real occasion: the first white helmet in Texans history and a direct tribute to the prototype Robert McNair held up in 1999. Everything about the setup is right except the decision in the middle of it.
@@ -47,6 +56,9 @@ That chrome blue cage is superb, a genuine piece of hardware design, and the whi
 The gothic H-Town H is a nice mark that belongs on a hat. The bullhead is one of the strongest primary logos in the league and it has never appeared on a white shell. Houston had a once-in-franchise-history canvas and put its secondary logo on it. Sixth is the price of that call, and the facemask is the only reason it is not lower.
 
 ## 5. Indianapolis Colts
+
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-colts.jpg" alt="Indianapolis Colts Anvil Strike helmet, a high-gloss metallic royal blue shell with a black center stripe and an INDY front bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Indianapolis Colts</p>
 
 A beautiful helmet in a vacuum, and a top-two helmet if you judge it with your eyes closed to the rest of the uniform.
 
@@ -56,6 +68,9 @@ It lands fifth because a helmet is not judged in a vacuum. Underneath it is an a
 
 ## 4. Jacksonville Jaguars
 
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-jaguars.jpg" alt="Jacksonville Jaguars Bold City helmet, a gloss teal shell with a metallic gold face mask, the sun-washed jaguar logo, and a 904 front bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Jacksonville Jaguars</p>
+
 The gloss teal shell with the metallic gold cage is one of the best-looking individual pieces of the year, and it makes an argument Jacksonville should have made a decade ago.
 
 Teal is the one thing in this franchise's identity that nobody else in football owns, and putting it on the helmet instead of burying it under a black shell is the correct instinct. The gold facemask is the right partner for it, warm against the cool teal, and the sun-washed logo sits well on the gloss.
@@ -63,6 +78,9 @@ Teal is the one thing in this franchise's identity that nobody else in football 
 What keeps it out of the top three is the bumper. The 904 is the third area-code reference we have graded this year, and the trend has gone from local to lazy. A helmet this good deserved something with more thought on the front of it.
 
 ## 3. Detroit Lions
+
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-lions.jpg" alt="Detroit Lions Rivalries helmet, a metallic electric blue shell with glossy carbon-fiber racing stripes, a carbon-fiber lion logo, and a DETROIT front bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Detroit Lions</p>
 
 The most improved helmet in the class, and by a distance.
 
@@ -72,6 +90,9 @@ It finishes third rather than higher for one honest reason: the classic silver L
 
 ## 2. Tennessee Titans
 
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-titans.jpg" alt="Tennessee Titans Music City helmet, a Titans Blue shell with the circular navy T logo, navy crown stripes and a black face mask" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Tennessee Titans</p>
+
 The best thing Tennessee has made since the rebrand, and the only helmet here we would happily see promoted past one game a season.
 
 The Titans Blue shell is the headline, because the new base set runs a white helmet and this is the first time the light blue has appeared on the crown of anything. The circular navy T with the three stars sits perfectly on it, the navy crown stripes give it a spine, and the black facemask keeps the whole thing anchored instead of letting the light blue float.
@@ -79,6 +100,9 @@ The Titans Blue shell is the headline, because the new base set runs a white hel
 It is also the rare Rivalries helmet that improves the uniform it comes with. We were lukewarm on the Music City jersey underneath, but the helmet is doing so much work that the whole look survives on it. Second only because the team above it built something with more history behind it.
 
 ## 1. Chicago Bears
+
+<img src="/images/posts/nfl-rivalries-helmets-2026-ranked/helmet-bears.jpg" alt="Chicago Bears Rivalries helmet, the burnt orange shell with the navy wishbone C, a revamped classic BEARS wordmark on the bumper, and the four stars of the Chicago flag" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Chicago Bears</p>
 
 The orange shell was always going to be the best helmet in this class. What earns the top spot is everything Chicago put on it.
 
