@@ -36,10 +36,10 @@ Four things are different from the floor Denver played on last season.
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FEC524;">Center Logo</strong> &middot; Noticeably smaller than last season's</p>
 </div>
 
-Here is last season's floor for comparison. The difference in the borders is the one you cannot miss.
+Here they are stacked, new floor on top and last season's underneath. The borders and the center logo are the two you cannot miss.
 
-<img src="/images/posts/nuggets-court-2026-27/nuggets-court-2025-26.png" alt="The Denver Nuggets 2025-26 court at Ball Arena, with navy out-of-bounds borders and a large center logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">The 2025-26 Nuggets floor, via LockerVision</p>
+<img src="/images/posts/nuggets-court-2026-27/court-comparison.jpg" alt="Denver Nuggets court comparison: the new 2026-27 floor with wood borders and a smaller center logo above the 2025-26 floor with navy borders and a larger center logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">New 2026-27 floor via the Denver Nuggets; 2025-26 floor via LockerVision</p>
 
 ## The Navy Borders Are the Real Loss
 
