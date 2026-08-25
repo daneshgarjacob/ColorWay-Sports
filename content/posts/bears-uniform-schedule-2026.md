@@ -2,8 +2,8 @@
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-08-24"
-excerpt: "The Bears wear their new Rivalries uniform exactly once, on Christmas Day against the Packers. Here is the full 2026 jersey schedule, week by week."
+updatedDate: "2026-08-25"
+excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 cardStyle: words
 logoSrc: "/logos/leagues/nfl.png"
@@ -12,7 +12,7 @@ league: nfl
 teams: ["chicago-bears"]
 ---
 
-The Bears have one confirmed uniform date in 2026 and they could not have picked a better one. Chicago debuts its new Nike Rivalries uniform on **Christmas Day against the Green Bay Packers at Soldier Field**, on Netflix, in the oldest rivalry in the sport. They wear it exactly once all season. Here is the full Chicago Bears 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything that is still a projection.
+The Bears have one confirmed uniform date in 2026 and they could not have picked a better one. Chicago debuts its new Nike Rivalries uniform, revealed August 25 and built on the Monsters of the Midway, on **Christmas Day against the Green Bay Packers at Soldier Field**, on Netflix, in the oldest rivalry in the sport. They wear it exactly once all season. Here is the full Chicago Bears 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything that is still a projection.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -50,11 +50,24 @@ Nine home games in navy, eight road games in white, one Rivalries game on Christ
 
 Only Week 16 is confirmed by the team. Everything else follows the standard rule, which for Chicago is about as reliable as it gets: navy at Soldier Field, white on the road. The Bears have no announced alternate date beyond the Rivalries game, so unless something is added later, that grid is the season.
 
-## The Rivalries Uniform (Week 16, Christmas Day, Confirmed)
+## The Rivalries Uniform, Revealed (Week 16, Christmas Day)
 
-Chicago is part of the 2026 class of the NFL x Nike Rivalries program, which is rolling through the league division by division. The NFC North gets its turn this year, and the Bears will wear their set **one time**: Friday, December 25, at noon Central, at home against Green Bay on Netflix.
+<img src="/images/posts/bears-uniform-schedule-2026/rivalries-monsters-group.jpg" alt="Chicago Bears Rivalries uniform reveal, two players in the navy jersey with orange numbers, GSH patch, and orange pants, dated 12.25.26" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Chicago Bears</p>
 
-The uniform itself has not been fully revealed yet, but that changes Tuesday: the league unveils the entire 2026 Rivalries class on the morning of August 25. We will grade it the day it drops.
+The reveal landed Tuesday morning under the banner "Return of the Monsters," and it is the Bears' heritage run through a modern filter. The navy jersey carries burnt orange numbers with white trim drawn from the 1948 era, the three-stripe sleeve trim dates to the 1930s, and the front of the jersey wears the football-shaped GSH patch for George Halas, a direct replica of the memorial patch the team wore in 1983. The pants are orange, the socks run the navy-and-orange stripes, and the orange helmet gets a revamped classic BEARS wordmark on the bumper plus the four stars of the Chicago flag on the rear stripe. "Monsters of the Midway" is stitched inside the collar, and the old crawling-bear-over-the-football Chicago logo is back in the identity package.
+
+Our first take: this is the one to beat. Everything the concept promises actually shows up on the uniform, the orange number pop against the navy, the sock striping, the shoulder stripes, the helmet treatment, and it all reads as a throwback with a modern build rather than a costume. The GSH patch is the detail of the entire 2026 class, a real piece of franchise history put back exactly where it lived. It is the rare alternate that feels like it could be a primary, which is fitting for a team whose primaries we already love. Full grade once we have run through all eight reveals, but this is the early leader.
+
+<img src="/images/posts/bears-uniform-schedule-2026/rivalries-built-for-balance.jpg" alt="Chicago Bears Rivalries uniform: player seated with orange helmet, navy jersey, orange pants, and striped socks" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Chicago Bears</p>
+
+<img src="/images/posts/bears-uniform-schedule-2026/rivalries-gsh-patch.jpg" alt="The Bears Rivalries GSH football-shaped patch next to the original 1983 version" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Chicago Bears</p>
+
+Chicago wears the set **one time**: Friday, December 25, at noon Central, at home against Green Bay on Netflix. Like every Rivalries set, it stays in the rotation for three seasons.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520bears%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 The scheduling here is close to perfect. Rivalries jerseys are supposed to be worn against the rival they were designed around, and Bears versus Packers is the oldest rivalry in the NFL, 200-plus meetings deep. Putting the debut on Christmas Day, in the noon window, on a streaming platform that has made the holiday slate its own event, is the single largest audience Chicago will have all year. If you are only going to wear a uniform once, wear it then.
 
@@ -93,7 +106,7 @@ Chicago has an orange alternate in the closet and has used it in recent seasons,
 
 The Bears are running one of the smallest closets in the NFL and it does not cost them a thing, because the thing they own is already great. Navy and orange, the wishbone C, and sixty years of not messing with it.
 
-The one swing they are taking is well placed. A brand-new Rivalries uniform, debuting against Green Bay, on Christmas Day, at Soldier Field, on Netflix. That is the biggest stage the franchise will have this season and they are using it on the rivalry that defines them. Whatever the uniform turns out to look like, the scheduling is an A.
+The one swing they are taking is well placed. A brand-new Rivalries uniform, debuting against Green Bay, on Christmas Day, at Soldier Field, on Netflix. That is the biggest stage the franchise will have this season and they are using it on the rivalry that defines them. And now that we have seen the uniform, navy and burnt orange with the 1983 GSH patch and orange pants, the design deserves the stage. The scheduling was always an A; the uniform is our early favorite of the entire 2026 class.
 
 ## Frequently Asked Questions
 
@@ -119,7 +132,7 @@ Once, in Week 16 on Christmas Day, Friday, December 25 at noon Central, at home 
 
 **Have the Bears revealed their Rivalries uniform?**
 
-Not yet. Chicago is in the 2026 NFC North class of the NFL x Nike Rivalries program and has confirmed the date but not the design. The league-wide reveal comes Tuesday morning, August 25, and we will grade it here the moment it is unveiled.
+Yes, on August 25. It is a navy jersey with burnt orange, white-trimmed numbers inspired by 1948, the football-shaped GSH patch replicating the one worn in 1983 for George Halas, orange pants, striped socks, and the orange helmet with a classic BEARS wordmark bumper and the four Chicago-flag stars. "Monsters of the Midway" is stitched inside the collar. It stays in the rotation for three seasons.
 
 **Will the Bears wear their orange jersey in 2026?**
 

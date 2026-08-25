@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-24"
+updatedDate: "2026-08-25"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words
@@ -12,7 +12,7 @@ league: nfl
 teams: ["green-bay-packers"]
 ---
 
-Green Bay is getting a new uniform this year, and almost nothing about it is public yet. The Packers are part of the 2026 Rivalries wave alongside the rest of the NFC North, which means one brand-new alternate worn once, at a home game against a division rival. The reveal is reported to be coming on **August 25**, when the NFL is expected to unveil the 2026 Rivalries sets league-wide, so the design and the date should both land this month. Here is the Packers 2026 uniform schedule week by week, and the three games the new uniform has to be one of.
+Green Bay is getting a new uniform this year, and now we have seen all of it. The Packers are part of the 2026 Rivalries wave alongside the rest of the NFC North, and their set arrived at the league-wide reveal on August 25: a vintage 1919-inspired look with a cream matte helmet, the old interlocking GB logo, and a debut confirmed for **Week 5 against the Bears on October 11**. Here is the Packers 2026 uniform schedule week by week, with the new uniform where it lands.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -48,15 +48,24 @@ Nine home games, eight on the road, and a Week 11 bye.
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Green Bay has not published a game-by-game uniform schedule, so the grid follows the standard home-and-away rotation. The <strong>new Rivalries uniform is not marked</strong> because its date has not been announced; it will replace one of the green home weeks. The Packers have also carried an all-white alternate in recent seasons with no confirmed 2026 date. We will update this page once the Rivalries uniform is revealed.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Green Bay has not published a game-by-game uniform schedule, so the grid follows the standard home-and-away rotation with one confirmed exception: <strong>Week 5 against the Bears is the Rivalries game</strong>, starred above. The Packers have also carried an all-white alternate in recent seasons with no confirmed 2026 date.</p>
 
-## The New Rivalries Uniform (Week 5 vs. Bears, Confirmed)
+## The Rivalries Uniform, Revealed (Week 5 vs. Bears)
 
-The Rivalries program gives a team one bespoke alternate, worn once a season at a home game against a division opponent. The 2025 wave covered the AFC East and NFC West and produced Buffalo's Cold Front and Miami's Dark Water. The 2026 wave brings in the AFC South and the NFC North, so all four of Green Bay, Chicago, Detroit and Minnesota get one.
+<img src="/images/posts/packers-uniform-schedule-2026/rivalries-hero-collage.jpg" alt="Green Bay Packers Rivalries uniform reveal collage: cream matte helmet with interlocking GB logo, dark green jersey, and the October 11 date against the Bears" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
 
-**The date is now confirmed: Week 5 against the Bears, Sunday October 11 at Lambeau Field.** Green Bay teased the set on August 12 and named the debut game with it, which is the call we had projected here, and for the reason we gave: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry.
+The design landed with the rest of the 2026 class on August 25, and it delivers on what Packers president Ed Policy promised: a uniform built around the club's fan ownership, wrapped in a vintage 1919 package. The jersey is a darker hunter green with cream and gold trim, the number font is modeled on the intricate lettering of paper currency, a nod to the fans whose money has kept the franchise alive, and the delicate striping throughout echoes the ornate borders on actual Packers stock certificates. The chest and the back of the helmet carry an interlocking GB logo, a modernized version of a classic mark that appeared on Vince Lombardi-era sideline and practice gear, predating the iconic G. The helmet is cream with the first matte finish in team history, paired with the first matte green face mask, "GO PACK GO" printed on the rear bumper, and "Making History since 1919" embroidered inside the collar. Cream pants finish it.
 
-Packers president Ed Policy has said the design leans on the club's ownership structure, describing a uniform that will "celebrate owners and emphasize our uniqueness." The full look has not been revealed yet. We will grade it the day it drops.
+<img src="/images/posts/packers-uniform-schedule-2026/rivalries-gb-logo.jpg" alt="Green Bay Packers Rivalries uniform detail card: the interlocking GB logo, a modernized Lombardi-era sideline mark" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
+
+Our first take: this is Green Bay playing it safe, which is very on brand, and the result is minimalist in both the good and the flat sense. The cream helmet is lovely, and the interlocking GB is the find of the set, a genuinely great logo most fans have never seen that deserves to outlive this one-game uniform. Go Pack Go on the back bumper is a charming touch. But the jersey itself is a bit bland, a dark green body that leans entirely on its trim to say anything, and next to what the Bears did with the same rivalry the restraint reads less like confidence and more like a pass. The concept, stock certificates and currency lettering for the only fan-owned team in the league, is the smartest story in the 2026 class; we just wish the uniform told it louder. Full grade once we have run through all eight reveals.
+
+<img src="/images/posts/packers-uniform-schedule-2026/rivalries-details-gopackgo.jpg" alt="Green Bay Packers Rivalries uniform detail card: Go Pack Go on the back of the helmet and Making History since 1919 inside the collar" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
+
+The debut is **Week 5 against the Bears, Sunday, October 11 at 3:25 CT at Lambeau Field**, exactly the game we had projected: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry. Like every Rivalries set, it stays in the rotation for three seasons.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
@@ -90,11 +99,11 @@ Green Bay has run an all-white alternate for the last couple of seasons, and has
 
 **What jersey are the Packers wearing today?**
 
-Green at Lambeau and white on the road. Green Bay also has a new Rivalries uniform coming for one game and an all-white alternate in the closet, but neither date has been announced yet, so the week-by-week grid above is the base rotation.
+Green at Lambeau and white on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The all-white alternate remains in the closet with no announced 2026 date.
 
 **What jerseys are the Packers wearing this week?**
 
-Green at Lambeau and white on the road. Green Bay also has a new Rivalries uniform coming for one game and an all-white alternate in the closet, but neither date has been announced yet, so the week-by-week grid above is the base rotation.
+Green at Lambeau and white on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The all-white alternate remains in the closet with no announced 2026 date.
 
 **What uniform did the Packers wear last week?**
 
@@ -102,13 +111,13 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Packers wearing next week?**
 
-Green at home, white on the road. The one Rivalries date is still unannounced.
+Green at home, white on the road, and the Rivalries uniform in Week 5.
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
-The date has not been announced. Rivalries uniforms are worn once a season at a home game against a division opponent, which leaves three possibilities for Green Bay: Week 5 against the Bears on October 11, Week 10 against the Vikings on November 15, or the Week 18 finale against the Lions.
+Once, in Week 5 against the Chicago Bears on Sunday, October 11 at 3:25 CT at Lambeau Field. The date was confirmed alongside the August 25 reveal, and the set stays in the rotation for three seasons.
 
-**What will the Packers Rivalries uniform look like?**
-It has not been revealed. The 2026 Rivalries uniforms are reported to be unveiled league-wide on August 25. Packers president Ed Policy has said the design will celebrate the club's ownership structure.
+**What does the Packers Rivalries uniform look like?**
+A vintage 1919-inspired set revealed August 25: a darker hunter green jersey with cream and gold trim, currency-inspired number lettering, striping drawn from Packers stock certificates, the interlocking Lombardi-era GB logo on the chest, and a cream helmet with the first matte finish and matte green face mask in team history, with "GO PACK GO" on the rear bumper. It celebrates the club's fan ownership.
 
 **Do the Bears wear their Rivalries uniform against the Packers?**
 Yes. Chicago has confirmed it will debut its Rivalries uniform against Green Bay on Christmas Day, Week 16 at Soldier Field. That means the Packers appear in two different Rivalries debuts in 2026.
@@ -117,7 +126,7 @@ Yes. Chicago has confirmed it will debut its Rivalries uniform against Green Bay
 The green jersey with gold pants at home, and the white jersey with gold pants on the road.
 
 **Is the full Packers 2026 uniform schedule official?**
-No. Green Bay has not published a game-by-game uniform schedule. The grid follows the standard home-and-away rotation, and the Rivalries game will replace one of the green home weeks once the date is confirmed.
+No. Green Bay has not published a game-by-game uniform schedule. The grid follows the standard home-and-away rotation, with the confirmed Rivalries game in Week 5 as the one exception.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

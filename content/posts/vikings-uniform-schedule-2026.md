@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-24"
+updatedDate: "2026-08-25"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -70,13 +70,13 @@ Home games carry the confirmed jersey. Road games follow the white road set, whi
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #1f1030; color: #ffffff; border: 2px dashed #FFC62F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #FFC62F;">★ Rivalries</div></div>
+  <div style="background: #1f1030; color: #ffffff; border: 2px solid #FFC62F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #FFC62F;">★ Rivalries</div></div>
   <div style="background: #ffffff; color: #4F2683; border: 2px solid #4F2683; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Winter Warrior</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid can and cannot promise: every ★ is <strong>officially confirmed by the Vikings</strong>, and that covers all nine home games at U.S. Bank Stadium. The eight road games are the white road set, which is the standard away look but has not been announced week by week, and that includes Week 11 in Mexico City, where San Francisco is the designated home team. Pant colors on the road are an equipment-staff call the week of each game. The Week 16 and Week 18 dates are still open because the league holds late-season windows for flexible scheduling, and the Rivalries uniform itself has not been unveiled yet.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid can and cannot promise: every ★ is <strong>officially confirmed by the Vikings</strong>, and that covers all nine home games at U.S. Bank Stadium. The eight road games are the white road set, which is the standard away look but has not been announced week by week, and that includes Week 11 in Mexico City, where San Francisco is the designated home team. Pant colors on the road are an equipment-staff call the week of each game. The Week 16 and Week 18 dates are still open because the league holds late-season windows for flexible scheduling. The Rivalries uniform was revealed on August 25.</p>
 
 ## Classic Throwback (Week 1, Confirmed)
 
@@ -86,16 +86,22 @@ This is the right uniform for the occasion and the right occasion for the unifor
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Classic Throwback on Fanatics →</a>
 
-## Week 15 vs. Lions: The New "Rivalries" Jersey Debuts
+## Week 15 vs. Lions: The "Rivalries" Uniform, Revealed
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0;"><img src="/images/posts/vikings-uniform-schedule-2026/week-15-rivalries.jpg" alt="Minnesota Vikings Week 15 Rivalries uniform announcement vs the Detroit Lions on December 20 at 7:20 PM" style="width: 100%; max-width: 420px; border-radius: 12px;" /></div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: -0.5em;">via the Minnesota Vikings</p>
+<img src="/images/posts/vikings-uniform-schedule-2026/rivalries-group.jpg" alt="Minnesota Vikings Rivalries uniform reveal, players in the deep purple jersey with ivory and gold rune-carved numbers and Nordic knot trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Minnesota Vikings</p>
 
-The headliner is the debut of Minnesota's entry in the NFL x Nike Rivalries program, the league-wide initiative that gives teams a special jersey built specifically around a division rival. The Vikings will unveil the actual uniform closer to the game, so we do not have the final look yet, but we know exactly when it drops: **Sunday, December 20 at 7:20 PM on Sunday Night Football against the Detroit Lions**, which is also the team's Walter Payton NFL Man of the Year game.
+The design landed with the rest of the 2026 class on August 25, and it goes all the way into Norse territory. The base is a deep "Purple Dynasty" shade paired with ivory and metallic gold, the two-tone numbers are cut to look chiseled from stone like runes, and a new chiseled VIKINGS wordmark matches them. A Nordic knot pattern drawn from the Gjallarhorn at U.S. Bank Stadium wraps the shoulders and runs down the pants, coming to a point meant to symbolize a sword. The matte purple helmet keeps the ivory horn, adds a gold knot stripe and a gold face mask, and puts SKOL on the front bumper transcribed into actual Viking Age rune characters, with the bumper's point mimicking the nose piece on a historical Viking helmet.
 
-That is about as good a debut slot as a jersey can get. A prime-time NFC North game against the Lions, the whole country watching, and a new uniform coming out of the tunnel for the first time. Rivalries jerseys live or die on whether the design actually says something about the matchup, and putting the reveal on national TV against the exact rival it was built around is the right way to do it. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
+Our first take: this one underdelivers for us, and it hurts to say because Minnesota's standard closet is one of our favorites in the league. The concept work is real, the rune-carved numbers are genuinely cool and different, and the whole thing has an unmistakably Viking feel. But the deep purple reads flat next to the team's usual richness, the gold face mask does not land the way a gray or white one would, and the knot striping on the jersey and pants is more busy than beautiful. The rune bumper is the kind of detail that is interesting on a detail card and illegible from row 40, and we suspect it ages quickly, it is literally another alphabet. We expected more from the best-dressed franchise in the division. Full grade once we have run through all eight reveals.
 
-**When we will actually see it:** the game is in December, but the jersey is not. Sources told SportsLogos.net that the league plans to unveil the second wave of Rivalries uniforms, the NFC North and AFC South, on **August 25**. That is the date to watch. We will grade the Vikings uniform the day it drops and update this page.
+<img src="/images/posts/vikings-uniform-schedule-2026/rivalries-helmet-runes.jpg" alt="Vikings Rivalries matte purple helmet with gold face mask, gold knot stripe, and SKOL in rune characters on the bumper" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Minnesota Vikings</p>
+
+<img src="/images/posts/vikings-uniform-schedule-2026/rivalries-knot-pattern.jpg" alt="Vikings Rivalries Nordic knot pattern on the shoulders and pants, inspired by the Gjallarhorn" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Minnesota Vikings</p>
+
+The debut slot is still as good as it gets: **Sunday, December 20 at 7:20 PM on Sunday Night Football against the Detroit Lions**, which is also the team's Walter Payton NFL Man of the Year game. A prime-time NFC North game against the exact rival the set was built around, and the uniform stays in the rotation for three seasons. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
@@ -142,7 +148,7 @@ The logic is clean. The Classic throwback opens the season on a date that deserv
 
 ## The Bottom Line
 
-The Vikings did the thing more teams should do: they published a jersey for every home game instead of teasing one at a time. Three real uniform changes anchor the slate, the Classic against Green Bay in Week 1, the new Rivalries jersey against Detroit in Week 15, and the Winter Warrior whiteout against Washington in Week 16, with the all-purple combo against the Colts as the fourth look worth circling. The rest is the purple-and-white primary paired with the league's usual game-day causes. The one thing still missing is the Rivalries design itself, and if the reported August 25 unveil holds, that gap closes in three weeks.
+The Vikings did the thing more teams should do: they published a jersey for every home game instead of teasing one at a time. Three real uniform changes anchor the slate, the Classic against Green Bay in Week 1, the new Rivalries jersey against Detroit in Week 15, and the Winter Warrior whiteout against Washington in Week 16, with the all-purple combo against the Colts as the fourth look worth circling. The rest is the purple-and-white primary paired with the league's usual game-day causes. The Rivalries design itself arrived August 25: deep purple with rune-carved numbers, Nordic knot trim, and a gold face mask, a big concept that we think lands softer than Minnesota's standard closet.
 
 ## Frequently Asked Questions
 
@@ -168,7 +174,7 @@ The Classic throwback. Minnesota confirmed it will wear its Classic uniform, the
 
 **When do the Vikings wear their Rivalries uniform in 2026?**
 
-The Vikings debut their new NFL x Nike Rivalries jersey in Week 15 against the Detroit Lions on Sunday, December 20 at 7:20 PM, as part of Sunday Night Football. The uniform itself has not been revealed. Reporting from SportsLogos.net points to a league-wide unveil of the NFC North and AFC South Rivalries jerseys on August 25.
+The Vikings debut their new NFL x Nike Rivalries jersey in Week 15 against the Detroit Lions on Sunday, December 20 at 7:20 PM, as part of Sunday Night Football. The uniform was revealed on August 25: deep purple with ivory and metallic gold, rune-carved two-tone numbers, a Nordic knot pattern from the Gjallarhorn, and a matte purple helmet with a gold face mask and SKOL in rune characters on the bumper. It stays in the rotation for three seasons.
 
 **What is the Vikings' Winter Warrior uniform, and when do they wear it in 2026?**
 

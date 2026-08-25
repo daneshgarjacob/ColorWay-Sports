@@ -27,10 +27,10 @@ Each team's schedule page has the full reveal, our first take, and when the unif
 - [Indianapolis Colts](/stories/colts-uniform-schedule-2026) — Anvil Strike: anthracite body, metallic royal blue helmet, first horseshoe ever on the jersey. Debuts Week 3 vs the Texans, September 27, the first 2026 set to see the field
 - [Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026) — Bold City: alabaster jersey, gloss teal helmet with gold face mask, jaguar-spot pants. Debuts Week 8 vs the Colts, November 1
 - [Tennessee Titans](/stories/titans-uniform-schedule-2026) — Music City: two-tone blue, neon numbers, Titans Blue helmet. Debuts Week 10 vs the Jaguars, November 15, now confirmed
-- [Chicago Bears](/stories/bears-uniform-schedule-2026) — debuts Week 16 vs the Packers, Christmas Day on Netflix
-- [Detroit Lions](/stories/lions-uniform-schedule-2026) — debuts Week 8 vs the Vikings, November 1
-- [Green Bay Packers](/stories/packers-uniform-schedule-2026) — debuts Week 5 vs the Bears, now confirmed; the design nods to the club's fan ownership
-- [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — debuts Week 15 vs the Lions on Sunday Night Football, December 20
+- [Chicago Bears](/stories/bears-uniform-schedule-2026) — "Return of the Monsters": navy and burnt orange, the 1983 GSH patch, orange pants and striped socks. Debuts Week 16 vs the Packers, Christmas Day on Netflix
+- [Detroit Lions](/stories/lions-uniform-schedule-2026) — bone white with carbon-fiber numbers and an electric-blue carbon-striped helmet. Debuts Week 8 vs the Vikings, November 1
+- [Green Bay Packers](/stories/packers-uniform-schedule-2026) — a 1919 fan-ownership tribute: hunter green, stock-certificate striping, cream matte helmet with the Lombardi-era GB logo. Debuts Week 5 vs the Bears, October 11
+- [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — deep purple, ivory, and gold with rune-carved numbers and SKOL in runes on the bumper. Debuts Week 15 vs the Lions on Sunday Night Football, December 20
 
 ## What the Rivalries Program Is
 

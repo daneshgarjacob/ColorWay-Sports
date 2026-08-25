@@ -2,7 +2,7 @@
 title: "Detroit Lions 2026 Uniform Schedule: Every Jersey, Every Week, and the November 1 Rivalries Debut"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-08-24"
+updatedDate: "2026-08-25"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["detroit-lions"]
 ---
 
-The Lions have one confirmed uniform date in 2026 and it lands in the middle of the best stretch of their schedule. Detroit debuts its new Nike Rivalries uniform on **Sunday, November 1 against the Minnesota Vikings at Ford Field**, the design gets unveiled league-wide on August 25, and they wear it exactly once. Here is the full Detroit Lions 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything still projected.
+The Lions have one confirmed uniform date in 2026 and it lands in the middle of the best stretch of their schedule. Detroit debuts its new Nike Rivalries uniform on **Sunday, November 1 against the Minnesota Vikings at Ford Field**, the design was unveiled August 25, bone white with carbon-fiber numbers and an electric-blue helmet, and they wear it exactly once. Here is the full Detroit Lions 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything still projected.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -52,11 +52,24 @@ Nine home games in Honolulu blue, eight road games in white, one Rivalries game 
 
 Only Week 8 is confirmed by the team. Everything else follows the standard rule: Honolulu blue at Ford Field, white on the road. Detroit also owns a black alternate and has used it in recent seasons, but no 2026 date has been announced for it, so it is not on the grid above.
 
-## The Rivalries Uniform (Week 8, November 1, Confirmed)
+## The Rivalries Uniform, Revealed (Week 8, November 1)
 
-Detroit is in the 2026 class of the NFL x Nike Rivalries program, which is moving through the league division by division. The NFC North is up this year, and the Lions wear their set **one time**: Sunday, November 1, at 1:00 p.m. Eastern, at home against Minnesota.
+<img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform reveal, player in the white jersey with DETROIT wordmark, carbon fiber numbers, and electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
-The design has not been shown yet. The league unveils the full 2026 Rivalries class on **August 25**, and we will grade Detroit's the day it lands.
+The design landed with the rest of the 2026 class on August 25, and Detroit went somewhere it has never gone before. The jersey is an off-white that reads bone rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black returns as a real accent alongside the blue, a shoulder pattern mimics a lion's gaze, and "Defend the Den" is stitched on the back neckline. The headliner is the helmet: a metallic electric-blue shell with glossy carbon-fiber racing stripes and a carbon-fiber lion logo, the loudest lid Detroit has ever put on the field.
+
+<img src="/images/posts/lions-uniform-schedule-2026/rivalries-helmet.jpg" alt="Detroit Lions Rivalries electric blue helmet with carbon fiber stripes and carbon fiber lion logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
+
+Our first take: this is the interesting one. The bone shade genuinely works, a warmer, richer base than a standard white that gives the whole set some texture, and the carbon-fiber numbers are a clever way to do "Motor City" without writing it out. The helmet is a real upgrade on the flat blue alternate shells Detroit has run in recent seasons, though it still does not touch the classic silver primary. The honest knock is that the finished jersey lands closer to a Panthers road white than anything unmistakably Detroit, black-accented white with blue trim is a crowded lane. Good, not great: we do not hate it, we do not love it. Full grade once we have run through all eight reveals.
+
+<img src="/images/posts/lions-uniform-schedule-2026/rivalries-detroit-flex.jpg" alt="Detroit Lions Rivalries uniform, player flexing in the bone white jersey with carbon fiber numbers and blue trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
+
+The Lions wear the set **one time**: Sunday, November 1, at 1:00 p.m. Eastern, at home against Minnesota, and it stays in the rotation for three seasons.
+
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddetroit%2520lions%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 The slot itself is well chosen. Rivalries uniforms are meant to be worn against the specific rival they were built around, and Lions-Vikings has become the most consequential game in the division. Putting it in the 1:00 window on a Sunday rather than burying it in a late-season primetime slot also means it gets the full national doubleheader lead-in audience.
 
@@ -112,7 +125,7 @@ If Detroit does reach for the black, Week 16 against the Giants on Monday night 
 
 Detroit spent a decade as one of the worst-dressed teams in the league and is now, after the 2024 clean-up, one of the best. Honolulu blue and silver is a genuinely unusual pairing that nobody else can use, and the current set finally stopped apologising for it.
 
-The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. Whatever the design turns out to be on August 25, the scheduling is right.
+The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, bone white with carbon-fiber numbers under an electric-blue helmet, is a genuine departure, and our early read is good-not-great.
 
 ## Frequently Asked Questions
 
@@ -138,7 +151,7 @@ Once, in Week 8 on Sunday, November 1 at 1:00 p.m. Eastern, at home against the 
 
 **Have the Lions revealed their Rivalries uniform?**
 
-Not yet. Detroit is in the 2026 NFC North class of the NFL x Nike Rivalries program and has confirmed the date but not the design. The league-wide unveiling is August 25, and we will grade it here as soon as it lands.
+Yes, on August 25. It is a bone-white jersey with a DETROIT wordmark, italicized carbon-fiber numbers inspired by the city's car and racing culture, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. It stays in the rotation for three seasons.
 
 **What are the Lions wearing in Munich?**
 
