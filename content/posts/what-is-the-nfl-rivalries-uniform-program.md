@@ -9,7 +9,6 @@ logoSrc: "/logos/leagues/nfl.png"
 coverImage: "/images/posts/what-is-the-nfl-rivalries-uniform-program/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-homepageHero: true
 kicker: Explained
 league: nfl
 teams: []

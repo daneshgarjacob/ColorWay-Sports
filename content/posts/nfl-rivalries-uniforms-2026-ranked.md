@@ -8,6 +8,7 @@ gradient: "linear-gradient(135deg, #0B162A 0%, #006778 55%, #C83803 130%)"
 coverImage: "/images/posts/nfl-rivalries-uniforms-2026-ranked/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+homepageHero: true
 kicker: Ranked
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
