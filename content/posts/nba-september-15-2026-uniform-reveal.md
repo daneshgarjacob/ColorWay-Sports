@@ -136,6 +136,46 @@ No. Houston and Minnesota have already unveiled full new primary uniform sets fo
 
 Recent collections have been teased in late summer and revealed across late August and September, with the uniforms first worn on court in November or December. The 2025-26 collection followed that pattern, with a league teaser on August 1 and team reveals running through September.
 
+**Why are all the NBA teams posting the same picture?**
+
+Because it is one file, made centrally and recolored for each club. Every version carries the same spray-paint stipple texture, the same enlarged team mark, and the same 09.15.26 date in the same position. Thirty social teams do not independently produce identical artwork within a few hours of each other. This came from the league.
+
+**What does the black NBA poster with a date on it mean?**
+
+It is a save-the-date for a league-wide announcement on September 15, 2026. The poster deliberately shows nothing except the club's own logo, heavily blurred, and the date. The NBA and Nike marks in the bottom-left corner are the only clue to what kind of announcement it is, and they point at a uniform.
+
+**Are the NBA teams changing their logos?**
+
+There is no sign of that. The teaser uses each club's existing primary logo rather than a new one, which is the opposite of how a rebrand gets teased. When Houston and Minnesota changed identities for this season, both showed the new marks. This teaser hides the mark instead of revealing it.
+
+**Is the NBA getting new jerseys in 2026-27?**
+
+Some clubs already have. Houston and Minnesota unveiled full new primary sets, and Indiana brought back pinstripes on a Statement Edition. Those were individual team announcements. The 09.15.26 teaser is separate and league-wide, and the likeliest answer is the 2026-27 City Edition collection.
+
+**What is the NBA City Edition?**
+
+It is Nike's alternate uniform program, one per club per season, built around something specific to that team's city rather than its regular colors. It started in 2017-18, which makes 2026-27 the tenth season of it.
+
+**Why did NBA teams change their profile pictures?**
+
+Several clubs, including Orlando, Memphis and Minnesota, swapped their avatars on the same morning as the teaser, two of them captioned with the September 15 date. It is part of the same coordinated push. Teams do not repaint their profile pictures for an ordinary product drop.
+
+**Is this the NBA Christmas jersey reveal?**
+
+No. The Christmas Day uniforms are a separate program, and the 2026 designs leaked back in April. Christmas jerseys are typically shown much closer to December.
+
+**What time is the NBA reveal on September 15?**
+
+The league has not said. Recent City Edition launches have gone out in the morning Eastern time, with all thirty clubs posting inside the same window. We will update this page the moment anything is announced.
+
+**Will my team get a new jersey on September 15?**
+
+If this is the City Edition collection, every club gets one. That is how the program works: all thirty, revealed together, worn on a set number of dates through the season.
+
+**Has the NBA confirmed what is coming on September 15?**
+
+Not as of publication. The league has not issued a release and no club has said what the date is for. Atlanta tagging @nikebasketball in its post is the closest thing to an official signal, and that only confirms Nike is involved.
+
 ## The Bottom Line
 
 The NBA and Nike put a date on a black background and let thirty fanbases argue about it for three weeks. That is good marketing, and it works because the league has spent nine years training people to care what the alternates look like.
