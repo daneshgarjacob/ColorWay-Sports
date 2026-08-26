@@ -110,7 +110,9 @@ export function buildTeamQuickLinks(): Record<string, TeamQuickLinksEntry> {
   // is checked too so a general team story can never be mistaken for a schedule.
   const scheduleByTeam = new Map<string, string>();
   for (const post of getAllPosts()) {
-    if (!/-uniform-schedule-\d{4}$/.test(post.slug)) continue;
+    // Football and baseball run on a single year (2026); basketball and hockey
+    // straddle two (2026-27), so both shapes have to match.
+    if (!/-uniform-schedule-\d{4}(-\d{2})?$/.test(post.slug)) continue;
     for (const t of post.teams ?? []) {
       if (!scheduleByTeam.has(t)) scheduleByTeam.set(t, post.slug);
     }
