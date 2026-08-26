@@ -5,7 +5,7 @@ date: "2026-08-25"
 updatedDate: "2026-08-25"
 excerpt: "All eight 2026 NFL Rivalries uniforms ranked and graded. Three of them failed, one is the best alternate in the league, and the gap is enormous."
 gradient: "linear-gradient(135deg, #0B162A 0%, #006778 55%, #C83803 130%)"
-coverImage: "/images/posts/nfl-rivalries-uniforms-2026-ranked/cover.jpg"
+coverImage: "/images/posts/nfl-rivalries-uniforms-2026-ranked/cover-v2.jpg"
 coverImageFit: "contain"
 homepageHero: true
 kicker: Ranked
