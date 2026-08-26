@@ -1,9 +1,9 @@
 ---
-title: "Denver Nuggets New Court for 2026-27: Every Change From Last Season's Floor"
+title: "Denver Nuggets New Court for 2026-27: Every Change From Last Season's Floor, Graded C"
 category: "NBA"
 date: "2026-08-25"
-updatedDate: "2026-08-25"
-excerpt: "The Nuggets revealed a new Ball Arena floor for 2026-27. The navy borders are gone, mountains are in, and the center logo shrank. Here is every change."
+updatedDate: "2026-08-26"
+excerpt: "The Nuggets revealed a new Ball Arena floor for 2026-27. The navy borders are gone, mountains are in, and the center logo shrank. Every change, graded C."
 gradient: "linear-gradient(135deg, #0E2240 0%, #FEC524 55%, #8B2131 130%)"
 coverImage: "/images/posts/nuggets-court-2026-27/cover.jpg"
 coverImagePosition: "center center"
@@ -39,7 +39,7 @@ Four things are different from the floor Denver played on last season.
 Here they are stacked, new floor on top and last season's underneath. The borders and the center logo are the two you cannot miss.
 
 <img src="/images/posts/nuggets-court-2026-27/court-comparison.jpg" alt="Denver Nuggets court comparison: the new 2026-27 floor with wood borders and a smaller center logo above the 2025-26 floor with navy borders and a larger center logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">New 2026-27 floor via the Denver Nuggets; 2025-26 floor via LockerVision</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">New 2026-27 floor via the Denver Nuggets; 2025-26 floor from league court imagery</p>
 
 ## The Navy Borders Are the Real Loss
 
@@ -68,6 +68,20 @@ The Nuggets' circular logo is well suited to that spot, since a round mark fills
 The floor is downstream of a brand direction we have never been sold on. The Nuggets' current identity leans on navy, gold and a dull maroon, and that maroon is the piece that keeps causing trouble, showing up in the line work here without ever earning its place next to the gold. Denver has one of the great color stories available to it in the sport, a mountain-state palette that could be doing far more, and instead the visual identity keeps arriving muted.
 
 That is the honest frame for this court. It is a competent floor for a brand that is not doing enough, and the two changes that hurt most, the borders and the logo scale, both reduce contrast on a design that already needed more of it.
+
+## Our Grade
+
+<div style="margin: 2em auto; max-width: 520px; padding: 2em; background: linear-gradient(135deg, #0E2240, #8B2131); border-radius: 16px; text-align: center; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.06; background: repeating-linear-gradient(45deg, transparent, transparent 20px, #fff 20px, #fff 22px);"></div>
+  <div style="position: relative; z-index: 1;">
+    <div style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.7); margin-bottom: 0.5em;">Court Grade</div>
+    <div style="font-family: Inter, sans-serif; font-weight: 900; font-size: 4em; color: #ffffff; line-height: 1; margin-bottom: 0.1em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">C</div>
+    <div style="width: 60px; height: 3px; background: rgba(255,255,255,0.4); margin: 0.5em auto 1em; border-radius: 2px;"></div>
+    <div style="font-family: Inter, sans-serif; font-size: 0.75em; color: rgba(255,255,255,0.7); line-height: 1.5;">
+      The Mountains Are the Best Idea on the Floor.<br/>Losing the Navy Frame Costs More Than They Gain.
+    </div>
+  </div>
+</div>
 
 ## The Bottom Line
 
@@ -99,4 +113,4 @@ This is the primary home floor. NBA teams frequently add a separate City Edition
 
 <div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More court coverage</p><a href="/stories/houston-rockets-court-2026-27-graded" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston's Two New Courts, Graded</a><a href="/stories/lakers-new-court-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">The Lakers' New Court</a><a href="/stories/nba-playoffs-2026-courts-ranked" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Every 2026 Playoff Court, Ranked</a><a href="/stories/who-designs-nba-courts" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Who Actually Designs NBA Courts</a><a href="/stories/nba-uniforms-2026-27" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; NBA Uniforms 2026-27 &rarr;</a></div>
 
-*Court imagery via the Denver Nuggets and, for the 2025-26 floor, LockerVision. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Denver Nuggets or the National Basketball Association.*
+*Court imagery via the Denver Nuggets and, for the 2025-26 floor, league court imagery. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Denver Nuggets or the National Basketball Association.*

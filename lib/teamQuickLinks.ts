@@ -1,6 +1,7 @@
 import { getAllPosts } from "@/lib/posts";
 import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
 import { allTeamKeys, teamMetaByKey } from "@/lib/mlbTrackerTeamIndex";
+import { allNflTeamKeys } from "@/lib/nflTrackerTeamIndex";
 
 // Uniform schedule + uniform calendar shortcuts for a single club, surfaced
 // above the story grid whenever a reader lands on /stories filtered to a team.
@@ -77,11 +78,19 @@ function rawTeams(): RawTeam[] {
   }));
 }
 
-// MLB club -> its /mlb-tracker/<key> calendar page. The tracker keys are the bare
-// nicknames ("blue-jays"), so match on the nickname rather than the full slug.
-function mlbCalendarKey(nick: string): string | undefined {
+// A club's calendar page, if one exists for its league. Both trackers key off the
+// bare nickname ("blue-jays", "bills"), so match on that rather than the full slug.
+// NFL calendars only exist for clubs whose schedule post carries a week-by-week
+// grid, which is why this asks the index instead of assuming all 32.
+function calendarFor(league: string, nick: string): string | undefined {
   const key = teamSlug(nick);
-  return allTeamKeys().includes(key) ? key : undefined;
+  if (league === "mlb") {
+    return allTeamKeys().includes(key) && teamMetaByKey(key) ? `/mlb-tracker/${key}` : undefined;
+  }
+  if (league === "nfl") {
+    return allNflTeamKeys().includes(key) ? `/nfl-tracker/${key}` : undefined;
+  }
+  return undefined;
 }
 
 /**
@@ -123,15 +132,13 @@ export function buildTeamQuickLinks(): Record<string, TeamQuickLinksEntry> {
       });
     }
 
-    if (t.league === "mlb") {
-      const key = mlbCalendarKey(t.nick);
-      if (key && teamMetaByKey(key)) {
-        links.push({
-          kind: "calendar",
-          label: `${short} Uniform Calendar`,
-          href: `/mlb-tracker/${key}`,
-        });
-      }
+    const calendarHref = calendarFor(t.league, t.nick);
+    if (calendarHref) {
+      links.push({
+        kind: "calendar",
+        label: `${short} Uniform Calendar`,
+        href: calendarHref,
+      });
     }
 
     if (links.length === 0) continue;

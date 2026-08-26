@@ -8,6 +8,8 @@ import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
+import TeamQuickLinks from "@/components/TeamQuickLinks";
+import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
 import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
@@ -196,6 +198,19 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const teamIndex =
     slug === "mlb-uniform-tracker-2026" ? buildMlbTeamIndex(post.contentHtml) : null;
 
+  // The club this story is about gets its schedule + calendar shortcuts right
+  // under the hero. Only for single-team posts — a league roundup tagged with a
+  // dozen clubs has no single "their page" to point at. Self-links are dropped so
+  // a schedule post never offers a button back to itself.
+  const storyTeams = post.teams ?? [];
+  const quickLinkTeams = (
+    storyTeams.length === 1
+      ? resolveTeamQuickLinks(buildTeamQuickLinks(), { team: storyTeams[0] })
+      : []
+  )
+    .map((t) => ({ ...t, links: t.links.filter((l) => l.href !== `/stories/${slug}`) }))
+    .filter((t) => t.links.length > 0);
+
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
     teams: post.teams,
@@ -279,6 +294,12 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             heading="Never check the site to find out."
             body="We log every uniform in every game, every day. Get the day's slate, the standouts, and the misses in one email."
           />
+        </div>
+      )}
+
+      {quickLinkTeams.length > 0 && (
+        <div className="max-w-[720px] mx-auto px-5 pt-8">
+          <TeamQuickLinks teams={quickLinkTeams} />
         </div>
       )}
 

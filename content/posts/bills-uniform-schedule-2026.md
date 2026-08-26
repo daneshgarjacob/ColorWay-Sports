@@ -2,8 +2,8 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-25"
-excerpt: "The Bills confirmed every 2026 uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, and red helmets on Christmas Day in Denver."
+updatedDate: "2026-08-26"
+excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, and the A+ red helmet on Christmas Day in Denver."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg"
 coverImagePosition: "center 30%"
@@ -122,6 +122,18 @@ Buffalo made it official on August 25: the red helmet comes back for the Christm
 We had this game flagged as the likely landing spot before it was announced, for the reason the team just confirmed: the red shell is a holiday-game asset now rather than a full-time helmet, and Christmas on Netflix is the largest audience Buffalo will have all season.
 
 The combination is the part worth getting excited about. White jersey, white pants, red helmet is the cleanest way this franchise can dress. The all-white body gives the shell nothing to compete with, so the red reads as the only real color on the field, and it is a straight line back to the 1984 to 2010 helmet that a generation of Bills fans grew up on. It is also the second straight season Buffalo has reached for it after last year's Highmark Stadium farewell against the Jets, which is starting to look less like a one-off and more like a tradition the team is deliberately building.
+
+<div style="margin: 2em auto; max-width: 520px; padding: 2em; background: linear-gradient(135deg, #C60C30, #00338D); border-radius: 16px; text-align: center; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.06; background: repeating-linear-gradient(45deg, transparent, transparent 20px, #fff 20px, #fff 22px);"></div>
+  <div style="position: relative; z-index: 1;">
+    <div style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.7); margin-bottom: 0.5em;">Combination Grade</div>
+    <div style="font-family: Inter, sans-serif; font-weight: 900; font-size: 4em; color: #ffffff; line-height: 1; margin-bottom: 0.1em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">A+</div>
+    <div style="width: 60px; height: 3px; background: rgba(255,255,255,0.4); margin: 0.5em auto 1em; border-radius: 2px;"></div>
+    <div style="font-family: Inter, sans-serif; font-size: 0.75em; color: rgba(255,255,255,0.7); line-height: 1.5;">
+      White Over White With the Red Shell.<br/>The Best This Franchise Can Dress.
+    </div>
+  </div>
+</div>
 
 Worth being precise about what this is and is not: the red **helmet** is a road-game hardware change worn with the white set. The red **jersey** is a separate alternate, and that one closes the season at home in Week 18 against the Jets.
 
