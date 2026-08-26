@@ -121,7 +121,7 @@ export const TEAM_LOGOS: Record<string, string> = {
   "St. Louis Blues": "/logos/teams/nhl-st-louis-blues.png",
   "Tampa Bay Lightning": "/logos/teams/nhl-tampa-bay-lightning.png",
   "Toronto Maple Leafs": "/logos/teams/nhl-toronto-maple-leafs.png",
-  "Utah Hockey Club": "/logos/teams/nhl-utah-hockey-club.png",
+  "Utah Mammoth": "/logos/teams/nhl-utah-hockey-club.png",
   "Vancouver Canucks": "/logos/teams/nhl-vancouver-canucks.png",
   "Vegas Golden Knights": "/logos/teams/nhl-vegas-golden-knights.png",
   "Washington Capitals": "/logos/teams/nhl-washington-capitals.png",
@@ -274,6 +274,8 @@ export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
   "st-louis-blues": "/logos/teams/nhl-st-louis-blues.png",
   "tampa-bay-lightning": "/logos/teams/nhl-tampa-bay-lightning.png",
   "toronto-maple-leafs": "/logos/teams/nhl-toronto-maple-leafs.png",
+  "utah-mammoth": "/logos/teams/nhl-utah-hockey-club.png",
+  // Legacy slug from the club's naming-rights year, kept so old links resolve a logo.
   "utah-hockey-club": "/logos/teams/nhl-utah-hockey-club.png",
   "vancouver-canucks": "/logos/teams/nhl-vancouver-canucks.png",
   "vegas-golden-knights": "/logos/teams/nhl-vegas-golden-knights.png",

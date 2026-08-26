@@ -83,7 +83,7 @@ const NHL = [
   ["St. Louis Blues", "#002F87", "#FCB514", "Enterprise Center", "Western"],
   ["Tampa Bay Lightning", "#002868", "#FFFFFF", "Benchmark International Arena", "Eastern"],
   ["Toronto Maple Leafs", "#00205B", "#FFFFFF", "Scotiabank Arena", "Eastern"],
-  ["Utah Hockey Club", "#71AFE5", "#090909", "Delta Center", "Western"],
+  ["Utah Mammoth", "#71AFE5", "#090909", "Delta Center", "Western"],
   ["Vancouver Canucks", "#00205B", "#00843D", "Rogers Arena", "Western"],
   ["Vegas Golden Knights", "#B4975A", "#333F42", "T-Mobile Arena", "Western"],
   ["Washington Capitals", "#041E42", "#C8102E", "Capital One Arena", "Eastern"],
@@ -106,7 +106,10 @@ const otherLeagueNicknames = readdirSync(POSTS)
 const nickCount = {};
 for (const n of [...NBA, ...NHL].map(([n]) => n)) nickCount[nickname(n)] = (nickCount[nickname(n)] ?? 0) + 1;
 for (const n of otherLeagueNicknames) nickCount[n] = (nickCount[n] ?? 0) + 1;
-const shortFor = (name) => (nickCount[nickname(name)] === 1 ? nickname(name) : name);
+// Nicknames that are unique but do not read as a club name on their own.
+const CITY_REQUIRED = new Set(["Mammoth", "Kraken", "Wild", "Jazz", "Heat", "Magic", "Thunder"]);
+const shortFor = (name) =>
+  nickCount[nickname(name)] === 1 && !CITY_REQUIRED.has(nickname(name)) ? nickname(name) : name;
 
 // Existing ColorWay coverage, per club, so every page links somewhere different.
 const library = readdirSync(POSTS)
