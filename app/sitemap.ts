@@ -2,6 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { allTeamKeys } from "@/lib/mlbTrackerTeamIndex";
 import { allNflTeamKeys } from "@/lib/nflTrackerTeamIndex";
+import { winterTeamKeys } from "@/lib/winterTrackerIndex";
 import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
 import { AUTHORS } from "@/lib/authors";
 
@@ -51,6 +52,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...allNflTeamKeys().map((team) => ({
       url: `https://www.colorwaysports.com/nfl-tracker/${team}`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
+    ...winterTeamKeys("nba").map((team) => ({
+      url: `https://www.colorwaysports.com/nba-tracker/${team}`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
+    ...winterTeamKeys("nhl").map((team) => ({
+      url: `https://www.colorwaysports.com/nhl-tracker/${team}`,
       lastModified: new Date(),
       changeFrequency: "daily" as const,
       priority: 0.7,

@@ -2,6 +2,7 @@ import { getAllPosts } from "@/lib/posts";
 import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
 import { allTeamKeys, teamMetaByKey } from "@/lib/mlbTrackerTeamIndex";
 import { allNflTeamKeys } from "@/lib/nflTrackerTeamIndex";
+import { winterTeamKeys } from "@/lib/winterTrackerIndex";
 
 // Uniform schedule + uniform calendar shortcuts for a single club, surfaced
 // above the story grid whenever a reader lands on /stories filtered to a team.
@@ -89,6 +90,9 @@ function calendarFor(league: string, nick: string): string | undefined {
   }
   if (league === "nfl") {
     return allNflTeamKeys().includes(key) ? `/nfl-tracker/${key}` : undefined;
+  }
+  if (league === "nba" || league === "nhl") {
+    return winterTeamKeys(league).includes(key) ? `/${league}-tracker/${key}` : undefined;
   }
   return undefined;
 }
