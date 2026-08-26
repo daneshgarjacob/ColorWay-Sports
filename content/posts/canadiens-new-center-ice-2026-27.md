@@ -5,7 +5,7 @@ date: "2026-08-25"
 updatedDate: "2026-08-25"
 excerpt: "Montreal has a new center ice for 2026-27. The solid red circle is gone, replaced by open white ice and a ringed crest. We grade the redesign."
 gradient: "linear-gradient(135deg, #AF1E2D 0%, #6d1730 55%, #192168 130%)"
-logoSrc: "/logos/nhl.png"
+logoSrc: "/logos/NHL.png"
 logoSrc2: "/logos/teams/nhl-montreal-canadiens.png"
 cardStyle: words
 kicker: Ice Review
