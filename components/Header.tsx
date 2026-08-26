@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
-import { TEAM_LOGOS, COMPETITION_LOGOS } from "@/lib/teamLogos";
+import { TEAM_LOGOS, COMPETITION_LOGOS, teamSlug } from "@/lib/teamLogos";
 
 // Nav rows look up team logos first, then soccer competitions / racing series.
 const teamLogos: Record<string, string> = { ...TEAM_LOGOS, ...COMPETITION_LOGOS };
@@ -470,7 +470,7 @@ export default function Header() {
                       {league.teams.map((team) => (
                         <Link
                           key={team}
-                          href={`/stories?team=${encodeURIComponent(team.toLowerCase().replace(/\s+/g, "-"))}`}
+                          href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
                           className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
                           onClick={() => setOpenDropdown(null)}
                         >
@@ -584,7 +584,7 @@ export default function Header() {
                       {league.teams.map((team) => (
                         <Link
                           key={team}
-                          href={`/stories?team=${encodeURIComponent(team.toLowerCase().replace(/\s+/g, "-"))}`}
+                          href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
                           className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
                           onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                         >

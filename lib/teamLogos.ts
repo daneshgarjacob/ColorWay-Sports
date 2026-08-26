@@ -83,7 +83,7 @@ export const TEAM_LOGOS: Record<string, string> = {
   "Minnesota Twins": "/logos/teams/mlb-minnesota-twins.png",
   "New York Mets": "/logos/teams/mlb-new-york-mets.png",
   "New York Yankees": "/logos/teams/mlb-new-york-yankees.png",
-  "Oakland Athletics": "/logos/teams/mlb-oakland-athletics.png",
+  "Athletics": "/logos/teams/mlb-oakland-athletics.png",
   "Philadelphia Phillies": "/logos/teams/mlb-philadelphia-phillies.png",
   "Pittsburgh Pirates": "/logos/teams/mlb-pittsburgh-pirates.png",
   "San Diego Padres": "/logos/teams/mlb-san-diego-padres.png",
@@ -234,13 +234,15 @@ export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
   "minnesota-twins": "/logos/teams/mlb-minnesota-twins.png",
   "new-york-mets": "/logos/teams/mlb-new-york-mets.png",
   "new-york-yankees": "/logos/teams/mlb-new-york-yankees.png",
+  "athletics": "/logos/teams/mlb-oakland-athletics.png",
+  // Legacy slug: kept so older "oakland-athletics" links still resolve a logo.
   "oakland-athletics": "/logos/teams/mlb-oakland-athletics.png",
   "philadelphia-phillies": "/logos/teams/mlb-philadelphia-phillies.png",
   "pittsburgh-pirates": "/logos/teams/mlb-pittsburgh-pirates.png",
   "san-diego-padres": "/logos/teams/mlb-san-diego-padres.png",
   "san-francisco-giants": "/logos/teams/mlb-san-francisco-giants.png",
   "seattle-mariners": "/logos/teams/mlb-seattle-mariners.png",
-  "st.-louis-cardinals": "/logos/teams/mlb-st-louis-cardinals.png",
+  "st-louis-cardinals": "/logos/teams/mlb-st-louis-cardinals.png",
   "tampa-bay-rays": "/logos/teams/mlb-tampa-bay-rays.png",
   "texas-rangers": "/logos/teams/mlb-texas-rangers.png",
   "toronto-blue-jays": "/logos/teams/mlb-toronto-blue-jays.png",
@@ -269,7 +271,7 @@ export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
   "pittsburgh-penguins": "/logos/teams/nhl-pittsburgh-penguins.png",
   "san-jose-sharks": "/logos/teams/nhl-san-jose-sharks.png",
   "seattle-kraken": "/logos/teams/nhl-seattle-kraken.png",
-  "st.-louis-blues": "/logos/teams/nhl-st-louis-blues.png",
+  "st-louis-blues": "/logos/teams/nhl-st-louis-blues.png",
   "tampa-bay-lightning": "/logos/teams/nhl-tampa-bay-lightning.png",
   "toronto-maple-leafs": "/logos/teams/nhl-toronto-maple-leafs.png",
   "utah-hockey-club": "/logos/teams/nhl-utah-hockey-club.png",
@@ -341,7 +343,14 @@ export const COMPETITION_LOGOS: Record<string, string> = {
 // nav and the /stories filter can never disagree. Rebuilding a name from its
 // slug ("uefa-champions-league" -> "Uefa Champions League") mangles every
 // acronym, so look it up here first and only fall back to title-casing.
-const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, "-");
+// Canonical team/competition slug. Periods are stripped, not hyphenated: without
+// that, "St. Louis Cardinals" became "st.-louis-cardinals" in the nav while every
+// post tagged it "st-louis-cardinals", so both St. Louis clubs filtered to zero
+// stories. Every place that turns a display name into a ?team= slug must use this.
+export const teamSlug = (name: string) =>
+  name.toLowerCase().replace(/\./g, "").replace(/\s+/g, "-");
+
+const slugify = teamSlug;
 
 export const DISPLAY_NAME_BY_SLUG: Record<string, string> = Object.fromEntries(
   [...Object.keys(TEAM_LOGOS), ...Object.keys(COMPETITION_LOGOS)].map((name) => [slugify(name), name])

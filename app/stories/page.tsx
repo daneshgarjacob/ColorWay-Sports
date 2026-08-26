@@ -4,6 +4,8 @@ import Footer from "@/components/Footer";
 import { getAllPostsByDate } from "@/lib/posts";
 import StoriesFilter from "@/components/StoriesFilter";
 import { storiesMetadata } from "@/lib/storyFilters";
+import TeamQuickLinks from "@/components/TeamQuickLinks";
+import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { Suspense } from "react";
 
 type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
@@ -59,8 +61,19 @@ const rootingGuideCard = {
   teams: [] as string[],
 };
 
-export default function StoriesPage() {
+export default async function StoriesPage({
+  searchParams,
+}: {
+  searchParams: SearchParams;
+}) {
   const posts = getAllPostsByDate();
+  // Resolved on the server so the schedule/calendar links land in the HTML for
+  // crawlers, and so the 124-club index never ships to the browser.
+  const sp = await searchParams;
+  const quickLinkTeams = resolveTeamQuickLinks(buildTeamQuickLinks(), {
+    team: first(sp.team),
+    query: first(sp.q),
+  });
   // Merge the hand-built tool cards in by date like everything else, so the grid stays
   // in true reverse-chronological order (by updatedDate, falling back to date) instead
   // of force-pinning the tools to the top.
@@ -74,7 +87,10 @@ export default function StoriesPage() {
     <>
       <Header />
       <Suspense fallback={<div className="max-w-[1200px] mx-auto px-5 py-12">Loading...</div>}>
-        <StoriesFilter posts={allCards} />
+        <StoriesFilter
+          posts={allCards}
+          quickLinks={<TeamQuickLinks teams={quickLinkTeams} />}
+        />
       </Suspense>
       <Footer />
     </>

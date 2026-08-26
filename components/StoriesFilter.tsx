@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { useSearchParams } from "next/navigation";
 import StoryCard from "@/components/StoryCard";
 import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, LEAGUE_NAMES, displayNameForSlug } from "@/lib/teamLogos";
@@ -20,7 +21,14 @@ interface PostMeta {
   teams?: string[];
 }
 
-export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
+export default function StoriesFilter({
+  posts,
+  quickLinks,
+}: {
+  posts: PostMeta[];
+  /** Server-rendered uniform schedule / calendar bar for the team in view. */
+  quickLinks?: ReactNode;
+}) {
   const searchParams = useSearchParams();
   const league = searchParams.get("league");
   const team = searchParams.get("team");
@@ -79,6 +87,10 @@ export default function StoriesFilter({ posts }: { posts: PostMeta[] }) {
         </a>
       )}
       {!(query || league || team) && <div className="mb-8" />}
+
+      {/* Uniform schedule + calendar first. A team search is a tracking query,
+          not a browsing one — the grid is the fallback, not the answer. */}
+      {quickLinks}
 
       {filtered.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

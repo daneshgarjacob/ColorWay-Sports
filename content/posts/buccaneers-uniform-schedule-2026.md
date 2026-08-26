@@ -9,7 +9,7 @@ coverImage: "/images/posts/buccaneers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "nfl"
-teams: []
+teams: ["tampa-bay-buccaneers"]
 ---
 
 This is the running guide to what the Tampa Bay Buccaneers wear in 2026, updated as the team confirms games. Two special uniforms already have dates on them, and they land two weeks apart in December.

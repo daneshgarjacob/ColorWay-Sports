@@ -1,13 +1,11 @@
 import { getAllPosts } from "@/lib/posts";
-import { TEAM_LOGOS, COMPETITION_LOGOS } from "@/lib/teamLogos";
+import { TEAM_LOGOS, COMPETITION_LOGOS, teamSlug } from "@/lib/teamLogos";
 
 // Static search index for the header's Discover box. Built once at build time
 // and served as a plain JSON file, so typing in the header never hits the
 // server — the whole index is fetched on first focus and filtered in memory.
 // Keep the payload lean: this ships to every reader who focuses the box.
 export const dynamic = "force-static";
-
-const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, "-");
 
 export function GET() {
   const posts = getAllPosts().map((p) => ({
@@ -24,7 +22,7 @@ export function GET() {
   // same destination as clicking them in the nav dropdowns.
   const teams = [...Object.keys(TEAM_LOGOS), ...Object.keys(COMPETITION_LOGOS)].map((name) => ({
     n: name,
-    s: slugify(name),
+    s: teamSlug(name),
     g: (TEAM_LOGOS as Record<string, string>)[name] ?? (COMPETITION_LOGOS as Record<string, string>)[name],
   }));
 

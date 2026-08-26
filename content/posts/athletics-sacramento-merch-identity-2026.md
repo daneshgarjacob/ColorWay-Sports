@@ -8,7 +8,7 @@ logoSrc: "/logos/leagues/nfl.png"
 coverImage: "/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey.jpg"
 coverImagePosition: "center 48%"
 league: "mlb"
-teams: ["oakland-athletics"]
+teams: ["athletics"]
 ---
 
 <img src="/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey.jpg" alt="Athletics 2026 Sacramento gold alternate jersey" style="width: 100%; border-radius: 10px;" />
