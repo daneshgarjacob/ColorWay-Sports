@@ -16,7 +16,9 @@ teams: []
 
 "Something new is coming soon." That is the entire caption. The graphic under it is nearly black, the team's own logo is blown up so large it runs off every edge, and down in the corner sits a single date: **09.15.26**.
 
-NBA clubs started posting it on the morning of Wednesday, August 26, and they are all posting the same thing. Not similar things. The same template, recolored.
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Teaser artwork via the Spurs, Pacers, Kings, Pistons and Wizards</p>
+
+NBA clubs started posting it on the morning of Wednesday, August 26. The captions differ from club to club. The artwork does not. It is one template, recolored.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/spurs/status/2092621830737600782"></a></blockquote>
@@ -26,7 +28,7 @@ Nobody has explained what it is yet. So we pulled the graphics apart, lined them
 
 ## What the Teaser Actually Shows
 
-Four elements, identical on every version we have examined, in identical positions.
+We have pulled and examined the full-resolution artwork from nine club accounts. Four elements repeat, in the same positions, on every poster version.
 
 <div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #101010 0%, #33333b 100%); border-radius: 16px; border: 2px solid #ffffff;">
   <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">The Shared Template</p>
@@ -36,7 +38,13 @@ Four elements, identical on every version we have examined, in identical positio
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#F5C518;">Bottom Center</strong> &middot; <strong style="color:#ffffff;">09.15.26</strong> in a tall condensed serif</p>
 </div>
 
-The San Antonio version is black and silver and the spur runs corner to corner. The Indiana version is navy and gold with the Pacers' ball mark filling the frame the same way. Swap the palette, keep every other coordinate. That is a league art director's file, not thirty separate social teams landing on the same idea.
+San Antonio is black and silver with the spur running corner to corner. Indiana is navy and gold with the ball mark filling the frame the same way. Sacramento is purple and grey. Detroit is blue and black around the circular DET mark. Washington is near-monochrome with one stroke of red. Swap the palette, keep every other coordinate. That is a league art director's file, not thirty social teams landing on the same idea in the same hour.
+
+One useful exception: **Atlanta's ran without the date bar at all**, and put the attribution in the caption instead, tagging **@nikebasketball** directly. That is the closest thing to an on-the-record confirmation anyone has published.
+
+The copy varies in a way that is itself a tell. Detroit wrote "Our next obsession arrives 9.15.26." Washington wrote "Prepare to be obsessed." Two clubs, the same unusual word, on the same morning. That is a shared brief.
+
+And it is not only posts. Orlando, Memphis and Minnesota all changed their **profile pictures**, two of them captioned with the date. Clubs do not repaint their avatars for a merch capsule.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PacersTeamStore/status/2092629844496404803"></a></blockquote>
@@ -44,11 +52,19 @@ The San Antonio version is black and silver and the spur runs corner to corner. 
 
 Note who posted that second one. Not the Pacers' main account. The **team store**.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2092617123029782546"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ATLHawks/status/2092622294753378529"></a></blockquote>
+</div>
+
 ## What We Know for Certain
 
 Three things, before any interpretation.
 
-**It is a league program, not a team announcement.** The NBA and Nike marks are locked up together in the corner. A club rebranding on its own does not get that lockup, and thirty clubs do not independently produce the same file.
+**It is a league program, not a team announcement.** The NBA and Nike marks are locked up together in the corner of every poster, and Atlanta tagged @nikebasketball outright. A club rebranding on its own does not get that lockup, and clubs across four time zones do not independently produce the same file before lunch.
 
 **It is merchandise.** Team store accounts are pushing it alongside the main club accounts. Retail does not get activated for a schedule release, a ticket promotion, or a court unveiling. It gets activated when there is something to sell, which in this sport means a jersey.
 
@@ -110,7 +126,7 @@ That is our read, but it is not confirmed. The 2026-27 season is the tenth year 
 
 **Which NBA teams have posted the 09.15.26 teaser?**
 
-Clubs across the league posted it on the morning of August 26, including the San Antonio Spurs and the Indiana Pacers' team store account. The graphic is one shared template recolored in each club's palette, with that club's primary logo enlarged behind the date.
+We have verified nine club accounts as of the morning of August 26: the San Antonio Spurs, Atlanta Hawks, Detroit Pistons, Sacramento Kings, Washington Wizards and the Indiana Pacers team store all posted the poster artwork, while the Orlando Magic, Memphis Grizzlies and Minnesota Timberwolves changed their profile pictures, two of them captioned with the date. The rollout was still running as we published, so expect the rest of the league to follow.
 
 **Are these the same as the new Rockets and Timberwolves uniforms?**
 
@@ -127,3 +143,5 @@ The NBA and Nike put a date on a black background and let thirty fanbases argue 
 What we can say with confidence: this is a league program, it involves Nike, it involves merchandise, and it happens on September 15. What we believe, without claiming it as fact: this is the tenth-anniversary City Edition collection, and a large share of it will be remixes of the program's own greatest hits.
 
 Three weeks from now we will know. We will grade all thirty the day they land.
+
+*Teaser artwork via the individual clubs, as published on their own accounts. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Basketball Association, Nike, or any club named here.*

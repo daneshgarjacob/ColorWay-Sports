@@ -68,6 +68,10 @@ const stripTags = (s: string) =>
   s
     .replace(/<[^>]+>/g, "")
     .replace(/&middot;/g, "·")
+    // The confirmation star is written as a numeric entity in some posts and as a
+    // literal ★ in others; both have to survive to here or the game reads as
+    // unconfirmed on the calendar.
+    .replace(/&#9733;|&starf;|&#x2605;/gi, "★")
     .replace(/&amp;/g, "&")
     .replace(/&nbsp;/g, " ")
     .trim();
