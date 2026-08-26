@@ -31,35 +31,27 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 All fifteen games are logged. The Tuesday board went dark in a way we have not seen this season: the Mets in black at home, Miami in black against Boston, Pittsburgh in the black alternate in San Diego, and San Francisco in the black City Connect. Colorado countered with purple in Washington, Cincinnati went red on the road, and the Dodgers wore the alternate "Los Angeles" gray in Atlanta, the set they have leaned on since the sweep in Colorado.
 
-<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #C0C0C0 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
-  <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
-  </div>
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Mets 3, Brewers 2</span>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/brewers-powder-blue-alternate.jpg" alt="Milwaukee Brewers Powder Blue Alternate jersey worn August 25 2026 against the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #9ecae1; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Powder Blue Alternate</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%20brewers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/mets-black-alternate.jpg" alt="New York Mets Black Alternate jersey worn August 25 2026 against the Brewers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">METS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #111111; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black Alternate</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%20york%20mets%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-  </div>
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 130%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #ffe2d2;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">New York Mets Black Alternate</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2092435418054640064"></a></blockquote>
+
+The black alternate is the one Mets uniform that does not try to be friendly, and on a Tuesday night in Queens against Milwaukee's powder blue it was the best-looking thing on the field. Black is a hard base to justify for most clubs, but the Mets earned theirs decades ago: the drop shadow on the numbers, the orange piping cutting the black, and the NY in white on a black cap read as a real identity rather than a merchandise exercise.
+
+What makes it work is the restraint underneath. There is no gradient, no texture, no secondary story competing for the chest. Just black, orange and white in the proportions the club has used since the late nineties, which is why this jersey has outlived every other black alternate from that era. Milwaukee gave it the perfect foil, too, because powder blue against black is about as much contrast as a broadcast can carry.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">San Francisco Giants Black City Connect</span>
 </div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SFGiants/status/2092446047566168151"></a></blockquote>
+
+The Giants own the best home uniform in baseball, which is exactly what makes this one so hard to look at. The cream set works because warmth is the whole idea, and the City Connect answers it with a flat black shell that could belong to any club in either league. Strip the wordmark off and there is nothing on this jersey that says San Francisco.
+
+It is the same night the Mets proved black can be a real identity, and the contrast is instructive. New York's black has orange and a drop shadow doing structural work; San Francisco's has almost nothing to break the field, so the whole thing reads as a silhouette under the lights. When your alternate makes the sport's most distinctive home uniform look like a missed opportunity, the alternate is the problem.
 
 ### Tampa Bay Rays at Detroit Tigers
 
@@ -208,7 +200,10 @@ All fifteen games are logged. The Tuesday board went dark in a way we have not s
 
 ### Milwaukee Brewers at New York Mets
 
-<div style="margin: 1.4em 0 0.6em;">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #C0C0C0 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Mets 3, Brewers 2</span>
@@ -522,38 +517,6 @@ Rarely worn, and tonight showed why the closet is where it lives. The set is nav
 
 The frustrating part is that the concept deserves better. Motor City is a top-five nickname in the sport, and Detroit's regular wardrobe proves the club knows restraint. This is the one shirt where they forgot, and standing across from Tampa Bay's crisp Columbia blue only sharpened the gap.
 
-<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #C0C0C0 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
-  <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
-  </div>
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 11, White Sox 2</span>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/rangers-road-gray.jpg" alt="Texas Rangers Road Gray jersey worn August 24 2026 against the White Sox, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%20rangers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
-    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/white-sox-home-white.jpg" alt="Chicago White Sox Home White jersey worn August 24 2026 against the Rangers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">WHITE SOX</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%20white%20sox%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
-    </div>
-  </div>
-</div>
-</div>
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Tampa Bay Rays at Detroit Tigers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -643,7 +606,10 @@ The frustrating part is that the concept deserves better. Motor City is a top-fi
 
 ### Texas Rangers at Chicago White Sox
 
-<div style="margin: 1.4em 0 0.6em;">
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #003278 0%, #C0C0C0 50%, #27251F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #ffffff;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 11, White Sox 2</span>
@@ -669,6 +635,8 @@ The frustrating part is that the concept deserves better. Motor City is a top-fi
   </div>
 </div>
 </div>
+
+<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Cleveland Guardians at Los Angeles Angels
 
