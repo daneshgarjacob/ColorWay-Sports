@@ -7,10 +7,8 @@ date: "2026-07-07"
 updatedDate: "2026-08-25"
 excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Klay Thompson to the Heat, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
-coverImage: "/images/posts/nba-free-agency-tracker-2026/cover.jpg"
-coverImagePosition: "center center"
-coverImageFit: "cover"
 logoSrc: "/logos/nba.svg"
+cardStyle: words
 league: "nba"
 teams: []
 featuredOrder: 1

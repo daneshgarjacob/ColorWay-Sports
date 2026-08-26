@@ -39,7 +39,7 @@ We have now graded all eight. It is the widest spread the program has produced i
 
 The through line in the three failing grades is the same one: each of those clubs already owns an elite, decades-old identity, and each traded it for set dressing that only works in close-up. Chicago is the counterexample, and it is the reason the Bears set wins. They dug into their own history instead of decorating over it.
 
-The helmets tell a different story from the uniforms, and it is worth reading separately: six of the eight teams changed their shell, and two clubs built genuinely excellent helmets on uniforms we did not rate. We ranked [all eight Rivalries helmets on their own](/stories/nfl-rivalries-helmets-2026-ranked), where Houston finishes sixth despite owning the best facemask in the class, and Indianapolis lands fifth on a set we failed.
+The helmets tell a different story from the uniforms, and it is worth reading separately: six of the eight teams changed their shell, and two clubs built genuinely excellent helmets on uniforms we did not rate. We ranked [all eight Rivalries helmets on their own](/stories/nfl-rivalries-helmets-2026-ranked), where Houston finishes sixth despite owning the best facemask in the class, and Indianapolis lands fifth on a set we failed. The full sets are ranked separately in [every 2026 Rivalries uniform, worst to best](/stories/nfl-rivalries-uniforms-2026-ranked).
 
 ## Every 2026 Rivalries Game, All Sixteen Teams
 
