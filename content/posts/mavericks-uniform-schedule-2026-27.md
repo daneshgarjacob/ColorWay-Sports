@@ -2,7 +2,7 @@
 title: "Mavericks Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-08-26"
+updatedDate: "2026-08-27"
 excerpt: "Every Mavericks jersey for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #00538C 0%, #002B5E 100%)"
 cardStyle: words
@@ -27,6 +27,11 @@ We build these before the season rather than after it, so the closet is here fro
 </div>
 
 ## The Mavericks Game-by-Game Uniform Schedule
+
+<!-- nba-key-dates:start -->
+<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 6px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #2f6bed;">Mavericks 2026-27 Key Dates</p><div style="display: flex; align-items: baseline; gap: 12px; padding: 9px 4px; border-bottom: 1px solid #eef0f4;"><span style="flex: 0 0 122px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.4px; color: #8892a0;">Opening Night</span><span style="flex: 1 1 auto; font-size: 0.95em; color: #14284b; font-weight: 700;">Wednesday, October 21<span style="display: block; font-size: 0.85em; color: #57607a; font-weight: 600; margin-top: 2px;">at Houston Rockets</span></span></div><div style="display: flex; align-items: baseline; gap: 12px; padding: 9px 4px; border-bottom: 1px solid #eef0f4;"><span style="flex: 0 0 122px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.4px; color: #8892a0;">Home Opener</span><span style="flex: 1 1 auto; font-size: 0.95em; color: #14284b; font-weight: 700;">Saturday, October 24<span style="display: block; font-size: 0.85em; color: #57607a; font-weight: 600; margin-top: 2px;">vs San Antonio Spurs</span></span></div><div style="display: flex; align-items: baseline; gap: 12px; padding: 9px 4px; border-bottom: 1px solid #eef0f4;"><span style="flex: 0 0 122px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.4px; color: #8892a0;">Christmas Day</span><span style="flex: 1 1 auto; font-size: 0.95em; color: #14284b; font-weight: 700;">Not on the slate<span style="display: block; font-size: 0.85em; color: #57607a; font-weight: 600; margin-top: 2px;">Mavericks are not part of the five-game Christmas lineup</span></span></div><div style="display: flex; align-items: baseline; gap: 12px; padding: 9px 4px; border-bottom: 1px solid #eef0f4;"><span style="flex: 0 0 122px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.4px; color: #8892a0;">Season Finale</span><span style="flex: 1 1 auto; font-size: 0.95em; color: #14284b; font-weight: 700;">Sunday, April 11<span style="display: block; font-size: 0.85em; color: #57607a; font-weight: 600; margin-top: 2px;">vs Memphis Grizzlies</span></span></div><div style="display: flex; align-items: baseline; gap: 12px; padding: 9px 4px; border-bottom: 1px solid #eef0f4;"><span style="flex: 0 0 122px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.4px; color: #8892a0;">Home &amp; Road</span><span style="flex: 1 1 auto; font-size: 0.95em; color: #14284b; font-weight: 700;">40 home, 40 away<span style="display: block; font-size: 0.85em; color: #57607a; font-weight: 600; margin-top: 2px;">of the 80 games published so far</span></span></div><p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">From the NBA&rsquo;s published 2026-27 schedule. Two more games per club are added once the NBA Cup knockout bracket is set, and dates can move for national television. The jersey worn in each game is logged below as the season runs.</p></div>
+<!-- nba-key-dates:end -->
+
 
 <div style="margin: 1.5em 0; padding: 1.5em; background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px;">
 <p style="margin: 0 0 0.6em; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">Filling in from October 2026</p>
