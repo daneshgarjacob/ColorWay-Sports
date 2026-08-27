@@ -31,7 +31,27 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 Fourteen of the fifteen games are confirmed, with only Twins at Athletics still unaccounted for. The Wednesday board is the widest spread of light blue we have seen all season: Toronto in the powder blues at home against Kansas City, and Milwaukee in theirs on the road at Citi Field, where the Mets answered in black. Colorado went purple in Washington and the Dodgers went to the blue alternate in Atlanta, so four of the fourteen are in a colored jersey rather than a white or a gray. Pittsburgh stayed in the plain black alternate in San Diego rather than the City Connect, and San Francisco wore the cream at home.
 
-<!-- AWARDS PENDING: Jake picks Jersey of the Day, Stinker and ColorWay Clash -->
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #134A8E 0%, #9ecae1 130%); border-radius: 12px 12px 0 0;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #eaf4fb;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Toronto Blue Jays Powder Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2092692156200730949"></a></blockquote>
+
+Toronto is playing its fiftieth season and the powder blue is the reason that number lands. Most anniversary years get a commemorative patch and a throwback weekend. The Blue Jays just keep a set from the era in the regular rotation, which is a far better way to carry a franchise's history than a one-off.
+
+The jersey earns its place on the merits too. Powder blue is a genuinely difficult base because it washes out under stadium lights, and Toronto solves it with the split-blue wordmark and the royal cap doing the heavy lifting up top. The bird has enough dark navy in it to hold an edge from the outfield camera. Against Kansas City's road gray there was exactly one team on the field with any colour on it, and it was not close.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Kansas City Royals Road Gray</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2092706035655991676"></a></blockquote>
+
+There is nothing wrong with this jersey. That is the problem. The Royals road gray is competently drawn, the script is clean, and on most nights it would pass without comment. Wednesday was not most nights.
+
+Kansas City owns one of the better powder blue alternates in the sport, a direct descendant of the same seventies palette Toronto was wearing across the diamond. They had the option to make this the best-looking game of the day and instead brought the most anonymous set in the closet to a park where the home club was in full colour. The result was a broadcast with one team in it. A road gray is never the worst uniform on a given night on design, but it can absolutely be the worst decision, and this was one.
 
 ### Tampa Bay Rays at Detroit Tigers
 
@@ -325,6 +345,10 @@ Fourteen of the fifteen games are confirmed, with only Twins at Athletics still 
 
 ### Milwaukee Brewers at New York Mets
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #9ecae1 0%, #ffffff 50%, #111111 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -349,6 +373,7 @@ Fourteen of the fifteen games are confirmed, with only Twins at Athletics still 
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%20york%20mets%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
