@@ -2,6 +2,7 @@
 title: "Philadelphia 76ers 2026 NBA Christmas Jersey Leaked: Glowing Stars on Black"
 category: "NBA"
 date: "2026-04-09"
+updatedDate: "2026-08-26"
 excerpt: "The 76ers' 2026 Christmas jersey wraps glowing neon-red stars around the sides of a black base. The concept is nice but we wish there was more color throughout."
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 100%)"
 coverImage: "/images/posts/nba-xmas-2026-sixers/sixers-xmas-cover.jpg"
@@ -10,6 +11,16 @@ logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["philadelphia-76ers"]
 ---
+
+<div style="margin: 1.75em 0; border: 2px solid #C8102E; border-radius: 16px; overflow: hidden;">
+  <div style="background: #C8102E; padding: 9px 16px;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Update &middot; August 26, 2026</span>
+  </div>
+  <div style="padding: 1.4em; background: #ffffff;">
+    <p style="margin: 0 0 0.8em; font-size: 1em; color: #1c1c1c; line-height: 1.6;"><strong>This club is on the confirmed December 25 slate</strong>, so a Christmas jersey is still possible. But three of the eight designs in this leak belong to teams that are off that day, which puts the whole set in doubt.</p>
+    <p style="margin: 0; font-size: 1em; color: #1c1c1c; line-height: 1.6;">The design motifs across this leak are civic rather than festive, and every NBA club teased a league-wide Nike reveal for September 15. Our read is that this was a City Edition leak wearing the wrong label. Full reasoning in <a href="/stories/nba-september-15-2026-uniform-reveal" style="color: #2f6bed; font-weight: 700;">what the NBA is revealing on 09.15.26</a> and in the <a href="/stories/nba-christmas-jerseys-2026-leaked" style="color: #2f6bed; font-weight: 700;">full eight-jersey breakdown</a>.</p>
+  </div>
+</div>
 
 <img src="/images/posts/nba-xmas-2026-sixers/sixers-xmas-hero.jpg" alt="Philadelphia 76ers 2026 NBA Christmas Day jersey with glowing red stars on black" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>

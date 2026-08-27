@@ -2,6 +2,7 @@
 title: "Sacramento Kings 2026 NBA Christmas Jersey Leaked: Light the Beam on a Black Base"
 category: "NBA"
 date: "2026-04-09"
+updatedDate: "2026-08-26"
 excerpt: "The Kings' 2026 Christmas jersey features a purple Light the Beam-inspired gradient on a black base. Simple and not bad, but nothing special either."
 gradient: "linear-gradient(135deg, #5A2D81 0%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg"
@@ -10,6 +11,16 @@ logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["sacramento-kings"]
 ---
+
+<div style="margin: 1.75em 0; border: 2px solid #C8102E; border-radius: 16px; overflow: hidden;">
+  <div style="background: #C8102E; padding: 9px 16px;">
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Update &middot; August 26, 2026</span>
+  </div>
+  <div style="padding: 1.4em; background: #ffffff;">
+    <p style="margin: 0 0 0.8em; font-size: 1em; color: #1c1c1c; line-height: 1.6;"><strong>This is almost certainly not a Christmas jersey.</strong> The NBA's 2026-27 schedule is out and this club is not playing on December 25, so it cannot wear a Christmas uniform at all.</p>
+    <p style="margin: 0; font-size: 1em; color: #1c1c1c; line-height: 1.6;">The design motifs across this leak are civic rather than festive, and every NBA club teased a league-wide Nike reveal for September 15. Our read is that this was a City Edition leak wearing the wrong label. Full reasoning in <a href="/stories/nba-september-15-2026-uniform-reveal" style="color: #2f6bed; font-weight: 700;">what the NBA is revealing on 09.15.26</a> and in the <a href="/stories/nba-christmas-jerseys-2026-leaked" style="color: #2f6bed; font-weight: 700;">full eight-jersey breakdown</a>.</p>
+  </div>
+</div>
 
 <img src="/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg" alt="Sacramento Kings 2026 NBA Christmas Day jersey with purple Light the Beam gradient on black base" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>

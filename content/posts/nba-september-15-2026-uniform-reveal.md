@@ -176,6 +176,42 @@ If this is the City Edition collection, every club gets one. That is how the pro
 
 Not as of publication. The league has not issued a release and no club has said what the date is for. Atlanta tagging @nikebasketball in its post is the closest thing to an official signal, and that only confirms Nike is involved.
 
+## We Have Probably Already Seen Eight of These
+
+On April 8 we published eight leaked Nike designs that were circulating as the 2026 Christmas jerseys: the Celtics, Hawks, Kings, Knicks, Lakers, Pistons, 76ers and Warriors. We ranked all eight and graded the collection a D+, mostly because eight all-black jerseys with neon graphics did not read as Christmas to us.
+
+They did not read as Christmas because they are not Christmas.
+
+The NBA has published its 2026-27 schedule since then, and the December 25 slate is now fixed: Spurs at Knicks, 76ers at Lakers, Heat at Celtics, Nuggets at Warriors, Thunder at Timberwolves. **Three of the eight teams in that leak, the Hawks, the Kings and the Pistons, are not playing on Christmas Day at all.** A club that does not play on December 25 does not get a December 25 uniform. Those three designs cannot be what the leak called them.
+
+It cuts the other way too. Five teams that are on the Christmas slate, Miami, Denver, Minnesota, Oklahoma City and San Antonio, never appeared in the leak.
+
+Then read the designs again:
+
+<div style="margin: 1.5em 0; padding: 1.4em 1.5em; background: linear-gradient(135deg, #14284b 0%, #2a2a2a 100%); border-radius: 16px;">
+  <p style="font-size: 0.95em; color: #ffffff; margin: 0 0 0.8em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">City Ideas, Not Holiday Ideas</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ecae1;">Pistons</strong> &middot; Motor City flames</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ecae1;">Kings</strong> &middot; a Light the Beam gradient</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ecae1;">Warriors</strong> &middot; a Bay Bridge pattern</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.45em 0; line-height: 1.5;"><strong style="color:#9ecae1;">Hawks</strong> &middot; blue and green brushstrokes</p>
+</div>
+
+Motor City. Light the Beam. The Bay Bridge. Those are the arena and the skyline and the local ritual. None of them is about a holiday. That is the City Edition brief almost word for word, and it is not the Christmas brief, which has always run a single league-wide holiday theme across every participating club rather than thirty local stories.
+
+The dark bases fit as well. Every one of the eight sits on black or near-black, and every teaser poster that went out this morning is built on a dark, heavily textured field with the team mark pushed to the front. That is not proof, since a teaser is designed to hide the product. But a collection of dark, city-specific alternates and a set of dark, city-coloured teasers pointing at one league-wide date is a consistent picture.
+
+**So the honest position: we published eight of these designs five months before the reveal date, filed under the wrong program.** We are not claiming a scoop on the label. We are saying the images were real, the teams were real, and the Christmas framing was wrong, and the NBA's own schedule is what proves it.
+
+If September 15 is the City Edition launch, expect at least the Pistons, Kings and Hawks designs to turn up more or less intact. Our full breakdown of all eight, with grades, is in the [leaked collection post](/stories/nba-christmas-jerseys-2026-leaked).
+
+**Have the September 15 NBA jerseys already leaked?**
+
+Partly, and under the wrong name. Eight Nike designs leaked in April labelled as 2026 Christmas jerseys. The NBA's schedule has since confirmed that three of those eight clubs, Atlanta, Sacramento and Detroit, do not play on December 25, so those designs cannot be Christmas uniforms. The motifs on them are city landmarks rather than holiday themes. We think that leak was the City Edition collection.
+
+**Which NBA teams actually play on Christmas 2026?**
+
+Spurs at Knicks, 76ers at Lakers, Heat at Celtics, Nuggets at Warriors, and Thunder at Timberwolves. Ten clubs across five games.
+
 ## The Bottom Line
 
 The NBA and Nike put a date on a black background and let thirty fanbases argue about it for three weeks. That is good marketing, and it works because the league has spent nine years training people to care what the alternates look like.
