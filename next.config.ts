@@ -40,6 +40,23 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Seven 2026-27 schedule posts were published on 2026-08-26 under bare
+      // nicknames, then renamed the same afternoon so they carry their city
+      // ("heat" -> "miami-heat"). The originals were live long enough to be
+      // crawled, so they redirect rather than 404. See [[team-uniform-quick-links]].
+      ...[
+        ["hockey-club", "utah-mammoth"],
+        ["heat", "miami-heat"],
+        ["kraken", "seattle-kraken"],
+        ["wild", "minnesota-wild"],
+        ["jazz", "utah-jazz"],
+        ["magic", "orlando-magic"],
+        ["thunder", "oklahoma-city-thunder"],
+      ].map(([from, to]) => ({
+        source: `/stories/${from}-uniform-schedule-2026-27`,
+        destination: `/stories/${to}-uniform-schedule-2026-27`,
+        permanent: true,
+      })),
       // ⚠️ DO NOT add a redirect for /ads.txt. Tried it 2026-08-19 (301 to
       // adstxt.mediavine.com) and it silently did NOT match — /ads.txt returned 404 in
       // production while every other rule in this array kept working. The docs say
