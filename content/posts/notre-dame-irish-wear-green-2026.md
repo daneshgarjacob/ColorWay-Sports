@@ -2,7 +2,7 @@
 title: "Notre Dame Went Full Leprechaun: Grading the 2026 'Irish Wear Green' Football Jersey"
 category: "College"
 date: "2026-07-30"
-updatedDate: "2026-07-30"
+updatedDate: "2026-08-27"
 excerpt: "Notre Dame's 2026 Irish Wear Green jersey brings kelly green, gold-trimmed numbers, and the Fighting Irish leprechaun to the hip. We grade the green."
 gradient: "linear-gradient(135deg, #00843D 0%, #0b3d2e 55%, #C99700 130%)"
 kicker: College Football
@@ -48,6 +48,8 @@ Notre Dame does not wear green often, and that is the point. The green jersey is
 ## The Bottom Line
 
 Notre Dame nailed it. The kelly green is perfect, the gold-trimmed numbers connect the jersey to everything that makes the Irish the Irish, and the leprechaun on the hip is the cherry on top. This is one of our favorite green looks Notre Dame has ever done, and one of the best college football jerseys of the year. It is an easy **A**.
+
+Wondering which game they actually wear it in, and what Notre Dame is wearing the rest of the year? Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) has the confirmed green date, the Lambeau Field Shamrock Series set and every other week.
 
 ## Frequently Asked Questions
 
