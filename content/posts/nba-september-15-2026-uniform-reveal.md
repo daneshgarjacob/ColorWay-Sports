@@ -226,6 +226,6 @@ The NBA and Nike put a date on a black background and let thirty fanbases argue 
 
 What we can say with confidence: this is a league program, it involves Nike, it involves merchandise, and it happens on September 15. What we believe, without claiming it as fact: this is the tenth-anniversary City Edition collection, and a large share of it will be remixes of the program's own greatest hits.
 
-Three weeks from now we will know. We will grade all thirty the day they land.
+Three weeks from now we will know. We will grade all thirty the day they land, and every club's status between now and then is on our [2026-27 City Edition tracker](/stories/nba-city-edition-jerseys-2026-27).
 
 *Teaser artwork via the individual clubs, as published on their own accounts. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Basketball Association, Nike, or any club named here.*
