@@ -22,5 +22,9 @@
   "brewers": "Powder Blue Alternate",
   "mets": "Black Alternate",
   "dodgers": "Blue Alternate",
-  "braves": "Home White"
+  "braves": "Home White",
+  "rangers": "Road Gray",
+  "white-sox": "Home White",
+  "orioles": "Road Gray",
+  "cardinals": "Home White"
 }
