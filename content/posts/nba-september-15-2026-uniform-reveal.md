@@ -2,7 +2,7 @@
 title: "NBA Teams Are All Teasing 09.15.26: What the League-Wide Nike Uniform Reveal Is"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-08-26"
+updatedDate: "2026-08-27"
 excerpt: "NBA clubs are posting the same black teaser with a Nike lockup and one date. We decode the graphic and explain what lands on September 15."
 gradient: "linear-gradient(135deg, #101010 0%, #2f2f36 45%, #C8102E 130%)"
 coverImage: "/images/posts/nba-september-15-2026-uniform-reveal/cover.jpg"
@@ -62,13 +62,21 @@ Note who posted that second one. Not the Pacers' main account. The **team store*
 
 ## What We Know for Certain
 
-Three things, before any interpretation.
+Four things, before any interpretation. The fourth arrived after we first published this.
 
 **It is a league program, not a team announcement.** The NBA and Nike marks are locked up together in the corner of every poster, and Atlanta tagged @nikebasketball outright. A club rebranding on its own does not get that lockup, and clubs across four time zones do not independently produce the same file before lunch.
 
 **It is merchandise.** Team store accounts are pushing it alongside the main club accounts. Retail does not get activated for a schedule release, a ticket promotion, or a court unveiling. It gets activated when there is something to sell, which in this sport means a jersey.
 
 **The date is fixed and close.** September 15 is three weeks out, well before the season starts and right in the window when jerseys need to be on shelves for the fall.
+
+**Nike itself has now confirmed the date.** Late on August 26, hours after the club posts went up, @nikebasketball posted its own teaser: *"The next chapter of the NBA is for the obsessed. Coming soon."* Separate Nike marketing copy circulating with it reads **"Worn with Obsession."** The brand account does not amplify a single club's announcement. It amplifies a league-wide program launch, and its involvement locks the September 15 date in from the manufacturer's side rather than just the teams'.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nikebasketball/status/2092650818717524280"></a></blockquote>
+</div>
+
+Note the language. "Worn with obsession" is a jersey line, not a shoe line and not a schedule graphic. It is the second independent signal, after the team stores, that what lands on September 15 is something you put on.
 
 ## Why This Points to the 10th Anniversary City Edition
 
