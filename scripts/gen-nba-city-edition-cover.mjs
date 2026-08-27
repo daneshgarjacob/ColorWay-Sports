@@ -30,8 +30,17 @@ const rowY = 350;
 const layers = [];
 for (let i = 0; i < PICKS.length; i++) {
   const x = rowX + i * (CARD_W + GAP);
-  // Whole jersey, contained inside the card with padding. `contain` never crops.
+  // ⚠️ TRIM FIRST. The source PNGs are not framed alike: the Spurs file is a
+  // 500x500 square with a lot of empty margin baked in, the Lakers and Thunder
+  // are tight 410x608 portraits. Feeding them straight to `contain` scales each
+  // one by its CANVAS rather than by the jersey, so the Spurs shirt came out
+  // visibly smaller than the other two. Trimming the transparent margin first
+  // normalises every file to the jersey's own bounds.
+  //
+  // This removes empty pixels only, never any part of the shirt, so it does not
+  // breach the never-crop-a-jersey-product-shot rule.
   const shirt = await sharp(join(JERSEYS, `${PICKS[i]}.png`))
+    .trim({ threshold: 1 })
     .resize({
       width: CARD_W - 56,
       height: CARD_H - 56,
