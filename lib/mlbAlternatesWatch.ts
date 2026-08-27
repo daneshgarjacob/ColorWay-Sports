@@ -1,6 +1,13 @@
 // Counts how many alternate / City Connect / throwback jerseys were worn across
-// the league on the most recent logged day, parsed from the daily tracker post.
-// Feeds <MlbAlternatesWatch /> on the homepage.
+// the league on the most recent COMPLETE logged day, parsed from the daily
+// tracker post. Feeds <MlbAlternatesWatch /> on the homepage.
+//
+// ⚠️ Uses newestCompleteDaySlice, the same day the award cards use, so the
+// "Last Night · <day>" header, the three awards and this mix always describe
+// the same day. Reading the newest day instead published a mix computed off a
+// partial slate the moment a day was spliced in (2026-08-27).
+
+import { newestCompleteDaySlice } from "./mlbHomepage";
 
 const PRIMARY = /^(home white pinstripes|home white|road gray|road grey|home grey|home cream)$/i;
 
@@ -14,21 +21,10 @@ export type AlternatesDay = {
 };
 
 export function buildAlternatesWatch(contentHtml: string): AlternatesDay | null {
-  // First h2 that looks like a day heading is the most recent day.
-  const dayRe = /<h2[^>]*>([\s\S]*?)<\/h2>/g;
-  const strip = (x: string) => x.replace(/<[^>]+>/g, "").trim();
-  let m: RegExpExecArray | null;
-  let start = -1, end = contentHtml.length, day = "";
-  while ((m = dayRe.exec(contentHtml)) !== null) {
-    const text = strip(m[1]);
-    if (/^[A-Z][a-z]+, [A-Z][a-z]+ \d+/.test(text)) {
-      if (start === -1) { start = m.index + m[0].length; day = text; }
-      else { end = m.index; break; }
-    }
-  }
-  if (start === -1) return null;
+  const d = newestCompleteDaySlice(contentHtml);
+  if (!d) return null;
+  const { day, slice } = d;
 
-  const slice = contentHtml.slice(start, end);
   const labels = [...slice.matchAll(
     /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g,
   )].map((u) => ({ color: u[1].trim(), label: u[2].trim() }));

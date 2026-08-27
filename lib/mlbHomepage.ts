@@ -7,26 +7,46 @@ const STANDARD = /^(home white pinstripes|home white|road gray|road grey|home gr
 const LABEL_RE = /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g;
 const strip = (x: string) => x.replace(/<[^>]+>/g, "").trim();
 
-function newestDaySlice(html: string): { day: string; slice: string } | null {
+// A day counts as COMPLETE once its awards are pasted in. Jake picks all three
+// by hand, so their presence is the only reliable signal that a day is finished
+// rather than mid-slate. Case-sensitive on purpose: the generator leaves an
+// uppercase "<!-- JERSEY OF THE DAY ... -->" placeholder that must NOT match.
+const AWARD_RE = /(?:ColorWay Clash of the Day|Jersey Matchup of the Day|(?:Stinker|Worst Jersey|Ugliest Jersey|Jersey) of the Day)/;
+
+export type DaySlice = { day: string; slice: string };
+
+function daySlices(html: string): DaySlice[] {
   const dayRe = /<h2[^>]*>([\s\S]*?)<\/h2>/g;
+  const heads: Array<{ day: string; body: number; head: number }> = [];
   let m: RegExpExecArray | null;
-  let start = -1;
-  let end = html.length;
-  let day = "";
   while ((m = dayRe.exec(html)) !== null) {
     const text = strip(m[1]);
     if (/^[A-Z][a-z]+, [A-Z][a-z]+ \d+/.test(text)) {
-      if (start === -1) {
-        start = m.index + m[0].length;
-        day = text;
-      } else {
-        end = m.index;
-        break;
-      }
+      heads.push({ day: text, body: m.index + m[0].length, head: m.index });
     }
   }
-  if (start === -1) return null;
-  return { day, slice: html.slice(start, end) };
+  return heads.map((h, i) => ({
+    day: h.day,
+    slice: html.slice(h.body, i + 1 < heads.length ? heads[i + 1].head : html.length),
+  }));
+}
+
+// The newest day that actually carries its awards, NOT simply the newest day.
+//
+// ⚠️ Why (2026-08-27): we splice a new day into the tracker as soon as the first
+// game is confirmed, hours before the slate finishes and long before Jake picks
+// the awards. Reading the newest day meant that the moment a partial day landed,
+// the homepage blanked all three award cards AND recomputed "Last Night's Mix"
+// off a two-game sample — it told readers last night was 75% standard white and
+// gray when that was four jerseys from an afternoon still in progress.
+// Falling back to the last complete day keeps the homepage truthful until the
+// day is finished. Everything moves together so the card cannot contradict its
+// own "Last Night · <day>" header.
+export function newestCompleteDaySlice(html: string): DaySlice | null {
+  const days = daySlices(html);
+  // If nothing has awards at all, fall back to the newest day rather than
+  // blanking the zone entirely.
+  return days.find((d) => AWARD_RE.test(d.slice)) ?? days[0] ?? null;
 }
 
 // Returns the first match of `re` that is NOT immediately preceded by a
@@ -55,7 +75,7 @@ function firstPositive(hay: string, re: RegExp): RegExpExecArray | null {
 export type Jotd = { title: string; day: string; image: string | null } | null;
 
 export function getJotd(html: string): Jotd {
-  const d = newestDaySlice(html);
+  const d = newestCompleteDaySlice(html);
   if (!d) return null;
   const m = firstPositive(d.slice, /Jersey of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/g);
   if (!m) return null;
@@ -76,7 +96,7 @@ export type Stinker = { title: string; day: string; image: string | null } | nul
 // above exists to prevent. Older days used "Worst Jersey of the Day", so that
 // spelling is still accepted and an unmigrated day degrades to working.
 export function getStinker(html: string): Stinker {
-  const d = newestDaySlice(html);
+  const d = newestCompleteDaySlice(html);
   if (!d) return null;
   const re = /(?:Stinker|Worst Jersey|Ugliest Jersey) of the Day<\/span>\s*<span[^>]*>([^<]+)<\/span>/;
   const m = d.slice.match(re);
@@ -92,7 +112,7 @@ export function getStinker(html: string): Stinker {
 export type Motd = { matchup: string; grade: string; images: string[] } | null;
 
 export function getMotd(html: string): Motd {
-  const d = newestDaySlice(html);
+  const d = newestCompleteDaySlice(html);
   if (!d) return null;
   // The banner is "ColorWay Clash of the Day" as of 2026-08-14. "Jersey Matchup
   // of the Day" is the pre-rename name, still accepted so an unmigrated day
@@ -154,6 +174,9 @@ export function getWeekdayStandard(html: string): WeekdayStat[] {
     const slice = html.slice(s, e);
     const labels = [...slice.matchAll(LABEL_RE)].map((u) => u[2].trim());
     if (!labels.length) continue;
+    // Skip a day still being logged, or a four-jersey afternoon drags the whole
+    // weekday average with it. Same completeness rule as newestCompleteDaySlice.
+    if (!AWARD_RE.test(slice)) continue;
     const std = labels.filter((l) => STANDARD.test(l)).length;
     const cur = agg.get(heads[i].weekday) || { standard: 0, total: 0, days: 0 };
     cur.standard += std;
