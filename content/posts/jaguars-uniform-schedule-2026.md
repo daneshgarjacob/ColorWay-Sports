@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -87,6 +87,9 @@ Add it up and Bold City is a well-researched uniform that keeps reaching for ref
 Fourth in the 2026 class, and the helmet is doing almost all of the lifting. The gloss teal shell with the gold cage is genuinely one of the best pieces of the year. Below it, the alabaster and gold read closer to New Orleans than Jacksonville, the 904 bumper is the third area-code reference we have graded this year, and the spotted pants are the kind of print that looks sharp in a studio and turns to noise from the upper deck. The teal is the reason this franchise looks like nobody else, and Bold City spends most of its ideas somewhere else.
 
 Jacksonville hosts Indianapolis on Sunday, November 1 for the debut. What is unusual about the AFC South this year is how much of it points at Indianapolis. The Colts are the opponent for [Jacksonville's Rivalries game](/stories/colts-uniform-schedule-2026) and for Houston's in Week 11, while Indianapolis debuts its own Anvil Strike set against the Texans in Week 3. Three brand-new uniforms in one division, and the Colts are on the field for all three. For the background, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

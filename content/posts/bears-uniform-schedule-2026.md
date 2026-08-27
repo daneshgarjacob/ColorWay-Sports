@@ -2,7 +2,7 @@
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -76,6 +76,9 @@ What keeps it off an A is the ceiling the concept sets for itself. This is a her
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Chicago Bears</p>
 
 Chicago wears the set **one time**: Friday, December 25, at noon Central, at home against Green Bay on Netflix. Like every Rivalries set, it stays in the rotation for three seasons.
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520bears%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

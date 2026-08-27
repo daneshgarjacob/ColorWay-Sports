@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-08-26"
+updatedDate: "2026-08-27"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -52,6 +52,9 @@ Here is how it slots into the closet next to the white, primary blue, and Indian
 
 <img src="/images/posts/colts-uniform-schedule-2026/rivalries-uniform-closet.jpg" alt="Colts 2026 uniform closet: white, Anvil Strike Rivalries anthracite, primary royal blue, and Indiana Nights uniforms side by side" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Indianapolis Colts</p>
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dindianapolis%2520colts%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

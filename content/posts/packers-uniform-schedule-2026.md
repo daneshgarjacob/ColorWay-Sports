@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 cardStyle: words
@@ -76,6 +76,9 @@ The grade is not about restraint. Restraint is Green Bay's best quality and we w
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
 
 The debut is **Week 5 against the Bears, Sunday, October 11 at 3:25 CT at Lambeau Field**, exactly the game we had projected: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry. Like every Rivalries set, it stays in the rotation for three seasons.
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

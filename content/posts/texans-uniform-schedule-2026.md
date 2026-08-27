@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -108,7 +108,7 @@ Second place in the 2026 class, and the gap between this and an A is one decisio
 <img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-stroud.jpg" alt="C.J. Stroud seated on a Houston tiled TEXANS bench in the full HOUSTON/US Rivalries uniform" style="width: 100%; border-radius: 10px; margin: 1.5em 0 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Houston Texans</p>
 
-Houston debuts the uniform against Indianapolis on Thursday, November 19, in a standalone Thursday Night Football window, the best possible stage for it. The program's rule is that the uniform comes out at a home game against a division rival, and Indianapolis is doing the same thing from the other side, debuting [their Anvil Strike Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season. Rivalries merchandise goes on sale September 1, and the set stays in Houston's rotation for three seasons. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+Houston debuts the uniform against Indianapolis on Thursday, November 19, in a standalone Thursday Night Football window, the best possible stage for it. The program's rule is that the uniform comes out at a home game against a division rival, and Indianapolis is doing the same thing from the other side, debuting [their Anvil Strike Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season. Rivalries merchandise goes on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations, and the set stays in Houston's rotation for three seasons. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

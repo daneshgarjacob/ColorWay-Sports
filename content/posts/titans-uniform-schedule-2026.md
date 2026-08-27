@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -108,6 +108,9 @@ Third in the 2026 class. Dropping red for a two-blue story was the correct insti
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Tennessee Titans</p>
 
 Like every Rivalries set, it is worn at home against a division rival and stays in the rotation for three seasons. For the background on how the program works and which teams are in which wave, see our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 

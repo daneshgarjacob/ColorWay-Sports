@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-25"
+updatedDate: "2026-08-27"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -114,6 +114,9 @@ The frustrating part is how little Minnesota needed this. The Classic throwback 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Minnesota Vikings</p>
 
 The debut slot is still as good as it gets: **Sunday, December 20 at 7:20 PM on Sunday Night Football against the Detroit Lions**, which is also the team's Walter Payton NFL Man of the Year game. A prime-time NFC North game against the exact rival the set was built around, and the uniform stays in the rotation for three seasons. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
+
+
+Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dminnesota%2520vikings%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
