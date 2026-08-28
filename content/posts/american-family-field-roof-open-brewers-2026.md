@@ -25,7 +25,7 @@ American Family Field has one of the busiest and most distinctive roofs in baseb
     <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rangers at Brewers &middot; 6:40 PM CDT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>80&deg;F</strong> and dry. Milwaukee moves this roof more than any club in baseball and a night like this is why.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>79&deg;F</strong> and dry. Milwaukee moves this roof more than any club in baseball and a night like this is why.</div>
     <a href="https://x.com/Brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #12284B; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Brewers &rarr;</a>
   </div>
 </div>

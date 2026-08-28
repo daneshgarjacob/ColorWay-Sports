@@ -25,7 +25,7 @@ Rogers Centre, still called "the dome" by most Blue Jays fans, opens its roof mo
     <div style="font-size: 2.6em; font-weight: 900; color: #1a7f37; line-height: 1;">OPEN</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Mariners at Blue Jays &middot; 7:15 PM EDT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>68&deg;F</strong> and dry at first pitch, which is the kind of evening Toronto opens for.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>67&deg;F</strong> and dry at first pitch, which is the kind of evening Toronto opens for.</div>
     <a href="https://x.com/BlueJays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #134A8E; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @BlueJays &rarr;</a>
   </div>
 </div>
