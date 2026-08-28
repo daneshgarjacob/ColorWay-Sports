@@ -7,7 +7,7 @@ const M = 92; // shared left margin for kicker, logos, headline
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d2a52"/><stop offset="55%" stop-color="#0a1c38"/><stop offset="100%" stop-color="#050d1c"/>
+      <stop offset="0%" stop-color="#1a4680"/><stop offset="55%" stop-color="#123158"/><stop offset="100%" stop-color="#0a1d38"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.22" r="0.75">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
