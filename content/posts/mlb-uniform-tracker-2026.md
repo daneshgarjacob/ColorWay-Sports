@@ -33,7 +33,31 @@ All seven games are logged. It was a small slate and a quiet one for colour, rig
 
 Then the light blue arrived for the second night running. **Toronto and Milwaukee both wore powder blue again**, exactly as they did on Wednesday, Toronto at home against Kansas City and Milwaukee on the road at Citi Field. Neither one helped: the Royals put thirteen on the Blue Jays and the Brewers put eight on the Mets, who were in the home pinstripes. Los Angeles went to the blue alternate in Atlanta and got shut out by a Braves home white. Arizona closed the night in the Sedona red at San Francisco, where the Giants wore the cream that everyone calls their home white.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #12284B 0%, #8FBCE6 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #eaf4fb;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Milwaukee Brewers Powder Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2093164196145815760"></a></blockquote>
+
+Here is the part that gets missed about powder blue: it was never a home uniform. The colour exists because the rules of the seventies and eighties let visiting clubs wear something other than gray, and powder blue was what a dozen teams reached for. Every one of those jerseys was a road jersey.
+
+Which makes Milwaukee the only club currently wearing theirs the way it was meant to be worn. Toronto had the powder blues on at home on Wednesday and again on Thursday and it looks terrific, but it is a costume borrowed from a different era's rulebook. The Brewers put theirs on at Citi Field, in the visitor's dugout, exactly where the original belongs.
+
+It helps that this is the best-anchored powder blue in the league. The base is the hardest colour in baseball to keep from washing out under lights, and Milwaukee holds it down with a navy cap carrying the ball-in-glove, which remains one of the four or five best logos any team has ever had, and with navy and gold trim heavy enough to survive the outfield camera. Against New York's home pinstripes there was one team on the field with colour on it, and the Brewers put eight runs on the board while wearing it.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Houston Astros Road Gray</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2093155455568638146"></a></blockquote>
+
+Houston has the most interesting colour history of any franchise in baseball and the least interest in using it. This is a club whose heritage includes the tequila sunrise, the most audacious uniform ever worn in the sport, and whose current palette pairs navy with a genuinely good orange. They own an orange alternate. They wore neither.
+
+The road gray itself is not badly drawn, but it is drawn small. The Houston script sits low and narrow across the chest in navy with a thin orange outline, and from the centre-field camera the orange disappears entirely, which leaves a gray shirt with dark lettering on it. That is a problem anywhere. It is a bigger problem in the Bronx, where the home club wears the most recognisable uniform in North American sport and does it in a set that is deliberately almost colourless.
+
+Gray against pinstripes gives you a broadcast with no colour in it at all. Houston is the team here with a choice, and an orange jersey in that ballpark would have been the best-looking game of the night. They won 5-1, so nothing about the evening went badly for them except this.
 
 ### Colorado Rockies at Washington Nationals
 
@@ -211,6 +235,10 @@ Then the light blue arrived for the second night running. **Toronto and Milwauke
 
 ### Arizona Diamondbacks at San Francisco Giants
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #A71930 0%, #ffffff 50%, #EDE3CE 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -235,6 +263,7 @@ Then the light blue arrived for the second night running. **Toronto and Milwauke
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%20francisco%20giants%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
