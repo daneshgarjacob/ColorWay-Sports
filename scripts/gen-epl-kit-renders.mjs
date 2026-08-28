@@ -25,6 +25,13 @@ const KITS = [
     pattern: { type: 'solid', color: '#003399' } },
   { key: 'crystal-palace-away', sleeves: '#131313', collar: '#C4122E', cuffs: '#1B458F',
     pattern: { type: 'solid', color: '#131313' } },
+  // The 26/27 Macron home: white with the 1976 pinstriped sash. Checked against
+  // the product photo 8/28 - the band runs viewer top-LEFT to bottom-RIGHT
+  // (a "\" diagonal), red stripe group on the leading edge, then a white
+  // spine, then the blue group. Shoulders carry matching pinstripe panels,
+  // red on the viewer-left sleeve, blue on the right.
+  { key: 'crystal-palace-home', sleeves: '#ffffff', collar: '#1B458F', cuffs: '#1B458F',
+    pattern: { type: 'sash', base: '#ffffff', red: '#C4122E', blue: '#1B458F' } },
   { key: 'ipswich-home', sleeves: '#0044a9', collar: '#ffffff', cuffs: '#ffffff',
     pattern: { type: 'solid', color: '#0044a9' } },
   { key: 'sunderland-home', sleeves: '#d0021b', collar: '#101010', cuffs: '#101010',
@@ -65,6 +72,24 @@ function bodyFill(p, defs) {
     defs.push(`<pattern id="pv" width="${total}" height="600" patternUnits="userSpaceOnUse" x="9">${rects}</pattern>`);
     return 'url(#pv)';
   }
+  if (p.type === 'sash') {
+    // Drawn as explicit geometry, not a pattern: a rotated stripe group reads
+    // cleanly as ONE band, where a tiled pattern would repeat across the body.
+    // rotate(-22) leans the stripes' tops left, giving the "\" direction the
+    // real shirt has. Stripes are drawn tall (y -300..900) so rotation never
+    // exposes an end inside the clip.
+    // Measured against the product shot: the full band (both groups + the
+    // white spine) is ~a third of the chest, not most of it. Seven stripes a
+    // group, 4.5 wide on an 8 pitch; centred at x=242 so the rotated band
+    // enters at the viewer-left shoulder and exits at the right hem.
+    const stripe = (x, c) => `<rect x="${x}" y="-300" width="4.5" height="1200" fill="${c}"/>`;
+    let bands = '';
+    for (let i = 0; i < 7; i++) bands += stripe(186 + i * 8, p.red);
+    for (let i = 0; i < 7; i++) bands += stripe(246 + i * 8, p.blue);
+    defs.push('<clipPath id="bodyclip"><path d="' + BODY + '"/></clipPath>');
+    p._overlay = `<g clip-path="url(#bodyclip)"><g transform="rotate(-22 225 300)">${bands}</g></g>`;
+    return p.base;
+  }
   if (p.type === 'hpin') {
     const h = p.gap * p.colors.length;
     const lines = p.colors.map((c, i) => `<rect x="0" y="${i * p.gap}" width="450" height="2.5" fill="${c}"/>`).join('');
@@ -82,11 +107,33 @@ for (const k of KITS) {
     '<stop offset="0.12" stop-color="#000" stop-opacity="0"/>' +
     '<stop offset="0.88" stop-color="#000" stop-opacity="0"/>' +
     '<stop offset="1" stop-color="#000" stop-opacity="0.16"/></linearGradient>');
+  let extra = '';
+  if (k.pattern.type === 'sash') {
+    // Shoulder panels: short matching pinstripes at the top of each sleeve,
+    // clipped to the sleeve path so they follow the seam. Cuffs get a second
+    // thin red band over the blue base, the trim the real cuff carries.
+    defs.push('<clipPath id="lclip"><path d="' + LSLV + '"/></clipPath>');
+    defs.push('<clipPath id="rclip"><path d="' + RSLV + '"/></clipPath>');
+    // Each shoulder group rotates about its OWN sleeve, not the body centre -
+    // rotating about (225,300) displaced these clean out of the sleeve clips,
+    // which is why the first render showed bare shoulders.
+    const shoulder = (clip, x0, cx, c) => {
+      let g = '';
+      for (let i = 0; i < 5; i++) g += `<rect x="${x0 + i * 9}" y="40" width="5" height="150" fill="${c}"/>`;
+      return `<g clip-path="url(#${clip})"><g transform="rotate(-22 ${cx} 120)">${g}</g></g>`;
+    };
+    extra = shoulder('lclip', 58, 80, k.pattern.red) + shoulder('rclip', 352, 372, k.pattern.blue) +
+      `<g clip-path="url(#lcuffclip)"><rect x="20" y="270" width="120" height="8" fill="#C4122E"/></g>` +
+      `<g clip-path="url(#rcuffclip)"><rect x="310" y="270" width="120" height="8" fill="#C4122E"/></g>`;
+    defs.push('<clipPath id="lcuffclip"><path d="' + LCUFF + '"/></clipPath>');
+    defs.push('<clipPath id="rcuffclip"><path d="' + RCUFF + '"/></clipPath>');
+  }
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 600" width="450" height="600">
   <defs>${defs.join('')}</defs>
   <path d="${LSLV}" fill="${k.sleeves}"/>
   <path d="${RSLV}" fill="${k.sleeves}"/>
   <path d="${BODY}" fill="${fill}"/>
+  ${k.pattern._overlay ?? ''}
   <path d="${BODY}" fill="url(#shade)"/>
   <path d="${LSLV}" fill="url(#shade)"/>
   <path d="${RSLV}" fill="url(#shade)"/>
@@ -96,6 +143,7 @@ for (const k of KITS) {
   <path d="${BODY}" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="2"/>
   <path d="${LSLV}" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="2"/>
   <path d="${RSLV}" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="2"/>
+  ${extra}
 </svg>`;
   const out = `${OUT}/${k.key}.png`;
   const info = await sharp(Buffer.from(svg)).png({ palette: true, colors: 128, dither: 0.3 }).toFile(out);

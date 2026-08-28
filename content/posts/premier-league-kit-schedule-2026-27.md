@@ -25,8 +25,35 @@ Ten fixtures from Friday night to Monday night. The Premier League confirms kit 
 
 We fill each cell in as the club itself confirms it, not when a preview graphic guesses. That distinction has mattered before: graphics circulating ahead of matchweek 1 had two of these fixtures wrong.
 
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #1B458F 0%, #6CABDD 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Crystal Palace 1-4 Man City</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/crystal-palace-home.png" alt="Crystal Palace white home shirt with the red and blue 1976 sash, worn against Man City on August 28 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CRYSTAL PALACE</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the 1976 Sash</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-city-away.png" alt="Manchester City black worker-bee away shirt worn at Crystal Palace on August 28 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MAN CITY</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #1c1c1c; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the Worker Bee</p>
+    </div>
+  </div>
+</div>
+</div>
+
+The season's best home shirt against its lowest-graded away shirt, on the same pitch. Palace wore the white sash exactly as scheduled. City changed into the black worker-bee even though nothing forced it, and put four past Palace wearing it.
+
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Crystal Palace vs Man City</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White home shirt, blue and red sash</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Black worker-bee away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">8:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Crystal Palace vs Man City</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White home shirt, blue and red sash</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Black worker-bee away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-4</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Liverpool vs Nottingham Forest</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">12:30 PM BST</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Bournemouth vs Everton</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">3:00 PM BST</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Coventry City vs Hull City</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">3:00 PM BST</div></div>
