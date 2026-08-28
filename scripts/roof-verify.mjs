@@ -78,10 +78,18 @@ for (const r of rows) {
   const cond = w.condition ?? "";
   const live = r.state === "Final" || r.state === "In Progress" || r.state === "Game Over";
 
-  const actual = !live ? "TOO EARLY"
-    : /roof closed/i.test(cond) ? "CLOSED"
-    : /dome/i.test(cond) ? "DOME"
-    : "OPEN";
+  // Refinement found 8/28: the field flips from the placeholder to the REAL
+  // call once the ballpark decides, ~90 min before first pitch - Toronto went
+  // from "Roof Closed 72F/0mph" to "Clear 69F, 8 mph, Out To RF" while still
+  // Pre-Game. So a pre-game reading with real wind confirms OPEN early. The
+  // asymmetry matters: a pre-game "Roof Closed" is UNDECIDABLE, because the
+  // placeholder is byte-identical to a genuine early closed call.
+  const placeholder = /roof closed|dome/i.test(cond) && /^0 mph/.test(w.wind ?? "");
+  const actual =
+    /dome/i.test(cond) && live ? "DOME"
+    : live ? (/roof closed/i.test(cond) ? "CLOSED" : "OPEN")
+    : !placeholder && cond ? "OPEN"      // pre-game, real conditions -> decided
+    : "TOO EARLY";
 
   const { call, postDate } = claimed(ROOFED[r.home]);
   const stale = postDate && postDate !== LONG_DATE;
