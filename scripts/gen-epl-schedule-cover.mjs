@@ -53,23 +53,12 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const comps = [];
 // 2 rows x 10, left edge of every column aligned, first column flush at M.
 // Two rows instead of the MLB three, so the badges run larger.
-// Spurs is the one navy-monochrome badge in the league and sinks into the
-// purple even after lightening the ground. It gets a soft white glow behind
-// it - the same quality of light the cover's top glow already casts - rather
-// than a hard backing shape that would break the grid.
-const GLOW = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220">
-  <radialGradient id="g"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.44"/><stop offset="70%" stop-color="#ffffff" stop-opacity="0.12"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
-  <ellipse cx="110" cy="110" rx="105" ry="105" fill="url(#g)"/>
-</svg>`);
 for (let i = 0; i < 20; i++) {
   const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 138, width: 118, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 10), col = i % 10;
   const cellX = M + col * 138 + Math.round((118 - m.width) / 2);
   const cy = 190 + row * 190 + 69;
-  if (logos[i].includes('tottenham')) {
-    comps.push({ input: await sharp(GLOW).png().toBuffer(), left: cellX + Math.round(m.width / 2) - 110, top: Math.round(cy) - 110 });
-  }
   comps.push({ input: buf, left: cellX, top: Math.round(cy - m.height / 2) });
 }
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
