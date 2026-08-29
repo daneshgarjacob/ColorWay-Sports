@@ -29,15 +29,52 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, August 28
 
-Fourteen of fifteen are logged and this was the best colour night of the month, not close. **Four City Connects went on at once** and a fifth club went to a throwback: Cleveland and Toronto both in navy, St. Louis in The Lou, Milwaukee in the Wisco blue, and Tampa Bay in the Devil Rays whites. Only three of the fourteen games were plain white against gray.
+All fifteen are logged, and this was the best colour night of the month by a distance. **Four clubs wore City Connects at the same time and a fifth went to a throwback**: Cleveland and Toronto both in navy, St. Louis in The Lou, Milwaukee in the Wisco blue, and Tampa Bay in the Devil Rays whites. Only three of the fifteen games were plain white against gray.
 
-It started at Wrigley in the afternoon, Cincinnati in the red script against the Cubs in light blue, and it turned into a ten-eight shootout the Reds won. After that the night barely touched an ordinary uniform. Detroit put on the orange and lost by a run to a Dodgers side in the alternate gray, the rarer of Los Angeles' two road jerseys and the one that says Los Angeles across the chest rather than Dodgers. Washington wore the navy and put nine on Miami's road gray. Cleveland wore the navy City Connect and got shut out by a Kansas City road gray anyway, which is the sort of thing that happens when you save the good jersey for a night the bats do not show up.
+It started at Wrigley in the afternoon, Cincinnati in the red script against the Cubs in light blue, and it turned into a ten-eight shootout the Reds won. After that the night barely touched an ordinary uniform. Detroit put on the orange and lost by a run to a Dodgers side in the alternate gray, the rarer of Los Angeles' two road jerseys and the one that says Los Angeles across the chest rather than Dodgers. Washington wore the navy and put nine on Miami's road gray. Cleveland wore the navy City Connect and got shut out by a Kansas City road gray anyway, which is what happens when you save the good jersey for a night the bats do not show up.
 
-The two best-looking fields were both in the American League. **Seattle's teal against Toronto's navy City Connect** at Rogers Centre, under a roof that opened for it, is bright water green against the darkest jersey in the league. And at the Trop, **Tampa Bay brought back the Devil Rays whites**, rainbow script and gradient helmets, against a San Diego side in the khaki. Two clubs, neither in anything you would call a normal uniform, and the Rays won it nine to four.
+At the Trop, **Tampa Bay brought back the Devil Rays whites**, rainbow script and gradient helmets, against a San Diego side in the khaki, and won it nine to four. Arizona closed the night in the road gray at San Francisco, where the Giants wore the Orange Friday alternate and lost a ten-six slugfest in it.
 
-Elsewhere the colour kept coming: Colorado's purple against Atlanta's red, Houston's orange against a Mets black, Pittsburgh's black against The Lou, Baltimore's black at a white Athletics side, and Texas' road gray against the Wisco blue.
+Three games were the plain stuff: Boston's gray at the New York pinstripes, Chicago's gray at the Minnesota whites, and Philadelphia's gray at the Angels' home whites. Worth noting that the most colourless of the three was the best game of the night, a one to nothing Yankees win.
 
-Three games were the plain stuff. Boston's gray at the New York pinstripes, Chicago's gray at the Minnesota whites, and Philadelphia's gray at the Angels' home whites. It is worth noting that the most colourless of the three was also the best game: the Yankees beat the Red Sox one to nothing.
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2C56 0%, #005C5C 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d7f2ef;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Seattle Mariners Northwest Green Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2093516353533862336"></a></blockquote>
+
+Seattle calls it Northwest Green. Everyone else calls it teal, and everyone else is closer to right, because the colour is water rather than forest. It arrived with the club in 1977, disappeared into navy for most of the two thousands, and came back because enough people would not let it go.
+
+What makes it the jersey of the night is where it was worn. Teal is a hard colour to light. Put it in a dim park or against a busy background and it goes muddy and grey-green in a hurry. Rogers Centre with the roof open, on a clear sixty-seven degree evening, is about the best set of conditions a teal jersey will ever get, and the colour held all the way to the outfield camera. The fifty-season patch on the sleeve is a nice touch that most clubs would have oversized; Seattle kept it small.
+
+It also had the good luck to be standing opposite the darkest shirt in the league, which is the other half of why it looked like that.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Toronto Blue Jays Navy City Connect</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2093545377249030444"></a></blockquote>
+
+The idea is good and the drawing is good. A Toronto skyline across the chest with the CN Tower rising through the wordmark is a real piece of design, and the club has one of the three or four best colour schemes in baseball to build it from.
+
+None of which survives the ballpark. The shirt is so dark that from the centre-field camera the skyline disappears entirely and the whole thing reads as a plain black jersey, and Toronto already has royal blue, powder blue and white to work with. Spending a City Connect on a colour the club does not otherwise own, and then rendering the best part of the design in a tone that vanishes on television, is a lot of good work aimed at nothing.
+
+The Blue Jays won eight to one, so they will not care. But they lost the visual to Seattle badly, and they lost it wearing the more expensive jersey.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #33006F 0%, #CE1141 55%, #EB6E1F 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #ffe3d0;">&#9733; ColorWay Clash of the Day &#8212; a Tie &#9733;</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Rockies at Braves &middot; Astros at Mets</span>
+</div>
+
+Two of these came in level and there was no separating them, so for the first time this season the Clash is shared.
+
+**Colorado's purple against Atlanta's red** is the louder of the two. Neither club had to do this. Both had a white or a gray available and both went to the saturated option instead, which is how you end up with a field carrying two colours that nobody would put on a palette together and that look completely correct anyway. Purple is the rarest base in the sport and Colorado is the only club that owns it.
+
+**Houston's orange against New York's black** is the more disciplined one. It is the older trick, a warm colour against a dark neutral, and it works every time because the orange has nowhere to hide. The Astros' orange is the best in baseball and the Mets' black gives it a wall to sit against.
+
+The purple-and-red game is the one you would put on a poster. The orange-and-black game is the one you would actually design. They split it.
 
 ### Cincinnati Reds at Chicago Cubs
 
@@ -157,6 +194,10 @@ Three games were the plain stuff. Boston's gray at the New York pinstripes, Chic
 
 ### Houston Astros at New York Mets
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #EB6E1F 0%, #ffffff 50%, #002D72 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#8212; Tied &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -181,6 +222,7 @@ Three games were the plain stuff. Boston's gray at the New York pinstripes, Chic
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%20york%20mets%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
@@ -244,6 +286,10 @@ Three games were the plain stuff. Boston's gray at the New York pinstripes, Chic
 
 ### Colorado Rockies at Atlanta Braves
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #33006F 0%, #ffffff 50%, #CE1141 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#8212; Tied &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -268,6 +314,7 @@ Three games were the plain stuff. Boston's gray at the New York pinstripes, Chic
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%20braves%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
@@ -440,6 +487,35 @@ Three games were the plain stuff. Boston's gray at the New York pinstripes, Chic
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ATHLETICS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Arizona Diamondbacks at San Francisco Giants
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Diamondbacks 10, Giants 6</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/diamondbacks-road-gray.jpg" alt="Arizona Diamondbacks Road Gray jersey worn August 28 2026 against the Giants, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DIAMONDBACKS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%20diamondbacks%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/giants-orange-alternate.jpg" alt="San Francisco Giants Orange Friday Alternate jersey worn August 28 2026 against the Diamondbacks, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">GIANTS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #FD5A1E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Orange Friday Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%20francisco%20giants%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
 </div>
