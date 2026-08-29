@@ -2,7 +2,7 @@
 title: "loanDepot Park Roof Open or Closed Today? 2026 Miami Marlins Roof Schedule"
 category: "MLB"
 date: "2026-06-27"
-updatedDate: '2026-08-28'
+updatedDate: '2026-08-29'
 excerpt: "loanDepot Park has the least-open roof in MLB. Live status, why it stays shut in Miami, the Marlins' roof rules, and how it compares to every other retractable roof."
 gradient: "linear-gradient(135deg, #0077C8 0%, #111111 55%, #EF3340 100%)"
 league: "mlb"
@@ -19,7 +19,7 @@ loanDepot Park has the least-open roof in Major League Baseball. The Marlins pla
 <div style="margin: 1.75em 0; border: 2px solid #00A3E0; border-radius: 16px; overflow: hidden;">
   <div style="background: #00A3E0; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, August 28, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Saturday, August 29, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
