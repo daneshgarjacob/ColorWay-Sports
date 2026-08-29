@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-08-27"
+updatedDate: "2026-08-29"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -29,7 +29,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 ## The Full USC 2026 Uniform Schedule, Week by Week
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San José State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San José State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal &middot; Worn</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -45,7 +45,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**August 29 vs. San José State.** Cardinal expected. A Week 0 opener, the same afternoon as North Carolina and TCU in Dublin.
+**August 29 vs. San José State.** Worn: the cardinal home jerseys, with San José State in white. A Week 0 opener at the Coliseum, the same afternoon as North Carolina and TCU in Dublin.
 
 **September 5 vs. Fresno State.** Cardinal expected.
 
