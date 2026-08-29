@@ -6,7 +6,7 @@
   "marlins": "Road Gray",
   "nationals": "Navy Alternate",
   "padres": "Khaki Road",
-  "rays": "Home White",
+  "rays": "Devil Rays Throwback",
   "red-sox": "Road Gray",
   "yankees": "Home White Pinstripes",
   "mariners": "Northwest Green Alternate",
@@ -22,5 +22,9 @@
   "rockies": "Purple Alternate",
   "braves": "Red Alternate",
   "astros": "Orange Alternate",
-  "mets": "Black Alternate"
+  "mets": "Black Alternate",
+  "phillies": "Road Gray",
+  "angels": "Home White",
+  "orioles": "Black Alternate",
+  "athletics": "Home White"
 }
