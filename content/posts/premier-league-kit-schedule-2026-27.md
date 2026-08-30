@@ -174,7 +174,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/chelsea-home.png" alt="Chelsea deep blue home shirt with Midwest Gold trim and the rampant lion crest, worn against Brighton on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/chelsea-home.png" alt="Chelsea 2026/27 blue home shirt with the gold rampant lion crest, worn against Brighton on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CHELSEA</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #034694; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the Lion Crest</p>
@@ -249,7 +249,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-home.png" alt="Manchester United red home shirt colorway render with the 1977 style polo collar, worn against Ipswich Town on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-home.png" alt="Manchester United 2026/27 red home shirt with the 1977 style polo collar, worn against Ipswich Town on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MAN UNITED</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #DA020E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the 1977 Collar</p>
@@ -257,7 +257,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-away.png" alt="Ipswich Town cream yellow away shirt colorway render with black and red horizontal pinstripes, worn at Manchester United on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-away.png" alt="Ipswich Town 2026/27 cream yellow away shirt with black and red horizontal pinstripes, worn at Manchester United on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">IPSWICH TOWN</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #EFE3A6; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the 1996 Stripe</p>
@@ -266,7 +266,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">All eight Sunday shirts shown as ColorWay colorway renders, drawn from each club's own launch description, not photographs.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">United and Chelsea shirt photos via Soccer Wearhouse and Azteca Soccer, Ipswich via the club's official store. Brighton, Fulham, Brentford, Sunderland and Leeds shown as ColorWay colorway renders from each club's launch description.</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Crystal Palace vs Man City</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White home shirt, blue and red sash</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Black worker-bee away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-4</div></div>
