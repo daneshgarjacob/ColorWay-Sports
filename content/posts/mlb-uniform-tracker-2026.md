@@ -31,7 +31,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 All seventeen are logged, and the Saturday card turned into the most colourful slate of the month: **four City Connects at once**, in Washington's blue cherry blossoms, the Mets' concrete gray NYC set, Tampa Bay's black gradient and Atlanta's light blue, with San Francisco adding the black Gigantes alternate to the same afternoon. Only three games all day were the plain white against gray.
 
-The afternoon set the tone. Boston shut the Yankees out six to nothing wearing the red alternate, then came back in the road gray for the nightcap. Minnesota and St. Louis both wore cream at the same hour, the Twin Cities set against Chicago's gray and the cream with St. Louis across the chest against Pittsburgh's black. Cincinnati took the red script to Wrigley and got run over seventeen to five. Seattle brought the teal to Toronto and lost by a run, Kansas City took the powder blue to Cleveland's red and won by five, and Texas took the royal blue into Milwaukee's white pinstripes. The West Coast closed it out: Arizona flipped from road gray to the black alternate for the second half of the doubleheader while the Giants swapped the Gigantes for home cream, Baltimore's black alternate met Sacramento gold, and Philadelphia's gray at the Angels' whites was the only traditional matchup left on the board. The nightcap scores fill in when the games go final.
+The afternoon set the tone. Boston shut the Yankees out six to nothing wearing the red alternate, then came back in the road gray for the nightcap. Minnesota and St. Louis both wore cream at the same hour, the Twin Cities set against Chicago's gray and the cream with St. Louis across the chest against Pittsburgh's black. Cincinnati took the red script to Wrigley and got run over seventeen to five. Seattle brought the teal to Toronto and lost by a run, Kansas City took the powder blue to Cleveland's red and won by five, and Texas took the royal blue into Milwaukee's white pinstripes. The West Coast closed it out: Arizona flipped from road gray to the black alternate for the second half of the doubleheader while the Giants swapped the Gigantes for home cream, Baltimore's black alternate met Sacramento gold, and Philadelphia's gray at the Angels' whites was the only traditional matchup left on the board. The Giants took the nightcap seven to two in the cream, Baltimore won five to three in the black, and Philadelphia closed the night four to two in the gray.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -272,7 +272,7 @@ The afternoon set the tone. Boston shut the Yankees out six to nothing wearing t
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Game 2</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Game 2 &middot; Giants 7, Diamondbacks 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -475,7 +475,7 @@ The afternoon set the tone. Boston shut the Yankees out six to nothing wearing t
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Orioles 5, Athletics 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -504,7 +504,7 @@ The afternoon set the tone. Boston shut the Yankees out six to nothing wearing t
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Phillies 4, Angels 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
