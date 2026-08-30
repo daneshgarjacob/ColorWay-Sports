@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #FB090B 0%, #111111 55%, #FB090B 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["serie-a"]
 ---
 
 AC Milan have the widest internal gap of any club in Europe this season. The home kit is one of the three best shirts released anywhere, an A. The away and the new third, out August 7, are both B-. Milan almost always do a really good job of this, and the reason is that they never overthink the home shirt. Everything else, they overthink.

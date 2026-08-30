@@ -11,7 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["premier-league"]
 resurfaceOnUpdate: true
 ---
 
@@ -69,7 +69,7 @@ Nottingham Forest have three uniforms for 2026/27: a home kit, an away kit and a
 
 **What kit are Nottingham Forest wearing today?**
 
-Forest travel to Liverpool on Saturday, August 29, and they will change. Forest red against Liverpool red is a direct clash, so the Collegiate Green away shirt is the expected kit. We update this page as each matchweek is confirmed.
+Forest went to Anfield on Saturday, August 29 and changed, as Forest red against Liverpool red always forces them to. The shirt was the surprise: not the Collegiate Green away but the brand new light blue third, worn for the first time the day after it went on sale, and Forest took a 2-2 draw out of it. We update this page as each matchweek is confirmed.
 
 **What is the pattern on the Nottingham Forest home shirt?**
 
@@ -81,8 +81,8 @@ Yes. The Trefoil returns to a Forest shirt on the 2026/27 Collegiate Green away 
 
 **Has Nottingham Forest released a third kit for 2026/27?**
 
-Not as of late August 2026. Forest have launched the home and away shirts, and we will add the third here as soon as it is released.
+Yes, on Friday, August 28, 2026, completing the wardrobe. It is a light blue shirt with a flowing graphic drawn from the waters of the River Trent, navy branding and trim, grey three stripes, and navy shorts and socks. Forest wore it at Anfield the very next day.
 
 ## The Bottom Line
 
-Forest have kept a great home shirt great by barely touching it, and the River Trent mist graphic is the right size of idea for a kit that does not need rescuing. The Collegiate Green away is the more interesting shirt, carried by an adidas Trefoil the club has not worn in a very long time. The third has not launched yet, so this is a two-shirt wardrobe for now and we will update it when the third lands.
+Forest have kept a great home shirt great by barely touching it, and the River Trent mist graphic is the right size of idea for a kit that does not need rescuing. The Collegiate Green away is the more interesting shirt, carried by an adidas Trefoil the club has not worn in a very long time. The light blue third landed on August 28 and was on a pitch at Anfield within a day, which is about as short a wait between launch and debut as a Premier League shirt gets.

@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #DC052D 0%, #0C2340 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["bundesliga"]
 ---
 
 Bayern have done the sensible thing with the home shirt and something slightly odd with the away. After a few seasons of reaching, the home kit is a deliberate walk back to the classic look. The away revives a crest nobody has seen on a shirt in twenty-five years and then puts it on something that looks like another club's kit.

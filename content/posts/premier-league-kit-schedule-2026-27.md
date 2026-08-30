@@ -3,7 +3,7 @@ title: "Premier League Kit Schedule 2026/27: What Every Club Is Wearing This Mat
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-08-29"
+updatedDate: "2026-08-30"
 excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
 coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover-branded-v2.jpg"
@@ -11,7 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Schedule
 league: "soccer"
-teams: []
+teams: ["premier-league"]
 resurfaceOnUpdate: true
 ---
 
@@ -21,9 +21,154 @@ This page is that schedule. Every fixture, every matchweek, who wears what, and 
 
 ## Matchweek 2: Every Kit Matchup
 
-Ten fixtures from Friday night to Monday night. The Premier League confirms kit colours to both clubs no later than three working days before kickoff, so the Friday fixture is the first to lock and the Monday one is the last. The Friday fixture is now played: Crystal Palace wore the white home shirt and Manchester City changed into the black away, which we had not expected because white clashes with nothing.
+Ten fixtures from Friday night to Monday night. The Premier League confirms kit colours to both clubs no later than three working days before kickoff, so the Friday fixture is the first to lock and the Monday one is the last. Six are played, four kick off today, and every one of them is below as the shirts themselves rather than a line of text.
 
-We fill each cell in as the club itself confirms it, not when a preview graphic guesses. That distinction has mattered before: graphics circulating ahead of matchweek 1 had two of these fixtures wrong.
+We fill each fixture in as the club itself confirms it, not when a preview graphic guesses. That distinction has mattered before: graphics circulating ahead of matchweek 1 had two of these fixtures wrong.
+
+### Today: What Every Club Is Wearing, Sunday August 30
+
+Four fixtures and two forced changes. Chelsea's royal blue keeps Brighton out of the blue home pinstripe and into the inverted white away. At the Stadium of Light both of Fulham's usual options fail at once, the white home against Sunderland's white stripes and the red and black away against Sunderland red, so the sky blue third gets its first league outing of the season. Leeds against Brentford is the quieter change, and Old Trafford needs no intervention at all.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #034694 0%, #0057B8 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Today &middot; 2:00 PM BST &middot; Stamford Bridge</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/chelsea-home.png" alt="Chelsea 2026/27 blue home shirt with gold laurel-wreath trim at the collar and cuffs, worn against Brighton on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CHELSEA</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #034694; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the Gold Laurel</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/brighton-away.png" alt="Brighton and Hove Albion 2026/27 white away shirt with royal blue pinstripes, the change kit at Stamford Bridge on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BRIGHTON</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the Inverted Pinstripe</p>
+    </div>
+  </div>
+</div>
+</div>
+
+Brighton's home shirt is royal blue with white pinstripes, which is the one thing that cannot walk into Stamford Bridge, so the away shirt is the same design with the colours flipped: white base, blue pinstripes, the same 125th anniversary inscription inside the collar. Chelsea stay in the blue with the gold laurel wreath at the collar and cuffs, the best trim detail in the league this season.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #1D428A 0%, #131C37 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Today &middot; 2:00 PM BST &middot; Elland Road</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/leeds-home.png" alt="Leeds United 2026/27 white home shirt with horizontal pinstripes, worn against Brentford on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">LEEDS UNITED</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the Horizontal Pinstripe</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/brentford-away.png" alt="Brentford 2026/27 navy away shirt with cream pinstripes and a thick cream collar, the change kit at Leeds on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BRENTFORD</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #131C37; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the Savile Row Navy</p>
+    </div>
+  </div>
+</div>
+</div>
+
+The trap here is that red and white stripes read as a striped shirt to a supporter and as a half-white shirt to a television camera. Against Leeds' all white that is too close, so Brentford travel in the navy with cream pinstripes, the Savile Row shirt, which is both the correct call and the best-looking one available to them. Leeds wear the horizontal pinstripe, a design the club has never worn before.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #EB172B 0%, #4EC3F0 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Today &middot; 2:00 PM BST &middot; Stadium of Light</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland 2026/27 red and white striped home shirt, worn against Fulham on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">SUNDERLAND</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #d0021b; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the 1937 Stripes</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/fulham-third.png" alt="Fulham 2026/27 sky blue third shirt with neon pink wave lines, the change kit at Sunderland on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">FULHAM</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #4EC3F0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Third, Sky Blue and Neon Pink</p>
+    </div>
+  </div>
+</div>
+</div>
+
+The most constrained fixture of the matchweek. Sunderland's red and white stripes rule out Fulham's white home and their red and black away in one go, which leaves the sky blue and neon pink third, on sale since August 10 and unworn in the league until today. It is the shirt we graded lowest in Fulham's wardrobe, and the clash rules just made it unavoidable.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #DA291C 0%, #0044a9 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Today &middot; 4:30 PM BST &middot; Old Trafford</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-home.png" alt="Manchester United 2026/27 red home shirt with a polo collar tipped in white and black, worn against Ipswich Town on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MAN UNITED</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #DA291C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the 1977 Polo Collar</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-home.png" alt="Ipswich Town 2026/27 blue home shirt with a tonal floodlight emboss, worn at Old Trafford on August 30 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">IPSWICH TOWN</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0044a9; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the Floodlight Emboss</p>
+    </div>
+  </div>
+</div>
+</div>
+
+Nothing to resolve. United's red against Ipswich's blue is one of the cleanest contrasts on the card, so both clubs wear home, and after opening the season in the ivory third at Hull, United go back to the shirt they are supposed to wear: clean red, polo collar tipped in white and black, fifty years on from the 1977 FA Cup final.
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.6em;">Chelsea, Brighton, Brentford, Sunderland, Fulham, Manchester United and Ipswich shown as ColorWay colorway renders, not photographs.</p>
+
+### Monday Night: Aston Villa vs Arsenal
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #670E36 0%, #EF0107 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Mon Aug 31 &middot; 8:00 PM BST &middot; Villa Park</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/aston-villa-home.png" alt="Aston Villa 2026/27 claret and blue home shirt, expected against Arsenal on August 31 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ASTON VILLA</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #670E36; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Claret and Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/arsenal-home.png" alt="Arsenal 2026/27 red home shirt with white sleeves, expected at Villa Park on August 31 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ARSENAL</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #EF0107; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Red and White Sleeves</p>
+    </div>
+  </div>
+</div>
+</div>
+
+Claret and blue against red and white sleeves is close enough to be worth asking about and far enough apart to pass. Villa's home shirt puts sky blue on the sleeves rather than red, and Arsenal's white sleeves break up their own red, so both clubs are expected in their home shirts. Villa have already worn the black and gold away once this season when nobody expected it, so this is the fixture on the card most likely to surprise.
+
+### Friday and Saturday, Already Played
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -32,16 +177,16 @@ We fill each cell in as the club itself confirms it, not when a preview graphic 
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/crystal-palace-home.png" alt="Crystal Palace white home shirt with the red and blue 1976 sash, worn against Man City on August 28 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/crystal-palace-home.png" alt="Crystal Palace white home shirt with the red and blue 1976 sash, worn against Man City on August 28 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CRYSTAL PALACE</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the 1976 Sash</p>
     </div>
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-city-away.png" alt="Manchester City black worker-bee away shirt worn at Crystal Palace on August 28 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-city-away.png" alt="Manchester City black worker-bee away shirt worn at Crystal Palace on August 28 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MAN CITY</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #1c1c1c; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the Worker Bee</p>
@@ -52,7 +197,111 @@ We fill each cell in as the club itself confirms it, not when a preview graphic 
 
 The season's best home shirt against its lowest-graded away shirt, on the same pitch. Palace wore the white sash exactly as scheduled. City changed into the black worker-bee even though nothing forced it, and put four past Palace wearing it.
 
-Saturday's four are now played, and the day produced the first kit debut of the season: **Nottingham Forest wore the new light blue third shirt at Anfield the day after it went on sale**, and took a point off Liverpool's red in it. Hull City did the opposite of a debut, keeping the amber and black home stripes at Coventry because sky blue clashes with nothing they own. Everton finally gave the white pinstripe away shirt, the best shirt in their wardrobe, a league outing at Bournemouth, and Newcastle's Night Navy won 2-0 at a Tottenham side booed off in lilywhite. Verified from match photography, not preview graphics.
+Saturday's four produced the first kit debut of the season: **Nottingham Forest wore the new light blue third shirt at Anfield the day after it went on sale**, and took a point off Liverpool's red in it. Hull City did the opposite of a debut, keeping the amber and black home stripes at Coventry because sky blue clashes with nothing they own. Everton finally gave the white pinstripe away shirt, the best shirt in their wardrobe, a league outing at Bournemouth, and Newcastle's Night Navy won 2-0 at a Tottenham side booed off in lilywhite. Verified from match photography, not preview graphics.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #C8102E 0%, #8FC3E8 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Liverpool 2-2 Nottingham Forest</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/liverpool-home.png" alt="Liverpool 2026/27 red home shirt with a scattered white and pink graphic, worn against Nottingham Forest on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">LIVERPOOL</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C8102E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, the Candy Graphic</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/forest-third.png" alt="Nottingham Forest 2026/27 light blue third shirt with the River Trent wave graphic, debuted at Anfield on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">NOTT'M FOREST</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #8FC3E8; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Third, Its Debut</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #DA020E 0%, #152D63 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Bournemouth 1-1 Everton</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/bournemouth-home.png" alt="AFC Bournemouth 2026/27 red and black striped home shirt, worn against Everton on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BOURNEMOUTH</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #DA020E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Red and Black Stripes</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/everton-away.png" alt="Everton 2026/27 white away shirt with navy pinstripes and a navy V-neck, worn at Bournemouth on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">EVERTON</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, the White Pinstripe</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #4a9bd4 0%, #F5A100 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Coventry City 0-1 Hull City</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/coventry-home.png" alt="Coventry City 2026/27 sky blue home shirt, worn against Hull City on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">COVENTRY CITY</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #4a9bd4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Sky Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/hull-home.png" alt="Hull City 2026/27 amber and black striped home shirt with a white fold-over collar, worn at Coventry on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">HULL CITY</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F5A100; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Amber and Black</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #131C37 0%, #1B2432 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Tottenham 0-2 Newcastle</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/tottenham-home.png" alt="Tottenham Hotspur 2026/27 lilywhite home shirt with a tonal diagonal texture and navy trim, worn against Newcastle on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">TOTTENHAM</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Lilywhite</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 190px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/newcastle-away.png" alt="Newcastle United 2026/27 Night Navy away shirt with the St James' Park brickwork graphic, worn at Tottenham on August 29 2026" style="max-height: 172px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">NEWCASTLE</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #1B2432; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Away, Night Navy</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.6em;">Nottingham Forest, Everton, Hull City, Tottenham and Newcastle shown as ColorWay colorway renders, not photographs.</p>
+
+### The Whole Matchweek at a Glance
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Crystal Palace vs Man City</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White home shirt, blue and red sash</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Black worker-bee away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-4</div></div>
@@ -60,18 +309,19 @@ Saturday's four are now played, and the day produced the first kit debut of the 
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Bournemouth vs Everton</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Red and black striped home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White pinstripe away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-1</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Coventry City vs Hull City</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Sky blue striped home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Amber and black home stripes</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 0-1</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Tottenham vs Newcastle</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Lilywhite home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Night Navy away shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 0-2</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Chelsea vs Brighton</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">2:00 PM BST</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Leeds United vs Brentford</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">2:00 PM BST</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Sunderland vs Fulham</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">2:00 PM BST</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Man United vs Ipswich Town</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">4:30 PM BST</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Aston Villa vs Arsenal</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">8:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Chelsea vs Brighton</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Blue home shirt, gold laurel trim</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">White away shirt, blue pinstripes</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Today &middot; 2:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Leeds United vs Brentford</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">White home shirt, horizontal pinstripes</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Navy away shirt, cream pinstripes</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Today &middot; 2:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Sunderland vs Fulham</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Red and white striped home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Sky blue third shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Today &middot; 2:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Man United vs Ipswich Town</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Red home shirt, 1977 polo collar</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Blue home shirt</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Today &middot; 4:30 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Aston Villa vs Arsenal</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Claret and blue home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #2f6bed;">Red home shirt, white sleeves</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">8:00 PM BST</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Fixtures and kickoff times are confirmed. Kit assignments fill in from Thursday as each club publishes its own confirmation, and the grades follow once the matches are played.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Fixtures showing a final score are <strong>confirmed</strong>, taken from what the clubs actually wore. Today's four and Monday's are the kits the matchweek has been <strong>set</strong> to under the league's three-working-day rule and each club's 2026/27 wardrobe. Clubs post the confirmed shirt on matchday, and we replace the call with the shirt the moment they do.</p>
+
 
 ## Matchweek 1: Every Kit Matchup
 
-Ten fixtures across four days to open the season. Nine are played and confirmed, one is still to come. Two clubs have already gone off-script: Manchester United opened in an ivory third kit at newly promoted Hull City, and Aston Villa went to Brighton in the brand new black and gold away shirt that only went on sale the day before.
+Ten fixtures across four days to open the season, all played and all confirmed. Two clubs have already gone off-script: Manchester United opened in an ivory third kit at newly promoted Hull City, and Aston Villa went to Brighton in the brand new black and gold away shirt that only went on sale the day before.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Arsenal vs Coventry City</div><div style="font-size: 0.78em; font-weight: 700; color: #EF0107;">Red &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #4a9bd4;">Sky Blue &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Arsenal 3, Coventry 0 &middot; Graded B+</div></div>
@@ -86,11 +336,11 @@ Ten fixtures across four days to open the season. Nine are played and confirmed,
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Fulham vs Chelsea</div><div style="font-size: 0.78em; font-weight: 700; color: #666;">White &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #034694;">Royal Blue &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Fulham 2, Chelsea 3 &middot; Graded B+</div></div>
 </div>
 
-<p style="font-size: 0.8em; color: #8892a0; margin: -0.5em 0 2em; line-height: 1.5;">Fixtures showing a final score are <strong>confirmed</strong>, taken from what the clubs actually wore. Kits still marked <strong>Expected</strong> follow the Premier League's clash rules and each club's 2026/27 wardrobe, and Sunday proved that is a prediction and not a promise. Clubs post the confirmed shirt on matchday. We update this grid as each one lands.</p>
+<p style="font-size: 0.8em; color: #8892a0; margin: -0.5em 0 2em; line-height: 1.5;">Every fixture here is <strong>confirmed</strong>, taken from what the clubs actually wore rather than from a preview graphic. Two of the ten went against the league's clash rules entirely: Manchester United chose the ivory third at Hull when their away shirt would have passed, and Aston Villa went to Brighton in a black and gold away kit that had been on sale for a day.</p>
 
 ## Matchweek 1, Graded
 
-Every fixture gets a kit matchup grade once it kicks off. Nine played, nine graded, one still to come. Best of the weekend is Newcastle against Liverpool, the fixture nobody has to think about and nobody ever needs to fix.
+Every fixture gets a kit matchup grade once it kicks off. Ten played, ten graded. Best of the weekend is Newcastle against Liverpool, the fixture nobody has to think about and nobody ever needs to fix.
 
 ### Arsenal vs Coventry City: B+
 
@@ -160,9 +410,14 @@ Why the change at all? Villa's home shirt pairs claret with sky blue sleeves, an
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
   <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #003399 0%, #d0021b 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B+</span></div>
-  <p style="color: #fff; font-size: 15px; font-weight: 900; text-align: center; margin: 0 0 4px;">EVERTON ROYAL BLUE HOME &middot; VS &middot; PALACE WHITE SASH HOME</p>
-  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 10px 0 0; font-weight: 700;">Final &middot; Everton 2, Palace 0</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/everton-home.png" alt="Everton 2026/27 royal blue home shirt with yellow collar and cuffs, worn against Crystal Palace on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">EVERTON &middot; ROYAL BLUE HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/crystal-palace-home.png" alt="Crystal Palace 2026/27 white home shirt with the red and blue 1976 sash, worn at Goodison Park on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">PALACE &middot; WHITE SASH HOME</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Everton 2, Palace 0</p>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Everton shown as a ColorWay colorway render, not a photograph.</p>
 
 Palace brought the most interesting shirt of the weekend, and they did it without changing at all. Their 2026/27 home shirt is predominantly white with a blue and red sash across the chest, the 1976 design returning for the first time in fifty years, finished with a circular old badge in place of the modern crest. White clears Everton's royal blue comfortably, so Palace were allowed to wear their own home kit at Goodison. That makes this the cleanest illustration on the card that an away side changing is a rule outcome, never a default. What keeps it out of the A range is the blue in that sash, which sits close enough to Everton's royal that in wide shots the two shirts borrow from each other slightly. Genuinely great shirt, good matchup, one shade away from excellent. **B+.**
 
@@ -215,11 +470,31 @@ The contrast is fine. Red and white stripes against a dark navy separates cleanl
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
   <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #d69a00 0%, #e8e2d0 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B-</span></div>
-  <p style="color: #fff; font-size: 15px; font-weight: 900; text-align: center; margin: 0 0 4px;">HULL AMBER STRIPES HOME &middot; VS &middot; MAN UNITED IVORY THIRD</p>
-  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 10px 0 0; font-weight: 700;">Final &middot; Hull 2, Man United 0</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/hull-home.png" alt="Hull City 2026/27 amber and black striped home shirt with a white fold-over collar, worn against Manchester United on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">HULL &middot; AMBER STRIPES HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-third.png" alt="Manchester United 2026/27 ivory third shirt with a tonal rose print and maroon trim, worn at Hull City on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN UNITED &middot; IVORY THIRD</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Hull 2, Manchester United 0</p>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Hull City and Manchester United shown as ColorWay colorway renders, not photographs.</p>
 
 Hull did their part. Amber with black central and side stripes is one of the most distinctive home shirts in the country, it photographs beautifully, and a promoted club opening its Premier League return in it is exactly right. United are the problem. Ivory is a warm off-white, Hull's amber is a warm yellow, and putting the two beside each other flattens a matchup that should have been vivid. Their blue away kit would have separated better and there was no rule forcing them past it, which makes the third kit a marketing decision dressed up as a clash solution. Add three centralised badges to a shirt with no red anywhere on it and you have something that reads as a merchandise drop rather than a Manchester United kit. Great home shirt, avoidable away call. **B-.**
+
+### Fulham vs Chelsea: B+
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #f0f0f0 0%, #034694 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B+</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/fulham-home.png" alt="Fulham 2026/27 white home shirt with a red collar, black cuffs and a tonal Thames ripple emboss, worn against Chelsea on August 24 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">FULHAM &middot; WHITE HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/chelsea-home.png" alt="Chelsea 2026/27 blue home shirt with gold laurel-wreath trim at the collar and cuffs, worn at Craven Cottage on August 24 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">CHELSEA &middot; BLUE HOME</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Fulham 2, Chelsea 3</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Fulham and Chelsea shown as ColorWay colorway renders, not photographs.</p>
+
+White against royal blue is the oldest clean contrast in the book and neither club had a decision to make, which is exactly why this one closed the matchweek without a single complication. What lifts it above a routine B is the trim on both shirts: Chelsea's gold laurel wreath at the collar and cuffs is the best-executed detail on any Premier League shirt this season, and Fulham's red collar against the black cuffs is a sharper finish than a plain white shirt usually gets. What keeps it out of the A range is that neither club brought anything you have not seen, and a white shirt is a white shirt. **B+.**
 
 ### What Actually Happened on Friday and Saturday
 
@@ -247,9 +522,9 @@ Three fixtures, and one of them broke the pattern.
 
 **Newcastle vs Liverpool.** Called correctly, and the best looking fixture of the weekend. Black and white stripes against all red is the perfect contrast, both clubs at home in their own colors, nothing for the league to resolve. The match matched the shirts: 2-2, with Elanga, Gakpo and Willock trading goals before Szoboszlai's penalty nine minutes into stoppage time saved a point for Liverpool.
 
-### Still to Come
+### What Actually Happened on Monday
 
-**Fulham vs Chelsea**, Monday. White against royal blue, both home, exactly as expected, and this time the club posted it: Chelsea confirmed the new home shirt with its Midwest Gold badge accents for the trip to the Cottage, and Fulham stayed in white with black shorts. A clean, classic contrast to close the matchweek, graded B+ below. Chelsea won it 3-2.
+**Fulham vs Chelsea**, the last fixture of the matchweek. White against royal blue, both home, exactly as expected, and this time the club posted it: Chelsea confirmed the new home shirt with its Midwest Gold badge accents for the trip to the Cottage, and Fulham stayed in white with black shorts. A clean, classic contrast to close the matchweek, graded B+ below. Chelsea won it 3-2.
 
 ## How Premier League Kit Clashes Actually Get Decided
 

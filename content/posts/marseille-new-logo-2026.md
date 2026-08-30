@@ -7,7 +7,7 @@ gradient: "linear-gradient(135deg, #1565C0 0%, #42A5F5 100%)"
 coverImage: "/images/posts/marseille-new-logo-2026/marseille-cover-comparison.jpg"
 coverImagePosition: "center center"
 league: "soccer"
-teams: ["olympique-marseille"]
+teams: ["olympique-marseille", "ligue-1"]
 ---
 
 <img src="/images/posts/marseille-new-logo-2026/marseille-cover-comparison.jpg" alt="Olympique de Marseille old logo vs new logo 2026 comparison side by side" style="width: 100%; border-radius: 10px;" />

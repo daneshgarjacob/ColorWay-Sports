@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #CB3524 0%, #FFFFFF 45%, #1E2A5A 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["la-liga"]
 ---
 
 Atletico Madrid's home shirt is always nice, and the reason is always the same: they keep it simple. The 2026/27 version is no different and it grades accordingly. The away shirt goes the other way and pays for it.

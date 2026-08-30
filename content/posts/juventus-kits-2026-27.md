@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #FFFFFF 0%, #1A1A1A 50%, #C9A227 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["serie-a"]
 ---
 
 Juventus have fixed the thing everyone complained about last season and introduced a new problem in the process. The stripes are properly back and the pink is gone, replaced by gold. The gold is now the issue. The third shirt, out on August 7, is a bigger one.

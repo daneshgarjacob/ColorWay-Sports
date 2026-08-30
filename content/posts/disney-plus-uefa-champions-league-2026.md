@@ -6,7 +6,7 @@ updatedDate: "2026-04-28"
 excerpt: "Disney+ is replacing Paramount as the streaming home for all three UEFA club competitions. We break down what the Champions League, Europa League, and Conference League move means for US soccer fans."
 gradient: "linear-gradient(135deg, #E8F4F8 0%, #D6E0EE 100%)"
 league: "soccer"
-teams: []
+teams: ["uefa-champions-league"]
 coverImage: "/images/posts/disney-plus-uefa-champions-league-2026/disney-plus-uefa-champions-league.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
