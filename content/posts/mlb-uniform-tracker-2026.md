@@ -33,7 +33,27 @@ All seventeen are logged, and the Saturday card turned into the most colourful s
 
 The afternoon set the tone. Boston shut the Yankees out six to nothing wearing the red alternate, then came back in the road gray for the nightcap. Minnesota and St. Louis both wore cream at the same hour, the Twin Cities set against Chicago's gray and the cream with St. Louis across the chest against Pittsburgh's black. Cincinnati took the red script to Wrigley and got run over seventeen to five. Seattle brought the teal to Toronto and lost by a run, Kansas City took the powder blue to Cleveland's red and won by five, and Texas took the royal blue into Milwaukee's white pinstripes. The West Coast closed it out: Arizona flipped from road gray to the black alternate for the second half of the doubleheader while the Giants swapped the Gigantes for home cream, Baltimore's black alternate met Sacramento gold, and Philadelphia's gray at the Angels' whites was the only traditional matchup left on the board. The Giants took the nightcap seven to two in the cream, Baltimore won five to three in the black, and Philadelphia closed the night four to two in the gray.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #003278 0%, #C0111F 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d7e3f5;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Texas Rangers Royal Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Rangers/status/2093879483270869173"></a></blockquote>
+
+On the most colourful Saturday of the month, the best jersey was the simplest idea on the board: one saturated colour, worn with total commitment. The Rangers' royal is a true royal, brighter than the navy half the league defaults to, with TEXAS across the chest in white trimmed in red so all three franchise colours are working at once.
+
+What set it apart was the backdrop. Milwaukee wore the white with navy pinstripes, and a pinstriped white is the best possible canvas for a saturated visitor: nothing on the home side competes, so the royal carries the whole frame. Texas lost the game five to three and never once lost the picture.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">New York Mets NYC City Connect</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2093839361976455461"></a></blockquote>
+
+The concept is the city's infrastructure: concrete gray, NYC across the chest, purple pulled from the 7 train that runs to the ballpark. As a piece of storytelling it holds together better than most City Connects, and the subway nod is genuinely local.
+
+The problem is what the story is printed on. Gray is the one base colour that gains nothing under stadium lights, and the purple belongs to the train line rather than to any Mets uniform before or since, so the shirt reads as a well-made piece of merchandise for the city and not a jersey for the club. On a night when four other City Connects brought cherry blossoms, a black gradient and a light blue to the party, the Mets wore the sidewalk. They won it six to two over Houston's orange, and the orange still owned every wide shot.
 
 ### Boston Red Sox at New York Yankees
 
@@ -414,6 +434,10 @@ The afternoon set the tone. Boston shut the Yankees out six to nothing wearing t
 
 ### Colorado Rockies at Atlanta Braves
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #33006F 0%, #ffffff 50%, #8FBCE6 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -440,6 +464,9 @@ The afternoon set the tone. Boston shut the Yankees out six to nothing wearing t
   </div>
 </div>
 </div>
+</div>
+
+Same series as Friday's shared Clash, and a completely different colour argument. Friday it was purple against Atlanta's red; on Saturday the Braves went to the light blue City Connect, and purple against light blue might be the rarest pairing the sport can produce, two colours from the cool half of the wheel that still separate cleanly because one is deep and one is pale. Neither club had a reason to do this beyond wanting to. Atlanta won it two to one, and the series takes the Clash two nights running.
 
 ### Texas Rangers at Milwaukee Brewers
 
