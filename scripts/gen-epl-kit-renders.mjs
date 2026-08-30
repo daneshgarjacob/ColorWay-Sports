@@ -48,6 +48,33 @@ const KITS = [
     pattern: { type: 'vstripes', colors: ['#DA020E', '#101010'], widths: [34, 34] } },
   { key: 'fulham-home', sleeves: '#f5f5f5', collar: '#101010', cuffs: '#101010',
     pattern: { type: 'solid', color: '#f5f5f5' } },
+  // ---- Added 2026-08-30 for matchweek 2 Sunday -----------------------------
+  // adidas 26/27 home: clean red base, classic polo collar and striped sleeve
+  // cuffs, styled on the 1977 Domestic Cup shirt for that win's 50th year.
+  { key: 'manchester-united-home', sleeves: '#DA020E', collar: '#ffffff', cuffs: '#ffffff',
+    pattern: { type: 'solid', color: '#DA020E' } },
+  // Umbro 26/27 away: a reinterpretation of the 1996-98 away stripe, cream
+  // yellow base carrying black and red HORIZONTAL pinstripes.
+  { key: 'ipswich-away', sleeves: '#EFE3A6', collar: '#101010', cuffs: '#101010',
+    pattern: { type: 'hpin', base: '#EFE3A6', colors: ['#101010', '#C4122E'], gap: 26 } },
+  // Nike 26/27 home: deep blue with Midwest Gold accents and the rampant lion
+  // crest, the first modern Chelsea home shirt not to use the modern logo.
+  { key: 'chelsea-home', sleeves: '#034694', collar: '#C9A227', cuffs: '#C9A227',
+    pattern: { type: 'solid', color: '#034694' } },
+  // Nike 26/27 away: the home pinstripe inverted, white base with blue
+  // pinstripes, carrying the 125th-anniversary collar inscription.
+  { key: 'brighton-away', sleeves: '#ffffff', collar: '#0057B8', cuffs: '#0057B8',
+    pattern: { type: 'vstripes', colors: ['#ffffff', '#0057B8'], widths: [30, 5] } },
+  // adidas 26/27 THIRD, not the away: bright sky blue with neon pink details.
+  // Fulham's away is a red and black checkerboard, which clashes with
+  // Sunderland's red stripes, so the third is what travels to the Stadium of Light.
+  { key: 'fulham-third', sleeves: '#4FBDEC', collar: '#FF4FA3', cuffs: '#FF4FA3',
+    pattern: { type: 'solid', color: '#4FBDEC' } },
+  // Joma 26/27 away: deep navy with cream vertical pinstripes and a thick cream
+  // crew neck, cut from Savile Row tailoring. Reads black on a broadcast, but
+  // Brentford's third is yellow, so navy is the only dark shirt they own.
+  { key: 'brentford-away', sleeves: '#161C3D', collar: '#EFE7D2', cuffs: '#EFE7D2',
+    pattern: { type: 'vstripes', colors: ['#161C3D', '#EFE7D2'], widths: [30, 5] } },
 ];
 
 // Shared geometry (viewBox 0 0 450 600). Body and sleeves are separate shapes
