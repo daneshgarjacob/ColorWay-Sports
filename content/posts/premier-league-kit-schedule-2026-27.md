@@ -3,7 +3,7 @@ title: "Premier League Kit Schedule 2026/27: What Every Club Is Wearing This Mat
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-08-30"
+updatedDate: '2026-08-31'
 excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
 coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover-branded-v2.jpg"
@@ -21,13 +21,42 @@ This page is that schedule. Every fixture, every matchweek, who wears what, and 
 
 ## Matchweek 2: Every Kit Matchup
 
-Ten fixtures from Friday night to Monday night. The Premier League confirms kit colours to both clubs no later than three working days before kickoff, so the Friday fixture is the first to lock and the Monday one is the last. All ten are now played except Monday's Villa Park closer, and the matchweek reads newest first: Sunday's four at the top, then Saturday's, with Friday's opener at the bottom.
+Ten fixtures from Friday night to Monday night. The Premier League confirms kit colours to both clubs no later than three working days before kickoff, so the Friday fixture is the first to lock and the Monday one is the last. All ten are now played, and the matchweek reads newest first: Monday's Villa Park closer at the top, then Sunday's four, Saturday's, and Friday's opener at the bottom.
 
 We fill each cell in as the club itself confirms it, not when a preview graphic guesses. That distinction has mattered before: graphics circulating ahead of matchweek 1 had two of these fixtures wrong.
+
+The matchweek closed with the away side reaching past its away kit yet again. **Arsenal wore the pale yellow third shirt at Aston Villa** and won 1-0, yellow with navy and burgundy trim against Villa's claret and sky blue. That makes three third-shirt appearances in two matchweeks after Manchester United's ivory at Hull and Fulham's sky blue at Sunderland, and this one was pure choice, because the navy away clears claret with no argument. We grade the matchup a B. Claret against pale yellow is a pairing you might see once a season and both shirts are handsome, but a one-goal Monday in two kits that never quite spark off each other sits in B territory, not the A range.
 
 Sunday's four are in, and the day belonged to a club that went past its away kit entirely. **Fulham travelled to Sunderland in the sky blue and neon pink third shirt**, because the away kit adidas built for them this season is a red and black checkerboard and Sunderland wear red and white stripes at home. That is the clash rule doing exactly what it exists to do, and it is the second time in two matchweeks a club has skipped straight to its third. Chelsea and Manchester United both wore home shirts in seven-goal afternoons, Brighton inverted their own pinstripe into the white away, and Brentford brought the navy to Elland Road.
 
 Manchester United's red carries the 1977 polo collar in the fiftieth year of that cup win, and Ipswich answered it in the cream yellow away that reworks their 1996 stripe. Chelsea's deep blue with the rampant lion took a 4-3 off Brighton's white. Leeds kept the white home shirt against a Brentford away shirt cut from Savile Row tailoring, which reads black on a broadcast but is navy with cream pinstripes in the hand.
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #670E36 0%, #C9A227 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Full Time &middot; Aston Villa 0-1 Arsenal &middot; Graded B</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/aston-villa-home.png" alt="Aston Villa 2026/27 claret home shirt with sky blue collar and sleeve stripes, worn against Arsenal on August 31 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ASTON VILLA</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #670E36; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Claret and Sky Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">VS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/arsenal-third.png" alt="Arsenal 2026/27 pale yellow third shirt with navy and burgundy collar and cuff trim and the navy cannon crest, worn at Aston Villa on August 31 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ARSENAL</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #EDD07C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Third, Pale Yellow</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Both shirts shown in retailer product photography via Soccer Wearhouse.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -278,14 +307,14 @@ The season's best home shirt against its lowest-graded away shirt, on the same p
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Leeds United vs Brentford</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">White home shirt, blue and gold pins</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Navy away shirt, cream pinstripes</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-1</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Sunderland vs Fulham</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Red and white striped home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Sky blue THIRD shirt, not the away</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 1-0</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SUN &middot; AUG 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Man United vs Ipswich Town</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Red home shirt, the 1977 collar</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Cream yellow away, 1996 stripe</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 5-2</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Aston Villa vs Arsenal</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">8:00 PM BST</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">MON &middot; AUG 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Aston Villa vs Arsenal</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Claret and sky blue home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Pale yellow THIRD shirt, not the away</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Full Time &middot; 0-1 &middot; Graded B</div></div>
 </div>
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Fixtures and kickoff times are confirmed. Kit assignments fill in from Thursday as each club publishes its own confirmation, and the grades follow once the matches are played.</p>
 
 ## Matchweek 1: Every Kit Matchup
 
-Ten fixtures across four days to open the season. Nine are played and confirmed, one is still to come. Two clubs have already gone off-script: Manchester United opened in an ivory third kit at newly promoted Hull City, and Aston Villa went to Brighton in the brand new black and gold away shirt that only went on sale the day before.
+Ten fixtures across four days to open the season, all played and confirmed. Two clubs went off-script: Manchester United opened in an ivory third kit at newly promoted Hull City, and Aston Villa went to Brighton in the brand new black and gold away shirt that only went on sale the day before.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; AUG 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Arsenal vs Coventry City</div><div style="font-size: 0.78em; font-weight: 700; color: #EF0107;">Red &middot; Home</div><div style="font-size: 0.78em; font-weight: 700; color: #4a9bd4;">Sky Blue &middot; Home</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Final &middot; Arsenal 3, Coventry 0 &middot; Graded B+</div></div>
