@@ -99,6 +99,9 @@ const sched = await fetch(
   `https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=${date}`,
 ).then((r) => r.json());
 const games = sched?.dates?.[0]?.games ?? [];
+// Standing rule (Jake, 8/30): most recent game at the top of the day, so the
+// reader lands on the newest result. The feed is chronological; reverse it.
+games.sort((a, b) => new Date(b.gameDate) - new Date(a.gameDate));
 
 const pretty = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
   { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
