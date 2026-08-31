@@ -3,7 +3,7 @@ title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the 
 category: MLB
 date: "2026-06-23"
 topViewsRank: 2
-updatedDate: "2026-08-31"
+updatedDate: '2026-08-31'
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
@@ -89,7 +89,7 @@ Want to see whether the Red Sox stuck to the plan? Our [MLB daily uniform tracke
   </div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One catch the grid can't show: when the Red Sox play on the road on a <strong>Friday</strong>, they swap the grays for the <strong>red alternate</strong> instead. The two Friday looks — green at home, red on the road — are the closest thing Boston has to a fixed rule.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One catch the grid can't show: when the Red Sox play on the road on a <strong>Friday</strong>, they often swap the grays for the <strong>red alternate</strong> instead, though not every road Friday gets it. The two Friday looks — green at home, red on the road — are the closest thing Boston has to a fixed rule.</p>
 
 The Red Sox carry five uniforms in 2026, and the lineup is the same five they settled into for 2025 after a major shake-up: the navy alternate was retired and the Fenway Green City Connect was added. The 2026 tweaks are cosmetic — a return to the cleaner 2023 jersey template, plus a re-spacing of the "RED SOX" lettering on the home whites after fans flagged the crowded original in spring. All of it debuted with the home opener on April 3 against San Diego.
 

@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-31"
+updatedDate: '2026-08-31'
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -86,7 +86,7 @@ The Milwaukee Brewers carry five uniforms in 2026, and the closet looks differen
   </div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Two honest caveats the grid can't show. First, the Brewers don't run a strict day-of-week system, so treat the week above as a representative homestand, not a guarantee — the cream home and white pinstripe trade off freely, and the navy alternate travels with the team on the road too. Second, the only near-rules are the soft ones: the navy <strong>ball-in-glove alternate on Sundays</strong> (home and away) and the <strong>City Connect on Friday home games</strong>.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Two honest caveats the grid can't show. First, the Brewers don't run a strict day-of-week system, so treat the week above as a representative homestand, not a guarantee — the cream home and white pinstripe trade off freely, and the navy alternate travels with the team on the road too. Second, the only near-rules are the soft ones: the navy <strong>ball-in-glove alternate on many Sundays</strong> (home and away) and the <strong>City Connect on Friday home games</strong>.</p>
 
 The Brewers carry five uniforms in 2026, and the headline change is at the bottom of the closet: the road grays are out. In their place is a reimagined powder blue road set, a throwback to the look Milwaukee wore from its 1970 arrival through the mid-1980s, and it slots in as the new primary road uniform. The other big addition is a second City Connect, the "Wisco" jersey, which debuted on April 10, 2026 against Washington. Everything still runs on the navy-and-gold identity the franchise reclaimed in its 2020 rebrand, when the beloved "ball-in-glove" logo came back as the centerpiece of the brand.
 

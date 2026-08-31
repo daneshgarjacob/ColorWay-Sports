@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: When the Powder Blues and City Connect C
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-08-31"
+updatedDate: '2026-08-31'
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -141,7 +141,7 @@ These might be the best alternate uniform in all of baseball. The powder blue is
 <img src="/images/posts/phillies-uniform-schedule-2026/phillies-city-connect.avif" alt="Trea Turner Philadelphia Phillies City Connect jersey" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Philadelphia Phillies</p>
 
-The City Connect uniforms are worn on Friday night home games at Citizens Bank Park. The Phillies introduced these in April 2024, and they are back for a third season in 2026.
+The City Connect uniforms are worn on most Friday night home games at Citizens Bank Park. The Phillies introduced these in April 2024, and they are back for a third season in 2026.
 
 The City Connect design features a midnight navy gradient with "Philly" in a gothic font inspired by the Constitution and other historical documents signed in Philadelphia. There are Liberty Bell cracks inside each letter. It is a creative concept. But we are not in love with these. The dark navy base makes them feel heavy, and the overall look does not pop the way the rest of the Phillies' closet does. The concept is solid on paper, but on the field they just do not hit the same as the powder blues or creams. Still, giving them their own designated night keeps the rotation clean and gives fans who do love them a guaranteed day to see them.
 

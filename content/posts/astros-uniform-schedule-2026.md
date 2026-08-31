@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-08-31"
+updatedDate: '2026-08-31'
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -86,7 +86,7 @@ The Houston Astros carry five uniforms in 2026, and while their rotation isn't a
   </div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: the only ironclad rule is the <strong>City Connect on Monday home games</strong>. The orange alternate (a frequent Friday look) and the navy alternate (the customary Sunday jersey) travel and float more than a fixed grid suggests — the orange top in particular gets worn both home and away. Treat the week above as a representative homestand-plus-road-trip, not a guarantee.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: the only ironclad rule is the <strong>City Connect on Monday home games</strong>. The orange alternate (a frequent Friday look) and the navy alternate (the traditional Sunday jersey, though the orange has been claiming Sundays lately) travel and float more than a fixed grid suggests — the orange top in particular gets worn both home and away. Treat the week above as a representative homestand-plus-road-trip, not a guarantee.</p>
 
 The Astros carry five uniforms in 2026, and the set is the same one they settled into for 2025 after a notable change: the beloved navy "Space City" City Connect was retired and an all-new white "Stros" City Connect took its place. Everything else — the navy-and-orange home, road, and alternate looks that date to the 2013 rebrand — carries straight over. It's a closet that knows exactly what it is, anchored by a brand identity Houston has run cleanly for more than a decade.
 
