@@ -17,6 +17,16 @@ export default function AboutPage() {
       <main className="max-w-[800px] mx-auto px-5 py-16 animate-fade-in-up">
         {/* Hero section */}
         <div className="text-center mb-12">
+          {/* The one place the logo exists as a real, indexable image on a page —
+              Google Images can't collect the header's inline SVG, so this img is
+              what ranks for "ColorWay Sports logo". Keep the alt exactly this. */}
+          <img
+            src="/brand/colorway-logo.jpg"
+            alt="ColorWay Sports logo"
+            width={375}
+            height={89}
+            className="mx-auto mb-8"
+          />
           <p className="text-[11px] uppercase tracking-[0.2em] text-[#8A8F98] font-medium mb-3">
             About Us
           </p>
