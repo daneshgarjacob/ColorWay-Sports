@@ -60,7 +60,10 @@ We grade it an A-, and the only reason it is not an A or an A+ is the shorts. Th
 
 The Pacers nailed the hard part. Bringing back the pinstripes could have been a lazy nostalgia grab, but the gold base, the "Indiana" wordmark, and the "Boom, Baby!" tribute make this a Statement jersey with real soul, and getting the buy-in of a franchise cornerstone like Haliburton is the cherry on top. Tidy up the shorts and it is elite. As it stands, it is an A-, and one of our favorite new looks of the year.
 
-The wait to own one is over, too: the pinstriped Statement jersey went on sale September 1, 2026.
+The wait to own one is over, too: the pinstriped Statement jersey went on sale September 1, 2026, and the team put Haliburton in it to say so.
+
+<img src="/images/posts/pacers-statement-pinstripes-2026/available-now.jpg" alt="Tyrese Haliburton wearing the Indiana Pacers gold pinstriped 2026-27 Statement Edition jersey, pointing at the Indiana wordmark, under an Available Now headline" style="width: 100%; border-radius: 10px; margin: 1em 0 0.4em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-bottom: 2em;">via <a href="https://x.com/Pacers" style="color: #999; text-decoration: underline;">@Pacers</a> on X</p>
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
