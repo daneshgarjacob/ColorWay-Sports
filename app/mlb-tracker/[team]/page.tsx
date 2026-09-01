@@ -226,7 +226,7 @@ export default async function TeamTrackerPage({
             href={meta.scheduleHref}
             className="flex-1 min-w-[220px] text-center bg-[#2f6bed] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
           >
-            {entry.name} Uniform Schedule &rarr;
+            {entry.name}{" "}Uniform Schedule &rarr;
           </a>
           <a
             href="#calendar"
