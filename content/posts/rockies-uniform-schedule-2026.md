@@ -2,7 +2,7 @@
 title: "Colorado Rockies Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: '2026-08-31'
+updatedDate: "2026-08-31"
 excerpt: "The Colorado Rockies run four uniforms in 2026 — home white pinstripes, road grays, the purple alternate, and the day-to-night City Connect. Here's every jersey, when they wear it, and why the black vest still isn't back."
 gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"

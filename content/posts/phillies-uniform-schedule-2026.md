@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: When the Powder Blues and City Connect C
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: '2026-08-31'
+updatedDate: "2026-08-31"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City

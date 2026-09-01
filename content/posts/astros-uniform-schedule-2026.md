@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: '2026-08-31'
+updatedDate: "2026-08-31"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
