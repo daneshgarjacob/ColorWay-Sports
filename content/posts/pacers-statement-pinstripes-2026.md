@@ -2,7 +2,7 @@
 title: "The Pacers Brought Back the Pinstripes: Grading Indiana's New Gold Statement Jersey"
 category: NBA
 date: "2026-07-30"
-updatedDate: "2026-07-30"
+updatedDate: "2026-09-01"
 excerpt: "The Pacers unveiled a gold, black-pinstriped Statement jersey reviving their iconic 1997 look, with 'Boom, Baby!' stitched at the hem. We grade the return of the pinstripes."
 gradient: "linear-gradient(135deg, #002D62 0%, #1d1d1d 55%, #FDBB30 130%)"
 kicker: NBA
@@ -60,6 +60,17 @@ We grade it an A-, and the only reason it is not an A or an A+ is the shorts. Th
 
 The Pacers nailed the hard part. Bringing back the pinstripes could have been a lazy nostalgia grab, but the gold base, the "Indiana" wordmark, and the "Boom, Baby!" tribute make this a Statement jersey with real soul, and getting the buy-in of a franchise cornerstone like Haliburton is the cherry on top. Tidy up the shorts and it is elite. As it stands, it is an A-, and one of our favorite new looks of the year.
 
+The wait to own one is over, too: the pinstriped Statement jersey went on sale September 1, 2026.
+
+<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
+<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div style="width: 44px; height: 44px; border-radius: 10px; background: #fdf3d7; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#b8860b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
+<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Pacers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">The gold pinstriped Statement and the rest of the Indiana closet, from Fanatics</div></div>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dindiana%2520pacers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #002D62; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
+</div>
+<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
+</div>
+
 ## Frequently Asked Questions
 
 **What is the Pacers' new Statement Edition jersey for 2026?**
@@ -77,3 +88,7 @@ Yes. The 2026 Statement Edition revives the black pinstripes on a gold base, a "
 **What grade does the Pacers' Statement jersey get?**
 
 We grade it an A-. The gold pinstriped top with the "Indiana" wordmark and the Slick Leonard tribute is close to perfect; the only thing keeping it from an A or A+ is the busy asymmetrical graphic on the shorts.
+
+**When did the Pacers' pinstriped Statement jersey go on sale?**
+
+September 1, 2026. The uniform was unveiled on July 30 and hit retail about a month later, ahead of its first on-court appearances in the 2026-27 season.
