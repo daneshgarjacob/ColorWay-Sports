@@ -29,9 +29,43 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Monday, August 31
 
-Eight of the twelve are in, with the three West Coast games still playing and one more card coming: the Astros broke out the **new white Stros City Connect** for its Monday night slot against the White Sox, a first appearance on this tracker, and the card lands as soon as we have a clean shot of the jersey. The shape of the night so far: every home club in white or pinstripes except two, Cincinnati in the red script alternate and Minnesota in navy, while the road colour came from San Diego in khaki, Seattle in navy, Miami in black, Chicago in black, and the best shirt of the lot, **Milwaukee in the powder blue at Wrigley**.
+Nine of the twelve are in, with the two late West Coast games still playing and one more card coming: the Astros broke out the **new white Stros City Connect** for its Monday night slot against the White Sox, a first appearance on this tracker, and the card lands as soon as we have a clean shot of the jersey. The call of the night needed no deliberation. **Baltimore in the orange alternate against Colorado in the purple, colour on colour at Coors Field**, is the ColorWay Clash of the Day the moment the lineup cards were posted. Elsewhere the road colour kept coming: San Diego in khaki, Seattle and Minnesota's opponents in navy blue territory, Miami and Chicago in black, and **Milwaukee in the powder blue at Wrigley**.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### Baltimore Orioles at Colorado Rockies
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #DF4601 0%, #ffffff 50%, #333366 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/orioles-orange-alternate.jpg" alt="Baltimore Orioles Orange Alternate jersey worn August 31 2026 against the Rockies, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ORIOLES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #DF4601; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Orange Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%20orioles%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rockies-purple-alternate.jpg" alt="Colorado Rockies Purple Alternate jersey worn August 31 2026 against the Orioles, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROCKIES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #333366; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Purple Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcolorado%20rockies%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
 
 ### Athletics at Texas Rangers
 
@@ -212,7 +246,7 @@ Eight of the twelve are in, with the three West Coast games still playing and on
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Mets 3, Rays 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
