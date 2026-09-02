@@ -2,8 +2,8 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: When Kelly Green and the Black Alternate Come Out"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-18"
-excerpt: "The Eagles 2026 uniform schedule: midnight green at home, white on the road, and the Kelly Green games worth planning around once the dates land."
+updatedDate: "2026-09-02"
+excerpt: "The Eagles 2026 uniform schedule: Kelly Green confirmed for Week 9 against the Giants, midnight green at home, white on the road, and the alternate dates still to come."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
 logoSrc: "/logos/leagues/nfl.png"
@@ -12,7 +12,7 @@ league: nfl
 teams: ["philadelphia-eagles"]
 ---
 
-No alternate jersey in the NFL generates the reaction Kelly Green does, and the Eagles know it, which is why they ration it to about three games a year. For 2026 the closet is midnight green at home, white on the road, Kelly Green for a small number of showcase dates, and the black alternate for one. The wordmark got a subtle update this year too. Here is the Eagles 2026 uniform schedule week by week, plus the games the Kelly Greens are most likely to land on.
+No alternate jersey in the NFL generates the reaction Kelly Green does, and the Eagles know it, which is why they ration it to about three games a year. For 2026 the closet is midnight green at home, white on the road, Kelly Green for a small number of showcase dates, and the black alternate for one. The first Kelly Green date is now official: Week 9 against the Giants on November 8, with New York in its Vintage White throwback. The wordmark got a subtle update this year too. Here is the Eagles 2026 uniform schedule week by week, plus the games the Kelly Greens are most likely to land on.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -36,7 +36,7 @@ Nine home games, eight on the road, and a Week 10 bye.
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
+  <div style="background: #007A33; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Kelly Green</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,21 +48,29 @@ Nine home games, eight on the road, and a Week 10 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The Eagles had not announced their Kelly Green or black-alternate dates for 2026 at the time of writing, so <strong>no alternate games are marked on the grid</strong>. Midnight green at home and white on the road is the base rotation; the alternate games will replace three or four of the midnight-green home weeks once Philadelphia confirms them. We will update this page the day they do.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One alternate game is confirmed: <strong>Kelly Green in Week 9 against the Giants</strong>, announced by the team on September 2. The remaining Kelly Green dates and the black-alternate game are still unannounced, so every other cell is the base rotation, midnight green at home and white on the road. We will update this page the day the rest land.</p>
 
-## Kelly Green (Expected 3 Games, Dates Not Yet Announced)
+## Kelly Green (1 Game Confirmed, 2 More Expected)
+
+The first date is official. Philadelphia wears Kelly Green for **Week 9 against the New York Giants on Sunday, November 8** at 1:00 p.m. Eastern at Lincoln Financial Field, announced on September 2 with the line "Historic rivalry. Historic uniforms." The Giants confirmed the same morning that they wear their **Vintage White** throwback for it, so both clubs take the field in their 1980s looks. It is the best-dressed game on either team's calendar, and NFL Fashion Advice's reaction to the two graphics side by side says it for everyone.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/fashion_nfl/status/2095156124085559580"></a></blockquote>
+</div>
+
+Our [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026) has New York's side of it, including the second Vintage White game four days later.
+
 
 The 1990s throwback came back in 2023 and has been the most talked-about alternate in football since. Philadelphia has settled into three wearings a season, and the club's own 2025 announcement is the useful precedent: **all three were NFC East games, and one of them was on the road at Dallas**, which the Eagles noted was the first road wearing since the jerseys returned in 2023. The other two were home games against the Giants and the Commanders.
 
 That road game matters more than it looks. A visiting team can only wear a coloured jersey if the home team wears white, and Dallas is the one club in the league that wears white at home by tradition. So a trip to AT&T Stadium is the rare road date where Kelly Green is actually available to Philadelphia.
 
-Applying that to the 2026 schedule, these are the live candidates:
+Applying that to the rest of the 2026 schedule, these are the live candidates for the other two wearings:
 
 - **Week 12 at Cowboys, Thursday, November 26.** The Thanksgiving game, and a direct repeat of the 2025 fixture they chose last year. The white-at-home rule makes it possible, and it is the biggest audience the Eagles will play in front of all season.
 - **Week 7 vs. Cowboys, Monday, October 26.** A Monday-night home game against Dallas, the other half of the same rivalry.
-- **Week 9 vs. Giants, November 8.** A daytime home divisional game, the exact profile of one of the 2025 wearings.
 
-Treat those as our read, not as news. What is worth saying plainly is that Kelly Green is a better uniform than the midnight green primary, and the gap is wide enough that three games a year feels like a mistake the Eagles are making on purpose.
+Treat those two as our read, not as news; Week 9 is the only date the team has confirmed. What is worth saying plainly is that Kelly Green is a better uniform than the midnight green primary, and the gap is wide enough that three games a year feels like a mistake the Eagles are making on purpose.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520kelly%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Kelly Green throwback on Fanatics →</a>
 
@@ -104,10 +112,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Eagles wearing next week?**
 
-Midnight green at the Linc and white on the road. The Kelly Green and black alternate dates are still unannounced, so the grid above is the base rotation.
+Midnight green at the Linc and white on the road, with one exception confirmed so far: Kelly Green at home against the Giants in Week 9 on November 8. The other Kelly Green and black-alternate dates are still unannounced.
 
 **When do the Eagles wear Kelly Green in 2026?**
-Philadelphia has not announced the 2026 dates yet. The Eagles have worn Kelly Green three times a season since bringing it back in 2023, and in 2025 all three were NFC East games, including a road game at Dallas. Our read for 2026 is the Thanksgiving game at Dallas on November 26, the Week 7 Monday-night home game against Dallas, and the Week 9 home game against the Giants.
+One date is confirmed: Week 9 against the Giants on Sunday, November 8 at Lincoln Financial Field, with New York in its Vintage White throwback. The Eagles have worn Kelly Green three times a season since bringing it back in 2023, and in 2025 all three were NFC East games, including a road game at Dallas. Our read for the other two is the Thanksgiving game at Dallas on November 26 and the Week 7 Monday-night home game against Dallas.
 
 **When do the Eagles wear the black alternate in 2026?**
 No date has been announced. Philadelphia wore black once in 2025, on Black Friday. The Week 16 Christmas Eve game against Houston on December 24 is the most natural slot on the 2026 schedule.
