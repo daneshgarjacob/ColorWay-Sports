@@ -70,7 +70,7 @@ function decide(team, f) {
         ? ["CLOSED", `<strong>${f.temp}&deg;F</strong> at first pitch. Chase Field shuts and pre-cools any time Phoenix runs this hot, which in late August is essentially every night.`]
         : ["OPEN", `<strong>${f.temp}&deg;F</strong> and dry. Mild enough that Arizona opens it up.`];
     case "Houston Astros":
-      return f.temp >= 85 || f.rain >= 30
+      return f.temp >= 85 || f.rain >= 30 || f.hum >= 60
         ? ["CLOSED", `<strong>${f.temp}&deg;F</strong> with ${f.hum}% humidity. Daikin Park stays shut through the Houston summer.`]
         : ["OPEN", `<strong>${f.temp}&deg;F</strong> and dry, which is the rare Houston night the roof opens.`];
     case "Texas Rangers":
