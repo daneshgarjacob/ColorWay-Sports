@@ -65,7 +65,7 @@ Nike, who have supplied Paris Saint-Germain since 1989.
 
 PSG have the best wardrobe in Europe for 2026/27. The home shirt is the kit of the season at an A, built on a single unbroken Hechter stripe and the restored Old Royal blue, and the away is an inverted take on the same idea at an A-. Wardrobe grade: A.
 
-See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 42 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27), [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27) and [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27).
 
 ## Frequently Asked Questions
 

@@ -2,7 +2,7 @@
 title: "What Kit Are Liverpool Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: '2026-08-31'
+updatedDate: "2026-09-02"
 excerpt: "What kit are Liverpool wearing today? The expected shirt for their next match, plus every 2026/27 Liverpool kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1A1A1A 55%, #00B2A9 120%)"
 coverImage: "/images/posts/liverpool-kits-2026-27/cover.jpg"
@@ -60,16 +60,16 @@ The flag reference is the part worth having. It is a supporter detail rather tha
 
 What holds it back is that it never quite gets loud. Maroon on black is a low-contrast pairing that reads almost as texture at broadcast distance, so a graphic built on something as visually noisy as a flag wall ends up looking calm. It is nice, and it is a bit boring, and the third slot is the one place a club has permission to take a real swing.
 
-**Still marked provisional.** The August 12 date came and went and Liverpool have not launched this shirt through the club's own channels, so it stays out of our main European ranking. Full official images are circulating and the design is not in doubt, but we do not count a kit as released until the club puts it out or the team plays in it. We will move it into the ranking the day that happens.
+Liverpool finally launched it through the club on August 27, a fortnight after the original date and alongside the club's new online store, so the provisional tag comes off and the grade goes into our European ranking as is. Seeing the finished shirt on players rather than in leaks did not move us: the maroon graphic is bolder in the flesh than the early images suggested, but the verdict holds. A handsome shirt that plays it safe in the one slot where safe is not required.
 
-**Grade: B (provisional)**
+**Grade: B**
 
 ## Liverpool's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #C8102E 0%, #1A1A1A 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B+</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: A- &nbsp;·&nbsp; Away: B &nbsp;·&nbsp; Third: B (Provisional)</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: A- &nbsp;·&nbsp; Away: B &nbsp;·&nbsp; Third: B</p>
 </div>
 
 ## adidas Are Back, And It Shows
@@ -84,9 +84,9 @@ adidas, who have supplied Liverpool since 2025.
 
 ## The Bottom Line
 
-Liverpool's 2026/27 home shirt is one of the best in Europe at an A-, built on the 1989 Candy graphic and the deepest red they have worn in years. The white away is a clean B carrying a pattern taken from 1970s Anfield match tickets. The black third takes its maroon graphic from the flags on the Kop and sits at a provisional B, a nice shirt that plays it safe in the one slot where safe is not required, still waiting on an official club launch. Wardrobe grade: B+.
+Liverpool's 2026/27 home shirt is one of the best in Europe at an A-, built on the 1989 Candy graphic and the deepest red they have worn in years. The white away is a clean B carrying a pattern taken from 1970s Anfield match tickets. The black third takes its maroon graphic from the flags on the Kop and sits at a B, a nice shirt that plays it safe in the one slot where safe is not required. Wardrobe grade: B+.
 
-See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 42 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 
@@ -104,7 +104,7 @@ The home shirt is deep red with the all-over geometric graphic from the 1989 to 
 
 **What grade do Liverpool's 2026/27 kits get?**
 
-The home shirt gets an A-, the away a B, and the third a provisional B. The wardrobe grade is a B+.
+The home shirt gets an A-, the away a B, and the third a B. The wardrobe grade is a B+.
 
 **What is the Liverpool Candy kit?**
 
@@ -116,7 +116,7 @@ The pattern is a shield-crest motif taken directly from Anfield match tickets pr
 
 **When does the Liverpool 2026/27 third kit come out?**
 
-It was scheduled for August 12, 2026, but Liverpool have not launched it through the club's own channels as of August 15. Full official images are circulating. The shirt is black with an abstract maroon graphic taken from the waving flags on the Kop, silver adidas stripes, crest and sponsor, and the 97 Hillsborough memorial emblem inside the back collar. Our provisional grade is B.
+It launched on August 27, 2026, a fortnight after the original August 12 date, at 9am BST through the club's new online store and in club shops. The shirt is black with an abstract maroon graphic taken from the waving flags on the Kop, silver adidas stripes, crest and sponsor, and the 97 Hillsborough memorial emblem inside the back collar. We grade it a B.
 
 **What is the pattern on Liverpool's 2026/27 third kit?**
 

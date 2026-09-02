@@ -77,7 +77,7 @@ Nike, who have supplied Barcelona since 1998.
 
 Barcelona's 2026/27 away shirt is the boldest kit in Europe, a Kobe Bryant collaboration with a purple-to-black gradient and iridescent serpent detailing, graded A-. The third is its equal for different reasons, a light green lifted from the 1996/97 Kappa away that is the nicest colour anyone released this summer. The home shirt is a thoughtful B+ built on four blaugrana stripes and Gaudi-inspired numbering, held back only by the gradient running through the stripes. Wardrobe grade: A-.
 
-See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 42 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

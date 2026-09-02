@@ -71,7 +71,7 @@ Nike, who have supplied Inter since 1998.
 
 Inter's 2026/27 home shirt honours the 1998 kit with Lyon Blue, gold detailing and a tailoring-scissors motif, and it would grade higher if not for the collar. The baseball-inspired white away with navy pinstripes is well made but reads more as a concept than an Inter shirt. Wardrobe grade: B.
 
-See where every one of these shirts landed in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
+See where every one of these shirts landed in [our full ranking of all 42 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [PSG's 2026/27 kits](/stories/psg-kits-2026-27), [AC Milan's 2026/27 kits](/stories/ac-milan-kits-2026-27) and [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27).
 
 ## Frequently Asked Questions
 

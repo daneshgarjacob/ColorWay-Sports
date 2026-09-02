@@ -2,8 +2,8 @@
 title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-18"
-excerpt: "We graded 35 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
+updatedDate: "2026-09-02"
+excerpt: "We graded 42 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Ranked
@@ -11,11 +11,11 @@ league: "soccer"
 teams: []
 ---
 
-Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all thirty-five shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
+Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all forty-two shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
 
-One note on what is here and what is not. Only released kits are ranked. Six of the fifteen third shirts have officially launched, Juventus's and AC Milan's on August 7, Arsenal's, Borussia Dortmund's, Real Madrid's and Barcelona's since, and all six are graded below. The other nine are not out yet. Liverpool's was scheduled for August 12 and the club still has not put it out, so it is not ranked here despite full images being in circulation. We do not grade a shirt until the club has actually released it. Those get added as they land.
+One note on what is here and what is not. Only released kits are ranked. Twelve of the fifteen third shirts have now officially launched, the latest batch being Tottenham's, Bayern's, Atletico's, Liverpool's and Manchester City's between August 11 and August 27, plus Borussia Dortmund's away, and all of them are graded below. Chelsea's, Inter's and Paris Saint-Germain's thirds are still to come. We do not grade a shirt until the club has actually released it. Those get added as they land.
 
-## 36. Manchester City, Away
+## 42. Manchester City, Away
 
 The lowest grade in the whole exercise. Black with gold and an all-over worker-bee pattern, and on paper a Manchester industrial-heritage nod should work. It just does not come together. Nothing about it says Manchester City, and once the bee print is doing the talking there is no blue anywhere to anchor it. **Grade: C+**
 
@@ -23,7 +23,7 @@ The lowest grade in the whole exercise. Black with gold and an all-over worker-b
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
 </div>
 
-## 35. Juventus, Third
+## 41. Juventus, Third
 
 Released August 7. A black base with a grey flame graphic climbing off the hem front and back, gold on the adidas logo, the shoulder stripes and the crest, and a gold "YOUTH SINCE 1897" sign-off under the back collar. The name comes from iuventus, the Latin for youth, and the whole thing is styled Y2K. There is too much going on. The flames, the gold, the Y2K treatment and a black base are all competing for the same attention, and the shirt never decides which one is the point. It is also very dark, which is the other problem, because the flame graphic is the best idea here and you cannot see it from any distance. **Grade: C+**
 
@@ -31,7 +31,7 @@ Released August 7. A black base with a grey flame graphic climbing off the hem f
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/juventusfcen/status/2085637069716836639"></a></blockquote>
 </div>
 
-## 34. Tottenham, Home
+## 40. Tottenham, Home
 
 Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the collar and cuffs, referencing the mid-1980s Hummel shirts. The problem is that this is almost exactly what Tottenham wear every year. ESPN ranked it 34th of every Premier League shirt and called it plain by design, and that is about right. It is not bad. It is just the same. **Grade: B-**
 
@@ -39,7 +39,7 @@ Lilywhite with a diagonal tonal stripe woven into the fabric and navy at the col
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2083517559312425236"></a></blockquote>
 </div>
 
-## 33. AC Milan, Away
+## 39. AC Milan, Away
 
 A tribute to the 2007 Champions League win, white with red trim. The concept is fine and the reference is a good one, but the graphic treatment on the body does not land, and for a club that is usually immaculate this is the weak link in an otherwise strong pair. **Grade: B-**
 
@@ -47,7 +47,7 @@ A tribute to the 2007 Champions League win, white with red trim. The concept is 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2079846410136986108"></a></blockquote>
 </div>
 
-## 32. Atletico Madrid, Away
+## 38. Atletico Madrid, Away
 
 Black with neon green accents. Atletico usually get change kits right by keeping them quiet, and this one goes the other way. The neon is a lot, and it does not have a reason to be there. Not a disaster, just not for us. **Grade: B-**
 
@@ -55,7 +55,7 @@ Black with neon green accents. Atletico usually get change kits right by keeping
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/atletienglish/status/2084216243087683751"></a></blockquote>
 </div>
 
-## 31. Bayern Munich, Away
+## 37. Bayern Munich, Away
 
 Mostly white with navy and red, and it revives the classic Bayern e.V. crest on a shirt for the first time in nearly twenty-five years, which is a genuinely lovely detail. Footy Headlines called it their best change kit in years. Our issue is simpler: it looks a lot like Real Madrid's home shirt. White with dark trim and a navy collar is not a Bayern silhouette. **Grade: B-**
 
@@ -63,7 +63,7 @@ Mostly white with navy and red, and it revives the classic Bayern e.V. crest on 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBayernEN/status/2079104556038828506"></a></blockquote>
 </div>
 
-## 30. Chelsea, Away
+## 36. Chelsea, Away
 
 Solid black with Midwest Gold trim and a standalone gold lion crest, Chelsea's first mostly black away in years. Taken on its own it is a nice shirt. The trouble is it has nothing to do with Chelsea. Strip the crest off and you could sell this to half of Europe. **Grade: B-**
 
@@ -71,7 +71,7 @@ Solid black with Midwest Gold trim and a standalone gold lion crest, Chelsea's f
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2083507887482228945"></a></blockquote>
 </div>
 
-## 29. Inter, Away
+## 35. Inter, Away
 
 Built on baseball, of all things. White with navy pinstripes, a giant Inter monogram crest and "Inter Milano" inside the collar. We are the last people who will object to a football club borrowing from baseball, and the pinstripes are executed well. It just never quite tips over into something we love. **Grade: B-**
 
@@ -79,7 +79,7 @@ Built on baseball, of all things. White with navy pinstripes, a giant Inter mono
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Inter_en/status/2078036432153669786"></a></blockquote>
 </div>
 
-## 28. AC Milan, Third
+## 34. AC Milan, Third
 
 Released August 7, and the cleverest shirt on this list. Black with fluorescent red detailing engineered to react to UV light, so the jersey genuinely changes character depending on how it is lit. The red is a good red and the trick is real rather than a press release. Our reservation is the base. Milan on black is already a dark shirt, and the UV work only pays off under the right lighting, which means most of the time you are looking at a very dark jersey with red trim on it. We like it. We wanted more of it visible. **Grade: B-**
 
@@ -87,7 +87,7 @@ Released August 7, and the cleverest shirt on this list. Black with fluorescent 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/acmilan/status/2085622635958833441"></a></blockquote>
 </div>
 
-## 27. Manchester United, Third
+## 33. Manchester United, Third
 
 Ivory, with a bespoke floral pattern of hand-drawn roses worked into the fabric, maroon at the collar, cuffs, adidas mark and devil crest, and green accents pulled from Manchester community buildings. The references are drawn from Salford Lads and Girls Club and the city's red-brick architecture, and on paper this is one of the two or three richest concepts of the season. The problem is that almost none of it survives the walk from the lookbook to the pitch. The rose print is tonal, so at broadcast distance it reads as texture rather than pattern, and ivory against maroon against green is a quiet palette that goes quieter under floodlights. What you are left with watching a match is an off-white shirt with dark trim. We like it and we cannot get excited about it, which is a strange thing to say about a kit with this much thought behind it. **Grade: B-**
 
@@ -95,7 +95,7 @@ Ivory, with a bespoke floral pattern of hand-drawn roses worked into the fabric,
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2088642021023998267"></a></blockquote>
 </div>
 
-## 26. Manchester City, Home
+## 32. Manchester City, Home
 
 A sky-blue gradient fading from darker shoulders to white at the hem, meant to hold every shade of blue in club history, with a metallic silver crest. The idea is better than the execution. ESPN said the colours look like they ran in the wash, and once you have read that you cannot unsee it. City are the only club on this list without a single kit above a B. **Grade: B**
 
@@ -103,7 +103,11 @@ A sky-blue gradient fading from darker shoulders to white at the hem, meant to h
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2060677603325870087"></a></blockquote>
 </div>
 
-## 25. Real Madrid, Away
+## 31. Manchester City, Third
+
+White, split down the middle by a stripe that shades from navy on one side to sky blue on the other, with a deep V-collar, narrow navy and sky panels down the flanks, embossed CITY lettering on the cuffs and A.I. CREATOR on the neck tape. The story is the process: a supporter named Elliott built it with PUMA's AI Creator tool and 1.7 million fan votes chose it from around 180,000 entries. Set the story aside and it is a clean white shirt with one clear idea in the middle of it, which is more than either of City's other two managed this season. The gradient blur under the sponsor is the soft spot. A fan and a prompt produced the most City-looking shirt in the wardrobe. **Grade: B**
+
+## 30. Real Madrid, Away
 
 Dark green and white, drawn from the crest. Green is a legitimate Real Madrid secondary and the tonal treatment is clean, but there is not enough contrast anywhere to give your eye something to hold. It needs one pop of colour it never gets. **Grade: B**
 
@@ -111,7 +115,7 @@ Dark green and white, drawn from the crest. Green is a legitimate Real Madrid se
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2080204500158062814"></a></blockquote>
 </div>
 
-## 24. Juventus, Away
+## 29. Juventus, Away
 
 Pale pink with black and white, and speckled embossed detailing on the front most likely drawn from zebra motifs. Juventus and pink have real history, so this is not the provocation it looks like. It is just fine rather than good. **Grade: B**
 
@@ -119,7 +123,7 @@ Pale pink with black and white, and speckled embossed detailing on the front mos
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/juventusfc/status/2084882095348797862"></a></blockquote>
 </div>
 
-## 23. Tottenham, Away
+## 28. Tottenham, Away
 
 The odd one out on this list, in that Tottenham wore it in a match before it ever reached shops. They posted its first outing on July 28, and it has since gone on general sale. It arrives with custom shorts rather than the usual reuse of another set. It is a better shirt than the home, which is not a high bar this season, and it does at least look like a decision rather than a repeat. **Grade: B**
 
@@ -127,7 +131,7 @@ The odd one out on this list, in that Tottenham wore it in a match before it eve
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SpursOfficial/status/2082353177077432619"></a></blockquote>
 </div>
 
-## 22. Real Madrid, Home
+## 27. Real Madrid, Home
 
 White with dark green collar and cuff trim, a diamond jacquard drawn from the geometry of the crown, and pink on the three stripes. The jacquard is nice work up close. But this is Real Madrid, the most-copied home shirt in the sport, and they have done far better than this. The pink on the shoulders is the part we would take back. **Grade: B**
 
@@ -135,7 +139,7 @@ White with dark green collar and cuff trim, a diamond jacquard drawn from the ge
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2083607772604576216"></a></blockquote>
 </div>
 
-## 21. Inter, Home
+## 26. Inter, Home
 
 Black and Lyon Blue honouring the 1998 shirt, with University Gold detailing, the collar back, and graphics referencing Milanese tailoring through tailors' scissors. The shirt itself is good and the 1998 reference is a strong one. The collar is what holds it back for us, and on a kit this close to being excellent that is the detail we keep returning to. **Grade: B**
 
@@ -143,7 +147,11 @@ Black and Lyon Blue honouring the 1998 shirt, with University Gold detailing, th
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Inter/status/2084946100536983729"></a></blockquote>
 </div>
 
-## 20. Liverpool, Away
+## 25. Liverpool, Third
+
+Black, with an abstract maroon graphic across the body and sleeves drawn from the flags on the Kop, and every logo, the three stripes, the Liver Bird and the Standard Chartered mark, in matte silver. Liverpool finally launched it on August 27, a fortnight late and alongside the club's new online store. The flag idea is a supporter reference rather than an archive one, which we like, and the silver branding is the right restraint. The trouble is that maroon on black is a low-contrast pairing, and at broadcast distance a busy graphic goes quiet. A handsome shirt that does not take the swing the third slot invites. **Grade: B**
+
+## 24. Liverpool, Away
 
 White with maroon-red logos, the classic adidas Trefoil, and a shield-crest pattern lifted straight off 1970s Anfield match tickets. The match-ticket detail is the best story of any away shirt this season. The shirt itself is clean and a little boring, which is also what Liverpool usually do with their white one. **Grade: B**
 
@@ -151,7 +159,15 @@ White with maroon-red logos, the classic adidas Trefoil, and a shield-crest patt
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LFC/status/2082376871744827629"></a></blockquote>
 </div>
 
-## 19. Bayern Munich, Home
+## 23. Bayern Munich, Third
+
+Dark navy shading into purple, with an abstract full-body graphic in red, pink and violet that hides four moments in club history: Beckenbauer's European wins, Kahn's penalty save in Milan in 2001, Andersson's title-winning free kick the same year, and Robben's 2013 Champions League winner. The adidas mark, crest, Telekom logo and shoulder stripes are all bright red. You will not find the moments from the stands, so judge it as a shirt: a marbled purple base with hot red accents is a strong pairing, and it is the first navy third Bayern have worn since 2019/20. Busy, but busy in one direction, and easily the most interesting of their three. **Grade: B**
+
+## 22. Borussia Dortmund, Away
+
+Black, with a tonal charcoal lightning-bolt pattern across the body, a buttoned placket collar with white inserts, white cuff trim, and the crest and PUMA mark in bright yellow. Launched August 11 under the line "Wherever we go." A black away shirt is the safest call in football, but this one earns it: the bolts give it movement, the white neck and cuffs keep it from reading as a training top, and the yellow crest does the identity work on its own. Not as brave as the purple third, better than most black change kits. **Grade: B**
+
+## 21. Bayern Munich, Home
 
 Deep red with tonal vertical pinstripes woven in, gold on the collar and cuffs, white logos, and a gold badge marking the Bundesliga title. After a few years of Bayern reaching, this is a deliberate walk back to the classic look, and we are glad they did it. **Grade: B**
 
@@ -159,7 +175,7 @@ Deep red with tonal vertical pinstripes woven in, gold on the collar and cuffs, 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBayern/status/2085380615931658695"></a></blockquote>
 </div>
 
-## 18. Real Madrid, Third
+## 20. Real Madrid, Third
 
 The first pink Real Madrid have worn in six years and only the third in the club's history, and adidas commits to it properly rather than using it as trim the way the home shirt does. A dark pink base carries a tonal geometric pattern of interlocking circles and diamonds front and back, with ivory on the collar, the cuffs, the three stripes and the logos, and a retro "RMCF" across the shoulders. adidas frame it as a nod to Latin American craftsmanship and the club's support across the region.
 
@@ -169,7 +185,7 @@ It is clean, the ivory keeps the pink from going sickly, and committing fully is
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/realmadrid/status/2087667946923425807"></a></blockquote>
 </div>
 
-## 17. Chelsea, Home
+## 19. Chelsea, Home
 
 Solid blue with gold piping on the shoulder seams and side panels and a gold laurel-wreath graphic around the collar and cuffs. The gold works and the crest looks great. The oddity is the enormous empty space across the chest, because Chelsea are going into 2026/27 without a front-of-shirt sponsor. It will look considerably better once something fills it. **Grade: B+**
 
@@ -177,7 +193,7 @@ Solid blue with gold piping on the shoulder seams and side panels and a gold lau
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChelseaFC/status/2081730243011002596"></a></blockquote>
 </div>
 
-## 16. Manchester United, Home
+## 18. Manchester United, Home
 
 Clean red with a polo collar and banded cuffs, marking fifty years since the 1977 FA Cup final. It is a bit boring, and it is also unmistakably a classic Manchester United shirt, which is most of what a United home kit needs to be. The retro collar is the right amount of reaching. **Grade: B+**
 
@@ -185,7 +201,11 @@ Clean red with a polo collar and banded cuffs, marking fifty years since the 197
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManUtd/status/2085020754111017291"></a></blockquote>
 </div>
 
-## 15. Juventus, Home
+## 17. Tottenham, Third
+
+Psychic Purple with darker purple pinstripes edged in white, a navy fold-over polo collar with white piping, a tonal geometric print underneath, white Swoosh and crest, and stripes that fade out around the AIA mark. Nike built it off the mid-1990s purple away shirts to mark thirty years with the club, and it is the best thing Tottenham have worn in years. Purple has real history here, this shade is bold without going garish, the pinstripes give the shirt structure and the polo collar finishes it properly. A change shirt that actually changes something, and supporters had named it the Spurple within a day. **Grade: B+**
+
+## 16. Juventus, Home
 
 Proper black and white vertical stripes are back, with a retro fold-over white polo collar, and gold metallic replacing last season's pink on the crest and branding. The stripes and the collar are both excellent. The gold is the problem: it makes the Jeep sponsor and the Juventus crest genuinely hard to read against the white. **Grade: B+**
 
@@ -193,7 +213,7 @@ Proper black and white vertical stripes are back, with a retro fold-over white p
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/juventusfc/status/2084338513546195089"></a></blockquote>
 </div>
 
-## 14. Arsenal, Third
+## 15. Arsenal, Third
 
 Yellow, and finally back to red, blue and yellow together. Arsenal wearing yellow as a change kit is one of the great looks in football and it has been away too long, so getting all three colours into one shirt is the right call. The only reservation is the shade of yellow itself, which is not quite the one we wanted. **Grade: B+**
 
@@ -201,7 +221,7 @@ Yellow, and finally back to red, blue and yellow together. Arsenal wearing yello
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2085059067936915903"></a></blockquote>
 </div>
 
-## 13. Arsenal, Away
+## 14. Arsenal, Away
 
 Navy with yellow accents, a deliberate return to bruised-banana territory. What we like most is that all three Arsenal colours are in play here too. Last season's away blue edges it for us on the colour alone, but this is a strong shirt. **Grade: B+**
 
@@ -209,7 +229,7 @@ Navy with yellow accents, a deliberate return to bruised-banana territory. What 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Arsenal/status/2083130562739617929"></a></blockquote>
 </div>
 
-## 12. Barcelona, Home
+## 13. Barcelona, Home
 
 Four vertical blaugrana stripes echoing the 2006/07 shirt, with a tonal gradient through them, collar and cuff framing drawn from the renovated Camp Nou facade panels, and new serif numbering inspired by Gaudi. There is more thought in this shirt than almost any other on the list. We have liked past Barcelona homes more, but this is a good one. **Grade: B+**
 
@@ -217,7 +237,7 @@ Four vertical blaugrana stripes echoing the 2006/07 shirt, with a tonal gradient
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2083242236137836715"></a></blockquote>
 </div>
 
-## 11. Borussia Dortmund, Third
+## 12. Borussia Dortmund, Third
 
 Purple with neon yellow collar trim and yellow PUMA logos. It reads a little like a goalkeeper shirt, which is usually a criticism and here somehow is not. Dortmund went somewhere genuinely unusual, the colour is good, and with only four third kits out so far, having one of them turn out this interesting is a small gift. It is the best of the four. **Grade: B+**
 
@@ -225,12 +245,20 @@ Purple with neon yellow collar trim and yellow PUMA logos. It reads a little lik
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlackYellow/status/2082723621043077141"></a></blockquote>
 </div>
 
-## 10. Borussia Dortmund, Home
+## 11. Borussia Dortmund, Home
 
 Yellow with a tonal graphic across the front and lower body drawn from the steel framework of the Minister Stein colliery and the Dortmunder U-Tower. Simple with a pop, which is the whole brief for a Dortmund home shirt. The industrial reference is specific to the city instead of being generic heritage filler. **Grade: B+**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BVB/status/2084225693768909136"></a></blockquote>
+</div>
+
+## 10. Atletico Madrid, Third
+
+Light Pumice grey with six thin hoops in red and navy, a navy polo collar with a red edge, a retro shield crest, and grey shorts and socks. Nike went to the late 1990s for the template and it lands: the hoops are thin enough to read as detail rather than pattern, the grey is warm rather than flat, and the navy collar gives the whole shirt an anchor. It is the restrained, club-specific change kit Atletico usually get right and the neon away this season did not. Released August 24. The best third shirt of the Nike cluster so far. **Grade: A-**
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Atleti/status/2091784319966597135"></a></blockquote>
 </div>
 
 ## 9. Liverpool, Home
@@ -321,17 +349,17 @@ Individual shirts are one thing. What a club actually looks like across a season
 - **[Manchester United](/stories/manchester-united-kits-2026-27), B+.** Carried by the away shirt, which is the best change kit of the year; the ivory third pulled the wardrobe back down.
 - **[Barcelona](/stories/barcelona-kits-2026-27), A-.** A thoughtful home shirt and the boldest away in Europe.
 - **[Arsenal](/stories/arsenal-kits-2026-27), B+.** Three kits, no weak link, and red, blue and yellow back together across the set.
-- **[Liverpool](/stories/liverpool-kits-2026-27), B+.** A top-six home shirt with a quiet white one behind it.
-- **[Borussia Dortmund](/stories/borussia-dortmund-kits-2026-27), B+.** The most consistent club here, with both graded kits at exactly the same level.
-- **[Atletico Madrid](/stories/atletico-madrid-kits-2026-27), B+.** A strong home shirt and a change kit that overreaches.
+- **[Liverpool](/stories/liverpool-kits-2026-27), B+.** A top-ten home shirt with a quiet white away and a handsome, careful black third behind it.
+- **[Borussia Dortmund](/stories/borussia-dortmund-kits-2026-27), B+.** Two B+ shirts and a solid black away; nothing in the set drags.
+- **[Atletico Madrid](/stories/atletico-madrid-kits-2026-27), B+.** Two A- shirts, the home and the grey hooped third, either side of a neon away that overreaches.
 - **[AC Milan](/stories/ac-milan-kits-2026-27), B.** The widest internal gap of any club: an A home shirt, then a B- away and a B- third behind it.
 - **[Chelsea](/stories/chelsea-kits-2026-27), B.** Both shirts fine, neither one especially Chelsea.
 - **[Real Madrid](/stories/real-madrid-kits-2026-27), B.** Two shirts, two Bs, and the sport's most valuable home kit settling for fine.
-- **[Bayern Munich](/stories/bayern-munich-kits-2026-27), B.** A welcome return to the classic red, and an away that looks like somebody else's.
+- **[Bayern Munich](/stories/bayern-munich-kits-2026-27), B.** A welcome return to the classic red, an away that looks like somebody else's, and a navy-purple third that is the most interesting of the three.
 - **[Inter](/stories/inter-kits-2026-27), B.** A good home shirt with a collar we cannot get past, and an away built on baseball.
-- **[Tottenham](/stories/tottenham-kits-2026-27), B.** Still the thinnest wardrobe on the list, but the away shirt is a clear step up on the home.
+- **[Tottenham](/stories/tottenham-kits-2026-27), B.** The purple third is the best thing Spurs have worn in years and lifts a careful home and away.
 - **[Juventus](/stories/juventus-kits-2026-27), B.** Stripes back where they belong, then a busy black third that gives most of the gain straight back.
-- **[Manchester City](/stories/manchester-city-kits-2026-27), B-.** The only club without a single kit above a B, and now the only club left at B-.
+- **[Manchester City](/stories/manchester-city-kits-2026-27), B-.** The only club without a single kit above a B, and the fan-designed third is the best of the three.
 
 ## What This Season Actually Tells Us
 
@@ -365,9 +393,9 @@ Paris Saint-Germain, at an A. They are the only club whose kits both grade A- or
 
 Manchester City are the only one of Europe's fifteen biggest clubs without a single kit graded above a B. Their sky-blue gradient home shirt got a B and their black worker-bee away got a C+, the joint-lowest grade in the ranking alongside Juventus's third kit.
 
-**Why are most third kits not in this ranking?**
+**Why are some third kits not in this ranking?**
 
-Because several of them are not out yet. Six of the fifteen third kits have officially launched, Arsenal's, Borussia Dortmund's, Juventus's, AC Milan's, Real Madrid's and Barcelona's, and all six are ranked here. The other nine are still to come. Liverpool's was due on August 12 and the club has not launched it, so it stays out of the ranking. We do not grade a shirt until the club has released it.
+Because three of them are not out yet. Twelve of the fifteen third kits have officially launched and all twelve are ranked here, along with Borussia Dortmund's late-arriving away shirt. Chelsea's, Inter's and Paris Saint-Germain's thirds are still leaks, and we do not grade a shirt until the club has released it.
 
 **What is the Barcelona Kobe Bryant kit?**
 
@@ -379,6 +407,6 @@ Because Chelsea are going into the season without a front-of-shirt sponsor, so t
 
 **How many kits are in this ranking?**
 
-Thirty-three, covering every home and away shirt released by Europe's fifteen biggest clubs plus the four third kits that have launched. The eleven unreleased third kits are not graded yet.
+Forty-two, covering every home and away shirt released by Europe's fifteen biggest clubs plus the twelve third kits that have launched. The three unreleased third kits, Chelsea's, Inter's and PSG's, are not graded yet.
 
 <div data-more-coverage style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.9em;">More club kit coverage</p><a href="/stories/olivia-rodrigo-fc-barcelona-el-clasico-kit-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Barcelona's Olivia Rodrigo El Clasico Kit</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the collaboration shirt, graded</span></a><a href="/stories/marseille-new-logo-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Marseille's New Logo</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the rebrand, reviewed</span></a><a href="/stories/inter-miami-cenit-third-kit-2026" style="display: block; padding: 10px 0; border-bottom: 1px solid #e3e7ec; text-decoration: none;"><span style="color: #14284b; font-weight: 700; font-size: 15px;">Inter Miami's Cenit Third Kit</span><span style="display: block; color: #5f7085; font-size: 13px; margin-top: 2px;">the third shirt, graded</span></a></div>

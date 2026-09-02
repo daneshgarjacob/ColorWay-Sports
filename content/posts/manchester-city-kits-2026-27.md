@@ -2,7 +2,7 @@
 title: "What Kit Are Man City Wearing Today? 2026/27 Kits Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: '2026-08-31'
+updatedDate: "2026-09-02"
 excerpt: "What kit are Man City wearing today? The expected shirt for their next match, plus every 2026/27 Man City kit, jersey and uniform graded."
 gradient: "linear-gradient(135deg, #6CABDD 0%, #1C2C5B 55%, #F0B310 120%)"
 coverImage: "/images/posts/manchester-city-kits-2026-27/cover.jpg"
@@ -50,21 +50,25 @@ Heritage references work when they sit on top of an identity. This one replaced 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ManCity/status/2083258895330644417"></a></blockquote>
 </div>
 
-## The Third Shirt: Not Yet Released
+## The Third Shirt: B
 
-City's third kit has not launched. What is known is unusual enough to be worth flagging: it was designed through PUMA's AI Creator tool, from roughly 180,000 designs submitted by supporters, narrowed to ten finalists.
+White, split down the middle by a stripe that shades from navy on one side to sky blue on the other, with a deep V-collar, a narrow navy and sky panel down each flank, embossed CITY lettering on the cuffs and A.I. CREATOR printed on the neck tape. Navy shorts and white socks. Released August 27.
 
-We will grade it when it is officially out, and we will update this post at that point. Leaked images are circulating but we do not grade a shirt until the club releases it.
+The story is the process. A supporter named Elliott built the design with PUMA's AI Creator tool, City say around 180,000 shirts were submitted from over 200 countries, and 1.7 million votes picked this one from a shortlist of ten. PUMA added the gradient blur under the sponsor, and that soft patch in the middle of the chest is the one thing on the shirt we would change.
+
+Set the process aside, because a shirt has to work on its own, and this one does. It is a clean white kit with one clear idea in the centre of it, and that is more than either of City's other two managed this year. The gradient home tried to hold every shade of blue at once and the away forgot to be blue at all. A fan and a prompt produced the most City-looking shirt in the wardrobe.
+
+**Grade: B**
 
 ## Manchester City's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #6CABDD 0%, #1C2C5B 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(108, 171, 221, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Wardrobe Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: C+ &nbsp;·&nbsp; Third: Pending</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Home: B &nbsp;·&nbsp; Away: C+ &nbsp;·&nbsp; Third: B</p>
 </div>
 
-The lowest wardrobe grade of Europe's fifteen biggest clubs. Both released shirts are built on a concept that overrides the club's own colours, which is a strange pair of decisions to make in the same season.
+The lowest wardrobe grade of Europe's fifteen biggest clubs, and the fan-designed third is the reason it is not lower. The home and away are both built on a concept that overrides the club's own colours, which is a strange pair of decisions to make in the same season. The third, chosen by supporters, is the only one of the three that looks like Manchester City.
 
 ## Who Makes Manchester City's Kits?
 
@@ -72,9 +76,9 @@ PUMA, who have supplied City since 2019 in what was reported at the time as one 
 
 ## The Bottom Line
 
-Manchester City are the only one of Europe's fifteen biggest clubs without a kit graded above a B for 2026/27. The gradient home shirt has a good idea and a poor execution, and the worker-bee away shirt is the lowest-graded kit in our entire European ranking because it forgot to be blue. The AI-designed third kit is still to come. Wardrobe grade: B-.
+Manchester City are the only one of Europe's fifteen biggest clubs without a kit graded above a B for 2026/27. The gradient home shirt has a good idea and a poor execution, and the worker-bee away shirt is the lowest-graded kit in our entire European ranking because it forgot to be blue. The fan-designed third, a white shirt with a navy-to-sky central stripe, is the best of the three at a B. Wardrobe grade: B-.
 
-See where both shirts landed against the rest of the continent in [our full ranking of all 35 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
+See where all three shirts landed against the rest of the continent in [our full ranking of all 42 European club kits for 2026/27](/stories/european-club-kits-2026-27-ranked), or read our grades for [Manchester United's 2026/27 kits](/stories/manchester-united-kits-2026-27), [Arsenal's 2026/27 kits](/stories/arsenal-kits-2026-27) and [Liverpool's 2026/27 kits](/stories/liverpool-kits-2026-27).
 
 ## Frequently Asked Questions
 
@@ -88,11 +92,11 @@ Man City have three uniforms for 2026/27: a home kit, an away kit and a third ki
 
 **What are Manchester City's 2026/27 kits?**
 
-The home shirt is a sky-blue gradient fading to white at the hem with a metallic silver crest. The away is black with yellow-gold accents and an all-over worker-bee pattern. The third kit has not been released yet. All are made by PUMA.
+The home shirt is a sky-blue gradient fading to white at the hem with a metallic silver crest. The away is black with yellow-gold accents and an all-over worker-bee pattern. The third is white with a central stripe shading from navy to sky blue, designed by a supporter through PUMA's AI Creator. All are made by PUMA.
 
 **What grade do Manchester City's 2026/27 kits get?**
 
-The home shirt gets a B and the away gets a C+, the lowest grade in our ranking of Europe's fifteen biggest clubs. The wardrobe grade is a B-.
+The home shirt gets a B, the away a C+, the lowest grade in our ranking of Europe's fifteen biggest clubs, and the fan-designed third a B. The wardrobe grade is a B-.
 
 **Why is the Manchester City 2026/27 home kit a gradient?**
 
@@ -104,8 +108,8 @@ An all-over worker-bee print. The bee is a symbol of Manchester and its industri
 
 **Was the Manchester City third kit designed by AI?**
 
-It was designed through PUMA's AI Creator tool, which collected roughly 180,000 fan-submitted designs and narrowed them to ten finalists before a final version was chosen. It has not officially launched yet.
+It was designed through PUMA's AI Creator tool, which collected roughly 180,000 fan-submitted designs and narrowed them to ten finalists before 1.7 million fan votes chose the winner, a design by a supporter named Elliott. It launched on August 27, 2026 and City say it is the first fan-and-AI-designed kit to be worn on the pitch.
 
 **When does the Manchester City 2026/27 third kit come out?**
 
-No release date has been confirmed. We will grade it and update this post once City officially release it.
+It came out on August 27, 2026, completing City's 2026/27 set. We grade it a B, the best of their three shirts.
