@@ -3,7 +3,7 @@ title: "Pittsburgh Pirates Uniform Schedule 2026: Every Jersey and When They Wea
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-09-02"
-excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white pinstripes, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
+excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
 gradient: "linear-gradient(135deg, #27251F 0%, #FDB827 50%, #27251F 100%)"
 coverImage: "/images/posts/pirates-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -17,7 +17,7 @@ teams:
 
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Pirates Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Wednesday, September 2, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Home White</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">San Francisco Giants at Pirates &middot; 6:40 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Giants.</div><a href="/mlb-tracker/pirates" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
-The Pittsburgh Pirates run four uniforms in 2026, and the closet is about as black-and-gold as it gets. The set isn't scheduled with the published-timetable precision of a team like the Phillies, but it has one genuine anchor — the new City Connect on Friday home games — with the pinstripes, grays, and black alternate handling the rest. The big change for 2026 is the City Connect itself: the bright yellow PNC Park kit from 2023 through 2025 is gone, replaced by an all-black uniform with gold gothic lettering. Here's the full Pirates wardrobe and exactly when each jersey comes out.
+The Pittsburgh Pirates run four uniforms in 2026, and the closet is about as black-and-gold as it gets. The set isn't scheduled with the published-timetable precision of a team like the Phillies, but it has one genuine anchor — the new City Connect on Friday home games — with the home white, grays, and black alternate handling the rest. The big change for 2026 is the City Connect itself: the bright yellow PNC Park kit from 2023 through 2025 is gone, replaced by an all-black uniform with gold gothic lettering. Here's the full Pirates wardrobe and exactly when each jersey comes out.
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
@@ -67,7 +67,7 @@ If you are trying to call tonight's Pirates uniform before first pitch, pair thi
     </div>
     <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Pinstripes</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Home</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #27251F; color: #fff;">
@@ -82,7 +82,7 @@ If you are trying to call tonight's Pirates uniform before first pitch, pair thi
     </div>
     <div style="padding: 1.2em 0.3em; background: #f1efe9; color: #333;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">⚾</div>
-      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home Pinstripes</div>
+      <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">Home White</div>
       <div style="font-size: 0.65em; color: #888; margin-top: 0.3em;">Sun Home</div>
     </div>
   </div>
@@ -90,13 +90,13 @@ If you are trying to call tonight's Pirates uniform before first pitch, pair thi
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">One honest caveat the grid can't show: outside the Friday City Connect at PNC Park, the Pirates don't run a fixed day-of-week system. The <strong>black alternate</strong> can surface on any day, home or road, whenever the staff wants it — Paul Skenes is famously a fan of it. Treat the week above as a representative homestand, not a guarantee.</p>
 
-The Pirates carry four uniforms in 2026, and three of them are holdovers — the home white pinstripes, the road gray "Pittsburgh" script, and the black alternate are all unchanged. The one new piece is the City Connect, which got a complete redesign this spring: the bright yellow 2023 kit was retired and replaced with an all-black, gold-lettered uniform that debuted on April 17. Everything else in the closet is the black-and-gold identity Pittsburgh has worn for decades.
+The Pirates carry four uniforms in 2026, and three of them are holdovers — the home white, the road gray "Pittsburgh" script, and the black alternate are all unchanged. The one new piece is the City Connect, which got a complete redesign this spring: the bright yellow 2023 kit was retired and replaced with an all-black, gold-lettered uniform that debuted on April 17. Everything else in the closet is the black-and-gold identity Pittsburgh has worn for decades.
 
 ## Home White (Most Home Games)
 
 The home white is the Pirates' default and the look most fans picture: a clean white jersey with no pinstriping, "Pirates" arched across the chest in black lettering outlined in gold, gold piping at the collar and sleeves, and the black cap with the gold "P." It's worn for the bulk of every homestand — essentially any home game that isn't claimed by the Friday City Connect. It's a quiet, classic baseball look, and leaving the white plain is what lets the black-and-gold script carry it. The Pirates are smart to leave it almost entirely alone.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
+<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays — The "Pittsburgh" Script (Most Away Games)
 
@@ -123,9 +123,9 @@ The biggest story of the Pirates' 2026 season is the brand-new City Connect, whi
 
 ## How the Pirates Rotation Actually Works
 
-Let's be straight about it: the Pirates are not a published-timetable team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Pittsburgh really has just one soft anchor — **the City Connect on Friday home games** — and everything else is feel and matchup. Home pinstripes cover the rest of the homestand, road grays handle most of the trip, and the black alternate gets dropped in whenever the staff (and the pitcher) wants the full black-and-gold, with no day-of-week assignment behind it.
+Let's be straight about it: the Pirates are not a published-timetable team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Pittsburgh really has just one soft anchor — **the City Connect on Friday home games** — and everything else is feel and matchup. The home white covers the rest of the homestand, road grays handle most of the trip, and the black alternate gets dropped in whenever the staff (and the pitcher) wants the full black-and-gold, with no day-of-week assignment behind it.
 
-It still works, because the one anchor covers the jersey fans actually plan around. The Friday City Connect is the look people buy tickets and merch for, so handing it a standing slot at PNC Park builds anticipation even without a rigid system. The pinstripes, grays, and black alternate are perfectly content to do the quiet work in between.
+It still works, because the one anchor covers the jersey fans actually plan around. The Friday City Connect is the look people buy tickets and merch for, so handing it a standing slot at PNC Park builds anticipation even without a rigid system. The home white, grays, and black alternate are perfectly content to do the quiet work in between.
 
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
 <div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
@@ -137,24 +137,24 @@ It still works, because the one anchor covers the jersey fans actually plan arou
 ## Frequently Asked Questions
 
 **What jersey are the Pittsburgh Pirates wearing today?**
-If it's a Friday home game at PNC Park, it's the new all-black City Connect with gold gothic "Pirates" lettering. Any other home game is most likely the home white pinstripes, and most road games are the gray "Pittsburgh" script set. The black alternate is the wild card with no fixed day, so it can turn up at home or away whenever the staff wants it. Check the day of the week and whether the Pirates are home or away, and Friday-at-home is your one reliable City Connect tell.
+If it's a Friday home game at PNC Park, it's the new all-black City Connect with gold gothic "Pirates" lettering. Any other home game is most likely the home white, and most road games are the gray "Pittsburgh" script set. The black alternate is the wild card with no fixed day, so it can turn up at home or away whenever the staff wants it. Check the day of the week and whether the Pirates are home or away, and Friday-at-home is your one reliable City Connect tell.
 
 **What jersey did the Pirates wear last night?**
 
-A Friday home night at PNC Park was the all-black City Connect with the gold gothic "Pirates" lettering. Any other home night was most likely the home white pinstripes and any road night the gray "Pittsburgh" script set, with the black alternate a wild card that can turn up on any date.
+A Friday home night at PNC Park was the all-black City Connect with the gold gothic "Pirates" lettering. Any other home night was most likely the home white and any road night the gray "Pittsburgh" script set, with the black alternate a wild card that can turn up on any date.
 
 For the uniform we logged in their most recent game, see the [Pirates uniform tracker](/mlb-tracker/pirates), which we update every morning.
 
 **What uniform are the Pirates wearing tonight?**
 
-Friday at PNC Park is the all-black City Connect. Any other home game is most likely the white pinstripes, and the road is the gray "Pittsburgh" script set. The black alternate has no fixed day and can appear either way.
+Friday at PNC Park is the all-black City Connect. Any other home game is most likely the home white, and the road is the gray "Pittsburgh" script set. The black alternate has no fixed day and can appear either way.
 
 **What are the Pirates wearing tomorrow?**
 
-Friday at home is your one reliable tell, and it means the City Connect. Otherwise check home or away and assume the white pinstripes or the gray script set.
+Friday at home is your one reliable tell, and it means the City Connect. Otherwise check home or away and assume the home white or the gray script set.
 
 **How many uniforms do the Pirates have in 2026?**
-Four: the home white pinstripes, the road gray "Pittsburgh" script, the black alternate, and the new City Connect. Three are holdovers; only the City Connect was redesigned for 2026.
+Four: the home white, the road gray "Pittsburgh" script, the black alternate, and the new City Connect. Three are holdovers; only the City Connect was redesigned for 2026.
 
 **When do the Pirates wear the new City Connect uniform?**
 The 2026 City Connect debuted on Friday, April 17 against the Tampa Bay Rays and is worn for every Friday home game at PNC Park the rest of the season. It's an all-black uniform with gold gothic "Pirates" lettering and a touch of red.
