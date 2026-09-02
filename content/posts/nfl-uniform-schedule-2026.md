@@ -81,7 +81,7 @@ The 2026 season is the most jersey-heavy year the NFL has had, and the Rivalries
 - [NFL Uniform Rankings 2026: All 32 Teams Graded](/stories/best-nfl-uniforms-2026-ranked) — every team's look, worst to first
 - [2026 NFL Uniform Tracker](/stories/nfl-uniform-tracker-2026) — what every team wears, game by game, graded
 - [What Is the NFL Rivalries Program?](/stories/what-is-the-nfl-rivalries-uniform-program) — the alternates teams wear once a year, explained, with all eight 2026 sets graded
-- [Every 2026 Rivalries Uniform, Ranked](/stories/nfl-rivalries-uniforms-2026-ranked) — all eight graded, three of them failed
+- [Every NFL Rivalries Uniform, Ranked](/stories/nfl-rivalries-uniforms-2026-ranked) — all 16 graded, both classes, four of them failed
 - [Every 2026 Rivalries Helmet, Ranked](/stories/nfl-rivalries-helmets-2026-ranked) — six teams changed their shell, and two built great helmets on bad uniforms
 - [Every 2026 NFL Uniform Reveal](/stories/nfl-uniform-release-dates-2026) — dates, grades and rankings for the new looks
 - [The NFL's 2026 Global Markets Program](/stories/nfl-global-markets-program-2026-breakdown) — which teams play where, and in what
