@@ -31,7 +31,27 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 All fifteen are in, and the night belonged to the road clubs. Seven of the fifteen visitors came in something other than gray: San Diego in the brown alternate at Cincinnati, Toronto in powder blue at Cleveland, Seattle and Atlanta in navy in Boston and Washington, Milwaukee in navy at Wrigley, Baltimore in the orange alternate at Coors for a second straight night, and Minnesota, at home, in its navy alternate against a Tigers club in gray. The other eight visitors wore road gray, including every club that travelled west: the Cardinals in Los Angeles, the Yankees in Anaheim, the Phillies in Phoenix, the Athletics in Arlington, and the White Sox in Houston. The home side was almost entirely white: thirteen of fifteen home clubs in white, cream or pinstripes, with only Pittsburgh in the black alternate and the Twins in navy breaking the pattern. The Rockies went back to pinstripes after Monday's purple, so the Orioles' orange had a white canvas this time instead of a colour clash. Awards and final scores follow.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #8FBCE6 0%, #134A8E 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #eaf5ff;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Toronto Blue Jays Powder Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJays/status/2094957268852674958"></a></blockquote>
+
+The powder blue keeps winning nights it does not even need to win. Toronto brought it to Cleveland on a Tuesday, a road date with nothing riding on the look, and it still read as the best shirt in the building: the split-letter wordmark, the royal and white trim, and a shade of blue that no other club in the league owns. It is a throwback that has quietly become the identity.
+
+The matchup helped. Against the Guardians' home white, the powder had a clean canvas and nothing on the other sideline competing with it, which is exactly the situation this uniform was built for. On a night when seven road clubs travelled in colour, this was the one that looked like it belonged.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Milwaukee Brewers Navy Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2095009669781549549"></a></blockquote>
+
+This is a decision call more than a design one. Twenty-four hours after the powder blue was our Jersey of the Day at this same ballpark, Milwaukee went back to Wrigley in the navy alternate, the most anonymous shirt in the closet, and turned a postcard matchup into a dark blot against the Cubs' pinstripes. The club owns the best road uniform in the division and chose not to wear it.
+
+The navy is not ugly. It is just nothing: a plain dark jersey with gold trim that could belong to four other teams at a glance, on a night that had already shown everyone what the alternative looks like. When you have the powder blue, every navy night is a missed one.
 
 ### St. Louis Cardinals at Los Angeles Dodgers
 
@@ -93,6 +113,10 @@ All fifteen are in, and the night belonged to the road clubs. Seven of the fifte
 
 ### New York Yankees at Los Angeles Angels
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2340 0%, #ffffff 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -117,6 +141,7 @@ All fifteen are in, and the night belonged to the road clubs. Seven of the fifte
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%20angeles%20angels%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
