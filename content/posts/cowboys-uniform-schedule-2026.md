@@ -12,7 +12,11 @@ league: nfl
 teams: ["dallas-cowboys"]
 ---
 
-The Cowboys published their full 2026 uniform schedule on Wednesday, September 2, and it confirms the thing this page has argued from the start: Dallas is a white-jersey team. **White goes ten times**, at home by choice and on the road because the host almost always picks dark and leaves the visitor in white. The **navy primary gets three road dates**, each one a trip to a host that wears white at home. The **all-white Color Rush goes three times**, including a Monday night in Philadelphia. And the **Thanksgiving Classic is official**, Week 12 against the Eagles on November 26. Here is the whole schedule, game by game, with the four dates that are not plain white marked.
+The Cowboys published their full 2026 uniform schedule on Wednesday, September 2, and it confirms the thing this page has argued from the start: Dallas is a white-jersey team. **White goes ten times**, at home by choice and on the road because the host almost always picks dark and leaves the visitor in white. The **navy primary gets three road dates**, each one a trip to a host that wears white at home. The **all-white Color Rush goes three times**, including a Monday night in Philadelphia. And the **Thanksgiving Classic is official**, Week 12 against the Eagles on November 26. Here is the whole schedule, game by game, with the seven dates that are not plain white marked.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2095278463485653498"></a></blockquote>
+</div>
 
 <div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
