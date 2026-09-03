@@ -14,6 +14,8 @@ league: "soccer"
 teams: ["international-competitions"]
 featuredOrder: 1
 homepageHero: false
+recentSections: 5
+recentOrder: newest-first
 ---
 
 <div style="margin: 0 0 1.5em;">

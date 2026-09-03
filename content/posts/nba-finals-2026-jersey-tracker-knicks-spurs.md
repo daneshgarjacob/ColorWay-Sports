@@ -26,6 +26,8 @@ reviews:
     rating: 10
   - name: "New York Knicks at San Antonio Spurs NBA Finals Game 5 Jerseys"
     rating: 10
+recentSections: 5
+recentOrder: newest-first
 ---
 
 <div style="margin: 0 0 2em;">

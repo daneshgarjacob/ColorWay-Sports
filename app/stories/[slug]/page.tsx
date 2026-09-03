@@ -18,7 +18,7 @@ import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getPostBySlug, getAllPosts, getRelatedPosts } from "@/lib/posts";
+import { getPostBySlug, getAllPosts, getRelatedPosts, trimLogSections } from "@/lib/posts";
 import AuthorBio from "@/components/AuthorBio";
 import { getAuthor, authorSchema } from "@/lib/authors";
 import type { Metadata } from "next";
@@ -69,6 +69,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const modifiedIso = new Date(modifiedDateStr.includes("T") ? modifiedDateStr : modifiedDateStr + "T12:00:00Z").toISOString();
 
   const author = getAuthor(post.author);
+
+  // Log-style trackers render only their most recent sections here. The full
+  // markdown still feeds the team calendars and homepage — see trimLogSections.
+  const view = trimLogSections(post);
 
   const articleSchema: Record<string, unknown> = {
     "@type": "NewsArticle",
@@ -162,7 +166,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   };
 
   // Long tracker posts (8+ "Match N" / "Game N" sections) get a sticky jump nav.
-  const matchHeadings = post.headings.filter(
+  const matchHeadings = view.headings.filter(
     (h) => h.level === 2 && /^(Match|Game)\s+\d+/i.test(h.text)
   );
   let jumpItems: JumpNavItem[] =
@@ -185,7 +189,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   if (slug === "mlb-uniform-tracker-2026") {
     const gameItems: JumpNavItem[] = [];
     let day: string | undefined;
-    for (const h of post.headings) {
+    for (const h of view.headings) {
       if (h.level === 2) {
         day = /^[A-Z][a-z]+, \w+ \d+/.test(h.text) ? h.text : undefined;
       } else if (h.level === 3 && day && / at /.test(h.text)) {
@@ -311,7 +315,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <>
             <article
               className="prose prose-lg max-w-none text-foreground leading-relaxed"
-              dangerouslySetInnerHTML={{ __html: post.contentHtml }}
+              dangerouslySetInnerHTML={{ __html: view.contentHtml }}
             />
             <TwitterEmbed />
             <InstagramEmbed />

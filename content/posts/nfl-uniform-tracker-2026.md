@@ -12,6 +12,10 @@ cardStyle: words
 kicker: Tracker
 league: nfl
 teams: []
+recentSections: 5
+recentOrder: oldest-first
+archiveHref: "/stories/nfl-uniform-schedule-2026"
+archiveLabel: "Every team's 2026 uniform schedule"
 ---
 
 If you came here to find out what an NFL team is wearing tonight, that is exactly what this page is for.

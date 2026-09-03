@@ -14,6 +14,10 @@ coverImageFit: "cover"
 logoSrc: "/logos/leagues/mlb.png"
 league: mlb
 teams: []
+recentSections: 5
+recentOrder: newest-first
+archiveHref: "/mlb-tracker"
+archiveLabel: "Every team's full 2026 uniform calendar"
 ---
 
 This is the ColorWay Sports MLB daily uniform tracker: what every team actually wore, every game, every day, logged the morning after. Not just the City Connects and throwbacks, the whole wardrobe, home whites and road grays included, because you can't spot the patterns without the full record. Every matchup also gets a ColorWay grade for how the two uniforms looked sharing a field.

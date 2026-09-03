@@ -11,6 +11,8 @@ coverImagePosition: "center bottom"
 logoSrc: "/logos/NHL.png"
 league: "nhl"
 teams: ["tampa-bay-lightning", "philadelphia-flyers", "vegas-golden-knights", "anaheim-ducks", "minnesota-wild", "montreal-canadiens", "boston-bruins", "buffalo-sabres", "utah-mammoth", "carolina-hurricanes", "colorado-avalanche"]
+recentSections: 5
+recentOrder: newest-first
 ---
 
 <img src="/images/posts/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026/flyers-puckem-shirts.jpg" alt="Philadelphia Flyers orange Puck Everybody Ignite the Orange playoff t-shirts laid out on every seat at Wells Fargo Center for Game 6 against the Pittsburgh Penguins in the 2026 NHL Stanley Cup Playoffs Round 1" style="width: 100%; border-radius: 10px;" />

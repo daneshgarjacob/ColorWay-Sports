@@ -71,6 +71,13 @@ export interface PostMeta {
   /** Render a newsletter signup above the article body too (daily-updated posts). */
   newsletterTop?: boolean;
   topViewsRank?: number;
+  /** Log-style trackers: render only the N most recent day/game sections on the story page. */
+  recentSections?: number;
+  /** "newest-first" (default) or "oldest-first" — which end of the log is current. */
+  recentOrder?: "newest-first" | "oldest-first";
+  /** Where the full record lives (a team-calendar hub), linked from the trim note. */
+  archiveHref?: string;
+  archiveLabel?: string;
   reviews?: ReviewItem[];
   bestRating?: number;
   worstRating?: number;
@@ -235,6 +242,10 @@ function readAllPosts(): PostMeta[] {
       homepageFeature: data.homepageFeature,
       newsletterTop: data.newsletterTop,
       topViewsRank: data.topViewsRank,
+      recentSections: data.recentSections,
+      recentOrder: data.recentOrder,
+      archiveHref: data.archiveHref,
+      archiveLabel: data.archiveLabel,
       reviews: data.reviews,
       bestRating: data.bestRating,
       worstRating: data.worstRating,
@@ -304,6 +315,10 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     coverImageFit: data.coverImageFit,
     league: data.league,
     teams: data.teams || [],
+    recentSections: data.recentSections,
+    recentOrder: data.recentOrder,
+    archiveHref: data.archiveHref,
+    archiveLabel: data.archiveLabel,
     reviews: data.reviews,
     bestRating: data.bestRating,
     worstRating: data.worstRating,
@@ -354,4 +369,67 @@ export function getRelatedPosts(
   }
 
   return selected;
+}
+
+// ---------------------------------------------------------------------------
+// Log-style trackers: keep only the most recent sections on the story page.
+//
+// The MLB daily tracker had grown to 59 day blocks and 7.5 MB of HTML per view,
+// and it was the single biggest line on the Vercel bill. The markdown keeps the
+// whole season — /mlb-tracker/<team>, the "wore last night" blocks and the
+// homepage all still read the full file — but the story page itself only needs
+// the last few days. A "log section" is an h2 that reads like a date or a game
+// ("Wednesday, September 2", "Game 5: …", "Match 101: …", "Round 1 Game 6",
+// "Matchweek 3: …"). Everything else (intro, FAQ, bottom line) is kept.
+const LOG_HEADING_RE =
+  /^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b|^(Game|Match|Matchweek)\s+\d+|^Round\s+\d+\s+Game|^The Final:/i;
+
+export function isLogHeading(text: string): boolean {
+  return LOG_HEADING_RE.test(text.trim());
+}
+
+export function trimLogSections(
+  post: Pick<Post, "contentHtml" | "headings" | "recentSections" | "recentOrder" | "archiveHref" | "archiveLabel">
+): { contentHtml: string; headings: HeadingItem[]; trimmed: number } {
+  const keep = post.recentSections ?? 0;
+  if (!keep || keep < 1) return { contentHtml: post.contentHtml, headings: post.headings, trimmed: 0 };
+
+  const html = post.contentHtml;
+  const h2Re = /<h2\b[^>]*\bid="([^"]+)"[^>]*>/g;
+  const starts: Array<{ index: number; id: string }> = [];
+  let m: RegExpExecArray | null;
+  while ((m = h2Re.exec(html)) !== null) starts.push({ index: m.index, id: m[1] });
+  if (starts.length === 0) return { contentHtml: html, headings: post.headings, trimmed: 0 };
+
+  const textById = new Map(post.headings.filter((h) => h.level === 2).map((h) => [h.id, h.text]));
+  const sections = starts.map((s, i) => ({
+    id: s.id,
+    html: html.slice(s.index, i + 1 < starts.length ? starts[i + 1].index : html.length),
+    isLog: isLogHeading(textById.get(s.id) ?? ""),
+  }));
+  const logIdx = sections.map((s, i) => (s.isLog ? i : -1)).filter((i) => i >= 0);
+  if (logIdx.length <= keep) return { contentHtml: html, headings: post.headings, trimmed: 0 };
+
+  const keepSet = new Set(post.recentOrder === "oldest-first" ? logIdx.slice(-keep) : logIdx.slice(0, keep));
+  const lastKept = Math.max(...keepSet);
+  const trimmed = logIdx.length - keep;
+
+  const label = post.archiveLabel || "Open the team pages";
+  const note =
+    `<div data-log-trim style="margin: 2.5em 0; padding: 1.25em 1.4em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px; font-size: 0.95em; line-height: 1.55; color: #14284b;">` +
+    `<p style="margin: 0;"><strong>This page keeps the ${keep} most recent ${keep === 1 ? "entry" : "entries"}.</strong> ` +
+    `The earlier ${trimmed} ${trimmed === 1 ? "entry is" : "entries are"} still logged` +
+    (post.archiveHref
+      ? `, and every game is filed on the team pages, all season long. <a href="${post.archiveHref}" style="font-weight: 700; color: #2f6bed; text-decoration: none;">${label} &rarr;</a>`
+      : `.`) +
+    `</p></div>\n`;
+
+  let out = html.slice(0, starts[0].index);
+  sections.forEach((sec, i) => {
+    if (!sec.isLog || keepSet.has(i)) out += sec.html;
+    if (i === lastKept) out += note;
+  });
+
+  const headings = post.headings.filter((h) => out.includes(`id="${h.id}"`));
+  return { contentHtml: out, headings, trimmed };
 }
