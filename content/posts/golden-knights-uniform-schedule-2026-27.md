@@ -2,7 +2,7 @@
 title: "Golden Knights Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-03"
 excerpt: "Every Golden Knights sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #B4975A 0%, #333F42 100%)"
 cardStyle: words
@@ -20,9 +20,11 @@ We build these before the season rather than after it, so the closet is here fro
 ## The Golden Knights Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #B4975A; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark sweater, worn at T-Mobile Arena.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white sweater, worn on the road.</div></div>
-  <div style="background: #333F42; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate, worn on a set number of dates each season.</div></div>
+  <div style="background: #B4975A; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Metallic gold, the primary home since 2022-23: black, steel-grey and red striping, the VGK shield and swords on the shoulders, gold helmet. Stays the home sweater for Season X.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with steel-grey, gold and red stripes, the shield crest and a white helmet. Unchanged for 2026-27.</div></div>
+  <div style="background: #333F42; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Steel Grey (Reported Retired)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The original 2017 home, matte steel grey with black, gold and red stripes, has been the alternate since 2022-23. Two outlets reported in August that it leaves the regular rotation for 2026-27 and becomes a throwback, with the Hometown Remix taking the third slot. Vegas has not put out a release saying so.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Stadium Series, Feb 20</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Vegas visits Dallas at AT&amp;T Stadium in Arlington for the 2027 Stadium Series on February 20. The logo is out; the sweaters are not. Season X also brings five Anniversary Knights, October 10, December 16, February 13, March 15 and April 10, with no on-ice anniversary sweater announced.</div></div>
+  <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
 ## The Golden Knights Game-by-Game Uniform Schedule
@@ -49,7 +51,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the Vegas Golden Knights have for 2026-27?**
 
-Home, Away, Third Jersey. The closet section above breaks down what each one is for.
+The home dark and the road white. The old third has been retired and no replacement is announced. There is also a one-off: Stadium Series, Feb 20. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the Vegas Golden Knights wearing tonight?**
 

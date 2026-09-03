@@ -2,7 +2,7 @@
 title: "Oilers Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-03"
 excerpt: "Every Oilers sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #041E42 0%, #FF4C00 100%)"
 cardStyle: words
@@ -20,9 +20,10 @@ We build these before the season rather than after it, so the closet is here fro
 ## The Oilers Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #041E42; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark sweater, worn at Rogers Place.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white sweater, worn on the road.</div></div>
-  <div style="background: #FF4C00; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate, worn on a set number of dates each season.</div></div>
+  <div style="background: #041E42; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Royal blue, the primary home again since 2022-23: an orange shoulder yoke, orange-and-white sleeve and hem stripes and the classic oil-drop crest. Unchanged for 2026-27.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with a royal blue shoulder yoke, blue-and-orange striping and the oil-drop crest. Unchanged for 2026-27.</div></div>
+  <div style="background: #FF4C00; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Oil Country Tan Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The broken-in tan sweater from September 2025: a blue collar, the Oilers wordmark with the oil drop worked into the s, blue stripes trimmed in orange, the Oil Country derrick roundel on the shoulders and LETS GO OILERS inside the collar. Worn seven times in 2025-26. Edmonton has not yet published 2026-27 dates or confirmed its return, though coverage expects it alongside the Hometown Remix.</div></div>
+  <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
 ## The Oilers Game-by-Game Uniform Schedule
@@ -44,7 +45,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the Edmonton Oilers have for 2026-27?**
 
-Home, Away, Third Jersey. The closet section above breaks down what each one is for.
+The home dark, the road white, and the Oil Country Tan Alternate third. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the Edmonton Oilers wearing tonight?**
 

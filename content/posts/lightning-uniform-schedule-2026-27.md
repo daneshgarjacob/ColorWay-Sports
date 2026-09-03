@@ -2,7 +2,7 @@
 title: "Lightning Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-03"
 excerpt: "Every Lightning sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #002868 0%, #FFFFFF 100%)"
 cardStyle: words
@@ -20,9 +20,10 @@ We build these before the season rather than after it, so the closet is here fro
 ## The Lightning Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #002868; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark sweater, worn at Benchmark International Arena.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white sweater, worn on the road.</div></div>
-  <div style="background: #FFFFFF; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate, worn on a set number of dates each season.</div></div>
+  <div style="background: #002868; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Blue from the 2011 set: the white bolt crest, one thick white stripe on the sleeves, hem and socks, a contrast collar with tie-down and the Tampa Bay Lightning Hockey Club roundel on the shoulders. Unchanged for 2026-27.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with the blue bolt and a TAMPA BAY wordmark, single thick blue sleeve and hem stripes and the roundel shoulder patch. Unchanged for 2026-27.</div></div>
+  <div style="background: #FFFFFF; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Black Legacy Third (Status Open)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black base with the roundel as the main crest, three victory stripes in white, blue and silver honoring the 1992-93 original, and the three Cup years woven into the lace collar. It debuted in February 2024 with a stated run through 2025-26, and Tampa Bay has not said whether it continues. The pirate-themed 2026 Stadium Series sweater was last season's.</div></div>
+  <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
 ## The Lightning Game-by-Game Uniform Schedule
@@ -45,7 +46,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the Tampa Bay Lightning have for 2026-27?**
 
-Home, Away, Third Jersey. The closet section above breaks down what each one is for.
+The home dark, the road white, and Black Legacy Third, whose status for this season the club has not settled. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the Tampa Bay Lightning wearing tonight?**
 

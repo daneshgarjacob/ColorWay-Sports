@@ -2,7 +2,7 @@
 title: "Sharks Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-03"
 excerpt: "Every Sharks sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #006D75 0%, #EA7200 100%)"
 cardStyle: words
@@ -20,9 +20,10 @@ We build these before the season rather than after it, so the closet is here fro
 ## The Sharks Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #006D75; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark sweater, worn at SAP Center.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white sweater, worn on the road.</div></div>
-  <div style="background: #EA7200; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate, worn on a set number of dates each season.</div></div>
+  <div style="background: #006D75; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Pacific teal, the 2022 set inspired by the 1991 originals: white and black striping, the shark-biting-stick crest, jumping-shark shoulder logos and teal helmet, pants and gloves. Unchanged for 2026-27.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with Pacific teal shoulders and stripes trimmed in black, the same crest and shoulder logos. Unchanged for 2026-27.</div></div>
+  <div style="background: #EA7200; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Cali Fin Black Third</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black with the Evolve Fin as the crest, the first Sharks crest without a shark head, teal-and-white serape striping on the sleeves and hem, a shark-tooth neckline and all-black helmet, pants and gloves. In use since February 2024 for late-winter home dates. San Jose has not said whether it returns for 2026-27; last season's four-game Heritage 2.0 throwback for the 35th anniversary has run its course.</div></div>
+  <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
 ## The Sharks Game-by-Game Uniform Schedule
@@ -40,7 +41,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the San Jose Sharks have for 2026-27?**
 
-Home, Away, Third Jersey. The closet section above breaks down what each one is for.
+The home dark, the road white, and the Cali Fin Black third. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the San Jose Sharks wearing tonight?**
 

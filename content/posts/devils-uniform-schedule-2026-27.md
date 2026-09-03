@@ -2,7 +2,7 @@
 title: "Devils Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-03"
 excerpt: "Every Devils sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #CE1126 0%, #000000 100%)"
 cardStyle: words
@@ -20,9 +20,10 @@ We build these before the season rather than after it, so the closet is here fro
 ## The Devils Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #CE1126; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark sweater, worn at Prudential Center.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white sweater, worn on the road.</div></div>
-  <div style="background: #000000; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate, worn on a set number of dates each season.</div></div>
+  <div style="background: #CE1126; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red with black shoulders and black-and-white three-stripe bands on each arm, the NJ horned-devil crest. Unchanged on the 2017 template and unchanged for 2026-27.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with black shoulders, red-and-black arm stripes in the same positions and the same crest. Unchanged for 2026-27.</div></div>
+  <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey (Retired)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The black Jersey script sweater, cursive JERSEY in white with a red shadow over white stripes, got an 11-game farewell run in 2025-26 and the club confirmed it will not return. New Jersey has not announced a replacement; reporting points to the Hometown Remix filling the slot, and that design is unrevealed.</div></div>
+  <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
 ## The Devils Game-by-Game Uniform Schedule
@@ -40,7 +41,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the New Jersey Devils have for 2026-27?**
 
-Home, Away, Third Jersey. The closet section above breaks down what each one is for.
+The home dark and the road white. The old third has been retired and no replacement is announced. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the New Jersey Devils wearing tonight?**
 
