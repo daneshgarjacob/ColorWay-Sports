@@ -93,14 +93,14 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                   {active.games.length} game{active.games.length === 1 ? "" : "s"} logged
                 </span>
               </p>
-              <Link
+              <Link prefetch={false}
                 href={`/mlb-tracker/${active.key}`}
                 className="text-[11px] font-bold text-[#2f6bed] hover:underline whitespace-nowrap"
               >
                 Calendar &amp; usage &rarr;
               </Link>
             </div>
-            <Link
+            <Link prefetch={false}
               href={`/mlb-tracker/${active.key}`}
               className="flex items-center justify-between gap-3 mb-3 px-3.5 py-2.5 rounded-xl border border-black/[0.08] bg-[#fafbfc] hover:border-black/25 transition-colors group"
             >

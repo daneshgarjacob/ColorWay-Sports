@@ -182,7 +182,22 @@ function extractFaqs(content: string): FaqItem[] {
   return faqs;
 }
 
+// Module-level memo. In production the markdown never changes between deploys,
+// but getAllPosts() was re-reading and re-parsing every file in content/posts
+// (400+ files, one of them 3 MB) on EVERY request that hit a dynamic route:
+// /stories?team=… , the sitemap, and each nav-dropdown click. That was the bulk
+// of the Fluid Active CPU line on the Vercel bill (81 hours in the Aug–Sep
+// cycle). Dev keeps re-reading so new posts show up without a restart.
+let postsMemo: PostMeta[] | null = null;
+
 export function getAllPosts(): PostMeta[] {
+  if (process.env.NODE_ENV === "production" && postsMemo) return postsMemo;
+  const result = readAllPosts();
+  if (process.env.NODE_ENV === "production") postsMemo = result;
+  return result;
+}
+
+function readAllPosts(): PostMeta[] {
   if (!fs.existsSync(postsDirectory)) return [];
 
   const fileNames = fs.readdirSync(postsDirectory).filter((f) => f.endsWith(".md"));

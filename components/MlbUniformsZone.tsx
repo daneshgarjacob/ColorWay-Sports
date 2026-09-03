@@ -94,7 +94,7 @@ export default async function MlbUniformsZone() {
               </h2>
             </span>
           </div>
-          <Link
+          <Link prefetch={false}
             href="/mlb-tracker"
             className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
           >
@@ -106,7 +106,7 @@ export default async function MlbUniformsZone() {
           {TOOLS.map((t) => {
             const th = THEMES[t.theme];
             return (
-              <Link
+              <Link prefetch={false}
                 key={t.href}
                 href={t.href}
                 className="group relative flex flex-col overflow-hidden rounded-xl p-5 transition-transform hover:-translate-y-0.5"
@@ -158,7 +158,7 @@ export default async function MlbUniformsZone() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {/* Jersey of the Day */}
               {jotd && (
-                <Link href={href} className="group flex items-center gap-4">
+                <Link prefetch={false} href={href} className="group flex items-center gap-4">
                   {jotd.image && (
                     <img
                       src={jotd.image}
@@ -182,7 +182,7 @@ export default async function MlbUniformsZone() {
 
               {/* Stinker of the Day — the negative award, equal weight to the other two */}
               {stinker && (
-                <Link
+                <Link prefetch={false}
                   href={href}
                   className="group flex items-center gap-4 md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border"
                 >
@@ -208,7 +208,7 @@ export default async function MlbUniformsZone() {
               )}
               {/* ColorWay Clash of the Day */}
               {motd && (
-                <Link
+                <Link prefetch={false}
                   href={href}
                   className="group md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border"
                 >

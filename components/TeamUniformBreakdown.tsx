@@ -140,7 +140,7 @@ export default function TeamUniformBreakdown({
 
               <div className="flex flex-wrap gap-1.5 mt-3 pt-3 border-t border-black/[0.06]">
                 {u.games.map((g, i) => (
-                  <Link
+                  <Link prefetch={false}
                     key={`${g.id}-${i}`}
                     href={`/stories/${TRACKER_SLUG}#${g.id}`}
                     title={`${g.day} — ${g.home ? "vs" : "at"} ${g.oppName}`}

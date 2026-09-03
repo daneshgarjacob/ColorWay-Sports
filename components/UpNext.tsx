@@ -67,7 +67,7 @@ export default function UpNext({ slug, title, category, gradient, coverImage, co
       style={adhesionOffset ? { paddingBottom: adhesionOffset + 12 } : undefined}
     >
       <div className="relative flex items-center gap-3 rounded-2xl bg-white/85 supports-[backdrop-filter]:bg-white/75 backdrop-blur-2xl backdrop-saturate-150 border border-black/10 shadow-[0_-4px_24px_rgba(0,0,0,0.10),0_8px_24px_rgba(0,0,0,0.12)] p-2.5 pr-10">
-        <Link href={`/stories/${slug}`} className="flex items-center gap-3 min-w-0 flex-1">
+        <Link prefetch={false} href={`/stories/${slug}`} className="flex items-center gap-3 min-w-0 flex-1">
           <div
             className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0"
             style={{ background: gradient || "#0B1F4A" }}

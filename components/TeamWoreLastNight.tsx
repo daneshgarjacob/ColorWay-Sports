@@ -83,7 +83,7 @@ export default function TeamWoreLastNight({
               every jersey the {team} run and when, so you can call tonight&rsquo;s look before
               first pitch.
             </p>
-            <Link
+            <Link prefetch={false}
               href={trackerHref}
               className="mt-3 inline-block text-[11px] font-extrabold uppercase tracking-[0.14em]"
               style={{ color: accent }}

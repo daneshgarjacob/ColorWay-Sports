@@ -25,7 +25,7 @@ export default function AuthorBio({ author }: { author: Author }) {
           <p className="text-[10px] uppercase tracking-[0.18em] text-gray-light font-semibold mb-1">
             {author.type === "Person" ? "Written By" : "Tracked By"}
           </p>
-          <Link
+          <Link prefetch={false}
             href={`/authors/${author.slug}`}
             className="text-base font-extrabold text-black hover:text-orange transition-colors"
           >
@@ -33,7 +33,7 @@ export default function AuthorBio({ author }: { author: Author }) {
           </Link>
           <p className="text-[13px] text-gray-medium mt-0.5">{author.role}</p>
           <p className="text-sm text-foreground leading-relaxed mt-2">{author.shortBio}</p>
-          <Link
+          <Link prefetch={false}
             href={`/authors/${author.slug}`}
             className="inline-block mt-3 text-[13px] font-semibold text-orange hover:underline"
           >

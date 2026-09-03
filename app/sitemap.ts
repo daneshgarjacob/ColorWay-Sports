@@ -6,6 +6,10 @@ import { winterTeamKeys } from "@/lib/winterTrackerIndex";
 import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
 import { AUTHORS } from "@/lib/authors";
 
+// Built once per deploy and served from the CDN. Without this the sitemap was
+// rendered on demand for every crawler hit, re-parsing all posts each time.
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
 

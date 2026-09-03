@@ -130,7 +130,7 @@ export default async function NflTeamCalendarPage({
           style={{ background: `linear-gradient(135deg, ${entry.color} 0%, ${entry.color}dd 100%)` }}
         >
           <div className="max-w-[980px] mx-auto">
-            <Link
+            <Link prefetch={false}
               href="/stories/nfl-uniform-schedule-2026"
               className="text-[11px] font-bold uppercase tracking-[0.16em] text-white/70 hover:text-white transition-colors"
             >
@@ -255,14 +255,14 @@ export default async function NflTeamCalendarPage({
         <section className="max-w-[980px] mx-auto px-5 pt-10">
           <p className="text-[14px] text-black/60 m-0">
             For the full breakdown of why each jersey lands where it does, read the{" "}
-            <Link
+            <Link prefetch={false}
               href={`/stories/${entry.scheduleSlug}`}
               className="text-[#2f6bed] font-semibold hover:underline"
             >
               {entry.name} 2026 uniform schedule
             </Link>
             . Every other club is in the{" "}
-            <Link
+            <Link prefetch={false}
               href="/stories/nfl-uniform-schedule-2026"
               className="text-[#2f6bed] font-semibold hover:underline"
             >

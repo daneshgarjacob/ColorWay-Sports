@@ -116,7 +116,7 @@ export default function Home() {
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
                 Latest Stories
               </h2>
-              <Link
+              <Link prefetch={false}
                 href="/stories"
                 className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
               >
@@ -144,7 +144,7 @@ export default function Home() {
             <hr className="border-border" />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
               {compact.map((post, i) => (
-                <Link
+                <Link prefetch={false}
                   key={post.slug}
                   href={`/stories/${post.slug}`}
                   className={[
@@ -175,7 +175,7 @@ export default function Home() {
             </div>
 
             <div className="flex justify-center mt-10">
-              <Link
+              <Link prefetch={false}
                 href="/stories"
                 className="inline-block px-8 py-3 text-[13px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-all duration-200"
                 style={{ boxShadow: "0 2px 8px rgba(0,33,165,0.25)" }}

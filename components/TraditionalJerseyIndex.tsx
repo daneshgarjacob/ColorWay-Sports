@@ -56,7 +56,7 @@ export default function TraditionalJerseyIndex() {
               Traditional Jersey Index
             </h2>
           </div>
-          <Link
+          <Link prefetch={false}
             href="/stories/nba-traditional-jersey-index-2026"
             className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
           >

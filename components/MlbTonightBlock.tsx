@@ -105,14 +105,14 @@ export default async function MlbTonightBlock({
             </p>
           )}
           <div className="mt-3.5 flex flex-col gap-1.5">
-            <Link
+            <Link prefetch={false}
               href={`/stories/${trackerSlug}`}
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >
               See today&rsquo;s confirmed uniforms in the daily tracker &rarr;
             </Link>
             {scheduleHref && (
-              <Link
+              <Link prefetch={false}
                 href={scheduleHref}
                 className="text-[13px] font-bold text-[#2f6bed] hover:underline"
               >

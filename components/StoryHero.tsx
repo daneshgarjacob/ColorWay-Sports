@@ -33,7 +33,7 @@ export default function StoryHero({ post }: { post: PostMeta }) {
   const datePrefix = updatedDate ? "Updated " : "";
 
   return (
-    <Link href={href ?? `/stories/${slug}`} className="block group">
+    <Link prefetch={false} href={href ?? `/stories/${slug}`} className="block group">
       <article className="story-card bg-white rounded-xl overflow-hidden transition-all duration-300 hover:-translate-y-1 active:scale-[0.99] active:duration-150 grid grid-cols-1 lg:grid-cols-5">
         {/* Cover */}
         <div

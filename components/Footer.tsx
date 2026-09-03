@@ -33,7 +33,7 @@ export default function Footer() {
         {/* Nav */}
         <nav className="flex gap-6 mt-6">
           {navLinks.map((link) => (
-            <Link
+            <Link prefetch={false}
               key={link.label}
               href={link.href}
               className="text-[11px] uppercase tracking-widest text-white/65 hover:text-white transition-colors font-medium"
@@ -45,13 +45,13 @@ export default function Footer() {
 
         {/* Legal links */}
         <div className="flex gap-4 mt-5">
-          <Link
+          <Link prefetch={false}
             href="/privacy-policy"
             className="text-[10px] uppercase tracking-widest text-white/40 hover:text-white/75 transition-colors font-medium"
           >
             Privacy Policy
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/terms"
             className="text-[10px] uppercase tracking-widest text-white/40 hover:text-white/75 transition-colors font-medium"
           >

@@ -233,7 +233,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       <div className="w-full py-8 sm:py-10 px-5 border-b border-black/5">
         <div className="max-w-[720px] mx-auto">
           <div className="flex items-center justify-between mb-4">
-            <Link
+            <Link prefetch={false}
               href="/stories"
               className="text-sm text-black/60 hover:text-black transition-colors"
             >
@@ -249,7 +249,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <div className="flex items-center gap-2 mt-3 flex-wrap">
             <span className="text-black/70 text-sm">
               By{" "}
-              <Link
+              <Link prefetch={false}
                 href={`/authors/${author.slug}`}
                 className="font-semibold text-black hover:text-orange transition-colors"
               >
@@ -329,7 +329,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
         {/* Bottom divider and back link */}
         <div className="border-t border-border mt-12 pt-8 flex items-center justify-between">
-          <Link
+          <Link prefetch={false}
             href="/stories"
             className="text-sm text-gray-medium hover:text-orange transition-colors font-medium"
           >

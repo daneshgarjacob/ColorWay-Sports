@@ -278,7 +278,7 @@ export default function Header() {
       <header className={`sticky top-0 z-50 border-b border-white/10 transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-[#003087]/72 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.22)]" : "bg-[#003087] shadow-none"}`}>
         <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
-          <Link href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
+          <Link prefetch={false} href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
             <svg width="38" height="38" viewBox="0 0 100 100" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
               <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
               <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
@@ -335,7 +335,7 @@ export default function Header() {
                   <p className="px-4 pt-2 pb-1 text-[10px] font-bold uppercase tracking-[0.14em] text-gray-medium">Teams</p>
                 )}
                 {suggestions.teams.map((t, i) => (
-                  <Link
+                  <Link prefetch={false}
                     key={t.s}
                     href={`/stories?team=${encodeURIComponent(t.s)}`}
                     role="option"
@@ -352,7 +352,7 @@ export default function Header() {
                   <p className="px-4 pt-2.5 pb-1 text-[10px] font-bold uppercase tracking-[0.14em] text-gray-medium border-t border-border mt-1">Stories</p>
                 )}
                 {suggestions.posts.map((p, i) => (
-                  <Link
+                  <Link prefetch={false}
                     key={p.s}
                     href={`/stories/${p.s}`}
                     role="option"
@@ -378,7 +378,7 @@ export default function Header() {
           {/* Row 1 right — utility links only */}
           <nav className="hidden lg:flex items-center gap-1 flex-shrink-0">
             {navLinks.map((link) => (
-              <Link
+              <Link prefetch={false}
                 key={link.label}
                 href={link.href}
                 className="text-[13.5px] font-semibold tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
@@ -455,7 +455,7 @@ export default function Header() {
                   >
                     <div className="overflow-y-auto max-h-[420px] py-1">
                       {/* Stories link at the top, with the league logo */}
-                      <Link
+                      <Link prefetch={false}
                         href={league.storiesLink.href}
                         className="flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-b border-border"
                         onClick={() => setOpenDropdown(null)}
@@ -468,7 +468,7 @@ export default function Header() {
 
                       {/* Teams */}
                       {league.teams.map((team) => (
-                        <Link
+                        <Link prefetch={false}
                           key={team}
                           href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
                           className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
@@ -485,7 +485,7 @@ export default function Header() {
 
                       {/* Extra series links (e.g., NASCAR under Racing) */}
                       {league.extraLinks?.map((l) => (
-                        <Link
+                        <Link prefetch={false}
                           key={l.label}
                           href={l.href}
                           className="block px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-t border-border"
@@ -533,7 +533,7 @@ export default function Header() {
 
           {/* Regular nav links first — matches desktop order */}
           {navLinks.map((link) => (
-            <Link
+            <Link prefetch={false}
               key={link.label}
               href={link.href}
               className="text-xl font-medium text-black hover:text-orange transition-colors"
@@ -571,7 +571,7 @@ export default function Header() {
                     }`}
                   >
                     <div className="flex flex-col items-center gap-1 pb-2">
-                      <Link
+                      <Link prefetch={false}
                         href={league.storiesLink.href}
                         className="flex items-center gap-2 text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
                         onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
@@ -582,7 +582,7 @@ export default function Header() {
                         {league.storiesLink.label}
                       </Link>
                       {league.teams.map((team) => (
-                        <Link
+                        <Link prefetch={false}
                           key={team}
                           href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
                           className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
@@ -595,7 +595,7 @@ export default function Header() {
                         </Link>
                       ))}
                       {league.extraLinks?.map((l) => (
-                        <Link
+                        <Link prefetch={false}
                           key={l.label}
                           href={l.href}
                           className="text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
@@ -608,7 +608,7 @@ export default function Header() {
                   </div>
                 </>
               ) : (
-                <Link
+                <Link prefetch={false}
                   href={league.storiesLink.href}
                   className="flex items-center justify-center gap-2 text-xl font-medium text-black hover:text-orange transition-colors"
                   onClick={() => { setMobileOpen(false); setMobileLeague(null); }}

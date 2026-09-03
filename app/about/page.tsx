@@ -68,11 +68,11 @@ export default function AboutPage() {
           <div className="space-y-6 text-[0.95rem] leading-[1.8] text-foreground">
             <p>
               ColorWay Sports was founded and is edited by{" "}
-              <Link href="/authors/jake-daneshgar" className="text-orange font-semibold hover:underline">
+              <Link prefetch={false} href="/authors/jake-daneshgar" className="text-orange font-semibold hover:underline">
                 Jake Daneshgar
               </Link>
               . Our running uniform records are kept by the{" "}
-              <Link
+              <Link prefetch={false}
                 href="/authors/colorway-sports-staff"
                 className="text-orange font-semibold hover:underline"
               >
@@ -113,7 +113,7 @@ export default function AboutPage() {
           <p className="text-gray-medium text-sm mb-4">
             Got a tip, a leaked jersey, or just want to talk design?
           </p>
-          <Link
+          <Link prefetch={false}
             href="/contact"
             className="inline-block bg-[#0021A5] hover:bg-[#001a84] text-white font-semibold text-sm uppercase tracking-wider px-8 py-3 rounded transition-colors"
           >

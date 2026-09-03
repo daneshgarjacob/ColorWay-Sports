@@ -11,7 +11,7 @@ export default function NotFound() {
         <p className="text-gray-medium mb-6">
           The story you're looking for doesn't exist or may have been moved.
         </p>
-        <Link href="/stories" className="text-orange hover:underline">
+        <Link prefetch={false} href="/stories" className="text-orange hover:underline">
           Back to Stories
         </Link>
       </main>

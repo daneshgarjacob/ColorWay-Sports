@@ -13,7 +13,7 @@ export default function InMemoriam() {
         borderBottom: "1px solid #1f1f1f",
       }}
     >
-      <Link
+      <Link prefetch={false}
         href="/stories/remembering-kyle-busch-tribute-2026"
         style={{ textDecoration: "none", color: "inherit", display: "block" }}
         className="group"

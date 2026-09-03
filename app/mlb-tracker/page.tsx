@@ -62,7 +62,7 @@ export default async function MlbTrackerHub() {
                 {teams
                   .filter((t) => t.division === div)
                   .map((t) => (
-                    <Link
+                    <Link prefetch={false}
                       key={t.key}
                       href={`/mlb-tracker/${t.key}`}
                       className="group flex items-center gap-3 border border-black/[0.08] rounded-xl px-4 py-3.5 bg-white hover:border-black/25 hover:shadow-[0_2px_12px_rgba(10,23,51,0.08)] transition-all"
@@ -103,13 +103,13 @@ export default async function MlbTrackerHub() {
 
         <section className="max-w-[980px] mx-auto px-5">
           <div className="border border-black/[0.08] rounded-2xl p-5 bg-[#fafbfc] flex flex-wrap items-center gap-x-7 gap-y-2">
-            <Link
+            <Link prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >
               The full daily uniform tracker &rarr;
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/stories/mlb-uniform-schedule-2026"
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >

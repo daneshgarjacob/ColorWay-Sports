@@ -169,7 +169,7 @@ export default async function TeamTrackerPage({
           }}
         >
           <div className="max-w-[860px] mx-auto">
-            <Link
+            <Link prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
               className="text-[11px] font-bold uppercase tracking-[0.16em] text-white/70 hover:text-white transition-colors"
             >
@@ -240,7 +240,7 @@ export default async function TeamTrackerPage({
           <section className="max-w-[860px] mx-auto px-5 pt-12">
             <p className="text-[15px] text-black/60">
               We haven&rsquo;t logged a {entry.name} game yet this season. Check the{" "}
-              <Link href={`/stories/${TRACKER_SLUG}`} className="text-[#2f6bed] font-semibold hover:underline">
+              <Link prefetch={false} href={`/stories/${TRACKER_SLUG}`} className="text-[#2f6bed] font-semibold hover:underline">
                 daily tracker
               </Link>{" "}
               — it updates every morning.
@@ -347,7 +347,7 @@ export default async function TeamTrackerPage({
                         const g = cell.games[0];
                         const extra = cell.games.length - 1;
                         return (
-                          <Link
+                          <Link prefetch={false}
                             key={i}
                             href={`/stories/${TRACKER_SLUG}#${g.id}`}
                             title={`${g.day} — ${g.home ? "vs" : "at"} ${g.oppName}${g.uniform ? ` · ${g.uniform}` : ""}`}
@@ -422,19 +422,19 @@ export default async function TeamTrackerPage({
 
         <section className="max-w-[860px] mx-auto px-5 pt-4">
           <div className="border border-black/[0.08] rounded-2xl p-5 bg-[#fafbfc] flex flex-wrap items-center gap-x-6 gap-y-2">
-            <Link
+            <Link prefetch={false}
               href={meta.scheduleHref}
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >
               {entry.name} full 2026 uniform schedule &rarr;
             </Link>
-            <Link
+            <Link prefetch={false}
               href="/mlb-tracker"
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >
               All 30 team calendars &rarr;
             </Link>
-            <Link
+            <Link prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
               className="text-[13px] font-bold text-[#2f6bed] hover:underline"
             >

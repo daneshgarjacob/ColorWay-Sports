@@ -11,7 +11,7 @@ const exclusive = {
 
 export default function ExclusiveBanner() {
   return (
-    <Link
+    <Link prefetch={false}
       href={`/stories/${exclusive.slug}`}
       className="block group"
       style={{ background: "#003087", borderBottom: "3px solid #2f6bed", textDecoration: "none" }}
