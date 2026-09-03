@@ -3,8 +3,8 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-08-27"
-excerpt: "What Oregon wears every game in 2026. The one programme in college football where the combination is genuinely unpredictable, tracked week by week."
+updatedDate: "2026-09-03"
+excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
 kicker: Schedule
@@ -24,12 +24,12 @@ Oregon is the one programme where this page cannot be written in advance, and th
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black &amp; Silver</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The other two regulars. Oregon mixes helmet, jersey and pants independently.</div></div>
 </div>
 
-Every other page in this series works because the programme is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
+One combination is on the board. **The opener against Boise State on September 5 is confirmed: yellow helmet, green jersey, yellow pants**, marked with a ★ in the grid. Every other page in this series works because the programme is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
 
 ## The Full Oregon 2026 Uniform Schedule, Week by Week
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #154733; color: #ffffff; border: 2px solid #FEE123; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Yellow / Green / Yellow</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Portland State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
@@ -44,7 +44,7 @@ Every other page in this series works because the programme is predictable. Oreg
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
-**September 5 vs. Boise State.** Green expected.
+**September 5 vs. Boise State.** ★ Confirmed: **yellow helmet, green jersey, yellow pants.** The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the colour question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
 
 **September 12 at Oklahoma State.** Varies expected.
 
@@ -78,7 +78,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wears green at home and varies on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+For the season opener against Boise State on September 5, Oregon wears a green jersey with a yellow helmet and yellow pants, confirmed ahead of the game. Beyond that, Oregon wears green at home and varies on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon's uniforms for 2026?**
 
