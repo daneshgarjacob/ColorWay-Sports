@@ -13,8 +13,6 @@ kicker: Schedule
 league: "soccer"
 teams: []
 resurfaceOnUpdate: true
-recentSections: 5
-recentOrder: newest-first
 ---
 
 Wondering what kit your club is wearing this weekend? Here is the thing most fans do not know: **the Premier League itself decides, and it tells both clubs no later than three working days before kickoff.** Kits are not a matchday surprise. They are scheduled.

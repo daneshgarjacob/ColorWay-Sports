@@ -13,8 +13,6 @@ logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["atlanta-hawks", "toronto-raptors", "minnesota-timberwolves", "new-york-knicks", "cleveland-cavaliers", "denver-nuggets", "philadelphia-76ers", "boston-celtics", "houston-rockets", "los-angeles-lakers", "portland-trail-blazers", "san-antonio-spurs", "orlando-magic", "detroit-pistons", "phoenix-suns", "oklahoma-city-thunder"]
 featuredOrder: 1
-recentSections: 5
-recentOrder: newest-first
 ---
 
 <img src="/images/posts/nba-playoffs-crowd-giveaway-2026/msg-knicks-finals-g4-new-york-forever-blue-shirts-white-towels.jpg" alt="Madison Square Garden seating bowl loaded for 2026 NBA Finals Game 4 between the New York Knicks and the San Antonio Spurs, full alternating rows of royal blue NEW YORK FOREVER 2026 Finals t-shirts with the orange basketball graphic and white NEW YORK KNICKS Finals cursive script towels striping the entire arena blue and white before tip-off" style="width: 100%; border-radius: 10px;" />

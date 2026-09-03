@@ -28,8 +28,6 @@ reviews:
     rating: 7
   - name: "Vegas Golden Knights at Carolina Hurricanes Stanley Cup Final Game 1 Jerseys at Lenovo Center"
     rating: 7
-recentSections: 5
-recentOrder: newest-first
 ---
 
 <div style="margin: 0 0 2em;">

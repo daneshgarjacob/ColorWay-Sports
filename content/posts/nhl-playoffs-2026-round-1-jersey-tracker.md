@@ -107,8 +107,6 @@ reviews:
     rating: 4
   - name: "Ottawa Senators at Carolina Hurricanes Round 1 Game 2 Jerseys"
     rating: 4
-recentSections: 5
-recentOrder: newest-first
 ---
 
 <div style="margin: 0 0 2em;">
