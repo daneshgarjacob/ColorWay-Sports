@@ -14,9 +14,6 @@ league: nfl
 teams: ["buffalo-bills"]
 ---
 
-<img src="/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg" alt="Buffalo Bills Nickel City alternate uniform 2026, gray jersey with blue charging buffalo helmet" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: Buffalo Bills</p>
-
 Most teams dribble their uniform news out one week at a time. The Bills did the opposite: ahead of the Return of Blue & Red scrimmage at the new Highmark Stadium, they published the jersey they will wear for every single 2026 home game at once. That means the Buffalo half of this schedule is confirmed, not projected, and it answers the question people actually search for. The new gray **Nickel City** set goes twice, the all-white **Cold Front** Rivalries uniform gets Salute to Service against Miami, the **red alternate** closes the season, and the blue primary carries the other four. Buffalo has since added the road half of the story too: the **red helmet** returns on Christmas Day at Denver. Here is the full Bills 2026 uniform schedule, week by week.
 
 For our grades on the new gray set and the blue Charge helmet, see the [Bills Nickel City uniforms breakdown](/stories/bills-nickel-city-uniforms-revealed-2026).
@@ -75,6 +72,9 @@ Home games carry the confirmed jersey. Road games follow the white road set, wit
 
 ## Nickel City (Gray Alternate, 2 Games, Confirmed)
 
+<img src="/images/posts/bills-nickel-city-2026/bills-nickel-city-hero.jpg" alt="Buffalo Bills Nickel City alternate uniform 2026: gray jersey and gray pants with the blue Charge helmet, three players in the reveal photo" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Credit: Buffalo Bills</p>
+
 The new gray set gets two dates, and the pairing is smart. It debuts in Week 3 at home against the Los Angeles Chargers on Sunday, September 27, for the Huddle for Hunger and Hispanic Heritage game, then returns in Week 15 against the Chicago Bears on Saturday, December 19, a standalone national window with holiday theming. Nickel City is a full monochrome gray jersey and pant, striping rendered in shifting shades of gray, the usual chest wordmark dropped for a logo patch on the left chest. The real story is on top: "The Charge," a royal blue shell with a metallic flake finish and a single red stripe wrapping the helmet to suggest a charging buffalo. We said it at the reveal and it still holds, the helmet is the best thing Buffalo has made in years and the gray it sits on top of is the weakest part of the set. Our full grade is in the [Nickel City breakdown](/stories/bills-nickel-city-uniforms-revealed-2026).
 
 Putting the second wearing in a Saturday night December game in Buffalo is the correct instinct. If there is snow on the field, the gray reads as industrial rather than flat, which is exactly the argument the uniform is making.
@@ -82,6 +82,9 @@ Putting the second wearing in a Saturday night December game in Buffalo is the c
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520nickel%2520city%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Nickel City alternate on Fanatics →</a>
 
 ## Cold Front (Rivalries, 1 Game, Confirmed)
+
+<div style="background: #f7f8fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px 16px 12px; text-align: center; margin: 1.25em 0 0.4em;"><img src="/images/posts/bills-uniform-schedule-2026/bills-cold-front.png" alt="Buffalo Bills Cold Front Rivalries jersey 2026, white with cracked-ice shoulders, silver-blue numbers and BUFFALO wordmark, front and back" style="max-height: 340px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #5b6474; margin: 12px 0 0;">Cold Front, the all-white Rivalries jersey</p></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Nike product shot via the Buffalo Bills team store.</p>
 
 The all-white Cold Front uniform, Buffalo's entry in the NFL Rivalries program and one of the best-received sets of that first 2025 wave, gets a single 2026 date: Week 11 at home against the Miami Dolphins on Sunday, November 22, the Salute to Service game. The set is built around a white shell helmet with a metal-flake finish, a frosted metallic charging buffalo, and a center stripe designed to look like cracking ice. Against Miami in late November it is the whole thesis of the Rivalries program in one image, a cold-weather team dressing like the weather and a warm-weather team visiting it. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
@@ -91,25 +94,26 @@ One wearing only is the frustrating part. Cold Front is the highest-graded unifo
 
 ## Red Alternate (Week 18, Confirmed)
 
+<div style="background: #f7f8fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px 16px 12px; text-align: center; margin: 1.25em 0 0.4em;"><img src="/images/posts/bills-uniform-schedule-2026/bills-red-alternate.png" alt="Buffalo Bills red alternate jersey 2026 with white numbers and royal blue sleeve stripes, front and back" style="max-height: 340px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #5b6474; margin: 12px 0 0;">Red Alternate</p></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Nike product shot via the Buffalo Bills team store.</p>
+
 The Bills close the regular season in red against the New York Jets, a home finale carrying the Play 60, Coach of the Week, and high school tackle celebrations. The red jersey is the loudest thing in the closet and it is the right call for a season-ending home game against a division rival. The date has not been set, since the league holds Week 18 for flexible scheduling, so this one moves.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
 
 ## Blue Primary (4 Home Games, Confirmed)
 
+<div style="background: #f7f8fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px 16px 12px; text-align: center; margin: 1.25em 0 0.4em;"><img src="/images/posts/bills-uniform-schedule-2026/bills-blue-primary.png" alt="Buffalo Bills royal blue primary jersey 2026 with white numbers outlined in red and striped sleeves, front and back" style="max-height: 340px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #5b6474; margin: 12px 0 0;">Blue Primary</p></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Nike product shot via the Buffalo Bills team store.</p>
+
 The blue jersey remains the base, and it draws the four biggest non-alternate home dates on the calendar: the Week 2 home opener against the Detroit Lions on Thursday, September 17, which is also the first regular-season game at the new Highmark Stadium, then Crucial Catch against the New England Patriots in Week 4, Native American Heritage against the Baltimore Ravens in Week 8, and Thanksgiving night against the Kansas City Chiefs in Week 12. Royal blue over white with the white helmet is the look most people picture when they picture the Bills, and the team clearly wanted it for the moments that matter most. Opening a new stadium in it is the tell.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue primary jersey on Fanatics →</a>
 
-## Red End Zones for the Home Opener: Bills Mafia Voted
-
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2095897256742265168"></a></blockquote>
-</div>
-
-The field at the new Highmark Stadium will not be all new. Bills chief operating officer Pete Guelli said on WGR Thursday morning that the team was thinking about letting fans pick the end zone color for the Week 2 home opener against the Lions, then <a href="https://x.com/PeteGuelli/status/2095522152233443733" target="_blank" rel="noopener">posted the official poll</a> that afternoon: red end zones, blue end zones, or a white or blue **BILLS** wordmark. Voting closed Friday morning and red won going away. The Bills confirmed it the same morning with three words that tell you how the vote went: back by popular demand. Red end zones are the look from the early-1990s Super Bowl teams at Rich Stadium, so the first regular-season game in the new building opens with the blue primary jersey over a red end zone, the same pairing the Bills wore through the Kelly era. It is a small thing and it is exactly the right one: a fan vote that landed on the answer most of Bills Mafia would have given anyway. Whether the red end zones stay for the Nickel City games in Weeks 3 and 15 has not been announced, and a red end zone under a gray uniform would read very differently, so watch this space.
-
 ## The White Road Set (8 Games, Expected)
+
+<div style="background: #f7f8fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px 16px 12px; text-align: center; margin: 1.25em 0 0.4em;"><img src="/images/posts/bills-uniform-schedule-2026/bills-white-road.png" alt="Buffalo Bills white road jersey 2026 with royal blue numbers outlined in red and blue-and-red sleeve stripes, front and back" style="max-height: 340px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #5b6474; margin: 12px 0 0;">White Road</p></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Nike product shot via the Buffalo Bills team store.</p>
 
 The white road jersey is the workhorse, projecting to eight of the nine away games: at the Rams, Raiders, Vikings, Jets, Patriots, Packers, Broncos, and Dolphins. The Bills have not published a road-by-road jersey schedule, so these follow the standard NFL convention where the visiting team wears white. Pants are the variable, since Buffalo alternates between blue and white below the waist depending on the week and the opponent.
 
@@ -144,6 +148,14 @@ The combination is the part worth getting excited about. White jersey, white pan
 </div>
 
 Worth being precise about what this is and is not: the red **helmet** is a road-game hardware change worn with the white set. The red **jersey** is a separate alternate, and that one closes the season at home in Week 18 against the Jets.
+
+## Red End Zones for the Home Opener: Bills Mafia Voted
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2095897256742265168"></a></blockquote>
+</div>
+
+The field at the new Highmark Stadium will not be all new. Bills chief operating officer Pete Guelli said on WGR Thursday morning that the team was thinking about letting fans pick the end zone color for the Week 2 home opener against the Lions, then <a href="https://x.com/PeteGuelli/status/2095522152233443733" target="_blank" rel="noopener">posted the official poll</a> that afternoon: red end zones, blue end zones, or a white or blue **BILLS** wordmark. Voting closed Friday morning and red won going away. The Bills confirmed it the same morning with three words that tell you how the vote went: back by popular demand. Red end zones are the look from the early-1990s Super Bowl teams at Rich Stadium, so the first regular-season game in the new building opens with the blue primary jersey over a red end zone, the same pairing the Bills wore through the Kelly era. It is a small thing and it is exactly the right one: a fan vote that landed on the answer most of Bills Mafia would have given anyway. Whether the red end zones stay for the Nickel City games in Weeks 3 and 15 has not been announced, and a red end zone under a gray uniform would read very differently, so watch this space.
 
 ## How the Bills Rotation Works in 2026
 
