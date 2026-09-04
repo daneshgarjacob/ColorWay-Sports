@@ -3,8 +3,8 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-08-21"
-excerpt: "What Ohio State wears every game in 2026. Scarlet at home, white on the road, the buckeye leaf helmet, and the two home dates most likely to bring something different."
+updatedDate: "2026-09-04"
+excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
 kicker: Schedule
@@ -19,15 +19,23 @@ Wondering what jersey Ohio State is wearing this week? This is the full Ohio Sta
 
 Ohio State runs one of the most disciplined wardrobes in college football, and the helmet is the reason people care.
 
-- **Scarlet jersey, silver pants.** The home set at Ohio Stadium.
-- **White jersey, silver pants.** The road set.
+- **Scarlet jersey, silver pants.** The home set at Ohio Stadium, reworked for 2026 with the Buckeye Stripe returning to the sleeve in metallic silver to match the helmet.
+- **White jersey, silver pants.** The road set, carrying the same stripe treatment.
 - **The silver helmet.** Unchanged in either set, and the only helmet in the sport that gets more decorated as the season goes on, because the buckeye leaf stickers accumulate with every big play.
 
-**No alternate uniform has been assigned to any 2026 game.** Ohio State reaches for one rarely, usually around The Game, and nothing has been announced. If that changes we will add the date here.
+### The Three Alternates
+
+Ohio State rebuilt its alternate closet in May 2026, and this is where our earlier version of this page was wrong. There are three of them, all wearing the same Buckeye Stripe as the core sets, and all pairing with the silver helmet.
+
+- **Scarlet Rush.** All scarlet, jersey and pants. Built around the Scarlet the Shoe crowd theme and last seen against Tennessee in the 2024 College Football Playoff.
+- **Tunnel Vision.** All black. Introduced in 2015, last worn in 2022, and the closest thing Ohio State has to a fan-demand uniform.
+- **Sub Zero.** All white, jersey and pants. It debuted in the 2020 win at Michigan State.
+
+**No 2026 game has been assigned to any of the three.** That is the honest position: the uniforms exist and are ready, and Ohio State has not said when they come out. The dates below flag where each is most plausible.
 
 ## The Full Ohio State 2026 Uniform Schedule, Week by Week
 
-Twelve games, seven at Ohio Stadium, no alternate announced.
+Twelve games, seven at Ohio Stadium. Three alternates sit in the closet with no date attached to any of them.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
@@ -47,7 +55,11 @@ Twelve games, seven at Ohio Stadium, no alternate announced.
 
 Big Ten home teams wear colour and visitors wear white, which makes the road dates close to automatic.
 
-**September 5 vs. Ball State**, Ohio Stadium. Home opener, and the Jim Tressel Ring of Honor tribute. Scarlet expected.
+**September 5 vs. Ball State**, Ohio Stadium. Home opener, and the Jim Tressel Ring of Honor tribute. **Scarlet confirmed** — Ohio State posted its own countdown to kickoff on September 4 showing the scarlet jersey.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OhioStateFB/status/2095912368358256695"></a></blockquote>
+</div>
 
 **September 12 at Texas**, Austin. The biggest non-conference game on either team's schedule. Texas wears burnt orange at home, so Ohio State goes white. See our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) for the other side of this one.
 
@@ -79,7 +91,7 @@ Everything on this schedule follows the Big Ten pattern except three home games.
 
 ## The Bottom Line
 
-Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game, with no alternate announced. The Texas trip on September 12 puts the Buckeyes in white in the biggest game of the non-conference season. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
+Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and none of them has a date yet. The Texas trip on September 12 puts the Buckeyes in white in the biggest game of the non-conference season. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
 
 For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026), the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -87,11 +99,11 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State wears scarlet at home and white on the road in 2026. No alternate uniform has been assigned to any game. We update this page as each combination is confirmed in game week.
+Ohio State wears scarlet at home and white on the road in 2026, and the September 5 home opener against Ball State is confirmed scarlet. Three alternates exist but none has been assigned to a game. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 
-None has been announced. Ohio State uses alternates sparingly, most often around the Michigan game, and nothing is confirmed for this season.
+Yes, three. **Scarlet Rush** is all scarlet, **Tunnel Vision** is all black, and **Sub Zero** is all white, and all three were revealed in May 2026 with the Buckeye Stripe on the sleeve. Ohio State has not assigned any of them to a game, and it uses alternates sparingly, most often around the Michigan game.
 
 **What are the stickers on the Ohio State helmet?**
 

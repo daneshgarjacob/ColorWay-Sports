@@ -155,6 +155,16 @@ for (const g of games) {
   const aU = confirmed[aSlug], hU = confirmed[hSlug];
   if (!aU || !hU) { problems.push(`${aName} at ${hName}: missing confirmed uniform`); continue; }
 
+  // A game that has not started cannot have a uniform logged against it. This
+  // matters for doubleheaders: the confirmed file is keyed by TEAM, not gamePk,
+  // so both halves match the same pair and the unplayed one would otherwise get
+  // a card (and a "Final" pill) off the played one's data. Caught 2026-09-04,
+  // when the Tigers-Guardians opener was in progress and game 2 had not begun.
+  if (["Scheduled", "Pre-Game", "Warmup", "Delayed Start"].includes(g.status.detailedState)) {
+    problems.push(`${aName} at ${hName}${g.gameNumber > 1 ? ` game ${g.gameNumber}` : ""}: ${g.status.detailedState}, not started - no card emitted`);
+    continue;
+  }
+
   const aR = g.teams.away.score, hR = g.teams.home.score;
   const win = hR > aR ? `${short(hName)} ${hR}, ${short(aName)} ${aR}`
                       : `${short(aName)} ${aR}, ${short(hName)} ${hR}`;
