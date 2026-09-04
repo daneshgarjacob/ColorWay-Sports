@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-07-07"
-updatedDate: "2026-08-25"
+updatedDate: "2026-09-04"
 excerpt: "Every 2026 NBA free agency and trade move in their new jersey and uniform: LeBron James to the 76ers, Giannis Antetokounmpo to the Heat, LaMelo Ball to the Timberwolves, Klay Thompson to the Heat, and more. Updated all summer."
 gradient: "linear-gradient(135deg, #007A33 0%, #0a1f4d 50%, #C9082A 100%)"
 logoSrc: "/logos/nba.svg"
@@ -65,6 +65,14 @@ The uniform math works in his favor. Miami's red Icon jersey is one of the clean
 </div>
 
 The headline swap of the offseason lands LaMelo Ball in Minnesota, and the colorway change is a big one. Ball spent his entire career to this point in Charlotte's teal, purple, and mint, one of the more distinctive palettes in the league, and the four-team blockbuster that sent him to the Timberwolves for Naz Reid and a haul of picks now puts him in Minnesota's midnight blue, aurora green, and grey. It is a colder, more modern identity, and dropping him next to Anthony Edwards gives the Wolves one of the most electric backcourts in the West, both of them in that deep navy. Seeing Ball's flash and flair in Timberwolves blue instead of Hornets teal is going to take a few games to get used to, and that is exactly the kind of jersey and uniform reset this tracker lives for.
+
+## Jonathan Kuminga, Minnesota Timberwolves
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Timberwolves/status/2095890273742016679"></a></blockquote>
+</div>
+
+Minnesota made Jonathan Kuminga official on September 4, a two-year deal with a second-year player option that the Wolves had to clear a roster spot to finish, and the reveal came with a jersey and uniform detail worth noting. Kuminga is wearing **No. 24** in Minnesota. He was 00 for most of his Golden State run and 0 in Atlanta, and the new number lines up with the birthday he turns 24 on, October 6. It is a clean break from the Warriors years in every visible way: new number, new colorway, and midnight blue with aurora green where royal blue and gold used to be. The fit is a real upgrade for the closet too. Kuminga's game is transition scoring and long-armed defense, and the Timberwolves' deep navy Icon jersey photographs like an athletic uniform in a way the Warriors' bright gold never did. Slot him next to LaMelo Ball and Anthony Edwards and the Wolves suddenly have three of the most watchable players in the league in the same dark blue, which is exactly the kind of colorway stack this tracker exists to catalog.
 
 ## The Lakers' Backcourt Reload: Collin Sexton, Quentin Grimes, and Sandro Mamukelashvili
 
