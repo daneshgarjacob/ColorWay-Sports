@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Ranked
 league: "soccer"
-teams: []
+teams: ["premier-league", "la-liga", "serie-a", "bundesliga", "ligue-1"]
 ---
 
 Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all forty-two shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.

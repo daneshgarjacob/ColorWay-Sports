@@ -7,15 +7,13 @@ excerpt: "Carolina published its 2026 jersey schedule: black six times at home, 
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
+coverImageCredit: "Carolina Panthers"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-carolina-panthers.png"
 league: nfl
 teams: ["carolina-panthers"]
 ---
-
-<img src="/images/posts/panthers-uniform-schedule-2026/panthers-jersey-schedule-2026.jpg" alt="Carolina Panthers 2026 Jersey Schedule release graphic, black and silver helmets against a black background with the Panthers wordmark" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Credit: Carolina Panthers</p>
 
 Carolina was the hardest team in the NFL to predict week to week, and now it is not. The Panthers spent years treating **black and Panther blue as co-primaries**, wearing both at home and announcing the choice a few days out, which made them the one club nobody could schedule around. On September 4 they [published the whole thing](https://www.panthers.com/news/carolina-panthers-release-the-2026-jersey-schedule-uniforms-alternates): every jersey, every week, all seventeen games.
 

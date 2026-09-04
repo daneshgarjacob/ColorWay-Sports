@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #0057B8 0%, #0A0A0A 55%, #C9A227 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["serie-a"]
 ---
 
 Inter did two interesting things this season and neither quite landed. The home shirt brings back a collar and honours the 1998 kit. The away is built on American baseball, which we are the last people to object to. Both end up in the middle of our European ranking.

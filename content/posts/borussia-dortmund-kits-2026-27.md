@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #FDE100 0%, #1A1A1A 55%, #7B4FA8 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["bundesliga"]
 ---
 
 Dortmund are the most consistent club in our European ranking, with both graded kits landing at exactly the same level. Their purple third was one of the first two in Europe to launch and turned out to be one of the more interesting shirts of the season, and the all-black away that arrived in August keeps the set at the same level.

@@ -11,7 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Schedule
 league: "soccer"
-teams: []
+teams: ["premier-league"]
 resurfaceOnUpdate: true
 ---
 
@@ -21,7 +21,7 @@ This page is that schedule. Every fixture, every matchweek, who wears what, and 
 
 ## Matchweek 3: Every Kit Matchup
 
-Nine fixtures from Friday night to Sunday evening, then the season pauses for the September international break and does not resume until Brentford host Chelsea on Friday, September 18. Matchweek 3 opens at Portman Road, where Ipswich Town host Liverpool at 8pm on Friday. That one should be the simplest kit call of the weekend: Ipswich's block blue against Liverpool's all red is the classic no-clash pairing, so both home shirts are expected, and the Candy graphic gets its first away trip since the opening night 2-2 draw at Newcastle. As always, we mark the cell confirmed only when the club itself says so.
+Nine fixtures from Friday night to Sunday evening, then the season pauses for the September international break and does not resume until Brentford host Chelsea on Friday, September 18. Matchweek 3 opened at Portman Road, and it went exactly as the clash rule said it would. **Ipswich wore the blue home shirt and Liverpool travelled in the red home shirt**, the simplest call of the weekend, and the Candy graphic got its first away trip since the opening night draw at Newcastle. We grade the matchup an **A-**, and the full write-up is below.
 
 Three of Saturday's fixtures are the ones to watch for a change kit. **Brentford vs Sunderland** puts red and white stripes against red and white stripes, so Sunderland have to reach for a change shirt. **Manchester City vs Coventry City** is sky blue against sky blue, the promoted side's home shirt a near match for City's, so Coventry change too. **Fulham vs Crystal Palace** is white against Palace's white sash shirt, which pushes the visitors into a change kit for the second time in three weeks. The matchweek reads newest first: Sunday's Emirates closer at the top, then Saturday's six, and Friday's opener at the bottom.
 
@@ -34,10 +34,28 @@ Three of Saturday's fixtures are the ones to watch for a change kit. **Brentford
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Brighton vs Leeds United</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">3:00 PM BST</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Brentford vs Sunderland</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">3:00 PM BST</div></div>
   <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">SAT &middot; SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Newcastle vs Bournemouth</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.78em; font-weight: 700; color: #9aa0ac;">Kit to be confirmed</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">12:30 PM BST</div></div>
-  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; SEP 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Ipswich Town vs Liverpool</div><div style="font-size: 0.78em; font-weight: 700; color: #7a6b8a;">Blue home shirt, expected</div><div style="font-size: 0.78em; font-weight: 700; color: #7a6b8a;">Red home shirt, expected</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">8:00 PM BST &middot; Sky Sports</div></div>
+  <div style="background: #ffffff; border: 2px solid #3D195B; border-radius: 10px; padding: 12px 12px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; color: #7a6b8a;">FRI &middot; SEP 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 5px 0; color: #14284b;">Ipswich Town vs Liverpool</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Blue home shirt</div><div style="font-size: 0.78em; font-weight: 700; color: #1a7f37;">Red home shirt, the Candy graphic</div><div style="font-size: 0.7em; font-weight: 700; color: #444; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Graded A-</div></div>
 </div>
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Fixtures and kickoff times are confirmed. Kit assignments fill in as each club publishes its own confirmation, and the grades follow once the matches are played.</p>
+
+## Matchweek 3, Graded
+
+### Ipswich Town vs Liverpool: A-
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #0044a9 0%, #C8102E 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 3 &middot; Kit Matchup Grade A-</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-home.png" alt="Ipswich Town 2026/27 blue home shirt, worn at Portman Road against Liverpool on September 4 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">IPSWICH &middot; BLUE HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/liverpool-home.png" alt="Liverpool 2026/27 red home shirt with the 1989 Candy era graphic, worn at Portman Road against Ipswich Town on September 4 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">LIVERPOOL &middot; RED HOME</p></div>
+  </div>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shirt photo via Soccer Wearhouse, Ipswich via the club's official store.</p>
+
+Blue against red is the oldest no-argument pairing in the sport, and it is the reason neither club had to think about this one. Ipswich's home shirt is a flat, deep block blue with no pattern to speak of, and it works precisely because it does not try: it reads instantly at broadcast distance and it lets the away side carry the detail. Liverpool obliged. The Candy-era geometric print across the red is the best home shirt in the league this season and it is at its most legible against a plain opponent, which is exactly what Portman Road provided.
+
+What keeps this off the top grade is that it is a pairing you get several times a season and neither club had to make a decision to arrive at it. The best matchups in this league involve a choice, a third shirt pulled out because the away kit clashed, or a club reaching past the obvious. This was two home shirts and no thought required. Handsome, legible, slightly routine. **A-**
 
 ## Matchweek 2: Every Kit Matchup
 

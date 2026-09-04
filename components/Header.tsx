@@ -83,15 +83,25 @@ const leagues: NavLeague[] = [
     label: "Soccer/Fútbol",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
     leagueLogo: "/logos/leagues/soccer-ball.svg",
+    // Clubs, not competitions. The dropdown used to list only competitions, which
+    // meant there was no way to reach a single club from the nav; the competitions
+    // moved to extraLinks below and every soccer post is now tagged with both its
+    // competition and its club so these actually resolve.
     teams: [
-      "International Competitions",
-      "UEFA Champions League",
-      "Premier League",
-      "La Liga",
-      "Serie A",
-      "Bundesliga",
-      "Ligue 1",
-      "MLS",
+      "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
+      "Chelsea", "Coventry City", "Crystal Palace", "Everton", "Fulham",
+      "Hull City", "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
+      "Manchester United", "Newcastle", "Nottingham Forest", "Sunderland", "Tottenham",
+    ],
+    extraLinks: [
+      { label: "Premier League", href: "/stories?team=premier-league" },
+      { label: "UEFA Champions League", href: "/stories?team=uefa-champions-league" },
+      { label: "La Liga", href: "/stories?team=la-liga" },
+      { label: "Serie A", href: "/stories?team=serie-a" },
+      { label: "Bundesliga", href: "/stories?team=bundesliga" },
+      { label: "Ligue 1", href: "/stories?team=ligue-1" },
+      { label: "MLS", href: "/stories?team=mls" },
+      { label: "International Competitions", href: "/stories?team=international-competitions" },
     ],
   },
   {

@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #A50044 0%, #004D98 55%, #6B2FA0 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["la-liga"]
 ---
 
 Barcelona have the boldest away shirt in Europe this season and one of the most carefully thought-through home shirts. The away is a Kobe Bryant collaboration, which sounds like a gimmick and is not. Together they make one of the three best wardrobes on the continent.

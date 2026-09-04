@@ -11,7 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["premier-league", "newcastle"]
 resurfaceOnUpdate: true
 ---
 

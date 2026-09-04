@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #004170 0%, #0A1A2F 55%, #DA291C 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["ligue-1"]
 ---
 
 We ranked every 2026/27 kit at Europe's fifteen biggest clubs and Paris Saint-Germain came out of it with two distinctions: the single best shirt of the season, and the best wardrobe on the continent. They are the only club whose kits both grade A- or better. What is striking is how little they did to get there.

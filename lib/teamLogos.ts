@@ -126,6 +126,30 @@ export const TEAM_LOGOS: Record<string, string> = {
   "Vegas Golden Knights": "/logos/teams/nhl-vegas-golden-knights.png",
   "Washington Capitals": "/logos/teams/nhl-washington-capitals.png",
   "Winnipeg Jets": "/logos/teams/nhl-winnipeg-jets.png",
+
+  // Premier League clubs. Added 2026-09-04: every soccer post was league "soccer"
+  // with an empty teams array, so /stories?team=premier-league (which the nav has
+  // always linked to) returned nothing and no club had a page of its own.
+  "Arsenal": "/logos/teams/epl-arsenal.png",
+  "Aston Villa": "/logos/teams/epl-aston-villa.png",
+  "Bournemouth": "/logos/teams/epl-bournemouth.png",
+  "Brentford": "/logos/teams/epl-brentford.png",
+  "Brighton": "/logos/teams/epl-brighton.png",
+  "Chelsea": "/logos/teams/epl-chelsea.png",
+  "Coventry City": "/logos/teams/epl-coventry-city.png",
+  "Crystal Palace": "/logos/teams/epl-crystal-palace.png",
+  "Everton": "/logos/teams/epl-everton.png",
+  "Fulham": "/logos/teams/epl-fulham.png",
+  "Hull City": "/logos/teams/epl-hull-city.png",
+  "Ipswich Town": "/logos/teams/epl-ipswich-town.png",
+  "Leeds United": "/logos/teams/epl-leeds-united.png",
+  "Liverpool": "/logos/teams/epl-liverpool.png",
+  "Manchester City": "/logos/teams/epl-manchester-city.png",
+  "Manchester United": "/logos/teams/epl-manchester-united.png",
+  "Newcastle": "/logos/teams/epl-newcastle.png",
+  "Nottingham Forest": "/logos/teams/epl-nottingham-forest.png",
+  "Sunderland": "/logos/teams/epl-sunderland.png",
+  "Tottenham": "/logos/teams/epl-tottenham.png",
 };
 
 // Keyed by the URL slug the nav builds (name.toLowerCase().replace(/\\s+/g, '-')),
@@ -281,6 +305,28 @@ export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
   "vegas-golden-knights": "/logos/teams/nhl-vegas-golden-knights.png",
   "washington-capitals": "/logos/teams/nhl-washington-capitals.png",
   "winnipeg-jets": "/logos/teams/nhl-winnipeg-jets.png",
+
+  // Premier League clubs (see the note in TEAM_LOGOS).
+  "arsenal": "/logos/teams/epl-arsenal.png",
+  "aston-villa": "/logos/teams/epl-aston-villa.png",
+  "bournemouth": "/logos/teams/epl-bournemouth.png",
+  "brentford": "/logos/teams/epl-brentford.png",
+  "brighton": "/logos/teams/epl-brighton.png",
+  "chelsea": "/logos/teams/epl-chelsea.png",
+  "coventry-city": "/logos/teams/epl-coventry-city.png",
+  "crystal-palace": "/logos/teams/epl-crystal-palace.png",
+  "everton": "/logos/teams/epl-everton.png",
+  "fulham": "/logos/teams/epl-fulham.png",
+  "hull-city": "/logos/teams/epl-hull-city.png",
+  "ipswich-town": "/logos/teams/epl-ipswich-town.png",
+  "leeds-united": "/logos/teams/epl-leeds-united.png",
+  "liverpool": "/logos/teams/epl-liverpool.png",
+  "manchester-city": "/logos/teams/epl-manchester-city.png",
+  "manchester-united": "/logos/teams/epl-manchester-united.png",
+  "newcastle": "/logos/teams/epl-newcastle.png",
+  "nottingham-forest": "/logos/teams/epl-nottingham-forest.png",
+  "sunderland": "/logos/teams/epl-sunderland.png",
+  "tottenham": "/logos/teams/epl-tottenham.png",
 };
 
 export const LEAGUE_LOGOS: Record<string, string> = {

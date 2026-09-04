@@ -8,7 +8,7 @@ coverImage: "/images/posts/cbs-ucl-scorebug-2026/cbs-ucl-old-vs-new.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "contain"
 league: "soccer"
-teams: []
+teams: ["uefa-champions-league"]
 homepageOrder: 5
 ---
 

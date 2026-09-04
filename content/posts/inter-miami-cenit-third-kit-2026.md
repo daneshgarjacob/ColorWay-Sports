@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #F7B5CD 0%, #111111 55%, #6FE3C7 120%)"
 cardStyle: words
 kicker: MLS
 league: soccer
-teams: []
+teams: ["mls"]
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">

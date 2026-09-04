@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #FFFFFF 0%, #0B3D2E 50%, #E5A0B5 120%)"
 cardStyle: words
 kicker: Graded
 league: "soccer"
-teams: []
+teams: ["la-liga"]
 ---
 
 The most-copied home shirt in football, and the most valuable, graded a B. That is the story of Real Madrid's 2026/27. Neither shirt is bad. Neither is close to what this club has produced before, and the pink on the shoulders is the decision we would take back.
