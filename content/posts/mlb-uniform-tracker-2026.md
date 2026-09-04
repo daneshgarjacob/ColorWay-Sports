@@ -5,7 +5,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: '2026-09-03'
+updatedDate: '2026-09-04'
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded-v3.jpg"
@@ -33,14 +33,215 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, September 3
 
-Three of nine are in. The White Sox brought the black alternate to Houston for the matinee against the Astros in home white, the second dose of colour on the day after Cleveland opened it in the red alternate against Toronto in road gray. Before both, San Francisco wore road gray for the series finale at PNC Park against Pittsburgh in home white, the same pairing as Wednesday. Six more follow tonight, including the Red Sox at Baltimore, Brewers at Cubs for the third night running, and the Cardinals in Los Angeles. We add each one as the uniforms are confirmed, and the scores fill in when the games end.
+All nine are in, and the road teams brought the colour. Six visitors travelled in gray, with the Cardinals, Giants, Blue Jays, Red Sox, Marlins and Athletics all in their road sets, while Chicago's South Siders wore the black alternate in Houston and two clubs went navy, Milwaukee at Wrigley for the third straight night and Tampa Bay in Texas. Two home teams answered in something other than white: Cleveland in the red alternate against Toronto and Seattle in navy against Oakland's gray. The other seven hosts were in home white, which made the night a study in how much a gray road jersey depends on what it is standing next to.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #0C2C56 0%, #005C5C 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #cfe9e9;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Seattle Mariners Navy Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mariners/status/2095740132834075071"></a></blockquote>
+
+Seattle's navy is the best-balanced alternate in the American League, and Thursday was a good night to notice it. Navy base, the Mariners script across the chest with northwest green and silver holding the edges, and the compass rose on the sleeve, all of it against Oakland's plain gray. The A's road set is fine on its own, but it gave the navy nothing to compete with, so every bit of teal trim read from the upper deck.
+
+It is also the second time in three nights the navy has been on the field, after Fenway on Wednesday, and it looked better at home. Under the T-Mobile Park lights the navy holds its depth instead of going black, which is the trap most navy alternates fall into, and the green keeps it from ever looking like a generic dark jersey.
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Milwaukee Brewers Navy Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2095681603531845981"></a></blockquote>
+
+Three nights in a row now. Milwaukee wore the navy alternate for the entire Wrigley series, and by Thursday the case against it had made itself. The Brewers own the best home cream in the National League and a powder blue that is a genuine event; the navy is the plainest thing in the closet, a dark base with the script and the ball-in-glove and not much else. Against Chicago's pinstriped white it flattened out into a shape.
+
+The decision is the problem more than the design. A road series in September is exactly when a club can rotate, and Milwaukee chose the one jersey that makes it look like every other navy team in the league, three times, in the most photographed ballpark in the sport. A 2-1 loss in it did not help.
+
+### St. Louis Cardinals at Los Angeles Dodgers
+
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #C41E3A 0%, #ffffff 50%, #005A9C 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 3, Cardinals 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cardinals-road-gray.jpg" alt="St. Louis Cardinals Road Gray jersey worn September 3 2026 against the Dodgers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CARDINALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #b7b7bd; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%20louis%20cardinals%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/dodgers-home-white.png" alt="Los Angeles Dodgers Home White jersey worn September 3 2026 against the Cardinals, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%20angeles%20dodgers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+### Athletics at Seattle Mariners
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Athletics 7, Mariners 4</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/athletics-gray.jpg" alt="Athletics Road Gray jersey worn September 3 2026 against the Mariners, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ATHLETICS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Seattle Mariners Navy Alternate jersey worn September 3 2026 against the Athletics, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARINERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2C56; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dseattle%20mariners%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Tampa Bay Rays at Texas Rangers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 6, Rays 0</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rays-navy-alternate.jpg" alt="Tampa Bay Rays Navy Alternate jersey worn September 3 2026 against the Rangers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RAYS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #092C5C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%20bay%20rays%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rangers-home-white.jpg" alt="Texas Rangers Home White jersey worn September 3 2026 against the Rays, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%20rangers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Miami Marlins at Kansas City Royals
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Royals 7, Marlins 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/marlins-road-gray.jpg" alt="Miami Marlins Road Gray jersey worn September 3 2026 against the Royals, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARLINS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%20marlins%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/royals-home-white.jpg" alt="Kansas City Royals Home White jersey worn September 3 2026 against the Marlins, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROYALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%20city%20royals%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Boston Red Sox at Baltimore Orioles
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Red Sox 6, Orioles 5</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/red-sox-road-gray.jpg" alt="Boston Red Sox Road Gray jersey worn September 3 2026 against the Orioles, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED SOX</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dboston%20red%20sox%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/orioles-home-white.jpg" alt="Baltimore Orioles Home White jersey worn September 3 2026 against the Red Sox, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ORIOLES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%20orioles%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
+
+### Milwaukee Brewers at Chicago Cubs
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Cubs 2, Brewers 1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/brewers-navy-alternate.jpg" alt="Milwaukee Brewers Navy Alternate jersey worn September 3 2026 against the Cubs, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #12284B; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%20brewers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cubs-home-white.jpg" alt="Chicago Cubs Home White Pinstripes jersey worn September 3 2026 against the Brewers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CUBS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White Pinstripes</p>
+      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%20cubs%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Chicago White Sox at Houston Astros
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Astros 6, White Sox 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -69,7 +270,7 @@ Three of nine are in. The White Sox brought the black alternate to Houston for t
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Blue Jays 6, Guardians 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
