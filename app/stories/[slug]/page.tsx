@@ -4,6 +4,7 @@ import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
+import StorySidebar from "@/components/StorySidebar";
 import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
@@ -307,8 +308,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         </div>
       )}
 
-      {/* Article body */}
-      <main className="max-w-[720px] mx-auto px-5 py-12">
+      {/* Article body + desktop right rail. Below lg the rail is hidden and the
+          column is the same 720px it always was; from lg up the grid holds the
+          article at up to 720px and a fixed 300px sidebar beside it, and the
+          article column shrinks first on narrow desktops so the rail never
+          drops under Mediavine's 300px minimum. */}
+      <div className="mx-auto max-w-[1120px] px-5 lg:grid lg:grid-cols-[minmax(0,720px)_300px] lg:justify-center lg:gap-10 lg:items-start">
+      <main className="min-w-0 max-w-[720px] mx-auto lg:mx-0 py-12">
         {slug === "lakers-jersey-tracker-2025-26" ? (
           <LakersArticle />
         ) : (
@@ -342,6 +348,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <span className="text-xs text-gray-light uppercase tracking-wider">ColorWay Sports</span>
         </div>
       </main>
+      <div className="hidden lg:block py-12">
+        <StorySidebar posts={relatedPosts} />
+      </div>
+      </div>
 
       {upNextPost && (
         <UpNext

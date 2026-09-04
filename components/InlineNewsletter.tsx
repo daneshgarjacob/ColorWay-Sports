@@ -6,12 +6,15 @@ type Props = {
   eyebrow?: string;
   heading?: string;
   body?: string;
+  /** Force the input and button to stack; for narrow containers like the 300px story rail. */
+  stacked?: boolean;
 };
 
 export default function InlineNewsletter({
   eyebrow = "The ColorWay Sports Newsletter",
   heading = "Get every uniform drop in your inbox.",
   body = "New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.",
+  stacked = false,
 }: Props = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
@@ -79,7 +82,7 @@ export default function InlineNewsletter({
         ) : (
           <form
             onSubmit={handleSubmit}
-            className="flex flex-col sm:flex-row gap-3 max-w-[460px] mx-auto"
+            className={`flex flex-col ${stacked ? "" : "sm:flex-row"} gap-3 max-w-[460px] mx-auto`}
           >
             <input
               type="email"
