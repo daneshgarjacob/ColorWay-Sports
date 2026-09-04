@@ -10,8 +10,8 @@ excerpt: >-
   Wave Fridays, home whites Saturdays, teal Sundays. We break down the full
   uniform schedule.
 gradient: 'linear-gradient(135deg, #FF1493 0%, #00A3A3 50%, #000000 100%)'
-coverImage: /images/posts/marlins-uniform-schedule-2026/marlins-uni-schedule.jpg
-coverImagePosition: center 5%
+coverImage: "/images/posts/marlins-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-miami-marlins.png"
 league: mlb

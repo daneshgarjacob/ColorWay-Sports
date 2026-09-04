@@ -7,8 +7,8 @@ excerpt: >-
   The Padres have six uniforms in 2026, anchored by City Connect Fridays and
   camo Sundays. We break down every jersey and when they wear it.
 gradient: 'linear-gradient(135deg, #2F241D 0%, #1d1d1d 50%, #FFC425 100%)'
-coverImage: /images/posts/padres-uniform-schedule-cover.jpg
-coverImagePosition: center center
+coverImage: "/images/posts/padres-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-san-diego-padres.png"
 league: mlb

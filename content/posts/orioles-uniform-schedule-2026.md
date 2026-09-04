@@ -7,8 +7,8 @@ excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
 gradient: 'linear-gradient(135deg, #DF4601 0%, #1d1d1d 50%, #000000 100%)'
-coverImage: /images/posts/orioles-uniform-schedule-cover.jpg
-coverImagePosition: center center
+coverImage: "/images/posts/orioles-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-baltimore-orioles.png"
 league: mlb

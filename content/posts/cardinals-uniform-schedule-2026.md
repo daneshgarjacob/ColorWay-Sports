@@ -9,7 +9,7 @@ excerpt: >-
   down all five looks and exactly when each jersey is worn in 2026.
 gradient: 'linear-gradient(135deg, #C41E3A 0%, #1d1d1d 50%, #0C2340 100%)'
 coverImage: "/images/posts/cardinals-uniform-schedule-2026/cover.jpg"
-coverImagePosition: center center
+coverImagePosition: "center center"
 coverImageFit: cover
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-st-louis-cardinals.png"

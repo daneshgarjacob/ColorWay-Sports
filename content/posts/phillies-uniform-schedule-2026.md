@@ -9,8 +9,8 @@ excerpt: >-
   is worn. We break down the red pinstripes, creams, powder blues, City
   Connects, and road grays.
 gradient: 'linear-gradient(135deg, #E81828 0%, #002D72 50%, #E81828 100%)'
-coverImage: /images/posts/phillies-uniform-schedule-2026/phillies-all-jerseys-ibx.jpg
-coverImagePosition: center 60%
+coverImage: "/images/posts/phillies-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-philadelphia-phillies.png"
 league: mlb
