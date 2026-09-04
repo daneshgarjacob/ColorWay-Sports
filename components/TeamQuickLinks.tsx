@@ -48,7 +48,7 @@ export default function TeamQuickLinks({ teams }: { teams: TeamQuickLinksEntry[]
             </span>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+          <div className={team.links.length > 1 ? "grid grid-cols-1 sm:grid-cols-2 gap-2.5" : "grid grid-cols-1 gap-2.5"}>
             {team.links.map((link) => (
               <a
                 key={link.kind}
