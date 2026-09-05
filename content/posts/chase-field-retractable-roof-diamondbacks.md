@@ -2,7 +2,7 @@
 title: "Is the Chase Field Roof Open Today? 2026 Arizona Diamondbacks Roof Schedule"
 category: "MLB"
 date: "2026-04-06"
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-05'
 excerpt: "Is the Chase Field roof open today? Live day-of status for the Diamondbacks, how the Phoenix roof decision works, the cable saga, and how it compares to every MLB retractable roof."
 gradient: "linear-gradient(135deg, #A71930 0%, #E3D4AD 100%)"
 league: "mlb"
@@ -23,7 +23,7 @@ We put together the full breakdown on the Chase Field retractable roof, includin
 <div style="margin: 1.75em 0; border: 2px solid #A71930; border-radius: 16px; overflow: hidden;">
   <div style="background: #A71930; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Friday, September 4, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Saturday, September 5, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>

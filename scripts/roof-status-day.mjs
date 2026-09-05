@@ -59,7 +59,8 @@ async function forecast(t, iso) {
   const want = localHour(iso, t.tz);
   let idx = 0, best = 99;
   h.time.forEach((s, i) => { const d = Math.abs(Number(s.slice(11, 13)) - want); if (d < best) { best = d; idx = i; } });
-  return { temp: Math.round(h.temperature_2m[idx]), rain: h.precipitation_probability[idx], hum: h.relative_humidity_2m[idx] };
+  const dayRain = Math.max(...h.precipitation_probability.filter((v) => v != null));
+  return { temp: Math.round(h.temperature_2m[idx]), rain: h.precipitation_probability[idx], hum: h.relative_humidity_2m[idx], dayRain };
 }
 
 // Each club's documented tendency, applied to the forecast.
@@ -78,9 +79,13 @@ function decide(team, f) {
         ? ["CLOSED", `<strong>${f.temp}&deg;F</strong> at first pitch. Globe Life closes for heat, and Arlington in August is heat.`]
         : ["OPEN", `<strong>${f.temp}&deg;F</strong> and dry, inside the narrow window Texas actually opens for.`];
     case "Seattle Mariners":
-      return f.rain >= 30
-        ? ["CLOSED", `${f.rain}% chance of rain at first pitch. T-Mobile Park is an umbrella, and rain is the only thing that closes it.`]
-        : ["OPEN", `<strong>${f.temp}&deg;F</strong> and dry. T-Mobile Park is an umbrella, not a dome, and the call is made on rain alone.`];
+      if (f.rain >= 30)
+        return ["CLOSED", `${f.rain}% chance of rain at first pitch. T-Mobile Park is an umbrella, and rain is what closes it.`];
+      if (f.temp <= 66)
+        return ["CLOSED", `<strong>${f.temp}&deg;F</strong> at first pitch. T-Mobile Park stayed open all summer and started closing once September evenings dropped into the sixties.`];
+      if (f.dayRain >= 50)
+        return ["CLOSED", `A wet day in Seattle, ${f.dayRain}% rain at its highest. Once the roof is closed for weather it tends to stay closed through first pitch.`];
+      return ["OPEN", `<strong>${f.temp}&deg;F</strong> and dry. T-Mobile Park is an umbrella, not a dome, and a mild dry evening is what it opens for.`];
     case "Milwaukee Brewers":
       return f.rain >= 30 || f.temp <= 60
         ? ["CLOSED", `<strong>${f.temp}&deg;F</strong> with a ${f.rain}% chance of rain. The fan-blade roof closes for exactly this.`]
