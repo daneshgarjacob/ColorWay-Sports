@@ -16,6 +16,8 @@ type NavLeague = {
   teams: string[];
   leagueLogo?: string;
   extraLinks?: { label: string; href: string }[];
+  /** Competition -> its clubs, shown behind a caret inside the dropdown. */
+  subTeams?: Record<string, string[]>;
 };
 
 const leagues: NavLeague[] = [
@@ -83,26 +85,27 @@ const leagues: NavLeague[] = [
     label: "Soccer/Fútbol",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
     leagueLogo: "/logos/leagues/soccer-ball.svg",
-    // Clubs, not competitions. The dropdown used to list only competitions, which
-    // meant there was no way to reach a single club from the nav; the competitions
-    // moved to extraLinks below and every soccer post is now tagged with both its
-    // competition and its club so these actually resolve.
+    // Competitions, each with its own mark, the way this menu has always read.
+    // The Premier League row carries a caret because it is the one competition
+    // whose clubs all have pages; see subTeams below.
     teams: [
-      "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
-      "Chelsea", "Coventry City", "Crystal Palace", "Everton", "Fulham",
-      "Hull City", "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
-      "Manchester United", "Newcastle", "Nottingham Forest", "Sunderland", "Tottenham",
+      "International Competitions",
+      "UEFA Champions League",
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Bundesliga",
+      "Ligue 1",
+      "MLS",
     ],
-    extraLinks: [
-      { label: "Premier League", href: "/stories?team=premier-league" },
-      { label: "UEFA Champions League", href: "/stories?team=uefa-champions-league" },
-      { label: "La Liga", href: "/stories?team=la-liga" },
-      { label: "Serie A", href: "/stories?team=serie-a" },
-      { label: "Bundesliga", href: "/stories?team=bundesliga" },
-      { label: "Ligue 1", href: "/stories?team=ligue-1" },
-      { label: "MLS", href: "/stories?team=mls" },
-      { label: "International Competitions", href: "/stories?team=international-competitions" },
-    ],
+    subTeams: {
+      "Premier League": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
+        "Chelsea", "Coventry City", "Crystal Palace", "Everton", "Fulham",
+        "Hull City", "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
+        "Manchester United", "Newcastle", "Nottingham Forest", "Sunderland", "Tottenham",
+      ],
+    },
   },
   {
     label: "F1",
@@ -173,6 +176,7 @@ const hasDropdown = (l: NavLeague) => l.teams.length > 0 || (l.extraLinks?.lengt
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
+  const [openSub, setOpenSub] = useState<string | null>(null);
   const [mobileLeague, setMobileLeague] = useState<string | null>(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
@@ -438,6 +442,7 @@ export default function Header() {
                       return;
                     }
                     setOpenDropdown(openDropdown === league.label ? null : league.label);
+                    setOpenSub(null);
                   }}
                 >
                   {league.leagueLogo && (
@@ -476,22 +481,64 @@ export default function Header() {
                         {league.storiesLink.label}
                       </Link>
 
-                      {/* Teams */}
-                      {league.teams.map((team) => (
-                        <Link prefetch={false}
-                          key={team}
-                          href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
-                          className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
-                          onClick={() => setOpenDropdown(null)}
-                        >
-                          {teamLogos[team] ? (
-                            <img src={teamLogos[team]} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
-                          ) : (
-                            <span className="w-5 h-5 flex-shrink-0" />
-                          )}
-                          {team}
-                        </Link>
-                      ))}
+                      {/* Teams (or, under Soccer, competitions with their clubs behind a caret) */}
+                      {league.teams.map((team) => {
+                        const clubs = league.subTeams?.[team];
+                        const subOpen = openSub === team;
+                        return (
+                          <div key={team}>
+                            <div
+                              className="flex items-center hover:bg-orange/5 transition-colors"
+                              onMouseEnter={() => clubs && setOpenSub(team)}
+                            >
+                              <Link prefetch={false}
+                                href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
+                                className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:text-orange transition-colors flex-1 min-w-0"
+                                onClick={() => setOpenDropdown(null)}
+                              >
+                                {teamLogos[team] ? (
+                                  <img src={teamLogos[team]} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
+                                ) : (
+                                  <span className="w-5 h-5 flex-shrink-0" />
+                                )}
+                                {team}
+                              </Link>
+                              {clubs && (
+                                <button
+                                  type="button"
+                                  aria-label={`Show ${team} clubs`}
+                                  aria-expanded={subOpen}
+                                  onClick={(e) => { e.preventDefault(); setOpenSub(subOpen ? null : team); }}
+                                  className="px-3 py-2 text-gray-medium hover:text-orange transition-colors"
+                                >
+                                  <svg className={`w-3 h-3 transition-transform duration-200 ${subOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
+                                  </svg>
+                                </button>
+                              )}
+                            </div>
+                            {clubs && subOpen && (
+                              <div className="bg-[#f7f9fc] border-y border-border py-1">
+                                {clubs.map((club) => (
+                                  <Link prefetch={false}
+                                    key={club}
+                                    href={`/stories?team=${encodeURIComponent(teamSlug(club))}`}
+                                    className="flex items-center gap-2.5 pl-9 pr-4 py-1.5 text-[12.5px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
+                                    onClick={() => { setOpenDropdown(null); setOpenSub(null); }}
+                                  >
+                                    {teamLogos[club] ? (
+                                      <img src={teamLogos[club]} alt="" className="w-4 h-4 object-contain flex-shrink-0" />
+                                    ) : (
+                                      <span className="w-4 h-4 flex-shrink-0" />
+                                    )}
+                                    {club}
+                                  </Link>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        );
+                      })}
 
                       {/* Extra series links (e.g., NASCAR under Racing) */}
                       {league.extraLinks?.map((l) => (
@@ -592,17 +639,31 @@ export default function Header() {
                         {league.storiesLink.label}
                       </Link>
                       {league.teams.map((team) => (
-                        <Link prefetch={false}
-                          key={team}
-                          href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
-                          className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
-                          onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                        >
-                          {teamLogos[team] && (
-                            <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
-                          )}
-                          {team}
-                        </Link>
+                        <div key={team}>
+                          <Link prefetch={false}
+                            href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
+                            className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
+                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                          >
+                            {teamLogos[team] && (
+                              <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
+                            )}
+                            {team}
+                          </Link>
+                          {league.subTeams?.[team]?.map((club) => (
+                            <Link prefetch={false}
+                              key={club}
+                              href={`/stories?team=${encodeURIComponent(teamSlug(club))}`}
+                              className="flex items-center gap-2 pl-6 text-[13px] text-gray-medium hover:text-orange transition-colors py-1"
+                              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                            >
+                              {teamLogos[club] && (
+                                <img src={teamLogos[club]} alt="" className="w-3.5 h-3.5 object-contain" />
+                              )}
+                              {club}
+                            </Link>
+                          ))}
+                        </div>
                       ))}
                       {league.extraLinks?.map((l) => (
                         <Link prefetch={false}
