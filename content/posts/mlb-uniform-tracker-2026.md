@@ -35,6 +35,15 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 All sixteen are in, and Friday was a City Connect night across the league. Twelve of them: the Padres, Mariners, Rockies, Royals, Rangers, White Sox, Marlins, Orioles, Pirates, Phillies and Reds at home, plus Cleveland switching into the navy set for the nightcap after opening the doubleheader in home white. The road teams mostly stayed out of the way, eight in gray, which is the correct response when the other guy has decided to be the event. The exceptions were Milwaukee's powder blue in Cincinnati, red for both the Angels and the Red Sox, navy for the Twins, Rays and Nationals, and Chicago's royal blue in Miami.
 
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #002D72 0%, #FF5910 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #ffe3d1;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">New York Mets Black Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Mets/status/2096058484361974086"></a></blockquote>
+
+On a night when twelve clubs reached for a City Connect, the best-looking jersey in baseball was a plain black alternate that has been in the closet since the late nineties. The Mets black is the rare dark jersey that earns the dark: the orange is doing real work against it, the interlocking NY reads at any distance, and there is no gimmick anywhere on it. It does not need a story about the city because the colours already are the city. San Francisco's road gray across from it kept the frame clean. **Jersey of the Day.**
+
 <div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
   <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
   <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Philadelphia Phillies Black City Connect</span>
