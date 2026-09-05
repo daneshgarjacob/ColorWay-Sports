@@ -1,11 +1,13 @@
 ---
-title: "Green Bay Packers 2026 Uniform Schedule: When the New Rivalries Uniform Arrives"
+title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-08-27"
-excerpt: "The Packers 2026 uniform schedule: green at home, white on the road, and a brand-new Rivalries uniform landing at one divisional home game."
+updatedDate: "2026-09-04"
+excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
-cardStyle: words
+coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-green-bay-packers.png"
 league: nfl
@@ -88,7 +90,7 @@ Here is the wrinkle that makes Green Bay's 2026 unusual. Chicago has confirmed i
 
 Minnesota's home schedule adds one more confirmed detail. The Vikings have announced they will wear their **classic uniforms against the Packers**, which is Green Bay's Week 1 trip to Minnesota on September 13. So the season opens with the Packers in road whites opposite a throwback.
 
-## The Green Home Set
+## Vintage Green (The Home Set)
 
 The green jersey with gold pants is one of the two or three least-changed uniforms in American sport, and it carries the bulk of the home schedule: Atlanta on a Thursday in Week 3, Dallas in Week 6, Carolina on a Thursday in Week 8, Minnesota in Week 10, then Buffalo, Miami, Houston and Detroit down the stretch.
 
@@ -96,27 +98,34 @@ There is not much to say about it that has not been said. The dark green and gol
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the green home jersey on Fanatics →</a>
 
-## The White Road Set
+## Classic White (The Road Set)
 
 White jersey, gold pants, for all eight road games. The stretch worth circling is late: **Week 12 at the Rams on November 25**, where Los Angeles is wearing the Fearsome White alternate, then **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set. Two of Green Bay's road trips this year are somebody else's uniform showcase.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
-## The All-White Alternate
+## The 1923 Throwback Is Back for 2026
 
-Green Bay has run an all-white alternate for the last couple of seasons, and has generally paired it with a throwback in the same year, the 1923 Classic navy set in 2025. With a Rivalries uniform now taking one of the alternate slots, whether the all-white returns in 2026 is an open question. No date has been announced either way.
+Green Bay published its **2026 Uniform Lineup** on September 4, and it settles a question this page had open. There are four uniforms, not three, and the club names them: **1923**, **Vintage Green**, **Classic White** and **Rivalries**.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the all-white alternate on Fanatics →</a>
+<img src="/images/posts/packers-uniform-schedule-2026/uniform-lineup-2026.jpg" alt="Green Bay Packers 2026 uniform lineup graphic showing four uniforms: the 1923 navy and gold throwback, Vintage Green, Classic White, and the new Rivalries set" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Credit: Green Bay Packers</p>
+
+The **1923 Classic** returns, which is the news. It is the navy and gold set with the tan leather-look helmet, worn in 2025 and carried into 2026 rather than retired, and it is the most distinctive thing in the closet by a distance. No date has been announced for it.
+
+The other correction is that the **all-white alternate does not appear in the 2026 lineup**. Green Bay ran it the last two seasons and we had it listed here as a live possibility; the club's own graphic leaves it out. Treat it as gone for this year unless the Packers say otherwise.
+
+So the closet is Vintage Green at Lambeau, Classic White on the road, Rivalries in Week 5 against Chicago, and the 1923 throwback waiting on a date.
 
 ## Frequently Asked Questions
 
 **What jersey are the Packers wearing today?**
 
-Green at Lambeau and white on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The all-white alternate remains in the closet with no announced 2026 date.
+Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The 1923 throwback is in the 2026 lineup with no announced date, and the all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What jerseys are the Packers wearing this week?**
 
-Green at Lambeau and white on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The all-white alternate remains in the closet with no announced 2026 date.
+PLACEHOLDER_BOTTOMte.
 
 **What uniform did the Packers wear last week?**
 
