@@ -98,7 +98,7 @@ The full fifteen are in and the league put the City Connects away. After Friday 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rockies 10, Cardinals 7</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -121,6 +121,24 @@ The full fifteen are in and the league put the City Connects away. After Friday 
   </div>
 </div>
 </div>
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #004687 0%, #7BB2DD 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d6e8f7;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Kansas City Royals Powder Blue Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Royals/status/2096314114272280622"></a></blockquote>
+
+Three clubs wore a light blue on Saturday and this is the one that knows what it is for. Milwaukee's powder blue is a road uniform and St. Louis wears theirs as a nostalgia piece, but Kansas City is the only team in baseball for which powder blue is not a costume: it is the colour the franchise won in, and the club wears it at home like a primary rather than a novelty. The script and the piping do almost nothing, which is the point. Toronto's road gray across from it gave the blue the whole frame. **Jersey of the Day.**
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Cincinnati Reds Red City Connect</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Reds/status/2096311401497100523"></a></blockquote>
+
+The problem here is not the colour, it is the brief. City Connect exists to say something about a city that the regular uniform cannot, and Cincinnati answered the question by putting the Reds in red. That is the one thing this franchise already does. The club has the oldest name in the sport and a genuinely deep closet, and a programme designed to surface something unexpected produced the most expected shirt they could have made. Milwaukee's powder blue standing across from it only underlined how little was ventured. **The Stinker.**
 
 ### Arizona Diamondbacks at Houston Astros
 
@@ -298,6 +316,12 @@ The full fifteen are in and the league put the City Connects away. After Friday 
 
 ### Los Angeles Angels at Pittsburgh Pirates
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BA0021 0%, #ffffff 50%, #111111 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -324,6 +348,9 @@ The full fifteen are in and the league put the City Connects away. After Friday 
   </div>
 </div>
 </div>
+</div>
+
+Red against black, and the reason it lands is that the Pirates went all the way. Pittsburgh could have answered the Angels in home white and had a perfectly good-looking game. Instead they wore the black "Pittsburgh" alternate, which turns the whole left side of the frame into a dark block and leaves the Angels red with nowhere to hide. Red on black is the oldest high-contrast pairing there is and it usually fails because one side goes muddy under lights; here the gold on the Pittsburgh script keeps the black from flattening and the Angels red stays genuinely red rather than sliding toward maroon. Two clubs both choosing colour on the same afternoon is the rarest thing on a baseball schedule. **The Clash of the Day.**
 
 ### Milwaukee Brewers at Cincinnati Reds
 
