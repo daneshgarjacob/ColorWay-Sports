@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-08-21"
+updatedDate: '2026-09-05'
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -37,7 +37,7 @@ It is an alternate, not a rebrand. The red helmet with the oval G is not going a
 Twelve games, the first white helmet in program history, and an October 24 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #BA0C2F; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Silver</div></div>
   <div style="background: #7c8a93; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All-White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -54,7 +54,7 @@ Twelve games, the first white helmet in program history, and an October 24 bye.
 
 SEC home teams wear color and visitors wear white, which makes the road dates predictable and the home dates the ones worth watching.
 
-**September 5 vs. Tennessee State**, Athens. Home opener. Red expected.
+**September 5 vs. Tennessee State**, Athens. Home opener. ★ Confirmed: **red helmet with the oval G, red jersey, silver britches**, the standard Georgia home set. The white helmet does not appear until the September 12 all-white game against Western Kentucky.
 
 **September 12 vs. Western Kentucky**, Athens. ✅ **Confirmed: the all-white set with the first white helmet in Georgia history.**
 

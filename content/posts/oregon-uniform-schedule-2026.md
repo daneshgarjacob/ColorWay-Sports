@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-03"
+updatedDate: '2026-09-05'
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ One combination is on the board. **The opener against Boise State on September 5
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
-**September 5 vs. Boise State.** ★ Confirmed: **yellow helmet, green jersey, yellow pants.** The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the colour question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
+**September 5 vs. Boise State.** ★ Confirmed on the field: **yellow helmet, green jersey, yellow pants.** Oregon won 34-27. The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the colour question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
 
 **September 12 at Oklahoma State.** Varies expected.
 
@@ -78,7 +78,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-For the season opener against Boise State on September 5, Oregon wears a green jersey with a yellow helmet and yellow pants, confirmed ahead of the game. Beyond that, Oregon wears green at home and varies on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+For the season opener against Boise State on September 5, Oregon wears a green jersey with a yellow helmet and yellow pants, confirmed on the field. Beyond that, Oregon wears green at home and varies on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon's uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-08-21"
+updatedDate: '2026-09-05'
 excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are the one program with no alternates at all."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ The white helmet with the burnt orange Longhorn silhouette never changes. It is 
 Twelve games, zero alternates, and the most predictable wardrobe in college football.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
+  <div style="background: #BF5700; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange / White</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
@@ -46,7 +46,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
 </div>
 
-**September 5 vs. Texas State**, Austin. Home opener. Burnt orange.
+**September 5 vs. Texas State**, Austin. Home opener. ★ Confirmed: **burnt orange jersey, white pants, white helmet with the Longhorn**, which is the only home look Texas has. Texas State answered in white.
 
 **September 12 vs. Ohio State**, Austin. The biggest non-conference game on anyone's schedule this year, at home, in prime time if it draws the window. Burnt orange.
 
