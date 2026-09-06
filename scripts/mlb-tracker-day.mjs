@@ -84,6 +84,7 @@ const SEED = {
   "red-sox|Yellow City Connect": { src: "/images/posts/mlb-daily-tracker/red-sox-yellow-cc.jpg", swatch: "#FFD100" },
   "brewers|Home White": { src: "/images/posts/mlb-daily-tracker/brewers-home-white.jpg", swatch: "#f0f0f0" },
   "astros|Stros City Connect": { src: "/images/posts/mlb-daily-tracker/astros-space-city-cc.jpg", swatch: "#f5f5f5" },
+  "mets|Blue Alternate": { src: "/images/posts/mlb-daily-tracker/mets-blue-alternate.jpg", swatch: "#002D72" },
 };
 for (const [k, v] of Object.entries(SEED)) {
   if (!tile.has(k)) {
