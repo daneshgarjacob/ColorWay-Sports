@@ -2,10 +2,13 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: All 17 Games Announced, With Three Color Rush Dates and the Thanksgiving Classic"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-03"
+updatedDate: "2026-09-07"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
+coverImage: "/images/posts/cowboys-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-dallas-cowboys.png"
 league: nfl

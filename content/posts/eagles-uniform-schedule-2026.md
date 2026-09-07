@@ -2,10 +2,13 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Both Kelly Green Dates, the Black Alternate, and Every Week"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-04"
+updatedDate: "2026-09-07"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
+coverImage: "/images/posts/eagles-uniform-schedule-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-philadelphia-eagles.png"
 league: nfl
