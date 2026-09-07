@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-27"
+updatedDate: "2026-09-06"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -52,7 +52,7 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #0C2340; color: #4B92DB; border: 2px solid #4B92DB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Music City</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue or White</div></div>
+  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -78,7 +78,7 @@ It projects to all eight home dates, starting with the Jets in Week 1, and the p
 
 The road jersey is the better of the two, and it is not especially close. White base, "TENNESSEE" written across the chest in light blue, light blue numbers outlined in red. Putting the state name rather than the team name on the road jersey is a small idea executed well, and the light blue numerals give it a warmth that most white road sets never get near.
 
-Paired with the light blue pants, this is the best combination Tennessee owns. It projects to all nine road games, and the one we would circle is Week 14 at Detroit, where light blue against Honolulu blue should look terrific.
+Paired with the light blue pants, this is the best combination Tennessee owns. It projects to eight of the nine road games, everything except the trip to Dallas, and the one we would circle is Week 14 at Detroit, where light blue against Honolulu blue should look terrific.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
@@ -116,9 +116,9 @@ Rivalries jerseys and the rest of the collection go on sale **Tuesday, September
 
 ## The Dallas Wrinkle in Week 11
 
-One road game on this schedule is not like the others. The Titans play at Dallas in Week 11 on Sunday, November 22, and Dallas is the one franchise in the NFL that wears white at home as a matter of tradition. Because a visiting team can only wear a colored jersey when the host goes white, AT&T Stadium is the rare road building where Tennessee could show up in the blue set.
+One road game on this schedule is not like the others. The Titans play at Dallas in Week 11 on Sunday, November 22, and Dallas is the one franchise in the NFL that wears white at home as a matter of tradition. Dallas has confirmed white for that game, and a visiting team cannot wear white against a host in white, so AT&T Stadium is the one road building where Tennessee wears the blue set.
 
-Whether they do is a genuine unknown, and it usually comes down to how much a visiting team wants the moment. Philadelphia took the same opportunity to wear Kelly Green at Dallas rather than saving it for a home date. If Tennessee wants a national audience to see the new blue jersey away from Nissan Stadium, this is the only week on the calendar that offers it.
+That makes Week 11 the only chance for a national audience to see the new blue jersey away from Nissan Stadium. Philadelphia got the same opportunity in Dallas and used it for Kelly Green; Tennessee's version is the new Titans blue against the Cowboys' white and silver, which should read very well in that building.
 
 ## How the Titans Rotation Works in 2026
 

@@ -2,7 +2,7 @@
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-01"
+updatedDate: "2026-09-06"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -46,7 +46,7 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · TNF</div></div>
+  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple · TNF</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
 </div>
 
@@ -111,9 +111,13 @@ Weeks 4, 7, 9, 14, 16 and 18. Tennessee, Cincinnati, Jacksonville on Thursday as
 
 The purple is the whole identity. It is the only one in the league, nobody can take it, and the fact that Baltimore built a modern helmet program around deepening it rather than escaping it is the smartest thing about Next Flight.
 
-## White on the Road (8 Games, Plus Rio)
+## White on the Road (7 Games, Plus Rio)
 
-Weeks 1, 5, 6, 8, 11, 12, 15 and 17, plus Week 3 in Brazil if they stay with the default. The Week 5 Sunday nighter in Atlanta and the Week 17 Thursday game in Cincinnati on New Year's Eve are the two with the biggest audiences.
+Weeks 1, 5, 6, 8, 11, 12 and 15, plus Week 3 in Brazil if they stay with the default. The Week 5 Sunday nighter in Atlanta is the one with the biggest audience.
+
+## Purple in Cincinnati (Week 17)
+
+The Thursday night game on New Year's Eve is the one road date where Baltimore wears purple, and it is the Bengals' decision: Cincinnati has confirmed the **White Bengal** alternate for that game, and with the home team in white the visitor wears its color. Purple against white tiger stripes in prime time is the best-looking road game on the Ravens' schedule.
 
 ## How the Ravens Rotation Works in 2026
 

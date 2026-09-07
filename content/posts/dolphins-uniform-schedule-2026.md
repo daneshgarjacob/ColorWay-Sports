@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-18"
+updatedDate: "2026-09-06"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -34,6 +34,8 @@ The Dolphins announced themes for all eight home games at Hard Rock Stadium, but
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFB088;">White Throwback</strong> &middot; Week 14 vs. Bears &middot; Sunday, December 13</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFB088;">Dark Water Rivalries</strong> &middot; Week 17 vs. Bills &middot; Sunday, January 3</p>
 </div>
+
+<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px; text-align: center;"><img src="/images/posts/dolphins-uniform-schedule-2026/white-throwback.jpg" alt="Miami Dolphins white throwback jersey with aqua numbers outlined in orange, aqua and orange sleeve stripes and the leaping dolphin logo, confirmed for Week 14 against the Bears on December 13" style="max-height: 420px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.75em; color: #999; margin: 12px 0 0;">The white throwback: aqua numbers with an orange outline, aqua and orange sleeve stripes, the leaping dolphin. Shown here as the Mitchell &amp; Ness 1995 Dan Marino version of the same design, via the Dolphins team store.</p></div>
 
 ## The Full 2026 Dolphins Uniform Schedule, Week by Week
 
