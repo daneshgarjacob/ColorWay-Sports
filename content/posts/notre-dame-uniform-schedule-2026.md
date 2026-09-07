@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-07"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ The gold helmet is the constant. It survives every alternate on this list, inclu
 Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #1c3557; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SUN SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Shamrock &middot; A-</div></div>
+  <div style="background: #1c3557; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SUN SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Shamrock &middot; W 41-13 &middot; A-</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -57,7 +57,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**Sunday, September 6 vs. Wisconsin**, Lambeau Field, 7:30 p.m. ET on NBC. ✅ **Worn: the Shamrock Series set**, the deep blue Acme Packers tribute with the gold helmet. Notre Dame is the designated home team even though the game is in Green Bay. Wisconsin answered with a special edition of its own, **all red from helmet to pants with silver numbers, logos and lettering**, the silver a nod to the Packers' four Lombardi Trophies and the first time the Badgers have gone red from top to bottom. Two one-off uniforms, both in their own color, blue against red under the Lambeau lights. **We grade the matchup an A-.**
+**Sunday, September 6 vs. Wisconsin**, Lambeau Field, 7:30 p.m. ET on NBC. ✅ **Worn: the Shamrock Series set**, the deep blue Acme Packers tribute with the gold helmet. Notre Dame is the designated home team even though the game is in Green Bay. Wisconsin answered with a special edition of its own, **all red from helmet to pants with silver numbers, logos and lettering**, the silver a nod to the Packers' four Lombardi Trophies and the first time the Badgers have gone red from top to bottom. Two one-off uniforms, both in their own color, blue against red under the Lambeau lights, and Notre Dame won it 41-13. **We grade the matchup an A-.**
 
 **September 12 vs. Rice**, Notre Dame Stadium. Home opener, and the first game in the actual stadium. Navy expected.
 
