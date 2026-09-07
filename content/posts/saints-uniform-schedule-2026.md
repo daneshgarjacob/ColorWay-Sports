@@ -2,6 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: Every Jersey, Every Week, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
+updatedDate: "2026-09-06"
 excerpt: "The Saints host a game in Paris and have announced no uniform dates. Here is the full 2026 jersey schedule, week by week, with the black, white and gold sets explained."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"

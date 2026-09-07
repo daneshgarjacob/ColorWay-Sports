@@ -2,6 +2,7 @@
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
+updatedDate: "2026-09-06"
 excerpt: "The Steelers are bringing back the 1933 throwback and the gold helmet, but they have not named the game yet. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
