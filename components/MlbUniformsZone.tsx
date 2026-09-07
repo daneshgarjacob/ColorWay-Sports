@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
-import { getJotd, getMotd, getStinker, getWeekdayStandard } from "@/lib/mlbHomepage";
+import { getMotd, getWeekdayStandard } from "@/lib/mlbHomepage";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // Friday belongs with the weekend, not the work week. Across every day logged in
 // 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
@@ -59,9 +59,8 @@ function CwStamp({ color = "#fff" }: { color?: string }) {
 }
 
 // One grouped MLB zone on a soft-tinted band: the tracker carousel up top,
-// then a single "Jersey Stats of the Day" card (the day's three awards across the
-// top — Jersey of the Day, Stinker, ColorWay Clash — over a category-mix strip),
-// then the
+// then a single "Jersey Stats of the Day" card (the ColorWay Clash of the Day
+// beside last night's category mix; JOTD and the Stinker retired 9/7), then the
 // day-of-week pattern chart. Replaces MlbUniformsHub + MlbFeatureStrip +
 // WeekdayStandardIndex so the homepage groups all the MLB tools in one place.
 export default async function MlbUniformsZone() {
@@ -69,9 +68,7 @@ export default async function MlbUniformsZone() {
   if (!post) return null;
 
   const data = buildAlternatesWatch(post.contentHtml);
-  const jotd = getJotd(post.contentHtml);
   const motd = getMotd(post.contentHtml);
-  const stinker = getStinker(post.contentHtml);
   const weekday = getWeekdayStandard(post.contentHtml);
   const href = `/stories/${TRACKER_SLUG}`;
 
@@ -155,64 +152,13 @@ export default async function MlbUniformsZone() {
               </span>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {/* Jersey of the Day */}
-              {jotd && (
-                <Link prefetch={false} href={href} className="group flex items-center gap-4">
-                  {jotd.image && (
-                    <img
-                      src={jotd.image}
-                      alt=""
-                      className="h-[76px] w-auto object-contain flex-shrink-0"
-                    />
-                  )}
-                  <div className="min-w-0">
-                    <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
-                      ⚾ Jersey of the Day
-                    </span>
-                    <p className="mt-1 text-lg font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
-                      {jotd.title}
-                    </p>
-                    <span className="mt-1.5 inline-block text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
-                      See it on the tracker →
-                    </span>
-                  </div>
-                </Link>
-              )}
-
-              {/* Stinker of the Day — the negative award, equal weight to the other two */}
-              {stinker && (
-                <Link prefetch={false}
-                  href={href}
-                  className="group flex items-center gap-4 md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border"
-                >
-                  {stinker.image && (
-                    <img
-                      src={stinker.image}
-                      alt=""
-                      className="h-[76px] w-auto object-contain flex-shrink-0"
-                    />
-                  )}
-                  <div className="min-w-0">
-                    <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#6B7280]">
-                      👎 Stinker of the Day
-                    </span>
-                    <p className="mt-1 text-lg font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
-                      {stinker.title}
-                    </p>
-                    <span className="mt-1.5 inline-block text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
-                      See it on the tracker →
-                    </span>
-                  </div>
-                </Link>
-              )}
-              {/* ColorWay Clash of the Day */}
-              {motd && (
-                <Link prefetch={false}
-                  href={href}
-                  className="group md:border-l md:border-border md:pl-6 pt-4 md:pt-0 border-t md:border-t-0 border-border"
-                >
-                  <div className="flex items-center justify-between mb-2">
+            {/* Clash on the left, last night's mix on the right. Jersey of the
+                Day and the Stinker were retired 2026-09-07 (Clash-only awards,
+                no tweet embeds), so the card is two columns now. */}
+            <div className="grid grid-cols-1 md:grid-cols-[1.15fr_1fr] gap-6 md:gap-8">
+              {motd ? (
+                <Link prefetch={false} href={href} className="group block">
+                  <div className="flex items-center justify-between mb-3">
                     <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
                       ★ ColorWay Clash of the Day
                     </span>
@@ -222,45 +168,77 @@ export default async function MlbUniformsZone() {
                       </span>
                     )}
                   </div>
-                  <div className="flex items-center justify-center gap-5">
+                  <div className="flex items-center justify-center gap-6 sm:gap-8">
                     {motd.images.map((src, i) => (
-                      <img key={i} src={src} alt="" className="h-[70px] w-auto object-contain" />
+                      <span key={i} className="contents">
+                        {i === 1 && (
+                          <span className="text-[11px] font-extrabold uppercase tracking-[0.2em] text-[#8A8F98]">
+                            at
+                          </span>
+                        )}
+                        <img src={src} alt="" className="h-[104px] w-auto object-contain" />
+                      </span>
                     ))}
                   </div>
-                  <p className="mt-2 text-center text-[14px] font-bold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
+                  <p className="mt-3 text-center text-[17px] font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
                     {motd.matchup}
                   </p>
+                  {motd.score && (
+                    <p className="mt-1 text-center text-[12px] font-semibold text-[#5f7085] tabular-nums">
+                      Final · {motd.score}
+                    </p>
+                  )}
+                  <span className="mt-2 block text-center text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
+                    See it on the tracker →
+                  </span>
+                </Link>
+              ) : (
+                <Link prefetch={false} href={href} className="group flex flex-col justify-center">
+                  <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
+                    ★ ColorWay Clash of the Day
+                  </span>
+                  <p className="mt-2 text-[15px] font-extrabold text-[#0B1F4A] leading-snug">
+                    Tonight&rsquo;s pick lands once the slate is in.
+                  </p>
+                  <span className="mt-2 text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
+                    See last night&rsquo;s games →
+                  </span>
                 </Link>
               )}
 
-            </div>
-            {/* Last night's category mix — a strip under the awards rather than a
-                fourth column, so all three awards keep a full-size jersey tile.
-                Three bars also read better side by side than stacked narrow. */}
-            <div className="mt-5 pt-4 border-t border-border grid grid-cols-1 sm:grid-cols-[auto_repeat(3,1fr)] gap-x-5 gap-y-3 items-center">
-              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
-                Last Night's Mix
-              </span>
-              {data.categories.map((c) => {
-                const pct = Math.round((c.count / data.totalUniforms) * 100);
-                return (
-                  <div key={c.label}>
-                    <div className="flex items-baseline justify-between mb-1 gap-2">
-                      <span className="text-[11px] font-bold text-[#0B1F4A]">{c.label}</span>
-                      <span className="text-[11px] font-bold text-[#0B1F4A] tabular-nums">
-                        {c.count}/{data.totalUniforms}
-                        <span className="ml-1 text-[10px] text-[#8A8F98] font-normal">({pct}%)</span>
-                      </span>
-                    </div>
-                    <div className="w-full bg-[#F0F0F4] rounded-full h-2 overflow-hidden">
-                      <div
-                        className="h-2 rounded-full transition-all duration-500"
-                        style={{ width: `${pct}%`, background: c.color }}
-                      />
-                    </div>
-                  </div>
-                );
-              })}
+              {/* Last night's mix: three bars stacked, with counts */}
+              <div className="md:border-l md:border-border md:pl-8 pt-5 md:pt-0 border-t md:border-t-0 border-border">
+                <div className="flex items-baseline justify-between mb-3">
+                  <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
+                    Last Night&rsquo;s Mix
+                  </span>
+                  <span className="text-[11px] font-bold text-[#0B1F4A] tabular-nums">
+                    {data.totalUniforms - (data.categories[0]?.count ?? 0)} of {data.totalUniforms} in color
+                  </span>
+                </div>
+                <div className="space-y-3.5">
+                  {data.categories.map((c) => {
+                    const pct = Math.round((c.count / data.totalUniforms) * 100);
+                    return (
+                      <div key={c.label}>
+                        <div className="flex items-baseline justify-between mb-1 gap-2">
+                          <span className="text-[12px] font-bold text-[#0B1F4A]">{c.label}</span>
+                          <span className="text-[12px] font-bold text-[#0B1F4A] tabular-nums">
+                            {c.count}/{data.totalUniforms}
+                            <span className="ml-1 text-[10px] text-[#8A8F98] font-normal">({pct}%)</span>
+                          </span>
+                        </div>
+                        <div className="w-full bg-[#F0F0F4] rounded-full h-2.5 overflow-hidden">
+                          <div
+                            className="h-2.5 rounded-full transition-all duration-500"
+                            style={{ width: `${pct}%`, background: c.color }}
+                          />
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
           </div>
         )}

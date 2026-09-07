@@ -109,7 +109,7 @@ export function getStinker(html: string): Stinker {
   return { title, day: d.day, image: im ? im[1] : null };
 }
 
-export type Motd = { matchup: string; grade: string; images: string[] } | null;
+export type Motd = { matchup: string; grade: string; images: string[]; score: string } | null;
 
 export function getMotd(html: string): Motd {
   const d = newestCompleteDaySlice(html);
@@ -139,8 +139,14 @@ export function getMotd(html: string): Motd {
   const gradeM = after.match(/Matchup Grade:\s*([\d.]+)\s*\/\s*10/);
   const grade = gradeM ? gradeM[1] : "";
 
+  // The card's status pill: "Final &middot; Brewers 4, Cubs 3". A bare "Final"
+  // (game not yet patched with a score) yields an empty string, not "Final".
+  // Rendered HTML carries the literal "·", raw markdown carries "&middot;"; accept both.
+  const pillM = after.match(/>\s*Final(?:\s*(?:&middot;|\u00b7)\s*Game \d+)?\s*(?:&middot;|\u00b7)\s*([^<]+?)\s*</);
+  const score = pillM ? strip(pillM[1]) : "";
+
   if (!matchup || imgs.length < 2) return null;
-  return { matchup, grade, images: imgs };
+  return { matchup, grade, images: imgs, score };
 }
 
 export type WeekdayStat = { weekday: string; short: string; pct: number; days: number };
