@@ -7708,6 +7708,7 @@ This is also a fixable stinker. A single line of red piping on the placket would
   </div>
 </div>
 </div>
+
 ### Washington Nationals at Texas Rangers
 
 <div style="margin: 1.4em 0 0.6em;">
