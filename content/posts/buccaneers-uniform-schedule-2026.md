@@ -2,7 +2,7 @@
 title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-07"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 coverImage: "/images/posts/buccaneers-uniform-schedule-2026/cover.jpg"

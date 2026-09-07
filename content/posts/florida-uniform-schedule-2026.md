@@ -3,7 +3,7 @@ title: "Florida Uniform Schedule 2026: Every Helmet, Jersey and Pant Combination
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-08-21"
+updatedDate: "2026-09-07"
 excerpt: "Florida released a full game-by-game uniform schedule for 2026. Every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"
@@ -45,7 +45,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **September 5 vs. FAU** (home). Orange helmet, blue jersey, white pants.
 
-**September 12 vs. Campbell** (home). **Blue helmet, orange jersey**, white pants. The only orange jersey of the season, and it comes in week two against a first-ever opponent.
+**September 12 vs. Campbell** (home). **Matte blue helmet, orange jersey**, white pants. The only orange jersey of the season, and it comes in week two against a first-ever opponent. Confirmed in game week: the Gators' uniform account posted the full look on Monday, the matte blue shell with the orange script, orange jersey with white numbers, white pants.
 
 **September 19 at Auburn** (away). Orange helmet, white jersey, **orange pants**.
 

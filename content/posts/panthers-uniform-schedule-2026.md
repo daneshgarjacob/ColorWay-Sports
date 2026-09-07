@@ -2,7 +2,7 @@
 title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey and Every Week, Confirmed by the Team"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-04"
+updatedDate: "2026-09-07"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -33,7 +33,7 @@ The headline is that black won. Here is the full Carolina Panthers 2026 uniform 
 Nine home games at Bank of America Stadium, eight on the road, and an early Week 5 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #0085CA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Panther Blue</div></div>
+  <div style="background: #0085CA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Panther Blue &middot; Black Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black &middot; SNF</div></div>
@@ -61,7 +61,7 @@ For most of the offseason this was the one team in the league whose home jersey 
 
 The split is not close. **Black gets six home games. Panther blue gets three.**
 
-Blue draws the home opener against Chicago in Week 1, Tampa Bay in Week 7, and New Orleans in Week 14. Black takes everything else: Detroit on Sunday night in Week 4, Denver in Week 9, Baltimore in Week 11, Cincinnati in Week 15, Seattle in Week 17, and the Atlanta finale in Week 18. Every road game is white, which is the one part of this that was never in doubt.
+Blue draws the home opener against Chicago in Week 1, and the team has since confirmed the black helmet for that game, Tampa Bay in Week 7, and New Orleans in Week 14. Black takes everything else: Detroit on Sunday night in Week 4, Denver in Week 9, Baltimore in Week 11, Cincinnati in Week 15, Seattle in Week 17, and the Atlanta finale in Week 18. Every road game is white, which is the one part of this that was never in doubt.
 
 Two of blue's three dates are division games, which reads like a deliberate choice to save the distinctive shirt for the teams Carolina plays twice. The home opener getting blue is the right instinct. Handing black the Sunday night game is the part we would argue with.
 
@@ -121,7 +121,7 @@ For 2026, yes. The jersey schedule Carolina published on September 4 gives black
 
 **Do the Panthers wear a silver helmet?**
 
-Yes. Carolina alternates between a black helmet and a silver one, and the helmet is not part of the published jersey schedule. It is announced week to week along with the pants.
+Yes. Carolina alternates between a black helmet and a silver one, and the helmet is not part of the published jersey schedule. It is announced week to week along with the pants. The first call is in: the team showed the **black helmet** with the blue cat logo ahead of the Week 1 opener against Chicago, so the season starts black helmet over Panther blue.
 
 **Will the Panthers wear a throwback in 2026?**
 
