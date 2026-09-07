@@ -35,7 +35,23 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 All fifteen are in, and Sunday was the most colorful day of the season. Twenty of the thirty jerseys were something other than white or gray, and only two games, Red Sox at Orioles and Cardinals at Rockies, had a plain white or gray on both sides. Ten of the fifteen home clubs dressed in something other than white: the Reds in the red script alternate, the Phillies in cream, the Pirates in the black "Pittsburgh" alternate, the Guardians in red, the Mets in the blue pullover, the Marlins in teal, the Royals in royal blue, the Rangers in powder blue, the Astros in navy, the Mariners in the Steelheads cream throwback and the Padres in camouflage. The road side answered with the Brewers, Braves, Tigers, Rays, Twins and Nationals all in navy, the Angels in red, the Cubs in royal blue and the Diamondbacks in Sedona red. Zero City Connects on a fifteen-game Sunday, a day after Saturday used three.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #E81828 0%, #F3E5C3 130%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #ffe3e6;">&#9918; Jersey of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Philadelphia Phillies Cream Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Phillies/status/2096678757750772210"></a></blockquote>
+
+On the most colorful Sunday of the year, the best jersey was the quietest one. The Phillies' cream is a day-game uniform in the truest sense: it only comes out for afternoon home games, the cream reads warmer than white under sun, and the red script and pinstripes sit on it the way the 1950 Whiz Kids intended. Atlanta's navy alternate across from it was the right partner, a dark road jersey that let the cream carry the light, and a 5-4 Braves win did nothing to change the picture. **Jersey of the Day.**
+
+<div style="margin: 2em 0 0.6em; padding: 0.7em 1.1em; background: linear-gradient(135deg, #4a4a4a 0%, #1a1a1a 100%); border-radius: 12px;">
+  <span style="font-size: 0.72em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #d0d0d0;">&#128078; Stinker of the Day</span>
+  <span style="display: block; font-size: 1.15em; font-weight: 900; color: #ffffff; margin-top: 3px;">Houston Astros Navy Alternate</span>
+</div>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2096695248122421617"></a></blockquote>
+
+Houston owns one of the best color pairings in the sport and spent Sunday afternoon hiding it. The navy alternate is navy on navy, navy numbers outlined in a thin orange that disappears at broadcast distance, and against Arizona's Sedona red it read as a dark block with a star on the chest. The orange alternate exists, the home white exists, and both would have turned a red-versus-Houston matchup into something. Navy under a closed roof on a day the rest of the league went to color was the flattest decision on the slate. **The Stinker.**
 
 ### Washington Nationals at Los Angeles Dodgers
 
@@ -184,6 +200,11 @@ All fifteen are in, and Sunday was the most colorful day of the season. Twenty o
 
 ### Tampa Bay Rays at Texas Rangers
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #092C5C 0%, #ffffff 50%, #75AADB 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -208,6 +229,7 @@ All fifteen are in, and Sunday was the most colorful day of the season. Twenty o
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%20rangers%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
@@ -329,6 +351,11 @@ All fifteen are in, and Sunday was the most colorful day of the season. Twenty o
 
 ### Chicago Cubs at Miami Marlins
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0E3386 0%, #ffffff 50%, #00A3E0 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -353,6 +380,7 @@ All fifteen are in, and Sunday was the most colorful day of the season. Twenty o
       <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%20marlins%20jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>
   </div>
+</div>
 </div>
 </div>
 
