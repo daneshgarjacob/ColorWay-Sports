@@ -2,6 +2,7 @@
 title: "Tulane's Mardi Gras City Edition Uniforms Are the Best College Reveal of the Summer, With One Flaw"
 category: "College"
 date: "2026-08-12"
+updatedDate: "2026-09-07"
 excerpt: "Tulane built a uniform out of New Orleans itself: argyle, beads, king cake, and the Jester Angry Wave. We grade it, and name the one piece that misses."
 gradient: "linear-gradient(135deg, #00A94F 0%, #12331f 52%, #5B2B8A 120%)"
 coverImage: "/images/posts/tulane-city-edition-uniforms-2026/cover.jpg"
@@ -13,6 +14,8 @@ teams: []
 
 <img src="/images/posts/tulane-city-edition-uniforms-2026/helmet-front.jpg" alt="Tulane City Edition Mardi Gras football helmet with green metallic shell, argyle stripe and a king cake baby bumper" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Tulane Football</p>
+
+**Update, September 7:** the City Edition set has its date. Tulane wears it **Saturday, September 12 against South Alabama** at Yulman Stadium, the home opener, and the school says it is a one-night uniform that goes straight to auction afterward.
 
 Most "city edition" uniforms are a color swap with a skyline on the sleeve. Tulane just did the opposite. The Green Wave unveiled a Mardi Gras City Edition set built out of the actual visual language of New Orleans, argyle and beads and king cake and a jester, and then had the nerve to put a king cake baby on the chin bumper. It is the most committed college reveal we have seen this summer, and it is very close to perfect.
 
@@ -83,7 +86,7 @@ A Mardi Gras themed alternate set the Green Wave unveiled for the 2026 season, b
 
 **When will Tulane wear the City Edition uniforms in 2026?**
 
-Tulane has not announced the game date yet. We will update this page as soon as the Green Wave name it.
+Saturday, September 12, in the home opener against South Alabama at Yulman Stadium, a 7 p.m. ET kickoff. Tulane has said the King of Mardi Gras set is a one-game uniform, worn once and then sold, with the proceeds going to the Green Wave Talent Fund.
 
 **What do the Mardi Gras colors mean?**
 
