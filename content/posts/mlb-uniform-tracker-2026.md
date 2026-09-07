@@ -9100,6 +9100,7 @@ The ball-in-glove is a genuinely great piece of design, an *m* and a *b* built i
 The deeper problem is that navy is not really a Brewers colour. It arrived as a road-alternate convenience and it competes with the identity the club actually spent the last few years rebuilding around, which is the retro yellow-and-blue palette from the Bambi's Bombers era. Milwaukee has a cream, a powder blue and a proper home white. All three are better than this, and all three do more work for the mark.
 
 Wearing it in Los Angeles against a home white made it worse. Dodger Stadium in August is the best light in the sport, and the Brewers spent it in the one jersey they own that looks the same in every light there is.
+
 ### Baltimore Orioles at Tampa Bay Rays
 
 <div style="margin: 1.4em 0 0.6em;">
