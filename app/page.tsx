@@ -58,7 +58,10 @@ export default function Home() {
     // allowed in that group. Check the post's frontmatter before adding one.
     "nba-september-15-2026-uniform-reveal",
     "bears-uniform-schedule-2026",
-    "bills-uniform-schedule-2026",
+    // Bills swapped out 9/7: its cover is a ColorWay jersey composite, not a
+    // real photo, and Jake does not want generated art in the top group. The
+    // Buccaneers cover is the team's own 2026 closet art.
+    "buccaneers-uniform-schedule-2026",
     "nuggets-court-2026-27",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
