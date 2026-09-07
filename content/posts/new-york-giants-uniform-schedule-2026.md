@@ -2,7 +2,7 @@
 title: "New York Giants 2026 Uniform Schedule: Every Jersey, Every Week, Two Legacy Games and the Vintage White Return"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-02"
+updatedDate: "2026-09-07"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -94,7 +94,7 @@ Four days later the same set gets a national Thursday night against Washington, 
 <img src="/images/posts/new-york-giants-uniform-schedule-2026/blue-games.jpg" alt="New York Giants 2026 uniform schedule graphic for the blue jersey, assigned to the Cowboys, Titans, Commanders, Saints, Jaguars, Browns, Cowboys and Eagles games, showing a quarterback in the royal blue jersey and blue NY helmet" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: New York Giants</p>
 
-The blue jersey with white pants covers six home dates and two road games. At home it is Dallas in the Sunday-night opener on September 13, the Titans in Week 3, New Orleans in Week 6, Jacksonville in Week 11, Cleveland in Week 15, and Philadelphia in the Week 18 finale.
+The blue jersey with white pants covers six home dates and two road games. At home it is Dallas in the Sunday-night opener on September 13, the Titans in Week 3, New Orleans in Week 6, Jacksonville in Week 11, Cleveland in Week 15, and Philadelphia in the Week 18 finale. One of those has a question mark on it: the Saints published their own schedule on September 7 with the **black jersey** at MetLife in Week 6, and two clubs can only both wear color with the league's approval. Either New York goes white for that game, New Orleans does, or the league has signed off on black against royal blue. We have left each team's published call on its own page until one of them moves.
 
 The two road games are the interesting part. **Week 5 at Washington on October 11** is blue because the Commanders have made white their most-used jersey this year and wear it at home against the Giants. **Week 17 at Dallas on January 3** is blue because Dallas wears white at home by tradition, which is the one road trip in the league where a visitor can always choose colour. We had that game flagged as the open date back in August, and blue on white at AT&T Stadium is one of the better looks the division produces. It is good to see New York take it.
 
