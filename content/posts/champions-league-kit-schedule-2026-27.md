@@ -1,10 +1,10 @@
 ---
-title: "Champions League Kit Schedule 2026/27: What Every Club Is Wearing This Matchday"
+title: "Champions League Kit Schedule 2026/27: What Every Club Is Wearing Tonight, Every Matchday Confirmed"
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-09-08"
 updatedDate: "2026-09-08"
-excerpt: "Every Champions League kit matchup, matchday by matchday. What jersey each club wears, who has to change, and how UEFA settles a clash the day before kickoff."
+excerpt: "What jersey is Real Madrid, Barcelona, Liverpool or Bayern wearing tonight? Every Champions League kit matchup confirmed matchday by matchday, with real shirt photos and the UEFA clash rule."
 gradient: "linear-gradient(135deg, #0A1E5B 0%, #06123a 55%, #1FB6FF 130%)"
 cardStyle: words
 kicker: Schedule
@@ -14,9 +14,9 @@ teams: ["uefa-champions-league"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what kit your club is wearing in the Champions League this week? Here is the part most fans never hear: **UEFA settles it at a meeting the day before the match, and the visiting club is the one that changes.** Kits in Europe are not a matchday surprise either. They are agreed the night before, in a room with both clubs, the referee and the UEFA delegate.
+Wondering what kit, jersey or uniform your club is wearing in the Champions League tonight? Here is the part most fans never hear: **UEFA settles it at a meeting the day before the match, and the visiting club is the one that changes.** Kits in Europe are not a matchday surprise either. They are agreed the night before, in a room with both clubs, the referee and the UEFA delegate.
 
-This page is that schedule. Every league-phase fixture, every matchday, who wears what and why the away side sometimes reaches for a third kit. We confirm each match against matchday photography and highlights, never against preview graphics, and we update it as each night is played. For the Premier League version of this page, see our [Premier League kit schedule](/stories/premier-league-kit-schedule-2026-27).
+This page is that schedule. Every league-phase fixture, every matchday, which jersey each club wears, who has to change and why the away side sometimes reaches for a third kit. We confirm each match against matchday photography and highlights, never against preview graphics, and we update it as each night is played. For the Premier League version of this page, see our [Premier League kit schedule](/stories/premier-league-kit-schedule-2026-27).
 
 ## Matchday 1: Every Kit Matchup
 
@@ -144,29 +144,77 @@ Thirty-six clubs, eight games each, one table. The dates below are the matchdays
 
 ## Frequently Asked Questions
 
-**What kit is my club wearing in the Champions League this week?**
+**What kit is my club wearing in the Champions League tonight?**
 
-Check the matchday grid above. The home club wears its first-choice kit, and the visiting club changes only where UEFA decides the colors fall too close. Kits are agreed at the organisational meeting the day before the match, so the answer exists a day before kickoff.
+Check the matchday grid above. The home club wears its first-choice kit, and the visiting club changes only where UEFA decides the colors fall too close. Kits are agreed at the organisational meeting the day before the match, so the answer exists a day before kickoff, and we flip each card from expected to confirmed on the night.
+
+**What jersey is Real Madrid wearing in the Champions League?**
+
+The white home shirt, almost every time. Madrid opened the 2026/27 league phase in white against Inter's black and blue stripes on September 8, and white is the default in Europe because so few opponents wear it. They change to the dark green away or the pink third only when the home club is in white or a very pale color.
+
+**What jersey is Barcelona wearing in the Champions League?**
+
+The blaugrana home shirt at Camp Nou, where Barcelona open Matchday 1 against Feyenoord on September 9. Away from home, Barcelona change only against a red or blue opponent that clashes with the stripes, and the light green third from the 1996/97 Kappa era is the shirt most likely to appear on those nights.
+
+**What jersey is Liverpool wearing in the Champions League?**
+
+The red home shirt with the 1989 Candy graphic at Anfield, starting with Atletico Madrid on September 9. Atletico's red and white stripes are the clash in that fixture, so it is the visitors who change, most likely into the black away shirt.
+
+**What jersey is Manchester City wearing in the Champions League?**
+
+Depends on the opponent more than for any other big club, because so many European sides wear blue. City wore the black away shirt with the gold bee pattern at Porto on September 8 and will wear it at most blue-shirted opponents; the sky blue home shirt is for the Etihad and for opponents in red, white or yellow.
+
+**What jersey is Arsenal wearing in the Champions League?**
+
+The red home shirt with the white sleeves at Napoli on September 9, because red against sky blue is no clash. Arsenal's navy away and yellow third come out only against red opponents, the way they did at Aston Villa in the Premier League.
+
+**What jersey is Manchester United wearing in the Champions League?**
+
+The red home shirt with the 1977 collar at Old Trafford against Sabah on September 10. United change only against a red home side, so expect red for most of the league phase.
+
+**What jersey is Bayern Munich wearing in the Champions League?**
+
+The red home shirt at the Allianz Arena against Bodo/Glimt on September 10. Bayern go to the white away or the navy and purple third only when the home club is in red.
+
+**What jersey is PSG wearing in the Champions League?**
+
+The blue home shirt with the red Hechter stripe at the Parc des Princes against Slovan Bratislava on September 9. PSG change to the white away shirt against blue home sides.
+
+**What jersey did Inter wear at Real Madrid?**
+
+The black and blue home stripes, with the polo collar and gold detailing, in the 2-1 defeat at the Bernabeu on September 8. White against black and blue is no clash, so neither club changed.
+
+**What jersey did Aston Villa wear at Club Brugge?**
+
+The icy blue third shirt, the Villa Park mosaic kit, in the 3-2 win on September 8. Brugge's blue and black stripes ruled out both Villa's claret home shirt and their black away shirt at once, which is exactly the situation a third kit exists for.
+
+**What jersey did Villarreal wear at Dortmund?**
+
+The pearl grey away shirt with the royal blue sleeves, in the 3-2 defeat on September 8. Villarreal's home shirt is yellow, the same as Dortmund's, so the visitors had to change. The grey reads almost white on television, which is why many viewers logged it as a white kit.
 
 **Who decides which kit a team wears in the Champions League?**
 
 UEFA, through its match delegate, at a meeting with both clubs and the referee on the eve of the game. The home club has priority and wears its first-choice kit. The visiting club wears a contrasting kit, and if there is a clash it is the visitor that changes.
 
-**Why did Aston Villa wear their third kit against Club Brugge?**
+**Why do teams wear different kits in the Champions League than in their league?**
 
-Because Brugge's blue and black stripes ruled out both Villa's claret home shirt and their black away shirt at once. The icy blue third was the only registered kit that contrasted clearly, which is exactly the situation a third kit exists for.
-
-**Why did Manchester City wear black at Porto?**
-
-Porto's home shirt is blue and white stripes, so City's sky blue home shirt was too close. The black away shirt with the gold bee pattern was the clear contrast, and it is the shirt City will wear at most blue-shirted opponents in Europe this season.
+Two reasons. Clubs register a first, second and third kit with UEFA before the season and can only use those, and the opponents are different, so a club that never needs its third shirt at home can meet a European side whose colors force it out. The competition's starball badge on the sleeve is the other visible difference from a domestic shirt.
 
 **Can a club wear its home kit away from home in the Champions League?**
 
 Yes, whenever there is no clash. Real Madrid's white travels almost everywhere, and Arsenal's red home shirt is the expected kit at Napoli because red against sky blue needs no change.
 
+**Why did Manchester City wear black at Porto?**
+
+Porto's home shirt is blue and white stripes, so City's sky blue home shirt was too close. The black away shirt with the gold bee pattern was the clear contrast, and it is the shirt City will wear at most blue-shirted opponents in Europe this season.
+
 **How many games does each club play in the league phase?**
 
 Eight, four at home and four away, against eight different opponents, between September and January. The top eight in the single table go straight to the round of 16 and places nine to twenty-four go into a knockout play-off.
+
+**When is the next Champions League matchday?**
+
+Matchday 2 is Tuesday October 13 and Wednesday October 14, 2026. Matchday 3 follows the week after, October 20 and 21, then Matchday 4 on November 3 and 4 and Matchday 5 on November 24 and 25. This page updates on each of those nights.
 
 ## The Bottom Line
 
