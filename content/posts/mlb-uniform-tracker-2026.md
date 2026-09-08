@@ -33,7 +33,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Tuesday, September 8
 
-<!-- INTRO PARAGRAPH -->
+Ten of Tuesday's fifteen games are in, and the East Coast slate was a gray-and-white night with three alternates doing the work. The Twins wore the navy alternate at Detroit, the Rays the navy alternate at Atlanta and the Angels the red alternate at Fenway, all three against plain home whites. Pinstripes showed up three times: the Phillies against Houston's gray, the Yankees against Colorado's gray and the White Sox against a Pirates black alternate that was the only color-on-pinstripes pairing of the night. The Cubs stayed in royal blue at Milwaukee for a second straight game against the Brewers' home cream, still no pinstripes on that shirt, and Cleveland went back to gray in Baltimore after Monday's navy. The five West Coast games follow once they start, and the scores land as the games end.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
