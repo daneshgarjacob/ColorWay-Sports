@@ -60,7 +60,7 @@ export default function NflWeekZone() {
                 </span>
               </span>
               <span className="mt-1 text-[11px] text-[#5f7085] truncate">{c.opponent}</span>
-              <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.08em] text-[#0B1F4A] truncate">
+              <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0B1F4A]">
                 {c.confirmed && <span className="text-orange">★ </span>}
                 {c.label}
               </span>
