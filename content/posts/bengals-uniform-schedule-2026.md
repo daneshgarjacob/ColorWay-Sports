@@ -5,8 +5,9 @@ date: "2026-08-11"
 updatedDate: "2026-09-08"
 excerpt: "The Bengals' 2026 uniform schedule: confirmed dates for the all-white White Bengal jersey and the Open In Orange opener, plus a week-by-week look at the black and white sets."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
-coverImage: "/images/posts/bengals-uniform-schedule-2026/cover.jpg"
+coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
 coverImagePosition: "center center"
+coverImageCredit: "Cincinnati Bengals"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-cincinnati-bengals.png"
@@ -68,6 +69,10 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 The Bengals open at home against Tampa Bay on Sunday, September 13 at 1 p.m., and that game is Open In Orange, the tradition Cincinnati started in 2024 to mark the home opener. The team's own description is straightforward: fans wear orange, and the team wears orange uniforms. It is the one date on the calendar where the orange helmet is the default rather than a surprise.
 
 The combination is now confirmed: **orange helmet, orange jersey, white pants**, announced by the team the week of the game. That is the 2025 version carried forward. The first Open In Orange in 2024 went full orange from helmet to pants, and the switch to white pants the following year read cleaner on broadcast and gave the stripes somewhere to breathe. Cincinnati kept it, and we think that is the right call. It is one of the best looks in the league.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2097356496778547483"></a></blockquote>
+</div>
 
 The orange helmet is still the most underrated piece of equipment in the AFC North. Cincinnati's stripe pattern is the rare design that actually gets better the more of it you put on the field, and an orange shell in September sun is the whole brand in one frame.
 
