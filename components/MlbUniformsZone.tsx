@@ -1,14 +1,13 @@
 import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
-import { getMotd, getWeekdayStandard } from "@/lib/mlbHomepage";
+import { getMotd } from "@/lib/mlbHomepage";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // Friday belongs with the weekend, not the work week. Across every day logged in
 // 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
 // Fri 41%, Sat 52%, Sun 57% against a 59% average — Friday is the single biggest
 // colour night of the week, lower than either weekend day. Grouping it as a
 // weekday put the chart's own break in the wrong place.
-const COLOR_DAYS = new Set(["Friday", "Saturday", "Sunday"]);
 
 // The three MLB tools as static side-by-side tiles (Jake picked the static
 // 3-across over a rotating strip), color-blocked blue / white / red:
@@ -69,7 +68,6 @@ export default async function MlbUniformsZone() {
 
   const data = buildAlternatesWatch(post.contentHtml);
   const motd = getMotd(post.contentHtml);
-  const weekday = getWeekdayStandard(post.contentHtml);
   const href = `/stories/${TRACKER_SLUG}`;
 
   return (
@@ -243,102 +241,6 @@ export default async function MlbUniformsZone() {
           </div>
         )}
 
-        {/* The Pattern — standard jerseys by day of week */}
-        {weekday.length >= 3 && (
-          <div className="mt-6 rounded-xl border border-border bg-white p-5 sm:p-6">
-            <div className="flex items-center gap-3 mb-1">
-              <span
-                style={{ fontFamily: "var(--font-mono, monospace)" }}
-                className="text-[10px] font-bold uppercase tracking-[0.15em] text-orange"
-              >
-                The Pattern
-              </span>
-              <h3 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
-                Standard Jerseys By Day Of Week
-              </h3>
-            </div>
-            <p className="text-[11px] text-[#8A8F98] mb-6">
-              Teams go traditional Monday through Thursday and break out the color Friday through
-              Sunday. Average share of standard white &amp; gray jerseys, across every day logged this
-              season.
-            </p>
-
-            {/* Gridlines sit behind the bars so a value can be read off the chart
-                without relying on the number above each bar. */}
-            <div className="relative pl-7">
-              <div
-                className="pointer-events-none absolute left-7 right-0 top-0"
-                style={{ height: 150 }}
-                aria-hidden="true"
-              >
-                {[0, 25, 50, 75, 100].map((v) => (
-                  <div key={v} className="absolute left-0 right-0" style={{ bottom: `${v}%` }}>
-                    <div
-                      className={v === 0 ? "border-t border-[#c9cfd8]" : "border-t border-dashed border-[#e8ebf0]"}
-                    />
-                    <span
-                      style={{ fontFamily: "var(--font-mono, monospace)" }}
-                      className="absolute right-full -translate-y-1/2 pr-2 text-[9px] font-semibold text-[#b9bfc9] tabular-nums"
-                    >
-                      {v}
-                    </span>
-                  </div>
-                ))}
-              </div>
-
-              <div
-                className="relative grid grid-cols-7 gap-2 sm:gap-4 items-end"
-                style={{ height: 150 }}
-              >
-                {weekday.map((s) => {
-                  const colorDay = COLOR_DAYS.has(s.weekday);
-                  return (
-                    <div key={s.weekday} className="relative flex h-full items-end">
-                      <div
-                        className="w-full rounded-t-md transition-all duration-500"
-                        style={{ height: `${s.pct}%`, background: colorDay ? "#f59e0b" : "#2f6bed" }}
-                        title={`${s.short}: ${s.pct}% standard jerseys`}
-                      />
-                      <span
-                        className="absolute inset-x-0 text-center text-[11px] font-bold text-[#0B1F4A] tabular-nums"
-                        style={{ bottom: `calc(${s.pct}% + 5px)` }}
-                      >
-                        {s.pct}%
-                      </span>
-                    </div>
-                  );
-                })}
-              </div>
-
-              <div className="grid grid-cols-7 gap-2 sm:gap-4 mt-2">
-                {weekday.map((s) => {
-                  const colorDay = COLOR_DAYS.has(s.weekday);
-                  return (
-                    <span
-                      key={s.weekday}
-                      className={`text-[11px] text-center ${
-                        colorDay ? "font-bold text-[#b06a00]" : "font-semibold text-[#8A8F98]"
-                      }`}
-                    >
-                      {s.short}
-                    </span>
-                  );
-                })}
-              </div>
-            </div>
-
-            <div className="flex items-center gap-5 mt-5 text-[10px] font-semibold uppercase tracking-wider text-[#8A8F98]">
-              <span className="flex items-center gap-1.5">
-                <span className="inline-block w-3 h-3 rounded-sm" style={{ background: "#2f6bed" }} />
-                Mon&ndash;Thu
-              </span>
-              <span className="flex items-center gap-1.5">
-                <span className="inline-block w-3 h-3 rounded-sm" style={{ background: "#f59e0b" }} />
-                Fri&ndash;Sun
-              </span>
-            </div>
-          </div>
-        )}
       </div>
     </section>
   );
