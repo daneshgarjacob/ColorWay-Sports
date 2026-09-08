@@ -13,7 +13,7 @@ teams: ["bundesliga"]
 
 Dortmund are the most consistent club in our European ranking, with both graded kits landing at exactly the same level. Their purple third was one of the first two in Europe to launch and turned out to be one of the more interesting shirts of the season, and the all-black away that arrived in August keeps the set at the same level.
 
-**What did Dortmund wear against Villarreal?** The yellow home shirt, in the 3-2 Champions League opener at Signal Iduna Park on September 8, while Villarreal, whose own home shirt is yellow, changed into their white away kit. Every European kit matchup for Dortmund this season, matchday by matchday, is on our [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27).
+**What did Dortmund wear against Villarreal?** The yellow home shirt, in the 3-2 Champions League opener at Signal Iduna Park on September 8, while Villarreal, whose own home shirt is yellow, changed into their light grey away shirt with the royal blue sleeves. Every European kit matchup for Dortmund this season, matchday by matchday, is on our [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27).
 
 ## What Does Borussia Dortmund's 2026/27 Home Kit Look Like?
 
