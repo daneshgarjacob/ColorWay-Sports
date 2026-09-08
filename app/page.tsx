@@ -1,4 +1,5 @@
 import Header from "@/components/Header";
+import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
@@ -134,6 +135,9 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        {/* This week in the NFL: 32 chips, one per schedule post (the earners) */}
+        <NflWeekZone />
 
         {/* All the MLB uniform tools, grouped in one tinted zone */}
         <MlbUniformsZone />
