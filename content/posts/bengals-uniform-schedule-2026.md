@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals 2026 Uniform Schedule: When They Wear the White Bengal and Open In Orange"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-08"
 excerpt: "The Bengals' 2026 uniform schedule: confirmed dates for the all-white White Bengal jersey and the Open In Orange opener, plus a week-by-week look at the black and white sets."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover.jpg"
@@ -31,7 +31,7 @@ These three are set by the Bengals themselves. All three are at Paycor Stadium, 
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #FB4F14 0%, #7a2408 100%); border-radius: 16px; border: 2px solid #ffffff;">
   <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">Confirmed Jersey Dates</p>
-  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#ffd9c2;">Open In Orange</strong> &middot; Week 1 vs. Buccaneers &middot; Sunday, September 13</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#ffd9c2;">Open In Orange</strong> &middot; Week 1 vs. Buccaneers &middot; Sunday, September 13 &middot; Orange Helmet, Orange Jersey, White Pants</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#ffd9c2;">White Bengal</strong> &middot; Week 10 vs. Steelers &middot; Sunday, November 15 &middot; SNF</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#ffd9c2;">White Bengal</strong> &middot; Week 17 vs. Ravens &middot; Thursday, December 31 &middot; TNF</p>
 </div>
@@ -41,7 +41,7 @@ These three are set by the Bengals themselves. All three are at Paycor Stadium, 
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Week 6 is the bye, and Week 9 is the Madrid game, where Atlanta is the designated home team.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Open In Orange</div></div>
+  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Open In Orange · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -61,13 +61,13 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are confirmed</strong> by the Bengals. The team has announced themes for other dates, but a theme is not always a uniform, and the black-home and white-road assignments for the remaining weeks follow the standard NFL home-and-away convention and are our projection. Pants and exact combinations are a week-of-game call, and the Bengals have not yet released the specific Open In Orange combination for 2026. The Week 16 and Week 18 kickoff times are still to be set.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are confirmed</strong> by the Bengals. The team has announced themes for other dates, but a theme is not always a uniform, and the black-home and white-road assignments for the remaining weeks follow the standard NFL home-and-away convention and are our projection. Pants and exact combinations are a week-of-game call for the unstarred weeks. The Open In Orange combination is now set: orange helmet, orange jersey, white pants. The Week 16 and Week 18 kickoff times are still to be set.</p>
 
 ## Open In Orange (Week 1 vs. Buccaneers, Confirmed)
 
 The Bengals open at home against Tampa Bay on Sunday, September 13 at 1 p.m., and that game is Open In Orange, the tradition Cincinnati started in 2024 to mark the home opener. The team's own description is straightforward: fans wear orange, and the team wears orange uniforms. It is the one date on the calendar where the orange helmet is the default rather than a surprise.
 
-What the Bengals have not done yet is release the exact combination. The first version in 2024 was full orange from helmet to pants, and in 2025 they kept the orange helmet and jersey but switched to white pants, which read cleaner on broadcast and gave the stripes somewhere to breathe. Treat the orange helmet and orange jersey as the confirmed part and the pants as a decision that lands closer to kickoff.
+The combination is now confirmed: **orange helmet, orange jersey, white pants**, announced by the team the week of the game. That is the 2025 version carried forward. The first Open In Orange in 2024 went full orange from helmet to pants, and the switch to white pants the following year read cleaner on broadcast and gave the stripes somewhere to breathe. Cincinnati kept it, and we think that is the right call. It is one of the best looks in the league.
 
 The orange helmet is still the most underrated piece of equipment in the AFC North. Cincinnati's stripe pattern is the rare design that actually gets better the more of it you put on the field, and an orange shell in September sun is the whole brand in one frame.
 
@@ -134,7 +134,7 @@ Twice, both at home. Week 10 against the Pittsburgh Steelers on Sunday, November
 No. White Bengal Stripe is the name of the New Year's Eve game and the black-and-white crowd pattern in the stands. The team wears the same all-white White Bengal uniform it wears in Week 10, not a new design.
 
 **When is the Bengals Open In Orange game in 2026?**
-The home opener, Week 1 against the Tampa Bay Buccaneers on Sunday, September 13 at 1 p.m. The team wears orange uniforms for it. Cincinnati has not yet released the exact 2026 combination, and the pants have changed between years.
+The home opener, Week 1 against the Tampa Bay Buccaneers on Sunday, September 13 at 1 p.m. The team wears the orange helmet and orange jersey with white pants, confirmed by the Bengals the week of the game.
 
 **Do the Bengals have a Rivalries uniform in 2026?**
 No. The NFL x Nike Rivalries program rolls out by division, and the 2026 wave covers the AFC South and NFC North. The AFC North has not had its turn, so there is no Bengals Rivalries jersey this season. Our [explainer on the Rivalries program](/stories/what-is-the-nfl-rivalries-uniform-program) covers how the rollout works.
