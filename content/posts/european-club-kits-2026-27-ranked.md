@@ -2,7 +2,7 @@
 title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-09-02"
+updatedDate: "2026-09-08"
 excerpt: "We graded 42 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
@@ -12,6 +12,8 @@ teams: ["premier-league", "la-liga", "serie-a", "bundesliga", "ligue-1"]
 ---
 
 Every kit at Europe's fifteen biggest clubs is out, which means we can finally do this properly. We graded all forty-two shirts that have actually launched, counted down from the worst to the best, and then graded each club's whole wardrobe on top. A few things surprised us. The season's best shirt does not belong to any of the clubs you would guess, one famous club failed to put a single kit above a B, and away shirts as a category had a genuinely bad year.
+
+Want to know which of these shirts is on the pitch this week? The [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27) tracks every European kit matchup for the clubs ranked here, matchday by matchday.
 
 One note on what is here and what is not. Only released kits are ranked. Twelve of the fifteen third shirts have now officially launched, the latest batch being Tottenham's, Bayern's, Atletico's, Liverpool's and Manchester City's between August 11 and August 27, plus Borussia Dortmund's away, and all of them are graded below. Chelsea's, Inter's and Paris Saint-Germain's thirds are still to come. We do not grade a shirt until the club has actually released it. Those get added as they land.
 

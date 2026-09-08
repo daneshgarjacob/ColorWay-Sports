@@ -3,7 +3,7 @@ title: "Premier League Kit Schedule 2026/27: What Every Club Is Wearing This Mat
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: '2026-09-06'
+updatedDate: '2026-09-08'
 excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
 coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover-branded-v2.jpg"
@@ -17,7 +17,7 @@ resurfaceOnUpdate: true
 
 Wondering what kit your club is wearing this weekend? Here is the thing most fans do not know: **the Premier League itself decides, and it tells both clubs no later than three working days before kickoff.** Kits are not a matchday surprise. They are scheduled.
 
-This page is that schedule. Every fixture, every matchweek, who wears what, and why the away side sometimes has to go to a third kit. We update it as each matchweek is confirmed.
+This page is that schedule. Every fixture, every matchweek, who wears what, and why the away side sometimes has to go to a third kit. We update it as each matchweek is confirmed. For the European nights, our [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27) does the same job matchday by matchday.
 
 ## Matchweek 3: Every Kit Matchup
 

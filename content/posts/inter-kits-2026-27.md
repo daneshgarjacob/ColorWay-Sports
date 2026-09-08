@@ -2,7 +2,7 @@
 title: "Inter's 2026/27 Kits: A Baseball Away Shirt, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
+updatedDate: "2026-09-08"
 excerpt: "Inter built their 2026/27 away jersey on baseball pinstripes and brought a collar back to the home kit. Both shirts graded."
 gradient: "linear-gradient(135deg, #0057B8 0%, #0A0A0A 55%, #C9A227 120%)"
 cardStyle: words
@@ -12,6 +12,8 @@ teams: ["serie-a"]
 ---
 
 Inter did two interesting things this season and neither quite landed. The home shirt brings back a collar and honours the 1998 kit. The away is built on American baseball, which we are the last people to object to. Both end up in the middle of our European ranking.
+
+**What did Inter wear at Real Madrid?** The black and blue home stripes, in the 2-1 Champions League opener at the Bernabeu on September 8, against Madrid's white. Every European kit matchup for Inter this season, matchday by matchday, is on our [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27).
 
 ## What Does Inter's 2026/27 Home Kit Look Like?
 

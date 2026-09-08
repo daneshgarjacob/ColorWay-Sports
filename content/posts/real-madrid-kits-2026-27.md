@@ -2,7 +2,7 @@
 title: "Real Madrid's 2026/27 Kits: Two Bs For The Biggest Kit"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-12"
+updatedDate: "2026-09-08"
 excerpt: "Real Madrid's 2026/27 home jersey has pink on the three stripes and both kits graded a B. The most valuable shirt in football settling for fine."
 gradient: "linear-gradient(135deg, #FFFFFF 0%, #0B3D2E 50%, #E5A0B5 120%)"
 cardStyle: words
@@ -12,6 +12,8 @@ teams: ["la-liga"]
 ---
 
 The most-copied home shirt in football, and the most valuable, graded a B. That is the story of Real Madrid's 2026/27. Neither shirt is bad. Neither is close to what this club has produced before, and the pink on the shoulders is the decision we would take back.
+
+**What did Real Madrid wear against Inter?** The white home shirt, with the dark green trim and the pink shoulder stripes, in the 2-1 Champions League opener at the Bernabeu on September 8, while Inter wore their black and blue home stripes. Every European kit matchup for Madrid this season, matchday by matchday, is on our [Champions League kit schedule](/stories/champions-league-kit-schedule-2026-27).
 
 ## What Does Real Madrid's 2026/27 Home Kit Look Like?
 
