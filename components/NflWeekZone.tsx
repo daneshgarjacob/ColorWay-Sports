@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { currentNflWeek, getNflWeekChips, nflWeekDates } from "@/lib/nflWeek";
+import { currentNflWeek, getNflWeekChips, getNflWeekStats, nflWeekDates } from "@/lib/nflWeek";
 
 // "This Week in the NFL": all 32 teams, this week's jersey, one click to the
 // schedule post. Built 2026-09-07 for the season opener; the schedule posts are
@@ -8,7 +8,8 @@ export default function NflWeekZone() {
   const week = currentNflWeek();
   const chips = getNflWeekChips(week);
   if (chips.length < 20) return null;
-  const confirmedCount = chips.filter((c) => c.confirmed).length;
+  const stats = getNflWeekStats(chips);
+  const confirmedCount = stats.confirmed;
 
   return (
     <section className="w-full border-y border-border bg-[#F6F4EF]">
@@ -41,6 +42,33 @@ export default function NflWeekZone() {
           confirmed by the team; the rest follow the standard home-and-road rotation. Tap a team for its
           full jersey schedule.
         </p>
+
+        {/* The week in numbers, MLB-card style. From the schedule cells until the
+            tracker logs the week, then from what was actually worn. */}
+        <div className="mb-4 rounded-xl border border-border bg-white p-4 sm:p-5">
+          <div className="flex items-baseline justify-between mb-3">
+            <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
+              Week {week} in Numbers
+            </span>
+            <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#8A8F98]">
+              From the schedule posts · updates as games are played
+            </span>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
+            {[
+              { k: "Color at home", v: `${stats.homeColor} of ${stats.homeTotal}`, c: "#2f6bed" },
+              { k: "White at home", v: `${stats.homeWhite}`, c: "#64748b" },
+              { k: "Alternates & specials", v: `${stats.alternates}`, c: "#f59e0b" },
+              { k: "Color vs color", v: `${stats.colorVsColor}`, c: "#b3261e" },
+              { k: "Confirmed by teams", v: `${stats.confirmed} of ${chips.length}`, c: "#1a7f37" },
+            ].map((s) => (
+              <div key={s.k} className="rounded-lg bg-[#F7F8FA] px-3 py-2.5" style={{ borderTop: `3px solid ${s.c}` }}>
+                <div className="text-[22px] font-black leading-none text-[#0B1F4A] tabular-nums">{s.v}</div>
+                <div className="mt-1 text-[10px] font-bold uppercase tracking-[0.1em] text-[#5f7085]">{s.k}</div>
+              </div>
+            ))}
+          </div>
+        </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2">
           {chips.map((c) => (

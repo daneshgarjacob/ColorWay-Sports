@@ -92,3 +92,58 @@ export function getNflWeekChips(week: number): NflTeamWeek[] {
   out.sort((a, b) => a.team.localeCompare(b.team));
   return out;
 }
+
+// ---- Week-level numbers for the homepage strip ------------------------------
+// Before the games these come from the schedule cells (the plan); once the NFL
+// tracker logs the week they should come from the log instead. Labels are the
+// cells' own words, so "standard" is a short allow-list of base jersey names and
+// everything else counts as an alternate or special.
+
+export type NflWeekStats = {
+  homeTotal: number;
+  homeColor: number;
+  homeWhite: number;
+  alternates: number;
+  confirmed: number;
+  colorVsColor: number;
+};
+
+const BASE_LABELS = new Set([
+  "white", "black", "blue", "navy", "red", "teal", "green", "royal", "purple", "aqua", "orange",
+  "gold", "silver", "brown", "honolulu blue", "midnight green", "college navy", "titans blue",
+  "cardinal red", "scarlet", "burgundy", "pewter", "panther blue", "powder blue", "royal blue",
+  "green (home)", "navy (home)",
+]);
+
+function baseLabel(label: string): string {
+  return label.replace(/^★\s*/, "").split("·")[0].trim().toLowerCase();
+}
+export function isWhiteJersey(label: string): boolean {
+  const b = baseLabel(label);
+  return b.startsWith("white") || /\b(liberty white|summit white|fearsome white|white bengal|white out|white noise|winter warrior)\b/.test(b);
+}
+export function isAlternate(label: string): boolean {
+  const b = baseLabel(label);
+  if (BASE_LABELS.has(b)) return false;
+  return true;
+}
+
+export function getNflWeekStats(chips: NflTeamWeek[]): NflWeekStats {
+  const home = chips.filter((c) => c.opponent.startsWith("vs"));
+  const homeWhite = home.filter((c) => isWhiteJersey(c.label)).length;
+  const byTeam = new Map(chips.map((c) => [c.team.toLowerCase(), c]));
+  let colorVsColor = 0;
+  for (const h of home) {
+    const oppName = h.opponent.replace(/^vs\s+/, "").replace(/\s*\(.*\)$/, "").trim();
+    const opp = byTeam.get(oppName.split(" ").pop()!.toLowerCase());
+    if (opp && !isWhiteJersey(h.label) && !isWhiteJersey(opp.label)) colorVsColor++;
+  }
+  return {
+    homeTotal: home.length,
+    homeColor: home.length - homeWhite,
+    homeWhite,
+    alternates: chips.filter((c) => isAlternate(c.label)).length,
+    confirmed: chips.filter((c) => c.confirmed).length,
+    colorVsColor,
+  };
+}
