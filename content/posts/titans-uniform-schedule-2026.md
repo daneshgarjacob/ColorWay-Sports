@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-09"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -42,7 +42,7 @@ Tennessee did not add an alternate in the rebrand. It built two uniforms and gav
 Here is the whole season at a glance. Week 9 is the bye. One game is now starred: Week 10 against Jacksonville is the confirmed debut of the Music City Rivalries uniform.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
+  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jets</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue &middot; White Pants</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -71,6 +71,8 @@ The new home jersey is the reason to care about this season. Tennessee went back
 We graded the jerseys an [A- when the rebrand landed](/stories/tennessee-titans-rebrand-2026), and standing in front of them for a few months has not changed that. The lighter blue was the right call. It connects to the Oilers history without dressing up as it, and it is a color almost nobody else in the league is using at that value. Our one note then is our note now: the primary logo plays it safer than the uniforms do.
 
 It projects to all eight home dates, starting with the Jets in Week 1, and the pants are the variable. White pants break the blue up, which is what we would run every week. Light blue pants give you the monochrome version, which is the version we would use sparingly.
+
+Tennessee has now confirmed the Week 1 combination and it is the one we wanted: **white helmet, blue jersey, white pants, blue socks**. That is the new set at its best. The white helmet and white pants bracket the blue so the jersey reads as the loudest thing on the field, and running the socks back to blue closes the leg off at the bottom instead of leaving the white to trail away into the shoe. Against a Jets side in white, the contrast does the rest.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue jersey on Fanatics →</a>
 

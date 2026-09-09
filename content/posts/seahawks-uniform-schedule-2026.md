@@ -2,7 +2,7 @@
 title: "Seattle Seahawks 2026 Uniform Schedule: When They Wear the Royal Blue Throwback and Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-09"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -162,6 +162,7 @@ No. Three games are confirmed by the team: the throwback in Weeks 7 and 13 and R
 
 ## More NFL Coverage
 
+- [Seahawks White Throwback Uniforms Are Coming in 2027](/stories/seahawks-white-throwback-uniforms-2027) — the new owners are completing the throwback set with the 1983 to 2001 road white
 - [Arizona Cardinals 2026 Uniform Schedule](/stories/arizona-cardinals-uniform-schedule-2026) — the NFC West rival with its own Rivalries date
 - [Los Angeles Rams 2026 Uniform Schedule](/stories/rams-uniform-schedule-2026) — the Christmas Day opponent, seen twice in three weeks
 - [Los Angeles Chargers 2026 Uniform Schedule](/stories/chargers-uniform-schedule-2026) — the Week 4 visitor to Lumen Field

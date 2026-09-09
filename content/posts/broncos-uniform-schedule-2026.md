@@ -6,6 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
+updatedDate: "2026-09-09"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -33,7 +34,7 @@ The Broncos did the thing more teams should do: they published the whole uniform
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White &middot; MNF</div></div>
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sunset Orange</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Midnight Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
@@ -73,6 +74,16 @@ The set itself is the cleanest thing the Broncos have built in the Nike era. The
 Nine games, more than half the season. Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, including the Monday night opener at Kansas City on ABC and the Black Friday game against Pittsburgh.
 
 There is nothing wrong with the white set. It is well proportioned, the orange trim keeps it from going sterile, and it is a genuinely good road uniform. But nine games is nine games, and it means that for most of the season the answer to "what are the Broncos wearing" is the least interesting one. That is not Denver's fault, it is how the league's home-team-picks-first rule works, and it is the same math that has the Cowboys in white sixteen times a year.
+
+### Week 1 Is the All-White Version, Helmet Included
+
+Denver confirmed the opener at Kansas City is the full monochrome white: **white helmet, white jersey, white pants**. That is the white shell rather than the standard navy one, so there is no dark break anywhere on the uniform from the crown down.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2097792500417102233"></a></blockquote>
+</div>
+
+We are not sold on it. A white helmet is the one piece Denver does not need, because the navy shell is what gives the road set its anchor and its only real contrast against the orange trim. Take that away and the whole uniform sits at one value, and on a Monday night broadcast against Kansas City's red, the Broncos become a white silhouette with orange piping rather than a team with a look. Mono-white works when a club owns white as an identity, the way the Cowboys or the Colts do. Denver's identity is orange and navy, and this hides both. It is a striking photo and a flat football uniform, and those are not the same thing.
 
 ## Midnight Navy: The Primetime Play (2 Games)
 
