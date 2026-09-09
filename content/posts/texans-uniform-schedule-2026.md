@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-09"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -67,7 +67,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 
 Houston opens the season at home against Buffalo on Sunday, September 13, and the Texans have confirmed they will wear Liberty White with fans asked to wear white to match. That is a genuinely notable choice, because a home team wearing white is giving something up.
 
-Here is why it matters beyond the aesthetics. NFL convention lets the home team pick, and the visitor takes the contrasting jersey. By choosing white, Houston hands Buffalo the option of a colored jersey in Week 1, which is the opposite of how almost every home opener in the league is staged. We have updated our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) to reflect it, since Buffalo now projects to open the year in blue rather than its usual road white.
+Here is why it matters beyond the aesthetics. NFL convention lets the home team pick, and the visitor takes the contrasting jersey. By choosing white, Houston hands Buffalo the option of a colored jersey in Week 1, which is the opposite of how almost every home opener in the league is staged. We have updated our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) to reflect it, and Buffalo has since confirmed its side of it: white helmet, blue jersey and blue pants. The opener is Liberty White against all blue.
 
 As a uniform, Liberty White is the cleanest thing Houston owns. The navy and red striping does enough without crowding, and against a September afternoon under the Reliant roof it should read sharply. Whether it is the right call for an opener is a separate question. The white set is the quiet one, and openers usually want volume.
 
@@ -159,7 +159,7 @@ Once, at home in Week 7 against the New York Giants on Sunday, October 25. It is
 Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football. The uniform was revealed on August 25 under the name HOUSTON/US: a Liberty White base with H-Town Blue and Battle Red tile stripes, the first white helmet in franchise history with a chrome blue facemask, and a gothic H-Town "H" on the shell. It stays in the rotation for three seasons.
 
 **Do the Texans wear white at home in 2026?**
-Yes, in Week 1 against Buffalo on September 13. Houston confirmed the Liberty White uniforms for the opener and asked fans to wear white. Because the home team picks first, that allows Buffalo to wear a colored jersey.
+Yes, in Week 1 against Buffalo on September 13. Houston confirmed the Liberty White uniforms for the opener and asked fans to wear white. Because the home team picks first, Buffalo takes the color side, and the Bills have confirmed a blue jersey with blue pants and the white helmet.
 
 **What is the Texans' primary uniform for 2026?**
 Deep Steel Blue at home and white on the road. The navy set projects to the five home games not claimed by a confirmed uniform, and white to all nine road games.
