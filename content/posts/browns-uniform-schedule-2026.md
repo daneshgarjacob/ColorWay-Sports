@@ -3,6 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns own three alternate looks and have announced dates for none of them. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
+updatedDate: "2026-09-10"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -16,6 +17,8 @@ teams: ["cleveland-browns"]
 The Browns have one of the more interesting alternate closets in the AFC and, as of now, **no announced date for any of it.** Cleveland has published its 2026 schedule but not a uniform schedule, so this page gives you the week-by-week grid on the standard rule, the three alternate looks that could appear, and the games where each one actually makes sense. Everything projected is labelled as projected.
 
 ## The Full 2026 Browns Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** orange helmet, white jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Eight home games at Huntington Bank Field, nine on the road, and a Week 11 bye.
 

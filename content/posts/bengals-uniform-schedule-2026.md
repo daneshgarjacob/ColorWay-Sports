@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals 2026 Uniform Schedule: When They Wear the White Bengal and Open In Orange"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-08"
+updatedDate: "2026-09-10"
 excerpt: "The Bengals' 2026 uniform schedule: confirmed dates for the all-white White Bengal jersey and the Open In Orange opener, plus a week-by-week look at the black and white sets."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -29,6 +29,8 @@ These three are set by the Bengals themselves. All three are at Paycor Stadium, 
 </div>
 
 ## The Full 2026 Bengals Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** orange helmet, orange jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Week 6 is the bye, and Week 9 is the Madrid game, where Atlanta is the designated home team.
 

@@ -3,7 +3,7 @@ title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Cla
 category: NFL
 date: "2026-07-24"
 topViewsRank: 6
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-10"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -36,6 +36,8 @@ Four alternate games, three at home and the Christmas Day road game at Seattle, 
 </div>
 
 ## The Full 2026 Rams Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** blue helmet, blue jersey, yellow pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Here is the whole season at a glance, every game as the team announced it. Classic Sol, Fearsome White, and Midnight Mode are the starred alternates; royal and white are the primaries. Week 11 is the bye.
 

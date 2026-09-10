@@ -2,7 +2,7 @@
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-10"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -28,6 +28,8 @@ These three are officially set by the Jets as part of their 2026 home game theme
 </div>
 
 ## The Full 2026 Jets Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** green helmet, white jersey, green pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Everything else follows the standard home-and-away convention. Week 13 is the bye.
 

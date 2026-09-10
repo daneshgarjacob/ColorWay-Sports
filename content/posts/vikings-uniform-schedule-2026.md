@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-08-27"
+updatedDate: "2026-09-10"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -43,6 +43,8 @@ All nine home games, straight from the team. This is the part nobody has to gues
 </div>
 
 ## The Full 2026 Vikings Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** purple helmet, purple jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Home games carry the confirmed jersey. Road games follow the white road set, which is the standard away look. Week 6 is the bye.
 

@@ -3,6 +3,7 @@ title: "Las Vegas Raiders 2026 Uniform Schedule: Every Jersey, Every Week, and t
 category: NFL
 date: "2026-08-16"
 excerpt: "The Raiders published their 2026 home game themes and named no uniforms at all. Here is the full jersey schedule, week by week, black at home and white on the road."
+updatedDate: "2026-09-10"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -16,6 +17,8 @@ teams: ["las-vegas-raiders"]
 The Raiders published their 2026 home game themes and named a uniform for exactly none of them. That is not an oversight so much as a statement of philosophy: this is the least variable wardrobe in the NFL and the club likes it that way. Here is the full Las Vegas Raiders 2026 uniform schedule, week by week.
 
 ## The Full 2026 Raiders Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** silver helmet, black jersey, silver pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Eight home games at Allegiant Stadium, nine on the road, and a Week 13 bye.
 

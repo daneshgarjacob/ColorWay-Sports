@@ -2,7 +2,7 @@
 title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-10"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -62,6 +62,8 @@ The 49ers wear their standard scarlet and white for most of the season, includin
 </div>
 
 ## The Full 2026 49ers Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** gold helmet, white jersey, gold pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Scarlet at Levi's, white on the road, and four dates that break the pattern. Week 11 against Minnesota is at Estadio Azteca in Mexico City, where San Francisco is the designated home team.
 

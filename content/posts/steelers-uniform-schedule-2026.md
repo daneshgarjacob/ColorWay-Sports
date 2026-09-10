@@ -2,7 +2,7 @@
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-10"
 excerpt: "The Steelers are bringing back the 1933 throwback and the gold helmet, but they have not named the game yet. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -17,6 +17,8 @@ teams: ["pittsburgh-steelers"]
 The Steelers have confirmed that the **1933 throwback and its gold helmet are coming back in 2026**, and they have not yet said which game gets it. That is the whole uniform story in Pittsburgh this year, and this page will be updated the day the date lands. In the meantime, here is the full Pittsburgh Steelers 2026 uniform schedule, week by week, with a clear line between what the team has actually said and what is still a projection.
 
 ## The Full 2026 Steelers Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** black helmet, black jersey, yellow pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of those road games is in Paris.
 

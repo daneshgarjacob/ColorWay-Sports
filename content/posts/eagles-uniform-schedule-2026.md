@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Both Kelly Green Dates, the Black Alternate, and Every Week"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-10"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -18,6 +18,8 @@ teams: ["philadelphia-eagles"]
 No alternate jersey in the NFL generates the reaction Kelly Green does, and the Eagles know it, which is why they ration it to about three games a year. For 2026 the closet is midnight green at home, white on the road, Kelly Green for a small number of showcase dates, and the black alternate for one. The first Kelly Green date is now official: Week 9 against the Giants on November 8, with New York in its Vintage White throwback. The wordmark got a subtle update this year too. Here is the Eagles 2026 uniform schedule week by week, plus the games the Kelly Greens are most likely to land on.
 
 ## The Full 2026 Eagles Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** green helmet, green jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Nine home games, eight on the road, and a Week 10 bye.
 

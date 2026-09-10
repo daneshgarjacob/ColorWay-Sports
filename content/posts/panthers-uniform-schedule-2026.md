@@ -2,7 +2,7 @@
 title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey and Every Week, Confirmed by the Team"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-10"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -20,6 +20,8 @@ Carolina was the hardest team in the NFL to predict week to week, and now it is 
 The headline is that black won. Here is the full Carolina Panthers 2026 uniform schedule, week by week, with what is now confirmed and the one piece that still is not.
 
 ## The Full 2026 Panthers Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** black helmet, blue jersey, pants not announced. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Nine home games at Bank of America Stadium, eight on the road, and an early Week 5 bye.
 

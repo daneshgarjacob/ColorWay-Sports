@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-10"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -86,6 +86,8 @@ Here is the Indiana Nights set up close, so you can see the black helmet and the
 
 
 ## The Full 2026 Colts Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** white helmet, blue jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Blue at Lucas Oil, white on the road, and three confirmed alternates, all of them at home. Week 4 against Washington is in London, where Indianapolis is the designated home team, but the Commanders' published uniform schedule has them in burgundy for that game, and two clubs cannot both wear color without a league sign-off, so the Colts are in white at Tottenham.
 

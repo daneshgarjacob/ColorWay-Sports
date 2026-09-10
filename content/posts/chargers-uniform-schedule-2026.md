@@ -2,7 +2,7 @@
 title: "Los Angeles Chargers 2026 Uniform Schedule: All 17 Games and Every Pants Combo, Officially Announced"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-01"
+updatedDate: "2026-09-10"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -32,6 +32,8 @@ The four alternate dates the team announced over the summer are unchanged in the
 </div>
 
 ## The Full 2026 Chargers Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** white helmet, powder blue jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Here is the whole season at a glance, jersey and pants, exactly as the team announced it. The four alternate games are marked with a star. Week 7 is the bye, and Week 8 is the Rams game, played in the Chargers' own building with Los Angeles as the visiting team.
 

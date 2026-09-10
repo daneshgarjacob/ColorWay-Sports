@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-08-27"
+updatedDate: "2026-09-10"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -26,6 +26,8 @@ Jacksonville announced themes for its six home games at EverBank Stadium. Only o
 </div>
 
 ## The Full 2026 Jaguars Uniform Schedule, Week by Week
+
+**Week 1 combination, as announced for game week:** black helmet, teal jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 Here is the whole season at a glance. The confirmed jersey game is marked with a star. Week 7 is the bye, and Weeks 5 and 6 are both Jacksonville home games played in London.
 

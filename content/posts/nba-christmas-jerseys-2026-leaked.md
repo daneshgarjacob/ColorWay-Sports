@@ -1,9 +1,9 @@
 ---
-title: "Nike NBA Christmas Jerseys 2026 Leaked: Rankings, Reviews, and Grades for Every Design"
+title: "Nike NBA Specter Edition Jerseys 2026-27 Leaked: Rankings, Reviews, and Grades for Every Design"
 category: "NBA"
 date: "2026-04-08"
-updatedDate: "2026-08-26"
-excerpt: "Eight Nike NBA Christmas Day jerseys for 2026 have leaked, and they are bad. All black bases with neon graphics that look nothing like Christmas. We reviewed every leaked design and gave the collection a D+."
+updatedDate: "2026-09-10"
+excerpt: "The eight dark Nike designs that leaked in April are the new Specter Edition, confirmed September 10. All black bases with neon graphics. We reviewed every design and gave the collection a D+."
 gradient: "linear-gradient(135deg, #1D428A 0%, #C8102E 50%, #000000 100%)"
 coverImage: "/images/posts/nba-christmas-jerseys-2026/all-8-christmas-grid.jpg"
 coverImagePosition: "center 0%"
@@ -13,10 +13,11 @@ teams: []
 
 <div style="margin: 1.75em 0; border: 2px solid #C8102E; border-radius: 16px; overflow: hidden;">
   <div style="background: #C8102E; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Update &middot; August 26, 2026</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">These may not be Christmas jerseys</span>
+    <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Update &middot; September 10, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Confirmed: these are the Nike Specter Edition</span>
   </div>
   <div style="padding: 1.5em; background: #ffffff;">
+    <p style="margin: 0 0 0.9em; font-size: 1em; color: #1c1c1c; line-height: 1.6;"><strong>Confirmed September 10, 2026: this is the Nike Specter Edition.</strong> Nike and the NBA named the line for eight of the league's oldest franchises, the Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks and Kings, as a fifth uniform alongside Icon, Association, Statement and City Edition, debuting later this fall. It was never a Christmas jersey and it is not a City Edition. The review below stands because the design does; the label is corrected. Our full explainer and ranking: <a href="/stories/nba-specter-edition-jerseys-2026-27" style="color: #2f6bed; font-weight: 700;">NBA Specter Edition Jerseys 2026-27</a>.</p>
     <p style="margin: 0 0 0.9em; font-size: 1em; color: #1c1c1c; line-height: 1.6;">The NBA has since published its full 2026-27 schedule, and it breaks this leak. <strong>Three of the eight teams below are not playing on Christmas Day.</strong> The Hawks, Kings and Pistons are all off on December 25, which means those three designs cannot be what the leak called them.</p>
     <p style="margin: 0 0 0.9em; font-size: 1em; color: #1c1c1c; line-height: 1.6;">The confirmed December 25, 2026 slate is Spurs at Knicks, 76ers at Lakers, Heat at Celtics, Nuggets at Warriors, and Thunder at Timberwolves. Five of the eight leaked designs belong to teams on that list. Five teams that <em>are</em> playing on Christmas never appeared in the leak at all.</p>
     <p style="margin: 0; font-size: 1em; color: #1c1c1c; line-height: 1.6;">Read the designs again and the motifs point somewhere else entirely. Motor City flames, Light the Beam, the Bay Bridge. Those are <strong>city</strong> ideas, not holiday ideas. Our read now is that this was a 2026-27 City Edition leak that got labelled as Christmas, which lines up with the <a href="/stories/nba-september-15-2026-uniform-reveal" style="color: #2f6bed; font-weight: 700;">league-wide NBA and Nike reveal set for September 15</a>.</p>
