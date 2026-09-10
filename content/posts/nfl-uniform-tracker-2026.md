@@ -150,7 +150,7 @@ It works, and the reason is that the two sides are built on opposite principles.
 
 ## The 2026 NFL Preseason, All 49 Games
 
-The archive. Thirty teams played three preseason games. Carolina and Arizona played four, because they opened the whole thing in Canton on August 6.
+The archive. Thirty teams played three preseason games. Carolina and Arizona played four, because they opened the whole thing in Canton on August 6. One note on the grades below: these cards carry the ten-point scale we used through the preseason, and every grade from Week 1 onward is a letter, the same scale we use everywhere else on the site.
 
 ## Thursday, August 6
 
