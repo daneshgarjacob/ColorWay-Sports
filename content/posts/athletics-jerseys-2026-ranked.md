@@ -62,15 +62,6 @@ On the road it is the standard gray set with "Athletics" across the chest, names
 
 It grades a B+ and edges the home white, which is not where a road gray usually finishes. The reason is that gray suits this team's predicament better than white does. A home uniform is supposed to announce where you are, and the A's cannot, so the whites carry an absence. Grays were never in that business. They exist to be the away kit, and "Athletics" with no city reads as deliberate here rather than incomplete. Add that the green-and-gold cap pops harder against gray than white, and the road set quietly becomes the better-resolved uniform. Not by much, but by enough.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Athletics Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 1. Kelly Green Alternate
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #006341, #003522); color: white; text-align: center;">
@@ -85,11 +76,6 @@ It grades a B+ and edges the home white, which is not where a road gray usually 
 The kelly green is the fan favourite and the closest thing this team has to a hard rule. Bright kelly green base, "Athletics" across the chest in gold, gold numbers, green-and-gold cap, pulled straight from the Charlie Finley era. It has owned Friday home games since Green Friday began in 2018, and it made the move to Sacramento intact, with only the old "Oakland" wordmark swapped for "Athletics." The A's leaned further into that heritage in 2026 with a [125th anniversary patch reviving the elephant logo](/stories/athletics-125th-anniversary-patch-elephant-logo-2026).
 
 It grades an A, the highest mark in this closet, and the shade is the whole argument. This is not a muted forest green or a corporate hunter green, it is a bright, unapologetic kelly that no other team in baseball is brave enough to wear, and the gold sitting on top of it is exactly the right amount of loud. Nothing else in the league looks like it. It is also the one uniform here with no asterisk attached: no missing city, no patch working against the message, no interim anything. Fifty years of arguments about where this franchise plays and the answer to what it should look like has not changed once. Give it a standing Friday slot and get out of the way, which is precisely what they have done.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Kelly Green Alternate.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520kelly%2520green%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Athletics Jersey in 2026, at a Glance
 

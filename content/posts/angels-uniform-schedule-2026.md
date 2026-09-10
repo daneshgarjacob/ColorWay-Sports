@@ -19,15 +19,6 @@ teams:
 
 The Los Angeles Angels carry five uniforms in 2026, and the headline is that the road grays are back. The "Los Angeles" road set looked like it was on its way out at the start of the year, and for a stretch the red "Angels" jersey did the travelling on its own, but the grays have returned to the rotation. Mike Trout wore them at the All-Star Game, and the club ran them through Hall of Fame Weekend in July. Add the 1980s throwback white that turns up in home stretches, and this closet is deeper than the version most people have in their heads. Unlike a rigidly scheduled club such as the Phillies, the Angels run on feel rather than a published timetable, with one soft anchor: the cream City Connect that owns Friday nights at Angel Stadium. Here's the full Angels wardrobe for 2026 and when each jersey actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Angels Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #BA0021 0%, #BA0021cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -100,7 +91,6 @@ The home white is the Angels' cleanest look: a white jersey with "Angels" arched
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2069656870512713990"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Road Games)
 
@@ -110,7 +100,6 @@ This is the one with a story attached. The grays looked finished at the start of
 
 It matters more than a gray road uniform normally would, because it is the only thing keeping "Los Angeles" on the field. Every other jersey the Angels own says "Angels." Lose the grays and the city name goes with them.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## The Red "Angels" Jersey — Home, Road, and Everywhere
 
@@ -120,7 +109,6 @@ Here's the jersey that defines the modern Angels: the red alternate, a bright re
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2068574664742351248"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red Angels jersey on Fanatics →</a>
 
 ## Throwback White Alternate
 
@@ -128,7 +116,6 @@ The best-looking uniform the Angels own, and the one people are most likely to m
 
 There is no assigned day for it. It shows up in bunches, typically taking several home games in a row during a homestand and then vanishing for weeks, which is why a lot of fans have never worked out when to expect it. The honest answer is that you cannot plan around it the way you can the Friday City Connect. If it turns up, the Angels are wearing the sharpest thing in their closet, and we [ranked it the best jersey they own](/stories/angels-jerseys-2026-ranked) with an A+.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the throwback white alternate on Fanatics →</a>
 
 ## City Connect — The Surf Kit (Friday Home Games)
 
@@ -138,7 +125,6 @@ The City Connect, unveiled in 2022 and debuted on June 11 that year against the 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Angels/status/2060468503371751552"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Surf City Connect on Fanatics →</a>
 
 ## How the Angels Rotation Actually Works
 
@@ -147,13 +133,6 @@ Let's be straight about it: the Angels are not a scheduled-rotation team the way
 It still works, because the parts fans care about are the parts that stay consistent. The City Connect gets a standing Friday slot so people know when to come see it, and the red top is so central to the brand that nobody's confused when it shows up three days in a row. What is genuinely unpredictable is which white you get at home, and which of the grays or the red goes on the road. Neither is scripted.
 
 One more note on what's *not* in the closet: the Angels don't carry a navy or powder blue alternate. Navy lives in the trim and the cap logo, and the colored top is the red one, full stop. They do wear a jersey advertising patch, the **Foundation Building Materials (FBM)** mark, a cypress-tree logo in Angels red and blue, on the sleeve since 2023 under a deal that runs through 2026. The five-jersey set is home white, road gray, red alternate, Surf City City Connect, and the throwback white.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Angels games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

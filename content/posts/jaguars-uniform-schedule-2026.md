@@ -16,15 +16,6 @@ teams: ["jacksonville-jaguars"]
 
 Jacksonville has named a uniform for exactly one game in 2026, and it is the right one: the brand-new Bold City Rivalries jersey, revealed August 25, against Indianapolis in Week 8. The rest of the schedule is teal at home and white on the road, with one genuine oddity in the middle, back-to-back home games played in London. Here is the full Jacksonville Jaguars 2026 uniform schedule: the confirmed date first, then a week-by-week outlook for the teal home set and the white road set.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #d5eef1; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#006778" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Jaguars Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Teal, black, and the Prowler throwback, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #006778; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Jaguars Uniform Game
 
 Jacksonville announced themes for its six home games at EverBank Stadium. Only one of them names a jersey.
@@ -91,7 +82,6 @@ Jacksonville hosts Indianapolis on Sunday, November 1 for the debut. What is unu
 
 Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Teal at Home (The Base Set, Expected)
 
@@ -101,7 +91,6 @@ It is also the right call. Teal is the only thing about the Jaguars' visual iden
 
 The pants are the variable. Teal over white is the classic and teal over teal is the monochrome version, and Jacksonville used both last year without a published pattern.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520teal%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the teal jersey on Fanatics →</a>
 
 ## Two Home Games in London
 
@@ -115,7 +104,6 @@ The white road uniform projects to eight of the nine away games: at the Broncos,
 
 The ninth is the exception worth knowing. Week 16 at Dallas on Sunday, December 27 is a road game where Jacksonville could wear color, because the Cowboys wear white at home by tradition and a visiting team can only wear a colored jersey when the host goes white. Teal at AT&T Stadium would be one of the better-looking road games of the year, and it is entirely Jacksonville's call.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Djacksonville%2520jaguars%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Jaguars Rotation Works in 2026
 

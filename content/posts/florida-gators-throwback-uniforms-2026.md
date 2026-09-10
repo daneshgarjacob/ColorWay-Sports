@@ -72,7 +72,6 @@ FLORIDA on the nameplate instead of a player name is period-accurate and also ju
 
 The one modern intrusion we would fix is the helmet hardware. A mirrored visor and a contemporary shell shape fight the vintage read, and on a set this committed to 1960s minimalism the eye notices. That is a photo-shoot decision more than a uniform decision, and it will not follow the jersey onto the field.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dflorida%2520gators%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop Florida Gators jerseys on Fanatics →</a>
 
 ## When Florida Will Wear It
 

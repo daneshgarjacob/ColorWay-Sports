@@ -17,15 +17,6 @@ teams: ["cincinnati-bengals"]
 
 The Bengals have three confirmed uniform games in 2026, and the schedule does something almost nobody else in the NFL does: Cincinnati wears white at home twice, on purpose, in primetime. The White Bengal comes out for Sunday Night Football against Pittsburgh in Week 10 and again on New Year's Eve against Baltimore in Week 17. The season opens in the orange helmet against Tampa Bay. Here is the full Cincinnati Bengals 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the black home set and the white road set.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe6d8; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FB4F14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Bengals Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Black, orange, and the White Bengal, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520bengals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #FB4F14; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Bengals Uniform Games
 
 These three are set by the Bengals themselves. All three are at Paycor Stadium, and two of them put Cincinnati in white at home.
@@ -76,7 +67,6 @@ The combination is now confirmed: **orange helmet, orange jersey, white pants**,
 
 The orange helmet is still the most underrated piece of equipment in the AFC North. Cincinnati's stripe pattern is the rare design that actually gets better the more of it you put on the field, and an orange shell in September sun is the whole brand in one frame.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520bengals%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange jersey on Fanatics →</a>
 
 ## White Bengal (Week 10 vs. Steelers, Confirmed)
 
@@ -84,7 +74,6 @@ The White Bengal goes national in Week 10. Cincinnati hosts Pittsburgh on Sunday
 
 The design is the reason it travels. Most white alternates are just a road uniform with the contrast turned down, but the White Bengal keeps the black tiger stripes at full strength against a white base coat, so the pattern reads harder than it does in black. Put it under the lights against a team in black and gold and there is not a better-looking divisional game on the schedule.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520bengals%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the White Bengal jersey on Fanatics →</a>
 
 ## White Bengal Again (Week 17 vs. Ravens, Confirmed)
 
@@ -98,7 +87,6 @@ The black home jersey still carries most of the season. It projects to the five 
 
 Black with orange tiger stripes is the look the franchise is known for, and the 2021 redesign left it alone in the ways that mattered. Our [shipped Chiefs 2026 schedule](/stories/chiefs-uniform-schedule-2026) has Kansas City in their white road set for that Week 14 trip, which is the contrast this jersey wants.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520bengals%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black jersey on Fanatics →</a>
 
 ## The White Road Set (Expected)
 
@@ -106,7 +94,6 @@ The white road uniform projects to all nine away games: at the Texans, Steelers,
 
 One more road date worth flagging: the Week 16 trip to Indianapolis is the Colts' Indiana Nights game, their black alternate. We covered it in the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and white against that black set is one of the better road looks Cincinnati will get all year.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcincinnati%2520bengals%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Bengals Rotation Works in 2026
 

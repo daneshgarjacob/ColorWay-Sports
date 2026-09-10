@@ -19,15 +19,6 @@ teams:
 
 The Athletics run four uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. Two of those four are kelly-green-and-gold alternates — the green that owns Friday nights and the brand-new gold "Sacramento" jersey that owns Saturdays — and they're the looks fans plan around. This is also the franchise in its strangest chapter yet: branded simply the "Athletics," with no city on the chest, while it plays out a three-year stay in West Sacramento. Here's the full A's closet for 2026 and exactly when each jersey comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Athletics Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #003831 0%, #003831cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -100,7 +91,6 @@ The home white is the A's bread and butter: a clean white jersey with green and 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2068829099565670825"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
@@ -110,7 +100,6 @@ On the road, the A's wear the standard gray set with "Athletics" across the ches
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2069911273463292088"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Kelly Green Alternate (Friday Home Games)
 
@@ -120,7 +109,6 @@ The kelly green is the fan favorite and the closest thing the A's have to a hard
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Athletics/status/2067105463355982190"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520kelly%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the kelly green alternate on Fanatics →</a>
 
 ## Gold "Sacramento" Alternate (Saturday Home Games)
 
@@ -130,7 +118,6 @@ The newest piece, revealed in September 2025, is the gold "Sacramento" jersey, a
 <img src="/images/posts/athletics-sacramento-merch-2026/sacramento-gold-jersey-cropped.jpg" alt="Athletics 2026 gold Sacramento alternate jersey, gold with Sacramento in green script across the chest and the green A's cap, worn for Sacramento Saturdays at Sutter Health Park" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dathletics%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the gold Sacramento alternate on Fanatics →</a>
 
 ## What Happened to the Old Gold "A's" Jersey?
 
@@ -143,13 +130,6 @@ Be honest about it: the A's system is looser than the truly scheduled teams. The
 It still works, because the anchors are the parts fans care about. The kelly green and the gold "Sacramento" are the jerseys people buy tickets to see, and giving each one its own weekend night builds the anticipation. The whites and grays are happy to do the quiet work in between.
 
 One more constant: all four jerseys carry both the Sacramento Tower Bridge sleeve patch and the Las Vegas Convention & Visitors Authority patch at the same time, one on each sleeve — a permanent pairing rather than an either/or. It's the wardrobe equivalent of the franchise's whole 2026 — honoring the city it's in while advertising the one it's headed to.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Athletics games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

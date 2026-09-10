@@ -20,15 +20,6 @@ homepageFeature: false
 
 The 2026 MLB All-Star Game is tonight in Philadelphia at Citizens Bank Park, with the Home Run Derby already in the books ([Jordan Walker won it](/stories/home-run-derby-2026-looks-ranked)), and New Era has the caps out. Here is the twist: there are no special All-Star jerseys this year. Players wear their regular club home and road jerseys with a USA 250 sleeve patch added, so the All-Star design story lives almost entirely on the caps. The good news is the caps are worth the attention, because New Era leaned into the United States' 250th birthday with a tonal, star-spangled look and let the host Phillies have all the fun.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop the 2026 MLB All-Star Game caps</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">On-field and Workout Day caps, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2520mlb%2520all%2520star%2520game%2520hat" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The On-Field Game Caps: Tonal, Starry, and All-1776
 
 The cap the All-Stars actually wear in the game is the best of the bunch. New Era built it on each team's base color, then went almost entirely tone-on-tone for a premium, understated look. The team's primary logo sits on the front in white with a thin gold outline, a row of tonal stars runs alongside it, and the team's city wordmark sits below the logo in the same shade as the crown so it reads as texture more than text. A star-shaped "All-Star Game Philadelphia 2026" patch rides on the left-wear side, the eyelets and stitching are picked out in gold, and the undervisor is gray. New Era even tucked a "United We Stand" wordmark onto the sweatband.
@@ -96,7 +87,7 @@ It is a green New Era snapback featuring the Phillie Phanatic's fuzzy chenille f
 
 **Where can I buy the 2026 MLB All-Star caps?**
 
-The full set of 2026 MLB All-Star Game caps, both the on-field game version and the Workout Day version for all 30 teams, is available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2520mlb%2520all%2520star%2520game%2520hat).
+The full set of 2026 MLB All-Star Game caps, both the on-field game version and the Workout Day version for all 30 teams, is available at Fanatics.
 
 ## The Bottom Line on the 2026 MLB All-Star Caps
 

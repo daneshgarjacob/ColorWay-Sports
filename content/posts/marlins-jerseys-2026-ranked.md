@@ -61,15 +61,6 @@ The road gray is the standard away set, carrying the "Miami" wordmark with black
 
 It grades a C+. It does the job and it is not the reason anyone is unhappy with this wardrobe. But it is also the clearest illustration of the problem: on gray, with black lettering and a thin red outline, there is essentially no colour on this uniform at all. A team whose whole visual pitch is a tropical city ends up with a road look you could hand to half the National League without anyone noticing. Competent, forgettable, and a waste of the best palette in baseball.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Marlins Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Home White
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #b8b4b0, #63605c); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a C+, and it edges the road gray on the strength of the same red that 
 Teal Sundays. Miami wears the original 1993 Florida Marlins teal for every Sunday home game, in the exact shade from the inaugural season, with the block "MARLINS" wordmark and its swoosh underline across the chest, a legacy patch carrying the original circular Florida Marlins logo on the sleeve, and white pants underneath so the teal does all the talking.
 
 It grades an A, and it is not close to anything else in this closet. That teal is one of the great colours in baseball history, specific enough that you can date it to the year, and nobody else in the sport is anywhere near it. The design is disciplined too: one loud colour, one strong wordmark, white pants to keep it grounded, and no concept to explain. Everything the Retro Wave is straining to say about Miami being bright and distinctive and a bit 1990s, this jersey says without trying, because it actually is those things. Handing it a standing Sunday slot is the single best decision in this wardrobe, and it is the only Marlins uniform that makes you want to watch the game it is in.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Teal Throwback.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520teal%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## What About the Caribbean Blue Alternate?
 

@@ -19,29 +19,6 @@ topViewsRank: 15
   <img src="/images/jerseys/nba/knicks-both-icon-blue-finals.png" alt="New York Knicks 2026 NBA Finals Icon Edition blue jersey product shot from Fanatics showing both back and front views with NBA Finals patch placed at the top center of the back of the jersey above the BRUNSON nameplate and 11 number, orange and white side piping, and white NEW YORK wordmark on the front" style="max-width: 380px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
 </div>
 
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; padding: 18px 22px; margin: 1.5em 0;">
-<p style="margin: 0 0 8px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #2f6bed;">The Quick Answer</p>
-<p style="margin: 0; color: #1a1e28; font-size: 16px; line-height: 1.65;">The <strong>2026 NBA Finals patch</strong> carries the Larry O'Brien Trophy mark and the "2026 NBA Finals" wordmark in a cream-and-white treatment, worn by both Finals teams. The big change this year is placement: the NBA moved it from the traditional upper-left chest to the <strong>top center of the back</strong>, just below the collar and above the nameplate.</p>
-</div>
-
-The first New York Knicks 2026 NBA Finals jersey product shots are live on Fanatics ahead of the Knicks' first NBA Finals appearance since 1999, and the most notable design choice is on the back of the jersey rather than the front. The 2026 NBA Finals patch sits at the top center of the back, just below the collar and directly above the player nameplate, a placement shift from the upper-left chest position that has been the standard NBA Finals patch home for most of the past several Finals series. The jersey itself is the Knicks Icon Edition blue, the team's signature look featuring the white NEW YORK wordmark, the orange number on the front, and the contrasting orange and white piping running along the sides and shoulders.
-
-## Where Is the NBA Finals Patch on the Knicks 2026 Jersey?
-
-<div style="margin: 2em 0; text-align: center;">
-  <img src="/images/jerseys/nba/knicks-back-icon-blue-finals.png" alt="New York Knicks 2026 NBA Finals Icon Edition blue jersey back view from Fanatics showing the 2026 NBA Finals patch in white at the top center of the back just below the collar and above the BRUNSON nameplate and the large orange 11 number" style="max-width: 380px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
-</div>
-
-The 2026 NBA Finals patch on the Knicks jersey sits at the top center of the back, just below the collar and above the BRUNSON nameplate on the Jalen Brunson product shot. The patch design carries the Larry O'Brien Trophy mark with the "2026 NBA Finals" wordmark in a clean cream and white treatment that reads almost monochrome against the Knicks Icon blue base. The placement is a meaningful change from the recent Finals patch standard, which has lived on the upper-left front chest of the jersey for the past several Finals seasons. Moving it to the back top center means the broadcast camera frames the Finals patch every time a Knicks player is in transition or shown with their back to the basket, which is a noticeable lift in broadcast visibility for the league and for any future NBA Finals jersey re-sales on the resale market.
-
-The rest of the jersey is the standard Knicks Icon Edition build. The NEW YORK wordmark in white runs across the front with the player number directly below it in Knicks orange. The orange and white side panels and shoulder piping carry through the entire jersey. The Nike swoosh sits on the right shoulder. The back has the player name arched across the top above the large number, the same general Knicks layout that has been the team's identity since the 2017-18 Nike rollout.
-
-The Knicks are the first team confirmed in the 2026 NBA Finals after sweeping the Cleveland Cavaliers 4-0 in the Eastern Conference Finals at Rocket Mortgage Fieldhouse, and these official Fanatics-produced 2026 NBA Finals jerseys are the on-court look the team will run in the Finals opener on the road at Frost Bank Center in San Antonio. The Western Conference Finals between the Oklahoma City Thunder and the San Antonio Spurs determines the Knicks' Finals opponent and home court for the series.
-
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dknicks%2Bnba%2Bfinals%2Bjersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Knicks 2026 NBA Finals Jersey on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What is the 2026 NBA Finals patch?**

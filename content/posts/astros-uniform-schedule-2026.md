@@ -19,15 +19,6 @@ teams:
 
 The Houston Astros carry five uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. The one hard rule lives at home: the new white "Stros" City Connect owns Monday home games at Daikin Park, full stop. Around that, the orange and navy alternates tend to claim their own nights, and the whites and grays handle the day-to-day work. Here's the full Astros closet for 2026 and exactly when each jersey comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Astros Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #EB6E1F 0%, #EB6E1Fcc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -100,7 +91,6 @@ The home white is Houston's foundation: a clean white jersey with orange and nav
 
 For what the Astros have actually worn so far this season, day by day, see the [Astros uniform calendar](/mlb-tracker/astros).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
@@ -110,7 +100,6 @@ On the road, the Astros wear the standard gray set with "HOUSTON" across the che
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066001319916114102"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Orange Alternate (Frequent Friday Look)
 
@@ -120,7 +109,6 @@ The orange alternate is the splash of color in the rotation: a vivid orange jers
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2069569877589836184"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
 
 ## Navy Alternate (Customary Sunday Jersey)
 
@@ -130,7 +118,6 @@ The navy alternate is the dark counterpart: a navy-blue jersey with "Astros" sti
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2068794718360654018"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## City Connect — The White "Stros" Kit (Monday Home Games)
 
@@ -140,7 +127,6 @@ The newest piece, unveiled in March 2025, is a complete reinvention of Houston's
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/astros/status/2066695957496922528"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520astros%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Stros City Connect on Fanatics →</a>
 
 ## What Happened to the Navy "Space City" City Connect?
 
@@ -155,13 +141,6 @@ It still works, because the anchor is the part fans care about. The City Connect
 One more constant: the entire rotation runs on the navy, orange, and white identity Houston adopted in its 2013 rebrand, when the franchise returned to its traditional colors and the "H-star" logo. More than a decade later, it's one of the most cohesive brand packages in baseball — every jersey in the closet, City Connect included, reads instantly as the Astros.
 
 Every jersey the Astros wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Astros games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

@@ -20,15 +20,6 @@ The Washington Commanders just released their full 2026 uniform schedule, and it
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2077774248848883798"></a></blockquote>
 </div>
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #f7e9ec; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#5A1414" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Commanders Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #5A1414; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Commanders Uniform Schedule, Week by Week
 
 Here is the entire season at a glance. Burgundy is the heritage jersey, white is the new primary, and the black Hail Raiser is the alternate. Week 7 is the bye.
@@ -70,19 +61,16 @@ Washington has confirmed the opener in Philadelphia: the **burgundy helmet over 
 
 It is the right call for this specific game and it is not close. Philadelphia wears midnight green at home, which is one of the darkest jerseys in the league and swallows anything mid-toned put next to it. Gold pants would have introduced a third colour nobody needed, and burgundy pants would have dropped Washington's value close enough to Philadelphia's green that the two sides start to blur on a wide shot. White over white keeps the visitors as the brightest thing on the field, and the burgundy shell on top becomes the only strong colour Washington is carrying, which is exactly how you want a helmet to work. The gold facemask does the rest.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white primary jersey on Fanatics →</a>
 
 ## Burgundy Jersey (The Heritage Look, 9 Games)
 
 The burgundy is the heart of the wardrobe, and it works the hardest, going nine times in 2026. This is the jersey that carries the franchise's history, the deep burgundy with gold numbers and the gold spear-W on the burgundy helmet, and Washington saves it for the games that matter most on the calendar. It debuts Week 2 at Dallas, holds down the home opener against Seattle, and travels to London against the Colts in Week 4. From there it owns the heavy NFC East and prime-time stretch: home against the Eagles, home against the Rams, at the Giants, home against the Texans, at the Vikings, and the Week 18 finale against the Cowboys. Nine wearings is a clear signal that burgundy is still the emotional primary even if white is the technical one, and it keeps the franchise's most recognizable jersey and uniform in heavy rotation for the biggest matchups of the year.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520burgundy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the burgundy heritage jersey on Fanatics →</a>
 
 ## The "Hail Raiser" Black Alternate (2 Games, Both at Home)
 
 The one everyone wants to see. The Hail Raiser is Washington's all-black alternate, a blacked-out jersey and pants with burgundy and gold striping and a completely different black helmet carrying the spear-W alternate logo. The name plays on the franchise's fight-song heritage, and the whole set is built to be a stadium event. It comes out exactly twice in 2026, and both are at home under the lights of a marquee slot: Week 11 against the Bengals and Week 15 against the Falcons. Holding the black look to two home games is the right restraint. Alternates lose their punch when they show up every month, so parking the Hail Raiser at two home dates keeps it feeling like a happening rather than a habit. If you are buying one Commanders jersey for the drama of it, this is the uniform on the shortlist. We broke the full look down in our [Commanders new uniforms review](/stories/commanders-new-uniforms-2026).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Hail Raiser black alternate on Fanatics →</a>
 
 ## How the Commanders Rotation Actually Works
 

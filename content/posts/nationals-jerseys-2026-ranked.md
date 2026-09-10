@@ -61,15 +61,6 @@ On the road it is "WASHINGTON" arched across the chest in block navy trimmed whi
 
 It grades a C+ and edges the whites on that number alone. Same grade, opposite problems: the road gray has the piece the home jersey is missing, and the number does exactly what you would want, filling the chest and making the uniform feel finished. What drags it back down is the wordmark. That block "WASHINGTON" is a stiff, generic treatment with no character in the letterforms at all, the kind of type you would find on any road jersey in any league. The Nationals own a genuinely great mark in the curly W and a nice script in "Nationals," and the road set uses neither. Right instinct on the number, wrong font above it.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Nationals Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Red Alternate
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #AB0003, #660002); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a B+ and it is the jersey that proves the curly W can carry a chest on
 The navy alternate is the dark counterpart to the red: a navy base with the "Nationals" script across the chest and the curly W cap. Another no-fixed-day option, and it surfaces most often for night games where the dark top pops under the lights.
 
 It grades an A, the best jersey Washington owns, and part of that is design and part of it is memory. On navy, the script that looks stranded on a white shirt suddenly has something to push against, and the red-and-white lettering glows under the lights in a way it simply cannot at home in daylight. The same wordmark, on the right base, becomes a completely different jersey. The rest is 2019. This is the look the Nationals lived in through the run to the only World Series title in franchise history, and for anyone who watched it, the navy is not an alternate at all. It is what that team looked like. Uniforms accumulate meaning, and this one has more of it than anything else in the closet.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Navy Alternate.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520nationals%2520navy%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Nationals Jersey in 2026, at a Glance
 

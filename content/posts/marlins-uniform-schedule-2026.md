@@ -28,15 +28,6 @@ topViewsRank: 7
 
 The Miami Marlins built a weekend uniform schedule for 2026, and it is one of the smartest jersey programs in baseball this year. Every Friday, Saturday, and Sunday home game at loanDepot park has a designated look. Retro Wave on Fridays, home whites on Saturdays, and the throwback teal jersey on Sundays. Fans know exactly what to expect when they walk into the ballpark, and each uniform has its own identity instead of showing up in random spots on the calendar.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Marlins Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #00A3E0 0%, #00A3E0cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -105,7 +96,6 @@ Miami wears the Retro Wave uniform for every Friday home game at loanDepot park.
 
 This one works because it matches the city. Most City Connects feel forced, like a designer handed a team a mood board with no actual connection to the market. The Marlins' Retro Wave is one of the few that ties directly into the visual identity of where the team plays. Tying it to Friday nights is the right call too, because the neon reads best under the lights and Friday is when Miami fills the ballpark. Owning the weekend kickoff with the most distinctive jersey in the closet is smart scheduling.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Retro Wave City Connect on Fanatics →</a>
 
 ## Home Whites Saturdays
 
@@ -113,7 +103,6 @@ The Saturday slot belongs to the standard home white uniform. This is the curren
 
 Saturdays at loanDepot park often run as day-night splits or afternoon starts, and the white jersey is the most versatile canvas for either window. The whites also let Friday and Sunday stand out more by keeping Saturday visually simple. You get the loud jersey on Friday, the classic on Saturday, and the nostalgia bomb on Sunday. The three days build on each other instead of fighting for attention.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Teal Sundays
 
@@ -128,7 +117,6 @@ Sundays are Teal Sundays, the best jersey program any MLB team has launched in y
 
 The rollout for the teal jersey was as clean as the uniform itself. The Marlins branded the whole program as "Teal Sundays" with the tagline "Every Stitch Tells Our Story," and they change their social media profile picture to the classic Florida Marlins logo every Sunday to match. We wrote the full grade on the teal jersey in its own post: [Marlins Teal Alternate Jersey 2026: Grading the Throwback](/stories/marlins-teal-alternate-jersey-2026). Short version, it is an A+. The best uniform the Marlins have put on the field since the original teal era.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520marlins%2520teal%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the teal alternate on Fanatics →</a>
 
 ## Why the Weekend System Works
 
@@ -139,13 +127,6 @@ When fans know Friday means Retro Wave, Saturday means white, and Sunday means t
 The Phillies have been running a similar system for years with their own [2026 uniform schedule](/stories/phillies-uniform-schedule-2026), and it is one of the reasons their closet is considered the best in baseball. The Marlins just joined that club. Three weekend jerseys, three distinct looks, and one of the cleanest uniform programs in the sport right now.
 
 More teams should take notes.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Marlins games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

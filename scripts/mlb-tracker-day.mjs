@@ -40,11 +40,10 @@ if (!date) { console.error("usage: mlb-tracker-day.mjs YYYY-MM-DD"); process.exi
 
 // ---- learn the card vocabulary from the existing tracker -------------------
 const md = fs.readFileSync(TRACKER, "utf8");
-const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/[^"]+)" alt="([^"]*)"[\s\S]*?line-height: 1\.2;">([^<]+)<\/p>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"/g;
+const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/[^"]+)" alt="([^"]*)"[\s\S]*?line-height: 1\.2;">([^<]+)<\/p>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>([^<]+)<\/p>/g;
 
 const tile = new Map();     // `${slug}|${uniform}` -> {src, swatch}
 const label = new Map();    // slug -> short label e.g. SOX
-const shop = new Map();     // slug -> fanatics href
 const seenUni = new Map();  // slug -> Set(uniform names)
 
 // walk cards in document order so the H3 tells us which side is which team
@@ -58,11 +57,10 @@ for (const card of cards) {
   let m, i = 0;
   SIDE.lastIndex = 0;
   while ((m = SIDE.exec(card)) !== null && i < 2) {
-    const [, src, , lbl, swatch, uniform, href] = m;
+    const [, src, , lbl, swatch, uniform] = m;
     const slug = slugs[i++];
     tile.set(`${slug}|${uniform.trim()}`, { src, swatch });
     label.set(slug, lbl.trim());
-    shop.set(slug, href);
     if (!seenUni.has(slug)) seenUni.set(slug, new Set());
     seenUni.get(slug).add(uniform.trim());
   }
@@ -140,7 +138,6 @@ function side(slug, oppName, uniform, dateWords) {
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">${label.get(slug)}</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${hit.swatch}; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>${uniform}</p>
-      <a href="${shop.get(slug)}" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 10px; padding: 5px 12px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 9px; font-weight: 800; text-decoration: none; letter-spacing: 1.2px; text-transform: uppercase; display: inline-block;">Shop Jerseys</a>
     </div>`;
 }
 

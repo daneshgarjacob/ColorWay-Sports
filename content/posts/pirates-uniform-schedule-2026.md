@@ -19,15 +19,6 @@ teams:
 
 The Pittsburgh Pirates run four uniforms in 2026, and the closet is about as black-and-gold as it gets. The set isn't scheduled with the published-timetable precision of a team like the Phillies, but it has one genuine anchor — the new City Connect on Friday home games — with the home white, grays, and black alternate handling the rest. The big change for 2026 is the City Connect itself: the bright yellow PNC Park kit from 2023 through 2025 is gone, replaced by an all-black uniform with gold gothic lettering. Here's the full Pirates wardrobe and exactly when each jersey comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Pirates Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #FDB827 0%, #FDB827cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -96,19 +87,16 @@ The Pirates carry four uniforms in 2026, and three of them are holdovers — the
 
 The home white is the Pirates' default and the look most fans picture: a clean white jersey with no pinstriping, "Pirates" arched across the chest in black lettering outlined in gold, gold piping at the collar and sleeves, and the black cap with the gold "P." It's worn for the bulk of every homestand — essentially any home game that isn't claimed by the Friday City Connect. It's a quiet, classic baseball look, and leaving the white plain is what lets the black-and-gold script carry it. The Pirates are smart to leave it almost entirely alone.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays — The "Pittsburgh" Script (Most Away Games)
 
 On the road, Pittsburgh wears the standard gray set with the cursive "Pittsburgh" wordmark arched across the chest, paired with the black cap and gold "P." This script was revived ahead of the 2020 season — script "Pittsburgh" had last appeared on the road jerseys from 1990 through 2000, and for the 19 years in between the away tops used a blocky capitalized treatment. Fans loved the throwback cursive enough that the team brought it back, and it's been the road default ever since. It's the workmanlike look for most away games, and the retro script gives it a warmth that a plain block font never had.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Black Alternate — The Black "Pittsburgh" (Manager's Choice)
 
 The black alternate is the wild card and one of the most popular shirts in the closet. It's a black jersey with the same retro "Pittsburgh" script across the chest in gold, worn with the black cap. Like the gray road top, this black alternate was unveiled in January 2020 as part of the "script is back" refresh. There's no fixed day attached to it — it's the jersey the Pirates reach for when they want to lean all the way into the black-and-gold, and it shows up both at home and on the road. Paul Skenes has made no secret of loving it, which is part of why it gets so much camera time on his starts. It's the darkest, boldest piece in the regular rotation, and the lack of a schedule is exactly what keeps it feeling like a choice rather than a chore.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## City Connect — The New Black-and-Gold Kit (Friday Home Games)
 
@@ -119,20 +107,12 @@ The biggest story of the Pirates' 2026 season is the brand-new City Connect, whi
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Photo: Pittsburgh Pirates</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpittsburgh%2520pirates%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black-and-gold City Connect on Fanatics →</a>
 
 ## How the Pirates Rotation Actually Works
 
 Let's be straight about it: the Pirates are not a published-timetable team the way the [Phillies](/stories/phillies-uniform-schedule-2026) are. Pittsburgh really has just one soft anchor — **the City Connect on Friday home games** — and everything else is feel and matchup. The home white covers the rest of the homestand, road grays handle most of the trip, and the black alternate gets dropped in whenever the staff (and the pitcher) wants the full black-and-gold, with no day-of-week assignment behind it.
 
 It still works, because the one anchor covers the jersey fans actually plan around. The Friday City Connect is the look people buy tickets and merch for, so handing it a standing slot at PNC Park builds anticipation even without a rigid system. The home white, grays, and black alternate are perfectly content to do the quiet work in between.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Pirates games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

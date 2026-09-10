@@ -45,10 +45,6 @@ The Saints have not announced where the 60th anniversary patch will be placed on
 
 The shield format of the Saints 60th mark would work in either location. We will update this post the moment the Saints confirm where the patch will live on the jerseys. The bigger question is which uniform combinations will carry it. Every game? Only at home? Only on the Black Saturday alternate? The Saints have flexibility on the patch placement and the rollout, and the choices the team makes will tell us how seriously they are taking the 60th-anniversary visual identity moment.
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2Borleans%2Bsaints%2B60th%2Banniversary" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Saints 60th Anniversary Gear on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What is the New Orleans Saints 60th anniversary logo for the 2026 season?**

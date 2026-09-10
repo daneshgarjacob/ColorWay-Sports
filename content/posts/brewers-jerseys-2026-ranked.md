@@ -61,15 +61,6 @@ The white pinstripe is the cream home's running mate at American Family Field. I
 
 It grades a C+. It is fine, and that is about the strongest thing we can say. The pinstripes give it a slightly sharper edge than a plain white would have, but next to the cream it just looks like the less interesting version of the same idea, and it is frankly a bit boring. The warmth of the cream is what makes the ball-in-glove and the gold trim sing, and swapping to a bright white drains some of that out. A perfectly acceptable home uniform that never gave us a reason to look twice.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Brewers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Cream Home
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #c9b899, #8a7a5c); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a B, and it is the best of the home looks by a clear margin. The cream
 This is the big one for 2026. Milwaukee retired the traditional road grays outright and brought powder blue back as the primary road uniform, a direct revival of what the franchise wore from 1970 into the mid-1980s. The new version runs "Milwaukee" arched across a powder blue base in navy block lettering outlined in gold, with the numbers mirroring that navy-and-gold treatment, paired with the navy cap carrying a yellow front panel and the ball-in-glove crest.
 
 It grades an A, and it is the only genuinely great uniform the Brewers own. The jersey is excellent and the helmet is the piece that seals it, the yellow front panel giving the whole look a jolt most road sets never get near. Powder blue is a nostalgia play that a lot of clubs run as a once-a-week novelty, and Milwaukee had the nerve to make it the everyday road uniform instead. That is the right call. It is instantly one of the most distinctive road looks in the National League, and it is the only jersey here that made us want to see more of it.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Powder Blue Road.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmilwaukee%2520brewers%2520powder%2520blue%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Why Do the Brewers Sometimes Wear Pinstripes and Sometimes Not?
 

@@ -15,15 +15,6 @@ teams: ["new-england-patriots"]
 
 New England owns two of the better alternate uniforms in the AFC, and as of the end of August both have dates. The red **Pat Patriot** throwback comes out twice: Week 5 against the Raiders on Sunday, October 11, the day the team honors the 25th anniversary of the 2001 Super Bowl champions, and Week 14 against the Vikings on Thursday night, December 10. The Storm Blue **Nor'easter** Rivalries uniform gets Week 13 against Buffalo. Here is the full New England Patriots 2026 uniform schedule, week by week, with the three alternate dates first.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e2e8f2; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#002244" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Patriots Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Patriots jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520england%2520patriots%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #002244; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Patriots Uniform Schedule, Week by Week
 
 Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The season opens on a **Wednesday**, September 9, in Seattle.

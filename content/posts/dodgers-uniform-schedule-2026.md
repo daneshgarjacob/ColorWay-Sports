@@ -20,15 +20,6 @@ teams: ["los-angeles-dodgers"]
 
 The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball for 2026, with four jerseys in active circulation and clear context for when each one shows up. Home whites with the Dodgers script for the vast majority of home games at Dodger Stadium. Road grays for most away games. The royal blue road alternate that the franchise added recently for select road series. The cream "City of Dreamers" City Connect for Saturday home games. The closet stays focused around the classic Dodgers visual identity while giving fans new looks to track across the calendar.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Dodgers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #005A9C 0%, #005A9Ccc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -97,13 +88,11 @@ The home white uniform with the Dodgers script across the chest is the primary i
 
 The home whites are one of the most heritage-rich primary uniforms in baseball. There is no scenario in which the Dodgers should ever consider a meaningful redesign on this set. The chain-stitched Dodgers script, the LA cap logo, and the red number contrast all tie into a visual identity that has been instantly recognizable for seven decades. Every weeknight home game and every weekend daytime home game in 2026 is the whites.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Most Road Games)
 
 The road gray uniform with the Los Angeles script across the chest is the default away look in 2026. Royal blue Los Angeles wordmark, red player numbers, no name on the back, all-blue road cap. The road grays mirror the home whites in lettering and number treatment, just with the city name swapped in for the team name and the gray base for the white. This is the cleanest version of the Dodgers' road identity and the look most road games carry across the season.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Royal Blue Road Alternate (Select Road Series)
 
@@ -114,7 +103,6 @@ The royal blue road alternate is the newer addition to the Dodgers' active rotat
 
 The blue alternate is not the default road call in 2026. The Dodgers pull it for select road series and the rest of the away calendar stays in the traditional road grays. For the full background on when the franchise officially added the alternate and how it differs from the spring training blue jersey, see our [Dodgers blue road jersey 2026 breakdown](/stories/dodgers-blue-road-jersey-official-2026).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
 
 ## City Connect (Saturday Home Games)
 
@@ -122,20 +110,12 @@ The cream "City of Dreamers" City Connect uniform anchors Saturday home games at
 
 The block "Los Angeles" wordmark is the centerpiece of the design, a nod to the signage at the Los Angeles Memorial Coliseum where the Dodgers played their first three seasons after moving west. The paint-fleck pattern stands for the brilliance and diversity of the city, the whole thing built around the idea of Los Angeles as a city of dreams and dreamers. Tying the jersey to Saturdays keeps the rotation predictable. Fans who want the City Connect on the back of a Dodgers jersey know exactly when to attend. The cleanest version of the Dodgers identity is still the home whites, but the City Connect has carved out a real lane.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520dodgers%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## Why This System Works
 
 Most MLB teams either underuse their uniform rotation or overuse it. The Yankees never wear anything but pinstripes and grays, which is the brand. The Diamondbacks and Mariners rotate four or five looks across a homestand without a clear rule. The Dodgers found a middle ground that works for the franchise. The home whites and road grays carry the vast majority of the calendar so the Dodgers visual identity stays consistent across every broadcast. The City Connect gets a fixed weekly slot at Saturday home games so fans always know when to expect it. The royal blue road alternate adds a third color story on the road without crowding the rotation.
 
 The system protects the franchise's heritage by keeping the classic uniforms front and center, while the alternates give Dodger Stadium and the broadcast crew enough variety to track. The team's [opening night ring ceremony for 2026](/stories/dodgers-opening-night-2026-ring-ceremony-review) was a clear reminder that this is a franchise built on tradition first and innovation second. As defending champions, the Dodgers also pull out gold-trimmed World Series uniforms, and we lined up [every Dodgers World Series gold uniform](/stories/dodgers-world-series-edition-uniforms-2026) from 2020, 2024, and 2025 to see how the look has evolved.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Dodgers games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

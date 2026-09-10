@@ -22,15 +22,6 @@ The Giants carry five uniforms in 2026, and the closet got a real shake-up this 
 
 One thing to clear up first, because it trips up almost everyone, including plenty of Giants fans: **San Francisco does not have a plain white home jersey.** Their home uniform is cream. In bright Oracle Park daylight the cream reads white on camera, which is why you will see it described both ways, but it is one jersey, not two. The only true-white top the Giants own is the City Connect.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Giants Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #FD5A1E 0%, #FD5A1Ecc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -103,7 +94,6 @@ It carries the black-and-orange "Giants" script across the chest and pairs with 
 
 There is nothing fancy about it, and that is the point. It is the anchor of the rotation, the baseline the themed jerseys play off of, and one of the better daytime looks in the National League when the cream really catches the sun. If you want the tell for a game photo: the "Giants" wordmark means the cream home, and the orange gradient "G" means the City Connect, which is the only genuinely white top they own.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home cream jersey on Fanatics →</a>
 
 ## Road Gray
 
@@ -111,7 +101,6 @@ The road gray uniform reads "San Francisco" across the chest and is exactly what
 
 The Giants wear this jersey for away games. The themed home days do not travel with the team, so on the road it is gray almost every time. It is a simple set that does its job and stays out of the way.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Orange Alternate (Orange Friday)
 
@@ -119,7 +108,6 @@ The orange alternate is the "Orange Friday" jersey, and it is one of the longest
 
 The Giants wear this jersey for Friday night home games at Oracle Park. Orange Friday has been a staple in San Francisco for years, and tying the jersey to a specific night each week keeps it feeling like an event. Fans know that a Friday home game means orange, and that kind of predictability is exactly what makes a uniform rotation work. It is a tradition worth protecting, and the Giants clearly know it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
 
 ## City Connect (Tuesdays)
 
@@ -129,7 +117,6 @@ The Giants wear this jersey on Tuesday home games, plus the occasional concert n
 
 To be clear, this is the Giants' City Connect. The new Gigantes set, which we cover next, is a separate Saturday alternate and is not a City Connect.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## Gigantes Alternate (Fiesta Gigantes Saturdays)
 
@@ -143,7 +130,6 @@ The Giants wear this uniform for Saturday home games as part of "Fiesta Gigantes
 
 Again, the important distinction: Gigantes is a Saturday home alternate. The Giants' City Connect is the separate 2025 black music set worn on Tuesdays. The two are easy to mix up because both lean black, but they are different uniforms with different jobs.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520francisco%2520giants%2520gigantes%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Gigantes alternate on Fanatics →</a>
 
 ## The Airwallex Patch
 
@@ -156,13 +142,6 @@ The Giants run a partial themed-day system at home, and it gives the week some s
 The rest is simple, and simpler than most people assume. Every home date the themed days do not claim goes to the cream, and on the road it is gray. There is no home white to alternate with, so there is no coin flip to call. So while San Francisco is not as rigidly scheduled top to bottom as a team like the Phillies, the parts that are locked in are some of the best themed days in the sport. Orange Friday is a genuine tradition, the music City Connect has a real sense of place, and the new Gigantes set gives Saturday its own identity.
 
 Five uniforms, three standing themed days, and a closet that finally has a fresh piece in the Gigantes alternate. It is a strong year for the look of this team.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Giants games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

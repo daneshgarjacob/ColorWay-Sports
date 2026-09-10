@@ -20,7 +20,7 @@ The collection this year follows a pretty consistent format. Team primary color 
 
 We graded all 31 hats by division.
 
-**Want to grab one of these?** Shop the full 2026 NFL Draft collection at [New Era](https://www.neweracap.com/collections/nfl-draft) or on [Amazon](https://www.amazon.com/s?k=2026+nfl+draft+hat+new+era&tag=colorwaysport-20).
+**Want to grab one of these?** Shop the full 2026 NFL Draft collection at [New Era](https://www.neweracap.com/collections/nfl-draft) or on Amazon.
 
 ---
 
@@ -402,6 +402,6 @@ The Rams hat finally dropped alongside their [new 2026 uniform and logo reveal](
 
 **Biggest Disappointment:** Seattle Seahawks (defending champs deserved better)
 
-**Shop the full collection:** [New Era](https://www.neweracap.com/collections/nfl-draft) | [Amazon](https://www.amazon.com/s?k=2026+nfl+draft+hat+new+era&tag=colorwaysport-20)
+**Shop the full collection:** [New Era](https://www.neweracap.com/collections/nfl-draft)
 
 *All hat images courtesy of New Era.*

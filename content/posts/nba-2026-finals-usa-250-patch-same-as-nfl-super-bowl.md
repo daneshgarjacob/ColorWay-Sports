@@ -60,10 +60,6 @@ The visual story the NBA wants is the same one the NFL set up across the 2025-26
 
 **Update (June 2026):** MLB has since joined. The league added the USA 250 patch to its leaguewide [2026 Fourth of July jerseys](/stories/mlb-july-4th-jerseys-2026), making it three of the four biggest American leagues wearing [the same patch](/stories/usa-250-patch-mlb-nba-nfl-2026).
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 NBA Finals Gear on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What is the USA 250 patch on the 2026 NBA Finals jerseys?**
@@ -104,7 +100,7 @@ The USA 250 patch is the official commemorative patch of the United States Semiq
 
 **Where can I buy a Knicks or Spurs 2026 NBA Finals jersey with the USA 250 patch?**
 
-The official New York Knicks and San Antonio Spurs 2026 NBA Finals jerseys with both the USA 250 patch on the front and the 2026 Finals patch on the back are available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026). Both team Finals jerseys feature both patches in the same right-chest and back-collar placements the league has confirmed for the Finals.
+The official New York Knicks and San Antonio Spurs 2026 NBA Finals jerseys with both the USA 250 patch on the front and the 2026 Finals patch on the back are available at Fanatics. Both team Finals jerseys feature both patches in the same right-chest and back-collar placements the league has confirmed for the Finals.
 
 ---
 

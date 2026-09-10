@@ -20,15 +20,6 @@ teams:
 
 The Orioles do not run their uniform rotation the way the Phillies or Cardinals do. There is no tidy day-by-day script where every fan knows that Tuesday means one jersey and Saturday means another. Baltimore keeps things loose. They have one firm, team-announced rule for 2026, and everything else is decided closer to game time. We think that is worth being honest about up front, because plenty of "uniform schedule" pages will try to invent a pattern that does not exist. The Orioles closet is deep and it is good, but the only thing you can truly count on is the new City Connect on Friday home games. If you want our take on the looks themselves, we ranked [every Orioles jersey for 2026](/stories/orioles-jerseys-2026-ranked) from worst to best.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Orioles Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #DF4601 0%, #DF4601cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -101,7 +92,6 @@ There is nothing to fix here. The cartoon bird cap is one of the most beloved ma
 
 For what the Orioles have actually worn so far this season, day by day, see the [Orioles uniform calendar](/mlb-tracker/orioles).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Gray (Away Games)
 
@@ -113,7 +103,6 @@ On the road, the Orioles wear a gray uniform with "Baltimore" written in script 
 
 Like most road grays around the league, this one does not need to change. It does its job, and the orange-and-black trim keeps it unmistakably Orioles.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Orange Alternate
 
@@ -125,7 +114,6 @@ The orange alternate is one of two color-pop jerseys in the rotation. It feature
 
 There is no published schedule for it. You might catch it on a weeknight or a weekend afternoon. That unpredictability is the trade-off with a loose rotation: you lose the "every Thursday" certainty, but you also never quite know when one of the louder jerseys will appear.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the orange alternate on Fanatics →</a>
 
 ## Orange-on-Orange Retro Combo
 
@@ -143,7 +131,6 @@ The black alternate gives the rotation its darkest look. The jersey carries an o
 
 It is a sharp option for a night game when the team wants a moodier vibe, and the orange-on-black contrast reads well under the lights. Whether you see it on a given homestand is entirely up to the team.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## City Connect (Friday Home Games)
 
@@ -157,7 +144,6 @@ The 2026 City Connect is brand new and a complete reset. It replaced the 2023 bl
 
 We think this is a massive upgrade over the old grayscale set. The cream and green is unexpected for Baltimore, but it gives the City Connect its own identity instead of just being a darker version of the regular jersey. Tying it to Friday nights is smart. It gives fans a guaranteed day to see it and gives the new look a weekly stage. In a rotation that is otherwise loose, the Friday City Connect is the anchor.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbaltimore%2520orioles%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect on Fanatics →</a>
 
 ## The New Orange "B" Cap
 
@@ -170,13 +156,6 @@ Most fans coming to a "uniform schedule" page expect a clean grid like the one t
 There are upsides to a loose system. The alternates stay fresh because you cannot fully predict them, and the team keeps the flexibility to match a uniform to the moment. The trade-off is that you lose the "every Thursday" anticipation that makes the Phillies rotation so satisfying to follow. For now, if you are planning a trip to Camden Yards and you want a specific jersey, Friday is your safest bet for the new cream "BMORE" City Connect. Everything else is a pleasant surprise.
 
 Every jersey the Orioles wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Orioles games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

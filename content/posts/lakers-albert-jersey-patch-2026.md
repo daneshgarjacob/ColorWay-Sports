@@ -22,15 +22,6 @@ The Los Angeles Lakers have a new jersey patch, and it is the biggest change to 
 
 We will say it right up top: we like this look a lot more than Bibigo, and a lot more than Wish before it. The Albert patch is a clean purple wordmark that actually sits inside the Lakers' color world instead of fighting it, and on the gold Icon jersey it reads like it belongs there. After nine years of patches that mostly clashed, this is the first one that looks designed for the uniform rather than dropped onto it.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #efe7f7; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#552583" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Lakers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520lakers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #552583; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## Who Is Albert, the New Lakers Patch Sponsor?
 
 Albert is a personal-finance app, a "personal financial assistant" that automates saving, budgeting, and money management, and the company says it is trusted by more than 20 million people. It joins a wave of fintech and financial-services brands buying the most valuable few square inches in the NBA. The patch is small, but it lives on every broadcast, every highlight, and every jersey sold, which is exactly why the category keeps bidding these deals up. For Albert, landing on the Lakers, one of the most-watched teams on earth, is about as much national exposure as that little rectangle can buy.

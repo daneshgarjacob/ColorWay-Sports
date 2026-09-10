@@ -18,15 +18,6 @@ teams: ["atlanta-braves"]
 
 The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Braves wordmark for the bulk of home games at Truist Park. Road grays with the Atlanta script for most away games. A red alternate and a navy alternate splitting select weeknights. The new powder blue City Connect for Friday night home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Braves Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #CE1141 0%, #CE1141cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -95,13 +86,11 @@ The home whites are one of the most underrated primary uniforms in the National 
 
 For what the Braves have actually worn so far this season, day by day, see the [Braves uniform calendar](/mlb-tracker/braves).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Most Road Games)
 
 The road gray uniform with the Atlanta script across the chest is the away look for 2026. Same script Atlanta wordmark in navy with the red tomahawk underline, same red player numbers, gray base instead of white. The road grays mirror the home whites in lettering and trim, just with the city name color story translated onto the gray fabric. Cap is the all-navy road version with the script a logo. Every road game in 2026 stays in the grays unless an event or holiday tribute overrides the call.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Cream Alternate (Missing So Far in 2026)
 
@@ -111,19 +100,16 @@ The cream alternate is a 1966 throwback to Atlanta's first season after the move
 
 One Sunday is not proof, and we are not calling it retired. But treat the cream as a maybe rather than a scheduled weekly appointment until it actually turns up. The [Braves uniform calendar](/mlb-tracker/braves) is where it would show first.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
 
 ## Red Alternate (Select Weeknight Games)
 
 The red alternate is the colored jersey the Braves are actually putting on in 2026. Red base, "Braves" script in navy with a white outline, the tomahawk beside it, navy piping down the placket and around the sleeves. It gets pulled for select weeknight games to break up the run of whites and grays, and unlike the City Connect on Fridays it is not locked to a fixed day.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
 
 ## Navy Alternate (Select Weeknight Games)
 
 Atlanta's other weeknight alternate. Navy base carrying the same script, worn on the occasional midweek date — the Braves put it on for a Wednesday game on June 24. It shows up less often than the red does, so of the two colored jerseys the red is the one to expect on a given weeknight, with the navy the rarer sighting.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## City Connect (Friday Night Home Games)
 
@@ -134,7 +120,6 @@ The Braves City Connect uniform anchors Friday night home games at Truist Park i
 
 The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Datlanta%2520braves%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue City Connect on Fanatics →</a>
 
 ## Why This System Works
 
@@ -143,13 +128,6 @@ The Braves found a balance most MLB teams cannot pull off. The home whites and r
 The result is a closet that gives fans a new look on most days of a homestand without losing the visual through-line that ties every Braves uniform back to the Atlanta script and the red and navy palette. The Phillies and Marlins are the only other teams in baseball running a true scheduled rotation, and the Braves are right behind them. More teams should treat their uniform schedule the way Atlanta does.
 
 Every jersey the Braves wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Braves games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

@@ -61,15 +61,6 @@ On the road it is a gray set with "Cleveland" across the chest in the Bridge Pri
 
 It grades a B and beats the home whites for one reason: "Cleveland" is a much better word than "Guardians," and Bridge Print is a much better font than the script. The squared-off, slightly architectural lettering gives the road set a character the whites do not have, and it does the bridge reference in one confident move rather than the five the City Connect attempts. This is the quiet proof that Cleveland's rebrand works. The city name in the city's own font, and nothing else needed.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Guardians Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Red Alternate
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #E31937, #8c0f22); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a B and edges the grays on the strength of that font swap. Bridge Prin
 The 2025 overhaul gave the navy the biggest change of any jersey in the closet. Cleveland pulled the "Cleveland" wordmark off the chest entirely and replaced it with a large red "Diamond C," the franchise's primary logo, blown up and centred on a navy base with red-white-red piping and the navy cap. No fixed day, it is the dark road look the staff reaches for when the matchup calls for it.
 
 It grades an A-, the best thing Cleveland owns, and it wins by subtraction. Every other jersey in this closet is trying to solve the problem of putting a long team name on a chest. This one refused to play, threw the words away, and let the logo be the whole uniform. The Diamond C is a genuinely excellent mark, sharp and geometric and unmistakable, and blown up at chest scale in red on navy it hits from any seat in the building. It is also the exact opposite instinct to the City Connect: one idea, executed at full size, with nothing else competing. Four years into a rebrand, this is the jersey that finally looks like a team that knows who it is.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Navy Alternate.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520navy%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Guardians Jersey in 2026, at a Glance
 

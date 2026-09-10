@@ -61,15 +61,6 @@ Here is the jersey that defines the modern Angels: a bright red top with "Angels
 
 It grades a B, same as the home white, and it takes the higher spot because it is the jersey that actually looks like this franchise. That red is the whole brand, the same shade as the cap and the halo, and putting it on the full uniform gives the Angels a look nobody in the American League West can be confused with. What keeps it from climbing higher is how hard the team leans on it. A colored alternate is supposed to be a change of pace, and when it becomes the default it stops feeling like an occasion. Great jersey, worn so often that it has quietly turned into the uniform.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Angels Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Road Gray
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #6b7280, #2f3742); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a B+, the second-best jersey in the closet, and we will admit to some 
 This is the best jersey the Angels own and it is not close. A white V-neck pullover with red and navy striping around the collar and the sleeve cuffs, "Angels" across the chest in the block-serif lettering of the California Angels era with a halo ringing the "A", red numbers below it, and the state of California on the sleeve inside a gold halo. Everything about it is a callback, and every piece of it is doing something.
 
 It grades an A+. The V-neck pullover cut is the foundation, a silhouette almost nobody wears anymore, and it instantly separates this from the button-front sameness of the modern league. The collar and cuff striping gives the uniform trim in a place the current set leaves empty, the serif lettering has actual character where the modern script is merely neat, and the California sleeve patch ties the whole thing to a specific era instead of a generic vintage mood. It is the rare throwback that is not just nostalgia, it is genuinely a better-designed uniform than the one it is standing in for. The only bad thing about it is how rarely it comes out.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Throwback White.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520angels%2520throwback%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Angels Jersey in 2026, at a Glance
 

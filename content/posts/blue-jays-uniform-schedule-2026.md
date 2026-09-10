@@ -19,15 +19,6 @@ teams:
 
 The Toronto Blue Jays run six uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet doesn't follow a published day-of-week timetable. What it follows is a preference: the blues do most of the heavy lifting. Between the royal-blue alternate and the modern powder blue, Toronto spends the majority of its games in some shade of blue, leaving the whites, grays, the one-day red, and the City Connect to fill in around them. Here's the full Blue Jays wardrobe for 2026 and when each jersey actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Blue Jays Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #134A8E 0%, #134A8Ecc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -96,25 +87,21 @@ Here's the twist with Toronto: the alternate is really the default. The royal-bl
 
 For what the Blue Jays have actually worn so far this season, day by day, see the [Blue Jays uniform calendar](/mlb-tracker/blue-jays).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520royal%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
 
 ## Powder-Blue Alternate (The Fan Favorite)
 
 The powder blue is the one fans buy. Toronto's modern version, introduced before the 2020 season, is a soft sky-blue jersey with navy-white-navy serifed split lettering and numerals — a nod to the powder-blue road sets the club wore on and off since 1977 — paired with a navy cap. It was the second-most-worn uniform in 2025 and got a national spotlight during Toronto's run to the 2025 World Series, which only cemented its status. It's nostalgic without being a literal throwback, and it's comfortably the most beloved look the team owns. Between this and the royal blue, some shade of blue covers the large majority of the Blue Jays' calendar.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue alternate on Fanatics →</a>
 
 ## Home Whites (Select Home Games)
 
 The home white is the classic, but at Rogers Centre it's used more sparingly than you'd expect — the blues simply get more run. It's a crisp white jersey with the "Blue Jays" logo on the chest in royal blue, navy trim, player names on the back, and the navy cap with the bird-and-leaf mark. It's the look that says "ballgame at home" in the most traditional sense, and it remains a clean, timeless template. It just isn't the everyday home uniform here the way whites are for most clubs; in Toronto, it shares the homestand with two different blues.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Select Away Games)
 
 On the road, Toronto wears the standard gray set with "Toronto" across the chest in the team's navy-white-navy split lettering, names on the back, and the all-navy cap. It's frequently called one of the best gray road uniforms in baseball — understated, well-proportioned, and unmistakably Blue Jays. But like the whites, it gets out-snapped by the royal blue on the road, so it's a select-game look rather than the automatic travel uniform. When it does appear, it's a reminder of how good a simple, classic gray can look.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Red Canada Day Uniform (July 1 Only)
 
@@ -125,13 +112,11 @@ Once a year, the closet turns red. For Canada Day, the Blue Jays swap the blues 
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520canada%2520day%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Canada Day jersey on Fanatics →</a>
 
 ## "Night Mode" City Connect (Home Night Games)
 
 Yes — the Blue Jays do have a City Connect, and it's one of the moodier entries in the program. Unveiled in 2024, the "Night Mode" kit is built on a deep "pitch blue" inspired by Lake Ontario after dark, with an illustration of the Toronto skyline running across the chest in brighter blue and red, centered by a red "Toronto" wordmark and a uniform number on the front — the first time "Toronto" had appeared on the home chest in two decades. The cap is pitch blue with a stylized red-and-blue split "T," a nod to the pillars of Toronto City Hall, and for 2026 it's where the 50th-season mark lives. By design, the City Connect only comes out for home night games, where the dark palette plays best under the lights. It's specific, it's atmospheric, and it's unmistakably Toronto after sundown.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtoronto%2520blue%2520jays%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Night Mode City Connect on Fanatics →</a>
 
 ## How the Blue Jays Rotation Actually Works
 
@@ -142,13 +127,6 @@ It still works, because the looks fans care about get plenty of air. The two blu
 One more note, since fans often ask: the Blue Jays *do* carry a jersey advertising patch — the **TD Bank** mark they've worn on the left sleeve since 2023, which remains in place for 2026. It's joined on the right sleeve by the **50th season** commemorative patch across the set — and on the City Connect, that 50th mark moves up to the cap.
 
 Every jersey the Blue Jays wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Blue Jays games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

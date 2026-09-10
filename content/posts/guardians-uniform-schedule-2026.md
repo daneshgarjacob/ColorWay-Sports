@@ -19,15 +19,6 @@ teams:
 
 The Cleveland Guardians carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's really one soft anchor — the navy "CLE" City Connect that owns Friday nights at Progressive Field — while everything else is manager's choice, with the whites and grays doing the day-to-day work and the two color tops dropped in when the staff wants a jolt. Here's the full Guardians wardrobe for 2026 and when each jersey actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Guardians Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #00385D 0%, #00385Dcc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -96,25 +87,21 @@ The Guardians carry five uniforms in 2026, and the set itself is unchanged from 
 
 The home white is Cleveland's signature look: a clean white jersey with "Guardians" arched across the chest in red script outlined in navy, red-navy-red piping on the collar and sleeves, and player names and numbers on the back. The 2025 refresh leveled the script from its old upward slant to a straight horizontal line and paired it with the new home cap — a red crown, navy bill, and navy "Diamond C" that only comes out with the whites. It's the default for the bulk of every homestand, essentially any home game that isn't claimed by the Friday City Connect or handed to the red alternate. Understated, modern, and exactly what a home flannel should be after a brand reset.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
 On the road, the Guardians wear the standard gray set with "Cleveland" across the chest in the team's Bridge Print font — a nod to the Hope Memorial Bridge that anchors the whole identity — rendered in red and trimmed to match, with the same red-navy-red piping as the home set, player names on the back, and the navy cap with the red "Diamond C." It's the workmanlike default for most away games, the look that lets the home club's colors be the star. Nothing flashy, and it doesn't need to be.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Red Alternate (Home Alternate)
 
 The red alternate is one of the two color tops the staff reaches for when they want a splash. It's a red jersey with "Guardians" across the chest — the chest lettering switched from a cursive script to the squared-off Bridge Print font in 2025 — outlined to read cleanly, with navy-white-navy piping on the collar and sleeves and the navy cap. There's no fixed day attached to it; it's mostly a home alternate the Guardians drop in across the homestand when they feel like color. Pairing the pop of red with a weekday home game gives the slate its own little highlight.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
 
 ## Navy Alternate (Road Alternate)
 
 The navy alternate is the other wild card, and the 2025 overhaul gave it the biggest change of any jersey in the closet. Cleveland pulled the "Cleveland" wordmark off the chest entirely and replaced it with a large red "Diamond C" — the franchise's primary logo, blown up and centered — set on a navy base with red-white-red piping and the navy cap. There's no day-of-week assignment behind it; it's the jersey the Guardians lean on for a dark road look when the matchup calls for it. Letting the logo carry the whole chest is a bold, graphic choice, and it makes the navy top instantly distinct from everything else they own.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## City Connect — The "CLE" Bridge Kit (Friday Home Games)
 
@@ -125,7 +112,6 @@ The City Connect, unveiled in May 2024, is the most conceptually loaded jersey t
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcleveland%2520guardians%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the CLE Bridge City Connect on Fanatics →</a>
 
 ## How the Guardians Rotation Actually Works
 
@@ -134,13 +120,6 @@ Let's be straight about it: the Guardians are not a scheduled-rotation team the 
 It still works, because the anchor covers the jersey fans actually plan around. The City Connect is the look people buy tickets and merch for, so handing it a standing Friday night builds anticipation even without a rigid system. The whites and grays are perfectly content to handle the quiet weekday work in between, and the two color tops keep their event feel precisely because they aren't pinned to the calendar.
 
 One more constant across all five: every Guardians jersey carries the **Marathon** advertising patch on the sleeve. The Endurance logo of the Ohio-based fuel-and-convenience brand first appeared in July 2023, making Cleveland one of the early MLB clubs to sell jersey-patch space, and the deal runs on through the end of the 2026 season.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Guardians games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

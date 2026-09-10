@@ -16,15 +16,6 @@ teams: ["los-angeles-chargers"]
 
 The Chargers did the thing we wish every team would do: on September 1 they published the entire 2026 uniform schedule, jersey and pants, for all 17 games. No projections needed anymore. Powder blue gets five of the eight home dates, the white road set covers eight of the nine away games, and the four alternate games we already knew about hold their spots: three all-navy Super Chargers nights at SoFi and the gold Charger Power trip to Tampa. Even the pants are locked in, and the pants are where this schedule gets interesting, because Los Angeles runs three different pant colors under each of its base jerseys. Here is the full Los Angeles Chargers 2026 uniform schedule, week by week, combo by combo.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #d9eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0080C6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Chargers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Powder blue, navy, and the gold alternate, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #0080C6; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Alternate Uniform Games
 
 The four alternate dates the team announced over the summer are unchanged in the full release. Three are the navy Super Chargers set at home, and one is the gold Charger Power jersey on the road.
@@ -75,7 +66,6 @@ The set is a modern throwback to the navy jerseys the franchise wore from 1992 t
 
 Three wearings is also the maximum most teams get out of an alternate, and the Chargers spent all three on high-visibility dates: a division rival to close the year, a national Sunday night window, and a Houston team that will be in white. That is good scheduling.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy jersey on Fanatics →</a>
 
 ## Charger Power Gold (Week 13 at Buccaneers, Confirmed)
 
@@ -85,7 +75,6 @@ It also answers a question people ask about this jersey every year. A visiting t
 
 Charger Power is the all-gold jersey the team introduced in 2025 as a nod to the Air Coryell era, and it debuted that October against the Colts. Gold is a genuinely hard jersey color to pull off, and most attempts read as a costume or a practice top. This one survives because the powder blue numerals and bolts give the eye somewhere to land.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the gold jersey on Fanatics →</a>
 
 ## Powder Blue at Home (Five Games, Three Different Pants)
 
@@ -96,7 +85,6 @@ Powder blue is the franchise's best asset and it gets the five home dates not cl
 
 Now the part the team finally answered: the pants. All three pant colors show up under the powder jersey, and the splits are official. The classic powder-over-white combination, the definitive Chargers look in our book, appears exactly once, and the team saved it for opening day against Arizona. The monochrome powder-on-powder set runs twice, in Week 5 against Denver and Week 11 against the Jets. And the gold-pant combination, the loudest and most divisive of the three, also runs twice, in Week 2 against the Raiders and the Thursday night Week 15 game against San Francisco. If you only make it to one game at SoFi this year and you care how the home team looks, Week 1 is the ticket.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue jersey on Fanatics →</a>
 
 ## The White Road Set (Eight Games, Three Different Pants)
 
@@ -109,7 +97,6 @@ The road pants split three ways, and the best version got the most dates it coul
 
 Three of those dates are worth flagging on the opponent's side. Baltimore has since named the Week 10 Monday nighter its Darkness Falls game, black to the floor with the matte black helmet, per the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026), so the Chargers' white jersey and powder pants will be the only light thing on the field that night. Week 3 at Buffalo is the Bills' Nickel City game, their new all-gray set with the metallic blue helmet, which we broke down in the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026). And Week 8 at the Rams is the strangest road game in football: the Chargers walk into their own stadium as the visitors, so they are in white at SoFi while the [Rams wear their royal home set](/stories/rams-uniform-schedule-2026).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Chargers Rotation Works in 2026
 

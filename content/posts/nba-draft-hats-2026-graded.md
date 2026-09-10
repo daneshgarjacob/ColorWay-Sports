@@ -20,15 +20,6 @@ New Era just dropped the official 2026 NBA Draft hats, the same caps AJ Dybantsa
 
 It is a sharp turn from the chrome-logo look of recent draft hats, and whether it lands comes down almost entirely to one thing: how a team's logo translates into crystals on a black crown. We graded all 30.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop the 2026 NBA Draft hats</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Official New Era caps for all 30 teams, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2520nba%2520draft%2520hat" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Design: Rhinestones and a Chain Pin
 
 Every 2026 NBA Draft cap is built on the same template, so the format is worth understanding before we grade. The crown is black. The brim is black. The team's primary logo sits on the front panel rendered entirely in rhinestones, outlined in white embroidery so it holds its shape. A small silver chain pin charm hangs off the left-wear side, the same jewelry-night nod that runs through the whole collection. The New Era flag sits on the right.
@@ -293,7 +284,7 @@ It is a small silver charm on a short chain that hangs off the left side of the 
 
 **Where can I buy the 2026 NBA Draft hats?**
 
-The full set of 2026 NBA Draft 59FORTY caps for all 30 teams is available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2026%2520nba%2520draft%2520hat). Most teams also offer 9FIFTY snapback and adjustable versions of the same design.
+The full set of 2026 NBA Draft 59FORTY caps for all 30 teams is available at Fanatics. Most teams also offer 9FIFTY snapback and adjustable versions of the same design.
 
 ## The Bottom Line on the 2026 NBA Draft Hats
 

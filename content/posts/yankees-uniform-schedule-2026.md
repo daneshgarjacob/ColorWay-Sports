@@ -20,15 +20,6 @@ teams: ["new-york-yankees"]
 
 The New York Yankees have the simplest uniform schedule in Major League Baseball. Home pinstripes for every home game, road grays for every road game, and for the first time in franchise history, a navy alternate road jersey sitting in the closet that the Yankees have not yet pulled out for a regular season game. That is the entire 2026 rotation. While most teams cycle four or five different looks across a homestand, the Yankees treat their uniform schedule like a binary switch. Home or road. White or gray. Nothing else.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Yankees Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #0C2340 0%, #0C2340cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -97,7 +88,6 @@ The home pinstripes are the most iconic uniform in all of professional sports. W
 
 The Starr Insurance corporate patch on the right sleeve is the only modern addition to the look, and the team kept the patch placement and sizing as restrained as possible to not interrupt the classic balance of the jersey. Cap is the navy New Era 59FIFTY with the interlocking NY in white. Belt is black, stirrups are navy with white piping. Every detail is locked in.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
 
 ## Road Gray (Every Road Game)
 
@@ -105,7 +95,6 @@ The road gray uniform is the only thing the Yankees wear when they are not at ho
 
 Yankees road grays are the closest thing in baseball to a uniform that does not need to update. The gray is slightly warmer than most road sets in the league, the NEW YORK wordmark sits in perfect proportion to the chest, and the back of the jersey reads cleaner without a name plate than every other team in the league. Every road game in 2026 is the road grays. No exceptions.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Navy Alternate (Sitting in the Closet)
 
@@ -116,7 +105,6 @@ The navy blue alternate road jersey is the first alternate uniform in the 123-ye
 
 As of the date of this post, the Yankees have not worn the navy alternate in a 2026 regular season game. We hope they never do. The Yankees are the Yankees because of what they refuse to wear, not because of what they allow. Home pinstripes and road grays are the entire visual identity that has built the brand for over a century, and adding a third regular season uniform erases part of that distinction. The full breakdown of why the navy alternate exists and why it should stay on the rack is in our [Yankees first alternate uniform deep dive](/stories/yankees-first-alternate-uniform-2026).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## Why the Yankees Schedule Looks the Way It Does
 
@@ -125,13 +113,6 @@ Most MLB teams have four or five uniforms in active rotation across a season, wi
 The Yankees do the opposite. The team has never participated in the City Connect program. The team did not wear Players' Weekend nicknames in 2019 when the rest of the league did. The team has never worn Turn Ahead the Clock or Negro Leagues throwback alternates. The team's All-Star patch placement and World Series patches are the only seasonal additions the franchise allows. The Yankees uniform schedule is a deliberate choice to keep the visual identity locked in across decades.
 
 A child watching a Yankees game in 2026 sees the same look on Aaron Judge that their grandparents saw on Mickey Mantle. That continuity is the brand. The simplicity of the schedule is the schedule.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Yankees games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

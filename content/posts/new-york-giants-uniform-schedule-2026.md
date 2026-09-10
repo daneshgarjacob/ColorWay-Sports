@@ -19,15 +19,6 @@ The Giants published their full 2026 uniform schedule on September 2, and the th
 <img src="/images/posts/new-york-giants-uniform-schedule-2026/schedule-announcement.jpg" alt="New York Giants 2026 uniform schedule announcement graphic showing the four uniforms for the season: Legacy Blue, white, blue, and Vintage White, with players in each set" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: New York Giants</p>
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e2e8f7; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0B2265" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Giants Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Giants jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520giants%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #0B2265; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Giants Uniform Schedule, Week by Week
 
 Seventeen games, four uniforms: royal blue eight times, white five times, Legacy Blue twice, Vintage White twice, and a Week 8 bye. Every cell below is confirmed by the team's September 2 announcement, presented by Panini.
@@ -68,7 +59,6 @@ It is the best thing in the Giants' closet and it is not particularly close. The
 
 The second date is the welcome addition. Last year the Legacy set was worn for the 49ers game as well, so December 6 is the club keeping a good habit rather than starting a new one, and a home game against San Francisco is an appropriate stage for it. Two wearings is still fewer than this uniform deserves. If we had the pen, the Legacy set would be the primary.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520giants%2520legacy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Legacy throwback on Fanatics →</a>
 
 ## Vintage White (Weeks 9 and 10, Confirmed)
 
@@ -87,7 +77,6 @@ That is the best-dressed game on the Giants' 2026 calendar and one of the best i
 
 Four days later the same set gets a national Thursday night against Washington, whose own schedule has the Commanders in burgundy for that trip. Vintage White under the MetLife lights against burgundy and gold is a strong colour pairing, and it is the kind of prime-time slot the league likes to give Color Rush looks. We would happily take four Vintage White games instead of two, but two, back to back, in a rivalry week and on a national Thursday, is the right way to use it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520giants%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white Giants jersey on Fanatics →</a>
 
 ## Royal Blue (8 Games, Including Two on the Road)
 
@@ -98,7 +87,6 @@ The blue jersey with white pants covers six home dates and two road games. At ho
 
 The two road games are the interesting part. **Week 5 at Washington on October 11** is blue because the Commanders have made white their most-used jersey this year and wear it at home against the Giants. **Week 17 at Dallas on January 3** is blue because Dallas wears white at home by tradition, which is the one road trip in the league where a visitor can always choose colour. We had that game flagged as the open date back in August, and blue on white at AT&T Stadium is one of the better looks the division produces. It is good to see New York take it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520giants%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue Giants jersey on Fanatics →</a>
 
 ## White (5 Games, All on the Road)
 

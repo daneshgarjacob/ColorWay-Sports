@@ -88,7 +88,6 @@ But "not the best combination Florida owns" is very different from "bad," and th
 <img src="/images/posts/gators-blue-helmet-uniforms-2026/all-blue-full.jpg" alt="Full-length view of the Florida Gators all-blue uniform combination of blue helmet, blue jersey and blue pants, with orange and white accents" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Florida Gators Football</p>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dflorida%2520gators%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop Florida Gators jerseys on Fanatics →</a>
 
 ## Where This Fits in Florida's 2026 Wardrobe
 

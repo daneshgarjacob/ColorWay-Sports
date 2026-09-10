@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useMemo } from "react";
 import {
-  YEARS, GRADES, GRADE_GRADIENT, logoSrc, encodeGrades, decodeGrades, fanaticsSearch,
+  YEARS, GRADES, GRADE_GRADIENT, logoSrc, encodeGrades, decodeGrades,
   type Grade, type CwGrade, type LogoYear,
 } from "@/lib/wsLogos";
 
@@ -206,12 +206,6 @@ export default function WorldSeriesLogoGrader({ shared }: { shared?: string }) {
                 fontSize: 17, fontWeight: 900, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>{current.cwGrade}</span>
             </div>
 
-            <a href={fanaticsSearch(`${current.year} world series`)} target="_blank" rel="sponsored noopener" data-fanatics-cta
-              style={{ display: "block", marginTop: 12, padding: "12px 0", borderRadius: 999, textAlign: "center",
-                background: "linear-gradient(135deg, #C8102E 0%, #8B0000 100%)", color: "#fff", fontWeight: 800, fontSize: 13,
-                letterSpacing: "0.06em", textTransform: "uppercase", textDecoration: "none", boxShadow: "0 4px 14px rgba(200,16,46,.35)" }}>
-              Shop {current.year} World Series gear
-            </a>
 
             <div style={{ display: "flex", gap: 10, marginTop: 12 }}>
               <button

@@ -18,15 +18,6 @@ Most teams dribble their uniform news out one week at a time. The Bills did the 
 
 For our grades on the new gray set and the blue Charge helmet, see the [Bills Nickel City uniforms breakdown](/stories/bills-nickel-city-uniforms-revealed-2026).
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00338D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Bills Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Nickel City, Cold Front, and more, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #00338D; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Bills Home Uniform Schedule
 
 All eight home games, straight from the team. This is the part nobody has to guess at.
@@ -80,7 +71,6 @@ The new gray set gets two dates, and the pairing is smart. It debuts in Week 3 a
 
 Putting the second wearing in a Saturday night December game in Buffalo is the correct instinct. If there is snow on the field, the gray reads as industrial rather than flat, which is exactly the argument the uniform is making.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520nickel%2520city%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Nickel City alternate on Fanatics →</a>
 
 ## Cold Front (Rivalries, 1 Game, Confirmed)
 
@@ -91,7 +81,6 @@ The all-white Cold Front uniform, Buffalo's entry in the NFL Rivalries program a
 
 One wearing only is the frustrating part. Cold Front is the highest-graded uniform Buffalo owns and it comes out once.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Cold Front Rivalries jersey on Fanatics →</a>
 
 ## Red Alternate (Week 18, Confirmed)
 
@@ -100,7 +89,6 @@ One wearing only is the frustrating part. Cold Front is the highest-graded unifo
 
 The Bills close the regular season in red against the New York Jets, a home finale carrying the Play 60, Coach of the Week, and high school tackle celebrations. The red jersey is the loudest thing in the closet and it is the right call for a season-ending home game against a division rival. The date has not been set, since the league holds Week 18 for flexible scheduling, so this one moves.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red alternate on Fanatics →</a>
 
 ## Blue Primary (4 Home Games, Confirmed)
 
@@ -109,7 +97,6 @@ The Bills close the regular season in red against the New York Jets, a home fina
 
 The blue jersey remains the base, and it draws the four biggest non-alternate home dates on the calendar: the Week 2 home opener against the Detroit Lions on Thursday, September 17, which is also the first regular-season game at the new Highmark Stadium, then Crucial Catch against the New England Patriots in Week 4, Native American Heritage against the Baltimore Ravens in Week 8, and Thanksgiving night against the Kansas City Chiefs in Week 12. Royal blue over white with the white helmet is the look most people picture when they picture the Bills, and the team clearly wanted it for the moments that matter most. Opening a new stadium in it is the tell.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue primary jersey on Fanatics →</a>
 
 ## The White Road Set (8 Games, Expected)
 
@@ -122,7 +109,6 @@ The exception is the opener. Houston has confirmed it will wear its **Liberty Wh
 
 Two road dates are worth circling. Week 16 is Christmas Day at Denver on Netflix, where the white set is paired with the **red helmet**, confirmed by the team on August 25 and covered in full below. Week 17 is January 3 at Miami, which is the game the Dolphins have set aside for their near-black Dark Water Rivalries uniform. We covered [why Dark Water divides opinion](/stories/dolphins-dark-water-rivalries-bills-january-2027) separately, and a white-clad Buffalo across from it should be one of the better-looking broadcasts of the season.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dbuffalo%2520bills%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The Red Helmet Is Confirmed: Christmas Day at Denver (Week 16)
 
@@ -137,12 +123,10 @@ We had this game flagged as the likely landing spot before it was announced, for
 The combination is the part worth getting excited about. White jersey, white pants, red helmet is the cleanest way this franchise can dress. The all-white body gives the shell nothing to compete with, so the red reads as the only real color on the field, and it is a straight line back to the 1984 to 2010 helmet that a generation of Bills fans grew up on. It is also the second straight season Buffalo has reached for it after last year's Highmark Stadium farewell against the Jets, which is starting to look less like a one-off and more like a tradition the team is deliberately building.
 
 <div style="margin: 2em auto; max-width: 520px; padding: 2em; background: linear-gradient(135deg, #C60C30, #00338D); border-radius: 16px; text-align: center; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.06; background: repeating-linear-gradient(45deg, transparent, transparent 20px, #fff 20px, #fff 22px);"></div>
-  <div style="position: relative; z-index: 1;">
+    <div style="position: relative; z-index: 1;">
     <div style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.7); margin-bottom: 0.5em;">Combination Grade</div>
     <div style="font-family: Inter, sans-serif; font-weight: 900; font-size: 4em; color: #ffffff; line-height: 1; margin-bottom: 0.1em; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">A+</div>
-    <div style="width: 60px; height: 3px; background: rgba(255,255,255,0.4); margin: 0.5em auto 1em; border-radius: 2px;"></div>
-    <div style="font-family: Inter, sans-serif; font-size: 0.75em; color: rgba(255,255,255,0.7); line-height: 1.5;">
+        <div style="font-family: Inter, sans-serif; font-size: 0.75em; color: rgba(255,255,255,0.7); line-height: 1.5;">
       White Over White With the Red Shell.<br/>The Best This Franchise Can Dress.
     </div>
   </div>

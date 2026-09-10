@@ -16,15 +16,6 @@ teams: ["new-york-jets"]
 
 The Jets have confirmed three uniform games for 2026, and the first one is the most interesting thing they have done with their look in years. A brand-new all-white helmet comes out of the box in Week 2 for a full White Out against Green Bay. The Classic uniform gets a October date against Miami. And the Gotham City Football Rivalries jersey returns to close the home schedule against New England. Here is the full New York Jets 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the green home set and the white road set.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e4f1ea; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#125740" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Jets Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Gotham Green, white, and the throwbacks, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #125740; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Jets Uniform Games
 
 These three are officially set by the Jets as part of their 2026 home game themes. All three are at MetLife Stadium.
@@ -69,7 +60,6 @@ This is the one to circle. The Jets are debuting a new alternate helmet for the 
 
 The Jets are also asking the crowd to wear white, with white towels handed out at the gates. Monochrome looks are easy to get wrong, but the Jets have the palette for it, and an all-white kit under a September afternoon at MetLife should photograph as cleanly as anything they own. Worth noting the new shell is a separate piece from their throwback white helmet, which carries green striping and a gray facemask.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white jersey on Fanatics →</a>
 
 ## Classic (Week 7 vs. Dolphins, Confirmed)
 
@@ -77,7 +67,6 @@ The Jets have confirmed the Classic uniform for their First Responders Appreciat
 
 The team has not detailed the full combination for that afternoon, so treat the jersey as confirmed and the pants as a game-week decision. Pinning a throwback to the Dolphins game is a good instinct: an old-school divisional matchup is exactly where a heritage uniform earns its afternoon.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Jets throwback on Fanatics →</a>
 
 ## Gotham City Rivalries (Week 16 vs. Patriots, Confirmed)
 
@@ -85,7 +74,6 @@ The Gotham City Football uniform is the Jets' entry in the NFL x Nike Rivalries 
 
 Closing the home schedule with it is the right call. A Jets-Patriots December date at MetLife is the exact matchup the program was built to dress up, and there is a Rivalries giveaway attached. For the wider background, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Gotham City Rivalries jersey on Fanatics →</a>
 
 ## Gotham Green (The Home Base, Expected)
 
@@ -93,13 +81,11 @@ The green home jersey is still the foundation, and it projects to the four home 
 
 Gotham Green remains one of the more distinctive base colors in the league. Nobody else in the NFL is wearing that shade, and in a conference full of blue and red it reads instantly on broadcast.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Gotham Green jersey on Fanatics →</a>
 
 ## The White Road Set (Expected)
 
 The white road uniform is the workhorse and projects to eight of the nine away games: at the Titans, Lions, Bears, Patriots, Chiefs, Chargers, Dolphins, and the Week 18 trip to Buffalo. The exception is Week 15 at Arizona, where the Cardinals' published uniform schedule has them in white at home, which puts the Jets in Gotham Green on the road. That is the standard convention rather than an announcement, and there is one wrinkle worth knowing about. A visiting team can only bring a colored jersey when the home team wears white, so the Jets are in white on the road unless a host specifically goes white at home.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets%2520white%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Jets Rotation Works in 2026
 

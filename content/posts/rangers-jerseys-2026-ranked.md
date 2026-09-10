@@ -61,15 +61,6 @@ The powder blue is the fan favorite and it owns Sunday home games. It runs the s
 
 It grades a B+, and this is the one we genuinely enjoy. The soft blue base does exactly what the plain white could not: it gives the red trim something to play against and gives the whole uniform a personality before you have even read the chest. The club actually considered moving it off Sundays and thought better of it once fans made their preference clear, which tells you plenty. On a sunny afternoon at Globe Life Field it is the best-looking thing in the building, and it climbs above both B- looks on the strength of that color alone.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Rangers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%2520rangers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Road Gray
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #6b7280, #2f3742); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades an A-, and the pants are a big part of why. This is a uniform that wor
 The royal blue alternate is the wild card and the best jersey Texas owns. It is a bright royal-blue top carrying the same "TEXAS" wordmark as the road grays, worn with standard gray road pants and the blue cap. There is no fixed day attached to it. It is the jersey the Rangers reach for when they want a jolt of color away from home, and it turns up fairly often across a full season without ever being scheduled.
 
 It grades an A-, and it takes the top spot because it is the look we have always liked most. Royal blue is the color this franchise is actually built on, and seeing it as the base of a jersey rather than as trim on someone else's is the most confident the Rangers ever look. It carries the same wordmark as the road gray, but a saturated blue field does more for that lettering than gray or white ever could. The absence of a set schedule is the final piece: because it is the manager's call rather than a standing Tuesday, it keeps a little event energy every time it shows up. The best thing in the closet, and it is not the one with the biggest story attached.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Royal Blue Alternate.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtexas%2520rangers%2520royal%2520blue%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Rangers Jersey in 2026, at a Glance
 

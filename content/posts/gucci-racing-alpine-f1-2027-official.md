@@ -65,7 +65,7 @@ This is why the May 2026 rumors moved from "possible" to "very likely" almost ov
 
 BWT turned the Alpine F1 car pink starting in 2022 and the polarizing pink and blue combination has been one of the most instantly recognizable liveries on the grid ever since. Whether you loved it or hated it, you could always find the Alpine on a broadcast. That kind of on-screen visibility is genuinely rare for a midfield team that has not regularly contended for wins.
 
-The 2026 A526 is the final BWT-era Alpine F1 car. The hot pink, the BWT blue side panels, the entire pink-and-blue color story disappears at the end of this season. Anyone hunting for an A526 1:43 model or a 2026 Alpine F1 team kit should be doing it now, because the BWT colorway officially becomes a closed chapter of F1 history the moment the 2026 season ends in Abu Dhabi. <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dalpine%2520f1%2520team" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="color: #0054A6; font-weight: 700; text-decoration: underline;">Shop Alpine F1 team gear on Fanatics</a> while the BWT-era look is still on shelves.
+The 2026 A526 is the final BWT-era Alpine F1 car. The hot pink, the BWT blue side panels, the entire pink-and-blue color story disappears at the end of this season. Anyone hunting for an A526 1:43 model or a 2026 Alpine F1 team kit should be doing it now, because the BWT colorway officially becomes a closed chapter of F1 history the moment the 2026 season ends in Abu Dhabi.while the BWT-era look is still on shelves.
 
 ## The Bigger Picture: Fashion Houses Are Coming for Formula One
 

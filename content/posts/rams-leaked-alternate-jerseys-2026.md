@@ -46,10 +46,6 @@ The one thing keeping this from a perfect score is the lettering. The numbers ca
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">The Best New Jersey In The Reveal</p>
 </div>
 
-<div style="text-align: center; margin: 1.35em 0 0.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #2f6bed; color: #ffffff; font-size: 0.85em; font-weight: 800; padding: 11px 24px; border-radius: 999px; text-decoration: none; letter-spacing: 0.8px; text-transform: uppercase;">Shop the Fearsome White at Fanatics →</a>
-</div>
-
 ## Classic Sol: The Gold Throwback That Won Us Over
 
 We were less excited about the yellow one going in, and it won us over anyway. **Classic Sol** honors the 1951 World Champions Los Angeles Rams, layering "Rams Royal" satin materials onto the "Sol" gold chassis for a premium, throwback feel. The original multi-striped white pants make a return to complete the look, and the sleeve striping pays homage to the traditional three-stripe color blocking of the era, a detail that intentionally rhymes with the Rams' Coliseum ally, the USC Trojans.
@@ -72,10 +68,6 @@ The helmet here is the standard Rams shell with the "RAMS" bumper, and the gold-
   <p style="font-size: 0.8em; color: #FFD100; margin: 0 0 0.35em; text-transform: uppercase; letter-spacing: 2px; font-weight: 700;">Classic Sol</p>
   <p style="font-size: 3.6em; font-weight: 900; color: #FFD100; margin: 0; line-height: 1;">B-</p>
   <p style="font-size: 0.9em; color: #ffffff; margin: 0.5em 0 0; letter-spacing: 0.5px;">A Warm, Nostalgic Throwback</p>
-</div>
-
-<div style="text-align: center; margin: 1.35em 0 0.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #2f6bed; color: #ffffff; font-size: 0.85em; font-weight: 800; padding: 11px 24px; border-radius: 999px; text-decoration: none; letter-spacing: 0.8px; text-transform: uppercase;">Shop the Classic Sol at Fanatics →</a>
 </div>
 
 ## Every 2026 Rams Uniform, Graded
@@ -124,9 +116,7 @@ If it were up to us, the Fearsome White would get two dates and the Classic Sol 
 
 <div style="margin: 1.75em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #003594 0%, #1A4DB3 100%); border-radius: 16px; text-align: center; border: 2px solid #FFD100;">
   <p style="font-size: 1.15em; color: #ffffff; font-weight: 800; margin: 0 0 0.9em;">Both new alternates are available now.</p>
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520rams%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #FFD100; color: #003594; font-size: 1em; font-weight: 900; padding: 13px 30px; border-radius: 999px; text-decoration: none; letter-spacing: 0.5px; text-transform: uppercase;">Shop Rams Jerseys at Fanatics →</a>
-  <p style="font-size: 0.72em; color: #cdd9f0; margin: 1em 0 0;">ColorWay Sports may earn a commission on purchases made through these links, at no extra cost to you.</p>
-</div>
+  </div>
 
 ## The Bottom Line on the Rams' New Alternate Uniforms
 

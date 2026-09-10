@@ -16,15 +16,6 @@ teams: ["green-bay-packers"]
 
 Green Bay is getting a new uniform this year, and now we have seen all of it. The Packers are part of the 2026 Rivalries wave alongside the rest of the NFC North, and their set arrived at the league-wide reveal on August 25: a vintage 1919-inspired look with a cream matte helmet, the old interlocking GB logo, and a debut confirmed for **Week 5 against the Bears on October 11**. Here is the Packers 2026 uniform schedule week by week, with the new uniform where it lands.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#203731" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Packers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Packers jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #203731; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Packers Uniform Schedule, Week by Week
 
 Nine home games, eight on the road, and a Week 11 bye.
@@ -82,7 +73,6 @@ The debut is **Week 5 against the Bears, Sunday, October 11 at 3:25 CT at Lambea
 
 Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Packers Fans Get Two Rivalries Looks This Year
 
@@ -96,13 +86,11 @@ The green jersey with gold pants is one of the two or three least-changed unifor
 
 There is not much to say about it that has not been said. The dark green and gold combination is unmistakable, the numbers are legible, and the whole thing looks better in bad weather than almost anything else in the league, which is convenient given where it is worn in December.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the green home jersey on Fanatics →</a>
 
 ## Classic White (The Road Set)
 
 White jersey, gold pants, for six of the eight road games. The two exceptions are both set by the home team: **Week 2 at the Jets on September 20**, where New York has confirmed its White Out game, and **Week 12 at the Rams on November 25**, where Los Angeles has confirmed the Fearsome White alternate. Two clubs cannot both wear white, so Green Bay wears the green jersey in both, which puts the home set on the road twice. Add **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set and three of Green Bay's road trips this year are somebody else's uniform showcase.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dgreen%2520bay%2520packers%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The 1923 Throwback Is Back for 2026
 

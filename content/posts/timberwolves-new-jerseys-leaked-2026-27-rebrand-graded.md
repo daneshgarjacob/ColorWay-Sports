@@ -98,10 +98,6 @@ The Timberwolves rebrand delivers on every signal the franchise has been sending
 
 The Timberwolves rebrand is the throwback-as-the-future identity reset the league has trended toward over the past three seasons and the version we have been hoping the Wolves would commit to since the leaked logos dropped. A+. The full Timberwolves rebrand is one of the strongest single uniform reveals of the 2026-27 NBA season cycle and a textbook example of an NBA franchise pulling its identity back from a muted direction to the brighter, more saturated colors that built the brand.
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Timberwolves Jerseys on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **When are the new Timberwolves jerseys officially revealed?**
@@ -130,7 +126,7 @@ Yes. Anthony Edwards and the rest of the Minnesota Timberwolves roster will wear
 
 **Where can I buy the new Timberwolves jerseys?**
 
-The new 2026-27 Minnesota Timberwolves jerseys will be available at Fanatics following the team's official June 7 reveal. Shop the [Minnesota Timberwolves jersey collection on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves) for current jerseys, throwbacks, and Hardwood Classic editions ahead of the new uniform drop.
+The new 2026-27 Minnesota Timberwolves jerseys will be available at Fanatics following the team's official June 7 reveal. Shop the Minnesota Timberwolves jersey collection on Fanatics for current jerseys, throwbacks, and Hardwood Classic editions ahead of the new uniform drop.
 
 **Where can I find more Minnesota Timberwolves coverage?**
 

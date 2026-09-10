@@ -42,10 +42,6 @@ It misses a perfect score on two small things. It could have been more colorful 
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; color: #00c864;">Hat Grade: A</p>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhurricanes%2Bstanley%2Bcup%2Bchampions%2Bhat" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the Hurricanes Champions Hat on Fanatics</a>
-</div>
-
 ## Carolina Hurricanes 2026 Stanley Cup Champions T-Shirt
 
 <div style="margin: 2em 0; text-align: center;">
@@ -58,10 +54,6 @@ It lands at A- rather than higher because the heather-gray base still anchors it
 
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; color: #00c864;">Shirt Grade: A-</p>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhurricanes%2Bstanley%2Bcup%2Bchampions%2Bshirt" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the Hurricanes Champions Shirt on Fanatics</a>
 </div>
 
 ## Final Take

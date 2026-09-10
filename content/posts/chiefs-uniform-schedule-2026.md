@@ -14,15 +14,6 @@ teams: ["kansas-city-chiefs"]
 
 While Buffalo was unveiling a gray alternate and a new blue helmet, and the Bears and Packers were being fitted for brand-new Rivalries uniforms, the Kansas City Chiefs announced nothing at all. That is not an oversight. The Chiefs are the most conservative uniform team in the league, and going into 2026 they have no new alternate, no throwback, and no announced plans for either. What they have is red for home, white for the road, and one combination that passes for variety. Here is the full Chiefs 2026 uniform schedule week by week.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#E31837" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Chiefs Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Chiefs jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520chiefs%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #E31837; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Chiefs Uniform Schedule, Week by Week
 
 Eight home games in red, nine road games in white, and a Week 5 bye. There is genuinely nothing else to track.
@@ -56,13 +47,11 @@ Red jersey, white pants, red helmet, and a gold-outlined number that has barely 
 
 There is a strong argument that the Chiefs simply got it right the first time. The red is saturated without being loud, the gold does the work of a trim colour rather than a second primary, and the arrowhead reads instantly at any distance. Nothing in the last decade of alternate-uniform design has produced anything Kansas City would obviously be better off wearing.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520chiefs%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red home jersey on Fanatics →</a>
 
 ## The White Road Set (9 Games)
 
 White jersey, red pants, red helmet. Nine games, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo has its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dkansas%2520city%2520chiefs%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The Red-on-Red Wrinkle
 

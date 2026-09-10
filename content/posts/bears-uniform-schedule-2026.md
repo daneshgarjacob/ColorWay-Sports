@@ -16,15 +16,6 @@ teams: ["chicago-bears"]
 
 The Bears have one confirmed uniform date in 2026 and they could not have picked a better one. Chicago debuts its new Nike Rivalries uniform, revealed August 25 and built on the Monsters of the Midway, on **Christmas Day against the Green Bay Packers at Soldier Field**, on Netflix, in the oldest rivalry in the sport. They wear it exactly once all season. Here is the full Chicago Bears 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything that is still a projection.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0B162A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Bears Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Bears jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520bears%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #C83803; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Bears Uniform Schedule, Week by Week
 
 Nine home games in navy, seven road games in white, one road game in navy because the home team took white, one Rivalries game on Christmas, and a Week 10 bye.
@@ -80,7 +71,6 @@ Chicago wears the set **one time**: Friday, December 25, at noon Central, at hom
 
 Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520bears%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 The scheduling here is close to perfect. Rivalries jerseys are supposed to be worn against the rival they were designed around, and Bears versus Packers is the oldest rivalry in the NFL, 200-plus meetings deep. Putting the debut on Christmas Day, in the noon window, on a streaming platform that has made the holiday slate its own event, is the single largest audience Chicago will have all year. If you are only going to wear a uniform once, wear it then.
 

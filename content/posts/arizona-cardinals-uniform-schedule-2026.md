@@ -18,15 +18,6 @@ Arizona published its entire 2026 uniform schedule on September 1, and it is mor
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2094856123279155339"></a></blockquote>
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #f6dbe1; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#97233F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Cardinals Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Cardinal red, white, and the desert Rivalries set, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520cardinals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #97233F; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Cardinals Jersey Count for 2026
 
 Four jerseys, seventeen games, all assigned by the team.
@@ -77,7 +68,6 @@ It remains one of the better things the Rivalries program has produced. Where a 
 
 Pairing it with the Seahawks is also correct. Seattle is the division rival Arizona has the most history with in that stadium, and putting the uniform in Week 2 rather than saving it for December means it gets a warm-weather afternoon where the copper actually reads on camera. Our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program) has the background on how the waves work.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520cardinals%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## The Black Alternate (Weeks 5 and 12)
 
@@ -88,7 +78,6 @@ We expected the black set to sit out 2026. Instead it gets two home games: the L
 
 Our position on the black jersey has not changed. It is the least Arizona-looking thing the Cardinals own, and two wearings is one more than we would give it. But it is a fair reading of what the team is doing: red, white, black, and the desert set gives them four distinct looks in a nine-game home slate, and two black nights is how you keep the red from feeling like a rerun.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520cardinals%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black jersey on Fanatics →</a>
 
 ## Cardinal Red (7 Games, Including Two on the Road)
 
@@ -99,7 +88,6 @@ The red home jersey gets five home dates, the Broncos in Week 7, the Rams in Wee
 
 Cardinal red is a genuinely good base and an underrated one, mostly because Arizona has spent a decade doing odd things around it. The 2023 redesign cleaned up the numerals and dropped the piping that used to clutter the shoulders, and what is left is a strong, saturated red that nobody else in the league quite matches. Red on the road in Dallas is the best road look the Cardinals can produce, and it is the game we would circle.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520cardinals%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cardinal red jersey on Fanatics →</a>
 
 ## The White Set (7 Games, Including One at Home)
 
@@ -114,7 +102,6 @@ White covers six road games, at the Chargers in Week 1, the 49ers in Week 3, the
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2097384975276580912"></a></blockquote>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520cardinals%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Cardinals Rotation Works in 2026
 

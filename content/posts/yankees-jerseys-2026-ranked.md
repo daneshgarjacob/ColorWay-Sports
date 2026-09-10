@@ -50,11 +50,6 @@ The genius of it is subtraction. Almost every design decision the Yankees have m
 
 It gets an A rather than a literal perfect score only because we hold that ceiling for a jersey doing something a little more daring, and the pinstripes are iconic precisely by refusing to be daring. That is not a criticism. It is the whole philosophy, and it is why this is the standard the rest of the league chases.
 
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Home Pinstripes.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520home%2520pinstripes%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
-
 ## The Alternate They Designated but Won't Wear
 
 Here is the third uniform, and the reason it has no number.
@@ -67,13 +62,6 @@ Before the 2026 season, the Yankees quietly reclassified their longtime navy spr
 And then nothing. As of this writing the Yankees have not worn it in a single 2026 regular season game, and we hope they never do. The full case is in our [Yankees first alternate uniform deep dive](/stories/yankees-first-alternate-uniform-2026), but the short version is this: the Yankees are the Yankees because of what they refuse to wear. The two-uniform closet is not a limitation, it is the brand. A navy alternate would not add anything the pinstripes and grays do not already do better, and it would chip at the one thing no other team in the sport can claim, which is total discipline.
 
 So it exists, technically. It is sold at retail, technically. It is an alternate, technically. It is just not something the Yankees put on, and until they do, it does not belong in a ranking of what they actually wear.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Yankees Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520yankees%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
 
 ## Every Yankees Jersey in 2026, at a Glance
 

@@ -16,15 +16,6 @@ teams: ["tennessee-titans"]
 
 Tennessee's 2026 uniform schedule is different from everyone else's, because every single week is a debut. The Titans unveiled a full rebrand in March, their first uniform change since 2018, and the new light blue home set has not played a regular season snap yet. There is no throwback on the calendar. What there is instead is a clean two-uniform system plus one brand-new third look: the Music City Rivalries uniform, revealed August 25 and confirmed for Week 10 against Jacksonville. Here is the full Tennessee Titans 2026 uniform schedule, week by week.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #dcebf9; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#4B92DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Titans Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">The new 2026 blue and white sets, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #4B92DB; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The New Titans Uniform Set, Explained
 
 Tennessee did not add an alternate in the rebrand. It built two uniforms and gave itself pants options, which is a more disciplined approach than most teams take when they get a blank page.
@@ -74,7 +65,6 @@ It projects to all eight home dates, starting with the Jets in Week 1, and the p
 
 Tennessee has now confirmed the Week 1 combination and it is the one we wanted: **white helmet, blue jersey, white pants, blue socks**. That is the new set at its best. The white helmet and white pants bracket the blue so the jersey reads as the loudest thing on the field, and running the socks back to blue closes the leg off at the bottom instead of leaving the white to trail away into the shoe. Against a Jets side in white, the contrast does the rest.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the blue jersey on Fanatics →</a>
 
 ## The White Road Set
 
@@ -82,7 +72,6 @@ The road jersey is the better of the two, and it is not especially close. White 
 
 Paired with the light blue pants, this is the best combination Tennessee owns. It projects to eight of the nine road games, everything except the trip to Dallas, and the one we would circle is Week 14 at Detroit, where light blue against Honolulu blue should look terrific.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## The "Music City" Rivalries Uniform, Revealed (Week 10 vs. Jaguars)
 
@@ -114,7 +103,6 @@ Like every Rivalries set, it is worn at home against a division rival and stays 
 
 Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtennessee%2520titans%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## The Dallas Wrinkle in Week 11
 

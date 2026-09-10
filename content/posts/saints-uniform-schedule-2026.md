@@ -16,15 +16,6 @@ teams: ["new-orleans-saints"]
 
 The Saints published their full 2026 uniform schedule on September 7, and the plan is built on helmets rather than jerseys. The **gold jersey comes out once**, against Cleveland under the black helmet, **white gets two home dates**, black travels to Baltimore, and all three helmets are on the calendar: the gold shell as the base, the white shell three times, the black shell twice. The one thing the team left open is pants, which the captains pick the week of each game. Here is the full New Orleans Saints 2026 uniform schedule, week by week, every game confirmed by the club.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #f3ecdb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#8a7434" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Saints Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Saints jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520orleans%2520saints%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #101820; color: #D3BC8D; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Saints Uniform Schedule, Week by Week
 
 Nine home games including Paris, eight on the road, and a Week 8 bye.

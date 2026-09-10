@@ -55,10 +55,6 @@ For the crest itself rather than the patches around it, see [what the US Soccer 
 
 The layout is not random. World Cup kit rules give every shirt the same architecture: the team crest on one side of the chest, the kit maker's mark on the other, and the official competition badge on the sleeve, with player name and number on the back. It is why every team at the tournament looks like part of the same event even though all 48 shirts are different — the badges are the shared grammar. The USMNT's white "Set in Stripes" home kit follows that grammar exactly, which is what made its SoFi debut read instantly as a World Cup jersey and not just another national-team shirt.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dusmnt%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #0A1A3F 0%, #C8102E 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(10,26,63,0.35);">Shop USMNT Jerseys on Fanatics</a>
-</div>
-
 We graded the USMNT's white home kit against Paraguay's navy storm away an 8 out of 10 — the cleanest pairing of the tournament so far — in our running [2026 FIFA World Cup Jersey &amp; Uniform Tracker](/stories/world-cup-2026-jersey-tracker), where every match kit matchup gets a grade.
 
 Away from the World Cup, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what all 30 baseball teams wear every single day, with a [visual calendar for every club](/mlb-tracker).

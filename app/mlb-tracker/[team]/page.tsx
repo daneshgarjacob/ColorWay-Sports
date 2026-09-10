@@ -12,7 +12,6 @@ import {
   uniformUsage,
   gamesByMonth,
   monthCalendar,
-  fanaticsJerseyHref,
   allTeamKeys,
   teamMetaByKey,
 } from "@/lib/mlbTrackerTeamIndex";
@@ -252,45 +251,6 @@ export default async function TeamTrackerPage({
 
             {/* Affiliate — high buyer intent: they're browsing this club's jerseys */}
             <section className="max-w-[860px] mx-auto px-5 pt-8">
-              <div className="border border-black/[0.08] rounded-xl bg-[#f5f7fa] p-4 flex items-center gap-3.5 flex-wrap">
-                <span
-                  aria-hidden
-                  className="w-11 h-11 rounded-[10px] bg-[#e8eefb] flex items-center justify-center shrink-0"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="22"
-                    height="22"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="#2f6bed"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  >
-                    <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
-                    <path d="M3 6h18" />
-                    <path d="M16 10a4 4 0 0 1-8 0" />
-                  </svg>
-                </span>
-                <span className="flex-1 min-w-[160px]">
-                  <span className="block text-[15px] font-bold text-blue-dark leading-tight">
-                    Shop {entry.name} jerseys
-                  </span>
-                  <span className="block text-[13px] text-black/45 leading-tight mt-0.5">
-                    Authentic and replica, from Fanatics
-                  </span>
-                </span>
-                <a
-                  href={fanaticsJerseyHref(entry.name)}
-                  target="_blank"
-                  rel="sponsored noopener"
-                  data-fanatics-jersey-cta
-                  className="ml-auto bg-[#2f6bed] text-white text-[14px] font-bold px-[18px] py-2.5 rounded-lg whitespace-nowrap hover:opacity-90 transition-opacity"
-                >
-                  Shop now &rarr;
-                </a>
-              </div>
               <p className="text-[12px] text-black/35 mt-2 mb-0 px-0.5">
                 ColorWay Sports may earn a commission on purchases, at no extra cost to you.
               </p>

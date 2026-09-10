@@ -19,11 +19,6 @@ The World Series logo is the rarest piece of design in American sports. It gets 
 
 Here is where we part ways with the internet. The consensus says the nineties were the golden age of World Series design, that the globe and bat marks were untouchable, and that everything since has been decline. We went back through all forty and we do not buy it. **The best era of World Series logos is the modern navy run from 2015 to 2021, and the beloved globe and bat era is a B minus.** The nostalgia is doing a lot of heavy lifting on those nineties marks. What follows is all eight eras, graded, with the reasoning.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dworld%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop World Series gear on Fanatics &rarr;</span>
-  <span style="display: block; font-size: 0.85em; line-height: 1.45; color: #ffd9dd; margin-top: 3px;">Championship caps, jerseys, and Fall Classic collectibles across every year on this board.</span>
-</a>
-
 <a href="/world-series-logo-grader" style="display: block; margin: 1.5em 0; padding: 1.4em 1.9em; background: linear-gradient(135deg, #003087 0%, #2f6bed 100%); border-radius: 16px; text-decoration: none;">
   <span style="display: block; font-size: 0.72em; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #bcd0f5; margin-bottom: 6px;">Interactive Tool</span>
   <span style="display: block; font-size: 1.3em; font-weight: 900; color: #ffffff;">Think we are wrong? Grade all 40 yourself &rarr;</span>
@@ -66,10 +61,6 @@ The 1986 mark is the odd one out, and that is the whole point of starting here. 
 
 This is the one people get misty about, and it is good without being great. Five straight years of the same locked template: a green infield diamond turned on its point, a white cursive World Series script running across it on a slant, the year set above in an outlined red script, and the MLB mark anchored at the bottom. The green is the best thing here. No other era commits to the actual color of a baseball field, and against a white home jersey sleeve that green pops in a way navy never does. So why only a B minus? Because it is fussy. The outlined year script mushes together the moment you shrink it to sleeve size, the cursive and the block type are fighting for the same space, and five years of near-identical marks is not the same thing as five years of good ideas. It is a charming era. It is not a great one, and the affection people have for the Twins in the Metrodome and the Bash Brothers is doing some of the grading for them.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D1991%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop 1987-1991 World Series gear &rarr;</span>
-</a>
-
 ## Era 3 · 1992 to 1997 · The Globe and Bat Era
 
 <div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #e08a12 0%, #ffb648 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(224,138,18,0.38); text-align: center;">
@@ -90,10 +81,6 @@ Here is the take that will get us yelled at. This is the internet's favorite era
 
 This era does contain the strangest logo in the entire set. **The 1994 mark is a World Series logo for a World Series that never happened.** The players strike wiped out the postseason that September, the Fall Classic was cancelled for the first time since 1904, and the logo had already been designed and produced. It sits in the chronology as a small permanent monument to the ugliest labor fight in the sport's history.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D1996%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop 1990s World Series gear &rarr;</span>
-</a>
-
 ## Era 4 · 1998 to 2002 · The Y2K Swoosh Era
 
 <div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #2f9e2f 0%, #6fce2a 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(47,158,47,0.38); text-align: center;">
@@ -111,10 +98,6 @@ This era does contain the strangest logo in the entire set. **The 1994 mark is a
 
 Everybody hates this era and everybody is wrong. Yes, it is the most 1999 thing ever committed to a jersey. The 1998 and 1999 marks keep the globe but go to a hard white block script with a year ribbon. Then 2000 arrives and baseball discovers the swoosh, and the 2000, 2001, and 2002 marks are all oval-and-orbit constructions with a baseball rocketing around a ring. Here is why it lands an A minus: it commits. There is an actual idea in these, motion and orbit and momentum, and the era chases it for five straight years without blinking. The 2000 Subway Series mark has more energy in it than the entire back half of the Fall Classic era. Design that is confidently of its moment ages into character. Design that is trying to be timeless ages into nothing. We would take a swaggering, slightly ridiculous 2001 mark over a safe one every October.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2000%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop 2000 Subway Series gear &rarr;</span>
-</a>
-
 ## Era 5 · 2003 to 2007 · The Chrome Era
 
 <div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #2f9e2f 0%, #6fce2a 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(47,158,47,0.38); text-align: center;">
@@ -131,10 +114,6 @@ Everybody hates this era and everybody is wrong. Yes, it is the most 1999 thing 
 </div>
 
 The other one we are going to get yelled at for. Chrome, bevel, and gradient, and we like it. The 2004 and 2005 marks are metallic block letters over a wireframe globe, the 2006 mark is a red and blue globe shield, and the 2007 split-baseball mark is the most inventive construction in twenty years of these. And then there is 2003, the 100th anniversary roundel, which is the single best one-off in the entire set: gold, circular, an actual occasion to celebrate, and the only mark on this board anyone would want on a hat with no other context. This era is dimensional in a way nothing before or since has tried to be. It reads as an object under stadium lights. It is loud, it is unsubtle, and it is a lot more fun than the polite navy wordmarks people claim to prefer. A minus.
-
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2004%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop 2003-2007 World Series gear &rarr;</span>
-</a>
 
 ## Era 6 · 2008 to 2014 · The Fall Classic Era
 
@@ -155,10 +134,6 @@ The other one we are going to get yelled at for. Chrome, bevel, and gradient, an
 
 The most conceptually interesting era, and the one that runs out of gas. For seven straight years MLB put the words Fall Classic on the World Series logo and actually designed around what that means. The 2008 diamond has a falling leaf in it. The 2011 mark, easily the best of the run, wraps the wordmark in autumn oak and maple leaves in burnt orange and gold. The 2009 and 2010 marks use navy and gold with the leaf motif tucked into the year. This is the only era that ever tried to give the World Series a seasonal identity rather than a year stamp, and when it works it is lovely. B plus instead of A because the back half sags badly. The 2013 pennant flag and the 2014 arched wordmark are both fine and forgettable, and by 2014 the leaf idea had been quietly abandoned. Great concept, seven years, about four years of follow-through.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2011%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop Fall Classic era gear &rarr;</span>
-</a>
-
 ## Era 7 · 2015 to 2021 · The Modern Navy Era
 
 <div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #0b8f3f 0%, #06b36a 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(11,143,63,0.38); text-align: center;">
@@ -178,10 +153,6 @@ The most conceptually interesting era, and the one that runs out of gas. For sev
 
 The best era of World Series logos, and it is not particularly close. Seven years of navy and silver marks that finally understand what this thing is actually for. Every one of them reads instantly at sleeve size, on a cap, on a broadcast bug, and blown up on an outfield wall, which is the only test that matters for a mark that lives on a uniform. And the variety inside the system is what pushes it to an A. The 2016 mark rides on red baseball seams. The 2017 mark puts the Commissioner's Trophy behind the wordmark as a gold outline and it is the warmest thing on this board. The 2019 mark blocks the diamond into color panels. The 2021 mark wraps the type over a globe dome. The 2020 mark, a silver wordmark trapped in a dark box, is accidentally the most honest logo MLB has ever made, a neutral-site World Series played in an empty ballpark rendered as a wordmark in a void. Same navy spine, seven genuinely different executions. That is what a design system is supposed to do.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2017%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop the best era: 2015-2021 World Series gear &rarr;</span>
-</a>
-
 ## Era 8 · 2022 to 2025 · The Capital One Era
 
 <div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #c72d1e 0%, #ff5f45 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(199,45,30,0.38); text-align: center;">
@@ -200,31 +171,13 @@ And then they stopped trying. Line 2022, 2023, and 2024 up next to each other an
 
 The sponsor does not help. Capital One sits inside the championship mark of the sport's championship series, on the sleeve patch and in every broadcast use, and once you see it you cannot unsee it. We graded [the NBA's YouTube TV era](/stories/nba-finals-logo-history-1986-2025) an F for that same sin. The saving grace, and the only reason this is a D and not an F, is 2025. It brings back the slanted cursive script for the first time since the green diamond years, navy and white with a gold year bar, and it is the best pure piece of World Series lettering in two decades. It is also the first mark since 2021 that looks like anyone made a decision. Strip the bank out and we would be talking about an A minus.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2025%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop 2025 World Series gear &rarr;</span>
-</a>
-
 ## The Best Era
 
 **2015 to 2021, the Modern Navy Era, grade A.** Seven years of marks that work at every size they actually have to work at, built on one navy spine with seven genuinely different ideas hung off it: the 2016 seams, the 2017 gold trophy, the 2019 color-blocked diamond, the 2021 globe dome. It is not the era that photographs best in a nostalgia thread. It is the era that does the job. A World Series logo lives on a sleeve and a cap, not on a poster, and this is the only run that consistently remembered that.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3D2016%2520world%2520series" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop Modern Navy era World Series gear &rarr;</span>
-  <span style="display: block; font-size: 0.85em; line-height: 1.45; color: #ffd9dd; margin-top: 3px;">Our A-graded era: the 2015 Royals, the 2016 Cubs, the 2017 Astros, and the 2020 Dodgers.</span>
-</a>
-
 ## The Worst Era
 
 **2022 to 2025, the Capital One Era, grade D.** Not because it is ugly, because it is not. Because it is the same logo four times with the year swapped and a bank in the corner. The one job of an annual mark is to be annual. Three of these four are interchangeable, and the fourth, the genuinely lovely 2025 cursive, only proves the rest could have been better if anyone had asked.
-
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop World Series Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
-<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dworld%20series" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
 
 ## Frequently Asked Questions About World Series Logo History
 
@@ -259,11 +212,6 @@ The Fall Classic wordmark appeared on the World Series logo from 2008 through 20
 **Where can I buy old World Series gear and caps?**
 
 Fanatics carries championship caps, jerseys, sleeve patches, and Fall Classic collectibles going back across most of the years on this board, including New Era World Series cap releases. Every era section above links straight to that year's gear.
-
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dworld%2520series%2520champions" target="_blank" rel="sponsored noopener" data-fanatics-cta style="display: block; margin: 1.4em 0; padding: 1.05em 1.5em; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 12px; text-decoration: none; box-shadow: 0 6px 18px rgba(200,16,46,0.32);">
-  <span style="display: block; font-size: 1.02em; font-weight: 900; color: #ffffff;">Shop every World Series on Fanatics &rarr;</span>
-  <span style="display: block; font-size: 0.85em; line-height: 1.45; color: #ffd9dd; margin-top: 3px;">Caps, jerseys, patches, and Fall Classic collectibles from 1986 to today.</span>
-</a>
 
 ## The Bottom Line on World Series Logo History
 

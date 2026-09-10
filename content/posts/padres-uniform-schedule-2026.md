@@ -20,15 +20,6 @@ teams:
 
 The Padres lean all the way into brown and gold, and in 2026 they have one of the deepest closets in baseball. Six uniforms in the rotation, a brand new City Connect, and a long-running military tribute that San Diego does better than anyone. There are two things you can set your watch to: Friday home games mean the City Connect, and Sunday home games mean the camo. Everything else is more flexible than fans tend to assume, so we will be clear about what is a firm rule and what is the team's call on any given day.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Padres Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #2F241D 0%, #2F241Dcc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -99,7 +90,6 @@ This is the foundation of the whole rotation. The brown pinstripes on white read
 
 For what the Padres have actually worn so far this season, day by day, see the [Padres uniform calendar](/mlb-tracker/padres).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
 
 ## Brown Alternate (Road, in Practice)
 
@@ -109,7 +99,6 @@ So treat this as a road jersey. There is still no fixed day attached to it, and 
 
 We like this one a lot. Brown is the color that sets San Diego apart from every other team in the league, and leaning into a solid brown jersey instead of hiding it is the right instinct. The only knock is that the flexible usage makes it harder to predict, but that is the trade-off for keeping the closet interesting.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520brown%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the brown alternate on Fanatics →</a>
 
 ## Road Brown "San Diego" (Away)
 
@@ -117,7 +106,6 @@ On the road, one of the primary looks is the brown "San Diego" jersey paired wit
 
 There is no day-of-week rule for the road jerseys. The Padres rotate between this brown set and the sand pinstripe set game to game based on the team's preference. If you are watching a road game and trying to guess which one comes out, it really is a guess, and that is by design.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520brown%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the brown road jersey on Fanatics →</a>
 
 ## Road Sand Pinstripes (Away)
 
@@ -125,7 +113,6 @@ The sand and tan uniform with brown pinstripes is the other half of the road rot
 
 This is one of the more distinctive road uniforms in baseball. Most teams default to plain gray on the road, so a sand pinstripe jersey stands out the moment the Padres take the field. Like the brown road set, it has no assigned day and gets mixed in at the team's discretion.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520sand%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the sand pinstripe jersey on Fanatics →</a>
 
 ## Camouflage Military Jersey (Sunday Home Games)
 
@@ -133,7 +120,6 @@ The camouflage jersey with "Padres" on the chest and a US flag sleeve patch is a
 
 No team owns the military tribute the way San Diego does, and tying it to a standing Sunday slot is the right move. It turns a one-off gesture into a weekly ritual that fans can count on, and it keeps the connection to the area's Navy and Marine roots front and center. This is one of the easiest calls on the entire schedule.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520camo%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the camo military jersey on Fanatics →</a>
 
 ## City Connect "Obsidian" (Friday Home Games)
 
@@ -147,7 +133,6 @@ The design is a real departure. The jersey is an obsidian-blue with bone-colored
 
 We think this is a major upgrade over the pink surf set. The Día de los Muertos concept gives it meaning beyond just a color swap, and the bone and obsidian palette feels intentional rather than trendy. Giving it a standing Friday night slot is the smart play, because it guarantees fans who want to see it a date to plan around and keeps the jersey feeling like an event.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2520diego%2520padres%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Obsidian City Connect on Fanatics →</a>
 
 ## What Is Scheduled and What Is Not
 
@@ -158,13 +143,6 @@ Everything else is the team's call. The home white pinstripe is the default on o
 What is not in question is the identity. Brown and gold, sand on the road, camo for the military, and now a Día de los Muertos City Connect that actually says something. It is a deep, distinctive closet, and the two anchors give it just enough structure to feel like a plan.
 
 Every jersey the Padres wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Padres games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

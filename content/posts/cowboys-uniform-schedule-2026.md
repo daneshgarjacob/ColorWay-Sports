@@ -21,15 +21,6 @@ The Cowboys published their full 2026 uniform schedule on Wednesday, September 2
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2095278463485653498"></a></blockquote>
 </div>
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#041E42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Cowboys Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Cowboys jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #041E42; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Cowboys Uniform Schedule
 
 Straight from the team, published September 2. These are the seven games where Dallas is not in the standard white jersey. Everything else on the calendar is white.
@@ -82,7 +73,6 @@ Those four road whites are not a choice so much as a consequence. The host picks
 
 The white set is the better of the two primaries and it is not particularly close. The navy star on the white shell, the blue-and-white sleeve stripe, and the silver-blue pants make a combination nobody else in the league is running, and the fact that Dallas insists on wearing it at home means the good version is the one their own crowd sees.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #041E42; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; margin: 0.5em 0 1.5em;">Shop the white home jersey on Fanatics →</a>
 
 ## The Navy Jersey (3 Games, All on the Road)
 
@@ -96,7 +86,6 @@ The reason is the rule, not the wardrobe. The home team picks its jersey and the
 
 As a uniform, the navy is the plainer of the two primaries. The silver-blue that makes the home whites distinctive gets swapped for a flatter silver, and the shoulder stripe loses most of its contrast against the darker base. There is an old superstition about the navy being unlucky for Dallas. We have no opinion on that, but scarcity is doing the jersey a favor.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #041E42; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; margin: 0.5em 0 1.5em;">Shop the navy road jersey on Fanatics →</a>
 
 ## The Color Rush (3 Games, All-White)
 
@@ -106,7 +95,6 @@ The all-white Color Rush is the fan favourite of the Dallas wardrobe, and three 
 - **Week 7 at the Eagles, Monday, October 26.** A Monday night in Philadelphia, and Dallas is in white, which means the Eagles are free to wear anything. Kelly Green has not been announced for this date, but a national-television home game against Dallas is exactly the kind of night Philadelphia picks for it. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) tracks it.
 - **Week 16 vs. the Jaguars, Sunday, December 27.** Sunday Night Football at AT&T Stadium in the last week of the calendar year, and the last of the three.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520color%2520rush%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; background: #041E42; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; margin: 0.5em 0 1.5em;">Shop the Color Rush jersey on Fanatics →</a>
 
 ## The Thanksgiving Classic (Week 12, Confirmed)
 
@@ -118,7 +106,6 @@ One popular hope for this game does not survive contact with the rules, so it is
 
 The Eagles have confirmed only one Kelly Green date so far, Week 9 against the Giants, and our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has them in white for the Thanksgiving trip for exactly this reason. The green will have to come out on a week when Dallas is in white, and the Week 7 Monday-night game in Philadelphia, with Dallas in the Color Rush, is the obvious candidate.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddallas%2520cowboys%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Thanksgiving throwback on Fanatics →</a>
 
 ## The White Helmet
 

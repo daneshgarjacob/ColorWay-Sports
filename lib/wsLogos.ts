@@ -49,11 +49,6 @@ export const ERAS: { name: string; years: [number, number]; grade: CwGrade }[] =
   { name: "The Capital One Era", years: [2022, 2025], grade: "D" },
 ];
 
-/** Fanatics affiliate deep link (SSAID 7169536) for a gear search. */
-export const fanaticsSearch = (query: string) =>
-  `https://fanatics.93n6tx.net/5kZn3j?u=${encodeURIComponent(
-    `https://www.fanatics.com/search?query=${encodeURIComponent(query)}`
-  )}`;
 
 const RESULTS: Record<number, string> = {
   1986: "Mets over Red Sox", 1987: "Twins over Cardinals", 1988: "Dodgers over Athletics",

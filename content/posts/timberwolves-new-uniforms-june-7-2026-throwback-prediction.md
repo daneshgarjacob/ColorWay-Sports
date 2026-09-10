@@ -57,19 +57,6 @@ The June 7 date is also early enough in the NBA offseason that the Timberwolves 
 
 We will be here on June 7 with the full review the moment the new uniforms drop. If the reveal turns out to be something other than the throwback look, we will eat the take publicly. But every signal points to the classic blue and green coming back, and the Timberwolves are about to make a lot of fans very happy.
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Timberwolves Jerseys on Fanatics</a>
-</div>
-
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Timberwolves Memorabilia</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Autographed and game-used, with a certificate of authenticity</div></div>
-<a href="https://sportsmemorabilia.evyy.net/1GVBJ6?u=https%3A%2F%2Fwww.sportsmemorabilia.com%2Fsearch%3Fquery%3Dtimberwolves" target="_blank" rel="sponsored noopener" data-memorabilia-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## Frequently Asked Questions
 
 **When do the new Timberwolves uniforms drop?**
@@ -90,7 +77,7 @@ The Minnesota Timberwolves Hardwood Classic jersey is the throwback uniform base
 
 **Where can I buy a Timberwolves throwback jersey?**
 
-Timberwolves throwback and Hardwood Classic jerseys are available at Fanatics. Shop the [Minnesota Timberwolves jersey collection on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fnba%2Fminnesota-timberwolves) for current jerseys, throwbacks, and Hardwood Classic editions.
+Timberwolves throwback and Hardwood Classic jerseys are available at Fanatics. Shop the Minnesota Timberwolves jersey collection on Fanatics for current jerseys, throwbacks, and Hardwood Classic editions.
 
 **Will Anthony Edwards wear the new Timberwolves uniforms?**
 

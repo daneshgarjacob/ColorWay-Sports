@@ -56,10 +56,6 @@ This is the first NBA Finals court with the Larry O'Brien Trophy painted at cent
 
 We graded the 2026 NBA Finals court an A+ when the league released the official renderings last week in our [2026 NBA Finals court reveal post](/stories/nba-finals-court-2026-knicks-spurs-revealed). The in-arena photos of the actual painted Spurs floor at Frost Bank Center hold that grade. The renders did not lie. The court looks even better in the building than it did on the official PDF.
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 NBA Finals Gear on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What does the 2026 NBA Finals Spurs court at Frost Bank Center look like?**
@@ -92,7 +88,7 @@ Painted. Adam Silver confirmed on the Pardon My Take podcast earlier this year t
 
 **Where can I buy a Spurs 2026 NBA Finals jersey?**
 
-The official San Antonio Spurs 2026 NBA Finals jerseys are available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026). The Spurs Finals jerseys feature the new USA 250 patch on the front above the Nike swoosh and the 2026 NBA Finals patch on the back at the top center just below the collar. Full breakdown of the two-patch Finals jersey design in our [NBA 2026 Finals USA 250 patch post](/stories/nba-2026-finals-usa-250-patch-same-as-nfl-super-bowl).
+The official San Antonio Spurs 2026 NBA Finals jerseys are available at Fanatics. The Spurs Finals jerseys feature the new USA 250 patch on the front above the Nike swoosh and the 2026 NBA Finals patch on the back at the top center just below the collar. Full breakdown of the two-patch Finals jersey design in our [NBA 2026 Finals USA 250 patch post](/stories/nba-2026-finals-usa-250-patch-same-as-nfl-super-bowl).
 
 ---
 

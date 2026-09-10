@@ -18,15 +18,6 @@ topViewsRank: 11
 
 The common thread runs across every jersey. The player's name and number on the back are filled with the Stars and Stripes, an American flag treatment poured straight into the lettering, and a USA 250 commemorative patch rides on the sleeve. From there, each team builds the look on its own base, and that is where the personalities come out. Here is the full breakdown, our favorites, the one that misses, and every set in one place.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop the 2026 MLB Fourth of July Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">All 30 USA 250 sets, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmlb%2Bfourth%2Bof%2Bjuly%2Busa%2B250%2Bjersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Shared Design: Flag-Filled Numbers and a USA 250 Patch
 
 Before we get to the standouts, it helps to know what every team has in common. The 2026 USA 250 Fourth of July jerseys all share two signature elements. First, the back nameplate and the uniform numbers are filled with an American flag, stars in the canton and red-and-white stripes running through the digits, instead of a flat team color. Second, a USA 250 patch, the same semiquincentennial shield the NFL and NBA have been wearing, sits on the sleeve. We have a [full breakdown of that patch and why it is showing up across MLB, the NBA Finals, and the NFL Super Bowl](/stories/usa-250-patch-mlb-nba-nfl-2026).
@@ -140,10 +131,6 @@ Here is the full set in one place, American League first, then National League. 
 </div>
 
 <p style="text-align:center;font-size:0.78em;color:#999;margin:-1em 0 2em;">Jersey images via Fanatics.</p>
-
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmlb%2Bfourth%2Bof%2Bjuly%2Busa%2B250" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the MLB Fourth of July Collection on Fanatics</a>
-</div>
 
 ## Frequently Asked Questions
 

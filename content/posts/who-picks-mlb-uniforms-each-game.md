@@ -46,14 +46,6 @@ Here is where it gets fun. The Pirates carry a black alternate jersey, and when 
 
 Worth clearing up one thing, because it trips people up. This is the Pirates' regular black alternate, not their [2026 City Connect](/stories/mlb-city-connect-jerseys-2026-ranked). The all-black "Black and Gold" City Connect runs on a set Friday home schedule for the whole team. The Skenes black is the everyday alternate, showing up on his starts regardless of the day or the City Connect calendar. Same color family, two different jerseys, and it is the alternate that has quietly become his signature look.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop the Pirates black and gold</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Paul Skenes jerseys and Pirates City Connect gear, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dpaul%2520skenes%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #FDB827; color: #14223f; font-size: 14px; font-weight: 800; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## MLB's Rules Set the Boundaries
 
 The team picks from a menu, and MLB decides what is on that menu. League rules still call for a distinctive white uniform at home and a different color on the road, which is why home whites and road grays remain the backbone of the sport. That tradition is loosening fast, though, and colored jerseys have actually overtaken both white and gray as the most common look in recent seasons.

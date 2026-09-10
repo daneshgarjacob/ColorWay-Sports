@@ -59,10 +59,6 @@ The 2026 NBA Finals back patch is one of the cleanest pieces of the entire Final
 
 For the live game-by-game uniform grades on the 2026 NBA Finals, see our [2026 NBA Finals Jersey Tracker: Knicks vs Spurs](/stories/nba-finals-2026-jersey-tracker-knicks-spurs). For the full breakdown of the new 2026 NBA Finals court design at Madison Square Garden and Frost Bank Center, see our [2026 NBA Finals court reveal post](/stories/nba-finals-court-2026-knicks-spurs-revealed).
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2Bantonio%2Bspurs%2Bnba%2Bfinals" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #000000 0%, #C4CED4 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.35);">Shop Spurs NBA Finals Gear on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What does the 2026 NBA Finals back patch look like on the Spurs jersey?**
@@ -103,7 +99,7 @@ The 2026 NBA Finals back patch on the jersey sits inside a fully refreshed Final
 
 **Where can I buy a Spurs NBA Finals 2026 jersey with the back patch?**
 
-Fanatics is the league-licensed retailer for NBA Finals jerseys with the official 2026 Finals back patch. Spurs NBA Finals 2026 jerseys, hats, and gear are available through the [Spurs NBA Finals shop on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dsan%2Bantonio%2Bspurs%2Bnba%2Bfinals).
+Fanatics is the league-licensed retailer for NBA Finals jerseys with the official 2026 Finals back patch. Spurs NBA Finals 2026 jerseys, hats, and gear are available through the Spurs NBA Finals shop on Fanatics.
 
 ---
 

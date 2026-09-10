@@ -56,7 +56,6 @@ Available and used are different things. By our count in the [2026 MLB uniform t
 
 That is why we left it out of our [White Sox jersey rankings](/stories/white-sox-jerseys-2026-ranked) entirely, with a note that we would slot it in if it ever showed up. On September 17, it finally will.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520southside%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Southside jersey on Fanatics →</a>
 
 ## The Bottom Line
 

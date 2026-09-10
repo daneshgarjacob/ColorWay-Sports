@@ -19,15 +19,6 @@ teams:
 
 The Tampa Bay Rays carry one of the most colorful — and least predictable — closets in baseball for 2026. There's no published timetable the way a team like the Phillies runs; instead the Rays have two soft anchors at home (the 1998 Devil Rays "rainbow" throwback that owns most Friday nights, and the black "Grit x Glow" City Connect that owns most Saturdays) and a stack of navy and Columbia blue tops that get mixed and matched the rest of the week. Here's the full Rays wardrobe for 2026 and when each jersey actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Rays Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #8FBCE6 0%, #8FBCE6cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -96,25 +87,21 @@ The Rays didn't overhaul the set for 2026, but there's a real story brewing on t
 
 The home white is the Rays' cleanest look and the one that anchors the brand: a white jersey with "Rays" arched across the chest in navy, the signature yellow sunburst bursting off the "R," navy piping, and the navy cap with the white "TB." It's the default for the bulk of every homestand that isn't claimed by the Friday throwback or the Saturday City Connect. After a decade-plus of identity churn, the sunburst wordmark is the through-line that ties the modern Rays together, and the white home is where it reads best — understated, sunny, and unmistakably Tampa Bay.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Columbia Blue Alternate (Home or Road, Manager's Choice)
 
 The Columbia blue is the softest, most distinctive color in the closet and a genuine point of difference in a league full of navy and red. It's a light-blue top that, since a 2022 tweak, wears the standalone sunburst logo on the right chest rather than a chest wordmark — a subtle, modern move that lets the color do the talking. There's no fixed day attached to it: the Rays reach for it both at home and on the road whenever they want that breezy, beachy look, and it pairs naturally with gray pants on the trip. It's one of the better light-blue uniforms in baseball, and the lack of a schedule keeps it feeling like a treat.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520columbia%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Columbia blue alternate on Fanatics →</a>
 
 ## Navy Alternate (Home or Road, Manager's Choice)
 
 The navy alternate is the dark-tops workhorse. It's a deep navy jersey with Columbia blue piping, white character lettering, and outlined numbers, worn both at home and away with no day-of-week rule behind it. When the Rays travel, the navy top over gray pants is one of their default road combinations — a reminder that since 2023 Tampa Bay has leaned on its colored alternates on the road rather than a traditional gray jersey with "TAMPA BAY" across the chest. It's the steady, slightly anonymous option that lets the louder jerseys be the event.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy alternate on Fanatics →</a>
 
 ## Devil Rays "Rainbow" Throwback (Most Friday Home Games)
 
 This is the fan favorite, and it's the closest thing the Rays have to a hard rule. The 1998 "rainbow" Devil Rays throwback — the gradient purple-to-green-to-yellow wordmark, the playful original identity from the franchise's debut season — has been the team's Friday home look since 2023, and it also comes out on Opening Day. Tampa Bay essentially turned a nostalgia uniform into a standing weekly event, and it worked: the rainbow set is the jersey that gets the loudest reaction at Tropicana Field and the one casual fans most associate with the throwback craze. Giving the franchise's most beloved old look a guaranteed Friday slot is exactly the kind of scheduling instinct that builds anticipation.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520devil%2520rays%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Devil Rays rainbow throwback on Fanatics →</a>
 
 ## City Connect — "Grit x Glow" (Most Saturday Home Games)
 
@@ -125,20 +112,12 @@ The City Connect, unveiled in 2024, is the most conceptually loaded jersey the R
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520rays%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Grit x Glow City Connect on Fanatics →</a>
 
 ## How the Rays Rotation Actually Works
 
 Let's be straight about it: the Rays are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; Tampa Bay really only has two soft anchors — **the Devil Rays throwback on most Friday home games and the City Connect on most Saturday home games**. Everything else is feel and matchup: the home whites, the Columbia blue, and the navy alternate all float, and the two dark tops do double duty as the team's road look over gray pants. There's no traditional gray "TAMPA BAY" road jersey in the current set, though the March 2026 fan vote suggests one could be coming.
 
 It still works, because the two anchors cover the jerseys fans actually plan around. The rainbow throwback and the City Connect are the looks people buy tickets and merch for, so handing each one a standing weekend night builds anticipation even without a rigid system. The whites and the two blues are happy to handle the quiet midweek work in between — and with a palette this deep, even the "default" nights have more color than most teams' best alternates.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Rays games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

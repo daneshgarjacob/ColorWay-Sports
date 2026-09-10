@@ -19,15 +19,6 @@ teams:
 
 The Chicago Cubs run four uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, the Cubs keep their closet loose — there's really only one jersey that owns a fixed day. The headline change isn't a new look at all; it's a subtraction. The Cubs no longer carry a City Connect, having retired the navy "Wrigleyville" kit after 2024 and replaced it with the powder-blue "Blues" alternate. Here's the full Cubs closet for 2026 and exactly when each jersey comes out. And if you want our take on the looks themselves, we ranked [every Cubs jersey for 2026](/stories/cubs-jerseys-2026-ranked) from worst to best.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Cubs Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520cubs%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #0E3386 0%, #0E3386cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -100,7 +91,6 @@ The Cubs carry four uniforms in 2026, and the rotation is the same one they sett
 
 The home pinstripe is Chicago's signature and one of the most recognizable looks in the sport: a white jersey with royal-blue pinstripes, the famous red Cubs "bullseye" roundel on the left chest — the enclosed "C" with "UBS" tucked inside, ringed in blue and red — and a blue cap with the red "C." It's worn for the bulk of the homestand, essentially every home game that isn't a summer Friday (those belong to the Blues alternate). The Cubs have leaned on this template since pinstripes arrived at Wrigley in 1957, and there's nothing here that needs touching. It's a clean, timeless home flannel, and the ivy-and-pinstripes pairing is as classic as baseball gets.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520cubs%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
@@ -110,7 +100,6 @@ The home pinstripe is Chicago's signature and one of the most recognizable looks
 
 On the road, Chicago wears the standard gray set with "CHICAGO" arched across the chest in blue with red trim, player names on the back, and the blue cap. It's the default for most away games — the workmanlike road look that lets the home team's colors be the star. Nothing flashy, and it doesn't need to be; the wordmark and the cap do all the identifying you need from the upper deck.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520cubs%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Royal-Blue Alternate (Manager's Choice)
 
@@ -120,7 +109,6 @@ On the road, Chicago wears the standard gray set with "CHICAGO" arched across th
 
 The Cubs' other alternate is the one that's been in the closet for years: a solid royal-blue jersey carrying the Cubs wordmark across the chest, paired with the blue cap and its red "C." Unlike the Blues alternate, it isn't tied to a day — it's a manager's-choice look Chicago can pull on at home or on the road when the staff wants more blue on the field. It's the quiet, traditional counterpart to the splashier powder-blue set, and for 2026 it wears the same 150th-anniversary and Motorola sleeve patches as the rest of the closet.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520cubs%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the royal blue alternate on Fanatics →</a>
 
 ## Powder-Blue "Blues" Alternate (Friday Home Games)
 
@@ -135,7 +123,6 @@ This is the jersey people circle on the calendar. Introduced for 2025, the powde
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520cubs%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue alternate on Fanatics →</a>
 
 ## What Happened to the City Connect?
 
@@ -148,13 +135,6 @@ Be honest about it: Chicago's system is looser than the truly scheduled teams. T
 It still works, because the anchor is the part fans care about. The Blues alternate is the jersey people buy tickets to see, and giving it its own weeknight builds the anticipation. The pinstripes and grays are happy to do the quiet, classic work in between.
 
 Two constants tie the whole 2026 closet together. Every jersey carries the **Motorola** "batwing" advertising patch — the first sponsor patch in franchise history, on the uniforms since August 2024 — and every jersey also wears the **150th anniversary** sleeve patch this season, a red "C" with "150" inside it framed by the years 1876 and 2026. It's a collector's-item year, and the sleeves make sure you know it.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Cubs games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

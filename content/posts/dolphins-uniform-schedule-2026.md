@@ -16,15 +16,6 @@ teams: ["miami-dolphins"]
 
 Miami has confirmed two uniform games for 2026, and they sit at opposite ends of the taste spectrum. The white throwback comes out in Week 14 against Chicago, and it is still the best thing the franchise owns. The Dark Water Rivalries uniform closes the home schedule against Buffalo on January 3, and we have already said our piece about that one. Here is the full Miami Dolphins 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the aqua home set and the white road set.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #d6f0f1; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#008E97" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Dolphins Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Aqua, white, and the leaping-dolphin throwback, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520dolphins%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #008E97; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Dolphins Uniform Games
 
 The Dolphins announced themes for all eight home games at Hard Rock Stadium, but only two of them name an actual uniform. These are the two.
@@ -72,7 +63,6 @@ It is the best-looking uniform the franchise has ever had, and it is not particu
 
 One wrinkle worth knowing. Because the throwback is a white jersey, Miami is in white at home that day, which frees Chicago to bring a colored jersey into Hard Rock Stadium. That is the opposite of the usual arrangement and it should make for a better-looking broadcast than a standard December game.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520dolphins%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Dolphins throwback on Fanatics →</a>
 
 ## Dark Water Rivalries (Week 17 vs. Bills, Confirmed)
 
@@ -82,7 +72,6 @@ We are not fans. Miami's palette is aqua, orange, and white, and there is no bla
 
 The consolation is the matchup. Buffalo will be in its white road set, which we laid out in the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026), and white against near-black is at least a legible contrast on television.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520dolphins%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Aqua at Home (The Base Set, Expected)
 
@@ -90,7 +79,6 @@ The aqua home jersey carries five of the eight home dates: the Chiefs in Week 3,
 
 That is fine, because aqua is the point. Nobody else in the NFL owns this color, and on a bright afternoon in South Florida it is the most distinctive base uniform in the league. The orange numbers give it a second signal that reads from the upper deck. It is a genuinely great uniform that Miami sometimes seems less excited about than everyone else is.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520dolphins%2520aqua%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the aqua jersey on Fanatics →</a>
 
 ## The White Road Set (Expected)
 
@@ -98,7 +86,6 @@ The white road uniform projects to all nine away games: at the Raiders, 49ers, V
 
 Two are worth circling. Week 7 at the Jets is New York's Classic throwback game for First Responders Appreciation, covered in our [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026). And Week 11 at Buffalo is the Bills' Cold Front game, the all-white Rivalries set with the cracked-ice helmet, which means both teams will be in white and the Dolphins may end up differentiating through pants. That is the one road date on the schedule where the combination is genuinely hard to predict.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmiami%2520dolphins%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Dolphins Rotation Works in 2026
 

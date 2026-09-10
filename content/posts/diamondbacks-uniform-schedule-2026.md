@@ -19,15 +19,6 @@ teams:
 
 The Arizona Diamondbacks carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. There's really one hard anchor — the purple-and-teal "Serpientes" City Connect that owns Friday nights at Chase Field — and everything else is the staff's call, with the off-whites and the grays doing the day-to-day work. Here's the full D-backs wardrobe for 2026 and when each jersey actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Diamondbacks Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #A71930 0%, #A71930cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -96,19 +87,16 @@ The Diamondbacks carry five uniforms in 2026, and the set is essentially the one
 
 The home jersey is Arizona's signature, and it leans into the franchise's roots: an off-white, cream-tinged base inspired by the original 1998 design, with the standalone "A" logo on the left chest in Sedona red outlined in teal and black piping running the placket and sleeves. It's paired with either the Sedona red cap with a black brim or the all-black cap, both carrying the outlined "A." It's worn for the bulk of every homestand — essentially any home game that isn't claimed by the Friday City Connect or handed to one of the colored alternates. The off-white tone is the move that ties the whole identity together: warmer than a pure white, distinctly desert, and unmistakably Arizona.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home off-white jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
 On the road, the Diamondbacks wear the standard gray set with "Arizona" arched across the chest in Sedona red lettering outlined in teal, names on the back, and the black cap carrying the throwback "D" with a Sedona red brim. The black piping and the radial "Arizona" wordmark give it a classic baseball-throwback feel, a deliberate step back toward the clean look the franchise wore in its early years. It's the workmanlike default for most away games, and it lets the home team's colors be the star without ever feeling generic.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Sedona Red Alternate (Manager's Choice, Often Home)
 
 The Sedona red alternate is the loudest piece of the regular closet. It's a Sedona red top with the full "Diamondbacks" wordmark scripted across the chest in black outlined in teal, teal front numbers, and teal-and-black braiding at the sleeves and neckline — worn with either gray or off-white pants. The 2024 redesign switched the chest from the old "D-backs" abbreviation to the complete "Diamondbacks" script, a small change that makes the jersey read bigger and bolder from the seats. There's no fixed day attached to it; it's the look the staff reaches for when they want a jolt of color, and it's a fixture on Saturday home dates and giveaway nights. It's the brightest, most desert-forward thing in the rotation.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Sedona red alternate on Fanatics →</a>
 
 ## Black Alternate (Manager's Choice)
 
@@ -119,13 +107,11 @@ The black alternate is the closet's nighttime look: a black jersey with teal pip
 <div style="font-size: 0.72em; color: #888; margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## City Connect — The "Serpientes" Kit (Friday Home Games)
 
 The City Connect is the most conceptually loaded jersey the Diamondbacks own, and the 2026 version is the redesigned "Serpientes 2.0" set unveiled in May 2025 — a purple-and-teal homage to the franchise's original 1998 colors that replaced the sand-toned first edition. The body runs deep purple with a snakeskin-evolution pattern blended into heritage pinstripes, "Serpientes" — Spanish for "snakes" — scripted across the chest, and a modernized version of the 1998–2006 alternate sleeve trim, a direct callback to the dark-sleeved look Arizona wore winning the 2001 World Series. The cap carries an "S" logo in the same purple-and-teal colorway rather than the standard "A," "Arizona Born" is inscribed on the collar, and a state-flag patch sits on the sleeve. Since debuting on May 9, 2025, during Mexican Heritage Weekend, it has anchored Friday home games at Chase Field. It brought purple and teal back to the field after years away, and fans embraced it immediately — easily one of the more thoughtful entries in the City Connect program.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Serpientes City Connect on Fanatics →</a>
 
 ## Whatever Happened to the Sand Uniforms?
 
@@ -138,13 +124,6 @@ Let's be straight about it: Arizona is not a scheduled-rotation team the way the
 It still works, because the one anchor covers the jersey fans actually plan around. The City Connect is the look people buy tickets and merch for, so handing it a standing Friday slot builds anticipation even without a rigid system. The off-whites and grays are perfectly content to handle the quiet weekday work in between, and the two colored alternates keep the rest of the week from ever feeling predictable.
 
 One more constant across all five: every Diamondbacks jersey carries the **Avnet** advertising patch on the sleeve. Arizona became the third MLB team to sign a jersey-patch sponsor, debuting the deal with the Arizona-based technology distributor on Opening Day 2023, and it runs through 2026.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Diamondbacks games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

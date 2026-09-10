@@ -36,10 +36,6 @@ The problem is the patch itself plays it too safe. The Stanley Cup Final logo ge
   <p style="font-size: 1.5em; font-weight: 900; margin: 0;">Patch Grade: B-</p>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520stanley%2520cup%2520final%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Knights Stanley Cup Final Jerseys on Fanatics</a>
-</div>
-
 ## Final Take
 
 The 2026 Stanley Cup Final jersey patch hits the year-stamp brief and not much else. The patch is on every Knights sweater on the right chest for the rest of the championship round and will be on every sweater of whichever team comes out of the Eastern Conference Final too, the standard NHL Final placement holding for the year. The 2026 lockup gives the jersey real timestamp value as a piece of hockey history a year, five years, or twenty years from now. The rest of the design plays it too safe and leaves the kind of jersey-specific Final patch craft we have loved in past years on the table. B-. Worth owning for the year stamp and the Knights run, capped by a design that should have done more with the moment.

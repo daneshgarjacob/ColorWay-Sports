@@ -17,15 +17,6 @@ teams: ["philadelphia-eagles"]
 
 No alternate jersey in the NFL generates the reaction Kelly Green does, and the Eagles know it, which is why they ration it to about three games a year. For 2026 the closet is midnight green at home, white on the road, Kelly Green for a small number of showcase dates, and the black alternate for one. The first Kelly Green date is now official: Week 9 against the Giants on November 8, with New York in its Vintage White throwback. The wordmark got a subtle update this year too. Here is the Eagles 2026 uniform schedule week by week, plus the games the Kelly Greens are most likely to land on.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#004C54" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Eagles Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Eagles jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #004C54; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Eagles Uniform Schedule, Week by Week
 
 Nine home games, eight on the road, and a Week 10 bye.
@@ -78,7 +69,6 @@ That is two wearings rather than the three Philadelphia has settled into recentl
 
 Worth saying plainly: Kelly Green is a better uniform than the midnight green primary, and the gap is wide enough that two wearings still feels like rationing.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520kelly%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Kelly Green throwback on Fanatics →</a>
 
 ## The Black Alternate (Week 15, Confirmed)
 
@@ -88,7 +78,6 @@ We had this one wrong. Our read was that the black set would land on Christmas E
 
 The black set is still the weakest thing the Eagles own. It is not badly made, it just has nothing to do with Philadelphia, and it competes for wearings with a throwback people genuinely love. Pairing it with the black helmet at least commits to the idea rather than hedging.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## Midnight Green (The Home Base)
 
@@ -96,13 +85,11 @@ The midnight green primary carries the rest of the home schedule, which as thing
 
 Midnight green is a genuinely unusual colour and the Eagles deserve credit for sticking with it, but the current set leans hard on the black trim and the result reads darker and heavier than it needs to. The 2026 change is small: an updated wordmark on the jersey, not a redesign.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520midnight%2520green%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Midnight Green home jersey on Fanatics →</a>
 
 ## The White Road Set (8 Games)
 
 White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a coloured jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520eagles%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## Frequently Asked Questions
 

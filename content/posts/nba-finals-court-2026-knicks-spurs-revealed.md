@@ -73,10 +73,6 @@ There is a uniform and court story layered on top of the basketball matchup. The
 
 The 2026 NBA Finals court redesign is the strongest visual signal yet that the NBA is rebuilding the postseason identity from the floor up. The Conference Finals court should be next. The First Round and Conference Semis courts should be next after that. Every round of the NBA Playoffs should look distinct on the floor. First round with first round branding, semis with semis branding, conference finals with conference finals branding, Finals with the trophy and the script. The 2026 NBA Finals court is the proof of concept. The league has confirmed it can paint dramatic Finals branding on a host court without slipping issues, without sponsor conflicts, and without sacrificing the home team's primary mark. The blueprint is on the floor at Madison Square Garden and Frost Bank Center starting next week. The expectation now is that every future Finals court matches or exceeds this design, and that the rest of the postseason starts catching up.
 
-<div style="display: flex; justify-content: center; margin: 2em 0 1em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop 2026 NBA Finals Gear on Fanatics</a>
-</div>
-
 ## Frequently Asked Questions
 
 **What does the 2026 NBA Finals court look like?**
@@ -105,7 +101,7 @@ The 2026 NBA Finals will be broadcast on ABC and ESPN. It is the first NBA posts
 
 **Where can I buy a Knicks or Spurs 2026 NBA Finals jersey?**
 
-The official Knicks and Spurs 2026 NBA Finals jerseys are available at [Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2Bfinals%2B2026). Both teams' Finals jerseys feature the 2026 NBA Finals patch on the back of the jersey just below the collar, above the player nameplate.
+The official Knicks and Spurs 2026 NBA Finals jerseys are available at Fanatics. Both teams' Finals jerseys feature the 2026 NBA Finals patch on the back of the jersey just below the collar, above the player nameplate.
 
 **When was the last NBA Finals at Frost Bank Center?**
 

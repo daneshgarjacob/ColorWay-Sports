@@ -328,24 +328,6 @@ export function monthCalendar(
   return { weeks };
 }
 
-/** Fanatics deep link for a club's jerseys (double-encoded per the affiliate format). */
-export function fanaticsJerseyHref(teamName: string): string {
-  const FULL: Record<string, string> = {
-    Yankees: "new york yankees", "Red Sox": "boston red sox", "Blue Jays": "toronto blue jays",
-    Rays: "tampa bay rays", Orioles: "baltimore orioles", Guardians: "cleveland guardians",
-    Twins: "minnesota twins", "White Sox": "chicago white sox", Tigers: "detroit tigers",
-    Royals: "kansas city royals", Astros: "houston astros", Mariners: "seattle mariners",
-    Rangers: "texas rangers", Angels: "los angeles angels", Athletics: "athletics",
-    Braves: "atlanta braves", Phillies: "philadelphia phillies", Mets: "new york mets",
-    Marlins: "miami marlins", Nationals: "washington nationals", Brewers: "milwaukee brewers",
-    Cubs: "chicago cubs", Cardinals: "st louis cardinals", Pirates: "pittsburgh pirates",
-    Reds: "cincinnati reds", Dodgers: "los angeles dodgers", Padres: "san diego padres",
-    Giants: "san francisco giants", Diamondbacks: "arizona diamondbacks", Rockies: "colorado rockies",
-  };
-  const query = `${FULL[teamName] || teamName.toLowerCase()} jersey`;
-  const target = `https://www.fanatics.com/search?query=${encodeURIComponent(query)}`;
-  return `https://fanatics.93n6tx.net/5kZn3j?u=${encodeURIComponent(target)}`;
-}
 
 /** Slugs for generateStaticParams — all 30 clubs. */
 export function allTeamKeys(): string[] {

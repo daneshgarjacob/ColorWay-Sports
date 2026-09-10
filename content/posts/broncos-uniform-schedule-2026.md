@@ -20,15 +20,6 @@ The Broncos did the thing more teams should do: they published the whole uniform
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2087570857732247611"></a></blockquote>
 </div>
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e7eefc; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0C2340" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Broncos Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every Broncos jersey, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #FB4F14; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Full 2026 Broncos Uniform Schedule, Week by Week
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
@@ -67,7 +58,6 @@ Two of those are division games and one is the Chiefs, which is the right instin
 
 The set itself is the cleanest thing the Broncos have built in the Nike era. The orange is bright without going neon, the navy numbers read at distance, and the whole thing looks like Denver rather than like a template with a horse on it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520orange%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #FB4F14; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Broncos orange jersey on Fanatics →</a>
 
 ## Summit White: The Travel Set (9 Games)
 
@@ -135,7 +125,6 @@ Denver is 2-0 in Midnight Navy since the Mile High Collection arrived ahead of t
 
 For what it is worth, we think the white helmet is the better of the two. The navy-on-navy version is handsome but it flattens out under stadium lights, and the white shell is what gives the set its contrast and lets the orange do something. If Denver wants the Christmas game to look like an event on Netflix, white is the shell that photographs.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #0C2340; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Broncos navy jersey on Fanatics →</a>
 
 ## The Orange Crush Throwback: Only Twice, and That Is the Problem
 
@@ -180,7 +169,6 @@ We understand the constraint. Teams are capped on alternate games, and Denver us
 
 There is a small consolation. The Week 6 throwback is on Thursday Night Football, so at least one of the two lands in a standalone national window rather than getting buried in the 1 p.m. wall. The Week 18 date against the Chargers is scheduled for January 9 or 10, 2027, with the broadcast still to be determined, which means it could end up in a good window or a forgotten one depending on what the season looks like by then.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Ddenver%2520broncos%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #1b6ac9; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Broncos throwback jersey on Fanatics →</a>
 
 ## How the Broncos Rotation Works in 2026
 

@@ -28,15 +28,6 @@ The Phillies have one of the best uniform rotations in baseball, and the reason 
 
 This page covers when each jersey comes out. If you want our verdict on which ones are actually any good, we ranked and graded [every Phillies jersey for 2026](/stories/phillies-jerseys-2026-ranked), from the City Connect at the bottom to the creams at number one.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Phillies Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #E81828 0%, #E81828cc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -112,7 +103,6 @@ The red pinstripes are the Phillies' primary home uniform and the one most fans 
 
 These have been the Phillies' identity since 1992. The red cap, white jersey with red pinstripes, and matching pinstripe pants are one of the most iconic looks in baseball. There is nothing to change here. This is the foundation that the rest of the rotation builds around.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red pinstripe jersey on Fanatics →</a>
 
 ## Cream Alternates (Home Days)
 
@@ -123,7 +113,6 @@ The cream alternates are worn for all daytime home games at Citizens Bank Park, 
 
 These are incredible. The Phillies first wore creams as their primary home uniform from 1946 to 1949, and they brought them back as an alternate in 2008. The off-white tone under natural daylight at Citizens Bank Park looks completely different from the pinstripes under the lights. It is a smart decision to tie these to day games because that is when they look their best. The cream fabric catches the sun in a way that white pinstripes just cannot replicate.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
 
 ## Powder Blues (Thursdays)
 
@@ -134,7 +123,6 @@ The powder blues with maroon caps are worn on Thursdays at Citizens Bank Park. T
 
 These might be the best alternate uniform in all of baseball. The powder blue is such a distinct color that immediately separates the Phillies from every other team in the league. Tying them to Thursdays gives fans a specific day to look forward to, and it keeps the jersey feeling special instead of overusing it. If the Phillies wore these every other game they would lose their impact. Once a week is perfect.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the powder blue jersey on Fanatics →</a>
 
 ## City Connects (Friday Nights)
 
@@ -145,7 +133,6 @@ The City Connect uniforms are worn on most Friday night home games at Citizens B
 
 The City Connect design features a midnight navy gradient with "Philly" in a gothic font inspired by the Constitution and other historical documents signed in Philadelphia. There are Liberty Bell cracks inside each letter. It is a creative concept. But we are not in love with these. The dark navy base makes them feel heavy, and the overall look does not pop the way the rest of the Phillies' closet does. The concept is solid on paper, but on the field they just do not hit the same as the powder blues or creams. Still, giving them their own designated night keeps the rotation clean and gives fans who do love them a guaranteed day to see them.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the City Connect jersey on Fanatics →</a>
 
 Philadelphia's biggest uniform moment of 2026 comes on the road: the [Field of Dreams throwback](/stories/field-of-dreams-2026-jerseys-leaked) they wear against the Twins in Iowa on **Thursday, August 13**, a gray 1939-41 set with the slanted red script. It is the only night all season the Phillies wear something outside the rotation on this page. The game is on Netflix at 7:30 p.m. ET — [everything you need to know is here](/stories/field-of-dreams-game-2026-everything-to-know), and we broke down [the Phillies jersey in detail](/stories/phillies-field-of-dreams-jersey-2026).
 
@@ -156,7 +143,6 @@ Philadelphia's biggest uniform moment of 2026 comes on the road: the [Field of D
 
 The gray road uniforms are exactly what you would expect. Clean, classic, and functional. The Phillies have worn this same road set since 1992, and it does not need to change. Road grays exist to let the home team's jerseys be the star, and the Phillies' version does that job well.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dphiladelphia%2520phillies%2520road%2520gray%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## The All-Star Patch
 
@@ -175,13 +161,6 @@ When you know that Thursday means powder blues and Friday means City Connect, it
 The Phillies have five uniforms that all serve a purpose. The pinstripes are the classic. The creams are the vintage daytime look. The powder blues are the weekly throwback. The City Connects are the Friday night special. And the road grays are the away uniform. Every jersey has its lane, and none of them step on each other.
 
 More teams should take notes.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Phillies games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

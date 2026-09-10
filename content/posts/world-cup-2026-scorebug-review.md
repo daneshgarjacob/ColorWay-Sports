@@ -105,11 +105,6 @@ The 2026 World Cup broadcast package is clean, correct, and complete — and on 
 
 We will be watching for the knockout-round versions of that header strip — "GROUP A" should become round names as the bracket tightens, and if the bug picks up any color along the way, the grade moves with it. This post will be updated when new versions debut. For the matches themselves, our [2026 World Cup Jersey Tracker](/stories/world-cup-2026-jersey-tracker) is grading every kit matchup of all 104 games, including the Mexico–South Africa opener this scorebug debuted over.
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 1.5em 0;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmexico%2520national%2520team%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 20px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 12px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Mexico Jerseys on Fanatics</a>
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dusmnt%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 20px; background: linear-gradient(135deg, #1a2f5a 0%, #0d1830 100%); border-radius: 999px; color: #fff; font-size: 12px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(26,47,90,0.35);">Shop USMNT Jerseys on Fanatics</a>
-</div>
-
 *Scorebug screenshots via the FOX Sports broadcast of Mexico vs South Africa at Estadio Azteca, June 11, 2026.*
 
 <span id="faq"></span>

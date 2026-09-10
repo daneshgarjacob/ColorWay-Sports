@@ -16,15 +16,6 @@ teams: ["houston-texans"]
 
 Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and as of August 25 all three have a face. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut the brand-new HOUSTON/US Rivalries uniform, the first white helmet in franchise history included, against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #f7dde1; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A71930" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Texans Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Deep Steel Blue, Battle Red, and Liberty White, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #A71930; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Confirmed Texans Uniform Games
 
 Three of Houston's eight home dates come with a jersey named by the team. All three are at Reliant Stadium.
@@ -75,7 +66,6 @@ Here is why it matters beyond the aesthetics. NFL convention lets the home team 
 
 As a uniform, Liberty White is the cleanest thing Houston owns. The navy and red striping does enough without crowding, and against a September afternoon under the Reliant roof it should read sharply. Whether it is the right call for an opener is a separate question. The white set is the quiet one, and openers usually want volume.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white jersey on Fanatics →</a>
 
 ## Battle Red (Week 7 vs. Giants, Confirmed)
 
@@ -85,7 +75,6 @@ Battle Red is also the uniform that gives the Texans an identity. The navy home 
 
 Our only complaint is the frequency. One Battle Red game a season is not enough for a uniform this strong, especially when the alternative is another afternoon in navy.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520battle%2520red%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Battle Red jersey on Fanatics →</a>
 
 ## The "HOUSTON/US" Rivalries Uniform, Revealed (Week 11 vs. Colts)
 
@@ -114,7 +103,6 @@ Second place in the 2026 class, and the gap between this and an A is one decisio
 
 Houston debuts the uniform against Indianapolis on Thursday, November 19, in a standalone Thursday Night Football window, the best possible stage for it. The program's rule is that the uniform comes out at a home game against a division rival, and Indianapolis is doing the same thing from the other side, debuting [their Anvil Strike Rivalries jersey in Week 3 against the Texans](/stories/colts-uniform-schedule-2026), so this rivalry gets two brand-new uniforms in one season. Rivalries merchandise goes on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations, and the set stays in Houston's rotation for three seasons. For the background on how the program works, see our [Rivalries explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520rivalries%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Rivalries jersey on Fanatics →</a>
 
 ## Deep Steel Blue at Home (The Base Set, Expected)
 
@@ -122,7 +110,6 @@ The navy home jersey projects to the four home dates not claimed by a confirmed 
 
 The 25th Season game is the one worth watching. A quarter-century is exactly the sort of milestone that produces a throwback, and Houston's original 2002 set is close enough to the current one that a heritage nod would be subtle rather than jarring. The team has not announced anything of the kind, so we are not putting it on the grid, but it is the most plausible place for a surprise on this schedule.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520navy%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the navy jersey on Fanatics →</a>
 
 ## The White Road Set (Expected)
 
@@ -130,7 +117,6 @@ The white road uniform projects to all nine away games: at the Colts, Titans, Ch
 
 That London game is the wrinkle worth understanding. Houston and Jacksonville meet in Week 6 on Sunday, October 18 at Wembley Stadium, and the Jaguars are the designated home team, which means Houston does not surrender one of its eight home dates and travels as the visitor. Two of the road games are also worth circling for contrast: Week 9 at the Chargers is Los Angeles's [Super Chargers navy game](/stories/chargers-uniform-schedule-2026), and Week 3 at Indianapolis is the Colts' Rivalries debut.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dhouston%2520texans%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white road jersey on Fanatics →</a>
 
 ## How the Texans Rotation Works in 2026
 

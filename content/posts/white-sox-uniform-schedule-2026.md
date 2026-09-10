@@ -19,15 +19,6 @@ teams:
 
 The Chicago White Sox carry five uniforms in 2026, and unlike a rigidly scheduled team such as the Phillies, their closet runs on feel more than a published timetable. The anchors everyone recognizes — the black-and-silver home pinstripes and the black alternate — do most of the work, while the brand-new red City Connect is the jersey fans actually plan around. Here's the full White Sox wardrobe for 2026 and when each one actually comes out.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop White Sox Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 This page covers when each jersey comes out. For our verdict on which ones are actually any good, we ranked and graded [every White Sox jersey for 2026](/stories/white-sox-jerseys-2026-ranked), from the red City Connect at the bottom to the black alternate at number one.
 
 
@@ -98,25 +89,21 @@ The home white is the look most fans picture: a clean white jersey laced with bl
 
 For what the White Sox have actually worn so far this season, day by day, see the [White Sox uniform calendar](/mlb-tracker/white-sox).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520home%2520pinstripe%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home pinstripe jersey on Fanatics →</a>
 
 ## Road Grays (Most Away Games)
 
 On the road, the White Sox wear the standard gray set with "CHICAGO" arched across the chest in the same Gothic lettering as the home jersey — black trimmed in silver — with the black cap. It's the workmanlike default for most away games, the quiet road look that lets the home team's colors be the star. For 2026 the sleeve carries the new CME Group patch in a blue-on-gray treatment, the one cosmetic tweak to an otherwise timeless gray. Nothing flashy, and it doesn't need to be.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Black Alternate (Weekend Home Games)
 
 The black alternate is the closest thing the White Sox have to a signature dark look, and it leans all the way into the South Side identity. It's a black jersey with the diagonal "SOX" script across the chest in silver, paired with the black cap and, most often, the white pinstriped pants. It's a staple of the rotation — frequently a weekend home choice, especially under the lights — and along with the home whites it forms the instantly recognizable two-jersey core of the closet. The all-black, minimalist palette is exactly the kind of thing that made the White Sox look so distinct when they adopted it in 1991, and more than three decades later it still reads as one of the sharpest dark uniforms in baseball.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520black%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the black alternate on Fanatics →</a>
 
 ## "Southside" — The Original City Connect, Now a Standard Alternate
 
 The charcoal-and-white "Southside" kit was the team's first City Connect, introduced by Nike in 2021 and an immediate hit: a dark charcoal jersey with white pinstripes and the Gothic-styled "Southside" lettering, a tribute to the South Side neighborhoods. When the new red City Connect arrived for 2025, the Southside look didn't get retired — it converted into a regular alternate, filling the second of the team's two alternate slots under the 4+1 rule. In practice it took a back seat the year the new kit launched, but it remains an available option in 2026, a reminder that the original City Connect was popular enough to keep around even after its successor showed up.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520southside%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Southside alternate on Fanatics →</a>
 
 ## Red City Connect — The Bulls Collaboration (Promotional Home Dates)
 
@@ -127,7 +114,6 @@ The newest and loudest piece is the red City Connect, revealed on April 28, 2025
 <div style="font-size: 0.72em; color: #999; margin-top: 6px;">Jersey image via Fanatics</div>
 </div>
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dchicago%2520white%2520sox%2520red%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the red Bulls City Connect on Fanatics →</a>
 
 ## How the White Sox Rotation Actually Works
 
@@ -138,13 +124,6 @@ It still works, because the staples carry the load and the City Connect is the p
 One more constant across all five: for the first time in franchise history, every White Sox jersey carries a sleeve advertising patch in 2026 — the **CME Group** logo, recolored to match whichever uniform it sits on. The deal was announced in late January 2026, and the team framed it as a partnership with a fellow Chicago institution rather than a flashy branding grab.
 
 Every jersey the White Sox wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch White Sox games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

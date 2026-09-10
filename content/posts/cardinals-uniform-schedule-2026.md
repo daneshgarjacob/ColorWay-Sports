@@ -22,15 +22,6 @@ teams:
 
 The Cardinals have one of the most disciplined uniform rotations in baseball, and the reason is simple. They have a system, and they stick to it. Instead of pulling jerseys at random the way most teams do, St. Louis ties specific looks to specific days. Every fan knows what to expect when they walk into Busch Stadium, and the whole closet works together. There are five uniforms in the 2026 mix, and once you learn the pattern you can call the jersey before the lineup card is even posted. If you want our take on the looks themselves, we also ranked [every Cardinals jersey for 2026](/stories/cardinals-jerseys-2026-ranked) from worst to best.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Cardinals Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #C41E3A 0%, #C41E3Acc 100%);">
   <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026 Tracker</p>
@@ -105,7 +96,6 @@ There is nothing to fix here, and that is the point. This is one of the most rec
 
 For what the Cardinals have actually worn so far this season, day by day, see the [Cardinals uniform calendar](/mlb-tracker/cardinals).
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520home%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the home white jersey on Fanatics →</a>
 
 ## Road Gray (Most Road Games)
 
@@ -117,7 +107,6 @@ The road gray is exactly what you would expect: clean, classic, and built to let
 
 **The cap on top of it changed on August 11, 2026.** For most of this season the road gray was paired with the all-red cap. It is now the navy "StL" cap for every remaining road game, after a fan vote. The section below has the full story, and it is one of our favorite things a team has done all year.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520gray%2520road%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the road gray jersey on Fanatics →</a>
 
 ## Cream Alternate (Saturday Home Games)
 
@@ -129,7 +118,6 @@ The cream alternate is reserved for Saturday home games at Busch Stadium, and it
 
 Tying the cream to Saturday home dates is a smart call. The off-white tone reads completely differently under natural daylight than the home white does, and giving it one designated day a week keeps it feeling special instead of routine. This is the Cardinals at their most timeless, and it is a uniform we would happily see more of if the system allowed it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520cream%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the cream alternate on Fanatics →</a>
 
 ## The Navy Road Cap Is Back, and the Fans Chose It
 
@@ -173,7 +161,6 @@ It is also just the more recognizable Cardinals look. The navy cap is what most 
 
 One thing the announcement did not address: the red cap that pairs with the powder-blue "Victory Blue" alternate on Saturday road games. That is a separate pairing and nothing has been said about changing it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520navy%2520cap" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #0C2340; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Cardinals navy cap on Fanatics →</a>
 
 ## Powder Blue "Victory Blue" (Saturday Road Games)
 
@@ -185,7 +172,6 @@ The powder-blue "Victory Blue" alternate is the Saturday-road counterpart to the
 
 The powder blue and the cream never appear in the same series role, because one is home-only and the other is road-only. That separation is the cleanest part of the whole system. When the Cardinals are on the road on a Saturday, the powder blue comes out, and it remains a road-only alternate. It was not promoted to a full-time road jersey, which is the right move. A weekly throwback keeps its charm in a way an everyday uniform never could.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520powder%2520blue%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the Victory Blue jersey on Fanatics →</a>
 
 ## City Connect "The Lou" (Friday Home Games)
 
@@ -197,7 +183,6 @@ The City Connect is the boldest thing in the closet, and it lives on Friday home
 
 Here is the detail that surprises people: this is the first red jersey in the regular-season history of the franchise. For a team whose entire identity is the color red, the Cardinals had never actually worn a red jersey until "The Lou" arrived. We like the concept and the storytelling far more than we expected to, and giving it a fixed Friday-night home date keeps the rotation tidy while guaranteeing fans a night to see it.
 
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dst%2520louis%2520cardinals%2520city%2520connect%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the The Lou City Connect on Fanatics →</a>
 
 ## Why This System Works
 
@@ -208,13 +193,6 @@ When you know that Friday at home means "The Lou," Saturday at home means the cr
 The Cardinals have five uniforms that all serve a purpose. The home white is the classic. The road gray is the workhorse. The cream is the vintage Saturday look at home. The powder blue is the Saturday throwback on the road. And "The Lou" is the Friday-night statement. Every jersey has its lane, and none of them step on each other. More teams should take notes.
 
 Every jersey the Cardinals wear gets logged the morning after in our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), and the [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps all 30 clubs.
-
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin: 2em 0 0.6em;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #ffe3df; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e1251b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Watch Cardinals games live</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Stream every game on Fubo, no cable needed</div></div>
-<a href="https://www.fubo.tv/welcome/leagues/191273?irmp=7169536&irad=377812" target="_blank" rel="sponsored noopener" data-fubo-cta style="background: #e1251b; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Stream On Fubo →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on new Fubo subscriptions, at no extra cost to you.</p>
 
 ## Frequently Asked Questions
 

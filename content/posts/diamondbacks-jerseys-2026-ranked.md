@@ -61,15 +61,6 @@ The 2026 version is "Serpientes 2.0," unveiled in May 2025 to replace the sand-t
 
 It grades a B-, and it is the most interesting entry on this list for a reason that has nothing to do with its own quality. This is the only jersey Arizona owns where purple and teal are the whole identity rather than an accent fighting for space, and those two colours together are the best this franchise has ever looked. Which raises the obvious question: why is the palette that built this team's history locked into a Friday novelty slot while red and black run the other six days? The snakeskin-into-pinstripes texture is a bit much, and the concept is loud in the way City Connects always are. But strip away the gimmick and there is a real identity underneath, one the team keeps at arm's length.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Diamondbacks Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## 2. Black Alternate
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #1a1a1a, #000000); color: white; text-align: center;">
@@ -99,11 +90,6 @@ It grades a B, and it is the one jersey where the teal experiment actually works
 The Sedona red alternate is the loudest piece of the regular closet: a red top with the full "Diamondbacks" script across the chest in black outlined in teal, teal front numbers, and teal-and-black braiding at the sleeves and neckline, worn with gray or off-white pants. The 2024 redesign swapped the old "D-backs" abbreviation for the complete "Diamondbacks" wordmark, which made the whole jersey read bigger from the seats.
 
 It grades a B and takes the top spot, and the deciding factor is the wordmark. Going from an abbreviation to the full "Diamondbacks" script is the single best change the 2024 overhaul made, because a long word across the chest fills the jersey the way that lonely "A" on the home whites never does. Sedona red is also the most distinctive colour in the closet, a genuinely specific desert shade nobody else in baseball wears. The teal outlining is still an argument the jersey is having with itself, and this look would be cleaner with the teal dialled back. But it is the boldest, fullest, most confident thing Arizona puts on the field, and confidence wins a tie this close.
-
-<div style="margin: 1.6em 0 2.2em; padding: 14px 18px; background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #2f6bed; border-radius: 10px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-<div style="flex: 1 1 220px; min-width: 0; color: #14223f; font-size: 14px; font-weight: 600; line-height: 1.45;">Our No. 1 this season: the Sedona Red Alternate.</div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Darizona%2520diamondbacks%2520sedona%2520red%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 8px; text-decoration: none; white-space: nowrap;">Shop it at Fanatics →</a>
-</div>
 
 ## Every Diamondbacks Jersey in 2026, at a Glance
 

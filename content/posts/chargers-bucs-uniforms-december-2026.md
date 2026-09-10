@@ -45,15 +45,6 @@ White pants do exactly that. They give the gold a floor to sit on, they pull the
 
 We want to be straight about where that lands it, though, because a fix is not the same as a great uniform. This is still a lot of gold, and gold is a hard color to build a football uniform around. It still does not have the effortlessness of the powder blue set, which is the standard this franchise set for itself and the bar everything else in the closet gets measured against. The white pants take Charger Power from a jersey we did not enjoy watching to one we are fine with, and that is real progress on a set that had nowhere to go but up. It is not the same as loving it.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Chargers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Charger Power gold and more, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dlos%2520angeles%2520chargers%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ### Now Do the Navy
 
 The Chargers introduced two alternates in 2025, and the other one has the identical problem. "Super Chargers" is a navy jersey that debuted with navy pants, the same single-column construction, the same missing waistline.
@@ -88,15 +79,6 @@ Everything about it is right. The base is white, so the orange gets to be the ac
 It is also, quietly, a masterclass in the thing this whole post is about. There is no version of the creamsicle that reads as one flat color. White jersey, white pants, but the orange and red do so much work at the collar, the shoulders, the numbers, and the helmet that the uniform has structure everywhere you look. All-white is the one monochrome that works, because white is a background rather than a statement, and Tampa fills it in properly.
 
 Wearing it once or twice a season is exactly correct. This is a jersey that would lose something if it showed up every other week.
-
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop Buccaneers Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Creamsicle throwbacks and more, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dtampa%2520bay%2520buccaneers%2520throwback%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
 
 ## Why This Matchup Actually Works
 

@@ -58,10 +58,6 @@ The one real design knock: that white facemask. Under a bright afternoon sun, wh
 
 On a table by itself this helmet is an A-. Clean, historically grounded, and the White Out home opener is a genuinely great idea. It comes down to a B because it is the fifth helmet in a closet that stopped being special several helmets ago, and because the white facemask costs it definition in daylight. The Jets keep winning the offseason. We would trade all five lids for one January.
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnew%2520york%2520jets" target="_blank" rel="sponsored noopener" style="padding: 12px 28px; background: #2f6bed; border-radius: 999px; color: #ffffff; font-size: 0.85em; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block;">Shop Jets Gear</a>
-</div>
-
 ---
 
 ## Coming Next: What Is Still Left to Drop

@@ -79,10 +79,6 @@ This tracker grows. We will add the NBA Western Conference Champion gear once th
 
 The Knicks hat is the high bar for the round. The "2026 NBA Finals" wordmark sits on the front panel alongside the round Knicks logo crest with a sweeping arc graphic behind the lettering, the front reading as a co-branded badge that prioritizes the team identity over the generic conference champs treatment. That is the right design instinct for the moment a team clinches its first Finals trip in 25-plus years, and it earned the hat an A-. The two knocks are the all-black template colorway and the front wordmark running entirely in white rather than Knicks orange or blue, both of which would have pushed this hat to a clean A. Full breakdown of the Knicks hat and the matching heather gray trophy-art shirt is in our [Knicks 2026 Eastern Conference Champions Hat and T-Shirt review](/stories/knicks-2026-eastern-conference-champions-hat-shirt-graded). Hat **A-**. Shirt **B-**.
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dknicks%2Beastern%2Bconference%2Bchampions%2Bgear" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Knicks ECF Champs Gear on Fanatics</a>
-</div>
-
 <span id="knights-wcf"></span>
 
 ## Vegas Golden Knights 2026 Western Conference Champions Gear
@@ -92,10 +88,6 @@ The Knicks hat is the high bar for the round. The "2026 NBA Finals" wordmark sit
 </div>
 
 The Knights hat goes the other direction. The team-color front instead of the default black template is the right call for an identity as distinctive as Knights gold, and pulling the gold from the primary logo color onto the front panel ties the gear back to the home identity the Knights wore for the Game 4 sweep clincher. That part of the design works. The problem is the front wordmark stops at "Western Conference Champs" and the 2026 Stanley Cup Final logo gets buried on the back panel of the cap where the broadcast cameras almost never frame it. The priority scale is flipped. The Knicks hat puts the next round on the front. The Knights hat puts the round just won on the front. That is the difference between an A- and a C+. The shirt landed at B- on the same recycled Fanatics destination tee template every NHL conference champion has gotten for years, and the Knights players largely defaulted to the gold-front hat on camera for the trophy presentation while the shirt picked up far fewer screen seconds. Full breakdown of both pieces is in our [Knights 2026 Western Conference Champions Hat and T-Shirt review](/stories/knights-2026-western-conference-champions-hat-shirt-graded). Hat **C+**. Shirt **B-**.
-
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520western%2520conference%2520champions%2520gear" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="padding: 10px 22px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 11px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop Knights WCF Champs Gear on Fanatics</a>
-</div>
 
 <span id="takeaways"></span>
 

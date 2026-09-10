@@ -18,15 +18,6 @@ Every MLB team has a closet full of jerseys now. Home whites, road grays, a City
 
 Here is the part that surprised us: only four teams in baseball actually run a real uniform schedule. The [Phillies](/stories/phillies-uniform-schedule-2026), [Marlins](/stories/marlins-uniform-schedule-2026), [Cardinals](/stories/cardinals-uniform-schedule-2026), and [Yankees](/stories/yankees-uniform-schedule-2026) are the only clubs where the day of the week reliably tells you the jersey. Everyone else anchors one or two days, usually a City Connect Friday, and improvises the rest.
 
-<div style="margin: 2em 0; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;">
-<div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-<div style="width: 44px; height: 44px; border-radius: 10px; background: #e8eefb; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2f6bed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></div>
-<div style="flex: 1 1 160px; min-width: 0;"><div style="color: #14223f; font-size: 15px; font-weight: 700; line-height: 1.3;">Shop MLB Jerseys</div><div style="color: #6b7180; font-size: 13px; line-height: 1.4;">Every team, authentic and replica, from Fanatics</div></div>
-<a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dmlb%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="background: #2f6bed; color: #ffffff; font-size: 14px; font-weight: 700; padding: 10px 18px; border-radius: 8px; text-decoration: none; white-space: nowrap; margin-left: auto;">Shop now →</a>
-</div>
-<p style="font-size: 12px; color: #9aa0ac; margin: 8px 2px 0;">ColorWay Sports may earn a commission on purchases, at no extra cost to you.</p>
-</div>
-
 ## The Three Types of MLB Uniform Teams
 
 Before the team-by-team tables, it helps to know that every club falls into one of three buckets. Once you know which bucket a team is in, you know how much the calendar can tell you.

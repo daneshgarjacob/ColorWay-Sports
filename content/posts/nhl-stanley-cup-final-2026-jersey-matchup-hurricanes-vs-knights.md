@@ -43,14 +43,12 @@ The 2026 NHL Stanley Cup Final is set. The Carolina Hurricanes closed out the Mo
       <img src="/images/jerseys/nhl/hurricanes-white.png" alt="Carolina Hurricanes white road sweater for the 2026 NHL Stanley Cup Final at Vegas Golden Knights with the 2026 Stanley Cup Final patch on the right chest" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520road%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nhl/vegas-gold.png" alt="Vegas Golden Knights primary gold home sweater for the 2026 NHL Stanley Cup Final vs Carolina Hurricanes with the 2026 Stanley Cup Final patch on the right chest" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Gold</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520home%2520gold%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
   </div>
 </div>
@@ -72,14 +70,12 @@ The Vegas home half of the matchup grades at the same 9 out of 10 the Knights go
       <img src="/images/jerseys/nhl/vegas-white.png" alt="Vegas Golden Knights white road sweater for the 2026 NHL Stanley Cup Final at Carolina Hurricanes with the 2026 Stanley Cup Final patch on the right chest" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">VEGAS GOLDEN KNIGHTS</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Road · White</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520road%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 24px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <img src="/images/jerseys/nhl/hurricanes-black.png" alt="Carolina Hurricanes black home alternate sweater for the 2026 NHL Stanley Cup Final vs Vegas Golden Knights with the 2026 Stanley Cup Final patch on the right chest, the same home alternate Carolina ran for all three Lenovo Center home games of the Eastern Conference Final" style="height: 200px; max-width: 100%; object-fit: contain;" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.6);">CAROLINA HURRICANES</p>
       <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Home · Black Alternate</p>
-      <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520black%2520alternate%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="margin-top: 12px; padding: 6px 14px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 10px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop on Fanatics</a>
     </div>
   </div>
 </div>
@@ -130,7 +126,7 @@ The Carolina Hurricanes are projected to wear the black home alternate sweater a
 
 **Where can I buy the Hurricanes and Knights Stanley Cup Final jerseys?**
 
-The official Stanley Cup Final jerseys for both the Carolina Hurricanes and the Vegas Golden Knights, with the 2026 Stanley Cup Final patch on the right chest, are available at Fanatics. Shop the [Hurricanes Stanley Cup Final jerseys on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dcarolina%2520hurricanes%2520stanley%2520cup%2520final%2520jersey) or the [Knights Stanley Cup Final jerseys on Fanatics](https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dvegas%2520golden%2520knights%2520stanley%2520cup%2520final%2520jersey).
+The official Stanley Cup Final jerseys for both the Carolina Hurricanes and the Vegas Golden Knights, with the 2026 Stanley Cup Final patch on the right chest, are available at Fanatics. Shop the Hurricanes Stanley Cup Final jerseys on Fanatics or the Knights Stanley Cup Final jerseys on Fanatics.
 
 **When does the 2026 NHL Stanley Cup Final start?**
 

@@ -59,11 +59,6 @@ For how the rest of the tournament's visual identity is holding up, our live [20
 ## Get the Trionda
 
 The Trionda comes in several versions, from the full Pro match ball used in the actual tournament, the one with the chip layer and thermally bonded panels, down to replica training and mini sizes that keep the same wave design at a fraction of the price. If you want the exact ball being played at this tournament, look for the Pro. If it is for the backyard or a display shelf, the replicas photograph nearly identically.
-
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 1.5em 0 2em;">
-  <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dadidas%2Btrionda%2Bball" target="_blank" rel="sponsored noopener" style="padding: 12px 26px; background: linear-gradient(135deg, #C8102E 0%, #8B0000 100%); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(200,16,46,0.35);">Shop the adidas Trionda on Fanatics</a>
-  <a href="https://www.amazon.com/s?k=adidas+trionda+ball&tag=colorwaysport-20" target="_blank" rel="sponsored noopener" style="padding: 12px 26px; background: linear-gradient(135deg, #1A3A8F 0%, #0B1A2F 100%); border-radius: 999px; color: #fff; font-size: 13px; font-weight: 800; text-decoration: none; letter-spacing: 1.5px; text-transform: uppercase; display: inline-block; box-shadow: 0 2px 6px rgba(26,58,143,0.35);">Shop the adidas Trionda on Amazon</a>
-</div>
 <p style="text-align: center; font-size: 0.7em; color: #999;">Some links on this page earn us a commission at no extra cost to you.</p>
 
 ## Frequently Asked Questions
