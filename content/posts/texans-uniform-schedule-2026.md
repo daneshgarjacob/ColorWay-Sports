@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-09"
+updatedDate: "2026-09-10"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -41,7 +41,7 @@ Three of Houston's eight home dates come with a jersey named by the team. All th
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Week 8 is the bye, and Week 6 against Jacksonville is at Wembley Stadium with the Jaguars as the designated home team.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #ffffff; color: #03202F; border: 2px solid #03202F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Liberty White</div></div>
+  <div style="background: #ffffff; color: #03202F; border: 2px solid #03202F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Liberty White &middot; Red Helmet</div></div>
   <div style="background: #03202F; color: #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Deep Steel Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White (Dallas in Navy)</div></div>
@@ -65,7 +65,11 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 
 ## Liberty White (Week 1 vs. Bills, Confirmed)
 
-Houston opens the season at home against Buffalo on Sunday, September 13, and the Texans have confirmed they will wear Liberty White with fans asked to wear white to match. That is a genuinely notable choice, because a home team wearing white is giving something up.
+Houston opens the season at home against Buffalo on Sunday, September 13, and the Texans have confirmed they will wear Liberty White with fans asked to wear white to match. The team's game-week graphic adds the detail that matters: the white set goes out under the **red helmet**, the Battle Red shell rather than the standard navy one, so the opener is white from the shoulders down with the only strong colour on top.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2098049349074710805"></a></blockquote>
+</div> That is a genuinely notable choice, because a home team wearing white is giving something up.
 
 Here is why it matters beyond the aesthetics. NFL convention lets the home team pick, and the visitor takes the contrasting jersey. By choosing white, Houston hands Buffalo the option of a colored jersey in Week 1, which is the opposite of how almost every home opener in the league is staged. We have updated our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) to reflect it, and Buffalo has since confirmed its side of it: white helmet, blue jersey and blue pants. The opener is Liberty White against all blue.
 

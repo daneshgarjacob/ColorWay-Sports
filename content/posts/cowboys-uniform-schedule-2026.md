@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: All 17 Games Announced, With Three Color Rush Dates and the Thanksgiving Classic"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-10"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -73,6 +73,8 @@ Ten games in white, six of them at home and four on the road. Three in navy, all
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid promises: <strong>all seventeen assignments are official</strong>, published by the Cowboys on September 2, so every cell carries the ★. Ten are the standard white jersey and seven are not: three navy, three Color Rush, one Classic. The team labels the two primaries as White and Navy and the alternates as Color Rush and Classic; we use the same names. The three navy dates are all trips to hosts that wear white at home, which is the only way the visiting Cowboys ever get to wear the dark jersey. Pants and sock combinations are not part of the announcement and remain a week-of-game call.</p>
 
 ## The White Set (10 Games, Confirmed)
+
+The opener at the Giants on Sunday night is the standard version: **silver helmet, white jersey, and the blue-tinted silver pants**, the ones that read light blue under stadium lights and are the reason the Dallas road look has always been more blue than silver on a broadcast. No Color Rush, no all-white, just the uniform most people picture when they picture the Cowboys.
 
 The white jersey with the metallic-silver-blue pants is the uniform Dallas has built its identity on, and it draws ten of the seventeen games. Six are at home: the Rio de Janeiro game against Baltimore in Week 3, which counts as a Dallas home date, the Thursday-night visit from Tampa Bay in Week 5, Arizona in Week 8, San Francisco in Week 10, Tennessee in Week 11, and the New Year's weekend date with the Giants in Week 17. Four are on the road: the Sunday-night opener at the Giants in Week 1, Lambeau in Week 6, a Monday night in Seattle in Week 13, and the finale at Washington in Week 18.
 

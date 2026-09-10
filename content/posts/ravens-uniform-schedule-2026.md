@@ -2,7 +2,7 @@
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-06"
+updatedDate: "2026-09-10"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -30,7 +30,7 @@ Baltimore has now named all three of its Next Flight theme games. The all-white 
 Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The Rio game is a road game, for a reason explained below.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; Black Pants</div></div>
   <div style="background: #ffffff; color: #241773; border: 2px solid #241773; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White Noise</div></div>
   <div style="background: #eceff3; color: #4a4a4a; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Open · Rio</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -112,6 +112,12 @@ Weeks 4, 7, 9, 14, 16 and 18. Tennessee, Cincinnati, Jacksonville on Thursday as
 The purple is the whole identity. It is the only one in the league, nobody can take it, and the fact that Baltimore built a modern helmet program around deepening it rather than escaping it is the smartest thing about Next Flight.
 
 ## White on the Road (7 Games, Plus Rio)
+
+Baltimore has confirmed the opener in Indianapolis: **black helmet, white jersey, black pants.** That is the road look at its sharpest, the white jersey bracketed top and bottom by black so it reads as a bright band between two dark ones rather than a white shape trailing into white legs. Against a Colts side in blue at home, the black pants are what keep Baltimore from looking like the lighter, thinner team on the field.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2098063958821462492"></a></blockquote>
+</div>
 
 Weeks 1, 5, 6, 8, 11, 12 and 15, plus Week 3 in Brazil if they stay with the default. The Week 5 Sunday nighter in Atlanta is the one with the biggest audience.
 
