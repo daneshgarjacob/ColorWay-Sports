@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-08-18"
+updatedDate: "2026-09-09"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -34,7 +34,7 @@ The Washington Commanders just released their full 2026 uniform schedule, and it
 Here is the entire season at a glance. Burgundy is the heritage jersey, white is the new primary, and the black Hail Raiser is the alternate. Week 7 is the bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; White Pants</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">Colts · London</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
@@ -59,6 +59,16 @@ Here is the entire season at a glance. Burgundy is the heritage jersey, white is
 ## White Jersey (The New Primary, 6 Games)
 
 This is the story of the schedule. The white jersey, worn just three times as an alternate in 2025, is now Washington's most-featured road look and the closest thing the closet has to a primary. It is a clean white set with the burgundy and gold trim, worn with the burgundy helmet and the gold spear-W, and it opens the season Week 1 in Philadelphia. Washington leans on it for six games, mostly on the road: at the Eagles, home against the Giants, then at the 49ers, Cardinals, Titans, and Jaguars. Promoting the whites is a smart, understated call. It is the crispest jersey the franchise owns, it photographs beautifully in daylight, and it lets the burgundy and gold read as accents rather than fighting for attention. For a team that spent years without a settled identity, making the white the anchor is a confident, grown-up move.
+
+### Week 1 Is White Over White
+
+Washington has confirmed the opener in Philadelphia: the **burgundy helmet over a white jersey and white pants**. The pants were the open question, because the white jersey was shown with three different pant options, gold, burgundy and white, and Washington went with the quietest of the three.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2097784980923457857"></a></blockquote>
+</div>
+
+It is the right call for this specific game and it is not close. Philadelphia wears midnight green at home, which is one of the darkest jerseys in the league and swallows anything mid-toned put next to it. Gold pants would have introduced a third colour nobody needed, and burgundy pants would have dropped Washington's value close enough to Philadelphia's green that the two sides start to blur on a wide shot. White over white keeps the visitors as the brightest thing on the field, and the burgundy shell on top becomes the only strong colour Washington is carrying, which is exactly how you want a helmet to work. The gold facemask does the rest.
 
 <a href="https://fanatics.93n6tx.net/5kZn3j?u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dwashington%2520commanders%2520white%2520jersey" target="_blank" rel="sponsored noopener" data-fanatics-jersey-cta style="display: inline-block; margin: 0.5em 0 0.25em; background: #2f6bed; color: #ffffff; font-size: 13px; font-weight: 700; padding: 8px 16px; border-radius: 8px; text-decoration: none;">Shop the white primary jersey on Fanatics →</a>
 
