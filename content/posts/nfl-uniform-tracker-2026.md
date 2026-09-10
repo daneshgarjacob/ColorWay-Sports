@@ -13,7 +13,7 @@ kicker: Tracker
 league: nfl
 teams: []
 recentSections: 5
-recentOrder: oldest-first
+recentOrder: newest-first
 archiveHref: "/stories/nfl-uniform-schedule-2026"
 archiveLabel: "Every team's 2026 uniform schedule"
 ---
