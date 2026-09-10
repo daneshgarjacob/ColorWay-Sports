@@ -2,7 +2,7 @@
 title: "NBA City Edition Jerseys 2026-27: Every Team, the September 15 Reveal, and What Has Already Leaked"
 category: "NBA"
 date: "2026-08-27"
-updatedDate: "2026-09-01"
+updatedDate: "2026-09-09"
 excerpt: "NBA City Edition jerseys 2026-27 are revealed September 15. Year ten of the program. Every team's status, every leaked uniform, graded as they land."
 gradient: "linear-gradient(135deg, #2d2540 0%, #1d2340 55%, #12172b 100%)"
 coverImage: "/images/posts/nba-city-edition-jerseys-2026-27/cover.jpg"
@@ -37,6 +37,22 @@ The 2025-26 season was the ninth run of Nike's City Edition. That makes 2026-27 
 That third one is the interesting part, and both confirmed uniforms already prove it. Atlanta is bringing back its 2020-21 design. Washington is bringing back its 2022-23 design. Philadelphia's leaked one is a return of a 2017-18 design. If the brief is "bring back your best," this collection is effectively a league-wide vote on which City Editions actually worked, decided by the teams themselves.
 
 It also means the 2026-27 collection should be unusually good. Nine years of City Edition produced some genuinely great uniforms and a lot of black-with-a-gradient filler. A remix year skips the filler.
+
+## September 9: A Second Leak Wave, and the Problem With It
+
+Six days out from the reveal, a much larger batch of designs began circulating, the Lakers among them. The Lakers image matches what leaked in April, which is the single most useful thing about it, because it is the strongest evidence yet that the April eight were **City Editions all along and never Christmas jerseys**. We argued that in April and again below. This supports it.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LADEig/status/2097839374645723309"></a></blockquote>
+</div>
+
+The designs themselves are the problem, and it is worth naming before the reveal rather than after.
+
+**Everything in the leak looks like everything else in the leak.** Not the colours, which are still each club's own, but the construction: the same typography, the same proportions, the same placement decisions repeating down the whole set. The leaked images also show the player name sitting **below** the number rather than above it, which is a template-level choice, not a team-level one, and it appears to be shared across the collection.
+
+That is the trap built into this year's brief. Year ten asks every club to remix its best design from the first nine years, and it hands them a shared anniversary treatment to do it in, the aluminium-finish Swoosh and the relocated league logo. Run thirty clubs through one template and you do not get thirty city stories, you get one uniform in thirty colourways. The whole premise of City Edition was that Miami's version of itself should look nothing like Utah's. A collection that shares a nameplate layout, a number treatment and a trim package has already given most of that away.
+
+We hope we are wrong about this, and there is a real chance we are, because leaked mockups flatten detail in a way finished product photography does not. Embroidery, fabric, and the trim that distinguishes one club from another are exactly what a leak loses. **Treat every design specific here as leak-accurate rather than league-confirmed.** We grade all thirty on September 15 and we will say plainly which parts of this we got wrong.
 
 ## Every Team's 2026-27 City Edition Status
 
