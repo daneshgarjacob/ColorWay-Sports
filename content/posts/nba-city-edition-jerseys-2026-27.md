@@ -38,21 +38,19 @@ That third one is the interesting part, and both confirmed uniforms already prov
 
 It also means the 2026-27 collection should be unusually good. Nine years of City Edition produced some genuinely great uniforms and a lot of black-with-a-gradient filler. A remix year skips the filler.
 
-## September 9: A Second Leak Wave, and the Problem With It
+## September 10: The Leak Has a Name, and It Is Not City Edition
 
-Six days out from the reveal, a much larger batch of designs began circulating, the Lakers among them. The Lakers image matches what leaked in April, which is the single most useful thing about it, because it is the strongest evidence yet that the April eight were **City Editions all along and never Christmas jerseys**. We argued that in April and again below. This supports it.
+The designs that leaked this week, the Lakers among them, are the **Nike Specter Edition**, a new line the league and Nike confirmed on September 10 for eight of the NBA's oldest franchises: the Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks and Kings. Nike's line is that the collection reimagines "team identity for the league's oldest franchises through their history, culture and the energy of today's game," and it sits inside a wider Nike NBA Standard Issue collection that drops on September 15 and October 12. The Specter uniforms themselves reach the court and retail later in the fall.
+
+That settles a question this page has carried since April, and it settles it against us. **The eight designs that leaked in the spring were never Christmas jerseys, and they were never City Editions either.** They are Specter Editions, a fifth uniform on top of Icon, Association, Statement and City. It is why Atlanta's leaked design did not match the City Edition the Hawks had already announced, which we flagged below as the fact that cut against our own theory. The theory was wrong; the flag was right.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LADEig/status/2097839374645723309"></a></blockquote>
 </div>
 
-The designs themselves are the problem, and it is worth naming before the reveal rather than after.
+The design complaints stand, and they now attach to the right program. The Specter set shares a template across all eight clubs: the Swoosh moved toward the centre of the chest, a smaller wordmark, and the **player name placed low across the back, below the number**, which is confirmed on the Pistons reveal and visible on the Lakers. The Lakers' version is black and purple with yellow lettering and a blue and white stripe at the shoulder that references the Minneapolis years. Detroit's is black with teal outlining and red, teal and orange streaks across the front, a long way from red, white and blue. The reaction has been rough, and we will grade all eight properly in a separate piece rather than fold them into a City Edition page they do not belong on.
 
-**Everything in the leak looks like everything else in the leak.** Not the colours, which are still each club's own, but the construction: the same typography, the same proportions, the same placement decisions repeating down the whole set. The leaked images also show the player name sitting **below** the number rather than above it, which is a template-level choice, not a team-level one, and it appears to be shared across the collection.
-
-That is the trap built into this year's brief. Year ten asks every club to remix its best design from the first nine years, and it hands them a shared anniversary treatment to do it in, the aluminium-finish Swoosh and the relocated league logo. Run thirty clubs through one template and you do not get thirty city stories, you get one uniform in thirty colourways. The whole premise of City Edition was that Miami's version of itself should look nothing like Utah's. A collection that shares a nameplate layout, a number treatment and a trim package has already given most of that away.
-
-We hope we are wrong about this, and there is a real chance we are, because leaked mockups flatten detail in a way finished product photography does not. Embroidery, fabric, and the trim that distinguishes one club from another are exactly what a leak loses. **Treat every design specific here as leak-accurate rather than league-confirmed.** We grade all thirty on September 15 and we will say plainly which parts of this we got wrong.
+**What this means for September 15:** the City Edition status board below is back to where it was before the leak. The eight Specter clubs still have City Editions coming, and for six of them we know nothing about the design. The Wizards and Hawks are the only confirmed City Editions in the building.
 
 ## Every Team's 2026-27 City Edition Status
 
