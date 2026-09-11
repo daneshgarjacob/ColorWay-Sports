@@ -20,7 +20,12 @@ Nike and the NBA confirmed a new uniform line on September 10, 2026, and it answ
 
 ## What the Specter Edition Is
 
-Specter is a program for eight clubs, chosen for age rather than market: the **Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, Philadelphia 76ers, Detroit Pistons, Atlanta Hawks and Sacramento Kings**. Sacramento is the oldest continuously operating franchise in the league, and the other seven all trace back to the 1940s and 1950s.
+Specter is a program for eight clubs, chosen for age rather than market: the **Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, Philadelphia 76ers, Detroit Pistons, Atlanta Hawks and Sacramento Kings**. Sacramento is the oldest continuously operating franchise in the league, and the other seven all trace back to the 1940s and 1950s. **It is only these eight.** Nike's own framing is a collection for "the teams who trace their roots back to the earliest chapters of the league," and the other 22 clubs do not get one this season.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacKings_Unis/status/2097844299547218422"></a></blockquote>
+</div>
+
 
 Nike's own description is that the collection reimagines "team identity for the league's oldest franchises through their history, culture and the energy of today's game," and that the designs are "inspired by the next generation of hoopers." The company says it built the line with feedback from players and younger fans, with the stated goal of making team gear more wearable away from the court. Read that as a streetwear brief with a basketball jersey as the canvas.
 
@@ -45,7 +50,16 @@ We reviewed all eight when they leaked in April, when the world thought they wer
 <div style="margin: 1.5em 0; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden;">
 <div style="background: #14284b; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">Specter Edition, ranked</div>
 <div style="padding: 6px 18px 10px; font-size: 15px; line-height: 1.7; color: #1c1c1c;">
-<p style="margin: 8px 0;"><strong>1. Detroit Pistons, A.</strong> The flames and the teal piping make this the clear winner, and it is the only one that reads as a deliberate idea rather than a template. <a href="/stories/pistons-christmas-jersey-2026">Full review</a>.</p>
+</div>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2098160051328344074"></a></blockquote>
+</div>
+
+<div style="margin: 1.5em 0; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden;">
+<div style="padding: 6px 18px 10px; font-size: 15px; line-height: 1.7; color: #1c1c1c;">
+<p style="margin: 8px 0;"><strong>1. Detroit Pistons, A.</strong> The flames and the teal piping make this the clear winner, and it is the only one that reads as a deliberate idea rather than a template. Detroit is also the only one of the eight to have shown its own, above. <a href="/stories/pistons-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>2. Atlanta Hawks, A-.</strong> The most colorful of the eight, with the blue and green brushstrokes doing real work against the black. <a href="/stories/hawks-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>3. Boston Celtics, B+.</strong> Neon green on black is a better fit for this concept than it has any right to be. <a href="/stories/celtics-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>4. New York Knicks, B+.</strong> The lightest design in the set, which is exactly why it stands out from it. <a href="/stories/knicks-christmas-jersey-2026">Full review</a>.</p>
@@ -55,6 +69,12 @@ We reviewed all eight when they leaked in April, when the world thought they wer
 <p style="margin: 8px 0;"><strong>8. Los Angeles Lakers, C.</strong> Far too dark for the purple and gold, and the Minneapolis stripe cannot rescue it. <a href="/stories/lakers-christmas-jersey-2026">Full review</a>.</p>
 </div>
 </div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LADEig/status/2097839374645723309"></a></blockquote>
+</div>
+
+Each team link above opens the full review with that design shown in detail. The Lakers and Pistons are the two Nike has put real photography behind so far; the other six are still leak renderings, and we will swap in the official images as each club releases its own.
 
 ## What We Got Wrong, in Order
 
