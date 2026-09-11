@@ -25,7 +25,7 @@ loanDepot Park has the least-open roof in Major League Baseball. The Marlins pla
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Dodgers at Marlins &middot; 7:10 PM EDT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>80&deg;F</strong> with 90% humidity and a 17% chance of rain. loanDepot Park is closed by default and this is a default night.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>76&deg;F</strong> with 87% humidity and a 38% chance of rain. loanDepot Park is closed by default and this is a default night.</div>
     <a href="https://x.com/Marlins" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #00A3E0; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @Marlins &rarr;</a>
   </div>
 </div>
