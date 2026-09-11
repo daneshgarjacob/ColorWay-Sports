@@ -26,7 +26,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 11
 
-Friday opened at Wrigley with the day game, and Pittsburgh brought the colour: the Pirates wore the black alternate against the Cubs' home white pinstripes, the same black-on-pinstripes picture they made at the White Sox on Thursday, and the Cubs won it 5-1. The night's first colour-on-colour pairing came in Washington, where the Angels wore the red alternate and the Nationals answered in the navy alternate, red against navy with no white jersey on the field. The rest of the night games are logged here as they are confirmed.
+Friday opened at Wrigley with the day game, and Pittsburgh brought the colour: the Pirates wore the black alternate against the Cubs' home white pinstripes, the same black-on-pinstripes picture they made at the White Sox on Thursday, and the Cubs won it 12-2. The night's first colour-on-colour pairing came in Washington, where the Angels wore the red alternate and the Nationals answered in the navy alternate, red against navy with no white jersey on the field. The rest of the night games are logged here as they are confirmed.
 
 ### Los Angeles Angels at Washington Nationals
 
