@@ -26,7 +26,6 @@ Specter is a program for eight clubs, chosen for age rather than market: the **L
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacKings_Unis/status/2097844299547218422"></a></blockquote>
 </div>
 
-
 Nike's own description is that the collection reimagines "team identity for the league's oldest franchises through their history, culture and the energy of today's game," and that the designs are "inspired by the next generation of hoopers." The company says it built the line with feedback from players and younger fans, with the stated goal of making team gear more wearable away from the court. Read that as a streetwear brief with a basketball jersey as the canvas.
 
 It sits inside a wider **Nike NBA Standard Issue** collection, which is where the confusion about dates comes from. Standard Issue drops on **September 15 and October 12**. The Specter uniforms themselves reach retail and the court **later in the fall**, with the Pistons' version pegged for November, which puts the on-court debuts close to the holiday stretch that made everyone assume "Christmas" in the first place.
@@ -47,17 +46,12 @@ The reaction has been rough, and not only from the usual corners. "Middle school
 
 We reviewed all eight when they leaked in April, when the world thought they were Christmas jerseys. The designs have not changed, so the grades stand as our first look, and we will revisit each one when the finished product photography and the on-court debuts arrive. The collection as a whole earned a **D+** from us then, and nothing Nike has said since has moved it.
 
-<div style="margin: 1.5em 0; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden;">
-<div style="background: #14284b; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">Specter Edition, ranked</div>
-<div style="padding: 6px 18px 10px; font-size: 15px; line-height: 1.7; color: #1c1c1c;">
-</div>
-</div>
-
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2098160051328344074"></a></blockquote>
 </div>
 
 <div style="margin: 1.5em 0; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden;">
+<div style="background: #14284b; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">Specter Edition, ranked</div>
 <div style="padding: 6px 18px 10px; font-size: 15px; line-height: 1.7; color: #1c1c1c;">
 <p style="margin: 8px 0;"><strong>1. Detroit Pistons, A.</strong> The flames and the teal piping make this the clear winner, and it is the only one that reads as a deliberate idea rather than a template. Detroit is also the only one of the eight to have shown its own, above. <a href="/stories/pistons-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>2. Atlanta Hawks, A-.</strong> The most colorful of the eight, with the blue and green brushstrokes doing real work against the black. <a href="/stories/hawks-christmas-jersey-2026">Full review</a>.</p>
