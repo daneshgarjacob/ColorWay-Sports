@@ -53,7 +53,37 @@ The nights are listed newest first, so Thursday's fixtures sit at the top and Tu
 
 ## Matchday 1: The Kit Matchups, Up Close
 
-The shirts below are the actual 2026/27 products, cut out from retailer and club-store photography so you can see what was on the pitch rather than a preview graphic. Grades for each pairing follow the way they do on the Premier League page.
+The shirts below are the actual 2026/27 products, cut out from retailer and club-store photography so you can see what was on the pitch rather than a preview graphic. Grades for each pairing follow the way they do on the Premier League page. Where a visiting club has no retail product image yet, its side of the block is a colour tile rather than a shirt, and it says so.
+
+### Man United vs Sabah
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #DA291C 0%, #111111 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchday 1 &middot; Kit Matchup</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/champions-league-kit-schedule-2026-27/man-united-home.png" alt="Manchester United 2026/27 red home shirt with a white polo collar trimmed in black and white, white adidas shoulder stripes and the white Snapdragon sponsor, worn against Sabah at Old Trafford on September 10 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN UNITED &middot; RED HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #111111; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 14px; box-sizing: border-box;"><p style="margin: 0; color: #ffffff; font-size: 22px; font-weight: 900; letter-spacing: 1px; line-height: 1.1;">SABAH</p><p style="margin: 8px 0 0; color: #ffffff; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.85;">Black change shirt &middot; red crest</p></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">SABAH &middot; BLACK CHANGE</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Man United 4, Sabah 0</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt product photo sourced from a retailer listing. No retail image of Sabah's change shirt exists yet; the tile shows the confirmed colour.</p>
+
+United's return to the competition came in the home shirt with the white polo collar, and Sabah, the Azerbaijani debutants, changed into black. It made for a clean, old-fashioned picture: solid red against solid black, the white collar and shoulder stripes the only light on the United side and Sabah's red crest the only colour on theirs. There is not much to argue about in a 4-0 where the home side wears its most recognisable shirt, and there is not much to grade either. Red against black separates on any camera. United looked like United, which on a European night at Old Trafford is most of the job.
+
+### Bayern Munich vs Bodo/Glimt
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
+  <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #DC052D 0%, #FFD500 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchday 1 &middot; Kit Matchup</span></div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/champions-league-kit-schedule-2026-27/bayern-home.png" alt="Bayern Munich 2026/27 red home shirt with tonal vertical pinstripes, white adidas shoulder stripes edged in gold, the white Telekom T and the five-star crest, worn against Bodo/Glimt in Munich on September 10 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">BAYERN &middot; RED HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #FFD500; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 14px; box-sizing: border-box;"><p style="margin: 0; color: #1a1a1a; font-size: 22px; font-weight: 900; letter-spacing: 1px; line-height: 1.1;">BODO/GLIMT</p><p style="margin: 8px 0 0; color: #1a1a1a; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.85;">Yellow home shirt &middot; to be confirmed</p></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">BODO/GLIMT &middot; EXPECTED YELLOW</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Bayern Munich 5, Bodo/Glimt 0</p>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Bayern shirt product photo sourced from a retailer listing. Bodo/Glimt did not appear in any of the night's match photography, so their tile shows the expected shirt.</p>
+
+Bayern wore the red home shirt, confirmed from the match photography, and it is the best version of a Bayern home in several years: the tonal pinstripes give the red some depth under floodlights, the shoulder stripes carry a thin gold edge, and the five stars sit above a crest that has not needed changing in decades. Bodo/Glimt's home shirt is a bright yellow, and if that is what they wore, red against yellow is one of the loudest pairings the league phase can produce, the kind of contrast that reads from the top tier. We could not confirm the visitors' shirt from any photograph, which is why their side is a tile rather than a cutout, and we will fill it in when we can.
 
 ### Napoli vs Arsenal
 
