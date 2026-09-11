@@ -2,7 +2,7 @@
 title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey and Every Week, Confirmed by the Team"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-11"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -21,7 +21,11 @@ The headline is that black won. Here is the full Carolina Panthers 2026 uniform 
 
 ## The Full 2026 Panthers Uniform Schedule, Week by Week
 
-**Week 1 combination, as announced for game week:** black helmet, blue jersey, pants not announced. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
+**Week 1 combination, confirmed by the team on Friday:** black helmet, blue jersey, black pants. Carolina posted the look in its Fit Check Friday note ahead of the Bears game, the same black-on-blue combination it wore in the 2024 Germany game and in last year's home opener against Atlanta. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2098435217065218216"></a></blockquote>
+</div>
 
 **Their Week 1 opponent:** the [Chicago Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 

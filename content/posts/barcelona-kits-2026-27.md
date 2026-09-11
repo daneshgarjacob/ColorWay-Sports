@@ -2,7 +2,7 @@
 title: "Barcelona's 2026/27 Kits: The Kobe Away Shirt, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-12"
+updatedDate: "2026-09-11"
 excerpt: "Barcelona's 2026/27 away jersey is a Kobe Bryant collaboration and the boldest kit in Europe. Both shirts graded, plus the Gaudi numbering."
 gradient: "linear-gradient(135deg, #A50044 0%, #004D98 55%, #6B2FA0 120%)"
 cardStyle: words
@@ -51,8 +51,16 @@ Released August 12, and it is the best colour story of the release week. Nike we
 
 The campaign runs under "More than players, culés first" and is built around La Masia, and the shirt earns the sentiment because the reference is a real one rather than decoration. The green is what makes it. It sits in the same nostalgic register as the light blue the club wore in the Messi years, and it is a genuinely lovely thing to look at. **Grade: A-**
 
+### When Will Barcelona Wear the Third Kit?
+
+**Sunday, September 13, at Levante.** The club confirmed on Friday that the teal-green third makes its debut in the league trip to the Ciutat de Valencia, a 4:15 p.m. kickoff in Spain, 10:15 a.m. Eastern. It is the right fixture for it. Levante play in claret and blue stripes of their own, close enough to the blaugrana that a change was always going to be needed, and the green is about as far from both home shirts as Barcelona could travel. The close-up shots the club posted show the crest in navy with a thin red outline against the ribbed green, and the Spotify mark in navy on the chest. It will look tremendous under an afternoon sun.
+
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2087434033844080747"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2098426341129683046"></a></blockquote>
 </div>
 
 ## Barcelona's 2026/27 Wardrobe Grade
@@ -83,11 +91,15 @@ See where every one of these shirts landed in [our full ranking of all 42 Europe
 
 **What are Barcelona's 2026/27 kits?**
 
-The home shirt has four vertical blaugrana stripes with a tonal gradient, collar framing from the renovated Camp Nou facade and new Gaudi-inspired serif numbering. The away is a Kobe Bryant collaboration with a purple-to-black gradient, snakeskin pattern and a Gold Mamba typeface. Both are made by Nike. The third kit has not been released.
+The home shirt has four vertical blaugrana stripes with a tonal gradient, collar framing from the renovated Camp Nou facade and new Gaudi-inspired serif numbering. The away is a Kobe Bryant collaboration with a purple-to-black gradient, snakeskin pattern and a Gold Mamba typeface. The third is a teal-green shirt drawn from the 1996/97 Kappa away, with a vertical zigzag, a navy Spotify mark and a pink Swoosh. All three are made by Nike.
 
 **What grade do Barcelona's 2026/27 kits get?**
 
-The home shirt gets a B+ and the away, the Kobe collaboration, gets an A-. The wardrobe grade is an A-.
+The home shirt gets a B+, the away, the Kobe collaboration, gets an A-, and the green third gets an A-. The wardrobe grade is an A-.
+
+**When does Barcelona wear the green third kit?**
+
+It debuts on Sunday, September 13, 2026, away at Levante, confirmed by the club two days out. Expect it whenever the home side wears a dark or striped shirt that rules out the blaugrana home and the Kobe away.
 
 **What is the Barcelona Kobe Bryant kit?**
 
