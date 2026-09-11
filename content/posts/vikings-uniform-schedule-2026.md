@@ -46,6 +46,8 @@ All nine home games, straight from the team. This is the part nobody has to gues
 
 **Week 1 combination, as announced for game week:** purple helmet, purple jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Green Bay Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Home games carry the confirmed jersey. Road games follow the white road set, which is the standard away look. Week 6 is the bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

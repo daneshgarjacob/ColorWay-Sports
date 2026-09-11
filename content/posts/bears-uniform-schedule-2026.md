@@ -20,6 +20,8 @@ The Bears have one confirmed uniform date in 2026 and they could not have picked
 
 **Week 1 combination, as announced for game week:** blue helmet, white jersey, pants not announced. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Carolina Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Nine home games in navy, seven road games in white, one road game in navy because the home team took white, one Rivalries game on Christmas, and a Week 10 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

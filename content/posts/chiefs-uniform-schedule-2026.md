@@ -18,6 +18,8 @@ While Buffalo was unveiling a gray alternate and a new blue helmet, and the Bear
 
 **Week 1 combination, as announced for game week:** red helmet, red jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Denver Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Eight home games in red, nine road games in white, and a Week 5 bye. There is genuinely nothing else to track.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

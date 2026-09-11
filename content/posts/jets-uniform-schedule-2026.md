@@ -31,6 +31,8 @@ These three are officially set by the Jets as part of their 2026 home game theme
 
 **Week 1 combination, as announced for game week:** green helmet, white jersey, green pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Tennessee Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Everything else follows the standard home-and-away convention. Week 13 is the bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

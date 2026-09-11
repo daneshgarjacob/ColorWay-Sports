@@ -29,6 +29,8 @@ Three of Houston's eight home dates come with a jersey named by the team. All th
 
 ## The Full 2026 Texans Uniform Schedule, Week by Week
 
+**Their Week 1 opponent:** the [Buffalo Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Here is the whole season at a glance. The three confirmed jersey games are marked with a star. Week 8 is the bye, and Week 6 against Jacksonville is at Wembley Stadium with the Jaguars as the designated home team.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

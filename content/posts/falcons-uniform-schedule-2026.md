@@ -24,6 +24,8 @@ teams: ["atlanta-falcons"]
 
 ## The Full 2026 Falcons Uniform Schedule, Week by Week
 
+**Their Week 1 opponent:** the [Pittsburgh Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Nine home games including Madrid, eight on the road, and a Week 11 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

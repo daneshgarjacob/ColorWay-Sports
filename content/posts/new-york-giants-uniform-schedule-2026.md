@@ -23,6 +23,8 @@ The Giants published their full 2026 uniform schedule on September 2, and the th
 
 **Week 1 combination, as announced for game week:** blue helmet, blue jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Dallas Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Seventeen games, four uniforms: royal blue eight times, white five times, Legacy Blue twice, Vintage White twice, and a Week 8 bye. Every cell below is confirmed by the team's September 2 announcement, presented by Panini.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

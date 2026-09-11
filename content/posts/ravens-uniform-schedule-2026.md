@@ -18,6 +18,8 @@ Baltimore has now named all three of its Next Flight theme games. The all-white 
 
 ## The Full 2026 Ravens Uniform Schedule, Week by Week
 
+**Their Week 1 opponent:** the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The Rio game is a road game, for a reason explained below.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

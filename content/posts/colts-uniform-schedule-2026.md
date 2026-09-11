@@ -89,6 +89,8 @@ Here is the Indiana Nights set up close, so you can see the black helmet and the
 
 **Week 1 combination, as announced for game week:** white helmet, blue jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Baltimore Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Blue at Lucas Oil, white on the road, and three confirmed alternates, all of them at home. Week 4 against Washington is in London, where Indianapolis is the designated home team, but the Commanders' published uniform schedule has them in burgundy for that game, and two clubs cannot both wear color without a league sign-off, so the Colts are in white at Tottenham.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

@@ -17,6 +17,8 @@ New England owns two of the better alternate uniforms in the AFC, and as of the 
 
 ## The Full 2026 Patriots Uniform Schedule, Week by Week
 
+**Their Week 1 opponent:** the [Seattle Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The season opens on a **Wednesday**, September 9, in Seattle.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

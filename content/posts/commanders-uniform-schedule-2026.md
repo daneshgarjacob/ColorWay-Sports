@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-09-09"
+updatedDate: "2026-09-10"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -21,6 +21,8 @@ The Washington Commanders just released their full 2026 uniform schedule, and it
 </div>
 
 ## The Full 2026 Commanders Uniform Schedule, Week by Week
+
+**Their Week 1 opponent:** the [Philadelphia Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Here is the entire season at a glance. Burgundy is the heritage jersey, white is the new primary, and the black Hail Raiser is the alternate. Week 7 is the bye.
 

@@ -73,6 +73,8 @@ Tampa Bay has not confirmed which jerseys it wears in any other week. Open quest
 
 **Week 1 combination, as announced for game week:** pewter helmet, white jersey, pants not announced. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Cincinnati Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Red at Raymond James, white on the road, and two confirmed special dates in December: the creamsicle throwbacks against the Chargers and the all-pewter set against the Saints.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

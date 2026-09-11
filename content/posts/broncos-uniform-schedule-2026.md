@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-09"
+updatedDate: "2026-09-10"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -21,6 +21,8 @@ The Broncos did the thing more teams should do: they published the whole uniform
 </div>
 
 ## The Full 2026 Broncos Uniform Schedule, Week by Week
+
+**Their Week 1 opponent:** the [Kansas City Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
 

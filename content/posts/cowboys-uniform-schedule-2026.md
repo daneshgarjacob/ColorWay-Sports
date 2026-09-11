@@ -23,6 +23,8 @@ The Cowboys published their full 2026 uniform schedule on Wednesday, September 2
 
 ## The Confirmed Cowboys Uniform Schedule
 
+**Their Week 1 opponent:** the [New York Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Straight from the team, published September 2. These are the seven games where Dallas is not in the standard white jersey. Everything else on the calendar is white.
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #041E42 0%, #0b2f66 100%); border-radius: 16px; border: 2px solid #869397;">

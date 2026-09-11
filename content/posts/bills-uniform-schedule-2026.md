@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-09"
+updatedDate: "2026-09-10"
 excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, the A+ red helmet on Christmas Day, and the fan-voted red end zones for the opener."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -19,6 +19,8 @@ Most teams dribble their uniform news out one week at a time. The Bills did the 
 For our grades on the new gray set and the blue Charge helmet, see the [Bills Nickel City uniforms breakdown](/stories/bills-nickel-city-uniforms-revealed-2026).
 
 ## The Confirmed Bills Home Uniform Schedule
+
+**Their Week 1 opponent:** the [Houston Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 All eight home games, straight from the team. This is the part nobody has to guess at.
 

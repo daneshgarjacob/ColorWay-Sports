@@ -20,6 +20,8 @@ The Browns have one of the more interesting alternate closets in the AFC and, as
 
 **Week 1 combination, as announced for game week:** orange helmet, white jersey, white pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Jacksonville Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Eight home games at Huntington Bank Field, nine on the road, and a Week 11 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

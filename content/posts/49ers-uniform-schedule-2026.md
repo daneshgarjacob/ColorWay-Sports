@@ -65,6 +65,8 @@ The 49ers wear their standard scarlet and white for most of the season, includin
 
 **Week 1 combination, as announced for game week:** gold helmet, white jersey, gold pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Los Angeles Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Scarlet at Levi's, white on the road, and four dates that break the pattern. Week 11 against Minnesota is at Estadio Azteca in Mexico City, where San Francisco is the designated home team.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

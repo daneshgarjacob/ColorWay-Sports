@@ -20,6 +20,8 @@ The Saints published their full 2026 uniform schedule on September 7, and the pl
 
 **Week 1 combination, as announced for game week:** gold helmet, white jersey, black pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Nine home games including Paris, eight on the road, and a Week 8 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">

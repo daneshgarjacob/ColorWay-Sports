@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-09"
+updatedDate: "2026-09-10"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -29,6 +29,8 @@ Tennessee did not add an alternate in the rebrand. It built two uniforms and gav
 </div>
 
 ## The Full 2026 Titans Uniform Schedule, Week by Week
+
+**Their Week 1 opponent:** the [New York Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Here is the whole season at a glance. Week 9 is the bye. One game is now starred: Week 10 against Jacksonville is the confirmed debut of the Music City Rivalries uniform.
 

@@ -20,6 +20,8 @@ The Steelers have confirmed that the **1933 throwback and its gold helmet are co
 
 **Week 1 combination, as announced for game week:** black helmet, black jersey, yellow pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Their Week 1 opponent:** the [Atlanta Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
+
 Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of those road games is in Paris.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
