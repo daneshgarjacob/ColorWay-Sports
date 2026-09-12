@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-07"
+updatedDate: '2026-09-12'
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -59,7 +59,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **Sunday, September 6 vs. Wisconsin**, Lambeau Field, 7:30 p.m. ET on NBC. ✅ **Worn: the Shamrock Series set**, the deep blue Acme Packers tribute with the gold helmet. Notre Dame is the designated home team even though the game is in Green Bay. Wisconsin answered with a special edition of its own, **all red from helmet to pants with silver numbers, logos and lettering**, the silver a nod to the Packers' four Lombardi Trophies and the first time the Badgers have gone red from top to bottom. Two one-off uniforms, both in their own color, blue against red under the Lambeau lights, and Notre Dame won it 41-13. **We grade the matchup an A-.**
 
-**September 12 vs. Rice**, Notre Dame Stadium. Home opener, and the first game in the actual stadium. Navy expected.
+**September 12 vs. Rice**, Notre Dame Stadium. Home opener, and the first game in the actual stadium. Navy expected; no broadcast frame was published to confirm it, so the cell stays unstarred. Notre Dame won 52-0.
 
 **September 19 vs. Michigan State**, Notre Dame Stadium. Navy expected.
 
