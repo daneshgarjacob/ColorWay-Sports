@@ -2,7 +2,7 @@
 title: "Georgia's New All-White Uniforms: The First White Helmet in Bulldogs History, Fully Graded"
 category: "College"
 date: "2026-08-06"
-updatedDate: '2026-09-08'
+updatedDate: '2026-09-12'
 excerpt: "Georgia revealed all-white uniforms for September 12 against Western Kentucky, the first white helmet in program history. Every detail of the new jersey, graded."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #BA0C2F 120%)"
 coverImage: "/images/posts/georgia-all-white-2026/georgia-all-white-cover.jpg"
@@ -14,6 +14,8 @@ teams: []
 
 <img src="/images/posts/georgia-all-white-2026/georgia-all-white-unleashed.jpg" alt="Georgia Bulldogs new all-white 2026 football uniform, with white helmet, white jersey with black numbers and red trim, and white pants" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Georgia Athletics / Nike</p>
+
+**Update, September 12:** it is on the field. Georgia walked out at Sanford Stadium against Western Kentucky in the white helmet, white jersey and white pants, the first white helmet in program history, confirmed from the broadcast, and the monochrome held up in motion the way the studio shots promised. The grade below stands.
 
 **Update, September 8:** game week is here and Georgia confirmed it with a "dress code" graphic: white helmet, white jersey, white pants against Western Kentucky on Saturday, September 12 at 12:45pm ET on SEC Network. The full week-by-week plan is on our [Georgia uniform schedule](/stories/georgia-uniform-schedule-2026).
 
