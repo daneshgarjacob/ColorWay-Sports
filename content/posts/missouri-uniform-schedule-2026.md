@@ -94,7 +94,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 5 vs. Arkansas-Pine Bluff**, Columbia. Season opener at home. Black or gold, announced game week.
 
-**September 11 at Kansas**, Lawrence, a Friday night kickoff. The Border War renewal on the road. White jersey.
+**September 11 at Kansas**, Lawrence, a Friday night kickoff. Missouri won the Border War 38-21. Kansas wore all red under the white helmet, confirmed from the broadcast; Missouri's white road set is the schedule call, and we star the cell once we can see it in a frame. The Border War renewal on the road. White jersey.
 
 **September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** The one uniform date on this schedule that is locked.
 
