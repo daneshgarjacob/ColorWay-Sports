@@ -26,7 +26,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 11
 
-Friday was the 25th anniversary of September 11, and in the Bronx both New York clubs marked it the way they have since 2001: the Mets in road gray and the Yankees in the home pinstripes, both wearing the FDNY, NYPD and Port Authority caps in place of their own. It was also the most City Connect-heavy night of the month, seven of them by the end of the night. The Marlins wore the black Retro Wave City Connect against the Dodgers' road gray, the Blue Jays the navy City Connect against the Orioles' gray, the Red Sox the green City Connect against the Royals' gray, the Brewers the Wisconsin City Connect against the Reds' gray, the Twins the blue-and-yellow City Connect against the Guardians' gray, and the Cardinals the Lou City Connect against the White Sox' gray. Colour on colour came from Colorado, purple at the Tigers' home white, and Atlanta, the red alternate against the Phillies' gray, plus the Angels' red at the Nationals' navy. Tampa Bay went white Devil Rays throwback against Houston's gray. The day opened at Wrigley with the Pirates' black alternate against the Cubs' pinstripes, a 12-2 Cubs win. Out west the Mariners wore the navy alternate at the Athletics' home white and the Rangers the road gray at the Diamondbacks' purple City Connect, and the Cardinals closed the City Connect count at seven, the red Lou set against the White Sox in gray after a rain delay in St. Louis. Padres at Giants is logged once it is confirmed.
+Friday was the 25th anniversary of September 11, and in the Bronx both New York clubs marked it the way they have since 2001: the Mets in road gray and the Yankees in the home pinstripes, both wearing the FDNY, NYPD and Port Authority caps in place of their own. It was also the most City Connect-heavy night of the month, seven of them by the end of the night. The Marlins wore the black Retro Wave City Connect against the Dodgers' road gray, the Blue Jays the navy City Connect against the Orioles' gray, the Red Sox the green City Connect against the Royals' gray, the Brewers the Wisconsin City Connect against the Reds' gray, the Twins the blue-and-yellow City Connect against the Guardians' gray, and the Cardinals the Lou City Connect against the White Sox' gray. Colour on colour came from Colorado, purple at the Tigers' home white, and Atlanta, the red alternate against the Phillies' gray, plus the Angels' red at the Nationals' navy. Tampa Bay went white Devil Rays throwback against Houston's gray. The day opened at Wrigley with the Pirates' black alternate against the Cubs' pinstripes, a 12-2 Cubs win. Out west the Mariners wore the navy alternate at the Athletics' home white and the Rangers the road gray at the Diamondbacks' purple City Connect, and the Cardinals closed the City Connect count at seven, the red Lou set against the White Sox in gray after a rain delay in St. Louis. The night closed by the Bay with the loudest pairing of all fifteen: the Padres in the brown pinstriped alternate against the Giants in the orange Friday alternate, brown on orange with nothing white in the frame.
 
 ### Seattle Mariners at Athletics
 
@@ -195,7 +195,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Royals 3, Red Sox 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -249,7 +249,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 6, Marlins 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -276,7 +276,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Orioles 7, Blue Jays 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -303,7 +303,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Yankees 6, Mets 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
