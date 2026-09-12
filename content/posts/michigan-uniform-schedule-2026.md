@@ -46,7 +46,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **September 5 vs. Western Michigan.** ★ Confirmed, and it is the story of Michigan's season so far: **the all-maize uniform**, maize helmet, maize jersey, maize pants. Michigan has worn a maize jersey **three times in program history**, against Navy in 1928, against Florida in 2017, and here under the lights against Western Michigan. We had navy down as the expected home look and Michigan went the other way entirely. Western Michigan won 13-12.
 
-**September 12 vs. Oklahoma.** ★ Confirmed: **the navy home set**, winged helmet, navy jersey, maize pants, exactly the look the page had down after the all-maize detour a week earlier. Oklahoma came into the Big House in crimson helmets over a white jersey and white pants, the Sooners' standard road combination, so the biggest non-conference date on the schedule looked the way a Michigan-Oklahoma game should: navy and maize against crimson and white.
+**September 12 vs. Oklahoma.** ★ Confirmed: **the navy home set**, winged helmet, navy jersey, maize pants, exactly the look the page had down after the all-maize detour a week earlier. Oklahoma came into the Big House in crimson helmets over a white jersey and white pants, the Sooners' standard road combination, so the biggest non-conference date on the schedule looked the way a Michigan-Oklahoma game should: navy and maize against crimson and white. Michigan won 17-10, the first win of the season after the all-maize loss.
 
 **September 19 vs. UTEP.** Navy expected.
 
