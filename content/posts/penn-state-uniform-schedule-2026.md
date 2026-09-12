@@ -46,7 +46,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **September 5 vs. Marshall.** ★ Confirmed: **white helmet, navy jersey, white pants**, the plain home set Penn State almost never deviates from. Marshall came in a green helmet, white jersey and green pants. Penn State won 45-0.
 
-**September 12 at Temple.** ★ Confirmed from the broadcast: **all-white**, white helmet with the navy stripe, white jersey, white pants, the Penn State road uniform doing what it always does against Temple's cherry at Lincoln Financial Field.
+**September 12 at Temple.** ★ Confirmed from the broadcast: **all-white**, white helmet with the navy stripe, white jersey, white pants, the Penn State road uniform doing what it always does against Temple's cherry at Lincoln Financial Field. Penn State won 27-9.
 
 **September 19 vs. Buffalo.** Navy expected.
 
