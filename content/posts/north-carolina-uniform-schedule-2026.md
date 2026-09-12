@@ -75,7 +75,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **Saturday, August 29 vs. TCU**, Aviva Stadium, Dublin, noon ET on ESPN. ✅ **Worn: the white throwback set**, Carolina blue helmet and pants, against TCU's black alternate. Carolina won 15-10.
 
-**September 12 vs. East Tennessee State**, Kenan Stadium, noon on ACC Network. The home opener and the first game played in Kenan during its hundredth season. ★ Confirmed from the broadcast: **Carolina blue helmet, Carolina blue jersey, white pants**, the standard home set, against East Tennessee State's navy and gold.
+**September 12 vs. East Tennessee State**, Kenan Stadium, noon on ACC Network. The home opener and the first game played in Kenan during its hundredth season. ★ Confirmed from the broadcast: **Carolina blue helmet, Carolina blue jersey, white pants**, the standard home set, against East Tennessee State's navy and gold. North Carolina won 35-3 in a game that went to a weather delay in the third quarter.
 
 **September 19 at Clemson**, Memorial Stadium, noon on ESPN. White expected.
 
