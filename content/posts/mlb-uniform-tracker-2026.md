@@ -26,7 +26,34 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 11
 
-Friday was the 25th anniversary of September 11, and in the Bronx both New York clubs marked it the way they have since 2001: the Mets in road gray and the Yankees in the home pinstripes, both wearing the FDNY, NYPD and Port Authority caps in place of their own. It was also the most City Connect-heavy night of the month, six of them at once. The Marlins wore the black Retro Wave City Connect against the Dodgers' road gray, the Blue Jays the navy City Connect against the Orioles' gray, the Red Sox the green City Connect against the Royals' gray, the Brewers the Wisconsin City Connect against the Reds' gray, the Twins the blue-and-yellow City Connect against the Guardians' gray, and the Cardinals the Lou City Connect against the White Sox' gray. Colour on colour came from Colorado, purple at the Tigers' home white, and Atlanta, the red alternate against the Phillies' gray, plus the Angels' red at the Nationals' navy. Tampa Bay went white Devil Rays throwback against Houston's gray. The day opened at Wrigley with the Pirates' black alternate against the Cubs' pinstripes, a 12-2 Cubs win. The three West Coast games are logged once they are confirmed.
+Friday was the 25th anniversary of September 11, and in the Bronx both New York clubs marked it the way they have since 2001: the Mets in road gray and the Yankees in the home pinstripes, both wearing the FDNY, NYPD and Port Authority caps in place of their own. It was also the most City Connect-heavy night of the month, seven of them by the end of the night. The Marlins wore the black Retro Wave City Connect against the Dodgers' road gray, the Blue Jays the navy City Connect against the Orioles' gray, the Red Sox the green City Connect against the Royals' gray, the Brewers the Wisconsin City Connect against the Reds' gray, the Twins the blue-and-yellow City Connect against the Guardians' gray, and the Cardinals the Lou City Connect against the White Sox' gray. Colour on colour came from Colorado, purple at the Tigers' home white, and Atlanta, the red alternate against the Phillies' gray, plus the Angels' red at the Nationals' navy. Tampa Bay went white Devil Rays throwback against Houston's gray. The day opened at Wrigley with the Pirates' black alternate against the Cubs' pinstripes, a 12-2 Cubs win. Out west the Mariners wore the navy alternate at the Athletics' home white and the Rangers the road gray at the Diamondbacks' purple City Connect, and the Cardinals closed the City Connect count at seven, the red Lou set against the White Sox in gray after a rain delay in St. Louis. Padres at Giants is logged once it is confirmed.
+
+### Chicago White Sox at St. Louis Cardinals
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/white-sox-road-gray.jpg" alt="Chicago White Sox Road Gray jersey worn September 11 2026 against the Cardinals, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">WHITE SOX</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #b7b7bd; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cardinals-the-lou-cc.jpg" alt="St. Louis Cardinals The Lou City Connect jersey worn September 11 2026 against the White Sox, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CARDINALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C41E3A; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>The Lou City Connect</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Cleveland Guardians at Minnesota Twins
 
@@ -141,7 +168,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rays 3, Astros 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -249,7 +276,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Nationals 4, Angels 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -276,7 +303,7 @@ Friday was the 25th anniversary of September 11, and in the Bronx both New York 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Tigers 6, Rockies 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
