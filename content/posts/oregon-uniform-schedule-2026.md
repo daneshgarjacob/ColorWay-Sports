@@ -46,7 +46,7 @@ One combination is on the board. **The opener against Boise State on September 5
 
 **September 5 vs. Boise State.** ★ Confirmed on the field: **yellow helmet, green jersey, yellow pants.** Oregon won 34-27. The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the colour question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
 
-**September 12 at Oklahoma State.** ★ Confirmed from the broadcast: **green helmet, white jersey, white pants**, a road combination that reads as the cleanest thing Oregon owns, against a Stillwater crowd and an Oklahoma State side in all orange.
+**September 12 at Oklahoma State.** ★ Confirmed from the broadcast: **green helmet, white jersey, white pants**, a road combination that reads as the cleanest thing Oregon owns, against a Stillwater crowd and an Oklahoma State side in all orange. Oklahoma State won 39-31, Oregon's first loss of the season.
 
 **September 19 vs. Portland State.** Green expected.
 
