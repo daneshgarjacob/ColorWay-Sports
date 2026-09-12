@@ -56,7 +56,7 @@ SEC home teams wear color and visitors wear white, which makes the road dates pr
 
 **September 5 vs. Tennessee State**, Athens. Home opener. ★ Confirmed: **red helmet with the oval G, red jersey, silver britches**, the standard Georgia home set. The white helmet does not appear until the September 12 all-white game against Western Kentucky.
 
-**September 12 vs. Western Kentucky**, Athens. ★ **Worn: the all-white set with the first white helmet in Georgia history**, white helmet with the red oval G, white jersey, white pants, confirmed from the broadcast at Sanford Stadium. Our full grade of the uniform is in the [Georgia all-white review](/stories/georgia-all-white-uniforms-2026).
+**September 12 vs. Western Kentucky**, Athens. ★ **Worn: the all-white set with the first white helmet in Georgia history**, white helmet with the red oval G, white jersey, white pants, confirmed from the broadcast at Sanford Stadium. Georgia won 70-20. Our full grade of the uniform is in the [Georgia all-white review](/stories/georgia-all-white-uniforms-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GeorgiaFootball/status/2097362946552647751"></a></blockquote>
