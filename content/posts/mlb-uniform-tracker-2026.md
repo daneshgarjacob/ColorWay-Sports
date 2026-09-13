@@ -29,6 +29,33 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 Saturday opened with three afternoon games and the first alternate of the day belonged to Detroit: the Tigers pulled out the orange alternate for the Rockies, who stayed in road gray, while the Subway Series finale in the Bronx went Mets gray at Yankees pinstripes for the third straight day and the Pirates wore the black alternate at Wrigley against the Cubs’ home pinstripes for the second day running. The evening block turned into an alternate parade: the Blue Jays in the royal blue alternate against the Orioles’ road gray, the Nationals in the cherry blossom City Connect against the Angels’ red alternate, the Giants in the black Gigantes alternate for Latino Heritage weekend against the Padres’ sand road pinstripes, a Fenway pairing of the Royals’ powder blues against the Red Sox’ yellow City Connect, and the Twins in the cream Twin Cities alternate against Cleveland’s road gray, while the Dodgers went gray at the Marlins’ home white and the Astros took road gray into the Trop against the Rays’ home white. In Milwaukee the Reds wore the red script alternate against the Brewers’ white pinstripe home alternate, and in Atlanta the Braves brought out the light blue City Connect against the Phillies’ road gray. After a rain delay in St. Louis the White Sox went black against the Cardinals’ cream alternate. In the desert the Diamondbacks went black against the Rangers’ road gray, and the Mariners closed the night in the navy alternate against the Athletics’ Sacramento gold. Fifteen of fifteen logged, and the Clash of the Day is the Fenway pairing, and this section fills in as each one starts.
 
 
+### Seattle Mariners at Athletics
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Seattle Mariners Navy Alternate jersey worn September 12 2026 against the Athletics, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARINERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2C56; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/athletics-gold-sacramento.jpg" alt="Athletics Gold Sacramento Alternate jersey worn September 12 2026 against the Mariners, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ATHLETICS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #EFB21E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Gold Sacramento Alternate</p>
+    </div>
+  </div>
+</div>
+</div>
+
 ### Texas Rangers at Arizona Diamondbacks
 
 <div style="margin: 1.4em 0 0.6em;">
