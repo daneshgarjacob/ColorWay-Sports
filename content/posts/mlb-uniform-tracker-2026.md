@@ -26,7 +26,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, September 13
 
-Sunday was a full fifteen-game getaway slate and the alternates were spread all over the country. The Marlins wore the teal throwback at home against the Dodgers, who went with the usual Dodgers-script road gray. Houston took the orange alternate to Tampa Bay, Cleveland wore navy at Minnesota, Washington broke out the red alternate for the Angels, Toronto went all-blue against the Orioles, and two visitors were in black, the White Sox at St. Louis and the Pirates for a third straight day at Wrigley against the Cubs' home pinstripes. The Subway Series finale in the Bronx stayed Mets gray at Yankees pinstripes, and Milwaukee wore the home pinstripes against the Reds' road gray. The evening brought three more: Kansas City in royal blue at Fenway against the Red Sox in home white once the rain cleared, Seattle in navy at the Athletics' white, and Texas in royal blue at the Diamondbacks' home white. The Sunday night game closed the slate at fifteen for fifteen: San Diego in the brown alternate at Oracle Park against the Giants' home cream. Every jersey below is confirmed against MLB's own uniform feed.
+Sunday was a full fifteen-game getaway slate and the alternates were spread all over the country. The Marlins wore the teal throwback at home against the Dodgers, who went with the usual Dodgers-script road gray. Houston took the orange alternate to Tampa Bay, Cleveland wore navy at Minnesota, Washington broke out the red alternate for the Angels, Toronto went all-blue against the Orioles, and two visitors were in black, the White Sox at St. Louis and the Pirates for a third straight day at Wrigley against the Cubs' home pinstripes. The Subway Series finale in the Bronx stayed Mets gray at Yankees pinstripes, and Milwaukee wore the home pinstripes against the Reds' road gray. The evening brought three more: Kansas City in royal blue at Fenway against the Red Sox in home white once the rain cleared, Seattle in navy at the Athletics' white, and Texas in royal blue at the Diamondbacks' home white. The Sunday night game closed the slate at fifteen for fifteen: San Diego in the sand road pinstripes at Oracle Park against the Giants' home cream. The Clash of the Day is the Miami pairing, teal against Dodger gray. Every jersey below is confirmed against MLB's own uniform feed.
 
 ### San Diego Padres at San Francisco Giants
 
@@ -38,10 +38,10 @@ Sunday was a full fifteen-game getaway slate and the alternates were spread all 
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/padres-brown-alternate.jpg" alt="San Diego Padres Brown Alternate jersey worn September 13 2026 against the Giants, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/padres-khaki-road.jpg" alt="San Diego Padres Khaki Road jersey worn September 13 2026 against the Giants, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PADRES</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #5D4037; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Brown Alternate</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C2A878; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Khaki Road</p>
     </div>
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -273,6 +273,11 @@ Sunday was a full fifteen-game getaway slate and the alternates were spread all 
 
 ### Los Angeles Dodgers at Miami Marlins
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #005A9C 0%, #ffffff 50%, #00A3E0 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -297,6 +302,9 @@ Sunday was a full fifteen-game getaway slate and the alternates were spread all 
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to Miami. The Marlins wore the teal throwback, the 1993 colour that the club brings out a handful of times a year and that still reads as the best thing in their closet, and the Dodgers came in the usual Dodgers-script road gray with the royal blue script, the numbers and the cap doing all of the colour work. Teal against Dodger blue on a gray base is a pairing you only get when Miami reaches back to the expansion years, two blues from opposite ends of the wheel with white and gray keeping them apart, and under the roof at loanDepot park it looked like a 1990s Sunday.
 
 ### Baltimore Orioles at Toronto Blue Jays
 
