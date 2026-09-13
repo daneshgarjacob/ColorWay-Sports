@@ -1,0 +1,101 @@
+---
+title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear It"
+author: "colorway-sports-staff"
+category: "College"
+date: "2026-09-12"
+updatedDate: '2026-09-12'
+excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
+gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
+cardStyle: words
+kicker: Schedule
+league: "college"
+teams: []
+resurfaceOnUpdate: true
+---
+
+Oklahoma is one of the few blue-blood programs that still keeps an alternate or two in the closet, which makes the Sooners a little harder to predict than Texas or Michigan. This is the full Oklahoma 2026 uniform schedule: the crimson home set, the white road set, the two alternates that could surface on a given Saturday, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+## The Oklahoma 2026 Uniform Sets
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
+  <div style="background: #841617; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Crimson Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Crimson helmet with the interlocking OU, crimson jersey with white numerals, cream or white pants.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Same crimson helmet, white jersey with crimson numerals, white pants. Worn at Michigan on September 12.</div></div>
+  <div style="background: #2b2b2e; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Anthracite Unity</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark grey alternate with Unity across the back in place of names. Worn once a season from 2022 through 2025, always at home.</div></div>
+  <div style="background: #FDF9D8; color: #841617; border: 1px solid #e8dfb0; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Wilkinson Throwback</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Plain white helmet with a single crimson stripe and no logo, crimson jersey with tri-striped sleeves, striped white pants. Debuted 2024, worn again against Kent State in 2025.</div></div>
+</div>
+
+The crimson helmet is the constant. It sits on top of both standard sets, so the weekly question in Norman is usually just crimson jersey or white jersey, and whether the pants under it are cream or white. The two alternates are the wild cards. The anthracite Unity uniform has come out exactly once a season under Brent Venables, each time at home, and the Bud Wilkinson-era throwback with the logo-free white helmet has appeared in each of the last two seasons. Neither has been tied to a 2026 date as of this writing, and the old wood-grain Rough Riders look from the Bring the Wood era is retired, so we list alternates only when the program announces them in game week.
+
+Under the SEC convention the home team wears colour and the visitor wears white, which is how every unconfirmed date below is projected.
+
+## The Full Oklahoma 2026 Uniform Schedule, Week by Week
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #841617; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas (Dallas)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+</div>
+
+**September 4 vs. UTEP**, Norman. Friday night opener, and Oklahoma won 51-0. Crimson expected as the home set. We have not yet confirmed the pants from a broadcast frame, so this cell stays unstarred until we do.
+
+**September 12 at Michigan**, Ann Arbor. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard Sooners road combination, against Michigan in the navy home set with maize pants under the winged helmet. Oklahoma lost 17-10. The Wolverines' side of the day is on our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026).
+
+**September 19 vs. New Mexico**, Norman. Crimson expected. Last non-conference home game, and the 2025 throwback came out on a comparable September Saturday against Kent State, so we will watch the game-week announcement.
+
+**September 26 at Georgia**, Athens. White expected. SEC opener, on the road, between the hedges. Georgia wears red at home, so the Sooners' white is close to automatic.
+
+**October 3.** Bye.
+
+**October 10 vs. Texas**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team this year. Texas has traditionally worn white in Dallas, which puts Oklahoma in crimson, and that is what we expect until either program says otherwise. The Longhorns' side is on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+
+**October 17 vs. Kentucky**, Norman. Crimson expected.
+
+**October 24 at Mississippi State**, Starkville. White expected. Mississippi State wears maroon at home, so no clash risk here.
+
+**October 31 vs. South Carolina**, Norman. Crimson expected. Halloween in Norman is a plausible spot for the anthracite Unity alternate, which has always appeared at home, but nothing is announced.
+
+**November 7 at Florida**, Gainesville. White expected. Florida wears blue or orange at home, so this projects as the standard white road set. We will confirm in game week.
+
+**November 14 vs. Ole Miss**, Norman. Crimson expected.
+
+**November 21 vs. Texas A&M**, Norman. Crimson expected. Senior day and the home finale, another candidate date for an alternate if the program holds one back.
+
+**November 28 at Missouri**, Columbia. White expected. Regular season finale on the road, and Missouri wears black or gold at home, so the Sooners' white is the safe projection.
+
+## The Bottom Line
+
+Crimson at home, white on the road, the same crimson helmet on both, and one or two alternate weeks that Oklahoma announces on short notice. The one uniform date already in the books is the white road set at Michigan on September 12. The dates worth watching are the Red River game on October 10, where the neutral site has historically put the Sooners in crimson, and whichever home Saturday gets the anthracite Unity jersey or the Wilkinson throwback.
+
+## Frequently Asked Questions
+
+**What jersey is Oklahoma wearing this week?**
+
+Oklahoma wore the white road set, crimson helmet, white jersey and white pants, at Michigan on September 12. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+
+**What are Oklahoma's uniforms for 2026?**
+
+The crimson home set is a crimson helmet with the interlocking OU, a crimson jersey with white numerals and cream or white pants. The white road set is the same helmet over a white jersey with crimson numerals and white pants. The wardrobe also holds the anthracite Unity alternate and the Bud Wilkinson-era throwback with the logo-free white helmet.
+
+**Does Oklahoma have an alternate uniform in 2026?**
+
+Two are in the closet, the anthracite Unity uniform and the 1950s Wilkinson throwback, but neither has been tied to a 2026 date yet. Oklahoma has worn the Unity alternate once a season since 2022, always at home, and typically announces it in game week. The wood-grain Rough Riders alternate from 2014 is retired.
+
+**What does Oklahoma wear against Texas?**
+
+Oklahoma has traditionally worn crimson at the Cotton Bowl with Texas in white. The 2026 Red River game is October 10 and we will update this page when the combination is confirmed.
+
+**How many games does Oklahoma play in 2026?**
+
+Twelve regular season games, nine of them SEC games, with an open date on October 3. The full schedule with expected uniforms is in the grid above.
+
+<div data-cfb-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More 2026 college uniform schedules</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">What the other programs wear, week by week.</p><a href="/stories/alabama-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Alabama 2026 Uniform Schedule</a><a href="/stories/arizona-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona State 2026 Uniform Schedule</a><a href="/stories/baylor-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baylor 2026 Uniform Schedule</a><a href="/stories/clemson-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Clemson 2026 Uniform Schedule</a><a href="/stories/colorado-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Colorado State 2026 Uniform Schedule</a><a href="/stories/florida-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Florida 2026 Uniform Schedule</a><a href="/stories/georgia-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Georgia 2026 Uniform Schedule</a><a href="/stories/georgia-tech-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Georgia Tech 2026 Uniform Schedule</a><a href="/stories/kansas-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas 2026 Uniform Schedule</a><a href="/stories/kentucky-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kentucky 2026 Uniform Schedule</a><a href="/stories/lsu-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">LSU 2026 Uniform Schedule</a><a href="/stories/michigan-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Michigan 2026 Uniform Schedule</a><a href="/stories/missouri-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Missouri 2026 Uniform Schedule</a><a href="/stories/north-carolina-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">North Carolina 2026 Uniform Schedule</a><a href="/stories/notre-dame-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Notre Dame 2026 Uniform Schedule</a><a href="/stories/ohio-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Ohio State 2026 Uniform Schedule</a><a href="/stories/oklahoma-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Oklahoma State 2026 Uniform Schedule</a><a href="/stories/oregon-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Oregon 2026 Uniform Schedule</a><a href="/stories/penn-state-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Penn State 2026 Uniform Schedule</a><a href="/stories/tcu-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">TCU 2026 Uniform Schedule</a><a href="/stories/tennessee-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee 2026 Uniform Schedule</a><a href="/stories/texas-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas 2026 Uniform Schedule</a><a href="/stories/texas-am-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas A&amp;M 2026 Uniform Schedule</a><a href="/stories/texas-tech-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas Tech 2026 Uniform Schedule</a><a href="/stories/usc-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">USC 2026 Uniform Schedule</a><a href="/stories/wisconsin-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Wisconsin 2026 Uniform Schedule</a></div>
