@@ -19,7 +19,12 @@ ROW = re.compile(
  r'<span style="flex: 0 0 74px; text-align: right; color: (#[0-9a-fA-F]{6}); font-weight: 700; font-size: 0\.85em;">([^<]+)</span>')
 
 MONTH={'Aug':8,'Sep':9,'Oct':10,'Nov':11,'Dec':12,'Jan':1,'Feb':2,'Mar':3,'Apr':4,'May':5}
-played_cutoff = (8, 31)  # through Aug 31
+import datetime
+_t=datetime.date.today()
+played_cutoff = (_t.month, _t.day)  # everything dated on/before today counts as played
+def is_played(m,d):
+    ym=(2026 if m>=8 else 2027, m, d); yt=(2026 if _t.month>=8 else 2027, _t.month, _t.day)
+    return ym <= yt
 
 rows = {}   # slug -> list of dicts
 problems = []
@@ -31,7 +36,7 @@ for f in sorted(glob.glob('content/posts/*-kits-2026-27.md')):
     rows[slug] = []
     for date, ha, opp, kitcol, kit, rescol, res in found:
         mon, day = date.split(); m = MONTH.get(mon); d = int(day)
-        played = (m == 8 and d <= 31)
+        played = is_played(m, d)
         oslug = NAME2SLUG.get(opp.strip())
         if oslug is None:
             problems.append(f"{slug}: unknown opponent name '{opp}'"); continue
@@ -43,16 +48,19 @@ for f in sorted(glob.glob('content/posts/*-kits-2026-27.md')):
             if re.match(r'[WLD] \d', res.strip()):
                 problems.append(f"{slug}: FUTURE row {date} has a result '{res.strip()}'")
 
-# completeness: every club should have exactly 2 played rows
+# completeness: every Premier League club should have the same number of played rows, give or take a Monday game
+counts = {slug: sum(1 for r in rs if is_played(r['m'], r['d'])) for slug, rs in rows.items() if len(rs) >= 30}
+if counts:
+    expected = max(set(counts.values()), key=list(counts.values()).count)
+    for slug, n in counts.items():
+        if abs(n - expected) > 1: problems.append(f"{slug}: {n} played rows (most clubs have {expected})")
 for slug, rs in rows.items():
-    n = sum(1 for r in rs if r['m']==8 and r['d']<=31)
-    if n != 2: problems.append(f"{slug}: {n} played rows (expected 2)")
     if len(rs) < 30: problems.append(f"{slug}: only {len(rs)} schedule rows parsed")
 
 # mirror check on played fixtures
 for slug, rs in rows.items():
     for r in rs:
-        if not (r['m']==8 and r['d']<=31): continue
+        if not is_played(r['m'], r['d']): continue
         other = rows.get(r['opp'], [])
         m = [o for o in other if o['m']==r['m'] and o['d']==r['d'] and o['opp']==slug]
         if not m: problems.append(f"{slug} {r['d']}/8 vs {r['opp']}: NO mirror row on opponent page"); continue

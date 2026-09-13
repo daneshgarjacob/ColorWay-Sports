@@ -2,7 +2,7 @@
 title: "Barcelona's 2026/27 Kits: The Kobe Away Shirt, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-09-11"
+updatedDate: "2026-09-13"
 excerpt: "Barcelona's 2026/27 away jersey is a Kobe Bryant collaboration and the boldest kit in Europe. Both shirts graded, plus the Gaudi numbering."
 gradient: "linear-gradient(135deg, #A50044 0%, #004D98 55%, #6B2FA0 120%)"
 cardStyle: words
@@ -55,6 +55,8 @@ The campaign runs under "More than players, culés first" and is built around La
 
 **Sunday, September 13, at Levante.** The club confirmed on Friday that the teal-green third makes its debut in the league trip to the Ciutat de Valencia, a 4:15 p.m. kickoff in Spain, 10:15 a.m. Eastern. It is the right fixture for it. Levante play in claret and blue stripes of their own, close enough to the blaugrana that a change was always going to be needed, and the green is about as far from both home shirts as Barcelona could travel. The close-up shots the club posted show the crest in navy with a thin red outline against the ribbed green, and the Spotify mark in navy on the chest. It will look tremendous under an afternoon sun.
 
+**Update, Sunday, September 13.** It did. Barcelona wore the green third at the Ciutat de Valencia and won 4-2, the shirt's first competitive outing, with Levante in their claret and blue home stripes across from it. On the pitch the green reads lighter and more mint than the studio shots suggested, and the navy crest and Spotify mark hold their own against it from distance. Confirmed off the match photography.
+
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2087434033844080747"></a></blockquote>
 </div>
@@ -99,7 +101,7 @@ The home shirt gets a B+, the away, the Kobe collaboration, gets an A-, and the 
 
 **When does Barcelona wear the green third kit?**
 
-It debuts on Sunday, September 13, 2026, away at Levante, confirmed by the club two days out. Expect it whenever the home side wears a dark or striped shirt that rules out the blaugrana home and the Kobe away.
+It debuted on Sunday, September 13, 2026, away at Levante, a 4-2 Barcelona win, the shirt's first competitive outing. Expect it whenever the home side wears a dark or striped shirt that rules out the blaugrana home and the Kobe away.
 
 **What is the Barcelona Kobe Bryant kit?**
 

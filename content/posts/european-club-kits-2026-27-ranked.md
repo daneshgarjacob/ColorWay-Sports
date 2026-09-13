@@ -2,7 +2,7 @@
 title: "Every 2026/27 European Club Kit, Ranked And Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-09-08"
+updatedDate: "2026-09-13"
 excerpt: "We graded 42 jerseys at Europe's 15 biggest clubs, worst to first. Kit of the year, the two C+ grades, and every wardrobe ranked."
 gradient: "linear-gradient(135deg, #0B3D2E 0%, #111111 55%, #C9A227 120%)"
 cardStyle: words
@@ -307,7 +307,7 @@ Red body, crisp white sleeves, a bespoke crewneck collar and faint red patternin
 
 The best colour story of the entire release week. Nike went to the 1996/97 Kappa away shirt for this one and pulled a light green out of it that nobody else in Europe is wearing, then ran a sharp vertical zigzag down the front to keep it firmly in the nineties without tipping into costume. A navy Spotify wordmark and a pink Swoosh finish it, and the pink against that green should not work and completely does.
 
-Barcelona built the campaign around La Masia, under the line "More than players, culés first," and the shirt earns the sentiment because the reference is real rather than decorative. The green is the reason this ranks where it does. It is the same nostalgia register as the light blue the club wore in the Messi years, and it is a genuinely lovely thing to look at. Only the three straight A grades ahead of it keep it off the podium. **Grade: A-**
+Barcelona built the campaign around La Masia, under the line "More than players, culés first," and the shirt earns the sentiment because the reference is real rather than decorative. The green is the reason this ranks where it does. It is the same nostalgia register as the light blue the club wore in the Messi years, and it is a genuinely lovely thing to look at. Only the three straight A grades ahead of it keep it off the podium. First worn on Sunday, September 13, in a 4-2 win at Levante, and the green looks even lighter in daylight than in the launch shots. **Grade: A-**
 
 <div style="display: flex; justify-content: center; margin: 1.75em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FCBarcelona/status/2087434033844080747"></a></blockquote>
