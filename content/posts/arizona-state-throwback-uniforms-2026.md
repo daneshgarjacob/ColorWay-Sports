@@ -2,8 +2,8 @@
 title: "Arizona State's 'Roses & Devils' Throwback Uniforms Are the Best Jersey Reveal of the College Football Offseason"
 category: "College"
 date: "2026-08-15"
-updatedDate: "2026-08-15"
-excerpt: "Arizona State and adidas brought back the 1996 Rose Bowl look: gold Sparky helmet, maroon jersey, gold pants. We grade the full uniform."
+updatedDate: "2026-09-12"
+excerpt: "Arizona State and adidas brought back the 1987 Rose Bowl look, 40 years on: gold Sparky helmet, maroon jersey, gold pants. We grade the full uniform."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 coverImage: "/images/posts/arizona-state-throwback-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -15,7 +15,9 @@ teams: []
 <img src="/images/posts/arizona-state-throwback-uniforms-2026/helmet.jpg" alt="Arizona State 2026 Roses and Devils throwback uniform, a gold helmet with the full body Sparky pitchfork devil decal, white facemask, and a maroon jersey with white and gold shoulder stripes" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Sun Devil Football / adidas</p>
 
-Arizona State posted two words on Saturday morning, "Roses & Devils," and then showed the uniform. Anyone who watched college football in the mid-1990s knew immediately what it was. This is the 1996 look, the one Jake Plummer wore, and it is the best throwback jersey any program has put out this offseason.
+Arizona State posted two words on Saturday morning, "Roses & Devils," and then showed the uniform. Anyone who remembers Arizona State's only trip to the top of the Pac-10 knew immediately what it was. This is the 1986 look, the uniform the Sun Devils wore to beat Michigan in the Rose Bowl on New Year's Day 1987, brought back for the 40th anniversary of that season, and it is the best throwback jersey any program has put out this offseason.
+
+*Correction, September 12: an earlier version of this post tied the uniform to the 1996 Jake Plummer team and the 1997 Rose Bowl. The school's own materials, and the "1987" stitched inside the collar, point to the 1986 season. We have fixed the history below.*
 
 *Every uniform photo in this post, including the cover image, comes from Arizona State's official reveal. These are the school's images, not ColorWay Sports originals.*
 
@@ -29,11 +31,9 @@ Arizona State posted two words on Saturday morning, "Roses & Devils," and then s
 
 The name is doing real work here, and it is not just alliteration.
 
-The 1996 Sun Devils went **11-1**, won the Pac-10 at **8-0**, and shut out No. 1 Nebraska **19-0** on September 21 to end the Cornhuskers' 26-game winning streak. Quarterback Jake Plummer finished **third in Heisman voting**. Head coach Bruce Snyder took them to Pasadena.
+The 1986 Sun Devils went **10-1-1**, won the Pac-10 outright under head coach John Cooper, and earned the program's first trip to Pasadena. On January 1, 1987, Arizona State beat Michigan **22-15** in the Rose Bowl, quarterback Jeff Van Raaphorst was named the game's MVP, and it remains the only Rose Bowl the school has ever won.
 
-Then, in the Rose Bowl on January 1, 1997, Arizona State led Ohio State 17-14 with 1:47 on the clock and gave up a touchdown. Final: **20-17**.
-
-That is the team. Roses, and Devils. Thirty years on, adidas put the uniform back on the field.
+That is the team. Roses, and Devils. Forty years on, adidas put the uniform back on the field, and the jersey carries the year inside the collar: "1987" with three roses.
 
 ## The Uniform, Piece by Piece
 
@@ -72,11 +72,11 @@ The helmet alone would carry this. Cartoon Sparky is one of the great mascot dec
 
 What pushes it to an A rather than a good-not-great throwback is that every piece agrees. The striping on the sleeve, the striping on the pants, and the outline on the numbers are all the same white-and-gold logic, so the uniform reads as one design instead of three separate decisions. That is the thing most throwbacks get wrong, and it is the same thing [Cal got right with the Joe Roth set](/stories/cal-joe-roth-uniforms-2026).
 
-It is not a perfect A-plus only because the modern jersey cut leaves the shoulder striping less room to breathe than a 1996 shell did, which is the tax every throwback in college football pays right now.
+It is not a perfect A-plus only because the modern jersey cut leaves the shoulder striping less room to breathe than a 1986 shell did, which is the tax every throwback in college football pays right now.
 
 ## The Bottom Line
 
-Gold Sparky helmet, maroon jersey with the block **ARIZONA STATE** wordmark, gold pants, and a name that points straight at the best team in program history. Arizona State did not modernize the 1996 uniform, which is exactly why it lands. Grade: **A**.
+Gold Sparky helmet, maroon jersey with the block **ARIZONA STATE** wordmark, gold pants, and a name that points straight at the best team in program history. Arizona State did not modernize the 1986 uniform, which is exactly why it lands. Grade: **A**.
 
 Arizona State also plays Mississippi State on September 6, a game where the Bulldogs are debuting one of the seven new adidas alternate uniforms that dropped this week. For the rest of this offseason's college jersey reveals, we graded [Florida's matte blue helmet](/stories/gators-blue-helmet-uniforms-2026), [Georgia's first white helmet](/stories/georgia-all-white-uniforms-2026), [Vanderbilt's return to old gold](/stories/vanderbilt-gold-uniforms-2026), and [Tulane's Mardi Gras City Edition](/stories/tulane-city-edition-uniforms-2026).
 
@@ -84,19 +84,19 @@ Arizona State also plays Mississippi State on September 6, a game where the Bull
 
 **What are Arizona State's "Roses & Devils" uniforms?**
 
-A 2026 throwback jersey and uniform set from adidas that brings back Arizona State's 1996 look: a gold helmet with the full-body Sparky decal, a maroon jersey with ARIZONA STATE in white block letters and gold numbers, and gold pants.
+A 2026 throwback jersey and uniform set from adidas that brings back Arizona State's 1986 look, worn in the 1987 Rose Bowl: a gold helmet with the full-body Sparky decal, a maroon jersey with ARIZONA STATE in white block letters and gold numbers, and gold pants.
 
 **Why are they called "Roses & Devils"?**
 
-The name points to the 1996 Sun Devils, who went 11-1, won the Pac-10, and played Ohio State in the Rose Bowl on January 1, 1997.
+The name points to the 1986 Sun Devils, who went 10-1-1, won the Pac-10, and beat Michigan 22-15 in the Rose Bowl on January 1, 1987. The 2026 season is the 40th anniversary of that team.
 
-**What happened in Arizona State's 1997 Rose Bowl?**
+**What happened in Arizona State's 1987 Rose Bowl?**
 
-Arizona State led Ohio State 17-14 with 1:47 remaining and gave up a late touchdown, losing 20-17.
+Arizona State beat Michigan 22-15 on January 1, 1987, the program's first and only Rose Bowl win. Quarterback Jeff Van Raaphorst was the game's MVP.
 
-**Who was Arizona State's quarterback in 1996?**
+**Who coached the 1986 Arizona State team?**
 
-Jake Plummer, who finished third in that season's Heisman Trophy voting under head coach Bruce Snyder.
+John Cooper, in his second season in Tempe. He left for Ohio State after the 1987 season.
 
 **What is the Sparky logo on the Arizona State throwback helmet?**
 
