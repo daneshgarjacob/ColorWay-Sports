@@ -45,7 +45,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **September 5 vs. FAU** (home). Orange helmet, blue jersey, white pants.
 
-**September 12 vs. Campbell** (home). ★ Worn, confirmed from the broadcast: **matte blue helmet, orange jersey**, white pants. The only orange jersey of the season, and it comes in week two against a first-ever opponent. Confirmed in game week: the Gators' uniform account posted the full look on Monday, the matte blue shell with the orange script, orange jersey with white numbers, white pants.
+**September 12 vs. Campbell** (home). ★ Worn, confirmed from the broadcast: **matte blue helmet, orange jersey**, white pants. Florida won 52-3. The only orange jersey of the season, and it comes in week two against a first-ever opponent. Confirmed in game week: the Gators' uniform account posted the full look on Monday, the matte blue shell with the orange script, orange jersey with white numbers, white pants.
 
 **September 19 at Auburn** (away). Orange helmet, white jersey, **orange pants**.
 
