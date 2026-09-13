@@ -46,7 +46,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 5 at LSU.** ★ Confirmed: **orange helmet, orange jersey, white pants.** ⭐ **The exception on this page, and it played out exactly as written.** Clemson is the road team, but LSU wears white at home, so Clemson went to **orange** rather than white. LSU took the field in the white jersey with gold pants and Clemson answered in orange on opening night in Tiger Stadium. See our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
 
-**September 12 vs. Georgia Southern.** ★ Confirmed from the broadcast after a weather-delayed kickoff: **orange helmet, orange jersey, white pants**, the standard Death Valley home look, against Georgia Southern in white over white.
+**September 12 vs. Georgia Southern.** ★ Confirmed from the broadcast after a weather-delayed kickoff: **orange helmet, orange jersey, white pants**, the standard Death Valley home look, against Georgia Southern in white over white. Clemson won 22-7.
 
 **September 19 vs. North Carolina.** Orange expected. North Carolina in Death Valley. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
