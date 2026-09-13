@@ -96,7 +96,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **September 5 vs. Auburn**, Mercedes-Benz Stadium, Atlanta. A neutral-site opener against an SEC opponent, and exactly the kind of stage Baylor has used the chrome helmet for before. ★ Confirmed: **green helmet, white jersey, green pants** — no chrome. Auburn wore the white helmet, navy jersey and white pants and won 17-16.
 
-**September 12 vs. Prairie View A&M**, Waco. **254 Night**, and the one game on this schedule fans helped pick. ★ Confirmed from the broadcast: **green 254 helmet, green jersey, white pants**, the fan-voted combination worn as promised.
+**September 12 vs. Prairie View A&M**, Waco. **254 Night**, and the one game on this schedule fans helped pick. ★ Confirmed from the broadcast: **green 254 helmet, green jersey, white pants**, the fan-voted combination worn as promised. Baylor won 44-3.
 
 **September 19 vs. Louisiana Tech**, Waco. **Gold Rush**, with fans asked to wear gold. Whether the team follows the stands into gold is the question worth watching.
 

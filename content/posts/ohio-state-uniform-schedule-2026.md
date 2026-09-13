@@ -61,7 +61,7 @@ Big Ten home teams wear colour and visitors wear white, which makes the road dat
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OhioStateFB/status/2095912368358256695"></a></blockquote>
 </div>
 
-**September 12 at Texas**, Austin. The biggest non-conference game on either team's schedule. ★ Confirmed from the broadcast: **silver helmet, white jersey, silver pants**, the standard road set, against Texas in burnt orange over white. See our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) for the other side of this one.
+**September 12 at Texas**, Austin. The biggest non-conference game on either team's schedule. ★ Confirmed from the broadcast: **silver helmet, white jersey, silver pants**, the standard road set, against Texas in burnt orange over white. See our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) for the other side of this one. Ohio State lost 24-23 after leading 23-3 in the second half.
 
 **September 19 vs. Kent State**, Ohio Stadium. The Helmet Stripe Game returns, though that is a crowd theme rather than a uniform change: fans in the horseshoe wear grey and students dress to match the stripes on the helmet. Scarlet expected on the field.
 

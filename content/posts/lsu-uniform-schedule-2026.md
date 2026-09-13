@@ -48,7 +48,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **September 5 vs. Clemson.** ★ Confirmed: **white jersey, gold pants, white helmet**, the home white set. Clemson came to Baton Rouge and LSU wore white, which is the quirk this whole page turns on, and it pushed **Clemson into orange** rather than the road white they wear almost everywhere else. Orange against white under the lights in Tiger Stadium is a far better television game than orange against white would have been the other way round.
 
-**September 12 vs. Louisiana Tech.** ★ Confirmed from the broadcast, and it is the first surprise of LSU's season: **purple jersey, gold pants, gold helmet** in Tiger Stadium. We had the home whites down, the look LSU wore against Clemson a week earlier, and LSU went purple for the FCS visitor instead. Purple at home is the exception in Baton Rouge, not the rule, which is why it is worth a line here.
+**September 12 vs. Louisiana Tech.** ★ Confirmed from the broadcast, and it is the first surprise of LSU's season: **purple jersey, gold pants, gold helmet** in Tiger Stadium. We had the home whites down, the look LSU wore against Clemson a week earlier, and LSU went purple for the FCS visitor instead. Purple at home is the exception in Baton Rouge, not the rule, which is why it is worth a line here. LSU won 45-14.
 
 **September 19 at Ole Miss.** Purple expected.
 

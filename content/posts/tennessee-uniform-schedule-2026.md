@@ -85,7 +85,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **September 5 vs. Furman**, Knoxville. Home opener. ★ Confirmed: **white helmet, orange jersey, white pants**, the standard Tennessee home look against the checkerboard end zones. Furman answered in white helmet, white jersey, white pants. Tennessee won 56-9.
 
-**September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set, against Georgia Tech in gold over white.
+**September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set, against Georgia Tech in gold over white. Tennessee won 45-24.
 
 **September 19 vs. Kennesaw State**, Knoxville. Orange.
 

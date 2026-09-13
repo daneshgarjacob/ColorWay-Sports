@@ -68,7 +68,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **Saturday, August 29 vs. North Carolina**, Aviva Stadium, Dublin, 11 a.m. CT on ESPN. ✅ **Worn: the Frog Horn black with the Clover Frog helmet.** North Carolina countered in the white throwback with the Carolina blue helmet and pants, and won it 15-10.
 
-**September 12 vs. Grambling**, Amon G. Carter Stadium. Home opener after the Week 0 trip. ★ Confirmed from the broadcast: **purple helmet, purple jersey, black pants** against Grambling in white and gold.
+**September 12 vs. Grambling**, Amon G. Carter Stadium. Home opener after the Week 0 trip. ★ Confirmed from the broadcast: **purple helmet, purple jersey, black pants** against Grambling in white and gold. TCU won 63-7.
 
 **September 19 vs. Arkansas State**, Amon G. Carter Stadium. Purple expected, and the end of the non-conference run.
 

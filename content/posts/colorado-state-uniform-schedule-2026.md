@@ -84,7 +84,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **September 5 vs. Wyoming**, Fort Collins. The Border War, the oldest game on the schedule, now the stage for three firsts: first game in the Pac-12, first game in adidas, first look at whichever set the Rams choose for the occasion. If the green home uniform is ready, this is where it debuts.
 
-**September 12 vs. Southern Utah**, Fort Collins. ★ Confirmed from the broadcast: this was the **Ag Day game**, and Colorado State wore a new version of the **orange Aggies throwback**, an orange jersey with green trim under a white helmet with orange and green striping, for the school's Orange Out celebrating its Colorado A&M roots. The pants were not visible in the frame we have. Ag Day landed on the early home date, as it usually does.
+**September 12 vs. Southern Utah**, Fort Collins. ★ Confirmed from the broadcast: this was the **Ag Day game**, and Colorado State wore a new version of the **orange Aggies throwback**, an orange jersey with green trim under a white helmet with orange and green striping, for the school's Orange Out celebrating its Colorado A&M roots. The pants were not visible in the frame we have. Ag Day landed on the early home date, as it usually does. Colorado State won 58-24.
 
 **September 19 vs. BYU**, Fort Collins. A ranked opponent and a CBS window, the biggest early audience for the new look.
 
