@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: "2026-08-24"
+updatedDate: '2026-09-12'
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -68,7 +68,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #1E4D2B; border: 2px solid #1E4D2B; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Adidas Debut &middot; Border War</div></div>
-  <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #F26522; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ag Day Orange</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green &middot; CBS</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
@@ -84,7 +84,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **September 5 vs. Wyoming**, Fort Collins. The Border War, the oldest game on the schedule, now the stage for three firsts: first game in the Pac-12, first game in adidas, first look at whichever set the Rams choose for the occasion. If the green home uniform is ready, this is where it debuts.
 
-**September 12 vs. Southern Utah**, Fort Collins. The FCS tune-up. Worth watching because Colorado State's annual **Ag Day game** usually lands on an early home date, and this year's Ag Day uniform has not been revealed yet.
+**September 12 vs. Southern Utah**, Fort Collins. ★ Confirmed from the broadcast: this was the **Ag Day game**, and Colorado State wore a new version of the **orange Aggies throwback**, an orange jersey with green trim under a white helmet with orange and green striping, for the school's Orange Out celebrating its Colorado A&M roots. The pants were not visible in the frame we have. Ag Day landed on the early home date, as it usually does.
 
 **September 19 vs. BYU**, Fort Collins. A ranked opponent and a CBS window, the biggest early audience for the new look.
 
