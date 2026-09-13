@@ -26,7 +26,61 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, September 13
 
-Sunday started as a getaway-day slate with eleven of the fifteen games already logged, and the alternates were spread all over the country. The Marlins wore the teal throwback at home against the Dodgers, who went with the usual Dodgers-script road gray. Houston took the orange alternate to Tampa Bay, Cleveland wore navy at Minnesota, Washington broke out the red alternate for the Angels, Toronto went all-blue against the Orioles, and two visitors were in black, the White Sox at St. Louis and the Pirates for a third straight day at Wrigley against the Cubs' home pinstripes. The Subway Series finale in the Bronx stayed Mets gray at Yankees pinstripes, and Milwaukee wore the home pinstripes against the Reds' road gray. Four games (Royals at Red Sox, Mariners at Athletics, Rangers at Diamondbacks, Padres at Giants) get logged once their uniforms are confirmed. Every jersey below is confirmed against MLB's own uniform feed.
+Sunday started as a getaway-day slate with eleven of the fifteen games already logged, and the alternates were spread all over the country. The Marlins wore the teal throwback at home against the Dodgers, who went with the usual Dodgers-script road gray. Houston took the orange alternate to Tampa Bay, Cleveland wore navy at Minnesota, Washington broke out the red alternate for the Angels, Toronto went all-blue against the Orioles, and two visitors were in black, the White Sox at St. Louis and the Pirates for a third straight day at Wrigley against the Cubs' home pinstripes. The Subway Series finale in the Bronx stayed Mets gray at Yankees pinstripes, and Milwaukee wore the home pinstripes against the Reds' road gray. Two more came through on the feed for the evening, Seattle in navy at the Athletics' white and Texas in royal blue at the Diamondbacks' home white. Royals at Red Sox is set as Kansas City royal blue against Boston's home white but sat in a weather delay at Fenway, and Padres at Giants is the Sunday night game; both get their cards once they are underway. Every jersey below is confirmed against MLB's own uniform feed.
+
+### Texas Rangers at Arizona Diamondbacks
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rangers-royal-alternate.jpg" alt="Texas Rangers Royal Blue Alternate jersey worn September 13 2026 against the Diamondbacks, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #003278; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Royal Blue Alternate</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/diamondbacks-home-white.jpg" alt="Arizona Diamondbacks Home White jersey worn September 13 2026 against the Rangers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DIAMONDBACKS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+    </div>
+  </div>
+</div>
+</div>
+
+### Seattle Mariners at Athletics
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Seattle Mariners Navy Alternate jersey worn September 13 2026 against the Athletics, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARINERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2C56; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/athletics-home-white.jpg" alt="Athletics Home White jersey worn September 13 2026 against the Mariners, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ATHLETICS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Pittsburgh Pirates at Chicago Cubs
 
@@ -141,7 +195,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rays 14, Astros 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -195,7 +249,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Blue Jays 8, Orioles 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -222,7 +276,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Nationals 6, Angels 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -249,7 +303,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Phillies 9, Braves 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -276,7 +330,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Yankees 2, Mets 0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -303,7 +357,7 @@ Sunday started as a getaway-day slate with eleven of the fifteen games already l
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Tigers 8, Rockies 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
