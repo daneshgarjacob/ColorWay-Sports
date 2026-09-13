@@ -26,7 +26,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, September 12
 
-Saturday opened with three afternoon games and the first alternate of the day belonged to Detroit: the Tigers pulled out the orange alternate for the Rockies, who stayed in road gray, while the Subway Series finale in the Bronx went Mets gray at Yankees pinstripes for the third straight day and the Pirates wore the black alternate at Wrigley against the Cubs’ home pinstripes for the second day running. The evening block turned into an alternate parade: the Blue Jays in the royal blue alternate against the Orioles’ road gray, the Nationals in the cherry blossom City Connect against the Angels’ red alternate, the Giants in the black Gigantes alternate for Latino Heritage weekend against the Padres’ sand road pinstripes, a Fenway pairing of the Royals’ powder blues against the Red Sox’ yellow City Connect, and the Twins in the cream Twin Cities alternate against Cleveland’s road gray, while the Dodgers went gray at the Marlins’ home white and the Astros took road gray into the Trop against the Rays’ home white. In Milwaukee the Reds wore the red script alternate against the Brewers’ white pinstripe home alternate, and in Atlanta the Braves brought out the light blue City Connect against the Phillies’ road gray. After a rain delay in St. Louis the White Sox went black against the Cardinals’ cream alternate. In the desert the Diamondbacks went black against the Rangers’ road gray, and the Mariners at the Athletics close the night, and this section fills in as each one starts.
+Saturday opened with three afternoon games and the first alternate of the day belonged to Detroit: the Tigers pulled out the orange alternate for the Rockies, who stayed in road gray, while the Subway Series finale in the Bronx went Mets gray at Yankees pinstripes for the third straight day and the Pirates wore the black alternate at Wrigley against the Cubs’ home pinstripes for the second day running. The evening block turned into an alternate parade: the Blue Jays in the royal blue alternate against the Orioles’ road gray, the Nationals in the cherry blossom City Connect against the Angels’ red alternate, the Giants in the black Gigantes alternate for Latino Heritage weekend against the Padres’ sand road pinstripes, a Fenway pairing of the Royals’ powder blues against the Red Sox’ yellow City Connect, and the Twins in the cream Twin Cities alternate against Cleveland’s road gray, while the Dodgers went gray at the Marlins’ home white and the Astros took road gray into the Trop against the Rays’ home white. In Milwaukee the Reds wore the red script alternate against the Brewers’ white pinstripe home alternate, and in Atlanta the Braves brought out the light blue City Connect against the Phillies’ road gray. After a rain delay in St. Louis the White Sox went black against the Cardinals’ cream alternate. In the desert the Diamondbacks went black against the Rangers’ road gray, and the Mariners closed the night in the navy alternate against the Athletics’ Sacramento gold. Fifteen of fifteen logged, and the Clash of the Day is the Fenway pairing, and this section fills in as each one starts.
 
 
 ### Texas Rangers at Arizona Diamondbacks
@@ -166,6 +166,11 @@ Saturday opened with three afternoon games and the first alternate of the day be
 
 ### Kansas City Royals at Boston Red Sox
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #7AB2DD 0%, #ffffff 50%, #F5D130 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -190,6 +195,9 @@ Saturday opened with three afternoon games and the first alternate of the day be
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to Fenway, and it is the loudest pairing of the night. The Royals came in the powder blue alternate, the 1970s road color that Kansas City has treated as a home look for years now, and the Red Sox answered in the yellow City Connect, the Marathon jersey that only exists because Boston decided one weekend a year should look like a Monday in April. Powder blue against yellow with the Green Monster behind it is two colors that have no business in the same frame and somehow work, the kind of matchup the City Connect program was supposed to produce more often than it does. The Red Sox won it 5-1.
 
 ### Cleveland Guardians at Minnesota Twins
 
