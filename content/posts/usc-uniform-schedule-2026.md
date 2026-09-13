@@ -49,7 +49,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **September 5 vs. Fresno State.** Cardinal expected.
 
-**September 12 vs. Louisiana.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, gold pants**, the Coliseum home look with nothing changed.
+**September 12 vs. Louisiana.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, gold pants**, the Coliseum home look with nothing changed. USC won 49-30.
 
 **September 19 at Rutgers.** White expected.
 
