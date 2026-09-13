@@ -50,7 +50,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **September 5 vs. East Carolina**, Tuscaloosa. Home opener. ★ Confirmed: **crimson helmet, crimson jersey, white pants**, the standard Alabama home uniform with the player's number on the helmet and no nameplate on the back. East Carolina answered in the white jersey with white pants.
 
-**September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in all blue. Alabama won 45-17.
+**September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in blue over white pants. Alabama won 45-17.
 
 **September 19 vs. Florida State**, Tuscaloosa. The marquee non-conference game, at home. Crimson.
 
