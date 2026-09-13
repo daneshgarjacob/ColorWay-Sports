@@ -8,7 +8,9 @@ updatedDate: "2026-09-13"
 excerpt: "What NFL teams are wearing, game by game. Every helmet, jersey and pants combination logged and graded, all 32 teams, from Week 1 onward."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
-cardStyle: words
+coverImage: "/images/posts/nfl-uniform-tracker-2026/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Tracker
 league: nfl
 teams: []
