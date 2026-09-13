@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: '2026-09-05'
+updatedDate: '2026-09-12'
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -69,7 +69,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #FF8200; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Furman</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #58595B; color: #ffffff; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #FF8200;">Smokey Grey</div></div>
@@ -85,7 +85,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **September 5 vs. Furman**, Knoxville. Home opener. ★ Confirmed: **white helmet, orange jersey, white pants**, the standard Tennessee home look against the checkerboard end zones. Furman answered in white helmet, white jersey, white pants. Tennessee won 56-9.
 
-**September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. White.
+**September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set, against Georgia Tech in gold over white.
 
 **September 19 vs. Kennesaw State**, Knoxville. Orange.
 
