@@ -54,6 +54,7 @@ export function getTeamLatestFromTracker(
 export function teamWearQuestions(team: string) {
   return {
     lastNight: `What did the ${team} wear last night?`,
+    were: `What were the ${team} wearing last night?`,
     tonight: `What are the ${team} wearing tonight?`,
     rightNow: `What are the ${team} wearing right now?`,
     whichJersey: `What jersey did the ${team} wear?`,

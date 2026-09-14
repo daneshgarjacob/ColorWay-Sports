@@ -74,6 +74,12 @@ export default function TeamWoreLastNight({
                 {latest.uniform ? `${where}, ${versus}.` : `${where}.`} We log every uniform in
                 every game, every morning.
               </p>
+              <p className="mt-2 text-[13px] text-black/70 leading-relaxed">
+                <strong className="text-[#0B1F4A]">{q.were}</strong>{" "}
+                {latest.uniform
+                  ? `The ${latest.uniform}, ${where} ${versus} on ${latest.month} ${latest.date}.`
+                  : `They played ${versus} on ${latest.month} ${latest.date}.`}
+              </p>
             </div>
           </div>
 
