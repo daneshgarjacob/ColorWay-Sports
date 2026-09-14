@@ -33,11 +33,11 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
     <text x="24" y="36" font-family="Hanken Grotesk" font-weight="800" font-size="25" fill="#8fb2e8" letter-spacing="4">EVERY GAME, GRADED</text>
   </g>
 
-  <g transform="translate(${M} 724) skewX(-6)">
-    <text x="0" y="0" font-family="Anton" font-size="150" fill="#ffffff">WHAT EVERY TEAM</text>
+  <g transform="translate(${M} 770) skewX(-6)">
+    <text x="0" y="0" font-family="Anton" font-size="112" fill="#ffffff">WHAT EVERY TEAM</text>
   </g>
-  <g transform="translate(${M} 884) skewX(-6)">
-    <text x="0" y="0" font-family="Anton" font-size="150" fill="#ffffff">IS WEARING <tspan fill="#ff4b63">THIS WEEK</tspan></text>
+  <g transform="translate(${M} 892) skewX(-6)">
+    <text x="0" y="0" font-family="Anton" font-size="112" fill="#ffffff">IS WEARING <tspan fill="#ff4b63">THIS WEEK</tspan></text>
   </g>
 
   <line x1="${M}" y1="928" x2="1265" y2="928" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
@@ -46,13 +46,16 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const comps = [];
 // 4 rows x 8, left edge of every column aligned, first column flush at M
 for (let i = 0; i < 32; i++) {
-  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 84, width: 118, fit: 'inside' }).toBuffer();
+  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 104, width: 140, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 8), col = i % 8;
-  const cellX = M + col * 150;
-  const cy = 150 + row * 118 + 42;
-  comps.push({ input: buf, left: cellX + Math.round((118 - m.width) / 2), top: Math.round(cy - m.height / 2) });
+  const cellX = M + col * 158;
+  const cy = 150 + row * 128 + 52;
+  comps.push({ input: buf, left: cellX + Math.round((140 - m.width) / 2), top: Math.round(cy - m.height / 2) });
 }
+const shield = await sharp('public/logos/leagues/nfl.png').resize({ height: 96, width: 140, fit: 'inside' }).toBuffer();
+const sm = await sharp(shield).metadata();
+comps.push({ input: shield, left: 1290 - sm.width, top: 44 });
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
 comps.push({ input: wm, left: 92, top: 951 });
 

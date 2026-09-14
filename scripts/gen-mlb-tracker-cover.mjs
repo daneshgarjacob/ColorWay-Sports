@@ -50,6 +50,9 @@ for (let i = 0; i < 30; i++) {
   comps.push({ input: buf, left: cellX, top: Math.round(cy - m.height / 2) });
 }
 // real wordmark bottom-right next to the drawn flag roundel
+const shield = await sharp('public/logos/leagues/mlb.png').resize({ height: 84, width: 150, fit: 'inside' }).toBuffer();
+const sm = await sharp(shield).metadata();
+comps.push({ input: shield, left: 1290 - sm.width, top: 50 });
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
 const wmm = await sharp(wm).metadata();
 comps.push({ input: wm, left: 92, top: 951 });
