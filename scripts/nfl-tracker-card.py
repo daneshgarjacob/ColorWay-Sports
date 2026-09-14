@@ -2,7 +2,7 @@
 usage: python3 scripts/nfl-tracker-card.py games.json
 games.json = [{"away":"Buffalo Bills","home":"Houston Texans","awayJersey":"bills-royal-home","homeJersey":"texans-white-liberty",
                "score":"Bills 36, Texans 31"}]   (score = winner first; omit for a game still in progress)
-The six bar colours, the week label, the Final/Not-yet-worn status and the grade are read off the existing card, so a game that has
+The six helmet/jersey/pants colours (icon data-color, or old bars), the week label, the Final/Not-yet-worn status and the grade are read off the existing card, so a game that has
 been logged with scripts/nfl-tracker-log.py converts with no re-entry. Jersey images live in public/images/posts/nfl-tracker-jerseys/.
 """
 import json, re, sys, os
@@ -20,11 +20,8 @@ NAMES = {  # bar hex -> colour word used in the combination line
 }
 SHORT = lambda name: name.split()[-1].upper() if name not in ("Washington Commanders",) else "COMMANDERS"
 
-def chips(hexes):
-    out = []
-    for lbl, h in zip(("Helmet", "Jersey", "Pants"), hexes):
-        out.append(f'<div style="flex:1 1 0;min-width:0;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="width:100%;height:16px;border-radius:4px;border:1px solid rgba(255,255,255,.25);background:{h};display:block;"></span><span style="font-size:8px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.55);">{lbl}</span></div>')
-    return '<div style="display:flex;gap:6px;margin:10px 0 0;width:100%;">' + "".join(out) + "</div>"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from nfl_uniform_icons import dark_row as chips, card_hexes  # helmet/jersey/pants icons
 
 def side(name, slug, hexes, date_words, opp):
     combo = " &middot; ".join(NAMES.get(h.upper(), "?") for h in hexes)
@@ -49,7 +46,7 @@ for g in games:
     assert m, "old card not found: " + h3
     old = m.group(0)
     label = re.search(r'Week \d+ &middot; ([^<]+)<', old).group(1)
-    hexes = re.findall(r'background:(#[0-9A-Fa-f]{6});(?:border[^;]*;)?display:block;', old)
+    hexes = card_hexes(old)
     assert len(hexes) == 6, h3
     grade = re.search(r'letter-spacing:-\.5px;">([^<]+)</span>', old).group(1)
     final = "Final" in old

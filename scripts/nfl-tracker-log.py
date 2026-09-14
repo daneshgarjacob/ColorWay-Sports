@@ -2,9 +2,13 @@
 games.json = [ {"away":"Green Bay Packers","home":"Minnesota Vikings",
                 "awayBars":["#FFB612","#FFFFFF","#FFB612"], "homeBars":[...],
                 "prose":"...", "grade":"-"} ]
-Bars order = helmet, jersey, pants. White (#FFFFFF) bars get the border automatically.
+Bars order = helmet, jersey, pants. The card draws them as helmet/jersey/pants icons (scripts/nfl_uniform_icons.py);
+white pieces get the darker outline automatically.
 """
-import json, re, sys
+import json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from nfl_uniform_icons import ROW_RE, OLD_BAR_RE, light_row
+
 F = "content/posts/nfl-uniform-tracker-2026.md"
 md = open(F).read()
 games = json.load(open(sys.argv[1]))
@@ -28,15 +32,23 @@ for g in games:
     assert lines[2].startswith("What the "), lines[2][:60]
     lines[2] = g["prose"]
     card = "\n".join(lines)
-    # bars: the card has 6 bar spans in order away H/J/P then home H/J/P
-    bars = g["awayBars"] + g["homeBars"]
-    pat = re.compile(r'<span style="flex:1;height:11px;border-radius:3px;background:#[0-9A-Fa-f]{6};(?:border:1px solid #d9dde3;)?display:block;"></span>')
-    found = pat.findall(card)
-    assert len(found) == 6, (h3, len(found))
-    n = [0]
-    def rep(m):
-        s = bar_span(bars[n[0]]); n[0] += 1; return s
-    card = pat.sub(rep, card)
+    # colours: two icon rows, away then home (older cards: 6 bar spans, away H/J/P then home H/J/P)
+    sides = [g["awayBars"], g["homeBars"]]
+    rows = ROW_RE.findall(card)
+    if rows:
+        assert len(rows) == 2, (h3, len(rows))
+        n = [0]
+        def rep_row(m):
+            s = light_row(sides[n[0]], "right" if n[0] else "left"); n[0] += 1; return s
+        card = ROW_RE.sub(rep_row, card)
+    else:
+        bars = sides[0] + sides[1]
+        found = OLD_BAR_RE.findall(card)
+        assert len(found) == 6, (h3, len(found))
+        n = [0]
+        def rep(m):
+            s = bar_span(bars[n[0]]); n[0] += 1; return s
+        card = OLD_BAR_RE.sub(rep, card)
     assert card.count("Not yet worn") == 2, h3
     card = card.replace("Not yet worn", "Final")
     grade = g.get("grade", "-")
