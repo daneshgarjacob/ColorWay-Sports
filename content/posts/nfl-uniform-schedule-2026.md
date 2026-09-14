@@ -2,7 +2,7 @@
 title: "NFL Uniform Schedule 2026: What Every Team Wears and When (All 32 Teams)"
 category: "NFL"
 date: "2026-08-18"
-updatedDate: "2026-09-04"
+updatedDate: "2026-09-14"
 excerpt: "The full 2026 NFL jersey guide: which uniform every team wears each week, all 32 confirmed alternate dates, and the clubs still hiding theirs."
 gradient: "linear-gradient(135deg, #13294B 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words

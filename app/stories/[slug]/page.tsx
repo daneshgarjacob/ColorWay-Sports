@@ -15,6 +15,8 @@ import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
 import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
 import TeamWearBox from "@/components/TeamWearBox";
+import NflWeekBoard from "@/components/NflWeekBoard";
+import { buildNflWeekSlate, nflWeekAnswers } from "@/lib/nflWeekSlate";
 import { getNflLatestFromTracker, nflComboSentence, nflWearQuestions } from "@/lib/nflTeamLatest";
 import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
 import { buildCollegeWear, buildMlbWear, buildNflWear, normQuestion } from "@/lib/teamWearAnswers";
@@ -142,6 +144,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const mlbWear =
     isMlbSchedulePost && teamLatest ? buildMlbWear(teamLatest.team, post.contentHtml) : [];
 
+  // The league hub gets the whole week's slate, built from the 32 team grids.
+  const nflWeekSlate = slug === "nfl-uniform-schedule-2026" ? buildNflWeekSlate(now) : null;
+  const nflWeekQa = nflWeekSlate && nflWeekSlate.games.length > 0 ? nflWeekAnswers(nflWeekSlate) : [];
+
   const graph: Record<string, unknown>[] = [articleSchema];
 
   const qa = (name: string, text: string) => ({
@@ -175,7 +181,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call tonight's look before first pitch. Their most recent logged game was ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
     );
   }
-  for (const { q, a } of [...mlbWear, ...(nflWear?.answers ?? []), ...(collegeWear?.answers ?? [])]) {
+  for (const { q, a } of [...mlbWear, ...(nflWear?.answers ?? []), ...(collegeWear?.answers ?? []), ...nflWeekQa]) {
     addLive(q, a);
   }
 
@@ -328,6 +334,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           answers={nflWear.answers}
           link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
         />
+      )}
+
+      {nflWeekSlate && nflWeekSlate.games.length > 0 && (
+        <NflWeekBoard slate={nflWeekSlate} answers={nflWeekQa} />
       )}
 
       {collegeTeam && collegeWear && (
