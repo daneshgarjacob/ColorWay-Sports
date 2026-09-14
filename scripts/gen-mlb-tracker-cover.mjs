@@ -52,7 +52,7 @@ for (let i = 0; i < 30; i++) {
 // real wordmark bottom-right next to the drawn flag roundel
 const shield = await sharp('public/logos/leagues/mlb.png').resize({ height: 84, width: 150, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();
-comps.push({ input: shield, left: 1290 - sm.width, top: 50 });
+comps.push({ input: shield, left: Math.round(M + 8 * 138 + 69 + 58 - sm.width / 2), top: 50 }); // centred between the Rockies and Tigers columns
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
 const wmm = await sharp(wm).metadata();
 comps.push({ input: wm, left: 92, top: 951 });

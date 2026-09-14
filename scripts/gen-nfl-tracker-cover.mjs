@@ -11,7 +11,7 @@ const M = 92;
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2a5cae"/><stop offset="55%" stop-color="#1b3f80"/><stop offset="100%" stop-color="#122a58"/>
+      <stop offset="0%" stop-color="#123f86"/><stop offset="55%" stop-color="#0b2451"/><stop offset="100%" stop-color="#07132b"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.22" r="0.75">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
@@ -23,6 +23,9 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <polygon points="1280,1000 1780,0 1812,0 1315,1000" fill="#D50A0A" opacity="0.85"/>
   <rect width="${W}" height="${H}" fill="url(#glow)"/>
   <rect width="${W}" height="${H}" filter="url(#noise)"/>
+
+  <rect x="56" y="150" width="1318" height="510" rx="20" fill="#eceef3"/>
+  <rect x="56" y="150" width="1318" height="510" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
 
   <g transform="translate(${M} 66) skewX(-8)">
     <rect x="0" y="0" width="436" height="52" fill="#D50A0A"/>
@@ -50,7 +53,7 @@ for (let i = 0; i < 32; i++) {
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 8), col = i % 8;
   const cellX = M + col * 158;
-  const cy = 150 + row * 128 + 52;
+  const cy = 213 + row * 128;
   comps.push({ input: buf, left: cellX + Math.round((140 - m.width) / 2), top: Math.round(cy - m.height / 2) });
 }
 const shield = await sharp('public/logos/leagues/nfl.png').resize({ height: 96, width: 140, fit: 'inside' }).toBuffer();
