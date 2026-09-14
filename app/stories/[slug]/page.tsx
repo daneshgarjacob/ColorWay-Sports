@@ -14,9 +14,10 @@ import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
 import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
-import NflTeamLastGame from "@/components/NflTeamLastGame";
+import TeamWearBox from "@/components/TeamWearBox";
 import { getNflLatestFromTracker, nflComboSentence, nflWearQuestions } from "@/lib/nflTeamLatest";
 import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
+import { buildCollegeWear, buildMlbWear, buildNflWear, normQuestion } from "@/lib/teamWearAnswers";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -125,6 +126,22 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const nflLatest =
     nflTeam && nflTracker ? getNflLatestFromTracker(nflTracker.contentHtml, nflTeam.name) : null;
 
+  // "Today" is the build date: the site redeploys many times a day, and every
+  // deploy re-renders these pages.
+  const now = new Date();
+  const nflWear = nflTeam ? buildNflWear(nflTeam, nflLatest, now) : null;
+
+  // College football schedule posts read their own week-by-week grid, where a
+  // star marks a look confirmed from the game.
+  const collegeTeam =
+    post.league === "college" && /-uniform-schedule-2026$/.test(slug)
+      ? post.title.split(" Uniform Schedule")[0]
+      : null;
+  const collegeWear = collegeTeam ? buildCollegeWear(collegeTeam, post.contentHtml, now) : null;
+
+  const mlbWear =
+    isMlbSchedulePost && teamLatest ? buildMlbWear(teamLatest.team, post.contentHtml) : [];
+
   const graph: Record<string, unknown>[] = [articleSchema];
 
   const qa = (name: string, text: string) => ({
@@ -132,14 +149,18 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     name,
     acceptedAnswer: { "@type": "Answer", text },
   });
-  const faqEntities: Record<string, unknown>[] = (post.faqs ?? []).map((faq) =>
-    qa(faq.question, faq.answer),
-  );
 
-  // The live blocks visibly ask and answer these phrasings, so they get FAQ
-  // schema. "right now" / "what jersey did" are deliberately NOT declared —
-  // schema should only claim questions the page actually answers on screen.
+  // The live boxes visibly ask and answer these phrasings, so they get FAQ
+  // schema. Schema only claims questions the page actually answers on screen.
   // Everything goes into ONE FAQPage; Google expects a single one per page.
+  const liveEntities: Record<string, unknown>[] = [];
+  const seen = new Set<string>();
+  const addLive = (q: string, a: string) => {
+    if (seen.has(normQuestion(q))) return;
+    seen.add(normQuestion(q));
+    liveEntities.push(qa(q, a));
+  };
+
   if (teamLatest?.latest) {
     const q = teamWearQuestions(teamLatest.team);
     const g = teamLatest.latest;
@@ -147,21 +168,23 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     const answer = g.uniform
       ? `On ${g.month} ${g.date} the ${teamLatest.team} wore the ${g.uniform} ${place} ${g.opp}.`
       : `The ${teamLatest.team} last played ${g.opp} on ${g.month} ${g.date}.`;
-    faqEntities.push(
-      qa(q.lastNight, answer),
-      qa(q.were, answer),
-      qa(
-        q.tonight,
-        `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call tonight's look before first pitch. Their most recent logged game was ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
-      ),
+    addLive(q.lastNight, answer);
+    addLive(q.were, answer);
+    addLive(
+      q.tonight,
+      `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call tonight's look before first pitch. Their most recent logged game was ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
     );
   }
-
-  if (nflLatest) {
-    const q = nflWearQuestions(nflLatest.nickname);
-    const answer = `In their most recent game, ${nflLatest.day} ${nflLatest.home ? "against" : "at"} the ${nflLatest.opponent}, the ${nflLatest.nickname} wore ${nflComboSentence(nflLatest)}.`;
-    faqEntities.push(qa(q.were, answer), qa(q.lastGame, answer));
+  for (const { q, a } of [...mlbWear, ...(nflWear?.answers ?? []), ...(collegeWear?.answers ?? [])]) {
+    addLive(q, a);
   }
+
+  // A static FAQ question that the live box now answers with real data is
+  // dropped from the schema, so Google never sees two answers to one question.
+  const faqEntities = [
+    ...liveEntities,
+    ...(post.faqs ?? []).filter((f) => !seen.has(normQuestion(f.question))).map((f) => qa(f.question, f.answer)),
+  ];
 
   if (faqEntities.length > 0) {
     graph.push({ "@type": "FAQPage", mainEntity: faqEntities });
@@ -281,10 +304,47 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       </div>
 
       {teamLatest?.latest && (
-        <TeamWoreLastNight data={teamLatest} accent={leagueColor(post.category)} />
+        <TeamWoreLastNight data={teamLatest} accent={leagueColor(post.category)} answers={mlbWear} />
       )}
 
-      {nflLatest && <NflTeamLastGame data={nflLatest} accent={nflTeam?.color} />}
+      {nflTeam && nflWear && (
+        <TeamWearBox
+          accent={nflTeam.color}
+          badge={
+            nflLatest
+              ? `Updated every game · ${nflLatest.logged} ${nflLatest.logged === 1 ? "game" : "games"} logged`
+              : "Updated every game"
+          }
+          headline={nflWear.headline}
+          lastGame={
+            nflLatest && {
+              eyebrow: `Last game · ${nflLatest.day} · ${nflLatest.home ? "vs" : "at"} ${nflLatest.opponent.split(" ").slice(-1)[0]}`,
+              sentence: `The ${nflLatest.nickname} wore ${nflComboSentence(nflLatest)}`,
+              detail: `Final: ${nflLatest.final}.`,
+              img: nflLatest.img,
+              alt: `${nflLatest.team} ${nflLatest.jersey.toLowerCase()} jersey worn ${nflLatest.day} ${nflLatest.home ? "against" : "at"} the ${nflLatest.opponent}, from the ColorWay Sports NFL uniform tracker`,
+            }
+          }
+          answers={nflWear.answers}
+          link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+        />
+      )}
+
+      {collegeTeam && collegeWear && (
+        <TeamWearBox
+          accent={leagueColor(post.category)}
+          badge="Updated every Saturday"
+          headline={collegeWear.headline}
+          lastGame={
+            collegeWear.last && {
+              eyebrow: `Last game · ${collegeWear.last.label} · ${collegeWear.last.matchup}`,
+              sentence: `${collegeTeam} wore ${collegeWear.last.uniform}`,
+              detail: "Confirmed from the game.",
+            }
+          }
+          answers={collegeWear.answers}
+        />
+      )}
 
       {jumpItems.length > 0 &&
         (jumpNavIsGames ? (

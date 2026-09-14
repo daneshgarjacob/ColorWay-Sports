@@ -1,6 +1,8 @@
 import Link from "next/link";
 import type { TeamLatest } from "@/lib/mlbTeamLatest";
 import { teamWearQuestions } from "@/lib/mlbTeamLatest";
+import type { WearAnswer } from "@/lib/teamWearAnswers";
+import WearQuickAnswers from "@/components/WearQuickAnswers";
 
 /**
  * Live "what did they wear last night" block for a team's schedule post.
@@ -13,9 +15,11 @@ import { teamWearQuestions } from "@/lib/mlbTeamLatest";
 export default function TeamWoreLastNight({
   data,
   accent = "#2f6bed",
+  answers = [],
 }: {
   data: TeamLatest;
   accent?: string;
+  answers?: WearAnswer[];
 }) {
   const { team, latest, logged, trackerHref } = data;
   if (!latest) return null;
@@ -82,6 +86,8 @@ export default function TeamWoreLastNight({
               </p>
             </div>
           </div>
+
+          <WearQuickAnswers answers={answers} />
 
           <div className="mt-5 pt-4 border-t border-black/10">
             <p className="text-[13px] text-black/70 leading-relaxed">
