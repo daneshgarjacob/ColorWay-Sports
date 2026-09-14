@@ -11,7 +11,7 @@ const M = 92;
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0f3a7a"/><stop offset="55%" stop-color="#0b2451"/><stop offset="100%" stop-color="#07132b"/>
+      <stop offset="0%" stop-color="#2a5cae"/><stop offset="55%" stop-color="#1b3f80"/><stop offset="100%" stop-color="#122a58"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.22" r="0.75">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
@@ -55,7 +55,7 @@ for (let i = 0; i < 32; i++) {
 }
 const shield = await sharp('public/logos/leagues/nfl.png').resize({ height: 96, width: 140, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();
-comps.push({ input: shield, left: 1290 - sm.width, top: 44 });
+comps.push({ input: shield, left: Math.round(M + 6 * 158 + 70 + 79 - sm.width / 2), top: 44 }); // centred between the Bengals and Browns columns
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
 comps.push({ input: wm, left: 92, top: 951 });
 
