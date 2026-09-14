@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -128,6 +128,18 @@ Navy jersey with gold numerals at home, white jersey with navy numerals on the r
 **How many alternate uniforms does Notre Dame wear in 2026?**
 
 Two are confirmed: the Shamrock Series set on September 6 and the Irish Wear Green set on October 10. Every other game is expected to be the standard navy or white.
+
+**Why does Notre Dame wear green?**
+
+Green started under Knute Rockne in the 1920s as a way to stand out when an opponent also wore blue, and he turned it into a motivational tool, including a switch from blue to green against Navy in 1927. Dan Devine sent the Irish out in surprise green jerseys against USC in 1977, a 49-19 win on the way to a national title. In 2026 Notre Dame wears green on October 10 against Stanford.
+
+**Why does Notre Dame wear gold helmets?**
+
+The gold helmet mirrors the Golden Dome on the Main Building. For decades student managers painted the helmets before home games with paint mixed with gold dust from the Dome, and gold flakes collected when the Dome is regilded are still part of the finishing process.
+
+**Why does Notre Dame wear blue instead of green?**
+
+Blue and gold are Notre Dame's official colors, and green has always been an alternate. The school began with blue and yellow for truth and light, and gold replaced yellow after the Dome and the statue of Mary were gilded. Navy has been the primary jersey color since 1984.
 
 **Why is there a SoFi patch on Notre Dame's jersey?**
 

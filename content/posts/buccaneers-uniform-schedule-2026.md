@@ -2,7 +2,7 @@
 title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -137,6 +137,14 @@ Tampa Bay has not published week-by-week uniform assignments. The two confirmed 
 **What color pants do the Buccaneers wear with the pewter jersey?**
 
 Pewter, matching the jersey, with red and white stripes down the sides.
+
+**Why are the Buccaneers wearing orange?**
+
+The orange-trimmed creamsicle look is Tampa Bay's 1976 throwback from the franchise's first season. The Bucs brought it back for their 50th season in 2025, and the fan response was strong enough that they wear the white 1976 set again on December 6, 2026, at home against the Los Angeles Chargers.
+
+**Why are the Buccaneers wearing white at home?**
+
+The December 6 creamsicle game is a white uniform: the 1976 set pairs white jerseys and white pants with orange numbers and the original white helmet. Tampa Bay wearing white at home is also what lets the Chargers bring their gold Charger Power jersey to the same game.
 
 For the rest of the league's 2026 uniform news, see [every 2026 NFL uniform reveal, graded and ranked](/stories/nfl-uniform-release-dates-2026), and [what every NFL team wears each week](/stories/nfl-uniform-tracker-2026).
 

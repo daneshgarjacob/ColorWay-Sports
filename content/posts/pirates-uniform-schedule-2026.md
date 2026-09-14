@@ -2,7 +2,7 @@
 title: "Pittsburgh Pirates Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Pittsburgh Pirates run four uniforms in 2026 — home white, the road gray 'Pittsburgh' script, the black alternate, and a brand-new black-and-gold City Connect. Here's every jersey and exactly when they wear it."
 gradient: "linear-gradient(135deg, #27251F 0%, #FDB827 50%, #27251F 100%)"
 coverImage: "/images/posts/pirates-uniform-schedule-2026/cover.jpg"
@@ -117,6 +117,7 @@ It still works, because the one anchor covers the jersey fans actually plan arou
 ## Frequently Asked Questions
 
 **What jersey are the Pittsburgh Pirates wearing today?**
+
 If it's a Friday home game at PNC Park, it's the new all-black City Connect with gold gothic "Pirates" lettering. Any other home game is most likely the home white, and most road games are the gray "Pittsburgh" script set. The black alternate is the wild card with no fixed day, so it can turn up at home or away whenever the staff wants it. Check the day of the week and whether the Pirates are home or away, and Friday-at-home is your one reliable City Connect tell.
 
 **What jersey did the Pirates wear last night?**
@@ -134,21 +135,38 @@ Friday at PNC Park is the all-black City Connect. Any other home game is most li
 Friday at home is your one reliable tell, and it means the City Connect. Otherwise check home or away and assume the home white or the gray script set.
 
 **How many uniforms do the Pirates have in 2026?**
+
 Four: the home white, the road gray "Pittsburgh" script, the black alternate, and the new City Connect. Three are holdovers; only the City Connect was redesigned for 2026.
 
 **When do the Pirates wear the new City Connect uniform?**
+
 The 2026 City Connect debuted on Friday, April 17 against the Tampa Bay Rays and is worn for every Friday home game at PNC Park the rest of the season. It's an all-black uniform with gold gothic "Pirates" lettering and a touch of red.
 
 **What happened to the yellow Pirates City Connect?**
+
 It was retired. The bright yellow "PGH" kit worn from 2023 through 2025 was replaced for 2026 by an all-black, gold-lettered design. The biggest visual change is the chest, where "PGH" gave way to a fuller arched "Pirates" wordmark.
 
 **Why does the Pirates road jersey say "Pittsburgh" in script?**
+
 The cursive "Pittsburgh" wordmark was revived ahead of the 2020 season after fans asked for it. Script "Pittsburgh" had previously appeared on the road jerseys from 1990 to 2000; the same script also lives on the black alternate.
 
 **Do the Pirates have a strict uniform rotation like the Phillies?**
+
 No. Outside of the City Connect on Friday home games, the Pirates pick their jerseys by feel rather than a published schedule, so the black alternate and the everyday whites and grays stay flexible.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cubs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Cubs 2026 Uniform Schedule</a><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/brewers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Milwaukee Brewers 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Pirates wearing a number 9 patch?**
+
+The No. 9 sleeve patch honors Bill Mazeroski, the Hall of Fame second baseman whose walk-off home run won Game 7 of the 1960 World Series. Mazeroski died on February 20, 2026, at 89, and the Pirates have worn the patch for the 2026 season starting with their April 3 home opener against the Orioles.
+
+**Why are the Pirates wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Pirates and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Pirates wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Pirates and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
 
 ## More MLB Coverage
 

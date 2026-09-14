@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Both Kelly Green Dates, the Black Alternate, and Every Week"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -118,16 +118,28 @@ Midnight green at the Linc and white on the road, with one exception confirmed s
 Two dates, both confirmed and both at Lincoln Financial Field: Week 9 against the New York Giants on Sunday, November 8, and Week 16 against the Houston Texans on Thursday, December 24. The Eagles announced the pair on September 4.
 
 **When do the Eagles wear the black alternate in 2026?**
+
 Week 15 against the Seattle Seahawks on Saturday, December 19, confirmed by the club on September 4. It is worn with the black helmet, and it is the only black game on the 2026 schedule.
 
 **What is the Eagles' primary uniform for 2026?**
+
 Midnight green at home and white on the road, both carrying a subtly updated wordmark for 2026.
 
 **How many uniforms do the Eagles have in 2026?**
+
 Four: midnight green home, white road, the Kelly Green throwback, and the black alternate.
 
 **Is the full Eagles 2026 uniform schedule official?**
+
 No. The Eagles have not published a game-by-game uniform schedule, and the Kelly Green and black dates are unannounced. The grid follows the standard home-and-away rotation and will be updated when Philadelphia confirms its alternates.
+
+**Why are the Eagles wearing black?**
+
+The all-black set is Philadelphia's alternate, worn with the black helmet, and the club uses it for one game a year. In 2026 that game is Week 15 at home against the Seattle Seahawks on Saturday, December 19.
+
+**Why do the Eagles wear Kelly Green?**
+
+Kelly Green is the Eagles' throwback to the uniforms of the Randall Cunningham and Reggie White era, and it returned as an alternate in 2023. Philadelphia wears it twice in 2026, both at Lincoln Financial Field: Week 9 against the Giants on Sunday, November 8, and Week 16 against the Texans on Thursday, December 24.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

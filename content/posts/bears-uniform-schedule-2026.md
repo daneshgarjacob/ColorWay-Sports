@@ -2,7 +2,7 @@
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -158,6 +158,18 @@ Three on the current schedule: the navy home set, the white road set, and the Ri
 **What are the Bears wearing on Christmas Day 2026?**
 
 Their new Nike Rivalries uniform, against the Green Bay Packers at Soldier Field, at noon Central on Netflix.
+
+**Why do the Bears wear GSH on their jerseys?**
+
+GSH are the initials of George Stanley Halas, the Bears' founder, longtime owner and coach, who died in 1983. The team wore a memorial patch for him that season and then moved his initials to the left sleeve, where they have stayed ever since. The Rivalries uniform the Bears debut on Christmas Day against the Packers also carries a replica of the 1983 football-shaped GSH patch on the front.
+
+**Why are the Bears wearing a VMH patch?**
+
+VMH honors Virginia Halas McCaskey, George Halas's daughter and the Bears' owner for more than 40 years, who died in February 2025 at 102. The Bears wore the orange football-shaped patch with her initials, McCaskey's M in the middle, on the front of the jersey throughout the 2025 season, mirroring the patch the 1983 team wore for her father.
+
+**Why are the Bears wearing 76 on their helmets?**
+
+The No. 76 decal honors Steve McMichael, the Hall of Fame defensive tackle from the Super Bowl XX team. The Bears wore the football-shaped decal on the back of their helmets for the entire 2025 season.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/packers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Green Bay Packers 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

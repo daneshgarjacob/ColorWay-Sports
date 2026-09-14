@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals 2026 Uniform Schedule: When They Wear the White Bengal and Open In Orange"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Bengals' 2026 uniform schedule: confirmed dates for the all-white White Bengal jersey and the Open In Orange opener, plus a week-by-week look at the black and white sets."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -124,25 +124,40 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Black at Paycor Stadium and white on the trip, unless it is one of the three confirmed dates: Open In Orange in Week 1, or the White Bengal in Week 10 and Week 17.
 
 **When do the Bengals wear the White Bengal uniform in 2026?**
+
 Twice, both at home. Week 10 against the Pittsburgh Steelers on Sunday, November 15 at 8:20 p.m. on Sunday Night Football, and Week 17 against the Baltimore Ravens on Thursday, December 31 at 8:15 p.m. The Week 17 game is the New Year's Eve White Bengal Stripe event.
 
 **Is White Bengal Stripe a new Bengals jersey?**
+
 No. White Bengal Stripe is the name of the New Year's Eve game and the black-and-white crowd pattern in the stands. The team wears the same all-white White Bengal uniform it wears in Week 10, not a new design.
 
 **When is the Bengals Open In Orange game in 2026?**
+
 The home opener, Week 1 against the Tampa Bay Buccaneers on Sunday, September 13 at 1 p.m. The team wears the orange helmet and orange jersey with white pants, confirmed by the Bengals the week of the game.
 
 **Do the Bengals have a Rivalries uniform in 2026?**
+
 No. The NFL x Nike Rivalries program rolls out by division, and the 2026 wave covers the AFC South and NFC North. The AFC North has not had its turn, so there is no Bengals Rivalries jersey this season. Our [explainer on the Rivalries program](/stories/what-is-the-nfl-rivalries-uniform-program) covers how the rollout works.
 
 **What is the Bengals' primary uniform for 2026?**
+
 Black at home and white on the road. Black projects to the five home games not claimed by a confirmed uniform, and white projects to all nine away games.
 
 **How many home games do the Bengals play in 2026?**
+
 Eight at Paycor Stadium, in Weeks 1, 4, 8, 10, 12, 14, 17, and 18. The Week 9 game against Atlanta in Madrid is a road game for Cincinnati because the Falcons are the designated home team. The bye is Week 6.
 
 **Is the full Bengals 2026 uniform schedule official?**
+
 No. Three games are confirmed by the team: Open In Orange in Week 1 and the White Bengal in Weeks 10 and 17. Everything else follows the standard NFL home-and-away convention and is our projection. Cincinnati has announced other themed games, including Stripe The Jungle in Week 14, but those are crowd effects rather than uniform announcements.
+
+**Why are the Bengals wearing white at home?**
+
+That is the White Bengal, Cincinnati's all-white alternate with the black tiger stripes kept at full strength, and both of its 2026 dates are primetime home games. The Bengals wear it in Week 10 against the Steelers on Sunday, November 15, and in Week 17 against the Ravens on Thursday, December 31, the New Year's Eve White Bengal Stripe game.
+
+**Why are the Bengals wearing white helmets?**
+
+The white helmet is part of the White Bengal uniform and debuted in 2022. It comes out with the all-white set twice in 2026, against Pittsburgh on November 15 and against Baltimore on December 31.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/ravens-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Ravens 2026 Uniform Schedule</a><a href="/stories/browns-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Browns 2026 Uniform Schedule</a><a href="/stories/steelers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Steelers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

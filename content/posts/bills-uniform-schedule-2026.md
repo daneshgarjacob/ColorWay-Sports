@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: When They Wear Nickel City, Cold Front, and the Red Alternate"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, the A+ red helmet on Christmas Day, and the fan-voted red end zones for the opener."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -171,25 +171,40 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Check the grid above rather than guessing, because Buffalo confirmed its home schedule and it rotates four different looks. Every road week is white.
 
 **When do the Bills wear the Nickel City uniform in 2026?**
+
 Twice, both at home: Week 3 against the Los Angeles Chargers on Sunday, September 27, and Week 15 against the Chicago Bears on Saturday, December 19. Nickel City is the all-gray jersey and pant set worn with the blue "Charge" helmet.
 
 **When do the Bills wear the Cold Front uniform in 2026?**
+
 Once: Week 11 at home against the Miami Dolphins on Sunday, November 22, the Salute to Service game. Cold Front is Buffalo's all-white NFL Rivalries uniform with the metal-flake white helmet and the cracked-ice center stripe.
 
 **When do the Bills wear the red jersey in 2026?**
+
 Week 18, the home finale against the New York Jets. The exact date has not been set because the NFL flexes Week 18 scheduling.
 
 **What is the Bills' primary uniform for 2026?**
+
 Royal blue at home and white on the road, both with the white helmet. Buffalo also opens the season in blue on the road, with blue pants, because Houston is wearing white at home in Week 1. The blue primary is confirmed for four home games: the Week 2 opener against the Lions, Week 4 against the Patriots, Week 8 against the Ravens, and Week 12 against the Chiefs on Thanksgiving.
 
 **How many uniforms do the Bills have in 2026?**
+
 Five looks: the blue primary, the white road set, the gray Nickel City alternate, the all-white Cold Front Rivalries uniform, and the red alternate.
 
 **Will the Bills wear the red helmet in 2026?**
+
 Yes. Buffalo confirmed on August 25 that the red helmet returns for the Christmas Day road game at Denver in Week 16, worn with the white jersey and white pants, kicking off at 4:30 p.m. Eastern on Netflix. It is the only red-helmet game on the calendar, and it is separate from the red alternate jersey, which the Bills wear at home in Week 18 against the Jets.
 
 **Is the full Bills 2026 uniform schedule official?**
+
 The home half is. The Bills confirmed the jersey for all eight home games. The nine road games follow the standard white road convention and are our projection until the team says otherwise.
+
+**Why are the Bills wearing red?**
+
+Red is Buffalo's alternate jersey, and in 2026 the Bills save it for the home finale against the New York Jets in Week 18, a date the NFL has not set yet. The red helmet is a separate piece: it comes back once, with the white jersey and white pants, for the Christmas Day game at Denver in Week 16, a straight line back to the helmet Buffalo wore from 1984 to 2010.
+
+**Why are the Bills wearing white at home?**
+
+That is Cold Front, Buffalo's all-white Nike Rivalries uniform with a metal-flake white helmet and a cracked-ice center stripe. The Bills wear it once in 2026, at home against the Miami Dolphins on Sunday, November 22, their Salute to Service game.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

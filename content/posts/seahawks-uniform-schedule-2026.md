@@ -2,7 +2,7 @@
 title: "Seattle Seahawks 2026 Uniform Schedule: When They Wear the Royal Blue Throwback and Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -127,25 +127,48 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 College Navy at Lumen Field and white on the road, unless the week is one of the three confirmed alternate dates.
 
 **When do the Seahawks wear the royal blue throwback in 2026?**
+
 Twice, both at home and both in primetime: Week 7 against the Kansas City Chiefs on Sunday, October 25 on Sunday Night Football, and Week 13 against the Dallas Cowboys on Monday, December 7 on Monday Night Football.
 
 **When do the Seahawks wear the Rivalries uniform in 2026?**
+
 Once, on Christmas Day, Friday, December 25 at home against the Los Angeles Rams. Seattle entered the Rivalries program with the 2025 NFC West wave, so this is the uniform's second season.
 
 **What do the Seahawks wear for the Super Bowl LX banner game?**
+
 No uniform has been announced. Seattle raises the championship banner before the Week 1 opener against New England on Wednesday, September 9, and college navy is our projection rather than a confirmation.
 
 **Do the Seahawks wear action green in 2026?**
+
 Not on any announced date. The action green alternate remains in the closet, but the 2026 home game themes announcement does not name it for any game.
 
 **What is the Seahawks' primary uniform for 2026?**
+
 College navy at home and white on the road. Navy projects to the six home games not claimed by a confirmed uniform, and white to all eight road games.
 
 **How many home games do the Seahawks play in 2026?**
+
 Nine at Lumen Field, in Weeks 1, 4, 5, 7, 8, 9, 13, 14, and 16. The bye is Week 11.
 
 **Is the full Seahawks 2026 uniform schedule official?**
+
 No. Three games are confirmed by the team: the throwback in Weeks 7 and 13 and Rivalries in Week 16. Seattle announced themes for all nine home games, but the others are promotional platforms rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
+
+**Why do the Seahawks wear the number 12?**
+
+No player wears it. Seattle retired number 12 in 1984 to honor its fans, the 12s, and a guest raises the 12 Flag before every home game, a tradition that began on October 12, 2003.
+
+**Why are the Seahawks wearing 45 on their helmets?**
+
+The number 45 decal honored Hall of Fame safety Kenny Easley, who died in November 2025 at 66. Seattle announced the players would wear it for the rest of the 2025 season, and no decal has been announced for 2026.
+
+**Why are the Seahawks wearing a 50 patch?**
+
+2025 was the 50th season of Seahawks football, and the anniversary logo was worn as a commemorative jersey patch that season. The patch was for 2025.
+
+**Why do the Seahawks wear neon green?**
+
+The bright color is Action Green, Seattle's accent color. It became a full head-to-toe uniform in 2016, when the Seahawks wore the Action Green Color Rush set on Thursday night against the Rams. The alternate has no announced date in 2026.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/arizona-cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Cardinals 2026 Uniform Schedule</a><a href="/stories/rams-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Rams 2026 Uniform Schedule</a><a href="/stories/49ers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco 49ers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

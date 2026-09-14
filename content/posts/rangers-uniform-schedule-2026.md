@@ -2,7 +2,7 @@
 title: "Texas Rangers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Texas Rangers run five uniforms in 2026 — home whites, road grays, the Sunday powder blues, the royal-blue road alternate, and the brand-new 'Tejas' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)"
 coverImage: "/images/posts/rangers-uniform-schedule-2026/cover.jpg"
@@ -144,6 +144,7 @@ One thing worth noting for anyone expecting a separate red jersey: there isn't o
 ## Frequently Asked Questions
 
 **What jersey are the Texas Rangers wearing today?**
+
 The Rangers have two firm habits at home. Friday home games at Globe Life Field are the red "Tejas" City Connect, and Sunday home games are the powder blue. Any other home game is most likely the home whites, and most road games are the gray "TEXAS" set. The royal-blue alternate has no fixed day and shows up mostly on the road whenever the staff wants a jolt of color. Check the day of the week and whether the Rangers are home or away to land on today's look.
 
 **What jersey did the Rangers wear last night?**
@@ -161,24 +162,42 @@ Friday at Globe Life Field is the red "Tejas" City Connect and Sunday is the pow
 Two firm home habits do the work: Friday is the "Tejas" City Connect and Sunday is the powder blue. Everything else is home whites or road grays, with the royal-blue alternate unscheduled.
 
 **How many uniforms do the Rangers have in 2026?**
+
 Five: the home white, the road gray, the powder blue, the royal-blue road alternate, and the new "Tejas" City Connect. The cream "Peagle" City Connect from 2023–2025 was retired and replaced by the red "Tejas" set.
 
 **When do the Rangers wear the powder blue uniform?**
+
 The powder blue is Texas's Sunday home jersey. It's a throwback to the team's baby-blue sets from the late 1970s and 1980s, revived in the 2020 rebrand, and the club kept it in the Sunday slot because it tested as more popular with fans than the reds.
 
 **What is the Rangers City Connect uniform?**
+
 It's the "Tejas" kit, unveiled in April 2026 — a deep cochineal-red jersey and cap with "Tejas" across the chest, white pants, and a papel picado sleeve patch shaped around the outline of Texas. It honors the Mexican heritage of the Dallas–Fort Worth area and is worn for Friday home games.
 
 **When do the Rangers wear the red jersey?**
+
 The only red in the 2026 rotation is the "Tejas" City Connect, which is the team's Friday-night home look at Globe Life Field. There is no separate red alternate beyond it.
 
 **Do the Rangers have a strict uniform rotation like the Phillies?**
+
 No. Outside of "Tejas" on Friday home games and the powder blue on Sunday home games, the Rangers pick their jerseys by feel rather than a published schedule, so the rest of the week stays flexible.
 
 **What does the "T" on the Rangers cap stand for?**
+
 It's a block "T" for Texas, introduced in the 2020 rebrand — a white "T" outlined in red on the blue cap. The set also uses a "TX" Texas-state logo as a secondary mark, a nod to the franchise's early-1980s identity.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/astros-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Astros 2026 Uniform Schedule</a><a href="/stories/angels-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Angels 2026 Uniform Schedule</a><a href="/stories/athletics-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Athletics 2026 Uniform Schedule</a><a href="/stories/mariners-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Mariners 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why do the Rangers jerseys say Tejas?**
+
+"Tejas" is the Caddo word for "friend" that gave Texas its name, and it runs across the chest of the Rangers' new red City Connect. The set honors the Mexican heritage of Dallas-Fort Worth with papel picado and charro-inspired details, and the Rangers wear it for Friday home games at Globe Life Field.
+
+**Why are the Rangers wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Rangers and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Rangers wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Jake Burger for the Rangers, also have the option to wear No. 21 itself.
 
 ## More MLB Coverage
 

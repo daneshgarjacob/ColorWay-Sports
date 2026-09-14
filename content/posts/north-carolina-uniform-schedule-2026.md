@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the Kenan 100 season and the 1980 throwback still without a date."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -128,6 +128,10 @@ It is the 2026 Aer Lingus College Football Classic at Aviva Stadium in Dublin. I
 **Is 2026 a special season for Kenan Stadium?**
 
 Yes. It is the 100th season at Kenan Stadium, which opened in November 1927 and has hosted 551 games. Carolina is marking it with a commemorative bell tower logo, stadium upgrades and the 1980 throwback uniform.
+
+**Why does North Carolina wear argyle?**
+
+The argyle comes from the basketball program. Designer Alexander Julian put his signature argyle pattern on the Tar Heels' basketball uniforms when Dean Smith asked him to redesign them before the 1991-92 season, and Carolina football adopted it in 2015 on the collar and down the side of the pants. The football uniforms unveiled in 2025 carry the argyle too.
 
 ## More North Carolina Coverage
 

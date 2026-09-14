@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -131,6 +131,10 @@ Yes. 2026 is the Rams' first season in the rebuilt Pac-12, and the new uniforms 
 **Has Colorado State revealed its green home uniform?**
 
 Not yet. The August 24 reveal covered the white set. The green home uniform and this year's Ag Day uniform are still to come, and both will be graded here the day they drop.
+
+**Why is Colorado State wearing orange?**
+
+Orange is the color of Colorado State's Aggies heritage, from the years the school was Colorado A&M. For the Ag Day game against Southern Utah on September 12, the Rams wore a new version of the orange Aggies throwback, an orange jersey with green trim under a white helmet with orange and green striping, for the school's Orange Out. Colorado State won 58-24.
 
 ## The Bottom Line
 

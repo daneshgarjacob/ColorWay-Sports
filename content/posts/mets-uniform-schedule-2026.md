@@ -2,7 +2,7 @@
 title: "New York Mets Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The New York Mets run five uniforms in 2026 — the home white pinstripes, road grays, the blue alternate, the black Friday alternate, and the gray 'NYC' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002D72 0%, #FF5910 50%, #002D72 100%)"
 coverImage: "/images/posts/mets-uniform-schedule-2026/cover.jpg"
@@ -163,6 +163,7 @@ One more constant across all five: every Mets jersey carries the **NewYork-Presb
 ## Frequently Asked Questions
 
 **What jersey are the New York Mets wearing today?**
+
 The Mets only have two fixed days, both at home: the black alternate on Friday home games and the gray "NYC" City Connect on Saturday home games. Everything else is manager's choice rather than a daily script, so the home white pinstripes cover most other home games, the road grays cover most away games, and the blue alternate can pop up on any day, usually on the road. Check the day of week and whether they are home: if it is a Friday or Saturday home game you can count on the anchor, otherwise expect the pinstripes at home or the grays on the road.
 
 **What jersey did the Mets wear last night?**
@@ -180,27 +181,50 @@ Friday at Citi Field is the black alternate, Saturday is the "NYC" City Connect.
 If tomorrow is a Friday or Saturday home game, the anchor is reliable: black on Friday, City Connect on Saturday. Any other date is the pinstripes at home or the grays on the road, with the blue alternate turning up on no fixed schedule.
 
 **How many uniforms do the Mets have in 2026?**
+
 Five: the home white pinstripes, the road grays, the blue alternate, the black alternate, and the gray "NYC" City Connect. The set carried over from 2025, with only detail changes for 2026 — a "DAVEY" memorial patch and the restored road "NEW YORK" lettering size. The 1986 Cooperstown throwback worn over the August 1-2 anniversary weekend is a one-off tribute, not a sixth uniform.
 
 **What was the Mets pinstripe throwback jersey in August 2026?**
+
 That's the Cooperstown Collection 1986 throwback, worn at home against the Marlins on Saturday, August 1 and Sunday, August 2 to mark 40 years since the Mets' last World Series title. It's a pinstriped white with the blue "Mets" script outlined in orange and racing-stripe piping over both shoulders and down the V-neck. It is a one-off anniversary wear, not part of the regular rotation, so it isn't on the weekly grid above.
 
 **When do the Mets wear the black jerseys?**
+
 The black alternate has become the Mets' Friday-night home look at Citi Field in 2026. The black-trim look originally ran from 1998 to 2011 and was revived as a recurring home alternate.
 
 **What is the Mets City Connect uniform?**
+
 It's a concrete-gray jersey with "NYC" across the chest, subway-symbol pinstripes made of circles and diamonds, purple 7-line accents, and a cap featuring the Queensboro Bridge steelwork. Introduced in April 2024, it's worn for Saturday home games.
 
 **When do the Mets wear the blue alternate jersey?**
+
 There's no fixed day for it. The blue alternate is manager's choice — most often a road jersey, though in 2026 the Mets have also worn it at home with the white pinstriped pants. That's exactly why it isn't pinned to the weekly grid.
 
 **Do the Mets have a strict uniform rotation like the Phillies?**
+
 No. Outside of black on Friday home games and the City Connect on Saturday home games, the Mets pick their jerseys by feel rather than a published schedule, so the rest of the week stays flexible.
 
 **What sponsor patch is on the Mets jersey?**
+
 NewYork-Presbyterian. The hospital's wordmark sits inside a blue rectangle outlined in orange on the sleeve of all five uniforms, with its placement set by the player's handedness to maximize TV exposure.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/braves-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Atlanta Braves 2026 Uniform Schedule</a><a href="/stories/marlins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Marlins 2026 Uniform Schedule</a><a href="/stories/phillies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Phillies 2026 Uniform Schedule</a><a href="/stories/nationals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Nationals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Mets wearing a Davey patch?**
+
+The black "DAVEY" strip above the sleeve logo honors Davey Johnson, who managed the Mets to the 1986 World Series title and died in September 2025. It is on every Mets jersey for the entire 2026 season.
+
+**Why are the Mets wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Mets and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Mets wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Mets and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
+
+**Why are the Mets wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Mets and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
 
 ## More MLB Coverage
 

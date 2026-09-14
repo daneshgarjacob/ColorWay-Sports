@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Every Jersey, Every Week, and When the Black Hail Raiser Comes Out"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -99,22 +99,36 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Burgundy more often than not. Check the grid above, because Washington wears burgundy on a few road trips too, which is where most guesses go wrong.
 
 **What is the Washington Commanders' primary jersey in 2026?**
+
 The white jersey is the Commanders' primary look for 2026. After appearing only three times as an alternate in 2025, the whites are now the team's most-featured everyday uniform and are worn six times, mostly on the road, starting Week 1 in Philadelphia.
 
 **How many times do the Commanders wear the burgundy jersey in 2026?**
+
 Nine times. The burgundy is the heritage jersey and the team's emotional primary, and it is saved for the biggest games, including the home opener, the London game against the Colts, and the Week 18 finale against the Cowboys.
 
 **When do the Commanders wear the black Hail Raiser uniform in 2026?**
+
 Twice, and both at home: Week 11 against the Cincinnati Bengals and Week 15 against the Atlanta Falcons. The Hail Raiser is Washington's all-black alternate uniform, complete with a black helmet and the spear-W alternate logo.
 
 **What is the Commanders' Hail Raiser uniform?**
+
 It is Washington's all-black alternate: a black jersey and black pants with burgundy and gold stripe accents and a separate black helmet carrying the spear-W alternate logo. The name references the franchise's "Hail to..." fight-song heritage, and it is worn as a special home look rather than a full-time uniform.
 
 **How many uniforms do the Washington Commanders have in 2026?**
+
 Three: the white jersey (now the primary), the burgundy heritage jersey, and the all-black Hail Raiser alternate. The burgundy helmet with the gold spear-W is the primary helmet, and the Hail Raiser brings its own black alternate helmet.
 
 **What pants do the Commanders wear with each jersey?**
+
 Washington has said pants colors are not locked in for 2026 and will be decided the week of each game. That means the burgundy and white jerseys can pair with different pant colors across the season, so the exact combinations are set game to game even though the jersey assignments are fixed.
+
+**Why are the Commanders wearing black?**
+
+The all-black look is the Hail Raiser, Washington's alternate with a black jersey, black pants and a black helmet carrying the spear-W logo. The Commanders wear it twice in 2026, both at home: Week 11 against the Bengals on Monday, November 23, and Week 15 against the Falcons on Sunday, December 20.
+
+**Why are the Commanders wearing white at home?**
+
+It happens only once in 2026. White is Washington's new primary but it is mostly a road jersey, and Week 5 against the New York Giants on Sunday, October 11 is the only regular-season game at Northwest Stadium where the Commanders wear it. The team has not given a reason for that pick.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

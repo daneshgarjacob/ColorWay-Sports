@@ -3,7 +3,7 @@ title: 'Phillies Uniform Schedule 2026: When the Powder Blues and City Connect C
 homepageFeature: true
 category: MLB
 date: '2026-04-06'
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: >-
   The Phillies have five uniforms in 2026 and a clear system for when each one
   is worn. We break down the red pinstripes, creams, powder blues, City
@@ -165,6 +165,7 @@ More teams should take notes.
 ## Frequently Asked Questions
 
 **What jersey are the Philadelphia Phillies wearing today?**
+
 The Phillies run a strict scheduled rotation, so the day of the week tells you almost everything at home. Home night games are the red pinstripes, except Thursdays (powder blues) and Fridays (City Connect). Home day games are the creams, except Thursdays. Thursday home games are always the powder blues, and Friday night home games are the City Connect. Every road game is the gray road uniform. Check whether the Phillies are home or away, then the day and whether it's a day or night game, and you'll know exactly what they're wearing.
 
 **What jersey did the Phillies wear last night?**
@@ -182,18 +183,38 @@ For a home night game it is the red pinstripes, unless it is a Thursday (powder 
 You can call it exactly. Work out three things: home or away, the day of the week, and day game or night game. Home nights are red pinstripes, home days are creams, Thursdays are always powder blues, Friday nights are the City Connect, and every road game is the grays.
 
 **How many uniforms do the Phillies have in 2026?**
+
 Five: the red pinstripes, the cream alternates, the powder blues, the City Connect, and the road grays. All five carry the Independence Blue Cross (IBX) sleeve patch and a chain-stitched wordmark for 2026.
 
 **What is the Phillies uniform rotation by day?**
+
 At home, night games are the red pinstripes and day games are the creams, with two exceptions: every Thursday home game is the powder blues, and every Friday night home game is the City Connect. The home opener is always the red pinstripes regardless of day or time. On the road, the Phillies wear the gray road uniform every game.
 
 **When do the Phillies wear the powder blues, creams, and City Connect?**
+
 The powder blues with maroon caps are worn on Thursdays at Citizens Bank Park. The creams are worn for daytime home games, excluding Thursdays. The City Connect, a midnight navy design with "Philly" lettering, is worn on Friday night home games.
 
 **Are the Phillies wearing an All-Star Game patch in 2026?**
+
 Yes. The Phillies wear an All-Star Game logo on both their caps and sleeves throughout the entire 2026 season, since the Midsummer Classic is coming to Citizens Bank Park on July 14.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/braves-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Atlanta Braves 2026 Uniform Schedule</a><a href="/stories/marlins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Marlins 2026 Uniform Schedule</a><a href="/stories/mets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Mets 2026 Uniform Schedule</a><a href="/stories/nationals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Nationals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Phillies wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Phillies and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Phillies wearing blue ribbons?**
+
+The blue ribbon is MLB's Father's Day tribute. On Sunday, June 21, 2026, the Phillies and the rest of MLB wore blue prostate cancer awareness ribbon decals on their jerseys, and players had the option of blue socks and wristbands.
+
+**Why are the Phillies wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Phillies and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**What hat are the Phillies wearing?**
+
+The red cap goes with the red pinstripes, the creams are paired with a blue cap with a red brim, and the powder blues are worn with a maroon cap. All season long, the Phillies caps also carry the logo for the 2026 All-Star Game at Citizens Bank Park.
 
 ## More MLB Coverage
 

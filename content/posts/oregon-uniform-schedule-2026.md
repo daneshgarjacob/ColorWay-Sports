@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -87,6 +87,10 @@ The base colour and the most common home jersey. The loudest option in the close
 **Does Oregon have an alternate uniform in 2026?**
 
 The other two regulars. Oregon mixes helmet, jersey and pants independently.
+
+**Why does Oregon wear so many uniforms?**
+
+Nike. Founder Phil Knight is an Oregon graduate, and in the late 1990s Nike's designers set out to remake the Ducks' look, starting with the new O logo in 1999. Oregon gets Nike's highest level of access and unveils at least one new uniform a year, and because helmet, jersey and pants are chosen separately, the combinations run into the hundreds.
 
 **How many games does Oregon play in 2026?**
 

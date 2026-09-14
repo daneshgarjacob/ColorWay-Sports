@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -153,5 +153,17 @@ The White Out is the Colts' all-white combination, a white jersey worn with whit
 **Has the Colts' Rivalries uniform been revealed?**
 
 Yes, on August 25. It is called Anvil Strike: a dark anthracite "Anvil Steel" jersey and pants with royal blue classic numbers, horseshoe-inspired grommets in the shoulder stripes, the first horseshoe ever placed on a Colts jersey in silver metallic, and a metallic royal blue helmet. It debuts in Week 3 against the Texans on September 27 and stays in the rotation for three seasons.
+
+**Why are the Colts wearing black helmets?**
+
+The black helmet goes with Indiana Nights, the alternate inspired by the blue and black of Indiana's night sky. It is back for a fourth season in 2026 and gets one game, Week 16 at home against the Bengals on December 26 or 27.
+
+**Why are the Colts wearing white at home?**
+
+That is the White Out, the all-white combination with the royal-blue horseshoe as the main accent. The Colts wear it at Lucas Oil Stadium in Week 9 against the Dallas Cowboys on Sunday, November 8.
+
+**Why are the Colts wearing a JI patch?**
+
+The patch honors Jim Irsay, the Colts' owner and CEO, who died on May 21, 2025. It carries his initials and his signature with his trademark smiley face, plus seven grommets that match the horseshoe logo, and the Colts wore it throughout the 2025 season.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>

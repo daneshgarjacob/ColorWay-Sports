@@ -2,7 +2,7 @@
 title: "Cleveland Guardians Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Cleveland Guardians run five uniforms in 2026 — home whites, road grays, the red alternate, the navy alternate, and the 'CLE' City Connect built from the Guardians of Traffic statues. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
@@ -142,24 +142,46 @@ Friday at Progressive Field is the navy "CLE" City Connect. Beyond that Clevelan
 A Friday home game means the City Connect. Any other date comes down to home or away, meaning the whites or the grays, with the red and navy alternates a game-time decision.
 
 **How many uniforms do the Guardians have in 2026?**
+
 Five: the home white, the road gray, the red alternate, the navy alternate, and the navy "CLE" City Connect. The set carried over unchanged from 2025, the year Cleveland overhauled the closet with new piping, a horizontal "Guardians" script, and a new home cap.
 
 **When do the Guardians wear the City Connect uniform?**
+
 The navy "CLE" City Connect is Cleveland's Friday-home look at Progressive Field. Unveiled in May 2024, it's built around the Guardians of Traffic statues on the Hope Memorial Bridge, down to a sandstone-textured fabric and chiseled art-deco lettering.
 
 **What is the blue Guardians uniform with "CLE" on it?**
+
 That's the City Connect. The deep-navy jersey reads "CLE" in a layered, stone-carved art-deco font, pairs with sandstone-tan pants and red socks featuring a Guardian statue, and is worn on Friday home games.
 
 **When do the Guardians wear the red jersey?**
+
 The red alternate has no fixed day. It's mostly a home alternate the Guardians drop in across the homestand for a splash of color. In 2025 its chest lettering changed from a cursive script to the team's blockier Bridge Print font.
 
 **What happened to the Guardians' navy alternate?**
+
 It's still in the rotation, but the 2025 refresh redesigned it — the "Cleveland" wordmark came off the chest and was replaced by a large red "Diamond C." It's mostly worn as a road alternate.
 
 **What sponsor patch is on the Guardians jersey?**
+
 Marathon. The Ohio fuel-and-convenience brand's Endurance logo sits on the sleeve of all five uniforms; the deal began in July 2023 and runs through the end of the 2026 season.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/white-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago White Sox 2026 Uniform Schedule</a><a href="/stories/tigers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Tigers 2026 Uniform Schedule</a><a href="/stories/royals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Royals 2026 Uniform Schedule</a><a href="/stories/twins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Twins 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Guardians wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Guardians and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Guardians wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Joey Cantillo for the Guardians, also have the option to wear No. 21 itself.
+
+**Why are the Guardians wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Guardians and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**What hat are the Guardians wearing?**
+
+The red-crown cap with a navy bill and navy "Diamond C" is worn only with the home whites. The road grays and the red and navy alternates go with the navy cap, and the "CLE" City Connect on Friday home games wears the primary "Diamond C."
 
 ## More MLB Coverage
 

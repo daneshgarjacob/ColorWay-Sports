@@ -2,7 +2,7 @@
 title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: >-
   The Giants have five uniforms in 2026, including the new Gigantes alternate. We
   break down every jersey and the home themed-day system for when each is worn.
@@ -192,6 +192,14 @@ Five: the cream home jersey, the road gray, the orange "Orange Friday" alternate
 Not a plain white one. The Giants' home uniform is cream, and it fills every home date the themed days do not claim. It reads close to white in bright sun at Oracle Park, which is why it often gets listed as a "home white" and a separate "cream alternate," but those are the same jersey. The only true-white top in the rotation is the City Connect, which you can spot by the orange gradient "G" instead of the "Giants" script.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/diamondbacks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Diamondbacks 2026 Uniform Schedule</a><a href="/stories/rockies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Colorado Rockies 2026 Uniform Schedule</a><a href="/stories/dodgers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Dodgers 2026 Uniform Schedule</a><a href="/stories/padres-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Diego Padres 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Giants wearing jerseys that say Gigantes?**
+
+"Gigantes" is the new Saturday home alternate for 2026, designed by Bay Area artist Jessie Hernandez to honor the Giants' Latino heritage, with lettering from the 1983 to 1993 Candlestick era. The Giants wear it for "Fiesta Gigantes Saturdays" at Oracle Park, and it is separate from their City Connect.
+
+**Why are the Giants wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Giants and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
 
 ## More MLB Coverage
 

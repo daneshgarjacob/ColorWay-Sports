@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -117,7 +117,7 @@ Vintage Green at Lambeau and Classic White on the road, with one confirmed excep
 
 **What jerseys are the Packers wearing this week?**
 
-PLACEHOLDER_BOTTOMte.
+Vintage Green at Lambeau and Classic White on the road, unless the week is the Week 5 Bears game, where the Packers wear the new Rivalries uniform. The week-by-week grid above shows every game.
 
 **What uniform did the Packers wear last week?**
 
@@ -128,19 +128,36 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Green at home, white on the road, and the Rivalries uniform in Week 5.
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
+
 Once, in Week 5 against the Chicago Bears on Sunday, October 11 at 3:25 CT at Lambeau Field. The date was confirmed alongside the August 25 reveal, and the set stays in the rotation for three seasons.
 
 **What does the Packers Rivalries uniform look like?**
+
 A vintage 1919-inspired set revealed August 25: a darker hunter green jersey with cream and gold trim, currency-inspired number lettering, striping drawn from Packers stock certificates, the interlocking Lombardi-era GB logo on the chest, and a cream helmet with the first matte finish and matte green face mask in team history, with "GO PACK GO" on the rear bumper. It celebrates the club's fan ownership.
 
 **Do the Bears wear their Rivalries uniform against the Packers?**
+
 Yes. Chicago has confirmed it will debut its Rivalries uniform against Green Bay on Christmas Day, Week 16 at Soldier Field. That means the Packers appear in two different Rivalries debuts in 2026.
 
 **What is the Packers' primary uniform for 2026?**
+
 The green jersey with gold pants at home, and the white jersey with gold pants on the road.
 
 **Is the full Packers 2026 uniform schedule official?**
+
 No. Green Bay has not published a game-by-game uniform schedule. The grid follows the standard home-and-away rotation, with the confirmed Rivalries game in Week 5 as the one exception.
+
+**Why are the Packers wearing blue?**
+
+The navy and gold set is the 1923 Classic throwback, with tan pants and a hand-painted, leather-look brown helmet. It honors 1923, the Packers' first season as a publicly owned corporation, after a stock sale saved the franchise from bankruptcy. It is in the 2026 lineup, but no game date has been announced.
+
+**Why are the Packers wearing white at home?**
+
+Green Bay's all-white look, with white helmets, jerseys, pants and socks, was built for its Winter Warning games, when fans are asked to wear white to create whiteout conditions at Lambeau Field. The all-white alternate is not in the Packers' 2026 uniform lineup, so no white home game is expected this season.
+
+**What patch are the Packers wearing?**
+
+The patch fans ask about is the John Madden patch, which every team playing on Thanksgiving wears on the left shoulder. Green Bay wore it at Detroit on Thanksgiving 2025. The Packers do not play on Thanksgiving Day in 2026.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/lions-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Lions 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

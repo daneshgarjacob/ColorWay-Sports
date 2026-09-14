@@ -2,7 +2,7 @@
 title: "Arizona Diamondbacks Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Arizona Diamondbacks run five uniforms in 2026 — home off-whites, road grays, the Sedona red alternate, the black alternate, and the purple-and-teal 'Serpientes' City Connect. Here's every jersey, when they wear it, and how the new teal-forward identity came together."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
 coverImage: "/images/posts/diamondbacks-uniform-schedule-2026/cover.jpg"
@@ -146,24 +146,42 @@ Friday at Chase Field is the "Serpientes" City Connect. Beyond that there is no 
 Look for a Friday home game, which locks in the purple-and-teal City Connect. Any other date comes down to home or away, meaning the off-whites or the grays, with the red and black alternates as manager's choice.
 
 **How many uniforms do the Diamondbacks have in 2026?**
+
 Five: the home off-white, the road gray, the Sedona red alternate, the black alternate, and the purple-and-teal "Serpientes" City Connect. The set carried over from the 2024 overhaul, with only fabric and detail tweaks for 2026.
 
 **When do the Diamondbacks wear the City Connect uniform?**
+
 The purple-and-teal "Serpientes" City Connect is Arizona's Friday-night home jersey at Chase Field. The redesigned version debuted on May 9, 2025, during Mexican Heritage Weekend and is worn for Friday home games.
 
 **Why is the Diamondbacks City Connect purple and teal?**
+
 The 2025 redesign reaches back to the franchise's original 1998 colors. It blends a snakeskin pattern with heritage pinstripes and revives the dark-sleeved trim from the 1998–2006 era — the same look Arizona wore winning the 2001 World Series — with "Serpientes" across the chest and an "S" cap logo.
 
 **Did the Diamondbacks get rid of the sand uniforms?**
+
 Mostly. The 2024 overhaul removed Sonoran sand from the regular rotation and made teal the everyday accent across all four standard jerseys. The only sand left was on the original City Connect, which was itself redesigned into the purple-and-teal version for 2025.
 
 **When do the Diamondbacks wear the red jersey?**
+
 There's no fixed day for the Sedona red alternate. It's manager's choice — often a Saturday or giveaway-night look, worn at home or on the road — and the 2024 redesign put the full "Diamondbacks" wordmark across the chest in place of the old "D-backs."
 
 **What sponsor patch is on the Diamondbacks jersey?**
+
 Avnet. The Arizona-based technology distributor's logo sits on the sleeve of all five uniforms. Arizona was the third MLB team to add a jersey-patch sponsor, debuting the deal on Opening Day 2023.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/rockies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Colorado Rockies 2026 Uniform Schedule</a><a href="/stories/dodgers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Dodgers 2026 Uniform Schedule</a><a href="/stories/padres-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Diego Padres 2026 Uniform Schedule</a><a href="/stories/giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco Giants 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Diamondbacks wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Diamondbacks and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
+
+**Why are the Diamondbacks wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Diamondbacks and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**What hat are the Diamondbacks wearing?**
+
+The home off-whites go with either the Sedona red cap with a black brim or the all-black cap, both carrying the outlined "A." The road grays get the black cap with the throwback "D" and a Sedona red brim, the black alternate pairs with the black "A" cap, and the "Serpientes" City Connect uses a purple-and-teal "S" cap.
 
 ## More MLB Coverage
 

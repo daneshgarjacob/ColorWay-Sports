@@ -2,7 +2,7 @@
 title: "Minnesota Twins Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Minnesota Twins run five uniforms in 2026 — home whites, road pinstripe grays, the redesigned navy 'Twins' alternate, the cream 'Twin Cities' alternate, and the blue 'Ripple Effect' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #002B5C 0%, #B9975B 50%, #D31145 100%)"
 coverImage: "/images/posts/twins-uniform-schedule-2026/cover.jpg"
@@ -144,6 +144,7 @@ One more note on the set as a whole: the 2026 closet is the most cohesive the Tw
 ## Frequently Asked Questions
 
 **What jersey are the Minnesota Twins wearing today?**
+
 The Twins do not run a strict day-by-day system, so most of it is manager's choice. The one soft anchor is the blue "Ripple Effect" City Connect, which tends to own Friday home games at Target Field. Otherwise the home default is the white jersey and the road default is the pinstripe grays, with the navy alternate and the cream "Twin Cities" alternate dropped in by feel, the navy mostly on the road and the cream mostly at home. Check the day and whether the team is home or away, and lean City Connect on a Friday home night.
 
 **What jersey did the Twins wear last night?**
@@ -161,22 +162,44 @@ Lean City Connect on a Friday home night. Otherwise the Twins do not run a day-b
 A Friday home game leans "Ripple Effect" City Connect. Every other date is manager's choice around a home white and a road pinstripe gray default, with the cream alternate mostly at home and the navy mostly on the road.
 
 **How many uniforms do the Twins have in 2026?**
+
 Five: the home white, the road pinstripe gray, the navy alternate, the cream "Twin Cities" alternate, and the blue "Ripple Effect" City Connect. The set carried over from 2025, with the navy alternate redesigned to read "Twins" and a new "MIN" sleeve patch added to the road grays for 2026.
 
 **When do the Twins wear the City Connect uniform?**
+
 The blue "Ripple Effect" City Connect, introduced in June 2024, is the team's most-scheduled look — worn mostly on Friday home games at Target Field. It features a lake-ripple sublimation pattern, a white "MN" chest patch, and a cap with a yellow state silhouette and northern lights.
 
 **What is the new navy Twins jersey for 2026?**
+
 It's the redesigned navy alternate. The chest wordmark switched from "Minnesota" to a white "Twins" script — the first road-friendly "Twins" front in about 40 years — and the shoulder now carries a Minnesota-state-shaped patch with a star marking Target Field. It's mostly a road look with no fixed day.
 
 **What is the cream Twins uniform?**
+
 That's the cream "Twin Cities" alternate, which revives a legacy cream base and spells "Twin Cities" across the chest with a crisscrossed "M" and "StP" flag mark honoring both Minneapolis and St. Paul. It's worn with a navy "TC" cap in cream lettering, mostly at home.
 
 **Do the Twins have a strict uniform rotation like the Phillies?**
+
 No. Outside of the City Connect's Friday-home habit, the Twins pick their jerseys by feel rather than a published schedule, so the home whites, pinstripe grays, navy alternate, and cream alternate all stay flexible across the week.
 
 **What are the Minnesota Twins' team colors?**
+
 Twins Navy, scarlet red, and "Kasota gold" — a warm tan named for the Kasota limestone quarried in southern Minnesota — locked in by the 2023 rebrand. Kasota gold runs through the trim and accents on every uniform as the connective thread across the set.
+
+**Why are the Twins wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Twins and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Twins wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Pablo López for the Twins, also have the option to wear No. 21 itself.
+
+**Why are the Twins wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Twins and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**Why are the Twins wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Twins and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
 
 ## The One Game That Breaks the Rotation
 

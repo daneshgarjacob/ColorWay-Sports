@@ -3,7 +3,7 @@ title: "Red Sox Uniform Schedule 2026: Every Jersey, When They Wear It, and the 
 category: MLB
 date: "2026-06-23"
 topViewsRank: 2
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The complete Boston Red Sox uniform schedule for 2026 — all five jerseys and exactly when they wear each one, from the home whites and road grays to the red alternate and both City Connects (including the Fenway Green, the best-selling City Connect in MLB history). Plus the alternate the Red Sox quietly retired."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 50%, #BD3039 100%)"
 coverImage: "/images/posts/red-sox-uniform-schedule-2026/cover.jpg"
@@ -148,6 +148,7 @@ One more constant: all five jerseys carry the **MassMutual** advertising patch o
 ## Frequently Asked Questions
 
 **What jersey are the Boston Red Sox wearing today?**
+
 The Red Sox have three hard anchors built around Friday and Saturday. Friday home games at Fenway are the Fenway Green City Connect, Friday road games are the red alternate, and Saturday home games are the yellow "Marathon" City Connect. Any other home game is the home whites, and the rest of the road trip is the gray "BOSTON" set. Check the day of the week and whether the team is home or away, since Friday and Saturday are where the answer actually changes.
 
 **What jersey did the Red Sox wear last night?**
@@ -165,27 +166,38 @@ Friday at Fenway is the Fenway Green City Connect. Friday on the road is the red
 Friday and Saturday are where the answer actually changes, so start there: Friday is green at home and red on the road, Saturday at home is the yellow Marathon kit. Any other date is the whites at Fenway or the grays on the trip.
 
 **How many uniforms do the Red Sox have in 2026?**
+
 Five: the home white, the road gray, the red alternate, the yellow "Marathon" City Connect, and the new Fenway Green City Connect. The old navy alternate was retired after the 2024 season.
 
 **What are the Red Sox City Connect uniforms for 2026?**
+
 The Red Sox have two. The original yellow "Marathon" City Connect (2021), inspired by the Boston Marathon, is worn on Saturday home games. The newer Fenway Green City Connect (2025), modeled on the Green Monster, is worn on Friday home games and reportedly became the best-selling City Connect in MLB history.
 
 **When do the Red Sox wear the yellow City Connect uniform?**
+
 The yellow Marathon-inspired City Connect is Boston's every-Saturday home jersey, and it's also the kit the team leans on for Patriots' Day and Boston Marathon weekend in April.
 
 **What is the green Red Sox uniform?**
+
 That's the Fenway Green City Connect, unveiled in 2025 and inspired by the Green Monster — scoreboard-style numerals, yellow numbers, and "1912" on the collar. It's worn for Friday night home games.
 
 **When do the Red Sox wear the red jersey?**
+
 Since 2025, the red alternate has been Boston's Friday road uniform — the first time since 1933 the club has worn "RED SOX" instead of "BOSTON" on the road.
 
 **Did the Red Sox get rid of the navy alternate?**
+
 Yes. The navy/blue alternate was retired after the 2024 season to make room for the five-uniform rotation built around the two City Connects.
 
 **Do the Red Sox wear player names on their home jerseys?**
+
 No. The home whites and the red alternate have no names on the back, keeping a classic look; the road grays do carry player names.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/orioles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Orioles 2026 Uniform Schedule</a><a href="/stories/yankees-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Yankees 2026 Uniform Schedule</a><a href="/stories/rays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Rays 2026 Uniform Schedule</a><a href="/stories/blue-jays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Toronto Blue Jays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**What patch are the Red Sox wearing?**
+
+The sleeve patch is MassMutual, and it sits on all five Red Sox jerseys. Boston was the first MLB team to wear an in-game jersey ad, starting on Opening Day 2023, and the deal runs through 2026.
 
 ## More MLB Coverage
 

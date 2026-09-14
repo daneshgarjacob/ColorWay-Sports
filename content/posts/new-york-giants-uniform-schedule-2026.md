@@ -2,7 +2,7 @@
 title: "New York Giants 2026 Uniform Schedule: Every Jersey, Every Week, Two Legacy Games and the Vintage White Return"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -161,6 +161,10 @@ Twice. Week 5 at Washington on October 11, and Week 17 at Dallas on January 3. B
 **How many uniforms do the Giants have in 2026?**
 
 Four: the blue home set, the white road set, the Legacy Blue throwback, and the Vintage White throwback.
+
+**Why are the Giants wearing different uniforms?**
+
+Those are the throwbacks. Legacy Blue is the uniform the club wore from 1980 to 1999, and it comes out on Sunday, October 4 against the Cardinals, when the Giants honor the 1986 Super Bowl XXI team on its 40th anniversary, and again on Sunday, December 6 against the 49ers. Vintage White, first built in 2016 for Color Rush, is worn at the Eagles on Sunday, November 8 and against the Commanders on Thursday, November 12.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cowboys-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Dallas Cowboys 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

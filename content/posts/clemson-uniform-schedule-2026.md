@@ -3,7 +3,7 @@ title: "Clemson Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Clemson wears every game in 2026, starting with orange in Baton Rouge on opening night, week by week."
 gradient: "linear-gradient(135deg, #F56600 0%, #b84a00 55%, #522D80 130%)"
 cardStyle: words
@@ -87,6 +87,14 @@ Orange jersey with white numerals, white pants, orange helmet. White jersey with
 **Does Clemson have an alternate uniform in 2026?**
 
 In the palette and used for trim and the occasional alternate, never as the base set.
+
+**Why is Clemson wearing purple?**
+
+Clemson wears purple for its Military Appreciation Day game as a tribute to the Purple Heart, the oldest U.S. military decoration, and the student section joins in with a Purple Out. The Tigers also wore purple jerseys at Georgia Tech in 2025 because the Yellow Jackets chose white at home.
+
+**Why is Clemson wearing orange pants?**
+
+Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson wore white pants in both of its first two 2026 games.
 
 **How many games does Clemson play in 2026?**
 

@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -90,19 +90,28 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Red at home, white on the road. Eight home games in red, nine road games in white, and no alternates to complicate it.
 
 **What uniform do the Chiefs wear at home in 2026?**
+
 The red jersey with white pants and the red helmet, for all eight home games. Kansas City has no home alternate.
 
 **Do the Chiefs have an alternate or throwback jersey in 2026?**
+
 None has been announced. Kansas City has not revealed an alternate or throwback jersey for 2026 and has never adopted an alternate helmet. In practice the set is the red home uniform and the white road uniform, plus the monochrome red combination, which uses the same red jersey rather than a separate one.
 
 **When do the Chiefs wear white in 2026?**
+
 For all nine road games, paired with red pants. That includes Thanksgiving at Buffalo on November 26 and the Thursday game at the Rams on December 3.
 
 **Do the Chiefs ever wear all red?**
+
 Yes. Red pants with the red jersey is the one combination they vary, usually for a prime-time home game. There is no announced date for it in 2026.
 
 **Is the full Chiefs 2026 uniform schedule official?**
+
 The Chiefs do not publish one, because home red and road white covers every game. The grid above follows that convention. Pants are a week-of-game call.
+
+**Why do the Chiefs wear an AFL patch?**
+
+The patch honors Lamar Hunt, who founded the Chiefs and the American Football League. His son Clark Hunt added it in 2007, the season after Lamar Hunt died, and it sits over the heart on the left side of the jersey as a permanent part of the uniform, so it is on every Chiefs game in 2026.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/broncos-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Denver Broncos 2026 Uniform Schedule</a><a href="/stories/raiders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Las Vegas Raiders 2026 Uniform Schedule</a><a href="/stories/chargers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Chargers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

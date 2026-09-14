@@ -2,6 +2,7 @@
 title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
 category: NFL
 date: "2026-08-16"
+updatedDate: "2026-09-14"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -127,6 +128,18 @@ No. Detroit is the designated home team for the Week 10 game on November 15, so 
 **How many uniforms do the Patriots have in 2026?**
 
 Four, all with games assigned: the navy home set, the white road set, the Storm Blue Nor'easter Rivalries uniform in Week 13, and the red Pat Patriot throwback in Weeks 5 and 14.
+
+**Why are the Patriots wearing red?**
+
+Red is the Pat Patriot throwback, with the tricorne-hatted Pat Patriot logo on a white helmet. New England wears it twice at home in 2026: Sunday, October 11 against the Raiders, when the team honors the 25th anniversary of the 2001 Super Bowl champions, and Thursday, December 10 against the Vikings.
+
+**Why are the Patriots wearing light blue?**
+
+That is the Storm Blue Nor'easter uniform, New England's Rivalries set, with six stars on the neckline for the six New England states. It is worn once in 2026, at home against the Buffalo Bills on Sunday, December 6.
+
+**Why are the Patriots wearing T Strong?**
+
+"T Strong" honors defensive coordinator Terrell Williams, who was diagnosed with prostate cancer in 2025. Players and coaches wore T Strong shirts in warmups before the September 28, 2025 home game against the Carolina Panthers.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

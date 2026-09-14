@@ -2,7 +2,7 @@
 title: "Toronto Blue Jays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Toronto Blue Jays carry six uniforms in 2026 — home whites, road grays, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the 'Night Mode' City Connect. Here's every jersey, when they wear it, and why the blues do most of the work."
 gradient: "linear-gradient(135deg, #134A8E 0%, #A5C8E4 50%, #134A8E 100%)"
 coverImage: "/images/posts/blue-jays-uniform-schedule-2026/cover.jpg"
@@ -131,6 +131,7 @@ Every jersey the Blue Jays wear gets logged the morning after in our [MLB daily 
 ## Frequently Asked Questions
 
 **What jersey are the Toronto Blue Jays wearing today?**
+
 Toronto does not follow a fixed day-of-week script, but it leans hard on blue, so the royal-blue or powder-blue alternate is the most likely look on any given day, home or away. The two firm rules are the "Night Mode" City Connect for home night games and the red kit reserved for the July 1 Canada Day home game. The home whites and road grays appear less often than for most clubs, filling in around the blues. Check whether it is a home night game or July 1 first, and otherwise expect some shade of blue.
 
 **What jersey did the Blue Jays wear last night?**
@@ -148,24 +149,46 @@ A home night game is the "Night Mode" City Connect, full stop. On the road expec
 If it is a home night game tomorrow, it is "Night Mode." If it is July 1 at home, it is the red Canada Day kit. Otherwise Toronto does not run a day-of-week script, so expect blue of some kind, with the home whites and road grays filling in around it.
 
 **How many uniforms do the Blue Jays have in 2026?**
+
 Six: the home white, the road gray, the royal-blue alternate, the powder-blue alternate, the red Canada Day kit, and the "Night Mode" City Connect. The on-field set carried over from 2025; what's new for 2026 is a commemorative 50th-season patch on the right sleeve of every jersey except the City Connect.
 
 **Do the Blue Jays have a City Connect?**
+
 Yes. Introduced in 2024, Toronto's "Night Mode" City Connect is a deep "pitch blue" jersey with the Toronto skyline across the chest, a red "Toronto" wordmark, and a front number, paired with a pitch-blue cap and a stylized red-and-blue "T." It's worn only for home night games.
 
 **When do the Blue Jays wear red?**
+
 For Canada Day. The red uniform comes out for the July 1 home game and basically that game alone, making it the rarest look in the closet. In 2026, Canada Day lands on a Wednesday.
 
 **What is the Blue Jays' most-worn uniform?**
+
 The royal-blue alternate. Unusually for MLB, Toronto's colored alternate is effectively its default jersey — it led the team in wear in 2025, with the powder blue close behind. Between the two, some shade of blue covers the majority of the schedule.
 
 **When do the Blue Jays wear the powder-blue uniform?**
+
 There's no fixed day for it. The modern powder blue, introduced before the 2020 season, is a frequent home-and-road alternate and was a regular sight during Toronto's 2025 postseason run. It's a fan favorite, so the team gives it plenty of run rather than pinning it to one weekday.
 
 **Do the Blue Jays have a sponsor patch on their jersey?**
+
 Yes. The Blue Jays have worn a TD Bank advertising patch on the left sleeve since 2023, and it stays on the jerseys for 2026. Separately, a 50th-season commemorative patch sits on the right sleeve of every jersey except the City Connect, where it moves to the cap.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/orioles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Orioles 2026 Uniform Schedule</a><a href="/stories/red-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Boston Red Sox 2026 Uniform Schedule</a><a href="/stories/yankees-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Yankees 2026 Uniform Schedule</a><a href="/stories/rays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Rays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Blue Jays wearing poppies?**
+
+The red poppy is MLB's Memorial Day tribute. For games on Monday, May 25, 2026, all on-field personnel, the Blue Jays included, wore the traditional red poppy with "Lest We Forget" on the left side of their jerseys to honor U.S. service members who died in service.
+
+**Why are the Blue Jays wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Blue Jays and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Blue Jays wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Blue Jays and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
+
+**What hat are the Blue Jays wearing?**
+
+The navy cap with the bird-and-leaf logo goes with the royal-blue alternate, the powder blue and the home whites, and the road grays get the all-navy cap. The red Canada Day kit comes with its own special red cap, and the "Night Mode" City Connect uses a pitch-blue cap with a red-and-blue split "T" that carries the 50th season mark in 2026.
 
 ## More MLB Coverage
 

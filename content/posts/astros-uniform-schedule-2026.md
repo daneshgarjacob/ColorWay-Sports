@@ -2,7 +2,7 @@
 title: "Houston Astros Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Houston Astros run five uniforms in 2026 — home whites, road grays, the orange alternate, the navy alternate, and the white 'Stros' City Connect. Here's every jersey, when they wear it, and why the navy 'Space City' kit is gone."
 gradient: "linear-gradient(135deg, #002D62 0%, #EB6E1F 50%, #002D62 100%)"
 coverImage: "/images/posts/astros-uniform-schedule-2026/cover.jpg"
@@ -145,6 +145,7 @@ Every jersey the Astros wear gets logged the morning after in our [MLB daily uni
 ## Frequently Asked Questions
 
 **What jersey are the Houston Astros wearing today?**
+
 The one hard rule is the white "Stros" City Connect on Monday home games at Daikin Park, so if it is a Monday at home, that is the look. The orange alternate is the frequent Friday choice and travels home or away, and the navy alternate is the customary Sunday jersey. On most other home days the Astros wear the home whites, and on the road they default to the gray "Houston" set. Check the day of the week and whether Houston is home or away to narrow it down.
 
 **What jersey did the Astros wear last night?**
@@ -162,24 +163,42 @@ Start with the day. Monday at home is the white "Stros" City Connect, Friday is 
 Look at tomorrow's day of the week and whether Houston is home. A Monday home game is the City Connect, a Friday leans orange either way, and a Sunday leans navy. Any other date defaults to the home whites at home or the grays on the road.
 
 **How many uniforms do the Astros have in 2026?**
+
 Five: the home white, the road gray, the orange alternate, the navy alternate, and the white "Stros" City Connect. The set carried over from 2025, when the old navy "Space City" City Connect was retired and the new white version took its place.
 
 **When do the Astros wear the City Connect uniform?**
+
 The white "Stros" City Connect is Houston's every-Monday home jersey at Daikin Park. It debuted on March 31, 2025, and replaced the navy "Space City" design that the team wore from 2022 through 2024.
 
 **What happened to the navy "Space City" City Connect?**
+
 It was retired after the 2024 season. The all-navy kit with "SPACE CITY" across the chest and rainbow-gradient piping was swapped out for the new white "Stros" City Connect, so the navy version is no longer worn.
 
 **When do the Astros wear the orange jersey?**
+
 The orange alternate is a true alternate that the Astros wear both at home and on the road, and it's leaned on most often for Friday games. It's the brightest everyday top in the rotation.
 
 **When do the Astros wear the navy alternate jersey?**
+
 The navy alternate — navy with "Astros" in orange across the chest — has become Houston's customary Sunday jersey at home. It's a different uniform from the retired navy "Space City" City Connect.
 
 **Do the Astros have a strict uniform rotation like the Phillies?**
+
 No. Outside of the City Connect on Monday home games, the Astros pick their jerseys with more flexibility — home whites and road grays handle most days, with the orange and navy alternates floating into their customary Friday and Sunday slots rather than following a rigid published schedule.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/angels-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Angels 2026 Uniform Schedule</a><a href="/stories/athletics-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Athletics 2026 Uniform Schedule</a><a href="/stories/mariners-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Mariners 2026 Uniform Schedule</a><a href="/stories/rangers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas Rangers 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Astros wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Astros and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Astros wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Josh Hader for the Astros, also have the option to wear No. 21 itself.
+
+**Why are the Astros wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Astros and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
 
 ## More MLB Coverage
 

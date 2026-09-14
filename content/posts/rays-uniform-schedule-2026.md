@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, and the black 'Grit x Glow' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -122,6 +122,7 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 ## Frequently Asked Questions
 
 **What jersey are the Tampa Bay Rays wearing today?**
+
 The Rays have two soft anchors at home. Most Friday home games are the 1998 Devil Rays "rainbow" throwback, and most Saturday home games are the black "Grit x Glow" City Connect. Outside those nights there's no fixed day-of-week system, so the home whites, the Columbia blue, and the navy alternate all float, and the two blue tops also handle the road over gray pants. Check the day of the week and whether the Rays are home or away, and remember Friday-rainbow and Saturday-City-Connect are the only reliable tells.
 
 **What jersey did the Rays wear last night?**
@@ -139,24 +140,46 @@ Friday at home leans rainbow throwback, Saturday at home leans the black "Grit x
 Remember the two anchors: Friday rainbow and Saturday City Connect. Every other date is genuinely unpredictable, with the whites and the two blue tops all in play at home and the blues handling the road.
 
 **How many uniforms do the Rays have in 2026?**
+
 Five core looks: the home white with the sunburst "Rays" wordmark, the Columbia blue alternate, the navy alternate, the 1998 Devil Rays "rainbow" throwback, and the black "Grit x Glow" City Connect. The Columbia blue and navy tops also serve as the road jerseys over gray pants.
 
 **When do the Rays wear the Devil Rays throwback uniforms?**
+
 The 1998 rainbow Devil Rays throwbacks have been Tampa Bay's look for most Friday home games since 2023, and the team also breaks them out on Opening Day. They're the closest thing the Rays have to a fixed uniform rule.
 
 **What is the Rays City Connect uniform?**
+
 It's the "Grit x Glow" set introduced in 2024 — a sun-faded black jersey with "Tampa Bay" in grip-tape, skateboard-style lettering, a Devil Rays-inspired neon gradient running from the right sleeve to the left pant leg, and a cap combining a stingray with the Sunshine Skyway Bridge. It's worn for most Saturday home games.
 
 **Do the Rays wear a gray road uniform?**
+
 Not in the current set. Since 2023 the Rays have used their Columbia blue and navy alternates on the road over gray pants instead of a traditional gray jersey. In March 2026 the team ran a fan vote on four new gray "TAMPA BAY" road designs, so a gray road jersey may return — but as of now it's a proposal, not a confirmed on-field uniform.
 
 **What is the yellow sunburst on the Rays uniform?**
+
 It's the team's signature design element — a burst of yellow rays behind the "R" in the "Rays" wordmark on the home whites, and the standalone logo worn on the right chest of the Columbia blue alternate since 2022. It's the visual thread tying the modern Rays identity together.
 
 **Do the Rays have a strict uniform rotation like the Phillies?**
+
 No. Outside of the Devil Rays throwback on most Friday home games and the City Connect on most Saturday home games, the Rays pick their jerseys by feel rather than a published schedule, so the home whites and the two blue alternates stay flexible all week.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/orioles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Baltimore Orioles 2026 Uniform Schedule</a><a href="/stories/red-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Boston Red Sox 2026 Uniform Schedule</a><a href="/stories/yankees-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Yankees 2026 Uniform Schedule</a><a href="/stories/blue-jays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Toronto Blue Jays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Rays wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Rays and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**Why are the Rays wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Rays and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Rays wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Cedric Mullins for the Rays, also have the option to wear No. 21 itself.
+
+**Why are the Rays wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Rays and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
 
 ## More MLB Coverage
 

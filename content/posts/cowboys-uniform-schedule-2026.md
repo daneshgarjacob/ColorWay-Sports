@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: All 17 Games Announced, With Three Color Rush Dates and the Thanksgiving Classic"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -134,25 +134,36 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Find the week in the grid above. The team published all seventeen assignments on September 2, so the answer is no longer a projection.
 
 **Why do the Cowboys wear white at home?**
+
 It is a Dallas tradition going back decades. Most NFL teams wear their coloured jersey at home and white on the road, and the Cowboys do the opposite.
 
 **Do the Cowboys wear navy on the road?**
+
 Only when the host wears white. The home team picks its jersey first and nearly every host chooses its dark color, which puts the visiting Cowboys in white. In 2026 the navy comes out three times: at the Texans in Week 4, at the Colts in Week 9 for their White Out, and at the Rams in Week 15, where Los Angeles has published white at home. The other four road games are in white.
 
 **When do the Cowboys wear the Color Rush in 2026?**
+
 Three times: Week 2 against the Commanders on Sunday, September 20; Week 7 at the Eagles on Monday, October 26; and Week 16 against the Jaguars on Sunday, December 27. It is the all-white set with the white helmet, navy shoulders and navy numbers.
 
 **When do the Cowboys wear the Thanksgiving throwback in 2026?**
+
 Week 12 against the Philadelphia Eagles on Thursday, November 26, confirmed by the team on September 2. It is the fifth straight Thanksgiving in the 1960s Classic.
 
 **What is the Cowboys Thanksgiving throwback uniform?**
+
 A 1960s-inspired set: white helmet, navy jersey with oversized stars on the white shoulder yoke, block numbers, and white pants with two navy stripes.
 
 **How many uniforms do the Cowboys have in 2026?**
+
 Four looks on the schedule: the white primary, the navy primary, the all-white Color Rush, and the Thanksgiving Classic. White does the overwhelming majority of the work at ten games.
 
 **Is the full Cowboys 2026 uniform schedule official?**
+
 Yes. Dallas published all seventeen assignments on September 2, 2026: white ten times, navy three, Color Rush three, and the Classic on Thanksgiving. Pants and socks are not part of the announcement.
+
+**Why do the Cowboys wear a red stripe on their helmets?**
+
+The red stripe is for Salute to Service, the NFL's tribute to the military. Dallas swaps red into its center helmet stripe for its Salute to Service game, a nod to the 1976 Bicentennial season, and has brought the look back every year since 2021. We will add the 2026 date once the Cowboys confirm which game gets it.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/new-york-giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Giants 2026 Uniform Schedule</a><a href="/stories/eagles-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Eagles 2026 Uniform Schedule</a><a href="/stories/commanders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Commanders 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

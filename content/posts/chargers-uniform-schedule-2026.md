@@ -2,7 +2,7 @@
 title: "Los Angeles Chargers 2026 Uniform Schedule: All 17 Games and Every Pants Combo, Officially Announced"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-11"
+updatedDate: "2026-09-14"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -127,31 +127,48 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Powder blue at home and white away, unless the week lands on one of the four confirmed alternate dates in the grid above.
 
 **When do the Chargers wear the Super Chargers navy uniform in 2026?**
+
 Three times, all at SoFi Stadium: Week 9 against the Houston Texans on Sunday, November 8, Week 12 against the New England Patriots on Sunday, November 29 on Sunday Night Football, and Week 17 against the Kansas City Chiefs, whose kickoff time has not been set.
 
 **When do the Chargers wear the gold Charger Power jersey in 2026?**
+
 Once, on the road, in Week 13 at the Tampa Bay Buccaneers on Sunday, December 6. They pair it with white pants. The Buccaneers are wearing their white 1976 creamsicle throwback for the same game, which is what allows the Chargers to wear a colored jersey as the visiting team.
 
 **Why can the Chargers wear gold on the road?**
+
 Because Tampa Bay is wearing white at home. NFL convention gives the home team the choice, and a visiting team can only wear a colored jersey when the host goes white. Both teams announced throwback sets for this game.
 
 **What is the Chargers' primary uniform for 2026?**
+
 Powder blue at home and white on the road. Powder blue covers the five home games not claimed by an alternate, and white covers the eight road games other than Tampa Bay. Pants rotate between white, gold, and powder blue, and every game's combination is in the grid above.
 
 **When do the Chargers wear the powder blue pants in 2026?**
+
 Five times. Twice under the powder blue jersey as the monochrome look, in Week 5 against the Broncos and Week 11 against the Jets, and three times under the white road jersey, in Week 4 at Seattle, Week 10 at Baltimore, and the Week 18 finale at Denver. The white-jersey-over-powder-pants combination is the one road look built entirely from the team's two signature colors.
 
 **When do the Chargers wear the gold pants in 2026?**
+
 Four times: with the powder blue jersey in Week 2 against the Raiders and Week 15 against the 49ers, and with the white jersey in Week 6 at Kansas City and Week 16 at Miami.
 
 **Do the Chargers have a Rivalries uniform in 2026?**
+
 No. The NFL x Nike Rivalries program rolls out division by division, and the 2026 wave covers the AFC South and NFC North. The AFC West has not had its turn. Our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program) has the full rollout.
 
 **How many home games do the Chargers play in 2026?**
+
 Eight at SoFi Stadium, in Weeks 1, 2, 5, 9, 11, 12, 15, and 17. The Week 8 game against the Rams is also at SoFi, but the Rams are the home team, so it counts as a Chargers road game. The bye is Week 7.
 
 **Is the full Chargers 2026 uniform schedule official?**
+
 Yes. The team released the complete schedule, jersey and pants for all 17 games, on September 1, 2026, at chargers.com/schedule/uniform. The only open items are the kickoff dates and times for Week 17 against the Chiefs and Week 18 at Denver.
+
+**Why are the Chargers wearing navy?**
+
+The all-navy Super Chargers set is a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, the era of the 1994 AFC Championship team. In 2026 it comes out three times at SoFi Stadium: Week 9 against the Texans on November 8, Week 12 against the Patriots on November 29, and Week 17 against the Chiefs, whose date is still to be set.
+
+**Why are the Chargers wearing yellow?**
+
+The gold Charger Power jersey is a callback to the 1970s Air Coryell era, when fans wore gold Charger Power T-shirts. The Chargers wear it once in 2026, with white pants, in Week 13 at the Buccaneers on Sunday, December 6.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/broncos-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Denver Broncos 2026 Uniform Schedule</a><a href="/stories/chiefs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Chiefs 2026 Uniform Schedule</a><a href="/stories/raiders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Las Vegas Raiders 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

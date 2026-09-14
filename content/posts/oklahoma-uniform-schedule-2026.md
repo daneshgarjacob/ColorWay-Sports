@@ -3,7 +3,7 @@ title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
 gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
 cardStyle: words
@@ -93,6 +93,14 @@ Two are in the closet, the anthracite Unity uniform and the 1950s Wilkinson thro
 **What does Oklahoma wear against Texas?**
 
 Oklahoma has traditionally worn crimson at the Cotton Bowl with Texas in white. The 2026 Red River game is October 10 and we will update this page when the combination is confirmed.
+
+**Why is Oklahoma wearing Unity jerseys?**
+
+The anthracite Unity uniform honors Prentice Gautt, Oklahoma's first Black scholarship football player. It was designed by a group of OU student-athletes, with TOGETHER on the front and UNITY across the back where player names normally go, and it has been worn once a season since 2022. No 2026 date has been announced.
+
+**Why does Oklahoma wear Jordan?**
+
+Oklahoma signed its football and basketball programs with Nike's Jordan Brand in 2017, becoming the third school to wear the Jumpman in football after Michigan and North Carolina. Athletic director Joe Castiglione said the values of Michael Jordan and the brand fit what Oklahoma does.
 
 **How many games does Oklahoma play in 2026?**
 

@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into colour, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -89,6 +89,14 @@ White jersey, gold pants, gold helmet. The standard look in Tiger Stadium. The r
 **Does LSU have an alternate uniform in 2026?**
 
 None announced for 2026. The home whites already do the work an alternate would.
+
+**Why does LSU wear white at home?**
+
+The tradition started under head coach Paul Dietzel in the late 1950s and stuck after a national championship. A rule requiring home teams to wear dark jerseys ended it in 1983, until head coach Gerry DiNardo successfully petitioned the NCAA in 1995 to let home teams choose. It is why visitors to Tiger Stadium wear color, like Clemson in orange on September 5.
+
+**Why does LSU wear purple and gold?**
+
+The colors go back to 1893. Before LSU's first football game, coach Charles Coates and his players went looking for ribbon to decorate the uniforms, and a Baton Rouge store stocked for Mardi Gras had purple and gold but no green yet, so they bought those. A second account credits baseball captain E.B. Young with picking the colors that spring.
 
 **How many games does LSU play in 2026?**
 

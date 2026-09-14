@@ -2,7 +2,7 @@
 title: "Colorado Rockies Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Colorado Rockies run four uniforms in 2026 — home white pinstripes, road grays, the purple alternate, and the day-to-night City Connect. Here's every jersey, when they wear it, and why the black vest still isn't back."
 gradient: "linear-gradient(135deg, #33006F 0%, #000000 50%, #33006F 100%)"
 coverImage: "/images/posts/rockies-uniform-schedule-2026/cover.jpg"
@@ -121,6 +121,7 @@ It still works, because the anchors cover the jerseys fans actually plan around.
 ## Frequently Asked Questions
 
 **What jersey are the Colorado Rockies wearing today?**
+
 Check the day of the week and whether the Rockies are home or away. The two fixed hooks are the purple alternate on Mondays and the day-to-night City Connect on Friday home games at Coors Field. Most other home games are the white pinstripes, and the road default is the gray set. The purple alternate can also float onto other days, so Monday and Friday home are your only locks.
 
 **What jersey did the Rockies wear last night?**
@@ -138,24 +139,42 @@ Monday is the purple alternate and Friday at Coors Field is the day-to-night Cit
 Monday and Friday at home are your only locks, meaning purple and the City Connect respectively. Every other date comes down to home or away and the white pinstripes or the grays.
 
 **How many uniforms do the Rockies have in 2026?**
+
 Four: the home white pinstripes, the road grays, the purple alternate, and the day-to-night City Connect. There's no cream or second dark alternate in the regular rotation, which makes it one of the leaner closets in the National League.
 
 **Do the Rockies have a City Connect?**
+
 Yes. The Rockies unveiled a new City Connect in April 2025 — a cobalt-blue-to-purple design built around the day-to-night transition over the Rocky Mountains — and it replaced their original green-and-white 2022 version. It's worn for Friday home games at Coors Field.
 
 **When do the Rockies wear the purple jersey?**
+
 The purple alternate is the centerpiece of "Purple Mondays," a tradition since 2012 in which the Rockies wear it every Monday they play. It also floats onto other days, paired with white pinstriped pants at home or gray pants on the road.
 
 **What is the new Rockies City Connect uniform?**
+
 It's a pullover jersey with a cobalt-blue top fading to a purple bottom, the team's mountain logo on the chest, ripstop numbers nodding to the ski and snowboard industry, and a cap lined with the Denver city flag. The colors capture a Colorado day turning to night — light blue and snow giving way to razor pink and laser orange.
 
 **Did the Rockies bring back the black vest?**
+
 No. The black sleeveless alternate from the Rocktober era was shelved when the City Connect program began and is not part of the 2026 rotation. A black jersey was spotted at the team store this spring, but the team has not confirmed any return.
 
 **What's the difference between the Rockies' home and road jerseys?**
+
 The home white has purple pinstripes with "Rockies" across the chest in silver, while the road gray reads "Colorado" in purple with shoulder piping. Both pair with the black cap and its purple-and-silver interlocking "CR."
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/diamondbacks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Diamondbacks 2026 Uniform Schedule</a><a href="/stories/dodgers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Dodgers 2026 Uniform Schedule</a><a href="/stories/padres-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Diego Padres 2026 Uniform Schedule</a><a href="/stories/giants-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco Giants 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Rockies wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Rockies and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**Why are the Rockies wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Rockies and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
+
+**Why are the Rockies wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Rockies and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
 
 ## More MLB Coverage
 

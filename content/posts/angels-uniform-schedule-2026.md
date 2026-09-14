@@ -2,7 +2,7 @@
 title: "Los Angeles Angels Uniform Schedule 2026: The Road Grays Are Back, Every Jersey Explained"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Angels run five uniforms in 2026: the home whites, the road grays, the red 'Angels' jersey, the Surf City Connect, and the 1980s throwback white. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #BA0021 0%, #003263 50%, #BA0021 100%)"
 coverImage: "/images/posts/angels-uniform-schedule-2026/cover.jpg"
@@ -137,6 +137,7 @@ One more note on what's *not* in the closet: the Angels don't carry a navy or po
 ## Frequently Asked Questions
 
 **What jersey are the Los Angeles Angels wearing today?**
+
 The Angels do not run a fixed day-of-week script, so the safest bet is the red "Angels" jersey, which is comfortably their most-worn shirt. The one soft anchor is the cream surf-themed City Connect on Friday home games. On the road you will see either the red or the "Los Angeles" grays, which returned to the rotation this season. At home it is the white, the red, or the 1980s throwback white, which arrives in unannounced bunches. Check whether the Angels are home or away and whether it is a Friday, and assume red any time you are unsure.
 
 **What jersey did the Angels wear last night?**
@@ -154,30 +155,50 @@ Assume the red "Angels" alternate unless it is a Friday home game, which is the 
 Check two things: whether the Angels are home or away, and whether it is a Friday. A Friday home game is the cream City Connect. Everything else is a coin flip weighted heavily toward the red jersey, with the whites and the 1980s throwback filling in at home and the "Los Angeles" grays on the road.
 
 **How many uniforms do the Angels have in 2026?**
+
 Five: the home white, the "Los Angeles" road gray, the red "Angels" jersey, the cream Surf City City Connect, and the 1980s throwback white. Three of the five are white or cream tops, which is unusual for any club.
 
 **Did the Angels get rid of their road grays?**
+
 No. The "Los Angeles" road grays looked like they were being phased out early in 2026 and went missing long enough that plenty of people assumed they were retired, but they are back in the rotation. Mike Trout wore them at the All-Star Game and the club wore them through Hall of Fame Weekend in July with a vintage "Los Angeles" throwback cap. They share road duty with the red alternate.
 
 **When do the Angels wear the red jersey?**
+
 There's no fixed day for it, which is exactly why it's so common. The red alternate is the Angels' most-worn uniform in practice — they wear it at home and on the road, on weekdays and weekends, more often than the whites or grays.
 
 **What is the Angels City Connect uniform?**
+
 It's a cream "beach sand" jersey with "Angels" in a surf-brand script (the "S" shaped like a surfboard fish-tail), retro surfboard stripes on the left sleeve, a railroad-sign-style railway patch on the right sleeve, and a two-tone skater-style cap. It debuted in June 2022 and tends to be worn for Friday home games.
 
 **What does the Angels road jersey say across the chest?**
+
 It depends which one they wear. The gray road set reads "Los Angeles" in red script and is the only jersey in the closet carrying the city name. The red alternate, which also travels, reads "Angels" in white script. Everything else the Angels own says "Angels" too, so the grays are the only thing keeping "Los Angeles" on the field.
 
 **Do the Angels have a navy alternate?**
+
 No. Navy is part of the trim and the "Big A" cap logo, but the Angels don't carry a navy or blue jersey. Their only colored top is the red one. The rest of the closet is white, gray, or cream.
 
 **What is the Angels throwback white jersey?**
+
 It's a 1980s California Angels throwback: a white V-neck pullover with red and navy collar and cuff striping, "Angels" in block-serif lettering with a halo over the "A", and the state of California on the sleeve inside a gold halo. It has no fixed day and tends to appear across several home games at a time. We ranked it the best jersey the Angels own.
 
 **What cap do the Angels wear?**
+
 The primary cap is red with a silver-haloed "A", the "Big A" mark the team has used since 2002, and it pairs with the whites, the grays, and the red alternate alike. The City Connect uses its own two-tone cap to match the cream surf look, and the throwback white is worn with a period-correct throwback cap.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/astros-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Astros 2026 Uniform Schedule</a><a href="/stories/athletics-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Athletics 2026 Uniform Schedule</a><a href="/stories/mariners-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Mariners 2026 Uniform Schedule</a><a href="/stories/rangers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Texas Rangers 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Angels wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Angels and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Angels wearing green and camo hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Angels and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**Why are the Angels wearing 21?**
+
+It is Roberto Clemente Day. On Tuesday, September 15, 2026, every MLB player wears a No. 21 patch on the chest of his jersey to honor the Hall of Famer, who died in a 1972 plane crash while delivering relief supplies to earthquake victims in Nicaragua. Clemente Award nominees, including Zach Neto for the Angels, also have the option to wear No. 21 itself.
 
 ## More MLB Coverage
 

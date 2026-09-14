@@ -2,7 +2,7 @@
 title: "Chicago Cubs Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Chicago Cubs run four uniforms in 2026 — home pinstripes, road grays, the royal-blue alternate, and the powder-blue 'Blues' alternate — with no City Connect on the schedule anymore. Here's every jersey, when they wear it, and the two patches on every sleeve this season."
 gradient: "linear-gradient(135deg, #0E3386 0%, #CC3433 50%, #0E3386 100%)"
 coverImage: "/images/posts/cubs-uniform-schedule-2026/cover.jpg"
@@ -157,24 +157,42 @@ If it is a Friday at Wrigley during the summer months, it is the powder-blue "Bl
 The only date you can call with confidence is a summer Friday at Wrigley, which is the powder-blue alternate. Otherwise check whether the Cubs are home or away and assume the white pinstripes or the road grays.
 
 **How many uniforms do the Cubs have in 2026?**
+
 Four: the home white pinstripes, the road grays, the royal-blue alternate, and the powder-blue "Blues" alternate. There's no City Connect in the mix — the navy "Wrigleyville" City Connect was retired after the 2024 season.
 
 **Do the Cubs have a City Connect uniform in 2026?**
+
 No. The Cubs retired the 2021 navy "Wrigleyville" City Connect and replaced it with the powder-blue Blues alternate, which the team and Nike do not consider part of the City Connect program. That leaves Chicago as one of the few clubs without an active City Connect this season.
 
 **When do the Cubs wear the powder-blue uniform?**
+
 The Blues alternate is worn at home on Fridays during the summer months. It debuted on April 5, 2025, and brought baby blue back to the Cubs for the first time since the early 1980s.
 
 **What is the Cubs' powder-blue jersey about?**
+
 It celebrates Chicago's electric-blues music heritage. The design features blues-era typography, a guitar-pick sleeve patch split by a lightning bolt, "Sweet Home Chicago" on the socks with six stripes for a guitar's six strings, and a royal-and-white cap with a red button.
 
 **What patches are on the Cubs' 2026 jerseys?**
+
 Two. The Motorola "batwing" advertising patch appears on all home, road, and alternate jerseys — the first jersey ad in franchise history — and a 150th anniversary commemorative patch marking 1876–2026 is worn on the sleeves all season.
 
 **Do the Cubs wear player names on their home pinstripes?**
+
 The home pinstripes keep the classic clean front and the iconic bullseye logo; the road grays carry "CHICAGO" across the chest with player names on the back for away games.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/brewers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Milwaukee Brewers 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Cubs wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Cubs and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Cubs wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Cubs and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
+
+**What hat are the Cubs wearing?**
+
+The blue cap with the red "C" goes with the home pinstripes, the road grays and the royal-blue alternate. The powder-blue "Blues" alternate on summer Friday home games has its own cap, with a royal crown and brim, a white front panel and a red button.
 
 ## More MLB Coverage
 

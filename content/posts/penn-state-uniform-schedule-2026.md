@@ -3,7 +3,7 @@ title: "Penn State Uniform Schedule 2026: Every Jersey and When the Nittany Lion
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Penn State wears every game in 2026: the plain white helmet, no names on the jerseys, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #14336b 55%, #ffffff 130%)"
 cardStyle: words
@@ -87,6 +87,14 @@ Navy jersey, white numerals, white pants. No nameplate. White jersey, navy numer
 **Does Penn State have an alternate uniform in 2026?**
 
 None announced for 2026. The plainness is the brand.
+
+**Why is Penn State wearing numbers on their helmets?**
+
+Helmet numbers are a Penn State throwback. The Nittany Lions wore them in the late 1950s and early 1960s and again from 1967 to 1974 before going to the plain white helmet in 1975, and they returned on the Generations of Greatness alternates between 2017 and 2021. In 2012 every player wore No. 42 on the helmet to honor injured linebacker Michael Mauti. No helmet numbers or alternates have been announced for 2026.
+
+**Why does Penn State wear blue during the White Out?**
+
+The White Out is a crowd instruction, not a uniform change. Fans at Beaver Stadium dress in white and the team still wears its navy home jersey, which is why Penn State is in blue in a sea of white. The October 10 game against USC is a candidate for a 2026 White Out.
 
 **How many games does Penn State play in 2026?**
 

@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -50,7 +50,7 @@ Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in 
 <img src="/images/posts/broncos-uniform-schedule-2026/uniform-schedule-graphic.jpg" alt="Denver Broncos 2026 uniform schedule graphic showing every jersey by week" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Denver Broncos</p>
 
-The pattern is simple once you see it. Every color game is at Mile High, and Summit White does the travelling. We cross-checked the confirmed dates against the opponents' own 2026 schedules, and every Denver home game on this list carries a color, while every confirmed road trip is white. A couple of the Summit White weeks are home dates too, so it is not a hard rule, but the shape holds: color in Denver, white on the road.
+The pattern is simple once you see it. Every color game is at Mile High, and Summit White does the travelling. We cross-checked the confirmed dates against the opponents' own 2026 schedules, and every Denver home game on this list carries a color, while every confirmed road trip is white. All nine Summit White weeks are road games, so the rule holds without an exception: color in Denver, white on the road.
 
 ## Sunset Orange: The Base Set (4 Games)
 
@@ -232,6 +232,14 @@ Four: Sunset Orange, Summit White, the Midnight Navy alternate, and the Orange C
 **What is the Broncos Week 1 uniform in 2026?**
 
 Summit White, at Kansas City on Monday, September 14, on ABC.
+
+**Why do the Broncos wear 5280 on their helmets?**
+
+Denver sits 5,280 feet above sea level, exactly one mile, which is where the Mile High City name comes from. The number is printed on the front bumper of the helmet as part of the Mile High Collection uniforms the Broncos introduced in 2024, and it also appears in the pants stripe and inside the jersey collar.
+
+**Why are the Broncos wearing navy?**
+
+Midnight Navy is a modern alternate from the Mile High Collection that nods to the navy jersey Denver wore as its primary from 1997 through 2011. In 2026 it comes out twice: Week 3 against the Rams on Sunday Night Football on September 27, and Week 16 against the Bills on Christmas Day.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/chiefs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Chiefs 2026 Uniform Schedule</a><a href="/stories/raiders-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Las Vegas Raiders 2026 Uniform Schedule</a><a href="/stories/chargers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Chargers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

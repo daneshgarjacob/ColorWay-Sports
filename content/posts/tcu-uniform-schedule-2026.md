@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -119,6 +119,14 @@ Purple at home and white on the road. Purple is the identity colour and the most
 **Will TCU wear the black uniform again in 2026?**
 
 Not confirmed beyond Dublin. The Halloween home game against Kansas on October 31 is the obvious candidate. We update this page when a combination is announced.
+
+**Why is TCU wearing black?**
+
+The black Frog Horn alternate was built for the season opener against North Carolina in Dublin on August 29, worn with the Clover Frog helmet, the 2011 Rose Bowl horned frog with a four-leaf clover in place of the rose. The black base loosely descends from TCU's 2010 Pro Combat set. The Halloween home game against Kansas on October 31 is the obvious candidate for a return, but nothing is confirmed.
+
+**Why does TCU wear red?**
+
+Red is a nod to the real horned frog, a horned lizard that can squirt blood from its eyes when threatened. TCU has used that story for alternates with heavy red accents, including a 2019 set against Texas, and the 2026 Frog Horn collar carries flecks of red.
 
 **When is TCU's 2026 season opener?**
 

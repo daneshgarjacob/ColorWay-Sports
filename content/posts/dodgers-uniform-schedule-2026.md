@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-uniform-schedule-2026/cover.jpg"
@@ -152,6 +152,14 @@ The royal blue road alternate is not the default road look. The Dodgers pull it 
 **Do the Dodgers follow a strict uniform rotation?**
 
 Mostly. The home whites and road grays carry the vast majority of the calendar, and the City Connect has a fixed Saturday home slot. The one discretionary call is the royal blue road alternate, which appears only on select road series rather than on a set day.
+
+**Why are the Dodgers wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Dodgers and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Dodgers wearing VZ on their hats?**
+
+The "VZ" honored the people of Venezuela after deadly earthquakes struck the country that week. The Dodgers and the Padres both wore the letters embroidered on the side of their caps on Friday, June 26, 2026, at Petco Park, and several Dodgers, including Miguel Rojas, are from Venezuela.
 
 ## More MLB Uniform Coverage
 

@@ -2,7 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -139,6 +139,10 @@ No. The 1967 throwback is not on the published 2026 schedule.
 **How many uniforms do the Saints have in 2026?**
 
 Four jerseys with games assigned, black, the standard white, the white alternate and gold, worn under three helmets, gold, white and black. The 1967 throwback is not scheduled.
+
+**Why do the Saints wear white at home?**
+
+Because the home team picks its jersey first, and New Orleans chose white for two home dates on its published 2026 schedule. The standard white is worn against Atlanta on Monday night, October 5, which puts the Falcons in red, and the all-white alternate with the white helmet is worn against Arizona on December 27.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/falcons-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Atlanta Falcons 2026 Uniform Schedule</a><a href="/stories/panthers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Carolina Panthers 2026 Uniform Schedule</a><a href="/stories/buccaneers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Buccaneers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

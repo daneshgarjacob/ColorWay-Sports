@@ -2,7 +2,7 @@
 title: "Chicago White Sox Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Chicago White Sox run five uniforms in 2026 — the home white pinstripes, road grays, the black alternate, the charcoal 'Southside' look, and the new red Bulls-inspired City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 50%, #27251F 100%)"
 coverImage: "/images/posts/white-sox-uniform-schedule-2026/cover.jpg"
@@ -128,6 +128,7 @@ Every jersey the White Sox wear gets logged the morning after in our [MLB daily 
 ## Frequently Asked Questions
 
 **What jersey are the Chicago White Sox wearing today?**
+
 The White Sox do not run a fixed day-of-week system, so check whether the team is home or away first. The two recognizable defaults are the home white pinstripes for most home games and the road grays on the trip. The black alternate tends to surface on weekend home nights, and the red Bulls-inspired City Connect is tied to specific promotional dates rather than a standing weekday, so it can land on almost any home game. If it is a weekend home night, the black alternate is a good bet, otherwise expect home pinstripes at home and grays on the road.
 
 **What jersey did the White Sox wear last night?**
@@ -145,24 +146,38 @@ If it is a weekend home night, the black alternate is a good bet. Otherwise expe
 There is no fixed day-of-week system, so check home or away first: pinstripes at home, grays on the road. A weekend home night leans black alternate, and the red City Connect depends entirely on the promotional schedule.
 
 **How many uniforms do the White Sox have in 2026?**
+
 Five, under MLB's "4+1" rule: the home white pinstripes, the road grays, the black alternate, the charcoal "Southside" alternate, and the new red Bulls-inspired City Connect. For 2026 all five also carry the new CME Group sleeve patch.
 
 **When do the White Sox wear the black jerseys?**
+
 The black alternate isn't pinned to a fixed day, but it's a frequent weekend home choice and one of the team's signature looks. It pairs the diagonal silver "SOX" script with the black cap and the white pinstriped pants.
 
 **What is the new White Sox City Connect uniform?**
+
 It's a red jersey revealed in 2025 as a collaboration with the Chicago Bulls. It features red and black pinstripes, a "CHICAGO" wordmark inspired by the team's 1930s lettering, a winged-sock patch from the 1950s, and two different caps — the first time an MLB team has had two City Connect hats.
 
 **What happened to the old "Southside" City Connect?**
+
 It wasn't retired. When the new red City Connect arrived for 2025, the original charcoal-and-white "Southside" kit converted into a regular alternate uniform, so it remains an available option in the 2026 rotation rather than the team's primary City Connect.
 
 **Do the White Sox still wear the 1983 navy throwback?**
+
 No. The navy "Winning Ugly"-era v-neck throwback, long worn on select Sundays, was quietly dropped from the rotation after the 2023 season and isn't part of the 2026 lineup.
 
 **What sponsor patch is on the White Sox jersey in 2026?**
+
 CME Group, the Chicago-based derivatives marketplace. It's the first jersey advertising patch in franchise history, announced in late January 2026, and it appears on the sleeve of all five uniforms, recolored to match each jersey.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/guardians-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Guardians 2026 Uniform Schedule</a><a href="/stories/tigers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Detroit Tigers 2026 Uniform Schedule</a><a href="/stories/royals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Royals 2026 Uniform Schedule</a><a href="/stories/twins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Twins 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the White Sox wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the White Sox and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**What hat are the White Sox wearing?**
+
+The black "SOX" cap goes with the home pinstripes, and the black cap also travels with the road grays and pairs with the black alternate. The red City Connect has two caps of its own, a "BRED" version with the winged-sock logo and a red-and-black "City Pinstripes" option.
 
 ## More MLB Coverage
 

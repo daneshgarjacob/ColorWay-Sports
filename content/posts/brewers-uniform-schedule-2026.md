@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -148,6 +148,7 @@ Every jersey the Brewers wear gets logged the morning after in our [MLB daily un
 ## Frequently Asked Questions
 
 **What jersey are the Milwaukee Brewers wearing today?**
+
 The Brewers run more on feel than a fixed timetable, but there are two soft anchors: the navy ball-in-glove alternate on Sundays, home and away, and the "Wisco" City Connect on Friday home games. On the road most other days they wear the new powder blue set, since the gray road uniforms are retired. At home the cream and the white pinstripe trade off through the homestand with no fixed rule. Check whether it is a Sunday or a Friday home game first, and otherwise expect powder blue on the road or cream or pinstripes at home.
 
 **What jersey did the Brewers wear last night?**
@@ -165,24 +166,42 @@ Friday at home is the "Wisco" City Connect and Sunday is the navy ball-in-glove 
 Check for a Friday home game, which means the City Connect, or a Sunday, which means the navy ball-in-glove. Beyond those, the Brewers run on feel: powder blue on the road and cream or pinstripes at American Family Field.
 
 **How many uniforms do the Brewers have in 2026?**
+
 Five: the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the "Wisco" City Connect. The traditional road grays were retired ahead of 2026.
 
 **Do the Brewers have a City Connect?**
+
 Yes — two, in fact. The Brewers unveiled their second City Connect, the "Wisco" kit, in April 2026. It has a blue base inspired by Wisconsin's lakes, a "sunset gradient" of orange and yellow, and "Wisco" across the chest, and it's worn on Friday home games. Their first City Connect arrived in 2022.
 
 **Why do the Brewers wear powder blue on the road?**
+
 Starting in 2026, powder blue is the Brewers' primary road uniform, replacing the grays. It's a revival of the look the franchise wore from its 1970 arrival in Milwaukee through the mid-1980s, with "Milwaukee" in navy-and-gold lettering and the ball-in-glove cap.
 
 **What is the ball-in-glove logo on the Brewers uniforms?**
+
 It's the franchise's classic logo — a fielder's glove that doubles as a lowercase "m" and "b" for Milwaukee Brewers. Retired for decades, it was brought back as the centerpiece of the team's 2020 rebrand and now anchors the caps and the navy Sunday alternate.
 
 **When do the Brewers wear the cream uniform versus the white pinstripes?**
+
 There's no fixed rule. Both are home uniforms and the Brewers rotate between them through the homestand by feel, on any day not claimed by the Friday City Connect.
 
 **Did the Brewers get rid of their gray road uniforms?**
+
 Yes. The gray road set was retired ahead of the 2026 season and replaced by the powder blue throwback as the primary road uniform.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cubs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Cubs 2026 Uniform Schedule</a><a href="/stories/reds-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Reds 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why do the Brewers jerseys say Wisco?**
+
+"Wisco" is the chest wordmark on the "Wisco Way" City Connect, the Brewers' second City Connect, which celebrates the whole state with a blue base for Wisconsin's lakes and rivers and a sunset gradient running through the lettering. It debuted on April 10, 2026, against the Nationals and is worn for Friday home games.
+
+**Why are the Brewers wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Brewers and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Brewers wearing pink?**
+
+Pink is the Mother's Day look. On Sunday, May 10, 2026, the Brewers and the rest of MLB wore pink breast cancer awareness ribbon decals on their jerseys, and players had the option of pink socks, wristbands and batting gloves.
 
 ## More MLB Coverage
 

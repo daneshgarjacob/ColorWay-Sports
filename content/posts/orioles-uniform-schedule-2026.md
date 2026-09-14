@@ -2,7 +2,7 @@
 title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
 category: MLB
 date: '2026-06-16'
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: >-
   The Orioles run a loose 2026 uniform rotation with one firm rule: the new
   cream "BMORE" City Connect on every Friday home game. Here is the full closet.
@@ -202,6 +202,14 @@ It is a retro combo that pairs the orange jersey with orange pants, a throwback 
 Two main additions: the new cream "BMORE" City Connect that replaced the old 2023 black version, and a new alternate cap with a black crown, an orange bill, and an orange script "B" taken from the road "Baltimore" wordmark.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/red-sox-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Boston Red Sox 2026 Uniform Schedule</a><a href="/stories/yankees-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Yankees 2026 Uniform Schedule</a><a href="/stories/rays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tampa Bay Rays 2026 Uniform Schedule</a><a href="/stories/blue-jays-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Toronto Blue Jays 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Orioles wearing green?**
+
+The green comes from the new "BMORE" City Connect, a cream jersey with green sleeves and a green "BMORE" wordmark built around the theme "From the Stoop to the Yard," paired with a green-crown cap. The Orioles wear it for every Friday home game in 2026, starting April 10.
+
+**Why are the Orioles wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Orioles and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
 
 ## More MLB Coverage
 

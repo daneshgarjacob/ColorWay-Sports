@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -116,22 +116,32 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Aqua in Miami and white on the trip, unless it is Week 14 or Week 17, which are the two confirmed alternate dates.
 
 **When do the Dolphins wear their throwback uniform in 2026?**
+
 Once, at home in Week 14 against the Chicago Bears on Sunday, December 13. It is the white 1966 set with the leaping dolphin helmet logo, the uniform Miami wore through the 1973 championship season.
 
 **When do the Dolphins wear the Dark Water Rivalries uniform in 2026?**
+
 At the final home game of the season, Week 17 against the Buffalo Bills on Sunday, January 3 at 1:00 p.m. ET on CBS. Miami entered the Nike Rivalries program with the 2025 AFC East wave, and the uniform is worn at a home game against a division rival.
 
 **What is the Dolphins' primary uniform for 2026?**
+
 Aqua at home and white on the road. Aqua projects to the six home games not claimed by a confirmed uniform, and white to all nine away games.
 
 **Do the Dolphins wear white at home in 2026?**
+
 Yes, twice. The Week 14 throwback is a white jersey, and the Week 17 Dark Water set is near-black rather than aqua. That leaves six aqua home games out of eight.
 
 **How many home games do the Dolphins play in 2026?**
+
 Eight at Hard Rock Stadium, in Weeks 3, 5, 8, 9, 12, 14, 16, and 17. The bye is Week 6, and the season finishes on the road at New England in Week 18.
 
 **Is the full Dolphins 2026 uniform schedule official?**
+
 No. Two games are confirmed by the team: the throwback in Week 14 and Dark Water Rivalries in Week 17. Miami announced themes for all eight home games, but the other six are promotional themes rather than uniform announcements, so the aqua-home and white-road assignments elsewhere are our projection based on the standard NFL home-and-away convention.
+
+**Why are the Dolphins wearing black?**
+
+The near-black set is Dark Water, Miami's Nike Rivalries uniform from the 2025 AFC East wave. The Dolphins wear it once in 2026, at home against the Buffalo Bills in Week 17 on Sunday, January 3.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a><a href="/stories/jets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Jets 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

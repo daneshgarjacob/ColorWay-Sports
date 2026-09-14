@@ -2,7 +2,7 @@
 title: "Washington Nationals Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Washington Nationals run five uniforms in 2026 — the script 'Nationals' home white, the 'WASHINGTON' road gray, the red 'curly W' alternate, the navy alternate, and the denim-blue 'District Blueprint' City Connect that replaced the old Cherry Blossom kit. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #AB0003 0%, #14225A 50%, #AB0003 100%)"
 coverImage: "/images/posts/nationals-uniform-schedule-2026/cover.jpg"
@@ -124,6 +124,7 @@ One more constant across all five: every Nationals jersey now carries the **AARP
 ## Frequently Asked Questions
 
 **What jersey are the Washington Nationals wearing today?**
+
 The one fixed habit is the denim-blue "District Blueprint" City Connect on Friday and Saturday home games. Outside of that the Nationals do not run a daily script, so the script "Nationals" home white covers most other home games, the "WASHINGTON" road gray covers most away games, and the red "curly W" and navy alternates are manager's choice that can show up any day at home or on the road. Check the day of week and whether they are home: a Friday or Saturday home game means the City Connect, otherwise expect the home white at home or the road gray on the trip.
 
 **What jersey did the Nationals wear last night?**
@@ -141,24 +142,38 @@ Friday and Saturday home games are the "District Blueprint" City Connect. Outsid
 A Friday or Saturday home game means the City Connect. Any other date is the home white at home or the road gray on the trip, with the red curly W and navy alternates able to appear on any day.
 
 **How many uniforms do the Nationals have in 2026?**
+
 Five: the script "Nationals" home white, the "WASHINGTON" road gray, the red "curly W" alternate, the navy alternate, and the denim-blue "District Blueprint" City Connect. The set carried over from 2025, with the main 2026-era change being the AARP sleeve patch that now appears on all of them.
 
 **When do the Nationals wear the City Connect uniform?**
+
 The denim-blue "District Blueprint" City Connect is Washington's Friday and Saturday home look. It debuted on the 2025 opening weekend and has anchored those two weekend nights at Nationals Park ever since.
 
 **What happened to the Cherry Blossom City Connect?**
+
 It was retired after the 2024 season. The pink-and-cream Cherry Blossom kit ran from 2022 through 2024 — one of the most popular City Connects in the league — before MLB and Nike's roughly three-year refresh cycle replaced it with the new "District Blueprint" design for 2025. You won't see the Cherry Blossom on the field in 2026.
 
 **When do the Nationals wear the red jersey?**
+
 There's no fixed day for it. The red "curly W" alternate returned in 2025 after a one-season absence and is manager's choice — it shows up both at home and on the road whenever the staff wants a pop of color, which is exactly why it isn't pinned to the weekly grid.
 
 **Does the navy alternate have a special version for the Fourth of July?**
+
 Around Independence Day, the Nationals — fittingly, as the team in the nation's capital — have long leaned into a stars-and-stripes treatment of the curly W on their navy look, a patriotic nod for the holiday. The standard navy alternate itself is a script "Nationals" jersey worn as a no-fixed-day option through the rest of the season.
 
 **What sponsor patch is on the Nationals jersey?**
+
 AARP. It's the franchise's first-ever jersey advertiser, added during the 2025 season, and it now appears on the sleeve of every jersey, recolored to match each look.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/braves-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Atlanta Braves 2026 Uniform Schedule</a><a href="/stories/marlins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Marlins 2026 Uniform Schedule</a><a href="/stories/mets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Mets 2026 Uniform Schedule</a><a href="/stories/phillies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Phillies 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Nationals wearing blue jerseys?**
+
+The denim blue jersey is the "District Blueprint" City Connect, which traces Washington's street grid, quadrants and traffic circles in a white blueprint pattern with a 3D interlocking "DC" on the chest. It replaced the Cherry Blossom City Connect in 2025 and is worn for Friday and Saturday home games at Nationals Park.
+
+**Why are the Nationals wearing green hats?**
+
+Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday, May 15, through Sunday, May 17, 2026, the Nationals and all on-field personnel across the league wore service-inspired New Era caps with an olive green crown, the club logo, a U.S. flag patch on the side and camouflage inside, with matching camo socks available too.
 
 ## More MLB Coverage
 

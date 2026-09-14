@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -91,6 +91,10 @@ No navy jersey is in the 2026 Under Armour set and no throwback has been announc
 **What did Georgia Tech wear against Colorado?**
 
 All white: white helmet, white jersey, white pants, for the season-opening whiteout on September 3. The jersey was a 30th Anniversary Edition with the GT logo on the chest and Under Armour's original 1996 logo.
+
+**Why does Georgia Tech wear white at home?**
+
+Georgia Tech opened 2026 in all white at Bobby Dodd Stadium on September 3 against Colorado because the game was a Whiteout, a program tradition that began with a Thursday night win over Miami in 2008, with the crowd asked to wear white too. The jersey was a 30th Anniversary Edition marking thirty years since Georgia Tech became the first college program to buy from Under Armour. Gold is expected for the rest of the home schedule.
 
 **How many games does Georgia Tech play in 2026?**
 

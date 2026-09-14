@@ -2,7 +2,7 @@
 title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -145,25 +145,36 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Deep Steel Blue at NRG and white on the road, unless the week is one of the three confirmed alternate games above.
 
 **When do the Texans wear Battle Red in 2026?**
+
 Once, at home in Week 7 against the New York Giants on Sunday, October 25. It is the Battle Red Game, and fans are asked to wear red to match the team.
 
 **When do the Texans wear their Rivalries uniform in 2026?**
+
 Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football. The uniform was revealed on August 25 under the name HOUSTON/US: a Liberty White base with H-Town Blue and Battle Red tile stripes, the first white helmet in franchise history with a chrome blue facemask, and a gothic H-Town "H" on the shell. It stays in the rotation for three seasons.
 
 **Do the Texans wear white at home in 2026?**
+
 Yes, in Week 1 against Buffalo on September 13. Houston confirmed the Liberty White uniforms for the opener and asked fans to wear white. Because the home team picks first, Buffalo takes the color side, and the Bills have confirmed a blue jersey with blue pants and the white helmet.
 
 **What is the Texans' primary uniform for 2026?**
+
 Deep Steel Blue at home and white on the road. The navy set projects to the five home games not claimed by a confirmed uniform, and white to all nine road games.
 
 **Are the Texans wearing a 25th Season throwback?**
+
 Not that they have announced. Houston is celebrating its 25th Season at the Week 4 home game against Dallas on October 4, but the team named a theme rather than a uniform for that date. What we do know is the colour: the Cowboys have confirmed navy for that game, so Houston wears white. If a throwback is added, this page gets updated.
 
 **How many home games do the Texans play in 2026?**
+
 Eight at Reliant Stadium, in Weeks 1, 2, 4, 7, 11, 12, 15, and 18. The Week 6 game against Jacksonville is at Wembley Stadium in London with the Jaguars as the home team, so it does not count as a Houston home date. The bye is Week 8.
 
 **Is the full Texans 2026 uniform schedule official?**
+
 No. Three games are confirmed by the team: Liberty White in Week 1, Battle Red in Week 7, and the Rivalries debut in Week 11. Houston announced themes for all eight home games, but the others are promotional themes rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
+
+**Why are the Texans wearing red?**
+
+It is the Battle Red game, a Texans tradition since 2003, when the team first wore red jerseys at home against Carolina. The team wears its Battle Red uniforms and fans are asked to wear red. In 2026 it is Week 7, at home against the New York Giants on Sunday, October 25.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/colts-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Indianapolis Colts 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/titans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Tennessee Titans 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

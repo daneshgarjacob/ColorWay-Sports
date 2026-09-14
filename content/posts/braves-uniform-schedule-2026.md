@@ -3,7 +3,7 @@ title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
 topViewsRank: 5
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
@@ -132,6 +132,7 @@ Every jersey the Braves wear gets logged the morning after in our [MLB daily uni
 ## Frequently Asked Questions
 
 **What jersey are the Atlanta Braves wearing today?**
+
 The Braves run one of baseball's closest things to a scheduled rotation, so the day tells you a lot. The powder blue City Connect is locked to Friday night home games, and the red and navy alternates get pulled for select weeknights, often Tuesday or Wednesday. Most other home games are the home whites, and every road game stays in the gray Atlanta set. Check the day of the week and whether Atlanta is home or away to land on the right look.
 
 **What jersey did the Braves wear last night?**
@@ -149,16 +150,24 @@ Friday night at Truist Park is the powder blue City Connect. A Tuesday or Wednes
 The Braves run one of the closest things to a scheduled rotation in baseball, so tomorrow's day tells you most of it. Friday night at home is the powder blue City Connect, select weeknights are the red or navy alternates, other home games are the whites, and all road games are the grays.
 
 **How many uniforms do the Braves have in 2026?**
+
 Five in active rotation: the home whites, the road grays, the red alternate, the navy alternate, and the powder blue City Connect. A cream alternate is still sold at retail but has not appeared on the field this season.
 
 **When do the Braves wear the City Connect uniform?**
+
 On Friday night home games at Truist Park. Atlanta replaced the old white ATL kit in April 2026 with a powder blue V-neck pullover that revives the TBS Superstation era of the 1980s, carrying the Atlanta script in white with red and royal blue outlines and an ATL sleeve patch drawn from the old TBS logo.
 
 **Do the Braves still wear the cream alternate?**
+
 Not so far in 2026. The cream 1966 throwback is still sold as a current alternate, but it has not shown up in any Braves game we have logged this season, including the home Sunday of July 19, when Atlanta wore the standard home whites.
 
 **Do the Braves follow a strict uniform rotation?**
+
 Mostly, yes. The Braves are one of the few teams that run close to a true scheduled rotation, with the City Connect fixed to Fridays and the home whites and road grays carrying the rest. The looser pieces are the red and navy alternates, which are weeknight looks but are not locked to a single day.
+
+**What hat are the Braves wearing?**
+
+The classic navy cap with the white script lowercase "a" goes with the home whites, and the all-navy road version travels with the grays. The powder blue cap with a red lowercase "a" belongs to the powder blue City Connect, so a light blue hat means a Friday night home game at Truist Park.
 
 ## More MLB Uniform Coverage
 

@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-14'
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -87,6 +87,14 @@ Navy jersey with maize numerals, maize pants, winged helmet. White jersey with n
 **Does Michigan have an alternate uniform in 2026?**
 
 None announced for 2026. Michigan runs one of the sport's least-changed wardrobes.
+
+**Why does Michigan wear winged helmets?**
+
+Fritz Crisler brought the design from Princeton when he became Michigan's head coach in 1938, adding maize and blue to the plain black helmet the Wolverines had been wearing. He believed the painted wings would help his passers spot receivers downfield. The winged helmet debuted in the 1938 opener against Michigan State.
+
+**Why does Michigan wear Jordan?**
+
+Michigan signed with Nike's Jordan Brand in 2015 and in 2016 became the first college football program to wear the Jumpman logo on its uniforms. Jordan Brand wanted Michigan to be its flagship football school, the way Oregon is for Nike.
 
 **How many games does Michigan play in 2026?**
 

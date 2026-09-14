@@ -3,7 +3,7 @@ title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Cla
 category: NFL
 date: "2026-07-24"
 topViewsRank: 6
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -137,25 +137,36 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Check the grid above; every game has a jersey. The one home game that is not royal or an alternate is Week 15 against Dallas, where the Rams wear white.
 
 **When do the Rams wear the Classic Sol jersey in 2026?**
+
 Twice, both at home and both in prime time: Week 2 against the New York Giants on Monday, September 21, and Week 13 against the Kansas City Chiefs on Thursday, December 3. Classic Sol is the gold throwback that honors the 1951 World Champions Rams.
 
 **When do the Rams wear the Fearsome White jersey in 2026?**
+
 Once: Week 12 at home against the Green Bay Packers on Wednesday, November 25. Fearsome White is the royal-and-white alternate with the new white-horn helmet, named for the Rams' Fearsome Foursome defensive line.
 
 **What is the Rams' primary uniform for 2026?**
+
 Royal blue and white are the primaries, but white gets more work: eight games to royal's five. Royal covers five home games and white covers all seven road games plus the Week 15 home game against Dallas.
 
 **When do the Rams wear Midnight Mode in 2026?**
+
 Week 16, on the road at Seattle, on Friday, December 25. The Rams and Seahawks announced it together, and both teams will wear their Rivalries uniforms for the Christmas Day game.
 
 **How many uniforms do the Rams have in 2026?**
+
 Five: the royal home jersey, the white road jersey, the black Midnight Mode rivalry alternate, and the two new alternates, Classic Sol and Fearsome White.
 
 **Is the full Rams 2026 uniform schedule official?**
+
 Yes. The Rams published the jersey for all 17 games on September 1, 2026, after setting the four alternate dates in August. Pants combinations are still decided week to week.
 
 **Why are the Rams wearing white at home against the Cowboys?**
+
 Because Dallas wears white at home and prefers it everywhere. The home team chooses, so by wearing white in Week 15 the Rams force the Cowboys into their navy road jersey, which Dallas famously dislikes. It is a scheduling move as old as the rivalry and it makes for a cleaner-looking game.
+
+**Why are the Rams wearing black?**
+
+The all-black uniform is Midnight Mode, the Rams' entry in the NFL Rivalries program. It is worn once in 2026, on the road at Seattle on Friday, December 25, and both teams will be in their Rivalries uniforms for that Christmas Day game.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/arizona-cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Cardinals 2026 Uniform Schedule</a><a href="/stories/49ers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Francisco 49ers 2026 Uniform Schedule</a><a href="/stories/seahawks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Seattle Seahawks 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

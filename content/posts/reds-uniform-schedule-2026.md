@@ -2,7 +2,7 @@
 title: "Cincinnati Reds Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-13"
+updatedDate: "2026-09-14"
 excerpt: "The Cincinnati Reds run five uniforms in 2026 — the home white pinstripes, road grays, the red alternate, and two City Connects: the brand-new head-to-toe red set on Saturdays and the original black 'C' on Fridays. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #C6011F 0%, #000000 50%, #C6011F 100%)"
 coverImage: "/images/posts/reds-uniform-schedule-2026/cover.jpg"
@@ -122,6 +122,7 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 ## Frequently Asked Questions
 
 **What jersey are the Cincinnati Reds wearing today?**
+
 The Reds have two firm weekend hooks at home. Friday home games are the original black "C" City Connect, and Saturday home games are the new all-red City Connect 2.0. Any other home game is most likely the white pinstripes, and most road games are the gray "CINCINNATI" set. The solid red alternate has no fixed day and usually appears at home, often on a Sunday. Check the day of the week and whether the Reds are home or away to figure out today's look.
 
 **What jersey did the Reds wear last night?**
@@ -139,24 +140,42 @@ Friday at home is the black "C" City Connect and Saturday is the all-red City Co
 The two weekend hooks at home settle it: Friday is the black City Connect, Saturday is the red City Connect 2.0. Otherwise expect the white pinstripes at home or the grays on the road.
 
 **How many uniforms do the Reds have in 2026?**
+
 Five: the home white pinstripes, the road grays, the red alternate, the new all-red City Connect, and the original black "C" City Connect. The jump from four to five came when Cincinnati added the red City Connect 2.0 in April 2026 and kept the older black set as a Friday alternate.
 
 **When do the Reds wear the new red City Connect uniform?**
+
 The all-red City Connect 2.0, unveiled in April 2026, is worn for Saturday home games at Great American Ball Park for the rest of the season.
 
 **Did the Reds get rid of the black City Connect jerseys?**
+
 No. The original black "C" City Connect from 2023 wasn't retired — for 2026 it was reassigned as the team's Friday-night home alternate, running alongside the new red set.
 
 **What do the Reds wear on the road?**
+
 The gray road set with "CINCINNATI" arched across the chest in red, worn with the two-tone cap (red crown, black bill). It's the default for most away games.
 
 **When do the Reds wear the red alternate jersey?**
+
 There's no fixed day for it. The red alternate — the cursive "Reds" script in white on a red jersey — is manager's choice, most often worn at home and frequently on a Sunday, which is why it isn't pinned to the weekly grid.
 
 **Do the Reds wear player names on their home jerseys?**
+
 Yes. Unlike a few clubs that keep the home whites nameless, the Reds carry both names and numbers in their vintage-style typeface across the set.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL Central</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/cubs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Cubs 2026 Uniform Schedule</a><a href="/stories/brewers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Milwaukee Brewers 2026 Uniform Schedule</a><a href="/stories/pirates-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Pirates 2026 Uniform Schedule</a><a href="/stories/cardinals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">St. Louis Cardinals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
+
+**Why are the Reds wearing a number 4 patch?**
+
+That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Reds and every other MLB club wore a custom No. 4 decal for Gehrig's retired Yankees number, along with red "4-ALS" wristbands, to raise awareness in the fight against ALS. June 2 marks both the day Gehrig became the Yankees' starting first baseman in 1925 and the day he died in 1941.
+
+**Why are the Reds wearing blue socks?**
+
+Blue is the Father's Day look. On Sunday, June 21, 2026, the Reds and the rest of MLB wore blue prostate cancer awareness ribbon decals on their jerseys, and players had the option of blue socks and wristbands.
+
+**What hat are the Reds wearing?**
+
+The all-red cap with the white wishbone "C" goes with the home pinstripes and the red alternate, and the road grays get the two-tone cap with a red crown and black bill. The all-red City Connect on Saturdays has a matching red cap, and the black "C" City Connect on Fridays carries a modified diamond-shaped "C" on the cap.
 
 ## More MLB Coverage
 

@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-14"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -137,22 +137,32 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 Titans Blue at Nissan Stadium and white on the road, with the Music City uniform confirmed for Week 10 and Week 11 at Dallas still an open question.
 
 **What are the new Titans uniforms for 2026?**
+
 Two uniforms. At home, a Titans blue jersey with "TITANS" across the chest, worn with white or light blue pants. On the road, a white jersey with "TENNESSEE" across the chest in light blue, worn with light blue or white pants. Both use a white helmet with a white facemask and a light blue and red stripe. It is Tennessee's first uniform change since 2018.
 
 **Do the Titans have a third uniform or an alternate in 2026?**
+
 Yes, one: the Music City Rivalries uniform, revealed August 25. It is a navy jersey with "Music City" in script across the chest, neon-inspired numbers, guitar-string pant striping, and a Titans Blue helmet with a circular navy T logo. It is worn once, in Week 10 against Jacksonville.
 
 **When do the Titans wear the Rivalries uniform in 2026?**
+
 Week 10, at home against the Jacksonville Jaguars on Sunday, November 15. The Music City uniform was revealed on August 25 along with the rest of the 2026 Rivalries class, and it stays in Tennessee's rotation for three seasons.
 
 **Will the Titans wear blue on the road in 2026?**
+
 Possibly once, in Week 11 at Dallas. The Cowboys wear white at home by tradition, which is the only situation that lets a visiting team wear a colored jersey. Every other road game projects to the white set.
 
 **How many home games do the Titans play in 2026?**
+
 Eight, in Weeks 1, 2, 5, 7, 10, 13, 15, and 17. The bye is Week 9, and the season ends on the road at Houston in Week 18.
 
 **Is the full Titans 2026 uniform schedule official?**
+
 Only one game is: the Music City Rivalries uniform in Week 10 against Jacksonville, confirmed at the August 25 reveal. Tennessee has not published a uniform schedule for any other game, so every other assignment here follows the standard NFL home-and-away convention and is our projection.
+
+**Why do the Titans wear Oilers uniforms?**
+
+Because, in the words of owner Amy Adams Strunk, "Oilers history is Titans history." Tennessee wore the Houston Oilers throwbacks for two games in both 2023 and 2024 and shelved them in 2025. The light blue in the 2026 rebrand draws on that history, but no Oilers throwback is on the 2026 schedule.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC South</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/texans-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Houston Texans 2026 Uniform Schedule</a><a href="/stories/colts-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Indianapolis Colts 2026 Uniform Schedule</a><a href="/stories/jaguars-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Jacksonville Jaguars 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 
