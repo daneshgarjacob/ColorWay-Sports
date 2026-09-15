@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { LinkedInIcon, XIcon } from "@/components/FollowCard";
 
 const navLinks = [
   { label: "Home", href: "/" },
@@ -28,6 +29,34 @@ export default function Footer() {
           <span className="text-[9px] uppercase tracking-[0.18em] mt-[5px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap" }}>
             Every Jersey. Every Logo. Every Detail.
           </span>
+        </div>
+
+        {/* Follow */}
+        <div className="mt-7 flex items-center gap-3">
+          <span
+            className="text-[10px] uppercase tracking-[0.18em] text-[#9FB6D6]"
+            style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}
+          >
+            Follow Us
+          </span>
+          <a
+            href="https://x.com/ColorWaySports"
+            target="_blank"
+            rel="noopener"
+            aria-label="ColorWay Sports on X"
+            className="w-9 h-9 rounded-full border border-white/25 text-white flex items-center justify-center hover:bg-white hover:text-[#003087] transition-colors"
+          >
+            <XIcon />
+          </a>
+          <a
+            href="https://www.linkedin.com/company/colorwaysports/"
+            target="_blank"
+            rel="noopener"
+            aria-label="ColorWay Sports on LinkedIn"
+            className="w-9 h-9 rounded-full border border-white/25 text-white flex items-center justify-center hover:bg-white hover:text-[#003087] transition-colors"
+          >
+            <LinkedInIcon />
+          </a>
         </div>
 
         {/* Nav */}

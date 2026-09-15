@@ -27,6 +27,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPostBySlug, getAllPosts, getRelatedPosts, trimLogSections } from "@/lib/posts";
 import AuthorBio from "@/components/AuthorBio";
+import FollowCard from "@/components/FollowCard";
 import { getAuthor, authorSchema } from "@/lib/authors";
 import type { Metadata } from "next";
 
@@ -408,6 +409,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
         {/* Byline card — a named human behind every grade */}
         <AuthorBio author={author} />
+
+        <FollowCard />
 
         {/* Inline newsletter signup */}
         <InlineNewsletter />
