@@ -1,9 +1,9 @@
 ---
-title: "Houston Texans 2026 Uniform Schedule: When They Wear Liberty White, Battle Red, and the New Rivalries Jersey"
+title: "Houston Texans 2026 Uniform Schedule: Battle Red, Rivalries Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-14"
-excerpt: "The Texans' 2026 uniform schedule: confirmed dates for the Liberty White opener, the Battle Red game, and the debut of the new HOUSTON/US Rivalries jersey and uniform."
+updatedDate: "2026-09-15"
+excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -18,7 +18,7 @@ Houston published one of the more useful uniform announcements in the league thi
 
 ## The Confirmed Texans Uniform Games
 
-Three of Houston's eight home dates come with a jersey named by the team. All three are at Reliant Stadium.
+Three of Houston's eight home dates come with a jersey named by the team. All three are at NRG Stadium.
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #A71930 0%, #03202F 100%); border-radius: 16px; border: 2px solid #ffffff;">
   <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">Confirmed Jersey Dates</p>
@@ -58,7 +58,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 
 ## Liberty White (Week 1 vs. Bills, Confirmed)
 
-Houston opens the season at home against Buffalo on Sunday, September 13, and the Texans have confirmed they will wear Liberty White with fans asked to wear white to match. The team's game-week graphic adds the detail that matters: the white set goes out under the **red helmet**, the Battle Red shell rather than the standard navy one, so the opener is white from the shoulders down with the only strong colour on top.
+Houston opens the season at home against Buffalo on Sunday, September 13, and the Texans wore Liberty White with fans asked to wear white to match. The team's game-week graphic pointed to the red Battle Red helmet, but on the field Houston went with the **standard navy helmet, white jersey and white pants**, the Liberty White set under the navy shell. Buffalo won the opener 36-31.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2098049349074710805"></a></blockquote>
@@ -66,7 +66,7 @@ Houston opens the season at home against Buffalo on Sunday, September 13, and th
 
 Here is why it matters beyond the aesthetics. NFL convention lets the home team pick, and the visitor takes the contrasting jersey. By choosing white, Houston hands Buffalo the option of a colored jersey in Week 1, which is the opposite of how almost every home opener in the league is staged. We have updated our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) to reflect it, and Buffalo has since confirmed its side of it: white helmet, blue jersey and blue pants. The opener is Liberty White against all blue.
 
-As a uniform, Liberty White is the cleanest thing Houston owns. The navy and red striping does enough without crowding, and against a September afternoon under the Reliant roof it should read sharply. Whether it is the right call for an opener is a separate question. The white set is the quiet one, and openers usually want volume.
+As a uniform, Liberty White is the cleanest thing Houston owns. The navy and red striping does enough without crowding, and against a September afternoon under the NRG Stadium roof it should read sharply. Whether it is the right call for an opener is a separate question. The white set is the quiet one, and openers usually want volume.
 
 
 ## Battle Red (Week 7 vs. Giants, Confirmed)
@@ -166,7 +166,7 @@ Not that they have announced. Houston is celebrating its 25th Season at the Week
 
 **How many home games do the Texans play in 2026?**
 
-Eight at Reliant Stadium, in Weeks 1, 2, 4, 7, 11, 12, 15, and 18. The Week 6 game against Jacksonville is at Wembley Stadium in London with the Jaguars as the home team, so it does not count as a Houston home date. The bye is Week 8.
+Eight at NRG Stadium, in Weeks 1, 2, 4, 7, 11, 12, 15, and 18. The Week 6 game against Jacksonville is at Wembley Stadium in London with the Jaguars as the home team, so it does not count as a Houston home date. The bye is Week 8.
 
 **Is the full Texans 2026 uniform schedule official?**
 
@@ -181,7 +181,7 @@ It is the Battle Red game, a Texans tradition since 2003, when the team first wo
 ## More NFL Coverage
 
 - [Indianapolis Colts 2026 Uniform Schedule](/stories/colts-uniform-schedule-2026) — the other half of the AFC South's two-Rivalries season
-- [Buffalo Bills 2026 Uniform Schedule](/stories/bills-uniform-schedule-2026) — why Buffalo opens in color at Reliant
+- [Buffalo Bills 2026 Uniform Schedule](/stories/bills-uniform-schedule-2026) — why Buffalo opens in color at NRG
 - [Los Angeles Chargers 2026 Uniform Schedule](/stories/chargers-uniform-schedule-2026) — the Week 9 host, in the navy Super Chargers set
 - [What Is the NFL Rivalries Uniform Program?](/stories/what-is-the-nfl-rivalries-uniform-program) — how the Nike program works and who is up in 2026
 
