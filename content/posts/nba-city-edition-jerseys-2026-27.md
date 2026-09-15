@@ -30,7 +30,7 @@ The City Edition uniforms are expected to reach stores in **January 2027**, late
 
 <div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #14284b 0%, #2a2a3a 100%); border-radius: 16px;"><p style="font-size: 0.95em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">What Changes for Year Ten</p><p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#7fb0ff;">The Swoosh</strong> &middot; an iridescent, aluminium-finish mark in place of the flat standard one, and the Jumpman on Charlotte's gets the same treatment</p><p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#7fb0ff;">The NBA Logo</strong> &middot; moved to the back neck rather than sitting on the chest</p><p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#7fb0ff;">The Brief</strong> &middot; remix rather than invent, with every club bringing back a design from its own history</p></div>
 
-Two picks stretch the brief. Boston and Cleveland both went back to their **2018-19 Earned Edition** uniforms, the alternates teams won by making the playoffs, rather than an actual past City Edition.
+Three picks stretch the brief. Boston, Cleveland and Minnesota all went back to their **2018-19 Earned Edition** uniforms, the alternates teams won by making the playoffs, rather than an actual past City Edition.
 
 And the leaked designs from the spring are not in this ranking at all. The eight dark uniforms that circulated as "Christmas jerseys" are the new **Specter Edition**, a separate fifth uniform for eight of the oldest franchises, which we grade on its own page: [NBA Specter Edition Jerseys 2026-27](/stories/nba-specter-edition-jerseys-2026-27).
 
@@ -129,6 +129,10 @@ The base is the problem. Purple and gold are two of the most recognizable colors
 
 ## 23. Philadelphia 76ers
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AidanLaPorta69/status/2093819531223257099"></a></blockquote>
+</div>
+
 <p style="font-size: 0.8em; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #57607a; margin: 0 0 1em;"><span style="color: #b8641a;">Leaked</span> &middot; Returning: 2017-18 cream "Phila"</p>
 
 Philadelphia is reported to be reviving the 2017-18 parchment set, the cream shirt with the blue "Phila" script taken from the Declaration of Independence. It is one of the most-liked designs from the program's first year, and on paper it should rank a lot higher.
@@ -165,11 +169,14 @@ The type is the issue. The lowercase letters run together into one long red shap
 
 ## 20. Minnesota Timberwolves
 
-<p style="font-size: 0.8em; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #57607a; margin: 0 0 1em;"><span style="color: #b8641a;">Leaked</span> &middot; Returning: a white "Wolves" design</p>
+<img src="/images/posts/nba-city-edition-jerseys-2026-27/timberwolves-city-edition.jpg" alt="Minnesota Timberwolves 2018-19 Earned Edition jersey, white with a pink and purple Wolves script, pink numbers and pink trim, the design returning as the 2026-27 City Edition" style="display: block; width: 100%; max-width: 560px; margin: 1.25em auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Fanatics</p>
 
-Minnesota is the one design in the leaked lineup we cannot match to a past City Edition. It shows a white shirt with a purple and pink "Wolves" script, which borrows the color story of the Prince tribute set without being the purple Prince jersey itself.
+<p style="font-size: 0.8em; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #57607a; margin: 0 0 1em;"><span style="color: #b8641a;">Leaked</span> &middot; Returning: 2018-19 Earned Edition "Wolves"</p>
 
-If it is a white take on the Prince design, the colors deserve credit, because purple and pink are the most distinctive palette Minnesota has ever worn. On white, though, they read faint and pastel, and the script gets lost. We will update this entry the moment the Wolves show it officially.
+Minnesota joins Boston and Cleveland in reaching for a 2018-19 Earned Edition instead of a past City Edition: the white shirt with a pink and purple "Wolves" script, pink numbers and pink trim, the same color story as that season's purple Prince tribute set.
+
+The colors deserve credit, because purple and pink are the most distinctive palette Minnesota has ever worn. On white, though, they read faint and pastel, and a small textured panel at the shoulder is the only other detail. It is the lighter, quieter version of a much better uniform.
 
 <div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #0C2340 0%, #236192 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C-</p></div>
 
@@ -442,9 +449,9 @@ January 2027, according to reporting on the anniversary collection. That is late
 
 No. 2026-27 is the tenth season of the program, and every team is bringing back a design from its own history instead of creating a new one. The 2026-27 versions add an iridescent aluminium-finish Swoosh and move the NBA logo to the back neck.
 
-**Why are the Celtics and Cavaliers City Editions Earned Editions?**
+**Why are the Celtics, Cavaliers and Timberwolves City Editions Earned Editions?**
 
-Both teams chose to bring back their 2018-19 Earned Edition uniforms, the alternates Nike gave to playoff teams that season, rather than a past City Edition. Boston's is kelly green with gold lettering, and Cleveland's is white fading into light blue with a navy script.
+All three teams chose to bring back their 2018-19 Earned Edition uniforms, the alternates Nike gave to playoff teams that season, rather than a past City Edition. Boston's is kelly green with gold lettering, Cleveland's is white fading into light blue with a navy script, and Minnesota's is white with a pink and purple Wolves script.
 
 **Which NBA City Edition jerseys are officially confirmed for 2026-27?**
 
