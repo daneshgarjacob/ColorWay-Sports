@@ -90,7 +90,7 @@ export default function RootLayout({
               // Ties the domain to the brand's own X account. This belongs on the
               // publisher, NOT on a writer's Person node — the account is the
               // publication, not any individual.
-              "sameAs": ["https://x.com/ColorWaySports"]
+              "sameAs": ["https://x.com/ColorWaySports", "https://www.linkedin.com/company/colorwaysports/"]
             })
           }}
         />
