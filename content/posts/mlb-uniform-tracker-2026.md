@@ -59,6 +59,11 @@ Monday was a ten-game slate. The Dodgers were in Cincinnati in their usual Dodge
 
 ### Seattle Mariners at Los Angeles Angels
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #0C2C56 0%, #ffffff 50%, #BA0021 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(10,23,51,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -85,6 +90,9 @@ Monday was a ten-game slate. The Dodgers were in Cincinnati in their usual Dodge
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to Anaheim. Seattle wore the navy road alternate with the navy-top, teal-bill cap, and the Angels answered in home whites under the red "A" cap. It is the cleanest contrast on the board all night: deep navy with a flash of Northwest teal on one side, bright white and Angels red on the other, and no gray anywhere near the jerseys to muddy it. Two simple sets, two strong colors, and a matchup that reads from the upper deck.
 
 ### San Diego Padres at Colorado Rockies
 
