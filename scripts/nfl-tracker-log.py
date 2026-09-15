@@ -49,6 +49,7 @@ for g in games:
         def rep(m):
             s = bar_span(bars[n[0]]); n[0] += 1; return s
         card = OLD_BAR_RE.sub(rep, card)
+    card = re.sub(r'<span data-projection[^>]*>.*?</span>', "", card)  # preview-only Confirmed/Projected tag
     assert card.count("Not yet worn") == 2, h3
     card = card.replace("Not yet worn", "Final")
     grade = g.get("grade", "-")
@@ -61,5 +62,6 @@ for g in games:
     md = md[:i] + card + md[end:]
     print("logged", h3.strip())
 
-md = re.sub(r'updatedDate: "\d{4}-\d{2}-\d{2}"', 'updatedDate: "2026-09-13"', md, 1)
+import datetime
+md = re.sub(r'updatedDate: "\d{4}-\d{2}-\d{2}"', f'updatedDate: "{datetime.date.today().isoformat()}"', md, 1)
 open(F, "w").write(md)

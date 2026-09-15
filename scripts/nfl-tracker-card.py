@@ -17,6 +17,7 @@ NAMES = {  # bar hex -> colour word used in the combination line
     "#003594": "Royal", "#FFD100": "Yellow", "#0B2265": "Royal", "#C83803": "Orange", "#BFC0BF": "Silver", "#D50A0A": "Red",
     "#008E97": "Aqua", "#0C2340": "Navy", "#002244": "Navy", "#69BE28": "Green", "#AA0000": "Red", "#E31837": "Red",
     "#FF7900": "Orange", "#311D00": "Brown", "#0B162A": "Navy", "#4B92DB": "Light Blue", "#1D428A": "Royal", "#ACC0C6": "Silver Green",
+    "#A71930": "Red", "#FFC20E": "Gold", "#EFE6D2": "Cream", "#D8C3A0": "Sand", "#97233F": "Cardinal",
 }
 SHORT = lambda name: name.split()[-1].upper() if name not in ("Washington Commanders",) else "COMMANDERS"
 
@@ -45,18 +46,19 @@ for g in games:
     m = re.search(r'<div style="border:1px solid #e3e6ec;border-radius:12px;.*?</div></div>\n', card, re.S)
     assert m, "old card not found: " + h3
     old = m.group(0)
-    label = re.search(r'Week \d+ &middot; ([^<]+)<', old).group(1)
+    wk = re.search(r'Week (\d+) &middot; ([^<]+)<', old)
+    week, label = wk.group(1), wk.group(2)
     hexes = card_hexes(old)
     assert len(hexes) == 6, h3
     grade = re.search(r'letter-spacing:-\.5px;">([^<]+)</span>', old).group(1)
     final = "Final" in old
     # the day heading above this card gives the date words for alt text
     day = re.findall(r"\n## ([A-Z][a-z]+day, [A-Z][a-z]+ \d+)\n", md[:i])
-    date_words = (day[-1] if day else "in Week 1").replace(",", "") + ", 2026" if day else "in 2026"
+    date_words = (day[-1] if day else f"in Week {week}").replace(",", "") + ", 2026" if day else "in 2026"
     if g.get("score"):
         pill = f"Final &middot; {g['score']}"
     else:
-        pill = "Final" if final else f"Week 1 &middot; {label}"
+        pill = "Final" if final else f"Week {week} &middot; {label}"
     grade_html = (f'<span style="background:#ffffff;color:#0a0a0a;font-size:1em;font-weight:900;padding:5px 0;border-radius:8px;min-width:52px;text-align:center;letter-spacing:-.5px;">{grade}</span>'
                   if grade.strip() not in ("&ndash;", "–", "-") else
                   '<span style="background:rgba(255,255,255,.12);color:rgba(255,255,255,.55);font-size:1em;font-weight:900;padding:5px 0;border-radius:8px;min-width:52px;text-align:center;letter-spacing:-.5px;">&ndash;</span>')
@@ -67,7 +69,7 @@ for g in games:
            '<p style="font-size:11px;font-weight:800;color:#ffffff;letter-spacing:2.5px;opacity:.8;margin:64px 18px 0;">AT</p>'
            + side(g["home"], g["homeJersey"], hexes[3:], date_words, g["away"]) +
            '</div>'
-           f'<div style="display:flex;align-items:center;gap:11px;margin:14px 0 0;padding-top:12px;border-top:1px solid rgba(255,255,255,.12);">{grade_html}<span style="font-size:0.7em;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:rgba(255,255,255,.6);">ColorWay Sports Matchup Grade &middot; Week 1 &middot; {label}</span></div>'
+           f'<div style="display:flex;align-items:center;gap:11px;margin:14px 0 0;padding-top:12px;border-top:1px solid rgba(255,255,255,.12);">{grade_html}<span style="font-size:0.7em;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:rgba(255,255,255,.6);">ColorWay Sports Matchup Grade &middot; Week {week} &middot; {label}</span></div>'
            '</div></div>\n')
     md = md[:i] + card.replace(old, new) + md[end:]
     print("converted", h3.strip(), "|", pill, "|", grade)
