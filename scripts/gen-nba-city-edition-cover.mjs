@@ -6,6 +6,7 @@
 // shots, placed straight on the dark field with a soft glow, never cropped
 // (feedback_never_crop_jersey_product_shots). Picks: Spurs Fiesta (#4), Thunder
 // Renaissance (#6), Wizards Cherry Blossom (#8, officially confirmed).
+// FRONT-ONLY shots (Jake 9/15: no jersey backs / numbers-on-back views).
 // Cutouts live outside the repo: ~/Desktop/colorway-archive/nba-city-edition-2026-27-cutouts/
 //
 // Usage: node scripts/gen-nba-city-edition-cover.mjs
@@ -20,7 +21,7 @@ const W = 1500, H = 1000;
 const CUTS = join(homedir(), "Desktop", "colorway-archive", "nba-city-edition-2026-27-cutouts");
 const PICKS = ["spurs", "thunder", "wizards"];
 
-const SLOT_W = 470, SLOT_H = 600, GAP = 10;
+const SLOT_W = 420, SLOT_H = 610, GAP = 40;
 const rowW = PICKS.length * SLOT_W + (PICKS.length - 1) * GAP;
 const rowX = Math.round((W - rowW) / 2);
 const rowY = 355;
