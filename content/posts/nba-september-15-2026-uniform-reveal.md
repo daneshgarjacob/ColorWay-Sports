@@ -2,8 +2,8 @@
 title: "NBA Teams Are All Teasing 09.15.26: What the League-Wide Nike Uniform Reveal Is"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-08-27"
-excerpt: "NBA clubs are posting the same black teaser with a Nike lockup and one date. We decode the graphic and explain what lands on September 15."
+updatedDate: "2026-09-15"
+excerpt: "Every NBA team teased 09.15.26. It was the Nike Standard Issue apparel drop, not City Edition jerseys. What launched, what it costs, and what comes next."
 gradient: "linear-gradient(135deg, #101010 0%, #2f2f36 45%, #C8102E 130%)"
 coverImage: "/images/posts/nba-september-15-2026-uniform-reveal/cover.jpg"
 coverImagePosition: "center center"
@@ -110,19 +110,30 @@ A few have already leaked or been reported, which is itself a small argument tha
 
 If the tenth-anniversary theme really is "remix the best of the last nine years," those three fit the pattern precisely.
 
-## What to Expect on September 15
+## What Actually Launched on September 15
 
-Based on how the last three City Edition launches ran, expect the reveal to arrive as a coordinated drop rather than a single press release: the league publishes the collection, all thirty clubs post their own jersey within the same hour, and team stores open pre-orders immediately.
+The date belonged to clothes, not jerseys. September 15 is the first drop of the **Nike NBA Standard Issue collection**, the warmup, practice and travel gear players wear before and after games, now sold to fans for all 30 teams. Nike showed it off at a New York Fashion Week runway show called "End of Ordinary."
 
-Expect the anniversary branding to be the connective tissue, and expect a heavy majority of the thirty to be returns and remixes rather than brand-new concepts. Nike has run the remix play two years running now, and an anniversary is the strongest possible excuse to run it again.
+The first wave is six pieces, priced from about $55 to $115:
 
-We will have every jersey graded here as it lands.
+- Icon Practice short-sleeve tee
+- Pregame Max 90 short-sleeve tee
+- Icon Practice fleece short
+- Pregame sleeveless Icon tank
+- Pregame mesh long-sleeve performance tee
+- Icon Practice hoodie
+
+Every piece comes in all 30 team versions, with Charlotte's carrying Jordan Brand instead of the Swoosh. A second wave follows on October 12.
+
+<p style="font-size: 0.92em; color: #3a4a68; margin: 1.2em 0 1.6em;">Where to get it: <a href="https://fanatics.93n6tx.net/5kZn3j?subId1=nba-september-15-2026-uniform-reveal&u=https%3A%2F%2Fwww.fanatics.com%2Fo-23%2Bbr-76%2Fc-20596" rel="sponsored noopener" target="_blank">the Nike NBA Standard Issue collection at Fanatics</a>. That is an affiliate link and we earn a small commission if you buy.</p>
+
+So our read on the teaser was half right. It was a league-wide Nike launch built around merchandise, which is what the team-store posts pointed to. It was not the City Edition collection. The new **Specter Edition** jerseys for eight of the oldest franchises reach the court later this season, and the 2026-27 City Edition uniforms are still on their own timeline, tracked club by club on our [2026-27 City Edition page](/stories/nba-city-edition-jerseys-2026-27).
 
 ## Frequently Asked Questions
 
 **What are NBA teams teasing on September 15, 2026?**
 
-NBA clubs began posting an identical black teaser graphic on August 26, 2026, captioned "Something new is coming soon" and stamped 09.15.26. The graphic carries a joint NBA and Nike lockup, which makes it a league-wide program rather than any single team's announcement. The league has not said what it is. Based on the timing, the retail activation and Nike's stated plans for the season, the most likely answer is the 2026-27 City Edition uniform collection.
+The Nike NBA Standard Issue collection. Clubs began posting an identical black teaser stamped 09.15.26 on August 26, and the date turned out to be the first drop of Nike's new line of warmup, practice and travel apparel for all 30 teams, shown at an "End of Ordinary" runway show. It was not a City Edition uniform reveal.
 
 **What does 09.15.26 mean on the NBA teaser?**
 
@@ -130,7 +141,7 @@ It is a date, September 15, 2026, and it is the only piece of hard information o
 
 **Is this the new NBA City Edition jersey reveal?**
 
-That is our read, but it is not confirmed. The 2026-27 season is the tenth year of the City Edition program, and Nike has signalled it will mark the anniversary with commemorative branding across the collection, including an iridescent Swoosh and the NBA logo relocated to the back neck. September 15 sits inside the window where City Edition reveals have landed each of the last several years.
+No. That was our read before the date, and it was wrong. September 15 launched the Standard Issue apparel collection. The 2026-27 City Edition uniforms, the tenth-anniversary set, are tracked separately on our [City Edition page](/stories/nba-city-edition-jerseys-2026-27).
 
 **Which NBA teams have posted the 09.15.26 teaser?**
 
@@ -158,7 +169,7 @@ There is no sign of that. The teaser uses each club's existing primary logo rath
 
 **Is the NBA getting new jerseys in 2026-27?**
 
-Some clubs already have. Houston and Minnesota unveiled full new primary sets, and Indiana brought back pinstripes on a Statement Edition. Those were individual team announcements. The 09.15.26 teaser is separate and league-wide, and the likeliest answer is the 2026-27 City Edition collection.
+Some clubs already have. Houston and Minnesota unveiled full new primary sets, and Indiana brought back pinstripes on a Statement Edition. Those were individual team announcements. The 09.15.26 teaser was separate and league-wide, and it turned out to be the Standard Issue apparel collection rather than a uniform.
 
 **What is the NBA City Edition?**
 
@@ -174,19 +185,19 @@ No. The Christmas Day uniforms are a separate program, and the 2026 designs leak
 
 **What time is the NBA reveal on September 15?**
 
-The league has not said. Recent City Edition launches have gone out in the morning Eastern time, with all thirty clubs posting inside the same window. We will update this page the moment anything is announced.
+The Standard Issue collection went live on the morning of September 15, 2026, across Nike, the NBA Store, Fanatics and major retailers. A second wave drops on October 12.
 
 **Will my team get a new jersey on September 15?**
 
-If this is the City Edition collection, every club gets one. That is how the program works: all thirty, revealed together, worn on a set number of dates through the season.
+No. September 15 was an apparel drop: practice tees, hoodies, shorts and tanks for all 30 teams. The new Specter Edition jerseys for eight clubs arrive later in the season, and every club's 2026-27 City Edition is on our [City Edition page](/stories/nba-city-edition-jerseys-2026-27).
 
 **Has the NBA confirmed what is coming on September 15?**
 
-Not as of publication. The league has not issued a release and no club has said what the date is for. Atlanta tagging @nikebasketball in its post is the closest thing to an official signal, and that only confirms Nike is involved.
+Yes. Nike and the league confirmed the date as the launch of the NBA Standard Issue collection, with a first drop on September 15 and a second on October 12.
 
 **Have the September 15 NBA jerseys already leaked?**
 
-Partly, and under the wrong name. Eight Nike designs leaked in April labelled as 2026 Christmas jerseys. The NBA's schedule has since confirmed that three of those eight clubs, Atlanta, Sacramento and Detroit, do not play on December 25, so those designs cannot be Christmas uniforms. The motifs on them are city landmarks rather than holiday themes. We think that leak was the City Edition collection.
+There were no jerseys on September 15. The eight Nike designs that leaked in April as "2026 Christmas jerseys" were neither Christmas nor City Edition uniforms: the league confirmed on September 10 that they are the new Specter Edition, for eight of the oldest franchises. We grade them on our [Specter Edition page](/stories/nba-specter-edition-jerseys-2026-27).
 
 **Which NBA teams actually play on Christmas 2026?**
 
@@ -218,7 +229,7 @@ The dark bases fit as well. Every one of the eight sits on black or near-black, 
 
 **So the honest position: we published eight of these designs five months before the reveal date, filed under the wrong program.** We are not claiming a scoop on the label. We are saying the images were real, the teams were real, and the Christmas framing was wrong, and the NBA's own schedule is what proves it.
 
-If September 15 is the City Edition launch, expect at least the Pistons, Kings and Hawks designs to turn up more or less intact. Our full breakdown of all eight, with grades, is in the [leaked collection post](/stories/nba-christmas-jerseys-2026-leaked).
+Update, September 10: the league has since named them. They are the Specter Edition, not City Editions, and they are graded on our [Specter Edition page](/stories/nba-specter-edition-jerseys-2026-27). Our full breakdown of all eight, with grades, is in the [leaked collection post](/stories/nba-christmas-jerseys-2026-leaked).
 
 ## The Bottom Line
 
@@ -226,6 +237,6 @@ The NBA and Nike put a date on a black background and let thirty fanbases argue 
 
 What we can say with confidence: this is a league program, it involves Nike, it involves merchandise, and it happens on September 15. What we believe, without claiming it as fact: this is the tenth-anniversary City Edition collection, and a large share of it will be remixes of the program's own greatest hits.
 
-Three weeks from now we will know. We will grade all thirty the day they land, and every club's status between now and then is on our [2026-27 City Edition tracker](/stories/nba-city-edition-jerseys-2026-27).
+Now we know: September 15 was the Standard Issue apparel drop, not the City Edition reveal. Every club's City Edition, graded, is on our [2026-27 City Edition page](/stories/nba-city-edition-jerseys-2026-27).
 
 *Teaser artwork via the individual clubs, as published on their own accounts. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Basketball Association, Nike, or any club named here.*
