@@ -1,65 +1,51 @@
-// Cover for the NBA City Edition 2026-27 tracker.
+// Cover for the NBA City Edition 2026-27 countdown.
 //
-// v2 (2026-08-27): the first version was abstract jersey silhouettes in colour
-// pairs. Jake did not like it, and he was right — the page is about actual
-// jerseys, so the cover should show actual jerseys. This uses three real City
-// Edition product shots already in our jersey library, placed WHOLE on light
-// cards (never cropped — see feedback_never_crop_jersey_product_shots), over
-// the brand-dark field.
+// v3 (2026-09-15): Jake asked for no white background and three City Editions
+// that are actually in the 2026-27 collection. The jerseys are transparent
+// cutouts (scripts/make-kit-cutout.mjs) of official NBA Store / Fanatics product
+// shots, placed straight on the dark field with a soft glow, never cropped
+// (feedback_never_crop_jersey_product_shots). Picks: Spurs Fiesta (#4), Thunder
+// Renaissance (#6), Wizards Cherry Blossom (#8, officially confirmed).
+// Cutouts live outside the repo: ~/Desktop/colorway-archive/nba-city-edition-2026-27-cutouts/
 //
 // Usage: node scripts/gen-nba-city-edition-cover.mjs
 import sharp from "sharp";
 import { resolve, dirname, join } from "node:path";
 import { mkdirSync } from "node:fs";
+import { homedir } from "node:os";
 import { fileURLToPath } from "node:url";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const W = 1500, H = 1000;
-const JERSEYS = join(root, "public", "images", "jerseys", "nba");
+const CUTS = join(homedir(), "Desktop", "colorway-archive", "nba-city-edition-2026-27-cutouts");
+const PICKS = ["spurs", "thunder", "wizards"];
 
-// Three City Editions from the program's own back catalogue, chosen for palette
-// separation so the row does not read as one dark smear.
-const PICKS = ["lakers-city-black", "thunder-city-blue", "spurs-city-black"];
-
-// Card geometry: three across the right two-thirds, jerseys sit whole inside.
-const CARD_W = 340, CARD_H = 560, GAP = 26;
-const rowW = PICKS.length * CARD_W + (PICKS.length - 1) * GAP;
+const SLOT_W = 470, SLOT_H = 600, GAP = 10;
+const rowW = PICKS.length * SLOT_W + (PICKS.length - 1) * GAP;
 const rowX = Math.round((W - rowW) / 2);
-const rowY = 350;
+const rowY = 355;
 
 const layers = [];
+const glows = [];
 for (let i = 0; i < PICKS.length; i++) {
-  const x = rowX + i * (CARD_W + GAP);
-  // ⚠️ TRIM FIRST. The source PNGs are not framed alike: the Spurs file is a
-  // 500x500 square with a lot of empty margin baked in, the Lakers and Thunder
-  // are tight 410x608 portraits. Feeding them straight to `contain` scales each
-  // one by its CANVAS rather than by the jersey, so the Spurs shirt came out
-  // visibly smaller than the other two. Trimming the transparent margin first
-  // normalises every file to the jersey's own bounds.
-  //
-  // This removes empty pixels only, never any part of the shirt, so it does not
-  // breach the never-crop-a-jersey-product-shot rule.
-  const shirt = await sharp(join(JERSEYS, `${PICKS[i]}.png`))
+  const x = rowX + i * (SLOT_W + GAP);
+  const shirt = await sharp(join(CUTS, `${PICKS[i]}.png`))
     .trim({ threshold: 1 })
-    .resize({
-      width: CARD_W - 56,
-      height: CARD_H - 56,
-      fit: "contain",
-      background: { r: 255, g: 255, b: 255, alpha: 0 },
-    })
+    .resize({ width: SLOT_W, height: SLOT_H, fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })
     .toBuffer();
   const meta = await sharp(shirt).metadata();
-  layers.push({
-    input: shirt,
-    top: rowY + Math.round((CARD_H - (meta.height ?? 0)) / 2),
-    left: x + Math.round((CARD_W - (meta.width ?? 0)) / 2),
-  });
+  const left = x + Math.round((SLOT_W - (meta.width ?? 0)) / 2);
+  const top = rowY + Math.round((SLOT_H - (meta.height ?? 0)) / 2);
+  // Soft drop shadow: the shirt's own silhouette, blacked out and blurred.
+  const shadow = await sharp(shirt)
+    .ensureAlpha()
+    .linear([0, 0, 0, 0.55], [0, 0, 0, 0])
+    .blur(18)
+    .toBuffer();
+  layers.push({ input: shadow, top: top + 18, left });
+  layers.push({ input: shirt, top, left });
+  glows.push(`<ellipse cx="${x + SLOT_W / 2}" cy="${rowY + SLOT_H / 2}" rx="${SLOT_W * 0.55}" ry="${SLOT_H * 0.45}" fill="url(#glow)"/>`);
 }
-
-const cards = PICKS.map((_, i) => {
-  const x = rowX + i * (CARD_W + GAP);
-  return `<rect x="${x}" y="${rowY}" width="${CARD_W}" height="${CARD_H}" rx="20" fill="#ffffff" opacity="0.97"/>`;
-}).join("");
 
 const bg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
@@ -68,16 +54,22 @@ const bg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" v
       <stop offset="0.5" stop-color="#1d2340"/>
       <stop offset="1" stop-color="#12172b"/>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7fb0ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7fb0ff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="${W}" height="${H}" fill="url(#bg)"/>
-  <text x="${W / 2}" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#7fb0ff">ALL 30 TEAMS &#183; YEAR TEN</text>
-  <text x="${W / 2}" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#ffffff" letter-spacing="-2">City Edition 2026-27</text>
-  <text x="${W / 2}" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="rgba(255,255,255,0.72)">Every jersey, tracked and graded. Revealed 09.15.26</text>
-  ${cards}
+  ${glows.join("")}
+  <text x="${W / 2}" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" letter-spacing="7" fill="#7fb0ff">ALL 30 TEAMS &#183; YEAR TEN</text>
+  <text x="${W / 2}" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#ffffff" letter-spacing="-2">City Edition 2026-27</text>
+  <text x="${W / 2}" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" fill="rgba(255,255,255,0.72)">Every returning jersey, ranked and graded</text>
 </svg>`;
 
 const outDir = join(root, "public", "images", "posts", "nba-city-edition-jerseys-2026-27");
 mkdirSync(outDir, { recursive: true });
-const out = join(outDir, "cover.jpg");
-await sharp(Buffer.from(bg)).composite(layers).jpeg({ quality: 88 }).toFile(out);
-console.log(`wrote ${out}`);
+await sharp(Buffer.from(bg))
+  .composite(layers)
+  .jpeg({ quality: 84, mozjpeg: true })
+  .toFile(join(outDir, "cover.jpg"));
+console.log("wrote", join(outDir, "cover.jpg"));
