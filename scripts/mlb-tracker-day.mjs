@@ -13,6 +13,7 @@
 // in by hand after this output.
 
 import fs from "node:fs";
+import { fetchCaps } from "./mlb-caps.mjs";
 
 const TRACKER = "content/posts/mlb-uniform-tracker-2026.md";
 const SLUG = {
@@ -103,6 +104,8 @@ const games = sched?.dates?.[0]?.games ?? [];
 // Standing rule (Jake, 8/30): most recent game at the top of the day, so the
 // reader lands on the newest result. The feed is chronological; reverse it.
 games.sort((a, b) => new Date(b.gameDate) - new Date(a.gameDate));
+// Caps from the uniform feed (Jake 9/14: build the hats in). Empty when not filed yet.
+const caps = await fetchCaps(date, SLUG);
 
 const pretty = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
   { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
@@ -138,7 +141,8 @@ function side(slug, oppName, uniform, dateWords) {
         <img src="${hit.src}" alt="${name} ${uniform} jersey worn ${dateWords} against the ${oppName}, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">${label.get(slug)}</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${hit.swatch}; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>${uniform}</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${hit.swatch}; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>${uniform}</p>${caps[slug] ? `
+      <p data-cap="${caps[slug]}" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; ${caps[slug]}</p>` : ""}
     </div>`;
 }
 

@@ -224,10 +224,20 @@ export function buildMlbWear(team: string, contentHtml: string): WearAnswer[] {
   const verb = confirmed ? "wore" : "are expected to wear";
   const a = `For ${clean(date)} (${game}), the ${team} ${verb} the ${clean(uniform)}. ${confirmed ? "Confirmed." : "Not confirmed yet."}`;
 
-  return [
+  const out: WearAnswer[] = [
     { q: `What jerseys are the ${team} wearing today?`, a },
     { q: `What color are the ${team} wearing today?`, a },
   ];
+
+  // The block carries the cap from MLB's uniform feed once the jersey is confirmed.
+  const cap = /data-cap="([^"]+)"/.exec(b)?.[1];
+  if (cap && confirmed) {
+    out.push({
+      q: `What hat are the ${team} wearing today?`,
+      a: `For ${clean(date)} (${game}), the ${team} wore the ${clean(cap)} cap with the ${clean(uniform)}.`,
+    });
+  }
+  return out;
 }
 
 /** Lower-cased, punctuation-free form used to drop duplicate FAQ questions. */

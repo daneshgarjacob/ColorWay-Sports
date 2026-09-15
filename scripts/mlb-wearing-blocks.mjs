@@ -14,6 +14,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { fetchCaps } from "./mlb-caps.mjs";
 
 const MARK = "data-mlb-wearing";
 const ROOT = "content/posts";
@@ -60,6 +61,9 @@ if (fs.existsSync(confirmedPath)) {
   console.log(`  using ${Object.keys(confirmed).length} confirmed uniforms from ${confirmedPath}`);
 }
 
+// Caps only ride along with a confirmed jersey, straight from the feed.
+const caps = await fetchCaps(date, SLUG);
+
 const state = {}; // slug -> {opp, home, time}
 for (const g of games) {
   const h = g.teams.home.team.name, a = g.teams.away.team.name;
@@ -102,6 +106,7 @@ function block(slug) {
     `<div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">${sub}</div>` +
     `<div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">${line}</div>` +
     (why ? `<div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">${why}</div>` : "") +
+    (s && confirmed[slug] && caps[slug] ? `<div data-cap="${caps[slug]}" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: ${caps[slug]}</div>` : "") +
     `<a href="/mlb-tracker/${slug}" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: ${NAVY}; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a>` +
     `</div></div>\n`;
 }
