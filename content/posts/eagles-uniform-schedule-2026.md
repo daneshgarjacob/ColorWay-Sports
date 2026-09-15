@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Both Kelly Green Dates, the Black Alternate, and Every Week"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-15"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Nine home games, eight on the road, and a Week 10 bye.
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">All three alternate games are now confirmed: <strong>Kelly Green in Week 9 against the Giants and Week 16 against the Texans</strong>, and the <strong>black alternate in Week 15 against the Seahawks</strong>. Philadelphia announced the full set on September 4. Everything else is midnight green at home and white on the road.</p>
 
-## Kelly Green (1 Game Confirmed, 2 More Expected)
+## Kelly Green (Weeks 9 and 16, Confirmed)
 
 The first date is official. Philadelphia wears Kelly Green for **Week 9 against the New York Giants on Sunday, November 8** at 1:00 p.m. Eastern at Lincoln Financial Field, announced on September 2 with the line "Historic rivalry. Historic uniforms." The Giants confirmed the same morning that they wear their **Vintage White** throwback for it, so both clubs take the field in their 1980s looks. It is the best-dressed game on either team's calendar, and NFL Fashion Advice's reaction to the two graphics side by side says it for everyone.
 
@@ -99,11 +99,11 @@ White jersey, midnight green pants or white pants depending on the week, for all
 
 **What jersey are the Eagles wearing today?**
 
-Midnight green at home and white on the road covers most of the season. Philadelphia is also expected to wear Kelly Green about three times and the black alternate about once, but the team has not announced those dates yet. Kelly Green can only come out in a week the opponent is wearing white.
+Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What jerseys are the Eagles wearing this week?**
 
-Midnight green at home and white on the road covers most of the season. Philadelphia is also expected to wear Kelly Green about three times and the black alternate about once, but the team has not announced those dates yet. Kelly Green can only come out in a week the opponent is wearing white.
+Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What uniform did the Eagles wear last week?**
 
@@ -111,7 +111,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Eagles wearing next week?**
 
-Midnight green at the Linc and white on the road, with one exception confirmed so far: Kelly Green at home against the Giants in Week 9 on November 8. The other Kelly Green and black-alternate dates are still unannounced.
+Midnight green at the Linc and white on the road. The only exceptions are the three confirmed alternate games: Kelly Green in Weeks 9 and 16, and the black set in Week 15.
 
 **When do the Eagles wear Kelly Green in 2026?**
 
@@ -131,7 +131,7 @@ Four: midnight green home, white road, the Kelly Green throwback, and the black 
 
 **Is the full Eagles 2026 uniform schedule official?**
 
-No. The Eagles have not published a game-by-game uniform schedule, and the Kelly Green and black dates are unannounced. The grid follows the standard home-and-away rotation and will be updated when Philadelphia confirms its alternates.
+The alternates are. The Eagles confirmed all three alternate games by September 4: Kelly Green in Weeks 9 and 16, and the black set in Week 15. The rest of the grid follows the standard home-and-away rotation, midnight green at home and white on the road, since Philadelphia has not published a full game-by-game schedule.
 
 **Why are the Eagles wearing black?**
 

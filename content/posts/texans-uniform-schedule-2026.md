@@ -124,7 +124,7 @@ That London game is the wrinkle worth understanding. Houston and Jacksonville me
 
 Houston's system is three jerseys and a plan. Navy is the default at home, white travels, and the two showcase dates get carved out early: white for the opener, red for the October home game with the best atmosphere. The Rivalries jersey then arrives in November as a fourth look, which gives the season a genuine build rather than front-loading everything.
 
-What we like about it is the spacing. Weeks 1, 7, and 11 are far enough apart that each one lands as an event, and none of them competes with another. What we would change is the balance. Battle Red gets one date and navy gets five, and that ratio is backwards for a team whose red uniform is the one people actually want to see.
+What we like about it is the spacing. Weeks 1, 7, and 11 are far enough apart that each one lands as an event, and none of them competes with another. What we would change is the balance. Battle Red gets one date and navy gets four, and that ratio is backwards for a team whose red uniform is the one people actually want to see.
 
 ## Frequently Asked Questions
 
@@ -158,7 +158,7 @@ Yes, in Week 1 against Buffalo on September 13. Houston confirmed the Liberty Wh
 
 **What is the Texans' primary uniform for 2026?**
 
-Deep Steel Blue at home and white on the road. The navy set projects to the five home games not claimed by a confirmed uniform, and white to all nine road games.
+Deep Steel Blue at home and white on the road. The navy set projects to four home games (Weeks 2, 12, 15 and 18), and white to all nine road games. Week 4 against Dallas is the other home date without a Houston uniform announcement, and the Texans wear white there because the Cowboys have confirmed navy.
 
 **Are the Texans wearing a 25th Season throwback?**
 
