@@ -68,7 +68,7 @@ Two of blue's three dates are division games, which reads like a deliberate choi
 
 We wrote in August that blue should be the primary and black should be the alternate, and that the Week 4 Sunday nighter against Detroit was where we would put it. Carolina published the opposite: black on Sunday night, and blue held to three games all season. We will keep making the case.
 
-Panther blue is a colour nobody else in the league uses. It is a process blue, brighter and cooler than the navies that fill the NFC, and against the silver helmet it produces the only look Carolina has that could not belong to another team. The black jersey is well executed and completely anonymous. Half the league owns a black alternate, and in a division where Atlanta just went back to red and New Orleans owns black-and-gold outright, black is the least differentiating thing Carolina could wear.
+Panther blue is a color nobody else in the league uses. It is a process blue, brighter and cooler than the navies that fill the NFC, and against the silver helmet it produces the only look Carolina has that could not belong to another team. The black jersey is well executed and completely anonymous. Half the league owns a black alternate, and in a division where Atlanta just went back to red and New Orleans owns black-and-gold outright, black is the least differentiating thing Carolina could wear.
 
 The all-black combination has its defenders and it does look good under lights. It just does not look like Carolina specifically.
 
@@ -98,7 +98,7 @@ That is also where the remaining uncertainty lives. **Pants and socks are still 
 
 Carolina removed the guesswork on September 4 and the answer was black. Six home games in the shirt that could belong to any team in the league, three in the one nobody else has.
 
-The blue is still the answer. It is the only colour in the division nobody else can claim, and every week the Panthers wear black instead is a week they look like everyone else. Three games is not enough. The good news is that the jersey is now knowable in advance, which is more than we could say a week ago.
+The blue is still the answer. It is the only color in the division nobody else can claim, and every week the Panthers wear black instead is a week they look like everyone else. Three games is not enough. The good news is that the jersey is now knowable in advance, which is more than we could say a week ago.
 
 ## Frequently Asked Questions
 

@@ -40,8 +40,8 @@ The black base is loosely descended from TCU's 2010 Pro Combat set, which dates 
 ## The TCU 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #4D1979; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #d8bff5;">Purple</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The home set and the identity. TCU purple is the most distinctive colour in the Big 12.</div></div>
-  <div style="background: #ffffff; color: #4D1979; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #8892a0;">White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The road set, worn at Big 12 venues where the home club wears colour.</div></div>
+  <div style="background: #4D1979; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #d8bff5;">Purple</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The home set and the identity. TCU purple is the most distinctive color in the Big 12.</div></div>
+  <div style="background: #ffffff; color: #4D1979; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #8892a0;">White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The road set, worn at Big 12 venues where the home club wears color.</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #4D1979; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #c9a3f0;">Frog Horn Black</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">New for 2026. Confirmed for Dublin, and available to the rotation after that.</div></div>
   <div style="background: #A3A9AC; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #4D1979;">Clover Frog Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The 2011 Rose Bowl helmet with the rose swapped for a four-leaf clover.</div></div>
 </div>
@@ -114,7 +114,7 @@ June 15, 2026, more than two months before the game, through TCU Athletics.
 
 **What are TCU's regular uniforms?**
 
-Purple at home and white on the road. Purple is the identity colour and the most distinctive in the Big 12. The black Frog Horn set is an alternate, not a base.
+Purple at home and white on the road. Purple is the identity color and the most distinctive in the Big 12. The black Frog Horn set is an alternate, not a base.
 
 **Will TCU wear the black uniform again in 2026?**
 

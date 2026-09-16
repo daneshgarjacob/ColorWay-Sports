@@ -53,7 +53,7 @@ Twelve games, seven at Ohio Stadium. Three alternates sit in the closet with no 
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
 </div>
 
-Big Ten home teams wear colour and visitors wear white, which makes the road dates close to automatic.
+Big Ten home teams wear color and visitors wear white, which makes the road dates close to automatic.
 
 **September 5 vs. Ball State**, Ohio Stadium. Home opener, and the Jim Tressel Ring of Honor tribute. ★ Confirmed on the field: **silver helmet, scarlet jersey, silver pants**, the standard home set. Ohio State had posted its own countdown to kickoff on September 4 showing the scarlet jersey, and the broadcast confirmed the full combination.
 
@@ -79,7 +79,7 @@ Big Ten home teams wear colour and visitors wear white, which makes the road dat
 
 **November 7 vs. Oregon**, Ohio Stadium. The first meeting since the 2024 Rose Bowl, at home, against the one program in the country with a bigger uniform closet than anybody. Scarlet expected, and if Ohio State is going to answer Oregon with something, this is the date.
 
-**November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend programme. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet.
+**November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend program. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet.
 
 **November 21 at Nebraska**, Lincoln. Road. White expected.
 

@@ -55,7 +55,7 @@ Every one of those is a **promotional theme**, not a uniform. No throwback, no a
 
 ## The Wardrobe Is the Point
 
-Silver and black is the most locked-down identity in American sport, and the Raiders have resisted essentially every trend that has passed through the league. No City Connect equivalent, no colour-rush novelty, no alternate helmet program, no rebrand across three cities.
+Silver and black is the most locked-down identity in American sport, and the Raiders have resisted essentially every trend that has passed through the league. No City Connect equivalent, no color-rush novelty, no alternate helmet program, no rebrand across three cities.
 
 The uniform is a black jersey with white numbers, silver pants, and a silver helmet carrying the shield-and-swords logo. It has barely moved since the 1960s. The road version flips to a white jersey with black numbers over the same silver pants.
 
@@ -71,7 +71,7 @@ The league's alternate-helmet rule opened the door in 2022 for clubs to add a se
 
 Weeks 1, 4, 6, 7, 10, 14, 15 and 16. Miami in the opener, Kansas City in Week 4, Buffalo, the Rams, Seattle, then a December run of the Chargers, Denver and Tennessee.
 
-Allegiant is a domed stadium, which suits the black uniform for the same reason the Superdome suits New Orleans: controlled light keeps black reading as a colour rather than a silhouette, and the silver actually catches highlights.
+Allegiant is a domed stadium, which suits the black uniform for the same reason the Superdome suits New Orleans: controlled light keeps black reading as a color rather than a silhouette, and the silver actually catches highlights.
 
 ## White on the Road (9 Games)
 

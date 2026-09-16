@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
 updatedDate: "2026-09-16"
-excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into colour, week by week."
+excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
 kicker: Schedule
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-LSU is the one programme in college football that wears white at home on purpose, and it changes what everybody else wears in Tiger Stadium. This is the full LSU 2026 uniform schedule, week by week, plus the rule that makes it possible. We update this page as each combination is confirmed.
+LSU is the one program in college football that wears white at home on purpose, and it changes what everybody else wears in Tiger Stadium. This is the full LSU 2026 uniform schedule, week by week, plus the rule that makes it possible. We update this page as each combination is confirmed.
 
 ## The LSU 2026 Uniform Sets
 
@@ -26,7 +26,7 @@ LSU is the one programme in college football that wears white at home on purpose
 
 Here is the part almost nobody states plainly. **The home team is normally required to wear dark jerseys**, and that rule ended LSU's white tradition in 1983. In 1995 head coach Gerry DiNardo petitioned the NCAA to let home teams choose, the petition succeeded, and LSU went straight back to white. The tradition itself started under Paul Dietzel in the late 1950s and stuck after a national championship, for no better reason than superstition.
 
-▶ **The consequence is what makes this page useful: a visitor to Tiger Stadium wears COLOUR, not white.** That is the opposite of every other SEC road game, and it is the recurring date to watch on every LSU opponent's schedule.
+▶ **The consequence is what makes this page useful: a visitor to Tiger Stadium wears COLOR, not white.** That is the opposite of every other SEC road game, and it is the recurring date to watch on every LSU opponent's schedule.
 
 ## The Full LSU 2026 Uniform Schedule, Week by Week
 

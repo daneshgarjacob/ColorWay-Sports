@@ -38,7 +38,7 @@ The two clubs also opened against each other last season, the first time Carolin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #13294B;">Carolina Blue</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The home look and the one the program is known for. There is no other blue like it in the sport.</div></div>
   <div style="background: #ffffff; color: #13294B; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #8892a0;">White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The road set, and what Carolina wears in Dublin against TCU's black.</div></div>
-  <div style="background: #13294B; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #4B9CD3;">Navy</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The third colour in the palette, used sparingly and never as the base of a full set.</div></div>
+  <div style="background: #13294B; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #4B9CD3;">Navy</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The third color in the palette, used sparingly and never as the base of a full set.</div></div>
   <div style="background: linear-gradient(135deg, #4B9CD3 0%, #13294B 100%); color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #ffffff;">1980 Throwback</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Confirmed for the Dublin opener. White jersey, Carolina blue helmet and pants.</div></div>
 </div>
 
@@ -119,7 +119,7 @@ In the season opener against TCU in Dublin on August 29. Carolina's reveal for t
 
 **What are North Carolina's regular uniforms?**
 
-Carolina blue at home and white on the road, with navy used as a trim colour rather than a base. The Carolina blue helmet is the constant.
+Carolina blue at home and white on the road, with navy used as a trim color rather than a base. The Carolina blue helmet is the constant.
 
 **Why is North Carolina playing in Ireland?**
 

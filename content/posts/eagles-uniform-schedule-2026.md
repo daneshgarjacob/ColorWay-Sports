@@ -61,7 +61,7 @@ Our [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-202
 
 The 1990s throwback came back in 2023 and has been the most talked-about alternate in football since. Philadelphia has settled into three wearings a season, and the club's own 2025 announcement is the useful precedent: **all three were NFC East games, and one of them was on the road at Dallas**, which the Eagles noted was the first road wearing since the jerseys returned in 2023. The other two were home games against the Giants and the Commanders.
 
-That road game matters more than it looks. A visiting team can only wear a coloured jersey if the home team wears white, and Dallas is the one club in the league that wears white at home by tradition. So a trip to AT&T Stadium is the rare road date where Kelly Green is actually available to Philadelphia.
+That road game matters more than it looks. A visiting team can only wear a colored jersey if the home team wears white, and Dallas is the one club in the league that wears white at home by tradition. So a trip to AT&T Stadium is the rare road date where Kelly Green is actually available to Philadelphia.
 
 The second date is now official too. Philadelphia wears Kelly Green again for **Week 16 against the Houston Texans on Thursday, December 24**, a Christmas Eve home game, confirmed by the club on September 4.
 
@@ -87,12 +87,12 @@ The black set is still the weakest thing the Eagles own. It is not badly made, i
 
 The midnight green primary carries the rest of the home schedule, which as things stand is all nine home dates until the alternates claim their share. That includes the Week 1 opener against Washington, the Week 4 visit from the Rams, Carolina in Week 6, Pittsburgh in Week 11, and a December run of Indianapolis, Seattle and Houston.
 
-Midnight green is a genuinely unusual colour and the Eagles deserve credit for sticking with it, but the current set leans hard on the black trim and the result reads darker and heavier than it needs to. The 2026 change is small: an updated wordmark on the jersey, not a redesign.
+Midnight green is a genuinely unusual color and the Eagles deserve credit for sticking with it, but the current set leans hard on the black trim and the result reads darker and heavier than it needs to. The 2026 change is small: an updated wordmark on the jersey, not a redesign.
 
 
 ## The White Road Set (8 Games)
 
-White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a coloured jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
+White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
 
 
 ## Frequently Asked Questions

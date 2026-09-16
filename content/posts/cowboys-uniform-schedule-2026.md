@@ -91,7 +91,7 @@ As a uniform, the navy is the plainer of the two primaries. The silver-blue that
 
 ## The Color Rush (3 Games, All-White)
 
-The all-white Color Rush is the fan favourite of the Dallas wardrobe, and three dates is the most the team has given it in years. It is a different uniform from the standard whites, not just a pants swap: a **white helmet** with the current star and a white facemask, a white jersey with **navy shoulders carrying the twin stars** in the manner of the 1990s double-star jersey, navy block numbers, and white pants with two navy stripes down the side. Head to toe, it is the whitest uniform in the league.
+The all-white Color Rush is the fan favorite of the Dallas wardrobe, and three dates is the most the team has given it in years. It is a different uniform from the standard whites, not just a pants swap: a **white helmet** with the current star and a white facemask, a white jersey with **navy shoulders carrying the twin stars** in the manner of the 1990s double-star jersey, navy block numbers, and white pants with two navy stripes down the side. Head to toe, it is the whitest uniform in the league.
 
 - **Week 2 vs. the Commanders, Sunday, September 20.** The home opener, at 4:25 Eastern. Washington has burgundy pencilled in for this trip on our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026), and burgundy against all-white is a good-looking game.
 - **Week 7 at the Eagles, Monday, October 26.** A Monday night in Philadelphia, and Dallas is in white, which means the Eagles are free to wear anything. Kelly Green has not been announced for this date, but a national-television home game against Dallas is exactly the kind of night Philadelphia picks for it. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) tracks it.
@@ -104,7 +104,7 @@ The best uniform Dallas owns comes out once a year, and the team has now confirm
 
 It is the marquee uniform game of the Dallas season. The white helmet is the whole trick: it removes the silver that anchors every other Cowboys look and leaves a cleaner, older, more graphic uniform underneath.
 
-One popular hope for this game does not survive contact with the rules, so it is worth heading off. Because Dallas wears white at home, a visiting team is normally free to bring a coloured jersey to AT&T Stadium, and Philadelphia used exactly that opening in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the set returned. That will not happen on Thanksgiving. The 1960s throwback is a **navy** jersey, not a white one, so for this one date Dallas is the dark team and Philadelphia takes white. A Cowboys throwback against a Kelly Green Eagles is not a combination the league permits.
+One popular hope for this game does not survive contact with the rules, so it is worth heading off. Because Dallas wears white at home, a visiting team is normally free to bring a colored jersey to AT&T Stadium, and Philadelphia used exactly that opening in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the set returned. That will not happen on Thanksgiving. The 1960s throwback is a **navy** jersey, not a white one, so for this one date Dallas is the dark team and Philadelphia takes white. A Cowboys throwback against a Kelly Green Eagles is not a combination the league permits.
 
 The Eagles have confirmed only one Kelly Green date so far, Week 9 against the Giants, and our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has them in white for the Thanksgiving trip for exactly this reason. The green will have to come out on a week when Dallas is in white, and the Week 7 Monday-night game in Philadelphia, with Dallas in the Color Rush, is the obvious candidate.
 
@@ -135,7 +135,7 @@ Find the week in the grid above. The team published all seventeen assignments on
 
 **Why do the Cowboys wear white at home?**
 
-It is a Dallas tradition going back decades. Most NFL teams wear their coloured jersey at home and white on the road, and the Cowboys do the opposite.
+It is a Dallas tradition going back decades. Most NFL teams wear their colored jersey at home and white on the road, and the Cowboys do the opposite.
 
 **Do the Cowboys wear navy on the road?**
 

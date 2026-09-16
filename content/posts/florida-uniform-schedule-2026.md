@@ -71,7 +71,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **October 10 vs. South Carolina is the one to circle.** It is the only retro helmet of the season, and the cover art gives it away: blue shell, orange and white striping, and the block F inside a circle rather than the modern script. White jersey and white pants underneath keep the helmet as the entire story, which is the correct call.
 
-**November 7 vs. Oklahoma is the all-blue.** Blue helmet, blue jersey, blue pants, the only mono-colour game Florida runs all year. Mono looks are a risk and this is the right way to spend one: a marquee home game against Oklahoma, in the colour the programme actually owns.
+**November 7 vs. Oklahoma is the all-blue.** Blue helmet, blue jersey, blue pants, the only mono-color game Florida runs all year. Mono looks are a risk and this is the right way to spend one: a marquee home game against Oklahoma, in the color the program actually owns.
 
 **September 12 vs. Campbell is the only orange jersey.** Florida wears orange exactly once, in week two, against a team they have never played. That is an unusual place to spend your rarest jersey.
 
@@ -87,7 +87,7 @@ Three things stand out once you lay the twelve games side by side.
 
 ## The Bottom Line
 
-Florida is the rare college programme that will tell you in August what it is wearing in November, and the 2026 grid is a well-built one. Orange helmet as the base, blue reserved for The Swamp, one retro helmet against South Carolina on October 10 and one all-blue against Oklahoma on November 7. The only odd note is spending the season's single orange jersey on Campbell in week two.
+Florida is the rare college program that will tell you in August what it is wearing in November, and the 2026 grid is a well-built one. Orange helmet as the base, blue reserved for The Swamp, one retro helmet against South Carolina on October 10 and one all-blue against Oklahoma on November 7. The only odd note is spending the season's single orange jersey on Campbell in week two.
 
 For more, see our [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026), the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) and [Florida's blue helmet uniforms graded](/stories/gators-blue-helmet-uniforms-2026).
 
@@ -103,7 +103,7 @@ Saturday, October 10 against South Carolina at Ben Hill Griffin Stadium. It is t
 
 **Does Florida wear an all-blue uniform in 2026?**
 
-Yes, once. November 7 against Oklahoma at home is blue helmet, blue jersey and blue pants, the only mono-colour combination on the schedule.
+Yes, once. November 7 against Oklahoma at home is blue helmet, blue jersey and blue pants, the only mono-color combination on the schedule.
 
 **What does Florida wear against Georgia?**
 

@@ -90,7 +90,7 @@ The same thing is happening one rivalry over. Chicago debuts its Rivalries set a
 
 The blue jersey is the base of everything and draws every home date except the Rivalries game: the Saints in Week 1, the Jets in Week 3, Green Bay in Week 7, Tampa Bay in Week 11, the Bears on Thanksgiving in Week 12, the Titans in Week 14, and the Giants on Monday night in Week 16.
 
-Honolulu blue is the most distinctive base colour in the NFC and Detroit finally treats it that way. The 2024 rebrand cleaned up the numbers, dropped the black from the primary set, and let the blue and silver carry the uniform the way they did in the 1950s. It is the rare modern redesign that made a team look older rather than newer, which is exactly what it needed.
+Honolulu blue is the most distinctive base color in the NFC and Detroit finally treats it that way. The 2024 rebrand cleaned up the numbers, dropped the black from the primary set, and let the blue and silver carry the uniform the way they did in the 1950s. It is the rare modern redesign that made a team look older rather than newer, which is exactly what it needed.
 
 ## White on the Road (7 Games)
 
@@ -164,7 +164,7 @@ Yes, on August 25. It is a bone-white jersey with a DETROIT wordmark, italicized
 
 **What are the Lions wearing in Munich?**
 
-Honolulu blue. Detroit is the designated home team for the Week 10 game against New England at Allianz Arena on November 15, so the Lions wear colour and the Patriots wear white.
+Honolulu blue. Detroit is the designated home team for the Week 10 game against New England at Allianz Arena on November 15, so the Lions wear color and the Patriots wear white.
 
 **What are the Lions wearing on Thanksgiving 2026?**
 

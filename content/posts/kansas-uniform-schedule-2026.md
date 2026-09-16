@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Kansas has three jersey colours, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
+Kansas has three jersey colors, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
 
 ## The Kansas 2026 Uniform Sets
 
@@ -21,10 +21,10 @@ Kansas has three jersey colours, two helmets, and a habit of mixing them without
   <div style="background: #0051BA; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Blue Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Blue jersey with white numerals outlined in red, white shoulder stripes edged in red, KANSAS across the chest. Blue or white pants.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with blue numerals, blue shoulder stripes bordered in red, blue KANSAS wordmark. White pants by default.</div></div>
   <div style="background: #E8000D; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Red Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red jersey and red pants, worn under the white helmet against Missouri. The all-red version last appeared at TCU in 2024.</div></div>
-  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Blue shell with the Jayhawk on both sides, or a white shell with a thick blue centre stripe edged in red. Both carry a raised Kansas on the front.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Blue shell with the Jayhawk on both sides, or a white shell with a thick blue center stripe edged in red. Both carry a raised Kansas on the front.</div></div>
 </div>
 
-The base sets date to the adidas redesign of 2023, which retired the Trajan lettering the whole athletic department had used since 2007 and replaced it with a bold all-caps KANSAS and the red-edged shoulder stripes. Since then the programme has added one alternate a year: the black Blackhawk in 2023, an all-red look and a light-blue set in 2024, and the Whitehawk in 2025 with the 1941 bird on the helmet. We have not seen a 2026 alternate announced yet, so the grid below works from the three jerseys we know about. Big 12 home teams wear colour and visitors wear white, which makes every road date predictable and every home date a question of which colour.
+The base sets date to the adidas redesign of 2023, which retired the Trajan lettering the whole athletic department had used since 2007 and replaced it with a bold all-caps KANSAS and the red-edged shoulder stripes. Since then the program has added one alternate a year: the black Blackhawk in 2023, an all-red look and a light-blue set in 2024, and the Whitehawk in 2025 with the 1941 bird on the helmet. We have not seen a 2026 alternate announced yet, so the grid below works from the three jerseys we know about. Big 12 home teams wear color and visitors wear white, which makes every road date predictable and every home date a question of which color.
 
 ## The Full Kansas 2026 Uniform Schedule, Week by Week
 
@@ -48,7 +48,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **September 11 vs. Missouri.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants**, the red alternate under the white shell for the Border War in Lawrence. Missouri was the visitor and won 38-21; what the Tigers wore that night is unconfirmed on our side, and we will star it on the [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) once we can see it in a frame. Same calendar quirk as the opener: ESPN lists this game under September 12 because of UTC. It was played Friday, September 11.
 
-**September 19 vs. Arizona State, Wembley Stadium, London.** Blue expected. The Union Jack Classic is the first college football game ever played at Wembley, and Kansas is the designated home team for a Big 12 conference game on neutral ground, so the colour convention points to blue with Arizona State in white. Kickoff is 11 a.m. Central, 5 p.m. in London. If adidas, the event sponsor, has anything special planned for the trip, this is where it would surface, and we will update the cell the moment it does.
+**September 19 vs. Arizona State, Wembley Stadium, London.** Blue expected. The Union Jack Classic is the first college football game ever played at Wembley, and Kansas is the designated home team for a Big 12 conference game on neutral ground, so the color convention points to blue with Arizona State in white. Kickoff is 11 a.m. Central, 5 p.m. in London. If adidas, the event sponsor, has anything special planned for the trip, this is where it would surface, and we will update the cell the moment it does.
 
 **September 26.** Bye.
 
@@ -56,7 +56,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **October 10 at Utah.** White expected. First Big 12 road game, at Rice-Eccles Stadium.
 
-**October 17 at Kansas State.** White expected. The Sunflower Showdown in Manhattan, and Kansas in white against a purple home side is one of the better colour clashes on the conference calendar.
+**October 17 at Kansas State.** White expected. The Sunflower Showdown in Manhattan, and Kansas in white against a purple home side is one of the better color clashes on the conference calendar.
 
 **October 24 vs. Baylor.** Blue expected. Homecoming weekend is the traditional slot for an alternate if one exists, so this is the home date we are watching most closely.
 
@@ -72,7 +72,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 ## The Bottom Line
 
-Two games in, Kansas has already used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the programme wants a night to feel different. The Border War got the red. The question now is whether Wembley or homecoming gets something new. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Two games in, Kansas has already used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the program wants a night to feel different. The Border War got the red. The question now is whether Wembley or homecoming gets something new. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ Kansas wore the red alternate, white helmet with red jersey and red pants, again
 
 **What are Kansas's football uniforms for 2026?**
 
-A blue home jersey with white numerals outlined in red and red-edged shoulder stripes, a white road jersey with the same design in blue, and a red alternate jersey with red pants. The helmets are a blue shell with the Jayhawk on both sides and a white shell with a thick blue centre stripe edged in red. All of it comes from adidas and dates to the 2023 redesign.
+A blue home jersey with white numerals outlined in red and red-edged shoulder stripes, a white road jersey with the same design in blue, and a red alternate jersey with red pants. The helmets are a blue shell with the Jayhawk on both sides and a white shell with a thick blue center stripe edged in red. All of it comes from adidas and dates to the 2023 redesign.
 
 **Does Kansas have a new alternate uniform in 2026?**
 

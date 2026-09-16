@@ -61,7 +61,7 @@ Red is the right call. Atlanta is one of only a handful of clubs whose red is ge
 
 ## The 1966 Throwback (Weeks 7 and 13, Confirmed)
 
-Atlanta kept the 1966-inspired throwback: a **red helmet, black jersey, white pants** and tri-colour red, black and white socks. It is the only time the Falcons wear a red shell, and under the league's alternate-helmet rule it can appear in up to three games.
+Atlanta kept the 1966-inspired throwback: a **red helmet, black jersey, white pants** and tri-color red, black and white socks. It is the only time the Falcons wear a red shell, and under the league's alternate-helmet rule it can appear in up to three games.
 
 **The two 2026 dates are set.** The throwback comes out for the **Week 7 home game against San Francisco on Sunday, October 25**, and again for the **Week 13 home game against Detroit on Sunday, December 6**. Both are 1 p.m. kickoffs at Mercedes-Benz Stadium, and both opponents will be in white, which is the best possible backdrop for a red shell over a black jersey. Two games leaves one throwback date unused under the three-game cap, so a third is possible but nothing has been announced. Our earlier read that the Sunday night game against Baltimore in Week 5 was the natural slot turned out to be wrong; that game stays in the red home set.
 

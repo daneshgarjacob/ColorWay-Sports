@@ -156,12 +156,12 @@ The reason it works where so many concept uniforms on this list fail is that the
 
 ## 1. Chicago Bears, Return of the Monsters — A-
 
-<img src="/images/posts/bears-uniform-schedule-2026/rivalries-monsters-group.jpg" alt="Chicago Bears Return of the Monsters Rivalries uniform, navy jersey with burnt orange numbers, the GHS patch, orange pants and striped socks" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<img src="/images/posts/bears-uniform-schedule-2026/rivalries-monsters-group.jpg" alt="Chicago Bears Return of the Monsters Rivalries uniform, navy jersey with burnt orange numbers, the GSH patch, orange pants and striped socks" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Chicago Bears</p>
 
 The best set in either class and it is not particularly close. Everything the concept promises actually shows up on the field: burnt orange numbers drawn from 1948, three-stripe sleeve trim from the 1930s, orange pants, navy-and-orange striped socks, and an orange helmet carrying a revamped classic BEARS wordmark plus the four stars of the Chicago flag.
 
-The GHS patch is the detail of the entire program. It is a faithful replica of the memorial patch Chicago wore in 1983 for George Halas, put back exactly where it lived, and it is the clearest example of the difference between honoring history and decorating with it. "Monsters of the Midway" stitched inside the collar is the kind of touch nobody sees and everybody appreciates.
+The GSH patch is the detail of the entire program. It is a faithful replica of the memorial patch Chicago wore in 1983 for George Halas, put back exactly where it lived, and it is the clearest example of the difference between honoring history and decorating with it. "Monsters of the Midway" stitched inside the collar is the kind of touch nobody sees and everybody appreciates.
 
 What keeps it from an A is the ceiling the brief sets: this is a heritage uniform executed almost perfectly, so Chicago was never going to surprise anyone, and the orange pants will divide a room. Small price. [More in the Bears schedule post](/stories/bears-uniform-schedule-2026).
 
@@ -177,7 +177,7 @@ The helmets tell a different story from the uniforms. Two of the 2026 clubs at t
 
 **Which NFL Rivalries uniform is the best?**
 
-Chicago's "Return of the Monsters" set, which we grade an A-. Navy with burnt orange 1948-inspired numbers, the 1983 GHS patch for George Halas, orange pants, striped socks, and an orange helmet with the four stars of the Chicago flag. Seattle's 2025 set is second at a B+.
+Chicago's "Return of the Monsters" set, which we grade an A-. Navy with burnt orange 1948-inspired numbers, the 1983 GSH patch for George Halas, orange pants, striped socks, and an orange helmet with the four stars of the Chicago flag. Seattle's 2025 set is second at a B+.
 
 **Which NFL Rivalries uniforms are the worst?**
 

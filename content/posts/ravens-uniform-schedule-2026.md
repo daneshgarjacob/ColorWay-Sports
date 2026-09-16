@@ -74,11 +74,11 @@ The matchup helps. The Chargers have already published their side of this game: 
 
 ## Week 3 in Rio Is the Most Interesting Game on the Calendar
 
-Baltimore plays Dallas at the Maracanã on **Sunday, September 27**, and two facts stack up to make it the one road date where the Ravens could wear colour.
+Baltimore plays Dallas at the Maracanã on **Sunday, September 27**, and two facts stack up to make it the one road date where the Ravens could wear color.
 
 First, **Dallas is the designated home team.** NFL.com lists the game as Ravens at Cowboys. Baltimore's own schedule page renders it as "vs", which is how this gets miscounted, but Baltimore is the visitor and the game does not count as one of their eight home dates.
 
-Second, **Dallas wears white at home.** The Cowboys are the one club in the NFL that does this by tradition, which is precisely why a trip to face them is the rare road game where the visiting team gets to choose a coloured jersey. Philadelphia has used it for Kelly Green; the Chargers used it last season for a gold jersey in Tampa under the same logic.
+Second, **Dallas wears white at home.** The Cowboys are the one club in the NFL that does this by tradition, which is precisely why a trip to face them is the rare road game where the visiting team gets to choose a colored jersey. Philadelphia has used it for Kelly Green; the Chargers used it last season for a gold jersey in Tampa under the same logic.
 
 So Baltimore could wear purple in Brazil, in a 4:25 national window, against a white-clad Dallas team. Nothing has been announced and we are not putting it on the grid, but it is the single most likely place on this schedule for something other than the default. Our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of it.
 

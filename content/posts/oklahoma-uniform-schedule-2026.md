@@ -26,7 +26,7 @@ Oklahoma is one of the few blue-blood programs that still keeps an alternate or 
 
 The crimson helmet is the constant. It sits on top of both standard sets, so the weekly question in Norman is usually just crimson jersey or white jersey, and whether the pants under it are cream or white. The two alternates are the wild cards. The anthracite Unity uniform has come out exactly once a season under Brent Venables, each time at home, and the Bud Wilkinson-era throwback with the logo-free white helmet has appeared in each of the last two seasons. Neither has been tied to a 2026 date as of this writing, and the old wood-grain Rough Riders look from the Bring the Wood era is retired, so we list alternates only when the program announces them in game week.
 
-Under the SEC convention the home team wears colour and the visitor wears white, which is how every unconfirmed date below is projected.
+Under the SEC convention the home team wears color and the visitor wears white, which is how every unconfirmed date below is projected.
 
 ## The Full Oklahoma 2026 Uniform Schedule, Week by Week
 

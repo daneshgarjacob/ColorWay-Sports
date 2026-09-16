@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Oklahoma State does not have a home uniform and a road uniform. It has a closet, and the Cowboys pick from it every week. This is the full Oklahoma State 2026 uniform schedule: the jerseys, pants and helmets in the rotation, what we expect for each of the twelve games in Eric Morris's first season, and a record of what actually goes on the field. The programme announces each combination in game week, usually on the @CowboyFB account a day or two before kickoff, and we update this page as each one lands.
+Oklahoma State does not have a home uniform and a road uniform. It has a closet, and the Cowboys pick from it every week. This is the full Oklahoma State 2026 uniform schedule: the jerseys, pants and helmets in the rotation, what we expect for each of the twelve games in Eric Morris's first season, and a record of what actually goes on the field. The program announces each combination in game week, usually on the @CowboyFB account a day or two before kickoff, and we update this page as each one lands.
 
 ## The Oklahoma State 2026 Uniform Sets
 
@@ -44,7 +44,7 @@ Two combinations are on the board. **The opener at Tulsa on September 5 was all 
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
 </div>
 
-**September 5 at Tulsa.** ★ Confirmed from the announced combination: **white helmet with the orange brand, white jersey, white pants**, the all-white look the programme posted on game day for the Turnpike Classic and Eric Morris's first game in charge. It did not bring luck. Tulsa won 24-10, and the Cowboys left Chapman Stadium 0-1 in a uniform that could not have been cleaner.
+**September 5 at Tulsa.** ★ Confirmed from the announced combination: **white helmet with the orange brand, white jersey, white pants**, the all-white look the program posted on game day for the Turnpike Classic and Eric Morris's first game in charge. It did not bring luck. Tulsa won 24-10, and the Cowboys left Chapman Stadium 0-1 in a uniform that could not have been cleaner.
 
 **September 12 vs. Oregon.** ★ Confirmed from the broadcast: **white helmet, orange jersey, white pants**, with the white Pistol Pete helmet rather than the brand shell, and the Cowboys announced it on Thursday night, early by their standards. This was the classic Stillwater look, orange jersey with white numerals outlined in black over white pants, against the Ducks in a green helmet, white jersey and white pants, and it went about as well as an orange jersey can go. Oklahoma State beat then-No. 6 Oregon 39-31 in the Ducks' first trip to Boone Pickens Stadium, the first win of the Morris era. Coming into the game the white-orange-white combination had gone 16-3 since 2011. Make it 17-3. Oregon's side of the night is on the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 
@@ -60,7 +60,7 @@ Two combinations are on the board. **The opener at Tulsa on September 5 was all 
 
 **October 24 vs. Colorado.** Orange expected. America's Greatest Homecoming. This is the date to watch: Homecoming has drawn special looks before, including the black Oklahoma A&M throwback for the 125th anniversary in 2024, and nothing has been announced for 2026. If a one-off uniform is coming this season, this is the likeliest week.
 
-**October 31 at Iowa State.** White expected. The first Halloween road game since 2015, in Ames, at the start of the only back-to-back road stretch on the schedule. Black jerseys on Halloween would be very on brand for this programme, but that is a guess, not a report.
+**October 31 at Iowa State.** White expected. The first Halloween road game since 2015, in Ames, at the start of the only back-to-back road stretch on the schedule. Black jerseys on Halloween would be very on brand for this program, but that is a guess, not a report.
 
 **November 7 at Kansas State.** White expected. The 17th straight season against Kansas State, the longest active streak against any Cowboy opponent.
 
@@ -78,7 +78,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oklahoma State wearing this week?**
 
-Oklahoma State wore an orange jersey with white pants and the white Pistol Pete helmet to beat Oregon on September 12, one week after an all-white uniform at Tulsa. The Cowboys announce each week's combination in game week, usually on the programme's social accounts a day or two before kickoff. The grid above lists every game with the expected look and is updated as each combination is confirmed.
+Oklahoma State wore an orange jersey with white pants and the white Pistol Pete helmet to beat Oregon on September 12, one week after an all-white uniform at Tulsa. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff. The grid above lists every game with the expected look and is updated as each combination is confirmed.
 
 **What are Oklahoma State's uniforms for 2026?**
 
@@ -90,7 +90,7 @@ The black jersey is the standing alternate and it usually appears a few times a 
 
 **How many uniform combinations does Oklahoma State have?**
 
-With three jersey colours, three pants colours and at least four helmets chosen independently, the practical count runs well past thirty, and the Cowboys typically use a dozen or more distinct looks in a season. Each is picked week to week rather than set in advance.
+With three jersey colors, three pants colors and at least four helmets chosen independently, the practical count runs well past thirty, and the Cowboys typically use a dozen or more distinct looks in a season. Each is picked week to week rather than set in advance.
 
 **How many games does Oklahoma State play in 2026?**
 

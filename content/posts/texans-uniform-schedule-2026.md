@@ -162,7 +162,7 @@ Deep Steel Blue at home and white on the road. The navy set projects to four hom
 
 **Are the Texans wearing a 25th Season throwback?**
 
-Not that they have announced. Houston is celebrating its 25th Season at the Week 4 home game against Dallas on October 4, but the team named a theme rather than a uniform for that date. What we do know is the colour: the Cowboys have confirmed navy for that game, so Houston wears white. If a throwback is added, this page gets updated.
+Not that they have announced. Houston is celebrating its 25th Season at the Week 4 home game against Dallas on October 4, but the team named a theme rather than a uniform for that date. What we do know is the color: the Cowboys have confirmed navy for that game, so Houston wears white. If a throwback is added, this page gets updated.
 
 **How many home games do the Texans play in 2026?**
 

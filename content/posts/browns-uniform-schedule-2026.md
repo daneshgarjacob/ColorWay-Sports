@@ -77,7 +77,7 @@ If any of these get named, they go on this page the day it happens.
 
 Weeks 3, 4, 6, 10, 12, 13, 14 and 17. Carolina in the home opener, Pittsburgh on Thursday night, Baltimore in Week 6, Houston in Week 10, then a four-game December run of Las Vegas, Cincinnati, Atlanta and Indianapolis.
 
-The brown-and-orange combination has no real competition for strangeness in American sport, and it works because nobody has ever tried to modernise it into something else. Brown is a colour teams do not choose, which is exactly why it belongs to Cleveland completely.
+The brown-and-orange combination has no real competition for strangeness in American sport, and it works because nobody has ever tried to modernise it into something else. Brown is a color teams do not choose, which is exactly why it belongs to Cleveland completely.
 
 ## White on the Road (9 Games)
 

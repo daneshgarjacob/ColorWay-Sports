@@ -61,7 +61,7 @@ Washington has confirmed the opener in Philadelphia: the **burgundy helmet over 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2097784980923457857"></a></blockquote>
 </div>
 
-It is the right call for this specific game and it is not close. Philadelphia wears midnight green at home, which is one of the darkest jerseys in the league and swallows anything mid-toned put next to it. Gold pants would have introduced a third colour nobody needed, and burgundy pants would have dropped Washington's value close enough to Philadelphia's green that the two sides start to blur on a wide shot. White over white keeps the visitors as the brightest thing on the field, and the burgundy shell on top becomes the only strong colour Washington is carrying, which is exactly how you want a helmet to work. The gold facemask does the rest.
+It is the right call for this specific game and it is not close. Philadelphia wears midnight green at home, which is one of the darkest jerseys in the league and swallows anything mid-toned put next to it. Gold pants would have introduced a third color nobody needed, and burgundy pants would have dropped Washington's value close enough to Philadelphia's green that the two sides start to blur on a wide shot. White over white keeps the visitors as the brightest thing on the field, and the burgundy shell on top becomes the only strong color Washington is carrying, which is exactly how you want a helmet to work. The gold facemask does the rest.
 
 
 ## Burgundy Jersey (The Heritage Look, 9 Games)

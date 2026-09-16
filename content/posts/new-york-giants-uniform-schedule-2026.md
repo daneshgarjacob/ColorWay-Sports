@@ -48,7 +48,7 @@ Seventeen games, four uniforms: royal blue eight times, white five times, Legacy
   <div style="background: #0B2265; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
-Two things jump out. The Week 17 trip to Dallas that we had flagged as the open date is settled, and the Giants chose blue. And Week 5 at Washington is also a blue road game, because the Commanders wear white at home that day, per our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026). Every road white below is a genuine road white; the two blue road cells are the visitors taking the colour option when the home team offered it.
+Two things jump out. The Week 17 trip to Dallas that we had flagged as the open date is settled, and the Giants chose blue. And Week 5 at Washington is also a blue road game, because the Commanders wear white at home that day, per our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026). Every road white below is a genuine road white; the two blue road cells are the visitors taking the color option when the home team offered it.
 
 ## The Legacy Blue Throwback (Weeks 4 and 13, Confirmed)
 
@@ -57,7 +57,7 @@ Two things jump out. The Week 17 trip to Dallas that we had flagged as the open 
 
 The Legacy set gets two Legacy Games at MetLife Stadium, both presented by Quest: **Sunday, October 4 against the Arizona Cardinals** at 1:00 p.m. Eastern on CBS, and **Sunday, December 6 against the San Francisco 49ers** at 1:00 p.m. Eastern on FOX. For both, the stadium gets the full treatment: the classic helmet design at midfield and vintage end zones with the block-letter GIANTS wordmark.
 
-The October 4 game is the one with the ceremony. It is forty years since the **Super Bowl XXI** win over Denver, and the 1986 team is honoured at halftime. The uniform is the one that team actually wore, which the club used from 1980 through 1999: a navy helmet with a white facemask, a solid scarlet centre stripe and the raised, underlined GIANTS wordmark on the sides, a royal blue jersey with red and white trim at the collar, sleeves and numbers, and white pants with red and blue stripes. The inside of the collar carries Wellington Mara's line, "Once a Giant, Always a Giant."
+The October 4 game is the one with the ceremony. It is forty years since the **Super Bowl XXI** win over Denver, and the 1986 team is honoured at halftime. The uniform is the one that team actually wore, which the club used from 1980 through 1999: a navy helmet with a white facemask, a solid scarlet center stripe and the raised, underlined GIANTS wordmark on the sides, a royal blue jersey with red and white trim at the collar, sleeves and numbers, and white pants with red and blue stripes. The inside of the collar carries Wellington Mara's line, "Once a Giant, Always a Giant."
 
 It is the best thing in the Giants' closet and it is not particularly close. The current primary set is fine, but the Legacy look has the two things the modern one gave up: a wordmark helmet instead of a logo helmet, and stripes that actually resolve at distance. Wordmark helmets have almost vanished from the league, which is exactly why this one still reads as distinct rather than nostalgic.
 
@@ -79,7 +79,7 @@ The Week 9 game is the reason to circle the date. The Eagles confirmed the same 
 
 That is the best-dressed game on the Giants' 2026 calendar and one of the best in the league. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has Philadelphia's side of it.
 
-Four days later the same set gets a national Thursday night against Washington, whose own schedule has the Commanders in burgundy for that trip. Vintage White under the MetLife lights against burgundy and gold is a strong colour pairing, and it is the kind of prime-time slot the league likes to give Color Rush looks. We would happily take four Vintage White games instead of two, but two, back to back, in a rivalry week and on a national Thursday, is the right way to use it.
+Four days later the same set gets a national Thursday night against Washington, whose own schedule has the Commanders in burgundy for that trip. Vintage White under the MetLife lights against burgundy and gold is a strong color pairing, and it is the kind of prime-time slot the league likes to give Color Rush looks. We would happily take four Vintage White games instead of two, but two, back to back, in a rivalry week and on a national Thursday, is the right way to use it.
 
 
 ## Royal Blue (8 Games, Including Two on the Road)
@@ -89,7 +89,7 @@ Four days later the same set gets a national Thursday night against Washington, 
 
 The blue jersey with white pants covers six home dates and two road games. At home it is Dallas in the Sunday-night opener on September 13, the Titans in Week 3, New Orleans in Week 6, Jacksonville in Week 11, Cleveland in Week 15, and Philadelphia in the Week 18 finale. The Saints' own schedule, published September 7, has New Orleans in white with the white helmet for that game, so the two documents agree.
 
-The two road games are the interesting part. **Week 5 at Washington on October 11** is blue because the Commanders have made white their most-used jersey this year and wear it at home against the Giants. **Week 17 at Dallas on January 3** is blue because Dallas wears white at home by tradition, which is the one road trip in the league where a visitor can always choose colour. We had that game flagged as the open date back in August, and blue on white at AT&T Stadium is one of the better looks the division produces. It is good to see New York take it.
+The two road games are the interesting part. **Week 5 at Washington on October 11** is blue because the Commanders have made white their most-used jersey this year and wear it at home against the Giants. **Week 17 at Dallas on January 3** is blue because Dallas wears white at home by tradition, which is the one road trip in the league where a visitor can always choose color. We had that game flagged as the open date back in August, and blue on white at AT&T Stadium is one of the better looks the division produces. It is good to see New York take it.
 
 
 ## White (5 Games, All on the Road)
@@ -144,7 +144,7 @@ Four times. Legacy Blue on Sunday, October 4 against the Cardinals and Sunday, D
 
 **What do the Giants Legacy uniforms look like?**
 
-A navy helmet with the underlined GIANTS wordmark on the sides, a solid red centre stripe and a white facemask, a royal blue jersey with red and white trim, and white pants with red and blue stripes. It is the uniform the club wore from 1980 to 1999, including Super Bowl XXI.
+A navy helmet with the underlined GIANTS wordmark on the sides, a solid red center stripe and a white facemask, a royal blue jersey with red and white trim, and white pants with red and blue stripes. It is the uniform the club wore from 1980 to 1999, including Super Bowl XXI.
 
 **What is the Giants Vintage White uniform?**
 

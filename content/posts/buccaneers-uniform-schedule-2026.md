@@ -48,7 +48,7 @@ Tampa Bay teased this most of the year and finally released it with photos and a
   </blockquote>
 </div>
 
-Pewter is a genuinely hard colour to build a uniform around. It is not quite gray and not quite brown, it goes muddy under stadium lights, and a full monochrome pewter look risks reading as one large smudge from the upper deck. Tampa Bay's answer was to put the red where the eye actually goes.
+Pewter is a genuinely hard color to build a uniform around. It is not quite gray and not quite brown, it goes muddy under stadium lights, and a full monochrome pewter look risks reading as one large smudge from the upper deck. Tampa Bay's answer was to put the red where the eye actually goes.
 
 The shoulder ships do the heavy lifting. Shoulder caps are the highest-contrast real estate on a football uniform, because that is what a broadcast camera frames when a player is standing, and a red mark there breaks the pewter mass into parts. The chest wordmark does the same job from the front. Take both away and this uniform would be a problem.
 
@@ -67,7 +67,7 @@ Tampa Bay has not confirmed which jerseys it wears in any other week. Open quest
 - The home opener uniform.
 - Whether pewter appears more than once, or is a one-game alternate like the creamsicle.
 - Pant combinations for the standard red and white jerseys.
-- Any colour-rush or alternate helmet pairings beyond the creamsicle's white shell.
+- Any color-rush or alternate helmet pairings beyond the creamsicle's white shell.
 
 ## The Full 2026 Buccaneers Uniform Schedule, Week by Week
 

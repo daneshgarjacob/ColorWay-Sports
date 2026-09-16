@@ -49,7 +49,7 @@ Eight home games in red, nine road games in white, and a Week 5 bye. There is ge
 
 Red jersey, white pants, red helmet, and a gold-outlined number that has barely moved in sixty years. It is the look for all eight home dates, starting with the Week 1 Monday-night opener against Denver on September 14 and running through the Week 18 finale against the Raiders. The best of the bunch on paper is Week 15 against New England on Monday, December 21, and Week 16 against the 49ers the following Sunday, a pair of December marquee games at Arrowhead.
 
-There is a strong argument that the Chiefs simply got it right the first time. The red is saturated without being loud, the gold does the work of a trim colour rather than a second primary, and the arrowhead reads instantly at any distance. Nothing in the last decade of alternate-uniform design has produced anything Kansas City would obviously be better off wearing.
+There is a strong argument that the Chiefs simply got it right the first time. The red is saturated without being loud, the gold does the work of a trim color rather than a second primary, and the arrowhead reads instantly at any distance. Nothing in the last decade of alternate-uniform design has produced anything Kansas City would obviously be better off wearing.
 
 
 ## The White Road Set (9 Games)
@@ -61,7 +61,7 @@ White jersey, red pants, red helmet. Nine games, including the two Thursday date
 
 The one deviation the Chiefs allow themselves is red pants with the red jersey, a full monochrome look they have pulled out for selected home games under Andy Reid. It has no announced 2026 date and it never does. It appears when the club feels like it, usually for a prime-time home game, which in 2026 would point at the Week 1 Monday opener against Denver or the Week 15 Monday game against New England.
 
-We are on record that monochrome is usually a mistake, and Kansas City is one of the few teams it works for, mostly because the red is dark enough to hold its shape under lights and the gold trim keeps the whole thing from turning into a single block of colour.
+We are on record that monochrome is usually a mistake, and Kansas City is one of the few teams it works for, mostly because the red is dark enough to hold its shape under lights and the gold trim keeps the whole thing from turning into a single block of color.
 
 ## Why the Closet Stays This Small
 
@@ -120,7 +120,7 @@ The patch honors Lamar Hunt, who founded the Chiefs and the American Football Le
 - [NFL Uniform Tracker 2026](/stories/nfl-uniform-tracker-2026) — what all 32 teams wear, game by game
 - [Buffalo Bills 2026 Uniform Schedule](/stories/bills-uniform-schedule-2026) — a Week 12 opponent, with every home game confirmed
 - [Los Angeles Rams 2026 Uniform Schedule](/stories/rams-uniform-schedule-2026) — the Week 13 opponent's full jersey calendar
-- [Monochrome NFL Uniforms and Why They Look Bad](/stories/monochrome-nfl-uniforms-why-they-look-bad) — the case against all-one-colour
+- [Monochrome NFL Uniforms and Why They Look Bad](/stories/monochrome-nfl-uniforms-why-they-look-bad) — the case against all-one-color
 - [NFL Uniform Release Dates 2026](/stories/nfl-uniform-release-dates-2026) — every team's new-look reveal, tracked
 
 *Schedule via team and league sources. Uniform assignments follow the standard NFL home-and-away rotation except where noted as confirmed. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by any NFL club or the National Football League.*

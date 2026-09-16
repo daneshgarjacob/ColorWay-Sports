@@ -13,18 +13,18 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Oregon is the one programme where this page cannot be written in advance, and that is exactly why it is worth keeping. This is the full Oregon 2026 uniform schedule: the pieces in the closet, what we expect week to week, and a record of what actually goes on the field. We update this page as each combination is confirmed.
+Oregon is the one program where this page cannot be written in advance, and that is exactly why it is worth keeping. This is the full Oregon 2026 uniform schedule: the pieces in the closet, what we expect week to week, and a record of what actually goes on the field. We update this page as each combination is confirmed.
 
 ## The Oregon 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #154733; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Green</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The base colour and the most common home jersey.</div></div>
+  <div style="background: #154733; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Green</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The base color and the most common home jersey.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Yellow</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The loudest option in the closet and a genuine home alternate, not a novelty.</div></div>
   <div style="background: #FEE123; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The usual road jersey, often mixed with green or yellow pants.</div></div>
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black &amp; Silver</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The other two regulars. Oregon mixes helmet, jersey and pants independently.</div></div>
 </div>
 
-One combination is on the board. **The opener against Boise State on September 5 is confirmed: yellow helmet, green jersey, yellow pants**, marked with a ★ in the grid. Every other page in this series works because the programme is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
+One combination is on the board. **The opener against Boise State on September 5 is confirmed: yellow helmet, green jersey, yellow pants**, marked with a ★ in the grid. Every other page in this series works because the program is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
 
 ## The Full Oregon 2026 Uniform Schedule, Week by Week
 
@@ -44,7 +44,7 @@ One combination is on the board. **The opener against Boise State on September 5
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
-**September 5 vs. Boise State.** ★ Confirmed on the field: **yellow helmet, green jersey, yellow pants.** Oregon won 34-27. The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the colour question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
+**September 5 vs. Boise State.** ★ Confirmed on the field: **yellow helmet, green jersey, yellow pants.** Oregon won 34-27. The season opener in Autzen is a green-and-yellow sandwich, the most Oregon of the Oregon looks, with the yellow shell and yellow pants bracketing the green jersey. Boise State answers in its white jersey with a blue helmet and blue pants, which puts blue and yellow across from each other on the field and settles the color question in a way most openers do not. Yellow helmets are a genuine choice here rather than a default, and pairing them with yellow pants is the loud version of the combination.
 
 **September 12 at Oklahoma State.** ★ Confirmed from the broadcast: **green helmet, white jersey, white pants**, a road combination that reads as the cleanest thing Oregon owns, against a Stillwater crowd and an Oklahoma State side in orange jerseys over white pants under white helmets. Oklahoma State won 39-31, Oregon's first loss of the season.
 
@@ -82,7 +82,7 @@ For the season opener against Boise State on September 5, Oregon wears a green j
 
 **What are Oregon's uniforms for 2026?**
 
-The base colour and the most common home jersey. The loudest option in the closet and a genuine home alternate, not a novelty. The usual road jersey, often mixed with green or yellow pants.
+The base color and the most common home jersey. The loudest option in the closet and a genuine home alternate, not a novelty. The usual road jersey, often mixed with green or yellow pants.
 
 **Does Oregon have an alternate uniform in 2026?**
 
