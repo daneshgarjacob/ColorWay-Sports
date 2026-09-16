@@ -1,5 +1,5 @@
 ---
-title: "New York Giants Jerseys 2026: Every Uniform Ranked, From Legacy Blue to the White Road Set"
+title: "New York Giants Jerseys 2026: Every Jersey Ranked, From Legacy Blue to the White Road Set"
 category: NFL
 date: "2026-09-16"
 updatedDate: "2026-09-16"
@@ -25,7 +25,9 @@ Here is every New York Giants jersey for 2026, ranked worst to first and graded,
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #000000;">B+</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/giants-white-road.jpg" alt="New York Giants white road jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2093527674291445819"></a></blockquote>
+</div>
 
 The standard road jersey is white with red numbers, a small lowercase "ny" on the chest, and three red stripes on each sleeve. It pairs with white pants and the blue NY helmet. The Giants wear it five times in 2026, all on the road: Week 2 at the Rams on Monday night, September 21, Week 7 at Houston, Week 12 at Indianapolis, Week 14 at Seattle, and Week 16 at Detroit on Monday night.
 
@@ -40,7 +42,9 @@ That is why it is a B+ and last in a closet with no bad options. It is also the 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/giants-royal-home.jpg" alt="New York Giants royal blue home jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2099302360963035246"></a></blockquote>
+</div>
 
 The royal blue jersey is the primary, and it is the most-worn uniform on the calendar: eight games. It carries plain white numbers, the lowercase "ny" on the chest, and no sleeve stripes at all, and it pairs with the blue NY helmet and white pants with a red and blue leg stripe. The Giants opened in it on Sunday night, September 13, against Dallas, and it returns against the Titans in Week 3, at Washington on October 11, against the Saints in Week 6, against the Jaguars on November 22, against the Browns in Week 15, at Dallas on January 3, and against the Eagles in the Week 18 finale.
 
@@ -55,7 +59,9 @@ The two road dates are worth circling. Washington wears white at home in Week 5 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #000000;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/giants-vintage-white-alternate.jpg" alt="New York Giants Vintage White jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2095151182448636374"></a></blockquote>
+</div>
 
 Vintage White is the road twin of the Legacy set. The Giants built it in 2016 for the league's Color Rush program, and it reproduces the road look the club wore for two decades: a white jersey with blue numbers outlined in red, a blue and red striped collar and sleeve cuffs, white pants, and the navy helmet with the GIANTS wordmark. It comes out twice, back to back: Week 9 at Philadelphia on Sunday, November 8, and Week 10 against Washington on Thursday night, November 12.
 
@@ -70,7 +76,9 @@ It grades an A, level with the royal home set and ahead of it here because of wh
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/giants-royal-legacy-alternate.jpg" alt="New York Giants Legacy Blue jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2095150784388141447"></a></blockquote>
+</div>
 
 The Legacy set is the uniform the Giants wore from 1980 through 1999, including Super Bowl XXI. It is a royal blue jersey with white numbers outlined in red, red and white stripes on the sleeves and collar, and Wellington Mara's line "Once a Giant, Always a Giant" inside the neck. It pairs with a navy helmet carrying a white facemask, a solid scarlet center stripe, and the raised, underlined GIANTS wordmark, plus white pants with red and blue stripes. It is worn twice at MetLife Stadium: Sunday, October 4 against Arizona, when the 1986 team is honored at halftime for the fortieth anniversary of Super Bowl XXI, and Sunday, December 6 against San Francisco.
 

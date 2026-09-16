@@ -1,5 +1,5 @@
 ---
-title: "Houston Texans Jerseys 2026: Every Uniform Ranked, From Battle Red to the H-Town Blue Alternate"
+title: "Houston Texans Jerseys 2026: Every Jersey Ranked, From Battle Red to the H-Town Blue Alternate"
 category: NFL
 date: "2026-09-16"
 updatedDate: "2026-09-16"
@@ -26,7 +26,9 @@ Here is every Houston Texans jersey and uniform for 2026, ranked worst to first 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">C+</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/texans-navy-2nd-alternate.jpg" alt="Houston Texans H-Town alternate jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/1982539681486307786"></a></blockquote>
+</div>
 
 The H-Town Blue alternate is the second navy jersey in the closet, and that is its biggest problem. It swaps the TEXANS chest wordmark for "H-TOWN" in light blue, turns the numbers red with a light blue outline, and puts a red collar with HOUSTON on the inside. The light blue is the most interesting color Houston has, and it is good to see it on the field.
 
@@ -41,7 +43,9 @@ It has not been retired. It came in with the 2024 redesign, and Houston wore it 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B-</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/texans-navy-htown.jpg" alt="Houston Texans Deep Steel Blue home jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2088997021495566703"></a></blockquote>
+</div>
 
 The Deep Steel Blue home jersey is the base of the rebrand and the set we graded a B- in our [ranking of every NFL uniform](/stories/best-nfl-uniforms-2026-ranked), where we named Houston the most improved team in the league. The white numbers with a red outline pop far better than the old set, the red TEXANS wordmark sits cleanly above them, the bullhead is on the sleeve, and the near-black navy works.
 
@@ -58,7 +62,9 @@ When it is worn in 2026: four projected home games, in Weeks 2 (Bengals), 12 (Ra
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #03202F;">B</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans Liberty White jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2098049349074710805"></a></blockquote>
+</div>
 
 Liberty White is the cleanest thing Houston owns. HOUSTON runs across the chest in red, the navy numbers carry a red outline, and the navy and red horn-shaped stripes sweep over the shoulders without crowding anything. On white, the horn stripe finally reads as a deliberate shape rather than dark trim on a dark body, which is why this set outranks the navy.
 
@@ -75,7 +81,9 @@ When it is worn in 2026: Week 1 vs. Bills on September 13 (worn), plus white in 
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-rivalries.jpg" alt="Houston Texans HOUSTON/US Rivalries jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2094787679393030319"></a></blockquote>
+</div>
 
 The new-for-2026 Rivalries set, revealed August 25 under the name HOUSTON/US and the tagline "By the H. For the H.," is the most complete piece of city-specific design in the program. Liberty White is the base, H-Town Blue and Battle Red do the accent work, and the blue-and-white street-tile mosaics seen all over Houston run through the sleeve stripes, the nameplate and the numbers. The numbers themselves take their shape from the "Be Someone" bridge, and the bullhead sits on the chest.
 
@@ -92,7 +100,9 @@ When it is worn in 2026: once, in Week 11 against the Colts on Thursday, Novembe
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B+</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/texans-red-battle.jpg" alt="Houston Texans Battle Red jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2001355422796751271"></a></blockquote>
+</div>
 
 Battle Red is the uniform that gives the Texans an identity. The red body carries a white TEXANS wordmark, navy numbers outlined in white, and the navy horn-shaped shoulder stripes with a red inner line. Where the navy home set blends into a league full of dark jerseys, a bright red Houston jersey looks like nobody else, and the navy numbers with a white edge still read cleanly against it.
 

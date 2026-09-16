@@ -1,10 +1,10 @@
 ---
-title: "Chicago Bears Jerseys 2026: Every Uniform Ranked, From the Navy Home to the Orange Alternate"
+title: "Chicago Bears Jerseys 2026: Every Jersey Ranked, From the Navy Home to the Rivalries Set"
 category: NFL
 date: "2026-09-16"
 updatedDate: "2026-09-16"
 author: "colorway-sports-staff"
-excerpt: "Bears jerseys 2026, ranked and graded: the navy home and white road uniforms, the Christmas Day Rivalries set, and the orange alternate that has no date yet."
+excerpt: "Chicago Bears jerseys 2026, ranked and graded: the navy home, the white road and the Christmas Day Rivalries set, with every date each one is worn."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-chicago-bears.png"
@@ -17,22 +17,7 @@ teams:
 
 The Bears run one of the smallest closets in the NFL, and it barely matters, because the base set is one of the best in football. Navy with orange trim, the wishbone C on a navy helmet, and the GSH initials for George Halas on the sleeve have carried this franchise for decades. In 2026 Chicago adds exactly one new look, the "Return of the Monsters" Rivalries uniform, and wears it once, on Christmas Day against Green Bay.
 
-Here is every Chicago Bears jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
-
-## 4. Orange Alternate
-
-<div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #C83803, #8a2702); color: white; text-align: center;">
-  <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #ffffff;">ColorWay Sports Grade</span>
-  <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/bears-orange-alternate.jpg" alt="Chicago Bears orange alternate jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
-
-The orange alternate flips the palette: a burnt orange body, white numbers outlined in navy, and the navy-and-white sleeve stripes with the GSH initials carried over from the primary set. It is a real Bears jersey, not a gimmick, and the orange is the exact shade Chicago owns everywhere else. That is why it lands at a respectable B rather than lower.
-
-What holds it back is what the swap costs. On the navy and white sets, orange is the accent that makes the numbers and the stripes jump. Turn orange into the whole body and the navy shrinks to a thin number outline and a few sleeve bars, so the jersey loses the contrast that makes the primaries work. The white numbers on orange also read softer from the upper deck than orange on navy does.
-
-When it is worn in 2026: it is not on the calendar. The Bears have not announced an orange date this season, and with the new Rivalries set taking the alternate slot, there is no announced helmet or pants pairing for it either. If Chicago adds an orange game, our [Bears uniform schedule](/stories/bears-uniform-schedule-2026) will have it the day it is announced.
+Here are all three Chicago Bears jerseys for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 
 ## 3. Rivalries Uniform ("Return of the Monsters")
 
@@ -41,7 +26,9 @@ When it is worn in 2026: it is not on the calendar. The Bears have not announced
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A-</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/bears-navy-rivalries.jpg" alt="Chicago Bears Rivalries Return of the Monsters jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChicagoBears/status/2092705721678709024"></a></blockquote>
+</div>
 
 The one new Bears jersey in 2026 is the best uniform in the entire Rivalries program, and we graded it an A- when it was revealed on August 25. The navy jersey carries burnt orange numbers with white trim drawn from the 1948 era, three-stripe sleeve trim from the 1930s, and a football-shaped GSH patch on the chest that replicates the memorial patch the team wore for George Halas in 1983. "Monsters of the Midway" is stitched inside the collar.
 
@@ -58,7 +45,9 @@ When it is worn in 2026: once, in Week 16 on Friday, December 25, at noon Centra
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #0B162A;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChicagoBears/status/2099135159945621999"></a></blockquote>
+</div>
 
 The white road set is the primary uniform with the values flipped: navy numbers outlined in orange on white, navy and orange sleeve stripes, the GSH initials on the sleeve. It shares the A we gave the Bears in our [ranking of every NFL uniform](/stories/best-nfl-uniforms-2026-ranked), where Chicago finished third in the league.
 
@@ -75,7 +64,9 @@ When it is worn in 2026: seven road games, in Weeks 1 (at Panthers, worn), 5 (at
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/bears-navy-home.jpg" alt="Chicago Bears navy home jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChicagoBears/status/2088711596671459350"></a></blockquote>
+</div>
 
 The navy home jersey is the best thing the Bears own and one of the most recognizable uniforms in American sports. White numbers outlined in orange, orange-and-white sleeve stripes, and the GSH memorial initials worn on the sleeve every week rather than saved for one game a year. That detail is the reason we called this set the best in an already strong NFC North, and it earns the A we gave Chicago in our [league-wide ranking](/stories/best-nfl-uniforms-2026-ranked).
 
@@ -88,15 +79,14 @@ When it is worn in 2026: nine games. Eight are at Soldier Field, in Weeks 2 (Vik
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Navy Home</strong> · A · 8 home games plus Week 14 at Miami</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. White Road</strong> · A · 7 road games</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. Rivalries ("Return of the Monsters")</strong> · A- · Week 16, Christmas Day vs. Packers</p>
-  <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>4. Orange Alternate</strong> · B · no 2026 date announced</p>
+  <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>3. Rivalries ("Return of the Monsters")</strong> · A- · Week 16, Christmas Day vs. Packers</p>
 </div>
 
 For the week-by-week plan, the [Bears uniform schedule](/stories/bears-uniform-schedule-2026) has all 18 weeks, and the [Bears uniform calendar](/nfl-tracker/bears) lays the season out at a glance. For what Chicago actually wore, helmet to pants, every game is logged on our [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 ## The Bottom Line on the Bears Jersey Rankings
 
-This is a closet with no weak link. The navy home and white road sets both grade an A, the new Rivalries uniform is an A- and the best set the program has produced, and even the bottom of the list, the orange alternate, is a solid B that simply gives up the contrast the primaries depend on.
+This is a closet with no weak link. The navy home and white road sets both grade an A, and the new Rivalries uniform, the bottom of this list, is an A- and the best set the program has produced.
 
 Chicago's approach is the opposite of most of the league: few jerseys, no gimmicks, and one new look placed on the biggest stage of the season. When your base uniform is this good, that is exactly the right call.
 
@@ -104,7 +94,7 @@ Chicago's approach is the opposite of most of the league: few jerseys, no gimmic
 
 **What jerseys do the Bears have in 2026?**
 
-Four: the navy home jersey, the white road jersey, the new "Return of the Monsters" Rivalries uniform, and the orange alternate. Only the first three are on the 2026 schedule. The orange alternate has no announced date this season.
+Three: the navy home jersey, the white road jersey, and the new "Return of the Monsters" Rivalries uniform. All three are on the 2026 schedule.
 
 **What is the best Bears jersey?**
 
@@ -124,4 +114,4 @@ Once in 2026, in Week 16 on Friday, December 25, at noon Central against the Gre
 
 **When do the Bears wear their orange jersey in 2026?**
 
-No date has been announced. The Bears have not scheduled the orange alternate this season, and the Rivalries uniform appears to be taking the alternate slot. We will update the [Bears uniform schedule](/stories/bears-uniform-schedule-2026) if that changes.
+The orange alternate has no 2026 date. It is not on the Bears' 2026 schedule and has not been worn this season, and the Rivalries uniform appears to be taking the alternate slot, so we have left it out of this ranking. If Chicago brings it out, we will add it back here and put the date on the [Bears uniform schedule](/stories/bears-uniform-schedule-2026).

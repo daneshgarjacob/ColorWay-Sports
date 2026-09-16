@@ -1,5 +1,5 @@
 ---
-title: "Seattle Seahawks Jerseys 2026: Every Uniform Ranked, From the Royal Blue Throwback to the White Road Set"
+title: "Seattle Seahawks Jerseys 2026: Every Jersey Ranked, From the Royal Blue Throwback to the White Road Set"
 category: NFL
 date: "2026-09-16"
 updatedDate: "2026-09-16"
@@ -26,7 +26,9 @@ Here is every Seattle Seahawks jersey and uniform for 2026, ranked worst to firs
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #002244;">B-</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-white-road.jpg" alt="Seattle Seahawks white road jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2092695745476591798"></a></blockquote>
+</div>
 
 The white road jersey projects to all eight away games: at the Cardinals (Week 2), Commanders (Week 3), Broncos (Week 6), Raiders (Week 10), 49ers (Week 12), Eagles (Week 15), Panthers (Week 17), and the Week 18 trip to the Rams. None of those is a team confirmation. It is the standard road convention, and it pairs with the college navy helmet, with navy pants as our read for Week 2.
 
@@ -39,7 +41,9 @@ The jersey is college navy numbers with an action green outline on white, navy s
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2097038724815303069"></a></blockquote>
+</div>
 
 College navy is the everyday home jersey, and it projects to the six home dates not claimed by a special uniform: the Patriots (Week 1), Chargers (Week 4), 49ers (Week 5), Bears (Week 8, Monday night), Cardinals (Week 9), and Giants (Week 14). Week 1 is the only one already on the field: Seattle opened the season against New England in full navy, navy helmet over navy jersey over navy pants, and the matchup earned a B on our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). The usual pairing is the navy helmet with wolf grey pants.
 
@@ -52,7 +56,9 @@ The jersey itself is wolf grey numbers with an action green outline on navy, wol
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">B+</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-gray-rivalries.jpg" alt="Seattle Seahawks Rivalries jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2088295574114390256"></a></blockquote>
+</div>
 
 The Rivalries uniform gets one wearing in 2026, and it is the best slot any team has given the program: Week 16 at home against the Rams on Friday, December 25, Christmas Day. The Rams confirmed they are wearing their all-black Midnight Mode Rivalries set for the same game, so it is the first Rivalries-on-Rivalries matchup the program has had. This is the uniform's second season, since Seattle joined with the NFC West wave in 2025.
 
@@ -65,7 +71,9 @@ The helmet is the star. The iridescent green shell with the chrome hawk shifts c
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A-</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-royal-throwback.jpg" alt="Seattle Seahawks royal blue throwback jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2087207594737991927"></a></blockquote>
+</div>
 
 The royal blue throwback is confirmed for two home games, both in primetime: Week 7 against the Chiefs on Sunday, October 25 on Sunday Night Football, and Week 13 against the Cowboys on Monday, December 7 on Monday Night Football. It pairs with the silver helmet carrying the original blue and green hawk, the look Seattle wore at home from 1983 through 2001 and brought back in 2023.
 
