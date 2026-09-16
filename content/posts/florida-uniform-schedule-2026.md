@@ -1,9 +1,9 @@
 ---
-title: "Florida Uniform Schedule 2026: Every Helmet, Jersey and Pant Combination, Confirmed"
+title: "Florida Gators Uniform Schedule 2026: Every Helmet, Jersey and Pants Combo, Week by Week"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: '2026-09-12'
+updatedDate: "2026-09-16"
 excerpt: "Florida released a full game-by-game uniform schedule for 2026. Every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"

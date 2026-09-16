@@ -1,8 +1,8 @@
 ---
-title: "Seattle Seahawks 2026 Uniform Schedule: When They Wear the Royal Blue Throwback and Rivalries"
+title: "Seattle Seahawks 2026 Uniform Schedule: Throwback Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
