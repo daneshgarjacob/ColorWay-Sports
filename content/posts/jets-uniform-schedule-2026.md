@@ -2,7 +2,7 @@
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -62,7 +62,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 
 This is the one to circle. The Jets are debuting a new alternate helmet for the home opener against Green Bay on Sunday, September 20: a white shell with a white facemask, inverting the colors of the green helmet they normally wear. Paired with a white uniform, it gives them a full monochrome White Out, and the team says it will be the first time they have worn white helmets with their primary white set.
 
-The Jets are also asking the crowd to wear white, with white towels handed out at the gates. Monochrome looks are easy to get wrong, but the Jets have the palette for it, and an all-white kit under a September afternoon at MetLife should photograph as cleanly as anything they own. Worth noting the new shell is a separate piece from their throwback white helmet, which carries green striping and a gray facemask.
+The Jets are also asking the crowd to wear white, with white towels handed out at the gates. Across the field, the Packers have confirmed gold helmets, green jerseys and gold pants, so it is all white against green and gold. Monochrome looks are easy to get wrong, but the Jets have the palette for it, and an all-white kit under a September afternoon at MetLife should photograph as cleanly as anything they own. Worth noting the new shell is a separate piece from their throwback white helmet, which carries green striping and a gray facemask.
 
 
 ## Classic (Week 7 vs. Dolphins, Confirmed)

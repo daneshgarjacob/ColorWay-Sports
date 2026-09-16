@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -93,7 +93,7 @@ There is not much to say about it that has not been said. The dark green and gol
 
 ## Classic White (The Road Set)
 
-White jersey, gold pants, for six of the eight road games. The two exceptions are both set by the home team: **Week 2 at the Jets on September 20**, where New York has confirmed its White Out game, and **Week 12 at the Rams on November 25**, where Los Angeles has confirmed the Fearsome White alternate. Two clubs cannot both wear white, so Green Bay wears the green jersey in both, which puts the home set on the road twice. Add **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set and three of Green Bay's road trips this year are somebody else's uniform showcase.
+White jersey, gold pants, for six of the eight road games. The two exceptions are both set by the home team: **Week 2 at the Jets on September 20**, where New York has confirmed its White Out game, and **Week 12 at the Rams on November 25**, where Los Angeles has confirmed the Fearsome White alternate. Two clubs cannot both wear white, so Green Bay wears the green jersey in both, which puts the home set on the road twice. The Packers have confirmed the full Week 2 look at MetLife: gold helmet, green jersey, gold pants, against the Jets in all white. Add **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set and three of Green Bay's road trips this year are somebody else's uniform showcase.
 
 
 ## The 1923 Throwback Is Back for 2026
