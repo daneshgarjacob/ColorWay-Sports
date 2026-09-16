@@ -82,7 +82,7 @@ Closing the home schedule with it is the right call. A Jets-Patriots December da
 
 ## Gotham Green (The Home Base, Expected)
 
-The green home jersey is still the foundation, and it projects to the four home dates not claimed by a confirmed uniform: the Browns in Week 5, the Raiders in Week 8, the Bills in Week 10, and the Vikings in Week 17. Two of those carry announced themes of their own, a Stripe Out against Cleveland and Salute to Service against Buffalo, but the Jets did not name a jersey for either, so green is the projection rather than a confirmation.
+The green home jersey is still the foundation, and it projects to the five home dates not claimed by a confirmed uniform: the Browns in Week 5, the Raiders in Week 8, the Bills in Week 10, the Broncos in Week 14, and the Vikings in Week 17. Two of those carry announced themes of their own, a Stripe Out against Cleveland and Salute to Service against Buffalo, but the Jets did not name a jersey for either, so green is the projection rather than a confirmation.
 
 Gotham Green remains one of the more distinctive base colors in the league. Nobody else in the NFL is wearing that shade, and in a conference full of blue and red it reads instantly on broadcast.
 
@@ -130,7 +130,7 @@ At the home finale, Week 16 against the New England Patriots on Sunday, December
 
 **What is the Jets' primary uniform for 2026?**
 
-Gotham Green at home and white on the road. The Jets project to wear green for the four home games not claimed by a confirmed uniform and white for all nine road games.
+Gotham Green at home and white on the road. The Jets project to wear green for the five home games not claimed by a confirmed uniform and white for all nine road games.
 
 **How many home games do the Jets play in 2026?**
 
