@@ -126,6 +126,8 @@ Houston's system is three jerseys and a plan. Navy is the default at home, white
 
 What we like about it is the spacing. Weeks 1, 7, and 11 are far enough apart that each one lands as an event, and none of them competes with another. What we would change is the balance. Battle Red gets one date and navy gets four, and that ratio is backwards for a team whose red uniform is the one people actually want to see.
 
+How does every one of these jerseys stack up? See our [Texans jerseys 2026 ranking](/stories/texans-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Texans wearing today?**

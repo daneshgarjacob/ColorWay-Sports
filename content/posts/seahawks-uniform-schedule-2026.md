@@ -108,6 +108,8 @@ Seattle got the sequencing right in a way most teams do not. Navy carries the or
 
 The one thing missing is the action green alternate, which has no date. We are not going to complain about that. Between the royal blue throwback getting two nights and the Rivalries set getting Christmas, Seattle has already spent its non-navy games on the two best uniforms it owns, and a team with nine home dates and three showcase jerseys is running a deeper schedule than almost anyone.
 
+How does every one of these jerseys stack up? See our [Seahawks jerseys 2026 ranking](/stories/seahawks-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Seahawks wearing today?**

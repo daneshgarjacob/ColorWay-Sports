@@ -120,6 +120,8 @@ The Giants have one of the most stable wardrobes in the league and two genuinely
 
 Our only complaint is the count. The Legacy and Vintage White sets are better than the primaries they stand in for, and four games a year is the minimum a club should ask of them. Everything else on the schedule is royal blue and white, and it does not need to be anything else.
 
+How does every one of these jerseys stack up? See our [Giants jerseys 2026 ranking](/stories/new-york-giants-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Giants wearing today?**

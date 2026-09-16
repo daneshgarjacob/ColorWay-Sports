@@ -123,7 +123,7 @@ On Halloween, October 31, 2026, when Nebraska hosts Washington at Memorial Stadi
 
 **When will Louisville wear its black uniform?**
 
-Its on-field debut is at home against Stanford on Saturday, October 31. Neither Virginia nor Clemson is on Louisville's 2026 schedule, which is where some early reports placed it.
+Its on-field debut is at home against Stanford on Saturday, October 31. Neither Virginia nor Clemson is on Louisville's 2026 schedule, which is where some early reports placed it. See our [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026) for every game.
 
 **When will Washington wear its all-black DAWGS uniform?**
 

@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals 2026 Uniform Schedule: White Bengal Jersey Dates"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-15"
+updatedDate: "2026-09-16"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out twice at home, Week 10 vs. Pittsburgh on SNF and New Year's Eve vs. Baltimore."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -104,6 +104,8 @@ One more road date worth flagging: the Week 16 trip to Indianapolis is the Colts
 The system is unusual and it is worth understanding, because Cincinnati is deliberately giving up a competitive convention for a visual one. Wearing white at home means the visiting team gets to choose a colored jersey, so Pittsburgh in Week 10 and Baltimore in Week 17 can both bring their dark sets into Paycor Stadium. Most teams treat that as something to avoid. The Bengals treat it as the point, because a white-on-black divisional primetime game looks better than anything they could stage in black.
 
 The rest is simple. Orange helmet for the opener, black at home for five games, white on the road for nine, and the two White Bengal nights carved out of the middle and the end. Three helmet shells in one season, black, orange, and white, is more variety up top than most of the league gets, and Cincinnati earned that by designing a stripe that works on all three.
+
+How does every one of these jerseys stack up? See our [Bengals jerseys 2026 ranking](/stories/bengals-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

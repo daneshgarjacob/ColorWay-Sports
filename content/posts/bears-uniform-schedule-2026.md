@@ -2,7 +2,7 @@
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -120,6 +120,8 @@ Chicago has an orange alternate in the closet and has used it in recent seasons,
 The Bears are running one of the smallest closets in the NFL and it does not cost them a thing, because the thing they own is already great. Navy and orange, the wishbone C, and sixty years of not messing with it.
 
 The one swing they are taking is well placed. A brand-new Rivalries uniform, debuting against Green Bay, on Christmas Day, at Soldier Field, on Netflix. That is the biggest stage the franchise will have this season and they are using it on the rivalry that defines them. And now that we have seen the uniform, navy and burnt orange with the 1983 GSH patch and orange pants, the design deserves the stage. The scheduling was always an A, and the uniform earns an **A-**, the best set in the entire 2026 Rivalries class.
+
+How does every one of these jerseys stack up? See our [Bears jerseys 2026 ranking](/stories/bears-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 
