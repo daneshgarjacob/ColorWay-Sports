@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: '2026-09-14'
+updatedDate: "2026-09-16"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -58,8 +58,8 @@ The pants are the quietly correct decision. Cream instead of grey keeps this fro
 
 The SEC convention does most of the work here. The home team wears color, the visitor wears white, so Tennessee is in orange at Neyland and white everywhere else unless something is announced.
 
-- **Orange jersey, white pants, orange helmet.** The home set.
-- **White jersey, white pants, orange helmet.** The road set.
+- **Orange jersey, white pants, white helmet.** The home set.
+- **White jersey, white pants, white helmet.** The road set.
 - **Smokey Grey.** October 3 vs Auburn only.
 - **Dark Mode.** The all-black alternate is in the adidas rotation but **has not been assigned to a 2026 date**. We will add it here if it is.
 

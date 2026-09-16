@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: "2026-09-16"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **September 5 vs. Northern Illinois.** ★ Confirmed from the Big Ten Network broadcast: **black helmet, black jersey, gold pants**, the standard Kinnick home look for the opener. Northern Illinois came in wearing white jerseys with black pants. Iowa won 40-0, with 33 of those points in the first half.
 
-**September 12 vs. Iowa State.** ★ Confirmed from game photos: **the all-black alternate**, black Tigerhawk helmet, black jersey with white numerals and the gold and white shoulder stripes, and black pants with no gold stripe down the leg. Iowa teased the look the day before the prime-time NBC game. Iowa State wore cardinal helmets with the gold Cyclones script, white jerseys and white pants, an all-white road look the Cyclones had not worn in this series since 2012, per the pregame report. Iowa won 16-13 and kept the Cy-Hawk Trophy in Iowa City.
+**September 12 vs. Iowa State.** ★ Confirmed from game photos: **the all-black alternate**, black Tigerhawk helmet, black jersey with white numerals and the gold and white shoulder stripes, and black pants with no gold stripe down the leg. Iowa teased the look the day before the prime-time NBC game. Iowa State wore cardinal helmets with the Cyclones script in white outlined in gold, white jerseys and white pants, an all-white road look the Cyclones had not worn in this series since 2012, per the pregame report. Iowa won 16-13 and kept the Cy-Hawk Trophy in Iowa City.
 
 **September 19 vs. Northern Iowa.** Black expected. An in-state FCS opponent in an afternoon kickoff is the textbook slot for the standard black and gold home set.
 
