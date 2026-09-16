@@ -19,7 +19,7 @@ LSU is the one program in college football that wears white at home on purpose, 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #461D7C; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Home White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey, gold pants, gold helmet. The standard look in Tiger Stadium.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Purple</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The road jersey, and the one LSU traditionally brings out for a home game or two.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Purple</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The dark jersey. Because SEC hosts wear color at home, LSU is usually in white on the road too; purple comes out when a host wears white, or for the odd home game.</div></div>
   <div style="background: #FDD023; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Gold Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Constant in every set, with the LSU mark and the number on the side.</div></div>
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">None announced for 2026. The home whites already do the work an alternate would.</div></div>
 </div>
@@ -36,14 +36,14 @@ Here is the part almost nobody states plainly. **The home team is normally requi
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs McNeese</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
 **September 5 vs. Clemson.** ★ Confirmed: **white jersey, gold pants, white helmet**, the home white set. Clemson came to Baton Rouge and LSU wore white, which is the quirk this whole page turns on, and it pushed **Clemson into orange** rather than the road white they wear almost everywhere else. Orange against white under the lights in Tiger Stadium is a far better television game than orange against white would have been the other way round.
@@ -56,7 +56,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **October 3 vs. McNeese.** Home White expected.
 
-**October 10 at Kentucky.** Purple expected.
+**October 10 at Kentucky.** White expected, with Kentucky in blue at Kroger Field.
 
 **October 17 vs. Mississippi State.** Home White expected.
 
@@ -68,23 +68,23 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **November 14 vs. Texas.** Home White expected. Texas in burnt orange rather than the icy whites. Confirmed as the open date on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 
-**November 21 at Tennessee.** Purple expected.
+**November 21 at Tennessee.** White expected, with Tennessee in orange at Neyland.
 
-**November 28 at Arkansas.** Purple expected.
+**November 28 at Arkansas.** White expected, with Arkansas in cardinal at home.
 
 ## The Bottom Line
 
-White at home, purple on the road, gold helmet and gold pants throughout, and a rule change from 1995 underneath all of it. LSU's schedule is the most useful one in the SEC to read, because it tells you what four other teams are wearing too.
+White at home, white on the road against SEC hosts in color, purple only when the other side is in white, gold helmet and gold pants throughout, and a rule change from 1995 underneath all of it. LSU's schedule is the most useful one in the SEC to read, because it tells you what four other teams are wearing too.
 
 ## Frequently Asked Questions
 
 **What jersey is LSU wearing this week?**
 
-LSU wears home white at home and purple on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wears white at home and, because its SEC hosts wear color, white on most road trips too; it was in white at Ole Miss and at Alabama last season. Next up is Ole Miss in Oxford on September 19, white expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 
-White jersey, gold pants, gold helmet. The standard look in Tiger Stadium. The road jersey, and the one LSU traditionally brings out for a home game or two. Constant in every set, with the LSU mark and the number on the side.
+White jersey, gold pants, gold helmet. The standard look in Tiger Stadium. The dark jersey. Because SEC hosts wear color at home, LSU is usually in white on the road too; purple comes out when a host wears white, or for the odd home game. Constant in every set, with the LSU mark and the number on the side.
 
 **Does LSU have an alternate uniform in 2026?**
 
