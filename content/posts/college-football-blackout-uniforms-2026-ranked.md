@@ -2,7 +2,7 @@
 title: "Every 2026 College Football Blackout Uniform, Ranked and Graded: Louisville's Is an F"
 category: "College"
 date: "2026-08-15"
-updatedDate: "2026-08-15"
+updatedDate: "2026-09-16"
 excerpt: "Nebraska, Washington and Louisville all dropped black alternate jerseys this week. We graded all three uniforms, and one of them is a total identity wipe."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #000000 55%, #4B2E83 130%)"
 coverImage: "/images/posts/college-football-blackout-uniforms-2026-ranked/cover.jpg"
@@ -44,7 +44,7 @@ What replaced it is an antique gold that has nothing to do with the school. Loui
 
 The reveal leans on a boxing theme, gloves and all, and adidas has talked about a retro nod to the program's 1980s era. Neither of those ideas is bad. Both of them get buried, because the first and only thing your eye does with this uniform is ask where the red went.
 
-This is what separates a bad blackout from a failed one. A bad blackout is boring. **A failed blackout deletes the team.** Louisville is scheduled to wear this twice, against Virginia on October 4 and against Clemson on November 14.
+This is what separates a bad blackout from a failed one. A bad blackout is boring. **A failed blackout deletes the team.** Louisville debuts it at home against Stanford on October 31.
 
 ## T-1. Nebraska Cornhuskers
 
@@ -123,7 +123,7 @@ On Halloween, October 31, 2026, when Nebraska hosts Washington at Memorial Stadi
 
 **When will Louisville wear its black uniform?**
 
-Twice in 2026: against Virginia on October 4 and against Clemson on November 14.
+Its on-field debut is at home against Stanford on Saturday, October 31. Neither Virginia nor Clemson is on Louisville's 2026 schedule, which is where some early reports placed it.
 
 **When will Washington wear its all-black DAWGS uniform?**
 
