@@ -61,10 +61,12 @@ export default function Home() {
     // Wear White art), Buccaneers #6 (team closet art). Hero = Bengals (#2).
     // 9/16 (Jake): lead the grid with a tracker and a ranking story so the top of
     // the page is not all schedule posts. NFL tracker is the in-season hub; the
-    // NBA City Edition ranking is the #3 most-viewed page on the site.
-    "nfl-uniform-tracker-2026",
+    // Rivalries ranking fills the third slot with a ranking story and team art.
+    // Order matters: the tracker ("what every team is wearing this week") sits in
+    // the middle card (Jake 9/16). City Edition was pulled from the homepage.
     "bears-uniform-schedule-2026",
-    "nba-city-edition-jerseys-2026-27",
+    "nfl-uniform-tracker-2026",
+    "nfl-rivalries-uniforms-2026-ranked",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

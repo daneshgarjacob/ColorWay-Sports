@@ -1,5 +1,4 @@
 ---
-topViewsRank: 4
 title: "NBA City Edition Jerseys 2026-27 Ranked: All 30 Teams Graded"
 category: "NBA"
 date: "2026-08-27"
