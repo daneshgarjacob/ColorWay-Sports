@@ -81,7 +81,7 @@ Putting the second wearing in a Saturday night December game in Buffalo is the c
 
 The all-white Cold Front uniform, Buffalo's entry in the NFL Rivalries program and one of the best-received sets of that first 2025 wave, gets a single 2026 date: Week 11 at home against the Miami Dolphins on Sunday, November 22, the Salute to Service game. The set is built around a white shell helmet with a metal-flake finish, a frosted metallic charging buffalo, and a center stripe designed to look like cracking ice. Against Miami in late November it is the whole thesis of the Rivalries program in one image, a cold-weather team dressing like the weather and a warm-weather team visiting it. For the wider context, see our [explainer on the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program).
 
-One wearing only is the frustrating part. Cold Front is the highest-graded uniform Buffalo owns and it comes out once.
+One wearing only is the frustrating part. Cold Front is one of the more interesting uniforms Buffalo owns, and it comes out once.
 
 
 ## Red Alternate (Week 18, Confirmed)
@@ -147,6 +147,8 @@ The field at the new Highmark Stadium will not be all new. Bills chief operating
 ## How the Bills Rotation Works in 2026
 
 The system is unusually clean for a team with this many looks. Blue at home for the marquee dates, white on the road, and three different alternates each given a specific job: Nickel City twice as the new-uniform showcase, Cold Front once for Salute to Service against Miami, red once to close the year. The red helmet on Christmas Day is the fourth lever, and it is the smartest one, because it gives the road white set its own showcase night without adding another jersey to the closet. Nothing is wasted and nothing is over-worn, which is more than most teams manage. The only real gripe is that the best uniform in the building gets the fewest snaps.
+
+How does every one of these jerseys stack up? See our [Bills jerseys 2026 ranking](/stories/bills-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

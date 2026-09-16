@@ -2,7 +2,7 @@
 title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -94,6 +94,8 @@ That means New England wears white and the Lions wear Honolulu blue. Patriots.co
 New England has the pieces for a good uniform season and, as of the end of August, has committed to all of it. Nor'easter is one of the few Rivalries uniforms that solved its brief properly, using a region rather than a city, and Pat Patriot remains the best logo the franchise has ever had.
 
 The dates are right, too. The throwback gets the 2001 anniversary game and a Thursday night in December; the Rivalries set gets Buffalo at home. Three alternate games in five home dates from October on is about as much variety as a club can run without the base uniform disappearing, and for a franchise whose base uniform is its least interesting one, that is the correct balance.
+
+How does every one of these jerseys stack up? See our [Patriots jerseys 2026 ranking](/stories/patriots-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

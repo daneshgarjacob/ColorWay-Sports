@@ -2,7 +2,7 @@
 title: "Arizona Cardinals 2026 Uniform Schedule: All 17 Games Announced, Two Black Jersey Dates, and Red in Dallas"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-16"
 excerpt: "The Cardinals released the full 2026 uniform schedule: the desert Rivalries jersey once, black twice, red seven times including two road games, and white seven times."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -112,6 +112,8 @@ White covers six road games, at the Chargers in Week 1, the 49ers in Week 3, the
 Arizona's 2026 plan is four jerseys across seventeen games: red seven times, white seven times, black twice, and the desert Rivalries set once. It is a real rotation rather than a default, with red taken on the road twice and white brought home once, and it uses the whole closet.
 
 Our one complaint is the same as before. The Rivalries set is the best uniform Arizona owns and it still gets one wearing, while the black alternate gets two. Flip those numbers and this would be one of the better uniform schedules in the league, because the desert uniform does something nothing else in the closet can: it makes the Cardinals look like a team from a specific place.
+
+How does every one of these jerseys stack up? See our [Cardinals jerseys 2026 ranking](/stories/arizona-cardinals-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -70,6 +70,8 @@ Every year some version of the question comes back: when do the Chiefs finally a
 For a team that has spent the last several seasons as the most-watched franchise in the sport, that restraint is worth something. The uniform is not chasing a merchandise cycle, and it is one of a handful in the NFL you could show to a casual fan as a still frame and get an instant, correct answer.
 
 If that ever changes, it will most likely arrive through the Rivalries program, which is expanding by division and has not yet reached the AFC West. We will update this page the day it does.
+
+How does every one of these jerseys stack up? See our [Chiefs jerseys 2026 ranking](/stories/chiefs-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

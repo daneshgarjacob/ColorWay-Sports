@@ -3,7 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns own three alternate looks and have announced dates for none of them. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -102,6 +102,8 @@ We are not going to put it on the grid. If a waiver is granted and a date is nam
 Cleveland owns the best base uniform in the AFC North and spends a lot of energy trying to get away from it. The orange helmet and the brown jersey need nothing, and the fact that the franchise keeps building alternate helmets around a shell that is already the most distinctive in the league is the running joke of the whole wardrobe.
 
 That said, Alpha Dawg is genuinely good, and it has an obvious home this year in the Thursday night game against Pittsburgh. Nothing is announced yet. When it is, this page gets updated.
+
+How does every one of these jerseys stack up? See our [Browns jerseys 2026 ranking](/stories/browns-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 
