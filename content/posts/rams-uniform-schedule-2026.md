@@ -1,8 +1,8 @@
 ---
+topViewsRank: 9
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-topViewsRank: 6
 updatedDate: "2026-09-14"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"

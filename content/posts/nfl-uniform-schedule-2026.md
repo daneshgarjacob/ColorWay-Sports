@@ -1,4 +1,5 @@
 ---
+topViewsRank: 2
 title: "2026 NFL Uniform Schedule: Every Team's Jersey and Alternate Dates"
 category: "NFL"
 date: "2026-08-18"

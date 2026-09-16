@@ -12,7 +12,6 @@ gradient: 'linear-gradient(135deg, #003278 0%, #C0111F 50%, #003278 100%)'
 league: mlb
 teams:
   - texas-rangers
-topViewsRank: 10
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/rangers.png"
 cardStyle: words

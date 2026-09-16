@@ -1,4 +1,5 @@
 ---
+topViewsRank: 11
 title: "2026 MLB Uniform Tracker: What Every Team Wore Last Night, Updated Daily"
 author: "colorway-sports-staff"
 resurfaceOnUpdate: true

@@ -57,13 +57,11 @@ export default function Home() {
     // Every slug here MUST have a real coverImage. The hero plus these three are
     // the top of the page, and a words-only or ColorWay-generated card is never
     // allowed in that group. Check the post's frontmatter before adding one.
-    "nba-september-15-2026-uniform-reveal",
+    // Refreshed 9/16 on GSC 7d (9/8-9/14): Bears #1 page, Texans #4 (team's
+    // Wear White art), Buccaneers #6 (team closet art). Hero = Bengals (#2).
     "bears-uniform-schedule-2026",
-    // Bills swapped out 9/7: its cover is a ColorWay jersey composite, not a
-    // real photo, and Jake does not want generated art in the top group. The
-    // Buccaneers cover is the team's own 2026 closet art.
+    "texans-uniform-schedule-2026",
     "buccaneers-uniform-schedule-2026",
-    "nuggets-court-2026-27",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

@@ -1,4 +1,5 @@
 ---
+topViewsRank: 1
 title: "Detroit Lions 2026 Uniform Schedule: Every Jersey, Every Week, and the November 1 Rivalries Debut"
 category: NFL
 date: "2026-08-16"

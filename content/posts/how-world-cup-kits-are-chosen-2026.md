@@ -11,7 +11,6 @@ coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
 league: "soccer"
 teams: ["international-competitions"]
-topViewsRank: 8
 ---
 
 <p style="font-size: 1rem; line-height: 1.8; color: #2a2a2a; letter-spacing: normal; margin: 0 0 1.25em;">Most fans assume the "home" team wears its home kit, the other team changes if there's a problem, and that's the whole story. At a World Cup played almost entirely on neutral ground, it does not work like that at all — and the teams do not even get the final say. Every kit pairing you see across the 104 matches of the 2026 World Cup is decided in advance, by FIFA, and the first thing it cares about is not tradition or who is nominally at home. It is contrast. Here is exactly how every match kit gets chosen, who chooses it, and why your team sometimes walks out in a shirt you have barely seen.</p>

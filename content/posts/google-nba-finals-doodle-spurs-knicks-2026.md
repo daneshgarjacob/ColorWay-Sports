@@ -12,7 +12,6 @@ logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["san-antonio-spurs", "new-york-knicks"]
 featuredOrder: 1
-topViewsRank: 16
 ---
 
 <div style="margin: 0 0 1.5em;">

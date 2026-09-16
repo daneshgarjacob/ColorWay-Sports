@@ -1,4 +1,5 @@
 ---
+topViewsRank: 7
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
