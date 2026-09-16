@@ -108,6 +108,8 @@ Four alternates in one season is a lot, and the Chargers can do it because their
 
 The pants choreography is the tell that somebody in the building actually plans this. Across the thirteen base-uniform games, every pant color appears at least twice under each jersey, no combination repeats in back-to-back games, and the two showcase versions bookend the season: powder over white on opening day, white over powder in the Week 18 finale. The first eight weeks are entirely base uniforms, then the alternates land in a cluster from Week 9 through Week 17, which keeps the powder blue from feeling like a rerun and puts the best-looking sets in the part of the season people actually watch.
 
+How does every one of these jerseys stack up? See our [Chargers jerseys 2026 ranking](/stories/chargers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Chargers wearing today?**

@@ -2,7 +2,7 @@
 title: "Detroit Lions 2026 Uniform Schedule: Every Jersey, Every Week, and the November 1 Rivalries Debut"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -135,6 +135,8 @@ If Detroit does reach for the black, Week 16 against the Giants on Monday night 
 Detroit spent a decade as one of the worst-dressed teams in the league and is now, after the 2024 clean-up, one of the best. Honolulu blue and silver is a genuinely unusual pairing that nobody else can use, and the current set finally stopped apologising for it.
 
 The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, bone white with carbon-fiber numbers under an electric-blue helmet, is a genuine departure that we grade a **C**: the base and the helmet land, the jersey shape does not.
+
+How does every one of these jerseys stack up? See our [Lions jerseys 2026 ranking](/stories/lions-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

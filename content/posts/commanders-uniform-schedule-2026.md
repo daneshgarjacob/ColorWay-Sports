@@ -80,6 +80,8 @@ Washington runs a cleaner system than most: burgundy for the heritage and divisi
 
 For the wider context on how this closet came together, see our [Commanders new uniforms breakdown](/stories/commanders-new-uniforms-2026) and our running list of [every NFL team's 2026 uniform release dates](/stories/nfl-uniform-release-dates-2026).
 
+How does every one of these jerseys stack up? See our [Commanders jerseys 2026 ranking](/stories/commanders-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Commanders wearing today?**

@@ -2,7 +2,7 @@
 title: "Boise State's 40th Anniversary Blue Turf Helmet Revealed: Seven Hashmarks, the 1986 Numerals, and the Original Bronco Back on the Shell"
 category: "College"
 date: "2026-08-19"
-updatedDate: "2026-08-19"
+updatedDate: "2026-09-16"
 excerpt: "Boise State revealed a helmet marking 40 years of The Blue. Every element on it refers to a specific piece of the field's history, including the 1986 numerals."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 coverImage: "/images/posts/boise-state-blue-turf-40th-anniversary-helmet-2026/cover.jpg"
@@ -56,7 +56,7 @@ The one thing to watch is legibility at speed. These details are gorgeous in a s
 
 Anniversary uniforms usually settle for a patch and a number. This one went looking for the 1986 turf font, counted the surface installations, and dug up the original midfield mark. It is a helmet that only makes sense for one program in the country, which is the highest compliment a design like this can earn. The blue-on-blue will cost it some clarity from the upper deck, and it is still worth it.
 
-Boise State has not yet said which game the helmet debuts in. The 40th anniversary of The Blue is being marked across the whole 2026 season, so a home date on the field itself would be the obvious stage.
+The helmet debuted in the home opener against Memphis on September 12, a 38-20 Boise State win, paired with the blue jersey and blue pants. See our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026) for every game.
 
 ## Frequently Asked Questions
 

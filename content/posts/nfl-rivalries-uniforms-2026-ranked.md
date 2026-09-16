@@ -2,7 +2,7 @@
 title: "Every NFL Rivalries Uniform, Ranked and Graded: All 16 From Worst to Best"
 category: NFL
 date: "2026-08-25"
-updatedDate: "2026-09-02"
+updatedDate: "2026-09-16"
 excerpt: "All 16 NFL Rivalries uniforms ranked and graded, the 2025 class and the 2026 class together. Four of them failed, one is the best alternate in the league, and the gap is enormous."
 gradient: "linear-gradient(135deg, #0B162A 0%, #006778 55%, #C83803 130%)"
 coverImage: "/images/posts/nfl-rivalries-uniforms-2026-ranked/cover-v5.jpg"
@@ -55,16 +55,7 @@ A gorgeous helmet marooned on someone else's uniform. Take the metallic blue she
 
 The details make it worse rather than better. Putting the horseshoe on a Colts jersey for the first time ever should be a landmark, and it arrives as a silver mark on a grey shirt where it barely separates from the fabric. The finished silhouette, bright lid over grey body, belongs to Detroit. [More in the Colts schedule post](/stories/colts-uniform-schedule-2026).
 
-## 12. San Francisco 49ers, For the Faithful — D
-
-<img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-49ers.jpg" alt="San Francisco 49ers Rivalries jersey, all black with red saloon-style numbers outlined in gold, red and black sleeve stripes, a gold Faithful script above the number and Faithful to the Bay inside the collar" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via Nike</p>
-
-The players designed this one, and it shows in the two things they got right and the one thing they got wrong. The saloon numerals, red with a gold outline in a letterform pulled from the club's Gold Rush wordmark, are the best numbers in the 2025 class, and the gold-coated facemask is a genuinely good piece of hardware. The Faithful script above the number is a nice sentiment and a small one.
-
-The wrong thing is everything else, because everything else is black. San Francisco's identity is scarlet and gold, one of the three or four most valuable colour pairings in American sport, and this set reduces it to stripes on a black jersey, black pants and a black helmet. From the upper deck it is a dark uniform with red numbers, which describes Atlanta and Arizona as easily as it describes the 49ers. The Faithful have been arguing about it since the day it dropped, and it returns in Week 14 against the Rams. [More in the 49ers schedule post](/stories/49ers-uniform-schedule-2026).
-
-## 11. Los Angeles Rams, Midnight Mode — C-
+## 12. Los Angeles Rams, Midnight Mode — C-
 
 <img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-rams.jpg" alt="Los Angeles Rams Midnight Mode Rivalries uniform, a matte near-black jersey with white numbers outlined in blue, sol yellow and royal blue horn shoulders, and a black helmet with a yellow horn and RAMS bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Los Angeles Rams</p>
@@ -73,7 +64,7 @@ Midnight Mode is built on SoFi Stadium at night, a matte near-black base with a 
 
 The rest is a dark alternate for a team whose best asset is royal blue and sol yellow in Southern California daylight, and the Rams already carry more uniforms than any club in the league. The dotted gradient under the shoulder horns is the modern treatment most people wanted gone, the white numbers with a thin blue outline sit flat on the black body, and the whole thing lands closer to a Color Rush leftover than a rivalry uniform. It gets its one date on Christmas Day at Seattle, across from the set ranked second on this list, which will not help it. [More in the Rams schedule post](/stories/rams-uniform-schedule-2026).
 
-## 10. New England Patriots, Nor'easter — C
+## 11. New England Patriots, Nor'easter — C
 
 <img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-patriots.jpg" alt="New England Patriots Nor'easter Rivalries uniform on Drake Maye, a weathered Storm Blue jersey with white numbers, textured shoulders and an NE sleeve mark, white pants, and a white helmet with a navy stripe and star" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the New England Patriots</p>
@@ -82,7 +73,7 @@ Storm Blue is a real colour, not just a darker navy, and the weathered finish on
 
 What holds it at a C is that it solves a problem New England does not have. The club already wears a blue jersey with white numbers and white pants at home, and from the stands this is that uniform with the contrast turned down and a texture you cannot see. The details you can see, the NE on the sleeve and the shoulder pattern, are the sort of thing you need to be told about. It comes out in Week 13 against Buffalo. [More in the Patriots schedule post](/stories/patriots-uniform-schedule-2026).
 
-## 9. Detroit Lions — C
+## 10. Detroit Lions — C
 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform, bone white jersey with DETROIT wordmark and carbon fiber numbers under an electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Detroit Lions</p>
@@ -90,6 +81,15 @@ What holds it at a C is that it solves a problem New England does not have. The 
 The first set on this list with real ideas that survive contact with a football field. The bone shade is a warmer, richer base than a standard white and gives the whole thing texture, and filling italicized numerals with a carbon-fiber weave is a clever way to say Motor City without writing it out. The electric blue helmet is the best alternate lid Detroit has ever worn.
 
 What holds it at a C is the jersey underneath. Strip out the carbon fill and you have a white shirt with black shoulder wedges and blue trim, a silhouette Carolina already owns, and none of the Detroit-specific thinking lives above the waist where the camera sits. [More in the Lions schedule post](/stories/lions-uniform-schedule-2026).
+
+## 9. San Francisco 49ers, For the Faithful — C+
+
+<img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-49ers.jpg" alt="San Francisco 49ers Rivalries jersey, all black with red saloon-style numbers outlined in gold, red and black sleeve stripes, a gold Faithful script above the number and Faithful to the Bay inside the collar" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via Nike</p>
+
+The players designed this one, and it shows in the two things they got right and the one thing they got wrong. The saloon numerals, red with a gold outline in a letterform pulled from the club's Gold Rush wordmark, are the best numbers in the 2025 class, and the gold-coated facemask is a genuinely good piece of hardware. The Faithful script above the number is a nice sentiment and a small one.
+
+What holds it back is how much of it is black. San Francisco's identity is scarlet and gold, one of the three or four most valuable color pairings in American sport, and this set reduces it to stripes on a black jersey, black pants and a black helmet. From the upper deck it is a dark uniform with red numbers, which describes Atlanta and Arizona as easily as it describes the 49ers. The details are strong enough to carry it to a C+, the top of the middle tier, but the base color keeps it out of the B range. It returns in Week 14 against the Rams. [More in the 49ers schedule post](/stories/49ers-uniform-schedule-2026).
 
 ## 8. New York Jets, Gotham City Football — C+
 
@@ -189,7 +189,7 @@ Sixteen. The AFC East and NFC West (Bills, Dolphins, Jets, Patriots, 49ers, Card
 
 **Which 2025 Rivalries uniform is the best?**
 
-Seattle's, at a B+. Buffalo's Cold Front is next at a B-, then the Cardinals and Jets at C+, the Patriots at C, the Rams at C-, the 49ers at D and Miami's Dark Water at F.
+Seattle's, at a B+. Buffalo's Cold Front is next at a B-, then the Cardinals, Jets and 49ers at C+, the Patriots at C, the Rams at C-, and Miami's Dark Water at F.
 
 **When does each team wear its Rivalries uniform?**
 

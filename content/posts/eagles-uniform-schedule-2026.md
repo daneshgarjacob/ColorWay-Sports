@@ -95,6 +95,8 @@ Midnight green is a genuinely unusual color and the Eagles deserve credit for st
 White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
 
 
+How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranking](/stories/eagles-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Eagles wearing today?**

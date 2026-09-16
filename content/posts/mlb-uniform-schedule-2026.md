@@ -246,6 +246,8 @@ Everyone else gives you one guarantee at most. If your team runs a City Connect,
 
 The single biggest reason so many teams have drifted from "no system" to "partial" is the City Connect program. Nearly every club now owns one, and the easiest way to guarantee attention for it is to lock it to a weeknight. Friday is the runaway favorite. If you want a deeper look at the alternates themselves, we ranked the full slate in our [2026 MLB City Connect ranking](/stories/mlb-city-connect-jerseys-2026-ranked). Boston's Fenway Green and Kansas City's Forever Fountains are early standouts, while a few teams, most notably the [Cubs](/stories/cubs-uniform-schedule-2026), still do not have one at all.
 
+Heading into October? Our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026) covers who picks the jersey in the playoffs and what every contender has been wearing.
+
 ## Frequently Asked Questions
 
 **What jersey is my MLB team wearing today?**

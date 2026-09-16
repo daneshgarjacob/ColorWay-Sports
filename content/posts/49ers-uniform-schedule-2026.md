@@ -2,7 +2,7 @@
 title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -95,6 +95,8 @@ Scarlet at Levi's, white on the road, and four dates that break the pattern. Wee
 ## The Bottom Line
 
 The 49ers' 2026 wardrobe is carried entirely by the 1994 throwbacks, three chances to see one of the best looks the sport has ever produced, including two in primetime. The black Rivalries returning for Week 14 against the Rams is the one sour note, a good black uniform on a team that has no business wearing black. Wear the throwbacks, frame the scarlet, and leave the blackout to the teams that actually need it.
+
+How does every one of these jerseys stack up? See our [49ers jerseys 2026 ranking](/stories/49ers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

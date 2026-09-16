@@ -115,6 +115,8 @@ Dallas has one white helmet shell and it appears on four dates in 2026, in two g
 
 The one combination missing from the 2026 schedule is the one Dallas debuted on Christmas Day 2025 at Washington: the white helmet with the **navy jersey** and white pants, a pairing the franchise had never worn before. It was a one-off for a holiday road game, and with all three 2026 navy dates assigned as the standard navy look, it does not return this season unless the team changes a listing.
 
+How does every one of these jerseys stack up? See our [Cowboys jerseys 2026 ranking](/stories/cowboys-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Cowboys wearing today?**

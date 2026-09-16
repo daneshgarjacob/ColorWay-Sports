@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -186,6 +186,8 @@ Four things to know and you can answer any week of the season.
 Denver deserves credit for publishing the whole thing up front, which is more than most of the league does, and for putting its alternates in windows where people will actually see them. The Week 8 orange game against Kansas City and the Christmas navy game are both well placed.
 
 The miss is the throwback. Two games for the best uniform in the building, the same number as an alternate that is two years old, is the kind of allocation that makes sense on a spreadsheet and not to anybody who has seen the royal blue set under lights. Give it three next year.
+
+How does every one of these jerseys stack up? See our [Broncos jerseys 2026 ranking](/stories/broncos-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 
