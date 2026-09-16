@@ -75,10 +75,10 @@ What holds it at a C is that it solves a problem New England does not have. The 
 
 ## 10. Detroit Lions — C
 
-<img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform, bone white jersey with DETROIT wordmark and carbon fiber numbers under an electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform, silver jersey with DETROIT wordmark and carbon fiber numbers under an electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Detroit Lions</p>
 
-The first set on this list with real ideas that survive contact with a football field. The bone shade is a warmer, richer base than a standard white and gives the whole thing texture, and filling italicized numerals with a carbon-fiber weave is a clever way to say Motor City without writing it out. The electric blue helmet is the best alternate lid Detroit has ever worn.
+The first set on this list with real ideas that survive contact with a football field. The silver shade is a richer base than a standard white and gives the whole thing texture, and filling italicized numerals with a carbon-fiber weave is a clever way to say Motor City without writing it out. The electric blue helmet is the best alternate lid Detroit has ever worn.
 
 What holds it at a C is the jersey underneath. Strip out the carbon fill and you have a white shirt with black shoulder wedges and blue trim, a silhouette Carolina already owns, and none of the Detroit-specific thinking lives above the waist where the camera sits. [More in the Lions schedule post](/stories/lions-uniform-schedule-2026).
 

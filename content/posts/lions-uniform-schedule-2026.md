@@ -14,7 +14,7 @@ league: nfl
 teams: ["detroit-lions"]
 ---
 
-The Lions have one confirmed uniform date in 2026 and it lands in the middle of the best stretch of their schedule. Detroit debuts its new Nike Rivalries uniform on **Sunday, November 1 against the Minnesota Vikings at Ford Field**, the design was unveiled August 25, bone white with carbon-fiber numbers and an electric-blue helmet, and they wear it exactly once. Here is the full Detroit Lions 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything still projected.
+The Lions have one confirmed uniform date in 2026 and it lands in the middle of the best stretch of their schedule. Detroit debuts its new Nike Rivalries uniform on **Sunday, November 1 against the Minnesota Vikings at Ford Field**, the design was unveiled August 25, silver with carbon-fiber numbers and an electric-blue helmet, and they wear it exactly once. Here is the full Detroit Lions 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything still projected.
 
 ## The Full 2026 Lions Uniform Schedule, Week by Week
 
@@ -52,22 +52,22 @@ Only Week 8 is confirmed by the team. Everything else follows the standard rule:
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform reveal, player in the white jersey with DETROIT wordmark, carbon fiber numbers, and electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
-The design landed with the rest of the 2026 class on August 25, and Detroit went somewhere it has never gone before. The jersey is an off-white that reads bone rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black returns as a real accent alongside the blue, a shoulder pattern mimics a lion's gaze, and "Defend the Den" is stitched on the back neckline. The headliner is the helmet: a metallic electric-blue shell with glossy carbon-fiber racing stripes and a carbon-fiber lion logo, the loudest lid Detroit has ever put on the field.
+The design landed with the rest of the 2026 class on August 25, and Detroit went somewhere it has never gone before. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black returns as a real accent alongside the blue, a shoulder pattern mimics a lion's gaze, and "Defend the Den" is stitched on the back neckline. The headliner is the helmet: a metallic electric-blue shell with glossy carbon-fiber racing stripes and a carbon-fiber lion logo, the loudest lid Detroit has ever put on the field.
 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-helmet.jpg" alt="Detroit Lions Rivalries electric blue helmet with carbon fiber stripes and carbon fiber lion logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
-Our first take: this is the interesting one. The bone shade genuinely works, a warmer, richer base than a standard white that gives the whole set some texture, and the carbon-fiber numbers are a clever way to do "Motor City" without writing it out. The helmet is a real upgrade on the flat blue alternate shells Detroit has run in recent seasons, though it still does not touch the classic silver primary. The honest knock is on the jersey itself: strip away the carbon fill and what is left is a white shirt with black shoulder wedges and blue trim, which is a silhouette Carolina already owns, and none of the Detroit-specific ideas live above the waist where the camera actually sits.
+Our first take: this is the interesting one. The silver shade genuinely works, a richer base than a standard white that gives the whole set some texture, and the carbon-fiber numbers are a clever way to do "Motor City" without writing it out. The helmet is a real upgrade on the flat blue alternate shells Detroit has run in recent seasons, though it still does not touch the classic silver primary. The honest knock is on the jersey itself: strip away the carbon fill and what is left is a white shirt with black shoulder wedges and blue trim, which is a silhouette Carolina already owns, and none of the Detroit-specific ideas live above the waist where the camera actually sits.
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #0076B6 0%, #1A1A1A 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 118, 182, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
   <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">The Bone Base and the Blue Helmet Work · The Jersey Borrows Someone Else's Outline</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">The Silver Base and the Blue Helmet Work · The Jersey Borrows Someone Else's Outline</p>
 </div>
 
-Fifth in the 2026 class. The bone shade is a real choice and the electric-blue carbon helmet is the best alternate lid Detroit has put on the field, both of which keep this comfortably out of the bottom tier. What holds it at a C is that the racing story stops at the numbers, and the rest of the jersey settles into a shape that reads as somebody else's road white before it reads as Honolulu blue and silver.
+Fifth in the 2026 class. The silver shade is a real choice and the electric-blue carbon helmet is the best alternate lid Detroit has put on the field, both of which keep this comfortably out of the bottom tier. What holds it at a C is that the racing story stops at the numbers, and the rest of the jersey settles into a shape that reads as somebody else's road white before it reads as Honolulu blue and silver.
 
-<img src="/images/posts/lions-uniform-schedule-2026/rivalries-detroit-flex.jpg" alt="Detroit Lions Rivalries uniform, player flexing in the bone white jersey with carbon fiber numbers and blue trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<img src="/images/posts/lions-uniform-schedule-2026/rivalries-detroit-flex.jpg" alt="Detroit Lions Rivalries uniform, player flexing in the silver jersey with carbon fiber numbers and blue trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
 The Lions wear the set **one time**: Sunday, November 1, at 1:00 p.m. Eastern, at home against Minnesota, and it stays in the rotation for three seasons.
@@ -134,7 +134,7 @@ If Detroit does reach for the black, Week 16 against the Giants on Monday night 
 
 Detroit spent a decade as one of the worst-dressed teams in the league and is now, after the 2024 clean-up, one of the best. Honolulu blue and silver is a genuinely unusual pairing that nobody else can use, and the current set finally stopped apologising for it.
 
-The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, bone white with carbon-fiber numbers under an electric-blue helmet, is a genuine departure that we grade a **C**: the base and the helmet land, the jersey shape does not.
+The one swing this year is the Rivalries uniform, and the placement is smart: the biggest divisional game they have, at home, in the early window, with Minnesota returning the favour six weeks later. The design itself, silver with carbon-fiber numbers under an electric-blue helmet, is a genuine departure that we grade a **C**: the base and the helmet land, the jersey shape does not.
 
 How does every one of these jerseys stack up? See our [Lions jerseys 2026 ranking](/stories/lions-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
@@ -162,7 +162,7 @@ Once, in Week 8 on Sunday, November 1 at 1:00 p.m. Eastern, at home against the 
 
 **Have the Lions revealed their Rivalries uniform?**
 
-Yes, on August 25. It is a bone-white jersey with a DETROIT wordmark, italicized carbon-fiber numbers inspired by the city's car and racing culture, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. It stays in the rotation for three seasons.
+Yes, on August 25. It is a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers inspired by the city's car and racing culture, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. It stays in the rotation for three seasons.
 
 **What are the Lions wearing in Munich?**
 
@@ -182,7 +182,7 @@ Three on the current schedule: the Honolulu blue home set, the white road set, a
 
 **Why are the Lions wearing white at home?**
 
-In 2026 it happens once, and it is the Rivalries uniform: a bone-white jersey with carbon-fiber numbers and an electric-blue helmet, worn at Ford Field against the Minnesota Vikings on Sunday, November 1. Every other home game on the schedule is Honolulu blue.
+In 2026 it happens once, and it is the Rivalries uniform: a silver jersey with carbon-fiber numbers and an electric-blue helmet, worn at Ford Field against the Minnesota Vikings on Sunday, November 1. Every other home game on the schedule is Honolulu blue.
 
 **Why do the Lions wear Honolulu blue?**
 

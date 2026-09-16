@@ -2,7 +2,7 @@
 title: "What Is the NFL Rivalries Program? The Alternate Uniforms Teams Wear Once a Year, Explained"
 category: NFL
 date: "2026-07-23"
-updatedDate: "2026-08-25"
+updatedDate: "2026-09-16"
 excerpt: "All eight 2026 Rivalries uniforms are out: HOUSTON/US, Anvil Strike, Bold City, Music City, and the NFC North class. Here is how the program works and every reveal."
 gradient: "linear-gradient(135deg, #013369 0%, #101820 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -32,7 +32,7 @@ We have now graded all eight. It is the widest spread the program has produced i
 **NFC North**
 
 - [Chicago Bears](/stories/bears-uniform-schedule-2026) — "Return of the Monsters": navy and burnt orange, the 1983 GSH patch, orange pants and striped socks. Debuts Week 16 vs the Packers, Christmas Day on Netflix. **Our grade: A-, the best set in the class**
-- [Detroit Lions](/stories/lions-uniform-schedule-2026) — bone white with carbon-fiber numbers and an electric-blue carbon-striped helmet. Debuts Week 8 vs the Vikings, November 1. **Our grade: C**
+- [Detroit Lions](/stories/lions-uniform-schedule-2026) — silver with carbon-fiber numbers and an electric-blue carbon-striped helmet. Debuts Week 8 vs the Vikings, November 1. **Our grade: C**
 - [Green Bay Packers](/stories/packers-uniform-schedule-2026) — a 1919 fan-ownership tribute: hunter green, stock-certificate striping, cream matte helmet with the Lombardi-era GB logo. Debuts Week 5 vs the Bears, October 11. **Our grade: F**
 - [Minnesota Vikings](/stories/vikings-uniform-schedule-2026) — deep purple, ivory, and gold with rune-carved numbers and SKOL in runes on the bumper. Debuts Week 15 vs the Lions on Sunday Night Football, December 20. **Our grade: F**
 

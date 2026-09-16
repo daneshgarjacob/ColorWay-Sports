@@ -4,7 +4,7 @@ category: NFL
 date: "2026-09-16"
 updatedDate: "2026-09-16"
 author: "colorway-sports-staff"
-excerpt: "Lions jerseys 2026, ranked and graded: the Honolulu blue home and white road uniforms, plus the bone-white Rivalries set Detroit wears once, on November 1."
+excerpt: "Lions jerseys 2026, ranked and graded: the Honolulu blue home and white road uniforms, plus the silver Rivalries set Detroit wears once, on November 1."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-detroit-lions.png"
@@ -15,7 +15,7 @@ teams:
   - detroit-lions
 ---
 
-Detroit's 2026 closet is three uniforms deep, and two of them are the same idea: Honolulu blue and silver, the pairing nobody else in the league can use. The 2024 clean-up gave the Lions sharper numbers and dropped black from the primary set, and it made them one of the best-dressed teams in the NFL. The third uniform is the new one, the bone-white Rivalries set with carbon-fiber numbers, and it is the only true departure on the Lions jersey schedule 2026 has to offer.
+Detroit's 2026 closet is three uniforms deep, and two of them are the same idea: Honolulu blue and silver, the pairing nobody else in the league can use. The 2024 clean-up gave the Lions sharper numbers and dropped black from the primary set, and it made them one of the best-dressed teams in the NFL. The third uniform is the new one, the silver Rivalries set with carbon-fiber numbers, and it is the only true departure on the Lions jersey schedule 2026 has to offer.
 
 Here is every Detroit Lions jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 
@@ -30,11 +30,11 @@ Here is every Detroit Lions jersey and uniform for 2026, ranked worst to first a
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2093150718161023154"></a></blockquote>
 </div>
 
-The one new Lions jersey in 2026 is the most interesting thing Detroit has put on a field in years, and it still finishes last here. The jersey is an off-white that reads as bone rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as a real accent, the shoulder pattern is meant to mimic a lion's gaze, and "Defend the Den" is stitched on the back neckline.
+The one new Lions jersey in 2026 is the most interesting thing Detroit has put on a field in years, and it still finishes last here. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as a real accent, the shoulder pattern is meant to mimic a lion's gaze, and "Defend the Den" is stitched on the back neckline.
 
 It pairs with the best part of the set: a metallic electric-blue helmet with glossy carbon-fiber racing stripes and a carbon-fiber lion logo. We ranked it third in the [2026 Rivalries helmet class](/stories/nfl-rivalries-helmets-2026-ranked), and it is the best alternate lid Detroit has ever worn. The team has not said which pants go with it.
 
-The C is the grade we gave it at the August 25 reveal, and the reasoning has not changed. The bone shade and the carbon-fill numbers are real ideas, but strip them out and the jersey is a white shirt with black shoulder wedges and blue trim, a silhouette Carolina already owns. None of the Detroit-specific thinking lives above the waist, where the camera sits. It finished ninth of sixteen in our [full Rivalries ranking](/stories/nfl-rivalries-uniforms-2026-ranked).
+The C is the grade we gave it at the August 25 reveal, and the reasoning has not changed. The silver shade and the carbon-fill numbers are real ideas, but strip them out and the jersey is a white shirt with black shoulder wedges and blue trim, a silhouette Carolina already owns. None of the Detroit-specific thinking lives above the waist, where the camera sits. It finished ninth of sixteen in our [full Rivalries ranking](/stories/nfl-rivalries-uniforms-2026-ranked).
 
 When it is worn in 2026: once, in Week 8 on Sunday, November 1, at 1:00 p.m. Eastern, at home against the Vikings at Ford Field. It is the only uniform date the Lions have confirmed, and the set stays in the rotation for three seasons.
 
@@ -88,13 +88,13 @@ For the week-by-week plan, the [Lions uniform schedule](/stories/lions-uniform-s
 
 Detroit's primaries are the reason this team went from one of the worst-dressed clubs in the league to one of the best. Honolulu blue is an A- that nobody else can copy, and the white road set is a B+ held back only by how much silver it stacks next to white.
 
-The Rivalries uniform is the swing, and it lands at a C. The bone base and the electric-blue carbon helmet are genuinely good ideas, but the jersey shape underneath does not say Detroit. The good news is that the Lions wear it once, and they spend the other sixteen games in two uniforms that already do.
+The Rivalries uniform is the swing, and it lands at a C. The silver base and the electric-blue carbon helmet are genuinely good ideas, but the jersey shape underneath does not say Detroit. The good news is that the Lions wear it once, and they spend the other sixteen games in two uniforms that already do.
 
 ## Frequently Asked Questions
 
 **What jerseys do the Lions have in 2026?**
 
-Three are on the 2026 schedule: the Honolulu blue home jersey, the white road jersey, and the new bone-white Rivalries uniform, which Detroit wears once, on November 1 against the Vikings.
+Three are on the 2026 schedule: the Honolulu blue home jersey, the white road jersey, and the new silver Rivalries uniform, which Detroit wears once, on November 1 against the Vikings.
 
 **What is the best Lions jersey?**
 
@@ -106,7 +106,7 @@ In Week 2, Detroit plays at the Buffalo Bills on Thursday, September 17, on Thur
 
 **Do the Lions have a new jersey in 2026?**
 
-Yes, one. The Rivalries uniform was revealed on August 25: a bone-white jersey with a DETROIT wordmark, italicized carbon-fiber numbers, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. We grade it a C.
+Yes, one. The Rivalries uniform was revealed on August 25: a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. We grade it a C.
 
 **When do the Lions wear the Rivalries uniform?**
 
