@@ -86,7 +86,7 @@ For the background on how the waves and the rules work, see our [Rivalries progr
 
 The season opens on Wednesday, September 9, which is itself unusual, and Seattle raises its Super Bowl LX championship banner before kickoff. The opponent is New England, the team the Seahawks beat to win it.
 
-No special uniform has been announced for the night. College navy is the projection, and it is the sensible one: a banner ceremony is not the place to introduce a costume, and the navy set is what Seattle wore in the Super Bowl itself. If the team were going to add a fourth uniform game, this would be the obvious candidate, and it has not.
+Seattle wore full navy for it, navy helmet, navy jersey and navy pants, against New England in a silver helmet, white jersey and navy pants. It was the sensible call: a banner ceremony is not the place to introduce a costume, and the navy set is what Seattle wore in the Super Bowl itself. See the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) for the full Week 1 log.
 
 ## College Navy at Home (The Base Set, Expected)
 
@@ -136,7 +136,7 @@ Once, on Christmas Day, Friday, December 25 at home against the Los Angeles Rams
 
 **What do the Seahawks wear for the Super Bowl LX banner game?**
 
-No uniform has been announced. Seattle raises the championship banner before the Week 1 opener against New England on Wednesday, September 9, and college navy is our projection rather than a confirmation.
+Full navy: navy helmet, navy jersey and navy pants. Seattle raised the championship banner before the Week 1 opener against New England on Wednesday, September 9, and wore the college navy set head to toe.
 
 **Do the Seahawks wear action green in 2026?**
 
