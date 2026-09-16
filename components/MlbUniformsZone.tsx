@@ -1,7 +1,9 @@
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 import { getMotd } from "@/lib/mlbHomepage";
+import { buildMlbTonight } from "@/lib/mlbTonight";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // Friday belongs with the weekend, not the work week. Across every day logged in
 // 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
@@ -70,6 +72,55 @@ export default async function MlbUniformsZone() {
   const motd = getMotd(post.contentHtml);
   const href = `/stories/${TRACKER_SLUG}`;
 
+  // TONIGHT, DATED. The NFL band above this one is forward-looking ("Week 2,
+  // Sep 16-Sep 21. 10 of 32 are confirmed"), while the MLB zone only ever said
+  // "Last Night". Same idea here, counted off the slate and confirmed files the
+  // daily pass writes, so the two bands read as one system. When there is no
+  // slate, no games, or nothing confirmed yet, the line falls back to the last
+  // night we actually logged, which is the card below.
+  const tonight = buildMlbTonight();
+  const recapDay = data?.day ?? null;
+  const trackerLink = (
+    <Link prefetch={false} href={href} className="font-semibold text-orange hover:underline">
+      daily tracker
+    </Link>
+  );
+
+  let dek: ReactNode = null;
+  if (tonight && tonight.games > 0 && tonight.confirmedGames > 0) {
+    dek = (
+      <>
+        What every team is wearing tonight, {tonight.day}. {tonight.confirmedGames} of the{" "}
+        {tonight.games} games are confirmed so far, and the rest land as the lineups come out. Tap
+        the {trackerLink} for every confirmed jersey.
+      </>
+    );
+  } else if (tonight && tonight.games > 0) {
+    dek = (
+      <>
+        {tonight.games} games tonight, {tonight.day}. None are confirmed yet
+        {recapDay ? <>, so below is our last logged night, {recapDay}</> : null}. The {trackerLink}{" "}
+        updates as the jerseys land.
+      </>
+    );
+  } else if (tonight) {
+    dek = (
+      <>
+        No MLB games today, {tonight.day}.{" "}
+        {recapDay ? <>Our last logged night is {recapDay}, below. </> : null}Tap the {trackerLink}{" "}
+        for the full log.
+      </>
+    );
+  } else if (recapDay) {
+    dek = (
+      <>
+        Every jersey from our last logged night, {recapDay}, plus the season plan for all 30 teams.
+        Tap the {trackerLink} for the full log.
+      </>
+    );
+  }
+  const showTonightNumbers = Boolean(tonight && tonight.confirmedGames > 0);
+
   return (
     <section className="w-full border-y border-border bg-[#F1F5FD]">
       <div className="max-w-[1200px] mx-auto px-5 py-9 sm:py-11">
@@ -85,7 +136,7 @@ export default async function MlbUniformsZone() {
             <span className="flex items-center gap-1.5">
               <img src="/logos/mlb.png" alt="MLB" className="h-[18px] w-auto object-contain" />
               <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
-                MLB Uniforms
+                MLB Uniforms{tonight ? ` · ${tonight.day}` : ""}
               </h2>
             </span>
           </div>
@@ -96,6 +147,48 @@ export default async function MlbUniformsZone() {
             All 30 Teams →
           </Link>
         </div>
+
+        {dek && <p className="text-[12px] text-[#5f7085] mb-5">{dek}</p>}
+
+        {/* Tonight in numbers, the MLB sibling of the NFL band's "Week N in
+            Numbers" card. Only renders once a game is confirmed, so it can
+            never show an empty scoreboard. */}
+        {tonight && showTonightNumbers && (
+          <div className="mb-4 rounded-xl border border-border bg-white p-4 sm:p-5">
+            <div className="flex items-baseline justify-between mb-3 gap-2">
+              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
+                Tonight in Numbers
+              </span>
+              <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#8A8F98]">
+                From the games we have confirmed · updates through the night
+              </span>
+            </div>
+            <div className="grid grid-cols-3 gap-3">
+              {[
+                { k: "Games tonight", v: `${tonight.games}`, c: "#2f6bed" },
+                {
+                  k: "Games confirmed",
+                  v: `${tonight.confirmedGames} of ${tonight.games}`,
+                  c: "#1a7f37",
+                },
+                { k: "Teams confirmed", v: `${tonight.confirmedTeams}`, c: "#f59e0b" },
+              ].map((s) => (
+                <div
+                  key={s.k}
+                  className="rounded-lg bg-[#F7F8FA] px-3 py-2.5"
+                  style={{ borderTop: `3px solid ${s.c}` }}
+                >
+                  <div className="text-[22px] font-black leading-none text-[#0B1F4A] tabular-nums">
+                    {s.v}
+                  </div>
+                  <div className="mt-1 text-[10px] font-bold uppercase tracking-[0.1em] text-[#5f7085]">
+                    {s.k}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
           {TOOLS.map((t) => {

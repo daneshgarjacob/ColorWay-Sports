@@ -2,7 +2,7 @@
 title: "MLB Uniform Schedule 2026: What Every Team Wears and When (All 30 Teams)"
 category: "MLB"
 date: "2026-07-06"
-updatedDate: "2026-08-18"
+updatedDate: "2026-09-15"
 excerpt: "The full 2026 MLB uniform guide: how many jerseys all 30 teams have, which days they wear each one, and the four clubs that run a true schedule."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 coverImage: "/images/posts/mlb-uniform-schedule-2026-cover.jpg"
@@ -13,6 +13,8 @@ league: "mlb"
 teams: []
 topViewsRank: 3
 ---
+
+<div data-mlb-league-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What MLB Teams Are Wearing Tonight</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, September 15, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">7 of 15 Games Confirmed</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed by us, game by game</div><div style="margin-top: 14px; font-size: 0.95em; color: #444; line-height: 1.55;">15 games tonight, first pitch 6:40 PM ET. We confirm each jersey as the lineups come out, so this number climbs through the night.</div><div style="margin: 16px auto 0; max-width: 560px; text-align: left; border-top: 1px solid #e3e7ec;"><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Dodgers</strong> Blue Alternate at <strong>Reds</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Athletics</strong> Road Gray at <strong>Rays</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>White Sox</strong> Road Gray at <strong>Guardians</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Brewers</strong> Powder Blue Alternate at <strong>Pirates</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Phillies</strong> Road Gray at <strong>Nationals</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Tigers</strong> Road Gray at <strong>Blue Jays</strong> Home White</div><div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;"><strong>Orioles</strong> Black Alternate at <strong>Mets</strong> Home White</div></div><a href="/stories/mlb-uniform-tracker-2026" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey worn tonight &rarr;</a></div></div>
 
 Every MLB team has a closet full of jerseys now. Home whites, road grays, a City Connect, a throwback or two, and usually an alternate that only comes out on certain days. The problem is that almost nobody tells you when each one gets worn. So we built the full guide. Below is the 2026 uniform and jersey schedule for all 30 teams, how many looks each club carries, and the day-by-day logic behind the rotation, with a link to the complete breakdown for every team.
 
@@ -255,7 +257,7 @@ For the uniform we logged in a team's most recent game, open its page in the [ML
 
 **What uniform is my MLB team wearing tonight?**
 
-Same three questions as above: home or away, day or night, and what day of the week it is. Road games are almost always the gray set. At home, weeknights are where the City Connects and alternates live, most often Friday. Pick your team from the tables above for the exact logic.
+Start with the dated block at the top of this page, which shows how many of tonight's games we have confirmed and what those teams are wearing. For everyone still to come, the three questions are the same as above: home or away, day or night, and what day of the week it is. Road games are almost always the gray set. At home, weeknights are where the City Connects and alternates live, most often Friday. Pick your team from the tables above for the exact logic.
 
 **What is my MLB team wearing tomorrow?**
 

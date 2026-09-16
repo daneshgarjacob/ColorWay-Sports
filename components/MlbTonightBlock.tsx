@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { getConfirmedUniform, mlbEtToday } from "@/lib/mlbConfirmed";
 
 // Tracker team-key (short-name slug) -> MLB statsapi teamId
 const MLB_TEAM_ID: Record<string, number> = {
@@ -10,6 +11,20 @@ const MLB_TEAM_ID: Record<string, number> = {
   dodgers: 119, padres: 135, giants: 137, diamondbacks: 109, rockies: 115,
 };
 
+const KEY_BY_ID: Record<number, string> = Object.fromEntries(
+  Object.entries(MLB_TEAM_ID).map(([key, id]) => [id, key]),
+);
+
+// "blue-jays" -> "Blue Jays". Going through the key rather than chopping the
+// last word off the feed's club name is what keeps Boston and Chicago from both
+// reading "Sox" and Toronto from reading "Jays".
+function nickname(key: string): string {
+  return key
+    .split("-")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+}
+
 type SchedGame = {
   gameDate: string;
   status?: { detailedState?: string };
@@ -18,11 +33,6 @@ type SchedGame = {
     away: { team: { id: number; name: string } };
   };
 };
-
-function etToday(): string {
-  // YYYY-MM-DD in US Eastern, the day MLB's schedule is keyed to
-  return new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
-}
 
 export default async function MlbTonightBlock({
   teamKey,
@@ -40,7 +50,7 @@ export default async function MlbTonightBlock({
   const id = MLB_TEAM_ID[teamKey];
   if (!id) return null;
 
-  const today = etToday();
+  const today = mlbEtToday();
   let game: SchedGame | null = null;
   try {
     const res = await fetch(
@@ -56,12 +66,25 @@ export default async function MlbTonightBlock({
     game = null;
   }
 
+  // The uniform we have actually confirmed for today, from the same file the
+  // daily pass writes. Without this the block answered "what are they wearing
+  // today" with a home/road guess, and contradicted the confirmed uniform in
+  // the hero of this very page.
+  const confirmed = game ? getConfirmedUniform(teamKey, today) : undefined;
+
   const isHome = game ? game.teams.home.team.id === id : false;
+  const oppId = game
+    ? isHome
+      ? game.teams.away.team.id
+      : game.teams.home.team.id
+    : 0;
+  const oppKey = KEY_BY_ID[oppId];
   const opp = game
     ? isHome
       ? game.teams.away.team.name
       : game.teams.home.team.name
     : "";
+  const oppShort = oppKey ? nickname(oppKey) : opp;
   const time = game
     ? new Date(game.gameDate).toLocaleTimeString("en-US", {
         timeZone: "America/New_York",
@@ -92,10 +115,15 @@ export default async function MlbTonightBlock({
                 <span className="text-black/45 font-semibold"> &middot; {time}</span>
               </p>
               <p className="text-[14px] text-black/70 leading-relaxed m-0">
-                {isHome
-                  ? `The ${teamName} are home today, so expect one of their home looks — the white uniform or a home alternate.`
-                  : `The ${teamName} are on the road today, so expect the road grays or a road alternate.`}{" "}
-                We confirm the exact jersey they wear here every morning after the game.
+                {confirmed
+                  ? `Confirmed: the ${teamName} are wearing the ${confirmed} today, ${
+                      isHome ? `at home against the ${oppShort}` : `on the road at the ${oppShort}`
+                    }. We confirmed it from the game itself, and the full card is in the daily tracker.`
+                  : `${
+                      isHome
+                        ? `The ${teamName} are home today, so we expect one of their home looks, the white uniform or a home alternate.`
+                        : `The ${teamName} are on the road today, so we expect the road grays or a road alternate.`
+                    } Expected, not confirmed. We confirm the exact jersey here as soon as we see it.`}
               </p>
             </>
           ) : (
@@ -123,8 +151,9 @@ export default async function MlbTonightBlock({
         </div>
       </div>
       <p className="text-[11px] text-black/35 mt-2 mb-0 px-0.5">
-        Expected look based on the {teamName}&rsquo; 2026 pattern; the exact
-        jersey is confirmed each morning. Updated hourly.
+        {confirmed
+          ? `Confirmed uniform for today's ${teamName} game, logged from the game itself. Updated hourly.`
+          : `Expected look based on the ${teamName}' 2026 pattern; the exact jersey is confirmed as soon as we see it. Updated hourly.`}
       </p>
     </section>
   );

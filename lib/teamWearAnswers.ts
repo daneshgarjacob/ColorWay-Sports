@@ -13,6 +13,7 @@
 
 import type { NflTeamEntry } from "./nflTrackerTeamIndex";
 import { nflComboSentence, type NflLatest } from "./nflTeamLatest";
+import { mlbEtTodayLong } from "./mlbConfirmed";
 
 export type WearAnswer = { q: string; a: string };
 
@@ -209,7 +210,11 @@ export function buildCollegeWear(
  * Reads the dated "What the <Team> Are Wearing" block that
  * scripts/mlb-wearing-blocks.mjs writes into each MLB schedule post.
  */
-export function buildMlbWear(team: string, contentHtml: string): WearAnswer[] {
+export function buildMlbWear(
+  team: string,
+  contentHtml: string,
+  now: Date = new Date(),
+): WearAnswer[] {
   const block = /<div data-mlb-wearing[\s\S]*?Every jersey they have worn/.exec(contentHtml);
   if (!block) return [];
   const b = block[0];
@@ -219,10 +224,25 @@ export function buildMlbWear(team: string, contentHtml: string): WearAnswer[] {
   const matchup = /margin-top: 14px;[^"]*">([^<]+)</.exec(b)?.[1];
   if (!date || !uniform || !status || !matchup) return [];
 
+  // On an off day scripts/mlb-wearing-blocks.mjs writes "NO GAME TODAY" into the
+  // uniform slot, so the generic path below rendered "are expected to wear the NO
+  // GAME TODAY" on every club's schedule post. Answer the off day plainly instead.
+  if (/^NO GAME TODAY$/i.test(clean(uniform))) {
+    const off = `For ${clean(date)}, the ${team} are off, so there is no uniform to confirm today. We confirm every jersey once we see it, and the full season plan is in the table below.`;
+    return [
+      { q: `What jerseys are the ${team} wearing today?`, a: off },
+      { q: `What color are the ${team} wearing today?`, a: off },
+    ];
+  }
+
   const confirmed = /confirmed/i.test(status);
   const game = clean(matchup).split(" · ")[0];
-  const verb = confirmed ? "wore" : "are expected to wear";
-  const a = `For ${clean(date)} (${game}), the ${team} ${verb} the ${clean(uniform)}. ${confirmed ? "Confirmed." : "Not confirmed yet."}`;
+  // The block carries the date it was written for. While that is still today,
+  // a confirmed uniform is one the club is wearing right now, not one it wore.
+  const blockDate = clean(date);
+  const isToday = blockDate === mlbEtTodayLong(now);
+  const verb = confirmed ? (isToday ? "are wearing" : "wore") : "are expected to wear";
+  const a = `For ${blockDate} (${game}), the ${team} ${verb} the ${clean(uniform)}. ${confirmed ? "Confirmed." : "Not confirmed yet."}`;
 
   const out: WearAnswer[] = [
     { q: `What jerseys are the ${team} wearing today?`, a },
@@ -234,7 +254,7 @@ export function buildMlbWear(team: string, contentHtml: string): WearAnswer[] {
   if (cap && confirmed) {
     out.push({
       q: `What hat are the ${team} wearing today?`,
-      a: `For ${clean(date)} (${game}), the ${team} wore the ${clean(cap)} cap with the ${clean(uniform)}.`,
+      a: `For ${blockDate} (${game}), the ${team} ${isToday ? "are wearing" : "wore"} the ${clean(cap)} cap with the ${clean(uniform)}.`,
     });
   }
   return out;

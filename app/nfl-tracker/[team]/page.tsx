@@ -4,6 +4,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import TeamWearBox from "@/components/TeamWearBox";
+import { getPostBySlug } from "@/lib/posts";
+import { getNflLatestFromTracker, nflComboSentence } from "@/lib/nflTeamLatest";
+import { nflTrackerFaq } from "@/lib/trackerWearFaq";
 import {
   allNflTeamKeys,
   nflTeamByKey,
@@ -82,29 +86,27 @@ export default async function NflTeamCalendarPage({
   const roadGames = played.length - homeGames;
   const confirmed = played.filter((g) => g.confirmed).length;
 
-  const faq = [
-    {
-      q: `What uniform are the ${entry.name} wearing this week?`,
-      a: `The calendar on this page lists all 18 weeks of the ${entry.name} 2026 season with the jersey for each one. ${confirmed} of ${played.length} games are officially confirmed by the team; the rest follow the standard home and road sets.`,
-    },
-    {
-      q: `How many different uniforms do the ${entry.name} wear in 2026?`,
-      a: `${usage.length} across the season: ${usage.map((u) => `${u.uniform} (${u.total} game${u.total === 1 ? "" : "s"})`).join(", ")}.`,
-    },
-    {
-      q: `Which ${entry.name} games have a confirmed uniform?`,
-      a: played.filter((g) => g.confirmed).length
-        ? played
-            .filter((g) => g.confirmed)
-            .map((g) => `Week ${g.week} ${g.matchup} in the ${g.uniform}`)
-            .join("; ") + "."
-        : `The ${entry.name} have not announced any special uniform dates for 2026 yet. This page updates as they do.`,
-    },
-    {
-      q: `Do the ${entry.name} wear the same uniform at home and on the road?`,
-      a: `No. Across 2026 the ${entry.name} have ${homeGames} home game${homeGames === 1 ? "" : "s"} and ${roadGames} road game${roadGames === 1 ? "" : "s"}, and the calendar shows which jersey goes with each.`,
-    },
-  ];
+  // This week's game, from the same week grid the calendar below is built from,
+  // plus the club's last played game out of the NFL tracker. Without these the
+  // page answered "what are they wearing this week" with a confirmed-games count
+  // and never named the jersey, even when the club had announced it.
+  const tracker = await getPostBySlug("nfl-uniform-tracker-2026");
+  const latest = tracker ? getNflLatestFromTracker(tracker.contentHtml, entry.name) : null;
+  // "Today" is the build date, the same basis the schedule posts use: the site
+  // redeploys many times a day and every deploy re-renders these pages.
+  const { headline, faq } = nflTrackerFaq({
+    entry,
+    latest,
+    now: new Date(),
+    playedCount: played.length,
+    confirmedCount: confirmed,
+    homeGames,
+    roadGames,
+    usage: usage.map((u) => ({ uniform: u.uniform, total: u.total })),
+    confirmedGames: played
+      .filter((g) => g.confirmed)
+      .map((g) => ({ week: g.week, matchup: g.matchup, uniform: g.uniform })),
+  });
 
   return (
     <>
@@ -164,6 +166,29 @@ export default async function NflTeamCalendarPage({
             </div>
           </div>
         </section>
+
+        {/* This week's look, in the same box and the same words the club's
+            schedule post uses. The FAQ below carries the written answers. */}
+        <TeamWearBox
+          accent={entry.color}
+          badge={
+            latest
+              ? `Updated every game · ${latest.logged} ${latest.logged === 1 ? "game" : "games"} logged`
+              : "Updated every game"
+          }
+          headline={headline}
+          lastGame={
+            latest && {
+              eyebrow: `Last game · ${latest.day} · ${latest.home ? "vs" : "at"} ${latest.opponent.split(" ").slice(-1)[0]}`,
+              sentence: `The ${latest.nickname} wore ${nflComboSentence(latest)}`,
+              detail: `Final: ${latest.final}.`,
+              img: latest.img,
+              alt: `${latest.team} ${latest.jersey.toLowerCase()} jersey worn ${latest.day} ${latest.home ? "against" : "at"} the ${latest.opponent}, from the ColorWay Sports NFL uniform tracker`,
+            }
+          }
+          answers={[]}
+          link={latest ? { href: latest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+        />
 
         <nav className="max-w-[980px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a

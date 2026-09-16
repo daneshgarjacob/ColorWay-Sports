@@ -11,6 +11,11 @@ import WearQuickAnswers from "@/components/WearQuickAnswers";
  * already ranks for "what are the <team> wearing" opens with an answer that is
  * current rather than a projection. Copy leads with the exact question
  * phrasings we are targeting.
+ *
+ * Tense follows the data: we log a slate as each uniform is confirmed, so the
+ * newest game is frequently in progress. When it is today's game the block asks
+ * and answers in the present, and only drops to "wore ... last night" once the
+ * game is actually behind us.
  */
 export default function TeamWoreLastNight({
   data,
@@ -21,12 +26,13 @@ export default function TeamWoreLastNight({
   accent?: string;
   answers?: WearAnswer[];
 }) {
-  const { team, latest, logged, trackerHref } = data;
+  const { team, latest, latestIsToday, logged, trackerHref } = data;
   if (!latest) return null;
 
-  const q = teamWearQuestions(team);
+  const q = teamWearQuestions(team, latestIsToday);
   const where = latest.home ? "at home" : "on the road";
   const versus = latest.home ? `against the ${latest.oppName}` : `at the ${latest.oppName}`;
+  const when = latestIsToday ? "tonight" : `on ${latest.month} ${latest.date}`;
 
   return (
     <section
@@ -62,16 +68,16 @@ export default function TeamWoreLastNight({
             )}
             <div className="min-w-0">
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">
-                {latest.month} {latest.date} · {latest.opp}
+                {latestIsToday ? "Tonight · " : ""}{latest.month} {latest.date} · {latest.opp}
               </p>
               <p className="mt-1 text-lg sm:text-xl font-extrabold text-[#0B1F4A] leading-snug">
                 {latest.uniform ? (
                   <>
-                    The {team} wore the{" "}
+                    The {team} {latestIsToday ? "are wearing" : "wore"} the{" "}
                     <span style={{ color: accent }}>{latest.uniform}</span>
                   </>
                 ) : (
-                  <>The {team} played {versus}</>
+                  <>The {team} {latestIsToday ? "are playing" : "played"} {versus}</>
                 )}
               </p>
               <p className="mt-1 text-[14px] text-black/60 leading-relaxed">
@@ -81,8 +87,8 @@ export default function TeamWoreLastNight({
               <p className="mt-2 text-[13px] text-black/70 leading-relaxed">
                 <strong className="text-[#0B1F4A]">{q.were}</strong>{" "}
                 {latest.uniform
-                  ? `The ${latest.uniform}, ${where} ${versus} on ${latest.month} ${latest.date}.`
-                  : `They played ${versus} on ${latest.month} ${latest.date}.`}
+                  ? `The ${latest.uniform}, ${where} ${versus} ${when}.`
+                  : `They ${latestIsToday ? "are playing" : "played"} ${versus} ${when}.`}
               </p>
             </div>
           </div>
@@ -92,8 +98,8 @@ export default function TeamWoreLastNight({
           <div className="mt-5 pt-4 border-t border-black/10">
             <p className="text-[13px] text-black/70 leading-relaxed">
               <strong className="text-[#0B1F4A]">{q.tonight}</strong> The rotation below maps
-              every jersey the {team} run and when, so you can call tonight&rsquo;s look before
-              first pitch.
+              every jersey the {team} run and when, so you can call{" "}
+              {latestIsToday ? "tomorrow" : "tonight"}&rsquo;s look before first pitch.
             </p>
             <Link prefetch={false}
               href={trackerHref}

@@ -7,6 +7,7 @@ import { getPostBySlug } from "@/lib/posts";
 import TeamUniformBreakdown from "@/components/TeamUniformBreakdown";
 import MlbTonightBlock from "@/components/MlbTonightBlock";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import { mlbTrackerFaq } from "@/lib/trackerWearFaq";
 import {
   buildMlbTeamIndex,
   uniformUsage,
@@ -90,41 +91,22 @@ export default async function TeamTrackerPage({
   const topUniform = usage[0];
 
   // Question-shaped FAQ, rendered visibly below AND as FAQPage schema, because
-  // schema-only answers get ignored. Every answer is pinned to the real logged
-  // date rather than asserting "last night" — the tracker is updated the morning
-  // after, so a hard "last night" claim would be wrong until Jake logs the slate.
-  const lastWorn = lastGame?.uniform
-    ? `the ${lastGame.uniform}`
-    : "a uniform we're still confirming";
-  const faq: Array<{ q: string; a: string }> = [];
-  if (lastGame) {
-    faq.push({
-      q: `What jersey did the ${entry.name} wear last night?`,
-      a: `In the most recent ${entry.name} game we have logged (${lastGame.day}, ${lastGame.opp}), they wore ${lastWorn}. We log every game the morning after it is played, so this updates daily.`,
-    });
-    faq.push({
-      q: `What uniform did the ${entry.name} wear yesterday?`,
-      a: `Our latest logged ${entry.name} game is ${lastGame.day} (${lastGame.opp}), when they wore ${lastWorn}. The day-by-day calendar on this page shows every jersey they have worn in 2026.`,
-    });
-  }
-  faq.push({
-    q: `What are the ${entry.name} wearing today?`,
-    a: `The ${entry.name}${entry.name.endsWith("s") ? "'" : "'s"} next game and expected uniform are at the top of this page, refreshed every morning based on their 2026 rotation, the opponent, and whether they are at home or on the road.`,
+  // schema-only answers get ignored. The "wearing today" answers used to point at
+  // the top of this page and name no jersey, so the schema said nothing Google
+  // could serve. They now come from the club's own schedule post, which carries
+  // the dated wearing block that scripts/mlb-wearing-blocks.mjs writes each
+  // morning, in that post's exact words so the two surfaces always agree.
+  const schedulePost = await getPostBySlug(meta.scheduleHref.replace("/stories/", ""));
+  const faq = mlbTrackerFaq({
+    team: entry.name,
+    scheduleHtml: schedulePost?.contentHtml ?? null,
+    lastGame: lastGame
+      ? { day: lastGame.day, opp: lastGame.opp, uniform: lastGame.uniform }
+      : null,
+    gamesLogged: entry.games.length,
+    uniformsWorn: usage.length,
+    topUniform: topUniform ? { uniform: topUniform.uniform, total: topUniform.total } : null,
   });
-  faq.push({
-    q: `What are the ${entry.name} wearing tonight?`,
-    a: `Tonight's expected ${entry.name} uniform is shown at the top of this page. If they are not playing tonight, we show their next scheduled game instead.`,
-  });
-  faq.push({
-    q: `What are the ${entry.name} wearing tomorrow?`,
-    a: `Uniform assignments are usually confirmed the day of the game. For what to expect, the ${entry.name} 2026 uniform schedule breaks down which jersey they wear on which day, at home and on the road.`,
-  });
-  if (entry.games.length > 0) {
-    faq.push({
-      q: `How many different uniforms have the ${entry.name} worn in 2026?`,
-      a: `The ${entry.name} have worn ${usage.length} different uniform${usage.length === 1 ? "" : "s"} across the ${entry.games.length} game${entry.games.length === 1 ? "" : "s"} we have logged this season${topUniform ? `. Their most-worn look is the ${topUniform.uniform}, in ${topUniform.total} game${topUniform.total === 1 ? "" : "s"}` : ""}.`,
-    });
-  }
 
   return (
     <>

@@ -143,7 +143,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const collegeWear = collegeTeam ? buildCollegeWear(collegeTeam, post.contentHtml, now) : null;
 
   const mlbWear =
-    isMlbSchedulePost && teamLatest ? buildMlbWear(teamLatest.team, post.contentHtml) : [];
+    isMlbSchedulePost && teamLatest ? buildMlbWear(teamLatest.team, post.contentHtml, now) : [];
 
   // The league hub gets the whole week's slate, built from the 32 team grids.
   const nflWeekSlate = slug === "nfl-uniform-schedule-2026" ? buildNflWeekSlate(now) : null;
@@ -169,17 +169,25 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   };
 
   if (teamLatest?.latest) {
-    const q = teamWearQuestions(teamLatest.team);
+    // Same tense split as the visible block: a game being played today is
+    // answered in the present, so the schema never claims a game in progress
+    // happened last night.
+    const isToday = teamLatest.latestIsToday;
+    const q = teamWearQuestions(teamLatest.team, isToday);
     const g = teamLatest.latest;
     const place = g.home ? "at home" : "on the road";
     const answer = g.uniform
-      ? `On ${g.month} ${g.date} the ${teamLatest.team} wore the ${g.uniform} ${place} ${g.opp}.`
-      : `The ${teamLatest.team} last played ${g.opp} on ${g.month} ${g.date}.`;
+      ? isToday
+        ? `Tonight, ${g.month} ${g.date}, the ${teamLatest.team} are wearing the ${g.uniform} ${place} ${g.opp}.`
+        : `On ${g.month} ${g.date} the ${teamLatest.team} wore the ${g.uniform} ${place} ${g.opp}.`
+      : isToday
+        ? `The ${teamLatest.team} are playing ${g.opp} tonight, ${g.month} ${g.date}.`
+        : `The ${teamLatest.team} last played ${g.opp} on ${g.month} ${g.date}.`;
     addLive(q.lastNight, answer);
     addLive(q.were, answer);
     addLive(
       q.tonight,
-      `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call tonight's look before first pitch. Their most recent logged game was ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
+      `The ${teamLatest.team} uniform schedule on this page maps every jersey they run and when, so you can call ${isToday ? "tomorrow" : "tonight"}'s look before first pitch. ${isToday ? "Tonight's logged game is" : "Their most recent logged game was"} ${g.month} ${g.date}${g.uniform ? `, in the ${g.uniform}` : ""}.`,
     );
   }
   for (const { q, a } of [...mlbWear, ...(nflWear?.answers ?? []), ...(collegeWear?.answers ?? []), ...nflWeekQa]) {

@@ -42,7 +42,11 @@ const SHORT = Object.fromEntries(Object.entries(SLUG).map(([n,s]) => [s, SHORT_O
 const ROAD = { padres:"Road Khakis", braves:"Road Atlanta Set" };
 const HOME = { giants:"Home Creams", braves:"Home Braves Set" };
 
-const date = process.argv[2] || new Date().toISOString().slice(0,10);
+// `--league-only` writes just the league guide block and the slate file and
+// leaves the 30 team posts alone. The full run (no flag) is still the daily pass.
+const LEAGUE_ONLY = process.argv.includes("--league-only");
+const date = process.argv.slice(2).find(a => /^\d{4}-\d{2}-\d{2}$/.test(a))
+  || new Date().toISOString().slice(0,10);
 const pretty = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
   { weekday:"long", month:"long", day:"numeric", year:"numeric", timeZone:"UTC" });
 
@@ -65,13 +69,27 @@ if (fs.existsSync(confirmedPath)) {
 const caps = await fetchCaps(date, SLUG);
 
 const state = {}; // slug -> {opp, home, time}
+const slate = [];  // the night's games, earliest first, for the homepage band
 for (const g of games) {
   const h = g.teams.home.team.name, a = g.teams.away.team.name;
   const t = new Date(g.gameDate).toLocaleTimeString("en-US",
     { hour:"numeric", minute:"2-digit", timeZone:"America/New_York" }) + " ET";
   if (SLUG[h]) state[SLUG[h]] = { opp: a, home: true,  time: t };
   if (SLUG[a]) state[SLUG[a]] = { opp: h, home: false, time: t };
+  if (SLUG[h] && SLUG[a]) {
+    slate.push({ away: a, awaySlug: SLUG[a], home: h, homeSlug: SLUG[h], time: t, start: g.gameDate });
+  }
 }
+slate.sort((x, y) => String(x.start).localeCompare(String(y.start)));
+
+// The slate file is what the homepage MLB band counts against, so the band can
+// say "N of M games confirmed" at build time without hitting the feed itself.
+// One file per date, beside the confirmed uniforms it pairs with.
+fs.mkdirSync("scripts/mlb-slate", { recursive: true });
+fs.writeFileSync(
+  `scripts/mlb-slate/${date}.json`,
+  JSON.stringify({ date, games: slate.map(({ start, ...g }) => g) }, null, 2) + "\n",
+);
 
 function block(slug) {
   const s = state[slug];
@@ -111,9 +129,74 @@ function block(slug) {
     `</div></div>\n`;
 }
 
+// ---- the league guide's own dated block ------------------------------------
+// The pillar guide (mlb-uniform-schedule-2026) is where the tracker sends
+// "what are they wearing tonight" traffic, and until 2026-09-15 it answered
+// nothing dated. Same mechanism as the team blocks: written by this script in
+// the daily pass, one line, its own marker so the two never collide.
+const LEAGUE_MARK = "data-mlb-league-wearing";
+const LEAGUE_POST = path.join(ROOT, "mlb-uniform-schedule-2026.md");
+
+function leagueBlock() {
+  const confirmedGames = slate.filter(g => confirmed[g.awaySlug] && confirmed[g.homeSlug]);
+  const first = slate[0]?.time;
+  let big, sub, line, colour, cta = "Every jersey worn tonight &rarr;";
+  if (!slate.length) {
+    big = "NO GAMES TODAY";
+    sub = "Baseball is off";
+    line = "There is no MLB slate today. Every jersey from our last logged night is on the daily tracker.";
+    colour = "#5a6472";
+    cta = "Every jersey we have logged &rarr;";
+  } else if (!confirmedGames.length) {
+    big = `0 of ${slate.length} Games Confirmed`;
+    sub = "We confirm each one as the lineups come out";
+    line = `${slate.length} games tonight, first pitch ${first}. Nothing is confirmed yet, so the tracker is the place to watch.`;
+    colour = NAVY;
+  } else {
+    big = `${confirmedGames.length} of ${slate.length} Games Confirmed`;
+    sub = "Confirmed by us, game by game";
+    line = `${slate.length} games tonight, first pitch ${first}. We confirm each jersey as the lineups come out, so this number climbs through the night.`;
+    colour = "#1a7f37";
+  }
+  const rows = confirmedGames.map(g =>
+    `<div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;">` +
+    `<strong>${SHORT[g.awaySlug]}</strong> ${confirmed[g.awaySlug]} at <strong>${SHORT[g.homeSlug]}</strong> ${confirmed[g.homeSlug]}</div>`
+  ).join("");
+  return `<div ${LEAGUE_MARK} style="margin: 1.75em 0; border: 2px solid ${NAVY}; border-radius: 16px; overflow: hidden;">` +
+    `<div style="background: ${NAVY}; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">` +
+    `<span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What MLB Teams Are Wearing Tonight</span>` +
+    `<span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">${pretty}</span></div>` +
+    `<div style="padding: 1.5em; text-align: center; background: #ffffff;">` +
+    `<div style="font-size: 2em; font-weight: 900; color: ${colour}; line-height: 1.1;">${big}</div>` +
+    `<div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">${sub}</div>` +
+    `<div style="margin-top: 14px; font-size: 0.95em; color: #444; line-height: 1.55;">${line}</div>` +
+    (rows ? `<div style="margin: 16px auto 0; max-width: 560px; text-align: left; border-top: 1px solid #e3e7ec;">${rows}</div>` : "") +
+    `<a href="/stories/mlb-uniform-tracker-2026" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: ${NAVY}; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">${cta}</a>` +
+    `</div></div>\n`;
+}
+
+function writeBlock(file, marker, html) {
+  const re = new RegExp(`^<div ${marker}[^\\n]*\\n`, "m");
+  let src = fs.readFileSync(file, "utf8");
+  if (re.test(src)) {
+    src = src.replace(re, html);
+  } else {
+    const parts = src.split("---");
+    if (parts.length < 3) { console.error("!! frontmatter", file); process.exit(1); }
+    const body = parts.slice(2).join("---").replace(/^\n+/, "");
+    src = `---${parts[1]}---\n\n${html}\n${body}`;
+  }
+  src = src.replace(/^updatedDate:\s*['"]?[0-9-]+['"]?\s*$/m, `updatedDate: "${date}"`);
+  fs.writeFileSync(file, src);
+}
+
+writeBlock(LEAGUE_POST, LEAGUE_MARK, leagueBlock());
+console.log(`league guide block written for ${pretty} (${slate.length} games, ` +
+  `${slate.filter(g => confirmed[g.awaySlug] && confirmed[g.homeSlug]).length} confirmed)`);
+
 const re = new RegExp(`^<div ${MARK}[^\\n]*\\n`, "m");
 let n = 0;
-for (const slug of Object.values(SLUG)) {
+for (const slug of (LEAGUE_ONLY ? [] : Object.values(SLUG))) {
   const p = path.join(ROOT, `${slug}-uniform-schedule-2026.md`);
   if (!fs.existsSync(p)) { console.error("!! missing", p); process.exit(1); }
   let src = fs.readFileSync(p, "utf8");

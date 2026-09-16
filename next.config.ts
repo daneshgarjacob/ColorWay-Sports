@@ -13,6 +13,16 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: __dirname,
   },
+  // The "what are they wearing today" surfaces read our own confirmation data at
+  // request time (lib/mlbConfirmed.ts, lib/mlbTonight.ts): the homepage band, the
+  // /mlb-tracker/<team> tonight block and the schedule posts' wear answers. Those
+  // JSON files live under scripts/, which nothing imported before, so file tracing
+  // would not ship them and every surface would silently fall back to "expected"
+  // in production while we already had the uniform confirmed. Both globs are kept
+  // narrow per the Next 16 guidance on trace size.
+  outputFileTracingIncludes: {
+    "/*": ["scripts/mlb-confirmed/**/*.json", "scripts/mlb-slate/**/*.json"],
+  },
   async headers() {
     return [
       {
