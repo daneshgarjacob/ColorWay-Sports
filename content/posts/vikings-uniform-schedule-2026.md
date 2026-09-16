@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-16"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -154,6 +154,8 @@ The logic is clean. The Classic throwback opens the season on a date that deserv
 ## The Bottom Line
 
 The Vikings did the thing more teams should do: they published a jersey for every home game instead of teasing one at a time. Three real uniform changes anchor the slate, the Classic against Green Bay in Week 1, the new Rivalries jersey against Detroit in Week 15, and the Winter Warrior whiteout against Washington in Week 16, with the all-purple combo against the Colts as the fourth look worth circling. The rest is the purple-and-white primary paired with the league's usual game-day causes. The Rivalries design itself arrived August 25 and it is the one miss on an otherwise excellent slate: deep purple with rune-carved numbers, Nordic knot trim, and a gold face mask, which we grade an **F**. Minnesota's own Classic throwback in Week 1 is an A- and shows exactly what this franchise can do when it trusts the purple instead of decorating it.
+
+How does every one of these jerseys stack up? See our [Vikings jerseys 2026 ranking](/stories/vikings-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

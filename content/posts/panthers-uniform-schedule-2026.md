@@ -100,6 +100,8 @@ Carolina removed the guesswork on September 4 and the answer was black. Six home
 
 The blue is still the answer. It is the only color in the division nobody else can claim, and every week the Panthers wear black instead is a week they look like everyone else. Three games is not enough. The good news is that the jersey is now knowable in advance, which is more than we could say a week ago.
 
+How does every one of these jerseys stack up? See our [Panthers jerseys 2026 ranking](/stories/panthers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Panthers wearing today?**

@@ -1,4 +1,5 @@
 ---
+topViewsRank: 4
 title: "Houston Texans 2026 Uniform Schedule: Battle Red Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"

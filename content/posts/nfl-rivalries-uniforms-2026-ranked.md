@@ -18,16 +18,7 @@ Sixteen NFL teams now own a Rivalries uniform, and every one of them will wear i
 
 The pattern that decided this list held across both years: the clubs that dug into their own history, or dressed like the place they play, finished at the top, and the clubs that decorated over a strong identity finished at the bottom. Four sets failed. One belongs in a regular rotation. Counting down from sixteen.
 
-## 16. Miami Dolphins, Dark Water — F
-
-<img src="/images/posts/dolphins-rivalries-2026/dolphins-rivalries-dark-water.jpg" alt="Miami Dolphins Dark Water Rivalries uniform, a near-black jersey with aqua numbers, an orange MIAMI wordmark and a dark helmet with an aqua and orange center stripe, shown on the Week 17 game graphic against the Bills" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Miami Dolphins</p>
-
-The one franchise in football whose colours need no help went dark. Miami's entire visual identity is aqua and orange in sunlight, and Dark Water takes both of those and shrinks them to trim on a near-black base: aqua numbers, an orange MIAMI wordmark, a thin aqua-and-orange stripe on a matte dark shell. Aqua numerals on a black body is a look Jacksonville wore for years and abandoned, and it reads that way from any distance.
-
-The detail work is not the problem. The 305 bumper and the sunburst dolphin on the helmet are fine. The problem is the premise, that a South Florida team is improved by looking like it plays at night in a warehouse. It closes the home schedule against Buffalo on January 3, and we have [said our piece on it at length](/stories/dolphins-dark-water-rivalries-bills-january-2027).
-
-## 15. Minnesota Vikings — F
+## 16. Minnesota Vikings — F
 
 <img src="/images/posts/vikings-uniform-schedule-2026/rivalries-group.jpg" alt="Minnesota Vikings Rivalries uniform, deep purple with ivory and gold rune-carved numbers and Nordic knot shoulder trim" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Minnesota Vikings</p>
@@ -36,7 +27,7 @@ Four ideas fighting each other on top of the best base uniform in the division. 
 
 The rune numbers are genuinely good and worth saving. Everything around them is noise. [Full breakdown in the Vikings schedule post](/stories/vikings-uniform-schedule-2026).
 
-## 14. Green Bay Packers — F
+## 15. Green Bay Packers — F
 
 <img src="/images/posts/packers-uniform-schedule-2026/rivalries-hero-collage.jpg" alt="Green Bay Packers 1919 Rivalries uniform, hunter green with cream trim and a cream matte helmet with the interlocking GB logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Green Bay Packers</p>
@@ -45,7 +36,7 @@ The smartest concept in either class, rendered so quietly you cannot see it from
 
 Then there is the cost. This set benches the gold helmet with the G, the most recognizable helmet in football, for a cream shell carrying a mark the audience has never been taught. That trade has to buy something enormous. It buys a quieter version of the normal uniform. [More in the Packers schedule post](/stories/packers-uniform-schedule-2026).
 
-## 13. Indianapolis Colts, Anvil Strike — F
+## 14. Indianapolis Colts, Anvil Strike — F
 
 <img src="/images/posts/colts-uniform-schedule-2026/rivalries-anvil-strike-group.jpg" alt="Indianapolis Colts Anvil Strike Rivalries uniform, anthracite jersey and pants with royal blue numbers" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Indianapolis Colts</p>
@@ -54,7 +45,7 @@ A gorgeous helmet marooned on someone else's uniform. Take the metallic blue she
 
 The details make it worse rather than better. Putting the horseshoe on a Colts jersey for the first time ever should be a landmark, and it arrives as a silver mark on a grey shirt where it barely separates from the fabric. The finished silhouette, bright lid over grey body, belongs to Detroit. [More in the Colts schedule post](/stories/colts-uniform-schedule-2026).
 
-## 12. Los Angeles Rams, Midnight Mode — C-
+## 13. Los Angeles Rams, Midnight Mode — C-
 
 <img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-rams.jpg" alt="Los Angeles Rams Midnight Mode Rivalries uniform, a matte near-black jersey with white numbers outlined in blue, sol yellow and royal blue horn shoulders, and a black helmet with a yellow horn and RAMS bumper" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Los Angeles Rams</p>
@@ -63,7 +54,7 @@ Midnight Mode is built on SoFi Stadium at night, a matte near-black base with a 
 
 The rest is a dark alternate for a team whose best asset is royal blue and sol yellow in Southern California daylight, and the Rams already carry more uniforms than any club in the league. The dotted gradient under the shoulder horns is the modern treatment most people wanted gone, the white numbers with a thin blue outline sit flat on the black body, and the whole thing lands closer to a Color Rush leftover than a rivalry uniform. It gets its one date on Christmas Day at Seattle, across from the set ranked second on this list, which will not help it. [More in the Rams schedule post](/stories/rams-uniform-schedule-2026).
 
-## 11. New England Patriots, Nor'easter — C
+## 12. New England Patriots, Nor'easter — C
 
 <img src="/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-patriots.jpg" alt="New England Patriots Nor'easter Rivalries uniform on Drake Maye, a weathered Storm Blue jersey with white numbers, textured shoulders and an NE sleeve mark, white pants, and a white helmet with a navy stripe and star" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the New England Patriots</p>
@@ -72,7 +63,7 @@ Storm Blue is a real colour, not just a darker navy, and the weathered finish on
 
 What holds it at a C is that it solves a problem New England does not have. The club already wears a blue jersey with white numbers and white pants at home, and from the stands this is that uniform with the contrast turned down and a texture you cannot see. The details you can see, the NE on the sleeve and the shoulder pattern, are the sort of thing you need to be told about. It comes out in Week 13 against Buffalo. [More in the Patriots schedule post](/stories/patriots-uniform-schedule-2026).
 
-## 10. Detroit Lions — C
+## 11. Detroit Lions — C
 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform, silver jersey with DETROIT wordmark and carbon fiber numbers under an electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Detroit Lions</p>
@@ -80,6 +71,15 @@ What holds it at a C is that it solves a problem New England does not have. The 
 The first set on this list with real ideas that survive contact with a football field. The silver shade is a richer base than a standard white and gives the whole thing texture, and filling italicized numerals with a carbon-fiber weave is a clever way to say Motor City without writing it out. The electric blue helmet is the best alternate lid Detroit has ever worn.
 
 What holds it at a C is the jersey underneath. Strip out the carbon fill and you have a white shirt with black shoulder wedges and blue trim, a silhouette Carolina already owns, and none of the Detroit-specific thinking lives above the waist where the camera sits. [More in the Lions schedule post](/stories/lions-uniform-schedule-2026).
+
+## 10. Miami Dolphins, Dark Water — C+
+
+<img src="/images/posts/dolphins-rivalries-2026/dolphins-rivalries-dark-water.jpg" alt="Miami Dolphins Dark Water Rivalries uniform, a near-black jersey with aqua numbers, an orange MIAMI wordmark and a dark helmet with an aqua and orange center stripe, shown on the Week 17 game graphic against the Bills" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">via the Miami Dolphins</p>
+
+The one franchise in football whose colors need no help went dark. Miami's entire visual identity is aqua and orange in sunlight, and Dark Water takes both of those and shrinks them to trim on a near-black base: aqua numbers, an orange MIAMI wordmark, a thin aqua-and-orange stripe on a matte dark shell. Aqua numerals on a black body is a look Jacksonville wore for years and abandoned, and it reads that way from any distance.
+
+The detail work is the reason it lands at a C+ rather than lower. The 305 bumper, the sunburst dolphin on the helmet and the aqua-and-orange trim are all cleanly executed. What holds it back is the premise, that a South Florida team is improved by trading sunlight colors for a near-black base. It closes the home schedule against Buffalo on January 3, and we have [said our piece on it at length](/stories/dolphins-dark-water-rivalries-bills-january-2027).
 
 ## 9. San Francisco 49ers, For the Faithful — C+
 
@@ -166,7 +166,7 @@ What keeps it from an A is the ceiling the brief sets: this is a heritage unifor
 
 ## The Bottom Line
 
-Four failing grades out of sixteen, and the four clubs that earned them have something in common: Miami, Indianapolis, Green Bay and Minnesota all walked in holding elite, long-established identities and traded them for set dressing that only works in close-up. Every one of those uniforms has a good idea in it. None of the good ideas are visible from row 40.
+Three failing grades out of sixteen, and the three clubs that earned them have something in common: Indianapolis, Green Bay and Minnesota all walked in holding elite, long-established identities and traded them for set dressing that only works in close-up. Every one of those uniforms has a good idea in it. None of the good ideas are visible from row 40.
 
 The two classes came out with the same shape. Each produced one set we would wear every week, a couple of honest B's, a run of C's, and failures at the bottom, and the 2026 group is a little more extreme at both ends. Chicago won the whole thing by going into its own archive and pulling out a patch from 1983 and a number font from 1948. Seattle came second by building a uniform around a real thing that happens in its own stadium. Neither needed a nickname to explain itself, and that is the entire premise of this program.
 
@@ -180,7 +180,7 @@ Chicago's "Return of the Monsters" set, which we grade an A-. Navy with burnt or
 
 **Which NFL Rivalries uniforms are the worst?**
 
-Four sets failed for us: Miami's Dark Water from the 2025 class, and Minnesota's, Green Bay's and Indianapolis's from 2026. In each case a club with a strong existing identity replaced it with a dark base or detail work that does not read at broadcast distance.
+Three sets failed for us, all from 2026: Minnesota's, Green Bay's and Indianapolis's. In each case a club with a strong existing identity replaced it with a dark base or detail work that does not read at broadcast distance.
 
 **How many NFL teams have Rivalries uniforms?**
 
@@ -188,7 +188,7 @@ Sixteen. The AFC East and NFC West (Bills, Dolphins, Jets, Patriots, 49ers, Card
 
 **Which 2025 Rivalries uniform is the best?**
 
-Seattle's, at a B+. Buffalo's Cold Front is next at a B-, then the Cardinals, Jets and 49ers at C+, the Patriots at C, the Rams at C-, and Miami's Dark Water at F.
+Seattle's, at a B+. Buffalo's Cold Front is next at a B-, then the Cardinals, Jets, 49ers and Miami's Dark Water at C+, the Patriots at C, and the Rams at C-.
 
 **When does each team wear its Rivalries uniform?**
 

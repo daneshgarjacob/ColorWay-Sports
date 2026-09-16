@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -117,6 +117,8 @@ It also resolves the one thing we had flagged as a weakness in the Rams' schedul
 ## How the Rams Rotation Works in 2026
 
 The system: royal five times at home, white eight times including the Dallas game, and the three alternates saved for four showcase games. Classic Sol takes two prime-time dates, Fearsome White gets its holiday-week showcase, and Midnight Mode gets Christmas Day at Seattle. Nine home games produce five different jerseys, which is as varied as any home slate in the league. The only moving parts left are the pants and the exact combinations, which the equipment staff decides the week of each game. For the grades on all five looks, read our [Rams new alternate jerseys 2026 breakdown](/stories/rams-leaked-alternate-jerseys-2026).
+
+How does every one of these jerseys stack up? See our [Rams jerseys 2026 ranking](/stories/rams-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

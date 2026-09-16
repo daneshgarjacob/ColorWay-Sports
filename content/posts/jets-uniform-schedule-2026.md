@@ -98,6 +98,8 @@ The system is simple once you see the three anchors. Green at home, white on the
 
 What makes 2026 different from most Jets seasons is the helmet. Between the green shell, the new all-white shell, and the throwback white with green striping, they now have real variety up top, which is where uniform programs usually run out of room. The rest is pants and combinations, decided the week of each game.
 
+How does every one of these jerseys stack up? See our [Jets jerseys 2026 ranking](/stories/jets-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Jets wearing today?**

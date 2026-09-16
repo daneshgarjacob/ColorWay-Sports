@@ -109,6 +109,8 @@ The other correction is that the **all-white alternate does not appear in the 20
 
 So the closet is Vintage Green at Lambeau, Classic White on the road, Rivalries in Week 5 against Chicago, and the 1923 throwback waiting on a date.
 
+How does every one of these jerseys stack up? See our [Packers jerseys 2026 ranking](/stories/packers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
+
 ## Frequently Asked Questions
 
 **What jersey are the Packers wearing today?**

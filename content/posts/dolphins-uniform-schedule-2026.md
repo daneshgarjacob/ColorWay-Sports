@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -96,6 +96,8 @@ Two are worth circling. Week 7 at the Jets is New York's Classic throwback game 
 Miami runs a simple system with two exceptions carved out of December. Aqua at home for six games, white on the road for nine, the throwback in Week 14, and Dark Water to close the home slate in Week 17. That is it. No third color, no rotating alternates, no helmet program.
 
 The interesting thing about 2026 is that both exceptions land in the final month, so the season back-loads all of its visual variety. It also means Miami wears a non-aqua jersey at home twice in four weeks, which for a team whose entire brand identity is that one color is a slightly strange way to finish. Give us the white throwback twice and the blackout never, and this becomes one of the better-dressed schedules in the AFC.
+
+How does every one of these jerseys stack up? See our [Dolphins jerseys 2026 ranking](/stories/dolphins-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

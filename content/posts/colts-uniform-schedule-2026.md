@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -119,6 +119,8 @@ Blue at Lucas Oil, white on the road, and three confirmed alternates, all of the
 ## The Bottom Line
 
 The Colts' 2026 alternate schedule is well built: the new Anvil Strike Rivalries jersey debuting in Week 3 against the Texans, the clean White Out for the Cowboys in Week 9, and the excellent Indiana Nights closing things out against the Bengals in Week 16. Three home games, three distinct looks, no overlap. The scheduling is the strong part. Anvil Strike itself grades an **F** from us, a superb metallic blue helmet attached to an anthracite uniform that has no roots in Indianapolis, and the Week 9 White Out and Week 16 Indiana Nights are both comfortably better nights to look at.
+
+How does every one of these jerseys stack up? See our [Colts jerseys 2026 ranking](/stories/colts-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

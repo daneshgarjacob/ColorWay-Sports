@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Steelers are bringing back the 1933 throwback and the gold helmet, but they have not named the game yet. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -99,6 +99,8 @@ That means Pittsburgh wears white and the Saints wear black. It also means the g
 Pittsburgh owns the most conservative wardrobe in the NFL and the best throwback in it, and the interesting part of every Steelers season is the same question: which week do we get the gold helmet.
 
 For 2026 the answer is confirmed to be yes and not yet to be when. The rest of the calendar is black at home and white on the road, done as well as anyone has ever done it. Two dates are worth watching for something extra, the Black Friday game against Denver and the Sunday nighter against Houston, and neither has been claimed.
+
+How does every one of these jerseys stack up? See our [Steelers jerseys 2026 ranking](/stories/steelers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

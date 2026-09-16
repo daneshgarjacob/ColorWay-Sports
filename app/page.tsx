@@ -59,9 +59,12 @@ export default function Home() {
     // allowed in that group. Check the post's frontmatter before adding one.
     // Refreshed 9/16 on GSC 7d (9/8-9/14): Bears #1 page, Texans #4 (team's
     // Wear White art), Buccaneers #6 (team closet art). Hero = Bengals (#2).
+    // 9/16 (Jake): lead the grid with a tracker and a ranking story so the top of
+    // the page is not all schedule posts. NFL tracker is the in-season hub; the
+    // NBA City Edition ranking is the #3 most-viewed page on the site.
+    "nfl-uniform-tracker-2026",
     "bears-uniform-schedule-2026",
-    "texans-uniform-schedule-2026",
-    "buccaneers-uniform-schedule-2026",
+    "nba-city-edition-jerseys-2026-27",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

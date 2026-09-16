@@ -2,7 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -109,6 +109,8 @@ The one road game where New Orleans wears black, and it is not the Saints' choic
 New Orleans has a uniform that does not need changing and mostly left it alone, which is the right instinct. The interesting decisions are the helmets: white on the road twice and at home once, black for the two November home games, and the gold jersey saved for the one date where the black shell makes it sing.
 
 The game to circle is Week 9. Gold jersey, black helmet, Cleveland in white, under a dome. That is the Saints' showcase, and it is the only night the closet gets fully opened.
+
+How does every one of these jerseys stack up? See our [Saints jerseys 2026 ranking](/stories/saints-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

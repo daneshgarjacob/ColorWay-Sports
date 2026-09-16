@@ -1,8 +1,9 @@
 ---
+topViewsRank: 12
 title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-16"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -99,6 +100,8 @@ Red at Raymond James, white on the road, and two confirmed special dates in Dece
 </div>
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Every &#9733; is officially confirmed by the Buccaneers. The rest follow the standard red-at-home, white-on-the-road split, which is the club's usual practice but has not been announced week by week. The one road exception is Week 5 at Dallas, where the Cowboys wear white at home as a matter of tradition, so Tampa Bay travels in red. Pant colors and exact combinations are an equipment-staff call the week of each game.</p>
+
+How does every one of these jerseys stack up? See our [Buccaneers jerseys 2026 ranking](/stories/buccaneers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 

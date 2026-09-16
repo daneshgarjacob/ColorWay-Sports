@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-16"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -114,6 +114,8 @@ The ninth is the exception worth knowing. Week 16 at Dallas on Sunday, December 
 Jacksonville runs the simplest system in the division. Teal at home, white on the road, one Rivalries game in November, and a black alternate plus the Prowler throwback sitting in the closet without announced dates. Compared to Houston, which named three jerseys before the season started, the Jaguars have told their fans almost nothing.
 
 That is the criticism. Jacksonville owns two of the better assets in the league, the teal and the Prowler throwback, and it is heading into a season with two showcase games in London and a brand-new Rivalries uniform without a published plan for any of it. The uniforms are good. The staging is not.
+
+How does every one of these jerseys stack up? See our [Jaguars jerseys 2026 ranking](/stories/jaguars-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
 ## Frequently Asked Questions
 
