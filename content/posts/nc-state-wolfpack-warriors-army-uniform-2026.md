@@ -2,7 +2,7 @@
 title: "NC State's New Army Uniform Revealed: The Wolfpack Warriors Camo Set Debuts September 11 vs Richmond, Graded B+"
 category: "College"
 date: "2026-08-19"
-updatedDate: "2026-08-19"
+updatedDate: "2026-09-17"
 excerpt: "NC State revealed a camo Wolfpack Warriors uniform honoring its new US Army partnership. We grade the adidas set and break down when the Wolfpack wear it."
 gradient: "linear-gradient(135deg, #CC0000 0%, #2B2B2B 55%, #1A1A1A 100%)"
 coverImage: "/images/posts/nc-state-wolfpack-warriors-army-uniform-2026/cover.jpg"
@@ -52,7 +52,7 @@ None of that pushes it out of the good column. It is clean, it is legible, and i
 
 ## When Do the Wolfpack Wear the Warriors Uniform?
 
-NC State wears the Wolfpack Warriors set on **Friday, September 11, 2026 against Richmond**, a 7:00 p.m. kickoff at Carter-Finley Stadium in Raleigh on ESPNU. It is the Wolfpack's home opener, with the season starting the week before on the road at Virginia on August 29.
+NC State wears the Wolfpack Warriors set on **Friday, September 11, 2026 against Richmond**, a 7:00 p.m. kickoff at Carter-Finley Stadium in Raleigh on ESPNU. It is the Wolfpack's home opener, two weeks after the season opener at Virginia on August 29.
 
 The date is the whole point. This is a September 11 game, at home, in a uniform built around a partnership with the Army, and scheduling the debut there is the rare case of a uniform release where the timing carries as much meaning as the design.
 
