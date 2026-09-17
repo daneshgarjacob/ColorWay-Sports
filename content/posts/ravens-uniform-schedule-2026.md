@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -55,9 +55,9 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2091888259148435463"></a></blockquote>
 
-The Ravens broke their summer-long silence with **White Noise**, an all-white home look — white helmet with the purple raven wing and a gold facemask, white jersey with the purple Baltimore wordmark, white pants, white to the floor — debuting **Sunday, September 20 at 1:00 against New Orleans**, under the tagline "every decibel counts."
+The Ravens broke their summer-long silence with **White Noise**, debuting **Sunday, September 20 at 1:00 against New Orleans**, under the tagline "every decibel counts." The team confirmed the full combination in game week: the metallic **Purple Rising helmet** with a white jersey and white pants. Baltimore is also asking the crowd to wear white, so the whiteout is in the stands while the purple shell stands alone on the field.
 
-Our verdict: this might end up the best look in the entire Next Flight collection. All-white uniforms live or die on whether the accent colors carry the design, and this one carries. The purple pops harder against white than it ever has against black, and the helmet — that clean white shell with the gold cage — is the single best piece in it. A white-out at home in the September sun is exactly the stage this deserves. If Baltimore was only going to name one date all summer, they named the right look.
+Our verdict: this might end up the best look in the entire Next Flight collection. White uniforms live or die on whether the accent carries the design, and a metallic purple shell over head-to-toe white is about as strong as that accent gets. It reads from the upper deck, it photographs in the September sun, and it does something Baltimore's road whites never do, because those come with the standard shell. If the Ravens were only going to name one date all summer, they named the right look.
 
 It is worth being precise about what this is: a home game in white. Baltimore's road whites are the standard set; White Noise is the Next Flight alternate treatment, worn by choice at M&T Bank Stadium, which means the Saints will have to answer in color.
 
@@ -143,11 +143,11 @@ Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with 
 
 **What is the Ravens White Noise uniform?**
 
-An all-white home look from the Next Flight collection — white helmet with a gold facemask, white jersey, white pants — that Baltimore debuts in Week 2 against New Orleans on September 20, 2026. It is the first 2026 uniform date the team has confirmed.
+A white home look from the Next Flight collection: white jersey, white pants and the metallic Purple Rising helmet, confirmed by the team in game week. Baltimore debuts it in Week 2 against New Orleans on September 20, 2026, and is asking fans to wear white for a whiteout in the stands.
 
 **What jerseys are the Ravens wearing this week?**
 
-Same rule. Check whether Baltimore is home or away in the grid above. Home is purple, away is white.
+White Noise for the home opener, and it is confirmed: white jersey, white pants and the metallic Purple Rising helmet against the Saints on Sunday, September 20 at 1:00. After that, same rule. Check whether Baltimore is home or away in the grid above. Home is purple, away is white.
 
 **What uniform did the Ravens wear last week?**
 
