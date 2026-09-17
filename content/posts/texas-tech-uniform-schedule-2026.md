@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Every Jersey, and When the Mahomes Let
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-17'
 excerpt: "What Texas Tech wears every game in 2026, week by week, including the exact date the new Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -85,7 +85,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **September 5 vs. Abilene Christian**, Lubbock. Season opener at home. ★ Confirmed: **black helmet, red jersey, black pants.** Tech split the difference on the red-or-black question and wore both, the red shirt bracketed by black above and below, which is the sharpest version of this uniform. Abilene Christian went white helmet, white jersey, white pants. Texas Tech won 33-10.
 
-**September 12 at Oregon State**, Corvallis. First road trip. ★ Confirmed from the broadcast: **white jersey with red numbers**; the helmet and pants were not visible in the frames CBS published, so those stay unconfirmed until we see one. Texas Tech won 35-24 against Oregon State in black over white under the white script helmet.
+**September 12 at Oregon State**, Corvallis. First road trip. ★ Confirmed from the broadcast: **black helmet, white jersey with red numbers, white pants**, read off the CBS end zone frames. Texas Tech won 35-24, and Oregon State answered in black over black under its white script helmet.
 
 **September 18 vs. No. 23 Houston**, Lubbock. Friday night, 8:00 ET on FOX. **The Let's Ride debut.** The one uniform date on this schedule that is locked.
 

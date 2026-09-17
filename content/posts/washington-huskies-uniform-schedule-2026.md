@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-17'
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**September 6 vs. Washington State.** ★ Confirmed from the program's own postgame photo: **gold helmet, purple jersey, gold pants**, the base home set for a season-opening Apple Cup at Husky Stadium. The trophy celebration shows the white numerals with gold outline and the gold pants with the purple and white stripe. Washington won 24-10. Local reporting before kickoff had Washington State in white jerseys with crimson helmets and pants; we have not seen that in a frame ourselves. One calendar note: this was a Sunday game, 1 p.m. Pacific on NBC, not a Saturday.
+**September 6 vs. Washington State.** ★ Confirmed from the program's own postgame photo: **gold helmet, purple jersey, gold pants**, the base home set for a season-opening Apple Cup at Husky Stadium. The trophy celebration shows the white numerals with gold outline and the gold pants with the purple and white stripe. Washington won 24-10. Washington State confirmed its own side in a reveal video: crimson helmet with a white facemask, white jersey, crimson pants. One calendar note: this was a Sunday game, 1 p.m. Pacific on NBC, not a Saturday.
 
 **September 12 vs. Utah State.** ★ Confirmed from the Big Ten Network broadcast: **gold helmet, purple jersey, gold pants** again, on Band Day. Utah State wore white helmets, white jerseys and navy pants. Washington won 16-14 in a game that was 10-7 at halftime and was not settled until the fourth quarter.
 
