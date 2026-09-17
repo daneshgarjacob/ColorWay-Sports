@@ -119,9 +119,6 @@ export default function Home() {
           </section>
         )}
 
-        {/* The Wire: newest uniform news, so the homepage shows the site moved today */}
-        <WireStrip />
-
         {/* Latest stories grid */}
         {gridPosts.length > 0 && (
           <section className="max-w-[1200px] mx-auto px-5 pt-5 pb-8">
@@ -144,6 +141,9 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        {/* The Wire sits under the hero and the Latest grid: Jake's order, 9/17 */}
+        <WireStrip />
 
         {/* This week in the NFL: 32 chips, one per schedule post (the earners) */}
         <NflWeekZone />

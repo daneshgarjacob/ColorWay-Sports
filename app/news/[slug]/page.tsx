@@ -65,7 +65,7 @@ export default async function WirePage({ params }: { params: Promise<{ slug: str
             </span>
           </nav>
 
-          <WireItem item={item} headingLevel="h1" />
+          <WireItem item={item} headingLevel="h1" variant="full" />
 
           {more.length > 0 && (
             <section className="mt-12">

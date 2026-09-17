@@ -18,9 +18,26 @@ const TAG_CLASS: Record<string, string> = {
  * just facts does not need a name on it, and putting one there would make the
  * whole feed read like filler.
  */
-export default function WireItem({ item, headingLevel = "h3" }: { item: NewsItem; headingLevel?: "h1" | "h3" }) {
+export default function WireItem({
+  item,
+  headingLevel = "h3",
+  variant = "feed",
+}: {
+  item: NewsItem;
+  headingLevel?: "h1" | "h3";
+  /**
+   * "feed" is the scannable list: headline, words, take, no media. Jake, 9/17:
+   * the feed does not need images, the embed belongs on the item you click into.
+   * "full" is that item page, where the team's own post carries the visual.
+   */
+  variant?: "feed" | "full";
+}) {
   const { time, zone } = stamp(item.at);
   const Heading = headingLevel;
+  const body =
+    variant === "feed"
+      ? item.contentHtml.replace(/<blockquote class="twitter-tweet"[\s\S]*?<\/blockquote>/g, "")
+      : item.contentHtml;
 
   return (
     <article className="grid grid-cols-[58px_1fr] sm:grid-cols-[74px_1fr] gap-3 sm:gap-[18px] py-5 border-t border-border">
@@ -48,7 +65,7 @@ export default function WireItem({ item, headingLevel = "h3" }: { item: NewsItem
           )}
         </Heading>
 
-        {item.image && (
+        {item.image && variant === "full" && (
           <div
             className={`rounded-[10px] border border-border overflow-hidden my-1 mb-3 ${
               item.imageStyle === "full" ? "" : "bg-[#f1f3f8] flex items-center justify-center p-3"
@@ -66,7 +83,7 @@ export default function WireItem({ item, headingLevel = "h3" }: { item: NewsItem
 
         <div
           className="wire-body text-[15.5px] leading-[1.62] text-[#3f4650]"
-          dangerouslySetInnerHTML={{ __html: item.contentHtml }}
+          dangerouslySetInnerHTML={{ __html: body }}
         />
 
         {item.take && (
