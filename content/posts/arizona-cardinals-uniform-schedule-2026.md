@@ -72,6 +72,8 @@ It remains one of the better things the Rivalries program has produced. Where a 
 
 Pairing it with the Seahawks is also correct. Seattle is the division rival Arizona has the most history with in that stadium, and putting the uniform in Week 2 rather than saving it for December means it gets a warm-weather afternoon where the copper actually reads on camera. Our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program) has the background on how the waves work.
 
+Seattle has confirmed its side of the matchup: navy helmet, navy jersey and wolf grey pants, so the desert set gets a dark opponent rather than a white one. The [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) has the rest of their season.
+
 
 ## The Black Alternate (Weeks 5 and 12)
 

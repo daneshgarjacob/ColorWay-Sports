@@ -23,6 +23,7 @@ Three of Seattle's nine home dates come with a jersey named by the team, and eve
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #0b3a6b 0%, #002244 100%); border-radius: 16px; border: 2px solid #ffffff;">
   <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">Confirmed Jersey Dates</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#69BE28;">College Navy, Wolf Grey Pants</strong> &middot; Week 2 at Cardinals &middot; Sunday, September 20</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#69BE28;">Royal Blue Throwback</strong> &middot; Week 7 vs. Chiefs &middot; Sunday, October 25 &middot; SNF</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#69BE28;">Throwback</strong> &middot; Week 13 vs. Cowboys &middot; Monday, December 7 &middot; MNF</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#69BE28;">Rivalries</strong> &middot; Week 16 vs. Rams &middot; Friday, December 25</p>
@@ -32,11 +33,11 @@ Three of Seattle's nine home dates come with a jersey named by the team, and eve
 
 **Their Week 1 opponent:** the [New England Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
-Here is the whole season at a glance. The confirmed games are marked with a star: the three jersey games, plus the Wednesday night opener, which the team has announced as **all navy**, navy helmet over the college navy jersey and navy pants, against New England's white on blue. Week 11 is the bye.
+Here is the whole season at a glance. The confirmed games are marked with a star: the three jersey games, the Wednesday night opener, which the team has announced as **all navy**, navy helmet over the college navy jersey and navy pants, against New England's white on blue, and **Week 2 at Arizona in navy** with wolf grey pants. Week 11 is the bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #002244; color: #ffffff; border: 2px solid #69BE28; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Patriots</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ All Navy · Wed</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #002244; color: #ffffff; border: 2px solid #69BE28; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
@@ -98,9 +99,9 @@ College navy with the action green numerals is a good uniform that has been slig
 
 ## The White Road Set (Expected)
 
-The white road uniform projects to all eight away games: at the Cardinals, Commanders, Broncos, Raiders, 49ers, Eagles, Panthers, and the Week 18 trip to the Rams.
+The white road uniform projects to seven of the eight away games: at the Commanders, Broncos, Raiders, 49ers, Eagles, Panthers, and the Week 18 trip to the Rams. The exception is Week 2 at Arizona, where Seattle has confirmed navy.
 
-Week 2 at Arizona is the one to circle. The Cardinals have confirmed they will wear their desert Rivalries jersey for that game, which we covered in the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026), so Seattle in white across from sand and copper should be one of the better-looking September games in the conference.
+Week 2 at Arizona is the one to circle. The Cardinals have confirmed they will wear their desert Rivalries jersey for that game, which we covered in the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026), and Seattle has confirmed it will not be in white: navy helmet, navy jersey and wolf grey pants. Navy across from sand and copper should be one of the better-looking September games in the conference.
 
 
 ## How the Seahawks Rotation Works in 2026
@@ -115,11 +116,11 @@ How does every one of these jerseys stack up? See our [Seahawks jerseys 2026 ran
 
 **What jersey are the Seahawks wearing today?**
 
-College Navy at home and white on the road, with three confirmed exceptions. The royal blue throwback comes out twice, Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform gets Week 16 against the Rams on Christmas Day.
+In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day.
 
 **What jerseys are the Seahawks wearing this week?**
 
-College Navy at home and white on the road, with three confirmed exceptions. The royal blue throwback comes out twice, Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform gets Week 16 against the Rams on Christmas Day.
+In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day.
 
 **What uniform did the Seahawks wear last week?**
 
