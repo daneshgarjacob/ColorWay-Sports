@@ -86,7 +86,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **September 26 at Nevada.** White expected. A late trip to Mackay Stadium in Reno.
 
-**October 3 vs. Navy.** **B-21 Raider.** The Air Power Legacy Series uniform debuts here, at 10 a.m. Mountain on CBS, in the first leg of the Commander-in-Chief's Trophy. Navy is the visitor and wears white, which sets up a matte black service academy uniform against the plainest white set in the sport. Navy has its own reasons to be interesting this fall, and the [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen's side of it, including the [1926 centennial throwback](/stories/navy-1926-centennial-uniform-2026) they are saving for Notre Dame.
+**October 3 vs. Navy.** Our full breakdown and grade is in [Air Force's B-21 Raider uniform](/stories/air-force-b21-raider-uniform-2026). **B-21 Raider.** The Air Power Legacy Series uniform debuts here, at 10 a.m. Mountain on CBS, in the first leg of the Commander-in-Chief's Trophy. Navy is the visitor and wears white, which sets up a matte black service academy uniform against the plainest white set in the sport. Navy has its own reasons to be interesting this fall, and the [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen's side of it, including the [1926 centennial throwback](/stories/navy-1926-centennial-uniform-2026) they are saving for Notre Dame.
 
 **October 10 at Northern Illinois.** White expected. The cross-country Mountain West trip to DeKalb, Illinois.
 
