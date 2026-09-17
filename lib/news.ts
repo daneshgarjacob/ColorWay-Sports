@@ -33,6 +33,12 @@ export interface NewsMeta {
   sourceUrl?: string;
   image?: string;
   imageAlt?: string;
+  /**
+   * "jersey" (default) sits a cutout from our own jersey library on a light card,
+   * height capped so a tall PNG does not eat the screen. "full" bleeds a wide
+   * image across the column, for graphics shaped like graphics.
+   */
+  imageStyle?: "jersey" | "full";
   /** Related schedule post or tracker: the path readers should land on next. */
   link?: string;
   linkLabel?: string;
@@ -73,6 +79,7 @@ function toMeta(slug: string, data: Record<string, unknown>): NewsMeta {
     sourceUrl: data.sourceUrl as string | undefined,
     image: data.image as string | undefined,
     imageAlt: data.imageAlt as string | undefined,
+    imageStyle: ((data.imageStyle as "jersey" | "full") || "jersey"),
     link: data.link as string | undefined,
     linkLabel: data.linkLabel as string | undefined,
     take: take || undefined,

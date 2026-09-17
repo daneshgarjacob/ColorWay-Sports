@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllNewsMeta, getNewsBySlug, getAllNews, dayLabel } from "@/lib/news";
 import WireItem from "@/components/WireItem";
+import TwitterEmbed from "@/components/TwitterEmbed";
 
 // Every wire item gets its own URL so it can be shared, linked and indexed. The
 // feed is the front door; this is the permanent address.
@@ -48,6 +49,8 @@ export default async function WirePage({ params }: { params: Promise<{ slug: str
     <>
       <Header />
       <main className="pb-20">
+        {/* widgets.js is loaded globally; this re-runs it so wire embeds render */}
+        <TwitterEmbed />
         <div className="max-w-[760px] mx-auto px-5">
           <nav className="pt-8 pb-4">
             <Link

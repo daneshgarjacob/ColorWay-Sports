@@ -7,6 +7,9 @@ source: "Yahoo Sports"
 sourceUrl: "https://sports.yahoo.com/articles/detroit-lions-reveal-uniform-combo-142307974.html"
 link: "/stories/lions-uniform-schedule-2026"
 linkLabel: "Lions uniform schedule"
+take: "All white on the road is the right call for the contrast against Buffalo, and the red end zones make tonight a big look for the Bills too."
+image: "/images/posts/nfl-tracker-jerseys/lions-white-road.jpg"
+imageAlt: "Detroit Lions white road jersey, worn at Buffalo on Thursday night September 17 2026"
 ---
 
 Detroit goes white jersey and white pants on Thursday night at Buffalo, the road look its own fans nicknamed the Marshmallows.

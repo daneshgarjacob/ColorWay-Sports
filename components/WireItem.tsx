@@ -49,13 +49,19 @@ export default function WireItem({ item, headingLevel = "h3" }: { item: NewsItem
         </Heading>
 
         {item.image && (
-          // eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide
-          <img
-            src={item.image}
-            alt={item.imageAlt || item.title}
-            className="w-full rounded-[10px] border border-border block my-1 mb-3 bg-[#eef0f4]"
-            loading="lazy"
-          />
+          <div
+            className={`rounded-[10px] border border-border overflow-hidden my-1 mb-3 ${
+              item.imageStyle === "full" ? "" : "bg-[#f1f3f8] flex items-center justify-center p-3"
+            }`}
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide */}
+            <img
+              src={item.image}
+              alt={item.imageAlt || item.title}
+              className={item.imageStyle === "full" ? "w-full block" : "max-h-[240px] w-auto object-contain"}
+              loading="lazy"
+            />
+          </div>
         )}
 
         <div

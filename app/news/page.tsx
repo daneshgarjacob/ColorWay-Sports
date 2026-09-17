@@ -6,6 +6,7 @@ import { getAllNews, groupByDay, stamp } from "@/lib/news";
 import { getAllPosts } from "@/lib/posts";
 import WireItem from "@/components/WireItem";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import TwitterEmbed from "@/components/TwitterEmbed";
 
 export const metadata: Metadata = {
   title: "The Wire: Uniform News as It Happens",
@@ -41,6 +42,8 @@ export default async function NewsFeed() {
     <>
       <Header />
       <main className="pb-20">
+        {/* widgets.js is loaded globally; this re-runs it so wire embeds render */}
+        <TwitterEmbed />
         <div className="max-w-[1080px] mx-auto px-5">
           <header className="pt-9 pb-5 border-b-2 border-black">
             <p className="font-display text-[11px] font-extrabold tracking-[0.24em] uppercase text-orange m-0 mb-2">

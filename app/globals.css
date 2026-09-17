@@ -294,3 +294,22 @@ a {
   background: var(--color-orange);
   margin: 1em auto 0;
 }
+
+/* The Wire: item bodies are raw markdown HTML, so they get their own rhythm
+   rather than the heavier article prose styles used on /stories. */
+.wire-body p {
+  margin: 0 0 0.7em;
+}
+
+.wire-body p:last-child {
+  margin-bottom: 0;
+}
+
+.wire-body a {
+  color: var(--color-orange);
+  text-decoration: underline;
+}
+
+.wire-body blockquote.twitter-tweet {
+  margin: 1em 0;
+}
