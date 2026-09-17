@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-17'
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 **September 12 at Texas A&M, College Station.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, with Sparky on the helmet for the first time this season in place of the pitchfork. Same helmet shell and pants as the opener, white jersey swapped in for the road. Texas A&M wore its standard home set, maroon jersey, white pants, white helmet, so Kyle Field read maroon and white against gold and white. Arizona State lost 48-20. The Aggies' side of the day is on the [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
-**September 19 vs. Kansas, Wembley Stadium, London.** White jersey expected. The Union Jack Classic is the first college football game played in London and the Big 12 opener for both schools, and Kansas is the designated home team, which is why Arizona State's schedule lists it as a road game. The helmet is the open question. Arizona State announces the combination in game week, and a Sparky helmet under the Wembley arch would be a fitting export.
+**September 19 vs. Kansas, Wembley Stadium, London.** White jersey expected. The Union Jack Classic is the first college football game played in London and the Big 12 opener for both schools, and Kansas is the designated home team, which is why Arizona State's schedule lists it as a road game. The helmet is the open question, but on Wednesday the Sun Devils [posted a gold helmet with the Sparky logo and a maroon facemask in front of Big Ben](https://x.com/ASUFootball/status/2100373682375766098), the strongest hint yet at the London helmet. It is a hint, not a full reveal, and the jersey and pants have not been announced.
 
 **September 26.** Bye.
 
@@ -78,7 +78,7 @@ Two games in, Arizona State has worn the same gold helmet and gold pants twice a
 
 **What jersey is Arizona State wearing this week?**
 
-Arizona State wore a gold Sparky helmet, white jersey and gold pants at Texas A&M on September 12. The next game is against Kansas at Wembley Stadium in London on September 19, where the Sun Devils are the designated road team and a white jersey is expected. Arizona State announces the full combination in game week, and the grid above is updated as each one is confirmed.
+Arizona State wore a gold Sparky helmet, white jersey and gold pants at Texas A&M on September 12. The next game is against Kansas at Wembley Stadium in London on September 19, where the Sun Devils are the designated road team and a white jersey is expected. Arizona State posted a gold Sparky helmet with a maroon facemask from London on Wednesday, a strong hint at the helmet, but the full combination has not been announced. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
 
 **What are Arizona State's uniforms for 2026?**
 

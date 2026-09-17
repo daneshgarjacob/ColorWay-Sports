@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -70,7 +70,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #FF8200; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Furman</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange (Announced)</div></div>
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #58595B; color: #ffffff; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #FF8200;">Smokey Grey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -87,7 +87,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set, against Georgia Tech in gold over white. Tennessee won 45-24.
 
-**September 19 vs. Kennesaw State**, Knoxville. Orange.
+**September 19 vs. Kennesaw State**, Knoxville. Orange, announced. Tennessee posted its ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294): white helmet, orange jersey, white pants. We will star the cell once we see it on the field.
 
 **September 26 vs. Texas**, Knoxville. The first big one at Neyland. Orange, with Texas in white.
 
@@ -125,7 +125,7 @@ For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-sched
 
 **What jersey is Tennessee wearing this week?**
 
-Tennessee wears orange at Neyland Stadium and white on the road. The exceptions are October 3 against Auburn, when the Vols wear the Smokey Grey alternate, and October 17 against Alabama, which is an orange home game with Alabama also in color.
+Tennessee hosts Kennesaw State on Saturday, September 19, in its announced classic home look: white helmet, orange jersey and white pants. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The exceptions are October 3 against Auburn, when the Vols wear the Smokey Grey alternate, and October 17 against Alabama, which is an orange home game with Alabama also in color.
 
 **When does Tennessee wear the Smokey Grey uniform in 2026?**
 

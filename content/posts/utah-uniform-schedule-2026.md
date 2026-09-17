@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-17'
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Utah has worn all red in both 2026 games so far, red helmet, red jersey and red pants, and the next big uniform call comes Saturday, when the Ute Proud game against Utah State usually brings a special helmet built with the Ute Indian Tribe. This is the full Utah 2026 uniform schedule: the red home set, the white road set, the black alternate, the Ute Proud look and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Utah has worn all red in both 2026 games so far, red helmet, red jersey and red pants, and the next big uniform call comes Saturday, when Utah wears its announced Ute Proud look against Utah State: a white helmet with tribal interlocking U's, a red jersey and red pants. This is the full Utah 2026 uniform schedule: the red home set, the white road set, the black alternate, the Ute Proud look and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Utah 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Idaho</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
-  <div style="background: #ffffff; color: #CC0000; border: 2px dashed #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Ute Proud (TBA)</div></div>
+  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Ute Proud (Announced)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -49,7 +49,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **September 12 vs. Arkansas.** ★ Confirmed from the broadcast: **all red again**, red helmet, red jersey, red pants, for the Red Out and Eric Weddle's Ring of Honor induction. Arkansas came in all white, white helmets, white jerseys and white pants, so the SEC visit looked like a clean red-versus-white split under the lights. Utah won 43-10. Same calendar note: the 8:15 p.m. Mountain kickoff shows as September 13 on ESPN.
 
-**September 19 vs. Utah State.** Ute Proud look expected, not yet revealed. The athletic department lists this as the Ute Proud and Hall of Fame game, 1:30 p.m. Mountain on FOX. The Ute Proud helmet has been white with the tribal interlocking U's in each of the last two seasons, over a black throwback jersey against TCU in 2024 and over the red throwback jersey and red pants against Texas Tech in 2025. We will star this cell when Utah posts the combination, which usually lands in game week.
+**September 19 vs. Utah State.** Ute Proud look, announced. Utah [revealed it on Wednesday](https://x.com/Utah_Football/status/2100329327091237185): a white helmet with the tribal interlocking U's on the side and a black, white and red tribal stripe down the center, a red jersey and red pants. The athletic department lists this as the Ute Proud and Hall of Fame game, 1:30 p.m. Mountain on FOX. The Ute Proud helmet was also white with the tribal interlocking U's in each of the last two seasons, over a black throwback jersey against TCU in 2024 and over the red throwback jersey and red pants against Texas Tech in 2025. We will star the cell once we see it on the field.
 
 **September 26 at Iowa State.** White expected. First Big 12 road trip, to Jack Trice Stadium, with Iowa State expected in cardinal at home.
 
@@ -73,13 +73,13 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 ## The Bottom Line
 
-Two games, one look: Utah has gone all red at home twice, and with a Red Out still ahead against BYU, red is the base of this season. The real uniform stories are the helmets. Saturday's Ute Proud game against Utah State is the next reveal, and somewhere on the home schedule sits the annual hand-painted helmet, with Kansas, Houston and West Virginia the open candidates. Road dates at Iowa State, Colorado, Cincinnati, Arizona and TCU should all be white. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Two games, one look: Utah has gone all red at home twice, and with a Red Out still ahead against BYU, red is the base of this season. The real uniform stories are the helmets. Saturday's Ute Proud game against Utah State brings the announced white tribal helmet over red and red, and somewhere on the home schedule sits the annual hand-painted helmet, with Kansas, Houston and West Virginia the open candidates. Road dates at Iowa State, Colorado, Cincinnati, Arizona and TCU should all be white. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah wearing this week?**
 
-Utah hosts Utah State on Saturday, September 19, in its Ute Proud game, and the combination had not been revealed as of September 16. The Ute Proud helmet has been white with tribal-styled interlocking U's in each of the last two seasons. Last week against Arkansas, Utah wore all red: red helmet, red jersey and red pants.
+Utah hosts Utah State on Saturday, September 19, in its Ute Proud game, and the announced combination is a white helmet with tribal interlocking U's and a tribal center stripe, a red jersey and red pants. Last week against Arkansas, Utah wore all red: red helmet, red jersey and red pants.
 
 **What are Utah's football uniforms for 2026?**
 
@@ -87,7 +87,7 @@ A red home jersey with white numerals and white sleeve stripes, a white road jer
 
 **Does Utah have a new alternate uniform in 2026?**
 
-Nothing new has been announced beyond the sponsor patch and helmet bumper logo. The two special looks to watch are the Ute Proud combination on September 19 and the annual hand-painted helmet, which Utah has worn every season since 2016 except 2020. Its 2026 date and design have not been announced.
+Nothing new has been announced beyond the sponsor patch and helmet bumper logo. The two special looks are the Ute Proud combination on September 19, now announced as a white tribal helmet with a red jersey and red pants, and the annual hand-painted helmet, which Utah has worn every season since 2016 except 2020. Its 2026 date and design have not been announced.
 
 **What did Utah wear against Arkansas?**
 

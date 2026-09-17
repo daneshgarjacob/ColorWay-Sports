@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-17'
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #AD0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss (Nashville)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Villanova</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Flag Helmet / Red / White</div></div>
-  <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Announced)</div></div>
   <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -48,7 +48,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
 
 **September 11 vs. Villanova.** ★ Confirmed from the broadcast: **white Salute to Service helmet, red jersey, white pants**. The home opener at L&N Federal Credit Union Stadium fell on the 25th anniversary of September 11, and the helmet swapped the Cardinal head for a Cards script and a center stripe filled with the American flag, with a red facemask. The jersey was the standard red home top. The program's own post called it "Stars & stripes for our Salute to Service game." Louisville won 59-13, and it was a Friday night kickoff at 7 p.m. Eastern.
 
-**September 19 vs. SMU.** Red expected. The standard home look for a 3:30 p.m. Eastern kickoff on ESPN2, against the same opponent Louisville faced in the red and gold Rumble in the Jungle Ali set in 2024.
+**September 19 vs. SMU.** Red, announced. Louisville posted the combination under ["Keeping it classic"](https://x.com/LouisvilleFB/status/2100585568203837775): white helmet, red jersey, white pants. It is the standard home look for a 3:30 p.m. Eastern kickoff on ESPN2, against the same opponent Louisville faced in the red and gold Rumble in the Jungle Ali set in 2024. We will star the cell once we see it on the field.
 
 **September 26 vs. Wake Forest.** Red expected. A noon kickoff and the ACC opener at home.
 
@@ -78,7 +78,7 @@ Two games in, Louisville has shown both sides of its base closet: all white in N
 
 **What jersey is Louisville wearing this week?**
 
-Louisville hosts SMU on Saturday, September 19, and the red home jersey with white pants is expected. Last week against Villanova the Cardinals wore the red jersey, white pants and a white Salute to Service helmet with a Cards script and an American flag stripe. The grid above lists every game with the expected uniform.
+Louisville hosts SMU on Saturday, September 19, in an announced classic home look: white helmet, red jersey and white pants. Last week against Villanova the Cardinals wore the red jersey, white pants and a white Salute to Service helmet with a Cards script and an American flag stripe. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 
