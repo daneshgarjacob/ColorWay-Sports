@@ -65,7 +65,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 **No. 5 Miami at Wake Forest**, 7:30 p.m., ESPN
 - [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Announced**, all white, in the ACC opener. The [Week 3 graphic](https://x.com/CanesFootball/status/2100578725129544026) shows the white helmet with the orange and green stripe, white jersey and white pants.
-- Wake Forest: **Announced**, black. Wake called its Week 3 set ["Dark Mode"](https://x.com/WakeFB/status/2100340117626077590), with a black helmet.
+- Wake Forest: **Announced**, all black. Wake called its Week 3 set ["Dark Mode"](https://x.com/WakeFB/status/2100340117626077590), and its [Game 3 uniform graphic](https://x.com/WakeFB/status/2100346438450303332) labels every piece: matte black helmet, black jerseys, black pants.
 
 **No. 22 Houston at No. 13 Texas Tech**, 8 p.m., FOX
 - Houston: **Announced**, all white with the white UH helmet.

@@ -79,7 +79,7 @@ Miami has worn its two base sets in the first two games: all white at Stanford a
 
 **What jersey is Miami wearing this week?**
 
-Miami plays at Wake Forest on Friday, September 18, in an announced all-white look: white helmet with the orange and green stripe, white jersey and white pants. Wake Forest is wearing a black "Dark Mode" set. Their last game was a 77-7 home win over Florida A&M on September 10, played in white helmets, orange jerseys, and white pants. The grid above lists every game with its expected uniform, and we update it as each combination is confirmed.
+Miami plays at Wake Forest on Friday, September 18, in an announced all-white look: white helmet with the orange and green stripe, white jersey and white pants. Wake Forest is wearing its all-black "Dark Mode" set, matte black helmet, black jersey and black pants, so this is white against black with nothing shared. Their last game was a 77-7 home win over Florida A&M on September 10, played in white helmets, orange jerseys, and white pants. The grid above lists every game with its expected uniform, and we update it as each combination is confirmed.
 
 **What are Miami's football uniforms for 2026?**
 
