@@ -36,7 +36,7 @@ That swap is the problem. The silver-blue pant is the most distinctive piece Dal
 
 When it is worn in 2026: three road games, all confirmed by the team, and each one is a trip to a host that wears white at home. Week 4 at the Texans on Sunday, October 4, Week 9 at the Colts on Sunday, November 8 for Indianapolis's White Out, and Week 15 at the Rams on Sunday, December 20. The white helmet with the navy jersey, the combination Dallas debuted on Christmas Day 2025 at Washington, is not on the 2026 schedule.
 
-## 3. Color Rush (All-White)
+## 3. Arctic White Color Rush
 
 <div style="margin: 2em 0; padding: 1.5em; border-radius: 12px; background: linear-gradient(135deg, #f4f5f7, #041E42); color: white; text-align: center;">
   <span style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; color: #041E42;">ColorWay Sports Grade</span>
@@ -47,7 +47,7 @@ When it is worn in 2026: three road games, all confirmed by the team, and each o
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/1866290012217610534"></a></blockquote>
 </div>
 
-The Color Rush is a different uniform from the standard whites, not a pants swap. The jersey is white with navy shoulders carrying twin stars, borrowed from the 1990s double-star jersey, and navy block numbers. It pairs with a white helmet carrying the current star and a white facemask, and white pants with two navy stripes down the side. Head to toe, it is the whitest uniform in the league.
+The team calls this set Arctic White, and it is a different uniform from the standard whites, not a pants swap. The jersey is white with navy shoulders carrying twin stars, borrowed from the 1990s double-star jersey, and navy block numbers. It pairs with a white helmet carrying the current star and a white facemask, and white pants with two navy stripes down the side. Head to toe, it is the whitest uniform in the league.
 
 The navy shoulder yoke is what makes it work. It gives an all-white uniform a real graphic shape, a dark band across the top that reads from any seat, and the double stars are a better use of the logo than the small sleeve star on the primaries. It is a fan favorite for good reason.
 
@@ -96,7 +96,7 @@ When it is worn in 2026: once, Week 12 against the Eagles at AT&T Stadium on Thu
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Thanksgiving Classic</strong> · A · Week 12, Thanksgiving vs. Eagles</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. White Home and Road</strong> · A- · 10 games, six at home and four on the road</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. Color Rush (All-White)</strong> · B+ · Weeks 2, 7 and 16</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. Arctic White Color Rush</strong> · B+ · Weeks 2, 7 and 16</p>
   <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>4. Navy Jersey</strong> · B- · Weeks 4, 9 and 15, all on the road</p>
 </div>
 
@@ -120,7 +120,7 @@ We rank the Thanksgiving Classic first with an A. The white helmet, navy jersey,
 
 **What jersey are the Cowboys wearing this week?**
 
-In Week 2, Dallas hosts the Washington Commanders at AT&T Stadium on Sunday, September 20, at 4:25 ET, in the all-white Color Rush: white helmet, white jersey with the navy twin-star shoulders, and white pants. The team has confirmed it. In Week 1 at the Giants, the Cowboys wore the silver helmet, white jersey and silver pants.
+In Week 2, Dallas hosts the Washington Commanders at AT&T Stadium on Sunday, September 20, at 4:25 ET, in the all-white Arctic White Color Rush: white helmet, white jersey with the navy twin-star shoulders, white pants and white socks. The team has confirmed it on its gameday graphic. In Week 1 at the Giants, the Cowboys wore the silver helmet, white jersey and silver pants.
 
 **Do the Cowboys have a new jersey in 2026?**
 
