@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Kelly Green Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -27,7 +27,7 @@ Nine home games, eight on the road, and a Week 10 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White on White (Confirmed)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -92,7 +92,9 @@ Midnight green is a genuinely unusual color and the Eagles deserve credit for st
 
 ## The White Road Set (8 Games)
 
-White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
+White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception.
+
+**Week 2 at Tennessee is confirmed as white on white**: the midnight green helmet with the white jersey and white pants, in Nashville on Sunday, September 20 at 1:00 Eastern. Tennessee is in its new light blue jersey with white pants, so this is color against white with the two helmets doing the separating. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on September 28** is a road trip into a building that will have its own new Rivalries uniform this season.
 
 
 How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranking](/stories/eagles-jerseys-2026-ranked), every jersey in the closet graded from best to worst.

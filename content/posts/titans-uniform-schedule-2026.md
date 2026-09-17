@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -36,7 +36,7 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jets</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue &middot; White Pants</div></div>
-  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
+  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue (Confirmed)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
@@ -58,6 +58,8 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat: <strong>Week 10 is the only game with a team-confirmed uniform.</strong> Tennessee has published no home-game uniform schedule beyond the Music City debut, so every other assignment above follows the standard NFL home-and-away convention and is our projection. Week 11 at Dallas is genuinely open because the Cowboys wear white at home. Pants are a week-of-game decision in both directions. The Week 18 kickoff time has not been set.</p>
 
 ## Titans Blue at Home (The New Base Set)
+
+**Week 2 against the Eagles is confirmed**: white helmet, Titans blue jersey, white pants, Sunday, September 20 at 1:00 Eastern at Nissan Stadium. Philadelphia answers in white on white under the midnight green helmet.
 
 The new home jersey is the reason to care about this season. Tennessee went back to a lighter blue, put "TITANS" across the chest in a clean block, and left the rest alone: white numbers outlined in red, a red and navy sleeve stripe, and a white helmet with a white facemask carrying a light blue and red stripe. Three navy stars for the state's grand divisions sit at the back of the collar.
 
