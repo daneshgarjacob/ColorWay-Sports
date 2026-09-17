@@ -64,7 +64,9 @@ export default function Home() {
     // Rivalries ranking fills the third slot with a ranking story and team art.
     // Order matters: the tracker ("what every team is wearing this week") sits in
     // the middle card (Jake 9/16). City Edition was pulled from the homepage.
-    "bears-uniform-schedule-2026",
+    // Texans replaced Bears (Jake 9/16): the Bears cover is the same Monsters
+    // Rivalries shoot that leads the Rivalries ranking card next to it.
+    "texans-uniform-schedule-2026",
     "nfl-uniform-tracker-2026",
     "nfl-rivalries-uniforms-2026-ranked",
   ];
