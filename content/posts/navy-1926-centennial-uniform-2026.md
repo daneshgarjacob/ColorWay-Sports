@@ -18,7 +18,9 @@ Navy is turning 100 years of history into a football uniform. On September 15 th
 
 The hook is the striping. This is a modern take on the **Chevron Stripe** jersey Navy wore in 1926, and the stripes are not decoration. There are **nine of them, four on the front and five on the back, one for every win that 1926 team produced.**
 
-<img src="/images/posts/navy-1926-centennial-uniform/full-look.jpg" alt="Navy 1926 centennial uniform: gold helmet, navy jersey with gold chevron stripes, gold pants" style="width: 100%; border-radius: 12px; margin: 1.5em 0;" />
+<img src="/images/posts/navy-1926-centennial-uniform/full-look.jpg" alt="Navy 1926 centennial uniform: gold helmet, navy jersey with gold chevron stripes, gold pants" style="width: 100%; border-radius: 12px; margin: 1.5em 0 0.8em;" />
+
+<p style="font-size: 0.78em; color: #7C8696; text-align: center; margin: -0.6em 0 1.6em;">Image: Navy Athletics and Under Armour</p>
 
 ## What Navy Is Actually Wearing
 
@@ -33,7 +35,9 @@ The details are where the anniversary lives:
   <div style="background: #C5B783; color: #00205B; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Collar and Locker Tag</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">"Navy Blue and Gold" inside the collar, and a back-neck tag built from the Class of 1926 pin with its eagle, trident and year.</div></div>
 </div>
 
-<img src="/images/posts/navy-1926-centennial-uniform/chevron-detail.jpg" alt="Detail of the Navy 1926 centennial jersey showing the gold chevron stripes, gold numerals and the 100th anniversary national champions patch" style="width: 100%; border-radius: 12px; margin: 1.5em 0;" />
+<img src="/images/posts/navy-1926-centennial-uniform/chevron-detail.jpg" alt="Detail of the Navy 1926 centennial jersey showing the gold chevron stripes, gold numerals and the 100th anniversary national champions patch" style="width: 100%; border-radius: 12px; margin: 1.5em 0 0.8em;" />
+
+<p style="font-size: 0.78em; color: #7C8696; text-align: center; margin: -0.6em 0 1.6em;">Image: Navy Athletics and Under Armour</p>
 
 The collar line is the deepest cut in the whole package. "Navy Blue and Gold" is the alma mater, and it was **first performed on April 24, 1926**, the same year the team on the patch went unbeaten.
 
@@ -103,4 +107,4 @@ Gillette Stadium in Foxborough, Massachusetts, on Saturday, October 31. Navy is 
 
 No. Navy builds a separate tribute uniform for the Army-Navy Game every December, and the 2026 version has not been revealed. This one is for Notre Dame only.
 
-*Uniform images courtesy of Navy Athletics and Under Armour.*
+*Uniform images courtesy of Navy Athletics and Under Armour. Navy announced the uniform on September 15, 2026.*
