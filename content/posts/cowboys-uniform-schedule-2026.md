@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: Color Rush Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -93,7 +93,7 @@ As a uniform, the navy is the plainer of the two primaries. The silver-blue that
 
 The Cowboys call it **Arctic White**: that is the name on the team's Week 2 gameday graphic, which lists the alternate white helmet, alternate white jersey, alternate white pants and alternate white socks. It is the all-white Color Rush, the fan favorite of the Dallas wardrobe, and three dates is the most the team has given it in years. It is a different uniform from the standard whites, not just a pants swap: a **white helmet** with the current star and a white facemask, a white jersey with **navy shoulders carrying the twin stars** in the manner of the 1990s double-star jersey, navy block numbers, and white pants with two navy stripes down the side. Head to toe, it is the whitest uniform in the league.
 
-- **Week 2 vs. the Commanders, Sunday, September 20.** The home opener, at 4:25 Eastern, and the team's gameday graphic confirms Arctic White head to toe, white socks included. Washington has burgundy pencilled in for this trip on our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026), and burgundy against all-white is a good-looking game.
+- **Week 2 vs. the Commanders, Sunday, September 20.** The home opener, at 4:25 Eastern, and the team's gameday graphic confirms Arctic White head to toe, white socks included. Washington confirmed its side on September 17, burgundy helmet, burgundy jersey, white pants and burgundy socks, so this is white against burgundy with no overlap. See our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026).
 - **Week 7 at the Eagles, Monday, October 26.** A Monday night in Philadelphia, and Dallas is in white, which means the Eagles are free to wear anything. Kelly Green has not been announced for this date, but a national-television home game against Dallas is exactly the kind of night Philadelphia picks for it. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) tracks it.
 - **Week 16 vs. the Jaguars, Sunday, December 27.** Sunday Night Football at AT&T Stadium in the last week of the calendar year, and the last of the three.
 

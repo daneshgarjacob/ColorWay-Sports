@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Black Hail Raiser Dates and This Week's Jersey"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-17"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -28,7 +28,7 @@ Here is the entire season at a glance. Burgundy is the heritage jersey, white is
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; White Pants</div></div>
-  <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
+  <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy (Announced)</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">Colts · London</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -66,7 +66,7 @@ It is the right call for this specific game and it is not close. Philadelphia we
 
 ## Burgundy Jersey (The Heritage Look, 9 Games)
 
-The burgundy is the heart of the wardrobe, and it works the hardest, going nine times in 2026. This is the jersey that carries the franchise's history, the deep burgundy with gold numbers and the gold spear-W on the burgundy helmet, and Washington saves it for the games that matter most on the calendar. It debuts Week 2 at Dallas, holds down the home opener against Seattle, and travels to London against the Colts in Week 4. From there it owns the heavy NFC East and prime-time stretch: home against the Eagles, home against the Rams, at the Giants, home against the Texans, at the Vikings, and the Week 18 finale against the Cowboys. Nine wearings is a clear signal that burgundy is still the emotional primary even if white is the technical one, and it keeps the franchise's most recognizable jersey and uniform in heavy rotation for the biggest matchups of the year.
+The burgundy is the heart of the wardrobe, and it works the hardest, going nine times in 2026. This is the jersey that carries the franchise's history, the deep burgundy with gold numbers and the gold spear-W on the burgundy helmet, and Washington saves it for the games that matter most on the calendar. It debuts Week 2 at Dallas, and the team confirmed the full combination on September 17: burgundy helmet, burgundy jersey, white pants and burgundy socks at AT&amp;T Stadium ([the team's post](https://x.com/Commanders/status/2100662320300970418)). Dallas is in Arctic White head to toe that afternoon, so this is a color against white game with no overlap. From there burgundy holds down the home opener against Seattle, and travels to London against the Colts in Week 4. From there it owns the heavy NFC East and prime-time stretch: home against the Eagles, home against the Rams, at the Giants, home against the Texans, at the Vikings, and the Week 18 finale against the Cowboys. Nine wearings is a clear signal that burgundy is still the emotional primary even if white is the technical one, and it keeps the franchise's most recognizable jersey and uniform in heavy rotation for the biggest matchups of the year.
 
 
 ## The "Hail Raiser" Black Alternate (2 Games, Both at Home)
@@ -90,7 +90,7 @@ Burgundy is the most likely answer, since Washington wears it nine times includi
 
 **What jerseys are the Commanders wearing this week?**
 
-Burgundy is the most likely answer, since Washington wears it nine times including two road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Burgundy, and it is confirmed. Washington announced the Week 2 combination on September 17: burgundy helmet, burgundy jersey, white pants and burgundy socks at Dallas on Sunday, September 20 at 4:25 Eastern on FOX. The Cowboys wear their Arctic White Color Rush at home. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 
