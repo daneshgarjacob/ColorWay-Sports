@@ -38,7 +38,7 @@ Below are every game this week involving an AP Top 25 team or one of the 43 prog
 
 ### No. 22 Houston at No. 13 Texas Tech
 
-**Friday, 8 p.m., FOX.** **Texas Tech: Announced, the Patrick Mahomes "Let's Ride" set**, the third Mahomes uniform from adidas in three years. It is an all-black set with red block numbers, black pants and a black helmet, with Mahomes' Gladiator logo worked in and his name across the back bumper. Texas Tech confirmed on Wednesday that a State Farm logo will appear on the jersey. **Houston: Announced, all white.** The Cougars posted ["Icy whites for Game 3"](https://x.com/UHCougarFB/status/2100278212085383592) on Wednesday: white helmet with the red interlocking UH, white jersey with the red Houston script, white pants. More: [Texas Tech schedule](/stories/texas-tech-uniform-schedule-2026).
+**Friday, 8 p.m., FOX.** **Texas Tech: Announced, the Patrick Mahomes "Let's Ride" set**, the third Mahomes uniform from adidas in three years. It is an all-black set with red block numbers, black pants and a black helmet, with Mahomes' Gladiator logo worked in and his name across the back bumper. Texas Tech confirmed on Wednesday that a State Farm logo will appear on the jersey. **Houston: Announced, all white.** The Cougars posted ["Icy whites for Game 3"](https://x.com/UHCougarFB/status/2100278212085383592) on Wednesday: white helmet with the red interlocking UH and a red facemask, white jersey with the red Houston script, white pants. More: [Texas Tech schedule](/stories/texas-tech-uniform-schedule-2026).
 
 ### No. 16 SMU at No. 23 Louisville
 
