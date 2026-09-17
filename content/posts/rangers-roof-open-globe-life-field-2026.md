@@ -1,7 +1,7 @@
 ---
 title: >-
   Is the Globe Life Field Roof Open Today? Rangers 2026 Roof Schedule
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-17'
 category: MLB
 date: '2026-04-01'
 excerpt: >-
@@ -23,7 +23,7 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
 <div style="margin: 1.75em 0; border: 2px solid #003278; border-radius: 16px; overflow: hidden;">
   <div style="background: #003278; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center;">
     <span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Today's Roof Status</span>
-    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Wednesday, September 16, 2026</span>
+    <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Thursday, September 17, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>

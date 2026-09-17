@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-17",
+  "games": [
+    {
+      "away": "Milwaukee Brewers",
+      "awaySlug": "brewers",
+      "home": "Pittsburgh Pirates",
+      "homeSlug": "pirates",
+      "time": "12:35 PM ET"
+    },
+    {
+      "away": "Los Angeles Dodgers",
+      "awaySlug": "dodgers",
+      "home": "Cincinnati Reds",
+      "homeSlug": "reds",
+      "time": "12:40 PM ET"
+    },
+    {
+      "away": "Athletics",
+      "awaySlug": "athletics",
+      "home": "Tampa Bay Rays",
+      "homeSlug": "rays",
+      "time": "1:10 PM ET"
+    },
+    {
+      "away": "San Diego Padres",
+      "awaySlug": "padres",
+      "home": "Colorado Rockies",
+      "homeSlug": "rockies",
+      "time": "3:10 PM ET"
+    },
+    {
+      "away": "Kansas City Royals",
+      "awaySlug": "royals",
+      "home": "Houston Astros",
+      "homeSlug": "astros",
+      "time": "7:15 PM ET"
+    },
+    {
+      "away": "Philadelphia Phillies",
+      "awaySlug": "phillies",
+      "home": "New York Mets",
+      "homeSlug": "mets",
+      "time": "7:15 PM ET"
+    },
+    {
+      "away": "Detroit Tigers",
+      "awaySlug": "tigers",
+      "home": "Chicago White Sox",
+      "homeSlug": "white-sox",
+      "time": "7:40 PM ET"
+    },
+    {
+      "away": "Boston Red Sox",
+      "awaySlug": "red-sox",
+      "home": "Texas Rangers",
+      "homeSlug": "rangers",
+      "time": "8:05 PM ET"
+    },
+    {
+      "away": "Minnesota Twins",
+      "awaySlug": "twins",
+      "home": "Los Angeles Angels",
+      "homeSlug": "angels",
+      "time": "9:38 PM ET"
+    }
+  ]
+}
