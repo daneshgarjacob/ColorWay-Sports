@@ -140,6 +140,7 @@ const leagues: NavLeague[] = [
 
 // "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
+  { label: "News", href: "/news" },
   { label: "Stories", href: "/stories" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },

@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
+import { getAllNewsMeta } from "@/lib/news";
 import { allTeamKeys } from "@/lib/mlbTrackerTeamIndex";
 import { allNflTeamKeys } from "@/lib/nflTrackerTeamIndex";
 import { winterTeamKeys } from "@/lib/winterTrackerIndex";
@@ -28,6 +29,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `https://www.colorwaysports.com/stories?team=${slug}`,
       lastModified: new Date(),
       changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
+  ];
+
+  // The Wire: the feed itself plus every item's permanent URL.
+  const news = getAllNewsMeta();
+  const newsUrls = [
+    {
+      url: "https://www.colorwaysports.com/news",
+      lastModified: news[0] ? new Date(news[0].at) : new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+    },
+    ...news.map((item) => ({
+      url: `https://www.colorwaysports.com/news/${item.slug}`,
+      lastModified: new Date(item.at),
+      changeFrequency: "monthly" as const,
       priority: 0.6,
     })),
   ];
@@ -140,6 +158,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    ...newsUrls,
     ...authorUrls,
     ...filterUrls,
     ...teamUrls,

@@ -3,6 +3,7 @@ import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
+import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -117,6 +118,9 @@ export default function Home() {
             <StoryHero post={heroPost} />
           </section>
         )}
+
+        {/* The Wire: newest uniform news, so the homepage shows the site moved today */}
+        <WireStrip />
 
         {/* Latest stories grid */}
         {gridPosts.length > 0 && (
