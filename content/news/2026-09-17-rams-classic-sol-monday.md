@@ -7,6 +7,7 @@ source: "ESPN"
 sourceUrl: "https://www.espn.com/nfl/story/_/id/49435669/los-angeles-rams-alternate-uniforms-2026"
 link: "/stories/rams-uniform-schedule-2026"
 linkLabel: "Rams uniform schedule"
+take: "Interesting call. I would have thought they'd go with the usual home uniform for the home opener, but it's nice to debut a new alternate on a big opening night game. I don't mind this."
 ---
 
 The Rams wear the gold Classic Sol for the first time on Monday night against the Giants. It is a tribute to the 1951 NFL championship team: royal triple striping on the sleeves, block numbers, and white pants with a blue, gold, blue stripe down each leg.
