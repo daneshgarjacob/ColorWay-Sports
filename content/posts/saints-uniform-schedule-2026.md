@@ -2,7 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-18"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -20,13 +20,19 @@ The Saints published their full 2026 uniform schedule on September 7, and the pl
 
 **Week 1 combination, as announced for game week:** gold helmet, white jersey, black pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Week 2 combination, announced:** gold helmet, black jersey, black pants for the trip to Baltimore on Sunday, September 20, at 1 p.m. It is the only road game all season where New Orleans wears color, and the captains went black on black under the gold shell rather than the gold pants. The Ravens are in their all-white White Noise look under the metallic Purple Rising helmet, so it is black and gold against head-to-toe white, about as clean a contrast as the schedule offers. The team posted the look on Friday under the caption "Sunday threads."
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2101046380592558346"></a></blockquote>
+</div>
+
 **Their Week 1 opponent:** the [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Nine home games including Paris, eight on the road, and a Week 8 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
-  <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
+  <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black &middot; Black Pants</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
   <div style="background: #ffffff; color: #101820; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White · MNF</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
@@ -89,7 +95,7 @@ Weeks 1, 6, 11, 12, 14, 15 and 17. Two of them are the **white alternate under t
 
 ## Black in Baltimore (Week 2)
 
-The one road game where New Orleans wears black, and it is not the Saints' choice. Baltimore has confirmed its **White Noise** game for September 20, the all-white set at home, and with the home team in white the visitor wears its color. The Saints' own schedule agrees. Our [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) has their side.
+The one road game where New Orleans wears black, and it is not the Saints' choice. Baltimore has confirmed its **White Noise** game for September 20, the all-white set at home, and with the home team in white the visitor wears its color. The Saints' own schedule agrees, and the game-week call is **gold helmet, black jersey, black pants**, so New Orleans goes dark from the shoulders down against an all-white Baltimore. Our [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) has their side.
 
 ## Three Helmets
 
@@ -120,7 +126,7 @@ Check the week in the grid above, because the Saints published a full plan: blac
 
 **What jerseys are the Saints wearing this week?**
 
-Same answer. The grid above is the team's own schedule, week by week, including which helmet.
+Same answer. The grid above is the team's own schedule, week by week, including which helmet. For Week 2 at Baltimore on September 20 the full combination is announced: gold helmet, black jersey and black pants.
 
 **What uniform did the Saints wear last week?**
 
