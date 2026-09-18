@@ -14,6 +14,11 @@
 // Expected calls are the traditional defaults, NOT league rules (the NBA lets
 // clubs dress from the full wardrobe game by game): Association white at home,
 // Icon Edition on the road. The in-season pass flips rows to what was worn.
+//
+// When a club publishes its own uniform schedule, its calls go in
+// scripts/data/nba-announced-uniforms-2026-27.json (keyed by tricode, dates
+// ISO). Those rows read "Announced"; that club's rows it left off read
+// "Not Yet Announced" instead of guessing a default.
 
 import fs from "node:fs";
 
@@ -43,8 +48,10 @@ const MON_ABBR = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "S
 const games = fs.readFileSync("scripts/data/nba-schedule-2026-27.txt", "utf8")
   .trim().split("\n").map((l) => { const [d, a, h] = l.split("|"); return { d, a, h }; });
 
-const row = (dateTxt, ha, opp, call) =>
-  `<div style="display: flex; align-items: baseline; gap: 10px; padding: 7px 4px; border-bottom: 1px solid #eef0f4; font-size: 0.85em;"><span style="flex: 0 0 92px; color: #8892a0; font-weight: 700; font-size: 0.85em;">${dateTxt}</span><span style="flex: 1 1 auto; color: #14284b; font-weight: 700;">${ha} ${opp}</span><span style="flex: 0 0 auto; font-weight: 800; font-size: 0.85em; color: #14284b;">${call}</span><span style="flex: 0 0 74px; text-align: right; color: #8892a0; font-weight: 700; font-size: 0.85em;">Expected</span></div>`;
+const ANNOUNCED = JSON.parse(fs.readFileSync("scripts/data/nba-announced-uniforms-2026-27.json", "utf8"));
+
+const row = (dateTxt, ha, opp, call, status = "Expected") =>
+  `<div style="display: flex; align-items: baseline; gap: 10px; padding: 7px 4px; border-bottom: 1px solid #eef0f4; font-size: 0.85em;"><span style="flex: 0 0 92px; color: #8892a0; font-weight: 700; font-size: 0.85em;">${dateTxt}</span><span style="flex: 1 1 auto; color: #14284b; font-weight: 700;">${ha} ${opp}</span><span style="flex: 0 0 auto; font-weight: 800; font-size: 0.85em; color: ${status === "TBA" ? "#8892a0" : "#14284b"};">${call}</span><span style="flex: 0 0 74px; text-align: right; color: ${status === "Announced" ? "#2f6bed" : "#8892a0"}; font-weight: 700; font-size: 0.85em;">${status}</span></div>`;
 
 const monthHead = (name) =>
   `<p style="margin: 16px 0 4px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #2f6bed;">${name}</p>`;
@@ -58,6 +65,7 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     .sort((x, y) => x.d.localeCompare(y.d));
   if (mine.length !== 80) { console.error(`✗ ${slug}: ${mine.length} games (expected 80)`); process.exitCode = 1; continue; }
 
+  const ann = ANNOUNCED[tri];
   let body = "", lastMonth = "";
   for (const g of mine) {
     const [y, m, d] = g.d.split("-").map(Number);
@@ -65,12 +73,23 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     if (monthLabel !== lastMonth) { body += monthHead(monthLabel); lastMonth = monthLabel; }
     const home = g.h === tri;
     const opp = SHORT[home ? g.a : g.h];
-    body += row(`${MON_ABBR[m]} ${d}`, home ? "vs" : "at", opp, home ? "Association White" : "Icon Edition");
+    const ha = home ? "vs" : "at";
+    if (ann && ann.games[g.d]) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, ann.games[g.d], "Announced");
+    else if (ann) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, "Not Yet Announced", "TBA");
+    else body += row(`${MON_ABBR[m]} ${d}`, ha, opp, home ? "Association White" : "Icon Edition");
   }
 
   const short = NAME[tri];
+  let note = `Expected calls are the traditional defaults, the Association white at home and the Icon color on the road, not league rules: the NBA lets clubs dress from the full wardrobe game by game, and Statement, City and Classic nights are slotted in as the ${short} announce them.`;
+  if (ann) {
+    const tally = {};
+    for (const call of Object.values(ann.games)) tally[call] = (tally[call] || 0) + 1;
+    const n = Object.keys(ann.games).length;
+    const parts = Object.entries(tally).sort((x, y) => y[1] - x[1]).map(([call, c]) => `${c} ${call.replace(" White", "")}`);
+    note = `Announced rows come from the ${short}' own uniform schedule, published ${ann.announced}: ${n} of ${mine.length} dated games, ${parts.slice(0, -1).join(", ")} and ${parts.at(-1)}. The ${mine.length - n} rows marked TBA were left off it, and we fill them in as the ${short} name them.`;
+  }
   const table = `<!-- nba-game-log:start -->
-<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 2px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">The Game-by-Game Jersey Schedule</p>${body}<p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">Expected calls are the traditional defaults, the Association white at home and the Icon color on the road, not league rules: the NBA lets clubs dress from the full wardrobe game by game, and Statement, City and Classic nights are slotted in as the ${short} announce them. Every played row flips to the jersey actually worn, updated the morning after. Two December dates are still unscheduled league-wide, waiting on the NBA Cup knockout draw.</p></div>
+<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 2px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">The Game-by-Game Jersey Schedule</p>${body}<p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">${note} Every played row flips to the jersey actually worn, updated the morning after. Two December dates are still unscheduled league-wide, waiting on the NBA Cup knockout draw.</p></div>
 <!-- nba-game-log:end -->`;
 
   let s = fs.readFileSync(path, "utf8");
@@ -82,7 +101,8 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
   } else {
     console.error(`✗ ${slug}: placeholder box not matched`); process.exitCode = 1; continue;
   }
-  s = s.replace(/^updatedDate:\s*['"]?\d{4}-\d{2}-\d{2}['"]?\s*$/m, `updatedDate: "2026-08-31"`);
+  if (s === fs.readFileSync(path, "utf8")) continue;
+  s = s.replace(/^updatedDate:\s*['"]?\d{4}-\d{2}-\d{2}['"]?\s*$/m, `updatedDate: "${new Date().toISOString().slice(0, 10)}"`);
   fs.writeFileSync(path, s);
   done++;
   console.log(`✓ ${slug}: 80 games (${mine.filter((g) => g.h === tri).length} home)`);

@@ -2,7 +2,7 @@
 title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey Date and This Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-18"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -23,6 +23,8 @@ The headline is that black won. Here is the full Carolina Panthers 2026 uniform 
 
 **Week 1 combination, confirmed by the team on Friday:** black helmet, blue jersey, black pants. Carolina posted the look in its Fit Check Friday note ahead of the Bears game, the same black-on-blue combination it wore in the 2024 Germany game and in last year's home opener against Atlanta. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
+**Week 2 combination, announced:** silver helmet, white jersey, white pants for the trip to Atlanta on Sunday, September 20, at 1 p.m. It is the first road game of the season and the first time this year Carolina wears the silver shell. The Falcons are in their red home jersey under the black helmet with white pants, so it is white against red, with no clash to sort out.
+
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2098435217065218216"></a></blockquote>
 </div>
@@ -33,7 +35,7 @@ Nine home games at Bank of America Stadium, eight on the road, and an early Week
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0085CA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Panther Blue &middot; Black Helmet</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White &middot; Silver Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black &middot; SNF</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -122,7 +124,7 @@ For 2026, yes. The jersey schedule Carolina published on September 4 gives black
 
 **Do the Panthers wear a silver helmet?**
 
-Yes. Carolina alternates between a black helmet and a silver one, and the helmet is not part of the published jersey schedule. It is announced week to week along with the pants. The first call is in: the team showed the **black helmet** with the blue cat logo ahead of the Week 1 opener against Chicago, so the season starts black helmet over Panther blue.
+Yes. Carolina alternates between a black helmet and a silver one, and the helmet is not part of the published jersey schedule. It is announced week to week along with the pants. The first call is in: the team showed the **black helmet** with the blue cat logo ahead of the Week 1 opener against Chicago, so the season starts black helmet over Panther blue. The second call is the **silver helmet**, with the white jersey and white pants, for Week 2 at Atlanta.
 
 **Will the Panthers wear a throwback in 2026?**
 

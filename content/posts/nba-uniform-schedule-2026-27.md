@@ -2,7 +2,7 @@
 title: "NBA Uniform Schedule 2026-27: Every Team's Jerseys and When They Wear Them"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-08-26"
+updatedDate: "2026-09-18"
 excerpt: "Every NBA team's 2026-27 uniform schedule in one place. All 30 clubs, their full closets, and the dates as they are confirmed."
 gradient: "linear-gradient(135deg, #C8102E 0%, #14284b 100%)"
 cardStyle: words
@@ -15,6 +15,8 @@ teams: []
 Every NBA club's 2026-27 uniform schedule, in one place. Each page below carries that team's full closet, what each jersey is for, and a game-by-game record that fills in as the season runs.
 
 The City Edition slot is the one still open league-wide. All thirty clubs are teasing a September 15, 2026 reveal, and we break down [what that teaser actually is](/stories/nba-september-15-2026-uniform-reveal) separately.
+
+**Update, September 18, 2026:** the Indiana Pacers published its own 2026-27 uniform schedule, the first club we have seen do it this year: 31 Statement games, 13 Association and 10 Icon. We counted every date, home and road, in the [Pacers uniform schedule](/stories/pacers-uniform-schedule-2026-27).
 
 ## Every NBA Team's 2026-27 Uniform Schedule
 
@@ -30,7 +32,7 @@ The City Edition slot is the one still open league-wide. All thirty clubs are te
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/pistons-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Detroit Pistons</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/warriors-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Golden State Warriors</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/rockets-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Houston Rockets</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
-<div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/pacers-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Indiana Pacers</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
+<div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/pacers-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Indiana Pacers</a><span style="font-size: 12px; color: #2f6bed; font-weight: 700; white-space: nowrap;">Schedule released</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/clippers-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">LA Clippers</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/lakers-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Los Angeles Lakers</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/grizzlies-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Memphis Grizzlies</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
