@@ -3,7 +3,7 @@ title: "Arkansas Uniform Schedule 2026: Every Jersey and When the Razorbacks Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-18"
 excerpt: "Arkansas jersey schedule 2026: cardinal home uniforms, the all-white road look worn at Utah, the new Tyson patch, and every Razorbacks game week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #7a1a29 55%, #ffffff 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 **September 19 vs. Georgia.** Cardinal expected. No. 2 Georgia visits at 11 a.m. Central on ABC, and Arkansas has called a stripe out, with fans in alternating sections wearing red or white. The program has not announced a uniform change for the game, and the stripe out asks for both colors in the stands, so the default home set is the call. Georgia's side is on our [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026), where white is expected.
 
-**September 26 vs. Tulsa.** Cardinal expected. A 7 p.m. Central kickoff and the last non-conference game of the season.
+**September 26 vs. Tulsa.** Cardinal expected. A 7 p.m. Central kickoff and the last non-conference game of the season. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
 **October 3 at Texas A&M.** White expected. The Southwest Classic moves to Kyle Field, and Arkansas will be the white half of one of the loudest matchups of the season: Texas A&M has confirmed its desert camo Honor and Support uniform for this game, covered on our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026). The Southwest Classic has produced Arkansas specials before, including Cowboys-inspired jerseys in 2017 and white helmets over cardinal jerseys in 2023, so this is a date to watch.
 

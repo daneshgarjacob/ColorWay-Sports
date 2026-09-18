@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **October 17 vs. Florida Atlantic.** Black expected. Another noon home date on CBS Sports Network.
 
-**October 23 at Tulsa.** White expected. A Friday night kickoff at 8:30 p.m. Eastern on ESPN2, the only time this season Army plays under the lights on the road, and a good candidate for a black-pants road variation if the staff wants one.
+**October 23 at Tulsa.** White expected. A Friday night kickoff at 8:30 p.m. Eastern on ESPN2, the only time this season Army plays under the lights on the road, and a good candidate for a black-pants road variation if the staff wants one. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
 **October 31 at Memphis.** White expected. Halloween at Simmons Bank Liberty Stadium, kickoff to be announced.
 
@@ -82,7 +82,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **November 14.** Bye.
 
-**November 21 vs. East Carolina.** Black expected. The final home game of the regular season, noon on CBS Sports Network. East Carolina wears white on the road, so this should be a clean black-on-white matchup.
+**November 21 vs. East Carolina.** Black expected. The final home game of the regular season, noon on CBS Sports Network. East Carolina wears white on the road, so this should be a clean black-on-white matchup. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **November 28 at Rice.** White expected. Regular season finale in Houston against a Rice team that switched from adidas to Nike over the offseason and rebuilt its uniform around UCLA stripes.
 

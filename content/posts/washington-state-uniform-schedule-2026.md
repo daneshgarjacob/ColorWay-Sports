@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 **October 3 vs. Fresno State.** Crimson expected. Family Weekend in Pullman, 6:30 p.m. Pacific, and the Pac-12 opener for both teams.
 
-**October 9 at Utah State.** White expected. A Friday night game in Logan, 6 p.m. Pacific, the only Friday on the Cougars' schedule.
+**October 9 at Utah State.** White expected. A Friday night game in Logan, 6 p.m. Pacific, the only Friday on the Cougars' schedule. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **October 17 at Oregon State.** White expected. A 3 p.m. Pacific kickoff at Reser Stadium against a Beavers team that has worn black at home so far, so this is the crispest color clash on the road schedule. These two meet again in November, because of how the new Pac-12 built its calendar.
 

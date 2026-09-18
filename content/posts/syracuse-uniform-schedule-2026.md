@@ -3,7 +3,7 @@ title: "Syracuse Uniform Schedule 2026: Every Jersey and When the Orange Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Syracuse wears every game in 2026: navy at home, white on the road, the orange helmet, and the full Orange uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a3f85 55%, #F76900 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 **September 26.** Bye.
 
-**October 3 at UConn.** White expected. A noon kickoff on CBS Sports Network at Pratt & Whitney Stadium, against an old Big East rival that wears navy at home.
+**October 3 at UConn.** White expected. A noon kickoff on CBS Sports Network at Pratt & Whitney Stadium, against an old Big East rival that wears navy at home. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **October 10 at Virginia.** White expected. Scott Stadium in Charlottesville, kickoff time to be announced. Virginia shares the navy and orange palette, so white is the only sensible choice for the visitor.
 

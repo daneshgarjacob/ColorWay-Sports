@@ -3,7 +3,7 @@ title: "Maryland Uniform Schedule 2026: Every Jersey and When the Terrapins Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: "2026-09-18"
 excerpt: "Maryland's 2026 uniform schedule: every Terps jersey and helmet week by week, from the Script Terps red home set to the new Los Terps helmet."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #b8262b 55%, #FFD520 130%)"
 cardStyle: words
@@ -47,7 +47,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
 
 **September 5 vs. Hampton.** ★ Confirmed from the broadcast: **red helmet, red jersey, white pants**, the standard Script Terps home combination, for the Beach Bash opener at SECU Stadium. Hampton wore white over blue pants. Maryland won 62-0. One calendar note: ESPN files this game under September 6 because its feed runs on UTC. The 8 p.m. Eastern kickoff was Saturday, September 5.
 
-**September 12 at UConn.** ★ Confirmed from the broadcast: **red helmet, white jersey, red pants**. The script helmet stayed red on the road, and the white jersey carried the red, gold and black flag stripes on the shoulders, with a black and white stripe down the red pants. UConn wore its navy jersey and navy helmet with the husky logo at Pratt & Whitney Stadium in East Hartford. Maryland won 38-14 for its 20th straight non-conference win.
+**September 12 at UConn.** ★ Confirmed from the broadcast: **red helmet, white jersey, red pants**. The script helmet stayed red on the road, and the white jersey carried the red, gold and black flag stripes on the shoulders, with a black and white stripe down the red pants. UConn wore its navy jersey and navy helmet with the husky logo at Pratt & Whitney Stadium in East Hartford. Maryland won 38-14 for its 20th straight non-conference win. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **September 19 vs. Virginia Tech.** Los Terps helmet confirmed, jersey and pants expected red and white. Hispanic Heritage Night at SECU Stadium, 7:30 p.m. Eastern on FS1. Maryland announced the "Los Terps" helmet on August 24: a red shell, a white center stripe outlined in black, a white facemask, and "Los Terps" in script on the sides. The program has not said what goes under it, so we have the red home jersey penciled in until we see it on the field. The helmet is also a selectable option in EA SPORTS College Football 27.
 

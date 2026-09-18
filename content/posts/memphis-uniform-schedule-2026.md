@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -63,7 +63,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MemphisFB/status/2027096506772156721"></a></blockquote>
 </div>
 
-**August 29 at UNLV.** ★ Confirmed: **white helmet, white jersey, white pants**, the full whiteout, in a Week 0 trip to Allegiant Stadium on FOX. Memphis announced the combination the day before under the tagline "Clean Cut" and won 27-21. It was the football team's first game wearing the FedEx patch.
+**August 29 at UNLV.** ★ Confirmed: **white helmet, white jersey, white pants**, the full whiteout, in a Week 0 trip to Allegiant Stadium on FOX. Memphis announced the combination the day before under the tagline "Clean Cut" and won 27-21. It was the football team's first game wearing the FedEx patch. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
 
 **September 5 vs. Arkansas State.** ★ Confirmed from the broadcast: **white helmet, blue jersey, white pants**, the home opener at Simmons Bank Liberty Stadium on ESPN+. Memphis won 42-24 and the blue jersey with white pants is the combination we expect to be the season's default at home.
 
@@ -83,7 +83,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **October 16 at Tulane.** White expected. A Friday night conference game at Yulman Stadium on ESPN, 6:30 p.m. Central, and the most interesting uniform matchup on the Memphis schedule because of who is on the other side. Tulane is one of the more adventurous uniform programs in the league and this is the Green Wave's biggest home television window of the year.
 
-**October 22 vs. East Carolina.** Blue expected. A Thursday night home game on ESPN2, 6:30 p.m. Central, and midweek national television is exactly the window a program uses for an alternate.
+**October 22 vs. East Carolina.** Blue expected. A Thursday night home game on ESPN2, 6:30 p.m. Central, and midweek national television is exactly the window a program uses for an alternate. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **October 31 vs. Army.** Blue expected. Halloween at Simmons Bank Liberty Stadium with kickoff to be announced. Memphis wore a black alternate last season, and a Halloween home game is the most obvious date on the board for it. Army is expected in white, which you can confirm on our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026).
 

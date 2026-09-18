@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: "2026-09-18"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**September 5 vs. Coastal Carolina.** ★ Confirmed from the program's game photos: **white helmet, white jersey, white pants**, the first appearance of the new gloss white helmet, with WEST VIRGINIA across the chest and the navy, gold, navy stripe down the pants. The White Out was "All White for 5," the day West Virginia retired Pat White's No. 5, and fans in Milan Puskar Stadium wore white too. Coastal Carolina wore all teal. West Virginia won 31-24.
+**September 5 vs. Coastal Carolina.** ★ Confirmed from the program's game photos: **white helmet, white jersey, white pants**, the first appearance of the new gloss white helmet, with WEST VIRGINIA across the chest and the navy, gold, navy stripe down the pants. The White Out was "All White for 5," the day West Virginia retired Pat White's No. 5, and fans in Milan Puskar Stadium wore white too. Coastal Carolina wore all teal. West Virginia won 31-24. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 **September 12 vs. UT Martin.** ★ Confirmed from the broadcast: **navy helmet, navy jersey, gold pants**, the glossy navy shell with the gold Flying WV over a navy jersey with gold numerals and gold pants with navy side stripes. UT Martin wore white. West Virginia won 52-7.
 

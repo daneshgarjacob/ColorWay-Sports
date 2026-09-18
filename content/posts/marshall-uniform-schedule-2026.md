@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
 
 **October 3 at James Madison.** White expected. The Sun Belt opener on the road, and the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes in purple at Bridgeforth Stadium.
 
-**October 10 vs. Coastal Carolina.** Green expected. This is the We Are Herd Strong game, Marshall's annual cancer awareness date, and fans are being asked to wear pink. Programs that run this theme often add a pink accent on the field, so the gloves, towels and captain patches are worth watching even if the jersey does not change.
+**October 10 vs. Coastal Carolina.** Green expected. This is the We Are Herd Strong game, Marshall's annual cancer awareness date, and fans are being asked to wear pink. Programs that run this theme often add a pink accent on the field, so the gloves, towels and captain patches are worth watching even if the jersey does not change. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 **October 20 vs. South Alabama.** Green expected. A Tuesday night, 7:30 p.m., which in the Sun Belt means a national television window with nothing else on. Weeknight home games are the kind of slot where a program reaches for something different, and Marshall has a black helmet and black pants in the closet to do it with.
 

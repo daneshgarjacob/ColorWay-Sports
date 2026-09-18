@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -70,11 +70,11 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AF_Football/status/2092280914013536640"></a></blockquote>
 </div>
 
-**October 10 vs. Tulsa.** Navy expected. Back in Annapolis at 3:30 p.m. Eastern on CBS Sports Network.
+**October 10 vs. Tulsa.** Navy expected. Back in Annapolis at 3:30 p.m. Eastern on CBS Sports Network. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
 **October 17 at UTSA.** White expected. Indoors at the Alamodome in San Antonio, kickoff still to be announced.
 
-**October 24 vs. North Texas.** Navy expected. Homecoming at Navy-Marine Corps Memorial Stadium, 3:30 p.m. Eastern on CBS Sports Network. Homecoming is the sort of date a program sometimes saves an alternate for, but Navy has already committed its alternate to the following week.
+**October 24 vs. North Texas.** Navy expected. Homecoming at Navy-Marine Corps Memorial Stadium, 3:30 p.m. Eastern on CBS Sports Network. Homecoming is the sort of date a program sometimes saves an alternate for, but Navy has already committed its alternate to the following week. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
 
 **October 31 vs. Notre Dame, Gillette Stadium, Foxborough.** The 1926 centennial uniform, which we break down piece by piece and grade in [Navy's 1926 centennial uniform revealed](/stories/navy-1926-centennial-uniform-2026). Navy is the designated home team for the 99th meeting in the series, the first ever played at Gillette Stadium and Notre Dame's first game in the building, with a noon Eastern kickoff. One detail worth clearing up: Notre Dame's 2026 Shamrock Series uniform went to the Lambeau Field game against Wisconsin in September, not to this one, so the Irish should be in a standard white road set across from the Chevron Stripe. You can see what the Irish are wearing week to week on our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
 

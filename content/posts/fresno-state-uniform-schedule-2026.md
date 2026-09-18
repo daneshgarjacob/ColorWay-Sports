@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -78,7 +78,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 **October 31 vs. Oregon State.** Red expected, and this is the date we would circle for the black set. Halloween, an 8 p.m. Pacific kickoff on USA, and a program that has already used a homecoming blackout as the launch pad for this uniform once. Oregon State has worn all black at home this season, so if both sides go dark the contrast is a problem and Fresno State stays in red.
 
-**November 7 at Utah State.** White expected. A trip to Maverik Stadium against a navy home side.
+**November 7 at Utah State.** White expected. A trip to Maverik Stadium against a navy home side. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **November 14 at Texas State.** White expected. The longest road trip of the season, a 1 p.m. Pacific kickoff in San Marcos on The CW.
 

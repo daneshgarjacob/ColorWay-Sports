@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: '2026-09-14'
+updatedDate: "2026-09-18"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -98,7 +98,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **October 24 vs. San Diego State**, Fort Collins.
 
-**October 31 at Utah State**, Logan. Halloween in white, unless the schedule gods get a costume idea.
+**October 31 at Utah State**, Logan. Halloween in white, unless the schedule gods get a costume idea. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **November 7 vs. Boise State**, Fort Collins. The best home matchup of the Pac-12 slate.
 

@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: "2026-09-18"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -55,7 +55,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 **September 5 at Hawaii.** ★ Confirmed from the team's threads post and team photography from both schools: **red helmet, red jersey, white pants**. UNLV wore color on the road because Hawaii went all white at home for its White Out promotion, so the Island Showdown in Honolulu was red against white instead of the usual home dark. The Rebels opened Mountain West play with a 21-6 win. Our [Hawaii 2026 uniform schedule](/stories/hawaii-uniform-schedule-2026) has the Rainbow Warriors side.
 
-**September 12 at North Texas.** ★ Confirmed from the team's threads post and team photography: **silver helmet, white jersey, white pants** in Denton, with North Texas in green at home. UNLV lost 44-6.
+**September 12 at North Texas.** ★ Confirmed from the team's threads post and team photography: **silver helmet, white jersey, white pants** in Denton, with North Texas in green at home. UNLV lost 44-6. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
 
 **September 19.** Bye. The first of two open dates.
 

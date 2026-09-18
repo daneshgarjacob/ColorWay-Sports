@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-18"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
 
 SEC home teams wear color and visitors wear white, so the road games below are close to automatic.
 
-**September 5 vs. East Carolina**, Tuscaloosa. Home opener. ★ Confirmed: **crimson helmet, crimson jersey, white pants**, the standard Alabama home uniform with the player's number on the helmet and no nameplate on the back. East Carolina answered in the white jersey with white pants.
+**September 5 vs. East Carolina**, Tuscaloosa. Home opener. ★ Confirmed: **crimson helmet, crimson jersey, white pants**, the standard Alabama home uniform with the player's number on the helmet and no nameplate on the back. East Carolina answered in the white jersey with white pants. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in blue over white pants. Alabama won 45-17.
 

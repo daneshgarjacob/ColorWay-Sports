@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -90,7 +90,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **November 7.** Bye.
 
-**November 14 vs. Utah State.** Black expected. Back at Snapdragon Stadium after the off week.
+**November 14 vs. Utah State.** Black expected. Back at Snapdragon Stadium after the off week. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **November 21 at Boise State.** White expected. Boise State wears blue at home on the blue field, so white is the only sane answer.
 

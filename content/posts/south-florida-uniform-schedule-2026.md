@@ -3,7 +3,7 @@ title: "South Florida Uniform Schedule 2026: Every Jersey and When the Bulls Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What South Florida wears every game in 2026: the green home set, the white road look, the black alternate, and the Gold Standard helmet, week by week."
 gradient: "linear-gradient(135deg, #006747 0%, #0a7d57 55%, #CFC493 130%)"
 cardStyle: words
@@ -90,7 +90,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **October 31 vs. UAB.** Green expected, with a real chance of black. Halloween at home is the most obvious spot on the calendar for the black alternate, which USF last pulled out late in 2025 under the white helmet.
 
-**November 6 at East Carolina.** White expected. A Friday night at Dowdy-Ficklen Stadium on ESPN2, against a purple home side.
+**November 6 at East Carolina.** White expected. A Friday night at Dowdy-Ficklen Stadium on ESPN2, against a purple home side. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **November 12 vs. Memphis.** Green expected. Thursday night at Raymond James against [Memphis](/stories/memphis-uniform-schedule-2026) in white, and probably the biggest home game of the year.
 

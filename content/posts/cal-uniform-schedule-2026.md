@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Cal wears every game in 2026: the blue home set, the white road set, the Joe Roth throwback, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -80,7 +80,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **September 25 vs. Clemson.** Blue expected. This is the Friday night ACC opener, it is the Gold Out, and it is the one home date where we would not be surprised by the gold Big C helmet instead of the navy shell. Clemson in white against Berkeley Blue is one of the cleaner color pairings Cal gets all year.
 
-**October 3 at UNLV.** White expected. A rare non-conference road trip in October, played indoors at Allegiant Stadium in Las Vegas with UNLV as the home team.
+**October 3 at UNLV.** White expected. A rare non-conference road trip in October, played indoors at Allegiant Stadium in Las Vegas with UNLV as the home team. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
 
 **October 10 vs. Virginia Tech.** Blue expected. Homecoming, which at most programs is the traditional slot for an alternate if one exists.
 

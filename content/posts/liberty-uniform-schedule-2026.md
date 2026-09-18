@@ -3,7 +3,7 @@ title: "Liberty Uniform Schedule 2026: Every Jersey and When the Flames Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Liberty wears every game in 2026: the red home jersey, the white road set, the navy and black alternates, and the full Flames uniform schedule."
 gradient: "linear-gradient(135deg, #0a254e 0%, #14386e 55%, #B72025 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The default helmet is still the red shell with the white Flames script on the si
 
 **September 19 vs. Ball State.** Red expected. Family Weekend and College for a Weekend at Williams Stadium, 4 p.m. Eastern, and the last non-conference home game of the year.
 
-**September 24 at Coastal Carolina.** White expected. A Thursday night in Conway at 7:30 p.m. Eastern against a teal home side, which is the most striking color clash Liberty gets all season.
+**September 24 at Coastal Carolina.** White expected. A Thursday night in Conway at 7:30 p.m. Eastern against a teal home side, which is the most striking color clash Liberty gets all season. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 **October 2 at Delaware.** White expected. Friday night at Delaware Stadium, 7 p.m. Eastern, and the Conference USA opener.
 

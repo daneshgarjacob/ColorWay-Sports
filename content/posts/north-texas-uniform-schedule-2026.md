@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: "2026-09-18"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 **September 5 at Indiana.** ★ Confirmed from the team's final score graphic: **green helmet, white jersey, green pants** at Memorial Stadium in Bloomington against No. 6 Indiana in crimson helmets, crimson jerseys and white pants. Indiana won 52-16 in a noon Eastern kickoff on FOX. Our [Indiana 2026 uniform schedule](/stories/indiana-uniform-schedule-2026) has the Hoosiers side.
 
-**September 12 vs. UNLV.** ★ Confirmed from the team's uniform post and game photography: **white helmet, green jersey, white pants**, a look North Texas billed as Denton Desert attire for the home opener at DATCU Stadium. UNLV came in white, and North Texas won 44-6 for Neal Brown's first win in Denton. Brown was named the American's head coach of the week afterward.
+**September 12 vs. UNLV.** ★ Confirmed from the team's uniform post and game photography: **white helmet, green jersey, white pants**, a look North Texas billed as Denton Desert attire for the home opener at DATCU Stadium. UNLV came in white, and North Texas won 44-6 for Neal Brown's first win in Denton. Brown was named the American's head coach of the week afterward. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2098139605451128945"></a></blockquote>

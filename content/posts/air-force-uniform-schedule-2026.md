@@ -3,7 +3,7 @@ title: "Air Force Uniform Schedule 2026: Every Jersey and When the Falcons Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Air Force wears every game in 2026: the blue home set, the Freedom 250 opener, the B-21 Raider uniform against Navy, and both trophy games."
 gradient: "linear-gradient(135deg, #003087 0%, #0b47a8 55%, #8A8D8F 130%)"
 cardStyle: words
@@ -90,11 +90,11 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **October 10 at Northern Illinois.** White expected. The cross-country Mountain West trip to DeKalb, Illinois.
 
-**October 17 vs. UNLV.** Blue expected.
+**October 17 vs. UNLV.** Blue expected. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
 
 **October 23 at Wyoming.** White expected. A Friday night at War Memorial Stadium in Laramie, on The CW.
 
-**October 31 vs. UConn.** Blue expected. Halloween at Falcon Stadium.
+**October 31 vs. UConn.** Blue expected. Halloween at Falcon Stadium. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **November 7 at Army.** White expected. The second Commander-in-Chief's Trophy game, at Michie Stadium on CBS, and Army's only home night game of the season. The Black Knights wear black at home, so the color assignment here is not in question. What Army does with its pants is the variable, and the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks it. One thing worth being clear about: the B-21 uniform is spoken for on October 3, so do not expect the Air Power Legacy Series set to travel to West Point.
 

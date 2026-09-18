@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-14'
+updatedDate: "2026-09-18"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the Kenan 100 season and the 1980 throwback still without a date."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -89,7 +89,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **October 31 vs. Miami**, Kenan Stadium. Rams Club Day. Carolina blue expected.
 
-**November 7 at UConn**, Rentschler Field, noon on CBS Sports Network. White expected.
+**November 7 at UConn**, Rentschler Field, noon on CBS Sports Network. White expected. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **November 14 vs. Louisville**, Kenan Stadium. Homecoming, Military Appreciation and Monogram Day. Carolina blue expected, and the likeliest date if the throwback comes back a second time.
 

@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -62,7 +62,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AppState_FB/status/2096320042904220151"></a></blockquote>
 </div>
 
-**September 12 at East Carolina.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the road whiteout against a purple home team, which is the best color clash App State gets outside the Sun Belt. The Mountaineers won 27-24 in a noon kickoff at Dowdy-Ficklen Stadium and are now 4-0 in the FBS series against the Pirates.
+**September 12 at East Carolina.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the road whiteout against a purple home team, which is the best color clash App State gets outside the Sun Belt. The Mountaineers won 27-24 in a noon kickoff at Dowdy-Ficklen Stadium and are now 4-0 in the FBS series against the Pirates. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **September 19 vs. Charlotte.** Black expected. This is Black Saturday (Under the Lights), a 6 p.m. kickoff the school has been promoting since April and a game that is already sold out. Fans are being asked to wear black, App State wears black at home by default, and a night game in Boone is the single most likely slot on this schedule for something new. Watch the helmet more than the jersey.
 
@@ -72,7 +72,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **October 10 vs. Old Dominion.** Black expected. Homecoming at Kidd Brewer Stadium, 1 p.m., and homecoming is the other date worth circling if App State has anything held back.
 
-**October 16 at Coastal Carolina.** White expected. A Friday night on ESPN2 in Conway, and the calendar note matters here: this one is Friday, not Saturday, so it shows up in a different week than most of the Sun Belt slate.
+**October 16 at Coastal Carolina.** White expected. A Friday night on ESPN2 in Conway, and the calendar note matters here: this one is Friday, not Saturday, so it shows up in a different week than most of the Sun Belt slate. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 **October 22 vs. James Madison.** Black expected. Thursday night at 7 p.m. on ESPNU for Family Weekend, the biggest home game on the schedule, and the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes in white for the trip to Boone.
 

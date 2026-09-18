@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -82,7 +82,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 **November 14 at Boise State.** White expected. Oregon State in white on the blue turf is one of the better visuals of the year. The [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026) covers what the Broncos put on top of it.
 
-**November 21 vs. Utah State.** Black expected. Senior Day at Reser and the last guaranteed home game, 7:30 p.m. Pacific on CBS Sports Network. If Oregon State has an alternate saved for 2026, this is the date to watch.
+**November 21 vs. Utah State.** Black expected. Senior Day at Reser and the last guaranteed home game, 7:30 p.m. Pacific on CBS Sports Network. If Oregon State has an alternate saved for 2026, this is the date to watch. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **November 28 at Washington State, flex week.** White expected. The Pac-12 built its calendar around a Week 13 flex game that does not count in the conference standings and is not locked in until six days out. The projected pairing sends Oregon State to Pullman, with Washington State holding the guaranteed home game.
 

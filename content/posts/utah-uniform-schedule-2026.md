@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **September 12 vs. Arkansas.** ★ Confirmed from the broadcast: **all red again**, red helmet, red jersey, red pants, for the Red Out and Eric Weddle's Ring of Honor induction. Arkansas came in all white, white helmets, white jerseys and white pants, so the SEC visit looked like a clean red-versus-white split under the lights. Utah won 43-10. Same calendar note: the 8:15 p.m. Mountain kickoff shows as September 13 on ESPN.
 
-**September 19 vs. Utah State.** Ute Proud look, announced. Utah [revealed it on Wednesday](https://x.com/Utah_Football/status/2100329327091237185): a white helmet with the tribal interlocking U's on the side and a black, white and red tribal stripe down the center, a red jersey and red pants. The athletic department lists this as the Ute Proud and Hall of Fame game, 1:30 p.m. Mountain on FOX. The Ute Proud helmet was also white with the tribal interlocking U's in each of the last two seasons, over a black throwback jersey against TCU in 2024 and over the red throwback jersey and red pants against Texas Tech in 2025. We will star the cell once we see it on the field.
+**September 19 vs. Utah State.** Ute Proud look, announced. Utah [revealed it on Wednesday](https://x.com/Utah_Football/status/2100329327091237185): a white helmet with the tribal interlocking U's on the side and a black, white and red tribal stripe down the center, a red jersey and red pants. The athletic department lists this as the Ute Proud and Hall of Fame game, 1:30 p.m. Mountain on FOX. The Ute Proud helmet was also white with the tribal interlocking U's in each of the last two seasons, over a black throwback jersey against TCU in 2024 and over the red throwback jersey and red pants against Texas Tech in 2025. We will star the cell once we see it on the field. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **September 26 at Iowa State.** White expected. First Big 12 road trip, to Jack Trice Stadium, with Iowa State expected in cardinal at home.
 

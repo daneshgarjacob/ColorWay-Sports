@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -90,11 +90,11 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 **November 5 at Southern Miss.** White expected. Another Thursday, 8 p.m. Eastern in Hattiesburg.
 
-**November 14 at UConn.** White expected. Noon kickoff on CBS Sports Network at Pratt and Whitney Stadium, the only national over the air window on the schedule.
+**November 14 at UConn.** White expected. Noon kickoff on CBS Sports Network at Pratt and Whitney Stadium, the only national over the air window on the schedule. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **November 21.** Bye.
 
-**November 28 vs. Coastal Carolina.** Purple expected. The final home game of the regular season, and the last chance for a 2026 alternate reveal if one is coming.
+**November 28 vs. Coastal Carolina.** Purple expected. The final home game of the regular season, and the last chance for a 2026 alternate reveal if one is coming. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 ## The Bottom Line
 

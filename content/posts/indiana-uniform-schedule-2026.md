@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
 </div>
 
-**September 5 vs. North Texas.** ★ Confirmed from game photos: **crimson helmet, crimson jersey, white pants**, the default home look for a Big Noon Kickoff opener on FOX at Merchants Bank Field at Memorial Stadium. Indiana won 52-16 with FOX's pregame show on site, and the Hoosiers wore the new adidas template with the trident on the collar for the first time in a game.
+**September 5 vs. North Texas.** ★ Confirmed from game photos: **crimson helmet, crimson jersey, white pants**, the default home look for a Big Noon Kickoff opener on FOX at Merchants Bank Field at Memorial Stadium. Indiana won 52-16 with FOX's pregame show on site, and the Hoosiers wore the new adidas template with the trident on the collar for the first time in a game. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IndianaFootball/status/2096023294109483177"></a></blockquote>

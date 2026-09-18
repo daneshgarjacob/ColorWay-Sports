@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: "2026-09-18"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ Two combinations are on the board. **The opener at Tulsa on September 5 was all 
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
 </div>
 
-**September 5 at Tulsa.** ★ Confirmed from the announced combination: **white helmet with the orange brand, white jersey, white pants**, the all-white look the program posted on game day for the Turnpike Classic and Eric Morris's first game in charge. It did not bring luck. Tulsa won 24-10, and the Cowboys left Chapman Stadium 0-1 in a uniform that could not have been cleaner.
+**September 5 at Tulsa.** ★ Confirmed from the announced combination: **white helmet with the orange brand, white jersey, white pants**, the all-white look the program posted on game day for the Turnpike Classic and Eric Morris's first game in charge. It did not bring luck. Tulsa won 24-10, and the Cowboys left Chapman Stadium 0-1 in a uniform that could not have been cleaner. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
 **September 12 vs. Oregon.** ★ Confirmed from the broadcast: **white helmet, orange jersey, white pants**, with the white Pistol Pete helmet rather than the brand shell, and the Cowboys announced it on Thursday night, early by their standards. This was the classic Stillwater look, orange jersey with white numerals outlined in black over white pants, against the Ducks in a green helmet, white jersey and white pants, and it went about as well as an orange jersey can go. Oklahoma State beat then-No. 6 Oregon 39-31 in the Ducks' first trip to Boone Pickens Stadium, the first win of the Morris era. Coming into the game the white-orange-white combination had gone 16-3 since 2011. Make it 17-3. Oregon's side of the night is on the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 

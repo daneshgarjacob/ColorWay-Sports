@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-18"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **September 26 at Western Michigan.** White expected as the visitor. A Broncos-versus-Broncos game in Kalamazoo, with Western Michigan in brown and gold at Waldo Stadium.
 
-**October 3 vs. Utah State.** Blue expected. The Pac-12 home opener, with fans asked to stripe the stadium in blue and orange.
+**October 3 vs. Utah State.** Blue expected. The Pac-12 home opener, with fans asked to stripe the stadium in blue and orange. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
 **October 10 at Fresno State.** White expected. A late kickoff in Fresno and the last game before the only bye.
 
