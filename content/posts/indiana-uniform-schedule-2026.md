@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IndianaFootball/status/2098562239037141366"></a></blockquote>
 </div>
 
-**September 19 vs. Western Kentucky.** Crimson expected. A 4 p.m. Eastern kickoff on Peacock to close the non-conference schedule. Indiana has not lost at home under Cignetti, a streak that now runs seventeen games and is the longest active home winning streak in the country, so the crimson jersey is undefeated in Bloomington across three seasons.
+**September 19 vs. Western Kentucky.** Crimson expected, and still unconfirmed. Indiana won the non-conference finale 38-0 in a 4 p.m. Eastern kickoff on Peacock, and no broadcast frame of the game has been published, so the cell stays unstarred. Indiana has not lost at home under Cignetti, a streak that now runs seventeen games and is the longest active home winning streak in the country, so the crimson jersey is undefeated in Bloomington across three seasons.
 
 **September 25 vs. Northwestern.** Crimson expected. The Big Ten and FOX flexed this one to Friday night, 8 p.m. Eastern, so it is a rare prime-time Friday date at Memorial Stadium and the first conference game of the year. Northwestern is in white as the visitor.
 

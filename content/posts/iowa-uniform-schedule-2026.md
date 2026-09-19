@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **September 12 vs. Iowa State.** ★ Confirmed from game photos: **the all-black alternate**, black Tigerhawk helmet, black jersey with white numerals and the gold and white shoulder stripes, and black pants with no gold stripe down the leg. Iowa teased the look the day before the prime-time NBC game. Iowa State wore cardinal helmets with the Cyclones script in white outlined in gold, white jerseys and white pants, an all-white road look the Cyclones had not worn in this series since 2012, per the pregame report. Iowa won 16-13 and kept the Cy-Hawk Trophy in Iowa City.
 
-**September 19 vs. Northern Iowa.** Black expected. An in-state FCS opponent in an afternoon kickoff is the textbook slot for the standard black and gold home set.
+**September 19 vs. Northern Iowa.** Black expected, and still unconfirmed. An in-state FCS opponent in an afternoon kickoff is the textbook slot for the standard black and gold home set, and Iowa won 55-0, but no broadcast frame of the game has been published yet.
 
 **September 26 at Michigan.** White expected. Iowa opens Big Ten play at the Big House, where Michigan wears navy at home, so the Hawkeyes go white jersey and gold pants under the black helmet.
 

@@ -3,7 +3,7 @@ title: "Duke Uniform Schedule 2026: Every Jersey and When the Blue Devils Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "Duke uniform schedule 2026: blue home jerseys, the all-white road set, the Gothic Duke helmet, black alternates, and every Blue Devils game's jersey week by week."
 gradient: "linear-gradient(135deg, #012169 0%, #00539B 55%, #ffffff 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Blue / Black</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs William &amp; Mary</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,7 +48,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 
 **September 12 at Illinois.** ★ Confirmed from Duke's game photos: **white helmet with the blue Gothic Duke lettering, white jersey, white pants**, the full all-white road set, against Illinois in navy jerseys, orange pants, and orange helmets. Duke won 31-27 at Gies Memorial Stadium after trailing 24-14 late in the second quarter. That made six straight wins.
 
-**September 19 vs. Stanford.** Blue expected. The ACC opener, a 4 p.m. Eastern kickoff on The CW, with Stanford in white.
+**September 19 vs. Stanford.** ★ Confirmed from the broadcast: **black helmet, blue jersey, black pants** for the ACC opener on The CW. Stanford came in white over white. Duke won 35-7.
 
 **September 26 vs. William & Mary.** Blue expected. A 3:30 p.m. Eastern kickoff on ACC Network Extra against the FCS Tribe, and the last home game before the October stretch.
 

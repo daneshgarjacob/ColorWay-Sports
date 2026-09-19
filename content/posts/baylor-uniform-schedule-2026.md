@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -81,7 +81,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #154734; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #154734; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Prairie View A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 254 Night: Green / Green / White</div></div>
-  <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Helmet of Hope (Announced)</div></div>
+  <div style="background: #154734; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Gold / Gold</div></div>
   <div style="background: #FFB81C; color: #14281f; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold Chrome Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -98,7 +98,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **September 12 vs. Prairie View A&M**, Waco. **254 Night**, and the one game on this schedule fans helped pick. ★ Confirmed from the broadcast: **green 254 helmet, green jersey, white pants**, the fan-voted combination worn as promised. Baylor won 44-3.
 
-**September 19 vs. Louisiana Tech**, Waco. **Helmet of Hope, announced.** Baylor [showed the decal](https://x.com/BUFootball/status/2100628122806665700) for the childhood cancer awareness game: a pink and teal bear head reading Helmet of Hope on the green helmet, plus a gold ribbon. The jersey has not been announced. Gold Rush is the fan color theme, with fans asked to wear gold, not a confirmed uniform.
+**September 19 vs. Louisiana Tech**, Waco. ★ Confirmed from the broadcast: **green helmet, gold jersey, gold pants**, so the answer to the open jersey question was gold on gold to match Gold Rush in the stands. Baylor [showed the decal](https://x.com/BUFootball/status/2100628122806665700) for the childhood cancer awareness game beforehand: a pink and teal bear head reading Helmet of Hope on the green helmet, plus a gold ribbon. Louisiana Tech answered in white over royal blue, and Baylor won 36-19. Gold Rush is the fan color theme, with fans asked to wear gold, not a confirmed uniform.
 
 **September 26 vs. Colorado**, Waco. **The Traditions Game, and the gold chrome throwback debut.** The one uniform date on this schedule that is locked.
 

@@ -143,17 +143,17 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - UTEP: white over white.
 - [Michigan](/stories/michigan-uniform-schedule-2026): **Confirmed**, navy jersey, maize pants, the winged helmet.
 
-**Western Kentucky at No. 4 Indiana**, 4 p.m., Peacock
+**Western Kentucky at No. 4 Indiana**, 4 p.m., Peacock. **Indiana won 38-0.**
 - Western Kentucky: white expected.
-- Indiana: home crimson expected, not announced.
+- [Indiana](/stories/indiana-uniform-schedule-2026): home crimson expected. No frame of the game has been published, so it stays unconfirmed.
 
-**Northern Iowa at No. 18 Iowa**, 4 p.m., FS1
+**Northern Iowa at No. 18 Iowa**, 4 p.m., FS1. **Iowa won 55-0.**
 - Northern Iowa: white expected.
-- [Iowa](/stories/iowa-uniform-schedule-2026): black expected, with gold pants and the black Tigerhawk helmet. Iowa wore its all-black alternate against Iowa State last time out.
+- [Iowa](/stories/iowa-uniform-schedule-2026): black expected, with gold pants and the black Tigerhawk helmet, and still unconfirmed for the same reason.
 
-**Louisiana Tech at Baylor**, 4 p.m., ESPNU
-- Louisiana Tech: white expected.
-- [Baylor](/stories/baylor-uniform-schedule-2026): **Helmet announced**, the green helmet with the Helmet of Hope decal and a gold ribbon for the childhood cancer awareness game. The jersey has not been announced. Fans are asked to wear gold for Gold Rush.
+**Louisiana Tech at Baylor**, 4 p.m., ESPNU. **Baylor won 36-19.**
+- Louisiana Tech: white jersey, royal blue pants.
+- [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, green helmet carrying the Helmet of Hope decal and a gold ribbon for the childhood cancer awareness game, gold jersey and gold pants to match Gold Rush in the stands.
 
 **Mississippi State at South Carolina**, 4:15 p.m., SEC Network
 - Mississippi State: white expected.
