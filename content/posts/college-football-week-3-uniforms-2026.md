@@ -127,13 +127,13 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Florida State](/stories/florida-state-uniform-schedule-2026): white expected, with the gold helmet. Pants to be announced.
 - [Alabama](/stories/alabama-uniform-schedule-2026): crimson expected, with white pants and the crimson helmet.
 
-**No. 12 USC at Rutgers**, 3:30 p.m., CBS
-- [USC](/stories/usc-uniform-schedule-2026): white expected, with gold pants and the cardinal helmet.
-- Rutgers: scarlet expected, not announced. Rutgers bills the game as New Jersey Day with a Scarlet Out in the stands.
+**No. 12 USC at Rutgers**, 3:30 p.m., CBS. **USC won 42-35.**
+- [USC](/stories/usc-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, gold pants.
+- [Rutgers](/stories/rutgers-uniform-schedule-2026): **Confirmed**, scarlet over scarlet to match the New Jersey Day Scarlet Out in the stands.
 
-**No. 16 SMU at No. 23 Louisville**, 3:30 p.m., ESPN2
-- SMU: white expected.
-- [Louisville](/stories/louisville-uniform-schedule-2026): **Announced**, white helmet, red jersey, white pants.
+**No. 16 SMU at No. 23 Louisville**, 3:30 p.m., ESPN2. **Louisville won 41-31.**
+- [SMU](/stories/smu-uniform-schedule-2026): **Confirmed**, all white.
+- [Louisville](/stories/louisville-uniform-schedule-2026): **Confirmed**, white helmet, red jersey, white pants.
 
 **Utah State at No. 17 Utah**, 3:30 p.m., FOX. **Utah won 33-0.**
 - [Utah State](/stories/utah-state-uniform-schedule-2026): **Confirmed**, navy helmet, white jersey, white pants. Utah State had announced navy pants and wore white.
