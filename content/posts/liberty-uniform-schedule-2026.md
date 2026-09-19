@@ -49,7 +49,7 @@ The default helmet is still the red shell with the white Flames script on the si
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #B72025; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Navy</div></div>
   <div style="background: #B72025; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Gardner-Webb</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Red</div></div>
-  <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #0a254e; color: #ffffff; border: 2px solid #B72025; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 24 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 8 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sam Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -70,7 +70,7 @@ The default helmet is still the red shell with the white Flames script on the si
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TheSportsBuffet/status/2098421445055365231"></a></blockquote>
 </div>
 
-**September 19 vs. Ball State.** Red expected, and not yet confirmed. Liberty won 51-15 on Family Weekend and College for a Weekend at Williams Stadium, the last non-conference home game of the year, and the broadcast frames we have all show Ball State's white road set rather than the Flames.
+**September 19 vs. Ball State.** ★ Confirmed from the broadcast, and not the set we had expected: **navy helmet with the red LU, navy jersey, white pants**. We had red down for this one under the home-color convention, and the Flames went navy instead. Ball State came in white over red pants. Liberty won 51-15 on Family Weekend and College for a Weekend at Williams Stadium, the last non-conference home game of the year.
 
 **September 24 at Coastal Carolina.** White expected. A Thursday night in Conway at 7:30 p.m. Eastern against a teal home side, which is the most striking color clash Liberty gets all season. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
@@ -100,7 +100,7 @@ Kickoff is 3:30 p.m. Eastern. If there is one new piece of equipment on this sch
 
 ## The Bottom Line
 
-Liberty has the jerseys to do almost anything and the willingness to use them, which is what makes this schedule fun to track. Red is the default at home and the Flames have already worn it head to toe once, white is locked in for all six road games by conference rule, and navy and black are the two levers Chadwell can pull when a Saturday needs to feel different. Halloween against FIU and Military Appreciation Day against Middle Tennessee are the two dates we would circle. The grid above has every game, and we add the stars as each uniform is confirmed.
+Liberty has the jerseys to do almost anything and the willingness to use them, which is what makes this schedule fun to track. Red is the default at home and the Flames have already worn it head to toe once, but the navy set against Ball State showed the default is not a rule. White is locked in for all six road games by conference rule, and navy and black are the two levers Chadwell can pull when a Saturday needs to feel different. Halloween against FIU and Military Appreciation Day against Middle Tennessee are the two dates we would circle. The grid above has every game, and we add the stars as each uniform is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LibertyFootball/status/1713709556730052920"></a></blockquote>
@@ -110,7 +110,7 @@ Liberty has the jerseys to do almost anything and the willingness to use them, w
 
 **What jersey is Liberty wearing this week?**
 
-Liberty hosts Ball State on Saturday, September 19, at 4 p.m. Eastern, and as the home team the Flames are expected in red. The last confirmed combination was the all red look, red helmet with red jersey and red pants, against Gardner-Webb on September 12. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Liberty wore navy on September 19 against Ball State, a navy helmet with the red LU, a navy jersey and white pants, in a 51-15 win. That is a change from the all red look, red helmet with red jersey and red pants, that the Flames wore against Gardner-Webb on September 12, and it means red is not automatic at Williams Stadium this season. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Liberty's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ Four jerseys from Nike: red, white, navy and black. The red home jersey uses whi
 
 **What did Liberty wear against James Madison and Gardner-Webb?**
 
-At James Madison on September 5, Liberty wore the red helmet, white jersey and navy pants in a 20-13 loss. Against Gardner-Webb on September 12 the Flames went all red, red helmet with red jersey and red pants, and won 24-23.
+At James Madison on September 5, Liberty wore the red helmet, white jersey and navy pants in a 20-13 loss. Against Gardner-Webb on September 12 the Flames went all red, red helmet with red jersey and red pants, and won 24-23. Against Ball State on September 19 they went to the navy alternate, navy helmet with the red LU over a navy jersey and white pants, and won 51-15.
 
 **Does Liberty have a new alternate uniform in 2026?**
 
