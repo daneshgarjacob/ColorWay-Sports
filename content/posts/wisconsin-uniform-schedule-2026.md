@@ -3,7 +3,7 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-19'
 excerpt: "Wisconsin's 2026 uniform schedule: the red and white jerseys, the Motion W helmet, the all-red Lambeau Field alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #C5050C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SUN SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red, Silver Numbers</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
-  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #C5050C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Motion W / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -50,7 +50,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 
 **September 12 vs. Western Illinois**, Camp Randall Stadium, 6:15 p.m. CT on Big Ten Network. Home opener. Red expected, the standard red jersey and white pants under the white Motion W helmet; we have not seen a published broadcast frame to confirm the combination, so the cell stays unstarred. Wisconsin won 36-9, the first win of the season after the Lambeau loss.
 
-**September 19 vs. Eastern Michigan**, Camp Randall Stadium, 11:30 a.m. CT. Red expected.
+**September 19 vs. Eastern Michigan**, Camp Randall Stadium, 11:30 a.m. CT. ★ Confirmed from game photography: **white Motion W helmet, red jersey, white pants**, the standard home set on a rainy morning in Madison. ESPN gave us no usable frames for this one, so the confirmation comes from game photography in national coverage of the game rather than from the broadcast. We did not get a clear look at Eastern Michigan's combination, so we are leaving the visitors' side alone. Wisconsin won 54-10 after trailing 7-3 in the first quarter.
 
 **September 26 at Penn State**, Beaver Stadium. White expected. Big Ten opener, and the first road trip of the season in the white jersey.
 
@@ -80,7 +80,7 @@ Wisconsin spent its one alternate on the opener, and it spent it well. An all-re
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin was expected in the red home jersey with white pants and the white Motion W helmet for the 36-9 win over Western Illinois on September 12 at Camp Randall, and is expected in the same red set against Eastern Michigan on September 19. The Badgers wear red at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Next is Penn State on September 26, where the white road jersey is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 

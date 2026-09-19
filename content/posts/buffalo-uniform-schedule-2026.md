@@ -3,7 +3,7 @@ title: "Buffalo Uniform Schedule 2026: Every Jersey and When the Bulls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Buffalo wears every game in 2026: the blue home jersey, the white road set, the black alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #005BBB 0%, #1a7ad8 55%, #101820 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ Buffalo announces the combination each week with a post the program calls Thread
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #005BBB; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAlbany</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Blue / Black</div></div>
   <div style="background: #ffffff; color: #14284b; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida International</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Robert Morris</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -55,7 +55,7 @@ Buffalo announces the combination each week with a post the program calls Thread
 
 **September 12 at Florida International.** ★ Confirmed from the broadcast and team photography: **white helmet, white jersey, white pants**, the full white road set in Miami. FIU wore navy at home and won 33-20.
 
-**September 19 at Penn State.** White expected. Noon Eastern at Beaver Stadium on Big Ten Network, with Penn State in navy as the home team. We track the other side on our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
+**September 19 at Penn State.** ★ Confirmed from the broadcast: **blue helmet, white jersey, blue pants**, the road white worn with color at both ends rather than the all-white set from Florida International. Penn State answered in its plain white helmet, navy jersey and white pants, and won 55-13 at Beaver Stadium. We track the other side on our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 
 **September 26 vs. Robert Morris.** Blue expected. Homecoming and Family Weekend at Broadview Stadium, and homecoming is one of the two dates on any schedule where an alternate is most likely.
 
@@ -95,7 +95,7 @@ Two games in, Buffalo has already used two helmets, two jersey colors and two pa
 
 **What jersey is Buffalo wearing this week?**
 
-Buffalo plays at Penn State on Saturday, September 19 at noon Eastern on Big Ten Network, and the white road jersey is expected with Penn State in navy. The Bulls wore the white helmet, white jersey and white pants in their last game at Florida International on September 12. The week-by-week grid above lists every game with the expected uniform.
+Buffalo wore the blue helmet, white jersey and blue pants at Penn State on Saturday, September 19, and lost 55-13 at Beaver Stadium. Penn State wore navy over white pants. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
 
 **What are Buffalo's football uniforms for 2026?**
 

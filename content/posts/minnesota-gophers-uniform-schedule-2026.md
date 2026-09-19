@@ -3,7 +3,7 @@ title: "Minnesota Gophers Uniform Schedule 2026: Every Jersey and When the Gophe
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Minnesota wears every game in 2026: maroon at home, the gold jersey, white on the road, the returning chrome helmet, and the full Gophers uniform schedule."
 gradient: "linear-gradient(135deg, #7A0019 0%, #8f1a2c 55%, #FFCC33 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Two games in, the Gophers have worn maroon over gold pants and gold over maroon pants. We update this page as each combination is confirmed.
+Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Three games in, the Gophers have worn maroon over gold pants twice and gold over maroon pants once, all three under the maroon helmet. We update this page as each combination is confirmed.
 
 ## The Minnesota Gophers 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #7A0019; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Gold</div></div>
   <div style="background: #FFCC33; color: #3a0010; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Gold / Maroon</div></div>
-  <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #7A0019; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,7 +48,7 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 **September 12 vs. Mississippi State.** &#9733; Confirmed from the broadcast and team photos: **maroon helmet, gold jersey, maroon pants**. The athletic department called this game the Gold Out, and the Gophers matched the stands with the gold jersey for the first SEC team to visit Minneapolis since Vanderbilt in 1959. It was also the debut of the Visible sponsor logo on the helmet bumper. Mississippi State wore white helmets and white jerseys and won 38-13; the Bulldogs side is on the [Mississippi State 2026 uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
-**September 19 vs. Akron.** Maroon expected. An 11 a.m. Central kickoff for High School Band, Cheer, and Dance Day, with Akron in white. This is the kind of low-stakes home date where a program sometimes debuts a new helmet, so we are watching for the chrome gold shell.
+**September 19 vs. Akron.** &#9733; Confirmed from the broadcast: **maroon helmet, maroon jersey, gold pants**, the classic home look again for an 11 a.m. Central kickoff on High School Band, Cheer, and Dance Day. Akron answered in a gold helmet, white jersey and white pants. There was no sign of the chrome gold shell, which is the piece we keep waiting on. Minnesota won 41-7.
 
 **September 26 at Washington.** White expected. The Big Ten opener in Seattle is a 10 p.m. Central kickoff, and Washington has billed it as its blackout night, so Minnesota in white against the Huskies in black is the likely matchup. The [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) has the details. ESPN lists this game under September 27 because of UTC; it is a Saturday night game.
 
@@ -72,13 +72,13 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 ## The Bottom Line
 
-Two games in, Minnesota has already given us both of its color jerseys, and both times the helmet stayed maroon. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default, the Maroon Out homecoming against Iowa is locked in, and the only real mystery is when the chrome gold helmet comes out of the box. The grid above has every date, and we add the stars as each uniform is confirmed.
+Three games in, Minnesota has given us both of its color jerseys, and all three times the helmet stayed maroon. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default, the Maroon Out homecoming against Iowa is locked in, and the only real mystery is when the chrome gold helmet comes out of the box. The grid above has every date, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Minnesota wearing this week?**
 
-Minnesota hosts Akron on September 19, and we expect the maroon home jersey with Akron in white. Last week against Mississippi State, the Gophers wore the gold jersey with a maroon helmet and maroon pants for the Gold Out. The week-by-week grid above lists every game with the expected set.
+Minnesota wore a maroon helmet, maroon jersey and gold pants for the 41-7 win over Akron on September 19, the same home look it opened the season in, with Akron in a gold helmet, white jersey and white pants. The week before, against Mississippi State, the Gophers wore the gold jersey with a maroon helmet and maroon pants for the Gold Out. Next is Washington in Seattle on September 26, where the white road jersey is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are the Minnesota Gophers football uniforms for 2026?**
 
@@ -86,7 +86,7 @@ A maroon home jersey with gold numerals, a gold jersey and a white road jersey, 
 
 **When will Minnesota wear the chrome helmet in 2026?**
 
-Minnesota has not announced a date. The program confirmed the chrome gold helmet is back with a "Chrome is back" video in August, but it has not appeared in the first two games. We will star the game here as soon as it does.
+Minnesota has not announced a date. The program confirmed the chrome gold helmet is back with a "Chrome is back" video in August, but it has not appeared in the first three games. We will star the game here as soon as it does.
 
 **What did Minnesota wear against Mississippi State?**
 

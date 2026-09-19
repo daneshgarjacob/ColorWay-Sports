@@ -3,7 +3,7 @@ title: "Coastal Carolina Uniform Schedule 2026: Every Jersey and When the Chanti
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: '2026-09-19'
 excerpt: "What Coastal Carolina wears every game in 2026: teal at home, white on the road, the Teal Out and Black Out dates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #006F71 0%, #0a9a9a 55%, #111111 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #006F71; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Teal / Teal / Teal</div></div>
   <div style="background: #ffffff; color: #006F71; border: 2px solid #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fordham</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #ffffff; color: #006F71; border: 2px dashed #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal / White / Teal (Announced)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Teal / White / Teal</div></div>
   <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 24 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -60,7 +60,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CoastalFootball/status/2098973705200173197"></a></blockquote>
 </div>
 
-**September 19 at Delaware.** Announced: **teal helmet, white jersey, teal pants**. Coastal posted the combination on Thursday as "Teal, white, teal." Kickoff is 11:30 a.m. Eastern at Delaware Stadium on CBS Sports Network.
+**September 19 at Delaware.** ★ Confirmed from the broadcast: **teal helmet, white jersey, teal pants**, exactly the combination Coastal posted on Thursday as "Teal, white, teal." Delaware met them in blue jerseys over gold pants, which is a harder matchup for a teal-trimmed white jersey than the all white West Virginia look was. Coastal lost 22-14 at Delaware Stadium in an 11:30 a.m. Eastern kickoff on CBS Sports Network.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CoastalFootball/status/2100679496609185990"></a></blockquote>
@@ -96,13 +96,13 @@ Most college teams treat the colored jersey as a home jersey and the white as a 
 
 ## The Bottom Line
 
-Two games in, Coastal has worn two completely different uniforms, all teal at West Virginia and all white at home against Fordham, and Saturday at Delaware brings a third combination with teal, white and teal. Teal is the default in Conway, but the home calendar is stacked with themes: the Teal Out against Liberty, "Wait 'Til You See This Game" against App State and a Black Out for Homecoming against Old Dominion. October 16 and November 7 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Three games in, Coastal has worn three completely different uniforms: all teal at West Virginia, all white at home against Fordham, and teal, white and teal at Delaware. Teal is the default in Conway, but the home calendar is stacked with themes: the Teal Out against Liberty, "Wait 'Til You See This Game" against App State and a Black Out for Homecoming against Old Dominion. October 16 and November 7 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Coastal Carolina wearing this week?**
 
-Coastal plays at Delaware on Saturday, September 19 at 11:30 a.m. Eastern on CBS Sports Network, and the team announced a teal helmet, white jersey and teal pants. The Chanticleers wore all white in their last game, a 45-7 win over Fordham on September 12. The week-by-week grid above lists every game with the expected uniform.
+Coastal played at Delaware on Saturday, September 19 in a teal helmet, white jersey and teal pants, and lost 22-14 to a Delaware side in blue jerseys and gold pants. Next up is the Teal Out against Liberty on Thursday, September 24, where teal is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Coastal Carolina's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **September 12 vs. Duke.** ★ Confirmed from Illinois Athletics game photos: **orange helmet, navy jersey, orange pants**, the same set as the opener with one change on the helmet. The block I on the side was filled with stars and stripes, and an American flag sat on the front bumper, one day after the September 11 anniversary. It was Hall of Fame Weekend and FamILLy Day in Champaign, with a 2:30 p.m. Central kickoff on FS1. Duke was in white and won 31-27.
 
-**September 19 vs. Southern Illinois.** Navy expected. The nonconference finale against the FCS Salukis, 1 p.m. Central on Peacock.
+**September 19 vs. Southern Illinois.** Navy expected, and still unconfirmed. Illinois won the nonconference finale against the FCS Salukis 48-10 in a 1 p.m. Central kickoff on Peacock, but no broadcast frame or game photograph has surfaced yet, so the cell stays unstarred until we can see the combination.
 
 **September 26 at Ohio State.** White expected. The Big Ten opener at Ohio Stadium, 11 a.m. Central on FOX, on the Buckeyes' Hall of Fame Weekend, with Ohio State in scarlet. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the home side.
 
@@ -78,7 +78,7 @@ Illinois has opened 2026 in the same base look twice, orange helmet, navy jersey
 
 **What jersey is Illinois wearing this week?**
 
-Illinois hosts Southern Illinois on Saturday, September 19, at 1 p.m. Central, and the navy home jersey is expected. Last week against Duke, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois beat Southern Illinois 48-10 on Saturday, September 19, and the navy home jersey was expected, though we have not seen a frame of the combination yet. Last week against Duke, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

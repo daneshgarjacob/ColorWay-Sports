@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-14'
+updatedDate: '2026-09-19'
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -20,18 +20,18 @@ Georgia Tech changed brands this summer, and the wardrobe changed with it. This 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #B3A369; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Tech Gold Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold jersey with white numerals trimmed in metallic gold and navy, Georgia Tech across the chest, Campanile striping on the shoulders.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with metallic gold numerals trimmed in navy, gold collar, the same shoulder striping in gold with navy accents.</div></div>
-  <div style="background: #003057; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold or white shell, interlocking GT on the sides. Both have already been worn in 2026, white against Colorado and gold against Tennessee.</div></div>
-  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Pants and Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold, white or dark grey pants, up to 12 combinations. No navy jersey and no throwback has been announced for 2026.</div></div>
+  <div style="background: #003057; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold or white shell, interlocking GT on the sides. Both have already been worn in 2026, white against Colorado and gold against Tennessee and Mercer.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Pants and Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold, white or dark grey pants, up to 12 combinations. Dark pants came out for the first time against Mercer and read black on the broadcast. No navy jersey and no throwback has been announced for 2026.</div></div>
 </div>
 
-The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Tech started on July 1 after the adidas era ended. White and Tech gold stay as the primary colors and navy drops back to trim: the numeral outlines, the partial stripe on the pants, the accents in the shoulder striping. That striping and the leg stripe are drawn from the Kessler Campanile on campus, which is the one detail on the uniform that reads as Georgia Tech rather than generic. The dark grey pants are the wild card, described by the school as a nod to industry and technology, and they have not been assigned a date yet. ACC home teams wear color and visitors wear white, so gold in Atlanta and white on the road is the baseline for every date below.
+The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Tech started on July 1 after the adidas era ended. White and Tech gold stay as the primary colors and navy drops back to trim: the numeral outlines, the partial stripe on the pants, the accents in the shoulder striping. That striping and the leg stripe are drawn from the Kessler Campanile on campus, which is the one detail on the uniform that reads as Georgia Tech rather than generic. The dark grey pants are the wild card, described by the school as a nod to industry and technology. Dark pants finally appeared against Mercer on September 19, and they read black rather than grey on the broadcast, so we cannot say for certain whether that is the grey pair or a separate black one. ACC home teams wear color and visitors wear white, so gold in Atlanta and white on the road is the baseline for every date below.
 
 ## The Full Georgia Tech 2026 Uniform Schedule, Week by Week
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #003057; color: #ffffff; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #B3A369; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Gold / White</div></div>
-  <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mercer</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
+  <div style="background: #003057; color: #ffffff; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mercer</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Gold / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
@@ -48,7 +48,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 **September 12 vs. Tennessee.** ★ Confirmed from the broadcast: **gold helmet, gold jersey, white pants**, the combination the program announced two days before kickoff and the first time the gold shell and the gold jersey were worn together in the new set. Tennessee came to Bobby Dodd in white helmet, white jersey, white pants, the debut of the Vols' adidas road set, which gave the night a proper gold against white look after the all-white opener. Full Tennessee detail on the [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026). Tennessee won 45-24.
 
-**September 19 vs. Mercer.** Gold expected. Noon kickoff against the in-state FCS visitor.
+**September 19 vs. Mercer.** ★ Confirmed from the broadcast: **gold helmet, gold jersey, black pants**, the first time Georgia Tech has gone dark on the legs this season after white pants in each of the first two games. Mercer answered in white. Georgia Tech won 44-11 in the noon kickoff against the in-state FCS visitor.
 
 **September 26 at Stanford.** White expected. Georgia Tech's first trip to Stanford in program history, and a late one, with a 10:30 p.m. Eastern kickoff.
 
@@ -72,13 +72,13 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 ## The Bottom Line
 
-Two games in, Georgia Tech has already shown both ends of the new Under Armour wardrobe: the all-white anniversary look against Colorado and the gold helmet, gold jersey, white pants set against Tennessee. From here the ACC convention takes over, gold at Bobby Dodd and white on the road, with the dark grey pants the only piece still waiting for a date. We will mark each combination on the grid as it is confirmed.
+Three games in, Georgia Tech has shown most of the new Under Armour wardrobe: the all-white anniversary look against Colorado, gold over white pants against Tennessee, and gold over black pants against Mercer. From here the ACC convention takes over, gold at Bobby Dodd and white on the road. We will mark each combination on the grid as it is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Georgia Tech wearing this week?**
 
-Georgia Tech wore the gold helmet, gold jersey and white pants against Tennessee on September 12, after opening in all white against Colorado on September 3. Georgia Tech wears gold at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Georgia Tech wore a gold helmet, gold jersey and black pants for the 44-11 win over Mercer on September 19, after the gold jersey with white pants against Tennessee and the all-white opener against Colorado. Next is Stanford on September 26, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
 
 **What are Georgia Tech's uniforms for 2026?**
 
@@ -86,7 +86,7 @@ A Tech gold jersey with white numerals trimmed in metallic gold and navy, and a 
 
 **Does Georgia Tech have a navy or throwback uniform in 2026?**
 
-No navy jersey is in the 2026 Under Armour set and no throwback has been announced. Navy appears only as trim on the numerals, striping and pants. The dark grey pants are the closest thing to an alternate piece, and they have not been assigned a game.
+No navy jersey is in the 2026 Under Armour set and no throwback has been announced. Navy appears only as trim on the numerals, striping and pants. The dark pants are the closest thing to an alternate piece, and they came out for the first time with the gold jersey against Mercer on September 19, reading black rather than grey on the broadcast.
 
 **What did Georgia Tech wear against Colorado?**
 

@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Wake Forest owns one of the tidiest wardrobes in the ACC. Two jersey colors, two helmets, three pants, and a program identity built entirely around the color black. This is the full Wake Forest 2026 uniform schedule: the black home set, the white road set, the old gold that ties them together, the Dark Mode look announced for Miami, and a week by week outlook for all twelve games in Jake Dickert's second season. We update this page as each combination is confirmed.
+Wake Forest owns one of the tidiest wardrobes in the ACC. Two jersey colors, two helmets, three pants, and a program identity built entirely around the color black. This is the full Wake Forest 2026 uniform schedule: the black home set, the white road set, the old gold that ties them together, the all black Dark Mode set the Demon Deacons wore against Miami, and a week by week outlook for all twelve games in Jake Dickert's second season. We update this page as each combination is confirmed.
 
 ## The Wake Forest 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ The Nike set dates to a 2019 cleanup that stripped out the architecture inspired
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All Black (Announced)</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,25 +48,25 @@ The Nike set dates to a 2019 cleanup that stripped out the architecture inspired
 
 **September 12 at Purdue.** ★ **Matte black helmet, white jersey, white pants** at Ross-Ade Stadium, a noon Eastern kickoff on FS1 that Wake Forest won 38-36 in double overtime. Purdue wore its old gold helmet, black jersey and gold pants, so the two teams essentially swapped palettes for an afternoon. That is a fun quirk of this matchup: Purdue and Wake Forest share old gold and black, and only the helmet kept them apart. Details on the home side are in our [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026).
 
-**September 18 vs. Miami.** Announced, and announced with a name. Wake Forest called this one **Dark Mode**, and the reveal video did what the branding demands, which is show almost nothing.
+**September 18 vs. Miami.** ★ Confirmed from the broadcast: **matte black helmet, black jersey, black pants**, the Dark Mode set exactly as announced, for the Friday night ACC opener in Winston-Salem. Miami answered in all white, the white helmet with the orange and green stripe over a white jersey and white pants, which gave us the cleanest black against white contrast of the weekend. Wake Forest lost 33-20. The look held up better than the result did, and the reveal video before it did what the branding demands, which is show almost nothing.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WakeFB/status/2100340117626077590"></a></blockquote>
 </div>
 
-The full graphic spells it out: **matte black helmet, black jerseys, black pants**. All black, head to toe, for the ACC opener against No. 5 Miami on a Friday night with the whole country watching on ESPN at 7:30 p.m. Eastern.
+The full graphic spelled it out: **matte black helmet, black jerseys, black pants**. All black, head to toe, and that is what the Demon Deacons wore against No. 5 Miami at 7:30 p.m. Eastern on ESPN.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WakeFB/status/2100346438450303332"></a></blockquote>
 </div>
 
-Miami is in the other extreme. The Hurricanes announced all white, the white helmet with the orange and green stripe over a white jersey and white pants, which turns this into the cleanest black against white contrast of the weekend.
+Miami went to the other extreme. The Hurricanes announced all white and wore it, the white helmet with the orange and green stripe over a white jersey and white pants.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2100578725129544026"></a></blockquote>
 </div>
 
-Wake Forest is also asking the stands to match the uniform. A blackout is a fan theme rather than a uniform, but when the home team is already in all black it changes how the whole broadcast looks. Our [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) has the visitor's season, and the [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has every game this weekend.
+Wake Forest also asked the stands to match the uniform. A blackout is a fan theme rather than a uniform, but when the home team is already in all black it changes how the whole broadcast looks. Our [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) has the visitor's season, and the [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has every game from the weekend.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WakeFB/status/2100668026521801042"></a></blockquote>
@@ -94,13 +94,13 @@ Wake Forest is also asking the stands to match the uniform. A blackout is a fan 
 
 ## The Bottom Line
 
-Wake Forest has worn the matte black helmet in both games so far and will wear it again against Miami, which tells you how this closet works: the shell almost never changes, the jersey is decided by whether the game is at home, and the pants carry whatever variety there is. Black over gold is the signature. Black over black is the statement, and the Demon Deacons are saving it for the biggest home game of the year. The five remaining road games all point to white. The five remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
+Wake Forest has worn the matte black helmet in all three games so far, which tells you how this closet works: the shell almost never changes, the jersey is decided by whether the game is at home, and the pants carry whatever variety there is. Black over gold is the signature. Black over black is the statement, and the Demon Deacons spent it on Miami, a 33-20 loss in the ACC opener where the uniform outplayed the scoreboard. The five remaining road games all point to white. The four remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Wake Forest wearing this week?**
 
-Wake Forest announced an all black Dark Mode uniform for Friday, September 18, against No. 5 Miami: matte black helmet, black jerseys and black pants. Kickoff is 7:30 p.m. Eastern on ESPN in Winston-Salem, and Miami is in all white. The program has also asked fans to wear black in the stands.
+Wake Forest wore the all black Dark Mode uniform on Friday, September 18, against No. 5 Miami: matte black helmet, black jersey and black pants, confirmed on the ESPN broadcast from Winston-Salem. Miami wore all white, and Miami won 33-20. Wake Forest is next at Louisville on September 26, where the white road set is expected.
 
 **What are Wake Forest's football uniforms for 2026?**
 
@@ -112,7 +112,7 @@ Against Akron on Thursday, September 3, the Demon Deacons wore the matte black h
 
 **What is Wake Forest's Dark Mode uniform?**
 
-It is the name Wake Forest gave its Week 3 combination against Miami: matte black helmet, black jerseys and black pants, the full monochrome version of the home set. The name fits the Built in the Dark branding the program has used under Jake Dickert, and Wake Forest revealed it on September 16 with a teaser video followed by a full uniform graphic.
+It is the name Wake Forest gave its Week 3 combination against Miami: matte black helmet, black jersey and black pants, the full monochrome version of the home set. The name fits the Built in the Dark branding the program has used under Jake Dickert. Wake Forest revealed it on September 16 with a teaser video followed by a full uniform graphic, then wore it on September 18 in a 33-20 loss to Miami, who countered in all white.
 
 **How many games does Wake Forest play in 2026?**
 

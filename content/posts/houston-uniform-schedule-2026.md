@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that comes back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 2-0 and ranked, and they have already announced an all-white look for Friday night in Lubbock. We update this page as each combination is confirmed.
+Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that comes back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 2-1 and ranked, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
 
 ## The Houston 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy Whites</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #78BCE2; color: #14284b; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Houston Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,7 +48,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
 
 **September 12 vs. Southern.** ★ Confirmed from the broadcast: **red helmet, red jersey, red pants**, all red for First Responders Night under a 6 p.m. kickoff. Houston won 77-6 in the loudest look it owns.
 
-**September 18 at Texas Tech.** All white, announced. Houston started the week by reminding everyone this one is a Friday.
+**September 18 at Texas Tech.** ★ Confirmed from the broadcast: **white helmet with the red interlocking UH, white jersey, white pants**, the set Houston branded the Icy Whites. Texas Tech answered in the all black Patrick Mahomes Let's Ride uniform, black helmet over a black jersey with red numbers and black pants, so the FOX prime time window in Lubbock was pure white against pure black. Houston lost 28-26. The Cougars started the week by reminding everyone this one was a Friday.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UHCougarFB/status/2099499550973043112"></a></blockquote>
@@ -60,7 +60,7 @@ Then the combination landed on Wednesday, and the Cougars called it icy whites f
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UHCougarFB/status/2100278212085383592"></a></blockquote>
 </div>
 
-It is the white shell with the red interlocking UH and a red facemask, the white jersey with the red script Houston, and white pants. The timing matters, because Texas Tech is debuting the all-black Patrick Mahomes "Let's Ride" uniform for this one, on FOX at 8 p.m. Eastern in Lubbock. White against black, with two ranked teams in it. More: [Texas Tech schedule](/stories/texas-tech-uniform-schedule-2026).
+That was the white shell with the red interlocking UH and a red facemask, the white jersey with the red script Houston, and white pants. The timing mattered, because Texas Tech debuted the all-black Patrick Mahomes "Let's Ride" uniform in the same game, and two ranked teams gave it the stage it deserved. More: [Texas Tech schedule](/stories/texas-tech-uniform-schedule-2026).
 
 **September 26 at Georgia Southern.** White expected, in Statesboro. Georgia Southern wears blue at home.
 
@@ -84,13 +84,13 @@ It is the white shell with the red interlocking UH and a red facemask, the white
 
 ## The Bottom Line
 
-Two games in, Houston has worn red twice and shown both pants. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and two dates worth circling. October 3 brings Houston Blue back for the Built By Houston Game, and November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. Friday night in Lubbock is already settled, and the answer is all white. The grid above has every date, and we add a star as each uniform is confirmed on the field.
+Three games in, Houston has worn red twice at home, shown both pants, and taken the Icy Whites to Lubbock for a 28-26 loss to Texas Tech's all black Let's Ride set. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and two dates worth circling. October 3 brings Houston Blue back for the Built By Houston Game, and November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. The grid above has every date, and we add a star as each uniform is confirmed on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is Houston wearing this week?**
 
-All white. Houston announced the combination on Wednesday for Friday night at Texas Tech: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants. Kickoff is 8 p.m. Eastern on FOX, and Texas Tech is wearing its all-black Patrick Mahomes "Let's Ride" set.
+Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Next is Georgia Southern on September 26, where white is expected again.
 
 **What are Houston's football uniforms for 2026?**
 

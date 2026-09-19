@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Two games in, Miami has stuck to the base sets both times, with the all-white look at Stanford and orange over white against Florida A&M.
+Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Three games in, Miami has stuck to the base sets every time, with the all-white look at Stanford and again at Wake Forest, and orange over white against Florida A&M.
 
 ## The Miami Hurricanes 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All White (Announced)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Central Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -49,7 +49,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 **September 10 vs. Florida A&M.** ★ Confirmed from the broadcast: **white helmet, orange jersey, white pants**, with Florida A&M in white. Miami won 77-7 in the Thursday night home opener at Hard Rock Stadium. It was the same home combination Miami wore seven times in 2025, going 6-1. ESPN lists this game under September 11 because of the same UTC shift.
 
-**September 18 at Wake Forest.** All white, announced. Miami's [Week 3 graphic](https://x.com/CanesFootball/status/2100578725129544026) shows the white helmet with the orange and green stripe, white jersey and white pants. This is the ACC opener, a Friday night game in Winston-Salem with a 7:30 p.m. Eastern kickoff on ESPN, and Wake Forest has announced a black "Dark Mode" look, so it will be white against black. We will star the cell once we see it on the field.
+**September 18 at Wake Forest.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the all-white road set exactly as Miami's [Week 3 graphic](https://x.com/CanesFootball/status/2100578725129544026) laid it out. Wake Forest answered in its all black Dark Mode set, matte black helmet over a black jersey and black pants, so the ACC opener in Winston-Salem was white against black with nothing shared. Miami won 33-20 on a Friday night. It is the cleanest contrast we have seen all season, and the road set keeps doing the heavy lifting.
 
 **September 26 vs. Central Michigan.** Orange expected, since it is a home game. Kickoff is 6:30 p.m. Eastern on The CW.
 
@@ -73,13 +73,13 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 ## The Bottom Line
 
-Miami has worn its two base sets in the first two games: all white at Stanford and orange over white at home against Florida A&M. With the same helmet and pants every week, the jersey color is the only thing that changes. Miami has announced all white at Wake Forest. Expect white at Clemson, North Carolina, and Notre Dame, and orange at home until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
+Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. Expect white at Clemson, North Carolina, and Notre Dame, and orange at home until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Miami wearing this week?**
 
-Miami plays at Wake Forest on Friday, September 18, in an announced all-white look: white helmet with the orange and green stripe, white jersey and white pants. Wake Forest is wearing its all-black "Dark Mode" set, matte black helmet, black jersey and black pants, so this is white against black with nothing shared. Their last game was a 77-7 home win over Florida A&M on September 10, played in white helmets, orange jerseys, and white pants. The grid above lists every game with its expected uniform, and we update it as each combination is confirmed.
+Miami wore all white at Wake Forest on Friday, September 18: white helmet with the orange and green stripe, white jersey and white pants, confirmed on the ESPN broadcast. Wake Forest wore its all black Dark Mode set, matte black helmet, black jersey and black pants, so it was white against black with nothing shared, and Miami won 33-20 in the ACC opener. Next up is Central Michigan at home on September 26, where orange over white is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Miami's football uniforms for 2026?**
 
@@ -87,7 +87,7 @@ Miami has an orange home jersey with white numerals trimmed in green, a white ro
 
 **Does Miami have a new alternate uniform in 2026?**
 
-None has been announced as of September 16. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
+None has been announced as of September 19. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
 
 **What did Miami wear against Stanford?**
 

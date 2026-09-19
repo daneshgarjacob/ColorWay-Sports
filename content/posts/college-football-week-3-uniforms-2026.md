@@ -4,7 +4,7 @@ title: "College Football Week 3 Uniforms 2026: What Every Top Team Is Wearing Th
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-17"
+updatedDate: "2026-09-19"
 excerpt: "College football uniforms this week: LSU at Ole Miss, FSU at Alabama, Utah's Ute Proud helmet, Texas Tech's Mahomes set and every Top 25 look for Week 3."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -30,7 +30,7 @@ Below are every game this week involving an AP Top 25 team or one of the 43 prog
 
 ### No. 2 Georgia at Arkansas
 
-**Saturday, noon, ABC.** **Georgia: white expected**, the road set of red helmet with the oval G, white jersey and silver britches. The all-white look with the first white helmet in program history was a one-game alternate, worn against Western Kentucky last week. **Arkansas: cardinal expected**, with white pants and the cardinal helmet. Arkansas has announced a Stripe Out, with fans in alternating sections wearing red or white, but it has not announced a uniform change. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Arkansas schedule](/stories/arkansas-uniform-schedule-2026).
+**Saturday, noon, ABC. Georgia won 45-17.** **Georgia: confirmed in white**, the road set of red helmet with the oval G, white jersey and silver britches. The all-white look with the first white helmet in program history was a one-game alternate, worn against Western Kentucky last week. **Arkansas: confirmed in cardinal**, with white pants and the cardinal helmet. Arkansas called a Stripe Out in the stands, with fans in alternating sections wearing red or white, and did not change the uniform. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Arkansas schedule](/stories/arkansas-uniform-schedule-2026).
 
 ### Florida at Auburn
 
@@ -63,51 +63,59 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Friday, September 18
 
-**No. 5 Miami at Wake Forest**, 7:30 p.m., ESPN
-- [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Announced**, all white, in the ACC opener. The [Week 3 graphic](https://x.com/CanesFootball/status/2100578725129544026) shows the white helmet with the orange and green stripe, white jersey and white pants.
-- Wake Forest: **Announced**, all black. Wake called its Week 3 set ["Dark Mode"](https://x.com/WakeFB/status/2100340117626077590), and its [Game 3 uniform graphic](https://x.com/WakeFB/status/2100346438450303332) labels every piece: matte black helmet, black jerseys, black pants.
+**No. 5 Miami at Wake Forest**, 7:30 p.m., ESPN. **Miami won 33-20.**
+- [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Confirmed**, all white, in the ACC opener. The white helmet with the orange and green stripe, white jersey and white pants, exactly as the [Week 3 graphic](https://x.com/CanesFootball/status/2100578725129544026) showed.
+- Wake Forest: **Confirmed**, all black. Wake called its Week 3 set ["Dark Mode"](https://x.com/WakeFB/status/2100340117626077590), and it wore every piece of it: matte black helmet, black jersey, black pants.
 
-**No. 22 Houston at No. 13 Texas Tech**, 8 p.m., FOX
-- Houston: **Announced**, all white with the white UH helmet.
-- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Announced**, the all-black Mahomes "Let's Ride" set.
+**No. 22 Houston at No. 13 Texas Tech**, 8 p.m., FOX. **Texas Tech won 28-26.**
+- Houston: **Confirmed**, the Icy Whites, white helmet over white jersey and white pants.
+- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed**, the all-black Mahomes "Let's Ride" set, black helmet, black jersey with red numbers, black pants.
 
-**Portland State at No. 21 Oregon**, 10:30 p.m., BTN
-- Portland State: white expected.
-- [Oregon](/stories/oregon-uniform-schedule-2026): **Announced**, all green: green helmet, green jersey, green pants, to match the Wear Green fan theme.
+**Portland State at No. 21 Oregon**, 10:30 p.m., BTN. **Oregon won 84-0.**
+- Portland State: white.
+- [Oregon](/stories/oregon-uniform-schedule-2026): **Confirmed**, all green: green helmet with the yellow wing, green jersey, green pants, to match the Wear Green fan theme.
 
 ### Saturday, September 19: Noon Window
 
-**No. 2 Georgia at Arkansas**, noon, ABC
-- [Georgia](/stories/georgia-uniform-schedule-2026): white expected, with silver britches and the red helmet.
-- [Arkansas](/stories/arkansas-uniform-schedule-2026): cardinal expected, with white pants and the cardinal helmet.
+**No. 2 Georgia at Arkansas**, noon, ABC. **Georgia won 45-17.**
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet, white jersey, silver britches.
+- [Arkansas](/stories/arkansas-uniform-schedule-2026): **Confirmed**, cardinal helmet, cardinal jersey, white pants.
 
-**Kent State at No. 6 Ohio State**, noon, FOX
-- Kent State: white expected.
-- [Ohio State](/stories/ohio-state-uniform-schedule-2026): scarlet expected, with silver pants and the silver helmet. The Helmet Stripe Game is a crowd theme, not a uniform change.
+**Kent State at No. 6 Ohio State**, noon, FOX. **Ohio State won 59-3.**
+- Kent State: white.
+- [Ohio State](/stories/ohio-state-uniform-schedule-2026): **Confirmed**, the core home set, silver helmet, scarlet jersey with the silver Buckeye stripe, silver pants. None of the three 2026 alternates came out. The Helmet Stripe Game is a crowd theme, not a uniform change.
 
-**Buffalo at No. 14 Penn State**, noon, BTN
-- Buffalo: white expected.
-- [Penn State](/stories/penn-state-uniform-schedule-2026): navy expected, with white pants and the plain white helmet.
+**Buffalo at No. 14 Penn State**, noon, BTN. **Penn State won 55-13.**
+- Buffalo: **Confirmed**, blue helmet, white jersey, blue pants.
+- [Penn State](/stories/penn-state-uniform-schedule-2026): **Confirmed**, navy jersey, white pants, the plain white helmet with no logo and no nameplates.
 
-**Tulane at Kansas State**, noon, ESPN2
-- Tulane: white expected.
-- [Kansas State](/stories/kansas-state-uniform-schedule-2026): purple expected, with silver pants and the silver Powercat helmet, the combination worn in both games so far.
+**Tulane at Kansas State**, noon, ESPN2. **Kansas State won 31-20.**
+- Tulane: **Confirmed**, white helmet, white jersey, light blue pants.
+- [Kansas State](/stories/kansas-state-uniform-schedule-2026): **Confirmed**, silver Powercat helmet, purple jersey, silver pants, the same combination it has worn all season.
 
-**Arizona State vs. Kansas (Wembley Stadium, London)**, noon, FS1
-- [Arizona State](/stories/arizona-state-uniform-schedule-2026): white expected, as the designated road team. The jersey has not been announced, but on Wednesday the Sun Devils [posted a gold helmet with the Sparky logo and a maroon facemask in front of Big Ben](https://x.com/ASUFootball/status/2100373682375766098), the strongest hint yet at the London helmet.
-- [Kansas](/stories/kansas-uniform-schedule-2026): blue expected, as the designated home team in the first college football game at Wembley. adidas is the event partner and supplies both teams.
+**Arizona State vs. Kansas (Wembley Stadium, London)**, noon, FS1. **Arizona State won 24-17.**
+- [Arizona State](/stories/arizona-state-uniform-schedule-2026): **Confirmed**, the gold Sparky helmet with the maroon facemask and a white jersey, as the designated road team. The Sun Devils announced maroon pants with it, and no broadcast frame we have shows the pants.
+- [Kansas](/stories/kansas-uniform-schedule-2026): blue jersey, as the designated home team in the first college football game at Wembley. The helmet and pants did not turn up in any frame we have. adidas is the event partner and supplies both teams.
 
-**Mercer at Georgia Tech**, noon, ACC Network
-- Mercer: white expected.
-- [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026): gold expected. The helmet and pants have not been announced.
+**Mercer at Georgia Tech**, noon, ACC Network. **Georgia Tech won 44-11.**
+- Mercer: white.
+- [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026): **Confirmed**, gold helmet, gold jersey, black pants.
 
-**North Carolina at Clemson**, noon, ESPN
-- [North Carolina](/stories/north-carolina-uniform-schedule-2026): white expected.
-- [Clemson](/stories/clemson-uniform-schedule-2026): orange expected, with white pants and the orange Tiger Paw helmet.
+**North Carolina at Clemson**, noon, ESPN. **Suspended by weather with North Carolina leading 17-15.**
+- [North Carolina](/stories/north-carolina-uniform-schedule-2026): **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants.
+- [Clemson](/stories/clemson-uniform-schedule-2026): **Confirmed**, orange Tiger Paw helmet, orange jersey, white pants.
 
-**Eastern Michigan at Wisconsin**, 12:30 p.m., Peacock
-- Eastern Michigan: white expected.
-- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): red expected, with white pants and the white Motion W helmet.
+**Eastern Michigan at Wisconsin**, 12:30 p.m., Peacock. **Wisconsin won 54-10.**
+- Eastern Michigan: white expected. We have not seen a clear frame of the Eagles.
+- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Confirmed**, white Motion W helmet, red jersey, white pants, in the rain at Camp Randall.
+
+### Also Confirmed in the Early Window
+
+- **NC State at Vanderbilt**, Vanderbilt won 35-31. [NC State](/stories/nc-state-uniform-schedule-2026) in the red helmet, white jersey and white pants, [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026) in the black helmet, black jersey and white pants.
+- **Bowling Green at Iowa State**, Iowa State won 55-7. [Iowa State](/stories/iowa-state-uniform-schedule-2026) in the cardinal helmet, cardinal jersey and white pants, Bowling Green in white with orange pants.
+- **Akron at Minnesota**, Minnesota won 41-7. [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) in the maroon helmet, maroon jersey and gold pants.
+- **Coastal Carolina at Delaware**, Delaware won 22-14. [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026) in the teal helmet, white jersey and teal pants.
+- **North Texas at Texas State**, Texas State won 49-35. [North Texas](/stories/north-texas-uniform-schedule-2026) announced the all-white Icy Whites for the trip to San Marcos, and we are still waiting on photography to confirm the Mean Green wore it.
 
 ### Saturday, September 19: Afternoon Window
 
@@ -213,6 +221,10 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Purdue: **Announced**, [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119).
 - [UCLA](/stories/ucla-uniform-schedule-2026): blue expected, with gold pants and the gold helmet, for the Big Ten opener.
 
+## What Was Worn Friday and in the Early Window
+
+Every Friday night reveal held. Wake Forest wore Dark Mode head to toe and lost 33-20 to Miami in all white, Texas Tech wore the Mahomes Let's Ride blackout and beat Houston 28-26 with the Cougars in their Icy Whites, and Oregon wore all green in an 84-0 win over Portland State. Saturday's early window went to form: Georgia in white with silver britches at Arkansas in cardinal, Penn State in navy over white, Kansas State in purple over silver, Ohio State in the core scarlet and silver set with none of its three alternates, and North Carolina in Carolina blue pants at Clemson in orange over white before the weather stopped that one. Arizona State brought the gold Sparky helmet and a white jersey to Wembley and won 24-17.
+
 ## The Bottom Line
 
 This is mostly a week of standard uniforms, but the games are big. Four of the five biggest games are SEC home dates, where the home team wears color and the visitor wears white, so LSU, Florida State, Georgia and Florida are all in white. That leaves two real uniform questions, and neither was answered as of Thursday morning: which of three colors Ole Miss picks for GameDay, and what pants FSU wears at Bryant-Denny. The confirmed specials are Texas Tech's Let's Ride on Friday, Missouri's centennial throwback, Utah's Ute Proud helmet, TCU's new Frogs script helmet, BYU's navy-trimmed whites and Florida's orange pants. We will update this page as each game-week reveal lands.
@@ -239,9 +251,9 @@ Texas Tech wears its new Patrick Mahomes "Let's Ride" uniform on Friday against 
 
 Utah announced a white helmet, red jersey and red pants for its Ute Proud game against Utah State on Saturday, September 19. The white helmet carries the interlocking U's with tribal elements and a black, white and red tribal stripe down the center. The game honors the Ute Indian Tribe and doubles as Utah's Hall of Fame game.
 
-**What is Miami wearing at Wake Forest?**
+**What did Miami wear at Wake Forest?**
 
-Miami is in all white for Friday night's ACC opener in Winston-Salem: white helmet with the orange and green stripe, white jersey and white pants. Wake Forest announced a black "Dark Mode" look.
+Miami wore all white in Friday night's ACC opener in Winston-Salem: white helmet with the orange and green stripe, white jersey and white pants. Wake Forest wore its all-black Dark Mode set, matte black helmet, black jersey and black pants. Miami won 33-20.
 
 **Where can I see every team's uniform schedule?**
 

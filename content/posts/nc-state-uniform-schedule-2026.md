@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -13,13 +13,13 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-NC State has already used two very different looks in two games: a red helmet over white and red at Virginia, then full black camo for the home opener. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+NC State has already used three very different looks in three games: a red helmet over white and red at Virginia, then full black camo for the home opener, then a red helmet over white and white at Vanderbilt. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The NC State 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #CC0000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Red Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red jersey with white numerals, the default look at Carter-Finley Stadium.</div></div>
-  <div style="background: #ffffff; color: #990000; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with red numerals and the player name in red. Opened 2026 with red pants and the red helmet at Virginia.</div></div>
+  <div style="background: #ffffff; color: #990000; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with red numerals and the player name in red. Opened 2026 with red pants and the red helmet at Virginia, then went to white pants under the same red helmet at Vanderbilt.</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #CC0000; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black jersey with red and white trim, often paired with the black helmet and the oversized Tuffy.</div></div>
   <div style="background: #2B2B2B; color: #ffffff; border: 2px solid #CC0000; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Wolfpack Warriors</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black and gray camo jersey and pants with red and white NC STATE lettering, under a black helmet with a one-color red Tuffy and a red facemask.</div></div>
   <div style="background: #f6f7f9; color: #990000; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red, white, and black shells with the Tuffy wolf head. The red helmet opened 2026 with a smaller Tuffy decal in place of the oversized one.</div></div>
@@ -33,7 +33,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #2B2B2B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Richmond</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Wolfpack Warriors</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -52,7 +52,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **September 11 vs. Richmond.** ★ Confirmed from the broadcast: **the Wolfpack Warriors set**, a black helmet with a red facemask, a black and gray camo jersey, and matching camo pants, for the home opener at Carter-Finley Stadium. It was a Friday night game on the anniversary of 9/11, and NC State won 73-0. Our full breakdown and grade are in the [Wolfpack Warriors review](/stories/nc-state-wolfpack-warriors-army-uniform-2026).
 
-**September 19 at Vanderbilt.** White expected. A nonconference trip to FirstBank Stadium in Nashville, 12:45 p.m. Eastern on SEC Network, with Vanderbilt in its home colors.
+**September 19 at Vanderbilt.** ★ Confirmed from the broadcast: **red helmet, white jersey, white pants**, a cleaner and quieter road look than the red pants the Wolfpack opened the season with. Vanderbilt came out in the black helmet with the white V, a black jersey and white pants, which put the only color on the field on the home sideline. The uniforms held up better than the lead did: NC State was up 24-7 and lost 35-31 at FirstBank Stadium. Vanderbilt's side is on the [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
 **September 26 vs. App State.** Red expected. A 7:30 p.m. Eastern kickoff on ESPNU, and a night home game is the natural spot for the black alternate if NC State wants it.
 
@@ -76,13 +76,13 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 ## The Bottom Line
 
-NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener. From here the home dates default to red, the road dates to white, and the question marks sit on night games and Military Appreciation against Duke on November 7. The grid above has every date, and we add a star as each uniform is confirmed.
+NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt. From here the home dates default to red, the road dates to white, and the question marks sit on night games and Military Appreciation against Duke on November 7. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What is NC State wearing this week?**
 
-NC State plays at Vanderbilt on Saturday, September 19, and the white road jersey is expected. Last week against Richmond, the Wolfpack wore the Wolfpack Warriors camo set with a black helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+NC State played at Vanderbilt on Saturday, September 19 in the red helmet, the white road jersey and white pants, and lost 35-31. The week before, against Richmond, the Wolfpack wore the Wolfpack Warriors camo set with a black helmet. Next up is App State at home on September 26, where red is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 

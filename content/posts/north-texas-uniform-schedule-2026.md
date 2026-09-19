@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -13,13 +13,13 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-North Texas has played two games under Neal Brown and worn two completely different uniforms, and the third one is already out: all white for Saturday at Texas State. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
+North Texas has played three games under Neal Brown and worn two completely different uniforms, with a third announced for the trip to Texas State: all white, the Icy Whites. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
 
 ## The North Texas 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #00853E; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Green Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Kelly green jersey with white numerals. North Texas paired it with white pants and the white helmet for the Denton Desert game against UNLV.</div></div>
-  <div style="background: #ffffff; color: #00853E; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with green numerals. Worn with green pants and the green helmet at Indiana, and with white pants for the Icy Whites look at Texas State.</div></div>
+  <div style="background: #ffffff; color: #00853E; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with green numerals. Worn with green pants and the green helmet at Indiana, and announced with white pants for the Icy Whites look at Texas State.</div></div>
   <div style="background: #0b3d24; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Pants</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Green and white. The white pants carry a green Texas state outline logo on the hip.</div></div>
   <div style="background: #f1f3f8; color: #0b3d24; border: 2px solid #00853E; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Two shells so far. A green helmet with the white eagle, worn at Indiana, and a white helmet with a green triple stripe, the green eagle on the side and UNT on the front bumper.</div></div>
 </div>
@@ -34,7 +34,7 @@ The opener at Indiana was the white jersey with green pants under the green helm
 
 ## Icy Whites at Texas State
 
-North Texas posted the Week 3 uniform on Thursday, September 17 with two words: Icy Whites. It is **white helmet, white jersey, white pants**, the white helmet with the green triple stripe over a white jersey with green numerals and white pants with the green Texas logo on the hip. It is the first all white look of the Neal Brown era, and it lands in a road game against an in-state opponent at 11 a.m. Central on USA Network.
+North Texas posted the Week 3 uniform on Thursday, September 17 with two words: Icy Whites. It is **white helmet, white jersey, white pants**, the white helmet with the green triple stripe over a white jersey with green numerals and white pants with the green Texas logo on the hip. It is the first all white look of the Neal Brown era, announced for a road game against an in-state opponent at 11 a.m. Central on USA Network. We have not seen a frame of the game yet, so the combination is announced rather than confirmed, and we will star it once game photography turns up.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2100676320011157515"></a></blockquote>
@@ -70,7 +70,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2098932640787104216"></a></blockquote>
 </div>
 
-**September 19 at Texas State.** Icy Whites, announced. **White helmet, white jersey, white pants** at UFCU Stadium in San Marcos, 11 a.m. Central on USA Network, against a Texas State program now playing in the Pac-12. We will star the cell once we see it on the field.
+**September 19 at Texas State.** Icy Whites, announced: **white helmet, white jersey, white pants** at UFCU Stadium in San Marcos, 11 a.m. Central on USA Network, against a Texas State program now playing in the Pac-12. The game itself was a shootout that got away, tied 28-28 at halftime before North Texas lost 49-35, with Tayven Jackson throwing for 483 yards. We have not been able to see a single frame of it yet, so the Icy Whites stay listed as announced and we will star the cell once game photography is available.
 
 **September 26 vs. Houston Christian.** Green expected. Family Weekend at DATCU Stadium, 6:30 p.m. Central on ESPN+. North Texas also lists it as Senior Day.
 
@@ -94,13 +94,13 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 ## The Bottom Line
 
-Two games, two different combinations, and a third already announced. North Texas has used both helmets, both jerseys and both pant colors already, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. Beyond the Icy Whites on Saturday, the dates to circle are the Thursday night Halloween TX Game against Florida Atlantic on October 29, Homecoming against Rice on November 7 and Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
+Three games, two confirmed combinations, and a third announced at Texas State that we still need a photo of. North Texas has used both helmets, both jerseys and both pant colors already, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. Beyond the Icy Whites, the dates to circle are the Thursday night Halloween TX Game against Florida Atlantic on October 29, Homecoming against Rice on November 7 and Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is North Texas wearing this week?**
 
-North Texas is wearing the Icy Whites at Texas State on Saturday, September 19: the white helmet with the green triple stripe, the white jersey and white pants. The program announced it on September 17. Kickoff is 11 a.m. Central on USA Network at UFCU Stadium in San Marcos.
+North Texas announced the Icy Whites for Texas State on Saturday, September 19: the white helmet with the green triple stripe, the white jersey and white pants. The program posted it on September 17. Kickoff was 11 a.m. Central on USA Network at UFCU Stadium in San Marcos, and North Texas lost 49-35 after a 28-28 halftime. We have not seen game photography yet, so we have not confirmed the combination on the field. Next up is Houston Christian at home on September 26, where green is expected.
 
 **What are North Texas's football uniforms for 2026?**
 

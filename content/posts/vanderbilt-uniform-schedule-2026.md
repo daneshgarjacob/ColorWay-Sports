@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Vanderbilt added a color to its closet this year and then wore it in Week 2, which means the most interesting question of the Commodores' season has already been answered once and is still not fully settled. This is the full Vanderbilt 2026 uniform schedule: the black home set, the white road set, the gold alternate that debuted against Delaware, the white helmet that has started both games, and a week-by-week outlook for all twelve games ending with Tennessee at FirstBank Stadium. We update this page as each combination is confirmed.
+Vanderbilt added a color to its closet this year and then wore it in Week 2, which means the most interesting question of the Commodores' season has already been answered once and is still not fully settled. This is the full Vanderbilt 2026 uniform schedule: the black home set, the white road set, the gold alternate that debuted against Delaware, the white helmet that started the first two games, the black shell that came out for NC State, and a week-by-week outlook for all twelve games ending with Tennessee at FirstBank Stadium. We update this page as each combination is confirmed.
 
 ## The Vanderbilt 2026 Uniform Sets
 
@@ -21,7 +21,7 @@ Vanderbilt added a color to its closet this year and then wore it in Week 2, whi
   <div style="background: #111111; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black jersey with white numerals, a gold Nike swoosh, the SEC shield and the new SRM Concrete patch at the chest. Paired with white pants in the opener, and black or gold pants are both in the rotation.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with black or gold numerals, worn on the road in the SEC, where the home team wears color. Vanderbilt has paired it with black pants and with gold pants in recent seasons.</div></div>
   <div style="background: #C9A227; color: #1a1a1a; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Gold Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Revealed August 5 as a head-to-toe gold set, worn September 12 against Delaware as a gold jersey with white pants. White numerals outlined in black, black Nike swoosh, black side stripe.</div></div>
-  <div style="background: #2b2b2b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Three shells: white with the gold star-V on the sides and a black and gold center stripe, matte black, and gold. VUFB sits on the front bumper. The white shell has started both games so far.</div></div>
+  <div style="background: #2b2b2b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Three shells: white with the gold star-V on the sides and a black and gold center stripe, matte black with a white V, and gold. VUFB sits on the front bumper. The white shell started the first two games and the black one came out against NC State.</div></div>
 </div>
 
 The 2026 story starts on August 5, the first day of fall camp, when Vanderbilt posted a gold uniform under the line "Good to be Gold." It was the first gold jersey the program had put on since 2020 and the first of the Clark Lea era, and the reveal showed the whole thing in gold: helmet, jersey and pants.
@@ -37,7 +37,7 @@ The other new thing on the jersey is a patch. Vanderbilt signed an all-sports je
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Austin Peay</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
   <div style="background: #C9A227; color: #1a1a1a; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Gold / White</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -68,7 +68,7 @@ The 6 p.m. Central opener at FirstBank Stadium never finished. Lightning in the 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/VandyFootball/status/2098584409905463429"></a></blockquote>
 </div>
 
-**September 19 vs. NC State.** Black expected. An 11:45 a.m. Central kickoff on SEC Network, the first Power Four opponent of the year, and the first real test of whether Vanderbilt treats the white helmet as its default or rotates the black shell back in. NC State comes in as the visitor and should be in white, so whatever Vanderbilt picks will be the only color on the field. What the Wolfpack wear is tracked on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
+**September 19 vs. NC State.** &#9733; Confirmed from the broadcast: **black helmet with the white V, black jersey, white pants**. That answers the helmet question we had going in, because the white shell that started the first two games came off for the first Power Four opponent of the year and the black one went on. NC State visited in the red helmet, white jersey and white pants, so Vanderbilt was the only color on the field. The Commodores trailed 24-7, scored 21 in the fourth quarter and won 35-31, and the Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
 **September 26 at Auburn.** White expected. SEC play opens at Jordan-Hare Stadium at 3:15 p.m. Central, and the visitor wears white. See the [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026) for the other side of that field.
 
@@ -92,13 +92,13 @@ The 6 p.m. Central opener at FirstBank Stadium never finished. Lightning in the 
 
 ## The Bottom Line
 
-Vanderbilt is two games into 2026 and has already worn two different jerseys, one helmet and one pair of pants. The white shell is doing more work than anyone expected, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss and Alabama are the home dates to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
+Vanderbilt is three games into 2026 and has already worn three different jerseys, two helmets and one pair of pants. White pants have started every game, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The helmet question got its first real answer against NC State, when the white shell that opened the year gave way to the black one. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss and Alabama are the home dates to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt hosts NC State on Saturday, September 19 at 11:45 a.m. Central, and the Commodores have not announced the combination yet. Home rules point to the black jersey. The two games so far have both used the white helmet, with black and white against Austin Peay and gold and white against Delaware. We update the grid above the moment the team posts its game day fit.
+Vanderbilt hosted NC State on Saturday, September 19 and wore the black helmet, the black jersey and white pants, winning 35-31. That was the first game of the season for the black shell after the white one started against Austin Peay and Delaware. Next is a road trip to Auburn on September 26, where SEC rules put the Commodores in white. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

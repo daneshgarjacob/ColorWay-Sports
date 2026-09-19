@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -39,7 +39,7 @@ Twelve games, the first white helmet in program history, and an October 24 bye.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #BA0C2F; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Silver</div></div>
   <div style="background: #7c8a93; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All-White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #BA0C2F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Silver</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +64,7 @@ SEC home teams wear color and visitors wear white, which makes the road dates pr
 
 Game week made it official on Tuesday: the program's own graphic for Western Kentucky shows the white helmet with the black G, the white jersey and the white pants, billed as a dress code for Sanford Stadium. It is a whiteout, on the field and in the stands, and it is the first time Georgia has ever worn a white helmet.
 
-**September 19 at Arkansas**, Fayetteville. Road. White expected.
+**September 19 at Arkansas**, Fayetteville. ★ Confirmed from the broadcast: **red helmet with the oval G, white jersey, silver britches**, the standard road set in front of a stripe out at Donald W. Reynolds Razorback Stadium. Arkansas answered in its cardinal home look, a cardinal helmet, cardinal jersey and white pants, so the noon window gave us a clean red-against-white picture. Georgia won 45-17. The Arkansas side of the day is on our [Arkansas 2026 uniform schedule](/stories/arkansas-uniform-schedule-2026).
 
 **September 26 vs. Oklahoma**, Athens. Home, and a marquee SEC matchup. Red expected.
 
@@ -106,7 +106,7 @@ Saturday, September 12, 2026, against Western Kentucky at Sanford Stadium. It is
 
 **What jersey is Georgia wearing this week?**
 
-Georgia wears red at home and white on the road for most games in 2026. The confirmed exception is the all-white set on September 12 against Western Kentucky.
+Georgia wore the white road set at Arkansas on September 19: red helmet with the oval G, white jersey, silver britches, in a 45-17 win. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
 
 **Does Georgia wear silver britches in 2026?**
 

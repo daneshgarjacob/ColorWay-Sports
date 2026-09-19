@@ -3,7 +3,7 @@ title: "Kansas Uniform Schedule 2026: Every Jersey and When the Jayhawks Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-19'
 excerpt: "What Kansas wears every game in 2026: blue home jerseys, the white road set, the red alternate, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **September 11 vs. Missouri.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants**, the red alternate under the white shell for the Border War in Lawrence. Missouri was the visitor and won 38-21; what the Tigers wore that night is unconfirmed on our side, and we will star it on the [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) once we can see it in a frame. Same calendar quirk as the opener: ESPN lists this game under September 12 because of UTC. It was played Friday, September 11.
 
-**September 19 vs. Arizona State, Wembley Stadium, London.** Blue expected. The Union Jack Classic is the first college football game ever played at Wembley, and Kansas is the designated home team for a Big 12 conference game on neutral ground, so the color convention points to blue with Arizona State in white. Kickoff is 11 a.m. Central, 5 p.m. in London. If adidas, the event sponsor, has anything special planned for the trip, this is where it would surface, and we will update the cell the moment it does.
+**September 19 vs. Arizona State, Wembley Stadium, London.** Kansas wore its blue jersey for the Union Jack Classic, the first college football game ever played at Wembley, and we have that much from an ESPN frame. The jersey is all we have seen: neither the helmet nor the pants came into a usable frame, so the full combination is still unconfirmed and the cell above stays unstarred until we can see it. Kansas was the designated home team, and Arizona State answered in a gold Sparky helmet and white jersey, which is on the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026). Kansas lost 24-17.
 
 **September 26.** Bye.
 
@@ -72,13 +72,13 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 ## The Bottom Line
 
-Two games in, Kansas has already used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the program wants a night to feel different. The Border War got the red. The question now is whether Wembley or homecoming gets something new. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Three games in, Kansas has used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the program wants a night to feel different. The Border War got the red, and Wembley got the standard blue jersey, with nothing new unveiled for the trip. The question now is whether homecoming against Baylor gets something else. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore the red alternate, white helmet with red jersey and red pants, against Missouri on September 11. Next up is Arizona State at Wembley Stadium on September 19, where Kansas is the designated home team and blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore its blue jersey against Arizona State at Wembley Stadium on September 19, a 24-17 loss, and the jersey is the only piece of the uniform we have seen in a frame: the helmet and pants were not visible, so the full combination is unconfirmed. Kansas is off on September 26 and hosts Middle Tennessee on October 3, where blue is expected again. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

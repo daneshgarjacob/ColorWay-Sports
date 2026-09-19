@@ -3,7 +3,7 @@ title: "Clemson Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Clemson wears every game in 2026, starting with orange in Baton Rouge on opening night, week by week."
 gradient: "linear-gradient(135deg, #F56600 0%, #b84a00 55%, #522D80 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #F56600; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White</div></div>
   <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
-  <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -48,7 +48,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 12 vs. Georgia Southern.** ★ Confirmed from the broadcast after a weather-delayed kickoff: **orange helmet, orange jersey, white pants**, the standard Death Valley home look, against Georgia Southern in white over white. Clemson won 22-7.
 
-**September 19 vs. North Carolina.** Orange expected. North Carolina in Death Valley. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
+**September 19 vs. North Carolina.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, orange jersey, white pants**, the standard Death Valley home look for a third straight week. North Carolina answered in the Carolina blue helmet with the interlocking NC, a white jersey with Carolina blue numerals and Carolina blue pants, which is about as good as a visiting white set gets against orange. Weather suspended the game in the third quarter with Clemson trailing 17-15, so there is no final yet. We will add the score here once the game is complete, and the other side of it is on our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
 **September 26 at California.** White expected.
 
@@ -94,7 +94,7 @@ Clemson wears purple for its Military Appreciation Day game as a tribute to the 
 
 **Why is Clemson wearing orange pants?**
 
-Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson wore white pants in both of its first two 2026 games.
+Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson has worn white pants in all three of its 2026 games so far.
 
 **How many games does Clemson play in 2026?**
 

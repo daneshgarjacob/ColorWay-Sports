@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-19'
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covers both games so far in 2026: cardinal over white in the 38-10 opener against Southeast Missouri, and all white under the cardinal lid in the 16-13 loss at Iowa. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
+Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covers all three games so far in 2026: cardinal over white in the 38-10 opener against Southeast Missouri, all white under the cardinal lid in the 16-13 loss at Iowa, and cardinal over white again in the 55-7 win over Bowling Green. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
 
 ## The Iowa State 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #F1BE48; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southeast Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / White</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #C8102E; color: #ffffff; border: 2px solid #F1BE48; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,7 +48,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **September 12 at Iowa.** ★ Confirmed from game photos: **cardinal Cyclones script helmet, white jersey, white pants**. The white jersey carries cardinal numerals outlined in gold and cardinal and gold sleeve stripes. Per the pregame report, it was the first time since 2012 that Iowa State wore all white in the Cy-Hawk game. Iowa answered with its all-black alternate for the prime-time NBC game at Kinnick Stadium, so the night was cardinal and white against solid black, and we have the Hawkeyes' side on the [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026). Iowa won 16-13 on a 42-yard field goal with 15 seconds left, after Iowa State had won the previous two meetings on late kicks of its own.
 
-**September 19 vs. Bowling Green.** Cardinal expected. An 11 a.m. Central kickoff on ESPNU and the last nonconference game before Big 12 play.
+**September 19 vs. Bowling Green.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, white pants**, the same home look Iowa State opened the season in, for an 11 a.m. Central kickoff on ESPNU. Bowling Green answered in a white helmet and white jersey over orange pants, which gave Jack Trice Stadium a clean cardinal against white read. Iowa State won 55-7 in the last nonconference game before Big 12 play.
 
 **September 26 vs. Utah.** Cardinal expected. The Big 12 opener at Jack Trice Stadium, 2:30 p.m. Central on FOX, with Utah expected in white on the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
@@ -72,13 +72,13 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 ## The Bottom Line
 
-Two games in, Iowa State has worn the same helmet twice and changed only the jersey: cardinal at home, white on the road, white pants both times. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, and the black and all-white alternates from the 2024 Nike set have not shown up yet. Homecoming against West Virginia and the Halloween game against Oklahoma State are the two home dates where that is most likely to change. The grid above has every date, and we add a star as each uniform is confirmed.
+Three games in, Iowa State has worn a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, and the black and all-white alternates from the 2024 Nike set have not shown up yet. Homecoming against West Virginia and the Halloween game against Oklahoma State are the two home dates where that is most likely to change. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State hosts Bowling Green at Jack Trice Stadium on Saturday, September 19, at 11 a.m. Central on ESPNU, and the cardinal home jersey with white pants is expected under the cardinal Cyclones script helmet. The Cyclones wore all white in their last game, the 16-13 loss at Iowa. After Bowling Green, Iowa State hosts Utah on September 26, where cardinal is expected again.
+Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green at Jack Trice Stadium on Saturday, September 19, the same home look it opened the season in. Bowling Green answered in a white helmet and white jersey over orange pants. Next up is Utah in Ames on September 26, the Big 12 opener, where cardinal is expected again.
 
 **What are Iowa State's football uniforms for 2026?**
 
@@ -94,7 +94,7 @@ Iowa State wore the cardinal Cyclones script helmet, a white jersey and white pa
 
 **What helmet does Iowa State wear?**
 
-The cardinal Cyclones script helmet, which Iowa State revealed in June 2025 and has used as its primary helmet since, including both games of 2026. The script is a throwback to the Cyclones helmets of 1987 to 1994. It replaced the block I-State logo, which was the primary helmet mark from 2008 through 2023.
+The cardinal Cyclones script helmet, which Iowa State revealed in June 2025 and has used as its primary helmet since, including the first two games of 2026. Iowa State wore a cardinal helmet again against Bowling Green. The script is a throwback to the Cyclones helmets of 1987 to 1994. It replaced the block I-State logo, which was the primary helmet mark from 2008 through 2023.
 
 **How many games does Iowa State play in 2026?**
 

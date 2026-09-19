@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Arizona State does not have a home uniform and a road uniform so much as a closet. Gold, maroon, white and black helmets, pitchfork or Sparky on the side, three jersey colors and a throwback still waiting for a date. This is the full Arizona State 2026 uniform schedule: the combinations confirmed so far, the two we know the Sun Devils have worn, and a week-by-week outlook for all twelve games. Arizona State announces each combination in game week, so we update this page as every one lands.
+Arizona State does not have a home uniform and a road uniform so much as a closet. Gold, maroon, white and black helmets, pitchfork or Sparky on the side, three jersey colors and a throwback still waiting for a date. This is the full Arizona State 2026 uniform schedule: the combinations confirmed so far, including the gold Sparky helmet and white jersey the Sun Devils took to Wembley, and a week-by-week outlook for all twelve games. Arizona State announces each combination in game week, so we update this page as every one lands.
 
 ## The Arizona State 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #8C1D40; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Morgan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1D40; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas (London)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1D40; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas (London)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Maroon Announced</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Hawai'i</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
@@ -48,7 +48,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 **September 12 at Texas A&M, College Station.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, with Sparky on the helmet for the first time this season in place of the pitchfork. Same helmet shell and pants as the opener, white jersey swapped in for the road. Texas A&M wore its standard home set, maroon jersey, white pants, white helmet, so Kyle Field read maroon and white against gold and white. Arizona State lost 48-20. The Aggies' side of the day is on the [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
-**September 19 vs. Kansas, Wembley Stadium, London.** White jersey expected. The Union Jack Classic is the first college football game played in London and the Big 12 opener for both schools, and Kansas is the designated home team, which is why Arizona State's schedule lists it as a road game. The helmet is the open question, but on Wednesday the Sun Devils [posted a gold helmet with the Sparky logo and a maroon facemask in front of Big Ben](https://x.com/ASUFootball/status/2100373682375766098), the strongest hint yet at the London helmet. It is a hint, not a full reveal, and the jersey and pants have not been announced.
+**September 19 vs. Kansas, Wembley Stadium, London.** ★ Confirmed from the broadcast: **gold Sparky helmet with the maroon facemask, white jersey**, for the Union Jack Classic, the first college football game played in London and the Big 12 opener for both schools. The pants are the piece we cannot call. No frame we have shows the legs cleanly, and while Arizona State announced maroon pants for the game on September 18, an announcement is not a sighting, so that part stays open until we see it. Kansas was the designated home team, which is why this reads as a road game on the Sun Devils' schedule, and the Jayhawks answered in their blue jersey. Arizona State won 24-17.
 
 **September 26.** Bye.
 
@@ -72,13 +72,13 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 ## The Bottom Line
 
-Two games in, Arizona State has worn the same gold helmet and gold pants twice and changed only the jersey and the decal, maroon with the pitchfork at home, white with Sparky on the road. The rest of the season is a jersey prediction, maroon at home and white away, with the helmet and pants left to the weekly announcement. The one uniform everyone is waiting on is the Roses &amp; Devils throwback, and until Arizona State names a date, homecoming against Oklahoma State on November 21 is the best guess we have.
+Three games in, Arizona State has worn the gold helmet every week and changed the jersey and the decal, maroon with the pitchfork at home, white with Sparky at Texas A&M and again at Wembley. The pants have been gold both times we could see them, and the London legs never came into a usable frame, so the maroon pants the school announced for that game stay announced rather than confirmed. The rest of the season is a jersey prediction, maroon at home and white away, with the helmet and pants left to the weekly announcement. The one uniform everyone is waiting on is the Roses &amp; Devils throwback, and until Arizona State names a date, homecoming against Oklahoma State on November 21 is the best guess we have.
 
 ## Frequently Asked Questions
 
 **What jersey is Arizona State wearing this week?**
 
-Arizona State wore a gold Sparky helmet, white jersey and gold pants at Texas A&M on September 12. The next game is against Kansas at Wembley Stadium in London on September 19, where the Sun Devils are the designated road team and a white jersey is expected. Arizona State posted a gold Sparky helmet with a maroon facemask from London on Wednesday, a strong hint at the helmet, but the full combination has not been announced. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
+Arizona State wore a gold Sparky helmet with a maroon facemask and a white jersey against Kansas at Wembley Stadium in London on September 19, a 24-17 win. The pants were not visible in any broadcast frame we have; the school announced maroon pants for the game on September 18, so we are carrying those as announced rather than confirmed. The Sun Devils are off on September 26 and return against Baylor in Tempe on October 3, where a maroon jersey is expected. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
 
 **What are Arizona State's uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the Kenan 100 season and the 1980 throwback still without a date."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -61,7 +61,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU (Dublin)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Throwback</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Tennessee St</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -77,7 +77,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **September 12 vs. East Tennessee State**, Kenan Stadium, noon on ACC Network. The home opener and the first game played in Kenan during its hundredth season. ★ Confirmed from the broadcast: **Carolina blue helmet, Carolina blue jersey, white pants**, the standard home set, against East Tennessee State's navy and gold. North Carolina won 35-3 in a game that went to a weather delay in the third quarter.
 
-**September 19 at Clemson**, Memorial Stadium, noon on ESPN. White expected.
+**September 19 at Clemson**, Memorial Stadium, noon on ESPN. ★ Confirmed from the broadcast: **Carolina blue helmet with the interlocking NC, white jersey with Carolina blue numerals, Carolina blue pants**, the same white and Carolina blue pairing the Tar Heels opened the season with. Clemson met them in the orange Tiger Paw helmet, orange jersey and white pants, so Death Valley got orange against white with blue at both ends of it. Weather suspended the game in the third quarter with North Carolina ahead 17-15, so there is no final yet. We will add the score here once the game is complete.
 
 **October 3 vs. Notre Dame**, Kenan Stadium. Carolina blue expected. The biggest home game on the schedule, and Notre Dame will be in white. See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) for the other side of it.
 

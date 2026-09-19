@@ -3,7 +3,7 @@ title: "Boston College Uniform Schedule 2026: Every Jersey and When the Eagles W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Boston College wears every game in 2026: the maroon home set, the white road set, the Red Bandanna uniform, and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #8C2232 0%, #a62b3d 55%, #BC9B6A 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ ACC home teams wear color and visitors wear white, so every road date on this sc
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C2232; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #CE1126; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red Bandanna</div></div>
-  <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maine</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #8C2232; color: #ffffff; border: 2px solid #BC9B6A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maine</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Gold</div></div>
   <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -66,7 +66,7 @@ ACC home teams wear color and visitors wear white, so every road date on this sc
 
 Boston College won 28-21 for its first victory of the season. Rutgers wore red on the road that night, and you can find the Scarlet Knights' full year on the [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026).
 
-**September 19 vs. Maine.** Maroon expected. A 2 p.m. kickoff on ACCNX for Faculty and Staff Appreciation Day, and the first home game after the emotional weight of the Red Bandanna night. Gold pants are the safe bet.
+**September 19 vs. Maine.** ★ Confirmed from the broadcast: **gold helmet, maroon jersey, gold pants**, the standard home look for a 2 p.m. kickoff on ACCNX on Faculty and Staff Appreciation Day, the first home game after the emotional weight of the Red Bandanna night. Maine answered in light blue. Boston College won 22-16.
 
 **September 26 vs. Virginia Tech.** Maroon expected. Family Weekend at noon, and maroon against a maroon visitor in white is one of the odder color pairings on the ACC calendar. The Hokies' side of it lives on the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
@@ -106,7 +106,7 @@ Two games into 2026, Boston College has shown the two things that matter: the ma
 
 **What jersey is Boston College wearing this week?**
 
-Boston College hosts Maine on Saturday, September 19 at 2 p.m. at Alumni Stadium, and the maroon home jersey is expected. The Eagles wore the Red Bandanna uniform against Rutgers on September 11 and the white road set at Cincinnati on September 5. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Boston College wore the gold helmet, maroon jersey and gold pants against Maine on Saturday, September 19, and won 22-16 at Alumni Stadium. The Eagles wore the Red Bandanna uniform against Rutgers on September 11 and the white road set at Cincinnati on September 5. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Boston College's football uniforms for 2026?**
 

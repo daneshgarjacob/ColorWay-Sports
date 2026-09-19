@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: '2026-09-14'
+updatedDate: '2026-09-19'
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -40,7 +40,7 @@ Twelve games, seven at Ohio Stadium. Three alternates sit in the closet with no 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Silver</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BB0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / Silver</div></div>
-  <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Silver</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
@@ -63,7 +63,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **September 12 at Texas**, Austin. The biggest non-conference game on either team's schedule. ★ Confirmed from the broadcast: **silver helmet, white jersey, silver pants**, the standard road set, against Texas in burnt orange over white. See our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) for the other side of this one. Ohio State lost 24-23 after leading 23-3 in the second half.
 
-**September 19 vs. Kent State**, Ohio Stadium. The Helmet Stripe Game returns, though that is a crowd theme rather than a uniform change: fans in the horseshoe wear grey and students dress to match the stripes on the helmet. Scarlet expected on the field.
+**September 19 vs. Kent State**, Ohio Stadium. ★ Confirmed from Ohio State's own game photography: **silver helmet, scarlet jersey with the silver Buckeye stripe on the sleeve, silver gray pants**, the standard home set. The Helmet Stripe Game came off as billed, a crowd theme rather than a uniform change, with fans in the horseshoe dressing to match the stripes on the helmet. None of the three 2026 alternates came out, so Scarlet Rush, Tunnel Vision and Sub Zero are all still waiting on a date. Ohio State won 59-3.
 
 **September 26 vs. Illinois**, Ohio Stadium. Hall of Fame Weekend and the Buckeyes for a Cancer Free World game. Scarlet expected.
 
@@ -99,7 +99,7 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State wears scarlet at home and white on the road in 2026, and the September 5 home opener against Ball State is confirmed scarlet. Three alternates exist but none has been assigned to a game. We update this page as each combination is confirmed in game week.
+Ohio State wears scarlet at home and white on the road in 2026, and the September 19 home game against Kent State was the standard scarlet set: silver helmet, scarlet jersey, silver gray pants, in a 59-3 win. Three alternates exist but none has been assigned to a game. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 

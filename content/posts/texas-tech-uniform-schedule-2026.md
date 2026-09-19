@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Every Jersey, and When the Mahomes Let
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Texas Tech wears every game in 2026, week by week, including the exact date the new Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -15,13 +15,13 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it comes with the one date every Red Raiders fan is asking about: **the new Patrick Mahomes "Let's Ride" uniform debuts Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX.
+Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Texas Tech Athletics.</p>
 
 ## The Let's Ride Uniform Is the Headline
 
-For the third straight year, adidas and Patrick Mahomes have given his alma mater a signature uniform, and this one is called Let's Ride. Red and black, Mahomes' Gladiator logo worked into the design, and his name on the back of the helmet. Texas Tech gets it for one confirmed night: September 18 against Houston.
+For the third straight year, adidas and Patrick Mahomes have given his alma mater a signature uniform, and this one is called Let's Ride. Red and black, Mahomes' Gladiator logo worked into the design, and his name on the back of the helmet. Texas Tech got it for one night: September 18 against Houston, and the Red Raiders won that night 28-26.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2090473596263022632"></a></blockquote>
@@ -59,7 +59,7 @@ Texas Tech does not publish a season-long uniform schedule. Under adidas the Red
 
 - **Home games in Lubbock:** red or black jerseys, decided game by game.
 - **Road games:** white jerseys, per NCAA visitor rules.
-- **September 18 vs. Houston:** the confirmed Let's Ride night.
+- **September 18 vs. Houston:** the Let's Ride night, now confirmed on the field.
 
 We update this page as each week's combination is announced, so the grid below always reflects the latest confirmed look.
 
@@ -70,7 +70,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Abilene Christian</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Jersey</div></div>
-  <div style="background: #000000; color: #ffffff; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Let's Ride</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Let's Ride, All Black</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sam Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -87,7 +87,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **September 12 at Oregon State**, Corvallis. First road trip. ★ Confirmed from the broadcast: **black helmet, white jersey with red numbers, white pants**, read off the CBS end zone frames. Texas Tech won 35-24, and Oregon State answered in black over black under its white script helmet.
 
-**September 18 vs. No. 23 Houston**, Lubbock. Friday night, 8:00 ET on FOX. **The Let's Ride debut.** The one uniform date on this schedule that is locked.
+**September 18 vs. No. 23 Houston**, Lubbock. ★ Confirmed from the broadcast: **black helmet, black jersey with red numbers, black pants**, the Patrick Mahomes Let's Ride set exactly as adidas revealed it. Houston answered in all white, a white helmet with the red interlocking UH over a white jersey and white pants, the look the Cougars call Icy Whites. Texas Tech won 28-26 on Friday night in front of a FOX prime time audience. All black against all white is the cleanest stage the Let's Ride set could have asked for.
 
 **September 26 vs. Sam Houston**, Lubbock. Red or black.
 
@@ -115,11 +115,11 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **What is the Texas Tech Let's Ride uniform?**
 
-It is the third annual Patrick Mahomes signature uniform from adidas, revealed in August 2026. Red and black with Mahomes' Gladiator logo in the detailing and his name on the back of the helmet. We grade it a B: great tradition, safe execution.
+It is the third annual Patrick Mahomes signature uniform from adidas, revealed in August 2026 and worn for the first time on September 18 against Houston. Black helmet, black jersey with red numbers and black pants, with Mahomes' Gladiator logo in the detailing and his name on the back of the helmet. We grade it a B: great tradition, safe execution.
 
 **When does Texas Tech wear the Let's Ride uniform in 2026?**
 
-One confirmed night: Friday, September 18, at home against No. 23 Houston, 8:00 ET on FOX.
+One night, and it is now in the books: Friday, September 18, at home against No. 23 Houston on FOX. Texas Tech wore the black helmet, black jersey with red numbers and black pants, Houston countered in its all white Icy Whites, and the Red Raiders won 28-26.
 
 **Does Texas Tech publish a full uniform schedule?**
 
@@ -131,4 +131,4 @@ adidas, and the Mahomes partnership is the centerpiece of the deal. Texas Tech i
 
 ## The Bottom Line
 
-Texas Tech's 2026 uniform schedule has one date circled in red, or more accurately in red and black: September 18 against Houston, when the Mahomes Let's Ride uniform gets its only confirmed night of the season. Around it, expect the usual Lubbock rhythm, red or black at home, white on the road, with each week's exact combination announced days out and logged here when it is.
+Texas Tech's 2026 uniform schedule had one date circled in red, or more accurately in red and black: September 18 against Houston, and the Mahomes Let's Ride set delivered, all black head to toe against Houston's Icy Whites in a 28-26 win. That was its only confirmed night of the season. Around it, expect the usual Lubbock rhythm, red or black at home, white on the road, with each week's exact combination announced days out and logged here when it is.
