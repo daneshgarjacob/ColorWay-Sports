@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: "2026-09-19"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Next up is Mississippi State at Williams-Brice Stadium on September 19, where we expect garnet. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The South Carolina 2026 Uniform Sets
 
@@ -31,7 +31,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #73000A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Garnet / White</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Towson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cocky Helmet / Black / White</div></div>
-  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
@@ -48,7 +48,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **September 12 vs. Towson.** ★ Confirmed from the broadcast: **glossy black helmet with Cocky on both sides, black jersey, white pants**. The black jersey carried GAMECOCKS across the chest with garnet and white sleeve stripes. The Cocky decal honored the mascot's induction into the Mascot Hall of Fame, and beat reporter Wes Mitchell reported it was a one-night helmet, not a new piece of the rotation. So the new gloss shell debuted with a logo it will not wear again. South Carolina won 45-9 in the 7 p.m. Eastern kickoff.
 
-**September 19 vs. Mississippi State.** Garnet expected. SEC opener at home at 4:15 p.m. Eastern, and home dates default to the garnet jersey.
+**September 19 vs. Mississippi State.** ★ Confirmed from the broadcast: **garnet helmet, garnet jersey, garnet pants**, head to toe garnet for the SEC opener at Williams-Brice. We had garnet down for the jersey and white for the pants, and the Gamecocks went garnet below the belt too. Mississippi State came in with the maroon helmet over a white jersey and white pants. More: [Mississippi State uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
 **September 26 at Alabama.** White expected. Alabama wears crimson at home, so South Carolina goes white at Bryant-Denny Stadium for a 7 p.m. Eastern kickoff. The Tide side is on our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -78,7 +78,7 @@ Two games into the Nike era, South Carolina has shown two very different looks: 
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina hosts Mississippi State on Saturday, September 19, and we expect the garnet home jersey. Last week against Towson the Gamecocks wore a glossy black helmet with Cocky on the sides, black jersey and white pants. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore all garnet against Mississippi State on Saturday, September 19: garnet helmet, garnet jersey and garnet pants for the SEC opener, confirmed from the broadcast. Last week against Towson the Gamecocks wore a glossy black helmet with Cocky on the sides, black jersey and white pants. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 

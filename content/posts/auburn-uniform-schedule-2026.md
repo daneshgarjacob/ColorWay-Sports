@@ -3,7 +3,7 @@ title: "Auburn Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "What jersey is Auburn wearing this week? The full 2026 Auburn uniform schedule: navy home jerseys, the white road uniform, and every game, week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13315c 55%, #E87722 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor (Atlanta)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -48,7 +48,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 **September 12 vs. Southern Miss.** ★ Confirmed from the broadcast: **white helmet, navy jersey, white pants** again, this time at Jordan-Hare Stadium for the first home game of the Golesh era. Southern Miss came in wearing a black helmet with a gold stripe, a white jersey and black pants. Auburn won 43-8. Kickoff was on Saturday night, and ESPN's feed lists the game under September 13 because it runs on UTC. The correct local date is Saturday, September 12.
 
-**September 19 vs. Florida.** Navy expected, the home default for the SEC opener. It is the first time Florida has played at Jordan-Hare since 2011. Florida already published its whole season: the Gators come in wearing an orange helmet, white jersey and orange pants, so it will be navy against white and orange under the lights. See the [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for every Gators combination.
+**September 19 vs. Florida.** ★ Confirmed from the broadcast: **white helmet with the navy AU, navy jersey, white pants**, the home default for the SEC opener and the first time Florida has played at Jordan-Hare since 2011. Florida wore what its published season schedule said it would, an orange helmet, white jersey and orange pants, so it was navy against white and orange under the lights. See the [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for every Gators combination.
 
 **September 26 vs. Vanderbilt.** Navy expected. This is Auburn's homecoming game, which is the traditional home date for an alternate if the program ever breaks from its standard sets.
 
@@ -80,7 +80,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn plays Florida at Jordan-Hare Stadium on September 19, and the navy home jersey with white pants and the white helmet is expected. Florida has already confirmed an orange helmet, white jersey and orange pants for the game. Auburn wore navy over white pants against Southern Miss on September 12. The week-by-week grid above lists every game.
+Auburn wore the white helmet, navy jersey and white pants against Florida at Jordan-Hare Stadium on September 19, confirmed from the broadcast. Florida came in with an orange helmet, white jersey and orange pants. Auburn wore the same navy over white pants against Southern Miss on September 12. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 

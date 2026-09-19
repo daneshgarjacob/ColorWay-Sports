@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #9E1B32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White</div></div>
-  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -52,7 +52,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in blue over white pants. Alabama won 45-17.
 
-**September 19 vs. Florida State**, Tuscaloosa. The marquee non-conference game, at home. Crimson.
+**September 19 vs. Florida State**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the marquee non-conference game. Florida State answered in the gold helmet and white jersey over **garnet pants**, which settles the question its own page had open all week. More: [Florida State uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
 **September 26 vs. South Carolina**, Tuscaloosa. Crimson.
 
