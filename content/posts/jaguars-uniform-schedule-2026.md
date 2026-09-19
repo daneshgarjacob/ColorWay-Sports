@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -49,12 +49,12 @@ Here is the whole season at a glance. The confirmed jersey game is marked with a
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal · MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal or White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>Week 8 Rivalries game is confirmed</strong> by the Jaguars. The other home themes are promotional, such as Crucial Catch and Salute to Service, so the teal-home and white-road assignments are our projection based on the standard NFL convention and on what Jacksonville actually wore at home last season, which was overwhelmingly teal. Black remains in the closet as an alternate and the Prowler throwback exists, but <strong>neither has been announced for any 2026 game.</strong> Week 16 at Dallas is flagged because the Cowboys wear white at home, which would let Jacksonville wear teal on the road.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>Week 8 Rivalries game is confirmed</strong> by the Jaguars. The other home themes are promotional, such as Crucial Catch and Salute to Service, so the teal-home and white-road assignments are our projection based on the standard NFL convention and on what Jacksonville actually wore at home last season, which was overwhelmingly teal. Black remains in the closet as an alternate and the Prowler throwback exists, but <strong>neither has been announced for any 2026 game.</strong> Week 16 at Dallas is the one road game in teal, because Dallas has published the all-white Color Rush for that date and a visiting team wears color when the host goes white.</p>
 
 ## The "Bold City" Rivalries Uniform, Revealed (Week 8 vs. Colts)
 
@@ -106,7 +106,7 @@ For uniform purposes it changes nothing: Jacksonville is the home team, so it pi
 
 The white road uniform projects to eight of the nine away games: at the Broncos, Bengals, Ravens, Titans, Giants, Bears, Texans, and the Week 18 trip to Indianapolis.
 
-The ninth is the exception worth knowing. Week 16 at Dallas on Sunday, December 27 is a road game where Jacksonville could wear color, because the Cowboys wear white at home by tradition and a visiting team can only wear a colored jersey when the host goes white. Teal at AT&T Stadium would be one of the better-looking road games of the year, and it is entirely Jacksonville's call.
+The ninth is the exception worth knowing. Week 16 at Dallas on Sunday, December 27 is a road game in color, because Dallas has confirmed the all-white Color Rush for that night and the visiting team wears a colored jersey whenever the host goes white. Teal at AT&T Stadium would be one of the better-looking road games of the year, and it is entirely Jacksonville's call.
 
 
 ## How the Jaguars Rotation Works in 2026
@@ -121,11 +121,11 @@ How does every one of these jerseys stack up? See our [Jaguars jerseys 2026 rank
 
 **What jersey are the Jaguars wearing today?**
 
-Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas could go either way because the Cowboys wear white at home.
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas is teal because Dallas has confirmed the all-white Color Rush for that night.
 
 **What jerseys are the Jaguars wearing this week?**
 
-Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas could go either way because the Cowboys wear white at home.
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas is teal because Dallas has confirmed the all-white Color Rush for that night.
 
 **What uniform did the Jaguars wear last week?**
 
@@ -148,7 +148,7 @@ Teal at home and white on the road. Teal projects to the seven home games not cl
 Jacksonville is the designated home team for both Week 5 against Philadelphia on October 11 and Week 6 against Houston on October 18, played in London. Those count as two of the team's eight home dates.
 
 **Could the Jaguars wear teal on the road in 2026?**
-Yes, in Week 16 at Dallas on December 27. The Cowboys wear white at home, which is the only circumstance that lets a visiting team wear a colored jersey. Every other road game projects to white.
+Yes, in Week 16 at Dallas on December 27. Dallas has confirmed the all-white Color Rush for that game, and a host in white puts the visitor in color. Every other road game projects to white.
 
 **Is the full Jaguars 2026 uniform schedule official?**
 No. One game is confirmed by the team, the Rivalries jersey in Week 8. Jacksonville announced themes for its other home games, but those are promotional rather than uniform announcements, so the rest is our projection.
