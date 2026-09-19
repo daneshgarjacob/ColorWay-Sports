@@ -70,7 +70,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2098932640787104216"></a></blockquote>
 </div>
 
-**September 19 at Texas State.** Icy Whites, announced: **white helmet, white jersey, white pants** at UFCU Stadium in San Marcos, 11 a.m. Central on USA Network, against a Texas State program now playing in the Pac-12. The game itself was a shootout that got away, tied 28-28 at halftime before North Texas lost 49-35, with Tayven Jackson throwing for 483 yards. We have not been able to see a single frame of it yet, so the Icy Whites stay listed as announced and we will star the cell once game photography is available.
+**September 19 at Texas State.** Icy Whites, announced: **white helmet, white jersey, white pants** at UFCU Stadium in San Marcos, 11 a.m. Central on USA Network, against a Texas State program now playing in the Pac-12. The game itself was a shootout that got away, tied 28-28 at halftime before North Texas lost 49-35, with Mean Green quarterback Tayven Jackson throwing for 483 yards. We have not been able to see a single frame of it yet, so the Icy Whites stay listed as announced and we will star the cell once game photography is available.
 
 **September 26 vs. Houston Christian.** Green expected. Family Weekend at DATCU Stadium, 6:30 p.m. Central on ESPN+. North Texas also lists it as Senior Day.
 

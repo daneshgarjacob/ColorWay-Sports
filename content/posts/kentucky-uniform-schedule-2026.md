@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, two helmets, and what the Wildcats wore against Alabama."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Twelve games, seven at Kroger Field, one bye, no alternates announced.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Youngstown State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All White (Announced)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -52,7 +52,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **September 12 vs. Alabama**, Lexington. ★ Confirmed from the broadcast: **blue helmet, blue jersey, white pants**, the standard Kentucky home uniform with the primary shell back on for the SEC opener. Alabama came into Kroger Field in crimson helmet, white jersey, white pants, the Tide's standard road set, so the game read blue against white the way an SEC home date should. Alabama won 45-17. [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
-**September 19 at Texas A&M**, College Station. All white, announced. Kentucky's [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) is the white helmet, white jersey and white pants. The Aggies wear maroon at Kyle Field, and this is Kentucky's first white of the season. We will star the cell once we see it on the field. [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
+**September 19 at Texas A&M**, College Station. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, exactly the [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) Kentucky posted, and the first white of the season. Texas A&M went maroon over maroon at Kyle Field. Kentucky won 31-21 for the upset of the SEC afternoon. [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
 **September 26 vs. South Alabama**, Lexington. Blue expected. Non-conference home game, helmet to be announced.
 

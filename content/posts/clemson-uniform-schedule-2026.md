@@ -48,7 +48,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 12 vs. Georgia Southern.** ★ Confirmed from the broadcast after a weather-delayed kickoff: **orange helmet, orange jersey, white pants**, the standard Death Valley home look, against Georgia Southern in white over white. Clemson won 22-7.
 
-**September 19 vs. North Carolina.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, orange jersey, white pants**, the standard Death Valley home look for a third straight week. North Carolina answered in the Carolina blue helmet with the interlocking NC, a white jersey with Carolina blue numerals and Carolina blue pants, which is about as good as a visiting white set gets against orange. Weather suspended the game in the third quarter with Clemson trailing 17-15, so there is no final yet. We will add the score here once the game is complete, and the other side of it is on our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
+**September 19 vs. North Carolina.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, orange jersey, white pants**, the standard Death Valley home look for a third straight week. North Carolina answered in the Carolina blue helmet with the interlocking NC, a white jersey with Carolina blue numerals and Carolina blue pants, which is about as good as a visiting white set gets against orange. Weather suspended the game in the third quarter with Clemson trailing 17-15, and the Tigers came back after the delay to win 28-20. The other side of it is on our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
 **September 26 at California.** White expected.
 

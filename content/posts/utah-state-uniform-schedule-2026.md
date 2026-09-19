@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: '2026-09-19'
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #0F2439; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Idaho State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cow Print / White / White</div></div>
   <div style="background: #ffffff; color: #0F2439; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
-  <div style="background: #ffffff; color: #0F2439; border: 2px dashed #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy / White / Navy (Announced)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #ffffff; color: #0F2439; border: 2px dashed #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Retro Helmet (Announced)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0F2439; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -64,7 +64,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2098908222161895928"></a></blockquote>
 </div>
 
-**September 19 at Utah.** Announced: **navy helmet, white jersey, navy pants**. Utah State posted the reveal on Thursday for the Battle of the Brothers at Rice-Eccles Stadium, 1:30 p.m. Mountain on FOX. Utah has announced its Ute Proud look for the same game, a white tribal helmet with red jerseys and red pants, which is on our [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
+**September 19 at Utah.** ★ Confirmed from the broadcast: **navy helmet, white jersey, white pants**. Utah State announced navy pants with the set on Thursday and went with white on the field for the Battle of the Brothers at Rice-Eccles Stadium. Utah wore its Ute Proud look, a white tribal helmet with a red jersey and red pants, and won 33-0. The other side is on our [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2100729492146929971"></a></blockquote>

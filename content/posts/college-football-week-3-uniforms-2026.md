@@ -101,7 +101,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Mercer: white.
 - [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026): **Confirmed**, gold helmet, gold jersey, black pants.
 
-**North Carolina at Clemson**, noon, ESPN. **Suspended by weather with North Carolina leading 17-15.**
+**North Carolina at Clemson**, noon, ESPN. **Suspended by weather in the third quarter with North Carolina up 17-15, and Clemson came back to win 28-20.**
 - [North Carolina](/stories/north-carolina-uniform-schedule-2026): **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants.
 - [Clemson](/stories/clemson-uniform-schedule-2026): **Confirmed**, orange Tiger Paw helmet, orange jersey, white pants.
 
@@ -119,9 +119,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Saturday, September 19: Afternoon Window
 
-**Kentucky at No. 9 Texas A&M**, 3:30 p.m., ESPN
-- [Kentucky](/stories/kentucky-uniform-schedule-2026): **Announced**, all white. Kentucky's [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) is white helmet, white jersey, white pants, its first white of the season.
-- [Texas A&M](/stories/texas-am-uniform-schedule-2026): maroon expected for the SEC opener. The camo Honor and Support set is scheduled for Arkansas on October 3, not this game.
+**Kentucky at No. 9 Texas A&M**, 3:30 p.m., ESPN. **Kentucky won 31-21.**
+- [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, all white, its first white of the season, the same [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) it posted.
+- [Texas A&M](/stories/texas-am-uniform-schedule-2026): **Confirmed**, maroon jersey over maroon pants, the darker version of the home look rather than the usual white pants. The camo Honor and Support set is scheduled for Arkansas on October 3, not this game.
 
 **Florida State at No. 10 Alabama**, 3:30 p.m., ABC
 - [Florida State](/stories/florida-state-uniform-schedule-2026): white expected, with the gold helmet. Pants to be announced.
@@ -135,13 +135,13 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - SMU: white expected.
 - [Louisville](/stories/louisville-uniform-schedule-2026): **Announced**, white helmet, red jersey, white pants.
 
-**Utah State at No. 17 Utah**, 3:30 p.m., FOX
-- Utah State: white expected.
-- [Utah](/stories/utah-uniform-schedule-2026): **Announced**, the Ute Proud set: white helmet with the tribal interlocking U's and a tribal center stripe, red jersey, red pants.
+**Utah State at No. 17 Utah**, 3:30 p.m., FOX. **Utah won 33-0.**
+- [Utah State](/stories/utah-state-uniform-schedule-2026): **Confirmed**, navy helmet, white jersey, white pants. Utah State had announced navy pants and wore white.
+- [Utah](/stories/utah-uniform-schedule-2026): **Confirmed**, the Ute Proud set: white helmet with the tribal interlocking U's and a tribal center stripe, red jersey, red pants.
 
-**UTEP at No. 19 Michigan**, 3:30 p.m., BTN
-- UTEP: white expected.
-- [Michigan](/stories/michigan-uniform-schedule-2026): navy expected, with maize pants and the winged helmet.
+**UTEP at No. 19 Michigan**, 3:30 p.m., BTN. **Michigan won 52-17.**
+- UTEP: white over white.
+- [Michigan](/stories/michigan-uniform-schedule-2026): **Confirmed**, navy jersey, maize pants, the winged helmet.
 
 **Western Kentucky at No. 4 Indiana**, 4 p.m., Peacock
 - Western Kentucky: white expected.
