@@ -3,7 +3,7 @@ title: "Temple Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Temple wears every game in 2026: the cherry home jersey, the white road set, both diamond helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #b62a3f 55%, #5e1220 130%)"
 cardStyle: words
@@ -73,7 +73,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **September 12 vs. Penn State.** ★ Confirmed from the broadcast: **cherry helmet, cherry jersey, white pants**, cherry on cherry with the white diamond chain down the crown for the biggest home date on the schedule. Penn State went all white and won 27-9.
 
-**September 19 at Toledo.** White expected. A 3 p.m. Eastern kickoff at the Glass Bowl on CBS Sports Network, and Toledo's midnight blue and gold at home should make the white jersey pop.
+**September 19 at Toledo.** White expected, and still unconfirmed. No broadcast frame of the Owls has surfaced from the Glass Bowl, where Toledo wore its midnight blue at home and won 49-48 in overtime. We will star the cell once we can see the road set.
 
 **September 25 vs. Army.** Cherry expected. A Friday afternoon home game on ESPN, which is an unusual window and exactly the kind of national slot where a program picks its best looking combination. [Army](/stories/army-uniform-schedule-2026) is in white as the visitor, so the helmet and pants are the only real variables here.
 

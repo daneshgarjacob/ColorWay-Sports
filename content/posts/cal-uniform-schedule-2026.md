@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Cal wears every game in 2026: the blue home set, the white road set, the Joe Roth throwback, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ There is also a white version of the Joe Roth jersey. Cal introduced a Road Edit
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0057B8; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Royal / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / White</div></div>
-  <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wagner</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wagner</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Gold</div></div>
   <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -76,7 +76,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **September 12 at Syracuse.** ★ Confirmed from the broadcast: **blue helmet, white jersey, white pants**, the standard road set with the gold Cal script on the navy shell. Cal won 21-18 in the dome. Syracuse hosted in orange helmets, navy jerseys and orange pants, which we track on the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 
-**September 19 vs. Wagner.** Blue expected. Rooted in the Bay Day, 12:30 p.m. Pacific, and a noon kickoff against an FCS opponent is the least likely slot on the calendar for anything unusual.
+**September 19 vs. Wagner.** ★ Confirmed from the broadcast: **navy helmet, navy jersey, gold pants**, the standard home look on Rooted in the Bay Day, which is about what a 12:30 p.m. Pacific kickoff against an FCS opponent invites. Wagner wore white over white. Cal won 49-7.
 
 **September 25 vs. Clemson.** Blue expected. This is the Friday night ACC opener, it is the Gold Out, and it is the one home date where we would not be surprised by the gold Big C helmet instead of the navy shell. Clemson in white against Berkeley Blue is one of the cleaner color pairings Cal gets all year.
 

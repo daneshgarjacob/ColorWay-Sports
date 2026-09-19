@@ -3,7 +3,7 @@ title: "Toledo Uniform Schedule 2026: Every Jersey and When the Rockets Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-19'
 excerpt: "What Toledo wears every game in 2026: the midnight blue home set, the white road jersey, the gold and anthracite alternates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0b2240 0%, #1b3a63 55%, #ffcd00 130%)"
 cardStyle: words
@@ -61,7 +61,7 @@ There is one more thing hanging over the season. In August the athletic departme
 
 **September 12 vs. Central Connecticut.** ★ Confirmed from the broadcast: **midnight blue helmet, midnight blue jersey, gold pants**, the classic Glass Bowl combination for a game the school billed as the Biggest Party in Toledo. The Rockets won 63-10.
 
-**September 19 vs. Temple.** Blue expected. Band Day in the Glass Bowl with a 3 p.m. Eastern kickoff, and Temple in white as the visitor.
+**September 19 vs. Temple.** Confirmed in part: the one broadcast frame we have shows the **midnight blue helmet with the gold facemask and the midnight blue jersey**, and the pants never came into view, so the cell stays unstarred. Band Day in the Glass Bowl went to overtime and Toledo won 49-48.
 
 **September 26 vs. San Diego State.** Blue expected. A noon start against a Mountain West opponent on UToledo Family Weekend, and the last non-conference home date of the year.
 

@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -58,7 +58,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2097724289843683530"></a></blockquote>
 </div>
 
-**September 19 vs. Duquesne.** Announced: **white helmet, crimson jersey, crimson pants**, the combination Coug fans named the Ketchup Bottle. The home opener is a crimson out at Gesa Field, 12:30 p.m. Pacific, and it is the first time the crimson jersey comes out this season after two road games. One detail makes it new: the original Ketchup Bottle appearances, the 2018 Alamo Bowl win over Iowa State, a 2021 win over Portland State and a 2022 win over Cal, all used a white facemask. This one has a crimson facemask, which by Washington State's own bookkeeping makes it the 53rd distinct combination since the 2017 redesign.
+**September 19 vs. Duquesne.** Announced: **white helmet, crimson jersey, crimson pants**, the combination Coug fans named the Ketchup Bottle. The home opener is a crimson out at Gesa Field, 12:30 p.m. Pacific, and it is the first time the crimson jersey comes out this season after two road games. One detail makes it new: the original Ketchup Bottle appearances, the 2018 Alamo Bowl win over Iowa State, a 2021 win over Portland State and a 2022 win over Cal, all used a white facemask. This one has a crimson facemask, which by Washington State's own bookkeeping makes it the 53rd distinct combination since the 2017 redesign. Washington State won the home opener 48-7, and no broadcast frame or photograph of the game has surfaced yet, so the cell stays on the announced combination until we can see it.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2100284575943680422"></a></blockquote>
