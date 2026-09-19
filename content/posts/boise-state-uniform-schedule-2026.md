@@ -68,7 +68,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **November 21 vs. San Diego State.** Blue expected. The final home game and the end of Pac-12 conference play.
 
-**November 28, flex game.** White expected. The regular season ends on the road against a Pac-12 opponent, Colorado State, Fresno State, Utah State or Washington State, set by the conference no later than six days before kickoff. The game counts as nonconference. The Pac-12 Championship follows on December 4.
+**November 28, flex game.** White expected. The regular season ends on the road against a Pac-12 opponent, Colorado State, Fresno State, Utah State or Washington State, set by the conference no later than six days before kickoff. The game counts as nonconference. Utah State's own home schedule graphic already lists Boise State for the date, a rematch of the October 3 game in Boise played in Logan, but the conference has not announced any flex pairings yet. The Pac-12 Championship follows on December 4.
 
 ## The Bottom Line
 
