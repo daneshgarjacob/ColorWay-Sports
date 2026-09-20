@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -37,7 +37,7 @@ Read it left to right and it is helmet, jersey, pants. Gold, black, black. That 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #450084; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wagner</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 26-13</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +64,7 @@ That field goal put the Dukes up 10-3 in the second quarter and the purple over 
 
 **September 12 vs. Wagner.** ★ Confirmed from the broadcast: **gold helmet, black jersey, black pants**, the blackout, in an 87-3 win over Wagner that set program records and never got close. Two games into the season and JMU had already gone to the alternate, which is worth remembering when you look at the four home dates still ahead.
 
-**September 19 at San Diego State.** White expected, and still unconfirmed. James Madison won 26-13 to go 3-0, but The CW broadcast produced no ESPN frames and neither school had posted game photography when we checked, so we have not seen the Dukes and the cell stays unstarred. This was the long one, a 10 p.m. Eastern kickoff at Snapdragon Stadium that lands at 7 p.m. on the West Coast, and JMU flew out early in the week.
+**September 19 at San Diego State.** ★ Confirmed from San Diego State's game photography: **the white helmet, white jersey and white pants**, head to toe white at Snapdragon Stadium, in a 26-13 win that took James Madison to 3-0. The helmet is the detail. The Dukes had used the gold shell in both of their first two games, and on the road they switched to the white one, purple JMU mark outlined in gold, purple and gold rear stripe, JAMES MADISON on the bumper. The jersey numerals are purple outlined in gold and the pants run the same purple and gold stripe. San Diego State wore its new Age of the Jaguar red over red. This was the long one, a 10 p.m. Eastern kickoff that lands at 7 p.m. on the West Coast, and JMU flew out early in the week. The CW produced no ESPN frames all night, so the confirmation had to wait a day for the home school's own photography.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JMUFootball/status/2099509818222420029"></a></blockquote>
@@ -98,13 +98,13 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 ## The Bottom Line
 
-Two games into 2026 and James Madison has already used two of its three jerseys, both times under the gold helmet. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
+Three games into 2026 and James Madison has already used all three jerseys and both helmets, with the white shell coming out for the first road trip. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is James Madison wearing this week?**
 
-James Madison plays at San Diego State on Saturday, September 19, at 10 p.m. Eastern, and as the visiting team the Dukes are expected in the white jersey. The last confirmed combination was the gold helmet, black jersey and black pants against Wagner on September 12. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore the white helmet, white jersey and white pants at San Diego State on Saturday, September 19, a full white road set and the first time in 2026 the Dukes used the white shell instead of the gold one. They won 26-13. Next is at Old Dominion on September 26, where white is expected again under Sun Belt road rules. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 

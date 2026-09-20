@@ -4,7 +4,7 @@ title: "College Football Week 3 Uniforms 2026: What Every Top Team Is Wearing Th
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "College football uniforms this week: LSU at Ole Miss, FSU at Alabama, Utah's Ute Proud helmet, Texas Tech's Mahomes set and every Top 25 look for Week 3."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -234,12 +234,12 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - **South Dakota at Boise State**, Boise State won 38-24. [Boise State](/stories/boise-state-uniform-schedule-2026) in the white helmet, blue jersey and white pants on the blue turf. Fans were asked to wear white; the Broncos stayed in blue.
 - **East Texas A&M at Tulsa**, Tulsa won 42-0. [Tulsa](/stories/tulsa-uniform-schedule-2026) debuted its **red throwback**, gold helmet with the cursive Tulsa script and TULSA'S TEAM on the bumper, red jersey, gold pants.
 - **Ball State at Liberty**, Liberty won 51-15. [Liberty](/stories/liberty-uniform-schedule-2026) in the navy alternate rather than its red home set.
+- **[James Madison](/stories/james-madison-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, James Madison won 26-13. **The Age of the Jaguar reached the field.** San Diego State wore the black Ocelotl helmet, the red jersey with black numerals outlined in white and red on red sublimated artwork on the shoulders, and red pants, the first red over red in program history. James Madison answered in head to toe white and switched from the gold helmet it had worn in both home games to the white shell. Confirmed a day late, from San Diego State's own game photography, because The CW fed no frames.
 
 ### Still Unconfirmed
 
-Six late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
+Five late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
 
-- **James Madison at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, JMU won 26-13. SDSU announced the **Age of the Jaguar** alternate for this game, black helmet, red jersey, red pants, the first red over red in program history. The CW produced no broadcast frames and neither school had posted game photography, so all we have seen is the September 16 reveal shoot. A reveal is not proof of what was worn, and we will star it when a game photo appears.
 - **Northern Illinois at [Arizona](/stories/arizona-uniform-schedule-2026)**, Arizona won 42-17. Navy expected, but Arizona asked fans to wear red, which is a crowd theme rather than a uniform call, so we are not assuming.
 - **Colorado at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, Northwestern won 41-7. No frames from the FOX broadcast for either side.
 - **Virginia Tech at [Maryland](/stories/maryland-uniform-schedule-2026)**, Virginia Tech won 35-26. Maryland announced the one-game **Los Terps** helmet, but we never saw the Terps, so we do not claim it reached the field.
@@ -252,7 +252,7 @@ Every Friday night reveal held. Wake Forest wore Dark Mode head to toe and lost 
 
 ## The Bottom Line
 
-This was billed as a week of standard uniforms with big games, and the standard part did not entirely hold. Both of the real open questions got answered, and both went the less obvious way: **Ole Miss came out in the full powder blue set** for LSU on GameDay night, with the end zones painted to match, and won 32-24; and **Florida State put garnet pants under the gold helmet** at Bryant-Denny rather than the traditional gold. What the afternoon and night windows actually produced was a run of pants changes nobody announced: South Carolina went garnet head to toe instead of white pants, Washington swapped gold pants for white, East Carolina put purple under the road whites, USF wore green over green for the first time this year, Liberty skipped its red home set for the navy alternate, and Oklahoma State pulled out the orange shell for the first time in 2026. Two more looks arrived without a reveal at all: **Colorado State's green home set**, which the Rams had never shown publicly in their first adidas season and simply wore against BYU, and **Tulsa's red throwback**, which the program unveiled without naming a game and then put on three days later. The announced specials all held: Texas Tech's Let's Ride, Missouri's centennial throwback, Utah's Ute Proud helmet, TCU's Frogs script helmet, BYU's navy-trimmed whites, Florida's orange pants and UCF's Knightmode. The one we could not verify is San Diego State's Age of the Jaguar, because no photography from that game has surfaced.
+This was billed as a week of standard uniforms with big games, and the standard part did not entirely hold. Both of the real open questions got answered, and both went the less obvious way: **Ole Miss came out in the full powder blue set** for LSU on GameDay night, with the end zones painted to match, and won 32-24; and **Florida State put garnet pants under the gold helmet** at Bryant-Denny rather than the traditional gold. What the afternoon and night windows actually produced was a run of pants changes nobody announced: South Carolina went garnet head to toe instead of white pants, Washington swapped gold pants for white, East Carolina put purple under the road whites, USF wore green over green for the first time this year, Liberty skipped its red home set for the navy alternate, and Oklahoma State pulled out the orange shell for the first time in 2026. Two more looks arrived without a reveal at all: **Colorado State's green home set**, which the Rams had never shown publicly in their first adidas season and simply wore against BYU, and **Tulsa's red throwback**, which the program unveiled without naming a game and then put on three days later. The announced specials all held: Texas Tech's Let's Ride, Missouri's centennial throwback, Utah's Ute Proud helmet, TCU's Frogs script helmet, BYU's navy-trimmed whites, Florida's orange pants and UCF's Knightmode. San Diego State's Age of the Jaguar took an extra day, because The CW fed no frames and the only images in existence on Saturday night were the reveal shoot, but the school's own game photography landed on Sunday morning and the red over red is confirmed.
 
 ## Frequently Asked Questions
 

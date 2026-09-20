@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that was announced for the James Madison game on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
+San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that debuted against James Madison on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
 
 ## The San Diego State 2026 Uniform Sets
 
@@ -32,13 +32,13 @@ Nike outfits the Aztecs, and the closet is built around the red and black palett
 
 ## The Age of the Jaguar Alternate
 
-San Diego State unveiled the Age of the Jaguar uniform on September 16 and set it for James Madison on September 19 at Snapdragon Stadium. The design is built around Ocelotl, the Aztec word for jaguar, and the school describes the jaguar as a symbol of power, valor and military prowess, tied in Aztec tradition to Tezcatlipoca, the god of the night sky, memory and time, and to the elite warriors who fought under that name.
+San Diego State unveiled the Age of the Jaguar uniform on September 16, set it for James Madison on September 19 at Snapdragon Stadium, and wore it there. The design is built around Ocelotl, the Aztec word for jaguar, and the school describes the jaguar as a symbol of power, valor and military prowess, tied in Aztec tradition to Tezcatlipoca, the god of the night sky, memory and time, and to the elite warriors who fought under that name.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AztecFB/status/2100307652278616508"></a></blockquote>
 </div>
 
-The look is a black helmet with the red and black Ocelotl glyph on one side, outlined in white, and the player's number in red on the other, with AZTECS on the rear bumper and a black facemask. The jersey is red with black numerals outlined in white, a black collar, and red on red sublimated artwork on the sleeve caps. The pants are red with the same artwork on the side panels and the SD spear on the hip. San Diego State says it is the first time in program history that the Aztecs will wear a red uniform with red pants, and the school is selling a replica red jersey for the debut.
+The look is a black helmet with the red and black Ocelotl glyph on one side, outlined in white, and the player's number in red on the other, with AZTECS on the rear bumper and a black facemask. The jersey is red with black numerals outlined in white, a black collar, and red on red sublimated artwork on the sleeve caps. The pants are red with the same artwork on the side panels and the SD spear on the hip. San Diego State says it is the first time in program history that the Aztecs have worn a red uniform with red pants, and the school sold a replica red jersey for the debut.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AztecFB/status/2100335026382708848"></a></blockquote>
@@ -49,7 +49,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #111111; color: #ffffff; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Portland State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Glyphs / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Glyphs / White / White</div></div>
-  <div style="background: #D22030; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Jaguar Red (Announced)</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">L 13-26</div></div>
+  <div style="background: #D22030; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ocelotl / Red / Red</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">L 13-26</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +70,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **September 12 at UCLA.** ★ Confirmed from the broadcast: **the Glyphs helmet, white jersey, white pants**, the standard road look, against UCLA in its blue home jerseys and gold pants at the Rose Bowl. UCLA won 28-10.
 
-**September 19 vs. James Madison.** Age of the Jaguar, announced: **black helmet, red jersey, red pants**, the first red over red in program history, for a 7 p.m. Pacific kickoff on The CW. James Madison lost none of its unbeaten start, winning 26-13. ⚠️ **The cell stays unstarred, because we have not independently seen the set on the field.** The CW broadcast produced no ESPN frames at any point in the game, and neither San Diego State nor James Madison had posted game photography by the time we checked. Everything we have seen of this uniform is the school's own September 16 reveal shoot, and a reveal is not evidence of what was actually worn, so we are not treating the two as the same thing. We will star it as soon as a game photo turns up.
+**September 19 vs. James Madison.** ★ **Confirmed: the Age of the Jaguar reached the field.** San Diego State's own game photography from Snapdragon Stadium shows the **black Ocelotl helmet, the red jersey and the red pants**, the first red over red in program history. The frame is close enough to read the details: the numerals are black outlined in white, the shoulder caps carry the red on red sublimated Aztec artwork, the sleeves are trimmed in black, the small red SD spear sits low on the shell and the player's number is repeated on the helmet in red. The one piece we cannot vouch for is the jaguar glyph, because only one side of the helmet is in the frame. James Madison won 26-13 in an all white road set, white helmet with the purple and gold stripe, white jersey with purple numerals, white pants. ⚠️ **This one took an extra day and it is worth saying why.** The CW broadcast produced no ESPN frames at any point in the game, so for the whole of Saturday night the only images of this uniform anywhere were the school's own September 16 reveal shoot. We left the cell unstarred rather than treat a reveal as proof of what was worn, and we starred it the moment real game photography appeared.
 
 **September 26 at Toledo.** White expected. The earliest kickoff on the schedule at 9 a.m. Pacific, which is noon in Ohio, on CBS Sports Network. Toledo wears midnight blue at home, so this is a clean contrast.
 
@@ -98,13 +98,13 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 ## The Bottom Line
 
-Two games in, San Diego State has used exactly two combinations and one helmet, which is about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it lands in Week 3 against James Madison. After that the pattern should settle: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
+Three games in, San Diego State has used three combinations and two helmets, and the first two of those were about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it landed in Week 3 against James Madison exactly as announced. After that the pattern should settle: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is San Diego State wearing this week?**
 
-San Diego State announced the new Age of the Jaguar uniform for James Madison on September 19: a black helmet with the Ocelotl jaguar glyph, a red jersey and red pants, which the school says is the first red jersey and red pants combination in program history. James Madison won 26-13. We have not independently confirmed the set on the field yet, because The CW broadcast produced no frames and no game photography had been posted when we checked, so everything we have seen is the September 16 reveal shoot rather than the game itself.
+San Diego State wore the new Age of the Jaguar uniform against James Madison on September 19: the black Ocelotl helmet, a red jersey and red pants, the first red jersey and red pants combination in program history. James Madison won 26-13. The set is confirmed from the school's own game photography at Snapdragon Stadium, not from the reveal shoot. The Aztecs are at Toledo on September 26 and the white road set is expected.
 
 **What are San Diego State's football uniforms for 2026?**
 
@@ -112,7 +112,7 @@ A black home jersey with red numerals outlined in white, a white road jersey wit
 
 **What is the Age of the Jaguar uniform?**
 
-It is San Diego State's 2026 alternate, inspired by Ocelotl, the Aztec word for jaguar. The black helmet carries the jaguar glyph on one side and the player's number on the other, the red jersey has red on red sublimated Aztec artwork on the sleeves, and the red pants repeat it on the side panels. It was announced for James Madison on September 19 at Snapdragon Stadium, though no game photography has surfaced yet to confirm it on the field.
+It is San Diego State's 2026 alternate, inspired by Ocelotl, the Aztec word for jaguar. The black helmet carries the jaguar glyph on one side and the player's number on the other, the red jersey has black numerals outlined in white and red on red sublimated Aztec artwork on the shoulders, and the red pants repeat it on the side panels. It debuted against James Madison on September 19 at Snapdragon Stadium and is confirmed on the field from San Diego State's own game photography.
 
 **What did San Diego State wear against Portland State and UCLA?**
 
