@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-San Diego State opened its first Pac-12 season in black on black and followed it with white on white, and now the Aztecs are about to wear a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the brand new Age of the Jaguar alternate that debuts against James Madison, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
+San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that was announced for the James Madison game on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
 
 ## The San Diego State 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ Nike outfits the Aztecs, and the closet is built around the red and black palett
 
 ## The Age of the Jaguar Alternate
 
-San Diego State unveiled the Age of the Jaguar uniform on September 16 and will debut it against James Madison on September 19 at Snapdragon Stadium. The design is built around Ocelotl, the Aztec word for jaguar, and the school describes the jaguar as a symbol of power, valor and military prowess, tied in Aztec tradition to Tezcatlipoca, the god of the night sky, memory and time, and to the elite warriors who fought under that name.
+San Diego State unveiled the Age of the Jaguar uniform on September 16 and set it for James Madison on September 19 at Snapdragon Stadium. The design is built around Ocelotl, the Aztec word for jaguar, and the school describes the jaguar as a symbol of power, valor and military prowess, tied in Aztec tradition to Tezcatlipoca, the god of the night sky, memory and time, and to the elite warriors who fought under that name.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AztecFB/status/2100307652278616508"></a></blockquote>
@@ -112,7 +112,7 @@ A black home jersey with red numerals outlined in white, a white road jersey wit
 
 **What is the Age of the Jaguar uniform?**
 
-It is San Diego State's 2026 alternate, inspired by Ocelotl, the Aztec word for jaguar. The black helmet carries the jaguar glyph on one side and the player's number on the other, the red jersey has red on red sublimated Aztec artwork on the sleeves, and the red pants repeat it on the side panels. It debuts against James Madison on September 19 at Snapdragon Stadium.
+It is San Diego State's 2026 alternate, inspired by Ocelotl, the Aztec word for jaguar. The black helmet carries the jaguar glyph on one side and the player's number on the other, the red jersey has red on red sublimated Aztec artwork on the sleeves, and the red pants repeat it on the side panels. It was announced for James Madison on September 19 at Snapdragon Stadium, though no game photography has surfaced yet to confirm it on the field.
 
 **What did San Diego State wear against Portland State and UCLA?**
 
