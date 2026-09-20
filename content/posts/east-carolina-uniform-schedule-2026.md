@@ -58,7 +58,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **September 12 vs. App State.** ★ Confirmed from the ESPNU broadcast: **purple helmet with the pirate logo, purple jersey, purple pants**, all purple for the Paint it Purple home opener at Dowdy-Ficklen Stadium. App State came in all white and won 27-24, its fourth straight win in the series. See our [App State 2026 uniform schedule](/stories/appalachian-state-uniform-schedule-2026).
 
-**September 19 at Old Dominion.** ★ Confirmed from the broadcast: **white helmet with the purple Jolly Roger, white jersey, purple pants**, the road whites broken up with purple below the belt rather than the all-white look the Pirates used at Alabama. A 6 p.m. kickoff at S.B. Ballard Stadium in Norfolk, with the Monarchs in their home colors.
+**September 19 at Old Dominion.** ★ Confirmed from the broadcast: **white helmet with the purple Jolly Roger, white jersey, purple pants**, the road whites broken up with purple below the belt rather than the all-white look the Pirates used at Alabama. A 6 p.m. kickoff at S.B. Ballard Stadium in Norfolk, with the Monarchs in their home colors. East Carolina won 20-17 on a late field goal after trailing 17-10 at the half.
 
 **September 26 vs. NC Central.** Purple expected. Family Weekend and Junior Pirate Club Day, 4 p.m. in Greenville.
 
@@ -106,7 +106,7 @@ Two games in, East Carolina has used two helmets, two jerseys and two pant color
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina wore the white helmet, white jersey and purple pants at Old Dominion on Saturday, September 19, confirmed from the broadcast. The Pirates wore white with the white script helmet at Alabama and all purple at home against App State, so this is a third different pants call in three games. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore the white helmet, white jersey and purple pants at Old Dominion on Saturday, September 19, a 20-17 win, confirmed from the broadcast. The Pirates wore white with the white script helmet at Alabama and all purple at home against App State, so this is a third different pants call in three games. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 
