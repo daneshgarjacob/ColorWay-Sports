@@ -213,9 +213,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - UTSA: white expected.
 - [Texas](/stories/texas-uniform-schedule-2026): burnt orange expected, with white pants and the white Longhorn helmet, the only home look Texas owns.
 
-**Arkansas State at TCU**, 8 p.m., ESPNU
-- Arkansas State: white expected.
-- [TCU](/stories/tcu-uniform-schedule-2026): **Announced**, white helmet with the Frogs script, purple jersey, white pants, billed by TCU as a new look, to close non-conference play.
+**Arkansas State at TCU**, 8 p.m., ESPNU. **TCU won 31-7.**
+- Arkansas State: **Confirmed**, black jersey, black pants.
+- [TCU](/stories/tcu-uniform-schedule-2026): **Confirmed**, the announced new look worn as posted: white helmet with the Frogs script, purple jersey, white pants, to close non-conference play.
 
 **Purdue at UCLA (Rose Bowl)**, 11 p.m., BTN
 - Purdue: **Announced**, [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119).

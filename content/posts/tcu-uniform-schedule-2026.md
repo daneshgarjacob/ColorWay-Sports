@@ -70,7 +70,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **September 12 vs. Grambling**, Amon G. Carter Stadium. Home opener after the Week 0 trip. ★ Confirmed from the broadcast: **purple helmet, purple jersey, black pants** against Grambling in white and gold. TCU won 63-7.
 
-**September 19 vs. Arkansas State**, Amon G. Carter Stadium. A new look, announced. TCU teased a ["new look this weekend"](https://x.com/TCUFootball/status/2100626024555753749) and then [posted the full set](https://x.com/TCUFootball/status/2100631176251674710): a white helmet with a Frogs script, purple jersey and white pants, to close the non-conference run. ★ Confirmed on the field from the broadcast, exactly as posted. Arkansas State came in black over black.
+**September 19 vs. Arkansas State**, Amon G. Carter Stadium. A new look, announced. TCU teased a ["new look this weekend"](https://x.com/TCUFootball/status/2100626024555753749) and then [posted the full set](https://x.com/TCUFootball/status/2100631176251674710): a white helmet with a Frogs script, purple jersey and white pants, to close the non-conference run. ★ Confirmed on the field from the broadcast, exactly as posted. Arkansas State came in black over black, and TCU won 31-7.
 
 **September 26 at UCF**, Acrisure Bounce House. White expected.
 
