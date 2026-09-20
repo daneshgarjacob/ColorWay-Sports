@@ -201,7 +201,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [West Virginia](/stories/west-virginia-uniform-schedule-2026): **Confirmed**, navy helmet with the gold Flying WV, white jersey, gold pants. The helmet was the open question, navy or the new gloss white, and it was navy.
 - [Virginia](/stories/virginia-uniform-schedule-2026): **Confirmed**, [white, orange, white](https://x.com/UVAFootball/status/2100345662210527295) exactly as announced: white helmet with the orange and navy center stripe, orange jersey, white pants, as the designated home team.
 
-**Colorado at Northwestern**, 7:30 p.m., FOX. **Northwestern won 41-7.**
+**Colorado at Northwestern**, 7:30 p.m., FOX. **Northwestern won 41-7. **Fresno State at San Jose State came off it too**, from San Jose State's own photography: the Bulldogs in the **red helmet, white jersey and red pants** that their road look at USC had pointed to, the Spartans in **blue over blue**, Fresno State 26-10 to keep the Valley Trophy.**
 - [Colorado](/stories/colorado-uniform-schedule-2026): white expected at Martin Stadium in Evanston, and still unconfirmed. FOX published no frames of either side.
 - [Northwestern](/stories/northwestern-uniform-schedule-2026): purple expected at home, and unconfirmed for the same reason. This was the last game in the temporary lakefront stadium, so it was a candidate for something other than the plain purple set, which is exactly why we are not assuming.
 
@@ -238,12 +238,11 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Still Unconfirmed
 
-Four late games still have no usable photography of at least one team, so we have left those cells unstarred rather than assume. **Colorado at Northwestern came off the list on Sunday**: Northwestern posted its own game photography from the lakefront stadium, and it shows the Wildcats in **purple head to toe** and the Buffaloes in a **full road whiteout**, white helmet with the gold interlocking CU, white jersey, white pants. Northwestern won 41-7.
+Three late games still have no usable photography of at least one team, so we have left those cells unstarred rather than assume. **Colorado at Northwestern came off the list on Sunday**: Northwestern posted its own game photography from the lakefront stadium, and it shows the Wildcats in **purple head to toe** and the Buffaloes in a **full road whiteout**, white helmet with the gold interlocking CU, white jersey, white pants. Northwestern won 41-7.
 
 - **Northern Illinois at [Arizona](/stories/arizona-uniform-schedule-2026)**, Arizona won 42-17. Navy expected, but Arizona asked fans to wear red, which is a crowd theme rather than a uniform call, so we are not assuming.
 - **Virginia Tech at [Maryland](/stories/maryland-uniform-schedule-2026)**, Virginia Tech won 35-26. Maryland announced the one-game **Los Terps** helmet, but we never saw the Terps, so we do not claim it reached the field.
 - **[Marshall](/stories/marshall-uniform-schedule-2026) at Missouri State**, Marshall won 30-24, on CBS Sports Network with no frames published.
-- **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at San Jose State**, Fresno State won 26-10 to keep the Valley Trophy, an FS1 game that fed no photography of either team.
 
 ## What Was Worn Friday and in the Early Window
 

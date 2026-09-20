@@ -56,7 +56,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2099024195917430788"></a></blockquote>
 </div>
 
-**September 19 at San Jose State.** White expected, and still unconfirmed. Fresno State won 26-10 at CEFCU Stadium to keep the Valley Trophy, in an 8 p.m. Pacific kickoff on FS1, and FS1 fed no photography of either team, so we have not seen the uniform and the cell stays unstarred. San Jose State wears blue at home, so the white jersey was always the read. The pants were the only open question, red or white, and the road look at USC pointed to red.
+**September 19 at San Jose State.** ★ Confirmed: **red helmet with the white bulldog, white jersey with red numerals, red pants**. The one open question was the pants, red or white, and the road look at USC had pointed to red. Red it was. FS1 fed no photography of either team, so this took until Sunday and the confirmation came from San Jose State's own game photography rather than the broadcast. Fresno State won 26-10 at CEFCU Stadium to keep the Valley Trophy, with the Spartans in blue over blue.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2099641024654270792"></a></blockquote>
