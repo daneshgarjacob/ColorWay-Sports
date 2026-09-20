@@ -169,7 +169,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, orange helmet, white jersey, orange pants, exactly what the season-long schedule Florida published in August assigned to this date.
 - [Auburn](/stories/auburn-uniform-schedule-2026): **Confirmed**, white helmet with the navy AU, navy jersey, white pants, the home default.
 
-**Murray State at Oklahoma State**, 7 p.m., ESPN+
+**Murray State at Oklahoma State**, 7 p.m., ESPN+. **Oklahoma State won 59-0.**
 - Murray State: white expected.
 - [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026): **Confirmed**, orange helmet with the OSU brand and a black facemask, orange jersey with the 1980s arm stripes, white pants. The orange shell had not appeared in 2026 before Family Weekend, so this is a third distinct combination in three weeks.
 
