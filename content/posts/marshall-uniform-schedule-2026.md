@@ -64,7 +64,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1969619876445897018"></a></blockquote>
 </div>
 
-**September 19 at Missouri State.** ★ Confirmed: **white jersey with green numerals, white pants**. The pants were the open question, since Marshall went green at Penn State and has used white, green and black below the belt in recent seasons, and the answer is white. ESPN published nothing from the CBS Sports Network broadcast, so the confirmation came from Marshall's own highlight reel: a second-quarter frame with the 17-10 scorebug shows the Herd in white over white against Missouri State's maroon. **The helmet is the one piece still unclaimed**, because no Marshall helmet is in the frame, and we are not assuming the green shell. Marshall won 30-24 at Plaster Stadium.
+**September 19 at Missouri State.** ★ Confirmed: **white helmet with the green M and the green and black centre stripe, white jersey with green numerals, white pants**. White head to toe, including the shell, which is the part worth noting because Marshall went green at Penn State and has used white, green and black below the belt in recent seasons. ESPN published nothing from the CBS Sports Network broadcast, so this took two sources on Sunday: Marshall's own highlight reel, with the 17-10 second-quarter scorebug in frame, gave the jersey and pants, and Missouri State's game photography gave the helmet. Marshall won 30-24 at Plaster Stadium.
 
 **September 26 vs. Gardner-Webb.** Green expected. Homecoming at The Joan, 3:30 p.m.
 
