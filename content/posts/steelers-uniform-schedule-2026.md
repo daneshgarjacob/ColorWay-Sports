@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Steelers are bringing back the 1933 throwback and the gold helmet, but they have not named the game yet. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -115,6 +115,10 @@ Same rule. Check whether Pittsburgh is home or away in the grid above. Home is b
 **What uniform did the Steelers wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan; the tracker is the record of what actually went on the field.
+
+**What jerseys do the Steelers have in 2026?**
+
+Four uniforms in the closet, and only two of them have games. The black home set, the black jersey with gold numbers, projects to all eight games at Acrisure Stadium, and Week 1 against Atlanta was the black helmet, black jersey and yellow pants. The white road set projects to eight of the nine road games, including Paris in Week 7, where New Orleans is the designated home team; the exception is Week 10 at Cincinnati, where the Bengals' White Bengal alternate puts Pittsburgh in black on the road. The 1933 throwback, a replica of what the franchise wore in its first season as the Pittsburgh Pirates, is confirmed to return in 2026 with the gold helmet, the only shell other than the black one the team owns, but no game has been named. The all-black Color Rush is the other alternate and it has no confirmed date either; the Sunday night home game against Houston in Week 13 is the only home night game on the calendar. Pittsburgh has published its 2026 game themes and they name no jerseys at all.
 
 **Are the Steelers wearing the 1933 throwback in 2026?**
 

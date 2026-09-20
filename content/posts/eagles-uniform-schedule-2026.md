@@ -119,7 +119,7 @@ Midnight green at the Linc and white on the road. The only exceptions are the th
 
 **What jerseys do the Eagles have in 2026?**
 
-Four. The midnight green primary carries the home schedule, and the only 2026 change to it is an updated wordmark rather than a redesign; the Week 1 opener against Washington was the green helmet, green jersey and white pants. The white road set covers all eight away games, and Week 2 at Tennessee is confirmed as white on white under the midnight green helmet. Kelly Green, the 1990s throwback that returned in 2023, has two confirmed dates, both at home: Week 9 against the Giants on Sunday, November 8, with New York in its Vintage White throwback, and Week 16 against the Texans on Thursday, December 24. The all-black set, worn with the black helmet, gets one game, Week 15 against the Seahawks on Saturday, December 19. Nothing in the closet is new for 2026.
+Four uniforms. The midnight green primary carries the home schedule, and the only 2026 change to it is an updated wordmark rather than a redesign; the Week 1 opener against Washington was the green helmet, green jersey and white pants. The white road set covers all eight away games, and Week 2 at Tennessee is confirmed as white on white under the midnight green helmet. Kelly Green, the 1990s throwback that returned in 2023, has two confirmed dates, both at home: Week 9 against the Giants on Sunday, November 8, with New York in its Vintage White throwback, and Week 16 against the Texans on Thursday, December 24. The all-black set, worn with the black helmet, gets one game, Week 15 against the Seahawks on Saturday, December 19. Nothing in the closet is new for 2026.
 
 **When do the Eagles wear Kelly Green in 2026?**
 

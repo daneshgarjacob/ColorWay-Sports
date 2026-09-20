@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Houston Texans 2026 Uniform Schedule: Battle Red Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -146,6 +146,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Texans wearing next week?**
 
 Deep Steel Blue at NRG and white on the road, unless the week is one of the three confirmed alternate games above.
+
+**What jerseys do the Texans have in 2026?**
+
+Five looks, three of them with confirmed jersey dates. Deep Steel Blue is the base at home and projects to four dates, the Bengals in Week 2, the Ravens in Week 12, the Jaguars in Week 15 and the Titans in Week 18. The white road set projects to all nine away games, including the Week 6 meeting with Jacksonville at Wembley, where the Jaguars are the designated home team. Liberty White opened the season at home against Buffalo on Sunday, September 13, worn under the standard navy helmet with white pants. Battle Red is confirmed for Week 7 against the Giants on Sunday, October 25, with the crowd asked to wear red. HOUSTON/US, the new Rivalries uniform for 2026, debuts against the Colts on Thursday, November 19: Liberty White as the base with H-Town Blue and Battle Red accents, Houston street-tile mosaics through the stripes, nameplate and numbers, a chrome facemask, and the first white helmet in franchise history, carrying a gothic H-Town H with a star and an H-TOWN front bumper. One more white date is set without the set being named, Week 4 against Dallas, where the Cowboys published navy, so Houston is in white at home and has not said whether it is the standard white or Liberty White.
 
 **When do the Texans wear Battle Red in 2026?**
 

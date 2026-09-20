@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-17"
+updatedDate: "2026-09-19"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -139,6 +139,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Titans wearing next week?**
 
 Titans Blue at Nissan Stadium and white on the road, with the Music City uniform confirmed for Week 10 and Week 11 at Dallas still an open question.
+
+**What jerseys do the Titans have in 2026?**
+
+Three, and every one of them is new this season. The rebrand Tennessee unveiled in March produced two: the Titans Blue home set, a lighter blue jersey with TITANS in block across the chest, white numbers outlined in red, a red and navy sleeve stripe, and a white helmet with a white facemask carrying a light blue and red stripe, and the white road set with TENNESSEE across the chest in light blue and light blue numbers outlined in red. Blue projects to all eight home dates and white to eight of the nine road games; the exception is Week 11 at Dallas, where the Cowboys wear white at home, so Tennessee travels in blue. Weeks 1 and 2 are both confirmed as white helmet, blue jersey and white pants, with blue socks in the opener. The third look is Music City, the Rivalries uniform revealed August 25 and confirmed for Week 10 against Jacksonville on Sunday, November 15: a navy jersey with Music City in embroidered script, neon-inspired numbers, guitar-string pant striping, and a Titans Blue helmet with navy tailfin stripes and a circular navy T, the first time the new era has put Titans Blue on a helmet. There is no throwback on the calendar.
 
 **What are the new Titans uniforms for 2026?**
 

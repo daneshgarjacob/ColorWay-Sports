@@ -2,7 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -135,6 +135,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **Are the Saints the home team in Paris?**
 
 Yes. New Orleans is the designated home team for the Week 7 game against Pittsburgh at the Stade de France on October 25, so the Saints wear black and the Steelers wear white.
+
+**What jerseys do the Saints have in 2026?**
+
+Four jerseys and three helmets, all published by the club on September 7. The black home set takes six games at the Superdome, including the Paris game against Pittsburgh in Week 7, where New Orleans is the designated home team, and black also travels once, Week 2 at Baltimore, confirmed as gold helmet, black jersey and black pants, because the Ravens wear their all-white White Noise look at home. The standard white set takes five road games plus the Monday night home game against Atlanta in Week 4. The white alternate, the all-white look with gold numbers, always comes with the white helmet and gets three dates, at the Giants in Week 6, at Cincinnati in Week 12 and at home against Arizona in Week 16. The gold jersey gets exactly one game, Week 9 against Cleveland, under the black helmet, and the black shell appears once more in Week 10 against Carolina over the black jersey. The gold helmet is the base for the other twelve games. The 1967 throwback uniform is not on the 2026 schedule, and pants are a week-of call by the captains.
 
 **When do the Saints wear the gold jerseys in 2026?**
 

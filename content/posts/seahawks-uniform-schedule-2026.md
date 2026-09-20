@@ -3,7 +3,7 @@ topViewsRank: 5
 title: "Seattle Seahawks 2026 Uniform Schedule: Throwback Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -129,6 +129,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Seahawks wearing next week?**
 
 College Navy at Lumen Field and white on the road, unless the week is one of the three confirmed alternate dates.
+
+**What jerseys do the Seahawks have in 2026?**
+
+Four looks with dates, plus one sitting idle. College navy with the action green numerals is the home base and projects to the six home dates not claimed by a confirmed uniform, the Patriots in Week 1, the Chargers in Week 4, the 49ers in Week 5, the Bears in Week 8, the Cardinals in Week 9 and the Giants in Week 14. The white road set projects to seven of the eight away games. Two navy games are confirmed: the Wednesday opener against New England, played in the full monochrome combination, navy helmet over the navy jersey and navy pants, for the Super Bowl LX banner game, and Week 2 at Arizona, navy helmet, navy jersey and wolf grey pants, opposite the Cardinals' desert Rivalries set. The royal blue throwback, the royal and silver set with the green trim and the original logo, gets two primetime home nights, the Chiefs on Sunday, October 25 and the Cowboys on Monday, December 7. The Rivalries uniform gets Christmas Day against the Rams, its second season rather than a debut, with Los Angeles in Midnight Mode for it. The action green alternate has no 2026 date.
 
 **When do the Seahawks wear the royal blue throwback in 2026?**
 

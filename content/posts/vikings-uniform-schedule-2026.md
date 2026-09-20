@@ -3,7 +3,7 @@ title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and th
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -174,6 +174,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Vikings wearing next week?**
 
 Check the grid above. Five different home looks are confirmed for 2026, so the week decides it. Road games are always white.
+
+**What jerseys do the Vikings have in 2026?**
+
+Five looks, and Minnesota attached a jersey to all nine home games. The purple primary over white pants carries five home dates, Miami in Week 4, Buffalo in Week 9, Atlanta in Week 12, Carolina in Week 13 and Chicago in Week 18, and the all-purple version, the same jersey with purple pants rather than a separate uniform, gets one date of its own, the Colts in Week 7. The white road set covers all eight away games. The Classic throwback opens the season against Green Bay on Sunday, September 13: the deeper purple jersey with oversized slab-serif numbers, gold trim and the old sleeve stripes, worn with white pants and the vintage horn helmet with a gray facemask. The new uniform for 2026 is the Rivalries set, revealed August 25 and debuting against Detroit on Sunday, December 20 on Sunday Night Football, a deep Purple Dynasty jersey with ivory and metallic gold, two-tone numbers chiseled to look like runes, Nordic knot trim drawn from the Gjallarhorn, and a matte purple helmet with a gold knot stripe, a gold facemask and SKOL in Viking Age runes on the bumper. The all-white Winter Warrior returns for a third straight season against Washington in Week 16, white jersey and white pants with metallic gray and purple accents under the first all-white helmet in franchise history.
 
 **What uniform do the Vikings wear against the Packers in 2026?**
 
