@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -137,6 +137,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Rams wearing next week?**
 
 Check the grid above; every game has a jersey. The one home game that is not royal or an alternate is Week 15 against Dallas, where the Rams wear white.
+
+**What jerseys do the Rams have in 2026?**
+
+Five, and every one of the 17 games has a jersey after the September 1 release. Primary royal gets five, the Week 1 opener against the 49ers in Melbourne, the Bills in Week 5, the Cardinals in Week 6, the Chargers in Week 8 and the Week 18 finale against Seattle. Primary white gets eight, seven road games plus one home date, Week 15 against Dallas, where Los Angeles wears white on purpose to put the Cowboys in navy. Two of the alternates are new for 2026. Classic Sol, the gold set honoring the 1951 World Champions Rams, worn with the returning multi-striped white pants and the standard royal helmet, gets two primetime home games, the Giants on Monday, September 21 and the Chiefs on Thursday, December 3. Fearsome White, a white jersey with royal-blue numbers, a continuous horn stripe over the shoulder and a new white-horn, white-facemask helmet, gets one, the Packers on Wednesday, November 25. The all-black Midnight Mode Rivalries jersey gets one, Week 16 at Seattle on Friday, December 25, with both teams in their Rivalries sets. Week 1 was the blue helmet, blue jersey and yellow pants.
 
 **When do the Rams wear the Classic Sol jersey in 2026?**
 

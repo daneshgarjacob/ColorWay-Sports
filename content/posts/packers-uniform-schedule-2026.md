@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -128,6 +128,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Packers wearing next week?**
 
 Green at home, white on the road, and the Rivalries uniform in Week 5.
+
+**What jerseys do the Packers have in 2026?**
+
+Four, and Green Bay named them in the 2026 Uniform Lineup it published September 4: 1923, Vintage Green, Classic White and Rivalries. Vintage Green, the green jersey over gold pants, carries the home schedule. Classic White covers six of the eight road games, and the green jersey travels twice because the host took white first, Week 2 at the Jets for their White Out, confirmed as gold helmet, green jersey and gold pants, and Week 12 at the Rams for Fearsome White. The Rivalries set is the new uniform for 2026, revealed August 25 and confirmed for Week 5 against the Bears on Sunday, October 11 at Lambeau Field: a darker hunter green jersey with cream and gold trim, a number font modeled on the lettering of paper currency, striping drawn from Packers stock certificates, an interlocking GB on the chest, cream pants, and a cream helmet with the first matte finish and first matte green facemask in team history. The 1923 Classic, the navy and gold set with the tan leather-look helmet, carries over into 2026 but has no announced date. The all-white alternate of the last two seasons does not appear in the lineup.
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
 

@@ -2,7 +2,7 @@
 title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey Date and This Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -117,6 +117,10 @@ The grid above has every week. Away is white, and every home jersey is confirmed
 **What uniform did the Panthers wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week.
+
+**What jerseys do the Panthers have in 2026?**
+
+Three shirts, and Carolina published the jersey for all 17 games on September 4. Black is the primary home jersey with six dates, Detroit on Sunday night in Week 4, Denver in Week 9, Baltimore in Week 11, Cincinnati in Week 15, Seattle in Week 17 and Atlanta in the Week 18 finale. Panther blue gets three home games, the Week 1 opener against Chicago, Tampa Bay in Week 7 and New Orleans in Week 14. White covers all eight road games. There is no throwback and no fourth set anywhere on the 2026 schedule, so the variety comes from recombining what Carolina already owns, black, silver and white pants under either the black or the silver helmet, and the club announces those closer to each game. Two combinations are confirmed so far: the black helmet with the blue jersey and black pants for the home opener, and the silver helmet with the white jersey and white pants at Atlanta in Week 2.
 
 **Do the Panthers have a primary home jersey?**
 

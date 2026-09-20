@@ -3,7 +3,7 @@ title: "Las Vegas Raiders 2026 Uniform Schedule: Every Jersey, Every Week, and t
 category: NFL
 date: "2026-08-16"
 excerpt: "The Raiders published their 2026 home game themes and named no uniforms at all. Here is the full jersey schedule, week by week, black at home and white on the road."
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -105,6 +105,10 @@ Same rule. Check whether Las Vegas is home or away in the grid above. Home is bl
 **What uniform did the Raiders wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week.
+
+**What jerseys do the Raiders have in 2026?**
+
+Two, and that is the entire wardrobe. The home set is a black jersey with white numbers over silver pants under the silver helmet with the shield-and-swords logo, and it covers all eight games at Allegiant Stadium, Weeks 1, 4, 6, 7, 10, 14, 15 and 16. The road set flips to a white jersey with black numbers over the same silver pants for all nine away games. There is no alternate, no throwback, no Color Rush and no second helmet shell, and nothing new has been announced for 2026. Las Vegas did publish home game themes, from Viva Los Raiders against Kansas City in Week 4 to Raider Nation Appreciation against Tennessee in Week 16, but every one of those is a promotional theme rather than a uniform. Week 1 against Miami was the silver helmet, black jersey and silver pants, which is what almost every home week looks like.
 
 **Do the Raiders have an alternate uniform in 2026?**
 

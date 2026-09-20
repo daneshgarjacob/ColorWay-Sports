@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -152,6 +152,10 @@ White Noise for the home opener, and it is confirmed: white jersey, white pants 
 **What uniform did the Ravens wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week.
+
+**What jerseys do the Ravens have in 2026?**
+
+Five looks. The purple home set covers six games at M&T Bank Stadium, Weeks 4, 7, 14, 16 and 18 plus the Purple Rising night in Week 9, and purple travels once, Week 17 at Cincinnati, because the Bengals wear their White Bengal alternate that night. The white road set covers seven trips, and the opener at Indianapolis was confirmed as black helmet, white jersey and black pants. The new thing for 2026 is the Next Flight collection, launched in April, a full refresh that gave a franchise which had worn essentially one helmet for thirty seasons two more, and all three of its theme games now have dates. White Noise is Week 2 against the Saints on Sunday, September 20, the metallic Purple Rising helmet over a white jersey and white pants at home. Purple Rising is Week 9 against the Jaguars on Thursday, November 5, purple jersey and purple pants under the Purple Rising helmet. Darkness Falls is Week 10 against the Chargers on Monday, November 16, black jersey and black pants under the matte black Darkness helmet with the red-eyed raven. Week 3 against Dallas in Rio is a road game and the one date where purple is genuinely possible, since the Cowboys wear white at home, but nothing has been announced.
 
 **When do the Ravens wear the black uniform in 2026?**
 
