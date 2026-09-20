@@ -181,9 +181,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Eastern Washington: **Confirmed**, white jersey with red and black.
 - [Washington](/stories/washington-huskies-uniform-schedule-2026): **Confirmed**, gold helmet, purple jersey, **white pants** for Community Day. We expected gold pants, the pairing Washington used in each of its first two games, and the Huskies changed below the belt.
 
-**Michigan State at No. 3 Notre Dame**, 7:30 p.m., NBC
-- Michigan State: white expected, as the Megaphone Trophy returns for the first time since 2017.
-- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): navy expected, with gold pants and the gold helmet.
+**Michigan State at No. 3 Notre Dame**, 7:30 p.m., NBC. **Notre Dame won 27-10**, with the Megaphone Trophy back for the first time since 2017.
+- [Michigan State](/stories/michigan-state-uniform-schedule-2026): **Confirmed**, all white, and the helmet is the news: the Spartans wore the white shell with the green Spartan after going to a green helmet with this set on the road last season.
+- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, gold helmet, navy jersey, gold pants, with the SoFi patch on the chest. NBC produced no ESPN frames, so both are confirmed from Notre Dame's own game photography.
 
 **No. 7 LSU at No. 8 Ole Miss**, 7:30 p.m., ABC
 - [LSU](/stories/lsu-uniform-schedule-2026): white expected, with gold pants and the gold helmet.
@@ -193,9 +193,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [BYU](/stories/byu-uniform-schedule-2026): **Announced**, white helmet with white facemask, white jersey with navy numbers, white pants.
 - [Colorado State](/stories/colorado-state-uniform-schedule-2026): green expected in the Rams' first adidas season. The green home set has not been shown publicly yet.
 
-**New Mexico at No. 24 Oklahoma**, 7:30 p.m., ESPN2
-- New Mexico: white expected.
-- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): crimson expected, with the crimson helmet. The Wilkinson throwback came out on a similar September date last season, so watch for a late reveal.
+**New Mexico at No. 24 Oklahoma**, 7:30 p.m., ESPN2. **Oklahoma won 14-6.**
+- New Mexico: **Confirmed**, white jersey, gray pants.
+- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. No throwback appeared, though the Wilkinson set came out on a similar September date last season.
 
 **West Virginia vs. No. 25 Virginia (Bank of America Stadium, Charlotte)**, 7:30 p.m., ACC Network
 - [West Virginia](/stories/west-virginia-uniform-schedule-2026): white expected in the Duke's Mayo Classic, since ESPN lists Virginia as the home team. The helmet could be navy or the new gloss white.

@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-14'
+updatedDate: "2026-09-19"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #1c3557; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SUN SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Shamrock &middot; W 41-13 &middot; A-</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00843D; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -61,7 +61,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **September 12 vs. Rice**, Notre Dame Stadium. Home opener, and the first game in the actual stadium. Navy expected; no broadcast frame was published to confirm it, so the cell stays unstarred. Notre Dame won 52-0.
 
-**September 19 vs. Michigan State**, Notre Dame Stadium. Navy expected.
+**September 19 vs. Michigan State**, Notre Dame Stadium. ★ Confirmed: **gold helmet, navy jersey, gold pants**, the standard home set, with the SoFi patch on the chest. Notre Dame won 27-10 as the Megaphone Trophy game returned for the first time since 2017. Michigan State answered in the **white** helmet with the green Spartan over a white jersey and white pants, which settles the open question on its page, since the Spartans had gone to a green shell with the white set on the road last season. Confirmed from Notre Dame's own game photography, since the NBC broadcast produced no ESPN frames. More: [Michigan State uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
 **September 26 at Purdue**, Ross-Ade Stadium. White expected.
 

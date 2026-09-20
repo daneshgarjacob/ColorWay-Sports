@@ -50,7 +50,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 **September 12 at Michigan**, Ann Arbor. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard Sooners road combination, against Michigan in the navy home set with maize pants under the winged helmet. Oklahoma lost 17-10. The Wolverines' side of the day is on our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026).
 
-**September 19 vs. New Mexico**, Norman. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home set. No throwback appeared, despite the 2025 Wilkinson throwback having come out on a comparable September Saturday against Kent State. New Mexico wore white over gray.
+**September 19 vs. New Mexico**, Norman. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home set. No throwback appeared, despite the 2025 Wilkinson throwback having come out on a comparable September Saturday against Kent State. New Mexico wore white over gray, and Oklahoma won 14-6.
 
 **September 26 at Georgia**, Athens. White expected. SEC opener, on the road, between the hedges. Georgia wears red at home, so the Sooners' white is close to automatic.
 
