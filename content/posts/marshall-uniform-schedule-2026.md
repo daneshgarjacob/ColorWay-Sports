@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1969619876445897018"></a></blockquote>
 </div>
 
-**September 19 at Missouri State.** White expected, and still unconfirmed. Marshall won 30-24 at Plaster Stadium, but the game was a CBS Sports Network broadcast and ESPN published no video frames from it at all, so we have not seen the Herd and the cell stays unstarred. The pants remain the open question: Marshall went green at Penn State and has used white, green and black below the belt in recent seasons.
+**September 19 at Missouri State.** ★ Confirmed: **white jersey with green numerals, white pants**. The pants were the open question, since Marshall went green at Penn State and has used white, green and black below the belt in recent seasons, and the answer is white. ESPN published nothing from the CBS Sports Network broadcast, so the confirmation came from Marshall's own highlight reel: a second-quarter frame with the 17-10 scorebug shows the Herd in white over white against Missouri State's maroon. **The helmet is the one piece still unclaimed**, because no Marshall helmet is in the frame, and we are not assuming the green shell. Marshall won 30-24 at Plaster Stadium.
 
 **September 26 vs. Gardner-Webb.** Green expected. Homecoming at The Joan, 3:30 p.m.
 

@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "Arizona football uniforms for 2026: navy home jerseys, the all-white road set, Sandstorm night vs. TCU, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **September 12 at BYU.** ★ Confirmed from the FOX broadcast and Arizona's game-week reveal: **all white, white helmet included**, with navy numerals outlined in red and the navy and red center stripe on the helmet. BYU wore white helmets over royal jerseys and royal pants, so Provo got a clean white-against-royal game, which we covered on the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026). Arizona led 17-14 at halftime and did not score again. BYU won 28-17 in the Big 12 opener.
 
-**September 19 vs. Northern Illinois.** Navy expected, and still unconfirmed. Arizona won 42-17 in the Hispanic Heritage game, the first meeting ever between the two schools, but the TNT broadcast produced no ESPN frames and no Arizona game photography has surfaced yet, so the cell stays unstarred. Arizona had asked fans to wear red, which is a crowd call rather than a uniform announcement, so an all-red look remains possible and we are not assuming navy. Kickoff was 7:30 p.m. in Tucson, and ESPN lists it under September 20 for the same UTC reason as the opener.
+**September 19 vs. Northern Illinois.** ★ Confirmed: **red jersey**, and the navy we had penciled in never came out. Arizona posted Tre Spivey's postgame interview from the field on Sunday and he is in the red jersey with the white numerals, the navy collar and the navy and white sleeve stripe, which settles the jersey on its own. The team's own win graphic for this game, the one carrying the 42-17 score and the Northern Illinois mark, puts a **white helmet and white pants** with it, so red over white is the full read, with the jersey the piece we have seen in live footage. Arizona had asked fans to wear red for the Hispanic Heritage game and then wore it themselves, which is the part the crowd call did not tell you. TNT produced no ESPN frames, so none of this came from the broadcast. Kickoff was 7:30 p.m. in Tucson, and ESPN lists it under September 20 for the same UTC reason as the opener.
 
 **September 26 at Washington State.** White expected. A non-conference road trip to Martin Stadium in Pullman, on CBS.
 
