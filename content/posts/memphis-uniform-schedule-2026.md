@@ -73,7 +73,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **September 12 at Boise State.** ★ Confirmed: **white helmet, white jersey, gray pants**, the first gray of the season, on the blue turf at Albertsons Stadium. Boise State debuted its hand-painted 40th anniversary helmet with blue over blue and won 38-20. One correction worth making: the Memphis helmet that afternoon was the same white shell the Tigers have worn all year, not a gray one. You can see what the Broncos are wearing week to week on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
 
-**September 19 vs. UT Martin.** ★ Confirmed from the broadcast: **blue helmet, blue jersey, white pants**, the home default rather than anything saved for the occasion. A 6 p.m. Central home date on ESPN+ against an FCS opponent, and UT Martin came in white over navy.
+**September 19 vs. UT Martin.** ★ Confirmed from the broadcast: **blue helmet, blue jersey, white pants**, the home default rather than anything saved for the occasion. A 6 p.m. Central home date on ESPN+ against an FCS opponent, and UT Martin came in white over navy. Memphis won 45-21.
 
 **September 26.** Bye.
 
@@ -111,7 +111,7 @@ Memphis is an easy program to predict at the color level and a hard one to predi
 
 **What jersey is Memphis wearing this week?**
 
-Memphis wore the blue helmet, blue jersey and white pants against UT Martin on Saturday, September 19, confirmed from the broadcast. The Tigers had worn the white helmet, white jersey and gray pants in their last game at Boise State on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore the blue helmet, blue jersey and white pants against UT Martin on Saturday, September 19, a 45-21 win, confirmed from the broadcast. The Tigers had worn the white helmet, white jersey and gray pants in their last game at Boise State on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 
