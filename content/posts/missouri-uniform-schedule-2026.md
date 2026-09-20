@@ -3,7 +3,7 @@ title: "Missouri Uniform Schedule 2026: Every Jersey, and When the Memorial Stad
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-09-11"
+updatedDate: "2026-09-19"
 excerpt: "What Missouri wears every game in 2026, week by week, including the exact date the 100th anniversary throwback jersey hits Faurot Field."
 gradient: "linear-gradient(135deg, #000000 0%, #1b1b1b 55%, #F1B82D 130%)"
 coverImage: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
@@ -67,7 +67,7 @@ The reliable rules:
 
 - **Home games at Faurot Field:** black or gold jerseys, decided game by game.
 - **Road games:** white jerseys, per NCAA visitor rules.
-- **September 19 vs. Troy:** the confirmed 100th anniversary throwback.
+- **September 19 vs. Troy:** the 100th anniversary throwback, now worn and confirmed.
 - **Anthracite** shows up once or twice a year, almost always in a night game.
 
 We update this page as each week's combination is announced, so the grid below always reflects the latest confirmed look.
@@ -79,7 +79,7 @@ Twelve games, seven at Faurot Field, and one bye.
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas-Pine Bluff</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #F1B82D; color: #14140c; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">100th Throwback</div></div>
+  <div style="background: #F1B82D; color: #14140c; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 100th Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
@@ -96,7 +96,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 11 at Kansas**, Lawrence, a Friday night kickoff. Missouri won the Border War 38-21. Kansas wore all red under the white helmet, confirmed from the broadcast; Missouri's white road set is the schedule call, and we star the cell once we can see it in a frame. The Border War renewal on the road. White jersey.
 
-**September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** The one uniform date on this schedule that is locked.
+**September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** ★ Confirmed on the field from the broadcast: **black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants**, exactly the set Missouri unveiled on August 20. The one uniform date on this schedule that was locked, and it held. Troy came in with a white helmet, white jersey and maroon pants.
 
 **September 26 at Mississippi State**, Starkville. White.
 
@@ -144,4 +144,4 @@ Nike. A throwback-inspired Nike merchandise line launched alongside the uniform 
 
 ## The Bottom Line
 
-Missouri's 2026 uniform schedule has one date that matters: September 19 against Troy, when the Memorial Stadium 100th anniversary throwback gets its night. We grade it a B-. The 1970s construction is right and the empty chest is a brave, correct call, but the palette is washed out enough that it reads as a generic vintage set rather than a Missouri one. Around it, expect the usual Columbia rhythm, black or gold at home and white on the road, with each combination announced days out and logged here when it is.
+Missouri's 2026 uniform schedule had one date that mattered: September 19 against Troy, when the Memorial Stadium 100th anniversary throwback got its night, and the Tigers wore it exactly as revealed, black helmet and jersey over old gold pants. We grade it a B-. The 1970s construction is right and the empty chest is a brave, correct call, but the palette is washed out enough that it reads as a generic vintage set rather than a Missouri one. Around it, expect the usual Columbia rhythm, black or gold at home and white on the road, with each combination announced days out and logged here when it is.
