@@ -4,6 +4,7 @@ import { LinkedInIcon, XIcon } from "@/components/FollowCard";
 const navLinks = [
   { label: "Home", href: "/" },
   { label: "Stories", href: "/stories" },
+  { label: "Newsletter", href: "/newsletter" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];

@@ -46,6 +46,29 @@ export async function POST(request: Request) {
       return NextResponse.json({ success: true });
     }
 
+    // Mailchimp refuses to re-add an address that was deleted, archived or
+    // marked as cleaned/compliance through the API, and the generic error we
+    // used to return made that look like a broken form. Say what happened and
+    // give the reader a way through.
+    const needsManualAdd =
+      typeof data.title === "string" &&
+      /forgotten|compliance|invalid resource/i.test(data.title);
+
+    if (needsManualAdd) {
+      console.log(`[EmailCapture] Mailchimp refused ${email}: ${data.title}`);
+      return NextResponse.json(
+        {
+          error:
+            "This address was on the list before and Mailchimp will not add it back automatically. Email contact@colorwaysports.com and we will add you by hand.",
+        },
+        { status: 409 }
+      );
+    }
+
+    console.log(
+      `[EmailCapture] Mailchimp error for ${email}: ${data.title} / ${data.detail}`
+    );
+
     return NextResponse.json(
       { error: "Something went wrong. Try again." },
       { status: 500 }
