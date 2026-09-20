@@ -230,6 +230,20 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - **East Carolina at Old Dominion**, East Carolina won 20-17. [East Carolina](/stories/east-carolina-uniform-schedule-2026) in the white helmet with the purple Jolly Roger, white jersey and purple pants, a third different pants call in three games.
 - **Delaware State at South Florida**, USF won 59-17. [USF](/stories/south-florida-uniform-schedule-2026) in the white helmet, green jersey and green pants, the first green below the belt in 2026.
 - **UT Martin at Memphis**, Memphis won 45-21. [Memphis](/stories/memphis-uniform-schedule-2026) in the blue helmet, blue jersey and white pants.
+- **Charlotte at App State**, App State won 26-21. [App State](/stories/appalachian-state-uniform-schedule-2026) in all black for Black Saturday, with Charlotte in white. Nothing new appeared on the helmet.
+- **South Dakota at Boise State**, Boise State won 38-24. [Boise State](/stories/boise-state-uniform-schedule-2026) in the white helmet, blue jersey and white pants on the blue turf. Fans were asked to wear white; the Broncos stayed in blue.
+- **East Texas A&M at Tulsa**, Tulsa won 42-0. [Tulsa](/stories/tulsa-uniform-schedule-2026) debuted its **red throwback**, gold helmet with the cursive Tulsa script and TULSA'S TEAM on the bumper, red jersey, gold pants.
+- **Ball State at Liberty**, Liberty won 51-15. [Liberty](/stories/liberty-uniform-schedule-2026) in the navy alternate rather than its red home set.
+
+### Still Unconfirmed
+
+Five late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
+
+- **James Madison at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, JMU won 26-13. SDSU announced the **Age of the Jaguar** alternate for this game, black helmet, red jersey, red pants, the first red over red in program history. The CW produced no broadcast frames and neither school had posted game photography, so all we have seen is the September 16 reveal shoot. A reveal is not proof of what was worn, and we will star it when a game photo appears.
+- **Northern Illinois at [Arizona](/stories/arizona-uniform-schedule-2026)**, Arizona won 42-17. Navy expected, but Arizona asked fans to wear red, which is a crowd theme rather than a uniform call, so we are not assuming.
+- **Colorado at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, Northwestern won 41-7. No frames from the FOX broadcast for either side.
+- **Virginia Tech at [Maryland](/stories/maryland-uniform-schedule-2026)**, Virginia Tech won 35-26. Maryland announced the one-game **Los Terps** helmet, but we never saw the Terps, so we do not claim it reached the field.
+- **[Marshall](/stories/marshall-uniform-schedule-2026) at Missouri State**, Marshall won 30-24, on CBS Sports Network with no frames published.
 
 ## What Was Worn Friday and in the Early Window
 
@@ -237,7 +251,7 @@ Every Friday night reveal held. Wake Forest wore Dark Mode head to toe and lost 
 
 ## The Bottom Line
 
-This was billed as a week of standard uniforms with big games, and the standard part did not entirely hold. Of the two real open questions, FSU answered one by putting garnet pants under the gold helmet at Bryant-Denny, and Ole Miss still has GameDay to itself. What the afternoon and night windows actually produced was a run of pants changes nobody announced: South Carolina went garnet head to toe instead of white pants, Washington swapped gold pants for white, East Carolina put purple under the road whites, USF wore green over green for the first time this year, Liberty skipped its red home set for the navy alternate, and Oklahoma State pulled out the orange shell for the first time in 2026. The announced specials all held: Texas Tech's Let's Ride, Utah's Ute Proud helmet, TCU's Frogs script helmet, BYU's navy-trimmed whites, Florida's orange pants and UCF's Knightmode. We update this page as each game finishes.
+This was billed as a week of standard uniforms with big games, and the standard part did not entirely hold. Both of the real open questions got answered, and both went the less obvious way: **Ole Miss came out in the full powder blue set** for LSU on GameDay night, with the end zones painted to match, and won 32-24; and **Florida State put garnet pants under the gold helmet** at Bryant-Denny rather than the traditional gold. What the afternoon and night windows actually produced was a run of pants changes nobody announced: South Carolina went garnet head to toe instead of white pants, Washington swapped gold pants for white, East Carolina put purple under the road whites, USF wore green over green for the first time this year, Liberty skipped its red home set for the navy alternate, and Oklahoma State pulled out the orange shell for the first time in 2026. Two more looks arrived without a reveal at all: **Colorado State's green home set**, which the Rams had never shown publicly in their first adidas season and simply wore against BYU, and **Tulsa's red throwback**, which the program unveiled without naming a game and then put on three days later. The announced specials all held: Texas Tech's Let's Ride, Missouri's centennial throwback, Utah's Ute Proud helmet, TCU's Frogs script helmet, BYU's navy-trimmed whites, Florida's orange pants and UCF's Knightmode. The one we could not verify is San Diego State's Age of the Jaguar, because no photography from that game has surfaced.
 
 ## Frequently Asked Questions
 
@@ -245,9 +259,9 @@ This was billed as a week of standard uniforms with big games, and the standard 
 
 Most top teams are in standard sets for Week 3: home teams in color, visitors in white. Texas Tech (all-black Mahomes "Let's Ride" set against Houston), Missouri (100th anniversary throwback against Troy), Utah (Ute Proud helmet with red jersey and red pants), BYU (white with navy trim at Colorado State) and Florida (orange helmet, white jersey, orange pants at Auburn) have announced their looks. Miami and Kentucky are in all white, Oregon is in all green, and Houston, Louisville, Tennessee, TCU, Virginia, Wake Forest and Purdue have also posted their combinations. Every game is listed above with its announced or expected uniform.
 
-**What is LSU wearing at Ole Miss?**
+**What did LSU and Ole Miss wear?**
 
-LSU is expected in white with gold pants and the gold helmet on Saturday, September 19, because Ole Miss wears color at home. LSU wore white in Oxford last season. Ole Miss had not announced its uniform as of Thursday morning. Red, navy and powder blue are all possible, and the Rebels wore powder blue against LSU in 2025.
+Ole Miss wore the full powder blue set, powder blue helmet, powder blue jersey and white pants, and won 32-24. The Rebels never announced it in game week, and red and navy were both live options, so it was the biggest open uniform question of the weekend. Vaught-Hemingway painted the end zones powder blue to match. LSU wore its road white with gold pants and the gold helmet.
 
 **What is Florida State wearing at Alabama?**
 
