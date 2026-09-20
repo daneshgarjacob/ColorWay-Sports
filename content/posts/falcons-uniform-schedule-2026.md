@@ -2,7 +2,7 @@
 title: "Atlanta Falcons 2026 Uniform Schedule: 1966 Throwback Dates, the New Red Home Set, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -125,6 +125,10 @@ A red home jersey with white numbers and white pants, a low-gloss black helmet w
 **Are the Falcons still wearing black jerseys?**
 
 Not as the primary home uniform. Red took that slot in the 2026 redesign. The black jersey now appears only as part of the 1966 throwback, which pairs it with a red helmet, in Week 7 against the 49ers and Week 13 against the Lions.
+
+**What jerseys do the Falcons have in 2026?**
+
+Three, and Atlanta published the assignment for all 17 games on September 10. The red home jersey is new for 2026, part of the set unveiled April 2, and red is the primary at home again: white numbers and white pants under the low-gloss black helmet with a silver facemask and the winged ATL bumper mark. It goes six times at Mercedes-Benz Stadium plus the Madrid game against Cincinnati in Week 9, where Atlanta is the designated home team, and once on the road, Week 4 at New Orleans, because the Saints published white at home. The white road set covers the other seven road games. The 1966 throwback, a red helmet with the black jersey, white pants and tri-color socks, is confirmed for two home dates, Week 7 against the 49ers on Sunday, October 25 and Week 13 against the Lions on Sunday, December 6, and those are the only two games all season where Atlanta wears black. The red shell is capped at three games by rule, so one throwback date is still open. Week 2 was announced as black helmet, red jersey, white pants.
 
 **When do the Falcons wear the 1966 throwback in 2026?**
 

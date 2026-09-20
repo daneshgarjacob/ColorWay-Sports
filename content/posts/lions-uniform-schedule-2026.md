@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Detroit Lions 2026 Uniform Schedule: Every Jersey, Every Week, and the November 1 Rivalries Debut"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-17"
+updatedDate: "2026-09-19"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -158,6 +158,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Lions wearing next week?**
 
 Look up the week in the schedule above. Blue at home, white on the road, and the Rivalries uniform only in Week 8.
+
+**What jerseys do the Lions have in 2026?**
+
+Three with games on the calendar. The Honolulu blue home set takes eight of the nine home dates, including the Munich game against New England in Week 10, where Detroit is the designated home team, and it travels once, Week 9 at Miami, because the Dolphins wear white at home that day. The white road set covers the other seven trips, and Week 2 at Buffalo is confirmed as the all-white version, white jersey with white pants. The new look for 2026 is the Nike Rivalries uniform, revealed August 25 and worn exactly once, Week 8 against the Vikings on Sunday, November 1: Rivalries Silver, a pale silver jersey with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, black back as a real accent, and a metallic electric-blue helmet with glossy carbon-fiber racing stripes and a carbon-fiber lion. The black alternate is still in the closet with no 2026 date, and no throwback is on the calendar, including Thanksgiving.
 
 **When do the Lions wear their Rivalries uniform in 2026?**
 

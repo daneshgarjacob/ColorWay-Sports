@@ -2,7 +2,7 @@
 title: "New York Giants 2026 Uniform Schedule: Legacy Game Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -139,6 +139,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Giants wearing next week?**
 
 Look up the week in the schedule above. The team has published every game, so there are no open dates left on the calendar.
+
+**What jerseys do the Giants have in 2026?**
+
+Four, and New York published all 17 assignments on September 2. Royal blue with white pants gets eight games, six at home plus two road trips where the host wears white, Week 5 at Washington and Week 17 at Dallas. The standard white set gets five, all on the road. The Legacy Blue throwback, the look the club wore from 1980 through 1999, a navy wordmark helmet with a white facemask, a royal blue jersey with red and white trim and white pants with red and blue stripes, gets two Legacy Games at MetLife Stadium, Week 4 against Arizona on Sunday, October 4, when the Super Bowl XXI team is honored at halftime, and Week 13 against the 49ers on Sunday, December 6. Vintage White, the road twin of that set with blue numbers outlined in red under the same wordmark helmet, gets back-to-back games, Week 9 at Philadelphia on November 8 opposite the Eagles in Kelly Green, and Week 10 against Washington on Thursday, November 12. White pants go with everything, the NY helmet with the standard sets and the wordmark helmet with the throwbacks. Century Red belonged to 2024 and is not on the 2026 schedule.
 
 **When do the Giants wear their throwback uniforms in 2026?**
 

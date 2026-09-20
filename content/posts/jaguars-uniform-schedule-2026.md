@@ -135,6 +135,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 Teal if Jacksonville is the home team, including the two London games, and white otherwise.
 
+**What jerseys do the Jaguars have in 2026?**
+
+Three looks with games, plus two sitting in the closet with no dates. Teal is the base at home, black helmet over the teal jersey with white pants in Week 1, and it projects to the seven home dates not claimed by the Rivalries game, including both London fixtures in Weeks 5 and 6, where Jacksonville is the designated home team. The white road set projects to eight of the nine away games, and the exception is Week 16 at Dallas, where the Cowboys' all-white Color Rush lets the Jaguars travel in teal. Bold City, the new Rivalries uniform for 2026, revealed August 25, is confirmed for Week 8 against the Colts on Sunday, November 1: an alabaster jersey with a gold-outlined cursive Jaguars script, numbers carrying a jaguar-spot print with gold trim and a teal shadow, black pants with an all-over spot print and a teal and gold side stripe, and a gloss teal helmet with a metallic gold facemask and a 904 front bumper. The black alternate and the Prowler throwback are both still in the closet, and neither has an announced 2026 date.
+
 **When do the Jaguars wear their Rivalries uniform in 2026?**
 Once, at home in Week 8 against the Indianapolis Colts on Sunday, November 1. The design was revealed on August 25 as Bold City: an alabaster jersey with a cursive Jaguars script, jaguar-spot numbers and black spotted pants, and a gloss teal helmet with a gold face mask and a 904 bumper. It stays in the rotation for three seasons.
 

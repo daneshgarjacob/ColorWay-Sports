@@ -3,7 +3,7 @@ topViewsRank: 7
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -117,6 +117,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Jets wearing next week?**
 
 Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above.
+
+**What jerseys do the Jets have in 2026?**
+
+Four looks and three helmets. Gotham Green is the home base and projects to the five home dates not claimed by a confirmed uniform, the Browns in Week 5, the Raiders in Week 8, the Bills in Week 10, the Broncos in Week 14 and the Vikings in Week 17. The white road set projects to eight of the nine away games, with Week 15 at Arizona the exception, because the Cardinals wear white at home and that puts New York in green on the road. Three home games are confirmed. The White Out in Week 2 against the Packers on Sunday, September 20 is the new piece for 2026, a white shell with a white facemask worn with the primary white set for the first time. The Classic throwback comes out in Week 7 against the Dolphins on Sunday, October 25, with the white helmet that carries green striping and a gray facemask, a separate shell from the White Out one. The Gotham City Rivalries jersey closes the home schedule in Week 16 against the Patriots on Sunday, December 27, and it came in with the 2025 AFC East wave. Week 1 at Tennessee was the green helmet, white jersey and green pants.
 
 **When do the Jets wear the White Out uniform in 2026?**
 
