@@ -207,7 +207,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 **Kennesaw State at No. 15 Tennessee**, 7:45 p.m., SEC Network
 - Kennesaw State: white expected.
-- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Announced**, ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294), white helmet, orange jersey, white pants. The Smokey Grey Neyland Legacy set is scheduled for Auburn on October 3.
+- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, the ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294) it announced, white helmet with the orange T, orange jersey, white pants. The Smokey Grey Neyland Legacy set is scheduled for Auburn on October 3.
 
 **UTSA at No. 1 Texas**, 8 p.m., SECN+
 - UTSA: white expected.
