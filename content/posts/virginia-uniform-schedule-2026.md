@@ -61,7 +61,7 @@ What that leaves is a wardrobe with real range. Orange, navy and white jerseys, 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2044819050816049639"></a></blockquote>
 </div>
 
-**September 19 vs. West Virginia, Bank of America Stadium, Charlotte.** ★ Confirmed on the field from the broadcast: **white helmet, orange jersey, white pants**, exactly as announced. Virginia posted the combination in the simplest possible language, three emoji in helmet, jersey, pants order, and left it there. West Virginia came in the white jersey over gold pants as the designated visitor in the Duke's Mayo Classic.
+**September 19 vs. West Virginia, Bank of America Stadium, Charlotte.** ★ Confirmed on the field from the broadcast: **white helmet, orange jersey, white pants**, exactly as announced. Virginia posted the combination in the simplest possible language, three emoji in helmet, jersey, pants order, and left it there. West Virginia came in the navy helmet with the gold Flying WV, white jersey and gold pants as the designated visitor in the Duke's Mayo Classic, and won 38-27.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UVAFootball/status/2100345662210527295"></a></blockquote>

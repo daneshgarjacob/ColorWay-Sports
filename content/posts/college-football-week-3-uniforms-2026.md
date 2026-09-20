@@ -197,8 +197,8 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - New Mexico: **Confirmed**, white jersey, gray pants.
 - [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. No throwback appeared, though the Wilkinson set came out on a similar September date last season.
 
-**West Virginia vs. No. 25 Virginia (Bank of America Stadium, Charlotte)**, 7:30 p.m., ACC Network
-- [West Virginia](/stories/west-virginia-uniform-schedule-2026): white expected in the Duke's Mayo Classic, since ESPN lists Virginia as the home team. The helmet could be navy or the new gloss white.
+**West Virginia vs. No. 25 Virginia (Bank of America Stadium, Charlotte)**, 7:30 p.m., ACC Network. **West Virginia won 38-27.**
+- [West Virginia](/stories/west-virginia-uniform-schedule-2026): **Confirmed**, navy helmet with the gold Flying WV, white jersey, gold pants. The helmet was the open question, navy or the new gloss white, and it was navy.
 - Virginia: **Announced**, [white, orange, white](https://x.com/UVAFootball/status/2100345662210527295): white helmet with the orange and navy center stripe, orange jersey, white pants, as the designated home team. West Virginia had not posted its combination as of Thursday morning.
 
 **Colorado at Northwestern**, 7:30 p.m., FOX
