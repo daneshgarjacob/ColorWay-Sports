@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #111111; color: #ffffff; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Portland State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Glyphs / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Glyphs / White / White</div></div>
-  <div style="background: #D22030; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Jaguar Red (Announced)</div></div>
+  <div style="background: #D22030; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Jaguar Red (Announced)</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">L 13-26</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +70,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **September 12 at UCLA.** ★ Confirmed from the broadcast: **the Glyphs helmet, white jersey, white pants**, the standard road look, against UCLA in its blue home jerseys and gold pants at the Rose Bowl. UCLA won 28-10.
 
-**September 19 vs. James Madison.** Age of the Jaguar, announced. **Black helmet, red jersey, red pants**, the first red over red in program history, for a 7 p.m. Pacific kickoff on The CW. James Madison is the visitor and will be in white. We will star the cell once we see it on the field.
+**September 19 vs. James Madison.** Age of the Jaguar, announced: **black helmet, red jersey, red pants**, the first red over red in program history, for a 7 p.m. Pacific kickoff on The CW. James Madison lost none of its unbeaten start, winning 26-13. ⚠️ **The cell stays unstarred, because we have not independently seen the set on the field.** The CW broadcast produced no ESPN frames at any point in the game, and neither San Diego State nor James Madison had posted game photography by the time we checked. Everything we have seen of this uniform is the school's own September 16 reveal shoot, and a reveal is not evidence of what was actually worn, so we are not treating the two as the same thing. We will star it as soon as a game photo turns up.
 
 **September 26 at Toledo.** White expected. The earliest kickoff on the schedule at 9 a.m. Pacific, which is noon in Ohio, on CBS Sports Network. Toledo wears midnight blue at home, so this is a clean contrast.
 
@@ -104,7 +104,7 @@ Two games in, San Diego State has used exactly two combinations and one helmet, 
 
 **What is San Diego State wearing this week?**
 
-San Diego State is wearing the new Age of the Jaguar uniform against James Madison on September 19: a black helmet with the Ocelotl jaguar glyph, a red jersey and red pants. The school announced it on September 16 and says it is the first red jersey and red pants combination in program history.
+San Diego State announced the new Age of the Jaguar uniform for James Madison on September 19: a black helmet with the Ocelotl jaguar glyph, a red jersey and red pants, which the school says is the first red jersey and red pants combination in program history. James Madison won 26-13. We have not independently confirmed the set on the field yet, because The CW broadcast produced no frames and no game photography had been posted when we checked, so everything we have seen is the September 16 reveal shoot rather than the game itself.
 
 **What are San Diego State's football uniforms for 2026?**
 

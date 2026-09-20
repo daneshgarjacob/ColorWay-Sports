@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ That field goal put the Dukes up 10-3 in the second quarter and the purple over 
 
 **September 12 vs. Wagner.** ★ Confirmed from the broadcast: **gold helmet, black jersey, black pants**, the blackout, in an 87-3 win over Wagner that set program records and never got close. Two games into the season and JMU had already gone to the alternate, which is worth remembering when you look at the four home dates still ahead.
 
-**September 19 at San Diego State.** White expected. This is the long one, a 10 p.m. Eastern kickoff at Snapdragon Stadium that lands at 7 p.m. on the West Coast, and JMU flew out early in the week.
+**September 19 at San Diego State.** White expected, and still unconfirmed. James Madison won 26-13 to go 3-0, but The CW broadcast produced no ESPN frames and neither school had posted game photography when we checked, so we have not seen the Dukes and the cell stays unstarred. This was the long one, a 10 p.m. Eastern kickoff at Snapdragon Stadium that lands at 7 p.m. on the West Coast, and JMU flew out early in the week.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/JMUFootball/status/2099509818222420029"></a></blockquote>
