@@ -3,7 +3,7 @@ title: "East Carolina Uniform Schedule 2026: Every Jersey and When the Pirates W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: "2026-09-19"
 excerpt: "What East Carolina wears every game in 2026: the purple home set, the white road set, the black Night of the Boneyard alternate, and every date."
 gradient: "linear-gradient(135deg, #592A8A 0%, #6f3fa3 55%, #FDC82F 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #3b1c5c; border: 2px solid #592A8A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #592A8A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Purple</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC Central</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -58,7 +58,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **September 12 vs. App State.** ★ Confirmed from the ESPNU broadcast: **purple helmet with the pirate logo, purple jersey, purple pants**, all purple for the Paint it Purple home opener at Dowdy-Ficklen Stadium. App State came in all white and won 27-24, its fourth straight win in the series. See our [App State 2026 uniform schedule](/stories/appalachian-state-uniform-schedule-2026).
 
-**September 19 at Old Dominion.** White expected. A 6 p.m. kickoff at S.B. Ballard Stadium in Norfolk, with the Monarchs in their home colors.
+**September 19 at Old Dominion.** ★ Confirmed from the broadcast: **white helmet with the purple Jolly Roger, white jersey, purple pants**, the road whites broken up with purple below the belt rather than the all-white look the Pirates used at Alabama. A 6 p.m. kickoff at S.B. Ballard Stadium in Norfolk, with the Monarchs in their home colors.
 
 **September 26 vs. NC Central.** Purple expected. Family Weekend and Junior Pirate Club Day, 4 p.m. in Greenville.
 
@@ -106,7 +106,7 @@ Two games in, East Carolina has used two helmets, two jerseys and two pant color
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina plays at Old Dominion on Saturday, September 19 at 6 p.m. Eastern, and the white road jersey is expected. The Pirates wore white with the white script helmet at Alabama and all purple at home against App State. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore the white helmet, white jersey and purple pants at Old Dominion on Saturday, September 19, confirmed from the broadcast. The Pirates wore white with the white script helmet at Alabama and all purple at home against App State, so this is a third different pants call in three games. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 

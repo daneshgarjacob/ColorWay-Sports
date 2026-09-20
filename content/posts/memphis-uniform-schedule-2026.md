@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #003087; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gray</div></div>
-  <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UT Martin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UT Martin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -73,7 +73,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **September 12 at Boise State.** ★ Confirmed: **white helmet, white jersey, gray pants**, the first gray of the season, on the blue turf at Albertsons Stadium. Boise State debuted its hand-painted 40th anniversary helmet with blue over blue and won 38-20. One correction worth making: the Memphis helmet that afternoon was the same white shell the Tigers have worn all year, not a gray one. You can see what the Broncos are wearing week to week on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
 
-**September 19 vs. UT Martin.** Blue expected. A 6 p.m. Central home date on ESPN+ against an FCS opponent, and the softest landing spot on the schedule for something different if the equipment room has anything saved.
+**September 19 vs. UT Martin.** ★ Confirmed from the broadcast: **blue helmet, blue jersey, white pants**, the home default rather than anything saved for the occasion. A 6 p.m. Central home date on ESPN+ against an FCS opponent, and UT Martin came in white over navy.
 
 **September 26.** Bye.
 
@@ -111,7 +111,7 @@ Memphis is an easy program to predict at the color level and a hard one to predi
 
 **What jersey is Memphis wearing this week?**
 
-Memphis hosts UT Martin on Saturday, September 19 at 6 p.m. Central on ESPN+, and the blue home jersey is expected. The Tigers wore the white helmet, white jersey and gray pants in their last game at Boise State on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore the blue helmet, blue jersey and white pants against UT Martin on Saturday, September 19, confirmed from the broadcast. The Tigers had worn the white helmet, white jersey and gray pants in their last game at Boise State on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 

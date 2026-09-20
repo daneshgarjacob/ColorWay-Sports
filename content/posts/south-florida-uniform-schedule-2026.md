@@ -3,7 +3,7 @@ title: "South Florida Uniform Schedule 2026: Every Jersey and When the Bulls Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What South Florida wears every game in 2026: the green home set, the white road look, the black alternate, and the Gold Standard helmet, week by week."
 gradient: "linear-gradient(135deg, #006747 0%, #0a7d57 55%, #CFC493 130%)"
 cardStyle: words
@@ -59,7 +59,7 @@ American Conference home teams wear color and visitors wear white, so every road
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #006747; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs FIU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 8 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -76,7 +76,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **September 12 at Army.** ★ Confirmed from the broadcast: **all white**, white helmet, white jersey, white pants, on a noon kickoff at Michie Stadium. It was the standard white shell with the green Bull U and the green facemask, not the Gold Standard, so the new helmet is still sitting in the equipment room. USF won 28-24 in its American Conference opener against an [Army](/stories/army-uniform-schedule-2026) side in the gold helmet with the black jersey and black pants.
 
-**September 19 vs. Delaware State.** Green expected. An FCS visitor on a Saturday night in Tampa, and the last non conference home date before the schedule turns.
+**September 19 vs. Delaware State.** ★ Confirmed from the broadcast: **white helmet, green jersey, green pants**. The green pants are the new piece. USF wore the same white helmet and green jersey over white pants against FIU in the opener, so this is the first green below the belt in 2026. An FCS visitor on a Saturday night in Tampa, and the last non conference home date before the schedule turns.
 
 **September 26 at Bowling Green.** White expected. The first half of a home and home with the Falcons that also brings them to Tampa in 2030.
 
@@ -106,7 +106,7 @@ The story of South Florida's 2026 wardrobe so far is the helmet nobody has seen.
 
 **What jersey is South Florida wearing this week?**
 
-USF hosts Delaware State on September 19 at Raymond James Stadium, and green is expected under the American Conference home color convention. The Bulls wore the white helmet with the green jersey and white pants against FIU in the opener and went all white at Army in Week 2. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USF wore the white helmet, green jersey and green pants against Delaware State on September 19 at Raymond James Stadium, confirmed from the broadcast. The Bulls wore the white helmet with the green jersey and white pants against FIU in the opener and went all white at Army in Week 2, so the green pants are new for 2026. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are South Florida's football uniforms for 2026?**
 
