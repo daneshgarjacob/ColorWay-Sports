@@ -50,12 +50,26 @@ export async function POST(request: Request) {
     // marked as cleaned/compliance through the API, and the generic error we
     // used to return made that look like a broken form. Say what happened and
     // give the reader a way through.
-    const needsManualAdd =
-      typeof data.title === "string" &&
-      /forgotten|compliance|invalid resource/i.test(data.title);
+    const title = typeof data.title === "string" ? data.title : "";
+
+    // "Invalid Resource" is Mailchimp saying the address itself looks fake or
+    // undeliverable, which is a different problem from an address it refuses
+    // to re-add, and it deserves a different sentence.
+    if (/invalid resource/i.test(title)) {
+      console.log(`[EmailCapture] Mailchimp rejected ${email}: ${data.detail}`);
+      return NextResponse.json(
+        {
+          error:
+            "Mailchimp would not accept that address. Check the spelling, or email contact@colorwaysports.com and we will add you by hand.",
+        },
+        { status: 400 }
+      );
+    }
+
+    const needsManualAdd = /forgotten|compliance/i.test(title);
 
     if (needsManualAdd) {
-      console.log(`[EmailCapture] Mailchimp refused ${email}: ${data.title}`);
+      console.log(`[EmailCapture] Mailchimp refused ${email}: ${title}`);
       return NextResponse.json(
         {
           error:
@@ -66,7 +80,7 @@ export async function POST(request: Request) {
     }
 
     console.log(
-      `[EmailCapture] Mailchimp error for ${email}: ${data.title} / ${data.detail}`
+      `[EmailCapture] Mailchimp error for ${email}: ${title} / ${data.detail}`
     );
 
     return NextResponse.json(
