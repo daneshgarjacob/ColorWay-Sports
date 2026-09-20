@@ -148,6 +148,11 @@ Saturday is a 15-game slate and the powder blue is out in force. The Royals wore
 
 ### Washington Nationals at St. Louis Cardinals
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #C41E3A 0%, #ffffff 50%, #14225A 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(196,30,58,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -174,6 +179,9 @@ Saturday is a 15-game slate and the powder blue is out in force. The Royals wore
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to St. Louis. The Cardinals wore the cream alternate, the softest thing anyone put on all night, and the Nationals answered in the navy alternate with the curly W on a red brim. Cream against navy is the pairing that separates best under lights: one side goes warm and almost golden, the other goes flat and deep, and neither one bleeds into the other the way two grays or two whites would. On a Saturday full of powder blue and City Connects, the quietest matchup was the one that read cleanest.
 
 ### Atlanta Braves at Houston Astros
 
