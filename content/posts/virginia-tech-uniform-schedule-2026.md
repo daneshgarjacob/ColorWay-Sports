@@ -3,7 +3,7 @@ title: "Virginia Tech Uniform Schedule 2026: Every Jersey and When the Hokies We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "Virginia Tech uniform schedule 2026: the maroon home jersey, white road set, all-orange alternate, Hokie Stone, and every Hokies game's uniform week by week."
 gradient: "linear-gradient(135deg, #630031 0%, #7a1a45 55%, #CF4420 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **September 12 vs. Old Dominion.** ★ Confirmed by Virginia Tech's reveal and its uniform records: **white helmet, maroon jersey, white pants**, for the Salute to Service game, which was also a White Effect game in the stands. Virginia Tech won 44-21, a year after Old Dominion won 45-26 in Blacksburg. The Hokies had worn this exact combination only once in the previous two seasons, a double-overtime win over California in 2025, and it now stands at 14-3, the best record of any combination the program wears regularly. We did not find a broadcast frame showing the Hokies from this game, so this one rests on the program's own records.
 
-**September 19 at Maryland.** ★ Confirmed: **white helmet with the VT and the maroon and orange striping, white jersey with maroon numerals outlined in orange, white pants**, head to toe white. Virginia Tech won 35-26. The FS1 broadcast produced no ESPN frames, so this is confirmed from Virginia Tech's own gameday photography. A 7:30 p.m. Eastern kickoff at SECU Stadium, and the last non-conference game on the schedule. It is Hispanic Heritage Night in College Park, and Maryland has already announced a one-game "Los Terps" helmet: a red shell with a white stripe outlined in black, a white facemask, and "Los Terps" in script on the sides. With Maryland expected in red jerseys, Virginia Tech in white is the likely matchup. We track the Terps on the [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
+**September 19 at Maryland.** ★ Confirmed: **white helmet with the VT and the maroon and orange striping, white jersey with maroon numerals outlined in orange, white pants**, head to toe white. Virginia Tech won 35-26. The FS1 broadcast produced no ESPN frames, so this is confirmed from Virginia Tech's own gameday photography. A 7:30 p.m. Eastern kickoff at SECU Stadium, and the last non-conference game on the schedule. It was Hispanic Heritage Night in College Park, and Maryland had announced a one-game "Los Terps" helmet for it: a red shell with a white stripe outlined in black, a white facemask, and "Los Terps" in script on the sides. We never saw the Terps, though, because FS1 published nothing, so we are not claiming that helmet reached the field. We track that side on the [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
 
 **September 26 at Boston College.** White expected, since Virginia Tech is the visitor. The ACC opener, a noon kickoff at Alumni Stadium. White over white or white over maroon are the usual road options.
 
