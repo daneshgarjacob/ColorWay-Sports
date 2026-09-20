@@ -217,7 +217,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Arkansas State: **Confirmed**, black jersey, black pants.
 - [TCU](/stories/tcu-uniform-schedule-2026): **Confirmed**, the announced new look worn as posted: white helmet with the Frogs script, purple jersey, white pants, to close non-conference play.
 
-**Purdue at UCLA (Rose Bowl)**, 11 p.m., BTN
+**Purdue at UCLA (Rose Bowl)**, 11 p.m., BTN. **UCLA won 52-38.**
 - [Purdue](/stories/purdue-uniform-schedule-2026): **Confirmed**, the [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119) it announced.
 - [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, blue jersey, gold pants for the Big Ten opener.
 
@@ -237,13 +237,14 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Still Unconfirmed
 
-Five late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
+Six late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
 
 - **James Madison at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, JMU won 26-13. SDSU announced the **Age of the Jaguar** alternate for this game, black helmet, red jersey, red pants, the first red over red in program history. The CW produced no broadcast frames and neither school had posted game photography, so all we have seen is the September 16 reveal shoot. A reveal is not proof of what was worn, and we will star it when a game photo appears.
 - **Northern Illinois at [Arizona](/stories/arizona-uniform-schedule-2026)**, Arizona won 42-17. Navy expected, but Arizona asked fans to wear red, which is a crowd theme rather than a uniform call, so we are not assuming.
 - **Colorado at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, Northwestern won 41-7. No frames from the FOX broadcast for either side.
 - **Virginia Tech at [Maryland](/stories/maryland-uniform-schedule-2026)**, Virginia Tech won 35-26. Maryland announced the one-game **Los Terps** helmet, but we never saw the Terps, so we do not claim it reached the field.
 - **[Marshall](/stories/marshall-uniform-schedule-2026) at Missouri State**, Marshall won 30-24, on CBS Sports Network with no frames published.
+- **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at San Jose State**, Fresno State won 26-10 to keep the Valley Trophy, an FS1 game that fed no photography of either team.
 
 ## What Was Worn Friday and in the Early Window
 

@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2099024195917430788"></a></blockquote>
 </div>
 
-**September 19 at San Jose State.** White expected. This is the Valley Trophy game, an 8 p.m. Pacific kickoff on FS1 at CEFCU Stadium, and San Jose State wears blue at home, so the white jersey is the read. Whether the pants come back red or go white is the only open question, and the road look at USC says red.
+**September 19 at San Jose State.** White expected. This is the Valley Trophy game, an 8 p.m. Pacific kickoff on FS1 at CEFCU Stadium, and San Jose State wears blue at home, so the white jersey is the read. Whether the pants come back red or go white is the only open question, and the road look at USC says red. Fresno State won 26-10 to keep the Valley Trophy, but the game aired on FS1, which fed no photography we could check, so we have not seen either uniform and both cells stay unstarred until we do.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2099641024654270792"></a></blockquote>

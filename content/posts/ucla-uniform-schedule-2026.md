@@ -48,7 +48,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **September 12 vs. San Diego State.** ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**, the full home set for the Rose Bowl opener. San Diego State wore white jerseys and white pants under red helmets. It was scoreless at halftime before UCLA pulled away 28-10, with 21 points in the fourth quarter for the second week in a row.
 
-**September 19 vs. Purdue.** ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**, the standard home set for the Big Ten opener. Purdue answered in the black helmet, white jersey and white pants it had announced. Kickoff was 8 p.m. Pacific, 11 p.m. Eastern, on the Big Ten Network, so ESPN lists it under September 20.
+**September 19 vs. Purdue.** ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**, the standard home set for the Big Ten opener. Purdue answered in the black helmet, white jersey and white pants it had announced. Kickoff was 8 p.m. Pacific, 11 p.m. Eastern, on the Big Ten Network, so ESPN lists it under September 20. UCLA won 52-38.
 
 **September 26 at Maryland.** White expected, as the visitor. A 10:30 a.m. Pacific kickoff in College Park, which is 1:30 p.m. on the East Coast. Last year this matchup was the throwback game at the Rose Bowl. This year UCLA is the road team, so the powder blue alternate is not in play.
 
