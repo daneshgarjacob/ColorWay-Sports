@@ -123,7 +123,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, all white, its first white of the season, the same [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) it posted.
 - [Texas A&M](/stories/texas-am-uniform-schedule-2026): **Confirmed**, maroon jersey over maroon pants, the darker version of the home look rather than the usual white pants. The camo Honor and Support set is scheduled for Arkansas on October 3, not this game.
 
-**Florida State at No. 10 Alabama**, 3:30 p.m., ABC
+**Florida State at No. 10 Alabama**, 3:30 p.m., ABC. **Alabama won 50-36.**
 - [Florida State](/stories/florida-state-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, **garnet pants**. That answers the biggest open uniform question of the week. Gold is the traditional road pairing and FSU went garnet instead, the same call it made at Stanford last season.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet with the player's number, crimson jersey, white pants, the only home look Alabama owns.
 

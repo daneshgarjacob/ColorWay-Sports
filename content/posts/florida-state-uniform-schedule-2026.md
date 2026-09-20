@@ -52,7 +52,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
 
 **September 12.** Bye.
 
-**September 19 at Alabama.** ★ Confirmed from the broadcast: **gold helmet, white jersey, garnet pants**. The pants were the open question all week, since gold is the traditional road pairing, and FSU went with the garnet instead, the same pairing it used at Stanford last season. Alabama wore the standard home set, crimson helmet over crimson jersey and white pants. This is the return game from Alabama's 2025 visit to Tallahassee, which FSU won 31-17. More: [Alabama uniform schedule](/stories/alabama-uniform-schedule-2026).
+**September 19 at Alabama.** ★ Confirmed from the broadcast: **gold helmet, white jersey, garnet pants**. The pants were the open question all week, since gold is the traditional road pairing, and FSU went with the garnet instead, the same pairing it used at Stanford last season. Alabama wore the standard home set, crimson helmet over crimson jersey and white pants, and won 50-36 after FSU had led 14-3. This is the return game from Alabama's 2025 visit to Tallahassee, which FSU won 31-17. More: [Alabama uniform schedule](/stories/alabama-uniform-schedule-2026).
 
 **September 26 vs. Central Arkansas.** Garnet expected. It is Family Weekend and Hall of Fame Weekend at Doak Campbell.
 
@@ -84,7 +84,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Florida State wearing this week?**
 
-Florida State wore the gold helmet, white jersey and garnet pants at Alabama on Saturday, September 19, confirmed from the broadcast. The garnet pants were the open question going in, since gold is the traditional road pairing. Its last game was the traditional home uniform against SMU: gold helmet, garnet jersey and gold pants.
+Florida State wore the gold helmet, white jersey and garnet pants at Alabama on Saturday, September 19, a 50-36 loss, confirmed from the broadcast. The garnet pants were the open question going in, since gold is the traditional road pairing. Its last game was the traditional home uniform against SMU: gold helmet, garnet jersey and gold pants.
 
 **What are Florida State's football uniforms for 2026?**
 

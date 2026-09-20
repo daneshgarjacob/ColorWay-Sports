@@ -52,7 +52,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in blue over white pants. Alabama won 45-17.
 
-**September 19 vs. Florida State**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the marquee non-conference game. Florida State answered in the gold helmet and white jersey over **garnet pants**, which settles the question its own page had open all week. More: [Florida State uniform schedule](/stories/florida-state-uniform-schedule-2026).
+**September 19 vs. Florida State**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the marquee non-conference game. Florida State answered in the gold helmet and white jersey over **garnet pants**, which settles the question its own page had open all week. Alabama won 50-36 after trailing 14-3 and then scoring 23 in the second quarter. More: [Florida State uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
 **September 26 vs. South Carolina**, Tuscaloosa. Crimson.
 
