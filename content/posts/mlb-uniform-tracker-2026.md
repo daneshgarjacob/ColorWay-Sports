@@ -27,9 +27,38 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, September 19
 
-Saturday is a 15-game slate and the powder blue is out in force. The Royals wore the powder blue alternate at PNC Park against the Pirates in the black alternate, and in Arlington the Blue Jays did the same, powder blue against the Rangers in the Tejas City Connect. The Reds went back to the black City Connect against the Cubs in the royal blue alternate, a second straight night in it. St. Louis answered with cream, the Cardinals in the cream alternate against the Nationals in navy, and in Houston the Astros wore home white against the Braves in the navy alternate. Earlier the Tigers wore road gray against the White Sox in home pinstripes, the Brewers stayed in the navy alternate at Baltimore against the Orioles in home white, the Red Sox traded Friday's red for road gray against the Rays in home white, the Phillies wore road gray at Citi Field against the Mets in home white pinstripes, and the Athletics wore road gray in Cleveland against the Guardians in home white. The five west coast games land here as each club is confirmed.
+Saturday is a 15-game slate and the powder blue is out in force. The Royals wore the powder blue alternate at PNC Park against the Pirates in the black alternate, and in Arlington the Blue Jays did the same, powder blue against the Rangers in the Tejas City Connect. The Reds went back to the black City Connect against the Cubs in the royal blue alternate, a second straight night in it. St. Louis answered with cream, the Cardinals in the cream alternate against the Nationals in navy, and in Houston the Astros wore home white against the Braves in the navy alternate. Out west the Marlins brought the black alternate to San Diego against the Padres in home white, and the Mariners wore the navy alternate in Denver against the Rockies in home white. Earlier the Tigers wore road gray against the White Sox in home pinstripes, the Brewers stayed in the navy alternate at Baltimore against the Orioles in home white, the Red Sox traded Friday's red for road gray against the Rays in home white, the Phillies wore road gray at Citi Field against the Mets in home white pinstripes, and the Athletics wore road gray in Cleveland against the Guardians in home white.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### Seattle Mariners at Colorado Rockies
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mariners-navy-alternate.jpg" alt="Seattle Mariners Navy Alternate jersey worn September 19 2026 against the Rockies, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">MARINERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0C2C56; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <p data-cap="Navy Top, Teal Bill" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Navy Top, Teal Bill</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rockies-home-white.jpg" alt="Colorado Rockies Home White jersey worn September 19 2026 against the Mariners, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ROCKIES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p data-cap="Black" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Black</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Washington Nationals at St. Louis Cardinals
 
@@ -239,7 +268,7 @@ Saturday is a 15-game slate and the powder blue is out in force. The Royals wore
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Mets 10, Phillies 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
