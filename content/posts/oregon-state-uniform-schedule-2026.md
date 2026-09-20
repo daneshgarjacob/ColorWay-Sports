@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 **September 12 vs. Texas Tech.** ★ Confirmed from the broadcast: **white helmet, black jersey, black pants**, the full home blackout under the white shell with the orange script on the side. Texas Tech visited in white helmets and white jerseys, so the contrast was total. The Red Raiders won 35-24. Worth flagging: our [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) currently describes the Beavers as black over white, and the frames show black pants, not white.
 
-**September 19 vs. Montana.** Black expected. An 8 p.m. Pacific kickoff at Reser Stadium on USA Network against the FCS Grizzlies, the game Oregon State added to this schedule back in April 2025 when the independent years were still being patched over.
+**September 19 vs. Montana.** Black expected, and still unconfirmed. Oregon State won 52-17, but the USA Network broadcast produced no ESPN frames and no Oregon State game photography had surfaced when we checked, so we have not seen the Beavers and the cell stays unstarred. An 8 p.m. Pacific kickoff at Reser Stadium against the FCS Grizzlies, the game Oregon State added to this schedule back in April 2025 when the independent years were still being patched over.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/1914408094882287680"></a></blockquote>
