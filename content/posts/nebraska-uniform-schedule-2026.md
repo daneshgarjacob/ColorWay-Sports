@@ -50,7 +50,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **September 12 vs. Bowling Green.** ★ Confirmed from the Nebraska Athletics game photos: **white helmet, scarlet jersey, white pants** again, this time under the lights, with first responders leading the Tunnel Walk the day after September 11 and Bowling Green in white. Nebraska led 35-0 at halftime and won 56-7.
 
-**September 19 vs. North Dakota.** ★ Confirmed from the broadcast: **white Block N helmet, scarlet jersey, white pants**, the home default for the Ag Day game against the FCS Fighting Hawks, and the same combination for a third straight week. Nothing special was announced for the night and nothing new appeared. North Dakota came in white over green.
+**September 19 vs. North Dakota.** ★ Confirmed from the broadcast: **white Block N helmet, scarlet jersey, white pants**, the home default for the Ag Day game against the FCS Fighting Hawks, and the same combination for a third straight week. Nothing special was announced for the night and nothing new appeared. North Dakota came in white over green, and Nebraska won 34-7.
 
 **September 26 at Michigan State.** White expected. The Big Ten opener at Spartan Stadium, 4 p.m. Central on BTN, and the first look at the new white road set in a game.
 
@@ -80,7 +80,7 @@ Two games in, Nebraska has done exactly what it said it would: white helmet, sca
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska wore the white Block N helmet, scarlet jersey and white pants against North Dakota on Saturday, September 19, confirmed from the broadcast. It is the same combination the Huskers wore in wins over Ohio and Bowling Green, a third straight week in the home default. Nothing special was announced for the game. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white Block N helmet, scarlet jersey and white pants against North Dakota on Saturday, September 19, a 34-7 win, confirmed from the broadcast. It is the same combination the Huskers wore in wins over Ohio and Bowling Green, a third straight week in the home default. Nothing special was announced for the game. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 

@@ -173,7 +173,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Murray State: white expected.
 - [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026): **Confirmed**, orange helmet with the OSU brand and a black facemask, orange jersey with the 1980s arm stripes, white pants. The orange shell had not appeared in 2026 before Family Weekend, so this is a third distinct combination in three weeks.
 
-**North Dakota at Nebraska**, 7:15 p.m., BTN
+**North Dakota at Nebraska**, 7:15 p.m., BTN. **Nebraska won 34-7.**
 - North Dakota: **Confirmed**, green helmet, white jersey, white pants.
 - [Nebraska](/stories/nebraska-uniform-schedule-2026): **Confirmed**, white Block N helmet, scarlet jersey, white pants, for the Ag Day game, a third straight week in the same set. The black alternate does not arrive until October 31.
 
