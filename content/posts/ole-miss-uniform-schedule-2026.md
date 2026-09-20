@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #14213D; color: #ffffff; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville (Nashville)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Gray</div></div>
   <div style="background: #CE1126; color: #ffffff; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Red / Gray</div></div>
-  <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red, Navy or Powder</div></div>
+  <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -49,7 +49,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **September 12 vs. Charlotte, Oxford.** ★ Confirmed from the broadcast: **navy helmet, red jersey, gray pants**, the home opener at Vaught-Hemingway Stadium with Charlotte in white. Ole Miss won 41-9. That makes two games, two different jerseys, and the same navy helmet and gray pants both times.
 
-**September 19 vs. LSU, Oxford.** Home color expected, with no uniform announced yet. This is the game of the season in Oxford: Lane Kiffin brings LSU back to the program he left at the end of the 2025 regular season, both teams are in the top ten, and College GameDay is in the Grove for the first time since 2021. Kickoff is 6:30 p.m. Central on ABC, and the fan theme is a Stripe Out. Red, navy and powder blue are all live options. When LSU visited in 2025, the Rebels wore the full powder blue set, powder blue helmet, powder blue jersey and white pants, and won 24-19. The LSU side of the matchup is on our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
+**September 19 vs. LSU, Oxford.** ★ **POWDER BLUE.** Confirmed from the broadcast: **powder blue helmet, powder blue jersey, white pants**, the full powder blue set and the same one the Rebels wore the last time LSU came to Oxford. The uniform was never announced, and red, navy and powder blue were all live going in, so this is the answer to the most-asked uniform question of the weekend. This is the game of the season in Oxford: Lane Kiffin brings LSU back to the program he left at the end of the 2025 regular season, both teams are in the top ten, and College GameDay is in the Grove for the first time since 2021. Kickoff was 6:30 p.m. Central on ABC, and the fan theme was a Stripe Out. LSU came in white with gold pants and the gold helmet. The Rebels won that 2025 meeting in this same set, 24-19. The LSU side of the matchup is on our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
 
 **September 26 at Florida, Gainesville.** White expected. SEC road opener at 2:30 p.m. Central, and Florida wears blue at home, so the Rebels travel in white. The powder blue helmet over white jersey and white pants is the road look they used at Kentucky, Georgia and Oklahoma in 2025. Florida's side is on our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
 
@@ -73,7 +73,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 ## The Bottom Line
 
-Two games in, Ole Miss has shown the navy and red jerseys, both under the navy helmet and both over gray pants, which is the most traditional version of this team. The powder blue set, the white road look and a new Realtree helmet are all still to come. The LSU game on September 19 is the obvious stage for a statement uniform, Missouri on October 17 is the likeliest camo date, and every road trip projects white. The grid above has every game, and we star each cell as the uniform is confirmed.
+Three games in, Ole Miss has shown the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. The white road look and a new Realtree helmet are still to come. Missouri on October 17 is the likeliest camo date, and every road trip projects white. The grid above has every game, and we star each cell as the uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
 
@@ -81,7 +81,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss hosts LSU on Saturday, September 19, and has not announced its uniform yet. As the home team, the Rebels are expected in a color jersey, red, navy or powder blue, with LSU in white. Last week against Charlotte they wore the navy helmet, red jersey and gray pants. We update the grid above as soon as the combination is known.
+Ole Miss wore the full powder blue set against LSU on Saturday, September 19: powder blue helmet, powder blue jersey and white pants, confirmed from the broadcast. The Rebels never announced it in game week, and red and navy were both live options, so powder blue was the answer to the weekend's biggest open uniform question. LSU was in white with gold pants. Last week against Charlotte Ole Miss wore the navy helmet, red jersey and gray pants.
 
 **What are Ole Miss's football uniforms for 2026?**
 
