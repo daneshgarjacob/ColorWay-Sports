@@ -3,7 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns own three alternate looks and have announced dates for none of them. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -118,6 +118,10 @@ Same rule. Check whether Cleveland is home or away in the grid above. Home is br
 **What uniform did the Browns wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan; the tracker is the record of what actually went on the field.
+
+**What jerseys do the Browns have in 2026?**
+
+Cleveland has not published a 2026 uniform schedule, so the honest answer is two sets with games on the grid and two alternate routes with no dates at all. The base is the brown home jersey under the orange helmet, with white or brown pants, projected to the eight games at Huntington Bank Field, and the white road jersey under the same helmet, projected to all nine away games. Beyond that the closet holds Alpha Dawg, the all-brown look built around a brown alternate helmet rather than the orange one, and the white alternate helmet introduced in 2023, worn with the white jersey and orange pants. Neither has an announced date, and the league caps alternate helmets at three games a season. The 1946 throwback has already been worn the maximum number of times the league permits without a waiver, so it cannot come back in 2026 unless the NFL grants one. Nothing in the closet is new for 2026, and Week 1 at Jacksonville was the orange helmet, white jersey and white pants.
 
 **When do the Browns wear the Alpha Dawg uniform in 2026?**
 

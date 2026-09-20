@@ -2,7 +2,7 @@
 title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -115,6 +115,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the 49ers wearing next week?**
 
 Scarlet at Levi's or white on the road, unless the week is one of the four special dates above.
+
+**What jerseys do the 49ers have in 2026?**
+
+Four looks. The scarlet home jersey carries most of the season, the white road set covers the away games, and two alternates break the pattern. The 1994 throwbacks get three dates, the red version at Dallas in Week 10 and at home against the Eagles in Week 17, plus the white version at the Chargers in Week 15. The all-black Rivalries uniform, a black helmet with a gold facemask and two red stripes, black jersey and black pants, red numbers outlined in gold and a gold Faithful wordmark, gets one, Week 14 at home against the Rams. Both alternates are returning looks rather than new-for-2026 designs, and the Week 1 uniform in Melbourne was the gold helmet, white jersey and gold pants.
 
 **When do the 49ers wear the 1994 throwbacks in 2026?**
 

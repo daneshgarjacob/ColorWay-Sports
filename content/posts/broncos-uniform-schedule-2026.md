@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -206,6 +206,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Broncos wearing next week?**
 
 Look up the week number in the schedule above. Denver announced every jersey for the full season, so unlike most teams there is no guessing involved.
+
+**What jerseys do the Broncos have in 2026?**
+
+Four, and Denver published the jersey for all 17 games before the season started. Sunset Orange is the base home set and gets four dates, Jacksonville in Week 2, Kansas City in Week 8, the Raiders in Week 11 and Miami in Week 13. Summit White does all the travelling, nine games, and the Week 1 opener at Kansas City is the full monochrome version, white helmet, white jersey and white pants. Midnight Navy gets two primetime home dates, the Rams in Week 3 and the Bills on Christmas in Week 16. The Orange Crush throwback, the royal blue helmet with the white D over the orange jersey and white pants, gets two, Seattle in Week 6 on Thursday night and the Chargers in Week 18. Nothing here is new for 2026, since Midnight Navy arrived with the Mile High Collection ahead of the 2024 season, and Denver has used its full four-game alternate allotment. Helmets, pants and socks for the other weeks are confirmed the week of the game.
 
 **When do the Broncos wear the throwback uniform in 2026?**
 

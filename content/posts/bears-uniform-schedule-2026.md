@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -141,6 +141,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Bears wearing next week?**
 
 Look up the week in the schedule above. Navy at home, white on the road except the Week 14 trip to Miami, and the Rivalries uniform only in Week 16.
+
+**What jerseys do the Bears have in 2026?**
+
+Three with games on the calendar. The navy home jersey with the burnt orange numbers draws nine dates at Soldier Field, and the white road set covers seven trips. The one new uniform for 2026 is the Nike Rivalries set, revealed August 25 and worn exactly once, Christmas Day at home against the Packers: a navy jersey with 1948-era burnt orange numbers trimmed in white, 1930s three-stripe sleeve trim, the football-shaped GSH patch for George Halas, orange pants and an orange helmet carrying a revamped BEARS wordmark. The one road game where Chicago stays in navy is Week 14 at Miami, because the Dolphins have confirmed their white throwback and two teams cannot both wear white. The orange alternate is still in the closet but has no 2026 date announced.
 
 **When do the Bears wear their Rivalries uniform in 2026?**
 
