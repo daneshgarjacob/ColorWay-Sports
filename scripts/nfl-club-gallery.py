@@ -39,8 +39,10 @@ def get(u):
     return urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=25).read().decode("utf-8", "ignore")
 
 GOOD = re.compile(r"game|action|gallery|top-pics|best-of", re.I)
-# Arrivals are players in suits; pregame/warmup can precede a uniform change; the rest are not games.
-BAD = re.compile(r"cheer|arrival|watch-party|pregame|warm-?up|practice|fan-photos|mascot|archive|"
+# "arriv" not "arrival": the Browns name theirs browns-ARRIVE-for-gameday-vs-buccaneers, which slipped
+# through on 2026-09-20 and downloaded 57 photos of players in suits. Arrivals are players in suits;
+# pregame/warmup can precede a uniform change; the rest are not games.
+BAD = re.compile(r"cheer|arriv|watch-party|pregame|warm-?up|practice|fan-photos|mascot|archive|"
                  r"record-books|community|through-the-years|auditions|training-camp|backgrounds", re.I)
 
 idx = get(f"https://www.{host}/photos/")
