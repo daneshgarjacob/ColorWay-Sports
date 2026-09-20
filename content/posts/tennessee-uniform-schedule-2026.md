@@ -87,7 +87,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **September 12 at Georgia Tech**, Atlanta. Road, and the only non-conference road trip. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set, against Georgia Tech in gold over white. Tennessee won 45-24.
 
-**September 19 vs. Kennesaw State**, Knoxville. ★ Confirmed on the field from the broadcast: **white helmet with the orange T, orange jersey, white pants**, exactly the ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294) Tennessee posted in game week. Kennesaw State answered in white over gold. The Smokey Grey Neyland Legacy set is still scheduled for Auburn on October 3.
+**September 19 vs. Kennesaw State**, Knoxville. ★ Confirmed on the field from the broadcast: **white helmet with the orange T, orange jersey, white pants**, exactly the ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294) Tennessee posted in game week. Kennesaw State answered in white over gold, and Tennessee won 42-9. The Smokey Grey Neyland Legacy set is still scheduled for Auburn on October 3.
 
 **September 26 vs. Texas**, Knoxville. The first big one at Neyland. Orange, with Texas in white.
 
