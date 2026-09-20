@@ -228,7 +228,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - **Georgia State at UCF**, UCF won 44-30. [UCF](/stories/ucf-uniform-schedule-2026) wore the announced Knightmode head to toe, black helmet, black jersey with gold numerals, black pants.
 - **UConn at Southern Miss**, UConn won 48-20. [UConn](/stories/uconn-uniform-schedule-2026) in all white, its first road game and first game out of navy this season.
 - **East Carolina at Old Dominion**, East Carolina won 20-17. [East Carolina](/stories/east-carolina-uniform-schedule-2026) in the white helmet with the purple Jolly Roger, white jersey and purple pants, a third different pants call in three games.
-- **Delaware State at South Florida**. [USF](/stories/south-florida-uniform-schedule-2026) in the white helmet, green jersey and green pants, the first green below the belt in 2026.
+- **Delaware State at South Florida**, USF won 59-17. [USF](/stories/south-florida-uniform-schedule-2026) in the white helmet, green jersey and green pants, the first green below the belt in 2026.
 - **UT Martin at Memphis**, Memphis won 45-21. [Memphis](/stories/memphis-uniform-schedule-2026) in the blue helmet, blue jersey and white pants.
 
 ## What Was Worn Friday and in the Early Window

@@ -76,7 +76,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **September 12 at Army.** ★ Confirmed from the broadcast: **all white**, white helmet, white jersey, white pants, on a noon kickoff at Michie Stadium. It was the standard white shell with the green Bull U and the green facemask, not the Gold Standard, so the new helmet is still sitting in the equipment room. USF won 28-24 in its American Conference opener against an [Army](/stories/army-uniform-schedule-2026) side in the gold helmet with the black jersey and black pants.
 
-**September 19 vs. Delaware State.** ★ Confirmed from the broadcast: **white helmet, green jersey, green pants**. The green pants are the new piece. USF wore the same white helmet and green jersey over white pants against FIU in the opener, so this is the first green below the belt in 2026. An FCS visitor on a Saturday night in Tampa, and the last non conference home date before the schedule turns.
+**September 19 vs. Delaware State.** ★ Confirmed from the broadcast: **white helmet, green jersey, green pants**. The green pants are the new piece. USF wore the same white helmet and green jersey over white pants against FIU in the opener, so this is the first green below the belt in 2026. An FCS visitor on a Saturday night in Tampa, and the last non conference home date before the schedule turns. USF won 59-17.
 
 **September 26 at Bowling Green.** White expected. The first half of a home and home with the Falcons that also brings them to Tampa in 2030.
 
@@ -106,7 +106,7 @@ The story of South Florida's 2026 wardrobe so far is the helmet nobody has seen.
 
 **What jersey is South Florida wearing this week?**
 
-USF wore the white helmet, green jersey and green pants against Delaware State on September 19 at Raymond James Stadium, confirmed from the broadcast. The Bulls wore the white helmet with the green jersey and white pants against FIU in the opener and went all white at Army in Week 2, so the green pants are new for 2026. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USF wore the white helmet, green jersey and green pants against Delaware State on September 19 at Raymond James Stadium, a 59-17 win, confirmed from the broadcast. The Bulls wore the white helmet with the green jersey and white pants against FIU in the opener and went all white at Army in Week 2, so the green pants are new for 2026. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are South Florida's football uniforms for 2026?**
 
