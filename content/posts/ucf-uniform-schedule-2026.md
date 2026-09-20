@@ -49,7 +49,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
 
 **September 12 at Pittsburgh.** ★ Confirmed: **white helmet, white jersey, white pants**, the full Lightmode set in the rain at Acrisure Stadium against a Pitt team in blue. Lightmode exists because the Knightmode reaction was so strong that the staff went looking for a road version, and the reveal pulled roughly half a million views when it first ran. This one did not go UCF's way. Pitt won 12-7, the Knights' only loss so far.
 
-**September 19 vs. Georgia State.** ★ Knightmode, announced and now confirmed from the broadcast: **black helmet, black jersey with gold numerals, black pants**, head to toe black for Family Weekend at the Acrisure Bounce House. UCF teased it Wednesday night with a single frame of a black helmet on a throne of swords.
+**September 19 vs. Georgia State.** ★ Knightmode, announced and now confirmed from the broadcast: **black helmet, black jersey with gold numerals, black pants**, head to toe black for Family Weekend at the Acrisure Bounce House, in a 44-30 win. UCF teased it Wednesday night with a single frame of a black helmet on a throne of swords.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2100410212410638512"></a></blockquote>
@@ -101,7 +101,7 @@ Two games in, UCF has already shown two of its three helmets and both jerseys, w
 
 **What jersey is UCF wearing this week?**
 
-UCF wore Knightmode against Georgia State on Saturday, September 19: black helmet, black jersey and black pants, announced by the team on Thursday and confirmed on the field. It was Family Weekend at the Acrisure Bounce House with a 7 p.m. Eastern kickoff, and Georgia State was in white.
+UCF wore Knightmode against Georgia State on Saturday, September 19: black helmet, black jersey and black pants, announced by the team on Thursday and confirmed on the field. It was Family Weekend at the Acrisure Bounce House with a 7 p.m. Eastern kickoff, Georgia State was in white, and UCF won 44-30.
 
 **What are UCF's football uniforms for 2026?**
 
