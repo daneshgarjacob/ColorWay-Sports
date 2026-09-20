@@ -226,7 +226,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - **Temple at Toledo**, Toledo won 49-48 in overtime. [Toledo](/stories/toledo-uniform-schedule-2026) in the midnight blue helmet with the gold facemask, midnight blue jersey and gold pants; [Temple](/stories/temple-uniform-schedule-2026) in all white.
 - **Ball State at Liberty**, Liberty won 51-15. [Liberty](/stories/liberty-uniform-schedule-2026) skipped the red home set for the navy alternate, navy helmet with the red LU over a navy jersey and white pants, with Ball State in white over red.
 - **Georgia State at UCF**. [UCF](/stories/ucf-uniform-schedule-2026) wore the announced Knightmode head to toe, black helmet, black jersey with gold numerals, black pants.
-- **UConn at Southern Miss**. [UConn](/stories/uconn-uniform-schedule-2026) in all white, its first road game and first game out of navy this season.
+- **UConn at Southern Miss**, UConn won 48-20. [UConn](/stories/uconn-uniform-schedule-2026) in all white, its first road game and first game out of navy this season.
 - **East Carolina at Old Dominion**, East Carolina won 20-17. [East Carolina](/stories/east-carolina-uniform-schedule-2026) in the white helmet with the purple Jolly Roger, white jersey and purple pants, a third different pants call in three games.
 - **Delaware State at South Florida**. [USF](/stories/south-florida-uniform-schedule-2026) in the white helmet, green jersey and green pants, the first green below the belt in 2026.
 - **UT Martin at Memphis**, Memphis won 45-21. [Memphis](/stories/memphis-uniform-schedule-2026) in the blue helmet, blue jersey and white pants.

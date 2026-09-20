@@ -64,7 +64,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants, so e
 
 **September 12 vs. Maryland.** ★ Confirmed from the CBS Sports Network broadcast: **navy helmet, navy jersey, navy pants** again. Maryland answered in a red helmet, white jersey and red pants and won 38-14, ending UConn's eight-game home winning streak. We track the other side on our [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
 
-**September 19 at Southern Miss.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, head to toe white for the first road game of the season at M.M. Roberts Stadium in Hattiesburg. It is the first look at the road set in 2026 after three straight games in navy, and Southern Miss wore black over gold.
+**September 19 at Southern Miss.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, head to toe white for the first road game of the season at M.M. Roberts Stadium in Hattiesburg. It is the first look at the road set in 2026 after three straight games in navy, and Southern Miss wore black over gold. UConn won 48-20.
 
 **September 26 at Miami (OH).** White expected. A 3:30 p.m. kickoff at Yager Stadium in Oxford against a RedHawks team in red at home, so this is the one date on the schedule where a red jersey could never work.
 
@@ -104,7 +104,7 @@ Two games in, UConn has worn the same thing twice: navy helmet, navy jersey, nav
 
 **What jersey is UConn wearing this week?**
 
-UConn wore all white at Southern Miss on Saturday, September 19, a white helmet over a white jersey and white pants in the Huskies' first road game of the season, confirmed from the broadcast. UConn had worn the navy helmet, navy jersey and navy pants in both home games before it. The week-by-week grid above lists every game with the expected uniform.
+UConn wore all white at Southern Miss on Saturday, September 19, a white helmet over a white jersey and white pants in the Huskies' first road game of the season, a 48-20 win, confirmed from the broadcast. UConn had worn the navy helmet, navy jersey and navy pants in both home games before it. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 
