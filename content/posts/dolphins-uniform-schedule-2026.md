@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -116,6 +116,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Dolphins wearing next week?**
 
 Aqua in Miami and white on the trip, unless it is Week 14 or Week 17, which are the two confirmed alternate dates.
+
+**What jerseys do the Dolphins have in 2026?**
+
+Four looks, two of them confirmed for dates. The aqua home jersey with the orange numbers projects to five of the eight games at Hard Rock Stadium, the Chiefs in Week 3, the Bengals in Week 5, the Patriots in Week 8, the Jets in Week 12 and the Chargers in Week 16. The white road set projects to all nine away games plus one home date, Week 9 against the Lions, where the uniform schedule Miami distributes to credentialed photographers has the standard white jersey at home. The white 1966 throwback, the leaping dolphin helmet with the aqua and orange striping from the championship years, is confirmed for Week 14 against the Bears on Sunday, December 13. The near-black Dark Water Rivalries uniform is confirmed for Week 17 against the Bills on Sunday, January 3, the final home game of the year. Nothing is new for 2026, since Dark Water came in with the 2025 AFC East Rivalries wave, and Miami runs no third color, no rotating alternates and no helmet program.
 
 **When do the Dolphins wear their throwback uniform in 2026?**
 

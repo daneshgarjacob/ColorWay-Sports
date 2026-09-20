@@ -2,7 +2,7 @@
 title: "Los Angeles Chargers 2026 Uniform Schedule: Powder Blue Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -127,6 +127,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Chargers wearing next week?**
 
 Powder blue at home and white away, unless the week lands on one of the four confirmed alternate dates in the grid above.
+
+**What jerseys do the Chargers have in 2026?**
+
+Four, and Los Angeles published the jersey and the pants for all 17 games on September 1. Powder blue is the home identity and gets five dates, with all three pant colors underneath: white pants against the Cardinals in Week 1, powder pants against the Broncos in Week 5 and the Jets in Week 11, and gold pants against the Raiders in Week 2 and the 49ers in Week 15. The white road set covers eight of the nine away games and splits the same three ways, powder pants at Seattle, Baltimore and Denver, all white at Buffalo, the Rams and Las Vegas, and gold pants at Kansas City and Miami. The all-navy Super Chargers set, a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, gets three home dates, the Texans in Week 9, the Patriots in Week 12 on Sunday night and the Chiefs in Week 17. The gold Charger Power jersey, introduced in 2025 as a nod to the Air Coryell era, gets one road game with white pants, Week 13 at Tampa Bay, which is only possible because the Buccaneers are wearing their white creamsicle throwback. Neither alternate is new for 2026, and Week 1 was the white helmet, powder blue jersey and white pants.
 
 **When do the Chargers wear the Super Chargers navy uniform in 2026?**
 

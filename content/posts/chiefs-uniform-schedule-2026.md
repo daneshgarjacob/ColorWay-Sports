@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -90,6 +90,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Chiefs wearing next week?**
 
 Red at home, white on the road. Eight home games in red, nine road games in white, and no alternates to complicate it.
+
+**What jerseys do the Chiefs have in 2026?**
+
+Two, and that is the whole closet. The red home set, red helmet and red jersey with the gold-outlined numbers over white pants, covers all eight games at Arrowhead, from the Week 1 Monday night opener against Denver to the Week 18 finale against the Raiders. The white road set, white jersey over red pants with the same red helmet, covers all nine away games. There is no new alternate for 2026, no throwback and no alternate helmet, and Kansas City has announced no plans for any of them. The one deviation the Chiefs allow themselves is red pants under the red jersey, a full monochrome home look that uses the same red jersey rather than a separate one and has no announced date. If a third uniform ever arrives it will most likely come through the Rivalries program, which has not yet reached the AFC West.
 
 **What uniform do the Chiefs wear at home in 2026?**
 

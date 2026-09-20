@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -112,6 +112,10 @@ Tampa Bay has not published week-by-week uniform assignments for 2026, so there 
 **What is the Buccaneers' uniform schedule for 2026?**
 
 Tampa Bay has confirmed two special uniform games so far: the creamsicle throwbacks on December 6 against the Chargers, and the all-pewter set on December 20 against the Saints. The rest of the season's assignments have not been published.
+
+**What jerseys do the Buccaneers have in 2026?**
+
+Four looks. Tampa Bay has not published a full week-by-week uniform schedule, so the base is a projection: the red home jersey at Raymond James Stadium and the white road set, both under the pewter helmet. Two specials are confirmed and dated. The creamsicle throwback, the white shell with Bucco Bruce on the side and the orange the franchise wore from 1976 through 1996, comes out in Week 13 against the Chargers on Sunday, December 6. The all-pewter set follows in Week 15 against the Saints on Sunday, December 20 at 1:00 p.m.: a pewter jersey with a red Buccaneers wordmark, red pirate ship logos on each shoulder, matching pewter pants with red and white side stripes, and solid pewter socks. Pewter itself is not new to Tampa Bay, but the full head-to-toe version with a game attached is the new addition for 2026. Week 1 at Cincinnati was the pewter helmet with the white jersey.
 
 **When will the Buccaneers wear the pewter uniforms?**
 

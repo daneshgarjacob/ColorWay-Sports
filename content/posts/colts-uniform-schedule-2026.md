@@ -2,7 +2,7 @@
 title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-19"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -139,6 +139,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Colts wearing next week?**
 
 The standard royal blue at home or white on the road, unless the week is one of the three alternate dates above.
+
+**What jerseys do the Colts have in 2026?**
+
+Four jerseys. The royal blue home set takes the Lucas Oil Stadium dates that are not claimed by an alternate, and the white road set covers the away games, including Week 4 against Washington in London, where Indianapolis is the designated home team but wears white because the Commanders have published burgundy. Three alternate games are confirmed, all at home. Anvil Strike, the new Rivalries uniform for 2026, revealed August 25, debuts in Week 3 against the Texans on September 27: an Anvil Steel anthracite jersey and pants with royal blue numbers, an updated shoulder stripe with horseshoe-inspired grommets, the horseshoe stitched on the jersey in silver metallic for the first time in team history, and a metallic royal blue helmet with a silver horseshoe. The White Out, which is the white jersey worn with white pants, returns in Week 9 against the Cowboys on November 8. Indiana Nights, the black helmet over the black and deep blue set with the Indiana C logo, returns for a fourth season in Week 16 against the Bengals. Week 1 against Baltimore was the white helmet, blue jersey and white pants.
 
 **When do the Colts wear alternate uniforms in 2026?**
 

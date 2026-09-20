@@ -2,7 +2,7 @@
 title: "Washington Commanders 2026 Uniform Schedule: Black Hail Raiser Dates and This Week's Jersey"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-09-17"
+updatedDate: "2026-09-19"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -99,6 +99,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Commanders wearing next week?**
 
 Burgundy more often than not. Check the grid above, because Washington wears burgundy on a few road trips too, which is where most guesses go wrong.
+
+**What jerseys do the Commanders have in 2026?**
+
+Three, and all 17 games are assigned. The white jersey is the new primary in 2026 after being worn only three times as an alternate in 2025, and it gets six games under the burgundy helmet with the gold spear-W: at the Eagles in Week 1, home against the Giants in Week 5, then at the 49ers, Cardinals, Titans and Jaguars. The burgundy heritage jersey works the hardest at nine games, including the home opener against Seattle in Week 3, the London game against the Colts in Week 4 and the Week 18 finale against Dallas. The all-black Hail Raiser alternate, a blacked-out jersey and pants with burgundy and gold striping and its own black helmet carrying the spear-W alternate logo, comes out twice, both at home, Week 11 against the Bengals and Week 15 against the Falcons. Two combinations are confirmed so far: the burgundy helmet over a white jersey and white pants in Week 1, and burgundy helmet, burgundy jersey, white pants and burgundy socks in Week 2 at Dallas. Pants for the other weeks are a week-of call.
 
 **What is the Washington Commanders' primary jersey in 2026?**
 

@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: Color Rush Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-17"
+updatedDate: "2026-09-19"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -134,6 +134,10 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 **What are the Cowboys wearing next week?**
 
 Find the week in the grid above. The team published all seventeen assignments on September 2, so the answer is no longer a projection.
+
+**What jerseys do the Cowboys have in 2026?**
+
+Four looks, and Dallas published all 17 assignments itself on September 2. The standard white set, silver helmet and white jersey over the blue-tinted silver pants, draws ten games, six at home and four on the road. The navy jersey gets three, all road trips to hosts that wear white at home: Week 4 at Houston, Week 9 at Indianapolis and Week 15 at the Rams. The Arctic White Color Rush is a separate uniform rather than a pants swap, a white helmet with the current star and a white facemask, a white jersey with navy shoulders carrying the twin stars, navy block numbers, and white pants with twin navy stripes, and it gets three dates, Week 2 against Washington, Week 7 at Philadelphia on Monday night and Week 16 against Jacksonville. The Thanksgiving Classic, the 1960s throwback that pairs the white helmet with the navy jersey and white pants, is official for a fifth straight year, Week 12 against the Eagles on Thursday, November 26. Dallas owns one white shell and swaps the decals, the current star for the Color Rush games and the vintage star with a gray facemask for Thanksgiving.
 
 **Why do the Cowboys wear white at home?**
 
