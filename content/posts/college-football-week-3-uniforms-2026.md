@@ -238,10 +238,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Still Unconfirmed
 
-Five late games produced no usable photography of at least one team, so we have left those cells unstarred rather than assume:
+Four late games still have no usable photography of at least one team, so we have left those cells unstarred rather than assume. **Colorado at Northwestern came off the list on Sunday**: Northwestern posted its own game photography from the lakefront stadium, and it shows the Wildcats in **purple head to toe** and the Buffaloes in a **full road whiteout**, white helmet with the gold interlocking CU, white jersey, white pants. Northwestern won 41-7.
 
 - **Northern Illinois at [Arizona](/stories/arizona-uniform-schedule-2026)**, Arizona won 42-17. Navy expected, but Arizona asked fans to wear red, which is a crowd theme rather than a uniform call, so we are not assuming.
-- **Colorado at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, Northwestern won 41-7. No frames from the FOX broadcast for either side.
 - **Virginia Tech at [Maryland](/stories/maryland-uniform-schedule-2026)**, Virginia Tech won 35-26. Maryland announced the one-game **Los Terps** helmet, but we never saw the Terps, so we do not claim it reached the field.
 - **[Marshall](/stories/marshall-uniform-schedule-2026) at Missouri State**, Marshall won 30-24, on CBS Sports Network with no frames published.
 - **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at San Jose State**, Fresno State won 26-10 to keep the Valley Trophy, an FS1 game that fed no photography of either team.
