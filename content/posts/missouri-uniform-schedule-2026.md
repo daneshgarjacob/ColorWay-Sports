@@ -96,7 +96,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 11 at Kansas**, Lawrence, a Friday night kickoff. Missouri won the Border War 38-21. Kansas wore all red under the white helmet, confirmed from the broadcast; Missouri's white road set is the schedule call, and we star the cell once we can see it in a frame. The Border War renewal on the road. White jersey.
 
-**September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** ★ Confirmed on the field from the broadcast: **black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants**, exactly the set Missouri unveiled on August 20. The one uniform date on this schedule that was locked, and it held. Troy came in with a white helmet, white jersey and maroon pants.
+**September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** ★ Confirmed on the field from the broadcast: **black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants**, exactly the set Missouri unveiled on August 20. The one uniform date on this schedule that was locked, and it held. Troy came in with a white helmet, white jersey and maroon pants. Missouri won 27-17, scoring all 24 of its second-quarter points after trailing 10-0.
 
 **September 26 at Mississippi State**, Starkville. White.
 
@@ -144,4 +144,4 @@ Nike. A throwback-inspired Nike merchandise line launched alongside the uniform 
 
 ## The Bottom Line
 
-Missouri's 2026 uniform schedule had one date that mattered: September 19 against Troy, when the Memorial Stadium 100th anniversary throwback got its night, and the Tigers wore it exactly as revealed, black helmet and jersey over old gold pants. We grade it a B-. The 1970s construction is right and the empty chest is a brave, correct call, but the palette is washed out enough that it reads as a generic vintage set rather than a Missouri one. Around it, expect the usual Columbia rhythm, black or gold at home and white on the road, with each combination announced days out and logged here when it is.
+Missouri's 2026 uniform schedule had one date that mattered: September 19 against Troy, when the Memorial Stadium 100th anniversary throwback got its night, and the Tigers wore it exactly as revealed, black helmet and jersey over old gold pants, in a 27-17 win. We grade it a B-. The 1970s construction is right and the empty chest is a brave, correct call, but the palette is washed out enough that it reads as a generic vintage set rather than a Missouri one. Around it, expect the usual Columbia rhythm, black or gold at home and white on the road, with each combination announced days out and logged here when it is.

@@ -161,9 +161,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 ### Saturday, September 19: Night Window
 
-**Troy at No. 20 Missouri**, 7 p.m., SECN+
-- Troy: white expected.
-- [Missouri](/stories/missouri-uniform-schedule-2026): **Announced**, the Memorial Stadium 100th anniversary throwback: black helmet with the block M, black jersey with no chest wordmark, old gold pants.
+**Troy at No. 20 Missouri**, 7 p.m., SECN+. **Missouri won 27-17.**
+- Troy: **Confirmed**, white helmet, white jersey, maroon pants.
+- [Missouri](/stories/missouri-uniform-schedule-2026): **Confirmed**, the Memorial Stadium 100th anniversary throwback worn exactly as unveiled: black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants.
 
 **Florida at Auburn**, 7 p.m., ESPN
 - [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, orange helmet, white jersey, orange pants, exactly what the season-long schedule Florida published in August assigned to this date.
