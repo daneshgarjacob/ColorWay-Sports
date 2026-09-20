@@ -218,8 +218,8 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [TCU](/stories/tcu-uniform-schedule-2026): **Confirmed**, the announced new look worn as posted: white helmet with the Frogs script, purple jersey, white pants, to close non-conference play.
 
 **Purdue at UCLA (Rose Bowl)**, 11 p.m., BTN
-- Purdue: **Announced**, [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119).
-- [UCLA](/stories/ucla-uniform-schedule-2026): blue expected, with gold pants and the gold helmet, for the Big Ten opener.
+- [Purdue](/stories/purdue-uniform-schedule-2026): **Confirmed**, the [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119) it announced.
+- [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, blue jersey, gold pants for the Big Ten opener.
 
 ### Also Confirmed in the Late Window
 
