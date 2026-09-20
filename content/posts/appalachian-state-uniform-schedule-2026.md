@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maine</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #1A1A1A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Black Saturday)</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Homecoming)</div></div>
@@ -64,7 +64,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **September 12 at East Carolina.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the road whiteout against a purple home team, which is the best color clash App State gets outside the Sun Belt. The Mountaineers won 27-24 in a noon kickoff at Dowdy-Ficklen Stadium and are now 4-0 in the FBS series against the Pirates. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
-**September 19 vs. Charlotte.** Black expected. This is Black Saturday (Under the Lights), a 6 p.m. kickoff the school has been promoting since April and a game that is already sold out. Fans are being asked to wear black, App State wears black at home by default, and a night game in Boone is the single most likely slot on this schedule for something new. Watch the helmet more than the jersey.
+**September 19 vs. Charlotte.** ★ Confirmed from the broadcast: **black helmet with the gold mark, black jersey with gold numerals, black pants**, head to toe black for Black Saturday (Under the Lights). Nothing new appeared, so the helmet we were watching for turned out to be the standard black shell. The game was delayed and moved to a 9 p.m. Eastern kickoff, and App State won 26-21 after Charlotte scored twice in the fourth. Charlotte wore white.
 
 **September 26.** White expected at NC State. A 7:30 p.m. Eastern kickoff on ESPNU in Raleigh, and the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026) has the Wolfpack in red.
 
@@ -98,7 +98,7 @@ App State is not a uniform program in the Oregon sense and does not want to be. 
 
 **What is App State wearing this week?**
 
-Black is expected for Saturday, September 19 against Charlotte. The game is Black Saturday (Under the Lights) at Kidd Brewer Stadium, a 6 p.m. kickoff that is already sold out, and App State has worn the black helmet, black jersey and black pants combination in every home game so far this season.
+App State wore all black against Charlotte on Saturday, September 19: black helmet, black jersey and black pants, confirmed from the broadcast, in a 26-21 win. The game was Black Saturday (Under the Lights) at Kidd Brewer Stadium, delayed to a 9 p.m. Eastern kickoff, and it makes three straight home games in the same all-black combination.
 
 **What are App State's football uniforms for 2026?**
 
