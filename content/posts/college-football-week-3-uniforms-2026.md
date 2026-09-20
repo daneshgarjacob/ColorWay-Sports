@@ -155,7 +155,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Louisiana Tech: white jersey, royal blue pants.
 - [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, green helmet carrying the Helmet of Hope decal and a gold ribbon for the childhood cancer awareness game, gold jersey and gold pants to match Gold Rush in the stands.
 
-**Mississippi State at South Carolina**, 4:15 p.m., SEC Network
+**Mississippi State at South Carolina**, 4:15 p.m., SEC Network. **Mississippi State won 41-34** after trailing 13-0.
 - [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, maroon helmet, white jersey, white pants. The shell is the detail: we had the road set down with a white helmet, and the Bulldogs went maroon.
 - [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet head to toe. Garnet helmet, garnet jersey and garnet pants for the SEC opener, not the white pants we expected. Last week the Gamecocks wore black with a one-night Cocky helmet.
 

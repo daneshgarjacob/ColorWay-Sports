@@ -48,7 +48,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **September 12 at Minnesota.** ★ Confirmed from the broadcast: **white helmet with the maroon interlocking MSU, white jersey, white pants**, the full white-out that paid tribute to the 2000 Snow Bowl team last season, now worn as the plain road look. Minnesota was in gold jerseys over maroon pants at Huntington Bank Stadium, so the Big Ten crowd got a white-on-gold game. Mississippi State won 38-13.
 
-**September 19 at South Carolina.** ★ Confirmed from the broadcast: **maroon helmet, white jersey, white pants**. Note the shell. We had described the road set as a white helmet with the maroon interlocking MSU, and what went on the field in Columbia was the reverse, a maroon helmet with the mark in white and a white facemask. South Carolina wore garnet head to toe, per our [South Carolina 2026 uniform schedule](/stories/south-carolina-uniform-schedule-2026).
+**September 19 at South Carolina.** ★ Confirmed from the broadcast: **maroon helmet, white jersey, white pants**. Note the shell. We had described the road set as a white helmet with the maroon interlocking MSU, and what went on the field in Columbia was the reverse, a maroon helmet with the mark in white and a white facemask. South Carolina wore garnet head to toe, per our [South Carolina 2026 uniform schedule](/stories/south-carolina-uniform-schedule-2026). Mississippi State won 41-34 after trailing 13-0, its first SEC road win of the season.
 
 **September 26 vs. Missouri.** Maroon expected. The first SEC home game, a 7:45 p.m. Eastern kickoff in Starkville. Missouri comes in wearing white, as our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) has it. A Saturday night SEC home game is the kind of stage the black set was saved for last year, so this is one to watch.
 
@@ -78,7 +78,7 @@ The interlocking MSU won. What started as a fan campaign became a 2025 throwback
 
 **What jersey is Mississippi State wearing this week?**
 
-Mississippi State wore the maroon helmet, white jersey and white pants at South Carolina on Saturday, September 19, confirmed from the broadcast, with South Carolina in garnet head to toe. The maroon shell is the detail to note: the Bulldogs pair the white road jersey with either helmet, and in Columbia it was maroon rather than white. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
+Mississippi State wore the maroon helmet, white jersey and white pants at South Carolina on Saturday, September 19, a 41-34 win, confirmed from the broadcast, with South Carolina in garnet head to toe. The maroon shell is the detail to note: the Bulldogs pair the white road jersey with either helmet, and in Columbia it was maroon rather than white. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
 
 **What are Mississippi State's football uniforms for 2026?**
 

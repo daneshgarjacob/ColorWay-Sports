@@ -48,7 +48,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **September 12 vs. Towson.** ★ Confirmed from the broadcast: **glossy black helmet with Cocky on both sides, black jersey, white pants**. The black jersey carried GAMECOCKS across the chest with garnet and white sleeve stripes. The Cocky decal honored the mascot's induction into the Mascot Hall of Fame, and beat reporter Wes Mitchell reported it was a one-night helmet, not a new piece of the rotation. So the new gloss shell debuted with a logo it will not wear again. South Carolina won 45-9 in the 7 p.m. Eastern kickoff.
 
-**September 19 vs. Mississippi State.** ★ Confirmed from the broadcast: **garnet helmet, garnet jersey, garnet pants**, head to toe garnet for the SEC opener at Williams-Brice. We had garnet down for the jersey and white for the pants, and the Gamecocks went garnet below the belt too. Mississippi State came in with the maroon helmet over a white jersey and white pants. More: [Mississippi State uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
+**September 19 vs. Mississippi State.** ★ Confirmed from the broadcast: **garnet helmet, garnet jersey, garnet pants**, head to toe garnet for the SEC opener at Williams-Brice. We had garnet down for the jersey and white for the pants, and the Gamecocks went garnet below the belt too. Mississippi State came in with the maroon helmet over a white jersey and white pants, and won 41-34 after South Carolina had led 13-0. More: [Mississippi State uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
 **September 26 at Alabama.** White expected. Alabama wears crimson at home, so South Carolina goes white at Bryant-Denny Stadium for a 7 p.m. Eastern kickoff. The Tide side is on our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -78,7 +78,7 @@ Two games into the Nike era, South Carolina has shown two very different looks: 
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore all garnet against Mississippi State on Saturday, September 19: garnet helmet, garnet jersey and garnet pants for the SEC opener, confirmed from the broadcast. Last week against Towson the Gamecocks wore a glossy black helmet with Cocky on the sides, black jersey and white pants. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore all garnet against Mississippi State on Saturday, September 19: garnet helmet, garnet jersey and garnet pants for the SEC opener, confirmed from the broadcast, in a 41-34 loss. Last week against Towson the Gamecocks wore a glossy black helmet with Cocky on the sides, black jersey and white pants. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 
