@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-19"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **September 12 vs. Weber State.** ★ Confirmed from the broadcast: **black helmet with the gold buffalo, classic black jersey with gold and white sleeve stripes and white numerals, white pants**. The home opener at Folsom Field was billed as Buffs Wear White, but that theme was for the crowd, not the team. Colorado won 52-21.
 
-**September 19 at Northwestern.** White expected. The Buffaloes visit Martin Stadium, Northwestern's temporary lakefront venue in Evanston, for a 6:30 p.m. Central kickoff on FOX. Northwestern wears purple at home, so the road white is the natural call.
+**September 19 at Northwestern.** White expected, and still unconfirmed. The Buffaloes lost 41-7 at Martin Stadium, Northwestern's temporary lakefront venue in Evanston, but the FOX broadcast produced no ESPN frames and no game photography has surfaced yet, so we have not seen Colorado and the cell stays unstarred. Northwestern wears purple at home, so the road white remains the natural call.
 
 **September 26 at Baylor.** White expected. Big 12 opener at McLane Stadium in Waco, 11 a.m. Central. Baylor dresses in green or gold at home, which leaves Colorado in white. The Bears' plans are tracked on our [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026).
 

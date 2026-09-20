@@ -3,7 +3,7 @@ title: "Northwestern Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-19"
 excerpt: "What Northwestern wears every game in 2026: the purple home set, the white road look, the new Purple Gothics alternate, and every game week by week."
 gradient: "linear-gradient(135deg, #4E2A84 0%, #6b3fa0 55%, #B6862C 130%)"
 cardStyle: words
@@ -76,7 +76,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 
 **September 12.** Bye. An off week in Week 2 is unusual, and it gives Northwestern two full weeks before Colorado.
 
-**September 19 vs. Colorado.** Purple expected. A 7:30 p.m. Eastern kickoff on FOX and the last game at the lakefront stadium, with Deion Sanders bringing Colorado to Evanston. Colorado is in white as the visitor. Our [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026) has the Buffaloes' side, and this is the home date most likely to get something other than the plain purple set, because it is the last night in the temporary building.
+**September 19 vs. Colorado.** Purple expected, and still unconfirmed. Northwestern won 41-7 in the last game at the lakefront stadium, with Deion Sanders bringing Colorado to Evanston, but the FOX broadcast produced no ESPN frames and no game photography has surfaced yet, so the cell stays unstarred until we can actually see the Wildcats. Colorado was expected in white as the visitor. Our [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026) has the Buffaloes' side, and this is the home date most likely to get something other than the plain purple set, because it is the last night in the temporary building.
 
 **September 25 at Indiana.** White expected. The Big Ten and FOX flexed this one to Friday night, 8 p.m. Eastern in Bloomington, against the defending national champion. Indiana wears crimson at home and has not lost there in three seasons, so Northwestern is in white. The open question is the helmet and the pants, since the Wildcats have paired the white jersey with the purple helmet, the white helmet, white pants and purple pants all within the last calendar year.
 
