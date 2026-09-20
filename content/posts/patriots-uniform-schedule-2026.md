@@ -2,7 +2,7 @@
 title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-20"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -70,6 +70,8 @@ The second is **Week 14 against the Vikings on Thursday night, December 10**. Th
 ## Navy at Gillette (5 Games)
 
 Weeks 2, 6, 9, 17 and 18. Three of the eight home games now belong to alternates, which is a healthy ratio for a team whose alternates are better than its base set. The current navy uniform is a cleaner, more conservative thing than the Flying Elvis-era sets that preceded it, and it is better for it, though it remains one of the harder uniforms in the league to tell apart from a generic navy at distance.
+
+**Week 2 against the Steelers answered the pants, and the answer is SILVER.** Confirmed from the broadcast on Sunday, September 20: the silver helmet, the navy jersey and the light silver pants with the navy and red stripe, so the only navy below the belt was the socks. That matters for the rest of this grid, because the navy home set is not automatically navy over navy. New England won 20-3 with Pittsburgh in the black helmet, white road jersey and gold pants.
 
 ## White on the Road (9 Games)
 
