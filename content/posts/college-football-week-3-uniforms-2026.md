@@ -95,7 +95,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 
 **Arizona State vs. Kansas (Wembley Stadium, London)**, noon, FS1. **Arizona State won 24-17.**
 - [Arizona State](/stories/arizona-state-uniform-schedule-2026): **Confirmed**, the gold Sparky helmet with the maroon facemask and a white jersey, as the designated road team. The Sun Devils announced maroon pants with it, and no broadcast frame we have shows the pants.
-- [Kansas](/stories/kansas-uniform-schedule-2026): blue jersey, as the designated home team in the first college football game at Wembley. The helmet and pants did not turn up in any frame we have. adidas is the event partner and supplies both teams.
+- [Kansas](/stories/kansas-uniform-schedule-2026): **Confirmed**, blue on blue on blue. Blue helmet with the Jayhawk and a red facemask, blue jersey reading KANSAS across the chest, blue pants, as the designated home team in the first college football game at Wembley. adidas is the event partner and supplies both teams.
 
 **Mercer at Georgia Tech**, noon, ACC Network. **Georgia Tech won 44-11.**
 - Mercer: white.
@@ -124,8 +124,8 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Texas A&M](/stories/texas-am-uniform-schedule-2026): **Confirmed**, maroon jersey over maroon pants, the darker version of the home look rather than the usual white pants. The camo Honor and Support set is scheduled for Arkansas on October 3, not this game.
 
 **Florida State at No. 10 Alabama**, 3:30 p.m., ABC
-- [Florida State](/stories/florida-state-uniform-schedule-2026): white expected, with the gold helmet. Pants to be announced.
-- [Alabama](/stories/alabama-uniform-schedule-2026): crimson expected, with white pants and the crimson helmet.
+- [Florida State](/stories/florida-state-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, **garnet pants**. That answers the biggest open uniform question of the week. Gold is the traditional road pairing and FSU went garnet instead, the same call it made at Stanford last season.
+- [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet with the player's number, crimson jersey, white pants, the only home look Alabama owns.
 
 **No. 12 USC at Rutgers**, 3:30 p.m., CBS. **USC won 42-35.**
 - [USC](/stories/usc-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, gold pants.
@@ -156,8 +156,8 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, green helmet carrying the Helmet of Hope decal and a gold ribbon for the childhood cancer awareness game, gold jersey and gold pants to match Gold Rush in the stands.
 
 **Mississippi State at South Carolina**, 4:15 p.m., SEC Network
-- Mississippi State: white expected.
-- [South Carolina](/stories/south-carolina-uniform-schedule-2026): garnet expected, with white pants, for the SEC opener. Last week the Gamecocks wore black with a one-night Cocky helmet.
+- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, maroon helmet, white jersey, white pants. The shell is the detail: we had the road set down with a white helmet, and the Bulldogs went maroon.
+- [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet head to toe. Garnet helmet, garnet jersey and garnet pants for the SEC opener, not the white pants we expected. Last week the Gamecocks wore black with a one-night Cocky helmet.
 
 ### Saturday, September 19: Night Window
 
@@ -166,20 +166,20 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Missouri](/stories/missouri-uniform-schedule-2026): **Announced**, the Memorial Stadium 100th anniversary throwback: black helmet with the block M, black jersey with no chest wordmark, old gold pants.
 
 **Florida at Auburn**, 7 p.m., ESPN
-- [Florida](/stories/florida-uniform-schedule-2026): **Announced**, orange helmet, white jersey, orange pants.
-- [Auburn](/stories/auburn-uniform-schedule-2026): navy expected, with white pants and the white helmet.
+- [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, orange helmet, white jersey, orange pants, exactly what the season-long schedule Florida published in August assigned to this date.
+- [Auburn](/stories/auburn-uniform-schedule-2026): **Confirmed**, white helmet with the navy AU, navy jersey, white pants, the home default.
 
 **Murray State at Oklahoma State**, 7 p.m., ESPN+
 - Murray State: white expected.
-- [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026): orange expected for Family Weekend and the first night game of the Eric Morris era. Oklahoma State usually announces its combination during game week.
+- [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026): **Confirmed**, orange helmet with the OSU brand and a black facemask, orange jersey with the 1980s arm stripes, white pants. The orange shell had not appeared in 2026 before Family Weekend, so this is a third distinct combination in three weeks.
 
 **North Dakota at Nebraska**, 7:15 p.m., BTN
-- North Dakota: white expected.
-- [Nebraska](/stories/nebraska-uniform-schedule-2026): scarlet expected, with white pants and the white Block N helmet, for the Ag Day game. The black alternate does not arrive until October 31.
+- North Dakota: **Confirmed**, green helmet, white jersey, white pants.
+- [Nebraska](/stories/nebraska-uniform-schedule-2026): **Confirmed**, white Block N helmet, scarlet jersey, white pants, for the Ag Day game, a third straight week in the same set. The black alternate does not arrive until October 31.
 
 **Eastern Washington at Washington**, 7:15 p.m., BTN
-- Eastern Washington: white expected.
-- [Washington](/stories/washington-huskies-uniform-schedule-2026): purple expected, with gold pants and the gold helmet, for Community Day.
+- Eastern Washington: **Confirmed**, white jersey with red and black.
+- [Washington](/stories/washington-huskies-uniform-schedule-2026): **Confirmed**, gold helmet, purple jersey, **white pants** for Community Day. We expected gold pants, the pairing Washington used in each of its first two games, and the Huskies changed below the belt.
 
 **Michigan State at No. 3 Notre Dame**, 7:30 p.m., NBC
 - Michigan State: white expected, as the Megaphone Trophy returns for the first time since 2017.
@@ -221,13 +221,23 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Purdue: **Announced**, [black helmet, white jersey, white pants](https://x.com/BoilerFootball/status/2100602605697139119).
 - [UCLA](/stories/ucla-uniform-schedule-2026): blue expected, with gold pants and the gold helmet, for the Big Ten opener.
 
+### Also Confirmed in the Late Window
+
+- **Temple at Toledo**, Toledo won 49-48 in overtime. [Toledo](/stories/toledo-uniform-schedule-2026) in the midnight blue helmet with the gold facemask, midnight blue jersey and gold pants; [Temple](/stories/temple-uniform-schedule-2026) in all white.
+- **Ball State at Liberty**, Liberty won 51-15. [Liberty](/stories/liberty-uniform-schedule-2026) skipped the red home set for the navy alternate, navy helmet with the red LU over a navy jersey and white pants, with Ball State in white over red.
+- **Georgia State at UCF**. [UCF](/stories/ucf-uniform-schedule-2026) wore the announced Knightmode head to toe, black helmet, black jersey with gold numerals, black pants.
+- **UConn at Southern Miss**. [UConn](/stories/uconn-uniform-schedule-2026) in all white, its first road game and first game out of navy this season.
+- **East Carolina at Old Dominion**. [East Carolina](/stories/east-carolina-uniform-schedule-2026) in the white helmet with the purple Jolly Roger, white jersey and purple pants, a third different pants call in three games.
+- **Delaware State at South Florida**. [USF](/stories/south-florida-uniform-schedule-2026) in the white helmet, green jersey and green pants, the first green below the belt in 2026.
+- **UT Martin at Memphis**. [Memphis](/stories/memphis-uniform-schedule-2026) in the blue helmet, blue jersey and white pants.
+
 ## What Was Worn Friday and in the Early Window
 
-Every Friday night reveal held. Wake Forest wore Dark Mode head to toe and lost 33-20 to Miami in all white, Texas Tech wore the Mahomes Let's Ride blackout and beat Houston 28-26 with the Cougars in their Icy Whites, and Oregon wore all green in an 84-0 win over Portland State. Saturday's early window went to form: Georgia in white with silver britches at Arkansas in cardinal, Penn State in navy over white, Kansas State in purple over silver, Ohio State in the core scarlet and silver set with none of its three alternates, and North Carolina in Carolina blue pants at Clemson in orange over white before the weather stopped that one. Arizona State brought the gold Sparky helmet and a white jersey to Wembley and won 24-17.
+Every Friday night reveal held. Wake Forest wore Dark Mode head to toe and lost 33-20 to Miami in all white, Texas Tech wore the Mahomes Let's Ride blackout and beat Houston 28-26 with the Cougars in their Icy Whites, and Oregon wore all green in an 84-0 win over Portland State. Saturday's early window went to form: Georgia in white with silver britches at Arkansas in cardinal, Penn State in navy over white, Kansas State in purple over silver, Ohio State in the core scarlet and silver set with none of its three alternates, and North Carolina in Carolina blue pants at Clemson in orange over white before the weather stopped that one. Arizona State brought the gold Sparky helmet and a white jersey to Wembley and won 24-17, with Kansas in blue on blue on blue as the designated home team.
 
 ## The Bottom Line
 
-This is mostly a week of standard uniforms, but the games are big. Four of the five biggest games are SEC home dates, where the home team wears color and the visitor wears white, so LSU, Florida State, Georgia and Florida are all in white. That leaves two real uniform questions, and neither was answered as of Thursday morning: which of three colors Ole Miss picks for GameDay, and what pants FSU wears at Bryant-Denny. The confirmed specials are Texas Tech's Let's Ride on Friday, Missouri's centennial throwback, Utah's Ute Proud helmet, TCU's new Frogs script helmet, BYU's navy-trimmed whites and Florida's orange pants. We will update this page as each game-week reveal lands.
+This was billed as a week of standard uniforms with big games, and the standard part did not entirely hold. Of the two real open questions, FSU answered one by putting garnet pants under the gold helmet at Bryant-Denny, and Ole Miss still has GameDay to itself. What the afternoon and night windows actually produced was a run of pants changes nobody announced: South Carolina went garnet head to toe instead of white pants, Washington swapped gold pants for white, East Carolina put purple under the road whites, USF wore green over green for the first time this year, Liberty skipped its red home set for the navy alternate, and Oklahoma State pulled out the orange shell for the first time in 2026. The announced specials all held: Texas Tech's Let's Ride, Utah's Ute Proud helmet, TCU's Frogs script helmet, BYU's navy-trimmed whites, Florida's orange pants and UCF's Knightmode. We update this page as each game finishes.
 
 ## Frequently Asked Questions
 
@@ -241,7 +251,7 @@ LSU is expected in white with gold pants and the gold helmet on Saturday, Septem
 
 **What is Florida State wearing at Alabama?**
 
-Florida State is expected in white jerseys under the gold helmet as the road team at Bryant-Denny Stadium. The pants had not been announced as of Thursday morning. Gold is the traditional road pairing, but FSU has also worn garnet pants on the road. Alabama is expected in its crimson home set.
+Florida State wore the gold helmet, white jersey and garnet pants at Bryant-Denny Stadium, confirmed from the broadcast. The pants were the open question all week: gold is the traditional road pairing, and FSU went with the garnet instead, the same call it made at Stanford last season. Alabama wore its crimson home set with white pants.
 
 **Which teams are wearing alternates in Week 3?**
 
