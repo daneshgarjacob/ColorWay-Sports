@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 40th Helmet / Blue / Blue</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -48,7 +48,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **September 12 vs. Memphis.** ★ Confirmed: **the 40th anniversary helmet, blue jersey, blue pants.** Boise State won 38-20 in the home opener at Albertsons Stadium. The program announced the hand-painted helmet for this game, and a frame from the game shows it on the field: the Idaho bronco on the left side, the 40 on the right, "EST. 1986" across the back bumper. The same night debuted the seventh version of The Blue, with orange sideline hashes at the 2 and 11-yard lines for Ashton Jeanty and Kellen Moore. Memphis came in white jerseys and gray pants under their white helmet with the blue tiger claw, the same shell they have worn in every game this season.
 
-**September 19 vs. South Dakota.** Blue expected, the home default. Kickoff is 8 p.m. Mountain. The school has asked fans to wear white for this one, which is a crowd call rather than a team announcement, but it is worth watching whether the Broncos follow the stands.
+**September 19 vs. South Dakota.** ★ Confirmed from the broadcast: **white helmet with the Bronco, blue jersey, white pants**, the home blue over white on the blue turf. The school asked fans to wear white for this one, a crowd call rather than a team announcement, and the Broncos stayed in blue rather than following the stands. Boise State won 38-24, with South Dakota in white over black.
 
 **September 26 at Western Michigan.** White expected as the visitor. A Broncos-versus-Broncos game in Kalamazoo, with Western Michigan in brown and gold at Waldo Stadium.
 
