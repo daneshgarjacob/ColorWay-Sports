@@ -3,7 +3,7 @@ title: "UConn Uniform Schedule 2026: Every Jersey and When the Huskies Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: "2026-09-19"
 excerpt: "What UConn wears every game in 2026: the navy home set, the white road set, the new red alternate jersey, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d3b66 55%, #E4002B 130%)"
 cardStyle: words
@@ -47,7 +47,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants, so e
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lafayette</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami (OH)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +64,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants, so e
 
 **September 12 vs. Maryland.** ★ Confirmed from the CBS Sports Network broadcast: **navy helmet, navy jersey, navy pants** again. Maryland answered in a red helmet, white jersey and red pants and won 38-14, ending UConn's eight-game home winning streak. We track the other side on our [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
 
-**September 19 at Southern Miss.** White expected. The first road game of the season, 7 p.m. Eastern at M.M. Roberts Stadium in Hattiesburg on ESPN+, and the first look at the white road set in 2026.
+**September 19 at Southern Miss.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, head to toe white for the first road game of the season at M.M. Roberts Stadium in Hattiesburg. It is the first look at the road set in 2026 after three straight games in navy, and Southern Miss wore black over gold.
 
 **September 26 at Miami (OH).** White expected. A 3:30 p.m. kickoff at Yager Stadium in Oxford against a RedHawks team in red at home, so this is the one date on the schedule where a red jersey could never work.
 
@@ -104,7 +104,7 @@ Two games in, UConn has worn the same thing twice: navy helmet, navy jersey, nav
 
 **What jersey is UConn wearing this week?**
 
-UConn plays at Southern Miss on Saturday, September 19 at 7 p.m. Eastern on ESPN+, and the white road jersey is expected in the Huskies' first road game of the season. UConn wore the navy helmet, navy jersey and navy pants in both home games so far. The week-by-week grid above lists every game with the expected uniform.
+UConn wore all white at Southern Miss on Saturday, September 19, a white helmet over a white jersey and white pants in the Huskies' first road game of the season, confirmed from the broadcast. UConn had worn the navy helmet, navy jersey and navy pants in both home games before it. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 

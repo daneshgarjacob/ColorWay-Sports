@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-19"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -31,7 +31,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #4B2E83; color: #ffffff; border: 2px solid #B7A57A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
   <div style="background: #4B2E83; color: #ffffff; border: 2px solid #B7A57A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
-  <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Likely</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -48,7 +48,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 
 **September 12 vs. Utah State.** ★ Confirmed from the Big Ten Network broadcast: **gold helmet, purple jersey, gold pants** again, on Band Day. Utah State wore white helmets, white jerseys and navy pants. Washington won 16-14 in a game that was 10-7 at halftime and was not settled until the fourth quarter. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
-**September 19 vs. Eastern Washington.** Purple expected. Community Day, 4:15 p.m. Pacific on BTN, and the last nonconference game. No special uniform has been tied to it, so the home default applies.
+**September 19 vs. Eastern Washington.** ★ Confirmed from the broadcast, with one change from what we had down: **gold helmet, purple jersey, white pants**. We expected gold pants, the pairing Washington used in each of its first two games, and the Huskies switched to white below the belt for Community Day. Eastern Washington wore white with red and black.
 
 **September 26 vs. Minnesota.** Black likely, not confirmed. Washington has billed this Big Ten opener as the "Unleashed" blackout game and asked fans to wear black, and the new Dawgs jersey is a one-off for a single home game that the school has not named. Those two facts point at the same Saturday night, 8 p.m. Pacific on FOX. We will star it only once the team shows it. ESPN lists this game on September 27 because its feed runs on UTC.
 
@@ -78,7 +78,7 @@ Two games in, Washington has been as plain as it gets: gold helmet, purple jerse
 
 **What jersey is Washington wearing this week?**
 
-Washington hosts Eastern Washington on Saturday, September 19, and the purple home jersey with gold pants and the gold helmet is expected. That is the same combination the Huskies wore in both games so far. The week after, against Minnesota on September 26, is the "Unleashed" blackout game, where the new all-black Dawgs uniform is the likely pick.
+Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, is the "Unleashed" blackout game, where the new all-black Dawgs uniform is the likely pick.
 
 **What are Washington's football uniforms for 2026?**
 

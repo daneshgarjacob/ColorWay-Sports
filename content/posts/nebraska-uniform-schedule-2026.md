@@ -3,7 +3,7 @@ title: "Nebraska Uniform Schedule 2026: Every Jersey and When the Cornhuskers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-16'
+updatedDate: "2026-09-19"
 excerpt: "Nebraska uniform schedule 2026: every Huskers jersey by week, the scarlet home uniform, white road set, and the black alternate jersey for the Halloween Blackout against Washington."
 gradient: "linear-gradient(135deg, #E41C38 0%, #a8142a 55%, #111111 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #E41C38; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #E41C38; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
-  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
@@ -50,7 +50,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **September 12 vs. Bowling Green.** ★ Confirmed from the Nebraska Athletics game photos: **white helmet, scarlet jersey, white pants** again, this time under the lights, with first responders leading the Tunnel Walk the day after September 11 and Bowling Green in white. Nebraska led 35-0 at halftime and won 56-7.
 
-**September 19 vs. North Dakota.** Scarlet expected. The home default for the Ag Day game against the FCS Fighting Hawks, 6:15 p.m. Central on BTN. Nebraska has not announced anything special for the night, so we expect the same scarlet and white combination for a third straight week.
+**September 19 vs. North Dakota.** ★ Confirmed from the broadcast: **white Block N helmet, scarlet jersey, white pants**, the home default for the Ag Day game against the FCS Fighting Hawks, and the same combination for a third straight week. Nothing special was announced for the night and nothing new appeared. North Dakota came in white over green.
 
 **September 26 at Michigan State.** White expected. The Big Ten opener at Spartan Stadium, 4 p.m. Central on BTN, and the first look at the new white road set in a game.
 
@@ -80,7 +80,7 @@ Two games in, Nebraska has done exactly what it said it would: white helmet, sca
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska hosts North Dakota on Saturday, September 19, and the scarlet home jersey with white pants and the white Block N helmet is expected, the same combination the Huskers wore in wins over Ohio and Bowling Green. Nothing special has been announced for the game. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white Block N helmet, scarlet jersey and white pants against North Dakota on Saturday, September 19, confirmed from the broadcast. It is the same combination the Huskers wore in wins over Ohio and Bowling Green, a third straight week in the home default. Nothing special was announced for the game. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-19"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bethune-Cookman</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Lightmode</div></div>
-  <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Knightmode</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Knightmode</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -49,7 +49,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
 
 **September 12 at Pittsburgh.** ★ Confirmed: **white helmet, white jersey, white pants**, the full Lightmode set in the rain at Acrisure Stadium against a Pitt team in blue. Lightmode exists because the Knightmode reaction was so strong that the staff went looking for a road version, and the reveal pulled roughly half a million views when it first ran. This one did not go UCF's way. Pitt won 12-7, the Knights' only loss so far.
 
-**September 19 vs. Georgia State.** Knightmode, announced. UCF teased it Wednesday night with a single frame of a black helmet on a throne of swords.
+**September 19 vs. Georgia State.** ★ Knightmode, announced and now confirmed from the broadcast: **black helmet, black jersey with gold numerals, black pants**, head to toe black for Family Weekend at the Acrisure Bounce House. UCF teased it Wednesday night with a single frame of a black helmet on a throne of swords.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2100410212410638512"></a></blockquote>
@@ -101,7 +101,7 @@ Two games in, UCF has already shown two of its three helmets and both jerseys, w
 
 **What jersey is UCF wearing this week?**
 
-UCF is wearing Knightmode against Georgia State on Saturday, September 19: black helmet, black jersey and black pants, announced by the team on Thursday. It is Family Weekend at the Acrisure Bounce House with a 7 p.m. Eastern kickoff, and Georgia State will be in white.
+UCF wore Knightmode against Georgia State on Saturday, September 19: black helmet, black jersey and black pants, announced by the team on Thursday and confirmed on the field. It was Family Weekend at the Acrisure Bounce House with a 7 p.m. Eastern kickoff, and Georgia State was in white.
 
 **What are UCF's football uniforms for 2026?**
 
