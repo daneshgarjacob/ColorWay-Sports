@@ -165,7 +165,7 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Troy: **Confirmed**, white helmet, white jersey, maroon pants.
 - [Missouri](/stories/missouri-uniform-schedule-2026): **Confirmed**, the Memorial Stadium 100th anniversary throwback worn exactly as unveiled: black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants.
 
-**Florida at Auburn**, 7 p.m., ESPN
+**Florida at Auburn**, 7 p.m., ESPN. **Florida won 44-39.**
 - [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, orange helmet, white jersey, orange pants, exactly what the season-long schedule Florida published in August assigned to this date.
 - [Auburn](/stories/auburn-uniform-schedule-2026): **Confirmed**, white helmet with the navy AU, navy jersey, white pants, the home default.
 

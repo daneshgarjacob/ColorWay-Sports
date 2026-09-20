@@ -47,7 +47,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **September 12 vs. Campbell** (home). ★ Worn, confirmed from the broadcast: **matte blue helmet, orange jersey**, white pants. Florida won 52-3. The only orange jersey of the season, and it comes in week two against a first-ever opponent. Confirmed in game week: the Gators' uniform account posted the full look on Monday, the matte blue shell with the orange script, orange jersey with white numbers, white pants.
 
-**September 19 at Auburn** (away). ★ Confirmed from the broadcast: **orange helmet, white jersey, orange pants**, exactly the combination the season schedule assigned to this date, and one of only two games that get the orange pants. Auburn answered in the white helmet with the navy jersey and white pants. More: [Auburn uniform schedule](/stories/auburn-uniform-schedule-2026).
+**September 19 at Auburn** (away). ★ Confirmed from the broadcast: **orange helmet, white jersey, orange pants**, exactly the combination the season schedule assigned to this date, and one of only two games that get the orange pants. Auburn answered in the white helmet with the navy jersey and white pants. Florida won a shootout 44-39, with Auburn scoring a late touchdown to fall five short. More: [Auburn uniform schedule](/stories/auburn-uniform-schedule-2026).
 
 **September 26 vs. Ole Miss** (home). Orange helmet, blue jersey, white pants.
 

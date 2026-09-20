@@ -48,7 +48,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 **September 12 vs. Southern Miss.** ★ Confirmed from the broadcast: **white helmet, navy jersey, white pants** again, this time at Jordan-Hare Stadium for the first home game of the Golesh era. Southern Miss came in wearing a black helmet with a gold stripe, a white jersey and black pants. Auburn won 43-8. Kickoff was on Saturday night, and ESPN's feed lists the game under September 13 because it runs on UTC. The correct local date is Saturday, September 12.
 
-**September 19 vs. Florida.** ★ Confirmed from the broadcast: **white helmet with the navy AU, navy jersey, white pants**, the home default for the SEC opener and the first time Florida has played at Jordan-Hare since 2011. Florida wore what its published season schedule said it would, an orange helmet, white jersey and orange pants, so it was navy against white and orange under the lights. See the [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for every Gators combination.
+**September 19 vs. Florida.** ★ Confirmed from the broadcast: **white helmet with the navy AU, navy jersey, white pants**, the home default for the SEC opener and the first time Florida has played at Jordan-Hare since 2011. Florida wore what its published season schedule said it would, an orange helmet, white jersey and orange pants, so it was navy against white and orange under the lights. Florida won 44-39 in a shootout, with Auburn scoring a late touchdown to fall five short. See the [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for every Gators combination.
 
 **September 26 vs. Vanderbilt.** Navy expected. This is Auburn's homecoming game, which is the traditional home date for an alternate if the program ever breaks from its standard sets.
 
@@ -80,7 +80,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn wore the white helmet, navy jersey and white pants against Florida at Jordan-Hare Stadium on September 19, confirmed from the broadcast. Florida came in with an orange helmet, white jersey and orange pants. Auburn wore the same navy over white pants against Southern Miss on September 12. The week-by-week grid above lists every game.
+Auburn wore the white helmet, navy jersey and white pants against Florida at Jordan-Hare Stadium on September 19, a 44-39 loss, confirmed from the broadcast. Florida came in with an orange helmet, white jersey and orange pants. Auburn wore the same navy over white pants against Southern Miss on September 12. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 
