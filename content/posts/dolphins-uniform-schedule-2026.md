@@ -93,7 +93,7 @@ Two are worth circling. Week 7 at the Jets is New York's Classic throwback game 
 
 ## How the Dolphins Rotation Works in 2026
 
-Miami runs a simple system with two exceptions carved out of December. Aqua at home for six games, white on the road for nine, the throwback in Week 14, and Dark Water to close the home slate in Week 17. That is it. No third color, no rotating alternates, no helmet program.
+Miami runs a simple system with two exceptions carved out of December. Aqua at home for five games, white on the road for nine, the throwback in Week 14, and Dark Water to close the home slate in Week 17. That is it. No third color, no rotating alternates, no helmet program.
 
 The interesting thing about 2026 is that both exceptions land in the final month, so the season back-loads all of its visual variety. It also means Miami wears a non-aqua jersey at home twice in four weeks, which for a team whose entire brand identity is that one color is a slightly strange way to finish. Give us the white throwback twice and the blackout never, and this becomes one of the better-dressed schedules in the AFC.
 
@@ -131,7 +131,7 @@ At the final home game of the season, Week 17 against the Buffalo Bills on Sunda
 
 **What is the Dolphins' primary uniform for 2026?**
 
-Aqua at home and white on the road. Aqua projects to the six home games not claimed by a confirmed uniform, and white to all nine away games.
+Aqua at home and white on the road. Aqua projects to the five home games not claimed by a confirmed uniform, and white to all nine away games.
 
 **Do the Dolphins wear white at home in 2026?**
 
