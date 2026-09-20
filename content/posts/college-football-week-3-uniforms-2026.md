@@ -22,7 +22,7 @@ Below are every game this week involving an AP Top 25 team or one of the 43 prog
 
 ### No. 7 LSU at No. 8 Ole Miss
 
-**Saturday, 7:30 p.m., ABC. College GameDay is in Oxford.** Lane Kiffin brings LSU back to the program he left at the end of 2025, and this is the most-watched uniform decision of the weekend. **LSU: white expected**, gold helmet and gold pants. Ole Miss wears color at home, and LSU wore white in Oxford last season. **Ole Miss: home color expected, not announced.** Red, navy and powder blue are all possible. The Rebels wore the full powder blue set (powder blue helmet, powder blue jersey, white pants) against LSU in 2025 and won 24-19. Through two games in 2026 they have worn navy and then red, both under the navy helmet with gray pants. Ole Miss has called a Stripe Out in the stands, and that is a fan theme, not a uniform. As of Thursday morning the Rebels had not posted a uniform graphic for this game. More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC. College GameDay was in Oxford. Ole Miss won 32-24.** Lane Kiffin brought LSU back to the program he left at the end of 2025, and this was the most-watched uniform decision of the weekend. **Ole Miss answered it with POWDER BLUE**: powder blue helmet, powder blue jersey and white pants, the full set, with the end zones painted to match. Red and navy were both live and the Rebels never announced it. **LSU wore white** with the gold helmet and gold pants. The Rebels wore the full powder blue set (powder blue helmet, powder blue jersey, white pants) against LSU in 2025 and won 24-19. Through two games in 2026 they have worn navy and then red, both under the navy helmet with gray pants. Ole Miss has called a Stripe Out in the stands, and that is a fan theme, not a uniform. As of Thursday morning the Rebels had not posted a uniform graphic for this game. More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026).
 
 ### Florida State at No. 10 Alabama
 
@@ -185,9 +185,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [Michigan State](/stories/michigan-state-uniform-schedule-2026): **Confirmed**, all white, and the helmet is the news: the Spartans wore the white shell with the green Spartan after going to a green helmet with this set on the road last season.
 - [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, gold helmet, navy jersey, gold pants, with the SoFi patch on the chest. NBC produced no ESPN frames, so both are confirmed from Notre Dame's own game photography.
 
-**No. 7 LSU at No. 8 Ole Miss**, 7:30 p.m., ABC
-- [LSU](/stories/lsu-uniform-schedule-2026): white expected, with gold pants and the gold helmet.
-- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): home color expected (red, navy or powder blue), not announced.
+**No. 7 LSU at No. 8 Ole Miss**, 7:30 p.m., ABC. **Ole Miss won 32-24.**
+- [LSU](/stories/lsu-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed, POWDER BLUE.** Powder blue helmet, powder blue jersey, white pants, the full set and the answer to the week's biggest open uniform question. Red, navy and powder blue were all live and the Rebels never announced it. Vaught-Hemingway painted the end zones powder blue to match.
 
 **No. 11 BYU at Colorado State**, 7:30 p.m., CBS
 - [BYU](/stories/byu-uniform-schedule-2026): **Announced**, white helmet with white facemask, white jersey with navy numbers, white pants.

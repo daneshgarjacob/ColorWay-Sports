@@ -50,7 +50,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **September 12 vs. Louisiana Tech.** ★ Confirmed from the broadcast, and it is the first surprise of LSU's season: **purple jersey, gold pants, gold helmet** in Tiger Stadium. We had the home whites down, the look LSU wore against Clemson a week earlier, and LSU went purple for the FCS visitor instead. Purple at home is the exception in Baton Rouge, not the rule, which is why it is worth a line here. LSU won 45-14.
 
-**September 19 at Ole Miss.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the standard road set. Ole Miss wears a color at home and chose the full powder blue set, powder blue helmet and jersey over white pants, the same look it wore against LSU in Oxford last season. The Rebels never announced it in game week, so powder blue over red or navy was the open question of the weekend. More: [Ole Miss uniform schedule](/stories/ole-miss-uniform-schedule-2026).
+**September 19 at Ole Miss.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the standard road set. Ole Miss wears a color at home and chose the full powder blue set, powder blue helmet and jersey over white pants, the same look it wore against LSU in Oxford last season. The Rebels never announced it in game week, so powder blue over red or navy was the open question of the weekend. LSU lost 32-24. More: [Ole Miss uniform schedule](/stories/ole-miss-uniform-schedule-2026).
 
 **September 26 vs. Texas A&amp;M.** Home White expected. Texas A&amp;M, who go to maroon here rather than their usual road white. See our [Texas A&amp;M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
