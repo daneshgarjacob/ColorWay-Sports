@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-20",
+  "games": [
+    {
+      "away": "Philadelphia Phillies",
+      "awaySlug": "phillies",
+      "home": "New York Mets",
+      "homeSlug": "mets",
+      "time": "1:10 PM ET"
+    },
+    {
+      "away": "Kansas City Royals",
+      "awaySlug": "royals",
+      "home": "Pittsburgh Pirates",
+      "homeSlug": "pirates",
+      "time": "1:35 PM ET"
+    },
+    {
+      "away": "Chicago Cubs",
+      "awaySlug": "cubs",
+      "home": "Cincinnati Reds",
+      "homeSlug": "reds",
+      "time": "1:40 PM ET"
+    },
+    {
+      "away": "Athletics",
+      "awaySlug": "athletics",
+      "home": "Cleveland Guardians",
+      "homeSlug": "guardians",
+      "time": "1:40 PM ET"
+    },
+    {
+      "away": "Boston Red Sox",
+      "awaySlug": "red-sox",
+      "home": "Tampa Bay Rays",
+      "homeSlug": "rays",
+      "time": "1:40 PM ET"
+    },
+    {
+      "away": "Atlanta Braves",
+      "awaySlug": "braves",
+      "home": "Houston Astros",
+      "homeSlug": "astros",
+      "time": "2:10 PM ET"
+    },
+    {
+      "away": "Detroit Tigers",
+      "awaySlug": "tigers",
+      "home": "Chicago White Sox",
+      "homeSlug": "white-sox",
+      "time": "2:10 PM ET"
+    },
+    {
+      "away": "Washington Nationals",
+      "awaySlug": "nationals",
+      "home": "St. Louis Cardinals",
+      "homeSlug": "cardinals",
+      "time": "2:15 PM ET"
+    },
+    {
+      "away": "Toronto Blue Jays",
+      "awaySlug": "blue-jays",
+      "home": "Texas Rangers",
+      "homeSlug": "rangers",
+      "time": "2:35 PM ET"
+    },
+    {
+      "away": "Seattle Mariners",
+      "awaySlug": "mariners",
+      "home": "Colorado Rockies",
+      "homeSlug": "rockies",
+      "time": "3:10 PM ET"
+    },
+    {
+      "away": "Minnesota Twins",
+      "awaySlug": "twins",
+      "home": "Los Angeles Angels",
+      "homeSlug": "angels",
+      "time": "4:07 PM ET"
+    },
+    {
+      "away": "San Francisco Giants",
+      "awaySlug": "giants",
+      "home": "Los Angeles Dodgers",
+      "homeSlug": "dodgers",
+      "time": "4:10 PM ET"
+    },
+    {
+      "away": "Miami Marlins",
+      "awaySlug": "marlins",
+      "home": "San Diego Padres",
+      "homeSlug": "padres",
+      "time": "4:10 PM ET"
+    },
+    {
+      "away": "New York Yankees",
+      "awaySlug": "yankees",
+      "home": "Arizona Diamondbacks",
+      "homeSlug": "diamondbacks",
+      "time": "4:10 PM ET"
+    },
+    {
+      "away": "Milwaukee Brewers",
+      "awaySlug": "brewers",
+      "home": "Baltimore Orioles",
+      "homeSlug": "orioles",
+      "time": "7:20 PM ET"
+    }
+  ]
+}
