@@ -50,7 +50,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 **September 12 vs. Ohio State**, Austin. The biggest non-conference game on anyone's schedule this year, at home, in prime time. ★ Confirmed from the broadcast: **burnt orange jersey, white pants, white helmet**, the only home look Texas owns, against Ohio State in white over gray under the silver helmet. Exactly the game the no-alternates policy is for. Texas won 24-23, coming from 23-3 down in the second half.
 
-**September 19 vs. UTSA**, Austin. Third straight home game. ★ Confirmed from the broadcast: **white Longhorn helmet, burnt orange jersey, white pants**, the only home look Texas owns. UTSA answered in white over navy.
+**September 19 vs. UTSA**, Austin. Third straight home game. ★ Confirmed from the broadcast: **white Longhorn helmet, burnt orange jersey, white pants**, the only home look Texas owns. UTSA answered in white over navy, and Texas won 30-6.
 
 **September 26 at Tennessee**, Knoxville. First road trip and the SEC opener, into one of the loudest buildings in the country. Icy whites.
 

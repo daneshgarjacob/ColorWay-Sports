@@ -209,9 +209,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - Kennesaw State: **Confirmed**, white jersey, gold pants.
 - [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, the ["classic home threads"](https://x.com/Vol_Football/status/2100555644151505294) it announced, white helmet with the orange T, orange jersey, white pants. The Smokey Grey Neyland Legacy set is scheduled for Auburn on October 3.
 
-**UTSA at No. 1 Texas**, 8 p.m., SECN+
-- UTSA: white expected.
-- [Texas](/stories/texas-uniform-schedule-2026): burnt orange expected, with white pants and the white Longhorn helmet, the only home look Texas owns.
+**UTSA at No. 1 Texas**, 8 p.m., SECN+. **Texas won 30-6.**
+- UTSA: **Confirmed**, white jersey, navy pants.
+- [Texas](/stories/texas-uniform-schedule-2026): **Confirmed**, white Longhorn helmet, burnt orange jersey, white pants, the only home look Texas owns.
 
 **Arkansas State at TCU**, 8 p.m., ESPNU. **TCU won 31-7.**
 - Arkansas State: **Confirmed**, black jersey, black pants.
