@@ -189,9 +189,9 @@ No Top 25 teams or tracked programs play Thursday. Syracuse at Pittsburgh (7:30 
 - [LSU](/stories/lsu-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
 - [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed, POWDER BLUE.** Powder blue helmet, powder blue jersey, white pants, the full set and the answer to the week's biggest open uniform question. Red, navy and powder blue were all live and the Rebels never announced it. Vaught-Hemingway painted the end zones powder blue to match.
 
-**No. 11 BYU at Colorado State**, 7:30 p.m., CBS
-- [BYU](/stories/byu-uniform-schedule-2026): **Announced**, white helmet with white facemask, white jersey with navy numbers, white pants.
-- [Colorado State](/stories/colorado-state-uniform-schedule-2026): green expected in the Rams' first adidas season. The green home set has not been shown publicly yet.
+**No. 11 BYU at Colorado State**, 7:30 p.m., CBS. **BYU won 41-23.**
+- [BYU](/stories/byu-uniform-schedule-2026): **Confirmed**, white helmet with white facemask, white jersey with navy numbers, white pants, exactly as announced.
+- [Colorado State](/stories/colorado-state-uniform-schedule-2026): **Confirmed, and it is the first look anyone has had at the green home set.** Green helmet with gold trim, green jersey, white pants. The Rams never revealed it publicly in their first adidas season, so the broadcast was the debut.
 
 **New Mexico at No. 24 Oklahoma**, 7:30 p.m., ESPN2. **Oklahoma won 14-6.**
 - New Mexico: **Confirmed**, white jersey, gray pants.

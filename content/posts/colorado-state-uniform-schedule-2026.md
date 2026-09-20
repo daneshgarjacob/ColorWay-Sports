@@ -86,7 +86,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **September 12 vs. Southern Utah**, Fort Collins. ★ Confirmed from the broadcast: this was the **Ag Day game**, and Colorado State wore a new version of the **orange Aggies throwback**, an orange jersey with green trim under a white helmet with orange and green striping, for the school's Orange Out celebrating its Colorado A&M roots. The pants were not visible in the frame we have. Ag Day landed on the early home date, as it usually does. Colorado State won 58-24.
 
-**September 19 vs. BYU**, Fort Collins. ★ **The green home set finally appeared.** Confirmed from the broadcast: **green helmet with gold trim, green jersey, white pants**. Until this night the green home look had not been shown publicly at all in the adidas era, so a ranked opponent in a CBS window turned out to be its debut stage. BYU wore the all-white set with navy numbers it had announced on Monday.
+**September 19 vs. BYU**, Fort Collins. ★ **The green home set finally appeared.** Confirmed from the broadcast: **green helmet with gold trim, green jersey, white pants**. Until this night the green home look had not been shown publicly at all in the adidas era, so a ranked opponent in a CBS window turned out to be its debut stage. BYU wore the all-white set with navy numbers it had announced on Monday, and won 41-23.
 
 **September 26 at UTSA**, San Antonio. The revealed white set's first road trip.
 
