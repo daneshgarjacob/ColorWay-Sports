@@ -78,7 +78,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TulsaFootball/status/2098961564812415338"></a></blockquote>
 </div>
 
-**September 19 vs. East Texas A&M.** ★ **THE RED THROWBACK DEBUTED HERE.** Confirmed from the broadcast: **gold helmet, red jersey, gold pants**. The shell carries the cursive Tulsa script, a red and blue center stripe and TULSA'S TEAM across the back bumper; the jersey has the plain white block numerals and the blue sleeve band framed in gold. Tulsa revealed the set on September 16 without naming a game, and we called this date as the most natural spot for it: a 7 p.m. Central kickoff on ESPN+, the first meeting between the programs, and a stacked promotional night with Senior Day and Parent and Family Weekend.
+**September 19 vs. East Texas A&M.** ★ **THE RED THROWBACK DEBUTED HERE.** Confirmed from the broadcast: **gold helmet, red jersey, gold pants**. The shell carries the cursive Tulsa script, a red and blue center stripe and TULSA'S TEAM across the back bumper; the jersey has the plain white block numerals and the blue sleeve band framed in gold. Tulsa revealed the set on September 16 without naming a game, and we called this date as the most natural spot for it: a 7 p.m. Central kickoff on ESPN+, the first meeting between the programs, and a stacked promotional night with Senior Day and Parent and Family Weekend. Tulsa won 42-0.
 
 **September 26 at Arkansas.** White expected. A 7 p.m. Central kickoff in Fayetteville with Arkansas in cardinal at home. Our [Arkansas 2026 uniform schedule](/stories/arkansas-uniform-schedule-2026) has the Razorbacks side.
 
@@ -108,7 +108,7 @@ Two games, two wins, one helmet and one pair of pants. Tulsa has been as discipl
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore the red throwback against East Texas A&M on Saturday, September 19: gold helmet, red jersey and gold pants, confirmed from the broadcast. Tulsa revealed the jersey on September 16 without naming a game, and the next home date turned out to be the one.
+Tulsa wore the red throwback against East Texas A&M on Saturday, September 19: gold helmet, red jersey and gold pants, confirmed from the broadcast, in a 42-0 shutout. Tulsa revealed the jersey on September 16 without naming a game, and the next home date turned out to be the one.
 
 **What are Tulsa's football uniforms for 2026?**
 
