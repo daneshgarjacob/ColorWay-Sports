@@ -2,7 +2,7 @@
 title: "Every Tampa Bay Rays Jersey in 2026, Ranked: The Navy Wins and the Powder Blue Is One Wordmark Away From Greatness"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-09-21"
 excerpt: "Every Tampa Bay Rays jersey and uniform for 2026, ranked worst to first and graded. Five uniforms, no road gray, and the tightest closet in the American League."
 gradient: "linear-gradient(135deg, #092C5C 0%, #0a1d3a 55%, #8FBCE6 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Rays run one of the most colour-soaked closets in baseball and, unusually, no road gray at all. Since 2023 Tampa Bay has travelled in its coloured alternates instead, which means every jersey here is doing real work rather than filling a slot. Only one jersey here really misses, and nothing quite reaches an A either. In two cases a single design decision is the only thing standing in the way. Here is every Tampa Bay Rays jersey and uniform for 2026, ranked worst to first and graded.
+
+<div style="margin: 1.6em 0; padding: 14px 16px; border-left: 4px solid #37A85B; background: #f4f8f5; border-radius: 0 10px 10px 0;"><p style="margin: 0; font-size: 0.92em; line-height: 1.5; color: #14223f;"><strong>Update, September 21, 2026:</strong> the Rays have revealed a new gray road uniform, their first road gray since 2023, with TAMPA BAY across the chest in a blue-to-green-to-yellow gradient. We grade it an A, higher than anything on this list. <a href="/stories/rays-new-gray-road-uniform">Full breakdown and grade</a>. This ranking covers the five uniforms Tampa Bay wore in 2026 and is unchanged.</p></div>
 
 ## 5. "Grit x Glow" City Connect
 
@@ -121,11 +123,11 @@ We rank the navy alternate No. 1 with a B+. It is the only uniform in the closet
 
 **How many uniforms do the Rays have in 2026?**
 
-Five: the home whites, the Columbia blue alternate, the navy alternate, the 1998 Devil Rays "rainbow" throwback, and the "Grit x Glow" City Connect. Notably, they do not carry a traditional road gray.
+Five: the home whites, the Columbia blue alternate, the navy alternate, the 1998 Devil Rays "rainbow" throwback, and the "Grit x Glow" City Connect. Notably, they did not carry a traditional road gray in 2026. That changed on September 21, when the club revealed a [new gray road uniform](/stories/rays-new-gray-road-uniform) with no debut date announced yet.
 
 **Why don't the Rays wear road grays?**
 
-Tampa Bay stopped using a traditional gray road jersey in 2023 and now travels in its coloured alternates instead, most often the navy over gray pants. It is one of the few clubs in baseball with no gray top in the rotation at all.
+Tampa Bay stopped using a traditional gray road jersey in 2023 and travelled in its coloured alternates instead, most often the navy over gray pants, which made it one of the few clubs in baseball with no gray top in the rotation at all. The club revealed a [new gray road uniform](/stories/rays-new-gray-road-uniform) on September 21, 2026, ending that. A debut date has not been announced.
 
 **When do the Rays wear the Devil Rays throwback?**
 
