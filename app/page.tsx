@@ -67,9 +67,17 @@ export default function Home() {
     // the middle card (Jake 9/16). City Edition was pulled from the homepage.
     // Texans replaced Bears (Jake 9/16): the Bears cover is the same Monsters
     // Rivalries shoot that leads the Rivalries ranking card next to it.
-    "texans-uniform-schedule-2026",
+    // 9/21 (Jake): the Rays road gray takes the lead slot on the day it broke.
+    // It is the only news story on this page rather than a schedule or a hub, it
+    // carries the reveal art, and the uniform is on the field the next night in
+    // game 2 at the Yankees, so the slot is worth more today than it will be on
+    // Wednesday. The tracker stays in the MIDDLE card per the 9/16 rule. The
+    // Rivalries ranking gives up the third slot rather than Texans, because
+    // Texans is here on GSC data (7d #4 page) and Rivalries was here to vary the
+    // format. Put Rivalries back when this story cools.
+    "rays-new-gray-road-uniform",
     "nfl-uniform-tracker-2026",
-    "nfl-rivalries-uniforms-2026-ranked",
+    "texans-uniform-schedule-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

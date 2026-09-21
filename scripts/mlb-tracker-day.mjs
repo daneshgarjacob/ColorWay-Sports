@@ -86,6 +86,10 @@ const SEED = {
   "astros|Stros City Connect": { src: "/images/posts/mlb-daily-tracker/astros-space-city-cc.jpg", swatch: "#f5f5f5" },
   "mets|Blue Alternate": { src: "/images/posts/mlb-daily-tracker/mets-blue-alternate.jpg", swatch: "#002D72" },
   "white-sox|Southside City Connect": { src: "/images/posts/mlb-daily-tracker/white-sox-southside-cc.jpg", swatch: "#1A1A1A" },
+  // Debuts 9/22 in game 2 of the doubleheader at the Yankees: the Rays' first road
+  // gray since 2023. Tile is cropped from the reveal graphic, not a laydown - swap it
+  // for a product shot or game photo once one exists.
+  "rays|Road Gray": { src: "/images/posts/mlb-daily-tracker/rays-road-gray.jpg", swatch: "#C4CED4" },
 };
 for (const [k, v] of Object.entries(SEED)) {
   if (!tile.has(k)) {
@@ -156,7 +160,13 @@ const out = [`## ${pretty}`, "", "<!-- INTRO PARAGRAPH -->", "",
 for (const g of games) {
   const aName = g.teams.away.team.name, hName = g.teams.home.team.name;
   const aSlug = SLUG[aName], hSlug = SLUG[hName];
-  const aU = confirmed[aSlug], hU = confirmed[hSlug];
+  // Doubleheaders: a club can wear two different uniforms on the same date, and a
+  // file keyed by team alone cannot say so - both halves would get whichever one
+  // was filed. An optional "<slug>|<gameNumber>" key overrides the plain key for
+  // that half only. Needed 9/22: the Rays debut the new road gray in game 2 at the
+  // Yankees and wear something else in game 1.
+  const forGame = (slug) => confirmed[`${slug}|${g.gameNumber}`] ?? confirmed[slug];
+  const aU = forGame(aSlug), hU = forGame(hSlug);
   if (!aU || !hU) { problems.push(`${aName} at ${hName}: missing confirmed uniform`); continue; }
 
   // A game that has not started cannot have a uniform logged against it. This
