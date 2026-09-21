@@ -27,9 +27,38 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, September 20
 
-Sunday is a 15-game slate and it belongs to the alternates. San Diego wore the camouflage alternate against the Marlins in road gray, which is the standing Sunday home tradition at Petco and the one date on the Padres calendar you can set a watch to. Houston answered with the orange alternate against the Braves in navy, the brightest pairing of the day, and Texas brought the powder blues out at home against the Blue Jays in road gray. Seattle wore Northwest Green in Denver against the Rockies in home white. Both Chicago clubs travelled in blue, the Cubs in the royal blue alternate at Cincinnati in home white and the Royals in royal blue at PNC Park against the Pirates in the black alternate. Arizona went black again against the Yankees in road gray, Washington wore navy at Busch against the Cardinals in home white, Minnesota wore navy in Anaheim against the Angels in home white, and Detroit wore the navy alternate on the South Side against the White Sox in home white pinstripes after a delayed start. The rest went to form: the Giants in road gray at Dodger Stadium against the Dodgers in home white, the Phillies in road gray at Citi Field against the Mets in home white pinstripes, the Red Sox in road gray against the Rays in home white, and the Athletics in road gray in Cleveland against the Guardians in home white. Fourteen of the fifteen are in; the Brewers at Baltimore never published a uniform.
+Sunday is a 15-game slate and it belongs to the alternates, all fifteen of them confirmed. San Diego wore the camouflage alternate against the Marlins in road gray, the standing Sunday home tradition at Petco and the one date on the Padres calendar you can set a watch to. Houston answered with the orange alternate against the Braves in navy, our Clash of the Day, and Texas brought the powder blues out at home against the Blue Jays in road gray. Milwaukee wore its own powder blue in Baltimore against the Orioles in the black alternate, so two clubs in two cities reached for powder blue on the same afternoon. Seattle wore Northwest Green in Denver against the Rockies in home white. Both Chicago clubs travelled in blue, the Cubs in the royal blue alternate at Cincinnati in home white and the Royals in royal blue at PNC Park against the Pirates in the black alternate. Arizona went black again against the Yankees in road gray, Washington wore navy at Busch against the Cardinals in home white, Minnesota wore navy in Anaheim against the Angels in home white, and Detroit wore the navy alternate on the South Side against the White Sox in home white pinstripes after a delayed start. The rest went to form: the Giants in road gray at Dodger Stadium against the Dodgers in home white, the Phillies in road gray at Citi Field against the Mets in home white pinstripes, the Red Sox in road gray against the Rays in home white, and the Athletics in road gray in Cleveland against the Guardians in home white.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### Milwaukee Brewers at Baltimore Orioles
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Brewers 3, Orioles 0</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/brewers-powder-blue-alternate.jpg" alt="Milwaukee Brewers Powder Blue Alternate jersey worn September 20 2026 against the Orioles, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #9ecae1; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Powder Blue Alternate</p>
+      <p data-cap="Yellow Front" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Yellow Front</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/orioles-black-alternate.jpg" alt="Baltimore Orioles Black Alternate jersey worn September 20 2026 against the Brewers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ORIOLES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #1a1a1a; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black Alternate</p>
+      <p data-cap="Black Front, Orange Bill 'O's'" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Black Front, Orange Bill 'O's'</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### San Francisco Giants at Los Angeles Dodgers
 
