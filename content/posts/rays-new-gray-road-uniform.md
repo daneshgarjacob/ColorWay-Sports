@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: MLB
 date: "2026-09-21"
 updatedDate: "2026-09-21"
-excerpt: "Tampa Bay revealed a new gray road uniform with TAMPA BAY across the chest in a blue-to-green-to-yellow gradient. It is the first road gray the Rays have carried since 2023, and it fixes the one thing we have criticised about this closet twice. We grade it an A."
+excerpt: "Tampa Bay revealed a new gray road uniform with TAMPA BAY across the chest in a blue-to-green-to-yellow gradient, and it debuts Tuesday, September 22 in the second game of the doubleheader against the Yankees. It is the first road gray the Rays have carried since 2023. We grade it an A."
 gradient: "linear-gradient(135deg, #8FBCE6 0%, #37A85B 55%, #F5D130 130%)"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-tampa-bay-rays.png"
@@ -20,6 +20,8 @@ teams:
 The Rays have a road gray again, and it is the best thing they have put on the field in years.
 
 Tampa Bay revealed a new gray road uniform with **TAMPA BAY** arched across the chest in a gradient that runs light blue into green into yellow, the ray mark underneath it, and navy piping holding the whole thing together. The club's own framing for the set is community: "representing the commitment from the club to the community."
+
+It debuts **Tuesday, September 22**, in the second game of the doubleheader against the **New York Yankees**.
 
 Two things make this a bigger deal than a normal uniform drop. The Rays have not carried a traditional road gray since 2023. And the one criticism we have levelled at this wardrobe more than any other is that Tampa Bay keeps leaving the front of its jerseys empty. This uniform ends both of those at once.
 
@@ -78,16 +80,15 @@ The Rays are moving in the right direction. This is the direction.
 
 ## What We Do Not Know Yet
 
-Four things are still open, and we will update this post as they are answered:
+The debut is settled: Tuesday, September 22, second game of the doubleheader against the Yankees. Three things are still open, and we will update this post as they are answered:
 
-- **When it debuts.** The reveal lands with Tampa Bay's 2026 season nearly over, which points to 2027.
-- **Whether it replaces the alternates on the road** or joins the rotation alongside the navy and the Columbia blue.
+- **Whether it replaces the alternates on the road** in 2027 or joins the rotation alongside the navy and the Columbia blue. Wearing it with a week left in the 2026 season reads like a look ahead rather than a one-off.
 - **Whether a white home version is coming.** Nothing in the reveal says so.
 - **The cap.** The reveal shows the navy batting helmet with the TB ray mark; the on-field cap for the set has not been shown separately.
 
 ## The Bottom Line
 
-Tampa Bay has a road gray again for the first time since 2023, and it is the sharpest uniform the club owns: TAMPA BAY arched across the chest in a blue-to-green-to-yellow gradient, the ray beneath it, navy everywhere else. It takes the franchise's best design idea out of the Friday throwback and puts it on a working uniform, and it fixes the empty chest we have criticised twice. We grade it an A and we would like to see the white version.
+Tampa Bay has a road gray again for the first time since 2023, and it is the sharpest uniform the club owns: TAMPA BAY arched across the chest in a blue-to-green-to-yellow gradient, the ray beneath it, navy everywhere else. It goes on the field Tuesday, September 22, in the second game of the doubleheader against the Yankees. It takes the franchise's best design idea out of the Friday throwback and puts it on a working uniform, and it fixes the empty chest we have criticised twice. We grade it an A and we would like to see the white version.
 
 Everything else Tampa Bay wears is in our [every Rays jersey in 2026, ranked](/stories/rays-jerseys-2026-ranked) and the [Rays 2026 uniform schedule](/stories/rays-uniform-schedule-2026). What every club wears, game by game, is in the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
@@ -107,7 +108,7 @@ No, and that is deliberate. The 1998 Devil Rays throwback runs purple into green
 
 **When will the Rays wear the new gray road uniform?**
 
-A debut date has not been announced. The reveal comes with the 2026 season nearly finished, which points to 2027.
+Tuesday, September 22, in the second game of the doubleheader against the New York Yankees. That is the debut, with a week left in the 2026 season.
 
 **What grade do you give the new Rays road uniform?**
 

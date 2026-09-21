@@ -1,5 +1,5 @@
 ---
-title: "The Rays have a road gray again, and the gradient wordmark makes it the best thing in the closet"
+title: "The Rays have a road gray again, it debuts Tuesday against the Yankees, and it is the best thing in the closet"
 at: "2026-09-21T16:20:00-07:00"
 tag: "MLB"
 league: "mlb"
@@ -18,4 +18,4 @@ It is the first traditional road gray the Rays have carried since 2023. They aba
 
 It also answers the criticism we have made twice about this wardrobe: the Columbia blue alternate has worn a small sunburst on the right chest instead of a wordmark since 2022, and we called it a gorgeous colour wearing almost nothing. This one puts a full arched wordmark back where it belongs.
 
-No debut date yet. The reveal lands with the 2026 season nearly over, which points to 2027.
+It debuts **Tuesday, September 22**, in the second game of the doubleheader against the Yankees, with a week left in the 2026 season.
