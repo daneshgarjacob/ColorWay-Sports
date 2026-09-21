@@ -236,6 +236,11 @@ Sunday is a 15-game slate and it belongs to the alternates. San Diego wore the c
 
 ### Atlanta Braves at Houston Astros
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #EB6E1F 0%, #ffffff 50%, #13274F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(235,110,31,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -262,7 +267,9 @@ Sunday is a 15-game slate and it belongs to the alternates. San Diego wore the c
   </div>
 </div>
 </div>
+</div>
 
+The Clash goes to Houston. The Astros wore the orange alternate and the Braves answered in the navy alternate, and that is the widest gap on the board: orange is the hottest colour any club owns and navy is the coolest, so the two of them share nothing at all. Neither is a specialty jersey either, which is the part we like. No City Connect, no throwback, no patch, just two teams reaching for the alternate they already had and producing the most separated matchup of a fifteen-game Sunday. Atlanta won 4-2, and on a day that also gave us San Diego's camo and Texas in the powder blues, the plain orange still won the eye.
 ### Detroit Tigers at Chicago White Sox
 
 <div style="margin: 1.4em 0 0.6em;">
