@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-22'
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -73,7 +73,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 ## The Bottom Line
 
-Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. Expect white at Clemson, North Carolina, and Notre Dame, and orange at home until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
+Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. Expect white at Clemson, North Carolina, and Notre Dame, and orange at home until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024, and it now has a second candidate to choose from: Miami revealed [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) on September 22, in both the orange home and the white road version, with no date announced for either. We grade the road whites an A- and the orange a B+. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
 
 ## Frequently Asked Questions
 
