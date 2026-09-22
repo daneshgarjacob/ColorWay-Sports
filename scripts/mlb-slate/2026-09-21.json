@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-21",
+  "games": [
+    {
+      "away": "Toronto Blue Jays",
+      "awaySlug": "blue-jays",
+      "home": "Baltimore Orioles",
+      "homeSlug": "orioles",
+      "time": "6:35 PM ET"
+    },
+    {
+      "away": "Washington Nationals",
+      "awaySlug": "nationals",
+      "home": "Detroit Tigers",
+      "homeSlug": "tigers",
+      "time": "6:40 PM ET"
+    },
+    {
+      "away": "Minnesota Twins",
+      "awaySlug": "twins",
+      "home": "San Francisco Giants",
+      "homeSlug": "giants",
+      "time": "9:45 PM ET"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-21"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -37,7 +37,7 @@ Four alternate games, three at home and the Christmas Day road game at Seattle, 
 
 ## The Full 2026 Rams Uniform Schedule, Week by Week
 
-**Week 2 combination, as announced for game week:** blue helmet, Classic Sol yellow jersey, white pants for Monday night against the Giants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
+**Week 2, what was actually worn:** blue helmet, Classic Sol jersey, white pants on Monday night against the Giants, the first gold jersey the Rams have worn since 2015. Rams 28, Giants 6. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 **Their Week 1 opponent:** the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 

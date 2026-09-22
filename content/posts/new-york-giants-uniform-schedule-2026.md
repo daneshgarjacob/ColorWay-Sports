@@ -2,7 +2,7 @@
 title: "New York Giants 2026 Uniform Schedule: Legacy Game Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-21"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -21,7 +21,7 @@ The Giants published their full 2026 uniform schedule on September 2, and the th
 
 ## The Full 2026 Giants Uniform Schedule, Week by Week
 
-**Week 2 combination, as announced for game week:** blue helmet, white jersey, white pants on Monday night at the Rams, who wear the Classic Sol yellow. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
+**Week 2, what was actually worn:** blue helmet, white jersey, white pants on Monday night at the Rams, who wore the Classic Sol. Rams 28, Giants 6. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 **Their Week 1 opponent:** the [Dallas Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
