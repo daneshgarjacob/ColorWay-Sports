@@ -2,8 +2,8 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-09-20"
-excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, and the black 'Grit x Glow' City Connect. Here's every jersey, when they wear it, and how loose the rotation really is."
+updatedDate: "2026-09-22"
+excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, the black 'Grit x Glow' City Connect, and the new road gray that debuts September 22. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -88,6 +88,13 @@ The Rays didn't overhaul the set for 2026, but there's a real story brewing on t
 The home white is the Rays' cleanest look and the one that anchors the brand: a white jersey with "Rays" arched across the chest in navy, the signature yellow sunburst bursting off the "R," navy piping, and the navy cap with the white "TB." It's the default for the bulk of every homestand that isn't claimed by the Friday throwback or the Saturday City Connect. After a decade-plus of identity churn, the sunburst wordmark is the through-line that ties the modern Rays together, and the white home is where it reads best — understated, sunny, and unmistakably Tampa Bay.
 
 
+## Road Gray (New, Debuts September 22)
+
+The newest thing in the closet and the biggest change to it in three years: a traditional road gray, the first Tampa Bay has carried since 2023. "TAMPA BAY" is arched across the chest in a gradient that runs light blue into green into yellow, outlined in navy with a white outer edge, and the ray mark sits underneath the wordmark rather than beside it. Navy piping down the placket and collar, navy swoosh, and the navy helmet with the TB ray.
+
+It goes on the field for the first time in the second game of the September 22 doubleheader against the Yankees, with a week left in the season. Whether it becomes the primary road uniform in 2027 or simply joins the rotation alongside the navy and the Columbia blue has not been said. We grade it an A, the highest mark we have given anything Tampa Bay wears — the [full breakdown and grade is here](/stories/rays-new-gray-road-uniform).
+
+
 ## Columbia Blue Alternate (Home or Road, Manager's Choice)
 
 The Columbia blue is the softest, most distinctive color in the closet and a genuine point of difference in a league full of navy and red. It's a light-blue top that, since a 2022 tweak, wears the standalone sunburst logo on the right chest rather than a chest wordmark — a subtle, modern move that lets the color do the talking. There's no fixed day attached to it: the Rays reach for it both at home and on the road whenever they want that breezy, beachy look, and it pairs naturally with gray pants on the trip. It's one of the better light-blue uniforms in baseball, and the lack of a schedule keeps it feeling like a treat.
@@ -95,7 +102,7 @@ The Columbia blue is the softest, most distinctive color in the closet and a gen
 
 ## Navy Alternate (Home or Road, Manager's Choice)
 
-The navy alternate is the dark-tops workhorse. It's a deep navy jersey with Columbia blue piping, white character lettering, and outlined numbers, worn both at home and away with no day-of-week rule behind it. When the Rays travel, the navy top over gray pants is one of their default road combinations — a reminder that since 2023 Tampa Bay has leaned on its colored alternates on the road rather than a traditional gray jersey with "TAMPA BAY" across the chest. It's the steady, slightly anonymous option that lets the louder jerseys be the event.
+The navy alternate is the dark-tops workhorse. It's a deep navy jersey with Columbia blue piping, white character lettering, and outlined numbers, worn both at home and away with no day-of-week rule behind it. When the Rays travel, the navy top over gray pants is one of their default road combinations — a habit that formed because from 2023 until September 2026 Tampa Bay had no traditional road gray at all and leaned on its colored alternates instead. The new gray, with "TAMPA BAY" across the chest, now gives the navy some competition for those trips. It's the steady, slightly anonymous option that lets the louder jerseys be the event.
 
 
 ## Devil Rays "Rainbow" Throwback (Most Friday Home Games)
@@ -115,7 +122,7 @@ The City Connect, unveiled in 2024, is the most conceptually loaded jersey the R
 
 ## How the Rays Rotation Actually Works
 
-Let's be straight about it: the Rays are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; Tampa Bay really only has two soft anchors — **the Devil Rays throwback on most Friday home games and the City Connect on most Saturday home games**. Everything else is feel and matchup: the home whites, the Columbia blue, and the navy alternate all float, and the two dark tops do double duty as the team's road look over gray pants. There's no traditional gray "TAMPA BAY" road jersey in the current set, though the March 2026 fan vote suggests one could be coming.
+Let's be straight about it: the Rays are not a scheduled-rotation team the way the [Phillies](/stories/phillies-uniform-schedule-2026) and [Marlins](/stories/marlins-uniform-schedule-2026) are. Those clubs treat their closets like a published timetable; Tampa Bay really only has two soft anchors — **the Devil Rays throwback on most Friday home games and the City Connect on most Saturday home games**. Everything else is feel and matchup: the home whites, the Columbia blue, and the navy alternate all float, and the two dark tops do double duty as the team's road look over gray pants. For most of this season there was no traditional gray "TAMPA BAY" road jersey in the set at all, and we wrote here that the March 2026 fan vote suggested one could be coming. It came: the club revealed it on September 21 and wears it the next night in game 2 at the Yankees.
 
 It still works, because the two anchors cover the jerseys fans actually plan around. The rainbow throwback and the City Connect are the looks people buy tickets and merch for, so handing each one a standing weekend night builds anticipation even without a rigid system. The whites and the two blues are happy to handle the quiet midweek work in between — and with a palette this deep, even the "default" nights have more color than most teams' best alternates.
 
@@ -124,6 +131,10 @@ It still works, because the two anchors cover the jerseys fans actually plan aro
 **What jersey are the Tampa Bay Rays wearing today?**
 
 The Rays have two soft anchors at home. Most Friday home games are the 1998 Devil Rays "rainbow" throwback, and most Saturday home games are the black "Grit x Glow" City Connect. Outside those nights there's no fixed day-of-week system, so the home whites, the Columbia blue, and the navy alternate all float, and the two blue tops also handle the road over gray pants. Check the day of the week and whether the Rays are home or away, and remember Friday-rainbow and Saturday-City-Connect are the only reliable tells.
+
+**Do the Rays have a road gray?**
+
+Yes, as of September 2026. Tampa Bay carried no traditional road gray from 2023 through most of the 2026 season, travelling in the navy and Columbia blue alternates instead. The club revealed a new gray on September 21, with "TAMPA BAY" arched across the chest in a light blue to green to yellow gradient, and wears it for the first time in the second game of the September 22 doubleheader against the Yankees. We grade it an A: [full breakdown](/stories/rays-new-gray-road-uniform).
 
 **What jersey did the Rays wear last night?**
 

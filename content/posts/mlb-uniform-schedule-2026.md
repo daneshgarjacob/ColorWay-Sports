@@ -2,7 +2,7 @@
 title: "MLB Uniform Schedule 2026: What Every Team Wears and When (All 30 Teams)"
 category: "MLB"
 date: "2026-07-06"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-22"
 excerpt: "The full 2026 MLB uniform guide: how many jerseys all 30 teams have, which days they wear each one, and the four clubs that run a true schedule."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 coverImage: "/images/posts/mlb-uniform-schedule-2026-cover.jpg"
@@ -51,9 +51,9 @@ Before the team-by-team tables, it helps to know that every club falls into one 
 </div>
 <div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
 <a href="/stories/rays-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Tampa Bay Rays</a>
-<span style="font-size: 12px; color: #6b7180;">5 uniforms</span>
+<span style="font-size: 12px; color: #6b7180;">6 uniforms</span>
 <span style="font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; padding: 2px 9px; border-radius: 999px; background: #eef2fb; color: #2f6bed;">PARTIAL</span>
-<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Devil Rays rainbow throwback, and no gray road set</span>
+<span style="flex-basis: 100%; font-size: 13px; color: #57607a; line-height: 1.45;">Devil Rays rainbow throwback, and a brand-new gray road set from September 22</span>
 </div>
 <div style="padding: 12px 18px; border-top: 1px solid #eef0f4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;">
 <a href="/stories/blue-jays-uniform-schedule-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Toronto Blue Jays</a>
@@ -274,7 +274,7 @@ Most teams carry five distinct looks in 2026. The deepest closets belong to the 
 There is no league-wide rule, but Friday night home games are the most common City Connect slot in 2026. Teams like the Guardians, Tigers, Royals, Rangers, and Braves all lock their City Connect to Fridays. A few break the pattern, such as the Astros wearing their "Stros" City Connect on Monday home games.
 
 **Do MLB teams still wear gray road uniforms?**
-Almost all of them do, and the gray road set remains the single most-worn uniform for most teams. There are exceptions worth knowing: the Tampa Bay Rays currently have no gray road jersey, and the Los Angeles Angels retired their road grays and now send the red jersey on the road instead.
+Almost all of them do, and the gray road set remains the single most-worn uniform for most teams. There are exceptions worth knowing. The Los Angeles Angels retired their road grays and now send the red jersey on the road instead. The Tampa Bay Rays had no gray road jersey from 2023 until September 2026, travelling in their colored alternates, and [revealed a new one](/stories/rays-new-gray-road-uniform) on September 21 that debuts the next night in game 2 at the Yankees.
 
 ## The Bottom Line on the 2026 MLB Uniform Schedule
 
