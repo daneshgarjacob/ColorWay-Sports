@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
@@ -11,18 +10,21 @@ import Footer from "@/components/Footer";
 // form posts to formsubmit.co, the same free relay the contact page uses, so
 // every reservation lands in jake@colorwaysports.com.
 //
-// Public from 2026-09-22 (Jake: no sample designs needed up front, teams get
-// a design when they ask). In the footer and the sitemap.
+// Unlisted (Jake, 2026-09-22: "why is team kits linked if we haven't set it
+// up yet"): noindex, not in the nav, footer or sitemap. Reached from the flyer
+// QR code and direct links only. No sample designs up front; a team gets a
+// design when it asks.
 
 export const metadata: Metadata = {
   title: "Team Kits: Custom Hockey and Soccer Uniforms for League Teams | ColorWay Sports",
   description:
-    "Custom hockey and soccer uniforms for adult league teams, designed by the people who grade every uniform in pro sports. Price up front, names and numbers included.",
+    "Custom hockey and soccer uniforms for adult league teams, designed to a professional standard. Color system, crest, striping and numbers built from scratch, priced up front.",
   alternates: { canonical: "https://www.colorwaysports.com/team-kits" },
+  robots: { index: false, follow: true },
   openGraph: {
     title: "ColorWay Team Kits",
     description:
-      "Custom uniforms for adult league teams, designed by the people who grade uniforms for a living.",
+      "Custom team uniforms, designed to a professional standard.",
     url: "https://www.colorwaysports.com/team-kits",
     type: "website",
   },
@@ -33,13 +35,13 @@ export const metadata: Metadata = {
 // and colors. Never a real team's name or logo.
 const KITS: { image: string; team: string; detail: string }[] = [];
 
-// Real numbers only. GA4 30d on 2026-09-20: 124K views, 59K active users
-// (about 5% of those are bots, so 50,000+ is the honest floor). The wear log
-// held 1,000+ confirmed pro games on 2026-09-22.
-const PROOF = [
-  { big: "50,000+", small: "fans read ColorWay Sports every month" },
-  { big: "1,000+", small: "pro games' uniforms logged and graded since July" },
-  { big: "32 of 32", small: "NFL teams' full uniform schedules, published" },
+// What goes into every kit. Craft, not credentials (Jake: "show that we have
+// some design techniques and talk less about tracking the NFL, MLB, etc.").
+const CRAFT = [
+  { title: "A real color system", body: "A palette built for contrast on the ice and the field, with exact color codes so every reorder matches." },
+  { title: "Crest and typography", body: "A custom crest and a number set matched to your identity, legible from the stands." },
+  { title: "Striping in proportion", body: "Hem, sleeve and yoke stripes drawn to the cut of the garment, the way pro sweaters and kits are built." },
+  { title: "Production-ready files", body: "Vector artwork and a full spec sheet go to the manufacturer, so what you approve is exactly what arrives." },
 ];
 
 const PROMISES = [
@@ -138,14 +140,14 @@ export default async function TeamKitsPage({
           />
           <div className={`${wrap} relative grid grid-cols-1 lg:grid-cols-[1.15fr_0.85fr] gap-12 items-center py-16 sm:py-24`}>
             <div>
-              <p className={`${eyebrow} text-[#8fb0ff] mb-4`}>ColorWay Team Kits · Hockey and soccer</p>
-              <h1 className="text-[38px] sm:text-[60px] font-extrabold leading-[1.02] tracking-[-0.03em]" style={{ color: "#ffffff" }}>
-                Uniforms designed by the people who grade uniforms for a living.
+              <p className={`${eyebrow} text-[#8fb0ff] mb-4`}>ColorWay Sports · Team Kits</p>
+              <h1 className="text-[38px] sm:text-[58px] font-extrabold leading-[1.03] tracking-[-0.03em]" style={{ color: "#ffffff" }}>
+                Custom team uniforms, designed to a professional standard.
               </h1>
               <p className="text-[17px] sm:text-[19px] text-white/70 leading-relaxed mt-6 max-w-[560px]">
-                We track and grade what every team in the NFL, MLB and Premier
-                League wears, every game. Now we design kits for adult league
-                teams, built by a designer and priced up front.
+                Every kit starts from a blank page. We build your color system,
+                crest, striping and numbers from scratch, then deliver
+                production-ready artwork for hockey and soccer teams.
               </p>
               <div className="flex flex-wrap gap-3 mt-8">
                 <a href="#reserve" className="bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
@@ -165,7 +167,7 @@ export default async function TeamKitsPage({
                   <p className="text-[18px] font-extrabold tracking-tight mt-0.5">{SPEC.team}</p>
                   <p className="text-[13px] text-black/55">{SPEC.sport}</p>
                 </div>
-                <span className="bg-[#101522] text-white text-[15px] font-black px-3 py-1.5 rounded-md">A</span>
+                <span className="bg-[#101522] text-white text-[11px] font-bold uppercase tracking-[0.14em] px-2.5 py-1.5 rounded-md">Draft 1</span>
               </div>
               <div className="grid grid-cols-3">
                 {SPEC.swatches.map((s) => (
@@ -201,26 +203,22 @@ export default async function TeamKitsPage({
           </div>
         </section>
 
-        {/* Proof */}
+        {/* Craft */}
         <section className="bg-[#f5f7fb]">
-          <div className={`${wrap} py-14`}>
-            <p className={`${eyebrow} text-black/45 mb-6`}>Why teams trust us with their colors</p>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-              {PROOF.map((p) => (
-                <div key={p.big} className="bg-white rounded-xl px-6 py-6 border border-black/[0.06]">
-                  <p className="text-[38px] font-extrabold tracking-[-0.03em] leading-none">{p.big}</p>
-                  <p className="text-[14px] text-black/60 mt-2.5 leading-snug">{p.small}</p>
+          <div className={`${wrap} py-16`}>
+            <p className={`${eyebrow} text-[#2f6bed] mb-3`}>How we design</p>
+            <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] max-w-[680px] leading-tight">
+              The same principles behind the best uniforms in sport, applied to yours.
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
+              {CRAFT.map((c, i) => (
+                <div key={c.title} className="bg-white rounded-xl p-6 border border-black/[0.06]">
+                  <p className="text-[12px] font-extrabold text-[#2f6bed] tracking-[0.15em]">0{i + 1}</p>
+                  <p className="font-extrabold text-[17px] mt-3 mb-1.5">{c.title}</p>
+                  <p className="text-[14px] text-black/60 leading-relaxed">{c.body}</p>
                 </div>
               ))}
             </div>
-            <p className="text-[14px] text-black/60 mt-6">
-              See the work:{" "}
-              <Link href="/nfl-tracker" className="text-[#2f6bed] font-semibold hover:underline">NFL uniform tracker</Link>
-              {" · "}
-              <Link href="/mlb-tracker" className="text-[#2f6bed] font-semibold hover:underline">MLB uniform tracker</Link>
-              {" · "}
-              <Link href="/stories" className="text-[#2f6bed] font-semibold hover:underline">every story</Link>
-            </p>
           </div>
         </section>
 
@@ -327,7 +325,7 @@ export default async function TeamKitsPage({
                 free and doesn&apos;t commit you to buying. It holds your place and gets you:
               </p>
               <ul className="mt-5 space-y-2.5 text-white/85 text-[15px]">
-                {["Founding-team pricing, locked for your first order", "Your first design draft before anyone else", "Your kit featured on ColorWay Sports, with a grade"].map((x) => (
+                {["Founding-team pricing, locked for your first order", "Your first design draft before anyone else", "Your kit featured on ColorWay Sports"].map((x) => (
                   <li key={x} className="flex gap-2.5"><span className="text-[#8fb0ff] font-bold">✓</span>{x}</li>
                 ))}
               </ul>
