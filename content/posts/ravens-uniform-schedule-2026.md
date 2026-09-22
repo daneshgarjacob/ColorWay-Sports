@@ -1,5 +1,5 @@
 ---
-topViewsRank: 7
+topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"

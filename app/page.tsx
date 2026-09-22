@@ -85,9 +85,19 @@ export default function Home() {
     // Miami must NOT be re-added here while it holds the pin. Tracker stays in
     // the MIDDLE card per the 9/16 rule. Rivalries ranking is still the post to
     // restore once the Rays story cools.
+    // 9/22 later (Jake): Texans is OUT of this grid. Its cover is the club's
+    // "WEAR WHITE vs BILLS, SUNDAY SEPTEMBER 13" ticket poster, and that game was
+    // played on the 13th, so the card advertised a past game. The Rivalries
+    // ranking takes the slot: real photography, its cover-v5 is exactly 1500x1000
+    // for the card's 3:2 crop, and every uniform on it is worn in Oct/Nov, so
+    // nothing about it can go stale this season. Air Force and Navy were the other
+    // real-photo candidates and both lost on shape: their art is 0.80 portrait and
+    // the Air Force file is a "THE DETAILS" slide whose body copy is all a 3:2 crop
+    // would show. ▶ Texans belongs back here once it has a cover that is not a
+    // dated ticket promo.
     "rays-new-gray-road-uniform",
     "nfl-uniform-tracker-2026",
-    "texans-uniform-schedule-2026",
+    "nfl-rivalries-uniforms-2026-ranked",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

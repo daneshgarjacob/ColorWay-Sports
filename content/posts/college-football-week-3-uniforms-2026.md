@@ -1,5 +1,5 @@
 ---
-topViewsRank: 8
+topViewsRank: 7
 title: "College Football Week 3 Uniforms 2026: What Every Top Team Is Wearing This Saturday"
 author: "colorway-sports-staff"
 category: "College"
