@@ -75,9 +75,15 @@ export default function Home() {
     // Rivalries ranking gives up the third slot rather than Texans, because
     // Texans is here on GSC data (7d #4 page) and Rivalries was here to vary the
     // format. Put Rivalries back when this story cools.
+    // 9/22 (Jake): Texans gives up the third slot to the Miami 2001 throwbacks,
+    // so both of the week's uniform stories are above the fold. The Rays set
+    // debuts tonight in game 2 at the Yankees and Miami broke this morning, so
+    // both are at peak relevance on the same day; Texans is a schedule post that
+    // earns its traffic from search rather than from this grid. Tracker stays in
+    // the MIDDLE card per the 9/16 rule. Texans goes back when Miami cools.
     "rays-new-gray-road-uniform",
     "nfl-uniform-tracker-2026",
-    "texans-uniform-schedule-2026",
+    "miami-2001-throwback-uniforms",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)
