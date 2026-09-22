@@ -1,5 +1,16 @@
 {
   "rays|2": "Road Gray",
   "rays|1": "Navy Alternate",
-  "yankees|1": "Home White Pinstripes"
+  "yankees|1": "Home White Pinstripes",
+  "yankees|2": "Home White Pinstripes",
+  "nationals": "Navy Alternate",
+  "tigers": "Home White",
+  "cardinals": "Road Gray",
+  "pirates": "Black Alternate",
+  "brewers": "Powder Blue Alternate",
+  "phillies": "Home Pinstripes",
+  "guardians": "Navy Alternate",
+  "red-sox": "Home White",
+  "reds": "Road Gray",
+  "braves": "Home White"
 }

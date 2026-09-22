@@ -64,6 +64,10 @@ if (fs.existsSync(confirmedPath)) {
   confirmed = JSON.parse(fs.readFileSync(confirmedPath, "utf8"));
   console.log(`  using ${Object.keys(confirmed).length} confirmed uniforms from ${confirmedPath}`);
 }
+// Doubleheaders: a "<slug>|<gameNumber>" key beats the plain key for that game,
+// the same rule mlb-tracker-day.mjs uses. The team blocks describe the last game
+// of the day, so on 9/22 the Rays post reads the gray from "rays|2".
+const conf = (slug, gn) => confirmed[`${slug}|${gn}`] ?? confirmed[slug];
 
 // Caps only ride along with a confirmed jersey, straight from the feed.
 const caps = await fetchCaps(date, SLUG);
@@ -74,10 +78,11 @@ for (const g of games) {
   const h = g.teams.home.team.name, a = g.teams.away.team.name;
   const t = new Date(g.gameDate).toLocaleTimeString("en-US",
     { hour:"numeric", minute:"2-digit", timeZone:"America/New_York" }) + " ET";
-  if (SLUG[h]) state[SLUG[h]] = { opp: a, home: true,  time: t };
-  if (SLUG[a]) state[SLUG[a]] = { opp: h, home: false, time: t };
+  const gn = g.gameNumber ?? 1;
+  if (SLUG[h]) state[SLUG[h]] = { opp: a, home: true,  time: t, gn };
+  if (SLUG[a]) state[SLUG[a]] = { opp: h, home: false, time: t, gn };
   if (SLUG[h] && SLUG[a]) {
-    slate.push({ away: a, awaySlug: SLUG[a], home: h, homeSlug: SLUG[h], time: t, start: g.gameDate });
+    slate.push({ away: a, awaySlug: SLUG[a], home: h, homeSlug: SLUG[h], time: t, start: g.gameDate, gameNumber: gn });
   }
 }
 slate.sort((x, y) => String(x.start).localeCompare(String(y.start)));
@@ -101,8 +106,8 @@ function block(slug) {
     line = `The ${team} are off.`;
     why = "";
   } else {
-    const isConfirmed = Boolean(confirmed[slug]);
-    big = isConfirmed ? confirmed[slug] : (s.home ? (HOME[slug] || "Home Uniform") : (ROAD[slug] || "Road Grays"));
+    const isConfirmed = Boolean(conf(slug, s.gn));
+    big = isConfirmed ? conf(slug, s.gn) : (s.home ? (HOME[slug] || "Home Uniform") : (ROAD[slug] || "Road Grays"));
     sub = isConfirmed ? "Confirmed" : "Expected &middot; we confirm it the morning after";
     line = s.home ? `${s.opp} at ${team} &middot; ${s.time}` : `${team} at ${s.opp} &middot; ${s.time}`;
     why = isConfirmed
@@ -111,7 +116,7 @@ function block(slug) {
         ? "At home the exact jersey follows the rotation in the table below, which is set by the day of the week and whether it is a day or night game."
         : "Road games are the gray road set every time, regardless of the day.";
   }
-  const colour = !s ? "#5a6472" : (confirmed[slug] ? "#1a7f37" : "#14284b");
+  const colour = !s ? "#5a6472" : (conf(slug, s.gn) ? "#1a7f37" : "#14284b");
   // NOTE: emitted as a SINGLE line on purpose. A multi-line block made the
   // replace-regex run past its own closing tag and eat the following affiliate
   // block on re-run. One line means the match can only ever be this block.
@@ -124,7 +129,7 @@ function block(slug) {
     `<div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">${sub}</div>` +
     `<div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">${line}</div>` +
     (why ? `<div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">${why}</div>` : "") +
-    (s && confirmed[slug] && caps[slug] ? `<div data-cap="${caps[slug]}" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: ${caps[slug]}</div>` : "") +
+    (s && conf(slug, s.gn) && caps[slug] ? `<div data-cap="${caps[slug]}" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: ${caps[slug]}</div>` : "") +
     `<a href="/mlb-tracker/${slug}" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: ${NAVY}; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a>` +
     `</div></div>\n`;
 }
@@ -138,7 +143,7 @@ const LEAGUE_MARK = "data-mlb-league-wearing";
 const LEAGUE_POST = path.join(ROOT, "mlb-uniform-schedule-2026.md");
 
 function leagueBlock() {
-  const confirmedGames = slate.filter(g => confirmed[g.awaySlug] && confirmed[g.homeSlug]);
+  const confirmedGames = slate.filter(g => conf(g.awaySlug, g.gameNumber) && conf(g.homeSlug, g.gameNumber));
   const first = slate[0]?.time;
   let big, sub, line, colour, cta = "Every jersey worn tonight &rarr;";
   if (!slate.length) {
@@ -160,7 +165,7 @@ function leagueBlock() {
   }
   const rows = confirmedGames.map(g =>
     `<div style="padding: 7px 0; border-bottom: 1px solid #f0f2f5; font-size: 0.92em; color: #1c1c1c; line-height: 1.45;">` +
-    `<strong>${SHORT[g.awaySlug]}</strong> ${confirmed[g.awaySlug]} at <strong>${SHORT[g.homeSlug]}</strong> ${confirmed[g.homeSlug]}</div>`
+    `<strong>${SHORT[g.awaySlug]}</strong> ${conf(g.awaySlug, g.gameNumber)} at <strong>${SHORT[g.homeSlug]}</strong> ${conf(g.homeSlug, g.gameNumber)}</div>`
   ).join("");
   return `<div ${LEAGUE_MARK} style="margin: 1.75em 0; border: 2px solid ${NAVY}; border-radius: 16px; overflow: hidden;">` +
     `<div style="background: ${NAVY}; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">` +
@@ -192,7 +197,7 @@ function writeBlock(file, marker, html) {
 
 writeBlock(LEAGUE_POST, LEAGUE_MARK, leagueBlock());
 console.log(`league guide block written for ${pretty} (${slate.length} games, ` +
-  `${slate.filter(g => confirmed[g.awaySlug] && confirmed[g.homeSlug]).length} confirmed)`);
+  `${slate.filter(g => conf(g.awaySlug, g.gameNumber) && conf(g.homeSlug, g.gameNumber)).length} confirmed)`);
 
 const re = new RegExp(`^<div ${MARK}[^\\n]*\\n`, "m");
 let n = 0;

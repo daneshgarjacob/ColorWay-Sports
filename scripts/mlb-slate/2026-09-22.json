@@ -6,112 +6,128 @@
       "awaySlug": "rays",
       "home": "New York Yankees",
       "homeSlug": "yankees",
-      "time": "1:05 PM ET"
+      "time": "1:05 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Toronto Blue Jays",
       "awaySlug": "blue-jays",
       "home": "Baltimore Orioles",
       "homeSlug": "orioles",
-      "time": "6:35 PM ET"
+      "time": "6:35 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Washington Nationals",
       "awaySlug": "nationals",
       "home": "Detroit Tigers",
       "homeSlug": "tigers",
-      "time": "6:40 PM ET"
+      "time": "6:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "St. Louis Cardinals",
       "awaySlug": "cardinals",
       "home": "Pittsburgh Pirates",
       "homeSlug": "pirates",
-      "time": "6:40 PM ET"
+      "time": "6:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Milwaukee Brewers",
       "awaySlug": "brewers",
       "home": "Philadelphia Phillies",
       "homeSlug": "phillies",
-      "time": "6:40 PM ET"
+      "time": "6:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Cleveland Guardians",
       "awaySlug": "guardians",
       "home": "Boston Red Sox",
       "homeSlug": "red-sox",
-      "time": "6:45 PM ET"
+      "time": "6:45 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Tampa Bay Rays",
       "awaySlug": "rays",
       "home": "New York Yankees",
       "homeSlug": "yankees",
-      "time": "7:05 PM ET"
+      "time": "7:05 PM ET",
+      "gameNumber": 2
     },
     {
       "away": "Cincinnati Reds",
       "awaySlug": "reds",
       "home": "Atlanta Braves",
       "homeSlug": "braves",
-      "time": "7:15 PM ET"
+      "time": "7:15 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Chicago White Sox",
       "awaySlug": "white-sox",
       "home": "Kansas City Royals",
       "homeSlug": "royals",
-      "time": "7:40 PM ET"
+      "time": "7:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Miami Marlins",
       "awaySlug": "marlins",
       "home": "Chicago Cubs",
       "homeSlug": "cubs",
-      "time": "7:40 PM ET"
+      "time": "7:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "New York Mets",
       "awaySlug": "mets",
       "home": "Texas Rangers",
       "homeSlug": "rangers",
-      "time": "8:05 PM ET"
+      "time": "8:05 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Arizona Diamondbacks",
       "awaySlug": "diamondbacks",
       "home": "Colorado Rockies",
       "homeSlug": "rockies",
-      "time": "8:40 PM ET"
+      "time": "8:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Los Angeles Angels",
       "awaySlug": "angels",
       "home": "Athletics",
       "homeSlug": "athletics",
-      "time": "9:40 PM ET"
+      "time": "9:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Houston Astros",
       "awaySlug": "astros",
       "home": "Seattle Mariners",
       "homeSlug": "mariners",
-      "time": "9:40 PM ET"
+      "time": "9:40 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "Minnesota Twins",
       "awaySlug": "twins",
       "home": "San Francisco Giants",
       "homeSlug": "giants",
-      "time": "9:45 PM ET"
+      "time": "9:45 PM ET",
+      "gameNumber": 1
     },
     {
       "away": "San Diego Padres",
       "awaySlug": "padres",
       "home": "Los Angeles Dodgers",
       "homeSlug": "dodgers",
-      "time": "10:10 PM ET"
+      "time": "10:10 PM ET",
+      "gameNumber": 1
     }
   ]
 }

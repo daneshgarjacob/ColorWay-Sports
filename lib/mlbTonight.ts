@@ -21,6 +21,7 @@ export type MlbSlateGame = {
   home: string;
   homeSlug: string;
   time: string;      // "6:40 PM ET"
+  gameNumber?: number; // 2 for the second game of a doubleheader
 };
 
 export type MlbTonight = {
@@ -54,9 +55,11 @@ export function buildMlbTonight(now = new Date()): MlbTonight | null {
 
   // A game counts as confirmed only when we have BOTH uniforms, so the number
   // matches what a reader sees on the tracker card for that matchup.
-  const confirmedGames = games.filter((g) => confirmed[g.awaySlug] && confirmed[g.homeSlug]).length;
+  // A "<slug>|<gameNumber>" key covers one game of a doubleheader.
+  const conf = (slug: string, gn?: number) => confirmed[`${slug}|${gn ?? 1}`] ?? confirmed[slug];
+  const confirmedGames = games.filter((g) => conf(g.awaySlug, g.gameNumber) && conf(g.homeSlug, g.gameNumber)).length;
   const confirmedTeams = games.reduce(
-    (n, g) => n + (confirmed[g.awaySlug] ? 1 : 0) + (confirmed[g.homeSlug] ? 1 : 0),
+    (n, g) => n + (conf(g.awaySlug, g.gameNumber) ? 1 : 0) + (conf(g.homeSlug, g.gameNumber) ? 1 : 0),
     0,
   );
 
