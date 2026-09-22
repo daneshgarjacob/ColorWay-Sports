@@ -1,5 +1,5 @@
 ---
-topViewsRank: 5
+topViewsRank: 9
 title: "Seattle Seahawks 2026 Uniform Schedule: Throwback Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"

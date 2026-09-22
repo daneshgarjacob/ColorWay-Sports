@@ -1,5 +1,5 @@
 ---
-topViewsRank: 12
+topViewsRank: 5
 title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
 category: "NFL"
 date: "2026-08-13"

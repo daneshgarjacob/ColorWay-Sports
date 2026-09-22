@@ -1,5 +1,5 @@
 ---
-homepageHero: true
+topViewsRank: 2
 title: "Cincinnati Bengals 2026 Uniform Schedule: White Bengal Jersey Dates"
 category: NFL
 date: "2026-08-11"

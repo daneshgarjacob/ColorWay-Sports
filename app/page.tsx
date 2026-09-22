@@ -75,15 +75,19 @@ export default function Home() {
     // Rivalries ranking gives up the third slot rather than Texans, because
     // Texans is here on GSC data (7d #4 page) and Rivalries was here to vary the
     // format. Put Rivalries back when this story cools.
-    // 9/22 (Jake): Texans gives up the third slot to the Miami 2001 throwbacks,
-    // so both of the week's uniform stories are above the fold. The Rays set
-    // debuts tonight in game 2 at the Yankees and Miami broke this morning, so
-    // both are at peak relevance on the same day; Texans is a schedule post that
-    // earns its traffic from search rather than from this grid. Tracker stays in
-    // the MIDDLE card per the 9/16 rule. Texans goes back when Miami cools.
+    // 9/22 (Jake): Miami moved UP to the hero and Texans came back here, because
+    // Jake asked for one of the week's two uniform stories on top and said the
+    // Bengals schedule post had been the hero too long. Miami won the hero over
+    // the Rays on the picture: its cover is a real 1600x1066 photograph of both
+    // sets in the Hall of Honor, which is exactly the hero's 3:2 crop, while the
+    // Rays cover is a 1080x1350 portrait graphic whose own headline type gets cut
+    // off in a wide block. A post in the hero is filtered OUT of this list, so
+    // Miami must NOT be re-added here while it holds the pin. Tracker stays in
+    // the MIDDLE card per the 9/16 rule. Rivalries ranking is still the post to
+    // restore once the Rays story cools.
     "rays-new-gray-road-uniform",
     "nfl-uniform-tracker-2026",
-    "miami-2001-throwback-uniforms",
+    "texans-uniform-schedule-2026",
   ];
   const featured = FEATURED_SLUGS.map((s) =>
     filtered.find((p) => p.slug === s)

@@ -1,5 +1,5 @@
 ---
-topViewsRank: 10
+topViewsRank: 13
 title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"

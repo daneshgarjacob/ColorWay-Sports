@@ -1,5 +1,5 @@
 ---
-topViewsRank: 12
+topViewsRank: 15
 title: "2026 NFL Uniform Tracker: What Every Team Is Wearing, Game by Game, Graded"
 author: "colorway-sports-staff"
 resurfaceOnUpdate: true

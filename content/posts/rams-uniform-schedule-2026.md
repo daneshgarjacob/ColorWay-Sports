@@ -1,5 +1,5 @@
 ---
-topViewsRank: 9
+topViewsRank: 12
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
