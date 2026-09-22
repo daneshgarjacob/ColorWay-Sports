@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-22"
 excerpt: "MLB postseason uniforms explained: who picks the playoff jerseys, whether City Connects are allowed, the October patches, and what the likely 2026 contenders wear."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -56,7 +56,7 @@ Here is the playoff picture as of Wednesday, September 16, from MLB's standings.
 
 ### American League
 
-**Tampa Bay Rays (91-59, AL East leader, clinched).** The Rays mix things up more than almost anyone. Over the last two weeks they wore home whites against Houston and the Athletics, the white Devil Rays throwback on a Friday, and the navy alternate for a full three-game series in Atlanta. They also carry no gray road jersey, so a Rays road game in October will be a color jersey no matter what. [Rays uniform schedule](/stories/rays-uniform-schedule-2026).
+**Tampa Bay Rays (91-59, AL East leader, clinched).** The Rays mix things up more than almost anyone. Over the last two weeks they wore home whites against Houston and the Athletics, the white Devil Rays throwback on a Friday, and the navy alternate for a full three-game series in Atlanta. They carried no gray road jersey from 2023 until September 2026, which would have made a Rays road game in October a colour jersey no matter what. That changed on September 21, when the club revealed a [new gray road uniform](/stories/rays-new-gray-road-uniform) that debuts the next night in game 2 at the Yankees, so October is now genuinely open. [Rays uniform schedule](/stories/rays-uniform-schedule-2026).
 
 **New York Yankees (88-63, clinched).** The easiest call in baseball. Pinstripes at home, gray on the road, and that is how they have looked all month, including pinstripes for the Subway Series and gray this week in Minnesota. The Yankees do have a navy road alternate in the closet for 2026 that they have not worn in a regular season game. An October debut would be a shock. [Yankees uniform schedule](/stories/yankees-uniform-schedule-2026).
 
