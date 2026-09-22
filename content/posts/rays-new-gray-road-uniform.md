@@ -29,6 +29,12 @@ Two things make this a bigger deal than a normal uniform drop. The Rays have not
 
 <p style="font-size: 0.78em; color: #7C8696; text-align: center; margin: -0.6em 0 1.6em;">Image: Tampa Bay Rays</p>
 
+The club announced it Monday morning with three words, "This one's for Tampa Bay," and the reveal video.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RaysBaseball/status/2102056016913293654"></a></blockquote>
+</div>
+
 ## What Is Actually On It
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
