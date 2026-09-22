@@ -19,8 +19,6 @@ allowlist covering the hosts above.
    the tracker day block, scores, and Jake's Clash of the Day pick.
 2. **Clash of the Day for Monday 9/21 is Jake's pick.** Three candidates: Twins navy at Giants cream,
    Nationals gray at Tigers Navy City Connect, Blue Jays gray at Orioles orange.
-3. **Google indexing** for `rays-new-gray-road-uniform` and `miami-2001-throwback-uniforms`: inspect the
-   day after publish (9/22) and request only if not on Google.
 4. **NFL Week 3 tracker cards**: build Wednesday 9/23 by inheriting from both teams' schedule posts.
 
 ## Closed 2026-09-21 night (Jake's Mac)
