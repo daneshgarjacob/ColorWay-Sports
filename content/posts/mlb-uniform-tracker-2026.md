@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Monday, September 21
 
-Monday is a three-game slate, and all three are confirmed. Each game had one club in an alternate and the other in its standard set. The best look of the night was in Detroit, where the Tigers wore the Navy City Connect against the Nationals in road gray and won 9-2. Baltimore brought out the orange alternate at Camden Yards against the Blue Jays in road gray, the white-front bird cap on top, and edged Toronto 4-3. Out west the Twins wore the navy alternate at Oracle Park against the Giants in home cream, and San Francisco took it 5-2.
+Monday is a three-game slate, and all three are confirmed. Each game had one club in an alternate and the other in its standard set. The best look of the night was in Detroit, where the Tigers wore the Navy City Connect against the Nationals in road gray and won 9-2. Baltimore brought out the orange alternate at Camden Yards against the Blue Jays in road gray, the white-front bird cap on top, and edged Toronto 4-3, our Clash of the Day. Out west the Twins wore the navy alternate at Oracle Park against the Giants in home cream, and San Francisco took it 5-2.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -91,6 +91,11 @@ Monday is a three-game slate, and all three are confirmed. Each game had one clu
 
 ### Toronto Blue Jays at Baltimore Orioles
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #134A8E 0%, #ffffff 50%, #DF4601 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(223,70,1,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -117,6 +122,9 @@ Monday is a three-game slate, and all three are confirmed. Each game had one clu
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to Baltimore. The Orioles wore the orange alternate with the white-front bird cap and the Blue Jays answered in road gray under the all-blue cap, and on a three-game Monday it was the only matchup with real heat in it. Orange against gray is the Orioles' best trick: the gray gives the orange nothing to fight, so the jersey reads as loud as it is, and Toronto's royal cap and lettering put a second colour on the field without crowding the first. Baltimore won 4-3, and the orange alternate at Camden Yards on a late-September night is a look that deserves more than the handful of dates it gets.
 
 ## Sunday, September 20
 
