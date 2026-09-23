@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Tuesday, September 22
 
-Tuesday is a 15-game slate after the Blue Jays and Orioles were postponed, and the headline is in the Bronx. The Rays wore their brand-new road gray for the first time in game 2 of the doubleheader at Yankee Stadium, the gradient "TAMPA BAY" across the chest, after opening the day in the navy alternate and dropping game 1, 2-0. The gray debuted with a win: Rays 6, Yankees 1. Elsewhere, Pittsburgh went to the black "Pittsburgh" alternate against the Cardinals in road gray, the Rockies wore purple against Arizona, the Angels brought out red in Sacramento, and the Nationals and Guardians both played in navy alternates on the road. Every card below is confirmed off the league's uniform filings, with every final score in.
+Tuesday is a 15-game slate after the Blue Jays and Orioles were postponed, and the headline is in the Bronx. The Rays wore their brand-new road gray for the first time in game 2 of the doubleheader at Yankee Stadium, the gradient "TAMPA BAY" across the chest, after opening the day in the navy alternate and dropping game 1, 2-0. The gray debuted with a win: Rays 6, Yankees 1. Elsewhere, Pittsburgh went to the black "Pittsburgh" alternate against the Cardinals in road gray, the Rockies wore purple against Arizona, the Angels brought out red in Sacramento, and the Nationals and Guardians both played in navy alternates on the road. Every card below is confirmed off the league's uniform filings, with every final score in. The Rays gray debut is our Clash of the Day.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -294,6 +294,11 @@ Tuesday is a 15-game slate after the Blue Jays and Orioles were postponed, and t
 
 ### Tampa Bay Rays at New York Yankees, Game 2
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #8FBCE6 0%, #ffffff 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(12,35,64,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -320,6 +325,9 @@ Tuesday is a 15-game slate after the Blue Jays and Orioles were postponed, and t
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to the Bronx. The Rays wore their new road gray for the first time, "TAMPA BAY" arched across the chest in a gradient that runs light blue into green into yellow, and they wore it at the one ballpark where a road gray gets judged against the most famous home uniform in the sport. Yankees pinstripes against a gray with color in the lettering is the right kind of contrast: two traditional sets, one plain and one with a little Florida in it, and neither trying too hard. The debut came with a win, too. Tampa Bay took game 2, 6-1, after dropping the opener in the navy alternate.
 
 ### Cleveland Guardians at Boston Red Sox
 
