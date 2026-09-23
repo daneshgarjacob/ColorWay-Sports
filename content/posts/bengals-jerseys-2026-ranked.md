@@ -2,7 +2,7 @@
 title: "Cincinnati Bengals Jerseys 2026: Every Jersey Ranked, From Orange to White"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-23"
 excerpt: "Cincinnati Bengals jerseys 2026, ranked: all three jerseys graded, orange, black and white, with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 author: "colorway-sports-staff"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["cincinnati-bengals"]
 ---
 
-The Bengals build every jersey they own on one idea, the tiger stripe, and in 2026 they have three of them: black at home, white on the road and for the White Bengal nights, and orange for the home opener. We put Cincinnati twelfth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at a B+, and the individual looks show where that grade comes from. The top of this closet is as good as anything in the league.
+The Bengals build every jersey they own on one idea, the tiger stripe, and in 2026 they have three of them: black at home, white on the road and for the White Bengal night, and orange for the home opener plus two more dates. We put Cincinnati twelfth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at a B+, and the individual looks show where that grade comes from. The top of this closet is as good as anything in the league.
 
 Here are all three Cincinnati Bengals jerseys for 2026, ranked worst to first and graded, with the helmet and pants each one wears and every date it comes out.
 
@@ -29,11 +29,11 @@ Here are all three Cincinnati Bengals jerseys for 2026, ranked worst to first an
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2086852333808337252"></a></blockquote>
 </div>
 
-The white jersey has black numbers outlined in orange, an orange BENGALS wordmark across the chest, and black tiger stripes on the shoulders. It is the road jersey, worn with the striped orange helmet and white pants, which is how we have the Bengals projected for Week 2 at Houston. It is also the jersey inside the White Bengal look: Cincinnati pairs it with the white helmet and white pants at home twice in 2026, against Pittsburgh on Sunday Night Football on November 15 and against Baltimore on Thursday, December 31. On the road it projects to all nine games: at the Texans on Sunday, September 20, at the Steelers in Week 3, at the Dolphins in Week 5, at the Ravens in Week 7, against Atlanta in Madrid on Sunday, November 8 (the Falcons are the home team), at the Commanders in Week 11, at the Browns in Week 13, at the Panthers in Week 15, and at the Colts in Week 16.
+The white jersey has black numbers outlined in orange, an orange BENGALS wordmark across the chest, and black tiger stripes on the shoulders. It is the road jersey, worn with the striped orange helmet and white pants, which is how we have the Bengals projected for Week 2 at Houston. It is also the jersey inside the White Bengal look: Cincinnati pairs it with the white helmet and white pants at home once in 2026, against Pittsburgh on Sunday Night Football on November 15. We also have the standard white at home on Thursday, December 31 against Baltimore, the New Year's Eve game the team has named White Bengal Stripe for the black-and-white crowd pattern in the stands. On the road it projects to eight of the nine games: at the Texans on Sunday, September 20, at the Steelers in Week 3, at the Ravens in Week 7, against Atlanta in Madrid on Sunday, November 8 (the Falcons are the home team), at the Commanders in Week 11, at the Browns in Week 13, at the Panthers in Week 15, and at the Colts in Week 16. The one road exception is Week 5 at Miami, where the Dolphins wear white at home and we have Cincinnati in orange.
 
 The shoulder stripes are the best part, and they are also the only part doing any work. On white, the orange is limited to a thin number outline, the wordmark, and the helmet, so the jersey itself reads mostly black and white, and the brightest color in the franchise ends up on the smallest details.
 
-It grades a B. It is clean and it is unmistakably Cincinnati, but it is the one jersey in the closet where the stripe is not the loudest thing on the field. The white helmet on the White Bengal nights makes the whole look much stronger, but that is the helmet doing the work, not the jersey. The best road date is Week 16 at Indianapolis, where the Colts wear their black Indiana Nights alternate, which gives this jersey the dark opponent it needs.
+It grades a B. It is clean and it is unmistakably Cincinnati, but it is the one jersey in the closet where the stripe is not the loudest thing on the field. The white helmet on the White Bengal night makes the whole look much stronger, but that is the helmet doing the work, not the jersey. The best road date is Week 16 at Indianapolis, where the Colts wear their black Indiana Nights alternate, which gives this jersey the dark opponent it needs.
 
 ## 2. Black Home
 
@@ -46,9 +46,9 @@ It grades a B. It is clean and it is unmistakably Cincinnati, but it is the one 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2091880769983541383"></a></blockquote>
 </div>
 
-The black home jersey carries white numbers outlined in orange, the orange BENGALS wordmark, and orange tiger stripes on the shoulders. It pairs with the striped orange helmet, and Cincinnati picks the pants during game week. It projects to the five home games not claimed by a special uniform: the Jaguars in Week 4, the Titans on November 1, the Saints on November 29, the Chiefs in Week 14, and the Browns in Week 18. None of those is confirmed by the team yet, so treat them as our projection.
+The black home jersey carries white numbers outlined in orange, the orange BENGALS wordmark, and orange tiger stripes on the shoulders. It pairs with the striped orange helmet, and Cincinnati picks the pants during game week. It projects to the four home games not claimed by another uniform: the Jaguars in Week 4, the Titans on November 1, the Saints on November 29, and the Browns in Week 18. None of those is confirmed by the team yet, so treat them as our projection.
 
-This is the look the franchise is known for, and the 2021 redesign left it alone where it mattered. Orange stripes on black are the highest-contrast version of the stripe in the whole closet, and the white numbers with an orange outline stay readable from anywhere in the stadium. The Week 14 game against Kansas City, with the Chiefs in their white road set, is the best test of it all season.
+This is the look the franchise is known for, and the 2021 redesign left it alone where it mattered. Orange stripes on black are the highest-contrast version of the stripe in the whole closet, and the white numbers with an orange outline stay readable from anywhere in the stadium. The Week 18 finale against Cleveland, with the Browns in their white road set, is the best test of it all season.
 
 It grades a B+, the same as the closet overall. What keeps it below the top spot is the base. Black is a color Cincinnati uses well, but it is not the color that makes the Bengals the Bengals. That is orange, and the jersey ahead of this one puts it front and center.
 
@@ -63,7 +63,7 @@ It grades a B+, the same as the closet overall. What keeps it below the top spot
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2097356496778547483"></a></blockquote>
 </div>
 
-The orange jersey has white numbers outlined in black, a black BENGALS wordmark, and black stripes on the shoulders. In 2026 it had one confirmed date, Open In Orange, the home opener tradition Cincinnati started in 2024: Sunday, September 13 against Tampa Bay, worn with the orange helmet and white pants. That is the version the team settled on in 2025, after the first Open In Orange went orange from helmet to pants.
+The orange jersey has white numbers outlined in black, a black BENGALS wordmark, and black stripes on the shoulders. In 2026 it has one confirmed date, Open In Orange, the home opener tradition Cincinnati started in 2024: Sunday, September 13 against Tampa Bay, worn with the orange helmet and white pants. That is the version the team settled on in 2025, after the first Open In Orange went orange from helmet to pants. We have it back twice more: on the road at Miami in Week 5, with the Dolphins in white at home, and at Paycor Stadium against Kansas City in Week 14, with the Chiefs in their white road set. Those two are our projection, not team announcements.
 
 The white pants are why this ranks so high. With the orange helmet and orange jersey stacked on top, the white pants give the stripes somewhere to stop, so the uniform reads as a block of orange with black stripes rather than a wall of one color. On the Week 1 broadcast it worked exactly that way against Tampa Bay's white and pewter, a matchup we graded a B+ in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
@@ -72,18 +72,18 @@ It grades an A-, the top mark in the closet. This is the jersey that puts the fr
 ## Every Cincinnati Bengals Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Orange Alternate</strong> · A- · Open In Orange, Week 1</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Black Home</strong> · B+ · five home games</p>
-  <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>3. White</strong> · B · nine road games plus the two White Bengal nights</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Orange Alternate</strong> · A- · Open In Orange Week 1, plus Weeks 5 and 14</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Black Home</strong> · B+ · four home games</p>
+  <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>3. White</strong> · B · eight road games, Week 17 at home and the White Bengal in Week 10</p>
 </div>
 
 For the week-by-week plan, the [Cincinnati Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) has every game and marks which ones the team has confirmed, and the [Bengals uniform calendar](/nfl-tracker/bengals) lays all 18 weeks out at a glance. Once a game is played, our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what Cincinnati actually wore and grades the matchup.
 
 ## The Bottom Line on the Bengals Jersey Rankings
 
-The Bengals jerseys rank by how much room each one gives the stripe. The orange alternate gives it the franchise color and grades an A-. The black home jersey is the identity and a strong B+, and the white jersey, where the stripe shrinks to the shoulders, is a B, even if the white helmet makes its two White Bengal nights the best-looking games on the schedule.
+The Bengals jerseys rank by how much room each one gives the stripe. The orange alternate gives it the franchise color and grades an A-. The black home jersey is the identity and a strong B+, and the white jersey, where the stripe shrinks to the shoulders, is a B, even if the white helmet makes its White Bengal night against Pittsburgh one of the best-looking games on the schedule.
 
-There is no weak jersey here. The only thing we would change is the count: one orange game is not enough for a jersey this good.
+There is no weak jersey here. The only thing we would change is the count: three orange games is a good start, and a jersey this good could carry more.
 
 ## Frequently Asked Questions
 
@@ -105,8 +105,8 @@ No. All three jerseys are returning. White Bengal Stripe on New Year's Eve is th
 
 **When do the Bengals wear the White Bengal uniform in 2026?**
 
-Twice, both at home: Sunday, November 15 against the Pittsburgh Steelers on Sunday Night Football, and Thursday, December 31 against the Baltimore Ravens, the White Bengal Stripe game. It is the white jersey with the white helmet and white pants.
+Once, at home on Sunday, November 15 against the Pittsburgh Steelers on Sunday Night Football. It is the white jersey with the white helmet and white pants. Thursday, December 31 against the Baltimore Ravens is White Bengal Stripe night, but we expect the standard white jersey that night, not the full White Bengal alternate.
 
 **When do the Bengals wear orange in 2026?**
 
-The only confirmed orange date is Open In Orange, the home opener against the Tampa Bay Buccaneers on Sunday, September 13, worn with the orange helmet and white pants.
+Three times, by our count. The only confirmed orange date is Open In Orange, the home opener against the Tampa Bay Buccaneers on Sunday, September 13, worn with the orange helmet and white pants. We also have the orange jersey on the road at Miami in Week 5 and at home against Kansas City in Week 14.

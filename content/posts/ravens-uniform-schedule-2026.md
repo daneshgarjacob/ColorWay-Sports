@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-23"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -117,7 +117,7 @@ Weeks 1, 5, 6, 8, 11, 12 and 15. The Week 5 Sunday nighter in Atlanta is the one
 
 ## Purple in Cincinnati (Week 17)
 
-The Thursday night game on New Year's Eve is the second road date where Baltimore wears purple, after Rio, and it is the Bengals' decision: Cincinnati has confirmed the **White Bengal** alternate for that game, and with the home team in white the visitor wears its color. Purple against white tiger stripes in prime time is one of the best-looking road games on the Ravens' schedule.
+The Thursday night game on New Year's Eve is the second road date where Baltimore wears purple, after Rio, and it is the Bengals' decision: Cincinnati is at home in white for its White Bengal Stripe night, and with the home team in white the visitor wears its color. Purple against white in prime time is one of the best-looking road games on the Ravens' schedule.
 
 ## How the Ravens Rotation Works in 2026
 
@@ -156,7 +156,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What jerseys do the Ravens have in 2026?**
 
-Five uniforms. The purple home set covers four games at M&T Bank Stadium, Weeks 4, 7 and 16 plus the Purple Rising night in Week 9, and purple travels twice, Week 3 against Dallas in Rio, where the Cowboys are the home team in white, and Week 17 at Cincinnati, because the Bengals wear their White Bengal alternate that night. The white road set covers seven trips, and the opener at Indianapolis was confirmed as black helmet, white jersey and black pants. The new thing for 2026 is the Next Flight collection, launched in April, a full refresh that gave a franchise which had worn essentially one helmet for thirty seasons two more, and all three of its theme games now have dates. White Noise is Week 2 against the Saints on Sunday, September 20, the metallic Purple Rising helmet over a white jersey and white pants at home. Purple Rising is Week 9 against the Jaguars on Thursday, November 5, purple jersey and purple pants under the Purple Rising helmet. Darkness Falls is Week 10 against the Chargers on Monday, November 16, black jersey and black pants under the matte black Darkness helmet with the red-eyed raven, and we have the black Darkness Falls jersey back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+Five uniforms. The purple home set covers four games at M&T Bank Stadium, Weeks 4, 7 and 16 plus the Purple Rising night in Week 9, and purple travels twice, Week 3 against Dallas in Rio, where the Cowboys are the home team in white, and Week 17 at Cincinnati, because the Bengals are at home in white for their White Bengal Stripe night. The white road set covers seven trips, and the opener at Indianapolis was confirmed as black helmet, white jersey and black pants. The new thing for 2026 is the Next Flight collection, launched in April, a full refresh that gave a franchise which had worn essentially one helmet for thirty seasons two more, and all three of its theme games now have dates. White Noise is Week 2 against the Saints on Sunday, September 20, the metallic Purple Rising helmet over a white jersey and white pants at home. Purple Rising is Week 9 against the Jaguars on Thursday, November 5, purple jersey and purple pants under the Purple Rising helmet. Darkness Falls is Week 10 against the Chargers on Monday, November 16, black jersey and black pants under the matte black Darkness helmet with the red-eyed raven, and we have the black Darkness Falls jersey back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 **When do the Ravens wear the black uniform in 2026?**
 
@@ -180,7 +180,7 @@ No. Dallas is the designated home team for the Week 3 game at the Maracanã on S
 
 **Could the Ravens wear purple on the road in 2026?**
 
-Yes, twice. Week 3 against Dallas in Rio, because the Cowboys are the designated home team and wear white, and Week 17 at Cincinnati, where the Bengals wear the White Bengal.
+Yes, twice. Week 3 against Dallas in Rio, because the Cowboys are the designated home team and wear white, and Week 17 at Cincinnati, where the Bengals are at home in white for their White Bengal Stripe night.
 
 **How many uniforms do the Ravens have in 2026?**
 

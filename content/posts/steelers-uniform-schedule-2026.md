@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-23"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -150,7 +150,7 @@ The gold look is the 1933 throwback: a gold jersey with black stripes, beige pan
 
 ## More NFL Coverage
 
-- [Bengals 2026 Uniform Schedule](/stories/bengals-uniform-schedule-2026) — the twice-a-year AFC North opponent, with three confirmed dates
+- [Bengals 2026 Uniform Schedule](/stories/bengals-uniform-schedule-2026) — the twice-a-year AFC North opponent, with two confirmed dates
 - [Browns 2026 Uniform Schedule](/stories/browns-uniform-schedule-2026) — the Week 4 Thursday nighter and the Week 8 rematch
 - [Texans 2026 Uniform Schedule](/stories/texans-uniform-schedule-2026) — Battle Red, and the Week 13 Sunday night visit
 - [NFL Uniform Tracker 2026](/stories/nfl-uniform-tracker-2026) — what all 32 teams wear, game by game

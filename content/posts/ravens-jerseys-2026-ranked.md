@@ -2,7 +2,7 @@
 title: "Baltimore Ravens Jerseys 2026: Every Jersey Ranked, From Purple Rising to White"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-09-23"
 author: "colorway-sports-staff"
 excerpt: "Ravens jerseys 2026, ranked and graded: all four Next Flight jerseys, from Purple Rising and Darkness Falls to purple and white, with White Noise and every date."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
@@ -55,7 +55,7 @@ The purple home jersey is a small update rather than a redesign, and Baltimore w
 
 It shares the white jersey's B+ and the same flaw, the Raven Wings collar, which adds activity to a shirt that did not need any. It ranks above the white only because that pattern is far quieter on purple. We also said in our [best NFL uniforms ranking](/stories/best-nfl-uniforms-2026-ranked) that Baltimore owns the best color in the sport and changed mostly the collar, which is why the team as a whole landed at a B there. This is still a great purple jersey. It is just not the bold one.
 
-When it is worn in 2026: six games, all projections. Five are at M&T Bank Stadium, in Weeks 4 (Titans), 7 (Bengals), 14 (Buccaneers), 16 (Browns) and 18 (Steelers). The sixth is on the road in Week 17 at Cincinnati on Thursday night, New Year's Eve, because the Bengals have confirmed their White Bengal alternate and the visitor wears color. The team has not said which helmet goes with the standard purple set, and the black primary shell is our read.
+When it is worn in 2026: six games, all projections. Five are at M&T Bank Stadium, in Weeks 4 (Titans), 7 (Bengals), 14 (Buccaneers), 16 (Browns) and 18 (Steelers). The sixth is on the road in Week 17 at Cincinnati on Thursday night, New Year's Eve, because the Bengals are at home in white for their White Bengal Stripe night and the visitor wears color. The team has not said which helmet goes with the standard purple set, and the black primary shell is our read.
 
 ## 2. Darkness Falls (Black Alternate)
 

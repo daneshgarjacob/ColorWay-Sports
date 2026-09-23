@@ -3,7 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "We have the Browns in their Alpha Dawg brown alternate three times at home. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-23"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -152,7 +152,7 @@ Cleveland wore plain white helmets from 1946 to 1949, then painted them orange i
 ## More NFL Coverage
 
 - [Steelers 2026 Uniform Schedule](/stories/steelers-uniform-schedule-2026) — the Week 4 Thursday nighter and the Week 8 rematch
-- [Bengals 2026 Uniform Schedule](/stories/bengals-uniform-schedule-2026) — three confirmed dates, the best-sourced team in the division
+- [Bengals 2026 Uniform Schedule](/stories/bengals-uniform-schedule-2026) — two confirmed dates, the best-sourced team in the division
 - [New York Giants 2026 Uniform Schedule](/stories/new-york-giants-uniform-schedule-2026) — the Week 15 opponent, with a confirmed throwback game
 - [NFL Uniform Tracker 2026](/stories/nfl-uniform-tracker-2026) — what all 32 teams wear, game by game
 - [NFL Uniform Release Dates 2026](/stories/nfl-uniform-release-dates-2026) — every team's new-look reveal, tracked
