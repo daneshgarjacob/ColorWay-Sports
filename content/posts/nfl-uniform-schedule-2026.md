@@ -3,7 +3,7 @@ topViewsRank: 5
 title: "2026 NFL Uniform Schedule: Every Team's Jersey and Alternate Dates"
 category: "NFL"
 date: "2026-08-18"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-23"
 excerpt: "Which jersey all 32 NFL teams wear in 2026, with every confirmed alternate and Rivalries date, including the Bears and Rams on Christmas Day. Week by week."
 gradient: "linear-gradient(135deg, #13294B 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -15,7 +15,7 @@ teams: []
 
 Every NFL team now carries a closet instead of a uniform. A home jersey, a road white, a color rush or throwback, and in 2026 a brand-new Rivalries jersey that most clubs wear exactly once. The hard part is finding out **when** each one actually comes out, because the league does not publish a single calendar and most teams announce their alternate dates one press release at a time.
 
-So we built the whole thing. Below is the 2026 uniform and jersey schedule for all 32 teams, division by division, with a link to the full week-by-week breakdown for every club.
+So we built the whole thing. Below is the 2026 uniform and jersey schedule for all 32 teams, division by division, with a link to the full week-by-week breakdown for every club. For this week's games, including the Bills' Nickel City debut and Denver's Midnight Navy on Sunday night, see our [NFL Week 3 uniforms guide](/stories/nfl-week-3-uniforms-2026).
 
 Here is what surprised us most: **25 of the 32 teams have now confirmed specific dates for their alternates, and three never published an alternate schedule at all.** The Steelers are bringing back the 1933 throwback and the gold helmet without ever putting out a calendar for it, and it lands Week 12 against Denver. The Raiders published their home game themes and did not mention a uniform once, and their one departure is a classic white throwback at New England in Week 5.
 
