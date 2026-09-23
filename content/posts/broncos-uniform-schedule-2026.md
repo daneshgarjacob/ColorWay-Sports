@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-23"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -25,6 +25,8 @@ The Broncos did the thing more teams should do: they published the whole uniform
 **Their Week 1 opponent:** the [Kansas City Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
+
+**Week 3 combination, confirmed:** navy helmet, Midnight Navy jersey, Midnight Navy pants against the Rams on Sunday Night Football, September 27. The navy shell, not the Summit White one, which makes it the full monochrome.
 
 **Week 2 combination, as announced for game week:** navy helmet, Sunset Orange jersey, white pants against Jacksonville. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
@@ -223,7 +225,7 @@ Week 3 against the Los Angeles Rams on Sunday Night Football on September 27, an
 
 **What helmet do the Broncos wear with the Midnight Navy jersey?**
 
-Not announced yet. The Broncos said they will confirm the helmet, pant and sock colors ahead of each game. Denver has worn this jersey with the Summit White helmet in 2024 against the Browns and with the primary metallic satin navy helmet in 2025 against the Bengals, so both are live options, and the announcement graphic shows both.
+For Week 3 against the Rams it is the navy helmet with Midnight Navy pants, the full monochrome. Week 16 against Buffalo has not been announced; the Broncos confirm the helmet, pant and sock colors ahead of each game. Denver has worn this jersey with the Summit White helmet in 2024 against the Browns and with the primary metallic satin navy helmet in 2025 against the Bengals, so both are live options, and the announcement graphic shows both.
 
 **Is Midnight Navy a throwback?**
 

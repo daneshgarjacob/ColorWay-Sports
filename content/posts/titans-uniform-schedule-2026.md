@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-23"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -37,7 +37,7 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jets</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue &middot; White Pants</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue (Confirmed)</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -71,6 +71,8 @@ Tennessee has now confirmed the Week 1 combination and it is the one we wanted: 
 
 
 ## The White Road Set
+
+**Week 3 combination, confirmed:** white helmet, white jersey, white pants at the Giants on Sunday, September 27, at 1:00 Eastern. New York is at home in blue, so it is all white against blue with the Titans' light blue numerals doing the only colour work on the road side.
 
 The road jersey is the better of the two, and it is not especially close. White base, "TENNESSEE" written across the chest in light blue, light blue numbers outlined in red. Putting the state name rather than the team name on the road jersey is a small idea executed well, and the light blue numerals give it a warmth that most white road sets never get near.
 
@@ -126,7 +128,7 @@ How does every one of these jerseys stack up? See our [Titans jerseys 2026 ranki
 
 **What jersey are the Titans wearing today?**
 
-Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas could go either way because the Cowboys wear white at home.
+Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. This week, Week 3 at the Giants, is confirmed all white: white helmet, white jersey, white pants. Week 11 at Dallas could go either way because the Cowboys wear white at home.
 
 **What jerseys are the Titans wearing this week?**
 
