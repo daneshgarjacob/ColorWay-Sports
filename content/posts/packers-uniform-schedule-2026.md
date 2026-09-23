@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-22"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -28,7 +28,7 @@ Nine home games, eight on the road, and a Week 11 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #203731; color: #ffffff; border: 2px solid #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #FFB612; color: #203731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Rivalries</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -38,14 +38,14 @@ Nine home games, eight on the road, and a Week 11 bye.
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #1c2841; color: #FFB612; border: 2px solid #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1923 Classic</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #203731; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Green Bay has not published a game-by-game uniform schedule, so the grid follows the standard home-and-away rotation with one confirmed exception: <strong>Week 5 against the Bears is the Rivalries game</strong>, starred above. The Packers have also carried an all-white alternate in recent seasons with no confirmed 2026 date.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">Green Bay has not published a game-by-game uniform schedule, so the grid is our call on the standard home-and-away rotation with one confirmed exception: <strong>Week 5 against the Bears is the Rivalries game</strong>, starred above. We also have the green jersey on the road at Tampa Bay in Week 4, where the Buccaneers wear white, and the 1923 Classic at home against Buffalo in Week 14.</p>
 
 ## The Rivalries Uniform, Revealed (Week 5 vs. Bears)
 
@@ -86,14 +86,14 @@ Minnesota's home schedule adds one more confirmed detail. The Vikings have annou
 
 ## Vintage Green (The Home Set)
 
-The green jersey with gold pants is one of the two or three least-changed uniforms in American sport, and it carries the bulk of the home schedule: Atlanta on a Thursday in Week 3, Dallas in Week 6, Carolina on a Thursday in Week 8, Minnesota in Week 10, then Buffalo, Miami, Houston and Detroit down the stretch.
+The green jersey with gold pants is one of the two or three least-changed uniforms in American sport, and it carries the bulk of the home schedule: Atlanta on a Thursday in Week 3, Dallas in Week 6, Carolina on a Thursday in Week 8, Minnesota in Week 10, then Miami, Houston and Detroit down the stretch. Buffalo in Week 14 goes to the 1923 Classic.
 
 There is not much to say about it that has not been said. The dark green and gold combination is unmistakable, the numbers are legible, and the whole thing looks better in bad weather than almost anything else in the league, which is convenient given where it is worn in December.
 
 
 ## Classic White (The Road Set)
 
-White jersey, gold pants, for six of the eight road games. The two exceptions are both set by the home team: **Week 2 at the Jets on September 20**, where New York has confirmed its White Out game, and **Week 12 at the Rams on November 25**, where Los Angeles has confirmed the Fearsome White alternate. Two clubs cannot both wear white, so Green Bay wears the green jersey in both, which puts the home set on the road twice. The Packers have confirmed the full Week 2 look at MetLife: gold helmet, green jersey, gold pants, against the Jets in all white. Add **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set and three of Green Bay's road trips this year are somebody else's uniform showcase.
+White jersey, gold pants, for five of the eight road games. The three exceptions are all set by the home team: **Week 2 at the Jets on September 20**, where New York has confirmed its White Out game, **Week 4 at Tampa Bay on October 4**, where the Buccaneers wear white at home, and **Week 12 at the Rams on November 25**, where Los Angeles has confirmed the Fearsome White alternate. Two clubs cannot both wear white, so Green Bay wears the green jersey in all three, which puts the home set on the road three times. The Packers have confirmed the full Week 2 look at MetLife: gold helmet, green jersey, gold pants, against the Jets in all white. Add **Week 16 at Chicago on Christmas Day** opposite the new Bears Rivalries set and three of Green Bay's road trips this year are somebody else's named uniform showcase.
 
 
 ## The 1923 Throwback Is Back for 2026
@@ -103,11 +103,11 @@ Green Bay published its **2026 Uniform Lineup** on September 4, and it settles a
 <img src="/images/posts/packers-uniform-schedule-2026/uniform-lineup-2026.jpg" alt="Green Bay Packers 2026 uniform lineup graphic showing four uniforms: the 1923 navy and gold throwback, Vintage Green, Classic White, and the new Rivalries set" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Credit: Green Bay Packers</p>
 
-The **1923 Classic** returns, which is the news. It is the navy and gold set with the tan leather-look helmet, worn in 2025 and carried into 2026 rather than retired, and it is the most distinctive thing in the closet by a distance. No date has been announced for it.
+The **1923 Classic** returns, which is the news. It is the navy and gold set with the tan leather-look helmet, worn in 2025 and carried into 2026 rather than retired, and it is the most distinctive thing in the closet by a distance. We have it at Lambeau in Week 14 against Buffalo.
 
 The other correction is that the **all-white alternate does not appear in the 2026 lineup**. Green Bay ran it the last two seasons and we had it listed here as a live possibility; the club's own graphic leaves it out. Treat it as gone for this year unless the Packers say otherwise.
 
-So the closet is Vintage Green at Lambeau, Classic White on the road, Rivalries in Week 5 against Chicago, and the 1923 throwback waiting on a date.
+So the closet is Vintage Green at Lambeau, Classic White on the road, Rivalries in Week 5 against Chicago, and the 1923 throwback in Week 14 against Buffalo.
 
 How does every one of these jerseys stack up? See our [Packers jerseys 2026 ranking](/stories/packers-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
@@ -115,11 +115,11 @@ How does every one of these jerseys stack up? See our [Packers jerseys 2026 rank
 
 **What jersey are the Packers wearing today?**
 
-Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. The 1923 throwback is in the 2026 lineup with no announced date, and the all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What jerseys are the Packers wearing this week?**
 
-Vintage Green at Lambeau and Classic White on the road, unless the week is the Week 5 Bears game, where the Packers wear the new Rivalries uniform. The week-by-week grid above shows every game.
+Vintage Green at Lambeau and Classic White on the road, unless the week is the Week 5 Bears game, where the Packers wear the new Rivalries uniform, or Week 14 against Buffalo, which is the 1923 throwback. The week-by-week grid above shows every game.
 
 **What uniform did the Packers wear last week?**
 
@@ -127,11 +127,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Packers wearing next week?**
 
-Green at home, white on the road, and the Rivalries uniform in Week 5.
+Green at home, white on the road, the Rivalries uniform in Week 5, and the 1923 throwback in Week 14. Green also travels to Tampa Bay in Week 4 and the Rams in Week 12.
 
 **What jerseys do the Packers have in 2026?**
 
-Four, and Green Bay named them in the 2026 Uniform Lineup it published September 4: 1923, Vintage Green, Classic White and Rivalries. Vintage Green, the green jersey over gold pants, carries the home schedule. Classic White covers six of the eight road games, and the green jersey travels twice because the host took white first, Week 2 at the Jets for their White Out, confirmed as gold helmet, green jersey and gold pants, and Week 12 at the Rams for Fearsome White. The Rivalries set is the new uniform for 2026, revealed August 25 and confirmed for Week 5 against the Bears on Sunday, October 11 at Lambeau Field: a darker hunter green jersey with cream and gold trim, a number font modeled on the lettering of paper currency, striping drawn from Packers stock certificates, an interlocking GB on the chest, cream pants, and a cream helmet with the first matte finish and first matte green facemask in team history. The 1923 Classic, the navy and gold set with the tan leather-look helmet, carries over into 2026 but has no announced date. The all-white alternate of the last two seasons does not appear in the lineup.
+Four, and Green Bay named them in the 2026 Uniform Lineup it published September 4: 1923, Vintage Green, Classic White and Rivalries. Vintage Green, the green jersey over gold pants, carries the home schedule. Classic White covers five of the eight road games, and the green jersey travels three times because the host took white first, Week 2 at the Jets for their White Out, confirmed as gold helmet, green jersey and gold pants, Week 4 at Tampa Bay, and Week 12 at the Rams for Fearsome White. The Rivalries set is the new uniform for 2026, revealed August 25 and confirmed for Week 5 against the Bears on Sunday, October 11 at Lambeau Field: a darker hunter green jersey with cream and gold trim, a number font modeled on the lettering of paper currency, striping drawn from Packers stock certificates, an interlocking GB on the chest, cream pants, and a cream helmet with the first matte finish and first matte green facemask in team history. The 1923 Classic, the navy and gold set with the tan leather-look helmet, carries over into 2026, and we have it in Week 14 against Buffalo. The all-white alternate of the last two seasons does not appear in the lineup.
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
 
@@ -151,11 +151,11 @@ The green jersey with gold pants at home, and the white jersey with gold pants o
 
 **Is the full Packers 2026 uniform schedule official?**
 
-No. Green Bay has not published a game-by-game uniform schedule. The grid follows the standard home-and-away rotation, with the confirmed Rivalries game in Week 5 as the one exception.
+No. Green Bay has not published a game-by-game uniform schedule. The grid is our call on the standard home-and-away rotation, with the confirmed Rivalries game in Week 5, the 1923 throwback in Week 14 against Buffalo, and green on the road wherever the host wears white.
 
 **Why are the Packers wearing blue?**
 
-The navy and gold set is the 1923 Classic throwback, with tan pants and a hand-painted, leather-look brown helmet. It honors 1923, the Packers' first season as a publicly owned corporation, after a stock sale saved the franchise from bankruptcy. It is in the 2026 lineup, but no game date has been announced.
+The navy and gold set is the 1923 Classic throwback, with tan pants and a hand-painted, leather-look brown helmet. It honors 1923, the Packers' first season as a publicly owned corporation, after a stock sale saved the franchise from bankruptcy. It is in the 2026 lineup, and we have it in Week 14 against Buffalo at Lambeau Field.
 
 **Why are the Packers wearing white at home?**
 

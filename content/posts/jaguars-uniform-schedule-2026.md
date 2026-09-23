@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars 2026 Uniform Schedule: When They Wear the 'Bold City' Rivalries Jersey and the Teal Set"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-22"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["jacksonville-jaguars"]
 ---
 
-Jacksonville has named a uniform for exactly one game in 2026, and it is the right one: the brand-new Bold City Rivalries jersey, revealed August 25, against Indianapolis in Week 8. The rest of the schedule is teal at home and white on the road, with one genuine oddity in the middle, back-to-back home games played in London. Here is the full Jacksonville Jaguars 2026 uniform schedule: the confirmed date first, then a week-by-week outlook for the teal home set and the white road set.
+Jacksonville has named a uniform for exactly one game in 2026, and it is the right one: the brand-new Bold City Rivalries jersey, revealed August 25, against Indianapolis in Week 8. The rest of the schedule is teal at home and white on the road, with the Prowler throwback back for Week 14 against Pittsburgh, the black alternate at Dallas in Week 16, and one genuine oddity in the middle, back-to-back home games played in London. Here is the full Jacksonville Jaguars 2026 uniform schedule: the confirmed date first, then a week-by-week outlook for the teal home set and the white road set.
 
 ## The Confirmed Jaguars Uniform Game
 
@@ -46,15 +46,15 @@ Here is the whole season at a glance. The confirmed jersey game is marked with a
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal · MNF</div></div>
+  <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
+  <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Throwback Teal · MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
+  <div style="background: #101820; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #006778; color: #D7A22A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>Week 8 Rivalries game is confirmed</strong> by the Jaguars. The other home themes are promotional, such as Crucial Catch and Salute to Service, so the teal-home and white-road assignments are our projection based on the standard NFL convention and on what Jacksonville actually wore at home last season, which was overwhelmingly teal. Black remains in the closet as an alternate and the Prowler throwback exists, but <strong>neither has been announced for any 2026 game.</strong> Week 16 at Dallas is the one road game in teal, because Dallas has published the all-white Color Rush for that date and a visiting team wears color when the host goes white.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>Week 8 Rivalries game is confirmed</strong> by the Jaguars. The other home themes are promotional, such as Crucial Catch and Salute to Service, so the teal-home and white-road assignments are our projection based on the standard NFL convention and on what Jacksonville actually wore at home last season, which was overwhelmingly teal. The Prowler throwback, worn in Week 3 against New England, returns for the Week 14 Monday night game against Pittsburgh. Two road games break from white: Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.</p>
 
 ## The "Bold City" Rivalries Uniform, Revealed (Week 8 vs. Colts)
 
@@ -89,7 +89,7 @@ Rivalries jerseys and the rest of the collection go on sale **Tuesday, September
 
 ## Teal at Home (The Base Set, Expected)
 
-Teal is the jersey Jacksonville actually wears. Last season the home slate ran on it almost exclusively, in both the standard version and the Prowler throwback, and there is no indication that changes in 2026. It projects to the seven home dates not claimed by the Rivalries game, including both London fixtures.
+Teal is the jersey Jacksonville actually wears. Last season the home slate ran on it almost exclusively, in both the standard version and the Prowler throwback, and there is no indication that changes in 2026. It projects to the seven home dates not claimed by the Rivalries game, including both London fixtures, with the Prowler throwback version taking Week 3 against New England and Week 14 against Pittsburgh. Teal also travels once, to Chicago in Week 13, where the Bears wear their classic white.
 
 It is also the right call. Teal is the only thing about the Jaguars' visual identity that nobody else in the NFL has, and the years when Jacksonville leaned on black instead were the years the brand looked most anonymous. Gold trim gives the teal a second note, and the white pants keep it from going heavy.
 
@@ -100,18 +100,18 @@ The pants are the variable. Teal over white is the classic and teal over teal is
 
 The strangest thing on this schedule is not a uniform, it is a location. Jacksonville plays Weeks 5 and 6 in London, hosting Philadelphia on October 11 and Houston on October 18, and the Jaguars are the designated home team for both. That is two of their eight home dates on another continent, back to back.
 
-For uniform purposes it changes nothing: Jacksonville is the home team, so it picks first, and teal is the projection for both. What it does change is the visibility. Two home games in front of an international audience is a real showcase, and it is the most obvious place on the calendar for the Prowler throwback if Jacksonville wanted to use it. The team has not announced one.
+For uniform purposes it changes nothing: Jacksonville is the home team, so it picks first, and teal is the projection for both. What it does change is the visibility. Two home games in front of an international audience is a real showcase, and it would have been an obvious place on the calendar for the Prowler throwback. Jacksonville instead saves the throwback for Florida, in Week 3 against New England and Week 14 against Pittsburgh.
 
 ## The White Road Set (Expected)
 
-The white road uniform projects to eight of the nine away games: at the Broncos, Bengals, Ravens, Titans, Giants, Bears, Texans, and the Week 18 trip to Indianapolis.
+The white road uniform projects to seven of the nine away games: at the Broncos, Bengals, Ravens, Titans, Giants, Texans, and the Week 18 trip to Indianapolis.
 
-The ninth is the exception worth knowing. Week 16 at Dallas on Sunday, December 27 is a road game in color, because Dallas has confirmed the all-white Color Rush for that night and the visiting team wears a colored jersey whenever the host goes white. Teal at AT&T Stadium would be one of the better-looking road games of the year, and it is entirely Jacksonville's call.
+The other two are the exceptions worth knowing. Week 13 at Chicago is teal, with the Bears in their classic white. Week 16 at Dallas on Sunday, December 27 is the black alternate, with the Cowboys in their Arctic White alternate, which makes it the only 2026 date for the black jersey.
 
 
 ## How the Jaguars Rotation Works in 2026
 
-Jacksonville runs the simplest system in the division. Teal at home, white on the road, one Rivalries game in November, and a black alternate plus the Prowler throwback sitting in the closet without announced dates. Compared to Houston, which named three jerseys before the season started, the Jaguars have told their fans almost nothing.
+Jacksonville runs the simplest system in the division. Teal at home, white on most road trips, one Rivalries game in November, the Prowler throwback twice at home, and the black alternate once, at Dallas. Compared to Houston, which named three jerseys before the season started, the Jaguars have told their fans almost nothing.
 
 That is the criticism. Jacksonville owns two of the better assets in the league, the teal and the Prowler throwback, and it is heading into a season with two showcase games in London and a brand-new Rivalries uniform without a published plan for any of it. The uniforms are good. The staging is not.
 
@@ -121,11 +121,11 @@ How does every one of these jerseys stack up? See our [Jaguars jerseys 2026 rank
 
 **What jersey are the Jaguars wearing today?**
 
-Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas is teal because Dallas has confirmed the all-white Color Rush for that night.
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
 
 **What jerseys are the Jaguars wearing this week?**
 
-Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and Week 16 at Dallas is teal because Dallas has confirmed the all-white Color Rush for that night.
+Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
 
 **What uniform did the Jaguars wear last week?**
 
@@ -133,26 +133,26 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Jaguars wearing next week?**
 
-Teal if Jacksonville is the home team, including the two London games, and white otherwise.
+Teal if Jacksonville is the home team, including the two London games, and white otherwise. The exceptions are the Prowler throwback at home in Weeks 3 and 14, teal at Chicago in Week 13, and the black alternate at Dallas in Week 16.
 
 **What jerseys do the Jaguars have in 2026?**
 
-Three looks with games, plus two sitting in the closet with no dates. Teal is the base at home, black helmet over the teal jersey with white pants in Week 1, and it projects to the seven home dates not claimed by the Rivalries game, including both London fixtures in Weeks 5 and 6, where Jacksonville is the designated home team. The white road set projects to eight of the nine away games, and the exception is Week 16 at Dallas, where the Cowboys' all-white Color Rush lets the Jaguars travel in teal. Bold City, the new Rivalries uniform for 2026, revealed August 25, is confirmed for Week 8 against the Colts on Sunday, November 1: an alabaster jersey with a gold-outlined cursive Jaguars script, numbers carrying a jaguar-spot print with gold trim and a teal shadow, black pants with an all-over spot print and a teal and gold side stripe, and a gloss teal helmet with a metallic gold facemask and a 904 front bumper. The black alternate and the Prowler throwback are both still in the closet, and neither has an announced 2026 date.
+Five looks with games. Teal is the base at home, black helmet over the teal jersey with white pants in Week 1, and it projects to the seven home dates not claimed by the Rivalries game, including both London fixtures in Weeks 5 and 6, where Jacksonville is the designated home team. The white road set projects to seven of the nine away games. The exceptions are Week 13 at Chicago, where the Jaguars wear teal against the Bears' classic white, and Week 16 at Dallas, where they wear the black alternate against the Cowboys' Arctic White alternate. Bold City, the new Rivalries uniform for 2026, revealed August 25, is confirmed for Week 8 against the Colts on Sunday, November 1: an alabaster jersey with a gold-outlined cursive Jaguars script, numbers carrying a jaguar-spot print with gold trim and a teal shadow, black pants with an all-over spot print and a teal and gold side stripe, and a gloss teal helmet with a metallic gold facemask and a 904 front bumper. The Prowler throwback, black helmet over the teal jersey with white pants, goes on in Week 3 against New England and Week 14 against Pittsburgh, and the black alternate gets one game, Week 16 at Dallas.
 
 **When do the Jaguars wear their Rivalries uniform in 2026?**
 Once, at home in Week 8 against the Indianapolis Colts on Sunday, November 1. The design was revealed on August 25 as Bold City: an alabaster jersey with a cursive Jaguars script, jaguar-spot numbers and black spotted pants, and a gloss teal helmet with a gold face mask and a 904 bumper. It stays in the rotation for three seasons.
 
 **Will the Jaguars wear the Prowler throwbacks in 2026?**
-Not announced. Jacksonville wore the Prowler throwback four times in 2025, but the 2026 game themes announcement does not name it for any date. If the team adds throwback games, this page gets updated.
+Yes. Jacksonville wore the Prowler throwback in Week 3 against New England and brings it back for Week 14 against Pittsburgh on Monday Night Football.
 
 **What is the Jaguars' primary uniform for 2026?**
-Teal at home and white on the road. Teal projects to the seven home games not claimed by the Rivalries jersey, including both London games. Black remains an alternate but has no announced date.
+Teal at home and white on the road. Teal projects to the seven home games not claimed by the Rivalries jersey, including both London games. The black alternate gets one game, Week 16 at Dallas.
 
 **Why do the Jaguars have two home games in London?**
 Jacksonville is the designated home team for both Week 5 against Philadelphia on October 11 and Week 6 against Houston on October 18, played in London. Those count as two of the team's eight home dates.
 
 **Could the Jaguars wear teal on the road in 2026?**
-Yes, in Week 16 at Dallas on December 27. Dallas has confirmed the all-white Color Rush for that game, and a host in white puts the visitor in color. Every other road game projects to white.
+Yes, in Week 13 at Chicago, with the Bears in their classic white. Week 16 at Dallas on December 27 is the black alternate, with the Cowboys in their Arctic White alternate. Every other road game projects to white.
 
 **Is the full Jaguars 2026 uniform schedule official?**
 No. One game is confirmed by the team, the Rivalries jersey in Week 8. Jacksonville announced themes for its other home games, but those are promotional rather than uniform announcements, so the rest is our projection.

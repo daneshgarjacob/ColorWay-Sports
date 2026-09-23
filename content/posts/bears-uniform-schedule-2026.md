@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-22"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -23,7 +23,7 @@ The Bears have one confirmed uniform date in 2026 and they could not have picked
 
 **Their Week 1 opponent:** the [Carolina Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
-Nine home games in navy, seven road games in white, one road game in navy because the home team took white, one Rivalries game on Christmas, and a Week 10 bye.
+Seven home games in navy, seven road games in white, one road game in navy because the home team took white, the classic throwback in white at home against Jacksonville, one Rivalries game on Christmas, and a Week 10 bye.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -38,7 +38,7 @@ Nine home games in navy, seven road games in white, one road game in navy becaus
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #0B162A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Thanksgiving</div></div>
-  <div style="background: #0B162A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #f1f3f8; color: #0B162A; border: 2px solid #C83803; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Classic Throwback &middot; White</div></div>
   <div style="background: #0B162A; color: #ffffff; border: 2px solid #C83803; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Navy &middot; MIA in White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C83803; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Rivalries</div></div>
@@ -46,7 +46,7 @@ Nine home games in navy, seven road games in white, one road game in navy becaus
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-Only Week 16 is confirmed by the Bears themselves. Everything else follows the standard rule, which for Chicago is about as reliable as it gets: navy at Soldier Field, white on the road. The one road exception is Week 14 in Miami, and it is set by the other side: **the Dolphins have confirmed their white throwback for December 13**, and since the home team picks first and both clubs cannot wear white, Chicago wears navy at Hard Rock Stadium. The Bears have no announced alternate date beyond the Rivalries game, so unless something is added later, that grid is the season.
+Only Week 16 is confirmed by the Bears themselves. Everything else follows the standard rule, which for Chicago is about as reliable as it gets: navy at Soldier Field, white on the road. The one road exception is Week 14 in Miami, and it is set by the other side: **the Dolphins have confirmed their white throwback for December 13**, and since the home team picks first and both clubs cannot wear white, Chicago wears navy at Hard Rock Stadium. The other break from the pattern is at home: in Week 13 against Jacksonville, Chicago wears its classic throwback in white at Soldier Field, and the Jaguars wear teal.
 
 ## The Rivalries Uniform, Revealed (Week 16, Christmas Day)
 
@@ -85,9 +85,9 @@ Here is the part that makes the 2026 NFC North schedule unusual. Green Bay is al
 
 So the same rivalry produces two Rivalries uniforms in two different games, and neither team wears its set in the other's game. Chicago is in white at Lambeau in Week 5 while Green Bay debuts. Green Bay is in white at Soldier Field in Week 16 while Chicago debuts. Each club gets its own moment at home, which is the sensible way to split it, and it means Bears-Packers is worth watching twice this year for reasons that have nothing to do with the standings. Our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026) has the other half of it.
 
-## Navy at Soldier Field (9 Games)
+## Navy at Soldier Field (7 Games)
 
-The navy jersey with the burnt orange numbers is the base of the whole thing, and it draws every home date except Christmas: the Vikings in Week 2, a Monday night against Philadelphia in Week 3, the Jets in Week 4, a Thursday nighter against New England in Week 7, Sunday night against Tampa Bay in Week 9, the Saints in Week 11, the Jaguars in Week 13, and the Lions in Week 17.
+The navy jersey with the burnt orange numbers is the base of the whole thing, and it draws every home date except two: the Vikings in Week 2, a Monday night against Philadelphia in Week 3, the Jets in Week 4, a Thursday nighter against New England in Week 7, Sunday night against Tampa Bay in Week 9, the Saints in Week 11, and the Lions in Week 17. The exceptions are Week 13 against Jacksonville, when the Bears wear the classic throwback in white at home, and Christmas.
 
 That is four standalone national windows in navy, which is a lot for a team with almost no wardrobe. Chicago does not need one. The navy-and-orange combination is one of the three or four most recognizable uniforms in American sports, the wishbone C has not needed a redesign since 1962, and the whole set works because nothing about it is trying. Wearing the same thing for sixty years is the point.
 
@@ -111,9 +111,9 @@ Chicago has an orange alternate in the closet and has used it in recent seasons,
 
 ## How the Bears Rotation Works in 2026
 
-1. **Navy at home, white on the road.** Two exceptions: Christmas, when the Rivalries set replaces navy, and Week 14 in Miami, when the Dolphins' white throwback forces Chicago into navy.
-2. **One alternate game all season**, the Rivalries debut in Week 16 against Green Bay.
-3. **No orange date announced**, and no throwback on the calendar.
+1. **Navy at home, white on the road.** Three exceptions: Week 13 against Jacksonville, when the classic throwback in white replaces navy at home, Christmas, when the Rivalries set replaces navy, and Week 14 in Miami, when the Dolphins' white throwback forces Chicago into navy.
+2. **Two alternate games all season**, the classic throwback in Week 13 against Jacksonville and the Rivalries debut in Week 16 against Green Bay.
+3. **No orange date announced.**
 4. **Pants and helmet combinations** are a week-of call, as they are for every team.
 
 ## The Bottom Line
@@ -128,11 +128,11 @@ How does every one of these jerseys stack up? See our [Bears jerseys 2026 rankin
 
 **What jersey are the Bears wearing today?**
 
-Navy if Chicago is at Soldier Field, white if they are on the road. Two exceptions on the 2026 schedule: Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What jerseys are the Bears wearing this week?**
 
-Same rule. Check whether the Bears are home or away in the grid above. Home is navy, away is white except Week 14 in Miami, and Week 16 is the Rivalries set.
+Same rule. Check whether the Bears are home or away in the grid above. Home is navy except Week 13, when the Bears wear the classic throwback in white against Jacksonville, away is white except Week 14 in Miami, and Week 16 is the Rivalries set.
 
 **What uniform did the Bears wear last week?**
 
@@ -140,11 +140,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Bears wearing next week?**
 
-Look up the week in the schedule above. Navy at home, white on the road except the Week 14 trip to Miami, and the Rivalries uniform only in Week 16.
+Look up the week in the schedule above. Navy at home, white on the road except the Week 14 trip to Miami, the classic throwback in white at home against Jacksonville in Week 13, and the Rivalries uniform only in Week 16.
 
 **What jerseys do the Bears have in 2026?**
 
-Three with games on the calendar. The navy home jersey with the burnt orange numbers draws nine dates at Soldier Field, and the white road set covers seven trips. The one new uniform for 2026 is the Nike Rivalries set, revealed August 25 and worn exactly once, Christmas Day at home against the Packers: a navy jersey with 1948-era burnt orange numbers trimmed in white, 1930s three-stripe sleeve trim, the football-shaped GSH patch for George Halas, orange pants and an orange helmet carrying a revamped BEARS wordmark. The one road game where Chicago stays in navy is Week 14 at Miami, because the Dolphins have confirmed their white throwback and two teams cannot both wear white. The orange alternate is still in the closet but has no 2026 date announced.
+Four with games on the calendar. The navy home jersey with the burnt orange numbers draws seven dates at Soldier Field, and the white road set covers seven trips. The classic throwback comes out in white at home in Week 13 against Jacksonville. The one new uniform for 2026 is the Nike Rivalries set, revealed August 25 and worn exactly once, Christmas Day at home against the Packers: a navy jersey with 1948-era burnt orange numbers trimmed in white, 1930s three-stripe sleeve trim, the football-shaped GSH patch for George Halas, orange pants and an orange helmet carrying a revamped BEARS wordmark. The one road game where Chicago stays in navy is Week 14 at Miami, because the Dolphins have confirmed their white throwback and two teams cannot both wear white. The orange alternate is still in the closet but has no 2026 date announced.
 
 **When do the Bears wear their Rivalries uniform in 2026?**
 
@@ -160,7 +160,7 @@ No date has been announced. Chicago has an orange alternate but has not schedule
 
 **How many uniforms do the Bears have in 2026?**
 
-Three on the current schedule: the navy home set, the white road set, and the Rivalries uniform for one game. The orange alternate exists but has no 2026 date.
+Four on the current schedule: the navy home set, the white road set, the classic throwback in white for Week 13 against Jacksonville, and the Rivalries uniform for one game. The orange alternate exists but has no 2026 date.
 
 **What are the Bears wearing on Christmas Day 2026?**
 

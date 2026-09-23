@@ -2,7 +2,7 @@
 title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-22"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -30,7 +30,7 @@ Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The s
   <div style="background: #C60C30; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Pat Patriot</div></div>
   <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · TNF</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Munich</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -43,7 +43,7 @@ Eight home games at Gillette Stadium, nine on the road, and a Week 11 bye. The s
   <div style="background: #002244; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
 </div>
 
-**Four games are confirmed by the team: the Wednesday opener in Seattle, announced as "white on blue" (white jersey, navy pants, silver helmet), the Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries game in Week 13.** Everything else on the grid follows the standard rule, navy at home and white on the road.
+**Four games are confirmed by the team: the Wednesday opener in Seattle, announced as "white on blue" (white jersey, navy pants, silver helmet), the Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries game in Week 13.** Everything else on the grid follows the standard rule, navy at home and white on the road, with one exception: navy at Miami in Week 8, where the Dolphins wear white at home.
 
 ## The Nor'easter Rivalries Uniform (Week 13 vs. Bills, Confirmed)
 
@@ -73,9 +73,9 @@ Weeks 2, 6, 9, 17 and 18. Three of the eight home games now belong to alternates
 
 **Week 2 against the Steelers answered the pants, and the answer is SILVER.** Confirmed from the broadcast on Sunday, September 20: the silver helmet, the navy jersey and the light silver pants with the navy and red stripe, so the only navy below the belt was the socks. That matters for the rest of this grid, because the navy home set is not automatically navy over navy. New England won 20-3 with Pittsburgh in the black helmet, white road jersey and gold pants.
 
-## White on the Road (9 Games)
+## White on the Road (8 Games)
 
-Weeks 1, 3, 4, 7, 8, 10, 12, 15 and 16. That is a lot of travel, and it includes the Wednesday opener in Seattle, which the team has confirmed as white jersey over navy pants, a Thursday nighter in Chicago, Sunday night in Los Angeles and Monday night in Kansas City.
+Weeks 1, 3, 4, 7, 10, 12, 15 and 16. The one road trip in navy is Week 8 at Miami, where the Dolphins wear white at home. That is a lot of travel, and it includes the Wednesday opener in Seattle, which the team has confirmed as white jersey over navy pants, a Thursday nighter in Chicago, Sunday night in Los Angeles and Monday night in Kansas City.
 
 ## New England Is the Road Team in Munich (Week 10)
 
@@ -85,7 +85,7 @@ That means New England wears white and the Lions wear Honolulu blue. Patriots.co
 
 ## How the Patriots Rotation Works in 2026
 
-1. **Navy at home, white on the road**, unless the team designates otherwise.
+1. **Navy at home, white on the road**, unless the team designates otherwise. The exception is Week 8 at Miami, where New England wears navy with the Dolphins in white.
 2. **The Nor'easter Rivalries set is confirmed for Week 13** at home against Buffalo on December 6.
 3. **The Pat Patriot throwback is confirmed for Week 5** against the Raiders on October 11 **and Week 14** against the Vikings on December 10.
 4. **Munich is a road game.** White, not navy.
@@ -103,11 +103,11 @@ How does every one of these jerseys stack up? See our [Patriots jerseys 2026 ran
 
 **What jersey are the Patriots wearing today?**
 
-Navy if New England is at Gillette Stadium, white if they are on the road, with three confirmed exceptions: the red Pat Patriot throwback in Week 5 against the Raiders and Week 14 against the Vikings, and the Storm Blue Nor'easter in Week 13 against the Bills.
+Navy if New England is at Gillette Stadium, white if they are on the road, except navy at Miami in Week 8. The three confirmed alternate games are the red Pat Patriot throwback in Week 5 against the Raiders and Week 14 against the Vikings, and the Storm Blue Nor'easter in Week 13 against the Bills.
 
 **What jerseys are the Patriots wearing this week?**
 
-Same rule. Check whether New England is home or away in the grid above. Home is navy, away is white, and Weeks 5, 13 and 14 are the alternate games.
+Same rule. Check whether New England is home or away in the grid above. Home is navy, away is white except navy at Miami in Week 8, and Weeks 5, 13 and 14 are the alternate games.
 
 **What uniform did the Patriots wear last week?**
 
@@ -115,7 +115,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What jerseys do the Patriots have in 2026?**
 
-Four, all with games assigned. The navy home set covers five games at Gillette Stadium, Weeks 2, 6, 9, 17 and 18. The white road set covers all nine road games, including the Wednesday opener at Seattle, confirmed as white on blue, meaning the white jersey over navy pants with the silver helmet, and the Munich game against Detroit in Week 10, where the Lions are the designated home team. The red Pat Patriot throwback, with the tricorne-hatted Pat Patriot logo on a white helmet, is confirmed for two dates, Week 5 against the Raiders on Sunday, October 11, the day New England honors the 25th anniversary of the 2001 Super Bowl team, and Week 14 against the Vikings on Thursday night, December 10. The Nor'easter Rivalries uniform, a Storm Blue jersey with six stars on the neckline for the six New England states, is confirmed for Week 13 against Buffalo on Sunday, December 6. Nothing is new for 2026, since Nor'easter came in with the 2025 AFC East class.
+Four, all with games assigned. The navy home set covers five games at Gillette Stadium, Weeks 2, 6, 9, 17 and 18. The navy jersey also goes on the road once, Week 8 at Miami, where the Dolphins wear white. The white road set covers the other eight road games, including the Wednesday opener at Seattle, confirmed as white on blue, meaning the white jersey over navy pants with the silver helmet, and the Munich game against Detroit in Week 10, where the Lions are the designated home team. The red Pat Patriot throwback, with the tricorne-hatted Pat Patriot logo on a white helmet, is confirmed for two dates, Week 5 against the Raiders on Sunday, October 11, the day New England honors the 25th anniversary of the 2001 Super Bowl team, and Week 14 against the Vikings on Thursday night, December 10. The Nor'easter Rivalries uniform, a Storm Blue jersey with six stars on the neckline for the six New England states, is confirmed for Week 13 against Buffalo on Sunday, December 6. Nothing is new for 2026, since Nor'easter came in with the 2025 AFC East class.
 
 **When do the Patriots wear the Rivalries uniform in 2026?**
 

@@ -2,8 +2,8 @@
 title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-20"
-excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road, no new alternate announced, and the one combination that passes for variety."
+updatedDate: "2026-09-22"
+excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road except red at Miami, no new alternate, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
 logoSrc: "/logos/leagues/nfl.png"
@@ -20,12 +20,12 @@ While Buffalo was unveiling a gray alternate and a new blue helmet, and the Bear
 
 **Their Week 1 opponent:** the [Denver Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
-Eight home games in red, nine road games in white, and a Week 5 bye. There is genuinely nothing else to track.
+Nine games in red, eight in white, and a Week 5 bye. All eight home games are red, and so is the Week 3 trip to Miami, where the Dolphins wear white at home. Every other road game is white.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #E31837; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #E31837; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #E31837; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #E31837; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -43,7 +43,7 @@ Eight home games in red, nine road games in white, and a Week 5 bye. There is ge
   <div style="background: #E31837; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The Chiefs have not published a game-by-game uniform schedule, and they have never needed to. Home red and road white is the whole system, so the grid above follows the standard NFL home-and-away convention. The variable is the <strong>pants</strong>, which the equipment staff decides the week of each game, and that is where the only real choice happens.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The Chiefs have not published a game-by-game uniform schedule, and they have never needed to. Home red and road white is the whole system, with one exception: Week 3 at Miami, where the Dolphins take white at home and Kansas City wears red. Otherwise the grid above follows the standard NFL home-and-away convention. The variable is the <strong>pants</strong>, which the equipment staff decides the week of each game, and that is where the only real choice happens.</p>
 
 ## The Red Home Set (8 Games)
 
@@ -52,9 +52,9 @@ Red jersey, white pants, red helmet, and a gold-outlined number that has barely 
 There is a strong argument that the Chiefs simply got it right the first time. The red is saturated without being loud, the gold does the work of a trim color rather than a second primary, and the arrowhead reads instantly at any distance. Nothing in the last decade of alternate-uniform design has produced anything Kansas City would obviously be better off wearing.
 
 
-## The White Road Set (9 Games)
+## The White Road Set (8 Games)
 
-White jersey, red pants, red helmet. Nine games, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo has its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days.
+White jersey, red pants, red helmet. Eight of the nine road games, everything but Week 3 at Miami, where Kansas City wears red because the Dolphins are in white, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo has its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days.
 
 
 ## The Red-on-Red Wrinkle
@@ -77,11 +77,11 @@ How does every one of these jerseys stack up? See our [Chiefs jerseys 2026 ranki
 
 **What jersey are the Chiefs wearing today?**
 
-Red if Kansas City is at Arrowhead, white if they are on the road. That really is the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What jerseys are the Chiefs wearing this week?**
 
-Red if Kansas City is at Arrowhead, white if they are on the road. That really is the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What uniform did the Chiefs wear last week?**
 
@@ -89,11 +89,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Chiefs wearing next week?**
 
-Red at home, white on the road. Eight home games in red, nine road games in white, and no alternates to complicate it.
+Red at home, white on the road, except Week 3 at Miami in red. Nine games in red, eight in white, and no alternates to complicate it.
 
 **What jerseys do the Chiefs have in 2026?**
 
-Two, and that is the whole closet. The red home set, red helmet and red jersey with the gold-outlined numbers over white pants, covers all eight games at Arrowhead, from the Week 1 Monday night opener against Denver to the Week 18 finale against the Raiders. The white road set, white jersey over red pants with the same red helmet, covers all nine away games. There is no new alternate for 2026, no throwback and no alternate helmet, and Kansas City has announced no plans for any of them. The one deviation the Chiefs allow themselves is red pants under the red jersey, a full monochrome home look that uses the same red jersey rather than a separate one and has no announced date. If a third uniform ever arrives it will most likely come through the Rivalries program, which has not yet reached the AFC West.
+Two, and that is the whole closet. The red home set, red helmet and red jersey with the gold-outlined numbers over white pants, covers all eight games at Arrowhead, from the Week 1 Monday night opener against Denver to the Week 18 finale against the Raiders. The white road set, white jersey over red pants with the same red helmet, covers eight of the nine away games, with red at Miami in Week 3. There is no new alternate for 2026, no throwback and no alternate helmet, and Kansas City has announced no plans for any of them. The one deviation the Chiefs allow themselves is red pants under the red jersey, a full monochrome home look that uses the same red jersey rather than a separate one and has no announced date. If a third uniform ever arrives it will most likely come through the Rivalries program, which has not yet reached the AFC West.
 
 **What uniform do the Chiefs wear at home in 2026?**
 
@@ -105,7 +105,7 @@ None has been announced. Kansas City has not revealed an alternate or throwback 
 
 **When do the Chiefs wear white in 2026?**
 
-For all nine road games, paired with red pants. That includes Thanksgiving at Buffalo on November 26 and the Thursday game at the Rams on December 3.
+For eight of the nine road games, paired with red pants. The exception is Week 3 at Miami, where the Dolphins wear white and Kansas City wears red. That includes Thanksgiving at Buffalo on November 26 and the Thursday game at the Rams on December 3.
 
 **Do the Chiefs ever wear all red?**
 
@@ -113,7 +113,7 @@ Yes. Red pants with the red jersey is the one combination they vary, usually for
 
 **Is the full Chiefs 2026 uniform schedule official?**
 
-The Chiefs do not publish one, because home red and road white covers every game. The grid above follows that convention. Pants are a week-of-game call.
+The Chiefs do not publish one, because home red and road white covers nearly every game. The grid above follows that convention, with red at Miami in Week 3. Pants are a week-of-game call.
 
 **Why do the Chiefs wear an AFL patch?**
 

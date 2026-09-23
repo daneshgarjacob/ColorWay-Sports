@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-22"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -46,9 +46,9 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #ffffff; color: #125740; border: 2px solid #125740; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Classic</div></div>
   <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #000000; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Alternate</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #125740; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #125740; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -57,7 +57,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are officially confirmed</strong> by the Jets. The team announced themes for all eight home dates but named a uniform for only those three, so the green-home and white-road assignments for the other fifteen weeks follow the standard NFL home-and-away convention and are our projection. Pants and the exact combinations are a week-of-game call. The Week 18 date at Buffalo has not been scheduled yet.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are officially confirmed</strong> by the Jets. The team announced themes for all eight home dates but named a uniform for only those three, so the green-home and white-road assignments for the other weeks follow the standard NFL home-and-away convention and are our projection. Week 10 against Buffalo is the black alternate, and Week 12 at Miami is green on the road, with the Dolphins in white. Pants and the exact combinations are a week-of-game call. The Week 18 date at Buffalo has not been scheduled yet.</p>
 
 ## White Out (Week 2 vs. Packers, Confirmed)
 
@@ -82,19 +82,19 @@ Closing the home schedule with it is the right call. A Jets-Patriots December da
 
 ## Gotham Green (The Home Base, Expected)
 
-The green home jersey is still the foundation, and it projects to the five home dates not claimed by a confirmed uniform: the Browns in Week 5, the Raiders in Week 8, the Bills in Week 10, the Broncos in Week 14, and the Vikings in Week 17. Two of those carry announced themes of their own, a Stripe Out against Cleveland and Salute to Service against Buffalo, but the Jets did not name a jersey for either, so green is the projection rather than a confirmation.
+The green home jersey is still the foundation, and it projects to four home dates: the Browns in Week 5, the Raiders in Week 8, the Broncos in Week 14, and the Vikings in Week 17. The Stripe Out against Cleveland carries an announced theme but no named jersey, so green is the projection rather than a confirmation. Week 10 against Buffalo, the Salute to Service game, is the black alternate.
 
 Gotham Green remains one of the more distinctive base colors in the league. Nobody else in the NFL is wearing that shade, and in a conference full of blue and red it reads instantly on broadcast.
 
 
 ## The White Road Set (Expected)
 
-The white road uniform is the workhorse and projects to eight of the nine away games: at the Titans, Lions, Bears, Patriots, Chiefs, Chargers, Dolphins, and the Week 18 trip to Buffalo. The exception is Week 15 at Arizona, where the Cardinals' published uniform schedule has them in white at home, which puts the Jets in Gotham Green on the road. That is the standard convention rather than an announcement, and there is one wrinkle worth knowing about. A visiting team can only bring a colored jersey when the home team wears white, so the Jets are in white on the road unless a host specifically goes white at home.
+The white road uniform is the workhorse and projects to seven of the nine away games: at the Titans, Lions, Bears, Patriots, Chiefs, Chargers, and the Week 18 trip to Buffalo. The exceptions are Week 12 at Miami, where the Dolphins wear white and the Jets go green, and Week 15 at Arizona, where the Cardinals' published uniform schedule has them in white at home, which puts the Jets in Gotham Green on the road. That is the standard convention rather than an announcement, and there is one wrinkle worth knowing about. A visiting team can only bring a colored jersey when the home team wears white, so the Jets are in white on the road unless a host specifically goes white at home.
 
 
 ## How the Jets Rotation Works in 2026
 
-The system is simple once you see the three anchors. Green at home, white on the road, and three home dates pulled out for something else: the White Out helmet debut in Week 2, the Classic against Miami in Week 7, and Gotham City Rivalries against New England in Week 16. That leaves four home games in the standard green.
+The system is simple once you see the three anchors. Green at home, white on the road, and four home dates pulled out for something else: the White Out helmet debut in Week 2, the Classic against Miami in Week 7, the black alternate against Buffalo in Week 10, and Gotham City Rivalries against New England in Week 16. That leaves four home games in the standard green, plus two road games in green at Miami and Arizona.
 
 What makes 2026 different from most Jets seasons is the helmet. Between the green shell, the new all-white shell, and the throwback white with green striping, they now have real variety up top, which is where uniform programs usually run out of room. The rest is pants and combinations, decided the week of each game.
 
@@ -104,11 +104,11 @@ How does every one of these jerseys stack up? See our [Jets jerseys 2026 ranking
 
 **What jersey are the Jets wearing today?**
 
-Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey.
+Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What jerseys are the Jets wearing this week?**
 
-Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey.
+Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What uniform did the Jets wear last week?**
 
@@ -116,11 +116,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Jets wearing next week?**
 
-Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above.
+Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above, the black alternate against Buffalo in Week 10, or a green road game at Miami in Week 12 or Arizona in Week 15.
 
 **What jerseys do the Jets have in 2026?**
 
-Four jerseys and three helmets. Gotham Green is the home base and projects to the five home dates not claimed by a confirmed uniform, the Browns in Week 5, the Raiders in Week 8, the Bills in Week 10, the Broncos in Week 14 and the Vikings in Week 17. The white road set projects to eight of the nine away games, with Week 15 at Arizona the exception, because the Cardinals wear white at home and that puts New York in green on the road. Three home games are confirmed. The White Out in Week 2 against the Packers on Sunday, September 20 is the new piece for 2026, a white shell with a white facemask worn with the primary white set for the first time. The Classic throwback comes out in Week 7 against the Dolphins on Sunday, October 25, with the white helmet that carries green striping and a gray facemask, a separate shell from the White Out one. The Gotham City Rivalries jersey closes the home schedule in Week 16 against the Patriots on Sunday, December 27, and it came in with the 2025 AFC East wave. Week 1 at Tennessee was the green helmet, white jersey and green pants.
+Five jerseys and three helmets. Gotham Green is the home base and projects to four home dates, the Browns in Week 5, the Raiders in Week 8, the Broncos in Week 14 and the Vikings in Week 17. The black alternate takes Week 10 against the Bills. The white road set projects to seven of the nine away games, with Week 12 at Miami and Week 15 at Arizona the exceptions, because the Dolphins and the Cardinals wear white at home and that puts New York in green on the road. Three home games are confirmed. The White Out in Week 2 against the Packers on Sunday, September 20 is the new piece for 2026, a white shell with a white facemask worn with the primary white set for the first time. The Classic throwback comes out in Week 7 against the Dolphins on Sunday, October 25, with the white helmet that carries green striping and a gray facemask, a separate shell from the White Out one. The Gotham City Rivalries jersey closes the home schedule in Week 16 against the Patriots on Sunday, December 27, and it came in with the 2025 AFC East wave. Week 1 at Tennessee was the green helmet, white jersey and green pants.
 
 **When do the Jets wear the White Out uniform in 2026?**
 
@@ -136,7 +136,7 @@ At the home finale, Week 16 against the New England Patriots on Sunday, December
 
 **What is the Jets' primary uniform for 2026?**
 
-Gotham Green at home and white on the road. The Jets project to wear green for the five home games not claimed by a confirmed uniform and white for all nine road games.
+Gotham Green at home and white on the road. The Jets project to wear green for four home games plus road games at Miami and Arizona, and white for the other seven road games. Week 10 against Buffalo is the black alternate.
 
 **How many home games do the Jets play in 2026?**
 
@@ -148,7 +148,7 @@ No. Only three games are confirmed by the team: the White Out in Week 2, the Cla
 
 **Why are the Jets wearing black?**
 
-The dark look is the Gotham City Football uniform, the Jets' entry in the NFL x Nike Rivalries program: a dark Empire green jersey with black, green and gray trim, which debuted in December 2025 with a black alternate helmet. In 2026 it comes out once, at home against the New England Patriots on Sunday, December 27.
+Week 10 at home against Buffalo is the Jets' black alternate. The other dark look is the Gotham City Football uniform, the Jets' entry in the NFL x Nike Rivalries program: a dark Empire green jersey with black, green and gray trim, which debuted in December 2025 with a black alternate helmet. In 2026 it comes out once, at home against the New England Patriots on Sunday, December 27.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bills-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Buffalo Bills 2026 Uniform Schedule</a><a href="/stories/dolphins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Dolphins 2026 Uniform Schedule</a><a href="/stories/patriots-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New England Patriots 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

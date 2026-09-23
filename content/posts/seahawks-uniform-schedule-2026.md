@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Seattle Seahawks 2026 Uniform Schedule: Throwback Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-22"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -15,7 +15,7 @@ league: nfl
 teams: ["seattle-seahawks"]
 ---
 
-Seattle has the best-staged uniform schedule in the NFC West and one of the best in the league: three confirmed jersey games, all of them in primetime, and a season that opens with a Super Bowl LX championship banner going up against the team they beat for it. The royal blue throwback gets two nights, and the Rivalries jersey lands on Christmas Day against the Rams. Here is the full Seattle Seahawks 2026 uniform schedule: the confirmed dates first, then a week-by-week outlook for the college navy home set and the white road set.
+Seattle has the best-staged uniform schedule in the NFC West and one of the best in the league: three confirmed jersey games, all of them in primetime, and a season that opens with a Super Bowl LX championship banner going up against the team they beat for it. The royal blue throwback gets three nights, one of them on the road in Denver, and the Rivalries jersey lands on Christmas Day against the Rams. Here is the full Seattle Seahawks 2026 uniform schedule: the confirmed dates first, then a week-by-week outlook for the college navy home set and the white road set.
 
 ## The Confirmed Seahawks Uniform Games
 
@@ -41,7 +41,7 @@ Here is the whole season at a glance. The confirmed games are marked with a star
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · TNF</div></div>
+  <div style="background: #4B7BA8; color: #ffffff; border: 2px solid #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Broncos</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Royal Throwback · TNF</div></div>
   <div style="background: #4B7BA8; color: #ffffff; border: 2px solid #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal Throwback</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy · MNF</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
@@ -56,15 +56,15 @@ Here is the whole season at a glance. The confirmed games are marked with a star
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are confirmed</strong> by the Seahawks. Seattle announced themes for all nine home dates, but the others are promotional platforms such as Crucial Catch and Salute to Service rather than uniform announcements, so the navy-home and white-road assignments elsewhere are our projection. Seattle also owns an action green alternate, which has <strong>no announced date</strong> for 2026. Pants are a week-of-game call, and the Week 18 date at the Rams has not been scheduled.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are confirmed</strong> by the Seahawks. Seattle announced themes for all nine home dates, but the others are promotional platforms such as Crucial Catch and Salute to Service rather than uniform announcements, so the navy-home and white-road assignments elsewhere are our projection. Week 6 at Denver is the royal blue throwback, with the Broncos in their orange classic throwback. Seattle also owns an action green alternate, which has <strong>no announced date</strong> for 2026. Pants are a week-of-game call, and the Week 18 date at the Rams has not been scheduled.</p>
 
-## The Royal Blue Throwback (Weeks 7 and 13, Confirmed)
+## The Royal Blue Throwback (Weeks 6, 7 and 13)
 
-Seattle is wearing its royal blue throwback twice, and both times in primetime. The first is Week 7 against Kansas City on Sunday, October 25 on Sunday Night Football, which the team is billing around the royal blue uniform. The second is Week 13 against Dallas on Monday, December 7, a second throwback night under the lights.
+Seattle is wearing its royal blue throwback three times, and every time in primetime. The first is on the road, Week 6 at Denver on Thursday Night Football, with the Broncos in their orange classic throwback, so both clubs go retro. The second is Week 7 against Kansas City on Sunday, October 25 on Sunday Night Football, which the team is billing around the royal blue uniform. The third is Week 13 against Dallas on Monday, December 7, another throwback night under the lights.
 
 This is the best decision on the schedule. The royal blue and silver set, with the green trim and the original logo, is the uniform the franchise built its identity on, and it is one of the few genuine throwbacks in the league that looks better than the modern set it replaced. The current college navy is fine. The royal blue is memorable, and the difference is not subtle.
 
-Two wearings is also the right number. Seattle spent years treating this uniform as a once-a-season novelty, and giving it a pair of national windows is the closest the team has come to admitting what everyone already thinks: this should be the primary. Kansas City in red and Dallas in white are both clean contrasts for it.
+Three wearings is also the right direction. Seattle spent years treating this uniform as a once-a-season novelty, and giving it three national windows is the closest the team has come to admitting what everyone already thinks: this should be the primary. Denver in its orange throwback, Kansas City in red and Dallas in white are all clean contrasts for it.
 
 
 ## Rivalries on Christmas Day (Week 16 vs. Rams, Confirmed)
@@ -99,16 +99,16 @@ College navy with the action green numerals is a good uniform that has been slig
 
 ## The White Road Set (Expected)
 
-The white road uniform projects to seven of the eight away games: at the Commanders, Broncos, Raiders, 49ers, Eagles, Panthers, and the Week 18 trip to the Rams. The exception is Week 2 at Arizona, where Seattle has confirmed navy.
+The white road uniform projects to six of the eight away games: at the Commanders, Raiders, 49ers, Eagles, Panthers, and the Week 18 trip to the Rams. The exceptions are Week 2 at Arizona, where Seattle has confirmed navy, and Week 6 at Denver, where Seattle wears the royal blue throwback against the Broncos' orange classic throwback.
 
 Week 2 at Arizona is the one to circle. The Cardinals have confirmed they will wear their desert Rivalries jersey for that game, which we covered in the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026), and Seattle has confirmed it will not be in white: navy helmet, navy jersey and wolf grey pants. Navy across from sand and copper should be one of the better-looking September games in the conference.
 
 
 ## How the Seahawks Rotation Works in 2026
 
-Seattle got the sequencing right in a way most teams do not. Navy carries the ordinary weeks, white travels, and the three special uniforms are spaced across October and December with a national window each: Sunday night for the first throwback, Monday night for the second, Christmas Day for Rivalries. Nothing overlaps and nothing is wasted.
+Seattle got the sequencing right in a way most teams do not. Navy carries the ordinary weeks, white travels, and the special uniforms are spaced across October and December with a national window each: Thursday night in Denver for the first throwback, Sunday night for the second, Monday night for the third, Christmas Day for Rivalries. Nothing overlaps and nothing is wasted.
 
-The one thing missing is the action green alternate, which has no date. We are not going to complain about that. Between the royal blue throwback getting two nights and the Rivalries set getting Christmas, Seattle has already spent its non-navy games on the two best uniforms it owns, and a team with nine home dates and three showcase jerseys is running a deeper schedule than almost anyone.
+The one thing missing is the action green alternate, which has no date. We are not going to complain about that. Between the royal blue throwback getting three nights and the Rivalries set getting Christmas, Seattle has already spent its non-navy games on the two best uniforms it owns, and a team with nine home dates and three showcase jerseys is running a deeper schedule than almost anyone.
 
 How does every one of these jerseys stack up? See our [Seahawks jerseys 2026 ranking](/stories/seahawks-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
 
@@ -116,11 +116,11 @@ How does every one of these jerseys stack up? See our [Seahawks jerseys 2026 ran
 
 **What jersey are the Seahawks wearing today?**
 
-In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day.
+In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What jerseys are the Seahawks wearing this week?**
 
-In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day.
+In Week 2 at the Arizona Cardinals on Sunday, September 20, Seattle wears navy on the road, confirmed by the team: navy helmet, college navy jersey and wolf grey pants, across from Arizona's desert Rivalries uniform. Otherwise it is College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What uniform did the Seahawks wear last week?**
 
@@ -128,15 +128,15 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Seahawks wearing next week?**
 
-College Navy at Lumen Field and white on the road, unless the week is one of the three confirmed alternate dates.
+College Navy at Lumen Field and white on the road, unless the week is one of the three confirmed alternate dates or Week 6 at Denver, where Seattle wears the royal blue throwback.
 
 **What jerseys do the Seahawks have in 2026?**
 
-Four looks with dates, plus one sitting idle. College navy with the action green numerals is the home base and projects to the six home dates not claimed by a confirmed uniform, the Patriots in Week 1, the Chargers in Week 4, the 49ers in Week 5, the Bears in Week 8, the Cardinals in Week 9 and the Giants in Week 14. The white road set projects to seven of the eight away games. Two navy games are confirmed: the Wednesday opener against New England, played in the full monochrome combination, navy helmet over the navy jersey and navy pants, for the Super Bowl LX banner game, and Week 2 at Arizona, navy helmet, navy jersey and wolf grey pants, opposite the Cardinals' desert Rivalries set. The royal blue throwback, the royal and silver set with the green trim and the original logo, gets two primetime home nights, the Chiefs on Sunday, October 25 and the Cowboys on Monday, December 7. The Rivalries uniform gets Christmas Day against the Rams, its second season rather than a debut, with Los Angeles in Midnight Mode for it. The action green alternate has no 2026 date.
+Four looks with dates, plus one sitting idle. College navy with the action green numerals is the home base and projects to the six home dates not claimed by a confirmed uniform, the Patriots in Week 1, the Chargers in Week 4, the 49ers in Week 5, the Bears in Week 8, the Cardinals in Week 9 and the Giants in Week 14. The white road set projects to six of the eight away games. Two navy games are confirmed: the Wednesday opener against New England, played in the full monochrome combination, navy helmet over the navy jersey and navy pants, for the Super Bowl LX banner game, and Week 2 at Arizona, navy helmet, navy jersey and wolf grey pants, opposite the Cardinals' desert Rivalries set. The royal blue throwback, the royal and silver set with the green trim and the original logo, gets two primetime home nights, the Chiefs on Sunday, October 25 and the Cowboys on Monday, December 7, plus a Thursday night road game at Denver in Week 6, opposite the Broncos' orange classic throwback. The Rivalries uniform gets Christmas Day against the Rams, its second season rather than a debut, with Los Angeles in Midnight Mode for it. The action green alternate has no 2026 date.
 
 **When do the Seahawks wear the royal blue throwback in 2026?**
 
-Twice, both at home and both in primetime: Week 7 against the Kansas City Chiefs on Sunday, October 25 on Sunday Night Football, and Week 13 against the Dallas Cowboys on Monday, December 7 on Monday Night Football.
+Three times, all in primetime: Week 6 at the Denver Broncos on Thursday Night Football, with Denver in its orange classic throwback, Week 7 against the Kansas City Chiefs on Sunday, October 25 on Sunday Night Football, and Week 13 against the Dallas Cowboys on Monday, December 7 on Monday Night Football.
 
 **When do the Seahawks wear the Rivalries uniform in 2026?**
 
@@ -152,7 +152,7 @@ Not on any announced date. The action green alternate remains in the closet, but
 
 **What is the Seahawks' primary uniform for 2026?**
 
-College navy at home and white on the road. Navy projects to the six home games not claimed by a confirmed uniform, and white to all eight road games.
+College navy at home and white on the road. Navy projects to the six home games not claimed by a confirmed uniform, and white to six of the eight road games.
 
 **How many home games do the Seahawks play in 2026?**
 

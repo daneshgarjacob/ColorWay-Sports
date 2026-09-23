@@ -2,8 +2,8 @@
 title: "Las Vegas Raiders 2026 Uniform Schedule: Every Jersey, Every Week, and the White Helmet Question"
 category: NFL
 date: "2026-08-16"
-excerpt: "The Raiders published their 2026 home game themes and named no uniforms at all. Here is the full jersey schedule, week by week, black at home and white on the road."
-updatedDate: "2026-09-19"
+excerpt: "The Raiders named no uniforms in their 2026 home themes. Here is the full jersey schedule: black at home, white on the road, classic white throwback at New England."
+updatedDate: "2026-09-22"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -29,7 +29,7 @@ Eight home games at Allegiant Stadium, nine on the road, and a Week 13 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Classic White</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -45,7 +45,7 @@ Eight home games at Allegiant Stadium, nine on the road, and a Week 13 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-The Raiders wear black at home and white on the road, and they have done so with almost no deviation for their entire history. Unlike most teams on this site, that grid is close to a certainty rather than a projection.
+The Raiders wear black at home and white on the road, and they have done so with almost no deviation for their entire history. Unlike most teams on this site, that grid is close to a certainty rather than a projection. The one break on the 2026 calendar is Week 5 at New England, where Las Vegas wears its classic white throwback and the Patriots answer in their red Pat Patriot throwback.
 
 ## The Themes Announcement Named No Uniforms
 
@@ -59,13 +59,13 @@ Silver and black is the most locked-down identity in American sport, and the Rai
 
 The uniform is a black jersey with white numbers, silver pants, and a silver helmet carrying the shield-and-swords logo. It has barely moved since the 1960s. The road version flips to a white jersey with black numbers over the same silver pants.
 
-Almost every other club in this series has an alternate to write about. The interesting thing about the Raiders is that there is nothing to write about, and that is a deliberate competitive advantage. Nobody confuses this team for anyone else, and they have never had to run a marketing campaign to make that true.
+Almost every other club in this series has an alternate to write about. The interesting thing about the Raiders is that there is almost nothing to write about, and that is a deliberate competitive advantage. Nobody confuses this team for anyone else, and they have never had to run a marketing campaign to make that true.
 
 ## Will the Raiders Wear a White Helmet or a Throwback?
 
-Nothing has been announced, and there is no history to suggest it is coming.
+The throwback, yes, once. Week 5 at New England is the classic white throwback, and it lands on a throwback day for both clubs: the Patriots wear their red Pat Patriot uniform at home that afternoon. Classic white against Pat Patriot red is the best-looking game on the Raiders' 2026 calendar.
 
-The league's alternate-helmet rule opened the door in 2022 for clubs to add a second shell, and most took it. Las Vegas did not. There is no throwback in the rotation and no announced plan for one in 2026. If that changes we will add it here, but it would be a genuine break from six decades of practice.
+The white helmet is a different story. The league's alternate-helmet rule opened the door in 2022 for clubs to add a second shell, and most took it. Las Vegas did not, and there is no plan for one in 2026. If that changes we will add it here, but it would be a genuine break from six decades of practice.
 
 ## Black at Allegiant Stadium (8 Games)
 
@@ -75,20 +75,20 @@ Allegiant is a domed stadium, which suits the black uniform for the same reason 
 
 ## White on the Road (9 Games)
 
-Weeks 2, 3, 5, 8, 9, 11, 12, 17 and 18. The white set is the better of the two, for what it is worth. Black numbers on white over silver pants is cleaner than the home version and it is the uniform the franchise's best-known photographs are in.
+Weeks 2, 3, 5, 8, 9, 11, 12, 17 and 18. Eight of those are the standard white road set, and Week 5 at New England is the classic white throwback. The standard white set is the better of the two regular uniforms, for what it is worth. Black numbers on white over silver pants is cleaner than the home version and it is the uniform the franchise's best-known photographs are in.
 
 ## How the Raiders Rotation Works in 2026
 
-1. **Black at home, white on the road.** No announced exceptions, and no history of them.
+1. **Black at home, white on the road.** The one exception is Week 5 at New England, in the classic white throwback.
 2. **The 2026 home themes are promotional**, not uniform announcements.
-3. **No alternate helmet, no throwback, no Color Rush** is on the calendar.
+3. **One throwback date, no alternate helmet, no Color Rush.** The classic white at New England is the only departure from the standard sets.
 4. **Pants and socks** are the only real week-to-week variables.
 
 ## The Bottom Line
 
-There is no uniform news in Las Vegas and there probably will not be any. The Raiders own the most consistent look in the sport and treat changing it as a losing proposition, which, on the evidence of the last few years of league-wide alternate churn, is defensible.
+There is one piece of uniform news in Las Vegas, the classic white throwback at New England in Week 5, and there probably will not be any more. The Raiders own the most consistent look in the sport and treat changing it as a losing proposition, which, on the evidence of the last few years of league-wide alternate churn, is defensible.
 
-Black at home, white on the road, silver pants throughout. That is the season.
+Black at home, white on the road, and the classic white throwback once at New England. That is the season.
 
 How does every one of these jerseys stack up? See our [Raiders jerseys 2026 ranking](/stories/raiders-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
@@ -96,11 +96,11 @@ How does every one of these jerseys stack up? See our [Raiders jerseys 2026 rank
 
 **What jersey are the Raiders wearing today?**
 
-Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The Raiders almost never deviate.
+Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What jerseys are the Raiders wearing this week?**
 
-Same rule. Check whether Las Vegas is home or away in the grid above. Home is black, away is white.
+Same rule. Check whether Las Vegas is home or away in the grid above. Home is black, away is white, and Week 5 at New England is the classic white throwback.
 
 **What uniform did the Raiders wear last week?**
 
@@ -108,11 +108,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What jerseys do the Raiders have in 2026?**
 
-Two, and that is the entire wardrobe. The home set is a black jersey with white numbers over silver pants under the silver helmet with the shield-and-swords logo, and it covers all eight games at Allegiant Stadium, Weeks 1, 4, 6, 7, 10, 14, 15 and 16. The road set flips to a white jersey with black numbers over the same silver pants for all nine away games. There is no alternate, no throwback, no Color Rush and no second helmet shell, and nothing new has been announced for 2026. Las Vegas did publish home game themes, from Viva Los Raiders against Kansas City in Week 4 to Raider Nation Appreciation against Tennessee in Week 16, but every one of those is a promotional theme rather than a uniform. Week 1 against Miami was the silver helmet, black jersey and silver pants, which is what almost every home week looks like.
+Three. The home set is a black jersey with white numbers over silver pants under the silver helmet with the shield-and-swords logo, and it covers all eight games at Allegiant Stadium, Weeks 1, 4, 6, 7, 10, 14, 15 and 16. The road set flips to a white jersey with black numbers over the same silver pants for eight of the nine away games. The classic white throwback covers the ninth, Week 5 at New England, with the Patriots in their red Pat Patriot throwback. There is no other alternate, no Color Rush and no second helmet shell. Las Vegas did publish home game themes, from Viva Los Raiders against Kansas City in Week 4 to Raider Nation Appreciation against Tennessee in Week 16, but every one of those is a promotional theme rather than a uniform. Week 1 against Miami was the silver helmet, black jersey and silver pants, which is what almost every home week looks like.
 
 **Do the Raiders have an alternate uniform in 2026?**
 
-No. Las Vegas has no announced alternate, no throwback and no alternate helmet, and has not participated in the league's second-shell program.
+One date. The Raiders wear the classic white throwback at New England in Week 5. Beyond that Las Vegas has no alternate and no alternate helmet, and has not participated in the league's second-shell program.
 
 **Did the Raiders announce a uniform schedule for 2026?**
 
@@ -124,7 +124,7 @@ Nothing has been announced. The silver helmet has been essentially unchanged sin
 
 **How many uniforms do the Raiders have in 2026?**
 
-Two: the black home set and the white road set, both over silver pants.
+Three: the black home set and the white road set, both over silver pants, plus the classic white throwback worn once, Week 5 at New England.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/broncos-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Denver Broncos 2026 Uniform Schedule</a><a href="/stories/chiefs-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Kansas City Chiefs 2026 Uniform Schedule</a><a href="/stories/chargers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Chargers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

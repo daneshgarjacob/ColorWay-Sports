@@ -2,7 +2,7 @@
 title: "NFL Crucial Catch 2026 Schedule: Every Team's Cancer Awareness Game, and the Gear Is Already Out"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-09-14"
+updatedDate: "2026-09-22"
 excerpt: "The NFL Crucial Catch 2026 schedule: 21 team-confirmed games, the expected date for the other 11, and what the new sideline hats look like."
 gradient: "linear-gradient(135deg, #13294B 0%, #6b1f55 55%, #e8488a 100%)"
 cardStyle: words
@@ -44,13 +44,13 @@ These are the 21 games the teams themselves have tagged as Crucial Catch. The un
 
 ### Week 3: Sunday, September 27
 
-- **[Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026)** vs New England Patriots. Uniform: teal home (projected). The early date is the Jaguars' choice, since their Week 5 and 6 home games are in London.
+- **[Jacksonville Jaguars](/stories/jaguars-uniform-schedule-2026)** vs New England Patriots. Uniform: the teal Prowler throwback at home (projected). The early date is the Jaguars' choice, since their Week 5 and 6 home games are in London.
 
 ### Week 4: Sunday, October 4
 
 - **[Buffalo Bills](/stories/bills-uniform-schedule-2026)** vs New England Patriots. Uniform: blue primary (confirmed). It is Buffalo's only October home game.
 - **[Chicago Bears](/stories/bears-uniform-schedule-2026)** vs New York Jets. Uniform: navy home (projected). Also the Real Bears Fans Wear Pink game, with a halftime recognition of breast cancer survivors.
-- **[Tampa Bay Buccaneers](/stories/buccaneers-uniform-schedule-2026)** vs Green Bay Packers. Uniform: red home (projected).
+- **[Tampa Bay Buccaneers](/stories/buccaneers-uniform-schedule-2026)** vs Green Bay Packers. Uniform: white at home (projected), with Green Bay in green.
 - **[Minnesota Vikings](/stories/vikings-uniform-schedule-2026)** vs Miami Dolphins. Uniform: purple jersey, white pants (confirmed). Shared with Latino Heritage.
 - **[San Francisco 49ers](/stories/49ers-uniform-schedule-2026)** vs Denver Broncos. Uniform: scarlet home (projected). Shared with Roger Craig's Hall of Fame ring ceremony.
 - **[Baltimore Ravens](/stories/ravens-uniform-schedule-2026)** vs Tennessee Titans. Uniform: purple home (projected). Every fan gets an "I Honor" placard.

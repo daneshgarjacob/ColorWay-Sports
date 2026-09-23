@@ -14,7 +14,7 @@ league: nfl
 teams: ["atlanta-falcons"]
 ---
 
-**Atlanta published its full 2026 jersey schedule on September 10, and every week below is now the team's own assignment.** Atlanta unveiled a new uniform set on April 2, 2026, and the headline change is that **red is the primary home jersey again**. That single decision reshapes what the Falcons look like this season, and the other alternate now has its dates: the **1966 throwback**, the red helmet with the black jersey and white pants, comes out twice, **Week 7 against the 49ers on Sunday, October 25** and **Week 13 against the Lions on Sunday, December 6**, both at Mercedes-Benz Stadium. Here is the full Atlanta Falcons 2026 uniform schedule, week by week.
+**Atlanta published its full 2026 jersey schedule on September 10, and every week below is the team's own assignment except Week 8 at Tampa Bay, where we expect red.** Atlanta unveiled a new uniform set on April 2, 2026, and the headline change is that **red is the primary home jersey again**. That single decision reshapes what the Falcons look like this season, and the other alternate now has its dates: the **1966 throwback**, the red helmet with the black jersey and white pants, comes out twice, **Week 7 against the 49ers on Sunday, October 25** and **Week 13 against the Lions on Sunday, December 6**, both at Mercedes-Benz Stadium. Here is the full Atlanta Falcons 2026 uniform schedule, week by week.
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Cover: the Falcons' 2026 jersey schedule graphic, via the Atlanta Falcons.</p>
 
@@ -36,7 +36,7 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · SNF</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red</div></div>
   <div style="background: #101010; color: #ffffff; border: 2px solid #A71930; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ 1966 Throwback</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
+  <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Red &middot; Expected</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · Madrid</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -49,7 +49,7 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
 </div>
 
-**Every game on that grid is a confirmed uniform assignment.** Atlanta released the full jersey schedule on September 10, split into three graphics, red, white and throwback, and it matched the rotation this page had projected week for week: red at home, white on the road, the 1966 throwback in Weeks 7 and 13, and the one road red in New Orleans that the Saints' own white-at-home call forces. Nothing on this page had to change except the confidence.
+**Every game on that grid except Week 8 is a confirmed uniform assignment.** Atlanta released the full jersey schedule on September 10, split into three graphics for red, white and throwback. The rotation is red at home, white on the road, the 1966 throwback in Weeks 7 and 13, and two road games in red: Week 4 in New Orleans and Week 8 in Tampa Bay, where the home team wears white.
 
 **Week 3 combination, announced:** black helmet, white jersey, black pants at Green Bay on Thursday Night Football, September 24. With the Packers at home in green, the black helmet and pants give the road whites a dark frame top and bottom.
 
@@ -83,17 +83,19 @@ Weeks 2, 5, 6, 10, 16 and 17, plus Madrid in Week 9. Sunday night against Baltim
 
 Weeks 7 and 13, the 49ers on October 25 and the Lions on December 6. Red helmet, black jersey, white pants. These are the only two games all season where Atlanta wears black.
 
-## White on the Road (7 Games, Confirmed)
+## White on the Road (6 Games, Confirmed)
 
-Weeks 1, 3, 8, 12, 14, 15 and 18, including the Thursday nighter in Green Bay.
+Weeks 1, 3, 12, 14, 15 and 18, including the Thursday nighter in Green Bay.
 
-## Red in New Orleans (Week 4, Confirmed)
+## Red in New Orleans (Week 4, Confirmed) and Tampa Bay (Week 8, Expected)
 
-The Monday night game at the Superdome on October 5 is the one road date where Atlanta stays in red, and it is the Saints' call: New Orleans published its full 2026 uniform schedule with the **white jersey at home** for that game, and with the home team in white the visitor wears its color. Red and black against white and gold under the dome lights is the best-looking Falcons road game of the year. Our [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) has their side.
+The Monday night game at the Superdome on October 5 is the first of two road dates where Atlanta stays in red, and it is the Saints' call: New Orleans published its full 2026 uniform schedule with the **white jersey at home** for that game, and with the home team in white the visitor wears its color. Red and black against white and gold under the dome lights is the best-looking Falcons road game of the year. Our [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) has their side.
+
+The second is Week 8 at Tampa Bay, and it is the one game where we part with Atlanta's September 10 graphic, which listed white. The Buccaneers wear white at Raymond James through the warm early-season stretch, so we expect Atlanta to travel in red again. Our [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026) has their side.
 
 ## How the Falcons Rotation Works in 2026
 
-1. **Red at home, white on the road.** This is new for 2026; black is no longer the home default.
+1. **Red at home, white on the road.** This is new for 2026; black is no longer the home default. The exceptions are Week 4 at New Orleans and Week 8 at Tampa Bay, where the hosts wear white and Atlanta wears red.
 2. **Madrid is a home game.** Red, and it counts toward the home slate.
 3. **The 1966 throwback is dated.** Week 7 against the 49ers and Week 13 against the Lions, both at home. The red helmet is capped at three games by rule, so one date is still open.
 4. **Pants and helmet combinations** are a week-of call, as they are for every club.
@@ -110,11 +112,11 @@ How does every one of these jerseys stack up? See our [Falcons jerseys 2026 rank
 
 **What jersey are the Falcons wearing today?**
 
-Red if Atlanta is at home, white if they are on the road. Red became the primary home jersey with the 2026 redesign.
+Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
 
 **What jerseys are the Falcons wearing this week?**
 
-Same rule. Check whether Atlanta is home or away in the grid above. Home is red, away is white.
+Same rule. Check whether Atlanta is home or away in the grid above. Home is red, away is white, with red on the road at New Orleans in Week 4 and Tampa Bay in Week 8.
 
 **What uniform did the Falcons wear last week?**
 
@@ -130,7 +132,7 @@ Not as the primary home uniform. Red took that slot in the 2026 redesign. The bl
 
 **What jerseys do the Falcons have in 2026?**
 
-Three uniforms, and Atlanta published the assignment for all 17 games on September 10. The red home jersey is new for 2026, part of the set unveiled April 2, and red is the primary at home again: white numbers and white pants under the low-gloss black helmet with a silver facemask and the winged ATL bumper mark. It goes six times at Mercedes-Benz Stadium plus the Madrid game against Cincinnati in Week 9, where Atlanta is the designated home team, and once on the road, Week 4 at New Orleans, because the Saints published white at home. The white road set covers the other seven road games. The 1966 throwback, a red helmet with the black jersey, white pants and tri-color socks, is confirmed for two home dates, Week 7 against the 49ers on Sunday, October 25 and Week 13 against the Lions on Sunday, December 6, and those are the only two games all season where Atlanta wears black. The red shell is capped at three games by rule, so one throwback date is still open. Week 2 was announced as black helmet, red jersey, white pants.
+Three uniforms, and Atlanta published the assignment for all 17 games on September 10. The red home jersey is new for 2026, part of the set unveiled April 2, and red is the primary at home again: white numbers and white pants under the low-gloss black helmet with a silver facemask and the winged ATL bumper mark. It goes six times at Mercedes-Benz Stadium plus the Madrid game against Cincinnati in Week 9, where Atlanta is the designated home team, and twice on the road, Week 4 at New Orleans and Week 8 at Tampa Bay, where the home team wears white. The white road set covers the other six road games. The 1966 throwback, a red helmet with the black jersey, white pants and tri-color socks, is confirmed for two home dates, Week 7 against the 49ers on Sunday, October 25 and Week 13 against the Lions on Sunday, December 6, and those are the only two games all season where Atlanta wears black. The red shell is capped at three games by rule, so one throwback date is still open. Week 2 was announced as black helmet, red jersey, white pants.
 
 **When do the Falcons wear the 1966 throwback in 2026?**
 
@@ -154,4 +156,4 @@ Three: the red home set, the white road set, and the 1966 throwback with the red
 - [NFL Uniform Tracker 2026](/stories/nfl-uniform-tracker-2026) — what all 32 teams wear, game by game
 - [NFL Uniform Release Dates 2026](/stories/nfl-uniform-release-dates-2026) — every team's new-look reveal, tracked
 
-*Schedule via the Atlanta Falcons and NFL.com. Every uniform assignment is the team's own, from the jersey schedule Atlanta published on September 10, 2026. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by any NFL club or the National Football League.*
+*Schedule via the Atlanta Falcons and NFL.com. Every uniform assignment except Week 8 is the team's own, from the jersey schedule Atlanta published on September 10, 2026. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by any NFL club or the National Football League.*

@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-22"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -15,7 +15,7 @@ league: nfl
 teams: ["baltimore-ravens"]
 ---
 
-Baltimore has now named all three of its Next Flight theme games. The all-white **White Noise** look debuts in **Week 2 against the Saints, Sunday, September 20 at 1:00**. The all-purple **Purple Rising** uniform, with the new Purple Rising helmet, gets **Thursday Night Football in Week 9 against the Jaguars, November 5 at 8:15**. And the all-black **Darkness Falls** set, with the matte black Darkness helmet and its red-eyed raven, debuts on **Monday Night Football in Week 10 against the Chargers, November 16 at 8:15**. White Noise was announced August 24; the other two landed September 1. Here is the full Baltimore Ravens 2026 uniform schedule, week by week, with the three confirmed dates first and the remaining open questions labelled as open.
+Baltimore has now named all three of its Next Flight theme games. The all-white **White Noise** look debuts in **Week 2 against the Saints, Sunday, September 20 at 1:00**. The all-purple **Purple Rising** uniform, with the new Purple Rising helmet, gets **Thursday Night Football in Week 9 against the Jaguars, November 5 at 8:15**. And the all-black **Darkness Falls** set, with the matte black Darkness helmet and its red-eyed raven, debuts on **Monday Night Football in Week 10 against the Chargers, November 16 at 8:15**. White Noise was announced August 24; the other two landed September 1. Here is the full Baltimore Ravens 2026 uniform schedule, week by week, with the three confirmed dates first and our calls for everything else.
 
 ## The Full 2026 Ravens Uniform Schedule, Week by Week
 
@@ -26,7 +26,7 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; Black Pants</div></div>
   <div style="background: #ffffff; color: #241773; border: 2px solid #241773; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White Noise</div></div>
-  <div style="background: #eceff3; color: #4a4a4a; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Open · Rio</div></div>
+  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple · Rio</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -37,14 +37,14 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #0b0b0d; color: #d94040; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Darkness Falls</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple · TNF</div></div>
-  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #0b0b0d; color: #d94040; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Darkness Falls</div></div>
 </div>
 
-**The three starred games are the confirmed uniform assignments on that grid.** Baltimore has not published a full game-by-game uniform schedule beyond its theme games, so everything else follows the standard rule, purple at home and white on the road, with Week 3 left genuinely open.
+**The three starred games are the confirmed uniform assignments on that grid.** Baltimore has not published a full game-by-game uniform schedule beyond its theme games, so everything else is our call: purple at home and white on the road, with three exceptions. Baltimore wears purple in Rio in Week 3, and the black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 ## The Three Theme Games
 
@@ -75,13 +75,13 @@ The matchup helps. The Chargers have already published their side of this game: 
 
 ## Week 3 in Rio Is the Most Interesting Game on the Calendar
 
-Baltimore plays Dallas at the Maracanã on **Sunday, September 27**, and two facts stack up to make it the one road date where the Ravens could wear color.
+Baltimore plays Dallas at the Maracanã on **Sunday, September 27**, and two facts stack up to put the Ravens in color on the road.
 
 First, **Dallas is the designated home team.** NFL.com lists the game as Ravens at Cowboys. Baltimore's own schedule page renders it as "vs", which is how this gets miscounted, but Baltimore is the visitor and the game does not count as one of their eight home dates.
 
 Second, **Dallas wears white at home.** The Cowboys are the one club in the NFL that does this by tradition, which is precisely why a trip to face them is the rare road game where the visiting team gets to choose a colored jersey. Philadelphia has used it for Kelly Green; the Chargers used it last season for a gold jersey in Tampa under the same logic.
 
-So Baltimore could wear purple in Brazil, in a 4:25 national window, against a white-clad Dallas team. Nothing has been announced and we are not putting it on the grid, but it is the single most likely place on this schedule for something other than the default. Our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of it.
+So Baltimore wears purple in Brazil, in a 4:25 national window, against a white-clad Dallas team, and that is how we have it on the grid. Our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of it.
 
 ## The Next Flight Collection
 
@@ -97,15 +97,15 @@ If you go looking, you will still find a Ravens page announcing "Darkness Falls"
 
 ## What Is Still Open
 
-The theme games are set, but Baltimore has not said which helmet goes with the standard purple home set in Weeks 4, 7, 14, 16 and 18, or whether the Purple Rising or Darkness shells make additional appearances outside their named nights. Historically the Ravens have held the alternate helmets to their theme games, so the default read is the classic purple helmet everywhere else. Week 3 in Rio remains the one road date where a colored jersey is possible. If any of it gets named, it goes on this page the day it does.
+The theme games are set, but Baltimore has not said which helmet goes with the standard purple home set in Weeks 4, 7 and 16, or which helmet and pants go with the black Darkness Falls jersey when it returns in Weeks 14 and 18. Historically the Ravens have held the alternate helmets to their theme games, so the default read is the classic purple helmet everywhere else. If any of it gets named, it goes on this page the day it does.
 
-## Purple at M&T Bank Stadium (6 Games)
+## Purple at M&T Bank Stadium (4 Games)
 
-Weeks 4, 7, 9, 14, 16 and 18. Tennessee, Cincinnati, Jacksonville on Thursday as the all-purple Purple Rising game, Tampa Bay, Cleveland, and Pittsburgh to close. Week 2 against New Orleans comes off this list as the White Noise game, and Week 10 against the Chargers comes off it as the Darkness Falls game.
+Weeks 4, 7, 9 and 16. Tennessee, Cincinnati, Jacksonville on Thursday as the all-purple Purple Rising game, and Cleveland. Week 2 against New Orleans comes off this list as the White Noise game, and the black Darkness Falls jersey takes three home dates: Week 10 against the Chargers, Week 14 against Tampa Bay, and Week 18 against Pittsburgh to close the regular season.
 
 The purple is the whole identity. It is the only one in the league, nobody can take it, and the fact that Baltimore built a modern helmet program around deepening it rather than escaping it is the smartest thing about Next Flight.
 
-## White on the Road (7 Games, Plus Rio)
+## White on the Road (7 Games)
 
 Baltimore has confirmed the opener in Indianapolis: **black helmet, white jersey, black pants.** That is the road look at its sharpest, the white jersey bracketed top and bottom by black so it reads as a bright band between two dark ones rather than a white shape trailing into white legs. Against a Colts side in blue at home, the black pants are what keep Baltimore from looking like the lighter, thinner team on the field.
 
@@ -113,25 +113,26 @@ Baltimore has confirmed the opener in Indianapolis: **black helmet, white jersey
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2098063958821462492"></a></blockquote>
 </div>
 
-Weeks 1, 5, 6, 8, 11, 12 and 15, plus Week 3 in Brazil if they stay with the default. The Week 5 Sunday nighter in Atlanta is the one with the biggest audience.
+Weeks 1, 5, 6, 8, 11, 12 and 15. The Week 5 Sunday nighter in Atlanta is the one with the biggest audience.
 
 ## Purple in Cincinnati (Week 17)
 
-The Thursday night game on New Year's Eve is the one road date where Baltimore wears purple, and it is the Bengals' decision: Cincinnati has confirmed the **White Bengal** alternate for that game, and with the home team in white the visitor wears its color. Purple against white tiger stripes in prime time is the best-looking road game on the Ravens' schedule.
+The Thursday night game on New Year's Eve is the second road date where Baltimore wears purple, after Rio, and it is the Bengals' decision: Cincinnati has confirmed the **White Bengal** alternate for that game, and with the home team in white the visitor wears its color. Purple against white tiger stripes in prime time is one of the best-looking road games on the Ravens' schedule.
 
 ## How the Ravens Rotation Works in 2026
 
 1. **Purple at home, white on the road**, unless the team designates otherwise.
 2. **Three theme games are confirmed: White Noise in Week 2, Purple Rising in Week 9, and Darkness Falls in Week 10.** Both new Next Flight helmets debut on their named nights.
-3. **Rio is a road game**, and it is the one road date where purple is genuinely possible, because Dallas wears white at home.
-4. **The "Darkness Falls vs. Lions" schedule you may find in search results is the 2025 article.** The 2026 Darkness Falls game is Monday, November 16 against the Chargers.
-5. **Pants and helmet combinations** are a week-of call, as they are for every club.
+3. **Rio is a road game**, and Baltimore wears purple there because Dallas wears white at home.
+4. **Darkness Falls comes back twice**, in Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+5. **The "Darkness Falls vs. Lions" schedule you may find in search results is the 2025 article.** The 2026 Darkness Falls game is Monday, November 16 against the Chargers.
+6. **Pants and helmet combinations** are a week-of call, as they are for every club.
 
 ## The Bottom Line
 
-Baltimore spent real money and real design effort on Next Flight, and every piece of it now has a date. White Noise opens the home schedule in Week 2, Purple Rising takes the Thursday night in Week 9, and Darkness Falls gets Monday night in Week 10 against a Chargers team that will be in white and powder blue. That is three national-window showcases for three different helmets, which is exactly how you launch a collection.
+Baltimore spent real money and real design effort on Next Flight, and every piece of it now has a date. White Noise opens the home schedule in Week 2, Purple Rising takes the Thursday night in Week 9, and Darkness Falls gets Monday night in Week 10 against a Chargers team that will be in white and powder blue. That is three national-window showcases for three different helmets, which is exactly how you launch a collection, and the black jersey returns for Week 14 against Tampa Bay and the Week 18 finale against Pittsburgh.
 
-The date worth circling is Week 3 in Rio. A purple jersey against a white Dallas team, in a stadium that size, in the afternoon national window, would be the best-looking game Baltimore plays all year. They just have to decide to do it.
+The date worth circling is Week 3 in Rio. A purple jersey against a white Dallas team, in a stadium that size, in the afternoon national window, is the best-looking game Baltimore plays all year.
 
 How does every one of these jerseys stack up? See our [Ravens jerseys 2026 ranking](/stories/ravens-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
@@ -139,7 +140,7 @@ How does every one of these jerseys stack up? See our [Ravens jerseys 2026 ranki
 
 **What jersey are the Ravens wearing today?**
 
-Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game.
+Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 **What is the Ravens White Noise uniform?**
 
@@ -147,7 +148,7 @@ A white home look from the Next Flight collection: white jersey, white pants and
 
 **What jerseys are the Ravens wearing this week?**
 
-White Noise for the home opener, and it is confirmed: white jersey, white pants and the metallic Purple Rising helmet against the Saints on Sunday, September 20 at 1:00. New Orleans answers in gold helmet, black jersey and black pants. After that, same rule. Check whether Baltimore is home or away in the grid above. Home is purple, away is white.
+Purple in Rio. Week 3 against Dallas at the Maracanã on Sunday, September 27 is a road game for Baltimore, and with the Cowboys in white at home, the Ravens wear their purple jersey. After that, check whether Baltimore is home or away in the grid above. Home is purple, away is white, and the named nights and Darkness Falls dates are marked.
 
 **What uniform did the Ravens wear last week?**
 
@@ -155,11 +156,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What jerseys do the Ravens have in 2026?**
 
-Five uniforms. The purple home set covers six games at M&T Bank Stadium, Weeks 4, 7, 14, 16 and 18 plus the Purple Rising night in Week 9, and purple travels once, Week 17 at Cincinnati, because the Bengals wear their White Bengal alternate that night. The white road set covers seven trips, and the opener at Indianapolis was confirmed as black helmet, white jersey and black pants. The new thing for 2026 is the Next Flight collection, launched in April, a full refresh that gave a franchise which had worn essentially one helmet for thirty seasons two more, and all three of its theme games now have dates. White Noise is Week 2 against the Saints on Sunday, September 20, the metallic Purple Rising helmet over a white jersey and white pants at home. Purple Rising is Week 9 against the Jaguars on Thursday, November 5, purple jersey and purple pants under the Purple Rising helmet. Darkness Falls is Week 10 against the Chargers on Monday, November 16, black jersey and black pants under the matte black Darkness helmet with the red-eyed raven. Week 3 against Dallas in Rio is a road game and the one date where purple is genuinely possible, since the Cowboys wear white at home, but nothing has been announced.
+Five uniforms. The purple home set covers four games at M&T Bank Stadium, Weeks 4, 7 and 16 plus the Purple Rising night in Week 9, and purple travels twice, Week 3 against Dallas in Rio, where the Cowboys are the home team in white, and Week 17 at Cincinnati, because the Bengals wear their White Bengal alternate that night. The white road set covers seven trips, and the opener at Indianapolis was confirmed as black helmet, white jersey and black pants. The new thing for 2026 is the Next Flight collection, launched in April, a full refresh that gave a franchise which had worn essentially one helmet for thirty seasons two more, and all three of its theme games now have dates. White Noise is Week 2 against the Saints on Sunday, September 20, the metallic Purple Rising helmet over a white jersey and white pants at home. Purple Rising is Week 9 against the Jaguars on Thursday, November 5, purple jersey and purple pants under the Purple Rising helmet. Darkness Falls is Week 10 against the Chargers on Monday, November 16, black jersey and black pants under the matte black Darkness helmet with the red-eyed raven, and we have the black Darkness Falls jersey back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 **When do the Ravens wear the black uniform in 2026?**
 
-Monday, November 16, in Week 10 against the Los Angeles Chargers on Monday Night Football, 8:15 kickoff. The team calls it Darkness Falls: black jersey, black pants, and the matte black Darkness helmet with the red-eyed raven. It was announced on September 1, 2026.
+Three times, all at home. The debut is Monday, November 16, in Week 10 against the Los Angeles Chargers on Monday Night Football, 8:15 kickoff. The team calls it Darkness Falls: black jersey, black pants, and the matte black Darkness helmet with the red-eyed raven, announced on September 1, 2026. The black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 **When do the Ravens wear the Purple Rising uniform in 2026?**
 
@@ -179,15 +180,15 @@ No. Dallas is the designated home team for the Week 3 game at the Maracanã on S
 
 **Could the Ravens wear purple on the road in 2026?**
 
-Realistically only in Week 3 against Dallas, because the Cowboys wear white at home. Nothing has been announced.
+Yes, twice. Week 3 against Dallas in Rio, because the Cowboys are the designated home team and wear white, and Week 17 at Cincinnati, where the Bengals wear the White Bengal.
 
 **How many uniforms do the Ravens have in 2026?**
 
-Five looks with games assigned: the purple home set, the white road set, the all-white White Noise look in Week 2, the all-purple Purple Rising look with its new helmet in Week 9, and the all-black Darkness Falls look with the matte black helmet in Week 10.
+Five looks with games assigned: the purple home set, the white road set, the all-white White Noise look in Week 2, the all-purple Purple Rising look with its new helmet in Week 9, and the all-black Darkness Falls look, which debuts with the matte black helmet in Week 10 and returns in Weeks 14 and 18.
 
 **Why are the Ravens wearing black?**
 
-All black is Darkness Falls, one of Baltimore's three named theme games from the Next Flight collection: black jersey, black pants and the matte black Darkness helmet with the red-eyed raven. It is worn at home against the Los Angeles Chargers on Monday Night Football, November 16, 2026.
+All black is Darkness Falls, one of Baltimore's three named theme games from the Next Flight collection: black jersey, black pants and the matte black Darkness helmet with the red-eyed raven. It debuts at home against the Los Angeles Chargers on Monday Night Football, November 16, 2026, and the black jersey returns for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bengals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Bengals 2026 Uniform Schedule</a><a href="/stories/browns-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Browns 2026 Uniform Schedule</a><a href="/stories/steelers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Steelers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 
