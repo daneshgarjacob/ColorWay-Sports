@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-24"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **September 19 at Rutgers.** ★ Confirmed from the broadcast: **cardinal helmet, white jersey, gold pants**, the road set USC almost never varies. Rutgers matched its Scarlet Out crowd with scarlet over scarlet. USC won 42-35.
 
-**September 26 vs. Oregon.** Cardinal expected. Oregon at the Coliseum. Cardinal against whatever Oregon decides to be that week.
+**September 26 vs. Oregon.** Cardinal expected. Oregon at the Coliseum. Oregon has now decided: it confirmed **Warp Speed**, a silver helmet, white jersey and white pants, so it is USC's cardinal and gold against silver over head-to-toe white. See the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 
 **October 3 vs. Washington.** Cardinal expected.
 
