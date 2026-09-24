@@ -1,3 +1,4 @@
+import { ARTICLE_ROW, ARTICLE_COL } from "@/lib/articleColumn";
 import Link from "next/link";
 import type { TeamLatest } from "@/lib/mlbTeamLatest";
 import { teamWearQuestions } from "@/lib/mlbTeamLatest";
@@ -37,8 +38,9 @@ export default function TeamWoreLastNight({
   return (
     <section
       aria-label={q.lastNight}
-      className="max-w-[720px] mx-auto px-5 pt-8"
+      className={`${ARTICLE_ROW} pt-8`}
     >
+      <div className={ARTICLE_COL}>
       <div className="rounded-2xl border border-black/10 overflow-hidden">
         <div
           className="px-5 py-2.5 flex items-center gap-2"
@@ -110,6 +112,7 @@ export default function TeamWoreLastNight({
             </Link>
           </div>
         </div>
+      </div>
       </div>
     </section>
   );

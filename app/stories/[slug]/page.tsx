@@ -1,3 +1,4 @@
+import { ARTICLE_ROW, ARTICLE_COL } from "@/lib/articleColumn";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import TwitterEmbed from "@/components/TwitterEmbed";
@@ -279,8 +280,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       />
 
       {/* Editorial hero */}
-      <div className="w-full py-8 sm:py-10 px-5 border-b border-black/5">
-        <div className="max-w-[720px] mx-auto">
+      <div className="w-full py-8 sm:py-10 border-b border-black/5">
+        <div className={ARTICLE_ROW}>
+        <div className={ARTICLE_COL}>
           <div className="flex items-center justify-between mb-4">
             <Link prefetch={false}
               href="/stories"
@@ -315,6 +317,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               })}
             </time>
           </div>
+        </div>
         </div>
       </div>
 
@@ -380,18 +383,22 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           the strongest reason to subscribe was the one never asking. Opt-in via
           `newsletterTop: true` in frontmatter so no other post is affected. */}
       {post.newsletterTop && (
-        <div className="max-w-[720px] mx-auto px-5 pt-8">
+        <div className={`${ARTICLE_ROW} pt-8`}>
+          <div className={ARTICLE_COL}>
           <InlineNewsletter
             eyebrow="Updated Every Morning"
             heading="Never check the site to find out."
             body="We log every uniform in every game, every day. Get the day's slate, the standouts, and the misses in one email."
           />
+          </div>
         </div>
       )}
 
       {quickLinkTeams.length > 0 && (
-        <div className="max-w-[720px] mx-auto px-5 pt-8">
-          <TeamQuickLinks teams={quickLinkTeams} />
+        <div className={`${ARTICLE_ROW} pt-8`}>
+          <div className={ARTICLE_COL}>
+            <TeamQuickLinks teams={quickLinkTeams} />
+          </div>
         </div>
       )}
 

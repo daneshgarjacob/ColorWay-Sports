@@ -1,3 +1,4 @@
+import { ARTICLE_ROW, ARTICLE_COL } from "@/lib/articleColumn";
 import Link from "next/link";
 import type { WearAnswer, WearHeadline } from "@/lib/teamWearAnswers";
 import WearQuickAnswers from "@/components/WearQuickAnswers";
@@ -34,7 +35,8 @@ export default function TeamWearBox({
   const title = headline?.question ?? answers[answers.length - 1]?.q ?? "";
 
   return (
-    <section aria-label={title} className="max-w-[720px] mx-auto px-5 pt-8">
+    <section aria-label={title} className={`${ARTICLE_ROW} pt-8`}>
+      <div className={ARTICLE_COL}>
       <div className="rounded-2xl border border-black/10 overflow-hidden">
         <div className="px-5 py-2.5 flex items-center gap-2" style={{ background: accent }}>
           <span className="relative flex h-2 w-2">
@@ -93,6 +95,7 @@ export default function TeamWearBox({
             </Link>
           )}
         </div>
+      </div>
       </div>
     </section>
   );
