@@ -3,7 +3,7 @@ title: "NFL Week 3 Uniforms 2026: What Every Team Is Wearing, Including Nickel C
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-23"
-updatedDate: "2026-09-23"
+updatedDate: "2026-09-24"
 excerpt: "NFL uniforms this week: the Bills debut Nickel City, the Colts debut Anvil Strike, Denver goes Midnight Navy and Baltimore wears purple in Rio."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -73,14 +73,15 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 
 ### Baltimore Ravens at Dallas Cowboys: Purple in Rio
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/ravens-purple-home.jpg" alt="Baltimore Ravens purple jersey, projected against the Cowboys in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, worn as the designated home team in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/ravens-purple-home.jpg" alt="Baltimore Ravens purple jersey, confirmed against the Cowboys in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, worn as the designated home team in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 4:25 p.m. ET, CBS, at the Maracanã. Cowboys jersey confirmed, Ravens projected.** Dallas is the designated home team in Brazil and wears white, the way the Cowboys do at home, with the silver helmet and the silver-blue pants as our read. That puts Baltimore in **purple** on the road, which it only does twice all season. Purple against white in the most famous stadium in South America is about as clean a picture as this schedule offers. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) for why the Ravens end up in color, and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) for every Dallas date.
+**Sunday, 4:25 p.m. ET, CBS, at the Maracanã. Ravens confirmed, Cowboys jersey confirmed.** Dallas is the designated home team in Brazil and wears white, the way the Cowboys do at home, with the silver helmet and the silver-blue pants as our read. That puts Baltimore in **purple** on the road, which it only does twice all season, and the Ravens' game-day post confirmed the rest: **primary black helmet, purple jersey, black pants.** Purple against white in the most famous stadium in South America is about as clean a picture as this schedule offers. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) for why the Ravens end up in color, and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) for every Dallas date.
 
 ### Also Worth Watching
 
 - **Kansas City in red on the road.** Miami is projected in white at home, so the Chiefs wear red at Hard Rock Stadium, the only road game all season where they do. Red helmet, red jersey, white pants. [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
 - **Atlanta's dark frame at Lambeau.** The Falcons announced black helmet, white jersey, black pants for Thursday night in Green Bay, so the road whites get black at both ends. The Packers are in their green home set. [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026).
+- **Jets in road white at Detroit.** New York's game-day post confirmed the green helmet, white jersey and green pants, the set it wore in Tennessee in Week 1. [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
 - **Tennessee all white.** The Titans confirmed white helmet, white jersey and white pants at the Giants, with New York projected in blue at home. [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026).
 - **Arizona all white in Santa Clara.** The Cardinals' own schedule puts the 49ers game in the all-white set under the white helmet. [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
 - **New Orleans in black under the gold helmet** against the Raiders, as the Saints published before the season. The captains pick the pants each week. [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026).
@@ -95,7 +96,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 
 - **Los Angeles Chargers at Buffalo Bills**, 1:00 p.m. ET, FOX. Chargers: all white, white helmet (confirmed). Bills: The Charge helmet, gray Nickel City jersey and pants (confirmed).
 - **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: white jersey (confirmed), silver helmet and white pants projected. Browns: orange helmet, brown jersey, white pants (projected).
-- **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (projected). Lions: silver helmet, Honolulu blue jersey and pants (projected).
+- **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey and pants (projected).
 - **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (projected). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
 - **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Chiefs: red helmet, red jersey, white pants (projected). Dolphins: white helmet, white jersey, aqua pants (projected).
 - **Tennessee Titans at New York Giants**, 1:00 p.m. ET, CBS. Titans: all white (confirmed). Giants: blue helmet, blue jersey, white pants (projected).
@@ -104,7 +105,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 - **New England Patriots at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Patriots: silver helmet, white jersey, navy pants (projected). Jaguars: Prowler throwback, black helmet, teal jersey, white pants (confirmed).
 - **Arizona Cardinals at San Francisco 49ers**, 4:05 p.m. ET, FOX. Cardinals: all white, white helmet (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (projected).
 - **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, white pants (projected).
-- **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, white pants (projected). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants projected.
+- **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants projected.
 - **Las Vegas Raiders at New Orleans Saints**, 4:25 p.m. ET, CBS. Raiders: silver helmet, white jersey, silver pants (projected). Saints: gold helmet, black jersey (confirmed), gold pants projected.
 - **Los Angeles Rams at Denver Broncos**, 8:20 p.m. ET, NBC. Rams: royal helmet, white jersey, white pants (projected). Broncos: navy helmet, Midnight Navy jersey and pants (confirmed).
 
@@ -136,7 +137,7 @@ It is the Colts' NFL x Nike Rivalries uniform, revealed on August 25, 2026: an a
 
 **What are the Ravens and Cowboys wearing in Brazil?**
 
-Dallas is the designated home team at the Maracanã and wears white. Baltimore wears purple, one of only two road games all season where the Ravens are in color.
+Dallas is the designated home team at the Maracanã and wears white. Baltimore wears purple, one of only two road games all season where the Ravens are in color, and the team confirmed the primary black helmet and black pants with it.
 
 **Why are the Chiefs wearing red at Miami?**
 

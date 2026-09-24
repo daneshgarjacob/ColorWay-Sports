@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-23"
+updatedDate: "2026-09-24"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -26,7 +26,7 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; Black Pants</div></div>
   <div style="background: #ffffff; color: #241773; border: 2px solid #241773; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White Noise</div></div>
-  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple · Rio</div></div>
+  <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple &middot; Black Pants &middot; Rio</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -44,7 +44,7 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
   <div style="background: #0b0b0d; color: #d94040; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Darkness Falls</div></div>
 </div>
 
-**The three starred games are the confirmed uniform assignments on that grid.** Baltimore has not published a full game-by-game uniform schedule beyond its theme games, so everything else is our call: purple at home and white on the road, with three exceptions. Baltimore wears purple in Rio in Week 3, and the black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+**The starred games are the confirmed uniform assignments on that grid.** Baltimore has not published a full game-by-game uniform schedule beyond its theme games, so everything else is our call: purple at home and white on the road, with three exceptions. Baltimore wears purple in Rio in Week 3, and the black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 ## The Three Theme Games
 
@@ -81,7 +81,7 @@ First, **Dallas is the designated home team.** NFL.com lists the game as Ravens 
 
 Second, **Dallas wears white at home.** The Cowboys are the one club in the NFL that does this by tradition, which is precisely why a trip to face them is the rare road game where the visiting team gets to choose a colored jersey. Philadelphia has used it for Kelly Green; the Chargers used it last season for a gold jersey in Tampa under the same logic.
 
-So Baltimore wears purple in Brazil, in a 4:25 national window, against a white-clad Dallas team, and that is how we have it on the grid. Our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of it.
+So Baltimore wears purple in Brazil, in a 4:25 national window, against a white-clad Dallas team. The team has now confirmed it in its game-day post: the primary black helmet, the purple jersey and black pants, the same black-bracketed look it used in white at Indianapolis. Our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has the other side of it.
 
 ## The Next Flight Collection
 
@@ -148,7 +148,7 @@ A white home look from the Next Flight collection: white jersey, white pants and
 
 **What jerseys are the Ravens wearing this week?**
 
-Purple in Rio. Week 3 against Dallas at the Maracanã on Sunday, September 27 is a road game for Baltimore, and with the Cowboys in white at home, the Ravens wear their purple jersey. After that, check whether Baltimore is home or away in the grid above. Home is purple, away is white, and the named nights and Darkness Falls dates are marked.
+Purple in Rio. Week 3 against Dallas at the Maracanã on Sunday, September 27 is a road game for Baltimore, and with the Cowboys in white at home, the Ravens wear their purple jersey. The team confirmed the full combination in its game-day post: the primary black helmet, purple jersey and black pants. After that, check whether Baltimore is home or away in the grid above. Home is purple, away is white, and the named nights and Darkness Falls dates are marked.
 
 **What uniform did the Ravens wear last week?**
 
