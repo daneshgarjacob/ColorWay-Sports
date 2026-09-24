@@ -27,6 +27,16 @@ Below is every Week 3 look we know, starting with the special ones and then all 
 
 Gray against white is a lot of light on one field, so the blue helmet has to do most of the separating. We said it at the reveal and it still holds: the helmet is the best thing Buffalo has made in years, and the gray underneath it is the weakest part of the set. Nickel City comes back once more, against the Bears on December 19. Full details are in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2102534658030231855"></a></blockquote>
+</div>
+
+The Chargers published the jersey and pants for all 17 games on September 1, with Week 3 at Buffalo in the all-white set:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2094847855659987018"></a></blockquote>
+</div>
+
 ### Indianapolis Colts: Anvil Strike Debuts Against the Texans
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white road jersey, projected at Indianapolis in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/colts-anthracite-rivalries.jpg" alt="Indianapolis Colts Anvil Strike Rivalries jersey in anthracite, debuting in Week 3 of 2026 against the Texans" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
@@ -35,13 +45,21 @@ Gray against white is a lot of light on one field, so the blue helmet has to do 
 
 The helmet is a beautiful object. Our issue, laid out in the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), is that the uniform under it has very little to do with the Indianapolis Colts. Sunday is the first chance to see whether it reads better on the field than it did in the reveal photos.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Colts/status/2102412757777703009"></a></blockquote>
+</div>
+
 ### Denver Broncos: Midnight Navy on Sunday Night Football
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/rams-white-road.jpg" alt="Los Angeles Rams white road jersey, projected at Denver in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/broncos-navy-alternate.jpg" alt="Denver Broncos Midnight Navy alternate jersey, worn against the Rams on Sunday Night Football in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 8:20 p.m. ET, NBC. Broncos confirmed, Rams projected.** Denver goes head to toe in the darkest thing it owns: **navy helmet, Midnight Navy jersey, Midnight Navy pants.** The helmet was the open question, because Denver has paired this set with the Summit White helmet (against the Browns in 2024) and with the navy helmet (against the Bengals in 2025). This time it is the navy shell, so it is the full monochrome. The Rams are projected in white on the road under the royal helmet.
+**Sunday, 8:20 p.m. ET, NBC. Broncos confirmed, Rams projected.** Denver goes head to toe in the darkest thing it owns: **navy helmet, Midnight Navy jersey, Midnight Navy pants.** The helmet was the open question, because Denver has paired this set with the Summit White helmet (against the Browns in 2024) and with the navy helmet (against the Bengals in 2025). This time it is the navy shell, so it is the full monochrome, and the club put it plainly on game week: all Midnight Navy for Sunday Night Football. The Rams are projected in white on the road under the royal helmet.
 
 Midnight Navy is the best thing in Denver's closet and it only gets two games this season, this one and Christmas Day against the Bills. Under the lights at Mile High is exactly where it belongs. More in our [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2102790164372214166"></a></blockquote>
+</div>
 
 ### Jacksonville Jaguars: The Prowler Throwback Against New England
 
