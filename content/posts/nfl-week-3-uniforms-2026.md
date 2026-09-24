@@ -39,14 +39,20 @@ The Chargers published the jersey and pants for all 17 games on September 1, wit
 
 ### Indianapolis Colts: Anvil Strike Debuts Against the Texans
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white road jersey, projected at Indianapolis in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/colts-anthracite-rivalries.jpg" alt="Indianapolis Colts Anvil Strike Rivalries jersey in anthracite, debuting in Week 3 of 2026 against the Texans" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white road jersey, confirmed at Indianapolis in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/colts-anthracite-rivalries.jpg" alt="Indianapolis Colts Anvil Strike Rivalries jersey in anthracite, debuting in Week 3 of 2026 against the Texans" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Colts confirmed, Texans projected.** The Colts debut **Anvil Strike**, their new NFL x Nike Rivalries uniform: an anthracite jersey and pants with royal blue numbers, a shoulder stripe with horseshoe-inspired grommets, and a high-gloss metallic royal blue helmet with a silver horseshoe. The Rivalries program puts the uniform at a home game against a division rival, which is why it lands on Houston. The Texans are projected in white on the road under the navy helmet.
+**Sunday, 1:00 p.m. ET, CBS. Confirmed on both sides.** The Colts debut **Anvil Strike**, their new NFL x Nike Rivalries uniform: an anthracite jersey and pants with royal blue numbers, a shoulder stripe with horseshoe-inspired grommets, and a high-gloss metallic royal blue helmet with a silver horseshoe. The Rivalries program puts the uniform at a home game against a division rival, which is why it lands on Houston. The Texans answer in their road whites with the **navy helmet and navy pants**, so it is anthracite and metallic royal against white bracketed by navy.
 
 The helmet is a beautiful object. Our issue, laid out in the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), is that the uniform under it has very little to do with the Indianapolis Colts. Sunday is the first chance to see whether it reads better on the field than it did in the reveal photos.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Colts/status/2102412757777703009"></a></blockquote>
+</div>
+
+The matchup side by side, via @fashion_nfl:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/fashion_nfl/status/2103124081801564494"></a></blockquote>
 </div>
 
 ### Denver Broncos: Midnight Navy on Sunday Night Football
@@ -63,12 +69,16 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 
 ### Jacksonville Jaguars: The Prowler Throwback Against New England
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/patriots-white-road.jpg" alt="New England Patriots white road jersey, projected at Jacksonville in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/jaguars-teal-prowler-throwback.jpg" alt="Jacksonville Jaguars teal Prowler throwback jersey, worn against the Patriots in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/patriots-white-road.jpg" alt="New England Patriots white road jersey, confirmed at Jacksonville in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/jaguars-teal-prowler-throwback.jpg" alt="Jacksonville Jaguars teal Prowler throwback jersey, worn against the Patriots in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Jaguars confirmed, Patriots projected.** Jacksonville has confirmed the Prowler throwback in its own game-week post: **throwback black helmet, throwback teal jersey, throwback white pants.** New England is projected in the road whites under the silver helmet. The throwback returns once more, on Monday night against Pittsburgh in Week 14. Every date is in our [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Confirmed on both sides.** Jacksonville has confirmed the Prowler throwback in its own game-week post: **throwback black helmet, throwback teal jersey, throwback white pants.** New England answers in **white on white under the silver helmet**, silver helmet, white jersey, white pants, which leaves the teal as the only color on the field below the neck. The throwback returns once more, on Monday night against Pittsburgh in Week 14. Every date is in our [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Jaguars/status/2102853536350671035"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Patriots/status/2103120739503387010"></a></blockquote>
 </div>
 
 ### Baltimore Ravens at Dallas Cowboys: Purple in Rio
@@ -97,12 +107,12 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 - **Los Angeles Chargers at Buffalo Bills**, 1:00 p.m. ET, FOX. Chargers: all white, white helmet (confirmed). Bills: The Charge helmet, gray Nickel City jersey and pants (confirmed).
 - **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: white jersey (confirmed), silver helmet and white pants projected. Browns: orange helmet, brown jersey, white pants (projected).
 - **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey and pants (projected).
-- **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (projected). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
+- **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (confirmed). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
 - **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Chiefs: red helmet, red jersey, white pants (projected). Dolphins: white helmet, white jersey, aqua pants (projected).
 - **Tennessee Titans at New York Giants**, 1:00 p.m. ET, CBS. Titans: all white (confirmed). Giants: blue helmet, blue jersey, white pants (projected).
 - **Cincinnati Bengals at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, white pants (projected). Steelers: black helmet, black jersey, gold pants (projected).
 - **Seattle Seahawks at Washington Commanders**, 1:00 p.m. ET, FOX. Seahawks: navy helmet, white jersey, navy pants (projected). Commanders: burgundy helmet, burgundy jersey, white pants (projected).
-- **New England Patriots at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Patriots: silver helmet, white jersey, navy pants (projected). Jaguars: Prowler throwback, black helmet, teal jersey, white pants (confirmed).
+- **New England Patriots at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Patriots: silver helmet, white jersey, white pants (confirmed). Jaguars: Prowler throwback, black helmet, teal jersey, white pants (confirmed).
 - **Arizona Cardinals at San Francisco 49ers**, 4:05 p.m. ET, FOX. Cardinals: all white, white helmet (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (projected).
 - **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, white pants (projected).
 - **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants projected.

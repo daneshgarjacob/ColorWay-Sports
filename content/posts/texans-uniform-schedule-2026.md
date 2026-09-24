@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Houston Texans 2026 Uniform Schedule: Battle Red Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-24"
 excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -37,7 +37,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #03202F; border: 2px solid #03202F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Liberty White &middot; Navy Helmet</div></div>
   <div style="background: #03202F; color: #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Deep Steel Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White &middot; Navy Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White (Dallas in Navy)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · London</div></div>
@@ -55,7 +55,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #0091DA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Titans</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Blue Alternate</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>three starred games are confirmed</strong> by the Texans. Houston announced themes for all eight home dates, but the rest are promotional themes such as Salute to Service, Kids Day, and the 25th Season celebration rather than uniform announcements, so the Deep Steel Blue home and white road assignments elsewhere follow the standard NFL home-and-away convention and are our projection. Week 18 against Tennessee is Houston's second alternate, the Blue Alternate, which is a separate jersey from Battle Red. Pants are a week-of-game call, and the Week 18 kickoff time has not been set.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>starred games are confirmed</strong> by the Texans, three from the home themes announcement plus Week 3 at Indianapolis, confirmed on game week. Houston announced themes for all eight home dates, but the rest are promotional themes such as Salute to Service, Kids Day, and the 25th Season celebration rather than uniform announcements, so the Deep Steel Blue home and white road assignments elsewhere follow the standard NFL home-and-away convention and are our projection. Week 18 against Tennessee is Houston's second alternate, the Blue Alternate, which is a separate jersey from Battle Red. Pants are a week-of-game call, and the Week 18 kickoff time has not been set.</p>
 
 ## Liberty White (Week 1 vs. Bills, Confirmed)
 
@@ -137,7 +137,7 @@ Deep Steel Blue at home and white on the road, with three confirmed exceptions. 
 
 **What jerseys are the Texans wearing this week?**
 
-Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+White at Indianapolis. For Week 3 against the Colts on Sunday, September 27, Houston confirmed the navy helmet, white jersey and navy pants. The Colts debut their Anvil Strike Rivalries uniform, anthracite jersey and pants under a metallic royal helmet.
 
 **What uniform did the Texans wear last week?**
 
@@ -177,7 +177,7 @@ Eight at NRG Stadium, in Weeks 1, 2, 4, 7, 11, 12, 15, and 18. The Week 6 game a
 
 **Is the full Texans 2026 uniform schedule official?**
 
-No. Three games are confirmed by the team: Liberty White in Week 1, Battle Red in Week 7, and the Rivalries debut in Week 11. Houston announced themes for all eight home games, but the others are promotional themes rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
+No. Four games are confirmed by the team: Liberty White in Week 1, the navy helmet, white jersey and navy pants at Indianapolis in Week 3, Battle Red in Week 7, and the Rivalries debut in Week 11. Houston announced themes for all eight home games, but the others are promotional themes rather than uniform announcements, so everything else is our projection based on the standard home-and-away convention.
 
 **Why are the Texans wearing red?**
 

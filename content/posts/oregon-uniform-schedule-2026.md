@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-24"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
   <div style="background: #154733; color: #ffffff; border: 2px solid #FEE123; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Yellow / Green / Yellow</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #154733; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
   <div style="background: #154733; color: #ffffff; border: 2px solid #FEE123; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Portland State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #154733; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Warp Speed &middot; Silver / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -50,7 +50,11 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **Friday, September 18 vs. Portland State.** ★ Confirmed from the broadcast: **green helmet with the yellow wing, green jersey with yellow numbers, green pants**, the all green look Oregon teased with [three green circles](https://x.com/oregonfootball/status/2100381723284693132) and matched to the Wear Green fan theme in Autzen. Portland State wore white. Oregon won 84-0. A 10:30 p.m. Eastern kickoff, which is why some feeds list it on September 19.
 
-**September 26 at USC.** Varies expected. At USC. Cardinal on one side, and on the other side genuinely anyone's guess.
+**September 26 at USC.** ★ Confirmed by Oregon: **Warp Speed**, a **silver helmet, white jersey and white pants**, announced on September 23 as the game 4 combination. USC wears cardinal at home, so it is cardinal and gold against a silver shell over head-to-toe white at the Coliseum. Silver over white is Oregon at its most futuristic, and against a program as traditional as USC it makes the contrast the whole point.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2102910905017389427"></a></blockquote>
+</div>
 
 **October 3.** Bye.
 
@@ -78,7 +82,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore all green against Portland State on Friday, September 18: green helmet with the yellow wing, green jersey with yellow numbers and green pants, with Portland State in white, in an 84-0 win. Before that came green over white over white at Oklahoma State on September 12, and a green jersey with a yellow helmet and yellow pants for the opener against Boise State. Next is USC on September 26, where the road look is anyone's guess. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Warp Speed at USC on Saturday, September 26: silver helmet, white jersey, white pants, confirmed by Oregon on September 23. Last week Oregon wore all green against Portland State on Friday, September 18: green helmet with the yellow wing, green jersey with yellow numbers and green pants, with Portland State in white, in an 84-0 win. Before that came green over white over white at Oklahoma State on September 12, and a green jersey with a yellow helmet and yellow pants for the opener against Boise State. Next is USC on Saturday, September 26, and Oregon has confirmed Warp Speed for it: silver helmet, white jersey and white pants, against USC in cardinal. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon's uniforms for 2026?**
 
