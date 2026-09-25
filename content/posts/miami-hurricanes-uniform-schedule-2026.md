@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-22'
+updatedDate: "2026-09-25"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ Miami has worn nothing but its two base sets in the first three games: all white
 
 **What jersey is Miami wearing this week?**
 
-Miami wore all white at Wake Forest on Friday, September 18: white helmet with the orange and green stripe, white jersey and white pants, confirmed on the ESPN broadcast. Wake Forest wore its all black Dark Mode set, matte black helmet, black jersey and black pants, so it was white against black with nothing shared, and Miami won 33-20 in the ACC opener. Next up is Central Michigan at home on Saturday, September 26, and Miami goes green: white helmet, green jersey, green pants. The grid above lists every game, and we update it as each combination is confirmed.
+Miami wore all white at Wake Forest on Friday, September 18: white helmet with the orange and green stripe, white jersey and white pants, confirmed on the ESPN broadcast. Wake Forest wore its all black Dark Mode set, matte black helmet, black jersey and black pants, so it was white against black with nothing shared, and Miami won 33-20 in the ACC opener. Next up is Central Michigan at home on Saturday, September 26, and Miami goes green: white helmet, green jersey, green pants. The grid above lists every game, and we update it as each combination is confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
 
 **What are Miami's football uniforms for 2026?**
 

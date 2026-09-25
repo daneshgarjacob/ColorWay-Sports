@@ -4,7 +4,7 @@ title: "College Football Week 3 Uniforms 2026: What Every Top Team Is Wearing Th
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-25"
 excerpt: "College football uniforms this week: LSU at Ole Miss, FSU at Alabama, Utah's Ute Proud helmet, Texas Tech's Mahomes set and every Top 25 look for Week 3."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 ---
 
 Most top teams in Week 3 of the 2026 college football season are in their standard sets: home teams in color, visitors in white. The exceptions are Texas Tech's all-black Patrick Mahomes "Let's Ride" uniform against Houston on Friday, Missouri's Memorial Stadium 100th anniversary throwback against Troy, Utah's white Ute Proud helmet against Utah State, BYU's navy-trimmed whites at Colorado State and Florida's orange pants at Auburn, all announced. Since Wednesday, Miami, Houston, Oregon, Kentucky, Louisville, Tennessee, TCU, Virginia and Purdue have also posted their Week 3 combinations. Ole Miss and Florida State, the two biggest open questions, had not as of Thursday morning.
+
+**Looking for this weekend?** Week 4 is here: [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026), with Oregon's Warp Speed at USC, Texas in all white at Tennessee and every Top 25 look.
 
 Below is every game this week involving an AP Top 25 team or one of the 43 programs we track in our college uniform schedules, with kickoff time, TV, the final score and what each team actually wore. A look is marked **Confirmed** when we have seen it in a broadcast frame or in the school's own game photography, and left as **expected** when we never got a clear look, which happened more often than usual this week because so many of these games were on networks that feed ESPN nothing. ESPN and the AP poll call this Week 3. All times are Eastern.
 

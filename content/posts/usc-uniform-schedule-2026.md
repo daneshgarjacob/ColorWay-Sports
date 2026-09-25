@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-24"
+updatedDate: "2026-09-25"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -81,7 +81,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-Cardinal at home against Oregon on Saturday, September 26: cardinal helmet, cardinal jersey and gold pants, the home set USC wears at the Coliseum every week. Oregon comes in Warp Speed, silver helmet, white jersey and white pants. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cardinal at home against Oregon on Saturday, September 26: cardinal helmet, cardinal jersey and gold pants, the home set USC wears at the Coliseum every week. Oregon comes in Warp Speed, silver helmet, white jersey and white pants. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
 
 **What are USC's uniforms for 2026?**
 
