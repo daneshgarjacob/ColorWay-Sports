@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-25'
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -57,7 +57,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 7 (MON)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UC Davis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #C8102E; color: #ffffff; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -75,7 +75,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **September 19 at Louisville.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white for the first ACC road game. Louisville wore the white helmet with a red jersey and white pants and won 41-31, so the clean red-on-white matchup arrived as expected. We track the other side on the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 
-**September 26 vs. Missouri State.** Blue expected. Family Weekend, the start of a four-game homestand, and SMU is asking its fans to wear blue.
+**September 26 vs. Missouri State.** ★ Confirmed by SMU: **white helmet, red jersey, red pants**, posted as "Week 4 thREDs." We had blue down. It is Family Weekend and the start of a four-game homestand, and the fans are still asked to wear blue.
 
 **October 3 vs. Boston College.** Blue expected, with one thing worth watching. The ACC home opener is a Blue theme day, but Boston College is also the opponent SMU picked for its all-black set the last time the two met in Dallas in 2024. If the black comes out in 2026, this is a candidate date.
 

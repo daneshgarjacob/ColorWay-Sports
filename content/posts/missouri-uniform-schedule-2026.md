@@ -3,7 +3,7 @@ title: "Missouri Uniform Schedule 2026: Every Jersey, and When the Memorial Stad
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-25"
 excerpt: "What Missouri wears every game in 2026, week by week, including the exact date the 100th anniversary throwback jersey hits Faurot Field."
 gradient: "linear-gradient(135deg, #000000 0%, #1b1b1b 55%, #F1B82D 130%)"
 coverImage: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
@@ -98,7 +98,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** ★ Confirmed on the field from the broadcast: **black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants**, exactly the set Missouri unveiled on August 20. The one uniform date on this schedule that was locked, and it held. Troy came in with a white helmet, white jersey and maroon pants. Missouri won 27-17, scoring all 24 of its second-quarter points after trailing 10-0.
 
-**September 26 at Mississippi State**, Starkville. White.
+**September 26 at Mississippi State**, Starkville. Color expected, not white. Mississippi State has confirmed all white at home for its White Out, so Missouri needs a dark jersey, most likely black or gold. We will add the exact set once Missouri posts it.
 
 **October 3 vs. Florida**, Columbia. First SEC home game, and a strong candidate for the anthracite set if it lands in prime time.
 

@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 25
 
-Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The Red Sox opened the day in the Green Monster City Connect and beat the Cubs 4-3 in the matinee, with Chicago in road gray, then switched to the home whites for game 2 against the Cubs' royal blue alternate. In New York, Baltimore wore road gray against the pinstripes in game 1. Every card below is confirmed off the league's uniform filings, and we add the rest of the night's games as their uniforms post.
+Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The Red Sox opened the day in the Green Monster City Connect and beat the Cubs 4-3 in the matinee, with Chicago in road gray, then switched to the home whites for game 2 against the Cubs' royal blue alternate. In New York, Baltimore wore road gray against the pinstripes in game 1. In Detroit, Pittsburgh brought the black alternate against the Tigers' home whites. Every card below is confirmed off the league's uniform filings, and we add the rest of the night's games as their uniforms post.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 

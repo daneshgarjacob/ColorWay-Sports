@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 4 of the 2026 college football season is the first week that looks like conference play, and the uniform calls have come in early. **Oregon is bringing Warp Speed to the Coliseum**: a silver helmet, white jersey and white pants against USC's cardinal and gold on Saturday night. **Texas is in its icy whites** for its first ever trip to Knoxville, and **Tennessee answered with the classic home set**, white helmet, orange jersey, white pants, so No. 1 against No. 14 is orange and white against white. Baylor debuts its **gold chrome throwback** against Colorado, West Virginia has posted its **Gold Rush** look, and Texas A&M is going **maroon over maroon** at LSU, because LSU wears white at home.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday's opener is in too: Liberty won 34-17 at Coastal Carolina. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
 
 ## Games of the Week
 
@@ -49,11 +49,15 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Oklahoma at No. 2 Georgia
 
-**Saturday, 3:30 p.m., ESPN.** The SEC opener for Oklahoma, between the hedges. **Georgia: Expected in red**, the red helmet with the oval G, red jersey and silver britches. The all-white alternate with the first white helmet in program history was a one-game look against Western Kentucky. **Oklahoma: Expected in the road whites**, crimson helmet with the interlocking OU, white jersey, white pants. Neither program had posted a combination as of Thursday night. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ESPN.** The SEC opener for Oklahoma, between the hedges. **Georgia: Expected in red**, the red helmet with the oval G, red jersey and silver britches. The all-white alternate with the first white helmet in program history was a one-game look against Western Kentucky. **Oklahoma: Expected in the road whites**, crimson helmet with the interlocking OU, white jersey, white pants. Neither program had posted a combination as of Friday. Georgia has asked the crowd to Stripe Sanford, with the stands split into red, white and black to look like the stripe on the silver britches, which is one more reason to expect the standard home set. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
 
 ### No. 4 Ole Miss at No. 21 Florida
 
-**Saturday, 3:30 p.m., ABC.** Ole Miss is coming off the powder blue win over LSU. **Florida: Confirmed**, and it has been since August: the season-long uniform schedule the Gators published before the opener has this game as orange helmet, blue jersey, white pants, and that schedule held exactly at Auburn last week. **Ole Miss: Expected in white.** Florida wears blue in The Swamp, so the Rebels travel in the white jersey, most likely over white pants. The helmet is the open question: Ole Miss owns navy, powder blue, white and camo shells, and it paired the powder blue shell with the road whites at Kentucky, Georgia and Oklahoma last season. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Florida schedule](/stories/florida-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** Ole Miss is coming off the powder blue win over LSU. **Florida: Confirmed**, and it has been since August: the season-long uniform schedule the Gators published before the opener has this game as orange helmet, blue jersey, white pants, and that schedule held exactly at Auburn last week. **Ole Miss: Confirmed**, posted Friday as ["Powder, White, White"](https://x.com/OleMissFB/status/2103281129008554343): the powder blue helmet, white jersey and white pants. That answers the one open question in this game, and it is the second straight week in the powder blue shell after the LSU win. It is the same road look Ole Miss wore at Kentucky, Georgia and Oklahoma last season. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Florida schedule](/stories/florida-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2103281129008554343"></a></blockquote>
+</div>
 
 ### Oklahoma State at West Virginia: Gold Rush
 
@@ -75,16 +79,20 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Oklahoma State, black, white, black (Confirmed).** The first black helmet and black pants the Cowboys have worn in 2026.
 - **Texas A&M, maroon over maroon (Confirmed).** A road trip in color, which only happens because LSU wears white at home.
 - **Utah State, 1992 retro helmet (Confirmed helmet).** Utah State revealed it in August for Homecoming against Troy: a white shell with the 1992 to 1995 logo, a bull leaping through a navy block U. The jersey and pants had not been announced as of Thursday night.
-- **Washington, the black Dawgs set (Expected).** Washington has billed Minnesota as the "Unleashed" blackout game and asked fans to wear black, and the new all-black Dawgs uniform, with DAWGS scripted across the chest, is a one-game alternate. The program had not said in a post of its own that this is the game as of Thursday night, so we have it as likely, not confirmed.
-- **Washington State, script helmet (Reported).** Beat coverage has the gray script Cougars helmet coming back against Arizona for the first time since 2023, with a crimson jersey and gray pants. We have not seen the team's own post.
+- **Washington, the black Dawgs set (Confirmed).** Washington has now posted it for the "Unleashed" blackout against Minnesota: matte black helmet, black jersey with DAWGS in gold script across the chest, black pants, with purple and gold striping. It is a one-game alternate.
+- **Washington State, script helmet (Confirmed).** The team posted its ["Stripe Out Threads"](https://x.com/WSUCougarFB/status/2102831834744942851): the gray script Cougars helmet, back for the first time since 2023, with a crimson jersey and gray pants, while the crowd stripes Gesa Field in crimson and gray.
+- **Tulane, all sky blue (Confirmed).** Sky blue helmet, sky blue jersey and sky blue pants for the Battle for the Bell against Southern Miss.
+- **Iowa State, Whiteout (Confirmed).** All white with black lettering and accents and the script Cyclones helmet against Utah.
+- **UTSA, Por La Ciudad (Confirmed).** The Hispanic Heritage set, with a helmet carrying confetti details, a pink, teal, yellow and orange stripe, the 210 area code and a San Antonio wordmark.
+- **Mississippi State, white, white, white (Confirmed).** The Bulldogs wear white at home for the White Out against Missouri.
 
 ## Every Game
 
 ### Thursday, September 24
 
-**Liberty at Coastal Carolina**, 7:30 p.m., ESPN.
-- [Liberty](/stories/liberty-uniform-schedule-2026): **Expected** in white.
-- [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026): **Expected** in teal for the Teal Out. We add what both teams actually wore once we have a clear frame.
+**Liberty 34, Coastal Carolina 17 (Final)**, Thursday night, ESPN.
+- [Liberty](/stories/liberty-uniform-schedule-2026): **Worn**, all white: white helmet with a red facemask, white jersey with red numbers, white pants. The Flames scored 24 unanswered points after halftime to move to 3-1.
+- [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026): **Worn**, all teal for the Teal Out: teal helmet, teal jersey with black side panels, teal pants, on the teal turf at Brooks Stadium. Coastal led at the half and fell to 1-3.
 
 ### Friday, September 25
 
@@ -138,6 +146,10 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Colorado](/stories/colorado-uniform-schedule-2026): **Expected** in white.
 - [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, the gold chrome throwback debut: gold chrome helmet, green jersey with bear paws on the shoulders, white pants.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2103129830069813483"></a></blockquote>
+</div>
+
 **Virginia Tech at Boston College**, noon, ACC Network.
 - [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026): **Confirmed** from the waist down. The Hokies' [Game Four graphic](https://x.com/HokiesFB/status/2102484494640943148) shows a white jersey over maroon pants, with the helmet left out of the frame. They have worn the white shell in all three games so far.
 - [Boston College](/stories/boston-college-uniform-schedule-2026): **Expected** in maroon for Family Weekend, so it is maroon against white with maroon pants on both sides.
@@ -152,7 +164,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Colorado State at UTSA**, noon, ESPNU.
 - [Colorado State](/stories/colorado-state-uniform-schedule-2026): **Expected** in the white set it revealed this summer, on its first road trip.
-- UTSA: home look with its new Hispanic Heritage helmet, which carries "Los Correcaminos" on the back.
+- UTSA: **Confirmed**, the ["¡Por La Ciudad!"](https://x.com/UTSAFTBL/status/2102811036164431919) Hispanic Heritage set, with the new helmet that carries confetti details, a pink, teal, yellow and orange stripe, the 210 area code and "Los Correcaminos" on the back.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UTSAFTBL/status/2102811036164431919"></a></blockquote>
+</div>
 
 **South Alabama at Kentucky**, 12:45 p.m., SEC Network.
 - South Alabama: white expected.
@@ -185,16 +201,24 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Georgia](/stories/georgia-uniform-schedule-2026): **Expected** in red helmet, red jersey, silver britches.
 
 **No. 4 Ole Miss at No. 21 Florida**, 3:30 p.m., ABC.
-- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Expected** in the white jersey. Helmet to be announced.
+- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed**, powder blue helmet, white jersey, white pants.
 - [Florida](/stories/florida-uniform-schedule-2026): **Confirmed** on the Gators' published season schedule: orange helmet, blue jersey, white pants.
 
 **No. 15 Utah at Iowa State**, 3:30 p.m., FOX.
-- [Utah](/stories/utah-uniform-schedule-2026): **Expected** in the white jersey on the first road trip of the season. Utah rotates red, white and black shells with the road whites, so the helmet is the question.
-- [Iowa State](/stories/iowa-state-uniform-schedule-2026): **Expected** in cardinal helmet, cardinal jersey, white pants.
+- [Utah](/stories/utah-uniform-schedule-2026): **Reported** in all red, the red helmet with the drum and feather, red jersey and red pants, which works because Iowa State went white at home. We have not seen Utah's own post, so this stays reported until kickoff.
+- [Iowa State](/stories/iowa-state-uniform-schedule-2026): **Confirmed**, the [Whiteout](https://x.com/CycloneFB/status/2102824900335730834): all white with black lettering and accents, the script Cyclones helmet and black stripes across the shoulders.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2102824900335730834"></a></blockquote>
+</div>
 
 **No. 17 Iowa at No. 18 Michigan**, 3:30 p.m., CBS.
 - [Iowa](/stories/iowa-uniform-schedule-2026): **Expected** in the black Tigerhawk helmet, white jersey, gold pants.
-- [Michigan](/stories/michigan-uniform-schedule-2026): **Expected** in the winged helmet, navy jersey, maize pants.
+- [Michigan](/stories/michigan-uniform-schedule-2026): **Confirmed**, [blue over blue](https://x.com/UMichFootball/status/2103532169973186882): the winged helmet, blue jersey and blue pants, with maize socks and accessories, for the Stripe Out at the Big House.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2103532169973186882"></a></blockquote>
+</div>
 
 **TCU at UCF**, 3:30 p.m., FS1.
 - [TCU](/stories/tcu-uniform-schedule-2026): **Expected** in white.
@@ -235,8 +259,16 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Central Michigan: white expected.
 - [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Confirmed** in the green alternate: white helmet with the orange and green stripe, green jersey, green pants. It is the first green of the season, after all white at Stanford and Wake Forest and orange over white against Florida.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2102868140052852836"></a></blockquote>
+</div>
+
 **Delaware at [Virginia](/stories/virginia-uniform-schedule-2026)**, 6 p.m., ACC Network.
 - Virginia: **Confirmed**, blue helmet, blue jersey, white pants for the UVA Strong game. Virginia revealed it by showing the patches honoring Lavel Davis Jr., Devin Chandler and D'Sean Perry.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UVAFootball/status/2102907250331324846"></a></blockquote>
+</div>
 
 **[James Madison](/stories/james-madison-uniform-schedule-2026) at Old Dominion**, 6 p.m., ESPN+.
 - James Madison: **Expected** in white for the Royal Rivalry.
@@ -254,7 +286,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [West Virginia](/stories/west-virginia-uniform-schedule-2026): **Confirmed**, blue helmet, gold jersey, blue pants for Gold Rush.
 
 **Southern Miss at [Tulane](/stories/tulane-uniform-schedule-2026)**, 7 p.m., ESPN+.
-- Tulane: **Expected** in green for the Battle for the Bell.
+- Tulane: **Confirmed**, all sky blue for the Battle for the Bell: sky blue helmet, sky blue jersey, sky blue pants.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GreenWaveFB/status/2103189309146963975"></a></blockquote>
+</div>
 
 **No. 23 Texas A&M at No. 10 LSU**, 7:30 p.m., ABC.
 - [Texas A&M](/stories/texas-am-uniform-schedule-2026): **Confirmed**, white helmet, maroon jersey, maroon pants.
@@ -266,7 +302,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Arizona at Washington State**, 7:30 p.m., CBS.
 - [Arizona](/stories/arizona-uniform-schedule-2026): **Expected** in white.
-- [Washington State](/stories/washington-state-uniform-schedule-2026): **Expected** in crimson, with the script helmet reported to be back.
+- [Washington State](/stories/washington-state-uniform-schedule-2026): **Confirmed**, gray script Cougars helmet, crimson jersey, gray pants for the Stripe Out.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2102831834744942851"></a></blockquote>
+</div>
 
 **Troy at [Utah State](/stories/utah-state-uniform-schedule-2026)**, 7:30 p.m., CBSSN.
 - Utah State: the 1992 retro helmet is **confirmed** for Homecoming. Jersey and pants **expected** to be announced before kickoff, with fans asked to wear blue or white.
@@ -276,15 +316,23 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [NC State](/stories/nc-state-uniform-schedule-2026): **Expected** in red. A night home game is where the black alternate has shown up before.
 
 **No. 19 Missouri at No. 24 Mississippi State**, 7:45 p.m., SEC Network.
-- [Missouri](/stories/missouri-uniform-schedule-2026): **Expected** in the white jersey.
-- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Expected** in maroon jersey over white pants for the first SEC home game, with the crowd in a White Out. A ranked Saturday night game in Starkville is also the kind of stage the all-black set was saved for last season.
+- [Missouri](/stories/missouri-uniform-schedule-2026): **Expected** in color. Missouri had not posted as of Friday, and with the home team in white the Tigers need a dark jersey, most likely black or gold.
+- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, [white, white, white](https://x.com/HailStateFB/status/2103244068398432638): white helmet, white jersey, white pants, matching the crowd for the White Out.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HailStateFB/status/2103244068398432638"></a></blockquote>
+</div>
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Arkansas](/stories/arkansas-uniform-schedule-2026)**, 8 p.m., SECN+.
 - Tulsa: **Expected** in white. Arkansas: **Expected** in cardinal.
 
 **Missouri State at No. 22 SMU**, 9 p.m., ACC Network.
 - Missouri State: white expected.
-- [SMU](/stories/smu-uniform-schedule-2026): **Expected** in blue for Family Weekend, with fans asked to wear blue.
+- [SMU](/stories/smu-uniform-schedule-2026): **Confirmed**, the ["Week 4 thREDs"](https://x.com/SMUFB/status/2103268344858333457): white helmet, red jersey, red pants for Family Weekend, even with the fans asked to wear blue.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2103268344858333457"></a></blockquote>
+</div>
 
 **Georgia Tech at Stanford**, 10:30 p.m., ESPN.
 - [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026): **Confirmed**, ["White & Gold in CA"](https://x.com/GeorgiaTechFB/status/2103274098172498247): white helmet, white jersey, gold pants for the program's first ever trip to Stanford.
@@ -296,7 +344,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Minnesota at Washington**, 11 p.m., FOX.
 - [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026): **Expected** in white.
-- [Washington](/stories/washington-huskies-uniform-schedule-2026): **Expected** in the new all-black Dawgs set for the Unleashed blackout, matte black helmet with a black facemask, black jersey with DAWGS across the chest, black pants. Likely, not yet confirmed by the team.
+- [Washington](/stories/washington-huskies-uniform-schedule-2026): **Confirmed**, the new all-black Dawgs set for the Unleashed blackout: matte black helmet, black jersey with DAWGS in gold across the chest, black pants, with a purple and gold stripe on the helmet and shoulders.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2103150061148586372"></a></blockquote>
+</div>
 
 ### Also Late
 
@@ -309,13 +361,13 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ## The Bottom Line
 
-Week 4 has fewer one-off specials than Week 3 and more of the kind of matchups that make a uniform page worth reading. The best of them is at the Coliseum, where Oregon's chrome and white meets USC's cardinal and gold in prime time. The oddest is in Baton Rouge, where the road team wears color and the home team wears white, which only happens at LSU. Knoxville gets orange against icy white for a No. 1 versus No. 14 game, Waco gets the gold chrome helmet over the Bear Paw throwback jersey, and Morgantown gets Gold Rush against black, white and black. The open questions are the ones with the most at stake: whether Ole Miss brings the powder blue helmet into The Swamp, whether Washington really does unleash the Dawgs set against Minnesota, and whether Miami, Georgia, Michigan and Penn State post anything that isn't the standard set. We update each game here as it is confirmed, and again with what was actually worn.
+Week 4 has fewer one-off specials than Week 3 and more of the kind of matchups that make a uniform page worth reading. The best of them is at the Coliseum, where Oregon's chrome and white meets USC's cardinal and gold in prime time. The oddest is in Baton Rouge, where the road team wears color and the home team wears white, which only happens at LSU. Knoxville gets orange against icy white for a No. 1 versus No. 14 game, Waco gets the gold chrome helmet over the Bear Paw throwback jersey, and Morgantown gets Gold Rush against black, white and black. Two of the big open questions are settled: Ole Miss brings the powder blue helmet into The Swamp, and Washington unleashes the all-black Dawgs set against Minnesota. Michigan went blue over blue, Tulane went all sky blue, and Iowa State and Mississippi State are both wearing white at home. What is left is whether Georgia, Penn State, Alabama and USC post anything that isn't the standard set. We update each game here as it is confirmed, and again with what was actually worn.
 
 ## Frequently Asked Questions
 
 **What are college football teams wearing this week?**
 
-Most top teams are in standard sets for Week 4: home teams in color, visitors in white. The confirmed looks so far are Oregon's Warp Speed at USC (silver helmet, white jersey, white pants), Texas in icy whites at Tennessee, Tennessee in white helmet, orange jersey and white pants, Texas A&M in maroon over maroon at LSU, Baylor's gold chrome throwback against Colorado, West Virginia's Gold Rush set against Oklahoma State in black, white and black, Kentucky and Louisville in their home colors, Texas Tech in white, red and white, and Georgia Tech in white over gold pants at Stanford. Every game is listed above with its confirmed or expected uniform.
+Most top teams are in standard sets for Week 4: home teams in color, visitors in white. The confirmed looks so far are Oregon's Warp Speed at USC (silver helmet, white jersey, white pants), Texas in icy whites at Tennessee, Tennessee in white helmet, orange jersey and white pants, Texas A&M in maroon over maroon at LSU, Baylor's gold chrome throwback against Colorado, West Virginia's Gold Rush set against Oklahoma State in black, white and black, Kentucky and Louisville in their home colors, Texas Tech in white, red and white, Georgia Tech in white over gold pants at Stanford, Ole Miss in the powder blue helmet over white at Florida, Washington in the all-black Dawgs set, Michigan in blue over blue, Tulane in all sky blue, and Iowa State and Mississippi State in all white at home. Every game is listed above with its confirmed or expected uniform.
 
 **What is Oregon wearing against USC?**
 
@@ -331,7 +383,15 @@ LSU wears white jerseys at home, the only major program that does it by choice, 
 
 **Which teams are wearing alternates in Week 4?**
 
-Baylor debuts its gold chrome throwback against Colorado, Oregon wears the Warp Speed silver helmet at USC, and Utah State wears its 1992 retro bull helmet for Homecoming against Troy. Washington is expected to wear its new all-black Dawgs uniform against Minnesota for the blackout game, and Washington State is reported to be bringing back its script helmet against Arizona. Miami is expected in its green alternate against Central Michigan.
+Baylor debuts its gold chrome throwback against Colorado, Oregon wears the Warp Speed silver helmet at USC, and Utah State wears its 1992 retro bull helmet for Homecoming against Troy. Washington wears its new all-black Dawgs uniform against Minnesota for the blackout game, Washington State brings back its gray script helmet against Arizona, Tulane goes all sky blue against Southern Miss, UTSA wears its Hispanic Heritage set against Colorado State, and Miami wears its green alternate against Central Michigan.
+
+**What is Ole Miss wearing at Florida?**
+
+Ole Miss is wearing the powder blue helmet, a white jersey and white pants at Florida on Saturday, September 26, posted by the team on Friday as "Powder, White, White." Florida wears an orange helmet, blue jersey and white pants, from the season schedule it published in August.
+
+**What did Liberty and Coastal Carolina wear on Thursday?**
+
+Liberty wore all white, with a white helmet, white jersey and white pants, and Coastal Carolina wore all teal for its Teal Out. Liberty won 34-17 at Brooks Stadium after scoring 24 unanswered points in the second half.
 
 **What is Miami wearing against Central Michigan?**
 
