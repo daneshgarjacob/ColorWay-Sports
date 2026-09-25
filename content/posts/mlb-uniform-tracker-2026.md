@@ -6,7 +6,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-09-24"
+updatedDate: "2026-09-25"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded-v4.jpg"
@@ -24,6 +24,99 @@ archiveLabel: "Every team's full 2026 uniform calendar"
 This is the ColorWay Sports MLB daily uniform tracker: what every team actually wore, every game, every day, logged the morning after. Not just the City Connects and throwbacks, the whole wardrobe, home whites and road grays included, because you can't spot the patterns without the full record. Every matchup also gets a ColorWay grade for how the two uniforms looked sharing a field.
 
 Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) and the per-team schedule pages linked at the bottom of this tracker map what all 30 teams plan to wear and when, so you can call tonight's uniform before first pitch. This page is the receipts: what they actually put on.
+
+## Friday, September 25
+
+Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The Red Sox opened the day in the Green Monster City Connect and beat the Cubs 4-3 in the matinee, with Chicago in road gray, then switched to the home whites for game 2 against the Cubs' royal blue alternate. In New York, Baltimore wore road gray against the pinstripes in game 1. Every card below is confirmed off the league's uniform filings, and we add the rest of the night's games as their uniforms post.
+
+<!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### Chicago Cubs at Boston Red Sox, Game 2
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Game 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cubs-blue-alternate.jpg" alt="Chicago Cubs Royal Blue Alternate jersey worn September 25 2026 against the Red Sox, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CUBS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0E3386; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Royal Blue Alternate</p>
+      <p data-cap="Blue" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/red-sox-home-white.jpg" alt="Boston Red Sox Home White jersey worn September 25 2026 against the Cubs, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED SOX</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f5f5f5; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p data-cap="City Connect 2.0" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; City Connect 2.0</p>
+    </div>
+  </div>
+</div>
+</div>
+
+### Baltimore Orioles at New York Yankees
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/orioles-road-gray.jpg" alt="Baltimore Orioles Road Gray jersey worn September 25 2026 against the Yankees, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ORIOLES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p data-cap="Black Front, Orange Bill 'Bird'" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Black Front, Orange Bill 'Bird'</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/yankees-home-white.jpg" alt="New York Yankees Home White Pinstripes jersey worn September 25 2026 against the Orioles, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">YANKEES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White Pinstripes</p>
+      <p data-cap="Navy" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Navy</p>
+    </div>
+  </div>
+</div>
+</div>
+
+### Chicago Cubs at Boston Red Sox
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Red Sox 4, Cubs 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cubs-road-gray.jpg" alt="Chicago Cubs Road Gray jersey worn September 25 2026 against the Red Sox, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CUBS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p data-cap="Blue" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/red-sox-green-cc.jpg" alt="Boston Red Sox Green City Connect jersey worn September 25 2026 against the Cubs, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED SOX</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #2E8B67; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Green City Connect</p>
+      <p data-cap="City Connect 2.0" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; City Connect 2.0</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ## Thursday, September 24
 

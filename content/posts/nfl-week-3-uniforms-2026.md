@@ -3,7 +3,7 @@ title: "NFL Week 3 Uniforms 2026: What Every Team Is Wearing, Including Nickel C
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-23"
-updatedDate: "2026-09-24"
+updatedDate: "2026-09-25"
 excerpt: "NFL uniforms this week: the Bills debut Nickel City, the Colts debut Anvil Strike, Denver goes Midnight Navy and Baltimore wears purple in Rio."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -105,7 +105,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 ### Sunday, September 27
 
 - **Los Angeles Chargers at Buffalo Bills**, 1:00 p.m. ET, FOX. Chargers: all white, white helmet (confirmed). Bills: The Charge helmet, gray Nickel City jersey and pants (confirmed).
-- **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: white jersey (confirmed), silver helmet and white pants projected. Browns: orange helmet, brown jersey, orange pants (orange pants confirmed).
+- **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: silver helmet, white jersey, Panther blue pants, white socks (confirmed). Browns: orange helmet, brown jersey, orange pants, striped socks (confirmed).
 - **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed).
 - **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (confirmed). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
 - **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Chiefs: red helmet, red jersey, white pants (projected). Dolphins: white helmet, white jersey, aqua pants (projected).

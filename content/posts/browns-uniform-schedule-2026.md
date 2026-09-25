@@ -3,7 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "We have the Browns in their Alpha Dawg brown alternate three times at home. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
-updatedDate: "2026-09-24"
+updatedDate: "2026-09-25"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -113,7 +113,7 @@ Brown if Cleveland is at Huntington Bank Field, white if they are on the road, e
 
 **What jerseys are the Browns wearing this week?**
 
-Brown with orange pants for the home opener against Carolina on Sunday, September 27. The Browns confirmed the orange pants on game week, under the orange helmet with the brown jersey. Same rule. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
+Brown with orange pants for the home opener against Carolina on Sunday, September 27. The Browns confirmed the orange pants on game week, under the orange helmet with the brown jersey, with the striped socks. Carolina comes in silver helmet, white jersey and Panther blue pants. Same rule. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
 
 **What uniform did the Browns wear last week?**
 

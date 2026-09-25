@@ -27,7 +27,7 @@ export default function PrivacyPolicyPage() {
             Privacy <span className="text-orange">Policy</span>
           </h1>
           <p className="text-lg text-gray-medium max-w-[600px] mx-auto leading-relaxed">
-            Last updated: August 19, 2026
+            Last updated: September 25, 2026
           </p>
         </div>
 
@@ -137,11 +137,6 @@ export default function PrivacyPolicyPage() {
                 >
                   Fubo&apos;s Privacy Policy
                 </a>
-              </li>
-              <li>
-                <strong>Amazon Associates:</strong> We participate in the Amazon Associates
-                Program, an affiliate advertising program. Links to Amazon products may contain
-                affiliate tracking codes.
               </li>
               <li>
                 <strong>Mediavine:</strong> We use Mediavine to manage the display advertising

@@ -23,7 +23,7 @@ export default function TermsPage() {
             Terms of <span className="text-orange">Service</span>
           </h1>
           <p className="text-lg text-gray-medium max-w-[600px] mx-auto leading-relaxed">
-            Last updated: April 3, 2026
+            Last updated: September 25, 2026
           </p>
         </div>
 
@@ -78,8 +78,8 @@ export default function TermsPage() {
             <p>
               Some links on this Site are affiliate links, meaning we may earn a commission if
               you make a purchase through them. This does not influence our editorial content
-              or opinions. We are a participant in the Amazon Services LLC Associates Program
-              and other affiliate programs. The Site may also display advertisements through
+              or opinions. We participate in affiliate programs. The Site may also display
+              advertisements through
               third-party ad networks.
             </p>
           </section>
