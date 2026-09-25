@@ -23,13 +23,29 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Saturday, 7:30 p.m., NBC.** The Big Ten opener for both teams, and the clearest uniform contrast of the weekend. **Oregon: Confirmed, Warp Speed.** The Ducks posted it on Wednesday night as ["Warp speed. Game 4 uniform combo"](https://x.com/GoDucks/status/2102910905017389427): a chrome silver helmet, a white jersey with green numerals and white pants, the look Oregon fans call the Stormtrooper. **USC: Expected in the home set** it wears at the Coliseum every week, cardinal helmet, cardinal jersey, gold pants. USC has shown off its cleats for the game but has not posted a combination, and it has not changed the home look in years. Cardinal and gold against chrome and white is one of the most traditional uniforms in the sport lined up across from one of the least. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2102910905017389427"></a></blockquote>
+</div>
+
 ### No. 1 Texas at No. 14 Tennessee
 
 **Saturday, noon, ABC.** Texas has never played a football game in Knoxville, and both teams have already posted. **Tennessee: Confirmed**, the ["threads for Checker Neyland"](https://x.com/Vol_Football/status/2103092356593357206): white helmet with the orange T, orange jersey, white pants, the classic home look for the third time this season. The checkerboard is in the stands, not on the uniform. **Texas: Confirmed in the icy whites**, posted Thursday as ["Icy whites loading"](https://x.com/TexasFootball/status/2103112320943837361): white Longhorn helmet, white jersey, white pants. Burnt orange against orange never happens in this matchup, because Texas does not wear color on the road. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2103092356593357206"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasFootball/status/2103112320943837361"></a></blockquote>
+</div>
+
 ### No. 23 Texas A&M at No. 10 LSU
 
 **Saturday, 7:30 p.m., ABC.** Night game in Death Valley, and the one road date on A&M's schedule where the Aggies could leave the white jersey in the bag. They did. **Texas A&M: Confirmed**, posted Thursday as ["Road Trip Fit"](https://x.com/AggieFootball/status/2103243083475534142): white helmet, maroon jersey, maroon pants. **LSU: Expected in its home white**, gold helmet, white jersey, gold pants. LSU is the one program in the country that wears white at home by choice, which is why the visitor gets to wear color in Tiger Stadium. More: [Texas A&M schedule](/stories/texas-am-uniform-schedule-2026) and [LSU schedule](/stories/lsu-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AggieFootball/status/2103243083475534142"></a></blockquote>
+</div>
 
 ### Oklahoma at No. 2 Georgia
 
@@ -42,6 +58,14 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 ### Oklahoma State at West Virginia: Gold Rush
 
 **Saturday, 7 p.m., FS1.** Not a ranked game, but the best-dressed night game on the Big 12 slate, and both teams have posted. **West Virginia: Confirmed**, ["GOLD RUSH, Game 4: 🔵🟡🔵"](https://x.com/WVUfootball/status/2103260374573236271), the glossy blue helmet, gold jersey and blue pants. Some fans wanted gold pants to match the theme; the Mountaineers went traditional. **Oklahoma State: Confirmed**, posted as a ["Week 4 uni drop"](https://x.com/CowboyFB/status/2103265919422308585): black helmet with the orange OSU brand, white jersey, black pants, the first black of the season for the Cowboys. More: [West Virginia schedule](/stories/west-virginia-uniform-schedule-2026) and [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WVUfootball/status/2103260374573236271"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CowboyFB/status/2103265919422308585"></a></blockquote>
+</div>
 
 ## Alternates and Special Looks This Week
 
@@ -98,9 +122,17 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Sam Houston: white expected.
 - [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed**, the ["Ag Game threads"](https://x.com/TexasTechFB/status/2103254400584106021): white helmet, red jersey, white pants, with fans asked to wear white for the annual Agriculture Game.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2103254400584106021"></a></blockquote>
+</div>
+
 **Wake Forest at No. 16 Louisville**, noon, ESPN.
 - [Wake Forest](/stories/wake-forest-uniform-schedule-2026): **Expected** in white, a week after the all-black Dark Mode set against Miami.
 - [Louisville](/stories/louisville-uniform-schedule-2026): **Confirmed**, the ["Kids day threads"](https://x.com/LouisvilleFB/status/2102842938858295402): white helmet, red jersey, red pants. The red pants are the change from last week's red over white against SMU.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2102842938858295402"></a></blockquote>
+</div>
 
 **Colorado at Baylor**, noon, ESPN2.
 - [Colorado](/stories/colorado-uniform-schedule-2026): **Expected** in white.
@@ -109,6 +141,10 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 **Virginia Tech at Boston College**, noon, ACC Network.
 - [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026): **Confirmed** from the waist down. The Hokies' [Game Four graphic](https://x.com/HokiesFB/status/2102484494640943148) shows a white jersey over maroon pants, with the helmet left out of the frame. They have worn the white shell in all three games so far.
 - [Boston College](/stories/boston-college-uniform-schedule-2026): **Expected** in maroon for Family Weekend, so it is maroon against white with maroon pants on both sides.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HokiesFB/status/2102484494640943148"></a></blockquote>
+</div>
 
 **San Diego State at Toledo**, noon, CBSSN.
 - [San Diego State](/stories/san-diego-state-uniform-schedule-2026): **Expected** in white.
@@ -121,6 +157,10 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 **South Alabama at Kentucky**, 12:45 p.m., SEC Network.
 - South Alabama: white expected.
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, the ["Week four combo"](https://x.com/UKFootball/status/2102462798630719506): white helmet with a blue center stripe, blue jersey, blue pants, the first blue over blue of the season, with the crowd split blue and white.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2102462798630719506"></a></blockquote>
+</div>
 
 **UCLA at Maryland**, 1:30 p.m., BTN.
 - [UCLA](/stories/ucla-uniform-schedule-2026): **Expected** in white under the gold helmet.
@@ -249,6 +289,10 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 **Georgia Tech at Stanford**, 10:30 p.m., ESPN.
 - [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026): **Confirmed**, ["White & Gold in CA"](https://x.com/GeorgiaTechFB/status/2103274098172498247): white helmet, white jersey, gold pants for the program's first ever trip to Stanford.
 - [Stanford](/stories/stanford-uniform-schedule-2026): **Expected** in cardinal for the Red Out. A prime-time color theme is where the black jersey has appeared before.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GeorgiaTechFB/status/2103274098172498247"></a></blockquote>
+</div>
 
 **Minnesota at Washington**, 11 p.m., FOX.
 - [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026): **Expected** in white.
