@@ -29,8 +29,6 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 Thursday was a 12-game getaway slate with every uniform confirmed off the league's filings. The day games went Pittsburgh in the black alternate, a 2-1 win over St. Louis in road gray; the White Sox in road gray, 9-1 over Kansas City in powder blue; the Cubs in home pinstripes, 2-1 over Miami; Texas in home white under a closed roof, 3-1 over the Mets; and Arizona in the Sedona Red alternate, 12-8 at Coors Field. At night the best-looking game was in Philadelphia, where Milwaukee's navy alternate met the Phillies in powder blue and the Brewers won 5-1. The Yankees beat the Rays 6-4 in home pinstripes against Tampa Bay's road gray, Cleveland won 1-0 at Fenway in road gray, and Cincinnati edged Atlanta 7-6. Out west, the Angels beat Seattle 6-4 in the red alternate against the Mariners' City Connect, Houston won 7-5 in road gray against the Athletics' home white, and the Padres took the khaki to Dodger Stadium and won 4-2.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### San Diego Padres at Los Angeles Dodgers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -207,6 +205,11 @@ Thursday was a 12-game getaway slate with every uniform confirmed off the league
 
 ### Milwaukee Brewers at Philadelphia Phillies
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #12284B 0%, #ffffff 50%, #6CACE4 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(18,40,75,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -233,6 +236,9 @@ Thursday was a 12-game getaway slate with every uniform confirmed off the league
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to Citizens Bank Park. Milwaukee's navy alternate and Philadelphia's powder blue are both throwback-minded jerseys, and together they make the prettiest pairing of the night: a deep navy against the palest blue in baseball, dark enough and light enough that nothing blurs, with the Phillies' maroon script and the Brewers' gold trim adding the warm notes. It looks like a 1980s afternoon broadcast. Milwaukee won it 5-1.
 
 ### Arizona Diamondbacks at Colorado Rockies
 
