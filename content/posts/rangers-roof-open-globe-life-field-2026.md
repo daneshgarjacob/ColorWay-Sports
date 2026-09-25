@@ -29,7 +29,7 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
     <div style="font-size: 2.6em; font-weight: 900; color: #C0111F; line-height: 1;">CLOSED</div>
     <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; final call about 90 minutes before first pitch</div>
     <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Mets at Rangers &middot; 1:35 PM CDT</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>91&deg;F</strong> at first pitch. Globe Life closes for heat, and Arlington in August is heat.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;"><strong>90&deg;F</strong> at first pitch. Globe Life closes for heat, and Arlington in August is heat.</div>
     <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
   </div>
 </div>
