@@ -27,9 +27,67 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 25
 
-Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The Red Sox opened the day in the Green Monster City Connect and beat the Cubs 4-3 in the matinee, with Chicago in road gray, then switched to the home whites for game 2 against the Cubs' royal blue alternate. In New York, Baltimore wore road gray against the pinstripes in game 1. In Detroit, Pittsburgh brought the black alternate against the Tigers' home whites. Every card below is confirmed off the league's uniform filings, and we add the rest of the night's games as their uniforms post.
+Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The Red Sox opened the day in the Green Monster City Connect and beat the Cubs 4-3 in the matinee, with Chicago in road gray, then switched to the home whites for game 2 against the Cubs' royal blue alternate. In New York, Baltimore wore road gray and beat the pinstripes 10-2 in game 1. Philadelphia is in the black City Connect against the Rays' road gray, Washington wore the navy alternate against the Mets in road gray, and Detroit changed its call to the orange alternate against Pittsburgh's black. Miami is in the Retro Wave City Connect for Atlanta, Toronto in the navy City Connect against Cincinnati's red script alternate, and Minnesota in the Ripple Effect City Connect. Every card below is confirmed off the league's uniform filings, and we add the rest of the night's games as their uniforms post.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### New York Mets at Washington Nationals
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/mets-road-gray.jpg" alt="New York Mets Road Gray jersey worn September 25 2026 against the Nationals, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">METS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p data-cap="Blue" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/nationals-navy-alternate.jpg" alt="Washington Nationals Navy Alternate jersey worn September 25 2026 against the Mets, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">NATIONALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #14225A; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <p data-cap="Blue Top, Red Bill 'W'" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue Top, Red Bill 'W'</p>
+    </div>
+  </div>
+</div>
+</div>
+
+### Tampa Bay Rays at Philadelphia Phillies
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/rays-road-gray.jpg" alt="Tampa Bay Rays Road Gray jersey worn September 25 2026 against the Phillies, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RAYS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p data-cap="navy 'TB' gradient" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; navy 'TB' gradient</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/phillies-city-connect.jpg" alt="Philadelphia Phillies Black City Connect jersey worn September 25 2026 against the Rays, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PHILLIES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #101820; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black City Connect</p>
+      <p data-cap="City Connect" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; City Connect</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Chicago Cubs at Boston Red Sox, Game 2
 
@@ -65,7 +123,7 @@ Friday is a 17-game slate with two doubleheaders, in Boston and the Bronx. The R
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Orioles 10, Yankees 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
