@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, September 24
 
-Thursday was a 12-game getaway slate with every uniform confirmed off the league's filings. The day games went Pittsburgh in the black alternate, a 2-1 win over St. Louis in road gray; the White Sox in road gray, 9-1 over Kansas City in powder blue; the Cubs in home pinstripes, 2-1 over Miami; Texas in home white under a closed roof, 3-1 over the Mets; and Arizona in the Sedona Red alternate, 12-8 at Coors Field. At night the best-looking game was in Philadelphia, where Milwaukee's navy alternate met the Phillies in powder blue and the Brewers won 5-1. The Yankees beat the Rays 6-4 in home pinstripes against Tampa Bay's road gray, Cleveland won 1-0 at Fenway in road gray, and Cincinnati edged Atlanta 7-6. Seattle is in the City Connect against the Angels' red alternate, the Athletics are in home white against Houston, and the Padres are in khaki at Dodger Stadium, with those three scores filled in once they end.
+Thursday was a 12-game getaway slate with every uniform confirmed off the league's filings. The day games went Pittsburgh in the black alternate, a 2-1 win over St. Louis in road gray; the White Sox in road gray, 9-1 over Kansas City in powder blue; the Cubs in home pinstripes, 2-1 over Miami; Texas in home white under a closed roof, 3-1 over the Mets; and Arizona in the Sedona Red alternate, 12-8 at Coors Field. At night the best-looking game was in Philadelphia, where Milwaukee's navy alternate met the Phillies in powder blue and the Brewers won 5-1. The Yankees beat the Rays 6-4 in home pinstripes against Tampa Bay's road gray, Cleveland won 1-0 at Fenway in road gray, and Cincinnati edged Atlanta 7-6. Out west, the Angels beat Seattle 6-4 in the red alternate against the Mariners' City Connect, Houston won 7-5 in road gray against the Athletics' home white, and the Padres took the khaki to Dodger Stadium and won 4-2.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ Thursday was a 12-game getaway slate with every uniform confirmed off the league
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Padres 4, Dodgers 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -65,7 +65,7 @@ Thursday was a 12-game getaway slate with every uniform confirmed off the league
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Astros 7, Athletics 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -94,7 +94,7 @@ Thursday was a 12-game getaway slate with every uniform confirmed off the league
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Angels 6, Mariners 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
