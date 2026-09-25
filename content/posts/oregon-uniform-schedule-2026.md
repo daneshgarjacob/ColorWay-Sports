@@ -50,7 +50,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **Friday, September 18 vs. Portland State.** ★ Confirmed from the broadcast: **green helmet with the yellow wing, green jersey with yellow numbers, green pants**, the all green look Oregon teased with [three green circles](https://x.com/oregonfootball/status/2100381723284693132) and matched to the Wear Green fan theme in Autzen. Portland State wore white. Oregon won 84-0. A 10:30 p.m. Eastern kickoff, which is why some feeds list it on September 19.
 
-**September 26 at USC.** ★ Confirmed by Oregon: **Warp Speed**, a **silver helmet, white jersey and white pants**, announced on September 23 as the game 4 combination. USC wears cardinal at home, so it is cardinal and gold against a silver shell over head-to-toe white at the Coliseum. Silver over white is Oregon at its most futuristic, and against a program as traditional as USC it makes the contrast the whole point.
+**September 26 at USC.** ★ Confirmed by Oregon: **Warp Speed**, a **silver helmet, white jersey and white pants**, announced on September 23 as the game 4 combination. USC wears its usual home set, cardinal helmet, cardinal jersey and gold pants, so it is cardinal and gold against a silver shell over head-to-toe white at the Coliseum. Silver over white is Oregon at its most futuristic, and against a program as traditional as USC it makes the contrast the whole point.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2102910905017389427"></a></blockquote>
@@ -82,7 +82,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Warp Speed at USC on Saturday, September 26: silver helmet, white jersey, white pants, confirmed by Oregon on September 23. Last week Oregon wore all green against Portland State on Friday, September 18: green helmet with the yellow wing, green jersey with yellow numbers and green pants, with Portland State in white, in an 84-0 win. Before that came green over white over white at Oklahoma State on September 12, and a green jersey with a yellow helmet and yellow pants for the opener against Boise State. Next is USC on Saturday, September 26, and Oregon has confirmed Warp Speed for it: silver helmet, white jersey and white pants, against USC in cardinal. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Warp Speed at USC on Saturday, September 26: silver helmet, white jersey, white pants, confirmed by Oregon on September 23. Last week Oregon wore all green against Portland State on Friday, September 18: green helmet with the yellow wing, green jersey with yellow numbers and green pants, with Portland State in white, in an 84-0 win. Before that came green over white over white at Oklahoma State on September 12, and a green jersey with a yellow helmet and yellow pants for the opener against Boise State. Next is USC on Saturday, September 26, and Oregon has confirmed Warp Speed for it: silver helmet, white jersey and white pants, against USC in cardinal and gold. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon's uniforms for 2026?**
 
