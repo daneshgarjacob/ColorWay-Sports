@@ -3,7 +3,7 @@ topViewsRank: 2
 title: "Cincinnati Bengals 2026 Uniform Schedule: White Bengal Jersey Dates"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-23"
+updatedDate: "2026-09-24"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -39,7 +39,7 @@ Here is the whole season at a glance. The two confirmed jersey games are marked 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Open In Orange · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White &middot; Black Pants</div></div>
   <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -57,7 +57,7 @@ Here is the whole season at a glance. The two confirmed jersey games are marked 
   <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>two starred games are confirmed</strong> by the Bengals. The team has announced themes for other dates, but a theme is not always a uniform, and the jersey calls for the remaining weeks are our projection: the orange alternate at Miami in Week 5 and against Kansas City in Week 14, the standard white at home against Baltimore in Week 17, and black at home and white on the road everywhere else. Pants and exact combinations are a week-of-game call for the unstarred weeks. The Open In Orange combination is now set: orange helmet, orange jersey, white pants. The Week 16 and Week 18 kickoff times are still to be set.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>starred games are confirmed</strong> by the Bengals. The team has announced themes for other dates, but a theme is not always a uniform, and the jersey calls for the remaining weeks are our projection: the orange alternate at Miami in Week 5 and against Kansas City in Week 14, the standard white at home against Baltimore in Week 17, and black at home and white on the road everywhere else. Pants and exact combinations are a week-of-game call for the unstarred weeks. The Open In Orange combination is now set: orange helmet, orange jersey, white pants. The Week 16 and Week 18 kickoff times are still to be set.</p>
 
 ## Open In Orange (Week 1 vs. Buccaneers, Confirmed)
 
@@ -115,7 +115,7 @@ Black at home and white on the road for most of the season, but Cincinnati break
 
 **What jerseys are the Bengals wearing this week?**
 
-Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+White with black pants at Pittsburgh on Sunday, September 27. The Bengals confirmed the white jersey, black pants with orange stripes and white socks for Week 3, under the striped orange helmet. Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
 
 **What uniform did the Bengals wear last week?**
 

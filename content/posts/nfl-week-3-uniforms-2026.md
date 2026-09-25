@@ -105,16 +105,16 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 ### Sunday, September 27
 
 - **Los Angeles Chargers at Buffalo Bills**, 1:00 p.m. ET, FOX. Chargers: all white, white helmet (confirmed). Bills: The Charge helmet, gray Nickel City jersey and pants (confirmed).
-- **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: white jersey (confirmed), silver helmet and white pants projected. Browns: orange helmet, brown jersey, white pants (projected).
-- **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey and pants (projected).
+- **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: white jersey (confirmed), silver helmet and white pants projected. Browns: orange helmet, brown jersey, orange pants (orange pants confirmed).
+- **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed).
 - **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (confirmed). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
 - **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Chiefs: red helmet, red jersey, white pants (projected). Dolphins: white helmet, white jersey, aqua pants (projected).
 - **Tennessee Titans at New York Giants**, 1:00 p.m. ET, CBS. Titans: all white (confirmed). Giants: blue helmet, blue jersey, white pants (projected).
-- **Cincinnati Bengals at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, white pants (projected). Steelers: black helmet, black jersey, gold pants (projected).
-- **Seattle Seahawks at Washington Commanders**, 1:00 p.m. ET, FOX. Seahawks: navy helmet, white jersey, navy pants (projected). Commanders: burgundy helmet, burgundy jersey, white pants (projected).
+- **Cincinnati Bengals at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants with orange stripes (confirmed). Steelers: black helmet, black jersey, gold pants (projected).
+- **Seattle Seahawks at Washington Commanders**, 1:00 p.m. ET, FOX. Seahawks: navy helmet, white jersey, white pants (confirmed). Commanders: burgundy helmet, burgundy jersey, white pants (projected).
 - **New England Patriots at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Patriots: silver helmet, white jersey, white pants (confirmed). Jaguars: Prowler throwback, black helmet, teal jersey, white pants (confirmed).
 - **Arizona Cardinals at San Francisco 49ers**, 4:05 p.m. ET, FOX. Cardinals: all white, white helmet (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (projected).
-- **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, white pants (projected).
+- **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, pewter pants (confirmed).
 - **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants projected.
 - **Las Vegas Raiders at New Orleans Saints**, 4:25 p.m. ET, CBS. Raiders: silver helmet, white jersey, silver pants (projected). Saints: gold helmet, black jersey (confirmed), gold pants projected.
 - **Los Angeles Rams at Denver Broncos**, 8:20 p.m. ET, NBC. Rams: royal helmet, white jersey, white pants (projected). Broncos: navy helmet, Midnight Navy jersey and pants (confirmed).
