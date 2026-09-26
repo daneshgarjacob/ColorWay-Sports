@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-09-21"
+updatedDate: "2026-09-25"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -20,6 +20,8 @@ The Los Angeles Rams carry five uniforms for 2026, and as of September 1 every o
 
 <img src="/images/posts/rams-uniform-schedule-2026/jersey-schedule-cover.jpg" alt="Los Angeles Rams 2026 jersey schedule graphic showing all five uniforms: the gold Classic Sol, the white primary, the black Midnight Mode, the Fearsome White alternate, and the royal blue primary worn by a player in the foreground" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: Los Angeles Rams</p>
+
+**Week 3 combination, confirmed:** royal helmet, white jersey, white pants and white socks at Denver on Sunday Night Football, September 27. The Broncos are in the full Midnight Navy look, navy helmet over Midnight Navy jersey and pants, so it is all white against all navy.
 
 For the full grades on all five looks, see our [Rams new alternate jerseys 2026 breakdown](/stories/rams-leaked-alternate-jerseys-2026).
 
@@ -46,7 +48,7 @@ Here is the whole season at a glance, every game as the team announced it. Class
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #003594; color: #ffffff; border: 2px solid #FFA300; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal · Melbourne</div></div>
   <div style="background: #FFD100; color: #003594; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Classic Sol</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
   <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
