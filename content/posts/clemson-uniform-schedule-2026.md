@@ -3,7 +3,7 @@ title: "Clemson Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "What Clemson wears every game in 2026, starting with orange in Baton Rouge on opening night, week by week."
 gradient: "linear-gradient(135deg, #F56600 0%, #b84a00 55%, #522D80 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
   <div style="background: #F56600; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White</div></div>
   <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #F56600; border: 2px solid #F56600; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / White</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charleston Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
@@ -50,7 +50,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 19 vs. North Carolina.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, orange jersey, white pants**, the standard Death Valley home look for a third straight week. North Carolina answered in the Carolina blue helmet with the interlocking NC, a white jersey with Carolina blue numerals and Carolina blue pants, which is about as good as a visiting white set gets against orange. Weather suspended the game in the third quarter with Clemson trailing 17-15, and the Tigers came back after the delay to win 28-20. The other side of it is on our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
-**September 26 at California.** White expected.
+**September 25 at California.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, white jersey, white pants**, the standard road set, for a Friday night kickoff at 10:30 p.m. Eastern on ESPN. Cal wore a navy helmet, gold jersey and navy pants for its Gold Out. Clemson won 24-10, with Bryant Wesco Jr. returning a punt 65 yards for a touchdown, and moved to 3-1. The other side of it is on our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026).
 
 **October 3 vs. Miami.** Orange expected.
 
@@ -78,7 +78,7 @@ Orange at home, white on the road, the paw on the helmet either way. The one dat
 
 **What jersey is Clemson wearing this week?**
 
-Clemson wears orange at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Clemson wore the orange helmet, white jersey and white pants at Cal on Friday, September 25, and won 24-10. Next is Miami at home on October 3, where orange is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Clemson's uniforms for 2026?**
 

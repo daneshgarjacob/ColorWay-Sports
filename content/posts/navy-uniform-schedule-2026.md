@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-26"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Towson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 **September 19.** Bye.
 
-**September 25 at UAB.** White expected. A Friday night game at Protective Stadium in Birmingham, 7 p.m. Eastern on ESPN, and Navy's first American Conference road trip of the year.
+**September 25 at UAB.** ★ Confirmed from the broadcast: **gold helmet, navy jersey, navy pants**, and not the white we had expected. UAB wore white at home, a white jersey with gold pants and its gold helmet, so Navy went dark on the road at Protective Stadium in Birmingham on a Friday night on ESPN. UAB won 24-20 on a 48-yard touchdown run by Bam McReynolds, and Navy fell to 1-2.
 
 **October 3 at Air Force.** White expected. The first leg of the Commander-in-Chief's Trophy chase, noon Eastern on CBS at Falcon Stadium, and one of the most interesting uniform matchups of Navy's season because of what the other side is wearing. Air Force built [this year's Air Power Legacy Series uniform](/stories/air-force-b21-raider-uniform-2026) around the B-21 Raider, and the Academy's own reveal photography shows a matte black set: a dark camouflage helmet wrap with B-21 in small type above the facemask, black jerseys, chrome silver numerals, and patches for Air Force Global Strike Command, the 412th Test Wing, Air Force Materiel Command and the Colorado Air National Guard's 140th Wing. Navy in plain white across from that is a genuinely good clash.
 
@@ -118,13 +118,13 @@ Navy also comes into December holding the Commander-in-Chief's Trophy after winn
 
 ## The Bottom Line
 
-Navy's regular season uniform schedule is simple: navy and gold at home, white on the road, gold helmet every single week. What makes this the best uniform program in college football is the two dates it builds something for. One of them is already public, the 1926 Chevron Stripe centennial against Notre Dame at Gillette Stadium on October 31, and it is a real throwback with real math built into the stripes. The other is the Army-Navy Game on December 12, and nobody outside Annapolis and Under Armour has seen it yet. The grid above has every date, and we star each cell as the combination is confirmed.
+Navy's regular season uniform schedule is simple: navy and gold at home, white on the road unless the home team picks white, gold helmet every single week. What makes this the best uniform program in college football is the two dates it builds something for. One of them is already public, the 1926 Chevron Stripe centennial against Notre Dame at Gillette Stadium on October 31, and it is a real throwback with real math built into the stripes. The other is the Army-Navy Game on December 12, and nobody outside Annapolis and Under Armour has seen it yet. The grid above has every date, and we star each cell as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Navy wearing this week?**
 
-Navy is off this week. The Midshipmen are on a bye after losing 38-30 at Florida Atlantic on September 12 in the white jersey and navy pants. Next up is a Friday night game at UAB on September 25, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore the gold helmet, a navy jersey and navy pants at UAB on Friday, September 25, and lost 24-20. It was a road game, but UAB chose white at home, so the Midshipmen wore their dark jersey. Next up is Air Force on October 3, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 

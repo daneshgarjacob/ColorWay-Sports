@@ -3,7 +3,7 @@ title: "Temple Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Temple wears every game in 2026: the cherry home jersey, the white road set, both diamond helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #b62a3f 55%, #5e1220 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ American Conference home teams wear color and visitors wear white, so every road
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rhode Island</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cherry / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cherry / Cherry / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
+  <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cherry / Cherry / Cherry</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
@@ -75,7 +75,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **September 19 at Toledo.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the full road whites with the cherry trim. Toledo wore its midnight blue jersey and gold pants at home and won 49-48 after stopping Temple's two-point conversion in overtime.
 
-**September 25 vs. Army.** Cherry expected. A Friday afternoon home game on ESPN, which is an unusual window and exactly the kind of national slot where a program picks its best looking combination. [Army](/stories/army-uniform-schedule-2026) is in white as the visitor, so the helmet and pants are the only real variables here.
+**September 25 vs. Army.** ★ Confirmed from the broadcast: **cherry helmet, cherry jersey, cherry pants**, the full monochrome, with the white diamond chain down the crown of the helmet, for a Friday afternoon home game on ESPN. [Army](/stories/army-uniform-schedule-2026) wore a black helmet, white jersey and black pants. Temple lost 21-17 in its American Conference opener, after Colin Chase tied it with a 67-yard touchdown catch, and fell to 1-3.
 
 **October 3 at South Florida.** White expected. The Owls' first conference road trip, to Raymond James Stadium in Tampa against a green home side.
 
@@ -103,7 +103,7 @@ Temple does not need an alternate. The diamond system gives the equipment staff 
 
 **What jersey is Temple wearing this week?**
 
-Temple wore all white at Toledo on September 19, a white helmet, white jersey and white pants, and lost 49-48 in overtime. The Owls had worn the white helmet with the cherry jersey and white pants against Rhode Island in the opener, then cherry on cherry with white pants against Penn State. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Temple wore all cherry against Army on Friday, September 25, a cherry helmet, cherry jersey and cherry pants, and lost 21-17. A week earlier the Owls wore all white at Toledo and lost 49-48 in overtime. They had worn the white helmet with the cherry jersey and white pants against Rhode Island in the opener, then cherry on cherry with white pants against Penn State. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Temple's football uniforms for 2026?**
 

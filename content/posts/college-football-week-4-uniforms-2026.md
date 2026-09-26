@@ -3,7 +3,7 @@ title: "College Football Week 4 Uniforms 2026: What Every Top Team Is Wearing Th
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-25"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "College football Week 4 uniforms: Oregon's Warp Speed at USC, Texas icy whites at Tennessee, Baylor's gold chrome throwback, WVU Gold Rush and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 4 of the 2026 college football season is the first week that looks like conference play, and the uniform calls have come in early. **Oregon is bringing Warp Speed to the Coliseum**: a silver helmet, white jersey and white pants against USC's cardinal and gold on Saturday night. **Texas is in its icy whites** for its first ever trip to Knoxville, and **Tennessee answered with the classic home set**, white helmet, orange jersey, white pants, so No. 1 against No. 14 is orange and white against white. Baylor debuts its **gold chrome throwback** against Colorado, West Virginia has posted its **Gold Rush** look, and Texas A&M is going **maroon over maroon** at LSU, because LSU wears white at home.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday's opener is in too: Liberty won 34-17 at Coastal Carolina. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
 
 ## Games of the Week
 
@@ -96,25 +96,25 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Friday, September 25
 
-**Army at Temple (Lincoln Financial Field)**, 4 p.m., ESPN.
-- [Army](/stories/army-uniform-schedule-2026): **Expected** in white, its first road game of the season.
-- [Temple](/stories/temple-uniform-schedule-2026): **Expected** in cherry.
+**Army 21, Temple 17 (Final)**, Friday afternoon, ESPN, at Lincoln Financial Field.
+- [Army](/stories/army-uniform-schedule-2026): **Worn**, black helmet, white jersey, black pants. That is a black shell in place of the usual gold one. Cale Hellums ran for three touchdowns, the last one late, and Army is 2-1.
+- [Temple](/stories/temple-uniform-schedule-2026): **Worn**, all cherry: cherry helmet with the white diamond stripe, cherry jersey, cherry pants. The Owls fell to 1-3 in their American Conference opener.
 
-**Navy at UAB**, 7 p.m., ESPN.
-- [Navy](/stories/navy-uniform-schedule-2026): **Expected** in white.
-- UAB: home green expected.
+**UAB 24, Navy 20 (Final)**, Friday night, ESPN.
+- [Navy](/stories/navy-uniform-schedule-2026): **Worn**, gold helmet, navy jersey with gold numbers, navy pants. The Midshipmen went dark on the road instead of the white we expected, and fell to 1-2.
+- UAB: **Worn**, gold helmet with the Blazer dragon, white jersey, gold pants, so the home team was in white. Bam McReynolds scored the go-ahead touchdown on a 48-yard run and UAB is 2-2.
 
-**Howard at Rutgers**, 7 p.m., BTN.
-- Howard: white expected.
-- [Rutgers](/stories/rutgers-uniform-schedule-2026): **Expected** in scarlet for Sir Henry's Birthday Bash.
+**Rutgers 58, Howard 7 (Final)**, Friday night, BTN.
+- Howard: **Worn**, silver helmet, white jersey, navy pants. The Bison are 1-3.
+- [Rutgers](/stories/rutgers-uniform-schedule-2026): **Worn**, scarlet helmet with the white block R, scarlet jersey, white pants, for Sir Henry's Birthday Bash. Antwan Raymond ran for three touchdowns and the Scarlet Knights got their first win of the year.
 
-**Northwestern at No. 5 Indiana**, 8 p.m., FOX.
-- [Northwestern](/stories/northwestern-uniform-schedule-2026): **Expected** in the white jersey. The helmet and pants are open, because the Wildcats have paired the road white with a purple helmet, a white helmet, white pants and purple pants within the last year.
-- [Indiana](/stories/indiana-uniform-schedule-2026): **Expected** in crimson: crimson helmet with the white IU trident, crimson jersey, white pants. The defending national champion has no alternate, so this one is close to automatic.
+**No. 5 Indiana 29, Northwestern 23 (Final)**, Friday night, FOX.
+- [Northwestern](/stories/northwestern-uniform-schedule-2026): **Worn**, purple helmet with the white N, white jersey, purple pants. The Wildcats pushed the defending champion to the end and are 2-1.
+- [Indiana](/stories/indiana-uniform-schedule-2026): **Worn**, crimson helmet with the white IU, crimson jersey, white pants, from team photography. Lee Beebe Jr. ran for 203 yards and the Hoosiers are 4-0.
 
-**Clemson at Cal**, 10:30 p.m., ESPN.
-- [Clemson](/stories/clemson-uniform-schedule-2026): **Expected** in white with the orange Tiger Paw helmet.
-- [Cal](/stories/cal-uniform-schedule-2026): **Expected** in blue for the Gold Out. The Databricks decal Cal announced this week does not go on the helmets until UNLV on October 3.
+**Clemson 24, Cal 10 (Final)**, Friday night, ESPN.
+- [Clemson](/stories/clemson-uniform-schedule-2026): **Worn**, orange helmet with the white Tiger Paw, white jersey, white pants. Bryant Wesco Jr. returned a punt 65 yards for a touchdown and Clemson is 3-1.
+- [Cal](/stories/cal-uniform-schedule-2026): **Worn**, navy helmet, gold jersey, navy pants for the Gold Out, a gold jersey in place of the blue we expected. Cal fell to 2-2.
 
 ### Saturday, September 26: Noon Window
 

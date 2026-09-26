@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <div style="background: #990000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #990000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Howard</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
-  <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #990000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -74,7 +74,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **September 19 vs. Western Kentucky.** Crimson expected, and still unconfirmed. Indiana won the non-conference finale 38-0 in a 4 p.m. Eastern kickoff on Peacock, and no broadcast frame of the game has been published, so the cell stays unstarred. Indiana has not lost at home under Cignetti, a streak that now runs seventeen games and is the longest active home winning streak in the country, so the crimson jersey is undefeated in Bloomington across three seasons.
 
-**September 25 vs. Northwestern.** Crimson expected. The Big Ten and FOX flexed this one to Friday night, 8 p.m. Eastern, so it is a rare prime-time Friday date at Memorial Stadium and the first conference game of the year. Northwestern is in white as the visitor.
+**September 25 vs. Northwestern.** ★ Confirmed from Indiana's game photography: **crimson helmet with the white IU, crimson jersey, white pants**, the same home set as the first two games. The Big Ten and FOX flexed this one to Friday night, 8 p.m. Eastern, a rare prime-time Friday at Memorial Stadium and the first conference game of the year. Northwestern wore the purple helmet, white jersey and purple pants and made it close, but Lee Beebe Jr. ran for 203 yards and Indiana won 29-23 to move to 4-0. More: [Northwestern uniform schedule](/stories/northwestern-uniform-schedule-2026).
 
 **October 3 at Rutgers.** White expected. An 8 p.m. Eastern kickoff at SHI Stadium, and the first look at the road HOOSIERS jersey in 2026. The [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026) covers the Scarlet Knights' side.
 
@@ -102,7 +102,7 @@ Indiana is the most predictable uniform team in the Big Ten and it is not an acc
 
 **What jersey is Indiana wearing this week?**
 
-Indiana hosts Western Kentucky on Saturday, September 19 at 4 p.m. Eastern, and the crimson home jersey with white pants is expected. The Hoosiers have worn that exact combination in both games so far, a 52-16 win over North Texas and a 55-0 win over Howard. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, crimson jersey and white pants against Northwestern on Friday, September 25, and won 29-23 to move to 4-0. It is the same combination the Hoosiers wore in a 52-16 win over North Texas and a 55-0 win over Howard. Next is a trip to Rutgers on October 3, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

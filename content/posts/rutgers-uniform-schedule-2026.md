@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / Scarlet / White</div></div>
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / Scarlet</div></div>
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / Scarlet</div></div>
-  <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Howard</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Howard</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / Scarlet / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Likely</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -50,7 +50,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **September 19 vs. USC.** ★ Confirmed from the broadcast: **scarlet jersey and scarlet pants**, the monochrome version of the home look, matching the Scarlet Out the athletic department called for New Jersey Day. USC wore the cardinal helmet, white jersey and gold pants listed on the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) and won 42-35 in a shootout on CBS.
 
-**September 25 vs. Howard.** Scarlet expected. A Friday night game at 7 p.m. Eastern on Big Ten Network, themed as Sir Henry's Birthday Bash and R Community Day, featuring Eric LeGrand's A Walk to Believe.
+**September 25 vs. Howard.** ★ Confirmed from the broadcast: **scarlet helmet with the white block R, scarlet jersey, white pants**, the classic home look, for Sir Henry's Birthday Bash and R Community Day, featuring Eric LeGrand's A Walk to Believe. The helmets carried a BELIEVE bumper on the back. Howard wore a silver helmet, white jersey and navy pants. Rutgers won 58-7 on Big Ten Network for its first win of the season, with Antwan Raymond running for three touchdowns.
 
 **October 3 vs. Indiana.** Black likely. This is Homecoming and Family Weekend, and Rutgers has named it The Blackout. Last season's all-black set was built for exactly this kind of night, so this is the home date where we expect the black helmet, black jersey and black pants. It is an 8 p.m. Eastern kickoff. One calendar note: ESPN files this game under October 4 because its feed runs on UTC. It is a Saturday night game on October 3. We will star the cell once the uniform is confirmed.
 
@@ -78,7 +78,7 @@ Rutgers has already used two helmets in two games, and the tribute set at Boston
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers hosts No. 12 USC on September 19 for New Jersey Day and a Scarlet Out, so we expect the scarlet home jersey with USC in white. Last week at Boston College, Rutgers wore the 9/11 tribute set: white helmet, scarlet jersey and scarlet pants. The week-by-week grid above lists every game with the expected set.
+Rutgers wore the scarlet helmet, scarlet jersey and white pants against Howard on Friday, September 25, and won 58-7. A week earlier against USC it was scarlet over scarlet for the Scarlet Out. Next is Homecoming against Indiana on October 3, named The Blackout, where we expect the all-black set. The week-by-week grid above lists every game with the expected set.
 
 **What are Rutgers's football uniforms for 2026?**
 
