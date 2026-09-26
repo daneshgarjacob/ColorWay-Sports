@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, September 26
 
-Saturday brings 13 games, and we log each one as its uniforms are confirmed. The Giants break out Gigantes against the Dodgers, the Pirates go to the black alternate in Detroit, the Nationals wear City Connect against the Mets and Toronto is in the royal blue alternate. The Mets won 7-1 in Washington, and the Tigers edged Pittsburgh 4-3. The evening and West Coast games get added as they are confirmed.
+Saturday brings 13 games, and we log each one as its uniforms are confirmed. The Giants break out Gigantes against the Dodgers, the Pirates go to the black alternate in Detroit, the Nationals wear City Connect against the Mets and Toronto is in the royal blue alternate. The Mets won 7-1 in Washington, the Tigers edged Pittsburgh 4-3, and the Reds shut down Toronto 5-1. The Twins are in the cream Twin Cities set against the Rangers, who wear the royal blue alternate. The evening and West Coast games get added as they are confirmed.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -94,7 +94,7 @@ Saturday brings 13 games, and we log each one as its uniforms are confirmed. The
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Reds 5, Blue Jays 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
