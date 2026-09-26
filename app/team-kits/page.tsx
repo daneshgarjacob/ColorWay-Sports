@@ -15,9 +15,9 @@ import Footer from "@/components/Footer";
 // designs up front; a team gets a design when it asks.
 
 export const metadata: Metadata = {
-  title: "Team Kits: Custom Hockey and Soccer Uniforms for League Teams | ColorWay Sports",
+  title: "Custom Rec League Jerseys: Hockey Jerseys and Soccer Kits for Your Team | ColorWay Sports",
   description:
-    "Custom hockey and soccer uniforms for adult league teams, designed to a professional standard. Color system, crest, striping and numbers built from scratch, priced up front.",
+    "Custom rec league and beer league jerseys for adult hockey and soccer teams, designed to a professional standard. From $85 per player with names and numbers included, priced up front.",
   alternates: { canonical: "https://www.colorwaysports.com/team-kits" },
   openGraph: {
     title: "ColorWay Team Kits",

@@ -4,6 +4,7 @@ import MlbUniformsZone from "@/components/MlbUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import WireStrip from "@/components/WireStrip";
+import TeamKitsBand from "@/components/TeamKitsBand";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -231,6 +232,8 @@ export default function Home() {
         )}
 
       </main>
+      {/* Team Kits: custom league uniforms (Jake, 9/26), below all editorial */}
+      <TeamKitsBand />
       <Footer />
     </>
   );
