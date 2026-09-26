@@ -3,7 +3,7 @@ title: "Purdue Uniform Schedule 2026: Every Jersey and When the Boilermakers Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "What Purdue wears every game in 2026: black home jerseys, the white road set, gold and black helmets, and the full Boilermakers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #2a2a2a 55%, #CEB888 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The Nike set is built on a simple idea: black and old gold, with a black and whi
 
 **September 19 at UCLA.** ★ Confirmed from the broadcast: **black helmet, white jersey, white pants**, exactly the combination Purdue posted in game week, which also answered the helmet question, since the Boilermakers paired the black shell with the white jersey on the road in 2025 and did it again here. UCLA wore the gold helmet, blue jersey and gold pants and won 52-38; our [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins. This was the Big Ten opener for both teams and Purdue's first meeting with the Bruins at the Rose Bowl, an 8 p.m. Pacific kickoff on the Big Ten Network, 11 p.m. Eastern, the latest start for a Purdue game since a trip to Hawaii in 2006, which is why ESPN files it under September 20.
 
-**September 26 vs. Notre Dame.** Black expected. The Shillelagh Trophy game at 2 p.m. Eastern in West Lafayette, with the Irish in white. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) has the visitors.
+**September 26 vs. Notre Dame.** Black expected, not yet confirmed: the game streamed on Peacock and we have not seen a frame, so the helmet and pants are still open. No. 3 Notre Dame won the Shillelagh Trophy game 49-10 in West Lafayette. Purdue managed 218 total yards, Ryan Browne lost a fumble that Notre Dame returned for a touchdown, and the Boilermakers have lost three straight to fall to 1-3. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) has the visitors.
 
 **October 3 at Illinois.** White expected. The Purdue Cannon game at Gies Memorial Stadium, and it is also Illinois Homecoming with a "Hail to the Orange Out" theme, so the Illini could be in navy or in orange. Kickoff time is still to be announced.
 
@@ -78,7 +78,7 @@ Purdue has worn the black jersey twice, but it has not looked the same twice: th
 
 **What jersey is Purdue wearing this week?**
 
-Purdue plays at UCLA on Saturday, September 19, at 11 p.m. Eastern, and the white road jersey is expected because the Bruins wear blue at home. Last week against Wake Forest, Purdue wore the old gold helmet, black jersey and gold pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Purdue hosted No. 3 Notre Dame on Saturday, September 26, and lost 49-10. The black home jersey was expected, and we will star it once we see a frame. The week before at UCLA, Purdue wore the black helmet, white jersey and white pants in a 52-38 loss. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Purdue's football uniforms for 2026?**
 

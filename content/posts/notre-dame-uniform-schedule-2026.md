@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -63,7 +63,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **September 19 vs. Michigan State**, Notre Dame Stadium. ★ Confirmed: **gold helmet, navy jersey, gold pants**, the standard home set, with the SoFi patch on the chest. Notre Dame won 27-10 as the Megaphone Trophy game returned for the first time since 2017. Michigan State answered in the **white** helmet with the green Spartan over a white jersey and white pants, which settles the open question on its page, since the Spartans had gone to a green shell with the white set on the road last season. Confirmed from Notre Dame's own game photography, since the NBC broadcast produced no ESPN frames. More: [Michigan State uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
-**September 26 at Purdue**, Ross-Ade Stadium. White expected.
+**September 26 at Purdue**, Ross-Ade Stadium. White expected, with the gold helmet and gold pants, and not yet confirmed: the Peacock stream produced no ESPN frames, so this stays unstarred until we see one. Notre Dame won 49-10 to keep the Shillelagh Trophy and move to 4-0, as CJ Carr threw three touchdown passes and ran for another and Drayk Bowen returned a fumble 15 yards for his first career touchdown. It is the 14th straight win for the Irish. More: [Purdue uniform schedule](/stories/purdue-uniform-schedule-2026).
 
 **October 3 at North Carolina**, Kenan Stadium. White expected.
 

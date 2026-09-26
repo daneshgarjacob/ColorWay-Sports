@@ -3,7 +3,7 @@ title: "Florida State Uniform Schedule 2026: Every Jersey and When the Seminoles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Florida State's 2026 uniform schedule: every FSU jersey, helmet and pants combo, garnet home, white road, turquoise and alternates, week by week."
 gradient: "linear-gradient(135deg, #782F40 0%, #8f3a4e 55%, #CEB888 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
   <div style="background: #782F40; color: #ffffff; border: 2px solid #CEB888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Garnet / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Garnet</div></div>
-  <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Central Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #782F40; color: #ffffff; border: 2px solid #CEB888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Central Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Garnet / Gold</div></div>
   <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -54,7 +54,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
 
 **September 19 at Alabama.** ★ Confirmed from the broadcast: **gold helmet, white jersey, garnet pants**. The pants were the open question all week, since gold is the traditional road pairing, and FSU went with the garnet instead, the same pairing it used at Stanford last season. Alabama wore the standard home set, crimson helmet over crimson jersey and white pants, and won 50-36 after FSU had led 14-3. This is the return game from Alabama's 2025 visit to Tallahassee, which FSU won 31-17. More: [Alabama uniform schedule](/stories/alabama-uniform-schedule-2026).
 
-**September 26 vs. Central Arkansas.** Garnet expected. It is Family Weekend and Hall of Fame Weekend at Doak Campbell.
+**September 26 vs. Central Arkansas.** ★ Confirmed from the broadcast: **gold helmet, garnet jersey, gold pants**, the traditional home set, for Family Weekend and Hall of Fame Weekend at Doak Campbell. Central Arkansas wore a purple helmet, white jersey and purple pants. Ashton Daniels threw touchdown passes to Duce Robinson and Jayvan Boggs, Ousmane Kromah ran for two scores, and Florida State won 34-7 to get back to 2-2.
 
 **October 3 vs. Virginia.** Garnet expected. This is FSU's Cancer Awareness game and the ACC home opener. When FSU visited Charlottesville last season, it wore all white with the white helmet.
 
@@ -84,7 +84,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Florida State wearing this week?**
 
-Florida State wore the gold helmet, white jersey and garnet pants at Alabama on Saturday, September 19, a 50-36 loss, confirmed from the broadcast. The garnet pants were the open question going in, since gold is the traditional road pairing. Its last game was the traditional home uniform against SMU: gold helmet, garnet jersey and gold pants.
+Florida State wore the traditional home set, gold helmet, garnet jersey and gold pants, against Central Arkansas on Saturday, September 26, and won 34-7, confirmed from the broadcast. The week before at Alabama, the Seminoles wore the gold helmet, white jersey and garnet pants in a 50-36 loss.
 
 **What are Florida State's football uniforms for 2026?**
 

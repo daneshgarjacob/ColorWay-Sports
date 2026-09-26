@@ -3,7 +3,7 @@ title: "Maryland Uniform Schedule 2026: Every Jersey and When the Terrapins Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "Maryland's 2026 uniform schedule: every Terps jersey and helmet week by week, from the Script Terps red home set to the new Los Terps helmet."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #b8262b 55%, #FFD520 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
   <div style="background: #E03A3E; color: #ffffff; border: 2px solid #FFD520; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Hampton</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E03A3E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #E03A3E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Los Terps Helmet</div></div>
-  <div style="background: #E03A3E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #E03A3E; color: #ffffff; border: 2px solid #FFD520; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #E03A3E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -51,7 +51,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
 
 **September 19 vs. Virginia Tech.** ★ Confirmed: **the Los Terps helmet, a red shell with "Los Terps" in white script and a white facemask, over the red home jersey with the Maryland flag shoulder striping and white pants**. The helmet reached the field exactly as announced on August 24, accent over the o and all. FS1 produced no ESPN frames, so this sat unstarred all weekend and was finally confirmed on Sunday from Maryland's own game photography, a line-of-scrimmage frame where two Terps helmets carry the script at full size. Maryland lost 35-26 on Hispanic Heritage Night at SECU Stadium with Virginia Tech in head to toe white; see the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026). The helmet is also a selectable option in EA SPORTS College Football 27.
 
-**September 26 vs. UCLA.** Red expected. Family Weekend and the Big Ten opener, 1:30 p.m. Eastern on BTN, and UCLA's first visit to College Park since 1955. UCLA will be the visitor in white.
+**September 26 vs. UCLA.** ★ Confirmed from the broadcast: **red helmet, red jersey, white pants**, the home set for Family Weekend and the Big Ten opener, in UCLA's first visit to College Park since 1955. UCLA wore the gold helmet, white jersey and gold pants. It was a long afternoon: UCLA won 54-3, with two interceptions of the Terps by the third quarter, and Maryland fell to 2-2. See our [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026).
 
 **October 3 at Nebraska.** White expected. First Big Ten road trip, to Memorial Stadium in Lincoln, with Nebraska in scarlet at home. Kickoff time is still to be announced.
 
@@ -79,7 +79,7 @@ Two games in, Maryland has played it straight: red at home with white pants, whi
 
 **What jersey is Maryland wearing this week?**
 
-Maryland hosts Virginia Tech on Saturday, September 19, at 7:30 p.m. Eastern for Hispanic Heritage Night, and the Terps will wear the new "Los Terps" helmet, a red shell with a white stripe outlined in black and a white facemask. The jersey has not been announced; red is expected at home. Last week at UConn, Maryland wore a red helmet, white jersey and red pants.
+Maryland wore a red helmet, red jersey and white pants against UCLA on Saturday, September 26, a 54-3 loss on Family Weekend. The week before, the Terps debuted the "Los Terps" script helmet over the red jersey and white pants against Virginia Tech. The week-by-week grid above lists every game with the expected set.
 
 **What are Maryland's football uniforms for 2026?**
 

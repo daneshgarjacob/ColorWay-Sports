@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 4 of the 2026 college football season is the first week that looks like conference play, and the uniform calls have come in early. **Oregon is bringing Warp Speed to the Coliseum**: a silver helmet, white jersey and white pants against USC's cardinal and gold on Saturday night. **Texas is in its icy whites** for its first ever trip to Knoxville, and **Tennessee answered with the classic home set**, white helmet, orange jersey, white pants, so No. 1 against No. 14 is orange and white against white. Baylor debuts its **gold chrome throwback** against Colorado, West Virginia has posted its **Gold Rush** look, and Texas A&M is going **maroon over maroon** at LSU, because LSU wears white at home.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. **Saturday noon finals:** No. 1 Texas won 20-17 at Tennessee in the icy whites, Wake Forest upset No. 16 Louisville 30-27, Baylor beat Colorado 23-13 in the gold chrome throwback debut, Virginia Tech won 21-14 at Boston College, and Ohio State, Texas Tech, Kentucky, Pitt, Toledo, UTSA and UNLV all won. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. **Saturday noon finals:** No. 1 Texas won 20-17 at Tennessee in the icy whites, Wake Forest upset No. 16 Louisville 30-27, Baylor beat Colorado 23-13 in the gold chrome throwback debut, Virginia Tech won 21-14 at Boston College, and Ohio State, Texas Tech, Kentucky, Pitt, Toledo, UTSA and UNLV all won. **Early afternoon finals:** UCLA routed Maryland 54-3 in white at College Park, No. 3 Notre Dame beat Purdue 49-10 for the Shillelagh Trophy, and Florida State beat Central Arkansas 34-7 in garnet and gold. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
 
 ## Games of the Week
 
@@ -178,9 +178,9 @@ Below is every game this week involving an AP Top 25 team or one of the programs
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2102462798630719506"></a></blockquote>
 </div>
 
-**UCLA at Maryland**, 1:30 p.m., BTN.
-- [UCLA](/stories/ucla-uniform-schedule-2026): **Expected** in white under the gold helmet.
-- [Maryland](/stories/maryland-uniform-schedule-2026): **Expected** in red for Family Weekend and the Big Ten opener.
+**UCLA 54, Maryland 3 (Final)**, 1:30 p.m., BTN.
+- [UCLA](/stories/ucla-uniform-schedule-2026): **Worn**, gold helmet, white jersey, gold pants, the road set. Nico Iamaleava threw an 83-yard touchdown pass, the defense picked off the Terps repeatedly, and the Bruins are 4-0.
+- [Maryland](/stories/maryland-uniform-schedule-2026): **Worn**, red helmet, red jersey, white pants for Family Weekend and the Big Ten opener. The Terps fell to 2-2.
 
 ### Also on the Early Slate
 
@@ -189,12 +189,13 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Saturday, September 26: Afternoon Window
 
-**No. 3 Notre Dame at Purdue**, 2 p.m., Peacock.
-- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Expected** in the road set, gold helmet, white jersey, gold pants, for the Shillelagh Trophy.
-- [Purdue](/stories/purdue-uniform-schedule-2026): **Expected** in the black home jersey. The helmet (old gold or black) and the pants (gold, black or white) are the variables.
+**No. 3 Notre Dame 49, Purdue 10 (Final)**, 2 p.m., Peacock.
+- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Expected** in the road set, gold helmet, white jersey, gold pants, for the Shillelagh Trophy. We have not seen a frame yet. CJ Carr threw three touchdown passes and ran for another, Drayk Bowen scored on a fumble return, and the Irish are 4-0 with 14 straight wins.
+- [Purdue](/stories/purdue-uniform-schedule-2026): **Expected** in the black home jersey. The helmet (old gold or black) and the pants (gold, black or white) stay open until we see a frame. The Boilermakers have lost three straight and are 1-3.
 
-**Central Arkansas at [Florida State](/stories/florida-state-uniform-schedule-2026)**, 3 p.m., ACC Network.
-- Florida State: **Expected** in garnet for Family Weekend and Hall of Fame Weekend.
+**[Florida State](/stories/florida-state-uniform-schedule-2026) 34, Central Arkansas 7 (Final)**, 3 p.m., ACC Network.
+- Central Arkansas: **Worn**, purple helmet, white jersey, purple pants. The Bears are 2-3.
+- Florida State: **Worn**, gold helmet, garnet jersey, gold pants, the traditional home set, for Family Weekend and Hall of Fame Weekend. Ashton Daniels threw two touchdown passes, Ousmane Kromah ran for two more, and the Seminoles are 2-2.
 
 **Oklahoma at No. 2 Georgia**, 3:30 p.m., ESPN.
 - [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Expected** in crimson helmet, white jersey, white pants.

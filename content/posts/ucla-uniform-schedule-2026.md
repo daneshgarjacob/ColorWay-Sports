@@ -3,7 +3,7 @@ title: "UCLA Uniform Schedule 2026: Every Jersey and When the Bruins Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What jersey is UCLA wearing this week? The full UCLA uniform schedule for 2026: powder blue home jerseys, white road uniforms, the throwback alternate and every game."
 gradient: "linear-gradient(135deg, #2774AE 0%, #005587 55%, #FFD100 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
   <div style="background: #f1f3f8; color: #333; border: 2px solid #2774AE; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #2774AE; color: #ffffff; border: 2px solid #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #2774AE; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -50,7 +50,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **September 19 vs. Purdue.** ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**, the standard home set for the Big Ten opener. Purdue answered in the black helmet, white jersey and white pants it had announced. Kickoff was 8 p.m. Pacific, 11 p.m. Eastern, on the Big Ten Network, so ESPN lists it under September 20. UCLA won 52-38.
 
-**September 26 at Maryland.** White expected, as the visitor. A 10:30 a.m. Pacific kickoff in College Park, which is 1:30 p.m. on the East Coast. Last year this matchup was the throwback game at the Rose Bowl. This year UCLA is the road team, so the powder blue alternate is not in play.
+**September 26 at Maryland.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the road set, the same look as the opener at Cal. Maryland wore a red helmet, red jersey and white pants for Family Weekend. Nico Iamaleava threw an 83-yard touchdown pass, the defense picked off the Terps repeatedly, and UCLA won 54-3 in College Park to move to 4-0. Last year this matchup was the throwback game at the Rose Bowl. See our [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
 
 **October 3.** Bye.
 
@@ -78,7 +78,7 @@ UCLA runs one of the tightest uniform rotations in the Big Ten: one gold helmet,
 
 **What jersey is UCLA wearing this week?**
 
-UCLA wore its home set, gold helmet, blue jersey and gold pants, against San Diego State on September 12. Next up is Purdue at the Rose Bowl on Saturday, September 19, at 8 p.m. Pacific, and the blue home jersey is expected again. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+UCLA wore the gold helmet, white jersey and gold pants at Maryland on Saturday, September 26, and won 54-3 to move to 4-0. The week before, the Bruins beat Purdue 52-38 at the Rose Bowl in the home set, gold helmet, blue jersey and gold pants. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are UCLA's football uniforms for 2026?**
 
