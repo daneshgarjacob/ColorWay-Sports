@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Friday, September 25
 
-Friday was a 17-game City Connect night with two doubleheaders, and every uniform is confirmed off the league's filings. Boston swept the Cubs, 4-3 in the Green Monster City Connect in the matinee and 2-0 in the home whites in game 2 against Chicago's royal blue alternate. The Bronx split: Baltimore won game 1 10-2 in road gray, and the Yankees took game 2 6-3 in the pinstripes against the Orioles' black alternate. Philadelphia shut out Tampa Bay 2-0 in the black City Connect, Miami blanked Atlanta 3-0 in the Retro Wave City Connect, Toronto beat Cincinnati 6-5 in the navy City Connect against the Reds' red script alternate, Milwaukee won 8-4 in the Wisco City Connect, the White Sox beat Colorado 6-1 in red City Connect, and Minnesota routed Texas 10-2 in the Ripple Effect City Connect. Kansas City's white City Connect lost 12-9 to Cleveland in road gray. Detroit changed its call to the orange alternate and edged Pittsburgh's black 8-7, and Washington beat the Mets 7-6 in the navy alternate. Out west, San Diego wore the navy City Connect against Arizona, Seattle its City Connect against the Angels' red, San Francisco the orange Friday alternate against the Dodgers in road gray, and Houston the orange alternate in Sacramento.
+Friday was a 17-game City Connect night with two doubleheaders, and every uniform is confirmed off the league's filings. Boston swept the Cubs, 4-3 in the Green Monster City Connect in the matinee and 2-0 in the home whites in game 2 against Chicago's royal blue alternate. The Bronx split: Baltimore won game 1 10-2 in road gray, and the Yankees took game 2 6-3 in the pinstripes against the Orioles' black alternate. Philadelphia shut out Tampa Bay 2-0 in the black City Connect, Miami blanked Atlanta 3-0 in the Retro Wave City Connect, Toronto beat Cincinnati 6-5 in the navy City Connect against the Reds' red script alternate, Milwaukee won 8-4 in the Wisco City Connect, the White Sox beat Colorado 6-1 in red City Connect, and Minnesota routed Texas 10-2 in the Ripple Effect City Connect. Kansas City's white City Connect lost 12-9 to Cleveland in road gray. Detroit changed its call to the orange alternate and edged Pittsburgh's black 8-7, and Washington beat the Mets 7-6 in the navy alternate. Out west, the Angels' red alternate beat Seattle's City Connect 7-5 in our Clash of the Day, the Dodgers blanked San Francisco 2-0 in road gray against the Giants' orange Friday alternate, Arizona beat San Diego's navy City Connect 11-4 in road gray, and the Athletics edged Houston's orange alternate 6-5 in Sacramento.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ Friday was a 17-game City Connect night with two doubleheaders, and every unifor
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 2, Giants 0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -70,7 +70,7 @@ Friday was a 17-game City Connect night with two doubleheaders, and every unifor
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Angels 7, Mariners 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -102,7 +102,7 @@ The Clash goes to T-Mobile Park. The Angels' red alternate against Seattle's Cit
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Athletics 6, Astros 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -131,7 +131,7 @@ The Clash goes to T-Mobile Park. The Angels' red alternate against Seattle's Cit
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Diamondbacks 11, Padres 4</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
