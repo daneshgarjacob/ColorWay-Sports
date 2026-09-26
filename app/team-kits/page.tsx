@@ -10,17 +10,15 @@ import Footer from "@/components/Footer";
 // form posts to formsubmit.co, the same free relay the contact page uses, so
 // every reservation lands in jake@colorwaysports.com.
 //
-// Unlisted (Jake, 2026-09-22: "why is team kits linked if we haven't set it
-// up yet"): noindex, not in the nav, footer or sitemap. Reached from the flyer
-// QR code and direct links only. No sample designs up front; a team gets a
-// design when it asks.
+// Public again (Jake, 2026-09-26: wants a Team Kits section on the site while
+// the league outreach runs): indexable, in the footer and the sitemap. No sample
+// designs up front; a team gets a design when it asks.
 
 export const metadata: Metadata = {
   title: "Team Kits: Custom Hockey and Soccer Uniforms for League Teams | ColorWay Sports",
   description:
     "Custom hockey and soccer uniforms for adult league teams, designed to a professional standard. Color system, crest, striping and numbers built from scratch, priced up front.",
   alternates: { canonical: "https://www.colorwaysports.com/team-kits" },
-  robots: { index: false, follow: true },
   openGraph: {
     title: "ColorWay Team Kits",
     description:
