@@ -15,9 +15,9 @@ import Footer from "@/components/Footer";
 // designs up front; a team gets a design when it asks.
 
 export const metadata: Metadata = {
-  title: "Custom Rec League Jerseys: Hockey Jerseys and Soccer Kits for Your Team | ColorWay Sports",
+  title: "Custom Rec League Jerseys for Any Sport: Hockey, Soccer, Softball, Basketball and More | ColorWay Sports",
   description:
-    "Custom rec league and beer league jerseys for adult hockey and soccer teams, designed to a professional standard. From $85 per player with names and numbers included, priced up front.",
+    "Custom jerseys for adult rec and beer league teams in any sport: hockey, soccer, softball, baseball, basketball, flag football and more. Designed to a professional standard, from $85 per player with names and numbers included.",
   alternates: { canonical: "https://www.colorwaysports.com/team-kits" },
   openGraph: {
     title: "ColorWay Team Kits",
@@ -36,9 +36,9 @@ const KITS: { image: string; team: string; detail: string }[] = [];
 // What goes into every kit. Craft, not credentials (Jake: "show that we have
 // some design techniques and talk less about tracking the NFL, MLB, etc.").
 const CRAFT = [
-  { title: "A real color system", body: "A palette built for contrast on the ice and the field, with exact color codes so every reorder matches." },
+  { title: "A real color system", body: "A palette built for contrast on the ice, the field and the court, with exact color codes so every reorder matches." },
   { title: "Crest and typography", body: "A custom crest and a number set matched to your identity, legible from the stands." },
-  { title: "Striping in proportion", body: "Hem, sleeve and yoke stripes drawn to the cut of the garment, the way pro sweaters and kits are built." },
+  { title: "Striping in proportion", body: "Hem, sleeve and yoke stripes drawn to the cut of the garment, the way pro jerseys are built." },
   { title: "Production-ready files", body: "Vector artwork and a full spec sheet go to the manufacturer, so what you approve is exactly what arrives." },
 ];
 
@@ -90,6 +90,10 @@ const FAQ = [
   {
     q: "How much will our kits cost?",
     a: "Founding-team pricing starts at $85 per player, names and numbers included. Your exact price comes with your first design, before you pay anything.",
+  },
+  {
+    q: "What sports do you make jerseys for?",
+    a: "Any league that wears a jersey. Hockey and soccer are where we started, and we also design for softball, baseball, basketball, flag football, volleyball and more. If your league wears it, we can design it.",
   },
   {
     q: "Can you put an NHL, NFL or other pro team's logo on our jerseys?",
@@ -145,7 +149,8 @@ export default async function TeamKitsPage({
               <p className="text-[17px] sm:text-[19px] text-white/70 leading-relaxed mt-6 max-w-[560px]">
                 Every kit starts from a blank page. We build your color system,
                 crest, striping and numbers from scratch, then deliver
-                production-ready artwork for hockey and soccer teams.
+                production-ready artwork for league teams in any sport: hockey,
+                soccer, softball, baseball, basketball, flag football and more.
               </p>
               <div className="flex flex-wrap gap-3 mt-8">
                 <a href="#reserve" className="bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
@@ -299,7 +304,7 @@ export default async function TeamKitsPage({
                 <span className="text-[15px] font-semibold text-black/55">per player</span>
               </p>
               <ul className="mt-6 space-y-2.5 text-[15px]">
-                {["Custom design, two rounds of changes", "Sublimated jersey, hockey or soccer", "Player name and number included", "Size check for every player", "Single-jersey reorders any time"].map((x) => (
+                {["Custom design, two rounds of changes", "Sublimated jersey for any sport", "Player name and number included", "Size check for every player", "Single-jersey reorders any time"].map((x) => (
                   <li key={x} className="flex gap-2.5"><span className="text-[#2f6bed] font-bold">✓</span>{x}</li>
                 ))}
               </ul>
@@ -352,11 +357,15 @@ export default async function TeamKitsPage({
                       <option className="text-black">Hockey</option>
                       <option className="text-black">Soccer</option>
                       <option className="text-black">Softball</option>
+                      <option className="text-black">Baseball</option>
+                      <option className="text-black">Basketball</option>
+                      <option className="text-black">Flag football</option>
+                      <option className="text-black">Volleyball</option>
                       <option className="text-black">Other</option>
                     </select>
                   </div>
                   <div>
-                    <label className={label} htmlFor="tk-league">League or rink</label>
+                    <label className={label} htmlFor="tk-league">League, rink or field</label>
                     <input id="tk-league" name="league" className={field} />
                   </div>
                   <div>
