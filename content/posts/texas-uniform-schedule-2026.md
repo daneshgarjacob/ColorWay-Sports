@@ -3,7 +3,7 @@ title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are the one program with no alternates at all."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
   <div style="background: #BF5700; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange / White</div></div>
   <div style="background: #BF5700; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
+  <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
@@ -52,7 +52,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 **September 19 vs. UTSA**, Austin. Third straight home game. ★ Confirmed from the broadcast: **white Longhorn helmet, burnt orange jersey, white pants**, the only home look Texas owns. UTSA answered in white over navy, and Texas won 30-6.
 
-**September 26 at Tennessee**, Knoxville. First road trip and the SEC opener, into one of the loudest buildings in the country. Icy whites.
+**September 26 at Tennessee**, Knoxville. ★ Confirmed from the broadcast: **the icy whites, white Longhorn helmet, white jersey, white pants**, as Texas posted on Thursday. It was the program's first game in Knoxville and the SEC opener. Tennessee wore the white helmet, orange jersey and white pants in front of the checkerboard. Colin Simmons tied the Texas record with five sacks and Texas won 20-17 to move to 4-0. More: [Tennessee uniform schedule](/stories/tennessee-uniform-schedule-2026).
 
 **October 3.** Open date.
 
@@ -86,7 +86,7 @@ For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-sc
 
 **What jersey is Texas wearing this week?**
 
-Texas wears burnt orange at home and the all-white icy whites on the road. The exceptions to watch are the Red River game against Oklahoma on October 10, where Texas has traditionally worn white at the neutral site, and the November 14 trip to LSU.
+Texas wore the icy whites, white helmet, white jersey and white pants, at Tennessee on Saturday, September 26, and won 20-17 to move to 4-0. Texas wears burnt orange at home and the all-white icy whites on the road. The exceptions to watch are the Red River game against Oklahoma on October 10, where Texas has traditionally worn white at the neutral site, and the November 14 trip to LSU.
 
 **Does Texas have alternate uniforms in 2026?**
 

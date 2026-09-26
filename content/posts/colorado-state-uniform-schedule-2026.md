@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -70,7 +70,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
   <div style="background: #ffffff; color: #1E4D2B; border: 2px solid #1E4D2B; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Adidas Debut &middot; Border War</div></div>
   <div style="background: #F26522; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ag Day Orange</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #1E4D2B; border: 2px solid #1E4D2B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White &middot; Thu</div></div>
@@ -88,7 +88,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **September 19 vs. BYU**, Fort Collins. ★ **The green home set finally appeared.** Confirmed from the broadcast: **green helmet with gold trim, green jersey, white pants**. Until this night the green home look had not been shown publicly at all in the adidas era, so a ranked opponent in a CBS window turned out to be its debut stage. BYU wore the all-white set with navy numbers it had announced on Monday, and won 41-23.
 
-**September 26 at UTSA**, San Antonio. The revealed white set's first road trip.
+**September 26 at UTSA**, San Antonio. ★ Confirmed from the broadcast: **green helmet, white jersey, green pants**, the revealed white set on its first road trip. UTSA wore its Por La Ciudad Hispanic Heritage set, white helmet, navy jersey, white pants. UTSA won a shootout 59-45 and the Rams are 2-2.
 
 **October 3 vs. Oregon State**, Fort Collins. Homecoming, historically a green-heavy occasion.
 
@@ -114,7 +114,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Green at home, white on the road is the standard projection, with only the white adidas set revealed so far. This page is updated as each combination and each remaining uniform is announced.
+Colorado State wore the green helmet, white jersey and green pants at UTSA on Saturday, September 26, and lost 59-45. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
 
 **Who makes Colorado State's uniforms in 2026?**
 

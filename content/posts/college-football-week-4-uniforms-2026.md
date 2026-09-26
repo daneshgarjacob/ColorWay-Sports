@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 4 of the 2026 college football season is the first week that looks like conference play, and the uniform calls have come in early. **Oregon is bringing Warp Speed to the Coliseum**: a silver helmet, white jersey and white pants against USC's cardinal and gold on Saturday night. **Texas is in its icy whites** for its first ever trip to Knoxville, and **Tennessee answered with the classic home set**, white helmet, orange jersey, white pants, so No. 1 against No. 14 is orange and white against white. Baylor debuts its **gold chrome throwback** against Colorado, West Virginia has posted its **Gold Rush** look, and Texas A&M is going **maroon over maroon** at LSU, because LSU wears white at home.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. **Saturday noon finals:** No. 1 Texas won 20-17 at Tennessee in the icy whites, Wake Forest upset No. 16 Louisville 30-27, Baylor beat Colorado 23-13 in the gold chrome throwback debut, Virginia Tech won 21-14 at Boston College, and Ohio State, Texas Tech, Kentucky, Pitt, Toledo, UTSA and UNLV all won. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
 
 ## Games of the Week
 
@@ -29,7 +29,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 1 Texas at No. 14 Tennessee
 
-**Saturday, noon, ABC.** Texas has never played a football game in Knoxville, and both teams have already posted. **Tennessee: Confirmed**, the ["threads for Checker Neyland"](https://x.com/Vol_Football/status/2103092356593357206): white helmet with the orange T, orange jersey, white pants, the classic home look for the third time this season. The checkerboard is in the stands, not on the uniform. **Texas: Confirmed in the icy whites**, posted Thursday as ["Icy whites loading"](https://x.com/TexasFootball/status/2103112320943837361): white Longhorn helmet, white jersey, white pants. Burnt orange against orange never happens in this matchup, because Texas does not wear color on the road. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
+**Saturday, noon, ABC.** Texas has never played a football game in Knoxville, and both teams have already posted. **Tennessee: Confirmed**, the ["threads for Checker Neyland"](https://x.com/Vol_Football/status/2103092356593357206): white helmet with the orange T, orange jersey, white pants, the classic home look for the third time this season. The checkerboard is in the stands, not on the uniform. **Texas: Confirmed in the icy whites**, posted Thursday as ["Icy whites loading"](https://x.com/TexasFootball/status/2103112320943837361): white Longhorn helmet, white jersey, white pants. Burnt orange against orange never happens in this matchup, because Texas does not wear color on the road. **Final: Texas 20, Tennessee 17**, with both teams in exactly what they posted and Colin Simmons tying the Texas record with five sacks. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2103092356593357206"></a></blockquote>
@@ -118,61 +118,61 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Saturday, September 26: Noon Window
 
-**No. 1 Texas at No. 14 Tennessee**, noon, ABC.
-- [Texas](/stories/texas-uniform-schedule-2026): **Confirmed**, the icy whites, white helmet, white jersey, white pants.
-- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, white helmet, orange jersey, white pants.
+**No. 1 Texas 20, No. 14 Tennessee 17 (Final)**, noon, ABC.
+- [Texas](/stories/texas-uniform-schedule-2026): **Worn**, the icy whites: white Longhorn helmet, white jersey, white pants. Colin Simmons tied the program record with five sacks and Texas is 4-0.
+- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Worn**, white helmet with the orange T, orange jersey, white pants, in front of the checkerboard crowd. The Vols fell to 3-1.
 
-**Illinois at No. 7 Ohio State**, noon, FOX.
-- [Illinois](/stories/illinois-uniform-schedule-2026): **Expected** in the white jersey under the orange helmet, with orange or white pants.
-- [Ohio State](/stories/ohio-state-uniform-schedule-2026): **Expected** in the core home set, silver helmet, scarlet jersey, silver pants, for Hall of Fame Weekend and the Buckeyes for a Cancer Free World game.
+**No. 7 Ohio State 42, Illinois 19 (Final)**, noon, FOX.
+- [Illinois](/stories/illinois-uniform-schedule-2026): **Expected** in the white jersey under the orange helmet, with orange or white pants. We have not seen a frame yet. The Illini are 2-2.
+- [Ohio State](/stories/ohio-state-uniform-schedule-2026): **Expected** in the core home set, silver helmet, scarlet jersey, silver pants, for Hall of Fame Weekend. Jeremiah Smith tied a school record with four touchdown catches and the Buckeyes are 3-1.
 
-**Sam Houston at No. 11 Texas Tech**, noon, TNT.
-- Sam Houston: white expected.
-- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed**, the ["Ag Game threads"](https://x.com/TexasTechFB/status/2103254400584106021): white helmet, red jersey, white pants, with fans asked to wear white for the annual Agriculture Game.
+**No. 11 Texas Tech 49, Sam Houston 14 (Final)**, noon, TNT.
+- Sam Houston: white expected. The Bearkats are 1-3.
+- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed** before kickoff, the ["Ag Game threads"](https://x.com/TexasTechFB/status/2103254400584106021): white helmet, red jersey, white pants, with fans asked to wear white for the annual Agriculture Game. Austin Romaine returned interceptions for touchdowns on back-to-back throws and Tech is 4-0, with an 11th straight home win.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2103254400584106021"></a></blockquote>
 </div>
 
-**Wake Forest at No. 16 Louisville**, noon, ESPN.
-- [Wake Forest](/stories/wake-forest-uniform-schedule-2026): **Expected** in white, a week after the all-black Dark Mode set against Miami.
-- [Louisville](/stories/louisville-uniform-schedule-2026): **Confirmed**, the ["Kids day threads"](https://x.com/LouisvilleFB/status/2102842938858295402): white helmet, red jersey, red pants. The red pants are the change from last week's red over white against SMU.
+**Wake Forest 30, No. 16 Louisville 27 (Final)**, noon, ESPN.
+- [Wake Forest](/stories/wake-forest-uniform-schedule-2026): **Worn**, gold helmet with WAKE on the side, white jersey, gold pants, a week after the all-black Dark Mode set against Miami. Connor Calvert kicked the go-ahead field goal with 6:20 left and Wake is 3-1.
+- [Louisville](/stories/louisville-uniform-schedule-2026): **Worn**, the ["Kids day threads"](https://x.com/LouisvilleFB/status/2102842938858295402): white helmet, red jersey, red pants. The Cardinals fell to 2-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2102842938858295402"></a></blockquote>
 </div>
 
-**Colorado at Baylor**, noon, ESPN2.
-- [Colorado](/stories/colorado-uniform-schedule-2026): **Expected** in white.
-- [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, the gold chrome throwback debut: gold chrome helmet, green jersey with bear paws on the shoulders, white pants.
+**Baylor 23, Colorado 13 (Final)**, noon, ESPN2.
+- [Colorado](/stories/colorado-uniform-schedule-2026): **Worn**, black helmet, gold jersey, black pants, not the white we expected. The Buffaloes fell to 2-2.
+- [Baylor](/stories/baylor-uniform-schedule-2026): **Worn**, the gold chrome throwback debut: gold chrome helmet with the green stripe, green jersey with BAYLOR across the chest, white pants. The Bears won the Big 12 opener and are 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2103129830069813483"></a></blockquote>
 </div>
 
-**Virginia Tech at Boston College**, noon, ACC Network.
-- [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026): **Confirmed** from the waist down. The Hokies' [Game Four graphic](https://x.com/HokiesFB/status/2102484494640943148) shows a white jersey over maroon pants, with the helmet left out of the frame. They have worn the white shell in all three games so far.
-- [Boston College](/stories/boston-college-uniform-schedule-2026): **Expected** in maroon for Family Weekend, so it is maroon against white with maroon pants on both sides.
+**Virginia Tech 21, Boston College 14 (Final)**, noon, ACC Network.
+- [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026): **Worn**, maroon helmet, white jersey, maroon pants, from the [Game Four graphic](https://x.com/HokiesFB/status/2102484494640943148) and the broadcast. That is the first maroon helmet of the year after the white shell in the first three games. The Hokies are 4-0.
+- [Boston College](/stories/boston-college-uniform-schedule-2026): **Worn**, gold helmet, maroon jersey, gold pants for Family Weekend. BC fell to 2-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HokiesFB/status/2102484494640943148"></a></blockquote>
 </div>
 
-**San Diego State at Toledo**, noon, CBSSN.
-- [San Diego State](/stories/san-diego-state-uniform-schedule-2026): **Expected** in white.
-- [Toledo](/stories/toledo-uniform-schedule-2026): **Expected** in midnight blue.
+**Toledo 41, San Diego State 16 (Final)**, noon, CBSSN.
+- [San Diego State](/stories/san-diego-state-uniform-schedule-2026): **Worn**, red helmet, white jersey, white pants. The Aztecs are 1-3.
+- [Toledo](/stories/toledo-uniform-schedule-2026): **Worn**, midnight blue helmet, midnight blue jersey, gold pants. John Alan Richter threw three touchdown passes and the Rockets are 3-1.
 
-**Colorado State at UTSA**, noon, ESPNU.
-- [Colorado State](/stories/colorado-state-uniform-schedule-2026): **Expected** in the white set it revealed this summer, on its first road trip.
-- UTSA: **Confirmed**, the ["¡Por La Ciudad!"](https://x.com/UTSAFTBL/status/2102811036164431919) Hispanic Heritage set, with the new helmet that carries confetti details, a pink, teal, yellow and orange stripe, the 210 area code and "Los Correcaminos" on the back.
+**UTSA 59, Colorado State 45 (Final)**, noon, ESPNU.
+- [Colorado State](/stories/colorado-state-uniform-schedule-2026): **Worn**, green helmet, white jersey, green pants, the revealed white set on its first road trip. The Rams are 2-2.
+- UTSA: **Worn**, white helmet, navy jersey, white pants, the ["¡Por La Ciudad!"](https://x.com/UTSAFTBL/status/2102811036164431919) Hispanic Heritage set, with the new helmet that carries confetti details, a pink, teal, yellow and orange stripe, the 210 area code and "Los Correcaminos" on the back. Owen McCown threw for 303 yards and three touchdowns and UTSA is 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UTSAFTBL/status/2102811036164431919"></a></blockquote>
 </div>
 
-**South Alabama at Kentucky**, 12:45 p.m., SEC Network.
-- South Alabama: white expected.
-- [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, the ["Week four combo"](https://x.com/UKFootball/status/2102462798630719506): white helmet with a blue center stripe, blue jersey, blue pants, the first blue over blue of the season, with the crowd split blue and white.
+**Kentucky 45, South Alabama 21 (Final)**, 12:45 p.m., SEC Network.
+- South Alabama: **Worn**, white helmet, white jersey, navy pants. The Jaguars led 21-14 late in the first half and fell to 2-2.
+- [Kentucky](/stories/kentucky-uniform-schedule-2026): **Worn**, the ["Week four combo"](https://x.com/UKFootball/status/2102462798630719506): white helmet, blue jersey, blue pants, the first blue over blue of the season. The Wildcats scored the last 31 points and are 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2102462798630719506"></a></blockquote>
@@ -184,8 +184,8 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Also on the Early Slate
 
-- **Bucknell at [Pitt](/stories/pitt-uniform-schedule-2026)**, noon, ACCNX. Pitt **expected** in blue for Homecoming.
-- **[UNLV](/stories/unlv-uniform-schedule-2026) at Akron**, noon, ESPN+. UNLV **expected** in white.
+- **[Pitt](/stories/pitt-uniform-schedule-2026) 59, Bucknell 0 (Final)**, noon, ACCNX. Pitt **worn**: gold helmet, royal blue jersey, gold pants for Homecoming, with Bucknell in white. Mason Heintschel threw six touchdown passes and Pitt is 4-0.
+- **[UNLV](/stories/unlv-uniform-schedule-2026) 38, Akron 10 (Final)**, noon, ESPN+. UNLV **worn**: red helmet, white jersey, red pants, against Akron in navy. Jai'Den Thomas had three touchdowns and the Rebels are 2-2.
 
 ### Saturday, September 26: Afternoon Window
 
@@ -375,7 +375,7 @@ Oregon is wearing Warp Speed at USC on Saturday, September 26: a chrome silver h
 
 **What is Texas wearing at Tennessee?**
 
-Texas is wearing its icy whites at Tennessee: white helmet, white jersey and white pants, which Texas announced on Thursday. Tennessee is wearing its classic home look, a white helmet, orange jersey and white pants, for the Checker Neyland game. Kickoff is noon Eastern on ABC.
+Texas wore its icy whites at Tennessee: white helmet, white jersey and white pants, which Texas announced on Thursday. Tennessee wore its classic home look, a white helmet, orange jersey and white pants, for the Checker Neyland game. Texas won 20-17 to move to 4-0.
 
 **Why is Texas A&M wearing maroon at LSU?**
 

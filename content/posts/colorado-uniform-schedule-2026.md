@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
   <div style="background: #000000; color: #ffffff; border: 2px solid #CFB87C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #CFB87C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Weber State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #CFB87C; color: #000000; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Gold / Black</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -51,7 +51,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **September 19 at Northwestern.** ★ Confirmed: **white helmet with the gold interlocking CU and the gold facemask, white jersey with COLORADO across the chest in gold, white pants, white socks**. A full road whiteout, and it took until Sunday to see it, because the FOX broadcast fed ESPN nothing and the confirmation came from Northwestern's own game photography instead. The Buffaloes lost 41-7 at Martin Stadium, Northwestern's temporary lakefront venue in Evanston.
 
-**September 26 at Baylor.** White expected. Big 12 opener at McLane Stadium in Waco, 11 a.m. Central. Baylor dresses in green or gold at home, which leaves Colorado in white. The Bears' plans are tracked on our [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026).
+**September 26 at Baylor.** ★ Confirmed from the broadcast: **black helmet, gold jersey, black pants**, not the white we expected. Big 12 opener at McLane Stadium in Waco, and Baylor wore its gold chrome throwback with a green jersey and white pants, so neither team was in a white jersey. Baylor won 23-13 and Colorado is 2-2. The Bears' side is on our [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026).
 
 **October 3 vs. Texas Tech.** Black expected. Homecoming weekend, the university's 150th anniversary celebration, and a black-and-gold stripe-out in the stands. A home game with that much going on is the most likely slot for the first gold-on-gold look, so this is the date we are watching most closely. See the [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) for the visitors.
 
@@ -79,7 +79,7 @@ Two games in, Colorado has worn black twice, with two different jerseys and two 
 
 **What jersey is Colorado wearing this week?**
 
-Colorado plays at Northwestern on Saturday, September 19, at Martin Stadium in Evanston, and the white road jersey is expected because Northwestern wears purple at home. Last week against Weber State, Colorado wore the black helmet, the classic striped black jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Colorado wore the black helmet, gold jersey and black pants at Baylor on Saturday, September 26, and lost 23-13. Earlier this season against Weber State, Colorado wore the black helmet, the classic striped black jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Colorado's football uniforms for 2026?**
 

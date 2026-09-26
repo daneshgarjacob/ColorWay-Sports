@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **September 19 vs. Kent State**, Ohio Stadium. ★ Confirmed from Ohio State's own game photography: **silver helmet, scarlet jersey with the silver Buckeye stripe on the sleeve, silver gray pants**, the standard home set. The Helmet Stripe Game came off as billed, a crowd theme rather than a uniform change, with fans in the horseshoe dressing to match the stripes on the helmet. None of the three 2026 alternates came out, so Scarlet Rush, Tunnel Vision and Sub Zero are all still waiting on a date. Ohio State won 59-3.
 
-**September 26 vs. Illinois**, Ohio Stadium. Hall of Fame Weekend and the Buckeyes for a Cancer Free World game. Scarlet expected.
+**September 26 vs. Illinois**, Ohio Stadium. Hall of Fame Weekend and the Buckeyes for a Cancer Free World game. Scarlet expected, and not yet confirmed from a game frame. Jeremiah Smith tied a school record with four touchdown catches, with 12 receptions for 217 yards, and Ohio State won 42-19 to move to 3-1.
 
 **October 3 at Iowa**, Iowa City. Road. White expected.
 
@@ -99,7 +99,7 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State wears scarlet at home and white on the road in 2026, and the September 19 home game against Kent State was the standard scarlet set: silver helmet, scarlet jersey, silver gray pants, in a 59-3 win. Three alternates exist but none has been assigned to a game. We update this page as each combination is confirmed in game week.
+Ohio State beat Illinois 42-19 on Saturday, September 26, with the standard scarlet home set expected, though we have not seen a game frame yet. Ohio State wears scarlet at home and white on the road in 2026, and the September 19 home game against Kent State was the standard scarlet set: silver helmet, scarlet jersey, silver gray pants, in a 59-3 win. Three alternates exist but none has been assigned to a game. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 

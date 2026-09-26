@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-26"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -39,7 +39,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
   <div style="background: #CF0A2C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Hawaii</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CF0A2C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #CF0A2C; border: 2px solid #CF0A2C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #CF0A2C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CF0A2C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -59,7 +59,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 **September 19.** Bye. The first of two open dates.
 
-**September 26 at Akron.** White expected. A 9 a.m. Pacific kickoff (noon Eastern) at InfoCision Stadium on ESPN+, and the last non-conference road trip.
+**September 26 at Akron.** ★ Confirmed from the broadcast: **red helmet, white jersey, red pants**, a change from the silver helmet and white pants at North Texas. Akron wore navy. Jackson Arnold threw three touchdown passes, Jai'Den Thomas had 167 total yards and three scores, and UNLV won 38-10 to move to 2-2.
 
 **October 3 vs. Cal.** Red expected. Hispanic Heritage Day at Allegiant Stadium, 12:30 p.m. Pacific on CBS Sports Network. Cal lists this one as a white road date on our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026).
 
@@ -115,7 +115,7 @@ Three games, three combinations and two helmets tells you UNLV is not a program 
 
 **What jersey is UNLV wearing this week?**
 
-UNLV is off this week on its September 19 bye. The next game is at Akron on Saturday, September 26 at 9 a.m. Pacific on ESPN+, and the white road jersey is expected. The Rebels wore the silver helmet, white jersey and white pants in their last game at North Texas on September 12.
+UNLV wore the red helmet, white jersey and red pants at Akron on Saturday, September 26, and won 38-10. In its previous game, at North Texas on September 12, the Rebels wore the silver helmet, white jersey and white pants. The week-by-week grid above lists every game with the expected set.
 
 **What are UNLV's football uniforms for 2026?**
 

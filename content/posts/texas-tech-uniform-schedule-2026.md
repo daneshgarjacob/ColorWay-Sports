@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Every Jersey, and When the Mahomes Let
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Texas Tech wears every game in 2026, week by week, including the exact date the new Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -71,7 +71,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Abilene Christian</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Jersey</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Let's Ride, All Black</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sam Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
+  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sam Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
@@ -89,7 +89,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **September 18 vs. No. 23 Houston**, Lubbock. ★ Confirmed from the broadcast: **black helmet, black jersey with red numbers, black pants**, the Patrick Mahomes Let's Ride set exactly as adidas revealed it. Houston answered in all white, a white helmet with the red interlocking UH over a white jersey and white pants, the look the Cougars call Icy Whites. Texas Tech won 28-26 on Friday night in front of a FOX prime time audience. All black against all white is the cleanest stage the Let's Ride set could have asked for.
 
-**September 26 vs. Sam Houston**, Lubbock. Red or black.
+**September 26 vs. Sam Houston**, Lubbock. The team posted its Ag Game threads before kickoff: **white helmet, red jersey, white pants**, with fans asked to wear white for the annual Agriculture Game. We have not seen a game frame yet, so the cell is not starred. Austin Romaine returned interceptions for touchdowns on consecutive throws and Texas Tech won 49-14, its 11th straight home win, to move to 4-0.
 
 **October 3 at Colorado**, Boulder. White at Folsom Field.
 

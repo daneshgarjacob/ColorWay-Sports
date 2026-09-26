@@ -3,7 +3,7 @@ title: "Pitt Uniform Schedule 2026: Every Jersey and When the Panthers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-26"
 excerpt: "What Pitt wears every game in 2026: royal blue at home, white on the road, the gold script helmet, and the full Panthers uniform schedule."
 gradient: "linear-gradient(135deg, #003594 0%, #1a4aa8 55%, #FFB81C 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
   <div style="background: #003594; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami (OH)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #003594; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 17 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bucknell</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003594; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bucknell</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -50,7 +50,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
 
 **September 17 vs. Syracuse (Thursday).** Blue expected. The ACC opener is a 7:30 p.m. Eastern kickoff on ESPN, billed as Party on the North Shore, and reports this week say Pitt is staying traditional, which means royal blue and gold. Syracuse, the visitor, should be in white. It is the 82nd meeting in a series played every year since 1955, and Pitt has won 11 straight at home against the Orange. See the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026) for the other side. We will star this cell once we see the full combination on the field.
 
-**September 26 vs. Bucknell.** Blue expected. Homecoming at Acrisure Stadium with a noon kickoff. Homecoming is a common slot for a pants change, so blue pants are the combination to watch.
+**September 26 vs. Bucknell.** ★ Confirmed from the broadcast: **gold helmet, royal blue jersey, gold pants** for Homecoming at Acrisure Stadium, so no pants change after all. Bucknell wore white. Mason Heintschel threw for 403 yards and six touchdowns and Pitt won 59-0 to move to 4-0.
 
 **October 2 at Virginia Tech (Friday).** White expected. A 7 p.m. Eastern kickoff on ESPN at Lane Stadium, with the Hokies expected in maroon. Our [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026) tracks the home side.
 
@@ -78,7 +78,7 @@ Two games in, Pitt has worn the same thing twice: gold helmet, royal blue jersey
 
 **What jersey is Pitt wearing this week?**
 
-Pitt hosts Syracuse on Thursday, September 17, and royal blue is expected at home, with reports pointing to the traditional blue and gold. Pitt wore the gold helmet, royal blue jersey and gold pants in both of its first two games. We star the grid cell as soon as the combination is confirmed.
+Pitt wore the gold helmet, royal blue jersey and gold pants against Bucknell on Saturday, September 26, and won 59-0 to move to 4-0. It is the same blue and gold home look Pitt wore in its first two games. We star the grid cell as soon as each combination is confirmed.
 
 **What are Pitt's football uniforms for 2026?**
 

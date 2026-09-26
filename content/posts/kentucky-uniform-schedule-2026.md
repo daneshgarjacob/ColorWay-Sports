@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, two helmets, and what the Wildcats wore against Alabama."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Twelve games, seven at Kroger Field, one bye, no alternates announced.
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Youngstown State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -54,7 +54,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **September 19 at Texas A&M**, College Station. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, exactly the [Week 3 uniform combo](https://x.com/UKFootball/status/2100343980235911374) Kentucky posted, and the first white of the season. Texas A&M went maroon over maroon at Kyle Field. Kentucky won 31-21 for the upset of the SEC afternoon. [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
-**September 26 vs. South Alabama**, Lexington. Blue expected. Non-conference home game, helmet to be announced.
+**September 26 vs. South Alabama**, Lexington. ★ Confirmed from the broadcast: **white helmet, blue jersey, blue pants**, the first blue over blue of the season, as the team posted during the week. South Alabama wore the white helmet, white jersey and navy pants. The Jaguars led 21-14 late in the first half, then Kentucky scored the last 31 points to win 45-21 and move to 3-1.
 
 **October 3 at South Carolina**, Columbia. White expected. Kentucky went all-white for this trip in 2025, so white pants are the safe assumption again.
 
@@ -86,7 +86,7 @@ The Kentucky 2026 uniform schedule is two jerseys and two helmets. Blue jersey a
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky plays at Texas A&M on Saturday, September 19, in an announced all-white look: white helmet, white jersey and white pants. Last week against Alabama on September 12, the Wildcats wore blue helmets, blue jerseys and white pants. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey. We update it as each combination is confirmed.
+Kentucky wore the white helmet, blue jersey and blue pants against South Alabama on Saturday, September 26, and won 45-21. Against Alabama on September 12, the Wildcats wore blue helmets, blue jerseys and white pants. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 
