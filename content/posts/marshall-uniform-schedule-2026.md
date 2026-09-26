@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00B140; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #00B140; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Gardner-Webb</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Homecoming)</div></div>
+  <div style="background: #00B140; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Gardner-Webb</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Herd Strong)</div></div>
   <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 20 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -66,7 +66,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
 
 **September 19 at Missouri State.** ★ Confirmed: **white helmet with the green M and the green and black centre stripe, white jersey with green numerals, white pants**. White head to toe, including the shell, which is the part worth noting because Marshall went green at Penn State and has used white, green and black below the belt in recent seasons. ESPN published nothing from the CBS Sports Network broadcast, so this took two sources on Sunday: Marshall's own highlight reel, with the 17-10 second-quarter scorebug in frame, gave the jersey and pants, and Missouri State's game photography gave the helmet. Marshall won 30-24 at Plaster Stadium.
 
-**September 26 vs. Gardner-Webb.** Green expected. Homecoming at The Joan, 3:30 p.m.
+**September 26 vs. Gardner-Webb.** ★ Confirmed from the broadcast: **white helmet with the green M, green jersey, green pants** for Homecoming at The Joan. Gardner-Webb wore white head to toe with red trim. The FCS Runnin' Bulldogs led 35-27 in the fourth quarter, Carlos Del Rio-Wilson hit Xayvion Turner-Bradshaw for a 34-yard touchdown, and Jorge Diaz Nicolas kicked a 32-yard field goal with three seconds left for a 36-35 win. Marshall is 3-1.
 
 **October 3 at James Madison.** White expected. The Sun Belt opener on the road, and the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes in purple at Bridgeforth Stadium.
 
@@ -104,7 +104,7 @@ Marshall's uniform year is built around one date. Everything from September to e
 
 **What is Marshall wearing this week?**
 
-Marshall won 30-24 at Missouri State on Saturday, September 19, but we cannot confirm the uniform: no broadcast frames from the game have been published, so the white road jersey stays an expectation rather than a confirmation. Marshall has worn the white jersey in both road games it played earlier this season and wears green at home, so the open question is the helmet and the pants rather than the jersey.
+Marshall wore the white helmet with the green M, a green jersey and green pants for Homecoming against Gardner-Webb on Saturday, September 26, confirmed from the broadcast, and won 36-35 on a field goal with three seconds left. The week before, Marshall won 30-24 at Missouri State in white head to toe.
 
 **What are Marshall's football uniforms for 2026?**
 

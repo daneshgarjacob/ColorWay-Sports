@@ -3,7 +3,7 @@ title: "Florida Gators Uniform Schedule 2026: Every Helmet, Jersey and Pants Com
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Florida released a full game-by-game uniform schedule for 2026. Every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"
@@ -32,7 +32,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
   <div style="background: #0021A5; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs FAU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #FA4616; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Campbell</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #0021A5; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0021A5; color: #ffffff; border: 2px solid #FA4616; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #FA4616; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Retro Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -49,7 +49,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **September 19 at Auburn** (away). ★ Confirmed from the broadcast: **orange helmet, white jersey, orange pants**, exactly the combination the season schedule assigned to this date, and one of only two games that get the orange pants. Auburn answered in the white helmet with the navy jersey and white pants. Florida won a shootout 44-39, with Auburn scoring a late touchdown to fall five short. More: [Auburn uniform schedule](/stories/auburn-uniform-schedule-2026).
 
-**September 26 vs. Ole Miss** (home). Orange helmet, blue jersey, white pants.
+**September 26 vs. Ole Miss** (home). ★ Confirmed from the broadcast: **orange helmet, blue jersey, white pants**, exactly as the season schedule listed it. Ole Miss came in with the powder blue helmet, white jersey and white pants. Jadan Baugh ran for three touchdowns, Duke Clark broke a 45-yard run, and Florida beat No. 4 Ole Miss 52-28 to move to 4-0. See our [Ole Miss 2026 uniform schedule](/stories/ole-miss-uniform-schedule-2026).
 
 **October 3 at Missouri** (away). Orange helmet, white jersey, blue pants.
 
@@ -97,7 +97,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Florida wearing this week?**
 
-Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
+Florida wore the orange helmet, blue jersey and white pants against Ole Miss on Saturday, September 26, and won 52-28. Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
 
 **When does Florida wear the retro helmet in 2026?**
 

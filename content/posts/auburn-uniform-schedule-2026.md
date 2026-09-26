@@ -3,7 +3,7 @@ title: "Auburn Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What jersey is Auburn wearing this week? The full 2026 Auburn uniform schedule: navy home jerseys, the white road uniform, and every game, week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13315c 55%, #E87722 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor (Atlanta)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -50,7 +50,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 **September 19 vs. Florida.** ★ Confirmed from the broadcast: **white helmet with the navy AU, navy jersey, white pants**, the home default for the SEC opener and the first time Florida has played at Jordan-Hare since 2011. Florida wore what its published season schedule said it would, an orange helmet, white jersey and orange pants, so it was navy against white and orange under the lights. Florida won 44-39 in a shootout, with Auburn scoring a late touchdown to fall five short. See the [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) for every Gators combination.
 
-**September 26 vs. Vanderbilt.** Navy expected. This is Auburn's homecoming game, which is the traditional home date for an alternate if the program ever breaks from its standard sets.
+**September 26 vs. Vanderbilt.** ★ Confirmed from the broadcast: **white helmet with the navy AU, navy jersey, white pants**, the standard home set even on Homecoming, the traditional home date for an alternate. Vanderbilt wore the gold helmet, white jersey and white pants. Byrum Brown threw a 33-yard touchdown pass and ran for another score, Cade Carlson returned a blocked punt for a touchdown, and Auburn won 21-15 to move to 3-1. See our [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
 **October 3 at Tennessee.** White expected, because Tennessee is at home in color. The Vols have already announced they will wear their new Smokey Grey Neyland Legacy uniform for this game, so Auburn in white against gray is the combination we expect at Neyland Stadium. See the [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026) for the full Smokey Grey breakdown.
 
@@ -80,7 +80,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn wore the white helmet, navy jersey and white pants against Florida at Jordan-Hare Stadium on September 19, a 44-39 loss, confirmed from the broadcast. Florida came in with an orange helmet, white jersey and orange pants. Auburn wore the same navy over white pants against Southern Miss on September 12. The week-by-week grid above lists every game.
+Auburn wore the white helmet, navy jersey and white pants against Vanderbilt on Homecoming, Saturday, September 26, a 21-15 win, confirmed from the broadcast. It is the same navy over white pants Auburn wore against Florida on September 19 and Southern Miss on September 12. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 

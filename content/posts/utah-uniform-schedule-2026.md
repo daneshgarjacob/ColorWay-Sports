@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Idaho</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ute Proud</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red Reported</div></div>
+  <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -51,7 +51,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **September 19 vs. Utah State.** ★ Confirmed from the broadcast: the **Ute Proud** set, a white helmet with the tribal interlocking U's on the side and a black, white and red tribal stripe down the center, a red jersey and red pants. Utah State answered in a navy helmet with a white jersey and white pants, and Utah won 33-0. Utah [revealed the look on Wednesday](https://x.com/Utah_Football/status/2100329327091237185). The athletic department lists this as the Ute Proud and Hall of Fame game, 1:30 p.m. Mountain on FOX. The Ute Proud helmet was also white with the tribal interlocking U's in each of the last two seasons, over a black throwback jersey against TCU in 2024 and over the red throwback jersey and red pants against Texas Tech in 2025. We will star the cell once we see it on the field. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
-**September 26 at Iowa State.** Red reported. First Big 12 road trip, to Jack Trice Stadium, and Iowa State has confirmed an all white Whiteout at home, so Utah goes in color. Beat coverage has the Utes in all red with the drum and feather helmet. We have not seen Utah's own post, so we have not starred it.
+**September 26 at Iowa State.** ★ Confirmed from the broadcast: **all red**, the red helmet with the drum and feather, red jersey and red pants, as beat coverage reported. First Big 12 road trip, to Jack Trice Stadium, where Iowa State wore its all white Whiteout. Wayshawn Parker ran for a career-high 174 yards and scored three touchdowns, and Utah won 31-17 to move to 4-0. See our [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026).
 
 **October 3.** Bye.
 
@@ -79,7 +79,7 @@ Three games, two looks: Utah went all red at home twice and then swapped the she
 
 **What jersey is Utah wearing this week?**
 
-Utah wore the Ute Proud combination against Utah State on Saturday, September 19: a white helmet with tribal interlocking U's and a tribal center stripe, a red jersey and red pants, in a 33-0 win. The week before, against Arkansas, Utah wore all red.
+Utah wore all red at Iowa State on Saturday, September 26: the red helmet, red jersey and red pants, in a 31-17 win against the Cyclones' Whiteout. The week before, Utah wore the Ute Proud combination against Utah State: a white helmet with tribal interlocking U's and a tribal center stripe, a red jersey and red pants, in a 33-0 win.
 
 **What are Utah's football uniforms for 2026?**
 

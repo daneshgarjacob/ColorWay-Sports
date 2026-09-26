@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ The other new thing on the jersey is a patch. Vanderbilt signed an all-sports je
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Austin Peay</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
   <div style="background: #C9A227; color: #1a1a1a; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Gold / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C9A227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -70,7 +70,7 @@ The 6 p.m. Central opener at FirstBank Stadium never finished. Lightning in the 
 
 **September 19 vs. NC State.** &#9733; Confirmed from the broadcast: **black helmet with the white V, black jersey, white pants**. That answers the helmet question we had going in, because the white shell that started the first two games came off for the first Power Four opponent of the year and the black one went on. NC State visited in the red helmet, white jersey and white pants, so Vanderbilt was the only color on the field. The Commodores trailed 24-7, scored 21 in the fourth quarter and won 35-31, and the Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
-**September 26 at Auburn.** White expected. SEC play opens at Jordan-Hare Stadium at 3:15 p.m. Central, and the visitor wears white. See the [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026) for the other side of that field.
+**September 26 at Auburn.** &#9733; Confirmed from the broadcast: **gold helmet with the V, white jersey with gold numbers, white pants** for the SEC opener at Jordan-Hare Stadium, against Auburn in the white helmet, navy jersey and white pants. Brock Taylor kicked three field goals and Sedrick Alexander ran for a touchdown, but a blocked punt returned for a score was the difference, and Vanderbilt lost 21-15 to fall to 3-1. See the [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026) for the other side of that field.
 
 **October 3 at Georgia.** White expected. Sanford Stadium, where Georgia in red and Vanderbilt in white is the standard look. The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has the home side.
 
@@ -98,7 +98,7 @@ Vanderbilt is three games into 2026 and has already worn three different jerseys
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt hosted NC State on Saturday, September 19 and wore the black helmet, the black jersey and white pants, winning 35-31. That was the first game of the season for the black shell after the white one started against Austin Peay and Delaware. Next is a road trip to Auburn on September 26, where SEC rules put the Commodores in white. We update the grid above the moment the team posts each game day fit.
+Vanderbilt wore the gold helmet, white jersey and white pants at Auburn on Saturday, September 26, and lost 21-15. The week before, the Commodores hosted NC State in the black helmet, black jersey and white pants and won 35-31. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

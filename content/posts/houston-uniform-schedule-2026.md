@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -62,7 +62,7 @@ Then the combination landed on Wednesday, and the Cougars called it icy whites f
 
 That was the white shell with the red interlocking UH and a red facemask, the white jersey with the red script Houston, and white pants. The timing mattered, because Texas Tech debuted the all-black Patrick Mahomes "Let's Ride" uniform in the same game, and two ranked teams gave it the stage it deserved. More: [Texas Tech schedule](/stories/texas-tech-uniform-schedule-2026).
 
-**September 26 at Georgia Southern.** White expected, in Statesboro. Georgia Southern wears blue at home.
+**September 26 at Georgia Southern.** White expected, in Statesboro. Georgia Southern wears blue at home. Houston won 42-28 behind four touchdown passes and two touchdown runs from Conner Weigman, and is 3-1. No broadcast frame from the ESPNU game has been published yet, so we have not starred the cell.
 
 **October 3 vs. UCF.** Houston Blue. The athletic department has already branded this one the Built By Houston Game with a Wear Houston Blue theme for the crowd, which is how the annual Houston Blue date has always been packaged. The light blue set is the city's Oilers tribute, and it has a complicated history: it debuted in the 2023 opener against UTSA, drew a cease and desist from the NFL over the Oilers marks, and came back in a redesigned form in 2024 for senior night against Baylor. Houston wore it against Texas Tech last October in the third go-round, with a fresh white collar. This will be the fourth.
 
@@ -90,7 +90,7 @@ Three games in, Houston has worn red twice at home, shown both pants, and taken 
 
 **What jersey is Houston wearing this week?**
 
-Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Next is Georgia Southern on September 26, where white is expected again.
+Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Houston then beat Georgia Southern 42-28 in Statesboro on Saturday, September 26, where white was expected again; we have not seen a frame from that one yet. Next is UCF on October 3, the date held for the light blue Houston Blue alternate.
 
 **What are Houston's football uniforms for 2026?**
 

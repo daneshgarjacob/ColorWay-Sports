@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -51,7 +51,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **September 19 vs. LSU, Oxford.** ★ **POWDER BLUE.** Confirmed from the broadcast: **powder blue helmet, powder blue jersey, white pants**, the full powder blue set and the same one the Rebels wore the last time LSU came to Oxford. The uniform was never announced, and red, navy and powder blue were all live going in, so this is the answer to the most-asked uniform question of the weekend. This is the game of the season in Oxford: Lane Kiffin brings LSU back to the program he left at the end of the 2025 regular season, both teams are in the top ten, and College GameDay is in the Grove for the first time since 2021. Kickoff was 6:30 p.m. Central on ABC, and the fan theme was a Stripe Out. LSU came in white with gold pants and the gold helmet. Ole Miss won 32-24, sealing it with a 14-yard touchdown run and a two-point conversion. The Rebels also won the 2025 meeting in this same set, 24-19, so powder blue is now 2-0 against LSU in Oxford. The LSU side of the matchup is on our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
 
-**September 26 at Florida, Gainesville.** ★ Confirmed by Ole Miss: **powder blue helmet, white jersey, white pants**, posted on September 25 as "Powder, White, White." SEC road opener at 2:30 p.m. Central, and Florida wears blue at home, so the Rebels travel in white, in the powder blue shell for the second straight week. It is the road look they used at Kentucky, Georgia and Oklahoma in 2025. Florida's side is on our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
+**September 26 at Florida, Gainesville.** ★ Confirmed by Ole Miss: **powder blue helmet, white jersey, white pants**, posted on September 25 as "Powder, White, White." SEC road opener at 2:30 p.m. Central, and Florida wears blue at home, so the Rebels travel in white, in the powder blue shell for the second straight week. It is the road look they used at Kentucky, Georgia and Oklahoma in 2025. Confirmed on the broadcast too: the powder blue shell, white jersey and white pants, exactly as posted, against Florida's orange helmet, blue jersey and white pants. Trinidad Chambliss ran for two touchdowns and threw for a third, and Ole Miss got within 24-21 in the third quarter, but Florida pulled away and won 52-28. The Rebels are 3-1. Florida's side is on our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
 
 **October 3.** Bye.
 
@@ -81,7 +81,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore the full powder blue set against LSU on Saturday, September 19: powder blue helmet, powder blue jersey and white pants, confirmed from the broadcast. The Rebels never announced it in game week, and red and navy were both live options, so powder blue was the answer to the weekend's biggest open uniform question. LSU was in white with gold pants, and Ole Miss won 32-24. Last week against Charlotte Ole Miss wore the navy helmet, red jersey and gray pants.
+Ole Miss wore the powder blue helmet, white jersey and white pants at Florida on Saturday, September 26, posted by the team as "Powder, White, White" and confirmed on the broadcast. Florida won 52-28, and the Rebels are 3-1. The week before, Ole Miss wore the full powder blue set, powder blue helmet, powder blue jersey and white pants, in a 32-24 win over LSU.
 
 **What are Ole Miss's football uniforms for 2026?**
 

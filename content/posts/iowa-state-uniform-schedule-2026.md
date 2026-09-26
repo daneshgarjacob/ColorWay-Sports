@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-25'
+updatedDate: "2026-09-26"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **September 19 vs. Bowling Green.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, white pants**, the same home look Iowa State opened the season in, for an 11 a.m. Central kickoff on ESPNU. Bowling Green answered in a white helmet and white jersey over orange pants, which gave Jack Trice Stadium a clean cardinal against white read. Iowa State won 55-7 in the last nonconference game before Big 12 play.
 
-**September 26 vs. Utah.** ★ Confirmed by Iowa State: the **Whiteout**, all white with black lettering and accents, the script Cyclones helmet and black stripes across the shoulders. We had cardinal down. The Big 12 opener at Jack Trice Stadium, 2:30 p.m. Central on FOX, with Utah reported in all red; the Utes are on the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
+**September 26 vs. Utah.** ★ Confirmed by Iowa State: the **Whiteout**, all white with black lettering and accents, the script Cyclones helmet and black stripes across the shoulders. We had cardinal down. The Big 12 opener at Jack Trice Stadium, 2:30 p.m. Central on FOX. Confirmed on the broadcast too: white helmet, white jersey, white pants, against Utah in all red. Utah led 24-3 at the half, Iowa State pulled within 24-17 in the fourth quarter, and the Utes won 31-17. The Cyclones are 2-2. Utah is on the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
 **October 3 vs. West Virginia.** Cardinal expected. This is homecoming, the most likely home date for an alternate if Iowa State plans one, so we are watching it closely. West Virginia is expected in white on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026). Kickoff time is still TBA.
 
@@ -78,7 +78,7 @@ Three games in, Iowa State has worn a cardinal helmet every week and changed onl
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green at Jack Trice Stadium on Saturday, September 19, the same home look it opened the season in. Bowling Green answered in a white helmet and white jersey over orange pants. Next up is Utah in Ames on September 26, the Big 12 opener, and Iowa State has confirmed an all white Whiteout for it.
+Iowa State wore the all white Whiteout against Utah on Saturday, September 26: white helmet, white jersey and white pants with black lettering and accents. Utah wore all red and won 31-17. The week before, Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green.
 
 **What are Iowa State's football uniforms for 2026?**
 
