@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
   <div style="background: #000000; color: #ffffff; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Gold</div></div>
   <div style="background: #000000; color: #FFCD00; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8; color: #ffffff;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -50,7 +50,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **September 19 vs. Northern Iowa.** Black expected, and still unconfirmed. An in-state FCS opponent in an afternoon kickoff is the textbook slot for the standard black and gold home set, and Iowa won 55-0, but no broadcast frame of the game has been published yet.
 
-**September 26 at Michigan.** White expected. Iowa opens Big Ten play at the Big House, where Michigan wears navy at home, so the Hawkeyes go white jersey and gold pants under the black helmet.
+**September 26 at Michigan.** ★ Confirmed from the broadcast: **black Tigerhawk helmet, white jersey, gold pants**, the road set, for the Big Ten opener at the Big House. Michigan wore the winged helmet with blue over blue. Braeden Jackson returned a kickoff 99 yards for a touchdown right after a Michigan score, and Iowa won 20-19 to move to 4-0. See our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026).
 
 **October 3 vs. Ohio State.** Black expected. The kickoff time is still to be announced. If this one lands in prime time, it becomes the leading candidate for a second black-pants night at Kinnick, and we will flip the cell the moment Iowa confirms it.
 
@@ -78,7 +78,7 @@ Two games in, Iowa has shown both sides of its closet: the black and gold home s
 
 **What jersey is Iowa wearing this week?**
 
-Iowa hosts Northern Iowa at Kinnick Stadium on Saturday, September 19, and the black home jersey with gold pants is expected. The Hawkeyes wore the all-black alternate in their last game, the 16-13 win over Iowa State. After Northern Iowa, Iowa travels to Michigan on September 26, where the white road jersey is expected.
+Iowa wore the black helmet, white jersey and gold pants at No. 18 Michigan on Saturday, September 26, and won 20-19 to move to 4-0. The week before, the Hawkeyes beat Northern Iowa 55-0 at Kinnick Stadium. Ohio State comes to Iowa City on October 3, where the black home jersey is expected.
 
 **What are Iowa's football uniforms for 2026?**
 

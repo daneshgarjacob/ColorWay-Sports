@@ -3,7 +3,7 @@ title: "Duke Uniform Schedule 2026: Every Jersey and When the Blue Devils Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "Duke uniform schedule 2026: blue home jerseys, the all-white road set, the Gothic Duke helmet, black alternates, and every Blue Devils game's jersey week by week."
 gradient: "linear-gradient(135deg, #012169 0%, #00539B 55%, #ffffff 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Blue / Black</div></div>
-  <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs William &amp; Mary</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs William &amp; Mary</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -50,7 +50,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 
 **September 19 vs. Stanford.** ★ Confirmed from the broadcast: **black helmet, blue jersey, black pants** for the ACC opener on The CW. Stanford came in white over white. Duke won 35-7.
 
-**September 26 vs. William & Mary.** Blue expected. A 3:30 p.m. Eastern kickoff on ACC Network Extra against the FCS Tribe, and the last home game before the October stretch.
+**September 26 vs. William & Mary.** ★ Confirmed from the broadcast: **royal blue helmet with the D, blue jersey, blue pants**, blue head to toe. William & Mary wore a green helmet, white jersey and gold pants. Walker Eget and Dan Mahan combined for five touchdown passes and Duke won 62-7 to move to 4-0 heading into the bye.
 
 **October 3.** Bye.
 
@@ -78,7 +78,7 @@ Duke's jersey pattern is about as predictable as it gets: blue at home, all whit
 
 **What is Duke wearing this week?**
 
-Duke hosts Stanford on Saturday, September 19, and the blue home jersey with white pants is expected, with Stanford in white. Last week at Illinois, Duke wore the all-white road set with the white Gothic Duke helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Duke wore the blue helmet, blue jersey and blue pants against William & Mary on Saturday, September 26, and won 62-7 to move to 4-0. The week before, the Blue Devils beat Stanford 35-7 in a black helmet, blue jersey and black pants. Duke is off on October 3. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Duke's football uniforms for 2026?**
 

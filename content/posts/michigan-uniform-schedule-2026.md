@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-25'
+updatedDate: "2026-09-26"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **September 19 vs. UTEP.** ★ Confirmed from the broadcast: **winged helmet, navy jersey, maize pants**, the standard home set with no hint of the all maize look that showed up against Western Michigan. UTEP answered in white over white. Michigan won 52-17.
 
-**September 26 vs. Iowa.** ★ Confirmed by Michigan: **winged helmet, blue jersey, blue pants**, with maize socks and accessories, for the Big Ten opener and the Stripe Out at Michigan Stadium.
+**September 26 vs. Iowa.** ★ Confirmed by Michigan and on the broadcast: **winged helmet, blue jersey, blue pants**, with maize socks and accessories, for the Big Ten opener and the Stripe Out at Michigan Stadium. Iowa wore the black helmet, white jersey and gold pants. J.J. Buchanan scored after an Andrew Marsh catch, but Iowa answered with a 99-yard kickoff return, and Michigan lost 20-19 to fall to 3-1. See our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
 
 **October 3 at Minnesota.** White expected.
 
@@ -78,7 +78,7 @@ There is no alternate to wait for and no combination chart to memorise. Navy at 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore the navy home set, navy jersey with maize pants under the winged helmet, against Oklahoma on September 12. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore blue over blue against Iowa on Saturday, September 26: the winged helmet, blue jersey and blue pants, and lost 20-19. The week before, the Wolverines beat UTEP 52-17 in the navy jersey with maize pants. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 

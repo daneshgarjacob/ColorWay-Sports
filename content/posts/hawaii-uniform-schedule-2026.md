@@ -3,7 +3,7 @@ title: "Hawaii Uniform Schedule 2026: Every Jersey and When the Rainbow Warriors
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-18'
+updatedDate: "2026-09-26"
 excerpt: "Hawaii uniform schedule 2026: the black set, the white set, White Out and blackout nights, and every Rainbow Warriors game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #024731 0%, #0b3b2a 55%, #111111 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ All times below are Hawaii time.
 
 **September 19.** Bye. The first of two open dates.
 
-**September 26 at Wyoming.** White expected. A 9 a.m. kickoff in Laramie on The CW, which is 1 p.m. Mountain. Wyoming wears brown at home, so the white jersey is locked in.
+**September 26 at Wyoming.** White expected, and not yet confirmed: we have not seen a frame from the game, so this stays unstarred until we do. Wyoming won the Mountain West opener 27-10 in Laramie, with Markell Holman running for two touchdowns, and Hawaii fell to 1-3.
 
 **October 3 vs. San Jose State.** Black expected. 6 p.m. at the Ching Complex on K5 and MW+, the Dick Tomey Legacy Game and Ultimate Keiki Night. A night kickoff is where the black set has lived so far.
 
@@ -116,7 +116,7 @@ Three games in, Hawaii has worn all white at home, all black at home and white o
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii is off this week on its September 19 bye. The next game is at Wyoming on Saturday, September 26 at 9 a.m. Hawaii time on The CW, and the white jersey is expected. The Rainbow Warriors wore the black helmet, black jersey and black pants in their last game against New Mexico State on September 12.
+Hawaii played at Wyoming on Saturday, September 26, in the white road jersey we expected, and lost 27-10. We have not confirmed the look from a frame yet. The last confirmed set was the black helmet, black jersey and black pants against New Mexico State on September 12.
 
 **What are Hawaii's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **September 19 vs. South Dakota.** ★ Confirmed from the broadcast: **white helmet with the Bronco, blue jersey, white pants**, the home blue over white on the blue turf. The school asked fans to wear white for this one, a crowd call rather than a team announcement, and the Broncos stayed in blue rather than following the stands. Boise State won 38-24, with South Dakota in white over black.
 
-**September 26 at Western Michigan.** White expected as the visitor. A Broncos-versus-Broncos game in Kalamazoo, with Western Michigan in brown and gold at Waldo Stadium.
+**September 26 at Western Michigan.** White expected as the visitor, and not yet confirmed: we have not seen a frame from the game, so this stays unstarred until we do. A Broncos-versus-Broncos game in Kalamazoo, and Boise State won it 32-7 to move to 3-1.
 
 **October 3 vs. Utah State.** Blue expected. The Pac-12 home opener, with fans asked to stripe the stadium in blue and orange. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
@@ -78,7 +78,7 @@ Two games in, Boise State has done exactly what its closet predicts, white at Or
 
 **What jersey is Boise State wearing this week?**
 
-Boise State wore the blue home jersey with blue pants and the 40th anniversary helmet against Memphis on September 12. Next up is South Dakota at Albertsons Stadium on Saturday, September 19, where the blue home set is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Boise State beat Western Michigan 32-7 in Kalamazoo on Saturday, September 26, where the white road set is expected; we have not confirmed it from a frame yet. The week before, the Broncos beat South Dakota 38-24 in the white helmet, blue jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Boise State's football uniforms for 2026?**
 

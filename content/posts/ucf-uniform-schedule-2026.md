@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -73,7 +73,7 @@ The football account followed with the full shoot, sword and all.
 
 Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and will be in white, so this is as clean a black-on-white matchup as the schedule offers. We star the cell once we see it on the field.
 
-**September 26 vs. TCU.** Black expected. The Big 12 home opener at 3:30 p.m. Eastern on FS1, with TCU in white as the visitor. UCF has three shells to choose from and has already used two, so the helmet is the open question here, not the jersey.
+**September 26 vs. TCU.** Black expected. The Big 12 home opener at 3:30 p.m. Eastern on FS1, with TCU in white as the visitor. UCF has three shells to choose from and has already used two, so the helmet is the open question here, not the jersey. We have not seen a frame from the game yet, so this stays unstarred until we do. UCF won 21-13 to move to 3-1. More: [TCU uniform schedule](/stories/tcu-uniform-schedule-2026).
 
 **October 3 at Houston.** White expected. Houston has already told everyone it is wearing its light blue Houston Blue alternate for this one, which makes the visitor's white jersey a lock under Big 12 convention.
 
@@ -101,7 +101,7 @@ Two games in, UCF has already shown two of its three helmets and both jerseys, w
 
 **What jersey is UCF wearing this week?**
 
-UCF wore Knightmode against Georgia State on Saturday, September 19: black helmet, black jersey and black pants, announced by the team on Thursday and confirmed on the field. It was Family Weekend at the Acrisure Bounce House with a 7 p.m. Eastern kickoff, Georgia State was in white, and UCF won 44-30.
+UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener. Black is expected for that game, but we have not confirmed the look from a frame yet. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30.
 
 **What are UCF's football uniforms for 2026?**
 

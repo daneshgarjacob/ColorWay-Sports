@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 4 of the 2026 college football season is the first week that looks like conference play, and the uniform calls have come in early. **Oregon is bringing Warp Speed to the Coliseum**: a silver helmet, white jersey and white pants against USC's cardinal and gold on Saturday night. **Texas is in its icy whites** for its first ever trip to Knoxville, and **Tennessee answered with the classic home set**, white helmet, orange jersey, white pants, so No. 1 against No. 14 is orange and white against white. Baylor debuts its **gold chrome throwback** against Colorado, West Virginia has posted its **Gold Rush** look, and Texas A&M is going **maroon over maroon** at LSU, because LSU wears white at home.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. **Saturday noon finals:** No. 1 Texas won 20-17 at Tennessee in the icy whites, Wake Forest upset No. 16 Louisville 30-27, Baylor beat Colorado 23-13 in the gold chrome throwback debut, Virginia Tech won 21-14 at Boston College, and Ohio State, Texas Tech, Kentucky, Pitt, Toledo, UTSA and UNLV all won. **Early afternoon finals:** UCLA routed Maryland 54-3 in white at College Park, No. 3 Notre Dame beat Purdue 49-10 for the Shillelagh Trophy, and Florida State beat Central Arkansas 34-7 in garnet and gold. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post on Thursday or Friday, so we update this page as the rest land and again with what was actually worn. **Friday update:** Ole Miss is bringing the powder blue helmet to The Swamp, Washington has confirmed the all-black Dawgs set for Minnesota, Michigan is in blue over blue for Iowa, Iowa State has called a Whiteout in all white, Mississippi State is going white, white, white at home, and Tulane is in all sky blue for the Battle for the Bell. Thursday and Friday are final: Liberty won 34-17 at Coastal Carolina, No. 5 Indiana held off Northwestern 29-23 in crimson, Clemson beat Cal 24-10 on the Gold Out, Army won 21-17 at Temple in a black helmet, UAB beat Navy 24-20, and Rutgers beat Howard 58-7. **Saturday noon finals:** No. 1 Texas won 20-17 at Tennessee in the icy whites, Wake Forest upset No. 16 Louisville 30-27, Baylor beat Colorado 23-13 in the gold chrome throwback debut, Virginia Tech won 21-14 at Boston College, and Ohio State, Texas Tech, Kentucky, Pitt, Toledo, UTSA and UNLV all won. **Early afternoon finals:** UCLA routed Maryland 54-3 in white at College Park, No. 3 Notre Dame beat Purdue 49-10 for the Shillelagh Trophy, and Florida State beat Central Arkansas 34-7 in garnet and gold. **Late afternoon finals:** No. 2 Georgia beat Oklahoma 41-13 in red over the silver britches, No. 17 Iowa upset No. 18 Michigan 20-19 at the Big House, UCF beat TCU 21-13, Duke routed William & Mary 62-7, Boise State won 32-7 at Western Michigan, Wyoming beat Hawaii 27-10, Buffalo held off Robert Morris 31-28 on Homecoming, and Miami (OH) beat UConn 24-21. ESPN and the AP poll call this Week 4. All times are Eastern. Last week's looks are in our [Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026).
 
 ## Games of the Week
 
@@ -49,7 +49,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Oklahoma at No. 2 Georgia
 
-**Saturday, 3:30 p.m., ESPN.** The SEC opener for Oklahoma, between the hedges. **Georgia: Expected in red**, the red helmet with the oval G, red jersey and silver britches. The all-white alternate with the first white helmet in program history was a one-game look against Western Kentucky. **Oklahoma: Expected in the road whites**, crimson helmet with the interlocking OU, white jersey, white pants. Neither program had posted a combination as of Friday. Georgia has asked the crowd to Stripe Sanford, with the stands split into red, white and black to look like the stripe on the silver britches, which is one more reason to expect the standard home set. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ESPN.** The SEC opener for Oklahoma, between the hedges. **Georgia: Expected in red**, the red helmet with the oval G, red jersey and silver britches. The all-white alternate with the first white helmet in program history was a one-game look against Western Kentucky. **Oklahoma: Expected in the road whites**, crimson helmet with the interlocking OU, white jersey, white pants. Neither program had posted a combination as of Friday. Georgia has asked the crowd to Stripe Sanford, with the stands split into red, white and black to look like the stripe on the silver britches, which is one more reason to expect the standard home set. **Final: Georgia 41, Oklahoma 13**, with Georgia in the red helmet, red jersey and silver britches and Oklahoma in the crimson helmet, white jersey and white pants, exactly as expected. More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
 
 ### No. 4 Ole Miss at No. 21 Florida
 
@@ -197,9 +197,9 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Central Arkansas: **Worn**, purple helmet, white jersey, purple pants. The Bears are 2-3.
 - Florida State: **Worn**, gold helmet, garnet jersey, gold pants, the traditional home set, for Family Weekend and Hall of Fame Weekend. Ashton Daniels threw two touchdown passes, Ousmane Kromah ran for two more, and the Seminoles are 2-2.
 
-**Oklahoma at No. 2 Georgia**, 3:30 p.m., ESPN.
-- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Expected** in crimson helmet, white jersey, white pants.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Expected** in red helmet, red jersey, silver britches.
+**No. 2 Georgia 41, Oklahoma 13 (Final)**, 3:30 p.m., ESPN.
+- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Worn**, crimson helmet with the interlocking OU, white jersey, white pants. John Mateer threw a touchdown pass to Rocky Beers, but a fumble turned into a Georgia scoop and score, and the Sooners fell to 2-2 in their SEC opener.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Worn**, red helmet with the oval G, red jersey, silver britches, in front of the Stripe Sanford crowd. Chauncey Bowens ran for two touchdowns and the Bulldogs are 4-0.
 
 **No. 4 Ole Miss at No. 21 Florida**, 3:30 p.m., ABC.
 - [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed**, powder blue helmet, white jersey, white pants.
@@ -213,20 +213,20 @@ Below is every game this week involving an AP Top 25 team or one of the programs
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2102824900335730834"></a></blockquote>
 </div>
 
-**No. 17 Iowa at No. 18 Michigan**, 3:30 p.m., CBS.
-- [Iowa](/stories/iowa-uniform-schedule-2026): **Expected** in the black Tigerhawk helmet, white jersey, gold pants.
-- [Michigan](/stories/michigan-uniform-schedule-2026): **Confirmed**, [blue over blue](https://x.com/UMichFootball/status/2103532169973186882): the winged helmet, blue jersey and blue pants, with maize socks and accessories, for the Stripe Out at the Big House.
+**No. 17 Iowa 20, No. 18 Michigan 19 (Final)**, 3:30 p.m., CBS.
+- [Iowa](/stories/iowa-uniform-schedule-2026): **Worn**, black Tigerhawk helmet, white jersey, gold pants. Braeden Jackson answered a Michigan touchdown with a 99-yard kickoff return, and the Hawkeyes won the Big Ten opener by a point to move to 4-0.
+- [Michigan](/stories/michigan-uniform-schedule-2026): **Worn**, [blue over blue](https://x.com/UMichFootball/status/2103532169973186882): the winged helmet, blue jersey and blue pants, with maize socks and accessories, for the Stripe Out at the Big House, exactly as posted on Friday. Michigan fell to 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2103532169973186882"></a></blockquote>
 </div>
 
-**TCU at UCF**, 3:30 p.m., FS1.
-- [TCU](/stories/tcu-uniform-schedule-2026): **Expected** in white.
-- [UCF](/stories/ucf-uniform-schedule-2026): **Expected** in black for the Big 12 home opener, with three helmet shells to choose from.
+**UCF 21, TCU 13 (Final)**, 3:30 p.m., FS1.
+- [TCU](/stories/tcu-uniform-schedule-2026): **Expected** in white. We have not seen a frame yet. The Horned Frogs are 2-2.
+- [UCF](/stories/ucf-uniform-schedule-2026): **Expected** in black for the Big 12 home opener, with three helmet shells to choose from. We have not seen a frame yet, so the helmet is still open. The Knights are 3-1.
 
-**Boise State at Western Michigan**, 3:30 p.m., ESPN2.
-- [Boise State](/stories/boise-state-uniform-schedule-2026): **Expected** in white, in a Broncos versus Broncos game at Waldo Stadium.
+**Boise State 32, Western Michigan 7 (Final)**, 3:30 p.m., ESPN2.
+- [Boise State](/stories/boise-state-uniform-schedule-2026): **Expected** in white, in a Broncos versus Broncos game at Waldo Stadium. We have not seen a frame yet. Boise State is 3-1 and Western Michigan is 2-2.
 
 **No. 25 Houston at Georgia Southern**, 4 p.m., ESPNU.
 - [Houston](/stories/houston-uniform-schedule-2026): **Expected** in white. The light blue Houston Blue alternate is held for UCF on October 3.
@@ -246,11 +246,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Also in the Afternoon
 
-- **William & Mary at [Duke](/stories/duke-uniform-schedule-2026)**, 3:30 p.m., ACCNX. Duke **expected** in blue.
-- **[UConn](/stories/uconn-uniform-schedule-2026) at Miami (OH)**, 3:30 p.m., ESPN+. UConn **expected** in white against the RedHawks' red.
-- **Robert Morris at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 3:30 p.m., ESPN+. Buffalo **expected** in blue for Homecoming.
+- **[Duke](/stories/duke-uniform-schedule-2026) 62, William & Mary 7 (Final)**, 3:30 p.m., ACCNX. Duke **worn**: royal blue helmet with the D, blue jersey, blue pants, against William & Mary in a green helmet, white jersey and gold pants. Walker Eget and Dan Mahan combined for five touchdown passes and Duke is 4-0.
+- **Miami (OH) 24, [UConn](/stories/uconn-uniform-schedule-2026) 21 (Final)**, 3:30 p.m., ESPN+. UConn **worn**: white helmet, white jersey, navy pants, against Miami in a white helmet, red jersey and white pants. UConn led 13-0 early, and both teams are 2-2.
+- **[Buffalo](/stories/buffalo-uniform-schedule-2026) 31, Robert Morris 28 (Final)**, 3:30 p.m., ESPN+. Buffalo **worn**: blue helmet with the bull, blue jersey, white pants for Homecoming, against Robert Morris in a white helmet, white jersey and navy pants. Both teams are 2-2.
 - **Gardner-Webb at [Marshall](/stories/marshall-uniform-schedule-2026)**, 3:30 p.m., ESPN+. Marshall **expected** in green for Homecoming.
-- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at Wyoming**, 3 p.m., The CW. Hawaii **expected** in white against Wyoming's brown.
+- **Wyoming 27, [Hawaii](/stories/hawaii-uniform-schedule-2026) 10 (Final)**, 3 p.m., The CW. Hawaii **expected** in white against Wyoming's brown; we have not seen a frame yet. Markell Holman ran for two touchdowns in Wyoming's Mountain West opener, and Hawaii fell to 1-3.
 - **NC Central at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 4 p.m., ESPN+. East Carolina **expected** in purple for Family Weekend.
 - **[South Florida](/stories/south-florida-uniform-schedule-2026) at Bowling Green**, 5 p.m., ESPN+. USF **expected** in white.
 
