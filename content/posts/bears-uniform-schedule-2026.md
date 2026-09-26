@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Chicago Bears 2026 Uniform Schedule: Every Jersey, Every Week, and the Christmas Day Rivalries Debut"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-09-23"
+updatedDate: "2026-09-26"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -87,7 +87,7 @@ So the same rivalry produces two Rivalries uniforms in two different games, and 
 
 ## Navy at Soldier Field (7 Games)
 
-The navy jersey with the burnt orange numbers is the base of the whole thing, and it draws seven of the nine home dates: the Vikings in Week 2, a Monday night against Philadelphia in Week 3, the Jets in Week 4, a Thursday nighter against New England in Week 7, Sunday night against Tampa Bay in Week 9, the Saints in Week 11, and the Lions in Week 17. The exceptions are Week 13 against Jacksonville, when the Bears wear the classic throwback in white at home, and Christmas.
+The navy jersey with the burnt orange numbers is the base of the whole thing, and it draws seven of the nine home dates: the Vikings in Week 2, a Monday night against Philadelphia in Week 3, the Jets in Week 4, a Thursday nighter against New England in Week 7, Sunday night against Tampa Bay in Week 9, the Saints in Week 11, and the Lions in Week 17. For the Monday night game on September 28, Philadelphia has confirmed its side: midnight green helmet, white jersey, midnight green pants, white socks, so it is navy over white against white over green. The exceptions are Week 13 against Jacksonville, when the Bears wear the classic throwback in white at home, and Christmas.
 
 That is four standalone national windows in navy, which is a lot for a team with almost no wardrobe. Chicago does not need one. The navy-and-orange combination is one of the three or four most recognizable uniforms in American sports, the wishbone C has not needed a redesign since 1962, and the whole set works because nothing about it is trying. Wearing the same thing for sixty years is the point.
 

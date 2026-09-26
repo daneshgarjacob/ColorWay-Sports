@@ -3,7 +3,7 @@ title: "NFL Week 3 Uniforms 2026: What Every Team Is Wearing, Including Nickel C
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-23"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "NFL uniforms this week: the Bills debut Nickel City, the Colts debut Anvil Strike, Denver goes Midnight Navy and Baltimore wears purple in Rio."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -121,7 +121,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 
 ### Monday, September 28
 
-- **Philadelphia Eagles at Chicago Bears**, 8:15 p.m. ET, ESPN and ABC. Eagles: midnight green helmet, white jersey, white pants (projected). Bears: navy helmet, navy jersey, white pants (projected).
+- **Philadelphia Eagles at Chicago Bears**, 8:15 p.m. ET, ESPN and ABC. Eagles: midnight green helmet, white jersey, midnight green pants, white socks (confirmed). Bears: navy helmet, navy jersey, white pants (projected).
 
 ## The Bottom Line
 
