@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ Read it left to right and it is helmet, jersey, pants. Gold, black, black. That 
   <div style="background: #450084; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wagner</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 26-13</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 46-20</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -72,7 +72,7 @@ That field goal put the Dukes up 10-3 in the second quarter and the purple over 
 
 One calendar note before you go looking for this game: ESPN files it under September 20 because its schedule feed runs on UTC and a 10 p.m. Eastern kickoff is already the next morning in London. The correct local date is Saturday, September 19.
 
-**September 26 at Old Dominion.** White expected. The TowneBank Royal Rivalry Challenge in Norfolk, 6 p.m. on ESPN+, and the first Sun Belt game of the year for both sides.
+**September 26 at Old Dominion.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, with purple socks, for the TowneBank Royal Rivalry Challenge in Norfolk, the first Sun Belt game of the year for both sides. The white jersey was expected; the gold helmet and gold pants replaced the all white set from San Diego State. Old Dominion wore a navy helmet, light blue jersey and navy pants. Camden Coleman threw four touchdown passes, Morgan Suarez kicked four field goals, and James Madison won 46-20 to move to 4-0.
 
 **October 3 vs. Marshall.** Purple expected. Family Weekend in Harrisonburg and the Sun Belt home opener.
 
@@ -104,7 +104,7 @@ Three games into 2026 and James Madison has already used all three jerseys and b
 
 **What jersey is James Madison wearing this week?**
 
-James Madison wore the white helmet, white jersey and white pants at San Diego State on Saturday, September 19, a full white road set and the first time in 2026 the Dukes used the white shell instead of the gold one. They won 26-13. Next is at Old Dominion on September 26, where white is expected again under Sun Belt road rules. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore the gold helmet, white jersey and gold pants at Old Dominion on Saturday, September 26, a 46-20 win in the Royal Rivalry, confirmed from the broadcast. A week earlier the Dukes wore the white helmet, white jersey and white pants in a 26-13 win at San Diego State. Next is Marshall at home on October 3, where purple is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 
