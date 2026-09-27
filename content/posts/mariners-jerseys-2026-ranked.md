@@ -68,10 +68,6 @@ It grades an A- as the textbook version of a home uniform, timeless, balanced, a
   <div style="font-size: 3em; font-weight: 800; line-height: 1.2; color: #ffffff;">A</div>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MarinersPR/status/2077438417290629516"></a></blockquote>
-</div>
-
 The City Connect is the same royal blue set Seattle debuted on May 5, 2023, and it is still the one the Mariners wear in 2026. The club said in January 2026 that a new City Connect is on the way, but it has not arrived yet, so this is the original. It is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in gold lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside.
 
 That is a lot of references, and the reason it grades an A is that it stacks all of them without ever looking cluttered. Every nod means something specific to Seattle, the royal blue and gold palette still looks sharp four seasons in, and it manages to feel modern and deeply local at once. This is one of the best City Connects in the league, and whatever replaces it has a high bar to clear.
