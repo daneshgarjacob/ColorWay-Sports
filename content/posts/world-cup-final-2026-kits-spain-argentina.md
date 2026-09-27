@@ -2,7 +2,7 @@
 title: "World Cup Final 2026 Kits: What Spain and Argentina Wore"
 category: "Soccer"
 date: "2026-07-17"
-updatedDate: "2026-08-06"
+updatedDate: "2026-09-27"
 excerpt: "Spain beat Argentina 1-0 in their red home jersey against the light blue and white stripes. What both teams wore in the all-adidas final."
 gradient: "linear-gradient(135deg, #C60B1E 0%, #0a1030 50%, #75AADB 130%)"
 cardStyle: words
@@ -78,5 +78,6 @@ Both national teams are outfitted by adidas for the 2026 World Cup, which makes 
 - [2026 World Cup Jersey Tracker](/stories/world-cup-2026-jersey-tracker) — every match kit matchup, graded, all tournament long
 - [Every 2026 World Cup Round of 32 Kit Matchup, Ranked](/stories/world-cup-round-of-32-kit-matchups-ranked) — all 16 knockout clashes, worst to first
 - [Every 2026 World Cup Jersey, Ranked](/stories/every-2026-world-cup-jersey-ranked) — all 105 shirts from all 48 teams
+- [Messi's Farewell Argentina Jersey, Graded](/stories/argentina-messi-farewell-jersey-2026) — the special edition shirt for his last game, October 6 vs. Benin
 
 *ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by FIFA, adidas, or any national team.*
