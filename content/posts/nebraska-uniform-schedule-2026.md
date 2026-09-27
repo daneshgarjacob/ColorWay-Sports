@@ -3,7 +3,7 @@ title: "Nebraska Uniform Schedule 2026: Every Jersey and When the Cornhuskers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "Nebraska uniform schedule 2026: every Huskers jersey by week, the scarlet home uniform, white road set, and the black alternate jersey for the Halloween Blackout against Washington."
 gradient: "linear-gradient(135deg, #E41C38 0%, #a8142a 55%, #111111 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
   <div style="background: #E41C38; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #E41C38; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #E41C38; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Scarlet</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -52,7 +52,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **September 19 vs. North Dakota.** ★ Confirmed from the broadcast: **white Block N helmet, scarlet jersey, white pants**, the home default for the Ag Day game against the FCS Fighting Hawks, and the same combination for a third straight week. Nothing special was announced for the night and nothing new appeared. North Dakota came in white over green, and Nebraska won 34-7.
 
-**September 26 at Michigan State.** White expected. The Big Ten opener at Spartan Stadium, 4 p.m. Central on BTN, and the first look at the new white road set in a game.
+**September 26 at Michigan State.** ★ Confirmed from the broadcast: **white Block N helmet, white jersey, scarlet pants**, the first look at the new white road set in a game, with scarlet numerals and scarlet shoulder stripes on the jersey. Michigan State had called a white out, but the Spartans wore all green. Anthony Colandrea threw touchdown passes of 44 yards to Kwazi Gilmer and 13 yards to Vincent Genatone, Genatone added a one-yard run in the fourth quarter, and Nebraska won the Big Ten opener 31-13 to move to 4-0.
 
 **October 3 vs. Maryland.** Scarlet expected. Kickoff time is still to be announced.
 
@@ -80,7 +80,7 @@ Two games in, Nebraska has done exactly what it said it would: white helmet, sca
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska wore the white Block N helmet, scarlet jersey and white pants against North Dakota on Saturday, September 19, a 34-7 win, confirmed from the broadcast. It is the same combination the Huskers wore in wins over Ohio and Bowling Green, a third straight week in the home default. Nothing special was announced for the game. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white Block N helmet, white jersey and scarlet pants at Michigan State on Saturday, September 26, a 31-13 win, confirmed from the broadcast. It was the first game for the new white road set. The three games before that were all at home in the white helmet, scarlet jersey and white pants, the home default, against Ohio, Bowling Green and North Dakota. Next up is Maryland at home on October 3, where scarlet is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 

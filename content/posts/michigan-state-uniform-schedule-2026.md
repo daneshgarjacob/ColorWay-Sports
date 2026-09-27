@@ -3,7 +3,7 @@ title: "Michigan State Uniform Schedule 2026: Every Jersey and When the Spartans
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Michigan State wears every game in 2026: green home jerseys, the white road set, the Greek key helmet, the black alternate, and the full Spartans uniform schedule."
 gradient: "linear-gradient(135deg, #18453B 0%, #236352 55%, #ffffff 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
   <div style="background: #18453B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 4 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
   <div style="background: #18453B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #18453B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -50,7 +50,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **September 19 at Notre Dame.** ★ Confirmed: **white helmet with the green Spartan, white jersey, white pants**, head to toe white. That answers the open question on this date. Michigan State wore a green helmet over the white set on the road at USC and Nebraska last season and went back to the white shell in South Bend. Notre Dame wore the gold helmet, navy jersey and gold pants and won 27-10. The NBC broadcast produced no ESPN frames, so this is confirmed from Notre Dame's own game photography. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) tracks the Irish side.
 
-**September 26 vs. Nebraska.** Green expected. The Big Ten opener at Spartan Stadium, 5 p.m. Eastern on BTN, with Nebraska in white. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026) for the Huskers.
+**September 26 vs. Nebraska.** ★ Confirmed from the broadcast: **all green**, green helmet with the Greek key stripe, green jersey and green pants, the same set as the Eastern Michigan win. Michigan State had called a white out before the game, but every frame we saw from the BTN broadcast shows the Spartans in green from helmet to cleats, so we go with the frames. Nebraska wore a white helmet, white jersey and scarlet pants. Liam Boyd kicked two field goals and Jaziun Patterson ran in from two yards, but Nebraska answered the opening field goal with 17 straight points and won 31-13, and the Spartans fell to 2-2 in the Big Ten opener at Spartan Stadium. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026) for the Huskers.
 
 **October 3 at Wisconsin.** White expected. It is Homecoming at Camp Randall Stadium, and the Badgers are expected in red. Kickoff time is still to be announced. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) has the Badgers' side.
 
@@ -78,7 +78,7 @@ Michigan State has used the green jersey and the Greek key green helmet in both 
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State plays at Notre Dame on Saturday, September 19, and white is expected because the Irish wear navy at home. The Spartans post a jersey reveal video before each game, and we will star the cell once the full combination is confirmed. Last week against Eastern Michigan, Michigan State wore all green.
+Michigan State wore all green, green helmet, green jersey and green pants, against Nebraska on Saturday, September 26, a 31-13 loss at Spartan Stadium, confirmed from the broadcast. The school had called a white out before kickoff, but the team took the field in green. The week before, the Spartans went head to toe white at Notre Dame. Next up is a trip to Wisconsin on October 3, where white is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 
