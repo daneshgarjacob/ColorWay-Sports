@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Nike outfits the Aggies, and the base uniforms did not change much for the move 
 
 ## The 1992 Retro Helmet for Homecoming
 
-Utah State revealed its Homecoming helmet on August 20: a white shell with the logo the program used from 1992 to 1995, a navy block U with STATE running down the left side and a bull leaping through it, with a small A brand on the bull's hip. It goes on for Homecoming against Troy on September 26 at Maverik Stadium. The jersey and pants for that game have not been announced.
+Utah State revealed its Homecoming helmet on August 20: a white shell with the logo the program used from 1992 to 1995, a navy block U with STATE running down the left side and a bull leaping through it, with a small A brand on the bull's hip. It goes on for Homecoming against Troy on September 26 at Maverik Stadium. The jersey and pants were not announced ahead of time, and on the field the Aggies paired it with a navy jersey and navy pants in a 21-10 win.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2090468928065839383"></a></blockquote>
@@ -44,7 +44,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
   <div style="background: #ffffff; color: #0F2439; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Idaho State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cow Print / White / White</div></div>
   <div style="background: #ffffff; color: #0F2439; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
-  <div style="background: #ffffff; color: #0F2439; border: 2px dashed #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Retro Helmet (Announced)</div></div>
+  <div style="background: #0F2439; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Retro / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0F2439; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -70,7 +70,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2100729492146929971"></a></blockquote>
 </div>
 
-**September 26 vs. Troy.** Retro helmet announced. Homecoming at Maverik Stadium, 5:30 p.m. Mountain on CBS Sports Network, with the 1992 to 1995 bull logo on a white shell. Fans are asked to wear blue or white, so the jersey could go either way. We will add it as soon as the team posts the full look.
+**September 26 vs. Troy.** ★ Retro helmet announced and confirmed from the broadcast: the **1992 to 1995 bull logo on a white shell**, worn with a **navy jersey and navy pants** for Homecoming at Maverik Stadium, the first time the blue home jersey has appeared this season. Troy wore a black helmet, white jersey and black pants. Grady Brosterhous threw for 242 yards and two touchdowns, Utah State scored the last 14 points, and the Aggies beat Troy 21-10 for their first win, now 1-3.
 
 **October 3 at Boise State.** White expected. The first Pac-12 road game is on the blue turf at Albertsons Stadium, with Boise State in blue for its conference home opener. More on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
 
@@ -100,13 +100,13 @@ The home team in college football usually picks its color and sends the visitor 
 
 ## The Bottom Line
 
-Three weeks, three helmets. Utah State has gone cow print at home, white at Washington, and navy for Saturday's trip to Utah, all over the white jersey, and the Homecoming retro helmet is next on September 26. The blue home jersey has not appeared yet, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Four weeks, four helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. Next, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah State wearing this week?**
 
-Utah State plays at Utah on Saturday, September 19 at 1:30 p.m. Mountain on FOX, and the team announced a navy helmet, white jersey and navy pants. The Aggies wore a white helmet, white jersey and navy pants in their last game, a 16-14 loss at Washington on September 12. The week-by-week grid above lists every game with the expected uniform.
+Utah State wore the 1992 retro bull helmet with a navy jersey and navy pants for Homecoming against Troy on Saturday, September 26, confirmed from the CBS Sports Network broadcast, and won 21-10. Next up is at Boise State on October 3, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Utah State's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ It celebrates the university's agricultural roots. The design began as an April 
 
 **What is Utah State's homecoming helmet in 2026?**
 
-A white helmet with the 1992 to 1995 logo, a bull leaping through a navy block U with STATE down the side. Utah State wears it for Homecoming against Troy on Saturday, September 26 at Maverik Stadium.
+A white helmet with the 1992 to 1995 logo, a bull leaping through a navy block U with STATE down the side. Utah State wore it for Homecoming against Troy on Saturday, September 26 at Maverik Stadium, with a navy jersey and navy pants, and won 21-10.
 
 **What did Utah State wear against Idaho State?**
 

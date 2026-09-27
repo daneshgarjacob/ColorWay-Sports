@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maine</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #1A1A1A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #1A1A1A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -66,7 +66,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **September 19 vs. Charlotte.** ★ Confirmed from the broadcast: **black helmet with the gold mark, black jersey with gold numerals, black pants**, head to toe black for Black Saturday (Under the Lights). Nothing new appeared, so the helmet we were watching for turned out to be the standard black shell. The game was delayed and moved to a 9 p.m. Eastern kickoff, and App State won 26-21 after Charlotte scored twice in the fourth. Charlotte wore white.
 
-**September 26.** White expected at NC State. A 7:30 p.m. Eastern kickoff on ESPNU in Raleigh, and the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026) has the Wolfpack in red.
+**September 26.** ★ Confirmed from the broadcast at NC State: **black helmet with the gold A, white jersey, black pants**, with the Wolfpack in red over red. Malachi Singleton threw for 317 yards and two touchdowns, but NC State won 41-31 in Raleigh and App State fell to 3-1. The [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026) has the Wolfpack side.
 
 **October 3.** Bye.
 
@@ -98,7 +98,7 @@ App State is not a uniform program in the Oregon sense and does not want to be. 
 
 **What is App State wearing this week?**
 
-App State wore all black against Charlotte on Saturday, September 19: black helmet, black jersey and black pants, confirmed from the broadcast, in a 26-21 win. The game was Black Saturday (Under the Lights) at Kidd Brewer Stadium, delayed to a 9 p.m. Eastern kickoff, and it makes three straight home games in the same all-black combination.
+App State wore a black helmet, white jersey and black pants at NC State on Saturday, September 26, confirmed from the broadcast, in a 41-31 loss. The Mountaineers are off on October 3, and next up is Old Dominion at home on October 10, with black expected for Homecoming. The week before, App State wore all black against Charlotte in a 26-21 win.
 
 **What are App State's football uniforms for 2026?**
 

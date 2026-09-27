@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #2B2B2B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Richmond</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Wolfpack Warriors</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #CC0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -54,7 +54,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **September 19 at Vanderbilt.** ★ Confirmed from the broadcast: **red helmet, white jersey, white pants**, a cleaner and quieter road look than the red pants the Wolfpack opened the season with. Vanderbilt came out in the black helmet with the white V, a black jersey and white pants, which put the only color on the field on the home sideline. The uniforms held up better than the lead did: NC State was up 24-7 and lost 35-31 at FirstBank Stadium. Vanderbilt's side is on the [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
-**September 26 vs. App State.** Red expected. A 7:30 p.m. Eastern kickoff on ESPNU, and a night home game is the natural spot for the black alternate if NC State wants it.
+**September 26 vs. App State.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants** for the 7:30 p.m. kickoff, with no black alternate. App State wore a black helmet, white jersey and black pants. Jayden Scott ran for 148 yards and two touchdowns, CJ Bailey threw for two more, and NC State won 41-31 to get to 2-2. More: [App State uniform schedule](/stories/appalachian-state-uniform-schedule-2026).
 
 **October 3 vs. Louisville.** Red expected. The ACC home opener, with Louisville in white per the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 
@@ -82,7 +82,7 @@ NC State has already shown its range: a traditional road look with a quieter Tuf
 
 **What is NC State wearing this week?**
 
-NC State played at Vanderbilt on Saturday, September 19 in the red helmet, the white road jersey and white pants, and lost 35-31. The week before, against Richmond, the Wolfpack wore the Wolfpack Warriors camo set with a black helmet. Next up is App State at home on September 26, where red is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+NC State wore red at home against App State on Saturday, September 26: white helmet, red jersey and red pants, confirmed from the broadcast, in a 41-31 win. Next up is Louisville at home on October 3, where red is expected for the ACC home opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 
