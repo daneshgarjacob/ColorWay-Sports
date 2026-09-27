@@ -3,7 +3,7 @@ title: "NFL Week 3 Uniforms 2026: What Every Team Is Wearing, Including Nickel C
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-23"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "NFL uniforms this week: the Bills debut Nickel City, the Colts debut Anvil Strike, Denver goes Midnight Navy and Baltimore wears purple in Rio."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -85,7 +85,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/ravens-purple-home.jpg" alt="Baltimore Ravens purple jersey, confirmed against the Cowboys in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, worn as the designated home team in Rio de Janeiro in Week 3 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 4:25 p.m. ET, CBS, at the Maracanã. Ravens confirmed, Cowboys jersey confirmed.** Dallas is the designated home team in Brazil and wears white, the way the Cowboys do at home, with the silver helmet and the silver-blue pants as our read. That puts Baltimore in **purple** on the road, which it only does twice all season, and the Ravens' game-day post confirmed the rest: **primary black helmet, purple jersey, black pants.** Purple against white in the most famous stadium in South America is about as clean a picture as this schedule offers. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) for why the Ravens end up in color, and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) for every Dallas date.
+**Sunday, 4:25 p.m. ET, CBS, at the Maracanã. Both teams confirmed.** Dallas is the designated home team in Brazil and wears its standard home set: **silver helmet, white jersey and the silver-blue home pants.** That puts Baltimore in **purple** on the road, which it only does twice all season, and the Ravens' game-day post confirmed the rest: **primary black helmet, purple jersey, black pants.** Purple against white in the most famous stadium in South America is about as clean a picture as this schedule offers. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) for why the Ravens end up in color, and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) for every Dallas date.
 
 ### Also Worth Watching
 
@@ -115,7 +115,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 - **New England Patriots at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Patriots: silver helmet, white jersey, white pants (confirmed). Jaguars: Prowler throwback, black helmet, teal jersey, white pants (confirmed).
 - **Arizona Cardinals at San Francisco 49ers**, 4:05 p.m. ET, FOX. Cardinals: all white, white helmet (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (projected).
 - **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, pewter pants (confirmed).
-- **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants projected.
+- **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: silver helmet, white jersey, silver-blue pants (confirmed).
 - **Las Vegas Raiders at New Orleans Saints**, 4:25 p.m. ET, CBS. Raiders: silver helmet, white jersey, silver pants (projected). Saints: gold helmet, black jersey (confirmed), gold pants projected.
 - **Los Angeles Rams at Denver Broncos**, 8:20 p.m. ET, NBC. Rams: royal helmet, white jersey, white pants, white socks (confirmed). Broncos: navy helmet, Midnight Navy jersey and pants (confirmed).
 
@@ -147,7 +147,7 @@ It is the Colts' NFL x Nike Rivalries uniform, revealed on August 25, 2026: an a
 
 **What are the Ravens and Cowboys wearing in Brazil?**
 
-Dallas is the designated home team at the Maracanã and wears white. Baltimore wears purple, one of only two road games all season where the Ravens are in color, and the team confirmed the primary black helmet and black pants with it.
+Dallas is the designated home team at the Maracanã and wears its standard white set with the silver helmet and silver-blue pants. Baltimore wears purple, one of only two road games all season where the Ravens are in color, and the team confirmed the primary black helmet and black pants with it.
 
 **Why are the Chiefs wearing red at Miami?**
 
