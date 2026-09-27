@@ -3,7 +3,7 @@ title: "Hawaii Uniform Schedule 2026: Every Jersey and When the Rainbow Warriors
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "Hawaii uniform schedule 2026: the black set, the white set, White Out and blackout nights, and every Rainbow Warriors game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #024731 0%, #0b3b2a 55%, #111111 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ The black set was revealed the day before, with the feathered black helmet.
   <div style="background: #ffffff; color: #024731; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -70,7 +70,7 @@ All times below are Hawaii time.
 
 **September 19.** Bye. The first of two open dates.
 
-**September 26 at Wyoming.** White expected, and not yet confirmed: we have not seen a frame from the game, so this stays unstarred until we do. Wyoming won the Mountain West opener 27-10 in Laramie, with Markell Holman running for two touchdowns, and Hawaii fell to 1-3.
+**September 26 at Wyoming.** ★ Confirmed from the game photos: **black helmet, black jersey, black pants**, not the white road set we expected. Wyoming wore a white helmet, gold jersey and white pants. Wyoming won the Mountain West opener 27-10 in Laramie, with Markell Holman running for two touchdowns, and Hawaii fell to 1-3.
 
 **October 3 vs. San Jose State.** Black expected. 6 p.m. at the Ching Complex on K5 and MW+, the Dick Tomey Legacy Game and Ultimate Keiki Night. A night kickoff is where the black set has lived so far.
 
@@ -116,7 +116,7 @@ Three games in, Hawaii has worn all white at home, all black at home and white o
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii played at Wyoming on Saturday, September 26, in the white road jersey we expected, and lost 27-10. We have not confirmed the look from a frame yet. The last confirmed set was the black helmet, black jersey and black pants against New Mexico State on September 12.
+Hawaii wore all black at Wyoming on Saturday, September 26, black helmet, black jersey and black pants, confirmed from the game photos, and lost 27-10. We had expected the white road set. It is the same all-black look Hawaii wore against New Mexico State on September 12. Next is San Jose State at home on October 3, where black is expected.
 
 **What are Hawaii's football uniforms for 2026?**
 

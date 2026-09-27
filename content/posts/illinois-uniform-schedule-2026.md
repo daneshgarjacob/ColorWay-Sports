@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Navy / Orange</div></div>
   <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Navy / Orange</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -50,7 +50,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **September 19 vs. Southern Illinois.** Navy expected, and still unconfirmed. Illinois won the nonconference finale against the FCS Salukis 48-10 in a 1 p.m. Central kickoff on Peacock, but no broadcast frame or game photograph has surfaced yet, so the cell stays unstarred until we can see the combination.
 
-**September 26 at Ohio State.** White expected, and still unconfirmed. We have not seen a frame of the game yet, so the cell stays unstarred. The Big Ten opener at Ohio Stadium, 11 a.m. Central on FOX, on the Buckeyes' Hall of Fame Weekend. Ohio State won 42-19, with Jeremiah Smith catching four touchdowns, and Illinois is 2-2. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the home side.
+**September 26 at Ohio State.** ★ Confirmed from the game photos: **orange helmet, white jersey, orange pants**. Ohio State wore a silver helmet, scarlet jersey and gray pants. The Big Ten opener at Ohio Stadium, 11 a.m. Central on FOX, on the Buckeyes' Hall of Fame Weekend. Ohio State won 42-19, with Jeremiah Smith catching four touchdowns, and Illinois is 2-2. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the home side.
 
 **October 3 vs. Purdue.** Navy expected, with an asterisk. It is Homecoming and a "Hail to the Orange Out," and Illinois has the all-orange set in the closet, so orange is a real possibility for the Purdue Cannon game. Purdue will be in white. Kickoff time to be announced.
 
@@ -78,7 +78,7 @@ Illinois has opened 2026 in the same base look twice, orange helmet, navy jersey
 
 **What jersey is Illinois wearing this week?**
 
-Illinois lost 42-19 at Ohio State on Saturday, September 26. The white road jersey was expected, but we have not seen a frame of the combination yet. Against Duke earlier this season, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois lost 42-19 at Ohio State on Saturday, September 26, in the orange helmet, white jersey and orange pants, confirmed from the game photos. Against Duke earlier this season, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. Next is Purdue at home on October 3, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

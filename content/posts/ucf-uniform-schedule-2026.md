@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
   <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bethune-Cookman</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Lightmode</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Knightmode</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -73,7 +73,7 @@ The football account followed with the full shoot, sword and all.
 
 Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and will be in white, so this is as clean a black-on-white matchup as the schedule offers. We star the cell once we see it on the field.
 
-**September 26 vs. TCU.** Black expected. The Big 12 home opener at 3:30 p.m. Eastern on FS1, with TCU in white as the visitor. UCF has three shells to choose from and has already used two, so the helmet is the open question here, not the jersey. We have not seen a frame from the game yet, so this stays unstarred until we do. UCF won 21-13 to move to 3-1. More: [TCU uniform schedule](/stories/tcu-uniform-schedule-2026).
+**September 26 vs. TCU.** ★ Confirmed from the game photos: **gold helmet, black jersey, white pants**. The Big 12 home opener at 3:30 p.m. Eastern on FS1, with TCU in a white helmet, white jersey and purple pants. UCF won 21-13 to move to 3-1. More: [TCU uniform schedule](/stories/tcu-uniform-schedule-2026).
 
 **October 3 at Houston.** White expected. Houston has already told everyone it is wearing its light blue Houston Blue alternate for this one, which makes the visitor's white jersey a lock under Big 12 convention.
 
@@ -101,7 +101,7 @@ Two games in, UCF has already shown two of its three helmets and both jerseys, w
 
 **What jersey is UCF wearing this week?**
 
-UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener. Black is expected for that game, but we have not confirmed the look from a frame yet. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30.
+UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener, in the gold helmet, black jersey and white pants, confirmed from the game photos. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30. Next is Houston on the road on October 3, where white is expected.
 
 **What are UCF's football uniforms for 2026?**
 

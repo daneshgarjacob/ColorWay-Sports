@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 40th Helmet / Blue / Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -50,7 +50,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **September 19 vs. South Dakota.** ★ Confirmed from the broadcast: **white helmet with the Bronco, blue jersey, white pants**, the home blue over white on the blue turf. The school asked fans to wear white for this one, a crowd call rather than a team announcement, and the Broncos stayed in blue rather than following the stands. Boise State won 38-24, with South Dakota in white over black.
 
-**September 26 at Western Michigan.** White expected as the visitor, and not yet confirmed: we have not seen a frame from the game, so this stays unstarred until we do. A Broncos-versus-Broncos game in Kalamazoo, and Boise State won it 32-7 to move to 3-1.
+**September 26 at Western Michigan.** ★ Confirmed from the game photos: **blue helmet, white jersey, white pants.** Western Michigan wore a brown jersey and appeared to wear a white helmet and brown pants, which we only saw in the background. A Broncos-versus-Broncos game in Kalamazoo, and Boise State won it 32-7 to move to 3-1.
 
 **October 3 vs. Utah State.** Blue expected. The Pac-12 home opener, with fans asked to stripe the stadium in blue and orange. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
@@ -78,7 +78,7 @@ Two games in, Boise State has done exactly what its closet predicts, white at Or
 
 **What jersey is Boise State wearing this week?**
 
-Boise State beat Western Michigan 32-7 in Kalamazoo on Saturday, September 26, where the white road set is expected; we have not confirmed it from a frame yet. The week before, the Broncos beat South Dakota 38-24 in the white helmet, blue jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Boise State beat Western Michigan 32-7 in Kalamazoo on Saturday, September 26, in the blue helmet, white jersey and white pants, confirmed from the game photos. The week before, the Broncos beat South Dakota 38-24 in the white helmet, blue jersey and white pants. Next is Utah State at home on October 3, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Boise State's football uniforms for 2026?**
 

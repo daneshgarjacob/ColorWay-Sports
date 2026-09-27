@@ -3,7 +3,7 @@ title: "College Football Week 4 Uniforms 2026: What Every Top Team Is Wearing Th
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-25"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-27"
 excerpt: "College football Week 4 uniforms: Oregon's Warp Speed at USC, Texas icy whites at Tennessee, Baylor's gold chrome throwback, WVU Gold Rush and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -123,12 +123,12 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Tennessee](/stories/tennessee-uniform-schedule-2026): **Worn**, white helmet with the orange T, orange jersey, white pants, in front of the checkerboard crowd. The Vols fell to 3-1.
 
 **No. 7 Ohio State 42, Illinois 19 (Final)**, noon, FOX.
-- [Illinois](/stories/illinois-uniform-schedule-2026): **Expected** in the white jersey under the orange helmet, with orange or white pants. We have not seen a frame yet. The Illini are 2-2.
-- [Ohio State](/stories/ohio-state-uniform-schedule-2026): **Expected** in the core home set, silver helmet, scarlet jersey, silver pants, for Hall of Fame Weekend. Jeremiah Smith tied a school record with four touchdown catches and the Buckeyes are 3-1.
+- [Illinois](/stories/illinois-uniform-schedule-2026): **Confirmed** from the game photos: orange helmet, white jersey, orange pants. The Illini are 2-2.
+- [Ohio State](/stories/ohio-state-uniform-schedule-2026): **Confirmed** from the game photos: silver helmet, scarlet jersey, gray pants, the core home set for Hall of Fame Weekend. Jeremiah Smith tied a school record with four touchdown catches and the Buckeyes are 3-1.
 
 **No. 11 Texas Tech 49, Sam Houston 14 (Final)**, noon, TNT.
-- Sam Houston: white expected. The Bearkats are 1-3.
-- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed** before kickoff, the ["Ag Game threads"](https://x.com/TexasTechFB/status/2103254400584106021): white helmet, red jersey, white pants, with fans asked to wear white for the annual Agriculture Game. Austin Romaine returned interceptions for touchdowns on back-to-back throws and Tech is 4-0, with an 11th straight home win.
+- Sam Houston: **Confirmed** from the game photos: orange helmet, white jersey, white pants. The Bearkats are 1-3.
+- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Confirmed** before kickoff, the ["Ag Game threads"](https://x.com/TexasTechFB/status/2103254400584106021), and confirmed from the game photos: white helmet with the red Double T, red jersey, white pants, with fans asked to wear white for the annual Agriculture Game. Austin Romaine returned interceptions for touchdowns on back-to-back throws and Tech is 4-0, with an 11th straight home win.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TexasTechFB/status/2103254400584106021"></a></blockquote>
@@ -190,8 +190,8 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 ### Saturday, September 26: Afternoon Window
 
 **No. 3 Notre Dame 49, Purdue 10 (Final)**, 2 p.m., Peacock.
-- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Expected** in the road set, gold helmet, white jersey, gold pants, for the Shillelagh Trophy. We have not seen a frame yet. CJ Carr threw three touchdown passes and ran for another, Drayk Bowen scored on a fumble return, and the Irish are 4-0 with 14 straight wins.
-- [Purdue](/stories/purdue-uniform-schedule-2026): **Expected** in the black home jersey. The helmet (old gold or black) and the pants (gold, black or white) stay open until we see a frame. The Boilermakers have lost three straight and are 1-3.
+- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed** from the game photos: gold helmet, white jersey, gold pants, the road set for the Shillelagh Trophy. CJ Carr threw three touchdown passes and ran for another, Drayk Bowen scored on a fumble return, and the Irish are 4-0 with 14 straight wins.
+- [Purdue](/stories/purdue-uniform-schedule-2026): **Confirmed** from the game photos: all black, with a black helmet, black jersey and black pants. The Boilermakers have lost three straight and are 1-3.
 
 **[Florida State](/stories/florida-state-uniform-schedule-2026) 34, Central Arkansas 7 (Final)**, 3 p.m., ACC Network.
 - Central Arkansas: **Worn**, purple helmet, white jersey, purple pants. The Bears are 2-3.
@@ -222,23 +222,24 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 </div>
 
 **UCF 21, TCU 13 (Final)**, 3:30 p.m., FS1.
-- [TCU](/stories/tcu-uniform-schedule-2026): **Expected** in white. We have not seen a frame yet. The Horned Frogs are 2-2.
-- [UCF](/stories/ucf-uniform-schedule-2026): **Expected** in black for the Big 12 home opener, with three helmet shells to choose from. We have not seen a frame yet, so the helmet is still open. The Knights are 3-1.
+- [TCU](/stories/tcu-uniform-schedule-2026): **Confirmed** from the game photos: white helmet, white jersey, purple pants. The Horned Frogs are 2-2.
+- [UCF](/stories/ucf-uniform-schedule-2026): **Confirmed** from the game photos: gold helmet, black jersey, white pants for the Big 12 home opener. The Knights are 3-1.
 
 **Boise State 32, Western Michigan 7 (Final)**, 3:30 p.m., ESPN2.
-- [Boise State](/stories/boise-state-uniform-schedule-2026): **Expected** in white, in a Broncos versus Broncos game at Waldo Stadium. We have not seen a frame yet. Boise State is 3-1 and Western Michigan is 2-2.
+- [Boise State](/stories/boise-state-uniform-schedule-2026): **Confirmed** from the game photos: blue helmet, white jersey, white pants, in a Broncos versus Broncos game at Waldo Stadium. Boise State is 3-1.
+- Western Michigan: **Confirmed** from the game photos in a brown jersey, and appeared to wear a white helmet and brown pants, which we only saw in the background. The Broncos are 2-2.
 
 **No. 25 Houston 42, Georgia Southern 28 (Final)**, 4 p.m., ESPNU.
-- [Houston](/stories/houston-uniform-schedule-2026): **Expected** in white. The light blue Houston Blue alternate is held for UCF on October 3. We have not seen a frame yet. Conner Weigman threw four touchdown passes and ran for two more, and the Cougars are 3-1.
-- Georgia Southern: blue expected at home. The Eagles are 1-3.
+- [Houston](/stories/houston-uniform-schedule-2026): **Confirmed** from the game photos: white helmet, white jersey, red pants. The light blue Houston Blue alternate is held for UCF on October 3. Conner Weigman threw four touchdown passes and ran for two more, and the Cougars are 3-1.
+- Georgia Southern: **Confirmed** from the game photos: navy helmet, navy jersey, white pants. The Eagles are 1-3.
 
 **Auburn 21, Vanderbilt 15 (Final)**, 4:15 p.m., SEC Network.
 - [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026): **Worn**, gold helmet with the V, white jersey with gold numbers, white pants, for the SEC opener. Brock Taylor kicked three field goals, but the Commodores never found the end zone after the third quarter and fell to 3-1.
 - [Auburn](/stories/auburn-uniform-schedule-2026): **Worn**, white helmet, navy jersey, white pants, the standard home set on Homecoming. Byrum Brown threw one touchdown and ran for another, Cade Carlson took a blocked punt back for a score, and Auburn is 3-1.
 
 **Wisconsin 24, No. 13 Penn State 20 (Final)**, 5 p.m., Peacock.
-- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Expected** in white, white jersey and white pants under the Motion W helmet. We have not seen a frame yet; the game streamed on Peacock. Colton Joseph threw three interceptions but also two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left, and the Badgers are 3-1.
-- [Penn State](/stories/penn-state-uniform-schedule-2026): **Expected** in navy jersey, white pants and the plain white helmet for Homecoming and the Helmet Stripe game, in which the crowd dresses as the helmet. It is the Big Ten home opener in Penn State's first adidas season, and the new uniforms look almost exactly like the old Nike ones. The Nittany Lions led 17-0 in the second quarter after a 51-yard pick six, then did not score after a third quarter field goal and fell to 3-1.
+- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Confirmed** from the game photos: all white, with a white Motion W helmet, white jersey and white pants. Colton Joseph threw three interceptions but also two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left, and the Badgers are 3-1.
+- [Penn State](/stories/penn-state-uniform-schedule-2026): **Confirmed** from the game photos: white helmet, navy jersey, white pants for Homecoming and the Helmet Stripe game, in which the crowd dresses as the helmet. It is the Big Ten home opener in Penn State's first adidas season, and the new uniforms look almost exactly like the old Nike ones. The Nittany Lions led 17-0 in the second quarter after a 51-yard pick six, then did not score after a third quarter field goal and fell to 3-1.
 
 **Nebraska 31, Michigan State 13 (Final)**, 5 p.m., BTN.
 - [Nebraska](/stories/nebraska-uniform-schedule-2026): **Worn**, white Block N helmet, white jersey, scarlet pants, the redesigned white road set in its first game. Anthony Colandrea threw two touchdown passes, Vincent Genatone scored twice, and the Huskers are 4-0.
@@ -250,7 +251,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Miami (OH) 24, [UConn](/stories/uconn-uniform-schedule-2026) 21 (Final)**, 3:30 p.m., ESPN+. UConn **worn**: white helmet, white jersey, navy pants, against Miami in a white helmet, red jersey and white pants. UConn led 13-0 early, and both teams are 2-2.
 - **[Buffalo](/stories/buffalo-uniform-schedule-2026) 31, Robert Morris 28 (Final)**, 3:30 p.m., ESPN+. Buffalo **worn**: blue helmet with the bull, blue jersey, white pants for Homecoming, against Robert Morris in a white helmet, white jersey and navy pants. Both teams are 2-2.
 - **[Marshall](/stories/marshall-uniform-schedule-2026) 36, Gardner-Webb 35 (Final)**, 3:30 p.m., ESPN+. Marshall **worn**: white helmet with the green M, green jersey, green pants for Homecoming, against Gardner-Webb in a white helmet, white jersey and white pants. Jorge Diaz Nicolas hit a 32-yard field goal with three seconds left, and Marshall is 3-1.
-- **Wyoming 27, [Hawaii](/stories/hawaii-uniform-schedule-2026) 10 (Final)**, 3 p.m., The CW. Hawaii **expected** in white against Wyoming's brown; we have not seen a frame yet. Markell Holman ran for two touchdowns in Wyoming's Mountain West opener, and Hawaii fell to 1-3.
+- **Wyoming 27, [Hawaii](/stories/hawaii-uniform-schedule-2026) 10 (Final)**, 3 p.m., The CW. **Confirmed** from the game photos: Hawaii in all black, against Wyoming in a white helmet, gold jersey and white pants. Markell Holman ran for two touchdowns in Wyoming's Mountain West opener, and Hawaii fell to 1-3.
 - **[East Carolina](/stories/east-carolina-uniform-schedule-2026) 42, NC Central 9 (Final)**, 4 p.m., ESPN+. East Carolina **worn**: purple helmet, purple jersey, gold pants for Family Weekend, against NC Central in a maroon helmet, gray jersey and gray pants. The Pirates scored 42 in the first half, TJ Engleman Jr. added an 88-yard run, and East Carolina is 2-2.
 - **[South Florida](/stories/south-florida-uniform-schedule-2026) 14, Bowling Green 6 (Final)**, 5 p.m., ESPN+. USF **worn**: white helmet, white jersey, green pants, against Bowling Green in an orange helmet, brown jersey and orange pants. USF trailed 6-0 into the fourth quarter before touchdown runs from Luke Kromenhoek and D.J. Crowther, and the Bulls are 4-0.
 
@@ -349,8 +350,8 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 </div>
 
 **[Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) 27, [Washington](/stories/washington-huskies-uniform-schedule-2026) 24 (Final)**, 11 p.m., FOX.
-- Minnesota: **Expected** in white; no game photos were up to confirm it. Drake Lindsey threw three first-half touchdown passes, Lorenzo Drzewiecki added a 51-yard field goal in the fourth quarter, and the Gophers are 3-1.
-- Washington: **Confirmed**, the new all-black Dawgs set for the Unleashed blackout: matte black helmet, black jersey with DAWGS in gold across the chest, black pants, with a purple and gold stripe on the helmet and shoulders. Demond Williams Jr. threw for 239 yards and two touchdowns and ran for a third with 1:53 left, but the Huskies lost for the first time and are 3-1.
+- Minnesota: **Confirmed** from the game photos: maroon helmet, white jersey, white pants. Drake Lindsey threw three first-half touchdown passes, Lorenzo Drzewiecki added a 51-yard field goal in the fourth quarter, and the Gophers are 3-1.
+- Washington: **Confirmed** pregame and confirmed from the game photos, the new all-black Dawgs set for the Unleashed blackout: matte black helmet, black jersey with DAWGS in gold across the chest, black pants, with a purple and gold stripe on the helmet and shoulders. Demond Williams Jr. threw for 239 yards and two touchdowns and ran for a third with 1:53 left, but the Huskies lost for the first time and are 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2103150061148586372"></a></blockquote>
@@ -360,7 +361,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 - **[Oregon State](/stories/oregon-state-uniform-schedule-2026) 33, UTEP 7 (Final)**, 9 p.m., MW+. Oregon State **Worn**: white helmet, white jersey, black pants. UTEP **Worn**: navy helmet, navy jersey, white pants. Braden Atkinson threw for 301 yards and three touchdowns, two of them to Jesse Legree, AJ Newberry ran for 111 yards, and the Beavers are 2-2.
 - **[Fresno State](/stories/fresno-state-uniform-schedule-2026) 38, Rice 24 (Final)**, 10 p.m., The CW. Fresno State **Worn**: red helmet, red jersey, red pants. Rice **Worn**: silver helmet, light gray jersey, gray pants. Jayden Mandal threw three touchdown passes, Rayshon Luke ran for 167 yards on 11 carries, and the Bulldogs are 3-1.
-- **[Air Force](/stories/air-force-uniform-schedule-2026) 36, Nevada 33, 2OT (Final)**, 10:30 p.m., FS1. Air Force **expected** in white; no game photos were up to confirm it. Liam Szarka ran for 171 yards and two touchdowns, Rocco Conti won it with a 7-yard run in the second overtime, and the Falcons are 2-1.
+- **[Air Force](/stories/air-force-uniform-schedule-2026) 36, Nevada 33, 2OT (Final)**, 10:30 p.m., FS1. Air Force **Confirmed** from the game photos: blue helmet, white jersey, blue pants. Nevada: white helmet, navy jersey, white pants. Liam Szarka ran for 171 yards and two touchdowns, Rocco Conti won it with a 7-yard run in the second overtime, and the Falcons are 2-1.
 - **[North Texas](/stories/north-texas-uniform-schedule-2026) 63, Houston Christian 14 (Final)**, 7:30 p.m., ESPN+. North Texas **Worn**: white helmet, green jersey, green pants for Family Weekend and Senior Day. Houston Christian **Worn**: white helmet, white jersey, royal blue pants. Jahiem White ran for 133 yards and four touchdowns, Tayven Jackson went 16 of 18 for 270 yards, and the Mean Green are 2-2.
 
 **Off this week:** BYU, Kansas, Arizona State, Memphis, Syracuse and North Carolina.
