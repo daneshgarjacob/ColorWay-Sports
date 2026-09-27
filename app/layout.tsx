@@ -37,6 +37,20 @@ export const metadata: Metadata = {
     siteName: "ColorWay Sports",
     type: "website",
   },
+  // Google Discover only shows the big card image when a page opts in to
+  // max-image-preview:large (flagged on every post by Mediavine's Discover
+  // Optimizer, 2026-09-26).
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
   twitter: {
     card: "summary_large_image",
     title: "ColorWay Sports",
