@@ -5,7 +5,7 @@ date: "2026-03-25T17:00:00"
 excerpt: "The 2026 Final Four court in San Antonio is here and it's... fine. We break down what went wrong, what's missing, and why we miss the old days."
 gradient: "linear-gradient(135deg, #001F5B 0%, #6BA3D6 100%)"
 logoSrc: "/logos/final-four-2026.png"
-league: "college"
+league: "cbb"
 teams: []
 ---
 

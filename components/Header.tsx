@@ -37,7 +37,7 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "College Football",
+    label: "CFB",
     storiesLink: { label: "College Football Stories", href: "/stories?league=college" },
     leagueLogo: "/logos/leagues/college-football.svg",
     // Conferences, each behind a caret with its schools, the same pattern as
@@ -265,6 +265,7 @@ const leagues: NavLeague[] = [
     storiesLink: { label: "All Stories", href: "/stories" },
     teams: [],
     extraLinks: [
+      { label: "CBB", href: "/stories?league=cbb" },
       { label: "Rugby", href: "/stories?league=rugby" },
       { label: "Cricket", href: "/stories?league=cricket" },
       { label: "UFL", href: "/stories?league=ufl" },
@@ -645,7 +646,7 @@ export default function Header() {
                               {clubs && (
                                 <button
                                   type="button"
-                                  aria-label={`Show ${team} ${league.label === "College Football" ? "schools" : "clubs"}`}
+                                  aria-label={`Show ${team} ${league.label === "CFB" ? "schools" : "clubs"}`}
                                   aria-expanded={subOpen}
                                   // stopPropagation: the document click handler that closes
                                   // the dropdown on outside clicks would otherwise shut it.
@@ -798,7 +799,7 @@ export default function Header() {
                             {clubs && (
                               <button
                                 type="button"
-                                aria-label={`Show ${team} ${league.label === "College Football" ? "schools" : "clubs"}`}
+                                aria-label={`Show ${team} ${league.label === "CFB" ? "schools" : "clubs"}`}
                                 aria-expanded={subOpen}
                                 onClick={() => setMobileSub(subOpen ? null : team)}
                                 className="px-2 py-1 text-gray-medium hover:text-orange transition-colors"

@@ -564,7 +564,8 @@ export const LEAGUE_NAMES: Record<string, string> = {
   cricket: "Cricket",
   rugby: "Rugby",
   nascar: "NASCAR",
-  college: "College",
+  college: "College Football",
+  cbb: "College Basketball",
   ufl: "UFL",
 };
 
