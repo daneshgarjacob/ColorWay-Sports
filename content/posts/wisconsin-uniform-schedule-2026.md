@@ -3,7 +3,7 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "Wisconsin's 2026 uniform schedule: the red and white jerseys, the Motion W helmet, the all-red Lambeau Field alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 
 **September 19 vs. Eastern Michigan**, Camp Randall Stadium, 11:30 a.m. CT. ★ Confirmed from game photography: **white Motion W helmet, red jersey, white pants**, the standard home set on a rainy morning in Madison. ESPN gave us no usable frames for this one, so the confirmation comes from game photography in national coverage of the game rather than from the broadcast. We did not get a clear look at Eastern Michigan's combination, so we are leaving the visitors' side alone. Wisconsin won 54-10 after trailing 7-3 in the first quarter.
 
-**September 26 at Penn State**, Beaver Stadium. White expected. Big Ten opener, and the first road trip of the season in the white jersey.
+**September 26 at Penn State**, Beaver Stadium. White expected, and not yet confirmed: the game streamed on Peacock, so ESPN has no frames, and neither school has posted a gallery yet. Big Ten opener, and the first road trip of the season in the white jersey. Wisconsin upset No. 13 Penn State 24-20. The Badgers trailed 17-0 in the second quarter, and Colton Joseph threw three interceptions, but he also threw two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left. Wisconsin is 3-1. We will star the cell once we see the look. See our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 
 **October 3 vs. Michigan State**, Camp Randall Stadium. Red expected. This is Homecoming, and Homecoming is the one date on a Wisconsin calendar that has produced a surprise recently: the Badgers wore Under Armour throwbacks for the 2025 Homecoming game against Iowa. Nothing has been announced for 2026, so red stays the expectation.
 
@@ -80,7 +80,7 @@ Wisconsin spent its one alternate on the opener, and it spent it well. An all-re
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Next is Penn State on September 26, where the white road jersey is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Wisconsin upset No. 13 Penn State 24-20 on September 26 at Beaver Stadium, where the white road set was expected; we have not yet confirmed it from game images. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 

@@ -3,7 +3,7 @@ title: "Penn State Uniform Schedule 2026: Every Jersey and When the Nittany Lion
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "What Penn State wears every game in 2026: the plain white helmet, no names on the jerseys, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #14336b 55%, #ffffff 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **September 19 vs. Buffalo.** ★ Confirmed from the broadcast: **plain white helmet, navy jersey, white pants**, no nameplates, the same home set Penn State opened the season in. Buffalo answered in a blue helmet, white jersey and blue pants, which is one of the more colorful combinations the Bulls own and made the navy read even flatter next to it. Penn State won 55-13. Buffalo's side is on our [Buffalo 2026 uniform schedule](/stories/buffalo-uniform-schedule-2026).
 
-**September 26 vs. Wisconsin.** Navy expected.
+**September 26 vs. Wisconsin.** Navy expected, and not yet confirmed: the game streamed on Peacock, so ESPN has no frames, and neither school has posted a gallery yet. Homecoming and the Helmet Stripe game at Beaver Stadium. Wisconsin upset No. 13 Penn State 24-20. The Nittany Lions led 17-0 in the second quarter after a 51-yard interception return for a touchdown, but Colton Joseph threw two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left, and Penn State fell to 3-1. We will star the cell once we see the look. See our [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026).
 
 **October 3 at Northwestern.** White expected.
 
@@ -78,7 +78,7 @@ Nothing here will surprise you, and Penn State would take that as a compliment. 
 
 **What jersey is Penn State wearing this week?**
 
-Penn State wears navy at home and white on the road in 2026. The September 19 home game against Buffalo was the plain white helmet, navy jersey and white pants, in a 55-13 win. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Penn State wears navy at home and white on the road in 2026. The September 26 home game against Wisconsin, a 24-20 loss, was expected in the navy home set, which we have not yet confirmed from game images. The September 19 home game against Buffalo was the plain white helmet, navy jersey and white pants, in a 55-13 win. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Penn State's uniforms for 2026?**
 
