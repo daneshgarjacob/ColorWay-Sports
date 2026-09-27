@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <div style="background: #f1f3f8; color: #333; border: 2px solid #DB0032; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #DB0032; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sacramento State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #DB0032; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2099641024654270792"></a></blockquote>
 </div>
 
-**September 26 vs. Rice.** Red expected. A 7 p.m. Pacific home game on The CW against a Rice team that wears blue and gray, which makes for one of the better color clashes on the home slate.
+**September 26 vs. Rice.** ★ Confirmed from the broadcast: **red helmet, red jersey, red pants**, all red, the same set as the Sacramento State home game. Rice came in silver helmet, light gray jersey and gray pants. The Owls led 17-14 at the half, but Jayden Mandal threw three touchdown passes, Rayshon Luke ran for 167 yards on 11 carries including a 52-yard score to close it, and Fresno State won 38-24 to move to 3-1.
 
 **October 3 at Washington State.** White expected. Washington State is the most mix and match program in the conference and will pick from crimson, gray, white and anthracite at home, so the Cougars decide what this one looks like.
 
@@ -98,7 +98,7 @@ Two games in, Fresno State has shown two combinations and one helmet, and both c
 
 **What is Fresno State wearing this week?**
 
-Fresno State plays at San Jose State on September 19 for the Valley Trophy, and the white road jersey is expected since the Bulldogs are the visitor. Fresno State wore the white jersey with red pants at USC in the opener, so the same pairing is the likeliest read. The week-by-week grid above lists every game.
+Fresno State wore all red against Rice on Saturday, September 26, red helmet, red jersey and red pants confirmed from the broadcast, in a 38-24 win. Next is Washington State on the road on October 3, where the white road jersey is expected and the Cougars pick their own combination at home. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["washington-huskies", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Washington has worn the same thing twice in 2026: gold helmet, purple jersey, gold pants, in the Apple Cup win over Washington State and again in the 16-14 escape against Utah State. That is the home look, and it should hold for Eastern Washington on Saturday. This is the full Washington Huskies 2026 uniform schedule: the purple home set, the white road set, the all-purple option, the new all-black Dawgs alternate, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Washington has worn the same thing twice in 2026: gold helmet, purple jersey, gold pants, in the Apple Cup win over Washington State and again in the 16-14 escape against Utah State. That is the home look, with the all-black Dawgs alternate out once for the Minnesota blackout. This is the full Washington Huskies 2026 uniform schedule: the purple home set, the white road set, the all-purple option, the new all-black Dawgs alternate, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Washington Huskies 2026 Uniform Sets
 
@@ -50,7 +50,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 
 **September 19 vs. Eastern Washington.** ★ Confirmed from the broadcast, with one change from what we had down: **gold helmet, purple jersey, white pants**. We expected gold pants, the pairing Washington used in each of its first two games, and the Huskies switched to white below the belt for Community Day. Eastern Washington wore white with red and black, and Washington won 48-16.
 
-**September 26 vs. Minnesota.** ★ Confirmed by Washington: the new all-black **Dawgs** set, **matte black helmet, black jersey with DAWGS in gold script, black pants**, with a purple and gold stripe on the helmet and shoulders. This Big Ten opener is the "Unleashed" blackout game, with fans asked to wear black, 8 p.m. Pacific on FOX. The Dawgs jersey is a one-off, so this is the only game it is scheduled to appear. ESPN lists this game on September 27 because its feed runs on UTC.
+**September 26 vs. Minnesota.** ★ Confirmed by Washington: the new all-black **Dawgs** set, **matte black helmet, black jersey with DAWGS in gold script, black pants**, with a purple and gold stripe on the helmet and shoulders. This Big Ten opener was the "Unleashed" blackout game, with fans asked to wear black, 8 p.m. Pacific on FOX. Minnesota won 27-24: Demond Williams Jr. threw for 239 yards and two touchdowns and ran for a third with 1:53 left, and Washington fell to 3-1. The Dawgs jersey is a one-off, so this is the only game it is scheduled to appear. ESPN lists this game on September 27 because its feed runs on UTC.
 
 **October 3 at USC.** White expected. First Big Ten road trip, to the Coliseum, where USC wears cardinal at home. Kickoff time is still to be announced. See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the Trojans' side.
 
@@ -78,7 +78,7 @@ Two games in, Washington has been as plain as it gets: gold helmet, purple jerse
 
 **What jersey is Washington wearing this week?**
 
-Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, a 48-16 win, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, is the "Unleashed" blackout game, and Washington has confirmed the new all-black Dawgs uniform for it.
+Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, a 48-16 win, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, was the "Unleashed" blackout game in the confirmed all-black Dawgs uniform, a 27-24 loss. Next is USC on the road on October 3, where the white road set is expected.
 
 **What are Washington's football uniforms for 2026?**
 

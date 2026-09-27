@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-19'
+updatedDate: "2026-09-26"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <div style="background: #8C1515; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 4 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cardinal / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White</div></div>
-  <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #8C1515; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cardinal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Elon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
@@ -69,7 +69,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 **September 19 at Duke.** ★ Confirmed from the broadcast: **white jersey over white pants**, so the open pants question on the road set is answered the same way it was at North Carolina last season rather than with the cardinal pants worn at Virginia. Duke wore a black helmet, blue jersey and black pants and won 35-7 in the ACC opener. Duke's side of it is on the [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026).
 
-**September 26 vs. Georgia Tech.** Cardinal expected, and this is the loudest home date on the calendar. Stanford has branded it a Red Out with free red shirts for early arrivals, kickoff at 7:30 p.m. Pacific on ESPN. A prime-time slot with a color theme is exactly the setting the black jersey has shown up in before, so watch this one. Georgia Tech's rotation is on the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
+**September 26 vs. Georgia Tech.** ★ Confirmed from the broadcast: **white helmet, cardinal jersey, white pants**, the same home set as the first two games, so no black jersey for the Red Out. Georgia Tech wore a white helmet, white jersey and gold pants as it posted. Stanford trailed 20-10 in the third quarter, then scored 24 straight: Davis Warren threw for 396 yards and three touchdowns, two of them to Caden High, and Stanford won 34-27 to move to 2-2. Georgia Tech's rotation is on the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
 
 **October 3 at Wake Forest.** White expected. Kickoff time still to be announced in Winston-Salem.
 
@@ -109,7 +109,7 @@ Two games in, Stanford has worn the same thing twice: white helmet, cardinal jer
 
 **What jersey is Stanford wearing this week?**
 
-Stanford plays at Duke on Saturday, September 19 at 1 p.m. Pacific on The CW, and the white road jersey is expected because ACC visitors wear white. The open question is the pants, cardinal or white. Stanford wore the cardinal jersey with the white helmet and white pants in both home games so far. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Stanford wore the white helmet, cardinal jersey and white pants against Georgia Tech on Saturday, September 26, confirmed from the broadcast, in a 34-27 win on Red Out night. It is the same home set Stanford has worn in all three home games. Next is Wake Forest on the road on October 3, where the white road jersey is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Stanford's football uniforms for 2026?**
 

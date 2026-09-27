@@ -3,7 +3,7 @@ title: "Air Force Uniform Schedule 2026: Every Jersey and When the Falcons Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-26"
 excerpt: "What Air Force wears every game in 2026: the blue home set, the Freedom 250 opener, the B-21 Raider uniform against Navy, and both trophy games."
 gradient: "linear-gradient(135deg, #003087 0%, #0b47a8 55%, #8A8D8F 130%)"
 cardStyle: words
@@ -84,7 +84,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **September 19.** Bye.
 
-**September 26 at Nevada.** White expected. A late trip to Mackay Stadium in Reno.
+**September 26 at Nevada.** White expected, and no game photos were up to confirm it. Air Force won 36-33 in double overtime at Mackay Stadium: Liam Szarka ran for 171 yards and two touchdowns, Nevada tied it at 27 with a 57-yard Herschel Turner run with 1:49 left, and Rocco Conti won it with a 7-yard run in the second overtime. The Falcons are 2-1.
 
 **October 3 vs. Navy.** Our full breakdown and grade is in [Air Force's B-21 Raider uniform](/stories/air-force-b21-raider-uniform-2026). **B-21 Raider.** The Air Power Legacy Series uniform debuts here, at 10 a.m. Mountain on CBS, in the first leg of the Commander-in-Chief's Trophy. Navy is the visitor and wears white, which sets up a matte black service academy uniform against the plainest white set in the sport. Navy has its own reasons to be interesting this fall, and the [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen's side of it, including the [1926 centennial throwback](/stories/navy-1926-centennial-uniform-2026) they are saving for Notre Dame.
 
@@ -112,7 +112,7 @@ Air Force runs the most disciplined base uniform in college football and then sp
 
 **What is Air Force wearing this week?**
 
-Nothing. Air Force is on a bye on September 19 after splitting its first two games. The Falcons return on September 26 at Nevada, where the road white jersey is expected, and then wear the B-21 Raider uniform at home against Navy on October 3.
+The B-21 Raider uniform. Air Force hosts Navy on Saturday, October 3, in the Air Power Legacy Series look. The Falcons beat Nevada 36-33 in double overtime on September 26, where the road white jersey was expected.
 
 **What are Air Force's football uniforms for 2026?**
 
