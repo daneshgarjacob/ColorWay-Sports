@@ -2,7 +2,7 @@
 title: "The Best MLB Uniforms of 2026, Ranked: All 143 Jerseys Graded, and the Dodgers Still Win"
 category: MLB
 date: "2026-08-04"
-updatedDate: "2026-08-04"
+updatedDate: "2026-09-26"
 excerpt: "Best MLB uniforms 2026, ranked. We graded all 143 jerseys across 30 teams, and only 26 earned an A. The Dodgers' home whites take number one."
 gradient: "linear-gradient(135deg, #005A9C 0%, #8FBCE6 55%, #CE1141 130%)"
 logoSrc: "/logos/mlb.png"
@@ -61,7 +61,7 @@ The big move of 2026. Milwaukee retired the road grays outright and made powder 
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MarinersPR/status/2077438417290629516"></a></blockquote>
 
-One of only two City Connects in the entire program we grade this high. Seattle scrapped the royal-and-black version for a rush-blue kit stuffed with real history: gold "Seattle" lettering from the 1969 Pilots, a drop shadow nodding to the 1955 Rainiers, black pants for the 1940s Steelheads, and the old trident on the cap. That is a lot of references, and the reason it works is that none of them fight.
+One of only two City Connects in the entire program we grade this high. Seattle is still wearing the royal blue set it debuted in 2023, and it is stuffed with real history: gold "Seattle" lettering from the 1969 Pilots, a drop shadow nodding to the 1955 Rainiers, black pants for the 1940s Steelheads, and the old trident on the cap. That is a lot of references, and the reason it works is that none of them fight.
 
 ## 21. Orioles Home White
 

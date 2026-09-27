@@ -192,7 +192,7 @@ The red poppy is MLB's Memorial Day tribute. For games on Monday, May 25, 2026, 
 ## More MLB Coverage
 
 - [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the other MLB team running a true scheduled uniform rotation
-- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the five-jersey rotation with City Connect Fridays and cream Sundays
+- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the five-jersey rotation with City Connect Saturdays and cream Sundays
 - [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) — the four-jersey LA rotation
 - [New York Yankees 2026 Uniform Schedule](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Marlins Teal Alternate Jersey: A Closer Look](/stories/marlins-teal-alternate-jersey-2026) — the full story behind the Teal Sundays throwback

@@ -16624,10 +16624,10 @@ The lettering is the other problem, and it is a choice rather than an execution 
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/mlb-daily-tracker/giants-gigantes.jpg" alt="Giants Gigantes City Connect jersey worn August 15 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/mlb-daily-tracker/giants-gigantes.jpg" alt="Giants Gigantes alternate jersey worn August 15 2026, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">GIANTS</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #000000; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Gigantes City Connect</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #000000; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Gigantes</p>
     </div>
   </div>
 </div>
@@ -24804,7 +24804,7 @@ Pittsburgh's black alternate is their sharpest jersey, and with Paul Skenes on t
   <p style="font-size: 1.05em; font-weight: 900; margin: 0; text-align: center; color: #9bc824;">Matchup Grade: 7.0 / 10</p>
 </div>
 
-San Francisco's orange “Gigantes” City Connect is loud in the best way, and it lifts an otherwise quiet frame with the Angels' road gray.
+San Francisco's black-and-orange “Gigantes” alternate is loud in the best way, and it lifts an otherwise quiet frame with the Angels' road gray.
 
 
 ### Athletics at Twins

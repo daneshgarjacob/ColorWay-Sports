@@ -2,7 +2,7 @@
 title: "Every Seattle Mariners Jersey in 2026, Ranked: The Northwest Green Wins and the Road Navy Comes Last"
 category: MLB
 date: "2026-07-29"
-updatedDate: "2026-07-29"
+updatedDate: "2026-09-26"
 excerpt: "Every Seattle Mariners jersey and uniform for 2026, ranked and graded worst to first, from the workhorse road navy up to the beloved Northwest green alternate."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1d1d1d 50%, #005C5C 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -14,7 +14,7 @@ teams:
   - seattle-mariners
 ---
 
-The Mariners quietly run one of the most cohesive closets in baseball, built almost entirely around deep navy and Pacific Northwest green, with no road grays anywhere in sight. For 2026 they added a black-and-cream Steelheads throwback with real weight behind it and reworked the City Connect, but the crown still belongs to the color that has defined the franchise for three decades. Here is every Seattle Mariners jersey and uniform for 2026, ranked worst to first and graded.
+The Mariners quietly run one of the most cohesive closets in baseball, built almost entirely around deep navy and Pacific Northwest green, with no road grays anywhere in sight. For 2026 they added a black-and-cream Steelheads throwback with real weight behind it and kept the 2023 City Connect for a fourth season, but the crown still belongs to the color that has defined the franchise for three decades. Here is every Seattle Mariners jersey and uniform for 2026, ranked worst to first and graded.
 
 ## 5. Road Navy
 
@@ -72,9 +72,9 @@ It grades an A- as the textbook version of a home uniform, timeless, balanced, a
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MarinersPR/status/2077438417290629516"></a></blockquote>
 </div>
 
-The 2026 City Connect scrapped the old royal-and-black version for a rush-blue kit that is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in gold lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside.
+The City Connect is the same royal blue set Seattle debuted on May 5, 2023, and it is still the one the Mariners wear in 2026. The club said in January 2026 that a new City Connect is on the way, but it has not arrived yet, so this is the original. It is basically a love letter to Seattle baseball history. "Seattle" runs across the chest in gold lettering pulled from the 1969 Pilots with a black drop shadow nodding to the 1955 Rainiers, the black pants tip a cap to the 1940s Steelheads, the cap wears the old trident, and there is a Mount Rainier "PNW" sleeve patch plus "Sodo Mojo" and Dave Niehaus's "My Oh My" stitched inside.
 
-That is a lot of references, and the reason it grades an A is that it stacks all of them without ever looking cluttered. Every nod means something specific to Seattle, the rush-blue-and-gold palette is genuinely fresh, and it manages to feel modern and deeply local at once. This is one of the best City Connects in the league, and a huge upgrade on the version it replaced.
+That is a lot of references, and the reason it grades an A is that it stacks all of them without ever looking cluttered. Every nod means something specific to Seattle, the royal blue and gold palette still looks sharp four seasons in, and it manages to feel modern and deeply local at once. This is one of the best City Connects in the league, and whatever replaces it has a high bar to clear.
 
 ## 1. Northwest Green Alternate
 
@@ -93,13 +93,13 @@ It grades an A+, the best jersey in the closet and one of the best alternates in
 
 ## The Bottom Line
 
-Seattle's 2026 set is deep and genuinely cohesive, and it is topped by one of the great alternates in the sport: the Northwest green is the crown jewel, with the excellent new rush-blue City Connect right behind it, then the timeless home white, the meaningful Steelheads Sunday throwback, and the moody navy backbone. There is not a weak jersey in the rotation, and the green remains the reason the Mariners are one of the best-dressed teams in baseball.
+Seattle's 2026 set is deep and genuinely cohesive, and it is topped by one of the great alternates in the sport: the Northwest green is the crown jewel, with the excellent 2023 City Connect right behind it, then the timeless home white, the meaningful Steelheads Sunday throwback, and the moody navy backbone. There is not a weak jersey in the rotation, and the green remains the reason the Mariners are one of the best-dressed teams in baseball.
 
 ## Frequently Asked Questions
 
 **How many uniforms do the Mariners have in 2026?**
 
-Five: the home whites, the road navy, the Northwest green alternate, the black-and-cream Steelheads Sunday throwback, and the redesigned rush-blue City Connect.
+Five: the home whites, the road navy, the Northwest green alternate, the black-and-cream Steelheads Sunday throwback, and the royal blue City Connect that debuted in 2023.
 
 **Do the Mariners wear gray road uniforms?**
 
@@ -111,4 +111,8 @@ Every Sunday home game at T-Mobile Park, as part of "Steelheads Sundays," honori
 
 **What is the best Mariners jersey for 2026?**
 
-We rank the Northwest green alternate No. 1 with an A+. It is the saltwater teal that has defined the franchise since 1993, the most distinctly Seattle color in sports, and one of the best alternates in all of baseball. The new rush-blue City Connect is a close second at an A.
+We rank the Northwest green alternate No. 1 with an A+. It is the saltwater teal that has defined the franchise since 1993, the most distinctly Seattle color in sports, and one of the best alternates in all of baseball. The 2023 City Connect, still in the rotation for a fourth season, is a close second at an A.
+
+**Did the Mariners get a new City Connect in 2026?**
+
+No. Seattle announced in January 2026 that a new City Connect is coming, but through the 2026 season the Mariners have worn the original 2023 set: the royal blue jersey with gold Pilots-style "Seattle" lettering, black pants for the Steelheads, the trident cap, the PNW sleeve patch, and "Sodo Mojo" and "My Oh My" details. It is the Friday home game look at T-Mobile Park.

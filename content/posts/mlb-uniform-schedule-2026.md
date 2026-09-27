@@ -271,7 +271,7 @@ Four: the Philadelphia Phillies, Miami Marlins, St. Louis Cardinals, and New Yor
 Most teams carry five distinct looks in 2026. The deepest closets belong to the Orioles, Blue Jays, and Padres at six, while the leanest is the Yankees at three, ahead of a small group of four-jersey clubs like the Dodgers, Cubs, Rockies, Pirates, and Athletics. The counts include home, road, alternates, City Connects, and any throwback in the regular rotation.
 
 **What day do MLB teams wear City Connect jerseys?**
-There is no league-wide rule, but Friday night home games are the most common City Connect slot in 2026. Teams like the Guardians, Tigers, Royals, Rangers, and Braves all lock their City Connect to Fridays. A few break the pattern, such as the Astros wearing their "Stros" City Connect on Monday home games.
+There is no league-wide rule, but Friday night home games are the most common City Connect slot in 2026. Teams like the Guardians, Tigers, Royals, and Rangers all lock their City Connect to Fridays. A few break the pattern, such as the Braves wearing their powder blue City Connect on Saturday home games and the Astros wearing their "Stros" City Connect on Monday home games.
 
 **Do MLB teams still wear gray road uniforms?**
 Almost all of them do, and the gray road set remains the single most-worn uniform for most teams. There are exceptions worth knowing. The Los Angeles Angels retired their road grays and now send the red jersey on the road instead. The Tampa Bay Rays had no gray road jersey from 2023 until September 2026, travelling in their colored alternates, and [revealed a new one](/stories/rays-new-gray-road-uniform) on September 21 that debuts the next night in game 2 at the Yankees.

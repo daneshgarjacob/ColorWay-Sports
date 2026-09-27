@@ -2,7 +2,8 @@
 title: "Every MLB City Connect Jersey for 2026 Ranked and Graded"
 category: "MLB"
 date: "2026-04-07"
-excerpt: "All nine MLB City Connect uniforms that have leaked or been revealed for 2026, ranked from worst to first with grades for every jersey."
+updatedDate: "2026-09-26"
+excerpt: "Every 2026 MLB City Connect that leaked or was revealed this spring, plus the Giants' Gigantes alternate, ranked worst to first with grades."
 gradient: "linear-gradient(135deg, #002D72 0%, #E31937 100%)"
 coverImage: "/images/posts/braves-city-connect-2026/braves-cc-acuna-fullbody.jpg"
 coverImagePosition: "center 20%"
@@ -20,7 +21,7 @@ reviews:
     rating: 8.5
   - name: "San Diego Padres 2026 City Connect Jersey"
     rating: 8
-  - name: "San Francisco Giants 2026 City Connect Jersey"
+  - name: "San Francisco Giants 2026 Gigantes Alternate Jersey"
     rating: 8
   - name: "Texas Rangers 2026 City Connect Jersey"
     rating: 7.5
@@ -37,7 +38,7 @@ reviews:
 
 **Update: All eight City Connect jerseys have been officially released by Nike and MLB. Check out our [Official 2026 City Connect Rankings With Updated Grades and Photos](/stories/mlb-city-connect-2026-official-ranking).**
 
-The 2026 MLB City Connect jersey cycle has been one of the more active ones yet. Between official reveals, team store leaks, and social media scoops, we now have a look at nine different City Connect uniforms across the league. The Braves, Brewers, Pirates, Padres, Giants, Rangers, Orioles, Reds, and Royals have all had their 2026 City Connect designs leaked or revealed. We graded all of them from worst to first.
+The 2026 MLB City Connect jersey cycle has been one of the more active ones yet. Between official reveals, team store leaks, and social media scoops, we now have a look at nine new uniforms across the league. The Braves, Brewers, Pirates, Padres, Rangers, Orioles, Reds, and Royals have all had their 2026 City Connect designs leaked or revealed. We originally grouped the Giants' Gigantes set in with them, but Gigantes is a Saturday alternate, not a City Connect. We kept its grade here for the record and graded all nine from worst to first.
 
 ---
 
@@ -107,12 +108,12 @@ The Rangers went with a red base and "TEJAS" across the chest in a retro-style f
 
 ---
 
-## 5. Giants City Connect: B
+## 5. Giants Gigantes Alternate: B
 
-<img src="/images/posts/giants-gigantes-front.jpg" alt="San Francisco Giants Gigantes City Connect jersey" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/giants-gigantes-front.jpg" alt="San Francisco Giants Gigantes alternate jersey" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via @SFGiants</p>
 
-The Giants committed to their "Gigantes" theme and it shows. The black base with orange detailing stays in the team's color family, the shield patch on the sleeve is well done, and the cultural details throughout are thoughtful. The hat is the standout piece of the set. If you are going to swap out the team name for something different on the front, this is how you do it. Full breakdown in our [Giants Gigantes post](/stories/giants-gigantes-city-connect-2026).
+A correction first: Gigantes is not a City Connect. It is a Saturday home alternate, and the Giants' City Connect is still the black set they debuted in 2025. The Giants committed to their "Gigantes" theme and it shows. The black base with orange detailing stays in the team's color family, the shield patch on the sleeve is well done, and the cultural details throughout are thoughtful. The hat is the standout piece of the set. If you are going to swap out the team name for something different on the front, this is how you do it. Full breakdown in our [Giants Gigantes post](/stories/giants-gigantes-city-connect-2026).
 
 <div style="background: linear-gradient(135deg, #27251F, #FD5A1E); border-radius: 12px; padding: 24px 32px; text-align: center; min-width: 180px; margin: 2em auto; max-width: 220px;">
 <div style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.6); margin-bottom: 4px;">Giants</div>

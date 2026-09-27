@@ -222,7 +222,7 @@ The red cap goes with the red pinstripes, the creams are paired with a blue cap 
 ## More MLB Coverage
 
 - [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other MLB team running a true scheduled uniform rotation
-- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the five-jersey rotation with City Connect Fridays and cream Sundays
+- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the five-jersey rotation with City Connect Saturdays and cream Sundays
 - [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) — the four-jersey LA rotation with the City Connect on Fridays
 - [New York Yankees 2026 Uniform Schedule](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Every National MLB Scorebug Ranked for 2026](/stories/national-mlb-scorebugs-2026-ranked) — Fox, TBS, ESPN, Apple TV+ scorebugs graded

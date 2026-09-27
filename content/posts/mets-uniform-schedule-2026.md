@@ -233,7 +233,7 @@ Those were MLB's Armed Forces Day caps. For every game on the weekend of Friday,
 ## More MLB Coverage
 
 - [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the NL East rival and the gold standard of a true scheduled rotation
-- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the division's five-jersey closet with City Connect Fridays and cream Sundays
+- [Atlanta Braves 2026 Uniform Schedule](/stories/braves-uniform-schedule-2026) — the division's five-jersey closet with City Connect Saturdays and cream Sundays
 - [Miami Marlins 2026 Uniform Schedule](/stories/marlins-uniform-schedule-2026) — the other NL East team running a strict uniform timetable
 - [New York Yankees 2026 Uniform Schedule](/stories/yankees-uniform-schedule-2026) — the crosstown rival with the simplest rotation in baseball
 

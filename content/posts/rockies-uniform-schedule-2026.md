@@ -188,7 +188,7 @@ That is Lou Gehrig Day. On Tuesday, June 2, 2026, the Rockies and every other ML
 
 - [Los Angeles Dodgers 2026 Uniform Schedule](/stories/dodgers-uniform-schedule-2026) — the NL West rival and its blue-on-blue closet, broken down
 - [San Diego Padres 2026 Uniform Schedule](/stories/padres-uniform-schedule-2026) — the division's brown-and-gold rotation, jersey by jersey
-- [San Francisco Giants 2026 Uniform Schedule](/stories/giants-uniform-schedule-2026) — the orange-and-black wardrobe and its Gigantes City Connect
+- [San Francisco Giants 2026 Uniform Schedule](/stories/giants-uniform-schedule-2026) — the orange-and-black wardrobe, its black City Connect, and the Gigantes Saturday alternate
 - [Boston Red Sox 2026 Uniform Schedule](/stories/red-sox-uniform-schedule-2026) — a five-jersey closet built around two City Connects
 
 *Uniform details compiled from team and league sources. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Colorado Rockies or Major League Baseball.*

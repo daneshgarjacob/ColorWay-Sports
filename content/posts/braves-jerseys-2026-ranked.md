@@ -2,7 +2,7 @@
 title: "Every Braves Jersey in 2026, Ranked: The Powder Blue City Connect Is an A+ and One Braves Uniform Has Quietly Vanished"
 category: MLB
 date: "2026-07-22"
-updatedDate: "2026-07-22"
+updatedDate: "2026-09-26"
 excerpt: "Every Atlanta Braves jersey and uniform for 2026, ranked and graded worst to first, plus the one alternate that has disappeared from the rotation."
 gradient: "linear-gradient(135deg, #8FBCE6 0%, #CE1141 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -127,7 +127,7 @@ If it turns up, we will slot it in. The [Braves uniform calendar](/mlb-tracker/b
 ## Every Braves Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #f7f4f2; border: 1px solid #e6dcd8; border-radius: 14px;">
-  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>1. Powder Blue City Connect</strong> — A+ · Friday night home games</p>
+  <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>1. Powder Blue City Connect</strong> — A+ · Saturday home games</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>2. Home White</strong> — A- · most home games</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>3. Road Gray</strong> — B+ · away games</p>
   <p style="margin: 0 0 10px; color: #2a2213; font-size: 0.98em;"><strong>4. Navy Alternate</strong> — B · select weeknights</p>
@@ -157,7 +157,7 @@ We rank the 2026 powder blue City Connect first and grade it an A+. It revives t
 
 **What do the Braves 2026 City Connect uniforms look like?**
 
-A powder blue V-neck pullover with "Atlanta" in white script outlined in red and royal blue, red and blue striping at the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch drawn from the TBS Superstation logo. They are worn on Friday night home games at Truist Park.
+A powder blue V-neck pullover with "Atlanta" in white script outlined in red and royal blue, red and blue striping at the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch drawn from the TBS Superstation logo. They are worn for Saturday home games at Truist Park.
 
 **Do the Braves still wear the cream uniforms?**
 

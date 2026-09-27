@@ -2,7 +2,7 @@
 title: "Every Miami Marlins Jersey in 2026, Ranked: Teal Sunday Is an A and Everything Else Falls Off a Cliff"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-09-26"
 excerpt: "Every Miami Marlins jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Retro Wave City Connect up to the 1993 teal throwback."
 gradient: "linear-gradient(135deg, #00A3A3 0%, #111111 55%, #FF1493 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -27,7 +27,7 @@ This is the widest gap in any closet we have ranked. One Marlins jersey is an A.
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Marlins/status/2080732371633004604"></a></blockquote>
 </div>
 
-Debuted in 2021 and officially branded Retro Wave, this is neon pink, teal, and black lifted from the Miami Vice era and the art deco storefronts of South Beach. The cap is matte black with a hot pink brim, and the "Miami" wordmark runs in a script that looks like it came off the side of a 1985 convertible. It owns every Friday home game at loanDepot park.
+Debuted in 2025, replacing the red Sugar Kings City Connect the Marlins wore from 2021 through 2024, and officially branded Retro Wave, this is neon pink, teal, and black lifted from the Miami Vice era and the art deco storefronts of South Beach. The cap is matte black with a hot pink brim, and the "Miami" wordmark runs in a script that looks like it came off the side of a 1985 convertible. It owns every Friday home game at loanDepot park.
 
 It grades a D, and the concept is not the problem. Tying a uniform to Miami Vice and art deco is a genuinely real connection to the city, which is more than most City Connects can claim. The execution is where it comes apart. The base is black, so the neon pink and teal that are supposed to be the whole idea end up as trim on a dark shirt, and a black jersey in Miami in July is its own kind of wrong. Worse, it is competing directly with a teal jersey this same team wears two days later that does the retro-Miami thing without a gimmick attached. When your novelty jersey and your throwback are chasing the same feeling, the throwback wins every time.
 
@@ -129,7 +129,7 @@ Five have appeared this season: the home white, the road gray, the black alterna
 
 **What is the Marlins City Connect uniform?**
 
-The Retro Wave, debuted in 2021. Neon pink, teal, and black drawn from Miami Vice and South Beach art deco, with a matte black cap, hot pink brim, and a "Miami" script pulled from mid-eighties car styling. It is worn every Friday home game. We grade it a D, because the black base smothers the neon that is supposed to be the whole point.
+The Retro Wave, which debuted in 2025 and replaced the red Sugar Kings City Connect from 2021. Neon pink, teal, and black drawn from Miami Vice and South Beach art deco, with a matte black cap, hot pink brim, and a "Miami" script pulled from mid-eighties car styling. It is worn every Friday home game. We grade it a D, because the black base smothers the neon that is supposed to be the whole point.
 
 **When do the Marlins wear their teal jerseys?**
 
