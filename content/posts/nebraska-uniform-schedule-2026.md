@@ -52,7 +52,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **September 19 vs. North Dakota.** ★ Confirmed from the broadcast: **white Block N helmet, scarlet jersey, white pants**, the home default for the Ag Day game against the FCS Fighting Hawks, and the same combination for a third straight week. Nothing special was announced for the night and nothing new appeared. North Dakota came in white over green, and Nebraska won 34-7.
 
-**September 26 at Michigan State.** ★ Confirmed from the broadcast: **white Block N helmet, white jersey, scarlet pants**, the first look at the new white road set in a game, with scarlet numerals and scarlet shoulder stripes on the jersey. Michigan State had called a white out, but the Spartans wore all green. Anthony Colandrea threw touchdown passes of 44 yards to Kwazi Gilmer and 13 yards to Vincent Genatone, Genatone added a one-yard run in the fourth quarter, and Nebraska won the Big Ten opener 31-13 to move to 4-0.
+**September 26 at Michigan State.** ★ Confirmed from the broadcast: **white Block N helmet, white jersey, scarlet pants**, the first look at the new white road set in a game, with scarlet numerals and scarlet shoulder stripes on the jersey. Michigan State wore all green. Anthony Colandrea threw touchdown passes of 44 yards to Kwazi Gilmer and 13 yards to Vincent Genatone, Genatone added a one-yard run in the fourth quarter, and Nebraska won the Big Ten opener 31-13 to move to 4-0.
 
 **October 3 vs. Maryland.** Scarlet expected. Kickoff time is still to be announced.
 

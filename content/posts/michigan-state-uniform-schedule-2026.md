@@ -50,7 +50,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **September 19 at Notre Dame.** ★ Confirmed: **white helmet with the green Spartan, white jersey, white pants**, head to toe white. That answers the open question on this date. Michigan State wore a green helmet over the white set on the road at USC and Nebraska last season and went back to the white shell in South Bend. Notre Dame wore the gold helmet, navy jersey and gold pants and won 27-10. The NBC broadcast produced no ESPN frames, so this is confirmed from Notre Dame's own game photography. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) tracks the Irish side.
 
-**September 26 vs. Nebraska.** ★ Confirmed from the broadcast: **all green**, green helmet with the Greek key stripe, green jersey and green pants, the same set as the Eastern Michigan win. Michigan State had called a white out before the game, but every frame we saw from the BTN broadcast shows the Spartans in green from helmet to cleats, so we go with the frames. Nebraska wore a white helmet, white jersey and scarlet pants. Liam Boyd kicked two field goals and Jaziun Patterson ran in from two yards, but Nebraska answered the opening field goal with 17 straight points and won 31-13, and the Spartans fell to 2-2 in the Big Ten opener at Spartan Stadium. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026) for the Huskers.
+**September 26 vs. Nebraska.** ★ Confirmed from the broadcast: **all green**, green helmet with the Greek key stripe, green jersey and green pants, the same set as the Eastern Michigan win. Nebraska wore a white helmet, white jersey and scarlet pants. Liam Boyd kicked two field goals and Jaziun Patterson ran in from two yards, but Nebraska answered the opening field goal with 17 straight points and won 31-13, and the Spartans fell to 2-2 in the Big Ten opener at Spartan Stadium. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026) for the Huskers.
 
 **October 3 at Wisconsin.** White expected. It is Homecoming at Camp Randall Stadium, and the Badgers are expected in red. Kickoff time is still to be announced. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) has the Badgers' side.
 
@@ -78,7 +78,7 @@ Michigan State has used the green jersey and the Greek key green helmet in both 
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore all green, green helmet, green jersey and green pants, against Nebraska on Saturday, September 26, a 31-13 loss at Spartan Stadium, confirmed from the broadcast. The school had called a white out before kickoff, but the team took the field in green. The week before, the Spartans went head to toe white at Notre Dame. Next up is a trip to Wisconsin on October 3, where white is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore all green, green helmet, green jersey and green pants, against Nebraska on Saturday, September 26, a 31-13 loss at Spartan Stadium, confirmed from the broadcast. The week before, the Spartans went head to toe white at Notre Dame. Next up is a trip to Wisconsin on October 3, where white is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 

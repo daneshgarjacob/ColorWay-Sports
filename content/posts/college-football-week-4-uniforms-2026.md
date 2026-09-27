@@ -242,7 +242,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Nebraska 31, Michigan State 13 (Final)**, 5 p.m., BTN.
 - [Nebraska](/stories/nebraska-uniform-schedule-2026): **Worn**, white Block N helmet, white jersey, scarlet pants, the redesigned white road set in its first game. Anthony Colandrea threw two touchdown passes, Vincent Genatone scored twice, and the Huskers are 4-0.
-- [Michigan State](/stories/michigan-state-uniform-schedule-2026): **Worn**, all green, green helmet with the Greek key stripe, green jersey, green pants. Michigan State had called a white out before the game, but the broadcast frames show the team in green head to toe, so the frames win. The Spartans scored first on a Liam Boyd field goal, then trailed 24-10 at the half and fell to 2-2.
+- [Michigan State](/stories/michigan-state-uniform-schedule-2026): **Worn**, all green, green helmet with the Greek key stripe, green jersey, green pants. The Spartans scored first on a Liam Boyd field goal, then trailed 24-10 at the half and fell to 2-2.
 
 ### Also in the Afternoon
 
