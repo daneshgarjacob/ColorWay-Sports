@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **September 19 at Kansas State.** ★ Confirmed from the broadcast: **white helmet, white jersey, light blue pants**, the road white given a lift by the sky blue below it at Bill Snyder Family Stadium. Kansas State wore the silver helmet, purple jersey and silver pants for a third straight week and won 31-20. You can follow the other side on our [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026). Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has the rest of the slate.
 
-**September 26 vs. Southern Miss.** ★ Confirmed by Tulane: **sky blue helmet, sky blue jersey, sky blue pants**, all sky blue for the Battle for the Bell at Yulman Stadium, 6 p.m. Central on ESPN+. We had green down, and a rivalry game at home turned out to be exactly the sort of date Tulane uses for something extra.
+**September 26 vs. Southern Miss.** ★ Confirmed by Tulane: **sky blue helmet, sky blue jersey, sky blue pants**, all sky blue for the Battle for the Bell at Yulman Stadium, and the broadcast frames match. We had green down, and a rivalry game at home turned out to be exactly the sort of date Tulane uses for something extra. Southern Miss came in all white, white helmet with the gold Southern Miss wordmark, white jersey and white pants. The Golden Eagles led 21-14 after three quarters, then Cooper Helmke kicked a field goal and Maurice Turner broke a 74-yard touchdown run, his second of the night in a 200-yard game, and Tulane won 24-21 to keep the Bell and move to 2-2.
 
 **October 3.** Bye.
 
@@ -106,13 +106,13 @@ It is also worth saying what the City Edition series is and is not. Tulane intro
 
 ## The Bottom Line
 
-Tulane spent its best uniform of the year in Week 2 and that was clearly the plan, because the Mardi Gras set was built for a home night in New Orleans and nothing else on the schedule would have suited it. What is left is a straightforward color pattern with one open question: green at home, white on the road, and a sky blue alternate sitting in the equipment room waiting for a Friday night or Homecoming. The grid above has every date with the expected jersey, and we add a star as each uniform is confirmed.
+Tulane spent its best uniform of the year in Week 2 and that was clearly the plan, because the Mardi Gras set was built for a home night in New Orleans and nothing else on the schedule would have suited it. What is left is a straightforward color pattern with one open question: green at home, white on the road, and the sky blue alternate, which came out head to toe for the 24-21 Battle for the Bell win over Southern Miss. The grid above has every date with the expected jersey, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Tulane wearing this week?**
 
-Tulane plays at Kansas State on Saturday, September 19 at 11 a.m. Central on ESPN2, and the white road jersey is expected with Kansas State in purple at home. The Green Wave last wore the Mardi Gras City Edition against South Alabama on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Tulane wore all sky blue against Southern Miss on Saturday, September 26: sky blue helmet, sky blue jersey and sky blue pants for the Battle for the Bell, announced by the team before the game and confirmed on the broadcast, and won 24-21 to move to 2-2. The week before, the Green Wave wore a white helmet, white jersey and light blue pants in a 31-20 loss at Kansas State. Tulane has a bye on October 3, then plays at Army on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 

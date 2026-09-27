@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
   <div style="background: #ffffff; color: #14284b; border: 2px solid #EAAA00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #002855; color: #ffffff; border: 2px solid #EAAA00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UT Martin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia (Charlotte)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Gold</div></div>
-  <div style="background: #EAAA00; color: #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
+  <div style="background: #EAAA00; color: #111111; border: 2px solid #002855; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Coal Rush Black</div></div>
   <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy or Gold</div></div>
@@ -52,7 +52,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 **September 19 vs. Virginia, Bank of America Stadium, Charlotte.** ★ Confirmed from the broadcast: **navy helmet with the gold Flying WV, white jersey, gold pants**. The helmet was the open question going in, navy or the new gloss white, and it was navy. West Virginia won 38-27 in the Duke's Mayo Classic, where ESPN listed Virginia as the home team, which put the Mountaineers in the visitor's white. Virginia wore the white helmet, orange jersey and white pants it had announced; see the [Virginia 2026 uniform schedule](/stories/virginia-uniform-schedule-2026).
 
-**September 26 vs. Oklahoma State.** Gold expected. Gold Rush is the Big 12 home opener, and West Virginia wore gold jerseys with gold pants for Gold Rush last season, so we expect the gold jersey again with Oklahoma State in white. Kickoff is 7 p.m. Eastern on FS1. See what the Cowboys pack on the [Oklahoma State 2026 uniform schedule](/stories/oklahoma-state-uniform-schedule-2026).
+**September 26 vs. Oklahoma State.** ★ Confirmed pregame and confirmed from the broadcast: **navy helmet with the gold Flying WV, gold jersey, navy pants** for Gold Rush, posted as ["GOLD RUSH, Game 4"](https://x.com/WVUfootball/status/2103260374573236271). West Virginia wore gold pants with the gold jersey for Gold Rush last season, and this time went traditional below the belt. Oklahoma State came in with a black helmet, white jersey and black pants. Mike Hawkins Jr. ran for three touchdowns and the Mountaineers led 14-3, but the Cowboys scored 38 of the last 48 points and won 41-24, and West Virginia fell to 3-1 in the Big 12 opener. See what the Cowboys pack on the [Oklahoma State 2026 uniform schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
 **October 3 at Iowa State.** White expected. First Big 12 road game, at Jack Trice Stadium.
 
@@ -74,13 +74,13 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 ## The Bottom Line
 
-Two games in, West Virginia has shown two very different looks: head-to-toe white for the Pat White retirement and navy over gold pants for UT Martin. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Four games in, West Virginia has shown four different looks: head-to-toe white for the Pat White retirement, navy over gold pants for UT Martin, white over gold pants in Charlotte, and the gold jersey over navy pants for Gold Rush against Oklahoma State. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia plays Virginia in the Duke's Mayo Classic in Charlotte on Saturday, September 19, and white is expected because ESPN lists Virginia as the home team. WVU has not announced the helmet or pants yet. Last week against UT Martin it wore the navy helmet, navy jersey, and gold pants. The grid above lists every game with the expected set.
+West Virginia wore Gold Rush against Oklahoma State on Saturday, September 26: navy helmet with the gold Flying WV, gold jersey and navy pants, posted by the team before the game and confirmed on the FS1 broadcast, in a 41-24 loss. The week before, in Charlotte, it wore the navy helmet, white jersey and gold pants in a 38-27 win over Virginia. Next up is at Iowa State on October 3, where white is expected. The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 

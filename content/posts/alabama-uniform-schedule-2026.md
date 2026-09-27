@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
   <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #9E1B32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
-  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #9E1B32; color: #ffffff; border: 1px solid #7d1527; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -54,7 +54,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **September 19 vs. Florida State**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the marquee non-conference game. Florida State answered in the gold helmet and white jersey over **garnet pants**, which settles the question its own page had open all week. Alabama won 50-36 after trailing 14-3 and then scoring 23 in the second quarter. More: [Florida State uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
-**September 26 vs. South Carolina**, Tuscaloosa. Crimson.
+**September 26 vs. South Carolina**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the SEC home opener. South Carolina came in all white, white helmet, white jersey and white pants. Keelon Russell threw for 365 yards and four touchdowns, two of them to Ryan Coleman-Williams, Red Morgan returned an interception for a score, and Alabama won 49-18 to move to 4-0. More: [South Carolina uniform schedule](/stories/south-carolina-uniform-schedule-2026).
 
 **October 3 at Mississippi State**, Starkville. Road. White.
 
@@ -90,7 +90,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Alabama wearing this week?**
 
-Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
+Alabama wore crimson at home against South Carolina on Saturday, September 26: crimson helmet, crimson jersey and white pants, confirmed from the broadcast, in a 49-18 win. Next up is at Mississippi State on October 3, where white is expected. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
 
 **Does Alabama have alternate uniforms in 2026?**
 

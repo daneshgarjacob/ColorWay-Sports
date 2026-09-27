@@ -3,7 +3,7 @@ title: "Kansas State Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "Kansas State uniform schedule 2026: every K-State jersey game by game, the purple home uniform, white road set, silver helmet, and what the Wildcats wear this week."
 gradient: "linear-gradient(135deg, #512888 0%, #3d1f66 55%, #A7A9AC 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
   <div style="background: #512888; color: #ffffff; border: 2px solid #A7A9AC; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nicholls</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Purple / Silver</div></div>
   <div style="background: #512888; color: #ffffff; border: 2px solid #A7A9AC; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Purple / Silver</div></div>
   <div style="background: #512888; color: #ffffff; border: 2px solid #D1D1D1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Purple / Silver</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #512888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / Silver</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #512888; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #512888; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -50,7 +50,7 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
 
 **September 19 vs. Tulane.** ★ Confirmed from the broadcast: **silver helmet, purple jersey, silver pants**, a third straight week in the same home set to close non-conference play on Harley Day and University Family Weekend. Tulane answered in a white helmet, white jersey and light blue pants. Kansas State won 31-20. The last time Tulane came to Manhattan, in 2022, K-State debuted its white Walking Willie helmet, and the equipment room stayed with the standard shell this time. More on the visitor in our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026).
 
-**September 26 at Cincinnati.** White expected. The Big 12 opener at Nippert Stadium kicks off at 6 p.m. Central, 7 p.m. Eastern, and the visitor wears white.
+**September 26 at Cincinnati.** ★ Confirmed from the broadcast: **silver helmet, white jersey, silver pants**, the standard road set for the Big 12 opener at Nippert Stadium. Cincinnati answered in all black under the lights. Kansas State led 17-10 at halftime, Avery Johnson threw for 292 yards and Derrick Salley Jr. caught seven passes for 140, but Cole Tabb ran for three second half touchdowns for the Bearcats, and the Wildcats lost 31-26 to fall to 3-1. More on the home side in our [Cincinnati 2026 uniform schedule](/stories/cincinnati-uniform-schedule-2026).
 
 **October 3.** Bye.
 
@@ -72,13 +72,13 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
 
 ## The Bottom Line
 
-Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and both 2026 games so far have followed that script exactly. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, and Tulane week and Homecoming against Kansas are the two home dates where a change would make the most sense. The grid above has every date, and we add a star as each uniform is confirmed.
+Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and all four 2026 games so far have followed that script exactly, three in purple at home and white at Cincinnati. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, and Tulane week and Homecoming against Kansas are the two home dates where a change would make the most sense. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Kansas State wearing this week?**
 
-Kansas State wore the silver helmet, purple jersey and silver pants against Tulane on Saturday, September 19, and won 31-20. That is the same combination the Wildcats have worn in all three games this season.
+Kansas State wore the silver helmet, white jersey and silver pants at Cincinnati on Saturday, September 26, confirmed from the broadcast, and lost 31-26 in the Big 12 opener. The first three games were all in the home set, silver helmet, purple jersey and silver pants. Next is a bye on October 3, then Houston at home on October 10, where purple is expected.
 
 **What are Kansas State's football uniforms for 2026?**
 

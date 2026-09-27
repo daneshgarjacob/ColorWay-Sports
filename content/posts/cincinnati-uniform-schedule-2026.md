@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-26'
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
   <div style="background: #E00122; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami (OH) (TQL Stadium)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -50,7 +50,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **September 19 vs. Miami (OH), TQL Stadium.** ★ Confirmed from the broadcast: **black helmet, red jersey, black pants**. The Battle for the Victory Bell moved to FC Cincinnati's soccer stadium for the first football game ever played there, Cincinnati was the designated home team, and Miami wore white. Cincinnati trailed 31-21 and won 35-31 in a 3:30 p.m. Eastern kickoff on ESPN+. This is the 129th meeting in one of the oldest non-conference rivalries in college football, Cincinnati leads 61-60-7, and with both schools moving to nine-game conference schedules there is no future game on the books. If the Bearcats have a one-off look planned for 2026, a new venue and a possible series finale is the obvious place for it.
 
-**September 26 vs. Kansas State.** Black or red expected. The Big 12 opener at Nippert kicks off at 7 p.m. Eastern, a second Nipp at Night, and Kansas State wears white as the visitor. See the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026) for the Wildcats' side.
+**September 26 vs. Kansas State.** ★ Confirmed from the broadcast: **black helmet with the red logo, black jersey, black pants**, all black for the Big 12 opener under the lights at Nippert. Kansas State came in with the silver helmet, white jersey and silver pants. The Bearcats trailed 17-10 at halftime, then Cole Tabb ran for three second half touchdowns and Gi'Bran Payne ran for 126 yards, and Cincinnati won 31-26 to move to 4-0. See the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026) for the Wildcats' side.
 
 **October 3 at Arizona.** White expected. First Big 12 road game, and the visitor wears white.
 
@@ -72,13 +72,13 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 ## The Bottom Line
 
-Two games, two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. The Victory Bell game at TQL Stadium is the next reveal. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+The first two games brought two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. Then came black helmet, red jersey and black pants for the Victory Bell game at TQL Stadium, and all black for the 31-26 Big 12 opener win over Kansas State, which makes four games in four different combinations. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati plays Miami (OH) at TQL Stadium on Saturday, September 19, as the designated home team, so a black or red jersey is expected, and the uniform has not been announced yet. Last week against Western Carolina the Bearcats wore a red C-Paw helmet with a black jersey and black pants. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati wore all black against Kansas State on Saturday, September 26: black helmet with the red logo, black jersey and black pants, confirmed from the broadcast, and won the Big 12 opener 31-26 to move to 4-0. The week before, against Miami (OH) at TQL Stadium, the Bearcats wore a black helmet, red jersey and black pants. Next up is at Arizona on October 3, where white is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 

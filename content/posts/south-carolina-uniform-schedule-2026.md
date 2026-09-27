@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
   <div style="background: #73000A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Garnet / White</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Towson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cocky Helmet / Black / White</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Garnet</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -50,7 +50,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **September 19 vs. Mississippi State.** ★ Confirmed from the broadcast: **garnet helmet, garnet jersey, garnet pants**, head to toe garnet for the SEC opener at Williams-Brice. We had garnet down for the jersey and white for the pants, and the Gamecocks went garnet below the belt too. Mississippi State came in with the maroon helmet over a white jersey and white pants, and won 41-34 after South Carolina had led 13-0. More: [Mississippi State uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
-**September 26 at Alabama.** White expected. Alabama wears crimson at home, so South Carolina goes white at Bryant-Denny Stadium for a 7 p.m. Eastern kickoff. The Tide side is on our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
+**September 26 at Alabama.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white at Bryant-Denny Stadium against Alabama in crimson over white pants. LaNorris Sellers hit Nyck Harbor for a 41-yard touchdown and Matt Fuller ran for 112 yards, but Keelon Russell threw four touchdown passes for Alabama, and the Gamecocks lost 49-18 to fall to 2-2. The Tide side is on our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
 **October 3 vs. Kentucky.** Garnet expected. We have [Kentucky](/stories/kentucky-uniform-schedule-2026) in white for the trip to Columbia.
 
@@ -78,7 +78,7 @@ Two games into the Nike era, South Carolina has shown two very different looks: 
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore all garnet against Mississippi State on Saturday, September 19: garnet helmet, garnet jersey and garnet pants for the SEC opener, confirmed from the broadcast, in a 41-34 loss. Last week against Towson the Gamecocks wore a glossy black helmet with Cocky on the sides, black jersey and white pants. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore all white at Alabama on Saturday, September 26: white helmet, white jersey and white pants, confirmed from the broadcast, in a 49-18 loss. The week before, the Gamecocks wore all garnet, garnet helmet, garnet jersey and garnet pants, in a 41-34 loss to Mississippi State. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 

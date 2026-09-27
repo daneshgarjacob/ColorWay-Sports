@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -32,7 +32,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #FF7300; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Murray State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -50,7 +50,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 **September 19 vs. Murray State.** ★ Confirmed from the broadcast: **orange helmet with the OSU brand and a black facemask, orange jersey with the 1980s arm stripes, white pants**. It is the first time the orange shell has come out in 2026 after two games under the white one, and the third distinct combination in three weeks, which is the whole point of this page. Family Weekend, with an FCS visitor making its first trip to Stillwater, and Oklahoma State won 59-0.
 
-**September 26 at West Virginia.** White expected. Morgantown in late September, the first Big 12 road trip. Orange or black pants under a white jersey are both live options.
+**September 26 at West Virginia.** ★ Confirmed pregame and confirmed from the broadcast: **black helmet with the orange OSU brand, white jersey, black pants**, posted as a [Week 4 uni drop](https://x.com/CowboyFB/status/2103265919422308585) and the first black helmet and black pants of the season. West Virginia answered in Gold Rush, a blue helmet, gold jersey and blue pants. The Cowboys came back from 14-3 down, Drew Mestemaker threw for 389 yards and three touchdowns, Caleb Hawkins ran for 180, and Oklahoma State won the Big 12 opener 41-24 in Morgantown to move to 3-1. More: [West Virginia uniform schedule](/stories/west-virginia-uniform-schedule-2026).
 
 **October 3.** Bye.
 
@@ -72,13 +72,13 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 ## The Bottom Line
 
-Everywhere else in this series the question is which of two jerseys comes out. At Oklahoma State the question is which helmet, which jersey and which pants, and the answer arrives on social media a day or two before kickoff. Two weeks in, the closet has already produced all white and the classic orange over white with the Pistol Pete lid. We log each one here as it lands.
+Everywhere else in this series the question is which of two jerseys comes out. At Oklahoma State the question is which helmet, which jersey and which pants, and the answer arrives on social media a day or two before kickoff. Four weeks in, the closet has already produced all white, the classic orange over white with the Pistol Pete lid, orange over white under the orange shell, and black, white, black for the 41-24 win at West Virginia. We log each one here as it lands.
 
 ## Frequently Asked Questions
 
 **What jersey is Oklahoma State wearing this week?**
 
-Oklahoma State wore an orange jersey with white pants and the white Pistol Pete helmet to beat Oregon on September 12, one week after an all-white uniform at Tulsa. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff. The grid above lists every game with the expected look and is updated as each combination is confirmed.
+Oklahoma State wore a black helmet with the orange OSU brand, a white jersey and black pants at West Virginia on Saturday, September 26, posted by the team before the game and confirmed on the FS1 broadcast, and won 41-24 to move to 3-1. It was the first black of the season. Oklahoma State has a bye on October 3, then hosts UCF on October 10, where orange is expected. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
 
 **What are Oklahoma State's uniforms for 2026?**
 
