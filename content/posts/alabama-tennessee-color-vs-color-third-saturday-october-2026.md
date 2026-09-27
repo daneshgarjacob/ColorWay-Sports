@@ -10,7 +10,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Uniform News
 league: "college"
-teams: []
+teams: ["alabama-crimson-tide", "tennessee-volunteers"]
 ---
 
 This is the best uniform news of the college football offseason and it is not particularly close. Alabama and Tennessee announced Wednesday that **both teams will wear their home jerseys** when they meet on the Third Saturday in October, in 2026 and again in 2027. Crimson against orange, no white anywhere on the field.

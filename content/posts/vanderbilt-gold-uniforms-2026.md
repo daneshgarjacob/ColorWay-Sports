@@ -9,7 +9,7 @@ coverImage: "/images/posts/vanderbilt-gold-2026/vanderbilt-gold-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["vanderbilt-commodores"]
 ---
 
 <img src="/images/posts/vanderbilt-gold-2026/vanderbilt-gold-full.jpg" alt="Vanderbilt Commodores new all-gold 2026 football uniform, with gold helmet, gold jersey with white numbers outlined in black, and matching gold pants" style="width: 100%; border-radius: 10px;" />

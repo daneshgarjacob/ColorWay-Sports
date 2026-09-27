@@ -11,7 +11,7 @@ coverImagePosition: "center 32%"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["colorado-state-rams", "pac-12"]
 resurfaceOnUpdate: true
 ---
 

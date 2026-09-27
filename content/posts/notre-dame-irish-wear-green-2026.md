@@ -9,7 +9,7 @@ kicker: College Football
 coverImage: "/images/posts/notre-dame-irish-wear-green-2026/cover.jpg"
 coverImagePosition: "center 42%"
 league: "college"
-teams: []
+teams: ["notre-dame-fighting-irish"]
 ---
 
 <img src="/images/posts/notre-dame-irish-wear-green-2026/cover.jpg" alt="Notre Dame 2026 Irish Wear Green football jersey by Under Armour with gold-trimmed white number 26 and the Fighting Irish leprechaun" style="width: 100%; border-radius: 10px; margin-bottom: 0.4em;" />

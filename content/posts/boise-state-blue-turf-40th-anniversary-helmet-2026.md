@@ -10,7 +10,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Uniform Review
 league: "college"
-teams: []
+teams: ["boise-state-broncos"]
 ---
 
 The Blue turns 40 this season, and Boise State built a helmet for it that is almost entirely made of references. Not a blue helmet with a commemorative decal slapped on the side. **Every element on this shell points at a specific piece of the field's history**, which is a much harder brief and a much better result.

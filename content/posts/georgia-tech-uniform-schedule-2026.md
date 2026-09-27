@@ -9,7 +9,7 @@ gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["georgia-tech-yellow-jackets", "acc"]
 resurfaceOnUpdate: true
 ---
 

@@ -12,7 +12,7 @@ coverImagePosition: "center 40%"
 coverImageFit: "cover"
 kicker: Uniform Review
 league: "college"
-teams: []
+teams: ["miami-hurricanes"]
 ---
 
 Miami has brought back the uniforms of the 2001 national championship team, and did the thing almost nobody does with a throwback: released **both** versions. The orange home set and the white road set, together, on the same day.

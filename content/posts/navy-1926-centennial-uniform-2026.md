@@ -11,7 +11,7 @@ coverImagePosition: "center 20%"
 coverImageFit: "cover"
 kicker: Uniform Review
 league: "college"
-teams: []
+teams: ["navy-midshipmen"]
 ---
 
 Navy is turning 100 years of history into a football uniform. On September 15 the Naval Academy and Under Armour revealed a commemorative set honoring the **1926 national championship team**, the only national title in program history, and it goes on the field **Saturday, October 31 against Notre Dame at Gillette Stadium**.

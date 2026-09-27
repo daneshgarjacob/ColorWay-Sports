@@ -9,7 +9,7 @@ coverImage: "/images/posts/georgia-all-white-2026/georgia-all-white-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["georgia-bulldogs"]
 ---
 
 <img src="/images/posts/georgia-all-white-2026/georgia-all-white-unleashed.jpg" alt="Georgia Bulldogs new all-white 2026 football uniform, with white helmet, white jersey with black numbers and red trim, and white pants" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

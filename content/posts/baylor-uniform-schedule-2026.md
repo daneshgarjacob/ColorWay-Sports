@@ -12,7 +12,7 @@ coverImagePosition: "center top"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["baylor-bears", "big-12"]
 resurfaceOnUpdate: true
 ---
 

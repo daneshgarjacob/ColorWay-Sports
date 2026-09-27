@@ -11,7 +11,7 @@ coverImagePosition: "center 30%"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["texas-tech-red-raiders", "big-12"]
 resurfaceOnUpdate: true
 ---
 

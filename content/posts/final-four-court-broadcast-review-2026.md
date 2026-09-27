@@ -5,7 +5,7 @@ date: "2026-04-04"
 excerpt: "The Final Four court is actually growing on us. The baselines, the uniforms, and the center logo all look great on TV. The broadcast graphics are a different story."
 gradient: "linear-gradient(135deg, #001F5B 0%, #E84A27 100%)"
 logoSrc: "/logos/final-four-2026.png"
-league: "college"
+league: "cbb"
 teams: []
 coverImage: "/images/posts/final-four-court-uniforms-2026/uconn-court.jpg"
 coverImagePosition: "center 90%"
