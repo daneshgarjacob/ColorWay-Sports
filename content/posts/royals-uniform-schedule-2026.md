@@ -160,6 +160,14 @@ The powder blue full set is the Royals' established practice, announced in 2025,
 
 Every Friday home game. The "Forever Fountains" City Connect is team-confirmed for Friday home dates in 2026 and debuted during the April 10 through 12 home series against the White Sox.
 
+**What City Connect jerseys have the Royals had?**
+
+Two. The first was a navy set built around Kansas City's "City of Fountains" nickname, with a new "KC" logo on the chest and cap, unveiled April 25, 2022 and first worn April 30, 2022. It was worn from 2022 through 2025. The second is the white "Forever Fountains" set with fuchsia-to-blue gradient trim, unveiled April 9, 2026 and first worn April 10, 2026, and it is the Royals' Friday home uniform in 2026.
+
+**What happened to the Royals' blue City Connect jersey?**
+
+It was retired. The navy "KC" City Connect ran from 2022 through 2025, and the Royals replaced it in 2026 with the white "Forever Fountains" set, which keeps the fountains theme but moves it onto a white base with a sunset gradient. The old blue version is no longer part of the on-field rotation.
+
 **Do the Royals have a uniform for every day of the week?**
 
 No. Outside of the Friday City Connect and Saturday powder blue home anchors, there is no rigid day-by-day rotation. The home default is the white jersey and uniform, the road default is the gray, and the royal blue alternate is worn at the team's discretion. There is no documented Sunday rule.

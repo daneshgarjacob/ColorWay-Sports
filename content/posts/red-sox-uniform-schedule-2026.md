@@ -180,6 +180,10 @@ The yellow Marathon-inspired City Connect is Boston's every-Saturday home jersey
 
 That's the Fenway Green City Connect, unveiled in 2025 and inspired by the Green Monster — scoreboard-style numerals, yellow numbers, and "1912" on the collar. It's worn for Friday night home games.
 
+**What City Connect jerseys have the Red Sox had?**
+
+Two, and both are still worn. The yellow and light blue Boston Marathon set, with "BOSTON" across the chest and a "617" sleeve patch, was unveiled April 6, 2021 and first worn April 17, 2021 against the White Sox on Patriots' Day weekend, which made Boston the first team to wear a City Connect. The green "Fenway Greens" set, inspired by the Green Monster, was unveiled and first worn on the same day, May 16, 2025, against the Braves. Neither has been retired: in 2026 the yellow owns Saturday home games and the green owns Fridays.
+
 **When do the Red Sox wear the red jersey?**
 
 Since 2025, the red alternate has been Boston's Friday road uniform — the first time since 1933 the club has worn "RED SOX" instead of "BOSTON" on the road.

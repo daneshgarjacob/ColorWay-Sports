@@ -161,6 +161,10 @@ It's a red jersey revealed in 2025 as a collaboration with the Chicago Bulls. It
 
 It wasn't retired. When the new red City Connect arrived for 2025, the original charcoal-and-white "Southside" kit converted into a regular alternate uniform, so it remains an available option in the 2026 rotation rather than the team's primary City Connect.
 
+**What City Connect jerseys have the White Sox had?**
+
+Two, and both are still available. The charcoal "Southside" set, with "Southside" in Gothic lettering inspired by Chicago's Greystone architecture, was unveiled May 28, 2021 and first worn June 5, 2021. It was the White Sox City Connect from 2021 through 2024. The red Bulls collaboration, with a "CHICAGO" wordmark and red and black pinstripes, was unveiled April 28, 2025 and first worn May 2, 2025 against the Astros. Since 2025 the red set is the City Connect, and Southside has moved into a regular alternate slot.
+
 **Do the White Sox still wear the 1983 navy throwback?**
 
 No. The navy "Winning Ugly"-era v-neck throwback, long worn on select Sundays, was quietly dropped from the rotation after the 2023 season and isn't part of the 2026 lineup.

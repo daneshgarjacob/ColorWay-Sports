@@ -153,6 +153,10 @@ The orange alternate is Detroit's Friday home uniform at Comerica Park. It's wor
 
 The "Motor City" City Connect moves to select Monday home games in 2026 and is worn more sparingly than in past seasons, after the orange alternate took over the Friday home slot it previously held.
 
+**What City Connect jerseys have the Tigers had?**
+
+Just one. The "Motor City" City Connect was unveiled May 6, 2024 and first worn May 10, 2024 against the Astros at Comerica Park. It is a midnight navy jersey with "MOTOR CITY" in white italics over a tire-tread graphic, and it has stayed in the closet every season since, now as a select Monday home look in 2026. The Tigers have not released a second City Connect.
+
 **What is the navy Tigers jersey?**
 
 It's the new 2026 road alternate — a navy base with the script "Detroit" in orange and white trim, V-neck collar, and 1984-inspired sleeve striping. The Tigers wear it for select road games rather than on a fixed day of the week.

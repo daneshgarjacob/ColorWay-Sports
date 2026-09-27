@@ -140,9 +140,9 @@ Only one thing matters: whether the Yankees are home or away. Home is pinstripes
 
 It is a deliberate branding choice. Home pinstripes and road grays have been the entire visual identity for over a century, and the team treats that continuity as the brand itself. Adding extra looks would erase part of what makes the Yankees distinct, so they keep the rotation to a simple home-or-road switch.
 
-**Do the Yankees have a City Connect uniform?**
+**Do the Yankees have a City Connect jersey?**
 
-No. The Yankees are one of the few teams that have never participated in MLB's City Connect program. They also skipped Players' Weekend nicknames in 2019 and have never worn Turn Ahead the Clock or Negro Leagues throwback alternates.
+No. The Yankees have never had a City Connect uniform since Nike launched the program in 2021, and as of the 2026 season they and the Athletics are the only MLB teams without one. Their on-field look stays the home pinstripes and road grays.
 
 **Do the Yankees wear names on the back of their jerseys?**
 

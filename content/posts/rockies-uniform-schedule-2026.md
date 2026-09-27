@@ -154,6 +154,14 @@ The purple alternate is the centerpiece of "Purple Mondays," a tradition since 2
 
 It's a pullover jersey with a cobalt-blue top fading to a purple bottom, the team's mountain logo on the chest, ripstop numbers nodding to the ski and snowboard industry, and a cap lined with the Denver city flag. The colors capture a Colorado day turning to night — light blue and snow giving way to razor pink and laser orange.
 
+**What City Connect jerseys have the Rockies had?**
+
+Two. The first was the green and white set modeled on the Colorado license plate, with "COLORADO" across the chest in the plate's typeface, unveiled May 27, 2022 and first worn June 4, 2022. It was worn from 2022 through 2024. The second is the blue-to-purple pullover built around a Colorado sunrise and sunset, unveiled April 12, 2025 and first worn April 18, 2025, and it is the Rockies' Friday home uniform in 2025 and 2026.
+
+**What happened to the Rockies' green City Connect jersey?**
+
+It was retired after the 2024 season. The green and white license-plate City Connect debuted in June 2022, and September 2024 was its final month on the field. The Rockies replaced it in 2025 with the blue-to-purple pullover City Connect they still wear today.
+
 **Did the Rockies bring back the black vest?**
 
 No. The black sleeveless alternate from the Rocktober era was shelved when the City Connect program began and is not part of the 2026 rotation. A black jersey was spotted at the team store this spring, but the team has not confirmed any return.

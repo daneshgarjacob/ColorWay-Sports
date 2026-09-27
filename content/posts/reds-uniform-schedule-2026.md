@@ -110,7 +110,7 @@ This is the newest piece in the closet and the one that made headlines. Unveiled
 
 ## Black City Connect — The Original "C" Set (Friday Home Games)
 
-The first Reds City Connect, introduced in 2023 with Nike, didn't go away — it just changed jobs. The primarily black uniform features "CINCY" across the chest, a modified diamond-shaped "C" on the cap and sleeve, an Ohio buckeye emblem, and the city's Latin motto "Juncta Juvant" ("Strength in Unity") worked into the details. For 2023 through 2025 it was the team's lone City Connect; for 2026, with the red set taking over Saturdays, the black "C" was officially reassigned as the Friday-night home alternate. Keeping it around rather than mothballing it gives the Reds a genuine two-City-Connect rotation, and it lets fans who bought into the original design still see it under the lights once a week.
+The first Reds City Connect, introduced in 2023 with Nike, didn't go away — it just changed jobs. The primarily black uniform features "CINCY" across the chest, a reimagined wishbone "C" striped with red and black wavelength lines on the cap and sleeve, a buckeye leaf inside the collar, and the city's Latin motto "Juncta Juvant" ("Strength in Unity") worked into the details. For 2023 through 2025 it was the team's lone City Connect; for 2026, with the red set taking over Saturdays, the black "C" was officially reassigned as the Friday-night home alternate. Keeping it around rather than mothballing it gives the Reds a genuine two-City-Connect rotation, and it lets fans who bought into the original design still see it under the lights once a week.
 
 
 ## How the Reds Rotation Actually Works
@@ -151,6 +151,10 @@ The all-red City Connect 2.0, unveiled in April 2026, is worn for Saturday home 
 
 No. The original black "C" City Connect from 2023 wasn't retired — for 2026 it was reassigned as the team's Friday-night home alternate, running alongside the new red set.
 
+**What City Connect jerseys have the Reds had?**
+
+Two, and both are in the 2026 rotation. The first is the all-black set with "CINCY" across the chest, unveiled May 13, 2023 and first worn May 19, 2023 against the Yankees. It was the Reds' only City Connect from 2023 through 2025 and is now the Friday home alternate. The second is the all-red City Connect 2.0, unveiled April 9, 2026 and first worn April 11, 2026, and it is worn for Saturday home games.
+
 **What do the Reds wear on the road?**
 
 The gray road set with "CINCINNATI" arched across the chest in red, worn with the two-tone cap (red crown, black bill). It's the default for most away games.
@@ -175,7 +179,7 @@ Blue is the Father's Day look. On Sunday, June 21, 2026, the Reds and the rest o
 
 **What hat are the Reds wearing?**
 
-The all-red cap with the white wishbone "C" goes with the home pinstripes and the red alternate, and the road grays get the two-tone cap with a red crown and black bill. The all-red City Connect on Saturdays has a matching red cap, and the black "C" City Connect on Fridays carries a modified diamond-shaped "C" on the cap.
+The all-red cap with the white wishbone "C" goes with the home pinstripes and the red alternate, and the road grays get the two-tone cap with a red crown and black bill. The all-red City Connect on Saturdays has a matching red cap, and the black "C" City Connect on Fridays carries a reimagined wishbone "C" striped with red and black wavelength lines on the cap.
 
 ## More MLB Coverage
 

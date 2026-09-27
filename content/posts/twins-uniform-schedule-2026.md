@@ -169,6 +169,10 @@ Five: the home white, the road pinstripe gray, the navy alternate, the cream "Tw
 
 The blue "Ripple Effect" City Connect, introduced in June 2024, is the team's most-scheduled look — worn mostly on Friday home games at Target Field. It features a lake-ripple sublimation pattern, a white "MN" chest patch, and a cap with a yellow state silhouette and northern lights.
 
+**What City Connect jerseys have the Twins had?**
+
+Just one. The blue "Ripple Effect" City Connect was unveiled June 10, 2024 and first worn June 14, 2024 at Target Field. It celebrates the Land of 10,000 Lakes with a lake-ripple pattern and an "MN" logo on the chest, and it has been worn every season since, including 2026. The Twins have not released a second City Connect.
+
 **What is the new navy Twins jersey for 2026?**
 
 It's the redesigned navy alternate. The chest wordmark switched from "Minnesota" to a white "Twins" script — the first road-friendly "Twins" front in about 40 years — and the shoulder now carries a Minnesota-state-shaped patch with a star marking Target Field. It's mostly a road look with no fixed day.

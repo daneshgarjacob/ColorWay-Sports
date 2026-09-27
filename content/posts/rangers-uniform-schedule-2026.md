@@ -173,6 +173,14 @@ The powder blue is Texas's Sunday home jersey. It's a throwback to the team's ba
 
 It's the "Tejas" kit, unveiled in April 2026 — a deep cochineal-red jersey and cap with "Tejas" across the chest, white pants, and a papel picado sleeve patch shaped around the outline of Texas. It honors the Mexican heritage of the Dallas–Fort Worth area and is worn for Friday home games.
 
+**What City Connect jerseys have the Rangers had?**
+
+Two. The first was the cream "Peagle" set, unveiled April 17, 2023 and first worn April 21, 2023 against the Athletics, with a Gothic "TX" on the chest and a sleeve patch of the Peagle, a mash-up of the old Fort Worth Panthers and Dallas Eagles mascots. It ran from 2023 through 2025. The second is the red "Tejas" set, unveiled April 9, 2026 and first worn April 24, 2026 against the Athletics, and it is the Rangers' Friday home uniform in 2026.
+
+**What happened to the Rangers' Peagle City Connect jersey?**
+
+It was retired. The cream Peagle City Connect was worn for three seasons, 2023 through 2025, and the Rangers played their final game in it in September 2025. The red "Tejas" City Connect replaced it in 2026, so the Peagle set is no longer part of the on-field rotation.
+
 **When do the Rangers wear the red jersey?**
 
 The only red in the 2026 rotation is the "Tejas" City Connect, which is the team's Friday-night home look at Globe Life Field. There is no separate red alternate beyond it.

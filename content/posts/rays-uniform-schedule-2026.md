@@ -162,6 +162,10 @@ The 1998 rainbow Devil Rays throwbacks have been Tampa Bay's look for most Frida
 
 It's the "Grit x Glow" set introduced in 2024 — a sun-faded black jersey with "Tampa Bay" in grip-tape, skateboard-style lettering, a Devil Rays-inspired neon gradient running from the right sleeve to the left pant leg, and a cap combining a stingray with the Sunshine Skyway Bridge. It's worn for most Saturday home games.
 
+**What City Connect jerseys have the Rays had?**
+
+Just one. The "Grit x Glow" City Connect was unveiled April 29, 2024 and first worn May 3, 2024 against the Mets at Tropicana Field. It is a sun-faded black and gray jersey with "Tampa Bay" across the chest and neon accents, and the Rays have kept it in the rotation every season since, including 2026. They have not released a second City Connect.
+
 **Do the Rays wear a gray road uniform?**
 
 Not in the current set. Since 2023 the Rays have used their Columbia blue and navy alternates on the road over gray pants instead of a traditional gray jersey. In March 2026 the team ran a fan vote on four new gray "TAMPA BAY" road designs, so a gray road jersey may return — but as of now it's a proposal, not a confirmed on-field uniform.
