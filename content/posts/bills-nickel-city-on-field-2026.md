@@ -2,7 +2,7 @@
 title: "Josh Allen Wore the Bills' Nickel City Uniform at Camp, and Seeing It on the Field Dropped Our Grade to a C−"
 category: "NFL"
 date: "2026-08-08"
-updatedDate: "2026-08-08"
+updatedDate: "2026-09-27"
 excerpt: "The Bills wore Nickel City on the field for the first time. The gray jersey washes out at distance and the helmet carries the whole uniform. Downgraded to C−."
 gradient: "linear-gradient(135deg, #9EA2A2 0%, #00338D 55%, #C60C30 120%)"
 cardStyle: words
@@ -13,6 +13,8 @@ league: "nfl"
 teams:
   - buffalo-bills
 ---
+
+**Game day update, Sunday, September 27:** Nickel City makes its regular-season debut today at 1 p.m. ET, Buffalo at home against the Los Angeles Chargers at Highmark Stadium. The Bills wear the gray jersey and gray pants under the blue Charge helmet, and the Chargers are confirmed in all white under the white helmet. We will add how it looked in a real game, and whether the grade moves, as soon as the final is in. Every Week 3 look is in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 The Buffalo Bills put the Nickel City uniform on real players for the first time, and the quarterbacks led the way. Josh Allen and the rest of the room wore the gray jersey and the new blue "Charge" helmet at Highmark Stadium during training camp, which means we finally got to see the set the way fans will actually see it in Week 3: in motion, on grass, under real light, instead of on a studio mannequin.
 
@@ -89,6 +91,10 @@ Twice at home in 2026, both confirmed: **Week 3 against the Chargers on Sunday, 
 The Charge helmet is a genuine hit and it deserves a better jersey than the one it is bolted to. Nickel City is not offensive, it is not a gimmick, and the concept behind it is more honest than most alternate-uniform storytelling. It just does not work at the distance football is actually watched from. **C−**, down from the C+ we gave it at the reveal, and the entire gap between those two grades is what happens when you take a uniform out of the studio.
 
 ## Frequently Asked Questions
+
+**Are the Bills wearing Nickel City today?**
+
+Yes. The Bills debut the Nickel City uniform in a regular-season game on Sunday, September 27, 2026, at home against the Los Angeles Chargers: gray jersey, gray pants and the blue Charge helmet. The Chargers wear all white.
 
 **Did Josh Allen wear the Bills Nickel City uniform?**
 
