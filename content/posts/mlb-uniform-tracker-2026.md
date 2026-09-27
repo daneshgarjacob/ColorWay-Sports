@@ -149,6 +149,11 @@ Saturday brings 13 games, and we log each one as its uniforms are confirmed. The
 
 ### St. Louis Cardinals at Milwaukee Brewers
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #6CACE4 0%, #ffffff 50%, #12284B 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(18,40,75,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -175,6 +180,9 @@ Saturday brings 13 games, and we log each one as its uniforms are confirmed. The
   </div>
 </div>
 </div>
+</div>
+
+The Clash goes to American Family Field. St. Louis brought the powder blue road set to Milwaukee's home pinstripes, and it is the best-looking pairing on the board: a soft, sky blue top with the birds on the bat against Milwaukee's white pinstripes with the navy and gold. Powder blue on the road is a look most teams only dream about, and the Cardinals are one of the few that wear it like it belongs to them. The oldest rivalry in the NL Central, dressed like it.
 
 ### Texas Rangers at Minnesota Twins
 
