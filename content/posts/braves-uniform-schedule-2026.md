@@ -4,7 +4,7 @@ title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
 updatedDate: "2026-09-26"
-excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Fridays."
+excerpt: "The Atlanta Braves run a five-uniform rotation for 2026. Home whites, road grays, red and navy weeknight alternates, and the new powder blue City Connect on Saturdays."
 gradient: "linear-gradient(135deg, #13274F 0%, #CE1141 50%, #13274F 100%)"
 coverImage: "/images/posts/braves-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -16,7 +16,7 @@ teams: ["atlanta-braves"]
 
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Braves Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, September 26, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Road Gray</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Braves at Miami Marlins &middot; 4:10 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Marlins.</div><div data-cap="All Navy" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: All Navy</div><a href="/mlb-tracker/braves" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
-The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Braves wordmark for the bulk of home games at Truist Park. Road grays with the Atlanta script for most away games. A red alternate and a navy alternate splitting select weeknights. The new powder blue City Connect for Friday night home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
+The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Braves wordmark for the bulk of home games at Truist Park. Road grays with the Atlanta script for most away games. A red alternate and a navy alternate splitting select weeknights. The new powder blue City Connect for Saturday home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #CE1141 0%, #CE1141cc 100%);">
@@ -61,7 +61,7 @@ The Atlanta Braves have one of the deeper uniform closets in the National League
     <div style="padding: 1.2em 0.3em; background: #8FBCE6; color: #13274F;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">📺</div>
       <div style="font-weight: 800; font-size: 0.8em; line-height: 1.2;">City Connect</div>
-      <div style="font-size: 0.65em; color: #13274F; opacity: 0.75; margin-top: 0.3em;">Friday</div>
+      <div style="font-size: 0.65em; color: #13274F; opacity: 0.75; margin-top: 0.3em;">Saturday</div>
     </div>
     <div style="padding: 1.2em 0.3em; background: #ffffff; color: #13274F; border-right: 1px solid #eee;">
       <div style="font-size: 1.4em; margin-bottom: 0.2em;">🏟️</div>
@@ -76,7 +76,7 @@ The Atlanta Braves have one of the deeper uniform closets in the National League
   </div>
 </div>
 
-Here is how the Braves uniform rotation breaks down for the 2026 season. Home whites carry the bulk of the home calendar at Truist Park. The powder blue City Connect is locked to Friday night home games. The red and navy alternates get pulled for select weeknights to break up the white-on-white routine. Road games stay in the traditional gray road set with the Atlanta script across the chest. The rotation is balanced enough to give fans a different look on most days of a homestand without losing the franchise's primary identity.
+Here is how the Braves uniform rotation breaks down for the 2026 season. Home whites carry the bulk of the home calendar at Truist Park. The powder blue City Connect is locked to Saturday home games. The red and navy alternates get pulled for select weeknights to break up the white-on-white routine. Road games stay in the traditional gray road set with the Atlanta script across the chest. The rotation is balanced enough to give fans a different look on most days of a homestand without losing the franchise's primary identity.
 
 ## Home Whites (Most Home Games)
 
@@ -111,19 +111,19 @@ The red alternate is the colored jersey the Braves are actually putting on in 20
 Atlanta's other weeknight alternate. Navy base carrying the same script, worn on the occasional midweek date — the Braves put it on for a Wednesday game on June 24. It shows up less often than the red does, so of the two colored jerseys the red is the one to expect on a given weeknight, with the navy the rarer sighting.
 
 
-## City Connect (Friday Night Home Games)
+## City Connect (Saturday Home Games)
 
 <img src="/images/posts/braves-city-connect-2026/braves-cc-pitcher-hallway.jpg" alt="Atlanta Braves player wearing the full 2026 powder blue City Connect uniform, with the Atlanta script jersey, cream pants, and the powder blue cap with the red lowercase a" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
-The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white "The A" kit it had worn from 2023 through 2025 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
+The Braves City Connect uniform anchors Saturday home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white "The A" kit it had worn from 2023 through 2025 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
 
-The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
+The Saturday slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
 
 
 ## Why This System Works
 
-The Braves found a balance most MLB teams cannot pull off. The home whites and road grays still carry the majority of the calendar so the franchise's primary identity stays in front of the broadcast every night. The City Connect gets a fixed Friday night slot and the red and navy alternates split the weeknight rotation. Every alternate has its lane. None of them step on the others.
+The Braves found a balance most MLB teams cannot pull off. The home whites and road grays still carry the majority of the calendar so the franchise's primary identity stays in front of the broadcast every night. The City Connect gets a fixed Saturday slot and the red and navy alternates split the weeknight rotation. Every alternate has its lane. None of them step on the others.
 
 The result is a closet that gives fans a new look on most days of a homestand without losing the visual through-line that ties every Braves uniform back to the Atlanta script and the red and navy palette. The Phillies and Marlins are the only other teams in baseball running a true scheduled rotation, and the Braves are right behind them. More teams should treat their uniform schedule the way Atlanta does.
 
@@ -133,21 +133,21 @@ Every jersey the Braves wear gets logged the morning after in our [MLB daily uni
 
 **What jersey are the Atlanta Braves wearing today?**
 
-The Braves run one of baseball's closest things to a scheduled rotation, so the day tells you a lot. The powder blue City Connect is locked to Friday night home games, and the red and navy alternates get pulled for select weeknights, often Tuesday or Wednesday. Most other home games are the home whites, and every road game stays in the gray Atlanta set. Check the day of the week and whether Atlanta is home or away to land on the right look.
+The Braves run one of baseball's closest things to a scheduled rotation, so the day tells you a lot. The powder blue City Connect is locked to Saturday home games, and the red and navy alternates get pulled for select weeknights, often Tuesday or Wednesday. Most other home games are the home whites, and every road game stays in the gray Atlanta set. Check the day of the week and whether Atlanta is home or away to land on the right look.
 
 **What jersey did the Braves wear last night?**
 
-A Friday home night was the powder blue City Connect, which is locked to that slot. Tuesday and Wednesday nights are where the red and navy alternates usually get pulled. Any other home night was the home whites, and every road game stays in the gray Atlanta set regardless of the hour.
+A Saturday home game was the powder blue City Connect, which is locked to that slot. Tuesday and Wednesday nights are where the red and navy alternates usually get pulled. Any other home night was the home whites, and every road game stays in the gray Atlanta set regardless of the hour.
 
 For the uniform we logged in their most recent game, see the [Braves uniform tracker](/mlb-tracker/braves), which we update every morning.
 
 **What uniform are the Braves wearing tonight?**
 
-Friday night at Truist Park is the powder blue City Connect. A Tuesday or Wednesday night is the most likely spot for the red or navy alternate. Any other home night is the home whites, and on the road it is the gray Atlanta set every time.
+Saturday at Truist Park is the powder blue City Connect. A Tuesday or Wednesday night is the most likely spot for the red or navy alternate. Any other home night is the home whites, and on the road it is the gray Atlanta set every time.
 
 **What are the Braves wearing tomorrow?**
 
-The Braves run one of the closest things to a scheduled rotation in baseball, so tomorrow's day tells you most of it. Friday night at home is the powder blue City Connect, select weeknights are the red or navy alternates, other home games are the whites, and all road games are the grays.
+The Braves run one of the closest things to a scheduled rotation in baseball, so tomorrow's day tells you most of it. Saturday at home is the powder blue City Connect, select weeknights are the red or navy alternates, other home games are the whites, and all road games are the grays.
 
 **How many uniforms do the Braves have in 2026?**
 
@@ -155,7 +155,7 @@ Five in active rotation: the home whites, the road grays, the red alternate, the
 
 **When do the Braves wear the City Connect uniform?**
 
-On Friday night home games at Truist Park. Atlanta replaced the old white "The A" kit in April 2026 with a powder blue V-neck pullover that revives the TBS Superstation era of the 1980s, carrying the Atlanta script in white with red and royal blue outlines and an ATL sleeve patch drawn from the old TBS logo.
+On Saturday home games at Truist Park. Atlanta replaced the old white "The A" kit in April 2026 with a powder blue V-neck pullover that revives the TBS Superstation era of the 1980s, carrying the Atlanta script in white with red and royal blue outlines and an ATL sleeve patch drawn from the old TBS logo.
 
 **What City Connect jerseys have the Braves had?**
 
@@ -171,11 +171,11 @@ Not so far in 2026. The cream 1966 throwback is still sold as a current alternat
 
 **Do the Braves follow a strict uniform rotation?**
 
-Mostly, yes. The Braves are one of the few teams that run close to a true scheduled rotation, with the City Connect fixed to Fridays and the home whites and road grays carrying the rest. The looser pieces are the red and navy alternates, which are weeknight looks but are not locked to a single day.
+Mostly, yes. The Braves are one of the few teams that run close to a true scheduled rotation, with the City Connect fixed to Saturdays and the home whites and road grays carrying the rest. The looser pieces are the red and navy alternates, which are weeknight looks but are not locked to a single day.
 
 **What hat are the Braves wearing?**
 
-The classic navy cap with the white script lowercase "a" goes with the home whites, and the all-navy road version travels with the grays. The powder blue cap with a red lowercase "a" belongs to the powder blue City Connect, so a light blue hat means a Friday night home game at Truist Park.
+The classic navy cap with the white script lowercase "a" goes with the home whites, and the all-navy road version travels with the grays. The powder blue cap with a red lowercase "a" belongs to the powder blue City Connect, so a light blue hat means a Saturay night home game at Truist Park.
 
 ## More MLB Uniform Coverage
 
@@ -184,6 +184,6 @@ The classic navy cap with the white script lowercase "a" goes with the home whit
 - [Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal Sundays](/stories/marlins-uniform-schedule-2026) — the weekend uniform schedule that gave every weekend home game its own look
 - [Yankees Uniform Schedule 2026](/stories/yankees-uniform-schedule-2026) — the simplest rotation in baseball
 - [Dodgers Uniform Schedule 2026](/stories/dodgers-uniform-schedule-2026) — the four-jersey LA rotation
-- [Braves City Connect 2026 Official](/stories/braves-city-connect-2026-official) — the deep dive on the ATL wordmark Friday night jersey
+- [Braves City Connect 2026 Official](/stories/braves-city-connect-2026-official) — the deep dive on the Saturday City Connect
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL East</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/marlins-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Miami Marlins 2026 Uniform Schedule</a><a href="/stories/mets-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">New York Mets 2026 Uniform Schedule</a><a href="/stories/phillies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Philadelphia Phillies 2026 Uniform Schedule</a><a href="/stories/nationals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Washington Nationals 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
