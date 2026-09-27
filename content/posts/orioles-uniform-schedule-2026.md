@@ -185,6 +185,14 @@ It is a brand-new cream "BMORE" set built around the theme "From the Stoop to th
 
 Every Friday home game in 2026, starting April 10. This is the only fixed, team-announced day-of-week rule in the Orioles uniform rotation.
 
+**What City Connect jerseys have the Orioles had?**
+
+Two. The first was the black City Connect with "Baltimore" across the chest in a block font inspired by the Globe Collection and Press at MICA, plus a colorful neighborhood mosaic printed inside the jersey. It was unveiled on May 22, 2023. The second is the cream "BMORE" set with green sleeves, unveiled on April 9, 2026 and first worn on April 10, 2026 against the Giants. The BMORE set is the Orioles' City Connect for 2026 and is worn every Friday at home.
+
+**What happened to the Orioles' black City Connect jersey?**
+
+It was retired and replaced. The all-black "Baltimore" City Connect that debuted in May 2023 gave way to the new cream-and-green "BMORE" set, which took over Friday home games starting April 10, 2026. The black set is no longer part of the rotation.
+
 **Do the Orioles have a set uniform schedule like the Phillies?**
 
 No. Unlike the Phillies or Cardinals, the Orioles do not run a strict day-by-day rotation. The one firm rule is the City Connect on Friday home games. Everything else, including the home whites, road grays, and the orange and black alternates, is left to the team's discretion with no published day-of-week pattern.

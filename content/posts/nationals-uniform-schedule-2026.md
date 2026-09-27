@@ -105,7 +105,7 @@ The navy alternate is the darker counterpart to the red — a navy jersey with t
 
 ## City Connect — The "District Blueprint" (Friday and Saturday Home Games)
 
-This is the newest and most conceptually loaded piece in the closet, and it replaced a fan favorite. The original Cherry Blossom City Connect — the pink-and-cream kit introduced in 2022 — was retired after the 2024 season under MLB and Nike's plan to refresh City Connect designs after about three years. In its place, the Nationals unveiled the "District Blueprint" for 2025: a denim-blue ("American denim") jersey whose design traces the street grid of Washington, D.C. — its quadrants, grand avenues, and traffic circles — in a white blueprint motif. The chest carries a 3D interlocking "DC" logo, a callback to both the original Senators and the Nationals' 2006-2010 look, the cap swaps in a block "W" with the Capitol Dome inside it flanked by cherry blossoms, and the white pants add a mosaic trim meant to represent the city's diversity. It debuted on the season's opening weekend in 2025 and has anchored Friday and Saturday home games ever since. It's busy, it's specific, and it is unmistakably Washington — a thoughtful follow-up to one of the most beloved kits the program ever produced.
+This is the newest and most conceptually loaded piece in the closet, and it replaced a fan favorite. The original Cherry Blossom City Connect, the gray-and-pink kit introduced in 2022, was retired after the 2024 season under MLB and Nike's plan to refresh City Connect designs after about three years. In its place, the Nationals unveiled the "District Blueprint" for 2025: a denim-blue ("American denim") jersey whose design traces the street grid of Washington, D.C. — its quadrants, grand avenues, and traffic circles — in a white blueprint motif. The chest carries a 3D interlocking "DC" logo, a callback to both the original Senators and the Nationals' 2006-2010 look, the cap swaps in a block "W" with the Capitol Dome inside it flanked by cherry blossoms, and the white pants add a mosaic trim meant to represent the city's diversity. It debuted on the season's opening weekend in 2025 and has anchored Friday and Saturday home games ever since. It's busy, it's specific, and it is unmistakably Washington — a thoughtful follow-up to one of the most beloved kits the program ever produced.
 
 <div style="margin: 1.5em 0; padding: 1.5em; background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; text-align: center;">
 <img src="/images/posts/nationals-uniform-schedule-2026/nationals-city-connect.jpg" alt="Washington Nationals 2026 District Blueprint City Connect jersey by Nike, blue with a DC street-map pattern and the interlocking DC monogram" style="max-width: 340px; width: 100%; border-radius: 6px;" />
@@ -149,9 +149,13 @@ Five: the script "Nationals" home white, the "WASHINGTON" road gray, the red "cu
 
 The denim-blue "District Blueprint" City Connect is Washington's Friday and Saturday home look. It debuted on the 2025 opening weekend and has anchored those two weekend nights at Nationals Park ever since.
 
-**What happened to the Cherry Blossom City Connect?**
+**What City Connect jerseys have the Nationals had?**
 
-It was retired after the 2024 season. The pink-and-cream Cherry Blossom kit ran from 2022 through 2024 — one of the most popular City Connects in the league — before MLB and Nike's roughly three-year refresh cycle replaced it with the new "District Blueprint" design for 2025. You won't see the Cherry Blossom on the field in 2026.
+Two. The first was the Cherry Blossom City Connect, a dark gray (anthracite) jersey with pink trim and a cherry blossom print, unveiled on March 29, 2022 and first worn on April 9, 2022 against the Mets. It was worn from 2022 through 2024. The second is the denim-blue "District Blueprint" set with a D.C. street-grid pattern and an interlocking "DC" on the chest, first worn on March 29, 2025, during the opening weekend. It is still the Nationals' City Connect in 2026.
+
+**What happened to the Nationals' Cherry Blossom City Connect jersey?**
+
+It was retired after the 2024 season. The gray-and-pink Cherry Blossom kit ran from April 2022 through 2024, one of the most popular City Connects in the league, before MLB and Nike's roughly three-year refresh cycle replaced it with the "District Blueprint" design for 2025. You won't see the Cherry Blossom on the field in 2026.
 
 **When do the Nationals wear the red jersey?**
 

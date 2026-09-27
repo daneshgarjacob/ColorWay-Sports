@@ -193,6 +193,10 @@ At home, night games are the red pinstripes and day games are the creams, with t
 
 The powder blues with maroon caps are worn on Thursdays at Citizens Bank Park. The creams are worn for daytime home games, excluding Thursdays. The City Connect, a midnight navy design with "Philly" lettering, is worn on Friday night home games.
 
+**What City Connect jerseys have the Phillies had?**
+
+Just one. The Phillies' only City Connect is the midnight navy "Philly" set with Liberty Bell cracks inside the lettering, unveiled on April 5, 2024 and first worn on April 12, 2024. It has been worn every season since, 2024 through 2026, and it has not been retired or replaced.
+
 **Are the Phillies wearing an All-Star Game patch in 2026?**
 
 Yes. The Phillies wear an All-Star Game logo on both their caps and sleeves throughout the entire 2026 season, since the Midsummer Classic is coming to Citizens Bank Park on July 14.

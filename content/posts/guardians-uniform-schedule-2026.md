@@ -153,6 +153,10 @@ The navy "CLE" City Connect is Cleveland's Friday-home look at Progressive Field
 
 That's the City Connect. The deep-navy jersey reads "CLE" in a layered, stone-carved art-deco font, pairs with sandstone-tan pants and red socks featuring a Guardian statue, and is worn on Friday home games.
 
+**What City Connect jerseys have the Guardians had?**
+
+Just one. Cleveland's only City Connect is the navy "CLE" set built around the Guardians of Traffic statues, unveiled in May 2024 and first worn on May 17, 2024. It has been worn every season since, 2024 through 2026, and it has not been retired or replaced.
+
 **When do the Guardians wear the red jersey?**
 
 The red alternate has no fixed day. It's mostly a home alternate the Guardians drop in across the homestand for a splash of color. In 2025 its chest lettering changed from a cursive script to the team's blockier Bridge Print font.

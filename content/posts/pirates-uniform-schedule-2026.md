@@ -142,9 +142,13 @@ Four: the home white, the road gray "Pittsburgh" script, the black alternate, an
 
 The 2026 City Connect debuted on Friday, April 17 against the Tampa Bay Rays and is worn for every Friday home game at PNC Park the rest of the season. It's an all-black uniform with gold gothic "Pirates" lettering and a touch of red.
 
-**What happened to the yellow Pirates City Connect?**
+**What City Connect jerseys have the Pirates had?**
 
-It was retired. The bright yellow "PGH" kit worn from 2023 through 2025 was replaced for 2026 by an all-black, gold-lettered design. The biggest visual change is the chest, where "PGH" gave way to a fuller arched "Pirates" wordmark.
+Two. The first was the bright yellow City Connect with "PGH" across the chest in black, with lettering textured after Pittsburgh's bridges. It was unveiled in June 2023, first worn on June 27, 2023, and used from 2023 through 2025. The second is the all-black set with an arched gold "Pirates" wordmark and red accents, first worn on Friday, April 17, 2026 against the Rays. It is the Pirates' City Connect for 2026.
+
+**What happened to the Pirates' yellow "PGH" City Connect jersey?**
+
+It was retired after the 2025 season. The bright yellow "PGH" kit worn from June 2023 through 2025 was replaced for 2026 by an all-black, gold-lettered design. The biggest visual change is the chest, where "PGH" gave way to a fuller arched "Pirates" wordmark.
 
 **Why does the Pirates road jersey say "Pittsburgh" in script?**
 

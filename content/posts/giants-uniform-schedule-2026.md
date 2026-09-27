@@ -20,7 +20,7 @@ teams:
 
 The Giants carry five uniforms in 2026, and the closet got a real shake-up this year. The big news is the new Gigantes alternate, a black-and-orange jersey with cream pants that honors the franchise's Latino heritage. It joins a rotation that already had a clear backbone at Oracle Park: certain themed jerseys are tied to specific home days. If you know the day of the week, you can usually guess the look. We walk through every jersey below and lay out when each one comes out.
 
-One thing to clear up first, because it trips up almost everyone, including plenty of Giants fans: **San Francisco does not have a plain white home jersey.** Their home uniform is cream. In bright Oracle Park daylight the cream reads white on camera, which is why you will see it described both ways, but it is one jersey, not two. The only true-white top the Giants own is the City Connect.
+One thing to clear up first, because it trips up almost everyone, including plenty of Giants fans: **San Francisco does not have a plain white home jersey.** Their home uniform is cream. In bright Oracle Park daylight the cream reads white on camera, which is why you will see it described both ways, but it is one jersey, not two. The old white "fog" City Connect was retired after 2024, and the current City Connect is black, so there is no true-white top in the 2026 rotation at all.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #FD5A1E 0%, #FD5A1Ecc 100%);">
@@ -92,7 +92,7 @@ This is the one that causes the confusion, so we will be direct about it: the cr
 
 It carries the black-and-orange "Giants" script across the chest and pairs with the black cap and its orange interlocking SF. The base is a warm off-white that looks unmistakably cream in the shade or under the lights, and washes out to something very close to true white in direct Oracle Park sun. That is the whole reason people describe it two different ways, and why you will find listings and even some team coverage splitting it into a "home white" and a "cream alternate." There is only one jersey.
 
-There is nothing fancy about it, and that is the point. It is the anchor of the rotation, the baseline the themed jerseys play off of, and one of the better daytime looks in the National League when the cream really catches the sun. If you want the tell for a game photo: the "Giants" wordmark means the cream home, and the orange gradient "G" means the City Connect, which is the only genuinely white top they own.
+There is nothing fancy about it, and that is the point. It is the anchor of the rotation, the baseline the themed jerseys play off of, and one of the better daytime looks in the National League when the cream really catches the sun. If you want the tell for a game photo: a light jersey with the "Giants" wordmark is the cream home. The only other home tops are the orange, the black Gigantes set, and the black music City Connect.
 
 
 ## Road Gray
@@ -179,6 +179,14 @@ The Giants wear the orange alternate for Friday night home games. It is the long
 
 It is the 2025 black "music" set, a psychedelic design inspired by 1960s Fillmore concert posters with a warped "Giants" script and a tie-dye SF cap. There is no new City Connect for 2026, so this jersey carries the program forward. The Giants wear it on Tuesday home games and the occasional concert night.
 
+**What City Connect jerseys have the Giants had?**
+
+Two. The first was the white "fog" City Connect, unveiled on July 5, 2021 and first worn July 9, 2021 against the Nationals: a white jersey with orange trim, a Golden Gate Bridge graphic, and a fog gradient rising from the bottom of the lettering and numbers. It was worn from 2021 through 2024. The second is the black "music" City Connect, unveiled and first worn on April 8, 2025 against the Reds, with a psychedelic "Giants" script inspired by 1960s concert posters. It is still the Giants' City Connect in 2026. The Gigantes set is a regular alternate, not a third City Connect.
+
+**What happened to the Giants' Golden Gate "fog" City Connect jersey?**
+
+It was retired after the 2024 season. The white fog-gradient set with the Golden Gate Bridge graphics ran from July 2021 through 2024, then was replaced in April 2025 by the black "music" City Connect the Giants still wear on Tuesdays at Oracle Park.
+
 **What is the new patch on the Giants jersey in 2026?**
 
 It is the Airwallex advertisement patch, new for 2026. It replaced the Chevrolet/Cruise patch the Giants previously wore and appears on every jersey in the rotation.
@@ -189,7 +197,7 @@ Five: the cream home jersey, the road gray, the orange "Orange Friday" alternate
 
 **Do the Giants have a white home jersey?**
 
-Not a plain white one. The Giants' home uniform is cream, and it fills every home date the themed days do not claim. It reads close to white in bright sun at Oracle Park, which is why it often gets listed as a "home white" and a separate "cream alternate," but those are the same jersey. The only true-white top in the rotation is the City Connect, which you can spot by the orange gradient "G" instead of the "Giants" script.
+Not a plain white one. The Giants' home uniform is cream, and it fills every home date the themed days do not claim. It reads close to white in bright sun at Oracle Park, which is why it often gets listed as a "home white" and a separate "cream alternate," but those are the same jersey. The Giants did wear a true-white City Connect from 2021 through 2024, the Golden Gate "fog" set, but it was retired, and the current City Connect is black.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NL West</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/diamondbacks-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Arizona Diamondbacks 2026 Uniform Schedule</a><a href="/stories/rockies-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Colorado Rockies 2026 Uniform Schedule</a><a href="/stories/dodgers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Los Angeles Dodgers 2026 Uniform Schedule</a><a href="/stories/padres-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">San Diego Padres 2026 Uniform Schedule</a><a href="/stories/mlb-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 30 teams &middot; the 2026 MLB Uniform Schedule &rarr;</a></div>
 

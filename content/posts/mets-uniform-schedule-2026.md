@@ -196,6 +196,10 @@ The black alternate has become the Mets' Friday-night home look at Citi Field in
 
 It's a concrete-gray jersey with "NYC" across the chest, subway-symbol pinstripes made of circles and diamonds, purple 7-line accents, and a cap featuring the Queensboro Bridge steelwork. Introduced in April 2024, it's worn for Saturday home games.
 
+**What City Connect jerseys have the Mets had?**
+
+Just one. The Mets' only City Connect is the concrete-gray "NYC" set with subway-symbol pinstripes and purple 7-line accents, unveiled in April 2024 and first worn on April 27, 2024. It has been worn every season since, 2024 through 2026, and it has not been retired or replaced.
+
 **When do the Mets wear the blue alternate jersey?**
 
 There's no fixed day for it. The blue alternate is manager's choice — most often a road jersey, though in 2026 the Mets have also worn it at home with the white pinstriped pants. That's exactly why it isn't pinned to the weekly grid.

@@ -91,7 +91,7 @@ Here is how the Miami Marlins uniform rotation breaks down for the 2026 season. 
 
 ## Retro Wave Fridays (City Connect)
 
-Miami wears the Retro Wave uniform for every Friday home game at loanDepot park. The team officially branded it as Retro Wave, and it is the City Connect jersey the Marlins debuted in 2021. Neon pink, teal, and black pulled straight from the Miami Vice era and the art deco storefronts of South Beach. The cap is matte black with a hot pink brim. The "Miami" wordmark across the chest uses a script that looks like it was pulled off a 1985 convertible.
+Miami wears the Retro Wave uniform for every Friday home game at loanDepot park. The team officially branded it as Retro Wave, and it is the City Connect jersey the Marlins debuted in 2025, replacing their original red Sugar Kings City Connect from 2021. Neon pink, teal, and black pulled straight from the Miami Vice era and the art deco storefronts of South Beach. The cap is matte black with a hot pink brim. The "Miami" wordmark across the chest uses a script that looks like it was pulled off a 1985 convertible.
 
 This one works because it matches the city. Most City Connects feel forced, like a designer handed a team a mood board with no actual connection to the market. The Marlins' Retro Wave is one of the few that ties directly into the visual identity of where the team plays. Tying it to Friday nights is the right call too, because the neon reads best under the lights and Friday is when Miami fills the ballpark. Owning the weekend kickoff with the most distinctive jersey in the closet is smart scheduling.
 
@@ -153,7 +153,15 @@ The Marlins assigned three weekend home jerseys for the 2026 season: the Retro W
 
 **What is the Marlins Retro Wave jersey?**
 
-The Retro Wave is the Miami Marlins City Connect uniform, first introduced in 2021 and designed around the Miami Vice era with neon pink, teal, and black. The Marlins officially brand it as Retro Wave, and they wear it for every Friday home game at loanDepot park in 2026.
+The Retro Wave is the Miami Marlins City Connect uniform, first worn on May 3, 2025 and designed around the Miami Vice era with neon pink, teal, and black. The Marlins officially brand it as Retro Wave, and they wear it for every Friday home game at loanDepot park in 2026.
+
+**What City Connect jerseys have the Marlins had?**
+
+Two. The first was the red "Sugar Kings" City Connect, a red pinstriped jersey honoring the Havana Sugar Kings, the Cuban Triple-A club of the 1950s. It was unveiled in May 2021, first worn on May 21, 2021, and used from 2021 through 2024. The second is the black "Retrowave" City Connect with a teal "Miami" wordmark, pink pinstripes, and a "305" cap, unveiled on April 30, 2025 and first worn on May 3, 2025 against the Athletics. Retrowave is still the Marlins' City Connect in 2026.
+
+**What happened to the Marlins' red Sugar Kings City Connect jersey?**
+
+It was retired after the 2024 season. The red Sugar Kings set ran from May 2021 through 2024, and in 2025 it was replaced by the black-and-neon Retrowave City Connect, which the Marlins still wear in 2026.
 
 **When do the Miami Marlins wear their teal jerseys in 2026?**
 
