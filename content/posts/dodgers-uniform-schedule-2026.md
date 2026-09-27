@@ -145,6 +145,10 @@ Four are in active rotation: the home whites, the road grays, the royal blue roa
 
 The cream "City of Dreamers" City Connect anchors Saturday home games at Dodger Stadium. It debuted on June 22, 2024, against the Angels, the Dodgers' second City Connect design, and it has settled into a fixed Saturday slot, so fans always know when to expect it.
 
+**What happened to the Dodgers "Los Dodgers" City Connect jersey?**
+
+It was retired after the 2023 season. The all-blue "Los Dodgers" City Connect, with the name written across the chest in Spanish, was the Dodgers' first City Connect uniform, unveiled in August 2021 as part of Nike's first group of seven teams. The Dodgers wore it from 2021 through 2023, changing the cap and pants along the way, then replaced it with their second City Connect design, which debuted on June 22, 2024. It has not been worn on the field since.
+
 **When do the Dodgers wear the royal blue road alternate?**
 
 The royal blue road alternate is not the default road look. The Dodgers pull it for select road series, and the rest of the away calendar stays in the traditional road grays.
