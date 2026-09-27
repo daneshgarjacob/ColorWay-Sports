@@ -1,11 +1,11 @@
 ---
-title: "MLB Postseason Uniforms 2026: What Teams Wear in the Playoffs and Who Picks the Jersey"
+title: "MLB Postseason Uniforms 2026: Wild Card Matchups, What Every Playoff Team Wears and Who Picks the Jersey"
 author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-16"
-updatedDate: "2026-09-22"
-excerpt: "MLB postseason uniforms explained: who picks the playoff jerseys, whether City Connects are allowed, the October patches, and what the likely 2026 contenders wear."
+updatedDate: "2026-09-27"
+excerpt: "The 2026 MLB playoff field is set. Every Wild Card matchup, what each team is expected to wear, who picks the jersey, and the October patches."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
 kicker: "Explainer"
@@ -17,6 +17,22 @@ teams: []
 So what do MLB teams wear in the playoffs? Mostly the classics. In October the home team almost always wears its home white (or its pinstripes, or its cream) and the road team wears its road gray. The alternates that fill up a September slate mostly go back in the closet. Mostly. Every October a few clubs break the pattern, and those are the jerseys people remember.
 
 The 2026 postseason opens with the Wild Card Series on **September 29**. The Division Series runs October 3 to 10, the League Championship Series October 11 to 20, and the World Series starts **October 23**, with a Game 7, if needed, on Halloween night. Below is how the October uniform call actually works, whether City Connects are allowed, what the postseason patches look like, and what each likely playoff team has been wearing lately. We will log every postseason game, both teams and both jerseys, on our [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+## The 2026 Wild Card Matchups and Expected Uniforms
+
+The regular season ended on Sunday, September 27, and the twelve-team field is set. The Wild Card Series are best of three, every game at the higher seed's park, starting Tuesday, September 29 on NBC and Peacock. The top two seeds in each league have byes into the Division Series, which starts Saturday, October 3.
+
+**Philadelphia Phillies at Atlanta Braves (NL).** Games at 2:00 p.m. ET, Tuesday through Thursday if needed. Atlanta is home all series, so the Braves should be in home whites and the Phillies in road gray. That takes the Phillies' Thursday powder blue off the table, because it is a home jersey. [Braves uniform schedule](/stories/braves-uniform-schedule-2026) · [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026)
+
+**Chicago White Sox at Houston Astros (AL).** Games at 5:00 p.m. ET. Home whites are the default for Houston, with the orange alternate the one we would watch for; the White Sox are in road gray. [Astros uniform schedule](/stories/astros-uniform-schedule-2026) · [White Sox uniform schedule](/stories/white-sox-uniform-schedule-2026)
+
+**Boston Red Sox at New York Yankees (AL).** Games at 8:00 p.m. ET. The easiest call of the round: pinstripes for the Yankees, road gray for Boston, the oldest rivalry in the sport in its oldest clothes. [Yankees uniform schedule](/stories/yankees-uniform-schedule-2026) · [Red Sox uniform schedule](/stories/red-sox-uniform-schedule-2026)
+
+**Chicago Cubs at San Diego Padres (NL).** Games at 10:00 p.m. ET. San Diego's home whites with brown and gold against the Cubs' road gray, unless the Cubs go to the royal blue alternate. [Padres uniform schedule](/stories/padres-uniform-schedule-2026) · [Cubs uniform schedule](/stories/cubs-uniform-schedule-2026)
+
+**Waiting in the Division Series:** the Tampa Bay Rays (vs. Yankees-Red Sox winner) and Cleveland Guardians (vs. Astros-White Sox winner) in the AL, and the Los Angeles Dodgers (vs. Braves-Phillies winner) and Milwaukee Brewers (vs. Padres-Cubs winner) in the NL.
+
+We log every playoff game, both teams and both jerseys, the same night on our [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 ## Who Picks the Jersey
 
@@ -52,7 +68,7 @@ Because almost everyone plays it straight, the exceptions stick.
 
 ## What the 2026 Contenders Wear
 
-Here is the playoff picture as of Wednesday, September 16, from MLB's standings. The Rays, Yankees and Dodgers have clinched spots, and the Brewers have clinched the NL Central. Here is what each likely October team has been wearing on our tracker over the last two weeks and what we expect once the postseason starts.
+All twelve of these teams made the field. The notes below were written on September 16 from our tracker and still describe how each club has dressed down the stretch. Here is what each likely October team has been wearing on our tracker over the last two weeks and what we expect once the postseason starts.
 
 ### American League
 
@@ -76,19 +92,31 @@ Here is the playoff picture as of Wednesday, September 16, from MLB's standings.
 
 **Atlanta Braves (89-63, NL East leader).** Road gray at Wrigley this week, home whites against Tampa Bay, and the red alternate and the powder blue City Connect on back-to-back nights against the Phillies. Home white and road gray are the safe bets. [Braves uniform schedule](/stories/braves-uniform-schedule-2026).
 
-**Philadelphia Phillies (83-68, wild card).** The Phillies run the most predictable schedule in baseball: pinstripes at home, cream for day games, powder blue on Thursdays, gray on the road. They wore the powder blues against Houston last Thursday. Here is the date to circle: the Wild Card Series runs Tuesday through Thursday, so if the Phillies host and the series goes the distance, Game 3 in Philadelphia falls on Thursday, October 1. After 2022 and 2025, powder blue in October is no longer a surprise. [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026).
+**Philadelphia Phillies (83-68, wild card).** The Phillies run the most predictable schedule in baseball: pinstripes at home, cream for day games, powder blue on Thursdays, gray on the road. They wore the powder blues against Houston last Thursday. The Phillies open the Wild Card Series on the road in Atlanta, so the powder blue, a home jersey, would have to wait for a home game in a later round. After 2022 and 2025, powder blue in October is no longer a surprise. [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026).
 
 **Chicago Cubs (84-68, wild card).** Home pinstripes for the whole homestand against the Pirates and Braves, and the royal blue alternate on the road in Milwaukee. The Cubs retired their City Connect after 2024, so the October choice is pinstripes at Wrigley and gray or royal blue away. [Cubs uniform schedule](/stories/cubs-uniform-schedule-2026).
 
 **San Diego Padres (82-69, holding the last wild card).** The Diamondbacks sit two and a half games back. The Padres have worn the sand-colored road set everywhere lately, in San Francisco and in Denver, home whites against Washington, and the camouflage on a Sunday home game. The brown and gold closet is one of the deepest in baseball, so the Padres are a club to watch for a color jersey at home. [Padres uniform schedule](/stories/padres-uniform-schedule-2026).
 
-Standings move every night, so if the Rangers, Blue Jays or Diamondbacks sneak in, we will add them here. For every other club, the [full MLB uniform schedule](/stories/mlb-uniform-schedule-2026) has all 30 closets.
+For every other club, the [full MLB uniform schedule](/stories/mlb-uniform-schedule-2026) has all 30 closets.
 
 ## The Bottom Line
 
 October is when baseball dresses like baseball. The home team picks, the visitors contrast, and most clubs go back to home whites and road grays. City Connects are allowed, and we have not found one ever worn in a playoff game. The real October changes are a postseason patch on the cap and, for the last two teams standing, a small World Series patch on the chest. The fun is in the exceptions: Houston's orange, Philadelphia's powder blue and, in 2026, Milwaukee's new powder blue road set. We will log every postseason game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026), from the first Wild Card game on September 29 to the last out of the World Series.
 
 ## Frequently Asked Questions
+
+**What are the 2026 MLB Wild Card matchups?**
+
+In the American League, the Chicago White Sox play at the Houston Astros and the Boston Red Sox play at the New York Yankees. In the National League, the Philadelphia Phillies play at the Atlanta Braves and the Chicago Cubs play at the San Diego Padres. All four best-of-three series start Tuesday, September 29 or Wednesday, September 30.
+
+**What will the Phillies wear against the Braves in the Wild Card Series?**
+
+Road gray is expected. Every game of the series is in Atlanta, so the Braves are the home team in whites and the Phillies' powder blue, a home jersey, is not in play.
+
+**Which teams have a bye in the 2026 MLB playoffs?**
+
+The Tampa Bay Rays and Cleveland Guardians in the American League, and the Los Angeles Dodgers and Milwaukee Brewers in the National League. They start in the Division Series on Saturday, October 3.
 
 **What do MLB teams wear in the playoffs?**
 
