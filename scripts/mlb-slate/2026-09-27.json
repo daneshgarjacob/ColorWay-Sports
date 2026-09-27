@@ -18,6 +18,14 @@
       "gameNumber": 1
     },
     {
+      "away": "Tampa Bay Rays",
+      "awaySlug": "rays",
+      "home": "Philadelphia Phillies",
+      "homeSlug": "phillies",
+      "time": "2:30 PM ET",
+      "gameNumber": 1
+    },
+    {
       "away": "Chicago Cubs",
       "awaySlug": "cubs",
       "home": "Boston Red Sox",
@@ -38,14 +46,6 @@
       "awaySlug": "dodgers",
       "home": "San Francisco Giants",
       "homeSlug": "giants",
-      "time": "3:05 PM ET",
-      "gameNumber": 1
-    },
-    {
-      "away": "Tampa Bay Rays",
-      "awaySlug": "rays",
-      "home": "Philadelphia Phillies",
-      "homeSlug": "phillies",
       "time": "3:05 PM ET",
       "gameNumber": 1
     },
