@@ -120,6 +120,11 @@ Game 162, the last day of the 2026 regular season, and every uniform is confirme
 
 ### Los Angeles Angels at Seattle Mariners
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BA0021 0%, #F3E7C9 50%, #1E1E1E 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(30,30,30,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #1e1e1e;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -146,6 +151,10 @@ Game 162, the last day of the 2026 regular season, and every uniform is confirme
   </div>
 </div>
 </div>
+
+</div>
+
+The Clash of the Day, on the last day of the season, goes to T-Mobile Park. Seattle wore the Steelheads tribute, a cream jersey with SEATTLE in black outlined in gray and black piping down the front, and the Angels answered in their red alternate. Cream and red is a warm, old-ballpark pairing that no regular home-and-road matchup can produce, and it gave the regular season a proper send-off. Mariners won 7-3.
 
 ### Texas Rangers at Minnesota Twins
 
