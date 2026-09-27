@@ -25,7 +25,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
   return (
     <section aria-label="Browse the tracker by team" className="max-w-[720px] mx-auto px-5 pt-10">
       <div className="border border-black/[0.08] rounded-2xl p-5 sm:p-6 bg-white shadow-[0_1px_10px_rgba(10,23,51,0.04)]">
-        <div className="flex items-baseline justify-between gap-3 mb-4">
+        <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1 sm:gap-3 mb-4">
           <h2 className="text-[13px] font-extrabold uppercase tracking-[0.18em] text-blue-dark m-0">
             Browse by Team
           </h2>
@@ -40,7 +40,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
               <p className="text-[10px] font-bold uppercase tracking-[0.16em] text-black/40 mb-1.5">
                 {div}
               </p>
-              <div className="flex flex-wrap gap-1.5">
+              <div className="flex flex-col items-stretch gap-1.5">
                 {teams
                   .filter((t) => t.division === div)
                   .map((t) => {
@@ -52,7 +52,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                         type="button"
                         disabled={disabled}
                         onClick={() => setSelected(isActive ? null : t.key)}
-                        className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-[12px] font-semibold transition-colors ${
+                        className={`flex w-full min-w-0 items-center gap-1.5 px-2.5 py-1 rounded-full border text-[12px] font-semibold text-left transition-colors ${
                           isActive
                             ? "bg-blue-dark text-white border-blue-dark"
                             : disabled
@@ -75,7 +75,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
                             style={{ background: t.color, opacity: disabled ? 0.35 : 1 }}
                           />
                         )}
-                        {t.name}
+                        <span className="truncate">{t.name}</span>
                       </button>
                     );
                   })}
