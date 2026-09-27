@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **Friday, September 18 vs. Portland State.** ★ Confirmed from the broadcast: **green helmet with the yellow wing, green jersey with yellow numbers, green pants**, the all green look Oregon teased with [three green circles](https://x.com/oregonfootball/status/2100381723284693132) and matched to the Wear Green fan theme in Autzen. Portland State wore white. Oregon won 84-0. A 10:30 p.m. Eastern kickoff, which is why some feeds list it on September 19.
 
-**September 26 at USC.** ★ Confirmed by Oregon: **Warp Speed**, a **silver helmet, white jersey and white pants**, announced on September 23 as the game 4 combination. USC wears its usual home set, cardinal helmet, cardinal jersey and gold pants, so it is cardinal and gold against a silver shell over head-to-toe white at the Coliseum. Silver over white is Oregon at its most futuristic, and against a program as traditional as USC it makes the contrast the whole point.
+**September 26 at USC.** ★ Confirmed by Oregon and from the game photos: **Warp Speed**, a **silver helmet, white jersey and white pants**, announced on September 23 as the game 4 combination. USC wore its usual home set, cardinal helmet, cardinal jersey and gold pants, so it was cardinal and gold against a silver shell over head-to-toe white at the Coliseum. Dante Moore was hurt in the second quarter, Dylan Raiola came on and went 19 of 25 for 289 yards and two touchdowns, Dierre Hill Jr. ran for two more, and Oregon won 41-27 to move to 3-1. More: [USC uniform schedule](/stories/usc-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2102910905017389427"></a></blockquote>
@@ -82,7 +82,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Warp Speed at USC on Saturday, September 26: silver helmet, white jersey, white pants, confirmed by Oregon on September 23. Last week Oregon wore all green against Portland State on Friday, September 18: green helmet with the yellow wing, green jersey with yellow numbers and green pants, with Portland State in white, in an 84-0 win. Before that came green over white over white at Oklahoma State on September 12, and a green jersey with a yellow helmet and yellow pants for the opener against Boise State. Next is USC on Saturday, September 26, and Oregon has confirmed Warp Speed for it: silver helmet, white jersey and white pants, against USC in cardinal and gold. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
+Oregon wore Warp Speed at USC on Saturday, September 26: silver helmet, white jersey and white pants, confirmed by Oregon on September 23 and matched by the game photos, in a 41-27 win over USC in cardinal and gold. The week before, Oregon wore all green against Portland State: green helmet with the yellow wing, green jersey with yellow numbers and green pants, in an 84-0 win. Oregon is off on October 3, and next up is UCLA at Autzen on October 10, where green is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

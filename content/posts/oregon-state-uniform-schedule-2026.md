@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-26"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Montana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -66,7 +66,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/1914408094882287680"></a></blockquote>
 </div>
 
-**September 26 at UTEP.** White expected. A 6 p.m. Pacific kickoff at the Sun Bowl in El Paso and the last of the four non-conference games the new Pac-12 front-loaded onto everybody's schedule.
+**September 26 at UTEP.** ★ Confirmed from the game photos: **white helmet, white jersey, black pants** at the Sun Bowl in El Paso, the last of the four non-conference games the new Pac-12 front-loaded onto everybody's schedule. UTEP wore navy over white. Braden Atkinson threw for 301 yards and three touchdowns, two of them to Jesse Legree, AJ Newberry ran for 111 yards, and Oregon State won 33-7 to get to 2-2.
 
 **October 3 at Colorado State.** White expected. The Pac-12 opener at Canvas Stadium, 3 p.m. Pacific on USA Network, with the Rams expected in green. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for their side.
 
@@ -102,7 +102,7 @@ Two games, two uniforms, one helmet. Oregon State has gone all white on the road
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State hosts Montana at Reser Stadium on Saturday, September 19, at 8 p.m. Pacific, and black is expected under Pac-12 home color rules. The Beavers wore black jersey and black pants with the white helmet in their last home game against Texas Tech. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State wore white at UTEP on Saturday, September 26: white helmet, white jersey and black pants, confirmed from the game photos, in a 33-7 win. Next up is the Pac-12 opener at Colorado State on October 3, where white is expected again. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

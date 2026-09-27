@@ -3,7 +3,7 @@ title: "Missouri Uniform Schedule 2026: Every Jersey, and When the Memorial Stad
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "What Missouri wears every game in 2026, week by week, including the exact date the 100th anniversary throwback jersey hits Faurot Field."
 gradient: "linear-gradient(135deg, #000000 0%, #1b1b1b 55%, #F1B82D 130%)"
 coverImage: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
@@ -80,7 +80,7 @@ Twelve games, seven at Faurot Field, and one bye.
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas-Pine Bluff</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #F1B82D; color: #14140c; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 100th Throwback</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #F1B82D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -98,7 +98,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 19 vs. Troy**, Columbia. **The Memorial Stadium 100th Anniversary Game and the throwback debut.** ★ Confirmed on the field from the broadcast: **black helmet with the narrow block M, black jersey with no chest wordmark, old gold pants**, exactly the set Missouri unveiled on August 20. The one uniform date on this schedule that was locked, and it held. Troy came in with a white helmet, white jersey and maroon pants. Missouri won 27-17, scoring all 24 of its second-quarter points after trailing 10-0.
 
-**September 26 at Mississippi State**, Starkville. Color expected, not white. Mississippi State has confirmed all white at home for its White Out, so Missouri needs a dark jersey, most likely black or gold. We will add the exact set once Missouri posts it.
+**September 26 at Mississippi State**, Starkville. ★ Confirmed from the broadcast: **black helmet, black jersey, black pants**, all black on the road because Mississippi State wore all white at home for its White Out. Austin Simmons threw for 295 yards and three touchdowns and Cayden Lee caught 11 passes for 156 yards and two scores, but Mississippi State rallied in the fourth quarter to win 31-24, and Missouri is 3-1.
 
 **October 3 vs. Florida**, Columbia. First SEC home game, and a strong candidate for the anthracite set if it lands in prime time.
 
@@ -124,7 +124,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **What jersey is Missouri wearing this week?**
 
-Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday. This page is updated as each one is confirmed. Home games are black or gold, road games are white.
+Missouri wore all black at Mississippi State on Saturday, September 26: black helmet, black jersey and black pants, confirmed from the broadcast, in a 31-24 loss, with the Bulldogs in all white for the White Out. Next up is Florida at home on October 3, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
 
 **When does Missouri wear the 100th anniversary throwback uniform?**
 

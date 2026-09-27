@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2100284575943680422"></a></blockquote>
 </div>
 
-**September 26 vs. Arizona.** ★ Confirmed by Washington State: **gray script Cougars helmet, crimson jersey, gray pants**, posted on September 23 as "Stripe Out Threads." It is the first time the script helmet has been out since the 2023 Apple Cup, with the crowd striping Gesa Field in crimson and gray. A 4:30 p.m. Pacific kickoff and the last non-conference game of the year, with Arizona the visitor in white. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats.
+**September 26 vs. Arizona.** ★ Confirmed by Washington State: **gray script Cougars helmet, crimson jersey, gray pants**, posted on September 23 as "Stripe Out Threads." It is the first time the script helmet has been out since the 2023 Apple Cup, with the crowd striping Gesa Field in crimson and gray. The CBS frames match: script helmet, crimson jersey, gray pants. Arizona was the visitor in a white helmet, white jersey and navy pants. Caden Pinnick ran for a touchdown and Jackquintin Bal returned an interception for another to put the Cougars up 14-0, and they led 17-14 at the half, but Arizona won 34-24 and Washington State is 1-3. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats.
 
 **October 3 vs. Fresno State.** Crimson expected. Family Weekend in Pullman, 6:30 p.m. Pacific, and the Pac-12 opener for both teams.
 
@@ -100,7 +100,7 @@ Two road games, two crimson and white looks, and the crimson jersey did not appe
 
 **What jersey is Washington State wearing this week?**
 
-The Ketchup Bottle: white helmet with a crimson facemask, crimson jersey and crimson pants, for the home opener against Duquesne at Gesa Field on Saturday, September 19, at 12:30 p.m. Pacific. The game is a crimson out. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Washington State wore the gray script Cougars helmet, crimson jersey and gray pants for the Stripe Out against Arizona on Saturday, September 26, as posted and confirmed from the broadcast, in a 34-24 loss. Next up is Fresno State at home on October 3, where crimson is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Washington State's football uniforms for 2026?**
 

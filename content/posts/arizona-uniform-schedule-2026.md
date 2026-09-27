@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-20"
+updatedDate: "2026-09-26"
 excerpt: "Arizona football uniforms for 2026: navy home jerseys, the all-white road set, Sandstorm night vs. TCU, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
   <div style="background: #0C234B; color: #ffffff; border: 2px solid #AB0520; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #ffffff; color: #0C234B; border: 2px solid #0C234B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #0C234B; border: 2px solid #0C234B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -51,7 +51,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **September 19 vs. Northern Illinois.** ★ Confirmed: **red jersey**, and the navy we had penciled in never came out. Arizona posted Tre Spivey's postgame interview from the field on Sunday and he is in the red jersey with the white numerals, the navy collar and the navy and white sleeve stripe, which settles the jersey on its own. The team's own win graphic for this game, the one carrying the 42-17 score and the Northern Illinois mark, puts a **white helmet and white pants** with it, so red over white is the full read, with the jersey the piece we have seen in live footage. Arizona had asked fans to wear red for the Hispanic Heritage game and then wore it themselves, which is the part the crowd call did not tell you. TNT produced no ESPN frames, so none of this came from the broadcast. Kickoff was 7:30 p.m. in Tucson, and ESPN lists it under September 20 for the same UTC reason as the opener.
 
-**September 26 at Washington State.** White expected. A non-conference road trip to Martin Stadium in Pullman, on CBS.
+**September 26 at Washington State.** ★ Confirmed from the broadcast: **white helmet, white jersey, navy pants**, on a non-conference road trip to Pullman, on CBS. Washington State wore its gray script helmet over crimson and gray for the Stripe Out. Arizona fell behind 14-0, then Noah Fifita threw for 297 yards and four touchdowns, two of them to Tre Spivey, who caught seven passes for 129 yards, and Arizona won 34-24 to move to 3-1. More: [Washington State uniform schedule](/stories/washington-state-uniform-schedule-2026).
 
 **October 3 vs. Cincinnati.** Navy expected. The Big 12 home opener is also Family Weekend and Pacific Islander Heritage, and it is a white-clad crowd by request. Arizona won the first-ever meeting 30-24 in Cincinnati last season.
 
@@ -79,7 +79,7 @@ Two games in, Arizona has worn exactly what the rules predict: the navy jersey u
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore all white, white helmet included, at BYU on September 12. Next up is Northern Illinois in Tucson on September 19, the Hispanic Heritage game, where navy is the expected home jersey and fans have been asked to wear red. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore white at Washington State on Saturday, September 26: white helmet, white jersey and navy pants, confirmed from the broadcast, in a 34-24 win. Next up is Cincinnati in Tucson on October 3, where navy is the expected home jersey. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 

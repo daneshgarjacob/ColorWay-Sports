@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-25"
+updatedDate: "2026-09-26"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **September 19 at South Carolina.** ★ Confirmed from the broadcast: **maroon helmet, white jersey, white pants**. Note the shell. We had described the road set as a white helmet with the maroon interlocking MSU, and what went on the field in Columbia was the reverse, a maroon helmet with the mark in white and a white facemask. South Carolina wore garnet head to toe, per our [South Carolina 2026 uniform schedule](/stories/south-carolina-uniform-schedule-2026). Mississippi State won 41-34 after trailing 13-0, its first SEC road win of the season.
 
-**September 26 vs. Missouri.** ★ Confirmed by Mississippi State: **white helmet, white jersey, white pants**, all white at home to match the White Out in the stands. The first SEC home game, a 7:45 p.m. Eastern kickoff in Starkville. With the Bulldogs in white, Missouri needs a dark jersey, and our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) has the Tigers.
+**September 26 vs. Missouri.** ★ Confirmed by Mississippi State and from the broadcast: **white helmet, white jersey, white pants**, all white at home to match the White Out in the stands. Missouri answered in all black. Kamario Taylor threw for 360 yards and three touchdowns, including a 24-yard go-ahead pass to Sanfrisco Magee with 3:57 left, Fluff Bothwell ran for 122 yards, and Mississippi State won 31-24 to move to 4-0. Our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) has the Tigers.
 
 **October 3 vs. Alabama.** Maroon expected. Alabama is in white on the road, per our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026), which makes this maroon against white unless the Bulldogs reach for black.
 
@@ -78,7 +78,7 @@ The interlocking MSU won. What started as a fan campaign became a 2025 throwback
 
 **What jersey is Mississippi State wearing this week?**
 
-Mississippi State wore the maroon helmet, white jersey and white pants at South Carolina on Saturday, September 19, a 41-34 win, confirmed from the broadcast, with South Carolina in garnet head to toe. The maroon shell is the detail to note: the Bulldogs pair the white road jersey with either helmet, and in Columbia it was maroon rather than white. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
+Mississippi State wore all white for the White Out against Missouri on Saturday, September 26: white helmet, white jersey and white pants, confirmed by the team and from the broadcast, in a 31-24 win over Missouri in all black. Next up is Alabama at home on October 3, where maroon is expected. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
 
 **What are Mississippi State's football uniforms for 2026?**
 

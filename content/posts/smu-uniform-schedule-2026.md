@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-25'
+updatedDate: "2026-09-26"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -75,7 +75,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **September 19 at Louisville.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white for the first ACC road game. Louisville wore the white helmet with a red jersey and white pants and won 41-31, so the clean red-on-white matchup arrived as expected. We track the other side on the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 
-**September 26 vs. Missouri State.** ★ Confirmed by SMU: **white helmet, red jersey, red pants**, posted as "Week 4 thREDs." We had blue down. It is Family Weekend and the start of a four-game homestand, and the fans are still asked to wear blue.
+**September 26 vs. Missouri State.** ★ Confirmed by SMU and from the broadcast: **white helmet, red jersey, red pants**, posted as "Week 4 thREDs." We had blue down. It was Family Weekend and the start of a four-game homestand. Missouri State wore a white helmet, white jersey and maroon pants and led 10-0 after a pick-six, but Kevin Jennings went 33 of 39 for 464 yards and three touchdowns to become SMU's career passing leader, and SMU won 34-24 to move to 3-1.
 
 **October 3 vs. Boston College.** Blue expected, with one thing worth watching. The ACC home opener is a Blue theme day, but Boston College is also the opponent SMU picked for its all-black set the last time the two met in Dallas in 2024. If the black comes out in 2026, this is a candidate date.
 
@@ -103,7 +103,7 @@ Two games in, SMU has used two of its jerseys and the only helmet it owns, which
 
 **What jersey is SMU wearing this week?**
 
-SMU plays at Louisville on Saturday, September 19 at 3:30 p.m. Eastern on ESPN2, and the white road set is expected against a red-wearing home team. The Mustangs wore the blue home jersey with white pants in their last game, a 56-10 win over UC Davis on September 12. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore red over red against Missouri State on Saturday, September 26: white helmet, red jersey and red pants, posted as "Week 4 thREDs" and confirmed from the broadcast, in a 34-24 win. Next up is Boston College at home on October 3, the ACC home opener, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 
