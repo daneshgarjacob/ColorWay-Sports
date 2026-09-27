@@ -9,7 +9,7 @@ coverImage: "/images/posts/arizona-state-throwback-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["arizona-state-sun-devils"]
 ---
 
 <img src="/images/posts/arizona-state-throwback-uniforms-2026/helmet.jpg" alt="Arizona State 2026 Roses and Devils throwback uniform, a gold helmet with the full body Sparky pitchfork devil decal, white facemask, and a maroon jersey with white and gold shoulder stripes" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />

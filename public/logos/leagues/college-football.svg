@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="College Football">
+  <!-- Drawn in-house, like the soccer ball: the NCAA and CFP marks stay off the
+       site chrome. Solid ball with white laces and end stripes so it still reads
+       as a football at 18px. -->
+  <g transform="rotate(-40 32 32)">
+    <path d="M3 32C3 20 16 11 32 11s29 9 29 21-13 21-29 21S3 44 3 32z" fill="#6B3A1F"/>
+    <path d="M13 19.5c1.6 7.7 1.6 17.3 0 25M51 19.5c-1.6 7.7-1.6 17.3 0 25" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M22 32h20" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M25 27.5v9M29.3 27.5v9M33.6 27.5v9M37.9 27.5v9" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+</svg>

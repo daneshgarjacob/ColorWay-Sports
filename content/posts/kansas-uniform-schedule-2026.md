@@ -9,7 +9,7 @@ gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["kansas-jayhawks", "big-12"]
 resurfaceOnUpdate: true
 ---
 

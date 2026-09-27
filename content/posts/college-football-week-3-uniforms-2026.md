@@ -10,7 +10,7 @@ gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
 kicker: "This Week"
 league: "college"
-teams: []
+teams: ["alabama-crimson-tide", "appalachian-state-mountaineers", "arizona-state-sun-devils", "arkansas-razorbacks", "auburn-tigers", "byu-cougars", "baylor-bears", "boise-state-broncos", "clemson-tigers", "coastal-carolina-chanticleers", "colorado-buffaloes", "colorado-state-rams", "east-carolina-pirates", "florida-gators", "florida-state-seminoles", "georgia-bulldogs", "georgia-tech-yellow-jackets", "indiana-hoosiers", "iowa-hawkeyes", "iowa-state-cyclones", "james-madison-dukes", "kansas-jayhawks", "kansas-state-wildcats", "kentucky-wildcats", "lsu-tigers", "liberty-flames", "louisville-cardinals", "memphis-tigers", "miami-hurricanes", "michigan-state-spartans", "michigan-wolverines", "minnesota-golden-gophers", "mississippi-state-bulldogs", "missouri-tigers", "nc-state-wolfpack", "nebraska-cornhuskers", "north-carolina-tar-heels", "north-texas-mean-green", "northwestern-wildcats", "notre-dame-fighting-irish", "ohio-state-buckeyes", "oklahoma-sooners", "oklahoma-state-cowboys", "ole-miss-rebels", "oregon-ducks", "penn-state-nittany-lions", "purdue-boilermakers", "rutgers-scarlet-knights", "smu-mustangs", "san-diego-state-aztecs", "south-carolina-gamecocks", "south-florida-bulls", "tcu-horned-frogs", "temple-owls", "tennessee-volunteers", "texas-am-aggies", "texas-longhorns", "texas-tech-red-raiders", "toledo-rockets", "tulsa-golden-hurricane", "ucf-knights", "ucla-bruins", "uconn-huskies", "usc-trojans", "utah-state-aggies", "utah-utes", "vanderbilt-commodores", "virginia-cavaliers", "washington-huskies", "west-virginia-mountaineers", "wisconsin-badgers"]
 resurfaceOnUpdate: true
 ---
 

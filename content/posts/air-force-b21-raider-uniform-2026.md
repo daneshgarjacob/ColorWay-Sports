@@ -11,7 +11,7 @@ coverImagePosition: "center 25%"
 coverImageFit: "cover"
 kicker: Uniform Review
 league: "college"
-teams: []
+teams: ["air-force-falcons"]
 ---
 
 Air Force builds a uniform around an aircraft every year, and the 2026 edition is the best-looking one they have done in a while. The **Air Power Legacy Series** set honors the **B-21 Raider**, the stealth bomber Northrop Grumman is building for the Air Force, and it is head-to-toe matte black with chrome numerals that look like polished metal.

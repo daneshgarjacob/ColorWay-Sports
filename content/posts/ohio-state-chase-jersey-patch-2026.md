@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #BB0000 0%, #1d1d1d 55%, #6b7280 120%)"
 cardStyle: words
 kicker: College Football
 league: "college"
-teams: []
+teams: ["ohio-state-buckeyes"]
 ---
 
 <div style="display: flex; justify-content: center; margin: 0 0 2em;">

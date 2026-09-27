@@ -10,7 +10,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Uniform Review
 league: "college"
-teams: []
+teams: ["nc-state-wolfpack"]
 ---
 
 NC State announced a strategic partnership with the US Army this week, and then did the thing every school should do when it signs a partnership worth taking seriously: built a uniform around it. The **Wolfpack Warriors** set is a black-and-camo package from adidas, and it debuts **Friday, September 11 against Richmond** at Carter-Finley Stadium.

@@ -11,7 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Schedule
 league: "college"
-teams: []
+teams: ["tennessee-volunteers", "sec"]
 resurfaceOnUpdate: true
 ---
 

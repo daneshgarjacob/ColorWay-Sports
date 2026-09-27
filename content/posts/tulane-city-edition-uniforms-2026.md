@@ -9,7 +9,7 @@ coverImage: "/images/posts/tulane-city-edition-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["tulane-green-wave"]
 ---
 
 <img src="/images/posts/tulane-city-edition-uniforms-2026/helmet-front.jpg" alt="Tulane City Edition Mardi Gras football helmet with green metallic shell, argyle stripe and a king cake baby bumper" style="width: 100%; border-radius: 10px;" />

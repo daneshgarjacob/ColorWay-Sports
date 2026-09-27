@@ -10,7 +10,7 @@ coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.
 coverImagePosition: center center
 coverImageFit: cover
 league: "college"
-teams: []
+teams: ["florida-gators", "sec"]
 resurfaceOnUpdate: true
 ---
 

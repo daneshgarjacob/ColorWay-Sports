@@ -37,6 +37,141 @@ const leagues: NavLeague[] = [
     ],
   },
   {
+    label: "College Football",
+    storiesLink: { label: "College Football Stories", href: "/stories?league=college" },
+    leagueLogo: "/logos/leagues/college-football.svg",
+    // Conferences, each behind a caret with its schools, the same pattern as
+    // Premier League under Soccer. Only schools with a uniform schedule post are
+    // listed; a school's link is its /stories?team= page, like every other club.
+    // Conference membership checked against ESPN for the 2026 season.
+    teams: [
+      "SEC", "Big Ten", "ACC", "Big 12", "Pac-12", "American Conference",
+      "Mountain West", "Sun Belt", "MAC", "Conference USA", "FBS Independents",
+    ],
+    subTeams: {
+      "SEC": [
+        "Alabama Crimson Tide",
+        "Arkansas Razorbacks",
+        "Auburn Tigers",
+        "Florida Gators",
+        "Georgia Bulldogs",
+        "Kentucky Wildcats",
+        "LSU Tigers",
+        "Mississippi State Bulldogs",
+        "Missouri Tigers",
+        "Oklahoma Sooners",
+        "Ole Miss Rebels",
+        "South Carolina Gamecocks",
+        "Tennessee Volunteers",
+        "Texas Longhorns",
+        "Texas A&M Aggies",
+        "Vanderbilt Commodores",
+      ],
+      "Big Ten": [
+        "Illinois Fighting Illini",
+        "Indiana Hoosiers",
+        "Iowa Hawkeyes",
+        "Maryland Terrapins",
+        "Michigan Wolverines",
+        "Michigan State Spartans",
+        "Minnesota Golden Gophers",
+        "Nebraska Cornhuskers",
+        "Northwestern Wildcats",
+        "Ohio State Buckeyes",
+        "Oregon Ducks",
+        "Penn State Nittany Lions",
+        "Purdue Boilermakers",
+        "Rutgers Scarlet Knights",
+        "UCLA Bruins",
+        "USC Trojans",
+        "Washington Huskies",
+        "Wisconsin Badgers",
+      ],
+      "ACC": [
+        "Boston College Eagles",
+        "Cal Golden Bears",
+        "Clemson Tigers",
+        "Duke Blue Devils",
+        "Florida State Seminoles",
+        "Georgia Tech Yellow Jackets",
+        "Louisville Cardinals",
+        "Miami Hurricanes",
+        "NC State Wolfpack",
+        "North Carolina Tar Heels",
+        "Pitt Panthers",
+        "SMU Mustangs",
+        "Stanford Cardinal",
+        "Syracuse Orange",
+        "Virginia Cavaliers",
+        "Virginia Tech Hokies",
+        "Wake Forest Demon Deacons",
+      ],
+      "Big 12": [
+        "Arizona Wildcats",
+        "Arizona State Sun Devils",
+        "Baylor Bears",
+        "BYU Cougars",
+        "Cincinnati Bearcats",
+        "Colorado Buffaloes",
+        "Houston Cougars",
+        "Iowa State Cyclones",
+        "Kansas Jayhawks",
+        "Kansas State Wildcats",
+        "Oklahoma State Cowboys",
+        "TCU Horned Frogs",
+        "Texas Tech Red Raiders",
+        "UCF Knights",
+        "Utah Utes",
+        "West Virginia Mountaineers",
+      ],
+      "Pac-12": [
+        "Boise State Broncos",
+        "Colorado State Rams",
+        "Fresno State Bulldogs",
+        "Oregon State Beavers",
+        "San Diego State Aztecs",
+        "Utah State Aggies",
+        "Washington State Cougars",
+      ],
+      "American Conference": [
+        "Army Black Knights",
+        "East Carolina Pirates",
+        "Memphis Tigers",
+        "Navy Midshipmen",
+        "North Texas Mean Green",
+        "South Florida Bulls",
+        "Temple Owls",
+        "Tulane Green Wave",
+        "Tulsa Golden Hurricane",
+      ],
+      "Mountain West": [
+        "Air Force Falcons",
+        "Hawaii Rainbow Warriors",
+        "UNLV Rebels",
+      ],
+      "Sun Belt": [
+        "Appalachian State Mountaineers",
+        "Coastal Carolina Chanticleers",
+        "James Madison Dukes",
+        "Marshall Thundering Herd",
+      ],
+      "MAC": [
+        "Buffalo Bulls",
+        "Toledo Rockets",
+      ],
+      "Conference USA": [
+        "Liberty Flames",
+      ],
+      "FBS Independents": [
+        "Notre Dame Fighting Irish",
+        "UConn Huskies",
+      ],
+    },
+    extraLinks: [
+      { label: "College Football Week 4 Uniforms", href: "/stories/college-football-week-4-uniforms-2026" },
+    ],
+  },
+  {
     label: "NBA",
     storiesLink: { label: "NBA Stories", href: "/stories?league=nba" },
     leagueLogo: "/logos/leagues/nba.png",
@@ -130,7 +265,6 @@ const leagues: NavLeague[] = [
     storiesLink: { label: "All Stories", href: "/stories" },
     teams: [],
     extraLinks: [
-      { label: "College", href: "/stories?league=college" },
       { label: "Rugby", href: "/stories?league=rugby" },
       { label: "Cricket", href: "/stories?league=cricket" },
       { label: "UFL", href: "/stories?league=ufl" },
@@ -179,6 +313,7 @@ export default function Header() {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const [openSub, setOpenSub] = useState<string | null>(null);
   const [mobileLeague, setMobileLeague] = useState<string | null>(null);
+  const [mobileSub, setMobileSub] = useState<string | null>(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [scrolled, setScrolled] = useState(false);
@@ -460,7 +595,10 @@ export default function Header() {
                 {/* Dropdown — only for leagues with teams */}
                 {hasDropdown(league) && (
                   <div
-                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
+                    // The last rail item ("More") sits at the right edge once the
+                    // rail fills a 1024px screen; a centred 280px panel would hang
+                    // off the page and add a horizontal scrollbar, so it right-aligns.
+                    className={`absolute top-full ${league.label === "More" ? "right-0" : "left-1/2 -translate-x-1/2"} mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
@@ -507,9 +645,11 @@ export default function Header() {
                               {clubs && (
                                 <button
                                   type="button"
-                                  aria-label={`Show ${team} clubs`}
+                                  aria-label={`Show ${team} ${league.label === "College Football" ? "schools" : "clubs"}`}
                                   aria-expanded={subOpen}
-                                  onClick={(e) => { e.preventDefault(); setOpenSub(subOpen ? null : team); }}
+                                  // stopPropagation: the document click handler that closes
+                                  // the dropdown on outside clicks would otherwise shut it.
+                                  onClick={(e) => { e.preventDefault(); e.stopPropagation(); setOpenSub(subOpen ? null : team); }}
                                   className="px-3 py-2 text-gray-medium hover:text-orange transition-colors"
                                 >
                                   <svg className={`w-3 h-3 transition-transform duration-200 ${subOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -612,7 +752,7 @@ export default function Header() {
                   <button
                     className="w-full text-xl font-medium text-black transition-colors flex items-center justify-center gap-2 hover:text-[var(--league-accent)]"
                     style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
-                    onClick={() => setMobileLeague(mobileLeague === league.label ? null : league.label)}
+                    onClick={() => { setMobileLeague(mobileLeague === league.label ? null : league.label); setMobileSub(null); }}
                   >
                     {league.leagueLogo && (
                       <img src={league.leagueLogo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
@@ -625,7 +765,7 @@ export default function Header() {
 
                   <div
                     className={`overflow-hidden transition-all duration-300 ${
-                      mobileLeague === league.label ? "max-h-[1000px] opacity-100 mt-2" : "max-h-0 opacity-0"
+                      mobileLeague === league.label ? "max-h-[2000px] opacity-100 mt-2" : "max-h-0 opacity-0"
                     }`}
                   >
                     <div className="flex flex-col items-center gap-1 pb-2">
@@ -639,23 +779,41 @@ export default function Header() {
                         )}
                         {league.storiesLink.label}
                       </Link>
-                      {league.teams.map((team) => (
-                        <div key={team}>
-                          <Link prefetch={false}
-                            href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
-                            className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
-                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                          >
-                            {teamLogos[team] && (
-                              <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
+                      {league.teams.map((team) => {
+                        const clubs = league.subTeams?.[team];
+                        const subOpen = mobileSub === team;
+                        return (
+                        <div key={team} className="flex flex-col items-center">
+                          <div className="flex items-center">
+                            <Link prefetch={false}
+                              href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
+                              className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
+                              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                            >
+                              {teamLogos[team] && (
+                                <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
+                              )}
+                              {team}
+                            </Link>
+                            {clubs && (
+                              <button
+                                type="button"
+                                aria-label={`Show ${team} ${league.label === "College Football" ? "schools" : "clubs"}`}
+                                aria-expanded={subOpen}
+                                onClick={() => setMobileSub(subOpen ? null : team)}
+                                className="px-2 py-1 text-gray-medium hover:text-orange transition-colors"
+                              >
+                                <svg className={`w-3 h-3 transition-transform duration-200 ${subOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
+                                </svg>
+                              </button>
                             )}
-                            {team}
-                          </Link>
-                          {league.subTeams?.[team]?.map((club) => (
+                          </div>
+                          {subOpen && clubs?.map((club) => (
                             <Link prefetch={false}
                               key={club}
                               href={`/stories?team=${encodeURIComponent(teamSlug(club))}`}
-                              className="flex items-center gap-2 pl-6 text-[13px] text-gray-medium hover:text-orange transition-colors py-1"
+                              className="flex items-center gap-2 text-[13px] text-gray-medium hover:text-orange transition-colors py-1"
                               onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                             >
                               {teamLogos[club] && (
@@ -665,7 +823,8 @@ export default function Header() {
                             </Link>
                           ))}
                         </div>
-                      ))}
+                        );
+                      })}
                       {league.extraLinks?.map((l) => (
                         <Link prefetch={false}
                           key={l.label}

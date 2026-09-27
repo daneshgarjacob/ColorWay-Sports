@@ -8,7 +8,7 @@ gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
 kicker: Graded
 league: "college"
-teams: []
+teams: ["texas-am-aggies"]
 ---
 
 Texas A&M revealed its desert camouflage **Honor and Support** uniforms on Friday, August 14, and the Aggies will wear them exactly once this season: **Saturday, October 3, against Arkansas at Kyle Field**. It is a full camo top and helmet over maroon pants, built by adidas, and it lands on the same day the university celebrates its 150th anniversary. Here is the whole set, what every piece of it references, and our grade.

@@ -47,6 +47,12 @@ const TWO_WORD_NICKNAMES = [
   "Maple Leafs",
   "Golden Knights",
   "Hockey Club",
+  // College football
+  "Crimson Tide", "Sun Devils", "Black Knights", "Golden Bears", "Blue Devils",
+  "Yellow Jackets", "Rainbow Warriors", "Fighting Illini", "Thundering Herd",
+  "Golden Gophers", "Mean Green", "Tar Heels", "Fighting Irish", "Nittany Lions",
+  "Scarlet Knights", "Horned Frogs", "Red Raiders", "Green Wave", "Golden Hurricane",
+  "Demon Deacons",
 ];
 
 function nickname(name: string): string {
@@ -107,8 +113,15 @@ export function buildTeamQuickLinks(): Record<string, TeamQuickLinksEntry> {
   // A nickname is only safe to show on its own if exactly one club league-wide
   // answers to it. "Dodgers" is fine; "Cardinals", "Giants", "Rangers",
   // "Panthers", "Jets" and "Kings" each belong to two clubs and get the full name.
+  //
+  // College schools always use the full name ("Miami Hurricanes Uniform Schedule")
+  // and stay out of this count, so adding ~95 schools never lengthens a pro
+  // club's label (the Hurricanes, Rams, Eagles, Broncos and Cowboys stay short).
   const nickCount = new Map<string, number>();
-  for (const t of teams) nickCount.set(t.nick, (nickCount.get(t.nick) ?? 0) + 1);
+  for (const t of teams) {
+    if (t.league === "ncaa") continue;
+    nickCount.set(t.nick, (nickCount.get(t.nick) ?? 0) + 1);
+  }
 
   // Uniform schedule posts, indexed by the team they are tagged with. Slug shape
   // is checked too so a general team story can never be mistaken for a schedule.
@@ -125,7 +138,7 @@ export function buildTeamQuickLinks(): Record<string, TeamQuickLinksEntry> {
   const out: Record<string, TeamQuickLinksEntry> = {};
 
   for (const t of teams) {
-    const unique = (nickCount.get(t.nick) ?? 0) === 1;
+    const unique = t.league !== "ncaa" && (nickCount.get(t.nick) ?? 0) === 1;
     const short = unique ? t.nick : t.name;
     const links: TeamQuickLink[] = [];
 
@@ -183,12 +196,16 @@ export function resolveTeamQuickLinks(
 
   const entries = Object.values(index);
 
-  // Exact hit on the slug, the full name, or the nickname.
+  // Exact hit on the slug, the full name, or the nickname. College schools match
+  // on the school ("miami", "usc") instead of the nickname: five schools are the
+  // Tigers, and a search for "tigers" should still land on Detroit.
+  const school = (e: TeamQuickLinksEntry) =>
+    norm(e.name.slice(0, e.name.length - nickname(e.name).length));
   const exact = entries.filter(
     (e) =>
       norm(e.slug) === q ||
       norm(e.name) === q ||
-      norm(nickname(e.name)) === q
+      (e.league === "ncaa" ? school(e) === q : norm(nickname(e.name)) === q)
   );
   if (exact.length) return exact;
 
@@ -196,6 +213,7 @@ export function resolveTeamQuickLinks(
   // "what are the dodgers wearing" resolves but "red" never matches the Red Sox.
   const words = new Set(q.split(" "));
   const loose = entries.filter((e) => {
+    if (e.league === "ncaa") return false;
     const nick = norm(nickname(e.name));
     return nick.includes(" ") ? q.includes(nick) : words.has(nick);
   });

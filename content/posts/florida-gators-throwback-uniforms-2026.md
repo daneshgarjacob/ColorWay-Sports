@@ -9,7 +9,7 @@ coverImage: "/images/posts/florida-gators-throwback-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["florida-gators"]
 ---
 
 <img src="/images/posts/florida-gators-throwback-2026/cover.jpg" alt="Florida Gators 2026 throwback uniform honoring Steve Spurrier's 1966 Heisman season, with a blue helmet carrying the oval F logo, a white jersey with blue and orange shoulder stripes, and white pants" style="width: 100%; border-radius: 10px;" />

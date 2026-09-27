@@ -9,7 +9,7 @@ coverImage: "/images/posts/gators-blue-helmet-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["florida-gators"]
 ---
 
 <img src="/images/posts/gators-blue-helmet-uniforms-2026/orange-front.jpg" alt="Florida Gators 2026 uniform combination with a matte blue helmet carrying the orange Gators script, an orange jersey with white numbers and blue and white shoulder stripes, and white pants" style="width: 100%; border-radius: 10px;" />

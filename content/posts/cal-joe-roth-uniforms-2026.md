@@ -9,7 +9,7 @@ coverImage: "/images/posts/cal-joe-roth-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["cal-golden-bears"]
 ---
 
 <img src="/images/posts/cal-joe-roth-uniforms-2026/detail-3.jpg" alt="Cal Golden Bears players in the 2026 Joe Roth throwback uniforms, gold helmets and royal blue jerseys with gold numbers, shot with motion blur in the tunnel" style="width: 100%; border-radius: 10px;" />

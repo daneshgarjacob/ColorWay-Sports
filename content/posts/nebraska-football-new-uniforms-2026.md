@@ -8,7 +8,7 @@ coverImage: "/images/posts/nebraska-football-rebrand/nebraska-2026-cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 league: "college"
-teams: []
+teams: ["nebraska-cornhuskers"]
 ---
 
 <img src="/images/posts/nebraska-football-rebrand/nebraska-2026-cover.jpg" alt="Nebraska Cornhuskers new 2026 football uniforms from adidas, the Primary Red home and Primary White road jerseys with the redesigned crop-row number font" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
