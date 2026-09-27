@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, September 26
 
-Saturday brings 13 games, and we log each one as its uniforms are confirmed. The Giants break out Gigantes against the Dodgers, the Pirates go to the black alternate in Detroit, the Nationals wear City Connect against the Mets and Toronto is in the royal blue alternate. The Mets won 7-1 in Washington, the Tigers edged Pittsburgh 4-3, the Reds shut down Toronto 5-1, the Dodgers took the rivalry game in San Francisco 4-3 and the Braves won 8-3 in Miami. The Twins are in the cream Twin Cities set against the Rangers, who wear the royal blue alternate. The evening and West Coast games get added as they are confirmed.
+Saturday brings 13 games, and we log each one as its uniforms are confirmed. The Giants break out Gigantes against the Dodgers, the Pirates go to the black alternate in Detroit, the Nationals wear City Connect against the Mets and Toronto is in the royal blue alternate. The Mets won 7-1 in Washington, the Tigers edged Pittsburgh 4-3, the Reds shut down Toronto 5-1, the Dodgers took the rivalry game in San Francisco 4-3 and the Braves won 8-3 in Miami and the Rangers beat the Twins 6-2. Out west, the A's wear the gold Sacramento alternate against Houston and the Angels go red at Seattle. The Twins are in the cream Twin Cities set against the Rangers, who wear the royal blue alternate. The evening and West Coast games get added as they are confirmed.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -181,7 +181,7 @@ Saturday brings 13 games, and we log each one as its uniforms are confirmed. The
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 6, Twins 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
