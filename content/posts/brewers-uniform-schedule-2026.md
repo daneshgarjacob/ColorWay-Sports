@@ -171,7 +171,15 @@ Five: the cream home, the white pinstripe home alternate, the navy ball-in-glove
 
 **Do the Brewers have a City Connect?**
 
-Yes — two, in fact. The Brewers unveiled their second City Connect, the "Wisco" kit, in April 2026. It has a blue base inspired by Wisconsin's lakes, a "sunset gradient" of orange and yellow, and "Wisco" across the chest, and it's worn on Friday home games. Their first City Connect arrived in 2022.
+Yes. The Brewers unveiled their second City Connect, the "Wisco" kit, in April 2026. It has a blue base inspired by Wisconsin's lakes, a "sunset gradient" of orange and yellow, and "Wisco" across the chest, and it's worn on Friday home games. Their first City Connect, the powder blue "Brew Crew" design, arrived in 2022 and was retired when "Wisco" debuted.
+
+**What City Connect jerseys have the Brewers had?**
+
+Two. The first was the powder blue "Brew Crew" City Connect, the first Brewers jersey to carry that nickname across the chest, with navy and yellow trim and a grill patch on the sleeve. It was unveiled on June 17, 2022, debuted on June 24, 2022, against the Blue Jays, and was worn from 2022 through 2025. The second is the blue "Wisco" City Connect, unveiled on April 9, 2026, and first worn on April 10, 2026, against the Nationals.
+
+**What happened to the Brewers' "Brew Crew" City Connect jersey?**
+
+It was retired when the new "Wisco" City Connect debuted in April 2026. The powder blue "Brew Crew" jersey, with colors drawn from the People's Flag of Milwaukee, was the Brewers' City Connect from 2022 through 2025, and the statewide "Wisco" design took its place.
 
 **Why do the Brewers wear powder blue on the road?**
 

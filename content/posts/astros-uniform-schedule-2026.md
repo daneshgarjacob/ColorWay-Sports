@@ -170,9 +170,13 @@ Five: the home white, the road gray, the orange alternate, the navy alternate, a
 
 The white "Stros" City Connect is Houston's every-Monday home jersey at Daikin Park. It debuted on March 31, 2025, and replaced the navy "Space City" design that the team wore from 2022 through 2024.
 
-**What happened to the navy "Space City" City Connect?**
+**What City Connect jerseys have the Astros had?**
 
-It was retired after the 2024 season. The all-navy kit with "SPACE CITY" across the chest and rainbow-gradient piping was swapped out for the new white "Stros" City Connect, so the navy version is no longer worn.
+Two. The first was the navy "Space City" design, with "SPACE CITY" across the chest in a NASA-style orange font and rainbow-gradient piping. It was unveiled on April 10, 2022, debuted on April 20, 2022, against the Angels, and was worn from 2022 through 2024. The second is the white "Stros" City Connect, unveiled on March 19, 2025, which debuted on March 31, 2025, against the Giants and is still worn on Monday home games in 2026.
+
+**What happened to the Astros' navy "Space City" City Connect jersey?**
+
+It was retired after the 2024 season. The all-navy kit with "SPACE CITY" across the chest and rainbow-gradient piping, worn from 2022 through 2024, was replaced by the new white "Stros" City Connect in 2025, so the navy version is no longer worn.
 
 **When do the Astros wear the orange jersey?**
 

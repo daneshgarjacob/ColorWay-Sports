@@ -116,7 +116,7 @@ Atlanta's other weeknight alternate. Navy base carrying the same script, worn on
 <img src="/images/posts/braves-city-connect-2026/braves-cc-pitcher-hallway.jpg" alt="Atlanta Braves player wearing the full 2026 powder blue City Connect uniform, with the Atlanta script jersey, cream pants, and the powder blue cap with the red lowercase a" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Atlanta Braves</p>
 
-The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white ATL kit it had worn since 2023 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
+The Braves City Connect uniform anchors Friday night home games at Truist Park in 2026, and it is a completely new design. Atlanta retired the white "The A" kit it had worn from 2023 through 2025 and replaced it in April with a powder blue set built around the TBS Superstation era of the 1980s. Powder blue V-neck pullover jersey, "Atlanta" in white script outlined in red and royal blue, red and blue striping around the collar and sleeve cuffs, white pants, a powder blue cap with a red lowercase a, and an ATL sleeve patch modeled on the old TBS logo.
 
 The Friday night slot keeps the City Connect predictable. Fans who want the alternate identity on the broadcast know exactly when to tune in. The powder blue is the only uniform in this closet that changes the look of the broadcast, and it does it while pulling entirely from Atlanta's own history rather than inventing something new. We graded it an A+ and ranked it the [best jersey the Braves own](/stories/braves-jerseys-2026-ranked). For the full background on the design and the rollout, see our [Braves City Connect 2026 breakdown](/stories/braves-city-connect-2026-official).
 
@@ -155,7 +155,15 @@ Five in active rotation: the home whites, the road grays, the red alternate, the
 
 **When do the Braves wear the City Connect uniform?**
 
-On Friday night home games at Truist Park. Atlanta replaced the old white ATL kit in April 2026 with a powder blue V-neck pullover that revives the TBS Superstation era of the 1980s, carrying the Atlanta script in white with red and royal blue outlines and an ATL sleeve patch drawn from the old TBS logo.
+On Friday night home games at Truist Park. Atlanta replaced the old white "The A" kit in April 2026 with a powder blue V-neck pullover that revives the TBS Superstation era of the 1980s, carrying the Atlanta script in white with red and royal blue outlines and an ATL sleeve patch drawn from the old TBS logo.
+
+**What City Connect jerseys have the Braves had?**
+
+Two. The first, unveiled on March 27, 2023, was a white jersey with "The A" across the chest, a tribute to the 1974 uniform Hank Aaron wore when he hit home run No. 715. It debuted on April 8, 2023, against the Padres, the anniversary of that home run, and was worn from 2023 through 2025. The second is the powder blue City Connect with the "Atlanta" script, inspired by the TBS Superstation era, which was unveiled on April 9, 2026, and first worn on April 10, 2026, against the Guardians.
+
+**What happened to the Braves' "The A" City Connect jersey?**
+
+It was retired after the 2025 season. The white Hank Aaron tribute jersey with "The A" across the chest was Atlanta's City Connect from 2023 through 2025, and the powder blue TBS-era design replaced it in April 2026.
 
 **Do the Braves still wear the cream alternate?**
 

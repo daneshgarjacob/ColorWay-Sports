@@ -163,6 +163,10 @@ The franchise left Oakland and is playing a three-year stay in West Sacramento a
 
 No. The Athletics are one of only two MLB clubs — along with the Yankees — that have never worn a City Connect. With the team in relocation limbo and no permanent city to represent, a City Connect was never made. The closest thing to a place-specific kit is the new gold "Sacramento" alternate.
 
+**What City Connect jerseys have the Athletics had?**
+
+None. Nike's City Connect program began in 2021, while the franchise was still in Oakland, and the A's have never released one, either there or since the move to West Sacramento. They and the Yankees remain the only MLB clubs without a City Connect in 2026.
+
 **When do the Athletics wear the kelly green jersey?**
 
 The kelly green alternate is the A's Friday home jersey, continuing the "Green Friday" tradition the franchise started in 2018. It reads "Athletics" across the chest in gold.

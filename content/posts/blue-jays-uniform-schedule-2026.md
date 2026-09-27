@@ -156,6 +156,10 @@ Six: the home white, the road gray, the royal-blue alternate, the powder-blue al
 
 Yes. Introduced in 2024, Toronto's "Night Mode" City Connect is a deep "pitch blue" jersey with the Toronto skyline across the chest, a red "Toronto" wordmark, and a front number, paired with a pitch-blue cap and a stylized red-and-blue "T." It's worn only for home night games.
 
+**What City Connect jerseys have the Blue Jays had?**
+
+Just one. The "Night Mode" City Connect, a pitch-blue jersey with the Toronto skyline and a red "Toronto" wordmark across the chest, was unveiled on May 30, 2024, and first worn on May 31, 2024, against the Pirates. Toronto has worn it for home night games in 2024, 2025, and 2026, and it has not been replaced.
+
 **When do the Blue Jays wear red?**
 
 For Canada Day. The red uniform comes out for the July 1 home game and basically that game alone, making it the rarest look in the closet. In 2026, Canada Day lands on a Wednesday.

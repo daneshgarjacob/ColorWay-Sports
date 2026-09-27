@@ -222,6 +222,10 @@ The Cardinals wear "The Lou" City Connect on Friday home games at Busch Stadium.
 
 No. "The Lou" red City Connect from 2024 carries over unchanged for 2026. The Cardinals were not part of the 2026 City Connect rollout group, so there is no new or second City Connect this season.
 
+**What City Connect jerseys have the Cardinals had?**
+
+Just one. "The Lou" City Connect, a red jersey with "The Lou" in chain-stitch script across the chest, co-designed with Nelly, was unveiled on May 20, 2024, and first worn on May 25, 2024, against the Cubs. It has been worn in 2024, 2025, and 2026 and has never been replaced.
+
 **When do the Cardinals wear their cream and powder blue alternates?**
 
 The cream alternate is worn for Saturday home games at Busch Stadium, and the powder-blue "Victory Blue" alternate is worn for Saturday road games. They are mutually exclusive by location: cream only at home, powder blue only on the road.

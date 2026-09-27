@@ -170,6 +170,10 @@ There's no fixed day for it, which is exactly why it's so common. The red altern
 
 It's a cream "beach sand" jersey with "Angels" in a surf-brand script (the "S" shaped like a surfboard fish-tail), retro surfboard stripes on the left sleeve, a railroad-sign-style railway patch on the right sleeve, and a two-tone skater-style cap. It debuted in June 2022 and tends to be worn for Friday home games.
 
+**What City Connect jerseys have the Angels had?**
+
+Just one. The Angels unveiled their cream surf-themed City Connect, with "Angels" across the chest in a surf-brand script, on June 6, 2022, and first wore it on June 11, 2022, against the Mets. They have worn it every season since, from 2022 through 2026, and it has never been replaced.
+
 **What does the Angels road jersey say across the chest?**
 
 It depends which one they wear. The gray road set reads "Los Angeles" in red script and is the only jersey in the closet carrying the city name. The red alternate, which also travels, reads "Angels" in white script. Everything else the Angels own says "Angels" too, so the grays are the only thing keeping "Los Angeles" on the field.

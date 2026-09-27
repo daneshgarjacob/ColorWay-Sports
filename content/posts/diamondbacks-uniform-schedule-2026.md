@@ -157,6 +157,14 @@ The purple-and-teal "Serpientes" City Connect is Arizona's Friday-night home jer
 
 The 2025 redesign reaches back to the franchise's original 1998 colors. It blends a snakeskin pattern with heritage pinstripes and revives the dark-sleeved trim from the 1998–2006 era — the same look Arizona wore winning the 2001 World Series — with "Serpientes" across the chest and an "S" cap logo.
 
+**What City Connect jerseys have the Diamondbacks had?**
+
+Two, both called "Serpientes." The first was a sand-colored jersey with "Serpientes," Spanish for snakes, across the chest, a tribute to the Valley's Hispanic community and the Sonoran Desert. It was unveiled on June 13, 2021, as part of Nike's first group of seven teams, debuted on June 18, 2021, against the Dodgers, and was worn from 2021 through 2024. The second is the purple-and-teal "Serpientes" redesign, unveiled on May 5, 2025, which debuted on May 9, 2025, against the Dodgers and is still worn on Friday home games in 2026.
+
+**What happened to the Diamondbacks' sand "Serpientes" City Connect jersey?**
+
+It was retired after the 2024 season. The original sand-colored "Serpientes" City Connect, worn from 2021 through 2024, was replaced in 2025 by the purple-and-teal version, which kept the "Serpientes" name across the chest but swapped the desert sand for the franchise's original 1998 colors.
+
 **Did the Diamondbacks get rid of the sand uniforms?**
 
 Mostly. The 2024 overhaul removed Sonoran sand from the regular rotation and made teal the everyday accent across all four standard jerseys. The only sand left was on the original City Connect, which was itself redesigned into the purple-and-teal version for 2025.

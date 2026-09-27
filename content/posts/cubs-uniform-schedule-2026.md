@@ -164,6 +164,14 @@ Four: the home white pinstripes, the road grays, the royal-blue alternate, and t
 
 No. The Cubs retired the 2021 navy "Wrigleyville" City Connect and replaced it with the powder-blue Blues alternate, which the team and Nike do not consider part of the City Connect program. That leaves Chicago as one of the few clubs without an active City Connect this season.
 
+**What City Connect jerseys have the Cubs had?**
+
+Just one. The navy "Wrigleyville" City Connect, with "Wrigleyville" across the chest in the lettering of the Wrigley Field marquee, was unveiled in June 2021 as part of Nike's first group of seven teams and debuted on June 12, 2021, against the Cardinals. The Cubs wore it from 2021 through 2024. The powder blue "Blues" jersey that arrived in 2025 is a regular alternate, not a City Connect, so the Cubs have no active City Connect in 2026.
+
+**What happened to the Cubs' "Wrigleyville" City Connect jersey?**
+
+It was retired after the 2024 season. The navy "Wrigleyville" jersey was the Cubs' City Connect from 2021 through 2024, and it was not replaced by a new City Connect. Its spot in the rotation went to the powder blue "Blues" alternate, which debuted on April 5, 2025, and is not part of Nike's City Connect program.
+
 **When do the Cubs wear the powder-blue uniform?**
 
 The Blues alternate is worn at home on Fridays during the summer months. It debuted on April 5, 2025, and brought baby blue back to the Cubs for the first time since the early 1980s.
