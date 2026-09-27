@@ -108,7 +108,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 - **Carolina Panthers at Cleveland Browns**, 1:00 p.m. ET, FOX. Panthers: silver helmet, white jersey, Panther blue pants, white socks (confirmed). Browns: orange helmet, brown jersey, orange pants, striped socks (confirmed).
 - **New York Jets at Detroit Lions**, 1:00 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed).
 - **Houston Texans at Indianapolis Colts**, 1:00 p.m. ET, CBS. Texans: navy helmet, white jersey, navy pants (confirmed). Colts: Anvil Strike, metallic royal helmet with anthracite jersey and pants (confirmed).
-- **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Chiefs: red helmet, red jersey, white pants (projected). Dolphins: white helmet, white jersey, aqua pants (projected).
+- **Kansas City Chiefs at Miami Dolphins**, 1:00 p.m. ET, CBS. Final: Chiefs 24, Dolphins 10. Chiefs: red helmet, red jersey, white pants. Dolphins: all white, white helmet, white jersey and white pants (we had projected aqua pants).
 - **Tennessee Titans at New York Giants**, 1:00 p.m. ET, CBS. Titans: all white (confirmed). Giants: blue helmet, blue jersey, white pants (projected).
 - **Cincinnati Bengals at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants with orange stripes (confirmed). Steelers: black helmet, black jersey, gold pants (projected).
 - **Seattle Seahawks at Washington Commanders**, 1:00 p.m. ET, FOX. Seahawks: navy helmet, white jersey, white pants (confirmed). Commanders: all burgundy, burgundy helmet, jersey, pants and socks (confirmed).
