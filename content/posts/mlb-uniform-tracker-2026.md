@@ -182,7 +182,7 @@ Saturday brings 13 games, and we log each one as its uniforms are confirmed. The
 </div>
 </div>
 
-The Clash goes to American Family Field. St. Louis brought the powder blue road set to Milwaukee's home pinstripes, and it is the best-looking pairing on the board: a soft, sky blue top with the birds on the bat against Milwaukee's white pinstripes with the navy and gold. Powder blue on the road is a look most teams only dream about, and the Cardinals are one of the few that wear it like it belongs to them. The oldest rivalry in the NL Central, dressed like it.
+The Clash goes to American Family Field. St. Louis brought the powder blue road set to Milwaukee's home pinstripes, and it is the best-looking pairing on the board: a soft, sky blue top with the birds on the bat against Milwaukee's white pinstripes with the navy and gold. Powder blue on the road is a look most teams only dream about, and the Cardinals are one of the few that wear it like it belongs to them.
 
 ### Texas Rangers at Minnesota Twins
 
