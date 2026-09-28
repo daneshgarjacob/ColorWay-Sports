@@ -2,7 +2,7 @@
 title: "NBA Uniform Schedule 2026-27: Every Team's Jerseys and When They Wear Them"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-09-18"
+updatedDate: "2026-09-28"
 excerpt: "Every NBA team's 2026-27 uniform schedule in one place. All 30 clubs, their full closets, and the dates as they are confirmed."
 gradient: "linear-gradient(135deg, #C8102E 0%, #14284b 100%)"
 cardStyle: words
@@ -18,12 +18,14 @@ The City Edition slot is the one still open league-wide. All thirty clubs are te
 
 **Update, September 18, 2026:** the Indiana Pacers published its own 2026-27 uniform schedule, the first club we have seen do it this year: 31 Statement games, 13 Association and 10 Icon. We counted every date, home and road, in the [Pacers uniform schedule](/stories/pacers-uniform-schedule-2026-27).
 
+**Update, September 28, 2026:** the Brooklyn Nets went further and tagged all 80 games with a jersey on their own schedule page: 22 Association, 17 Statement, 16 Classic, 14 Icon and 11 City, with the Classic throwback on Opening Night. Every date is in the [Nets uniform schedule](/stories/nets-uniform-schedule-2026-27).
+
 ## Every NBA Team's 2026-27 Uniform Schedule
 
 <div style="margin: 1.5em 0 2.5em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;"><div style="background: #C8102E; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">All 30 clubs</div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/hawks-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Atlanta Hawks</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/celtics-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Boston Celtics</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
-<div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/nets-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Brooklyn Nets</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
+<div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/nets-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Brooklyn Nets</a><span style="font-size: 12px; color: #2f6bed; font-weight: 700; white-space: nowrap;">Schedule released</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/hornets-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Charlotte Hornets</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/bulls-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Chicago Bulls</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>
 <div style="padding: 11px 18px; border-top: 1px solid #eef0f4; display: flex; justify-content: space-between; gap: 12px; align-items: baseline;"><a href="/stories/cavaliers-uniform-schedule-2026-27" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Cleveland Cavaliers</a><span style="font-size: 12px; color: #8a919e; white-space: nowrap;">2026-27</span></div>

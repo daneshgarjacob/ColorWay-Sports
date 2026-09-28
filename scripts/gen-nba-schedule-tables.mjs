@@ -86,7 +86,7 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     for (const call of Object.values(ann.games)) tally[call] = (tally[call] || 0) + 1;
     const n = Object.keys(ann.games).length;
     const parts = Object.entries(tally).sort((x, y) => y[1] - x[1]).map(([call, c]) => `${c} ${call.replace(" White", "")}`);
-    note = `Announced rows come from the ${short}' own uniform schedule, published ${ann.announced}: ${n} of ${mine.length} dated games, ${parts.slice(0, -1).join(", ")} and ${parts.at(-1)}. The ${mine.length - n} rows marked TBA were left off it, and we fill them in as the ${short} name them.`;
+    note = `Announced rows come from the ${short}' own uniform schedule, published ${ann.announced}: ${n} of ${mine.length} dated games, ${parts.slice(0, -1).join(", ")} and ${parts.at(-1)}.` + (mine.length > n ? ` The ${mine.length - n} rows marked TBA were left off it, and we fill them in as the ${short} name them.` : "");
   }
   const table = `<!-- nba-game-log:start -->
 <div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 2px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">The Game-by-Game Jersey Schedule</p>${body}<p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">${note} Every played row flips to the jersey actually worn, updated the morning after. Two December dates are still unscheduled league-wide, waiting on the NBA Cup knockout draw.</p></div>
