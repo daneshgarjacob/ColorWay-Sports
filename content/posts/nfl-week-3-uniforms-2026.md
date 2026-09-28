@@ -116,7 +116,7 @@ Midnight Navy is the best thing in Denver's closet and it only gets two games th
 - **Arizona Cardinals at San Francisco 49ers**, 4:05 p.m. ET, FOX. Cardinals: all white, white helmet (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (projected).
 - **Minnesota Vikings at Tampa Bay Buccaneers**, 4:05 p.m. ET, FOX. Vikings: purple helmet, purple jersey, white pants (projected). Buccaneers: pewter helmet, white jersey, pewter pants (confirmed).
 - **Baltimore Ravens at Dallas Cowboys** (Rio de Janeiro), 4:25 p.m. ET, CBS. Ravens: black helmet, purple jersey, black pants (confirmed). Cowboys: silver helmet, white jersey, silver-blue pants (confirmed).
-- **Las Vegas Raiders at New Orleans Saints**, 4:25 p.m. ET, CBS. Raiders: silver helmet, white jersey, silver pants (projected). Saints: gold helmet, black jersey (confirmed), gold pants projected.
+- **Las Vegas Raiders at New Orleans Saints**, 4:25 p.m. ET, CBS. Final: Raiders 35, Saints 27. Raiders: silver helmet, white jersey, silver pants. Saints: gold helmet, black jersey and black pants (we had projected gold pants).
 - **Los Angeles Rams at Denver Broncos**, 8:20 p.m. ET, NBC. Rams: royal helmet, white jersey, white pants, white socks (confirmed). Broncos: navy helmet, Midnight Navy jersey and pants (confirmed).
 
 ### Monday, September 28
