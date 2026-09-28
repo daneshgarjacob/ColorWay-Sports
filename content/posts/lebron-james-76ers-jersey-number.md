@@ -2,7 +2,7 @@
 title: "LeBron James's 76ers Jersey Number: Why He's Wearing 23 in Philadelphia"
 category: NBA
 date: "2026-07-24"
-updatedDate: "2026-07-24"
+updatedDate: "2026-09-28"
 excerpt: "LeBron James signed with the Philadelphia 76ers and will wear No. 23. Why he can't wear 6, his full jersey-number history, and what the new Sixers jersey means."
 gradient: "linear-gradient(135deg, #006BB6 0%, #0a1a3a 55%, #ED174C 130%)"
 cardStyle: words
@@ -24,6 +24,14 @@ LeBron will wear **No. 23** for the 76ers, the number that has defined most of h
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBAonPrime/status/2080677997879660989"></a></blockquote>
+</div>
+
+## First Look: LeBron in No. 23 at Sixers Media Day
+
+On September 28, 2026, NBA Media Day, LeBron wore the Sixers jersey for the first time: the royal blue "PHILA" Icon with No. 23, alongside Jaylen Brown (No. 7), Joel Embiid and Tyrese Maxey. The jersey also carries the Sixers' new patch partner, Bloom Energy. Every other first look from the day is in our [NBA Media Day 2026 roundup](/stories/nba-media-day-2026-new-jerseys).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/sixers/status/2104626229345431904"></a></blockquote>
 </div>
 
 ## Why LeBron Can't Wear No. 6 in Philadelphia
