@@ -13,9 +13,10 @@ league: nba
 teams: []
 ---
 
-The Sixers kicked off Media Day by posting their "threads for the season," all six of them, and it settled a question for us: which NBA team has the best uniform closet for 2026-27? We ranked all 30, judging the whole set together, the core jerseys, the alternates, and whether it all hangs together as one identity.
+<img src="/images/posts/nba-uniform-closets-ranked-2026-27/cover.jpg" alt="Philadelphia 76ers 2026-27 uniform closet: blue PHILA Icon, white PHILA Association, red Phila Statement, cream Phila City Edition, black Specter and black Hardwood Classic jerseys" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 0.4em;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Sixers' 2026-27 closet, via the Philadelphia 76ers</p>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: -0.5em;">Cover: via the Philadelphia 76ers</p>
+The Sixers kicked off Media Day by posting their "threads for the season," all six of them, and it settled a question for us: which NBA team has the best uniform closet for 2026-27? We ranked all 30, judging the whole set together, the core jerseys, the alternates, and whether it all hangs together as one identity.
 
 One pattern jumped out. **About a third of the league now carries three or more black or mostly black jerseys**, between black Statements, black City Editions and the new black Specter set. Black sells, but a closet where three of five jerseys look alike is a closet that wastes its colors, and it cost several big names here.
 
