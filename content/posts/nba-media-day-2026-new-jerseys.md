@@ -12,7 +12,7 @@ league: nba
 teams: ["philadelphia-76ers", "miami-heat", "toronto-raptors", "portland-trail-blazers", "minnesota-timberwolves", "boston-celtics", "washington-wizards", "brooklyn-nets", "atlanta-hawks", "denver-nuggets"]
 ---
 
-NBA Media Day 2026 is the day the offseason becomes real. Every team opened its doors on Monday, September 28, and for the first time we got to see the summer's biggest moves in their new jerseys: LeBron James in Philadelphia blue, Giannis Antetokounmpo in Miami white, Kawhi Leonard back in Toronto red and Ja Morant in Portland. Here is every first look we saw, with the numbers, the uniform each player wore, and the new jersey patches that showed up with them.
+NBA Media Day 2026 is the day the offseason becomes real. Every team opened its doors on Monday, September 28, and for the first time we got to see the summer's biggest moves in their new jerseys: LeBron James in Philadelphia blue, Giannis Antetokounmpo in Miami white, Kawhi Leonard back in Toronto red and Ja Morant in Portland. Here is every first look we saw (the full list of number changes is in our [NBA new jersey numbers guide](/stories/nba-new-jersey-numbers-2026-27)), with the numbers, the uniform each player wore, and the new jersey patches that showed up with them.
 
 Every photo below comes from the team's own account.
 
@@ -152,6 +152,7 @@ Media Day turned a summer of moves into real jerseys: LeBron in Sixers blue, Gia
 
 ## More NBA Coverage
 
+- [NBA New Jersey Numbers 2026-27: Every Player Who Switched](/stories/nba-new-jersey-numbers-2026-27)
 - [2026 NBA Free Agency Tracker: Every New Signing in Their New Jersey](/stories/nba-free-agency-tracker-2026)
 - [LeBron James's 76ers Jersey Number: Why He's Wearing 23](/stories/lebron-james-76ers-jersey-number)
 - [Every NBA City Edition Jersey for 2026-27](/stories/nba-city-edition-jerseys-2026-27)
