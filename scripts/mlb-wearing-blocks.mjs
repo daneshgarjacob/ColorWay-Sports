@@ -72,6 +72,17 @@ const conf = (slug, gn) => confirmed[`${slug}|${gn}`] ?? confirmed[slug];
 // Caps only ride along with a confirmed jersey, straight from the feed.
 const caps = await fetchCaps(date, SLUG);
 
+// Postseason: once the regular season is over (after 2026-09-27), a team with no
+// game is either waiting on its next playoff series or finished for the year.
+const SEASON_END = "2026-09-27";
+const postseason = new Set();
+if (date > SEASON_END) {
+  const ps = await fetch(`https://statsapi.mlb.com/api/v1/schedule/postseason/series?sportId=1&season=${date.slice(0, 4)}`).then(r => r.json()).catch(() => ({}));
+  for (const s of ps.series ?? []) for (const g of s.games ?? []) for (const side of ["home", "away"]) {
+    const n = g.teams?.[side]?.team?.name; if (SLUG[n]) postseason.add(SLUG[n]);
+  }
+}
+
 const state = {}; // slug -> {opp, home, time}
 const slate = [];  // the night's games, earliest first, for the homepage band
 for (const g of games) {
@@ -100,7 +111,12 @@ function block(slug) {
   const s = state[slug];
   const team = SHORT[slug];
   let big, sub, line, why;
-  if (!s) {
+  if (!s && date > SEASON_END && !postseason.has(slug)) {
+    big = "SEASON OVER";
+    sub = "Back in 2027";
+    line = `The ${team} finished their 2026 season on Sunday, September 27.`;
+    why = "";
+  } else if (!s) {
     big = "NO GAME TODAY";
     sub = `Check back on the next ${team} game`;
     line = `The ${team} are off.`;
