@@ -7,7 +7,7 @@ updatedDate: "2026-09-29"
 excerpt: "Oregon's new Origin of Speed uniform, a Hayward Field tribute in Night Forest and Green Strike. Every hidden detail, our B grade, and when the Ducks wear it."
 gradient: "linear-gradient(135deg, #0b2a1a 0%, #050a07 55%, #39ff14 130%)"
 coverImage: "/images/posts/oregon-origin-of-speed-2026/oregon-origin-of-speed-jersey.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 12%"
 coverImageFit: "cover"
 kicker: "Graded"
 homepageHero: true
