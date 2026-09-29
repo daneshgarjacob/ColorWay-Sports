@@ -2,7 +2,7 @@
 title: "New York Knicks Specter Edition Jersey 2026-27: The Lightest of Nike's Dark Collection"
 category: "NBA"
 date: "2026-04-09"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-29"
 excerpt: "The Knicks' Specter Edition jersey is the lightest design in Nike's all-dark holiday collection. The blue and orange stripes with the New York wordmark give it some life."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 coverImage: "/images/posts/nba-xmas-2026-knicks/knicks-xmas-cover.jpg"
@@ -31,6 +31,14 @@ We already covered the full set of leaked 2026 Nike NBA Christmas jerseys and ga
 <div style="display: flex; justify-content: center; margin: 2em 0;">
 <blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2041896326665810297"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+## The Matching Shorts (Update, September 29)
+
+The Knicks Specter shorts run vertical royal blue and black stripes in a grainy spray texture, with orange piping down the sides and around the hem and the Knicks logo in orange on the waistband tab. It is the most "Knicks" piece of the Specter set so far. The first look came from a retail preview shared by the It's The Shorts account on September 29; Nike has not shown the shorts officially yet. More on the full set in our [Specter Edition explainer](/stories/nba-specter-edition-jerseys-2026-27).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/itstheshorts/status/2104836970618757406"></a></blockquote>
 </div>
 
 ## What Works

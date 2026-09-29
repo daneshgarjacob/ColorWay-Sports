@@ -1,8 +1,8 @@
 ---
-title: "NBA Specter Edition Jerseys 2026-27: What They Are, All Eight Teams, and Every Design Graded"
+title: "NBA Specter Edition Jerseys and Shorts 2026-27: What They Are, All Eight Teams, and Every Design Graded"
 category: "NBA"
 date: "2026-09-10"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-29"
 excerpt: "Nike's new Specter Edition is a fifth uniform for the NBA's eight oldest franchises. What it is, when it debuts, why the reaction is brutal, and our grade for each design."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1a4a 55%, #6b2fb3 130%)"
 logoSrc: "/logos/leagues/nba.png"
@@ -41,6 +41,22 @@ The eight jerseys share a template, and the template is the story. Every one run
 The two designs Nike has shown most fully set the tone. The **Lakers'** is black and purple with yellow lettering and number outlines, the Swoosh sitting above a smaller "Lakers" wordmark. The **Pistons'** is a black base with teal outlining and red, teal and orange streaks running through the front and hem, a smoky, flame-like treatment that has nothing to do with red, white and blue.
 
 The reaction has been rough, and not only from the usual corners. "Middle school basketball," "low effort," and "Nike ruined NBA jerseys" were the polite versions. Our read is that the problem is structural rather than any single design: one dark template applied to eight of the most recognizable color schemes in American sport produces eight jerseys that look like each other and not like their teams. A Celtics jersey that is mostly black is a Celtics jersey in the way a shadow of a thing is the thing.
+
+## First Look at the Specter Edition Shorts (Update, September 29)
+
+The shorts are out, or at least two pairs of them are. On September 29 a retail preview surfaced via the It's The Shorts account, crediting the shop 2hands on Instagram, showing the **Celtics** and **Knicks** Specter shorts laid flat. Nike has not shown the shorts officially yet, so treat these as a retail preview rather than a confirmed final spec, but they match the jersey template exactly.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/itstheshorts/status/2104836960674316698"></a></blockquote>
+</div>
+
+The **Celtics** pair is black with a speckled, spray-paint green gradient sweeping across both legs, thick black side panels trimmed in white piping, a green lining, and a small "CELTICS" wordmark on the waistband. The **Knicks** pair runs vertical royal blue and black stripes in the same grainy spray texture, orange piping down the sides and around the hem, and the Knicks logo in orange on the waistband tab.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/itstheshorts/status/2104836970618757406"></a></blockquote>
+</div>
+
+Our read: the shorts are better than the jerseys, and it is not close. The spray-texture gradient that looks muddy across a whole jersey front reads as movement on a pair of shorts, and the Knicks' blue and black stripes with the orange trim is the most "Knicks" anything in the Specter line has looked. The problem is the same one as the tops: the base is still black, so from the upper deck the Celtics are a dark team with a hint of green, not a green team. We will add the other six clubs' shorts here as they surface.
 
 ## Every Specter Edition Design, Graded
 
@@ -91,6 +107,10 @@ The Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, 
 **When do the Specter Edition jerseys come out?**
 
 Later in the fall of 2026, with the on-court debut and retail release landing around the holiday stretch. The wider Nike NBA Standard Issue collection they belong to drops on September 15 and October 12.
+
+**What do the Specter Edition shorts look like?**
+
+A retail preview on September 29 showed the Celtics and Knicks pairs. The Celtics shorts are black with a speckled green spray gradient and white piping; the Knicks shorts are royal blue and black vertical stripes with orange piping. Both follow the dark Specter template, and Nike has not yet shown the shorts officially.
 
 **Are the Specter Edition jerseys the same as the City Edition jerseys?**
 

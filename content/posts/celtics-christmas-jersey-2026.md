@@ -2,7 +2,7 @@
 title: "Boston Celtics Specter Edition Jersey 2026-27: Neon Green on Black Actually Works"
 category: "NBA"
 date: "2026-04-09"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-29"
 excerpt: "The Celtics' Specter Edition jersey uses neon green on a black base and it is one of the better designs in Nike's holiday collection. Full review and grade."
 gradient: "linear-gradient(135deg, #007A33 0%, #000000 100%)"
 coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-xmas-hero.jpg"
@@ -33,6 +33,14 @@ The neon green on a black base just works for Boston. The Celtics have always ow
 <div style="display: flex; justify-content: center; margin: 2em 0;">
 <blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2040239176810127723"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+## The Matching Shorts (Update, September 29)
+
+The Celtics Specter shorts are black with a speckled, spray-paint green gradient sweeping across both legs, black side panels trimmed in white piping, a green lining and a small "CELTICS" wordmark on the waistband. The first look came from a retail preview shared by the It's The Shorts account on September 29; Nike has not shown the shorts officially yet. More on the full set in our [Specter Edition explainer](/stories/nba-specter-edition-jerseys-2026-27).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/itstheshorts/status/2104836960674316698"></a></blockquote>
 </div>
 
 ## What Works
