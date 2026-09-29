@@ -1,8 +1,8 @@
 ---
 title: "The 10 Worst Uniforms in the NFL Right Now (2026), Ranked: Three of Them Get an F"
 category: NFL
-date: "2026-09-29"
-updatedDate: "2026-09-29"
+date: "2026-09-28"
+updatedDate: "2026-09-28"
 excerpt: "The 10 worst NFL uniforms of 2026, ranked. Three Rivalries sets get an F, the Saints' most-worn jersey gets a D+, and the Bills' Nickel City fell on the field."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #0a1a3a 55%, #C8102E 130%)"
 author: "colorway-sports-staff"
