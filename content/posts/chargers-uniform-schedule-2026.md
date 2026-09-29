@@ -1,8 +1,8 @@
 ---
-title: "Los Angeles Chargers 2026 Uniform Schedule: Powder Blue Dates and This Week's Jersey"
+title: "Chargers Uniform Schedule 2026: What They're Wearing This Week, Plus Every Powder Blue Date"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-29"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"

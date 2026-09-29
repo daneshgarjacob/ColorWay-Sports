@@ -1,9 +1,9 @@
 ---
 topViewsRank: 2
-title: "Cincinnati Bengals 2026 Uniform Schedule: White Bengal Jersey Dates"
+title: "Cincinnati Bengals Jerseys and Uniform Schedule 2026: White Bengal Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-24"
+updatedDate: "2026-09-29"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"

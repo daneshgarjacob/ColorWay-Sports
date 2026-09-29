@@ -1,12 +1,12 @@
 ---
-title: "Denver Broncos 2026 Uniform Schedule: Every Jersey, Every Week, and the One Real Complaint"
+title: "Broncos Uniform Schedule 2026: What Denver Is Wearing This Week and Every Jersey Date"
 category: NFL
 date: "2026-08-12"
 excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Orange, two in Midnight Navy, and the best thing they own gets only two."
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-09-23"
+updatedDate: "2026-09-29"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
