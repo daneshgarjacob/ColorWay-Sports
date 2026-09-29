@@ -7,7 +7,8 @@ import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
+import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
 
 export const metadata: Metadata = {
   alternates: {
@@ -26,6 +27,11 @@ const TRACKER_SLUGS = new Set([
   "rugby-club-kits-ranked",
 ]);
 
+// Manual pins in the Latest grid expire after this many days (see FEATURED_SLUGS).
+const PIN_DAYS = 3;
+// Posts published within this many days lead More Stories.
+const FRESH_DAYS = 2;
+
 export default function Home() {
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
@@ -40,6 +46,19 @@ export default function Home() {
     effectiveDate(b).localeCompare(effectiveDate(a))
   );
   const hasCover = (p: { coverImage?: string }) => Boolean(p.coverImage);
+  // Newest by publish date, then by updatedDate, then slug so ties are stable.
+  const byNewest = (a: Post, b: Post) =>
+    b.date.localeCompare(a.date) ||
+    (b.updatedDate || b.date).localeCompare(a.updatedDate || a.date) ||
+    a.slug.localeCompare(b.slug);
+
+  // Dates are Eastern, like the rest of the site. The page is rendered at
+  // build time, so "today" is the day of the last deploy (several a day).
+  const todayEt = new Date().toLocaleDateString("en-CA", {
+    timeZone: "America/New_York",
+  });
+  const dayNumber = (d: string) => Math.floor(Date.parse(d.slice(0, 10) + "T00:00:00Z") / 86_400_000);
+  const daysSince = (d: string) => dayNumber(todayEt) - dayNumber(d);
 
   // A post can pin itself to the hero slot with `homepageHero: true`; otherwise
   // lead with the newest post that carries a real cover image.
@@ -54,7 +73,7 @@ export default function Home() {
   // Rams is restored here on GSC data (8/13): "rams uniform schedule 2026" is the
   // single biggest query on the site at 87 clicks, plus 73 more on "rams jersey
   // schedule 2026". It earns a slot even though it is older than the rest.
-  const FEATURED_SLUGS: string[] = [
+  const FEATURED_SLUGS: { slug: string; pinned: string; standing?: boolean }[] = [
     // Every slug here MUST have a real coverImage. The hero plus these three are
     // the top of the page, and a words-only or ColorWay-generated card is never
     // allowed in that group. Check the post's frontmatter before adding one.
@@ -95,23 +114,34 @@ export default function Home() {
     // the Air Force file is a "THE DETAILS" slide whose body copy is all a 3:2 crop
     // would show. ▶ Texans belongs back here once it has a cover that is not a
     // dated ticket promo.
-    "rays-new-gray-road-uniform",
-    "nfl-uniform-tracker-2026",
-    "nfl-rivalries-uniforms-2026-ranked",
+    // 9/28 (Jake: "a lot of the same stories on repeat"): pins now carry the
+    // date they were pinned and EXPIRE after PIN_DAYS, because the Rays and
+    // Rivalries pins sat for a week and blocked every new cover post (Messi,
+    // the NBA closets ranking) from reaching the grid at all. An expired pin
+    // frees its slot IN PLACE, and that slot auto-fills with the newest cover
+    // post. `standing: true` never expires: the NFL tracker keeps the MIDDLE
+    // card per Jake's 9/16 rule. To pin a story, add it with today's date.
+    { slug: "rays-new-gray-road-uniform", pinned: "2026-09-21" },
+    { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
+    { slug: "nfl-rivalries-uniforms-2026-ranked", pinned: "2026-09-22" },
   ];
-  const featured = FEATURED_SLUGS.map((s) =>
-    filtered.find((p) => p.slug === s)
-  ).filter(
-    (p): p is (typeof filtered)[number] => Boolean(p) && p!.slug !== heroPost.slug
+  // A slot is either a live pin or null (auto-fill), so the tracker stays in
+  // the middle even when the pins on either side of it have expired.
+  const pinSlots = FEATURED_SLUGS.map((pin) => {
+    if (!pin.standing && daysSince(pin.pinned) > PIN_DAYS) return null;
+    const p = filtered.find((x) => x.slug === pin.slug);
+    return p && p.slug !== heroPost.slug ? p : null;
+  });
+  const featuredSlugs = new Set(
+    pinSlots.filter((p): p is Post => Boolean(p)).map((p) => p.slug)
   );
-  const featuredSlugs = new Set(featured.map((p) => p.slug));
   const GRID_EXCLUDE = new Set([
     "mlb-uniform-tracker-2026",
     "mlb-uniform-schedule-2026",
     "nba-free-agency-tracker-2026",
   ]);
   const gridPool = [...filtered]
-    .sort((a, b) => b.date.localeCompare(a.date))
+    .sort(byNewest)
     .filter(
       (p) =>
         p.slug !== heroPost.slug &&
@@ -122,16 +152,60 @@ export default function Home() {
     ...gridPool.filter(hasCover),
     ...gridPool.filter((p) => !hasCover(p)),
   ];
-  const gridPosts = [...featured, ...coverFirst].slice(0, 3);
+  // Fill the empty (unpinned or expired) slots, in place, newest first.
+  let fillAt = 0;
+  const gridPosts = pinSlots
+    .map((p) => p ?? coverFirst[fillAt++])
+    .filter((p): p is Post => Boolean(p));
   const gridSlugs = new Set(gridPosts.map((p) => p.slug));
 
-  // MORE STORIES — pure popularity by topViewsRank, excluding the hero + Latest grid.
-  const shownSlugs = new Set([heroPost.slug, ...gridSlugs]);
-  const compact = filtered
-    .filter((p) => !shownSlugs.has(p.slug))
-    .filter((p) => typeof p.topViewsRank === "number")
-    .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999))
-    .slice(0, 6);
+  // Every story the bands below already link to. More Stories used to be the
+  // top six by topViewsRank, and in NFL season those are all NFL schedule
+  // posts (Bears, Bengals, Lions, Bucs, the NFL hub, Ravens on 9/28), which
+  // the NFL week band ALREADY shows as chips a scroll above. So the page
+  // repeated six stories and never showed anything new. Mirrors the band's
+  // own render rule (it hides itself under 20 chips).
+  const nflChips = getNflWeekChips(currentNflWeek());
+  const bandSlugs = new Set([
+    "mlb-uniform-tracker-2026", // MlbUniformsZone
+    "mlb-uniform-schedule-2026", // MlbUniformsZone
+    ...(nflChips.length >= 20
+      ? ["nfl-uniform-schedule-2026", "nfl-uniform-tracker-2026", ...nflChips.map((c) => c.slug)]
+      : []),
+  ]);
+
+  // MORE STORIES — a story appears at most once on the page. Order:
+  //  1. FRESH: anything published in the last FRESH_DAYS, newest first. This is
+  //     the only slot words-only posts (no cover) can reach, so without it the
+  //     day's new posts never showed on the homepage at all.
+  //  2. POPULAR: topViewsRank, as before, but the window slides by one each
+  //     day when there are more ranked posts than slots, so the same six do not
+  //     sit here all week between Monday re-ranks.
+  //  3. NEWEST: backfill by publish date if the first two run short.
+  const shownSlugs = new Set([heroPost.slug, ...gridSlugs, ...bandSlugs]);
+  const notShown = filtered.filter((p) => !shownSlugs.has(p.slug));
+  const MORE_COUNT = 6;
+  const fresh = notShown
+    // >= 0 so a post dated ahead for tomorrow does not jump the queue today.
+    .filter((p) => daysSince(p.date) >= 0 && daysSince(p.date) <= FRESH_DAYS)
+    .sort(byNewest)
+    .slice(0, MORE_COUNT);
+  const ranked = notShown
+    .filter((p) => typeof p.topViewsRank === "number" && !fresh.includes(p))
+    .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999));
+  const rankedSlots = MORE_COUNT - fresh.length;
+  const offset =
+    ranked.length > rankedSlots ? dayNumber(todayEt) % ranked.length : 0;
+  const rotated = [...ranked.slice(offset), ...ranked.slice(0, offset)].slice(
+    0,
+    rankedSlots
+  );
+  const picked = new Set([...fresh, ...rotated]);
+  const compact = [
+    ...fresh,
+    ...rotated,
+    ...notShown.filter((p) => !picked.has(p)).sort(byNewest),
+  ].slice(0, MORE_COUNT);
 
   return (
     <>
