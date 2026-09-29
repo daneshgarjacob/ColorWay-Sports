@@ -1,5 +1,4 @@
 ---
-homepageHero: true
 title: "Miami's 2001 Throwback Uniforms: The National Championship Set Is Back, Home and Away, Graded"
 author: "colorway-sports-staff"
 category: "College"
