@@ -2,7 +2,7 @@
 title: "Philadelphia Eagles 2026 Uniform Schedule: Kelly Green Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-28"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -94,7 +94,7 @@ Midnight green is a genuinely unusual color and the Eagles deserve credit for st
 
 White jersey, midnight green pants or white pants depending on the week, for all eight road games, with one likely exception.
 
-**Week 2 at Tennessee is confirmed as white on white**: the midnight green helmet with the white jersey and white pants, in Nashville on Sunday, September 20 at 1:00 Eastern. Tennessee is in its new light blue jersey with white pants, so this is color against white with the two helmets doing the separating. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on Monday, September 28 is confirmed: midnight green helmet, white jersey, midnight green pants and white socks** on Monday Night Football, the first time the green pants have come out this season. Chicago will have its own new Rivalries uniform later this season.
+**Week 2 at Tennessee is confirmed as white on white**: the midnight green helmet with the white jersey and white pants, in Nashville on Sunday, September 20 at 1:00 Eastern. Tennessee is in its new light blue jersey with white pants, so this is color against white with the two helmets doing the separating. **Week 12 at Dallas on Thursday, November 26** is the Thanksgiving game, and it is the one road date where Philadelphia can choose a colored jersey instead, because Dallas wears white at home. They took that option in 2025. **Week 3 at Chicago on Monday, September 28 was confirmed and worn: midnight green helmet, white jersey, midnight green pants and white socks** on Monday Night Football, the first time the green pants have come out this season, against the Bears in navy over white. Chicago will have its own new Rivalries uniform later this season.
 
 
 How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranking](/stories/eagles-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
@@ -107,7 +107,7 @@ Midnight green at home and white on the road covers most of the season. The thre
 
 **What jerseys are the Eagles wearing this week?**
 
-Week 3 at Chicago on Monday Night Football, September 28, is confirmed: midnight green helmet, white jersey, midnight green pants and white socks. Over the full season it is midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+Week 3 at Chicago on Monday Night Football, September 28: midnight green helmet, white jersey, midnight green pants and white socks, confirmed by the team and worn on the night. Over the full season it is midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What uniform did the Eagles wear last week?**
 
