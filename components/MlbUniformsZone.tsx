@@ -4,6 +4,7 @@ import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
 import { getMotd } from "@/lib/mlbHomepage";
 import { buildMlbTonight } from "@/lib/mlbTonight";
+import { getMlbPostseasonChips, isMlbPostseason, MLB_POSTSEASON_POST } from "@/lib/mlbPostseason";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // Friday belongs with the weekend, not the work week. Across every day logged in
 // 2026 the standard-jersey share runs Mon 66%, Tue 70%, Wed 67%, Thu 62%, then
@@ -32,6 +33,31 @@ const TOOLS: { href: string; title: string; dek: string; theme: TileTheme }[] = 
     href: "/stories/mlb-uniform-schedule-2026",
     title: "Uniform Schedule",
     dek: "What Each Team Wears And When, For All 30 Teams.",
+    theme: "red",
+  },
+];
+
+// Postseason mode (from 2026-09-29, see lib/mlbPostseason.ts): same three
+// tiles and colors, but the postseason uniforms post takes the lead (blue) slot,
+// the tracker moves to white and the team calendars to red. The all-30-teams
+// schedule hub drops out, since the chips below link each playoff team's own.
+const POSTSEASON_TOOLS: typeof TOOLS = [
+  {
+    href: `/stories/${MLB_POSTSEASON_POST}`,
+    title: "Postseason Uniforms",
+    dek: "Every Matchup, What Each Team Wears And Who Picks.",
+    theme: "blue",
+  },
+  {
+    href: "/stories/mlb-uniform-tracker-2026",
+    title: "Daily Uniform Tracker",
+    dek: "Every Playoff Game, Both Teams, Both Jerseys.",
+    theme: "white",
+  },
+  {
+    href: "/mlb-tracker",
+    title: "Team Uniform Calendars",
+    dek: "Every Jersey, Team By Team, Laid Out All Season.",
     theme: "red",
   },
 ];
@@ -79,6 +105,9 @@ export default async function MlbUniformsZone() {
   // slate, no games, or nothing confirmed yet, the line falls back to the last
   // night we actually logged, which is the card below.
   const tonight = buildMlbTonight();
+  const postseason = isMlbPostseason();
+  const tools = postseason ? POSTSEASON_TOOLS : TOOLS;
+  const chips = postseason ? getMlbPostseasonChips() : [];
   const recapDay = data?.day ?? null;
   const trackerLink = (
     <Link prefetch={false} href={href} className="font-semibold text-orange hover:underline">
@@ -111,6 +140,13 @@ export default async function MlbUniformsZone() {
         for the full log.
       </>
     );
+  } else if (recapDay && postseason) {
+    dek = (
+      <>
+        Every jersey from our last logged night, {recapDay}, plus the {chips.length} teams still
+        playing. Tap the {trackerLink} for the full log.
+      </>
+    );
   } else if (recapDay) {
     dek = (
       <>
@@ -136,15 +172,16 @@ export default async function MlbUniformsZone() {
             <span className="flex items-center gap-1.5">
               <img src="/logos/mlb.png" alt="MLB" className="h-[18px] w-auto object-contain" />
               <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
-                MLB Uniforms{tonight ? ` · ${tonight.day}` : ""}
+                {postseason ? "MLB Postseason" : "MLB Uniforms"}
+                {tonight ? ` · ${tonight.day}` : ""}
               </h2>
             </span>
           </div>
           <Link prefetch={false}
-            href="/mlb-tracker"
+            href={postseason ? `/stories/${MLB_POSTSEASON_POST}` : "/mlb-tracker"}
             className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
           >
-            All 30 Teams →
+            {postseason ? "Postseason Guide →" : "All 30 Teams →"}
           </Link>
         </div>
 
@@ -191,7 +228,7 @@ export default async function MlbUniformsZone() {
         )}
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
-          {TOOLS.map((t) => {
+          {tools.map((t) => {
             const th = THEMES[t.theme];
             return (
               <Link prefetch={false}
@@ -227,6 +264,46 @@ export default async function MlbUniformsZone() {
             );
           })}
         </div>
+
+        {/* Postseason: one chip per team still alive, same chip as the NFL
+            band, linking the team's schedule post. Wild Card pairs first
+            (road team first), then the byes. Data: lib/mlbPostseason.ts. */}
+        {chips.length > 0 && (
+          <div className="mt-6">
+            <div className="flex items-baseline justify-between mb-3 gap-2">
+              <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
+                The Field · {chips.length} Teams Left
+              </span>
+              <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#8A8F98]">
+                Tap a team for its full jersey schedule
+              </span>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2">
+              {chips.map((c) => (
+                <Link
+                  prefetch={false}
+                  key={c.slug}
+                  href={`/stories/${c.slug}`}
+                  className="group flex flex-col rounded-lg bg-white border border-border px-3 py-2.5 transition-transform hover:-translate-y-0.5"
+                  style={{ borderLeft: `3px solid ${c.accent}` }}
+                >
+                  <span className="flex items-center gap-1.5 min-w-0">
+                    {c.logo && (
+                      <img src={c.logo} alt="" className="h-[20px] w-[20px] object-contain flex-shrink-0" />
+                    )}
+                    <span className="text-[12px] font-extrabold text-[#0B1F4A] truncate group-hover:text-orange transition-colors">
+                      {c.team}
+                    </span>
+                  </span>
+                  <span className="mt-1 text-[11px] text-[#5f7085] truncate">{c.opponent}</span>
+                  <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0B1F4A]">
+                    {c.label}
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Jersey Stats of the Day — all of last night's data in one card */}
         {data && (

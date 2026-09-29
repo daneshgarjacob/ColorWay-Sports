@@ -9,6 +9,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
 import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
+import { mlbBandSlugs } from "@/lib/mlbPostseason";
 
 export const metadata: Metadata = {
   alternates: {
@@ -167,8 +168,9 @@ export default function Home() {
   // own render rule (it hides itself under 20 chips).
   const nflChips = getNflWeekChips(currentNflWeek());
   const bandSlugs = new Set([
-    "mlb-uniform-tracker-2026", // MlbUniformsZone
-    "mlb-uniform-schedule-2026", // MlbUniformsZone
+    // MlbUniformsZone: tracker + schedule hub in the regular season; from
+    // 9/29 the postseason post, tracker and each playoff team's schedule post.
+    ...mlbBandSlugs(todayEt),
     ...(nflChips.length >= 20
       ? ["nfl-uniform-schedule-2026", "nfl-uniform-tracker-2026", ...nflChips.map((c) => c.slug)]
       : []),
