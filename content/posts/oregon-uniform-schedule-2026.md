@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-29"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
   <div style="background: #154733; color: #ffffff; border: 2px solid #FEE123; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Portland State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #154733; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Warp Speed &middot; Silver / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Origin of Speed</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -58,7 +58,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **October 3.** Bye.
 
-**October 10 vs. UCLA.** Green expected.
+**October 10 vs. UCLA.** Confirmed: the new **Origin of Speed** uniform, Night Forest with Green Strike speed-streak wings, revealed by Oregon and Nike on September 29. Every detail in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026).
 
 **October 17 vs. Nebraska.** Green expected.
 
@@ -82,7 +82,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore Warp Speed at USC on Saturday, September 26: silver helmet, white jersey and white pants, confirmed by Oregon on September 23 and matched by the game photos, in a 41-27 win over USC in cardinal and gold. The week before, Oregon wore all green against Portland State: green helmet with the yellow wing, green jersey with yellow numbers and green pants, in an 84-0 win. Oregon is off on October 3, and next up is UCLA at Autzen on October 10, where green is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
+Oregon wore Warp Speed at USC on Saturday, September 26: silver helmet, white jersey and white pants, confirmed by Oregon on September 23 and matched by the game photos, in a 41-27 win over USC in cardinal and gold. The week before, Oregon wore all green against Portland State: green helmet with the yellow wing, green jersey with yellow numbers and green pants, in an 84-0 win. Oregon is off on October 3, and next up is UCLA at Autzen on October 10, where Oregon debuts the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026), revealed September 29. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

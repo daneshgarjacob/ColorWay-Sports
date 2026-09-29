@@ -3,7 +3,7 @@ title: "UCLA Uniform Schedule 2026: Every Jersey and When the Bruins Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-09-29"
 excerpt: "What jersey is UCLA wearing this week? The full UCLA uniform schedule for 2026: powder blue home jerseys, white road uniforms, the throwback alternate and every game."
 gradient: "linear-gradient(135deg, #2774AE 0%, #005587 55%, #FFD100 130%)"
 cardStyle: words
@@ -54,7 +54,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **October 3.** Bye.
 
-**October 10 at Oregon.** White expected, as the visitor. Autzen Stadium, where Oregon controls the color call and is expected in green.
+**October 10 at Oregon.** White expected, as the visitor. Autzen Stadium, where Oregon debuts its new, near-black [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026), so UCLA in white is close to a lock.
 
 **October 17 vs. Wisconsin.** Blue expected. A Big Ten home date at the Rose Bowl, with Wisconsin in white.
 
