@@ -18,14 +18,14 @@ teams: ["oregon-ducks", "big-ten"]
 <img src="/images/posts/oregon-origin-of-speed-2026/oregon-origin-of-speed-jersey.jpg" alt="Oregon Ducks Origin of Speed 2026 football uniform: Night Forest jersey with Green Strike and yellow speed-streak wings across the shoulders, green number 1 with silver outline, and a dark helmet with a green and yellow streaked wing" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Oregon Football / Nike</p>
 
-Oregon just did the most Oregon thing possible: it made a football uniform about running. Nike and the Ducks revealed the **"Origin of Speed"** uniform on September 29, a near-black green set with electric green and yellow wings that look like they are still moving, built as a tribute to Hayward Field and the track history of Eugene. It is the third and final uniform in Oregon's **Generation O** series, and the Ducks debut it on **Saturday, October 10 against UCLA at Autzen Stadium.**
+Oregon just did the most Oregon thing possible: it made a football uniform about running. Nike and the Ducks revealed the **"Origin of Speed"** uniform on September 29, a Night Forest set (Nike's darkest green, not black) with electric green and yellow wings that look like they are still moving, built as a tribute to Hayward Field and the track history of Eugene. It is the third and final uniform in Oregon's **Generation O** series, and the Ducks debut it on **Saturday, October 10 against UCLA at Autzen Stadium.**
 
-Our grade: **B**. We like it, and the pop of color is the best thing about it. The green and yellow streaks are exactly what Oregon should be doing. But on a near-black jersey it looks a little off, and we think this same design on a white jersey would have been better. By Oregon's standards, the bar is higher than "good."
+Our grade: **B**. We like it, and the pop of color is the best thing about it. The green and yellow streaks are exactly what Oregon should be doing. But on a base this dark, Night Forest green, it looks a little off, and we think this same design on a white jersey would have been better. By Oregon's standards, the bar is higher than "good."
 
 <div style="margin: 2em 0; padding: 1.6em 2em; background: linear-gradient(135deg, #0b2a1a 0%, #154733 60%, #1f6b3a 100%); border-radius: 16px; border: 2px solid #39ff14; box-shadow: 0 4px 22px rgba(57, 255, 20, 0.22); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
   <p style="margin: 0; font-size: 2.9em; font-weight: 900; color: #FEE123; line-height: 1; letter-spacing: -1px;">B</p>
-  <p style="margin: 8px 0 0; font-size: 0.8em; font-weight: 700; color: #ffffff; text-transform: uppercase; letter-spacing: 1.5px;">Great Pop of Color, Wrong Base</p>
+  <p style="margin: 8px 0 0; font-size: 0.8em; font-weight: 700; color: #ffffff; text-transform: uppercase; letter-spacing: 1.5px;">Great Pop of Color, Too-Dark Base</p>
 </div>
 
 *Every uniform photo in this post, including the cover image, comes from Oregon Football and Nike. These are the school's official reveal images, not ColorWay Sports originals.*
@@ -38,7 +38,7 @@ Our grade: **B**. We like it, and the pop of color is the best thing about it. T
 
 The set is built on two colors, one old and one brand new:
 
-- **Night Forest**, which Nike calls its darkest green. It is the base of the jersey and pants, and in most light it reads as black.
+- **Night Forest**, which Nike calls its darkest green. It is the base of the jersey and pants. It is a green, not a black, though it is dark enough that in low light it can pass for one.
 - **Green Strike**, a new color that debuts on this uniform, running across the jersey shoulders and down the sides of the helmet, with Volt and reflective silver as the accents.
 
 The pieces:
@@ -68,15 +68,15 @@ That is the difference between this and a lot of college "special" uniforms. It 
 
 ## What Doesn't Work
 
-**The black base.** The color pop is the whole point of this uniform, and it is fighting a jersey that reads black. Put these same green and yellow wings on a white jersey and they would explode off the screen. On Night Forest, it looks a little off, more costume than classic.
+**The dark base.** The color pop is the whole point of this uniform, and it is fighting a jersey in the darkest green Nike makes. Put these same green and yellow wings on a white jersey and they would explode off the screen. On Night Forest, it looks a little off, more costume than classic.
 
 **Oregon's own bar.** This is the program that invented the modern college uniform. A good idea on the wrong canvas is a B for most schools. For Oregon, it is a B with a note that they have done better.
 
 ## What We Want to See Under the Lights
 
-**The actual colors.** Night Forest is so dark that from the upper deck this will likely look like a black uniform with green trim, and the reveal photography, all green light and long exposure, does not tell us how it reads under stadium lights. We will know on October 10.
+**The actual colors.** Night Forest is so dark that from the upper deck it may read closer to black than green, and the reveal photography, all green light and long exposure, does not tell us how it reads under stadium lights. We will know on October 10.
 
-**The numbers.** Green on near-black with a silver outline could either glow or disappear on a broadcast. The silver edge should save it, but that is the thing we will be watching.
+**The numbers.** Bright green on the darkest green with a silver outline could either glow or disappear on a broadcast. The silver edge should save it, but that is the thing we will be watching.
 
 ## When Oregon Wears the Origin of Speed Uniform
 
@@ -84,7 +84,7 @@ Once, as of now: **Saturday, October 10, 2026, vs. UCLA at Autzen Stadium.** Ore
 
 ## The Bottom Line
 
-Oregon's Origin of Speed uniform is a fast-looking set with real meaning in the details, most of all the Hayward Field "O" with lanes for Spencer Webb and Khyree Jackson. The pop of color is great. The black base is the problem: the wings would have jumped even more off a white jersey, and for the program that sets the bar for college uniforms, this lands a notch below its best. Overall, a **B**. We will see how it plays under the lights against UCLA on October 10.
+Oregon's Origin of Speed uniform is a fast-looking set with real meaning in the details, most of all the Hayward Field "O" with lanes for Spencer Webb and Khyree Jackson. The pop of color is great. The dark Night Forest base is the problem: the wings would have jumped even more off a white jersey, and for the program that sets the bar for college uniforms, this lands a notch below its best. Overall, a **B**. We will see how it plays under the lights against UCLA on October 10.
 
 
 ## Frequently Asked Questions
@@ -111,7 +111,7 @@ Generation O is a three-year series of Nike special uniforms for Oregon football
 
 **What grade did ColorWay Sports give Oregon's Origin of Speed uniform?**
 
-A B. The pop of color is great, but on a near-black base the design looks a little off; the same wings on a white jersey would have been better, and by Oregon's standards it should be a notch higher.
+A B. The pop of color is great, but on the dark Night Forest green base the design looks a little off; the same wings on a white jersey would have been better, and by Oregon's standards it should be a notch higher.
 
 **Can you buy the Oregon Origin of Speed jersey?**
 
