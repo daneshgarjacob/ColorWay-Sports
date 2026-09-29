@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Tuesday, September 29
 
-October starts here. Day one of the Wild Card Series is four games, all at the higher seed's park, and the first one is played exactly by the book: the Phillies in road gray at Truist Park, the Braves in home white, red caps on both sides. It is the classic look for an NL East rivalry in the postseason, clean if not loud, and we grade the matchup a **B**. White Sox at Astros (5:00 p.m. ET), Red Sox at Yankees (8:00 p.m.) and Cubs at Padres (10:00 p.m.) are added below as each team's uniform is confirmed. Every postseason game gets logged here, both teams and both jerseys; for the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+October starts here. Day one of the Wild Card Series is four games, all at the higher seed's park, and the first one was played exactly by the book: the Phillies in road gray at Truist Park, the Braves in home white, red caps on both sides. It is the classic look for an NL East rivalry in the postseason, clean if not loud, and we grade the matchup a **B**. Atlanta took Game 1, 5-3. In Houston, the White Sox skipped the road gray jersey and came out in the black "Sox" alternate over gray pants against the Astros' home whites, the first real color of the postseason. Red Sox at Yankees (8:00 p.m. ET) and Cubs at Padres (10:00 p.m.) are added below as each team's uniform is confirmed. Every postseason game gets logged here, both teams and both jerseys; for the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ October starts here. Day one of the Wild Card Series is four games, all at the h
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Braves 5, Phillies 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
