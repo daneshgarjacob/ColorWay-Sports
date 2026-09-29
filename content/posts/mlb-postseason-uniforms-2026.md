@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-16"
-updatedDate: "2026-09-27"
+updatedDate: "2026-09-29"
 excerpt: "The 2026 MLB playoff field is set. Every Wild Card matchup, what each team is expected to wear, who picks the jersey, and the October patches."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -22,7 +22,7 @@ The 2026 postseason opens with the Wild Card Series on **September 29**. The Div
 
 The regular season ended on Sunday, September 27, and the twelve-team field is set. The Wild Card Series are best of three, every game at the higher seed's park, starting Tuesday, September 29 on NBC and Peacock. The top two seeds in each league have byes into the Division Series, which starts Saturday, October 3.
 
-**Philadelphia Phillies at Atlanta Braves (NL).** Games at 2:00 p.m. ET, Tuesday through Thursday if needed. Atlanta is home all series, so the Braves should be in home whites and the Phillies in road gray. That takes the Phillies' Thursday powder blue off the table, because it is a home jersey. [Braves uniform schedule](/stories/braves-uniform-schedule-2026) · [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026)
+**Philadelphia Phillies at Atlanta Braves (NL).** Games at 2:00 p.m. ET, Tuesday through Thursday if needed. Atlanta is home all series, so the Braves should be in home whites and the Phillies in road gray. That takes the Phillies' Thursday powder blue off the table, because it is a home jersey. **Game 1 (Tuesday), confirmed:** Phillies in road gray, Braves in home white, red caps on both sides. Our grade: **B**. [Braves uniform schedule](/stories/braves-uniform-schedule-2026) · [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026)
 
 **Chicago White Sox at Houston Astros (AL).** Games at 5:00 p.m. ET. Home whites are the default for Houston, with the orange alternate the one we would watch for; the White Sox are in road gray. [Astros uniform schedule](/stories/astros-uniform-schedule-2026) · [White Sox uniform schedule](/stories/white-sox-uniform-schedule-2026)
 
