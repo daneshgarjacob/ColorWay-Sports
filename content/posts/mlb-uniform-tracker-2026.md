@@ -33,11 +33,6 @@ Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had
 
 ### Chicago White Sox at Houston Astros
 
-<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #27251F 0%, #ffffff 50%, #EB6E1F 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(30,30,30,0.28);">
-  <div style="text-align: center; padding: 7px 10px 8px;">
-    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
-  </div>
-
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
@@ -64,10 +59,6 @@ Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had
   </div>
 </div>
 </div>
-
-</div>
-
-The Clash of the Day for Wednesday goes to Houston: the White Sox in the black alternate against the Astros in orange. Two alternates in an elimination game, black and orange under the roof, the best-looking matchup of the Wild Card round so far.
 
 ### Philadelphia Phillies at Atlanta Braves
 
