@@ -2,14 +2,13 @@
 title: "Every MLB Postseason Logo Ranked, 2011 to 2026: The Playoff Patch Countdown"
 category: "MLB"
 date: "2026-09-29"
-updatedDate: "2026-09-29"
+updatedDate: "2026-09-30"
 excerpt: "All 16 MLB postseason logos from 2011 to 2026 ranked and graded, from the autumn leaf 2011 patch to the third straight repeat on the 2026 cap."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 league: "mlb"
 teams: []
-coverImage: "/images/posts/mlb-postseason-logos-ranked/postseason-2011.jpg"
-coverImagePosition: "center 50%"
-coverImageFit: "contain"
+coverImage: "/images/posts/mlb-postseason-logos-ranked/cover.jpg"
+coverImagePosition: "center center"
 ---
 
 <img src="/images/posts/mlb-postseason-logos-ranked/postseason-2026.jpg" alt="2026 MLB postseason logo, a serif POSTSEASON wordmark in white on navy with the MLB logo on top and a gold 2026, the same design used in 2024 and 2025" style="width: 100%; max-width: 560px; display: block; margin: 0 auto; border-radius: 10px;" />
