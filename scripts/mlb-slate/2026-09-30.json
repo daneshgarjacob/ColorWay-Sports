@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-30",
+  "games": [
+    {
+      "away": "Philadelphia Phillies",
+      "awaySlug": "phillies",
+      "home": "Atlanta Braves",
+      "homeSlug": "braves",
+      "time": "2:00 PM ET",
+      "gameNumber": 1
+    },
+    {
+      "away": "Chicago White Sox",
+      "awaySlug": "white-sox",
+      "home": "Houston Astros",
+      "homeSlug": "astros",
+      "time": "5:00 PM ET",
+      "gameNumber": 1
+    },
+    {
+      "away": "Boston Red Sox",
+      "awaySlug": "red-sox",
+      "home": "New York Yankees",
+      "homeSlug": "yankees",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    },
+    {
+      "away": "Chicago Cubs",
+      "awaySlug": "cubs",
+      "home": "San Diego Padres",
+      "homeSlug": "padres",
+      "time": "10:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
