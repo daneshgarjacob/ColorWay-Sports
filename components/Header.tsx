@@ -172,6 +172,21 @@ const leagues: NavLeague[] = [
     ],
   },
   {
+    // College basketball, promoted out of More 9/30 (Jake). No school pages
+    // yet, so the dropdown is the league stories page plus its posts; schools
+    // join as conferences-with-carets, like CFB, once they have schedule posts.
+    label: "CBB",
+    storiesLink: { label: "College Basketball Stories", href: "/stories?league=cbb" },
+    leagueLogo: "/logos/leagues/college-basketball.svg",
+    teams: [],
+    extraLinks: [
+      { label: "2026 Final Four Court Design", href: "/stories/ncaa-final-four-court-design-2026" },
+      { label: "Final Four Court and Broadcast Review", href: "/stories/final-four-court-broadcast-review-2026" },
+      { label: "ESPN College Basketball New Logo", href: "/stories/espn-college-basketball-new-logo-2026" },
+      { label: "March Madness Expansion to 76 Teams", href: "/stories/march-madness-76-team-expansion-2026" },
+    ],
+  },
+  {
     label: "NBA",
     storiesLink: { label: "NBA Stories", href: "/stories?league=nba" },
     leagueLogo: "/logos/leagues/nba.png",
@@ -217,7 +232,7 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "Soccer/Fútbol",
+    label: "Soccer",
     storiesLink: { label: "All Soccer Stories", href: "/stories?league=soccer" },
     leagueLogo: "/logos/leagues/soccer-ball.svg",
     // Competitions, each with its own mark, the way this menu has always read.
@@ -265,7 +280,6 @@ const leagues: NavLeague[] = [
     storiesLink: { label: "All Stories", href: "/stories" },
     teams: [],
     extraLinks: [
-      { label: "CBB", href: "/stories?league=cbb" },
       { label: "Rugby", href: "/stories?league=rugby" },
       { label: "Cricket", href: "/stories?league=cricket" },
       { label: "UFL", href: "/stories?league=ufl" },
