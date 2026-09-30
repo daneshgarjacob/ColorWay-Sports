@@ -53,7 +53,7 @@ const FAQ = [
   },
   {
     q: "Why is Capital One on the recent World Series logos?",
-    a: "Capital One holds the presenting sponsorship of the World Series, so since 2022 its logo has been built into the official mark rather than kept to separate signage. We graded that era a D for it. Grade it yourself and see whether you are tougher on it than we were.",
+    a: "Capital One holds the presenting sponsorship of the World Series, so since 2022 its logo has been built into the official mark rather than kept to separate signage. We graded that era a C minus, mostly for the sponsor. Grade it yourself and see whether you are tougher on it than we were.",
   },
 ];
 

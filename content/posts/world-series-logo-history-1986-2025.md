@@ -1,9 +1,9 @@
 ---
-title: "World Series Logo History 1986-2025: Every Era Ranked Best to Worst"
+title: "World Series Logo History 1986-2026: Every Era Ranked Best to Worst"
 category: "MLB"
 date: "2026-07-15"
-updatedDate: "2026-08-07"
-excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes the A, the nineties globe and bat era a B minus, Capital One a D."
+updatedDate: "2026-09-29"
+excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes the A, the nineties globe and bat era a B minus, Capital One a C minus."
 gradient: "linear-gradient(135deg, #F8EFE0 0%, #E5D5BC 100%)"
 league: "mlb"
 teams: []
@@ -15,7 +15,7 @@ coverImageFit: "contain"
 
 <img src="/images/posts/world-series-logo-history/world-series-logo-history-cover.jpg" alt="World Series logo history 1986 to 2025 cover composite showing seven era-defining championship logos from the green diamond script era through the current Capital One era of Fall Classic branding" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
 
-The World Series logo is the rarest piece of design in American sports. It gets used for about two weeks a year, it gets stitched onto a jersey sleeve that only two teams ever wear, and then it is retired forever and replaced by a brand new one. Forty of them have come and gone since 1986, and they tell you exactly what Major League Baseball thought it was selling in any given October.
+The World Series logo is the rarest piece of design in American sports. It gets used for about two weeks a year, it gets stitched onto a jersey sleeve that only two teams ever wear, and then it is almost always retired and replaced by a brand new one. Forty of them have come and gone since 1986, and they tell you exactly what Major League Baseball thought it was selling in any given October.
 
 Here is where we part ways with the internet. The consensus says the nineties were the golden age of World Series design, that the globe and bat marks were untouchable, and that everything since has been decline. We went back through all forty and we do not buy it. **The best era of World Series logos is the modern navy run from 2015 to 2021, and the beloved globe and bat era is a B minus.** The nostalgia is doing a lot of heavy lifting on those nineties marks. What follows is all eight eras, graded, with the reasoning.
 
@@ -29,7 +29,13 @@ Here is where we part ways with the internet. The consensus says the nineties we
 
 <img src="/images/posts/world-series-logo-history/world-series-logo-history-grid.jpg" alt="Full chronological grid of every World Series logo from 1986 to 2025, forty marks in order showing the green diamond era, the globe and bat era, the chrome era, the Fall Classic era, and the Capital One era" style="width: 100%; border-radius: 10px; margin: 2em 0;" />
 
-All eight eras below in order, with the best and the worst called out at the bottom.
+MLB posted its own version of this lineup, the last 30 World Series logos in a row, during the 2025 Fall Classic:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/1981549343845814418"></a></blockquote>
+</div>
+
+All eight eras below in order, with the best and the worst called out at the bottom. For the other October mark, the one every playoff team wears on its cap, see our ranking of [every MLB postseason logo from 2011 to 2026](/stories/mlb-postseason-logos-ranked-2011-2026).
 
 ## Era 1 · 1986 · The Standalone Wordmark
 
@@ -96,7 +102,7 @@ This era does contain the strangest logo in the entire set. **The 1994 mark is a
   <div style="text-align: center; background: linear-gradient(160deg, #fdf7ec 0%, #efe0c6 100%); border: 1px solid rgba(0,0,0,0.06); border-radius: 12px; padding: 12px 10px 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.07);"><img src="/images/posts/world-series-logo-history/2002.png" alt="2002 World Series logo, Angels over Giants" style="width: 100%; height: 96px; object-fit: contain; display: block;" /><p style="font-size: 0.8em; color: #6b5a3e; margin: 0.55em 0 0; font-weight: 800;">2002</p></div>
 </div>
 
-Everybody hates this era and everybody is wrong. Yes, it is the most 1999 thing ever committed to a jersey. The 1998 and 1999 marks keep the globe but go to a hard white block script with a year ribbon. Then 2000 arrives and baseball discovers the swoosh, and the 2000, 2001, and 2002 marks are all oval-and-orbit constructions with a baseball rocketing around a ring. Here is why it lands an A minus: it commits. There is an actual idea in these, motion and orbit and momentum, and the era chases it for five straight years without blinking. The 2000 Subway Series mark has more energy in it than the entire back half of the Fall Classic era. Design that is confidently of its moment ages into character. Design that is trying to be timeless ages into nothing. We would take a swaggering, slightly ridiculous 2001 mark over a safe one every October.
+Everybody hates this era and everybody is wrong. Yes, it is the most 1999 thing ever committed to a jersey. The 1998 and 1999 marks keep the globe but go to a hard white block script with a year ribbon, and they are the same design, the one time in this whole run before 2025 that MLB used a World Series logo two years in a row. Then 2000 arrives and baseball discovers the swoosh, and the 2000, 2001, and 2002 marks are all oval-and-orbit constructions with a baseball rocketing around a ring. Here is why it lands an A minus: it commits. There is an actual idea in these, motion and orbit and momentum, and the era chases it for five straight years without blinking. The 2000 Subway Series mark has more energy in it than the entire back half of the Fall Classic era. Design that is confidently of its moment ages into character. Design that is trying to be timeless ages into nothing. We would take a swaggering, slightly ridiculous 2001 mark over a safe one every October.
 
 ## Era 5 · 2003 to 2007 · The Chrome Era
 
@@ -155,9 +161,9 @@ The best era of World Series logos, and it is not particularly close. Seven year
 
 ## Era 8 · 2022 to 2025 · The Capital One Era
 
-<div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #c72d1e 0%, #ff5f45 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(199,45,30,0.38); text-align: center;">
+<div style="margin: 1.6em 0 1.2em; padding: 1.3em 1.5em; background: linear-gradient(135deg, #d94a14 0%, #ff7a45 100%); border-radius: 14px; box-shadow: 0 8px 24px rgba(217,74,20,0.38); text-align: center;">
   <p style="margin: 0 0 3px; font-size: 0.68em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: #ffffff; opacity: 0.9;">ColorWay Sports Grade</p>
-  <p style="margin: 0; font-size: 2.4em; font-weight: 900; color: #ffffff; line-height: 1; text-shadow: 0 2px 12px rgba(0,0,0,0.28);">D</p>
+  <p style="margin: 0; font-size: 2.4em; font-weight: 900; color: #ffffff; line-height: 1; text-shadow: 0 2px 12px rgba(0,0,0,0.28);">C-</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin: 1.5em 0;">
@@ -167,9 +173,16 @@ The best era of World Series logos, and it is not particularly close. Seven year
   <div style="text-align: center; background: linear-gradient(160deg, #fdf7ec 0%, #efe0c6 100%); border: 1px solid rgba(0,0,0,0.06); border-radius: 12px; padding: 12px 10px 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.07);"><img src="/images/posts/world-series-logo-history/2025.png" alt="2025 World Series logo, Dodgers over Blue Jays" style="width: 100%; height: 96px; object-fit: contain; display: block;" /><p style="font-size: 0.8em; color: #6b5a3e; margin: 0.55em 0 0; font-weight: 800;">2025</p></div>
 </div>
 
-And then they stopped trying. Line 2022, 2023, and 2024 up next to each other and try to tell them apart. Navy wordmark, trophy, Capital One, year. Navy wordmark, trophy, Capital One, year. Navy wordmark, trophy, Capital One, year. That is the whole problem with this era and it is why it grades a D: **these logos are not different from each other.** The entire premise of a World Series logo, the reason it is worth collecting and worth ranking at all, is that each October gets its own mark. Kill the difference and you have not made a championship logo, you have made a template with a date field.
+The era did not stop trying, but it did let a bank in. We originally called these four the same logo with the year swapped, and MLB's own 30-logo lineup shows that was wrong. They are four different marks. **2022** is a navy wordmark with a waving gold and silver pennant, the prize the teams are chasing, and it is the best idea of the era. **2023** sets the wordmark beside a full Commissioner's Trophy, with Capital One under it. **2024** moves the trophy behind the wordmark, again with Capital One. And **2025** brings back the cursive World Series script, the lineage that ran from 1987 to 2000, drawn by designer Kelly Hume through Fanbrandz (per the Seattle Times), with Capital One and a gold 2025 banner.
 
-The sponsor does not help. Capital One sits inside the championship mark of the sport's championship series, on the sleeve patch and in every broadcast use, and once you see it you cannot unsee it. We graded [the NBA's YouTube TV era](/stories/nba-finals-logo-history-1986-2025) an F for that same sin. The saving grace, and the only reason this is a D and not an F, is 2025. It brings back the slanted cursive script for the first time since the green diamond years, navy and white with a gold year bar, and it is the best pure piece of World Series lettering in two decades. It is also the first mark since 2021 that looks like anyone made a decision. Strip the bank out and we would be talking about an A minus.
+So why only a C minus? The sponsor. Capital One sits inside the championship mark of the sport's championship series, on the patch and in every broadcast use, and once you see it you cannot unsee it. We graded [the NBA's YouTube TV era](/stories/nba-finals-logo-history-1986-2025) an F for that same sin. And 2023 and 2024 are close cousins, a navy wordmark and a trophy rearranged, which is the least interesting stretch since the Fall Classic era ran out of leaves. What keeps it off the bottom tier is 2022's pennant and 2025's script, which is the best pure piece of World Series lettering in two decades. Strip the bank out of 2025 and we would be talking about an A minus.
+
+## 2026: The Script Returns Again
+
+<img src="/images/posts/mlb-postseason-logos-ranked/world-series-2026.jpg" alt="2026 World Series logo, a white cursive World Series script on navy with the MLB logo atop a gold diamond, Capital One and a gold 2026 banner" style="width: 100%; max-width: 420px; display: block; margin: 1.5em auto 0; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via MLB</p>
+
+The 2026 World Series logo showed up in MLB's 2026 postseason schedule graphic, and it is a near copy of 2025: the same cursive script, the MLB logo atop a gold diamond, Capital One, and a gold 2026 banner. It is the first back-to-back World Series repeat since 1998 and 1999. We love the script and we understand wanting to keep it, but a new year deserves a new mark. It is part of a bigger pattern, too. MLB is using the same postseason logo for the third straight year, which we get into in our [MLB postseason logo ranking](/stories/mlb-postseason-logos-ranked-2011-2026).
 
 ## The Best Era
 
@@ -177,7 +190,7 @@ The sponsor does not help. Capital One sits inside the championship mark of the 
 
 ## The Worst Era
 
-**2022 to 2025, the Capital One Era, grade D.** Not because it is ugly, because it is not. Because it is the same logo four times with the year swapped and a bank in the corner. The one job of an annual mark is to be annual. Three of these four are interchangeable, and the fourth, the genuinely lovely 2025 cursive, only proves the rest could have been better if anyone had asked.
+**2022 to 2025, the Capital One Era, grade C minus.** Not because it is ugly, and not because it is lazy. These are four different logos, and the 2022 pennant and 2025 script are both good. It is the worst era because a bank moved into the championship mark, because 2023 and 2024 barely move the needle from each other, and because the one great idea, the 2025 script, is now being repeated in 2026 instead of built on.
 
 ## Frequently Asked Questions About World Series Logo History
 
@@ -187,7 +200,7 @@ The best World Series logo era is the 2015 to 2021 modern navy run, which we gra
 
 **What is the worst World Series logo era?**
 
-The worst World Series logo era is the 2022 to 2025 Capital One era, graded D. The 2022, 2023, and 2024 marks are nearly interchangeable: navy wordmark, trophy, sponsor, year. The whole point of a World Series logo is that every October gets its own, and this era stopped bothering. The Capital One logo baked into the championship mark makes it worse, and only the 2025 cursive revival keeps it off an F.
+The worst World Series logo era is the 2022 to 2025 Capital One era, graded C minus. The four marks are different from each other: 2022 has a gold and silver pennant, 2023 sets the wordmark beside the Commissioner's Trophy, 2024 puts the trophy behind the wordmark, and 2025 brings back the cursive script. What drags the era down is the Capital One logo built into the championship mark and how similar 2023 and 2024 are.
 
 **Are the nineties World Series logos overrated?**
 
@@ -199,11 +212,19 @@ The 1994 World Series logo was designed and produced before the players strike w
 
 **Why is Capital One on the World Series logo?**
 
-Capital One holds the presenting sponsorship of the World Series, so since 2022 its logo has been built into the official mark itself rather than kept to separate signage. That puts the sponsor on the sleeve patch and in every broadcast use of the logo. We graded the era a D, partly for that and mostly because the marks stopped differing from each other.
+Capital One holds the presenting sponsorship of the World Series, so since 2022 its logo has been built into the official mark itself rather than kept to separate signage. That puts the sponsor on the patch and in every broadcast use of the logo. We graded the era a C minus, mostly for that.
 
 **Does the World Series logo change every year?**
 
-Yes. Every World Series since 1986 has had its own unique logo with the year built into the design, and the mark is retired once the series ends. That is what makes the run worth ranking. Most eras reuse a shared template for several years and change the year, the colors, and small details, which is why the forty marks group into eight design families rather than forty unrelated designs.
+Almost every year. Most World Series since 1986 have had their own logo with the year built in, and the mark is retired once the series ends. There are two exceptions: 1998 and 1999 used the same design, and the 2026 World Series logo is a near copy of 2025, with the same cursive script, gold diamond and Capital One. Most eras also share a template for several years and change the year, colors and small details, which is why the marks group into eight design families.
+
+**What does the 2026 World Series logo look like?**
+
+The 2026 World Series logo keeps the cursive World Series script that returned in 2025, with the MLB logo atop a gold diamond, Capital One under the script and a gold 2026 banner. It appears in MLB's 2026 postseason schedule graphic and is the first back-to-back World Series logo repeat since 1998 and 1999.
+
+**Who designed the 2025 World Series logo?**
+
+The cursive 2025 World Series script was drawn by designer Kelly Hume through the agency Fanbrandz, according to the Seattle Times. It revived the script lineage MLB used on World Series logos from 1987 to 2000.
 
 **Which World Series logo had the Fall Classic wordmark?**
 
@@ -211,8 +232,8 @@ The Fall Classic wordmark appeared on the World Series logo from 2008 through 20
 
 **Where can I buy old World Series gear and caps?**
 
-Fanatics carries championship caps, jerseys, sleeve patches, and Fall Classic collectibles going back across most of the years on this board, including New Era World Series cap releases. Every era section above links straight to that year's gear.
+Fanatics and New Era carry championship caps, jerseys, patches, and Fall Classic collectibles going back across many of the years on this board, including New Era World Series cap releases with the year's logo on the side.
 
 ## The Bottom Line on World Series Logo History
 
-Forty years of World Series logos break into an arc that runs the opposite direction from the one everybody assumes. The nineties marks people canonize are busy and fussy at the size they actually live at. The Y2K and chrome eras that get laughed at had real conviction and aged into character. The Fall Classic era had the best single idea and ran out of patience with it. And the modern navy run that nobody gets sentimental about is the one that quietly did the job better than any of them. Then 2022 arrived, the marks stopped being different from each other, and a bank moved into the sleeve. The 2025 cursive proves the instinct is still in there. It just needs to show up more than once every four years.
+Forty years of World Series logos break into an arc that runs the opposite direction from the one everybody assumes. The nineties marks people canonize are busy and fussy at the size they actually live at. The Y2K and chrome eras that get laughed at had real conviction and aged into character. The Fall Classic era had the best single idea and ran out of patience with it. And the modern navy run that nobody gets sentimental about is the one that quietly did the job better than any of them. Then 2022 arrived and a bank moved into the mark. The designs kept changing, from the 2022 pennant to the 2025 cursive, and that script is the best lettering the Fall Classic has had in decades. Now 2026 is repeating it. We would rather see MLB take the script somewhere new than stamp a new year on it.
