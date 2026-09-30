@@ -11,7 +11,7 @@ export async function POST(request: Request) {
   }
 
   // beehiiv is the newsletter platform from 2026-09-29. When its two env vars
-  // are set in Vercel, new signups go there (and get beehiiv's welcome email);
+  // are set in Vercel, new signups go there;
   // until then the Mailchimp path below keeps working unchanged.
   const BEEHIIV_KEY = process.env.BEEHIIV_API_KEY;
   const BEEHIIV_PUB = process.env.BEEHIIV_PUBLICATION_ID;
@@ -29,7 +29,7 @@ export async function POST(request: Request) {
           body: JSON.stringify({
             email,
             reactivate_existing: false,
-            send_welcome_email: true,
+            send_welcome_email: false, // Jake sends welcome emails himself from Gmail
             utm_source: "colorwaysports.com",
             referring_site: "https://www.colorwaysports.com",
           }),
