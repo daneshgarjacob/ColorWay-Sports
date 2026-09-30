@@ -29,6 +29,12 @@ The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball fo
 
 This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Dodgers and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
+## 2026 Postseason: Dodgers in the NLDS
+
+The Dodgers (100-62) won the NL West and the No. 2 seed in the National League, so they have a bye through the Wild Card Series. The NLDS starts **Saturday, October 3 at Dodger Stadium** against the Braves-Phillies winner, a series that goes to Game 3 on Thursday. Game 2 is Sunday, October 4 at 5:00 p.m. PT on FS1, Games 3 and 4 are on the road October 6 and 7, and a Game 5, if needed, is back at Dodger Stadium on Friday, October 9.
+
+Expect the classics. MLB's game uniform records show the Dodgers in home whites for every home playoff game in 2024 and 2025, and in the gray with the "Dodgers" script for all but one road playoff game. Every playoff team also wears the 2026 postseason patch on the side of its cap. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
 ## Sample Week at a Glance
 
 <div style="margin: 1.5em 0 2.5em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">

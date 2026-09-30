@@ -26,6 +26,12 @@ The Milwaukee Brewers carry five uniforms in 2026, and the closet looks differen
   <a href="/mlb-tracker/brewers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #12284B; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Brewers uniform calendar →</a>
 </div>
 
+## 2026 Postseason: Brewers in the NLDS
+
+The Brewers (103-59) won the NL Central with the best record in baseball and the No. 1 seed in the National League, so they have a bye through the Wild Card Series. The NLDS starts **Saturday, October 3 at American Family Field** against the Padres-Cubs winner. Game 2 is Sunday, October 4 at 3:00 p.m. CT, Games 3 and 4 are on the road October 6 and 7, and a Game 5, if needed, is back in Milwaukee on Friday, October 9. The series airs on FOX and FS1.
+
+The Brewers wore the cream in all five home games of the 2025 postseason. The new twist is the road: with the grays retired, Games 3 and 4 should be the first playoff games in the powder blue. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
 ## Sample Home-and-Road Week at a Glance
 
 <div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">

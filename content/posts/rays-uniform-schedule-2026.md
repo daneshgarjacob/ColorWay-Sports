@@ -28,6 +28,12 @@ The Tampa Bay Rays carry one of the most colorful — and least predictable — 
 
 If you are trying to call tonight's Rays uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
 
+## 2026 Postseason: Rays in the ALDS
+
+The Rays (98-64) won the AL East and the No. 1 seed in the American League, so they have a bye through the Wild Card Series. The ALDS starts **Saturday, October 3 at 6:30 p.m. ET at Tropicana Field** against the Yankees-Red Sox winner. Game 2 is Monday, October 5 at 8:00 p.m. ET at the Trop, Games 3 and 4 are on the road October 7 and 8, and a Game 5, if needed, is back home on Saturday, October 10. The series airs on TBS, truTV and HBO Max.
+
+The big uniform question is the road. The new gray with "TAMPA BAY" on the chest debuted September 22 and the Rays wore it on every day of their final road trip, so Games 3 and 4 could be its first postseason games. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
 ## Sample Home-and-Road Week at a Glance
 
 <div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">

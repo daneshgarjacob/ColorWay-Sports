@@ -28,6 +28,12 @@ The Cleveland Guardians carry five uniforms in 2026, and unlike a rigidly schedu
 
 This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Guardians and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
+## 2026 Postseason: Guardians in the ALDS
+
+The Guardians (85-77) won the AL Central and the No. 2 seed in the American League, so they have a bye through the Wild Card Series. The ALDS starts **Saturday, October 3 at 1:00 p.m. ET at Progressive Field** against the Astros-White Sox winner. Game 2 is Monday, October 5 at 5:00 p.m. ET in Cleveland, Games 3 and 4 are on the road October 7 and 8, and a Game 5, if needed, is back at Progressive Field on Saturday, October 10. The series airs on TBS, truTV and HBO Max.
+
+Watch for the red alternate in Game 1. Cleveland wore it for Game 1 of the 2024 ALDS and Game 1 of the 2025 Wild Card Series before going to home whites. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
 ## Sample Home-and-Road Week at a Glance
 
 <div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
