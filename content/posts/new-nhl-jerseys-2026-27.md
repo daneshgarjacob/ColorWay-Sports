@@ -133,7 +133,7 @@ Tonight's five games, and what we expect on the ice:
 - **Canucks at Oilers, 10 p.m. ET (Sportsnet):** Edmonton's royal blue home. Vancouver's new RBC patch is on the home sweater only, so it waits for the Canucks' home opener.
 - **Blackhawks at Golden Knights, 10:30 p.m. ET (ESPN):** the first home game of Season X. Watch for any anniversary mark on the gold.
 
-Wednesday, the Penguins visit the Flyers to open both clubs' 60th seasons, with Pittsburgh's new anniversary logo on its helmets, and the Kings play at Colorado. The next big uniform moment after that is whenever the NHL shows the Hometown Remix designs.
+Wednesday, the Penguins visit the Flyers to open both clubs' 60th seasons, with Pittsburgh's new anniversary logo on its helmets, and the Kings play at Colorado. The next big uniform moment after that is whenever the NHL shows the Hometown Remix designs. Every game of the first week, September 30 to October 4, is in our [NHL opening week uniforms guide](/stories/nhl-opening-week-uniforms-2026).
 
 ## The Bottom Line
 

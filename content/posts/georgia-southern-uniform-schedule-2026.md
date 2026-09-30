@@ -24,7 +24,7 @@ Georgia Southern wears one of the plainest uniforms in college football on purpo
   <div style="background: #f4f6fa; color: #011E41; border: 1px dashed #b8c2d3; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The White Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Rarely used. In 2024 Georgia Southern wore white helmets with ERK on the front and One More Time on the back bumper for a White Out. Not seen yet in 2026.</div></div>
 </div>
 
-Georgia Southern's look comes straight from Erk Russell, the coach who restarted the program in the 1980s and won three national titles in Statesboro. The plain helmet with a number on the side is the look fans associate with the program, and in 2026 the Eagles have worn it in every game. The uniforms are Adidas, the jerseys now carry names on the back, and the variety comes from the pants: white below the navy jersey at home, and both navy and white below the white jersey on the road.
+Georgia Southern's look comes straight from Erk Russell, the coach who restarted the program in 1982 and won three Division I-AA national titles in Statesboro. The plain helmet with a number on the side is the look fans associate with the program, and in 2026 the Eagles have worn it in every game. The uniforms are Adidas, the jerseys now carry names on the back, and the variety comes from the pants: white below the navy jersey at home, and both navy and white below the white jersey on the road.
 
 This season carries extra weight. Russell would have turned 100 on July 23, 2026, and the athletic department built an Erk 100 campaign around it, with the centerpiece set for the App State game on October 31 as a stadium-wide White Out. The last time Georgia Southern staged a White Out, against Marshall in October 2024, the team completed it with white helmets carrying ERK on the front and One More Time, one of Russell's favorite phrases, on the back bumper. The Eagles have rarely worn white helmets in program history. Nothing has been announced for 2026 yet, but that is the precedent.
 
@@ -88,7 +88,7 @@ Georgia Southern plays at Coastal Carolina on Saturday, October 3, and the white
 
 **Why does Georgia Southern have numbers on its helmet instead of a logo?**
 
-It is a tradition from the Erk Russell era, when the program was restarted in the 1980s with a deliberately plain look. The navy helmet with a white stripe and the player's number on the side carries that tradition, and the Eagles have worn it in every game of 2026.
+It is a tradition from the Erk Russell era, when the program was restarted in 1982 on a tight budget: Russell bought solid navy helmets and had players run a strip of tape down the middle. The navy helmet with a white stripe and the player's number on the side carries that tradition, and the Eagles have worn it in every game of 2026.
 
 **What is Erk 100?**
 

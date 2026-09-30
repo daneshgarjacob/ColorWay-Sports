@@ -30,7 +30,7 @@ The regular season ended on Sunday, September 27, and the twelve-team field is s
 
 **Chicago Cubs at San Diego Padres (NL).** Games at 10:00 p.m. ET. San Diego's home whites with brown and gold against the Cubs' road gray, unless the Cubs go to the royal blue alternate. [Padres uniform schedule](/stories/padres-uniform-schedule-2026) · [Cubs uniform schedule](/stories/cubs-uniform-schedule-2026) **Game 1, confirmed:** Cubs in road gray with the blue cap, Padres in the home pinstripes with the brown cap. Our grade: **B-**. The Padres won Game 1, 8-0. **Game 2 (Wednesday, 10:00 p.m. ET):** a Padres win sends them on to Milwaukee; we confirm both jerseys at first pitch.
 
-**Waiting in the Division Series:** the Tampa Bay Rays (vs. Yankees-Red Sox winner) and Cleveland Guardians (vs. Astros-White Sox winner) in the AL, and the Los Angeles Dodgers (vs. Braves-Phillies winner) and Milwaukee Brewers (vs. Padres-Cubs winner) in the NL.
+**Waiting in the Division Series:** the Tampa Bay Rays (vs. Yankees-Red Sox winner) and Cleveland Guardians (vs. Astros-White Sox winner) in the AL, and the Los Angeles Dodgers (vs. Braves-Phillies winner) and Milwaukee Brewers (vs. Padres-Cubs winner) in the NL. What all four top seeds wear at home and on the road is in our [ALDS and NLDS uniforms guide](/stories/mlb-division-series-uniforms-2026).
 
 We log every playoff game, both teams and both jerseys, the same night on our [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 

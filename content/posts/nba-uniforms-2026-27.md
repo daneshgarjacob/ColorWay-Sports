@@ -2,7 +2,7 @@
 title: "NBA Uniforms 2026-27: Every New Jersey, Court and Rebrand, Graded"
 category: "NBA"
 date: "2026-08-18"
-updatedDate: "2026-09-10"
+updatedDate: "2026-09-30"
 excerpt: "The full 2026-27 NBA guide: every new uniform and City Edition graded, every court reviewed, and the rebrands landing before opening night."
 gradient: "linear-gradient(135deg, #5B2B8C 0%, #0B1A2F 52%, #C8102E 100%)"
 cardStyle: words
@@ -37,6 +37,8 @@ A uniform only reaches most people through a broadcast, which makes the scorebug
 <div style="margin: 1.25em 0 2em; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden; font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;"><div style="background: #0A2A66; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px;">Broadcast</div><div style="padding: 12px 18px; border-top: 1px solid #eef0f4;"><a href="/stories/nba-national-broadcast-scorebugs-2026-ranked" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Every National Scorebug, Ranked</a><span style="display: block; font-size: 13px; color: #57607a; line-height: 1.45; margin-top: 2px;">NBC, Prime, ESPN and the rest</span></div><div style="padding: 12px 18px; border-top: 1px solid #eef0f4;"><a href="/stories/every-nba-local-tv-scorebug-2026-ranked" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Every Local Scorebug, Ranked</a><span style="display: block; font-size: 13px; color: #57607a; line-height: 1.45; margin-top: 2px;">all 30 regional broadcasts</span></div><div style="padding: 12px 18px; border-top: 1px solid #eef0f4;"><a href="/stories/nba-broadcast-themes-ranked-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">Every Broadcast Theme Song, Ranked</a><span style="display: block; font-size: 13px; color: #57607a; line-height: 1.45; margin-top: 2px;">NBC vs Prime vs ESPN</span></div><div style="padding: 12px 18px; border-top: 1px solid #eef0f4;"><a href="/stories/2026-nba-playoffs-announcers-broadcast-teams-ranked" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">The Playoff Announce Teams, Ranked</a><span style="display: block; font-size: 13px; color: #57607a; line-height: 1.45; margin-top: 2px;">who calls what, and how well</span></div><div style="padding: 12px 18px; border-top: 1px solid #eef0f4;"><a href="/stories/espn-app-nba-scores-redesign-2026" style="font-weight: 700; font-size: 15px; color: #2f6bed; text-decoration: none;">ESPN's App Redesign</a><span style="display: block; font-size: 13px; color: #57607a; line-height: 1.45; margin-top: 2px;">the new scores page, reviewed</span></div></div>
 
 ## Trackers and Features
+
+**New, September 30 (leak, unconfirmed):** the [2026-27 Hardwood Classics leak](/stories/nba-hardwood-classics-2026-27-nuggets-spurs-aba-jerseys-leak), an orange Denver Rockets Nuggets jersey and a silver ABA Spurs jersey for the 50th anniversary of the ABA-NBA merger.
 
 **New, September 10:** the eight dark designs that leaked in April are the [Nike Specter Edition](/stories/nba-specter-edition-jerseys-2026-27), a fifth uniform for the league's eight oldest franchises, explained and graded.
 

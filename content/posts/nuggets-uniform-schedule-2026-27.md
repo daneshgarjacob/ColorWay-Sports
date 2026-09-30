@@ -2,7 +2,7 @@
 title: "Nuggets Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-08-31"
+updatedDate: "2026-09-30"
 excerpt: "Every Nuggets jersey for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #0E2240 0%, #FEC524 100%)"
 cardStyle: words
@@ -16,6 +16,8 @@ teams: ["denver-nuggets"]
 The Denver Nuggets open 2026-27 at Ball Arena in October 2026. This is the full Nuggets uniform schedule: every jersey in the closet, what each one is for, and a game-by-game record of when it goes on the floor.
 
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. The one genuinely open slot is the City Edition. Every club is teasing a **September 15, 2026** reveal, and we break down [what that league-wide teaser actually is](/stories/nba-september-15-2026-uniform-reveal) separately. Until it lands, three of the four Nuggets slots are known and the fourth is not.
+
+**Update, September 30 (leaked, not confirmed):** Retail photos of a 2026-27 Nuggets Classic Edition jersey surfaced on Instagram on September 28: a bright orange DENVER throwback from the franchise's Denver Rockets years, reportedly part of an ABA set for the 50th anniversary of the ABA-NBA merger. Neither the Nuggets nor the NBA has shown it yet. We break down the leak, the history and when Denver would likely wear it in our [NBA Hardwood Classics 2026-27 leak post](/stories/nba-hardwood-classics-2026-27-nuggets-spurs-aba-jerseys-leak).
 
 ## The Nuggets Uniform Closet for 2026-27
 
