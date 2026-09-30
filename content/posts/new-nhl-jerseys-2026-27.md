@@ -3,7 +3,7 @@ title: "New NHL Jerseys 2026-27: Every New Sweater, Throwback and Alternate Comi
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-09-29"
-updatedDate: "2026-09-29"
+updatedDate: "2026-09-30"
 excerpt: "Every new NHL jersey for 2026-27: Hometown Remix for all 32 teams, the Flames' 2004 throwback, the Rangers' navy shield, outdoor games and which clubs changed nothing."
 gradient: "linear-gradient(135deg, #0038A8 0%, #14284b 100%)"
 cardStyle: words
@@ -83,14 +83,15 @@ The Wild's uniform schedule in the team app lists the green home, the white road
 
 The Flyers' promotional schedule includes **10 Independence Edition** home games from November through mid-March, tied to the country's 250th anniversary. Philadelphia has not said which sweater goes with them, and the black alternate was not worn once last season. It is also the Flyers' 60th season. [Flyers uniform schedule](/stories/flyers-uniform-schedule-2026-27).
 
-### Washington Capitals: Remix Merch Already on the Calendar
+### Washington Capitals: Screaming Eagle 10 Times, Remix on the Calendar
 
-The Capitals' promotional schedule already carries Hometown Remix items: a rally towel on November 7 vs Florida, a beanie on December 1 vs Vancouver and an Alex Ovechkin Hometown Remix bobblehead on January 12 vs Vegas. The **Screaming Eagle** third is designated for three seasons through 2027-28, so it returns. [Capitals uniform schedule](/stories/capitals-uniform-schedule-2026-27).
+Washington announced on September 30 that the red **Screaming Eagle** third goes **10 times**, all at home, down from 15 in its debut season, as reported by Russian Machine Never Breaks from the team's release: October 9 vs the Rangers, October 17 vs New Jersey, November 1 vs Minnesota, November 14 vs New Jersey, December 26 vs Columbus, January 16 vs Colorado, January 22 vs the Islanders, February 16 vs Anaheim, March 26 vs Boston and April 3 vs Columbus. The promotional schedule also carries Hometown Remix items: a rally towel on November 7 vs Florida, a beanie on December 1 vs Vancouver, an Alex Ovechkin Hometown Remix bobblehead on January 12 vs Vegas and a cowboy hat on January 14 vs Carolina. [Capitals uniform schedule](/stories/capitals-uniform-schedule-2026-27).
 
 ### Anniversaries: Kings 60, Flyers 60, Penguins 60, Red Wings 100
 
 - **[Los Angeles Kings](/stories/los-angeles-kings-uniform-schedule-2026-27):** a 60th anniversary logo (a black 60 with the original silver crown) and a "60 Seasons" ring at center ice. No anniversary patch or throwback sweater has been announced. The black crown alternate from last season is expected back.
-- **[Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27)** and **[Pittsburgh Penguins](/stories/penguins-uniform-schedule-2026-27):** both 1967 expansion clubs reach season 60 and open against each other on September 30. Neither has announced a patch. Pittsburgh's gold third, signed up for at least three seasons, returns.
+- **[Pittsburgh Penguins](/stories/penguins-uniform-schedule-2026-27):** a new retro-inspired **60th anniversary logo**, unveiled September 29: a black 60 with the skating penguin inside the 6, five gold stars for the five Stanley Cups and gold, white and black stripes for the Three Rivers. It is on the helmets for every game this season and on the jersey shoulders for the home opener against Montreal on October 3. Pittsburgh's gold third, signed up for at least three seasons, returns.
+- **[Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27):** the other 1967 expansion club reaches season 60 too, opening against the Penguins on September 30. The Flyers have not announced an anniversary logo or patch.
 - **[Detroit Red Wings](/stories/red-wings-uniform-schedule-2026-27):** the **Centennial Game** against the **[Boston Bruins](/stories/bruins-uniform-schedule-2026-27)** on November 18, 100 years to the day after the Detroit Cougars' first NHL game, a 2-0 loss to Boston. Neither team has said what it will wear.
 
 ### Returning Thirds (Not New, Still Worth Knowing)
@@ -132,7 +133,7 @@ Tonight's five games, and what we expect on the ice:
 - **Canucks at Oilers, 10 p.m. ET (Sportsnet):** Edmonton's royal blue home. Vancouver's new RBC patch is on the home sweater only, so it waits for the Canucks' home opener.
 - **Blackhawks at Golden Knights, 10:30 p.m. ET (ESPN):** the first home game of Season X. Watch for any anniversary mark on the gold.
 
-Wednesday, the Penguins visit the Flyers to open both clubs' 60th seasons, and the Kings play at Colorado. The next big uniform moment after that is whenever the NHL shows the Hometown Remix designs.
+Wednesday, the Penguins visit the Flyers to open both clubs' 60th seasons, with Pittsburgh's new anniversary logo on its helmets, and the Kings play at Colorado. The next big uniform moment after that is whenever the NHL shows the Hometown Remix designs.
 
 ## The Bottom Line
 
