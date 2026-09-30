@@ -2,7 +2,7 @@
 title: "NFL Crucial Catch 2026 Schedule: Every Team's Cancer Awareness Game, and the Gear Is Already Out"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-30"
 excerpt: "The NFL Crucial Catch 2026 schedule: 21 team-confirmed games, the expected date for the other 11, and what the new sideline hats look like."
 gradient: "linear-gradient(135deg, #13294B 0%, #6b1f55 55%, #e8488a 100%)"
 cardStyle: words
@@ -60,10 +60,10 @@ These are the 21 games the teams themselves have tagged as Crucial Catch. The un
 
 - **[Seattle Seahawks](/stories/seahawks-uniform-schedule-2026)** vs San Francisco 49ers. Uniform: College Navy home (projected).
 - **[Pittsburgh Steelers](/stories/steelers-uniform-schedule-2026)** vs Indianapolis Colts. Uniform: black home (projected).
-- **[Washington Commanders](/stories/commanders-uniform-schedule-2026)** vs New York Giants. Uniform: white (projected).
-- **[Miami Dolphins](/stories/dolphins-uniform-schedule-2026)** vs Cincinnati Bengals. Uniform: aqua home (projected).
+- **[Washington Commanders](/stories/commanders-uniform-schedule-2026)** vs New York Giants. Uniform: white (confirmed). It is the only regular-season home game where Washington wears white, so the Giants wear royal blue on the road.
+- **[Miami Dolphins](/stories/dolphins-uniform-schedule-2026)** vs Cincinnati Bengals. Uniform: white at home (projected), which sends the Bengals to Miami in their orange alternate. The Dolphins named the game but no jersey.
 - **[New York Jets](/stories/jets-uniform-schedule-2026)** vs Cleveland Browns. Uniform: green home (projected). Doubles as a Stripe Out, with green and white flags for fans.
-- **[Arizona Cardinals](/stories/arizona-cardinals-uniform-schedule-2026)** vs Detroit Lions. Uniform: black (projected).
+- **[Arizona Cardinals](/stories/arizona-cardinals-uniform-schedule-2026)** vs Detroit Lions. Uniform: black alternate with the black helmet (confirmed).
 - **[Los Angeles Chargers](/stories/chargers-uniform-schedule-2026)** vs Denver Broncos. Uniform: powder blue jersey, powder pants (confirmed).
 - **[Tennessee Titans](/stories/titans-uniform-schedule-2026)** vs Houston Texans. Uniform: Titans blue home (projected).
 
@@ -84,7 +84,7 @@ None of these clubs has published a 2026 Crucial Catch date that we could find. 
 - **[Cleveland Browns](/stories/browns-uniform-schedule-2026)**: Week 4, Thursday, Oct. 1 vs Pittsburgh Steelers, or Week 6, Oct. 18 vs Baltimore Ravens. Cleveland hosted Baltimore for its Crucial Catch game in 2023. Brown home (projected).
 - **[Houston Texans](/stories/texans-uniform-schedule-2026)**: unclear. The Texans' full 2026 theme list does not mention Crucial Catch. Their Week 4 home game vs Dallas on Oct. 4 is already the 25th Season game, where Houston has confirmed white and Dallas navy.
 - **[Denver Broncos](/stories/broncos-uniform-schedule-2026)**: expected Week 6, Thursday, Oct. 15 vs Seattle Seahawks, Denver's only home game in the window. The Broncos have confirmed the Orange Crush throwback for that night.
-- **[Los Angeles Rams](/stories/rams-uniform-schedule-2026)**: Week 5, Monday, Oct. 12 vs Buffalo Bills, or Week 6, Oct. 18 vs Arizona Cardinals. Royal home (projected).
+- **[Los Angeles Rams](/stories/rams-uniform-schedule-2026)**: Week 5, Monday, Oct. 12 vs Buffalo Bills, or Week 6, Oct. 18 vs Arizona Cardinals. Royal (confirmed for both).
 - **[Detroit Lions](/stories/lions-uniform-schedule-2026)**: unclear. Detroit has no home game in Weeks 4 to 6 (at Carolina, at Arizona, then a bye). The nearest home dates are Week 3 vs the Jets on Sept. 27 and Week 7 vs Green Bay on Oct. 25.
 - **[Green Bay Packers](/stories/packers-uniform-schedule-2026)**: Week 6, Oct. 18 vs Dallas Cowboys is the Packers Vs. Cancer game, benefiting the UW Health Carbone Cancer Center. Green Bay's announcement does not use the Crucial Catch name, but it is the obvious fit. Green home (projected).
 - **[Atlanta Falcons](/stories/falcons-uniform-schedule-2026)**: Week 5, Oct. 11 vs Baltimore Ravens (Sunday Night Football), or Week 6, Oct. 18 vs Chicago Bears. Red (confirmed for both).

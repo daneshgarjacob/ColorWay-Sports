@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-22"
+updatedDate: "2026-09-30"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -72,7 +72,7 @@ The grade is not about restraint. Restraint is Green Bay's best quality and we w
 <img src="/images/posts/packers-uniform-schedule-2026/rivalries-details-gopackgo.jpg" alt="Green Bay Packers Rivalries uniform detail card: Go Pack Go on the back of the helmet and Making History since 1919 inside the collar" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Green Bay Packers</p>
 
-The debut is **Week 5 against the Bears, Sunday, October 11 at 3:25 CT at Lambeau Field**, exactly the game we had projected: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry. Like every Rivalries set, it stays in the rotation for three seasons.
+The debut is **Week 5 against the Bears, Sunday, October 11 at noon CT (1:00 p.m. ET, FOX) at Lambeau Field**, exactly the game we had projected: a brand-new alternate wants the biggest possible stage, and Bears-Packers is the league's marquee rivalry. Like every Rivalries set, it stays in the rotation for three seasons.
 
 
 Rivalries jerseys and the rest of the collection go on sale **Tuesday, September 1**, at NFLShop.com, Nike, Fanatics, team stores and select retail locations.
@@ -135,7 +135,7 @@ Four, and Green Bay named them in the 2026 Uniform Lineup it published September
 
 **When do the Packers wear their new Rivalries uniform in 2026?**
 
-Once, in Week 5 against the Chicago Bears on Sunday, October 11 at 3:25 CT at Lambeau Field. The date was confirmed alongside the August 25 reveal, and the set stays in the rotation for three seasons.
+Once, in Week 5 against the Chicago Bears on Sunday, October 11 at noon CT (1:00 p.m. ET, FOX) at Lambeau Field. The date was confirmed alongside the August 25 reveal, and the set stays in the rotation for three seasons.
 
 **What does the Packers Rivalries uniform look like?**
 
