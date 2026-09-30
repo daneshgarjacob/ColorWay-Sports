@@ -6,6 +6,9 @@ import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
 import rehypeRaw from "rehype-raw";
 import rehypeStringify from "rehype-stringify";
+import { getAllPosts, type PostMeta } from "@/lib/posts";
+import { TEAM_LOGOS, DISPLAY_NAME_BY_SLUG } from "@/lib/teamLogos";
+import { leagueColor } from "@/lib/leagueColors";
 
 // The Wire: short, fast uniform news, separate from /stories on purpose.
 //
@@ -169,4 +172,50 @@ export function stamp(at: string): { time: string; zone: string } {
   });
   const [clock, meridiem] = time.split(" ");
   return { time: clock, zone: `${meridiem} PT` };
+}
+
+// ---------------------------------------------------------------------------
+// Feed thumbnails. Every item on /news gets a picture, from the cheapest source
+// already on disk: no new downloads, nothing heavier than what the linked story
+// already ships.
+//   1. the item's own `image` (a cover-shaped graphic, or a jersey cutout)
+//   2. the cover of the story it links to
+//   3. that story's team logo on a light tile (words-style posts have no cover)
+//   4. a branded ColorWay tile in the league color
+// ---------------------------------------------------------------------------
+
+export interface NewsThumb {
+  kind: "cover" | "cutout" | "logo" | "brand";
+  src?: string;
+  position?: string;
+  accent: string;
+}
+
+const TAG_ACCENT: Record<string, string> = {
+  College: leagueColor("CFB"),
+  Breaking: "#003087",
+};
+
+let postsBySlug: Map<string, PostMeta> | null = null;
+function linkedPost(link?: string): PostMeta | undefined {
+  const m = link?.match(/^\/stories\/([^/?#]+)/);
+  if (!m) return undefined;
+  if (!postsBySlug) postsBySlug = new Map(getAllPosts().map((p) => [p.slug, p]));
+  return postsBySlug.get(m[1]);
+}
+
+export function newsThumb(item: NewsMeta): NewsThumb {
+  const accent = TAG_ACCENT[item.tag] ?? leagueColor(item.tag);
+  if (item.image) {
+    return { kind: item.imageStyle === "full" ? "cover" : "cutout", src: item.image, accent };
+  }
+  const post = linkedPost(item.link);
+  if (post?.coverImage) {
+    return { kind: "cover", src: post.coverImage, position: post.coverImagePosition, accent };
+  }
+  // A roundup tagged with dozens of teams has no single logo worth showing.
+  const team = post?.teams && post.teams.length <= 2 ? DISPLAY_NAME_BY_SLUG[post.teams[0]] : undefined;
+  const logo = post?.logoSrc2 || (team ? TEAM_LOGOS[team] : undefined);
+  if (logo) return { kind: "logo", src: logo, accent };
+  return { kind: "brand", accent };
 }

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { NewsItem } from "@/lib/news";
+import type { NewsItem, NewsThumb } from "@/lib/news";
 import { stamp } from "@/lib/news";
 
 const TAG_CLASS: Record<string, string> = {
@@ -22,18 +22,27 @@ export default function WireItem({
   item,
   headingLevel = "h3",
   variant = "feed",
+  thumb,
 }: {
   item: NewsItem;
   headingLevel?: "h1" | "h3";
   /**
-   * "feed" is the scannable list: headline, words, take, no media. Jake, 9/17:
-   * the feed does not need images, the embed belongs on the item you click into.
+   * "feed" is the scannable list: headline, words, take, and (since Jake's 9/30
+   * call, reversing 9/17) a picture when `thumb` is passed. Tweet embeds still
+   * belong on the item you click into.
    * "full" is that item page, where the team's own post carries the visual.
    */
   variant?: "feed" | "full";
+  /**
+   * Feed picture (Jake, 9/30: the /news front page needs images). Resolved by
+   * newsThumb() in lib/news; only drawn in the feed variant, the item page
+   * already shows the full image or embed.
+   */
+  thumb?: NewsThumb;
 }) {
   const { time, zone } = stamp(item.at);
   const Heading = headingLevel;
+  const showThumb = variant === "feed" && !!thumb;
   const body =
     variant === "feed"
       ? item.contentHtml.replace(/<blockquote class="twitter-tweet"[\s\S]*?<\/blockquote>/g, "")
@@ -46,7 +55,9 @@ export default function WireItem({
         <div className="font-display text-[10px] font-bold text-steel tracking-[0.12em] mt-[3px]">{zone}</div>
       </div>
 
-      <div>
+      <div className={showThumb ? "md:grid md:grid-cols-[minmax(0,1fr)_200px] md:gap-5 md:items-start" : ""}>
+        {showThumb && thumb && <FeedThumb thumb={thumb} href={`/news/${item.slug}`} alt={item.imageAlt || item.title} tag={item.tag} />}
+        <div className="min-w-0 md:order-1">
         <span
           className={`inline-block font-display text-[9.5px] font-extrabold tracking-[0.16em] uppercase px-[9px] py-[3px] rounded-full mb-[9px] ${
             TAG_CLASS[item.tag] ?? TAG_CLASS.NFL
@@ -119,7 +130,73 @@ export default function WireItem({
             </Link>
           )}
         </p>
+        </div>
       </div>
     </article>
+  );
+}
+
+/** ColorWay "Outline Stamp" mark, same geometry as the header logo. */
+function Stamp({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 100 100" className={className} aria-hidden="true">
+      <circle cx="50" cy="50" r="37" fill="none" stroke="currentColor" strokeWidth="2.6" />
+      <circle cx="50" cy="50" r="31" fill="none" stroke="currentColor" strokeWidth="1" opacity="0.45" />
+      <g transform="translate(0,3)" fill="currentColor">
+        <circle cx="40.8" cy="32" r="2.4" />
+        <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" />
+        <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" />
+      </g>
+    </svg>
+  );
+}
+
+/**
+ * The feed picture. Full width above the headline on phones, a 3:2 thumbnail to
+ * the right of the words from sm up (the ESPN/Athletic news-river shape). Every
+ * source is a file already in public/, so this adds no new weight to the repo.
+ */
+function FeedThumb({ thumb, href, alt, tag }: { thumb: NewsThumb; href: string; alt: string; tag: string }) {
+  const frame =
+    "block relative aspect-[16/9] md:aspect-[3/2] rounded-[10px] overflow-hidden border border-border mb-3 md:mb-0 md:order-2 md:mt-1";
+  return (
+    <Link prefetch={false} href={href} className={`${frame} group`} aria-hidden="true" tabIndex={-1}>
+      {thumb.kind === "cover" && (
+        /* eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide */
+        <img
+          src={thumb.src}
+          alt={alt}
+          loading="lazy"
+          decoding="async"
+          className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+          style={thumb.position ? { objectPosition: thumb.position } : undefined}
+        />
+      )}
+      {thumb.kind === "cutout" && (
+        <span className="absolute inset-0 bg-[#f1f3f8] flex items-center justify-center p-3">
+          {/* eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide */}
+          <img src={thumb.src} alt={alt} loading="lazy" decoding="async" className="max-h-full max-w-full object-contain" />
+        </span>
+      )}
+      {thumb.kind === "logo" && (
+        <span className="absolute inset-0 bg-[#f4f6fa] flex items-center justify-center">
+          <span className="absolute top-0 inset-x-0 h-1" style={{ background: thumb.accent }} />
+          {/* eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide */}
+          <img src={thumb.src} alt="" loading="lazy" decoding="async" className="h-[48%] w-auto max-w-[60%] object-contain" />
+          <Stamp className="absolute right-2.5 bottom-2.5 w-5 h-5 text-[#9aa3b2]" />
+        </span>
+      )}
+      {thumb.kind === "brand" && (
+        <span
+          className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-white"
+          style={{ background: `linear-gradient(135deg, ${thumb.accent} 0%, #003087 100%)` }}
+        >
+          <Stamp className="w-11 h-11" />
+          <span className="font-display text-[10px] font-extrabold tracking-[0.2em] uppercase text-white/85">
+            The Wire &middot; {tag}
+          </span>
+        </span>
+      )}
+    </Link>
   );
 }

@@ -3,7 +3,8 @@ import { LinkedInIcon, XIcon } from "@/components/FollowCard";
 
 const navLinks = [
   { label: "Home", href: "/" },
-  { label: "Stories", href: "/stories" },
+  { label: "News", href: "/news" },
+  { label: "All Stories", href: "/stories" },
   { label: "Newsletter", href: "/newsletter" },
   { label: "Team Kits", href: "/team-kits" },
   { label: "About", href: "/about" },
