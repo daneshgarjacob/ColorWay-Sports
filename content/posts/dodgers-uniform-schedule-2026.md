@@ -86,7 +86,7 @@ Expect the classics. MLB's game uniform records show the Dodgers in home whites 
   </div>
 </div>
 
-Here is how the Dodgers uniform rotation breaks down for the 2026 season. Home whites carry the vast majority of home games at Dodger Stadium. The cream "City of Dreamers" City Connect is locked to Saturday home games. Road games default to the traditional road grays with the Los Angeles script across the chest. The royal blue road alternate gets pulled for select road series and gives fans a third recognizable Dodgers look on the broadcast. The rotation is tight on purpose, the franchise refusing to dilute the classic Dodgers identity with more alternates than the closet can support.
+Here is how the Dodgers uniform rotation breaks down for the 2026 season. Home whites carry the vast majority of home games at Dodger Stadium. The cream "City of Dreamers" City Connect is locked to Saturday home games. Road games default to the traditional road grays with the Dodgers script across the chest, with the Los Angeles gray as the rarer alternate. The royal blue road alternate gets pulled for select road series and gives fans a third recognizable Dodgers look on the broadcast. The rotation is tight on purpose, the franchise refusing to dilute the classic Dodgers identity with more alternates than the closet can support.
 
 ## Home Whites (Most Home Games)
 
@@ -97,12 +97,12 @@ The home whites are one of the most heritage-rich primary uniforms in baseball. 
 
 ## Road Grays (Most Road Games)
 
-The road gray uniform with the Los Angeles script across the chest is the default away look in 2026. Royal blue Los Angeles wordmark, red player numbers, no name on the back, all-blue road cap. The road grays mirror the home whites in lettering and number treatment, just with the city name swapped in for the team name and the gray base for the white. This is the cleanest version of the Dodgers' road identity and the look most road games carry across the season.
+The road gray uniform with the Dodgers script across the chest is the default away look in 2026. Royal blue Dodgers wordmark, red player numbers, no name on the back, all-blue road cap. The road grays mirror the home whites in lettering and number treatment, just on a gray base. The alternate gray with "Los Angeles" across the chest shows up far less often. This is the cleanest version of the Dodgers' road identity and the look most road games carry across the season.
 
 
 ## Royal Blue Road Alternate (Select Road Series)
 
-<img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Los Angeles Dodgers royal blue road alternate jersey worn in-game with Dodgers script wordmark and white player numbers" style="width: 100%; border-radius: 10px;" />
+<img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Los Angeles Dodgers royal blue road alternate jersey worn in-game with the Los Angeles script and white player numbers" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Dodgers</p>
 
 The royal blue road alternate is the newer addition to the Dodgers' active rotation. Royal blue base, Dodgers script wordmark in white across the chest, white player numbers on the back, and the all-blue road cap on top. The alternate gives the Dodgers a third recognizable road look that ties back to the team's primary blue color story while delivering a stronger broadcast read on color television than the road grays in certain stadiums.
