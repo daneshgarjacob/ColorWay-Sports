@@ -4,10 +4,10 @@ author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-30"
 updatedDate: "2026-09-30"
-excerpt: "NFL uniforms this week: Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
+excerpt: "NFL Week 5 uniforms (Oct. 8-12): Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
-kicker: "This Week"
+kicker: "Next Week"
 league: nfl
 teams: []
 resurfaceOnUpdate: true

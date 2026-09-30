@@ -130,6 +130,7 @@ const leagues: NavLeague[] = [
         "Fresno State Bulldogs",
         "Oregon State Beavers",
         "San Diego State Aztecs",
+        "Texas State Bobcats",
         "Utah State Aggies",
         "Washington State Cougars",
       ],
@@ -139,10 +140,12 @@ const leagues: NavLeague[] = [
         "Memphis Tigers",
         "Navy Midshipmen",
         "North Texas Mean Green",
+        "Rice Owls",
         "South Florida Bulls",
         "Temple Owls",
         "Tulane Green Wave",
         "Tulsa Golden Hurricane",
+        "UTSA Roadrunners",
       ],
       "Mountain West": [
         "Air Force Falcons",
@@ -152,6 +155,7 @@ const leagues: NavLeague[] = [
       "Sun Belt": [
         "Appalachian State Mountaineers",
         "Coastal Carolina Chanticleers",
+        "Georgia Southern Eagles",
         "James Madison Dukes",
         "Marshall Thundering Herd",
       ],
