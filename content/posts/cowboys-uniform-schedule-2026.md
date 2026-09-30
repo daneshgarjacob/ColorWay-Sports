@@ -2,7 +2,7 @@
 title: "Dallas Cowboys 2026 Uniform Schedule: Color Rush Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-09-19"
+updatedDate: "2026-09-30"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -80,7 +80,7 @@ The white set is the better of the two primaries and it is not particularly clos
 
 This is the part of the Dallas closet that gets misunderstood most often, and the 2026 schedule settles it. The navy jersey is labelled the road uniform, but Dallas wears it in only **three** of the nine road games, and each of the three is a trip to a host that wears white at home:
 
-- **Week 4 at the Texans, Sunday, October 4.** Houston is celebrating its 25th season at this game, and with Dallas confirmed in navy the Texans will be in white at home. Our [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) has the detail.
+- **Week 4 at the Texans, Sunday, October 4.** Houston is celebrating its 25th season at this game and has confirmed its 2002 colors: navy helmet, white jersey, navy pants and red socks, the look it wore when it beat Dallas 19-10 in the franchise's first game on September 8, 2002. Dallas is in navy under the silver helmet, with white pants our read until the team's gameday graphic lands. Our [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) and the [NFL Week 4 uniform guide](/stories/nfl-week-4-uniforms-2026) have the detail.
 - **Week 9 at the Colts, Sunday, November 8.** Indianapolis announced its all-white White Out for this game back in the summer, which is why Dallas is in navy. The [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026) covers it.
 - **Week 15 at the Rams, Sunday, December 20.** Los Angeles published white at home for the Dallas game on its own schedule, and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) was the first place this navy date showed up.
 

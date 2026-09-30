@@ -3,7 +3,7 @@ title: "NFL Week 4 Uniforms 2026: What Every Team Is Wearing, Including Giants L
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-29"
-updatedDate: "2026-09-29"
+updatedDate: "2026-09-30"
 excerpt: "NFL uniforms this week: the Giants wear Legacy Blue, Dallas goes navy in Houston, Atlanta wears red on Monday night and Crucial Catch begins."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 4 of the 2026 NFL season runs from Thursday, October 1 to Monday, October 5, and all 32 teams play, with no byes yet. The headline look is the New York Giants' **Legacy Blue** throwback against Arizona, worn for the 40th anniversary of the Super Bowl XXI team. Dallas takes its **navy** jersey to Houston for the Texans' 25th Season game, Cleveland is expected in the **Alpha Dawg** brown alternate for Thursday night against Pittsburgh, Washington wears **burgundy** in London, and Atlanta stays in **red** for Monday night in New Orleans. It is also the first weekend of [Crucial Catch](/stories/nfl-crucial-catch-2026-schedule).
+Week 4 of the 2026 NFL season runs from Thursday, October 1 to Monday, October 5, and all 32 teams play, with no byes yet. The headline look is the New York Giants' **Legacy Blue** throwback against Arizona, worn for the 40th anniversary of the Super Bowl XXI team. Dallas takes its **navy** jersey to Houston, where the Texans answer in **white over navy pants with red socks**, the colors of their first-ever win in 2002, for their 25th Season game, Cleveland is expected in the **Alpha Dawg** brown alternate for Thursday night against Pittsburgh, Washington wears **burgundy** in London, and Atlanta stays in **red** for Monday night in New Orleans. It is also the first weekend of [Crucial Catch](/stories/nfl-crucial-catch-2026-schedule).
 
 Below is every Week 4 look we know, starting with the special ones and then all 16 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played.
 
@@ -27,19 +27,25 @@ Below is every Week 4 look we know, starting with the special ones and then all 
 
 Legacy Blue is better than the primary it stands in for, and it only comes out twice this season, here and against the 49ers on December 6. Every date is in our [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026), and Arizona's side is in the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
 
+The Giants showed the full Legacy Week set on Wednesday, helmet, jersey, striped pants and all:
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2105313246265712959"></a></blockquote>
+</div>
+
 Arizona published the jersey for all 17 games before the season, with Week 4 at the Giants in white:
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2094856123279155339"></a></blockquote>
 </div>
 
-### Dallas Cowboys at Houston Texans: Navy for the 25th Season Game
+### Dallas Cowboys at Houston Texans: Navy Against Houston's 2002 Colors
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-navy.jpg" alt="Dallas Cowboys navy jersey, confirmed at Houston in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white jersey, expected at home against the Cowboys in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-navy.jpg" alt="Dallas Cowboys navy jersey, confirmed at Houston in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white jersey, confirmed at home with navy pants and red socks against the Cowboys in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Cowboys jersey confirmed, Texans expected.** Dallas published its full uniform schedule on September 2 with **navy** for this trip, one of only three navy dates all season, and our read is the silver star helmet with silver pants. Two teams cannot both wear dark, so Houston is in **white at home** for its 25th Season celebration, and we have the navy helmet with white pants. What Houston has not said is whether it is the standard white or the Liberty White set, and a quarter-century game is exactly the sort of date that produces a surprise throwback. If one is announced, this page gets updated.
+**Sunday, 1:00 p.m. ET, FOX. Both jerseys confirmed.** Dallas published its full uniform schedule on September 2 with **navy** for this trip, one of only three navy dates all season, under the silver star helmet. Our read is **white pants** with it, but pants are a game-week call and Dallas has not posted its gameday graphic yet, so that cell stays expected until it does. Houston confirmed its side on Wednesday, and it is a throwback in everything but the helmet: the **navy helmet, white jersey, navy pants and red socks**, the exact color blocking the Texans wore on September 8, 2002, when they beat these same Cowboys 19-10 in the first game in franchise history. The end zones go back to 2002 as well, blue paint with white lettering and no logo, as the [Houston Chronicle reported](https://sports.yahoo.com/articles/houston-texans-wear-throwback-color-180010351.html). NFL rules on uniform changes keep the full 2002 set off the field, so this is the color scheme rather than the old jerseys, and the red socks are the tell. Houston wore white over white pants in its home opener against Buffalo, which is what makes the navy pants and red socks stand out.
 
-Navy is the jersey Dallas fans argue about most, and the schedule only hands it out when the host is in white. The [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has all three navy dates, and the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) has Houston's side.
+Navy is the jersey Dallas fans argue about most, and the schedule only hands it out when the host is in white. This time the host is dressed for its own birthday, so it is navy against white and navy, with a flash of red at the ankle. The [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) has all three navy dates, and the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) has Houston's side.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2095278463485653498"></a></blockquote>
@@ -108,7 +114,7 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 - **Los Angeles Rams at Philadelphia Eagles**, 1:00 p.m. ET, FOX. Rams: white jersey (confirmed), royal helmet and white pants (expected). Eagles: midnight green helmet, midnight green jersey, white pants (expected).
 - **Green Bay Packers at Tampa Bay Buccaneers**, 1:00 p.m. ET, FOX. Packers: gold helmet, green jersey, gold pants (expected). Buccaneers: pewter helmet, white jersey, pewter pants (expected).
 - **Tennessee Titans at Baltimore Ravens**, 1:00 p.m. ET, CBS. Titans: all white (expected). Ravens: black helmet, purple jersey, black pants (expected).
-- **Dallas Cowboys at Houston Texans**, 1:00 p.m. ET, FOX. Cowboys: navy jersey (confirmed), silver helmet and silver pants (expected). Texans: navy helmet, white jersey, white pants (expected).
+- **Dallas Cowboys at Houston Texans**, 1:00 p.m. ET, FOX. Cowboys: navy jersey (confirmed), silver helmet and white pants (expected). Texans: navy helmet, white jersey, navy pants, red socks, the 2002 inaugural-game colors (confirmed).
 - **Miami Dolphins at Minnesota Vikings**, 4:05 p.m. ET, FOX. Dolphins: white helmet, white jersey, aqua pants (expected). Vikings: purple helmet, purple jersey, white pants (confirmed).
 - **Kansas City Chiefs at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Chiefs: red helmet, white jersey, red pants (expected). Raiders: silver helmet, black jersey, silver pants (expected).
 - **Denver Broncos at San Francisco 49ers**, 4:25 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), navy helmet and white pants (expected). 49ers: gold helmet, scarlet jersey, gold pants (expected).
@@ -121,13 +127,13 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 
 ## The Bottom Line
 
-Week 4 is the throwback week. The Giants put the 1986 team's Legacy Blue on the field for its 40th anniversary, Cleveland is our pick to bring out Alpha Dawg on Thursday night, Dallas wears navy in Houston, Washington wears burgundy in London, and Atlanta stays in red for Monday night in the Superdome, all while Crucial Catch begins across the league. If you missed last week, our [Week 3 uniform guide](/stories/nfl-week-3-uniforms-2026) has every Week 3 look. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 4 is the throwback week. The Giants put the 1986 team's Legacy Blue on the field for its 40th anniversary, Cleveland is our pick to bring out Alpha Dawg on Thursday night, Dallas wears navy in Houston against the Texans' 2002 colors, Washington wears burgundy in London, and Atlanta stays in red for Monday night in the Superdome, all while Crucial Catch begins across the league. If you missed last week, our [Week 3 uniform guide](/stories/nfl-week-3-uniforms-2026) has every Week 3 look. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
 **What uniforms are NFL teams wearing in Week 4 of 2026?**
 
-Most teams are in their standard sets, home in color and visitors in white. The special looks are the Giants' Legacy Blue throwback against the Cardinals, the Cowboys in navy at the Texans, the Browns expected in the Alpha Dawg brown alternate against the Steelers on Thursday night, the Commanders in burgundy against the Colts in London, the Falcons in red at the Saints on Monday night, and the Chargers in white over powder blue at Seattle.
+Most teams are in their standard sets, home in color and visitors in white. The special looks are the Giants' Legacy Blue throwback against the Cardinals, the Cowboys in navy at the Texans, who wear white over navy pants with red socks to recreate their first-ever win in 2002, the Browns expected in the Alpha Dawg brown alternate against the Steelers on Thursday night, the Commanders in burgundy against the Colts in London, the Falcons in red at the Saints on Monday night, and the Chargers in white over powder blue at Seattle.
 
 **When do the Giants wear the Legacy Blue throwback in 2026?**
 
@@ -135,7 +141,11 @@ Twice, both at MetLife Stadium: Week 4 against the Arizona Cardinals on Sunday, 
 
 **Why are the Cowboys wearing navy at Houston?**
 
-Dallas published its full 2026 uniform schedule on September 2 with navy for the Week 4 trip to Houston. Two teams cannot both wear dark, so the Texans wear white at home for their 25th Season game. It is one of only three navy dates for Dallas all season.
+Dallas published its full 2026 uniform schedule on September 2 with navy for the Week 4 trip to Houston. Two teams cannot both wear dark, so the Texans wear white at home for their 25th Season game. It is one of only three navy dates for Dallas all season, worn under the silver helmet, with white pants expected.
+
+**What are the Texans wearing against the Cowboys for their 25th season?**
+
+The navy helmet, white jersey, navy pants and red socks, the color scheme Houston wore on September 8, 2002, when it beat Dallas 19-10 in the first game in franchise history. League rules on uniform changes rule out the full 2002 set, so it is a throwback color combination rather than the old jerseys, with 2002-style blue end zones to match.
 
 **What are the Colts and Commanders wearing in London?**
 

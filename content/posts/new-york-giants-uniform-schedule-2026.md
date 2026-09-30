@@ -2,7 +2,7 @@
 title: "New York Giants Jerseys and Uniform Schedule 2026: Legacy Game Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-29"
+updatedDate: "2026-09-30"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -58,6 +58,12 @@ Two things jump out. The Week 17 trip to Dallas that we had flagged as the open 
 The Legacy set gets two Legacy Games at MetLife Stadium, both presented by Quest: **Sunday, October 4 against the Arizona Cardinals** at 1:00 p.m. Eastern on CBS, and **Sunday, December 6 against the San Francisco 49ers** at 1:00 p.m. Eastern on FOX. For both, the stadium gets the full treatment: the classic helmet design at midfield and vintage end zones with the block-letter GIANTS wordmark.
 
 The October 4 game is the one with the ceremony. It is forty years since the **Super Bowl XXI** win over Denver, and the 1986 team is honoured at halftime. The uniform is the one that team actually wore, which the club used from 1980 through 1999: a navy helmet with a white facemask, a solid scarlet center stripe and the raised, underlined GIANTS wordmark on the sides, a royal blue jersey with red and white trim at the collar, sleeves and numbers, and white pants with red and blue stripes. The inside of the collar carries Wellington Mara's line, "Once a Giant, Always a Giant."
+
+The Giants laid out the full Legacy Week set on Wednesday, September 30, ahead of the Cardinals game: the navy wordmark helmet, the royal blue jersey and the striped white pants.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2105313246265712959"></a></blockquote>
+</div>
 
 It is the best thing in the Giants' closet and it is not particularly close. The current primary set is fine, but the Legacy look has the two things the modern one gave up: a wordmark helmet instead of a logo helmet, and stripes that actually resolve at distance. Wordmark helmets have almost vanished from the league, which is exactly why this one still reads as distinct rather than nostalgic.
 
