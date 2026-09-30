@@ -28,7 +28,7 @@ The regular season ended on Sunday, September 27, and the twelve-team field is s
 
 **Boston Red Sox at New York Yankees (AL).** Games at 8:00 p.m. ET. The easiest call of the round: pinstripes for the Yankees, road gray for Boston, the oldest rivalry in the sport in its oldest clothes. **Game 1, confirmed:** exactly that, Red Sox in road gray with the navy "B" cap, Yankees in the home pinstripes. Our grade: **A-**. [Yankees uniform schedule](/stories/yankees-uniform-schedule-2026) · [Red Sox uniform schedule](/stories/red-sox-uniform-schedule-2026)
 
-**Chicago Cubs at San Diego Padres (NL).** Games at 10:00 p.m. ET. San Diego's home whites with brown and gold against the Cubs' road gray, unless the Cubs go to the royal blue alternate. [Padres uniform schedule](/stories/padres-uniform-schedule-2026) · [Cubs uniform schedule](/stories/cubs-uniform-schedule-2026) **Game 1, confirmed:** Cubs in road gray with the blue cap, Padres in the home pinstripes with the brown cap.
+**Chicago Cubs at San Diego Padres (NL).** Games at 10:00 p.m. ET. San Diego's home whites with brown and gold against the Cubs' road gray, unless the Cubs go to the royal blue alternate. [Padres uniform schedule](/stories/padres-uniform-schedule-2026) · [Cubs uniform schedule](/stories/cubs-uniform-schedule-2026) **Game 1, confirmed:** Cubs in road gray with the blue cap, Padres in the home pinstripes with the brown cap. Our grade: **B-**.
 
 **Waiting in the Division Series:** the Tampa Bay Rays (vs. Yankees-Red Sox winner) and Cleveland Guardians (vs. Astros-White Sox winner) in the AL, and the Los Angeles Dodgers (vs. Braves-Phillies winner) and Milwaukee Brewers (vs. Padres-Cubs winner) in the NL.
 
