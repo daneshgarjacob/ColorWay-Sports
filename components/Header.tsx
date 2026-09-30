@@ -172,21 +172,6 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    // College basketball, promoted out of More 9/30 (Jake). No school pages
-    // yet, so the dropdown is the league stories page plus its posts; schools
-    // join as conferences-with-carets, like CFB, once they have schedule posts.
-    label: "CBB",
-    storiesLink: { label: "College Basketball Stories", href: "/stories?league=cbb" },
-    leagueLogo: "/logos/leagues/college-basketball.svg",
-    teams: [],
-    extraLinks: [
-      { label: "2026 Final Four Court Design", href: "/stories/ncaa-final-four-court-design-2026" },
-      { label: "Final Four Court and Broadcast Review", href: "/stories/final-four-court-broadcast-review-2026" },
-      { label: "ESPN College Basketball New Logo", href: "/stories/espn-college-basketball-new-logo-2026" },
-      { label: "March Madness Expansion to 76 Teams", href: "/stories/march-madness-76-team-expansion-2026" },
-    ],
-  },
-  {
     label: "NBA",
     storiesLink: { label: "NBA Stories", href: "/stories?league=nba" },
     leagueLogo: "/logos/leagues/nba.png",
@@ -272,6 +257,22 @@ const leagues: NavLeague[] = [
     storiesLink: { label: "All NASCAR Stories", href: "/stories?league=nascar" },
     leagueLogo: "/logos/leagues/racing-nascar.png",
     teams: [],
+  },
+  {
+    // College basketball, promoted out of More 9/30 and
+    // parked last before More (Jake: least important right now). No school pages
+    // yet, so the dropdown is the league stories page plus its posts; schools
+    // join as conferences-with-carets, like CFB, once they have schedule posts.
+    label: "CBB",
+    storiesLink: { label: "College Basketball Stories", href: "/stories?league=cbb" },
+    leagueLogo: "/logos/leagues/college-basketball.svg",
+    teams: [],
+    extraLinks: [
+      { label: "2026 Final Four Court Design", href: "/stories/ncaa-final-four-court-design-2026" },
+      { label: "Final Four Court and Broadcast Review", href: "/stories/final-four-court-broadcast-review-2026" },
+      { label: "ESPN College Basketball New Logo", href: "/stories/espn-college-basketball-new-logo-2026" },
+      { label: "March Madness Expansion to 76 Teams", href: "/stories/march-madness-76-team-expansion-2026" },
+    ],
   },
   {
     // The long tail. Each of these graduates to its own rail item once it has
@@ -612,10 +613,10 @@ export default function Header() {
                 {/* Dropdown — only for leagues with teams */}
                 {hasDropdown(league) && (
                   <div
-                    // The last rail item ("More") sits at the right edge once the
+                    // The last rail items (CBB, More) sit at the right edge once the
                     // rail fills a 1024px screen; a centred 280px panel would hang
                     // off the page and add a horizontal scrollbar, so it right-aligns.
-                    className={`absolute top-full ${league.label === "More" ? "right-0" : "left-1/2 -translate-x-1/2"} mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
+                    className={`absolute top-full ${league.label === "More" || league.label === "CBB" ? "right-0" : "left-1/2 -translate-x-1/2"} mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
                       openDropdown === league.label
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
