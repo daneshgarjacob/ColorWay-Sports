@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
 
         {/* Nav */}
-        <nav className="flex gap-6 mt-6">
+        <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 mt-6">
           {navLinks.map((link) => (
             <Link prefetch={false}
               key={link.label}
