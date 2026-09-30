@@ -10,6 +10,61 @@ export async function POST(request: Request) {
     );
   }
 
+  // beehiiv is the newsletter platform from 2026-09-29. When its two env vars
+  // are set in Vercel, new signups go there (and get beehiiv's welcome email);
+  // until then the Mailchimp path below keeps working unchanged.
+  const BEEHIIV_KEY = process.env.BEEHIIV_API_KEY;
+  const BEEHIIV_PUB = process.env.BEEHIIV_PUBLICATION_ID;
+
+  if (BEEHIIV_KEY && BEEHIIV_PUB) {
+    try {
+      const res = await fetch(
+        `https://api.beehiiv.com/v2/publications/${BEEHIIV_PUB}/subscriptions`,
+        {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${BEEHIIV_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email,
+            reactivate_existing: false,
+            send_welcome_email: true,
+            utm_source: "colorwaysports.com",
+            referring_site: "https://www.colorwaysports.com",
+          }),
+        }
+      );
+
+      if (res.ok) {
+        return NextResponse.json({ success: true });
+      }
+
+      const data = await res.json().catch(() => ({}));
+      console.log(`[EmailCapture] beehiiv error for ${email}: ${res.status} ${JSON.stringify(data)}`);
+
+      if (res.status === 400) {
+        return NextResponse.json(
+          {
+            error:
+              "That address was not accepted. Check the spelling, or email contact@colorwaysports.com and we will add you by hand.",
+          },
+          { status: 400 }
+        );
+      }
+
+      return NextResponse.json(
+        { error: "Something went wrong. Try again." },
+        { status: 500 }
+      );
+    } catch {
+      return NextResponse.json(
+        { error: "Something went wrong. Try again." },
+        { status: 500 }
+      );
+    }
+  }
+
   const API_KEY = process.env.MAILCHIMP_API_KEY;
   const LIST_ID = process.env.MAILCHIMP_LIST_ID;
   const SERVER = process.env.MAILCHIMP_SERVER_PREFIX;
