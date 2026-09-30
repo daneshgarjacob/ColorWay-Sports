@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllNews, groupByDay, newsThumb, stamp } from "@/lib/news";
+import { getAllNews, groupByDay, newsThumb, recentNews, stamp } from "@/lib/news";
 import { getAllPosts } from "@/lib/posts";
 import WireItem from "@/components/WireItem";
 import InlineNewsletter from "@/components/InlineNewsletter";
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export const revalidate = 900;
 
 export default async function NewsFeed() {
-  const items = await getAllNews();
+  const items = recentNews(await getAllNews());
   const days = groupByDay(items);
   const newest = items[0];
   const updated = newest ? stamp(newest.at) : null;

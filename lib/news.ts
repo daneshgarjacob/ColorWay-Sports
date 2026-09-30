@@ -206,11 +206,15 @@ function linkedPost(link?: string): PostMeta | undefined {
 
 export function newsThumb(item: NewsMeta): NewsThumb {
   const accent = TAG_ACCENT[item.tag] ?? leagueColor(item.tag);
-  if (item.image) {
-    return { kind: item.imageStyle === "full" ? "cover" : "cutout", src: item.image, accent };
-  }
   const post = linkedPost(item.link);
-  if (post?.coverImage) {
+  // Jake, 9/30: the feed never shows a stock/product shot of a jersey. A
+  // jersey cutout (imageStyle "jersey") goes straight to the team logo card;
+  // the cutout still appears on the item's own page.
+  const isCutout = !!item.image && item.imageStyle !== "full";
+  if (item.image && !isCutout) {
+    return { kind: "cover", src: item.image, accent };
+  }
+  if (post?.coverImage && !isCutout) {
     return { kind: "cover", src: post.coverImage, position: post.coverImagePosition, accent };
   }
   // A roundup tagged with dozens of teams has no single logo worth showing.
@@ -218,4 +222,16 @@ export function newsThumb(item: NewsMeta): NewsThumb {
   const logo = post?.logoSrc2 || (team ? TEAM_LOGOS[team] : undefined);
   if (logo) return { kind: "logo", src: logo, accent };
   return { kind: "brand", accent };
+}
+
+/**
+ * The /news front page is a week, not an archive (Jake, 9/30): items from the
+ * last `days` days, rolling on its own with every revalidate. Never fewer than
+ * `min` items, so a quiet week still shows the newest few. Older items keep
+ * their /news/<slug> pages and stay searchable.
+ */
+export function recentNews<T extends { at: string }>(items: T[], days = 7, min = 5, now = Date.now()): T[] {
+  const cutoff = now - days * 24 * 60 * 60 * 1000;
+  const recent = items.filter((i) => new Date(i.at).getTime() >= cutoff);
+  return recent.length >= min ? recent : items.slice(0, min);
 }

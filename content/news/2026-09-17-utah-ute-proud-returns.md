@@ -5,8 +5,8 @@ tag: "College"
 league: "college"
 source: "@Utah_Football"
 sourceUrl: "https://x.com/Utah_Football/status/2100329327091237185"
-link: "/stories/college-football-week-3-uniforms-2026"
-linkLabel: "Week 3 uniform guide"
+link: "/stories/utah-uniform-schedule-2026"
+linkLabel: "Utah uniform schedule"
 take: "I like this a lot. The helmet is really nice and the red jersey is the best part. Hopefully they go with white socks to set it off better."
 ---
 
