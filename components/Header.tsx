@@ -275,8 +275,10 @@ const leagues: NavLeague[] = [
 
 // "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
+  // Stories left the top nav 9/30 (Jake: the sportslogos.net model, league rail
+  // + search, no catch-all "Stories" link). /stories and every /stories/<slug>
+  // URL are untouched; the league rail, search and footer still reach them.
   { label: "News", href: "/news" },
-  { label: "Stories", href: "/stories" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];

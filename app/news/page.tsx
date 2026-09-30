@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllNews, groupByDay, stamp } from "@/lib/news";
+import { getAllNews, groupByDay, newsThumb, stamp } from "@/lib/news";
 import { getAllPosts } from "@/lib/posts";
 import WireItem from "@/components/WireItem";
 import InlineNewsletter from "@/components/InlineNewsletter";
@@ -64,8 +64,15 @@ export default async function NewsFeed() {
             )}
           </header>
 
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr_312px] gap-6 lg:gap-11 pt-6 pb-10">
-            <div>
+          {/* Feed + right rail, built the same way as the story template so
+              Mediavine's script sees a page it already fills: the feed is an
+              <article> holding real <p> paragraphs (the in-content unit's
+              target), and the rail is <aside id="sidebar" class="sidebar
+              widget-area"> at exactly 300px beside the content from lg up
+              (Mediavine's sidebar minimum, the selector StorySidebar uses). No
+              ad code lives here; Mediavine's site-wide script does the placing. */}
+          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_300px] gap-6 lg:gap-10 lg:items-start pt-6 pb-10">
+            <article id="news-feed" className="news-feed min-w-0" aria-label="The Wire, newest first">
               {days.length === 0 && (
                 <p className="text-gray-medium text-[15px] py-10">Nothing on the wire yet today.</p>
               )}
@@ -79,13 +86,13 @@ export default async function NewsFeed() {
                     {day}
                   </h2>
                   {dayItems.map((item) => (
-                    <WireItem key={item.slug} item={item} />
+                    <WireItem key={item.slug} item={item} thumb={newsThumb(item)} />
                   ))}
                 </section>
               ))}
-            </div>
+            </article>
 
-            <aside>
+            <aside id="sidebar" className="sidebar widget-area w-full lg:w-[300px]" aria-label="Most read and newsletter">
               <h3 className="font-display text-[11px] font-extrabold tracking-[0.18em] uppercase text-steel m-0 mb-3 pb-[9px] border-b border-border">
                 Most read
               </h3>
