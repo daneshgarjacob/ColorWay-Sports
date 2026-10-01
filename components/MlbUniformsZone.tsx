@@ -2,7 +2,6 @@ import type { ReactNode } from "react";
 import Link from "next/link";
 import { getPostBySlug } from "@/lib/posts";
 import { buildAlternatesWatch } from "@/lib/mlbAlternatesWatch";
-import { getMotd } from "@/lib/mlbHomepage";
 import { buildMlbTonight } from "@/lib/mlbTonight";
 import { getMlbPostseasonChips, isMlbPostseason, MLB_POSTSEASON_POST } from "@/lib/mlbPostseason";
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
@@ -95,7 +94,6 @@ export default async function MlbUniformsZone() {
   if (!post) return null;
 
   const data = buildAlternatesWatch(post.contentHtml);
-  const motd = getMotd(post.contentHtml);
   const href = `/stories/${TRACKER_SLUG}`;
 
   // TONIGHT, DATED. The NFL band above this one is forward-looking ("Week 2,
@@ -320,62 +318,11 @@ export default async function MlbUniformsZone() {
               </span>
             </div>
 
-            {/* Clash on the left, last night's mix on the right. Jersey of the
-                Day and the Stinker were retired 2026-09-07 (Clash-only awards,
-                no tweet embeds), so the card is two columns now. */}
-            <div className="grid grid-cols-1 md:grid-cols-[1.15fr_1fr] gap-6 md:gap-8">
-              {motd ? (
-                <Link prefetch={false} href={href} className="group block">
-                  <div className="flex items-center justify-between mb-3">
-                    <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
-                      ★ ColorWay Clash of the Day
-                    </span>
-                    {motd.grade && (
-                      <span className="text-[11px] font-extrabold text-[#1F6B4E]">
-                        {motd.grade} / 10
-                      </span>
-                    )}
-                  </div>
-                  <div className="flex items-center justify-center gap-6 sm:gap-8">
-                    {motd.images.map((src, i) => (
-                      <span key={i} className="contents">
-                        {i === 1 && (
-                          <span className="text-[11px] font-extrabold uppercase tracking-[0.2em] text-[#8A8F98]">
-                            at
-                          </span>
-                        )}
-                        <img src={src} alt="" className="h-[104px] w-auto object-contain" />
-                      </span>
-                    ))}
-                  </div>
-                  <p className="mt-3 text-center text-[17px] font-extrabold text-[#0B1F4A] leading-tight group-hover:text-orange transition-colors">
-                    {motd.matchup}
-                  </p>
-                  {motd.score && (
-                    <p className="mt-1 text-center text-[12px] font-semibold text-[#5f7085] tabular-nums">
-                      Final · {motd.score}
-                    </p>
-                  )}
-                  <span className="mt-2 block text-center text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
-                    See it on the tracker →
-                  </span>
-                </Link>
-              ) : (
-                <Link prefetch={false} href={href} className="group flex flex-col justify-center">
-                  <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-orange">
-                    ★ ColorWay Clash of the Day
-                  </span>
-                  <p className="mt-2 text-[15px] font-extrabold text-[#0B1F4A] leading-snug">
-                    Tonight&rsquo;s pick lands once the slate is in.
-                  </p>
-                  <span className="mt-2 text-[10px] font-bold uppercase tracking-[0.14em] text-[#8A8F98] group-hover:text-orange transition-colors">
-                    See last night&rsquo;s games →
-                  </span>
-                </Link>
-              )}
-
+            {/* Clash of the Day retired 2026-10-01 (Jake: too few postseason
+                games for a daily award). Last night's mix only. */}
+            <div className="grid grid-cols-1 gap-6">
               {/* Last night's mix: three bars stacked, with counts */}
-              <div className="md:border-l md:border-border md:pl-8 pt-5 md:pt-0 border-t md:border-t-0 border-border">
+              <div>
                 <div className="flex items-baseline justify-between mb-3">
                   <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
                     Last Night&rsquo;s Mix
