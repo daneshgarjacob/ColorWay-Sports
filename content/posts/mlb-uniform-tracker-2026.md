@@ -27,9 +27,38 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Wednesday, September 30
 
-Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had the chance to close it out today. Philadelphia did not let Atlanta do it. The afternoon game at Truist Park (2:00 p.m. ET) went back to the same clothes as the opener, the Phillies in road gray with the red cap and the Braves in home white with the red-billed cap, and it gets the same grade as Game 1, a **B**. The Phillies won 4-3 in 10 innings, so that series goes to a Game 3 on Thursday. In Houston (5:00 p.m. ET), both clubs went to color: the White Sox back in the black "Sox" alternate over road gray pants, and the Astros answered in their orange alternate. Black against orange is a real October look and a step up from Game 1, and we grade it a **B+**. The White Sox won 7-3 to sweep the series and move on to Cleveland for the Division Series, which opens Saturday. In the Bronx (8:00 p.m. ET) it is Game 1 all over again: the Red Sox in road gray with the navy "B" cap, the Yankees in the home pinstripes. Same matchup, same grade, an **A-**. Cubs at Padres (10:00 p.m. ET) is logged here as soon as the league files the jerseys at first pitch. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had the chance to close it out today. Philadelphia did not let Atlanta do it. The afternoon game at Truist Park (2:00 p.m. ET) went back to the same clothes as the opener, the Phillies in road gray with the red cap and the Braves in home white with the red-billed cap, and it gets the same grade as Game 1, a **B**. The Phillies won 4-3 in 10 innings, so that series goes to a Game 3 on Thursday. In Houston (5:00 p.m. ET), both clubs went to color: the White Sox back in the black "Sox" alternate over road gray pants, and the Astros answered in their orange alternate. Black against orange is a real October look and a step up from Game 1, and we grade it a **B+**. The White Sox won 7-3 to sweep the series and move on to Cleveland for the Division Series, which opens Saturday. In the Bronx (8:00 p.m. ET) it is Game 1 all over again: the Red Sox in road gray with the navy "B" cap, the Yankees in the home pinstripes. Same matchup, same grade, an **A-**. Out west (10:00 p.m. ET), the Cubs changed it up: after the road gray in Game 1, they came out in the royal blue alternate over gray pants with the blue cap, against the Padres in the home pinstripes and brown caps. Blue against brown and pinstripes is a better look than the opener, and we grade it a **B+**. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### Chicago Cubs at San Diego Padres
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/cubs-blue-alternate.jpg" alt="Chicago Cubs Royal Blue Alternate jersey worn September 30 2026 against the Padres, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CUBS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0E3386; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Royal Blue Alternate</p>
+      <p data-cap="Blue" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/padres-home-white.png" alt="San Diego Padres Home White jersey worn September 30 2026 against the Cubs, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PADRES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p data-cap="All Brown" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; All Brown</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Boston Red Sox at New York Yankees
 
