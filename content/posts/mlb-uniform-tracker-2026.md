@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Wednesday, September 30
 
-Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had the chance to close it out today. Philadelphia did not let Atlanta do it. The afternoon game at Truist Park (2:00 p.m. ET) went back to the same clothes as the opener, the Phillies in road gray with the red cap and the Braves in home white with the red-billed cap, and it gets the same grade as Game 1, a **B**. The Phillies won 4-3 in 10 innings, so that series goes to a Game 3 on Thursday. In Houston (5:00 p.m. ET), both clubs went to color: the White Sox back in the black "Sox" alternate over road gray pants, and the Astros answered in their orange alternate. Black against orange is a real October look and a step up from Game 1, and we grade it a **B+**. The White Sox won 7-3 to sweep the series and move on to Cleveland for the Division Series, which opens Saturday. In the Bronx (8:00 p.m. ET) it is Game 1 all over again: the Red Sox in road gray with the navy "B" cap, the Yankees in the home pinstripes. Same matchup, same grade, an **A-**. Out west (10:00 p.m. ET), the Cubs changed it up: after the road gray in Game 1, they came out in the royal blue alternate over gray pants with the blue cap, against the Padres in the home pinstripes and brown caps. Blue against brown and pinstripes is a better look than the opener, and we grade it a **B+**. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had the chance to close it out today. Philadelphia did not let Atlanta do it. The afternoon game at Truist Park (2:00 p.m. ET) went back to the same clothes as the opener, the Phillies in road gray with the red cap and the Braves in home white with the red-billed cap, and it gets the same grade as Game 1, a **B**. The Phillies won 4-3 in 10 innings, so that series goes to a Game 3 on Thursday. In Houston (5:00 p.m. ET), both clubs went to color: the White Sox back in the black "Sox" alternate over road gray pants, and the Astros answered in their orange alternate. Black against orange is a real October look and a step up from Game 1, and we grade it a **B+**. The White Sox won 7-3 to sweep the series and move on to Cleveland for the Division Series, which opens Saturday. In the Bronx (8:00 p.m. ET) it is Game 1 all over again: the Red Sox in road gray with the navy "B" cap, the Yankees in the home pinstripes. Same matchup, same grade, an **A-**. The Yankees won 9-2 to sweep the series, and they head to Tampa Bay for the Division Series on Saturday. Out west (10:00 p.m. ET), the Cubs changed it up: after the road gray in Game 1, they came out in the royal blue alternate over gray pants with the blue cap, against the Padres in the home pinstripes and brown caps. Blue against brown and pinstripes is a better look than the opener, and we grade it a **B+**. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -62,10 +62,15 @@ Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had
 
 ### Boston Red Sox at New York Yankees
 
+<div style="margin: 1.5em 0 0.6em; padding: 4px; background: linear-gradient(135deg, #BD3039 0%, #ffffff 50%, #0C2340 100%); border-radius: 18px; box-shadow: 0 12px 34px rgba(30,30,30,0.28);">
+  <div style="text-align: center; padding: 7px 10px 8px;">
+    <span style="font-size: 0.72em; font-weight: 900; letter-spacing: 0.18em; text-transform: uppercase; color: #14284b;">&#9733; ColorWay Clash of the Day &#9733;</span>
+  </div>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Yankees 9, Red Sox 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -88,6 +93,10 @@ Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had
   </div>
 </div>
 </div>
+
+</div>
+
+The Clash of the Day for Wednesday goes back to the Bronx: the Red Sox in road gray at the Yankees in home pinstripes, the same matchup that won it on Tuesday. Our highest grade of the day again, an **A-**.
 
 ### Chicago White Sox at Houston Astros
 
