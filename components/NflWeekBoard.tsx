@@ -3,6 +3,7 @@ import type { NflWeekSlate, SlateGame, SlateSide } from "@/lib/nflWeekSlate";
 import type { WearAnswer } from "@/lib/teamWearAnswers";
 import WearQuickAnswers from "@/components/WearQuickAnswers";
 import UniformFigure from "@/components/UniformFigure";
+import { uniformTrim } from "@/lib/nflTeamColors";
 
 /**
  * "What every NFL team is wearing this week" board for the league hub page.
@@ -11,11 +12,11 @@ import UniformFigure from "@/components/UniformFigure";
  * is official, and as a blank TBA outline until then.
  */
 
-const STATUS: Record<SlateSide["look"]["state"], string> = {
-  worn: "Worn",
-  confirmed: "Confirmed",
-  jersey: "Jersey confirmed",
-  tba: "TBA",
+const STATUS: Record<SlateSide["look"]["state"], { text: string; cls: string }> = {
+  worn: { text: "Worn", cls: "bg-[#0B1F4A] text-white" },
+  confirmed: { text: "Confirmed", cls: "bg-[#2f6bed] text-white" },
+  jersey: { text: "Jersey confirmed", cls: "bg-[#E6EEFD] text-[#2f6bed]" },
+  tba: { text: "TBA", cls: "bg-[#EEF0F4] text-[#7C8696]" },
 };
 
 function describe(side: SlateSide) {
@@ -28,49 +29,58 @@ function describe(side: SlateSide) {
   return `${team.nickname}: uniform not announced yet`;
 }
 
-function Side({ side, facing }: { side: SlateSide; facing: "left" | "right" }) {
-  const { team, look, uniform } = side;
-  const known = look.state !== "tba";
+const FIGURE = "h-[230px] w-auto sm:h-[262px]";
+
+function Figure({ side, facing }: { side: SlateSide; facing: "left" | "right" }) {
+  const { team, look } = side;
   const full = look.state === "confirmed" || look.state === "worn";
+  const colors = full ? look : look.state === "jersey" ? { jersey: look.jersey } : {};
   return (
-    <Link
-      prefetch={false}
-      href={`/stories/${team.scheduleSlug}`}
-      className="group flex min-w-0 flex-1 flex-col items-center text-center"
-    >
-      <span className="flex h-[132px] w-full items-center justify-center rounded-lg bg-[#F4F6F9] py-3">
-        <UniformFigure
-          colors={full ? look : { jersey: look.jersey }}
-          facing={facing}
-          tba={!known}
-          label={describe(side)}
-          className="h-full w-auto"
-        />
-      </span>
-      <span className="mt-2.5 text-[14px] font-extrabold leading-tight text-[#0B1F4A] group-hover:text-[#2f6bed]">
-        {team.nickname}
-      </span>
-      <span className="mt-0.5 text-[12px] font-semibold leading-snug text-black/70">
-        {known ? uniform : <>Expected: {uniform}</>}
-      </span>
-      {full && look.combo && (
-        <span className="mt-0.5 text-[10px] font-bold uppercase leading-snug tracking-[0.08em] text-[#7C8696]">
-          {new Set(look.combo.split(" · ")).size === 1 ? `All ${look.combo.split(" · ")[0]}` : look.combo}
-        </span>
-      )}
-      <span
-        className={`mt-1.5 text-[9.5px] font-extrabold uppercase tracking-[0.14em] ${
-          known ? "text-[#2f6bed]" : "text-[#9AA0AC]"
-        }`}
-      >
-        {STATUS[look.state]}
-      </span>
+    <Link prefetch={false} href={`/stories/${team.scheduleSlug}`} className="block" tabIndex={-1} aria-hidden>
+      <UniformFigure
+        uid={`${team.key}-${side.game.week}`}
+        colors={colors}
+        trim={uniformTrim(team.key, colors)}
+        facing={facing}
+        label={describe(side)}
+        className={FIGURE}
+      />
     </Link>
   );
 }
 
+function Caption({ side, align }: { side: SlateSide; align: "left" | "right" }) {
+  const { team, look, uniform } = side;
+  const known = look.state !== "tba";
+  const full = look.state === "confirmed" || look.state === "worn";
+  const combo = look.combo?.split(" · ");
+  return (
+    <div className={`min-w-0 flex-1 ${align === "right" ? "text-right" : "text-left"}`}>
+      <Link
+        prefetch={false}
+        href={`/stories/${team.scheduleSlug}`}
+        className="text-[15px] font-extrabold leading-tight text-[#2f6bed] hover:underline sm:text-[16px]"
+      >
+        {team.nickname}
+      </Link>
+      <p className="mt-0.5 text-[12.5px] font-semibold leading-snug text-[#0B1F4A]">
+        {known ? uniform : <>Expected: {uniform}</>}
+      </p>
+      {full && combo && (
+        <p className="mt-0.5 text-[10px] font-bold uppercase leading-snug tracking-[0.08em] text-[#7C8696]">
+          {new Set(combo).size === 1 ? `All ${combo[0]}` : combo.join(" · ")}
+        </p>
+      )}
+      <span
+        className={`mt-1.5 inline-block whitespace-nowrap rounded-full px-2 py-[3px] text-[9.5px] font-extrabold uppercase leading-none tracking-[0.12em] ${STATUS[look.state].cls}`}
+      >
+        {STATUS[look.state].text}
+      </span>
+    </div>
+  );
+}
+
 function GameCard({ g }: { g: SlateGame }) {
-  const awayNick = g.away?.team.nickname ?? g.awayName;
   const tags = [...new Set([...(g.away?.tags ?? []), ...g.home.tags])];
   // "TNF" next to "Thursday Night Football" says it twice.
   const LONG: Record<string, string> = {
@@ -84,29 +94,27 @@ function GameCard({ g }: { g: SlateGame }) {
     ...tags.filter((t) => !g.label.includes(t) && !g.label.includes(LONG[t.toUpperCase()] ?? "\u0000")),
   ].filter(Boolean);
   return (
-    <li className="flex flex-col rounded-xl border border-[#E3E6EC] bg-white p-3 sm:p-4">
-      <div className="flex items-start gap-1.5">
+    <li className="flex flex-col overflow-hidden rounded-xl border border-[#E3E6EC] bg-white">
+      <div className="flex items-center justify-center gap-1 bg-[#F6F8FB] px-2 pb-3 pt-4 sm:gap-4">
         {g.away ? (
-          <Side side={g.away} facing="right" />
+          <Figure side={g.away} facing="right" />
         ) : (
-          <span className="flex min-w-0 flex-1 flex-col items-center text-center">
-            <span className="flex h-[132px] w-full items-center justify-center rounded-lg bg-[#F4F6F9] py-3">
-              <UniformFigure colors={{}} tba label={`${g.awayName}: uniform not announced yet`} className="h-full w-auto" />
-            </span>
-            <span className="mt-2.5 text-[14px] font-extrabold leading-tight text-[#0B1F4A]">{g.awayName}</span>
-          </span>
+          <UniformFigure uid={`${g.awayName}-away`} colors={{}} label={`${g.awayName}: uniform not announced yet`} className={FIGURE} />
         )}
-        <span className="mt-[58px] shrink-0 text-[10px] font-extrabold tracking-[0.14em] text-black/35">AT</span>
-        <Side side={g.home} facing="left" />
+        <span className="shrink-0 text-[11px] font-extrabold tracking-[0.16em] text-[#0B1F4A]/40">AT</span>
+        <Figure side={g.home} facing="left" />
       </div>
-      <div className="mt-3 border-t border-[#E3E6EC] pt-2.5 text-center">
-        <p className="text-[13px] font-extrabold leading-tight text-[#0B1F4A]">
-          {awayNick} at {g.home.team.nickname}
-        </p>
-        <p className="mt-0.5 text-[11px] font-semibold leading-snug text-black/55">
-          {g.score ? <>Final: {g.score}</> : meta.join(" · ")}
-        </p>
+      <div className="flex items-start gap-3 px-4 pt-3">
+        {g.away ? (
+          <Caption side={g.away} align="left" />
+        ) : (
+          <div className="min-w-0 flex-1 text-[15px] font-extrabold text-[#0B1F4A]">{g.awayName}</div>
+        )}
+        <Caption side={g.home} align="right" />
       </div>
+      <p className="mx-4 mb-3 mt-3 border-t border-[#E3E6EC] pt-2.5 text-center text-[11.5px] font-semibold leading-snug text-black/60">
+        {g.score ? <>Final: {g.score}</> : meta.join(" · ")}
+      </p>
     </li>
   );
 }
@@ -122,18 +130,18 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
           <span className="text-[10px] font-bold uppercase tracking-[0.12em] text-white/80">{slate.window}</span>
         </div>
 
-        <div className="bg-white px-4 py-6 sm:px-6">
+        <div className="bg-white px-3 py-6 sm:px-6">
           <h2 className="font-display text-xl font-extrabold leading-tight text-[#0B1F4A] sm:text-2xl">
             NFL Week {slate.week} Uniforms: What Every Team Is Wearing
           </h2>
           <p className="mb-5 mt-1 max-w-[720px] text-[13px] leading-relaxed text-black/60">
             Away team on the left, home team on the right. Once a club makes its uniform official, we draw the
-            whole look in its real colours, helmet to socks. A blank outline marked TBA means it has not been
-            announced yet, with the jersey we expect from the team&rsquo;s schedule underneath. When only the
+            whole look in its real colours, helmet to socks. Anything still unannounced stays a white outline under
+            a grey TBA panel, with the jersey we expect from the team&rsquo;s schedule underneath. When only the
             jersey is official, only the jersey gets its colour. Tap a team for its full season.
           </p>
 
-          <ol className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          <ol className="grid grid-cols-1 gap-4 md:grid-cols-2">
             {slate.games.map((g) => (
               <GameCard key={g.home.team.key} g={g} />
             ))}
