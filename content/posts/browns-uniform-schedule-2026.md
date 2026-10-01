@@ -14,7 +14,7 @@ league: nfl
 teams: ["cleveland-browns"]
 ---
 
-**The Browns have confirmed Alpha Dawg for Thursday Night Football against the Steelers on October 1:** the all-brown look, with the brown helmet and its orange center stripes, the brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is expected in white on the road. Cleveland has published its 2026 schedule but not a full uniform schedule, so the rest of this page is the week-by-week grid with our calls, including Alpha Dawg in Weeks 10 and 14, plus the rest of the closet and where it fits.
+**The Browns have confirmed Alpha Dawg for Thursday Night Football against the Steelers on October 1:** the all-brown look, with the brown helmet and its orange center stripes, the brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is confirmed in white on the road, with black helmet, gold pants and black socks. Cleveland has published its 2026 schedule but not a full uniform schedule, so the rest of this page is the week-by-week grid with our calls, including Alpha Dawg in Weeks 10 and 14, plus the rest of the closet and where it fits.
 
 ## The Full 2026 Browns Uniform Schedule, Week by Week
 
@@ -119,7 +119,7 @@ Brown if Cleveland is at Huntington Bank Field, white if they are on the road, e
 
 **What jerseys are the Browns wearing this week?**
 
-Alpha Dawg, all brown, for Thursday Night Football against the Steelers on October 1. The Browns announced it on game week: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is expected in its road set, black helmet, white jersey and gold pants. Same rule for the rest of the season. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
+Alpha Dawg, all brown, for Thursday Night Football against the Steelers on October 1. The Browns announced it on game week: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is confirmed in its road set, black helmet, white jersey, gold pants and black socks. Same rule for the rest of the season. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
 
 **What uniform did the Browns wear last week?**
 
