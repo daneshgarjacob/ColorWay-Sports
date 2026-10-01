@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-01"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **September 26 at Purdue**, Ross-Ade Stadium. ★ Confirmed from the game photos: **gold helmet, white jersey, gold pants**. Purdue wore all black, with a black helmet, black jersey and black pants. Notre Dame won 49-10 to keep the Shillelagh Trophy and move to 4-0, as CJ Carr threw three touchdown passes and ran for another and Drayk Bowen returned a fumble 15 yards for his first career touchdown. It is the 14th straight win for the Irish. More: [Purdue uniform schedule](/stories/purdue-uniform-schedule-2026).
 
-**October 3 at North Carolina**, Kenan Stadium. White expected.
+**October 3 at North Carolina**, Kenan Stadium, noon ET on ESPN. White expected. North Carolina has confirmed its 1980 throwbacks for the game: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants. Notre Dame in white with the gold helmet against that should be one of the cleaner looks of the weekend. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) for the Tar Heels' side.
 
 **October 10 vs. Stanford**, Notre Dame Stadium, 3:30 p.m. ✅ **Confirmed: Irish Wear Green.** This is the annual green-out, and the game is already sold out.
 

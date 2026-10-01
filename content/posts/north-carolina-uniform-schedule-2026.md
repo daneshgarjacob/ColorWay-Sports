@@ -3,8 +3,8 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-19"
-excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the Kenan 100 season and the 1980 throwback still without a date."
+updatedDate: "2026-10-01"
+excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
 kicker: Schedule
@@ -39,10 +39,10 @@ The two clubs also opened against each other last season, the first time Carolin
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #13294B;">Carolina Blue</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The home look and the one the program is known for. There is no other blue like it in the sport.</div></div>
   <div style="background: #ffffff; color: #13294B; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #8892a0;">White</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The road set, and what Carolina wears in Dublin against TCU's black.</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #4B9CD3;">Navy</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The third color in the palette, used sparingly and never as the base of a full set.</div></div>
-  <div style="background: linear-gradient(135deg, #4B9CD3 0%, #13294B 100%); color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #ffffff;">1980 Throwback</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Confirmed for the Dublin opener. White jersey, Carolina blue helmet and pants.</div></div>
+  <div style="background: linear-gradient(135deg, #4B9CD3 0%, #13294B 100%); color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #ffffff;">1980 Throwback</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants. Debuted September 12, back for Notre Dame on October 3.</div></div>
 </div>
 
-## The Kenan 100 Season, and the Throwback That Opens It
+## The Kenan 100 Season and the 1980 Throwbacks
 
 2026 is the **100th season of Kenan Stadium**, which opened in November 1927 and has hosted 551 football games. Carolina is marking it with a commemorative logo built around the Morehead-Patterson Bell Tower set inside the numeral 100, plus a run of stadium upgrades.
 
@@ -50,9 +50,7 @@ The uniform piece of that celebration is a **throwback to the 1980 ACC champions
 
 That stairstep mark is worth pausing on. It is the logo Bill Belichick wore on his own sideline gear through his first season in Chapel Hill, before it went anywhere near a jersey.
 
-✅ **The throwbacks open the season.** Carolina's reveal for Dublin is headed "Throwbacks," which puts the Kenan 100 tribute on the first game of the entire college football year rather than saving it for a home date. That is the right call. A uniform built to mark a hundred years of a stadium is a strange thing to debut three thousand miles from it, but it is also the largest audience this program will have until November, and Carolina is the only game on television that afternoon.
-
-Worth noting for the rest of the season: nothing says this is a one-off. Programs that build a throwback for an anniversary year usually wear it more than once, so a home date later in the fall is still live. We will add it here when it is announced.
+✅ **The 1980 set debuted at home, and it is back for Notre Dame.** The white "Throwbacks" look Carolina wore in Dublin carried the interlocking NC, not the stairstep UNC, so the real 1980 set waited for Kenan. Carolina posted "Debuting Saturday" on September 10 and wore it for the home opener against East Tennessee State on September 12, the first game of the stadium's hundredth season. On October 1 the program confirmed it again for the biggest home game on the schedule: **"Rocking the 1980 throwbacks Saturday,"** against No. 3 Notre Dame. A uniform built to mark a hundred years of a stadium belongs in that stadium, and putting it on the Notre Dame game is exactly the right call.
 
 ## The Full North Carolina 2026 Uniform Schedule, Week by Week
 
@@ -60,9 +58,9 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">AUG 29</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU (Dublin)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Throwback</div></div>
-  <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Tennessee St</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White</div></div>
+  <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Tennessee St</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1980 Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
-  <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1980 Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -75,11 +73,19 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **Saturday, August 29 vs. TCU**, Aviva Stadium, Dublin, noon ET on ESPN. ✅ **Worn: the white throwback set**, Carolina blue helmet and pants, against TCU's black alternate. Carolina won 15-10.
 
-**September 12 vs. East Tennessee State**, Kenan Stadium, noon on ACC Network. The home opener and the first game played in Kenan during its hundredth season. ★ Confirmed from the broadcast: **Carolina blue helmet, Carolina blue jersey, white pants**, the standard home set, against East Tennessee State's navy and gold. North Carolina won 35-3 in a game that went to a weather delay in the third quarter.
+**September 12 vs. East Tennessee State**, Kenan Stadium, noon on ACC Network. The home opener and the first game played in Kenan during its hundredth season. ★ Confirmed: **the 1980 throwback debut**, powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, against East Tennessee State's navy and gold. Carolina teased it on September 10 with "Debuting Saturday." North Carolina won 35-3 in a game that went to a weather delay in the third quarter.
 
 **September 19 at Clemson**, Memorial Stadium, noon on ESPN. ★ Confirmed from the broadcast: **Carolina blue helmet with the interlocking NC, white jersey with Carolina blue numerals, Carolina blue pants**, the same white and Carolina blue pairing the Tar Heels opened the season with. Clemson met them in the orange Tiger Paw helmet, orange jersey and white pants, so Death Valley got orange against white with blue at both ends of it. Weather suspended the game in the third quarter with North Carolina ahead 17-15, and Clemson came back after the delay to win 28-20.
 
-**October 3 vs. Notre Dame**, Kenan Stadium. Carolina blue expected. The biggest home game on the schedule, and Notre Dame will be in white. See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) for the other side of it.
+**October 3 vs. No. 3 Notre Dame**, Kenan Stadium, noon ET on ESPN. ★ Confirmed by Carolina: **the 1980 throwbacks**, powder blue helmet with the stairstep UNC logo, powder blue jersey with "Carolina" across the chest, white pants. It is the second time the Kenan 100 set has been worn, after the East Tennessee State opener, and it gets the biggest home game on the schedule. The game is sold out, and Carolina is unveiling its new Hall of Fame displays at Kenan during the first half. Notre Dame is expected in white with the gold helmet, which puts powder blue against white and gold.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UNCFootball/status/2105767599527362783"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 1980 throwbacks for Notre Dame, via @UNCFootball</p>
+
+See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) for the other side of it.
 
 **October 10 at Pitt**, Acrisure Stadium. White expected.
 
@@ -91,7 +97,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **November 7 at UConn**, Rentschler Field, noon on CBS Sports Network. White expected. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
-**November 14 vs. Louisville**, Kenan Stadium. Homecoming, Military Appreciation and Monogram Day. Carolina blue expected, and the likeliest date if the throwback comes back a second time.
+**November 14 vs. Louisville**, Kenan Stadium. Homecoming, Military Appreciation and Monogram Day. Carolina blue expected, and the likeliest date if the 1980 throwback comes back a third time.
 
 **November 21 at Virginia**, Scott Stadium. White expected.
 
@@ -99,7 +105,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 ## The Bottom Line
 
-Carolina's wardrobe is one of the simplest in the sport and that is its whole appeal: blue at home, white on the road, and a shade of blue nobody else owns. The 2026 season adds one variable, the Kenan 100 throwback, and it turns out to arrive immediately.
+Carolina's wardrobe is one of the simplest in the sport and that is its whole appeal: blue at home, white on the road, and a shade of blue nobody else owns. The 2026 season adds one variable, the Kenan 100 throwback to the 1980 ACC champions, and Carolina is using it on the right dates: the home opener, and now No. 3 Notre Dame.
 
 Against TCU's black, the white throwback is the quieter of the two uniforms in Dublin, and it will look better for it. The Horned Frogs brought the costume. Carolina brought the history.
 
@@ -113,9 +119,13 @@ A white throwback set, with Carolina blue pants and a Carolina blue helmet carry
 
 North Carolina against TCU in Dublin, Ireland, at noon ET on Saturday, August 29. It is a Week 0 game in the Aer Lingus College Football Classic, which puts it ahead of everything else on the calendar.
 
-**When does North Carolina wear the throwback uniform?**
+**When does North Carolina wear the 1980 throwback uniform?**
 
-In the season opener against TCU in Dublin on August 29. Carolina's reveal for that game is headed "Throwbacks" and shows a white jersey with Carolina blue numerals, Carolina blue pants and a Carolina blue helmet. The throwback is tied to the 100th season of Kenan Stadium, and the program has not said whether it returns for a home date later in the year.
+The 1980 throwbacks debuted against East Tennessee State on September 12, and Carolina has confirmed them again for No. 3 Notre Dame on Saturday, October 3, at Kenan Stadium. The set is a powder blue helmet with the stairstep UNC logo, a powder blue jersey with "Carolina" across the chest and white pants, a tribute to the 1980 ACC championship team in the 100th season of Kenan Stadium.
+
+**What is North Carolina wearing against Notre Dame?**
+
+The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants. Carolina confirmed it on October 1. Kickoff is noon ET on ESPN, and Notre Dame is expected in white.
 
 **What are North Carolina's regular uniforms?**
 

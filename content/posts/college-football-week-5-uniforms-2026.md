@@ -3,7 +3,7 @@ title: "College Football Week 5 Uniforms 2026: What Every Top Team Is Wearing, F
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-29"
-updatedDate: "2026-09-29"
+updatedDate: "2026-10-01"
 excerpt: "College football Week 5 uniforms: Tennessee's Smokey Grey, Texas A&M camo, Air Force's B-21 Raider, Rutgers' Blackout, Houston Blue and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -64,6 +64,8 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Tennessee, Smokey Grey Neyland Legacy (Confirmed).** Grey jersey with Ayres Hall on the shoulders, orange numbers, cream pants, Neyland's signature on the helmet bumper, against Auburn.
 - **Texas A&M, Honor and Support camo (Confirmed).** Camo helmet, camo jersey, maroon pants against Arkansas on the university's 150th anniversary.
 - **Air Force, B-21 Raider (Confirmed).** Matte black with a camouflage helmet wrap and chrome silver numerals against Navy.
+- **Wisconsin, Red Out (Confirmed).** The alternate red helmet with a large white Motion W, red jersey with white numbers, red pants and red cleats for Homecoming against Michigan State.
+- **North Carolina, 1980 throwbacks (Confirmed).** Powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants against No. 3 Notre Dame.
 - **Florida, orange, white, blue (Confirmed).** From the season-long uniform schedule Florida published in August, which has held every week so far: orange helmet, white jersey, blue pants at Missouri.
 - **Houston, Houston Blue (Expected).** Houston has branded the UCF game the Built By Houston Game with a Wear Houston Blue theme, which is how the annual Houston Blue date is always packaged: light blue jersey with red numbers, white helmet with the light blue Houston script, white pants with a red stripe.
 - **Rutgers, The Blackout (Expected).** All black for Homecoming against Indiana.
@@ -98,7 +100,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **No. 3 Notre Dame at North Carolina**, noon, ESPN.
 - [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Expected**, the road set: gold helmet, white jersey, gold pants, the look the Irish wore at Purdue.
-- [North Carolina](/stories/north-carolina-uniform-schedule-2026): **Expected**, Carolina blue for the biggest home game on the schedule.
+- [North Carolina](/stories/north-carolina-uniform-schedule-2026): **Confirmed**, the 1980 throwbacks: powder blue helmet with the stairstep UNC logo, powder blue jersey with "Carolina" across the chest, white pants. It is the second wear of the Kenan 100 set after the East Tennessee State opener, saved for the biggest home game on the schedule.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UNCFootball/status/2105767599527362783"></a></blockquote>
+</div>
 
 **No. 7 Alabama at No. 16 Mississippi State**, noon, ABC.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Expected**, white on the road under the crimson helmet.
@@ -138,7 +144,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Michigan State at Wisconsin**, 12:30 p.m., BTN.
 - [Michigan State](/stories/michigan-state-uniform-schedule-2026): **Expected**, white.
-- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Expected**, red. It is Homecoming, the date that produced the Under Armour throwbacks against Iowa last season.
+- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Confirmed**, the Red Out. Homecoming delivered again: the alternate red helmet with a large white Motion W, white center stripes and a white facemask, the red jersey with white numbers and two white sleeve stripes, red pants and red cleats. It is Wisconsin's second all-red look of the season after the silver-trimmed Lambeau Field opener.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BadgerFootball/status/2105779797292908811"></a></blockquote>
+</div>
 
 **Vanderbilt at No. 2 Georgia**, 12:45 p.m., SEC Network.
 - [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026): **Expected**, white.
@@ -266,13 +276,13 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ## The Bottom Line
 
-Week 5 is the first week of the season with three locked alternates on the same Saturday, and all three were announced back in August. Tennessee's Smokey Grey against Auburn is the one we expect to see everywhere on Saturday afternoon, Texas A&M's camo gets a prime-time stage for the university's 150th, and Air Force's matte black B-21 Raider against Navy's white is the cleanest service academy clash in years. Rutgers in black under the lights against the national champions and Houston Blue against UCF could make it five. The rest of the Top 25 should look like the rest of the Top 25: Georgia in red, USC in cardinal and gold, LSU in white at home, Notre Dame in gold and white on the road. The open questions are at Kinnick, where GameDay and a black and gold crowd meet Ohio State, at Clemson, where Miami chooses its road look, and on Friday night in Evanston, where the new Ryan Field could get a surprise. We update this page as each school posts.
+Week 5 is the first week of the season with three locked alternates on the same Saturday, and all three were announced back in August. Tennessee's Smokey Grey against Auburn is the one we expect to see everywhere on Saturday afternoon, Texas A&M's camo gets a prime-time stage for the university's 150th, and Air Force's matte black B-21 Raider against Navy's white is the cleanest service academy clash in years. Since then, two more have landed: Wisconsin's Red Out with the red helmet for Homecoming against Michigan State, and North Carolina's 1980 throwbacks for No. 3 Notre Dame. Rutgers in black under the lights against the national champions and Houston Blue against UCF could make it seven. The rest of the Top 25 should look like the rest of the Top 25: Georgia in red, USC in cardinal and gold, LSU in white at home, Notre Dame in gold and white on the road. The open questions are at Kinnick, where GameDay and a black and gold crowd meet Ohio State, at Clemson, where Miami chooses its road look, and on Friday night in Evanston, where the new Ryan Field could get a surprise. We update this page as each school posts.
 
 ## Frequently Asked Questions
 
 **What are college football teams wearing in Week 5?**
 
-Most top teams are in standard sets for Week 5: home teams in color and visitors in white. The confirmed specials are Tennessee's Smokey Grey Neyland Legacy uniform against Auburn, Texas A&M's Honor and Support camo against Arkansas, Air Force's B-21 Raider uniform against Navy, and Florida's orange helmet, white jersey and blue pants at Missouri from its published season schedule. Rutgers is expected in all black for The Blackout and Houston in Houston Blue against UCF. Every game is listed above with its confirmed or expected uniform.
+Most top teams are in standard sets for Week 5: home teams in color and visitors in white. The confirmed specials are Tennessee's Smokey Grey Neyland Legacy uniform against Auburn, Texas A&M's Honor and Support camo against Arkansas, Air Force's B-21 Raider uniform against Navy, Florida's orange helmet, white jersey and blue pants at Missouri from its published season schedule, Wisconsin's all-red Red Out with the red helmet against Michigan State, and North Carolina's 1980 throwbacks against Notre Dame. Rutgers is expected in all black for The Blackout and Houston in Houston Blue against UCF. Every game is listed above with its confirmed or expected uniform.
 
 **What is Tennessee wearing against Auburn?**
 
@@ -281,6 +291,14 @@ Tennessee wears its 2026 Smokey Grey uniform against Auburn on Saturday, October
 **Why is Texas A&M wearing camo against Arkansas?**
 
 The desert camo uniform is Texas A&M's Honor and Support set, and the Aggies scheduled it for one game only, Arkansas on October 3, the same day the university celebrates its 150th anniversary. It is a camo helmet and camo jersey over maroon pants. Texas A&M revealed it on August 14.
+
+**What is Wisconsin wearing against Michigan State?**
+
+The Red Out, which Wisconsin confirmed on October 1: an alternate red helmet with a large white Motion W, white stripes and a white facemask, a red jersey with white numbers, red pants and red cleats, for Homecoming at Camp Randall Stadium. Michigan State is expected in white.
+
+**What is North Carolina wearing against Notre Dame?**
+
+The 1980 throwbacks, confirmed by the program on October 1: a powder blue helmet with the stairstep UNC logo, a powder blue jersey with "Carolina" across the chest and white pants. It honors the 1980 ACC championship team in the 100th season of Kenan Stadium. Notre Dame is expected in white with the gold helmet.
 
 **What is Air Force wearing against Navy?**
 

@@ -3,8 +3,8 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-09-27"
-excerpt: "Wisconsin's 2026 uniform schedule: the red and white jerseys, the Motion W helmet, the all-red Lambeau Field alternate, and what the Badgers wear week by week."
+updatedDate: "2026-10-01"
+excerpt: "Wisconsin's 2026 uniform schedule: the Red Out with the red helmet for Michigan State, the all-red Lambeau alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
 kicker: Schedule
@@ -13,7 +13,7 @@ teams: ["wisconsin-badgers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Wisconsin opened 2026 in a uniform the program had never worn before, and then went straight back to one of the most settled wardrobes in the Big Ten. This is the full Wisconsin 2026 uniform schedule: the red home set, the white road set, the white Motion W helmet that goes with both, the all-red Lambeau Field alternate that already came and went, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Wisconsin opened 2026 in a uniform the program had never worn before, and then went straight back to one of the most settled wardrobes in the Big Ten. This is the full Wisconsin 2026 uniform schedule: the red home set, the white road set, the white Motion W helmet that goes with both, the all-red Lambeau Field alternate that already came and went, the Red Out with the red helmet for Homecoming against Michigan State, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Wisconsin 2026 Uniform Sets
 
@@ -21,10 +21,10 @@ Wisconsin opened 2026 in a uniform the program had never worn before, and then w
   <div style="background: #C5050C; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Red Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Cardinal red jersey with white numerals, white pants, white Motion W helmet.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with red numerals, white pants, same helmet.</div></div>
   <div style="background: #f1f3f8; color: #C5050C; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Motion W Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White shell, red facemask, the red Motion W on each side. Wisconsin's constant since the early 1990s.</div></div>
-  <div style="background: #7a0308; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">One in 2026: the all-red Lambeau Field set with silver numbers, worn once, against Notre Dame on September 6.</div></div>
+  <div style="background: #7a0308; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Two in 2026: the all-red Lambeau Field set with silver numbers against Notre Dame on September 6, and the Red Out with the red helmet against Michigan State on October 3.</div></div>
 </div>
 
-Under Armour has outfitted Wisconsin since July 2016 and the two sides agreed a ten-year extension in November 2025 that runs through 2036, so the brand behind every jersey on this page is not changing. The standard sets barely have either. Red over white at home, white over white on the road, and the white Motion W helmet with both. Big Ten home teams wear color and visitors wear white, which makes every remaining date on this page predictable until Wisconsin announces otherwise.
+Under Armour has outfitted Wisconsin since July 2016 and the two sides agreed a ten-year extension in November 2025 that runs through 2036, so the brand behind every jersey on this page is not changing. The standard sets barely have either. Red over white at home, white over white on the road, and the white Motion W helmet with both. Big Ten home teams wear color and visitors wear white, which makes every remaining date on this page predictable until Wisconsin announces otherwise, as it did for Homecoming.
 
 ## The Full Wisconsin 2026 Uniform Schedule, Week by Week
 
@@ -35,7 +35,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #C5050C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Motion W / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C5050C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #C5050C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red Out: Red / Red / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -54,7 +54,15 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 
 **September 26 at Penn State**, Beaver Stadium. ★ Confirmed from the game photos: **white helmet, white jersey, white pants**, all white. Penn State wore a white helmet, navy jersey and white pants. Big Ten opener, and the first road trip of the season in the white jersey. Wisconsin upset No. 13 Penn State 24-20. The Badgers trailed 17-0 in the second quarter, and Colton Joseph threw three interceptions, but he also threw two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left. Wisconsin is 3-1. See our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 
-**October 3 vs. Michigan State**, Camp Randall Stadium. Red expected. This is Homecoming, and Homecoming is the one date on a Wisconsin calendar that has produced a surprise recently: the Badgers wore Under Armour throwbacks for the 2025 Homecoming game against Iowa. Nothing has been announced for 2026, so red stays the expectation.
+**October 3 vs. Michigan State**, Camp Randall Stadium, 12:30 p.m. ET on BTN. ★ Confirmed by Wisconsin: **the Red Out, with the alternate red helmet.** It is Homecoming, and Homecoming delivered again. The helmet is red with a large white Motion W on each side, white center stripes and a white facemask. The jersey is the red home top with white block numbers outlined in red, two white sleeve stripes and the Bucky-in-the-W patch on the shoulder, plus the Culver's patch. Red pants and red cleats finish it, so it is red from the helmet to the shoes, the second time this season Wisconsin has gone all red after the Lambeau Field opener. The difference is the trim: Lambeau was silver, this one is white, which makes it read as a straight Wisconsin look rather than a Packers tribute. Michigan State is expected in white, so Camp Randall gets red against white with no confusion.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BadgerFootball/status/2105779797292908811"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Red Out reveal, via @BadgerFootball</p>
+
+For the other side of it, see our [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
 **October 10.** Bye.
 
@@ -74,13 +82,13 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 
 ## The Bottom Line
 
-Wisconsin spent its one alternate on the opener, and it spent it well. An all-red uniform with silver numbers at Lambeau Field was a first for the program and a sensible one, tied to the building rather than to a trend. From here the Badgers are back to the wardrobe everyone knows: red jersey and white pants at home, white over white on the road, the white Motion W helmet with both. The only date we would keep an eye on is October 3, because Homecoming produced a throwback a year ago, but nothing has been announced. Eleven predictable games and one memorable one is a good Wisconsin season, uniform-wise.
+Wisconsin spent its first alternate on the opener, and it spent it well. An all-red uniform with silver numbers at Lambeau Field was a first for the program and a sensible one, tied to the building rather than to a trend. Homecoming brought the second: the Red Out against Michigan State, red helmet with the white Motion W, red jersey, red pants, red cleats. We had flagged October 3 as the date to watch, and it paid off. After that the Badgers go back to the wardrobe everyone knows: red jersey and white pants at home, white over white on the road, the white Motion W helmet with both. Ten predictable games and two all-red ones is a good Wisconsin season, uniform-wise.
 
 ## Frequently Asked Questions
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Wisconsin upset No. 13 Penn State 24-20 on September 26 at Beaver Stadium in all white, white Motion W helmet, white jersey and white pants, confirmed from the game photos. Next is Michigan State at home on October 3, where red is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Wisconsin upset No. 13 Penn State 24-20 on September 26 at Beaver Stadium in all white, white Motion W helmet, white jersey and white pants, confirmed from the game photos. Next is Michigan State at home on October 3, Homecoming, and Wisconsin has confirmed the Red Out: the alternate red helmet with a white Motion W, red jersey with white numbers, red pants and red cleats. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 
@@ -92,7 +100,11 @@ Cardinal red jersey with white numerals, white pants and the white Motion W helm
 
 **Does Wisconsin have an alternate uniform in 2026?**
 
-One has been worn: the all-red Lambeau Field set against Notre Dame on September 6. No other alternate has been announced. Homecoming against Michigan State on October 3 is the date we would watch, since Wisconsin wore throwbacks for Homecoming in 2025, but red is the expectation until the school says otherwise.
+Two so far. The all-red Lambeau Field set with silver numbers was worn against Notre Dame on September 6, and Wisconsin has confirmed the Red Out for Homecoming against Michigan State on October 3: the alternate red helmet with a large white Motion W and white center stripes, the red jersey with white numbers, red pants and red cleats.
+
+**What is Wisconsin wearing against Michigan State?**
+
+The Red Out, confirmed by Wisconsin on October 1. Red helmet with a white Motion W, white stripes and a white facemask, red jersey with white numbers and two white sleeve stripes, red pants and red cleats, for Homecoming at Camp Randall Stadium on October 3. Michigan State is expected in white.
 
 **How many games does Wisconsin play in 2026?**
 
