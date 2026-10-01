@@ -29,7 +29,7 @@ export async function POST(request: Request) {
           body: JSON.stringify({
             email,
             reactivate_existing: false,
-            send_welcome_email: false, // Jake sends welcome emails himself from Gmail
+            send_welcome_email: true, // beehiiv welcome email (Jake's text + logo signature), on since 9/30
             utm_source: "colorwaysports.com",
             referring_site: "https://www.colorwaysports.com",
           }),
