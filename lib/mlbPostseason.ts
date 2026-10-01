@@ -30,7 +30,7 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
   "phillies",
   "braves",
   "white-sox",
-  "astros",
+  // "astros" eliminated 2026-09-30 (White Sox swept the Wild Card, 2-0)
   "red-sox",
   "yankees",
   "cubs",
