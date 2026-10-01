@@ -67,6 +67,8 @@ We have the Alpha Dawg brown alternate on the grid three times, all at home.
 
 **Week 4 against Pittsburgh on Thursday night is confirmed.** The Browns announced Alpha Dawg for the October 1 game at Huntington Bank Field: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. It is Cleveland's only home primetime date all season, against the rival the franchise cares about most, and the all-brown look under the lights against Pittsburgh's white and gold is about as strong a frame as the AFC North produces.
 
+<div style="background:#ececf0;border-radius:10px;height:260px;max-width:320px;margin:1.2em auto 0.6em;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/browns-alpha-dawg.jpg" alt="Cleveland Browns Alpha Dawg alternate jersey, brown with orange numbers, confirmed for Thursday Night Football against the Steelers on October 1, 2026" style="max-height:240px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div>
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2105451376851780040"></a></blockquote>
 </div>
