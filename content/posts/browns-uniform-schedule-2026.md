@@ -2,8 +2,8 @@
 title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and the Alpha Dawg Question"
 category: NFL
 date: "2026-08-16"
-excerpt: "We have the Browns in their Alpha Dawg brown alternate three times at home. Here is the full 2026 jersey schedule, week by week, with the brown, white and Alpha Dawg sets explained."
-updatedDate: "2026-09-25"
+excerpt: "The Browns confirmed Alpha Dawg, all brown, for Thursday night against Pittsburgh. Here is the full 2026 jersey schedule, week by week."
+updatedDate: "2026-10-01"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["cleveland-browns"]
 ---
 
-The Browns have one of the more interesting alternate closets in the AFC and, as of now, **no announced date for any of it.** Cleveland has published its 2026 schedule but not a uniform schedule, so this page gives you the week-by-week grid with our calls, including the Alpha Dawg brown alternate in Weeks 4, 10 and 14, plus the rest of the closet and where it fits.
+**The Browns have confirmed Alpha Dawg for Thursday Night Football against the Steelers on October 1:** the all-brown look, with the brown helmet and its orange center stripes, the brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is expected in white on the road. Cleveland has published its 2026 schedule but not a full uniform schedule, so the rest of this page is the week-by-week grid with our calls, including Alpha Dawg in Weeks 10 and 14, plus the rest of the closet and where it fits.
 
 ## The Full 2026 Browns Uniform Schedule, Week by Week
 
@@ -28,7 +28,7 @@ Eight home games at Huntington Bank Field, nine on the road, and a Week 11 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #311D00; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Brown</div></div>
   <div style="background: #311D00; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Brown &middot; Orange Pants</div></div>
-  <div style="background: #311D00; color: #ffffff; border: 2px solid #FF3C00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Alpha Dawg · TNF</div></div>
+  <div style="background: #311D00; color: #ffffff; border: 2px solid #FF3C00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Alpha Dawg · TNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #311D00; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Brown</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -45,7 +45,7 @@ Eight home games at Huntington Bank Field, nine on the road, and a Week 11 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**Only Week 2, already played, is marked as confirmed.** Cleveland has not published a uniform schedule for 2026. The rest of the grid is our call: brown at home and white on the road, with the Alpha Dawg brown alternate in three home games, Week 4 against Pittsburgh, Week 10 against Houston and Week 14 against Atlanta. Week 2 at Tampa Bay put the brown jersey on the road.
+**Starred weeks are confirmed by the team; Week 4, Alpha Dawg against Pittsburgh, is the newest.** Cleveland has not published a uniform schedule for 2026. The rest of the grid is our call: brown at home and white on the road, with the Alpha Dawg brown alternate in two more home games, Week 10 against Houston and Week 14 against Atlanta. Week 2 at Tampa Bay put the brown jersey on the road.
 
 ## The Browns Closet in 2026
 
@@ -65,9 +65,13 @@ League rules cap alternate helmets at three games a season, and Alpha Dawg and t
 
 We have the Alpha Dawg brown alternate on the grid three times, all at home.
 
-**Week 4 against Pittsburgh on Thursday night** is the headline. It is Cleveland's only home primetime date all season, it is the game the franchise cares most about, and the brown alternate under lights against a black-and-gold opponent is about as strong a frame as the AFC North produces.
+**Week 4 against Pittsburgh on Thursday night is confirmed.** The Browns announced Alpha Dawg for the October 1 game at Huntington Bank Field: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. It is Cleveland's only home primetime date all season, against the rival the franchise cares about most, and the all-brown look under the lights against Pittsburgh's white and gold is about as strong a frame as the AFC North produces.
 
-**Week 10 against Houston and Week 14 against Atlanta** are the other two. That is three games, which lines up with the league's three-game cap on alternate helmets.
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2105451376851780040"></a></blockquote>
+</div>
+
+**Week 10 against Houston and Week 14 against Atlanta** are our read for the other two, not yet announced. That would make three games, which lines up with the league's three-game cap on alternate helmets.
 
 **Week 12 against Las Vegas** matters for a different reason: the white alternate helmet with white jersey and orange pants made its debut against the Raiders in 2025. A repeat is the sort of small symmetry clubs like, though that one is a read, not on the grid.
 
@@ -92,7 +96,7 @@ We are not going to put it on the grid. If a waiver is granted and a date is nam
 ## How the Browns Rotation Works in 2026
 
 1. **Brown at home, white on the road**, unless the team designates otherwise.
-2. **Alpha Dawg gets three home games** on our grid, Weeks 4, 10 and 14. No date has been announced for the white helmet or a throwback.
+2. **Alpha Dawg is confirmed for Week 4** against Pittsburgh, and our grid has it in Weeks 10 and 14 too. No date has been announced for the white helmet or a throwback.
 3. **Alternate helmets are capped at three games**, and Cleveland has two of them.
 4. **The 1946 throwback needs a league waiver** to appear again.
 5. **Pants and helmet combinations** are a week-of call, as they are for every club.
@@ -101,7 +105,7 @@ We are not going to put it on the grid. If a waiver is granted and a date is nam
 
 Cleveland owns the best base uniform in the AFC North and spends a lot of energy trying to get away from it. The orange helmet and the brown jersey need nothing, and the fact that the franchise keeps building alternate helmets around a shell that is already the most distinctive in the league is the running joke of the whole wardrobe.
 
-That said, Alpha Dawg is genuinely good, and we have it three times this year, starting with the Thursday night game against Pittsburgh and following with Houston in Week 10 and Atlanta in Week 14.
+That said, Alpha Dawg is genuinely good, and the Browns have confirmed it for the Thursday night game against Pittsburgh, with Houston in Week 10 and Atlanta in Week 14 our read for the other two.
 
 How does every one of these jerseys stack up? See our [Browns jerseys 2026 ranking](/stories/browns-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 
@@ -109,11 +113,11 @@ How does every one of these jerseys stack up? See our [Browns jerseys 2026 ranki
 
 **What jersey are the Browns wearing today?**
 
-Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the three Alpha Dawg games: Week 4 against Pittsburgh, Week 10 against Houston and Week 14 against Atlanta.
+Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
 
 **What jerseys are the Browns wearing this week?**
 
-Brown with orange pants for the home opener against Carolina on Sunday, September 27. The Browns confirmed the orange pants on game week, under the orange helmet with the brown jersey, with the striped socks. Carolina comes in silver helmet, white jersey and Panther blue pants. Same rule. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
+Alpha Dawg, all brown, for Thursday Night Football against the Steelers on October 1. The Browns announced it on game week: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is expected in its road set, black helmet, white jersey and gold pants. Same rule for the rest of the season. Check whether Cleveland is home or away in the grid above. Home is brown, away is white, and the Alpha Dawg weeks are marked.
 
 **What uniform did the Browns wear last week?**
 
@@ -121,15 +125,15 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What jerseys do the Browns have in 2026?**
 
-Cleveland has not published a 2026 uniform schedule, so the grid is our call: three sets with games and one alternate route with no date. The base is the brown home jersey under the orange helmet, with white or brown pants, projected to five games at Huntington Bank Field, and the white road jersey under the same helmet, projected to eight of the nine away games; Week 2 at Tampa Bay was the brown jersey. Alpha Dawg, the brown alternate, takes the other three home games, Week 4 against Pittsburgh, Week 10 against Houston and Week 14 against Atlanta. The white alternate helmet introduced in 2023, worn with the white jersey and orange pants, has no date, and the league caps alternate helmets at three games a season. The 1946 throwback has already been worn the maximum number of times the league permits without a waiver, so it cannot come back in 2026 unless the NFL grants one. Nothing in the closet is new for 2026, and Week 1 at Jacksonville was the orange helmet, white jersey and white pants.
+Cleveland has not published a 2026 uniform schedule, so the grid is our call: three sets with games and one alternate route with no date. The base is the brown home jersey under the orange helmet, with white or brown pants, projected to five games at Huntington Bank Field, and the white road jersey under the same helmet, projected to eight of the nine away games; Week 2 at Tampa Bay was the brown jersey. Alpha Dawg, the brown alternate, is confirmed for Week 4 against Pittsburgh, and we have it in Week 10 against Houston and Week 14 against Atlanta. The white alternate helmet introduced in 2023, worn with the white jersey and orange pants, has no date, and the league caps alternate helmets at three games a season. The 1946 throwback has already been worn the maximum number of times the league permits without a waiver, so it cannot come back in 2026 unless the NFL grants one. Nothing in the closet is new for 2026, and Week 1 at Jacksonville was the orange helmet, white jersey and white pants.
 
 **When do the Browns wear the Alpha Dawg uniform in 2026?**
 
-We have it three times, all at home: Week 4 against Pittsburgh on Thursday night, Week 10 against Houston and Week 14 against Atlanta.
+Week 4 against Pittsburgh on Thursday night, October 1, is confirmed by the team. We have it twice more at home, Week 10 against Houston and Week 14 against Atlanta, which have not been announced.
 
 **What is the Browns Alpha Dawg uniform?**
 
-The all-brown look built around a brown alternate helmet instead of the standard orange one. It is the successor to the 2016 Color Rush uniform, with the helmet now matching the jersey and pants.
+The all-brown look built around a brown alternate helmet, with orange center stripes, instead of the standard orange one: brown helmet, brown jersey with orange numbers, brown pants and brown socks. It debuted in 2025 and is the successor to the 2016 Color Rush uniform, with the helmet now matching the jersey and pants.
 
 **Do the Browns have a white helmet?**
 

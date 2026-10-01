@@ -3,7 +3,7 @@ title: "NFL Week 4 Uniforms 2026: What Every Team Is Wearing, Including Giants L
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-29"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-01"
 excerpt: "NFL uniforms this week: the Giants wear Legacy Blue, Dallas goes navy in Houston, Atlanta wears red on Monday night and Crucial Catch begins."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 4 of the 2026 NFL season runs from Thursday, October 1 to Monday, October 5, and all 32 teams play, with no byes yet. The headline look is the New York Giants' **Legacy Blue** throwback against Arizona, worn for the 40th anniversary of the Super Bowl XXI team. Dallas takes its **navy** jersey to Houston, where the Texans answer in **white over navy pants with red socks**, the colors of their first-ever win in 2002, for their 25th Season game, Cleveland is expected in the **Alpha Dawg** brown alternate for Thursday night against Pittsburgh, Washington wears **burgundy** in London, and Atlanta stays in **red** for Monday night in New Orleans. It is also the first weekend of [Crucial Catch](/stories/nfl-crucial-catch-2026-schedule).
+Week 4 of the 2026 NFL season runs from Thursday, October 1 to Monday, October 5, and all 32 teams play, with no byes yet. The headline look is the New York Giants' **Legacy Blue** throwback against Arizona, worn for the 40th anniversary of the Super Bowl XXI team. Dallas takes its **navy** jersey to Houston, where the Texans answer in **white over navy pants with red socks**, the colors of their first-ever win in 2002, for their 25th Season game, Cleveland has confirmed **Alpha Dawg**, all brown from helmet to socks, for Thursday night against Pittsburgh, Washington wears **burgundy** in London, and Atlanta stays in **red** for Monday night in New Orleans. It is also the first weekend of [Crucial Catch](/stories/nfl-crucial-catch-2026-schedule).
 
 Below is every Week 4 look we know, starting with the special ones and then all 16 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played.
 
@@ -53,11 +53,15 @@ Navy is the jersey Dallas fans argue about most, and the schedule only hands it 
 
 ### Cleveland Browns: Alpha Dawg on Thursday Night
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, expected at Cleveland in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/browns-brown-home.jpg" alt="Cleveland Browns brown jersey, expected against the Steelers on Thursday Night Football in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, expected at Cleveland in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/browns-brown-home.jpg" alt="Cleveland Browns brown jersey, worn in the all-brown Alpha Dawg look against the Steelers on Thursday Night Football in Week 4 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Thursday, 8:15 p.m. ET, Prime Video. Expected on both sides.** This is Cleveland's only home primetime game of the season, and it is against the rival the franchise cares about most. Cleveland has not published a uniform schedule for 2026, so our read is the **Alpha Dawg brown alternate**, the all-brown look under the brown alternate helmet with brown pants. Pittsburgh is expected in its road set: **black helmet, white jersey, gold pants.**
+**Thursday, 8:15 p.m. ET, Prime Video. Browns confirmed, Steelers expected.** The Browns announced **Alpha Dawg** for their only home primetime game of the season: **brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks.** Pittsburgh has not announced its look, and with Cleveland in brown the Steelers are expected in their road set: **black helmet, white jersey, gold pants.**
 
-The brown alternate under the lights against black and gold is about as strong a frame as the AFC North produces, which is why we put it here. Neither club has announced this one, so treat both sides as our call until game week. More in our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2105451376851780040"></a></blockquote>
+</div>
+
+All brown under the lights against white and gold is about as strong a frame as the AFC North produces, and it is the right game for it, against the rival Cleveland cares about most. More in our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 ### Indianapolis Colts at Washington Commanders: Burgundy in London
 
@@ -102,7 +106,7 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 
 ### Thursday, October 1
 
-- **Pittsburgh Steelers at Cleveland Browns**, 8:15 p.m. ET, Prime Video. Steelers: black helmet, white jersey, gold pants (expected). Browns: Alpha Dawg brown alternate, brown helmet, brown jersey, brown pants (expected).
+- **Pittsburgh Steelers at Cleveland Browns**, 8:15 p.m. ET, Prime Video. Steelers: black helmet, white jersey, gold pants (expected). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants, brown socks (confirmed).
 
 ### Sunday, October 4
 
@@ -127,13 +131,13 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 
 ## The Bottom Line
 
-Week 4 is the throwback week. The Giants put the 1986 team's Legacy Blue on the field for its 40th anniversary, Cleveland is our pick to bring out Alpha Dawg on Thursday night, Dallas wears navy in Houston against the Texans' 2002 colors, Washington wears burgundy in London, and Atlanta stays in red for Monday night in the Superdome, all while Crucial Catch begins across the league. If you missed last week, our [Week 3 uniform guide](/stories/nfl-week-3-uniforms-2026) has every Week 3 look, and next week's looks, including the Patriots' Pat Patriot throwback and the Packers' Rivalries debut, are in our [Week 5 uniform guide](/stories/nfl-week-5-uniforms-2026). We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 4 is the throwback week. The Giants put the 1986 team's Legacy Blue on the field for its 40th anniversary, Cleveland brings out Alpha Dawg on Thursday night, Dallas wears navy in Houston against the Texans' 2002 colors, Washington wears burgundy in London, and Atlanta stays in red for Monday night in the Superdome, all while Crucial Catch begins across the league. If you missed last week, our [Week 3 uniform guide](/stories/nfl-week-3-uniforms-2026) has every Week 3 look, and next week's looks, including the Patriots' Pat Patriot throwback and the Packers' Rivalries debut, are in our [Week 5 uniform guide](/stories/nfl-week-5-uniforms-2026). We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
 **What uniforms are NFL teams wearing in Week 4 of 2026?**
 
-Most teams are in their standard sets, home in color and visitors in white. The special looks are the Giants' Legacy Blue throwback against the Cardinals, the Cowboys in navy at the Texans, who wear white over navy pants with red socks to recreate their first-ever win in 2002, the Browns expected in the Alpha Dawg brown alternate against the Steelers on Thursday night, the Commanders in burgundy against the Colts in London, the Falcons in red at the Saints on Monday night, and the Chargers in white over powder blue at Seattle.
+Most teams are in their standard sets, home in color and visitors in white. The special looks are the Giants' Legacy Blue throwback against the Cardinals, the Cowboys in navy at the Texans, who wear white over navy pants with red socks to recreate their first-ever win in 2002, the Browns in Alpha Dawg, all brown, against the Steelers on Thursday night, the Commanders in burgundy against the Colts in London, the Falcons in red at the Saints on Monday night, and the Chargers in white over powder blue at Seattle.
 
 **When do the Giants wear the Legacy Blue throwback in 2026?**
 
@@ -150,6 +154,10 @@ The navy helmet, white jersey, navy pants and red socks, the color scheme Housto
 **What are the Colts and Commanders wearing in London?**
 
 Washington is the designated home team at Tottenham Hotspur Stadium and wears its burgundy jersey, which its published schedule confirms. Indianapolis is expected in its white road set. Kickoff is 9:30 a.m. Eastern on Sunday, October 4, on NFL Network.
+
+**What are the Browns wearing against the Steelers on Thursday Night Football?**
+
+Alpha Dawg, the all-brown look. The Browns confirmed brown helmet with orange center stripes, brown jersey with orange numbers, brown pants and brown socks for Thursday, October 1 at Huntington Bank Field. Pittsburgh is expected in black helmet, white jersey and gold pants.
 
 **Why are the Falcons wearing red at New Orleans?**
 

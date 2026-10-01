@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-09-23"
+updatedDate: "2026-10-01"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -74,6 +74,8 @@ The black jersey with the gold numbers does not need discussing much. It has bar
 
 Weeks 2, 4, 7, 11, 14, 17 and 18. Pittsburgh plays more road games than home games this season, which is what happens when one of your home games is shipped overseas.
 
+**Week 4 at Cleveland, Thursday Night Football on October 1:** the Browns have confirmed **Alpha Dawg**, all brown from the brown helmet to the brown socks, so Pittsburgh is expected in its road set, black helmet, white jersey and gold pants, the same look it wore at New England in Week 2. The Browns' side, with their announcement, is on our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+
 ## Black in Tampa and Cincinnati (Weeks 6 and 10)
 
 Two road games put the Steelers in black, and both are the home team's call. Tampa Bay wears white at home in Week 6, so Pittsburgh wears black at Raymond James Stadium. In Week 10 it is Cincinnati's call. The Bengals have confirmed their **White Bengal** alternate for the Sunday night game on November 15, and since the home team declares first and two clubs cannot both wear white, Pittsburgh wears black with gold numbers against the white tiger stripes. Our [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) has their side.
@@ -108,7 +110,7 @@ Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with 
 
 **What jerseys are the Steelers wearing this week?**
 
-Same rule. Check whether Pittsburgh is home or away in the grid above. Home is black, away is white, and the exceptions are marked.
+White on the road at Cleveland on Thursday Night Football, October 1: black helmet, white jersey and gold pants are expected. The Browns have confirmed their all-brown Alpha Dawg look for the game. After that, same rule. Check whether Pittsburgh is home or away in the grid above. Home is black, away is white, and the exceptions are marked.
 
 **What uniform did the Steelers wear last week?**
 
