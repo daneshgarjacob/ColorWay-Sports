@@ -39,6 +39,26 @@ for (const d of sched.dates ?? []) {
   }
 }
 
+// Postseason: once the regular season is over, a club with no postseason game on
+// or after this date is finished for the year, and its block says so instead of
+// "check back on the next home date" (2026-10-02: the Astros still read that two
+// days after the White Sox eliminated them).
+const SEASON_END = "2026-09-27";
+const ROUND = { F: "Wild Card Series", D: "Division Series", L: "League Championship Series", W: "World Series" };
+const alive = new Set();
+const lastPlayed = {}; // team name -> { last: "YYYY-MM-DD", round }
+if (date > SEASON_END) {
+  const ps = await fetch(`https://statsapi.mlb.com/api/v1/schedule/postseason/series?sportId=1&season=${date.slice(0, 4)}`).then((r) => r.json()).catch(() => ({}));
+  for (const s of ps.series ?? []) for (const g of s.games ?? []) for (const side of ["home", "away"]) {
+    const n = g.teams?.[side]?.team?.name; if (!TEAMS[n]) continue;
+    const st = g.status?.detailedState ?? "";
+    if (g.officialDate >= date && !/Cancel/i.test(st)) alive.add(n);
+    if (st === "Final" && (!lastPlayed[n] || g.officialDate > lastPlayed[n].last))
+      lastPlayed[n] = { last: g.officialDate, round: ROUND[String(s.series?.id ?? "").charAt(0)] ?? "postseason" };
+  }
+}
+const seasonOver = (team) => date > SEASON_END && !alive.has(team);
+
 const fmtLocal = (iso, tz) =>
   new Date(iso).toLocaleTimeString("en-US", { timeZone: tz, hour: "numeric", minute: "2-digit" });
 const zoneAbbr = (iso, tz) =>
@@ -136,6 +156,19 @@ for (const [team, t] of Object.entries(TEAMS)) {
       reason,
     };
     console.log(`  ${t.short.padEnd(14)} ${status.padEnd(6)} ${f.temp}F rain ${f.rain}% hum ${f.hum}%`);
+  } else if (seasonOver(team)) {
+    const out = lastPlayed[team];
+    const ended = out
+      ? `The ${t.short}' 2026 season ended in the ${out.round} on ${new Date(out.last + "T12:00:00Z").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" })}.`
+      : `The ${t.short} finished their 2026 season on Sunday, September 27.`;
+    fields = {
+      status: "SEASON OVER",
+      color: GRAY,
+      sub: "Back in 2027",
+      line: ended,
+      reason: `No more games at ${t.venue} this year. The roof question returns on Opening Day 2027.`,
+    };
+    console.log(`  ${t.short.padEnd(14)} SEASON OVER`);
   } else {
     const away = homeToday.get(team + "::away");
     const oppCity = away ? away.at.split(" ").slice(0, -1).join(" ") : null;

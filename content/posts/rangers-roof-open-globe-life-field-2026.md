@@ -26,10 +26,10 @@ The Globe Life Field roof is closed for the vast majority of Texas Rangers home 
     <span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.85);">Saturday, October 3, 2026</span>
   </div>
   <div style="padding: 1.5em; text-align: center; background: #ffffff;">
-    <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">NO HOME GAME</div>
-    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Rangers home date</div>
-    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Rangers are not at home today.</div>
-    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No game at Globe Life Field today. The roof question returns with the next homestand.</div>
+    <div style="font-size: 2.6em; font-weight: 900; color: #5a6472; line-height: 1;">SEASON OVER</div>
+    <div style="font-size: 0.8em; color: #777; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div>
+    <div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Rangers finished their 2026 season on Sunday, September 27.</div>
+    <div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">No more games at Globe Life Field this year. The roof question returns on Opening Day 2027.</div>
     <a href="https://x.com/GLFroof" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #003278; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none; letter-spacing: 0.5px;">Confirm live on @GLFroof &rarr;</a>
   </div>
 </div>
