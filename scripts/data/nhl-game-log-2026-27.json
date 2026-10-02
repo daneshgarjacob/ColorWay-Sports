@@ -1,0 +1,42 @@
+{
+  "_readme": [
+    "Sweater log for the 32 NHL team schedule posts. Read by scripts/gen-nhl-schedule-tables.mjs.",
+    "Key = '<YYYY-MM-DD> <AWAY>@<HOME>' using NHL tricodes (game date as the NHL API lists it).",
+    "Any side you leave out falls back to the league default: 'Home Dark' for the home team, 'Road White' for the visitor.",
+    "Per side: call = text shown in the row, color = optional hex for the call text (thirds), note = internal only.",
+    "confirmed: true = we SAW both sweaters (ESPN game photos/highlight frames, team graphic or gallery). Rows render 'Confirmed' in green.",
+    "Without confirmed, a row stays 'Expected' (use that for announced specials before the game, e.g. Screaming Eagle nights).",
+    "Final scores are NOT stored here: the generator reads them live from the NHL API and prints W/L on every played row.",
+    "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then node scripts/gen-nhl-schedule-tables.mjs"
+  ],
+  "games": {
+    "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },
+    "2026-09-29 MTL@TOR": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-09-29 NYR@BOS": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-09-29 VAN@EDM": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-09-29 CHI@VGK": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-09-30 PIT@PHI": { "confirmed": true, "source": "ESPN game photos", "away": { "call": "Road White + 60th Helmet Logo" } },
+    "2026-09-30 NYI@TOR": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-09-30 LAK@COL": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 BUF@CBJ": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 PHI@NJD": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 TBL@NYR": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 MIN@NSH": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 SEA@CGY": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 CHI@UTA": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 EDM@VAN": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-01 FLA@SJS": { "confirmed": true, "source": "ESPN game photos" },
+
+    "2026-10-03 MTL@PIT": { "home": { "call": "Home Dark + 60th Patch", "note": "Penguins announced 9/29: 60th logo on the shoulders for the home opener" } },
+    "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2026-11-14 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2026-12-26 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2027-01-16 COL@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2027-01-22 NYI@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2027-02-16 ANA@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2027-03-26 BOS@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2027-04-03 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } }
+  }
+}

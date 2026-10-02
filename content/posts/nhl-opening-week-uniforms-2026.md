@@ -3,7 +3,7 @@ title: "NHL Opening Week Uniforms 2026: What Every Team Is Wearing, Including th
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-09-30"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-02"
 excerpt: "NHL opening week uniforms 2026: all 34 games from September 30 to October 4, Penguins 60th anniversary patch, Flyers-Penguins at 60 and every home opener."
 gradient: "linear-gradient(135deg, #0038A8 0%, #14284b 100%)"
 cardStyle: words
@@ -14,9 +14,9 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-The 2026-27 NHL season's first full week runs from Wednesday, September 30 through Sunday, October 4, and it is 34 games in five nights. The headline look is in Pittsburgh: the **Penguins** wear their new **60th anniversary logo** on their helmets all season, starting tonight in Philadelphia, and add it as a **shoulder patch** for the home opener against Montreal on Saturday. Tonight's opener against the **Flyers** is also season 60 for both 1967 expansion clubs, and the **Kings** start their own 60th season at Colorado.
+The 2026-27 NHL season's first full week runs from Wednesday, September 30 through Sunday, October 4, and it is 34 games in five nights. The headline look is in Pittsburgh: the **Penguins** wear their new **60th anniversary logo** on their helmets all season, starting with Wednesday's 7-0 win in Philadelphia, and add it as a **shoulder patch** for the home opener against Montreal on Saturday. That opener against the **Flyers** was also season 60 for both 1967 expansion clubs, and the **Kings** started their own 60th season at Colorado.
 
-Below is every opening-week look we know, the specials first and then all 34 games in order. **Confirmed** means the team has announced the sweater or the detail. **Expected** is the NHL default, the dark sweater at home and the white on the road, and it is replaced with what was actually worn on each club's uniform schedule page once the game is played. Every team's full closet and 84-game schedule lives in our [NHL uniform schedule hub](/stories/nhl-uniform-schedule-2026-27).
+Below is every opening-week look we know, the specials first and then all 34 games in order. **Confirmed** means the team announced the sweater or the detail, or we checked game photos and saw it on the ice. **Expected** is the NHL default, the dark sweater at home and the white on the road. Wednesday and Thursday are in the books, with final scores below, and all 11 games were standard sets: every home team in its dark sweater, every visitor in white. What each club wore is also logged, game by game, on its uniform schedule page. Every team's full closet and 84-game schedule lives in our [NHL uniform schedule hub](/stories/nhl-uniform-schedule-2026-27).
 
 ## The Opening Week Specials
 
@@ -25,21 +25,21 @@ Below is every opening-week look we know, the specials first and then all 34 gam
 <img src="/images/posts/penguins-uniform-schedule-2026-27/penguins-60th-anniversary-logo.jpg" alt="Pittsburgh Penguins 60th anniversary logo, a black 60 with the skating penguin inside the 6 and five gold stars arched over the 0, on a cream graphic with black and gold stripes" style="width:100%;max-width:760px;display:block;margin:1.4em auto 0;border-radius:12px;border:1px solid #ececec;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Pittsburgh Penguins</p>
 
-**Tonight at Philadelphia, 7:30 p.m. ET, and Saturday vs Montreal, 7 p.m. ET. Confirmed.** The Penguins announced the logo on September 29. The club calls it retro-inspired: a bold black **60** with the skating penguin in its triangle set inside the loop of the 6, **five gold stars** for the five Stanley Cups arched over the 0, and **gold, white and black stripes** for Pittsburgh's Three Rivers. The team says it goes on the players' **helmets for every home and road game** this season, which means it debuts tonight on the road whites at the Flyers, and it goes on the **shoulders of the jerseys for the home opener** against the Canadiens on Saturday, October 3, after a pregame ceremony. Those game-worn sweaters are being sold later in the season.
+**Wednesday at Philadelphia (won 7-0) and Saturday vs Montreal, 7 p.m. ET. Confirmed.** The Penguins announced the logo on September 29. The club calls it retro-inspired: a bold black **60** with the skating penguin in its triangle set inside the loop of the 6, **five gold stars** for the five Stanley Cups arched over the 0, and **gold, white and black stripes** for Pittsburgh's Three Rivers. The team says it goes on the players' **helmets for every home and road game** this season, which means it debuted Wednesday with the road whites at the Flyers, and it goes on the **shoulders of the jerseys for the home opener** against the Canadiens on Saturday, October 3, after a pregame ceremony. Those game-worn sweaters are being sold later in the season.
 
 For Saturday, that is the black home with the anniversary mark on the shoulders against Montreal's road white, one of the best color pairings in the league with an extra layer on top. The full rundown, including every 60th anniversary night, is in our [Penguins uniform schedule](/stories/penguins-uniform-schedule-2026-27).
 
 ### Penguins at Flyers: Two Clubs at 60 on Opening Night
 
-**Wednesday, 7:30 p.m. ET, TNT. Expected, plus the Penguins' helmet logo.** The Flyers and Penguins entered the league together in the 1967 expansion, and they open season 60 against each other at Xfinity Mobile Arena. Philadelphia's home opener giveaway is a T-shirt, and the Flyers have not announced an anniversary logo, patch or sweater, so we expect the **burnt orange** home against Pittsburgh's **road white**. The Flyers' ten Independence Edition nights for the country's 250th start in November. [Flyers uniform schedule](/stories/flyers-uniform-schedule-2026-27).
+**Final: Penguins 7, Flyers 0. Confirmed, plus the Penguins' helmet logo.** The Flyers and Penguins entered the league together in the 1967 expansion, and they opened season 60 against each other at Xfinity Mobile Arena. The Flyers have not announced an anniversary logo, patch or sweater, and they wore the **burnt orange** home against Pittsburgh's **road white**. The Flyers' ten Independence Edition nights for the country's 250th start in November. [Flyers uniform schedule](/stories/flyers-uniform-schedule-2026-27).
 
 ### Kings at Avalanche: Season 60 for Los Angeles
 
-**Wednesday, 10 p.m. ET, TNT. Expected.** The Kings' 60th anniversary logo is a black 60 with the original 1967 silver crown, but no patch or anniversary sweater has been announced, so we expect the Kings in **road white** and Colorado in **burgundy** for its home opener. One thing to watch: Los Angeles surprise-unveiled its black crown alternate on opening night last season. The Kings' own 60th home opener is Tuesday, October 6 against Florida, with a retro goalie-mask giveaway. [Kings uniform schedule](/stories/los-angeles-kings-uniform-schedule-2026-27) and [Avalanche uniform schedule](/stories/avalanche-uniform-schedule-2026-27).
+**Final: Avalanche 8, Kings 4. Confirmed.** The Kings' 60th anniversary logo is a black 60 with the original 1967 silver crown, but no patch or anniversary sweater has been announced, and the Kings wore **road white** against Colorado's **burgundy** home opener look. There was no repeat of last season, when Los Angeles surprise-unveiled its black crown alternate on opening night. The Kings' own 60th home opener is Tuesday, October 6 against Florida, with a retro goalie-mask giveaway. [Kings uniform schedule](/stories/los-angeles-kings-uniform-schedule-2026-27) and [Avalanche uniform schedule](/stories/avalanche-uniform-schedule-2026-27).
 
 ### Vancouver Canucks: The RBC Patch Arrives at Home
 
-**Thursday vs Edmonton, 10 p.m. ET. Expected.** The only change to a primary sweater anywhere in the NHL this season is the **RBC** mark replacing TD on the Canucks' home jersey. It is on the home sweater only, so Thursday's home opener against the Oilers is its first regular-season game. Vancouver plays three home games this week, all expected in the navy orca home. [Canucks uniform schedule](/stories/canucks-uniform-schedule-2026-27).
+**Final: Oilers 9, Canucks 7. Confirmed.** The only change to a primary sweater anywhere in the NHL this season is the **RBC** mark replacing TD on the Canucks' home jersey. It is on the home sweater only, so Thursday's wild home opener against the Oilers, played in the navy orca home against Edmonton's white, was its first regular-season game. Vancouver's other two home games this week, Saturday against Calgary and Sunday against Vegas, are expected in the same navy home. [Canucks uniform schedule](/stories/canucks-uniform-schedule-2026-27).
 
 ### Carolina Hurricanes: The Champions' First Week
 
@@ -60,20 +60,20 @@ The Capitals open Friday at Carolina and Saturday at Tampa Bay, both in **road w
 
 ### Wednesday, September 30
 
-- **New York Islanders at Toronto Maple Leafs**, 7:30 p.m. ET. [New York Islanders](/stories/islanders-uniform-schedule-2026-27): road white (expected). [Toronto Maple Leafs](/stories/maple-leafs-uniform-schedule-2026-27): blue home (expected).
-- **Pittsburgh Penguins at Philadelphia Flyers**, 7:30 p.m. ET. [Pittsburgh Penguins](/stories/penguins-uniform-schedule-2026-27): white, with the new 60th anniversary logo on the helmets (confirmed). [Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27): burnt orange home (expected).
-- **Los Angeles Kings at Colorado Avalanche**, 10 p.m. ET. [Los Angeles Kings](/stories/los-angeles-kings-uniform-schedule-2026-27): road white (expected). [Colorado Avalanche](/stories/avalanche-uniform-schedule-2026-27): burgundy home (expected).
+- **New York Islanders at Toronto Maple Leafs**. Final: Maple Leafs 2, Islanders 1. [New York Islanders](/stories/islanders-uniform-schedule-2026-27): road white (confirmed). [Toronto Maple Leafs](/stories/maple-leafs-uniform-schedule-2026-27): blue home (confirmed).
+- **Pittsburgh Penguins at Philadelphia Flyers**. Final: Penguins 7, Flyers 0. [Pittsburgh Penguins](/stories/penguins-uniform-schedule-2026-27): white, with the new 60th anniversary logo on the helmets (confirmed). [Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27): burnt orange home (confirmed).
+- **Los Angeles Kings at Colorado Avalanche**. Final: Avalanche 8, Kings 4. [Los Angeles Kings](/stories/los-angeles-kings-uniform-schedule-2026-27): road white (confirmed). [Colorado Avalanche](/stories/avalanche-uniform-schedule-2026-27): burgundy home (confirmed).
 
 ### Thursday, October 1
 
-- **Buffalo Sabres at Columbus Blue Jackets**, 7 p.m. ET. [Buffalo Sabres](/stories/sabres-uniform-schedule-2026-27): road white (expected). [Columbus Blue Jackets](/stories/blue-jackets-uniform-schedule-2026-27): navy home (expected).
-- **Philadelphia Flyers at New Jersey Devils**, 7 p.m. ET. [Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27): road white (expected). [New Jersey Devils](/stories/devils-uniform-schedule-2026-27): red home (expected).
-- **Tampa Bay Lightning at New York Rangers**, 7 p.m. ET. [Tampa Bay Lightning](/stories/lightning-uniform-schedule-2026-27): road white (expected). [New York Rangers](/stories/new-york-rangers-uniform-schedule-2026-27): Broadway blue home (expected).
-- **Minnesota Wild at Nashville Predators**, 8 p.m. ET. [Minnesota Wild](/stories/minnesota-wild-uniform-schedule-2026-27): road white (expected). [Nashville Predators](/stories/predators-uniform-schedule-2026-27): gold home (expected).
-- **Seattle Kraken at Calgary Flames**, 9 p.m. ET. [Seattle Kraken](/stories/seattle-kraken-uniform-schedule-2026-27): road white (expected). [Calgary Flames](/stories/flames-uniform-schedule-2026-27): red home (expected).
-- **Chicago Blackhawks at Utah Mammoth**, 9:30 p.m. ET. [Chicago Blackhawks](/stories/blackhawks-uniform-schedule-2026-27): road white (expected). [Utah Mammoth](/stories/utah-mammoth-uniform-schedule-2026-27): rock black home (expected).
-- **Edmonton Oilers at Vancouver Canucks**, 10 p.m. ET. [Edmonton Oilers](/stories/oilers-uniform-schedule-2026-27): road white (expected). [Vancouver Canucks](/stories/canucks-uniform-schedule-2026-27): navy orca home with the new RBC mark (expected).
-- **Florida Panthers at San Jose Sharks**, 10 p.m. ET. [Florida Panthers](/stories/florida-panthers-uniform-schedule-2026-27): road white (expected). [San Jose Sharks](/stories/sharks-uniform-schedule-2026-27): Pacific teal home (expected).
+- **Buffalo Sabres at Columbus Blue Jackets**. Final: Blue Jackets 6, Sabres 3. [Buffalo Sabres](/stories/sabres-uniform-schedule-2026-27): road white (confirmed). [Columbus Blue Jackets](/stories/blue-jackets-uniform-schedule-2026-27): navy home (confirmed).
+- **Philadelphia Flyers at New Jersey Devils**. Final: Devils 3, Flyers 2 (OT). [Philadelphia Flyers](/stories/flyers-uniform-schedule-2026-27): road white (confirmed). [New Jersey Devils](/stories/devils-uniform-schedule-2026-27): red home (confirmed).
+- **Tampa Bay Lightning at New York Rangers**. Final: Rangers 5, Lightning 1. [Tampa Bay Lightning](/stories/lightning-uniform-schedule-2026-27): road white (confirmed). [New York Rangers](/stories/new-york-rangers-uniform-schedule-2026-27): Broadway blue home (confirmed).
+- **Minnesota Wild at Nashville Predators**. Final: Wild 3, Predators 1. [Minnesota Wild](/stories/minnesota-wild-uniform-schedule-2026-27): road white (confirmed). [Nashville Predators](/stories/predators-uniform-schedule-2026-27): gold home (confirmed).
+- **Seattle Kraken at Calgary Flames**. Final: Kraken 6, Flames 1. [Seattle Kraken](/stories/seattle-kraken-uniform-schedule-2026-27): road white (confirmed). [Calgary Flames](/stories/flames-uniform-schedule-2026-27): red home (confirmed).
+- **Chicago Blackhawks at Utah Mammoth**. Final: Mammoth 6, Blackhawks 0. [Chicago Blackhawks](/stories/blackhawks-uniform-schedule-2026-27): road white (confirmed). [Utah Mammoth](/stories/utah-mammoth-uniform-schedule-2026-27): rock black home (confirmed).
+- **Edmonton Oilers at Vancouver Canucks**. Final: Oilers 9, Canucks 7. [Edmonton Oilers](/stories/oilers-uniform-schedule-2026-27): road white (confirmed). [Vancouver Canucks](/stories/canucks-uniform-schedule-2026-27): navy orca home with the new RBC mark (confirmed).
+- **Florida Panthers at San Jose Sharks**. Final: Sharks 4, Panthers 3 (OT). [Florida Panthers](/stories/florida-panthers-uniform-schedule-2026-27): road white (confirmed). [San Jose Sharks](/stories/sharks-uniform-schedule-2026-27): Pacific teal home (confirmed).
 
 ### Friday, October 2
 
@@ -109,13 +109,13 @@ The Capitals open Friday at Carolina and Saturday at Tampa Bay, both in **road w
 
 ## The Bottom Line
 
-NHL opening week is a standard-sets week with an anniversary story on top. The Penguins' new 60th logo goes on their helmets tonight and on their shoulders Saturday, Pittsburgh and Philadelphia open season 60 against each other, the Kings start their own 60th in Denver, Vancouver's RBC patch debuts at home and 20 clubs play their home openers. No third jerseys are scheduled until October 7, and Hometown Remix is still to come. We log what every team actually wears on its [2026-27 uniform schedule page](/stories/nhl-uniform-schedule-2026-27), and every new sweater this season is in [New NHL Jerseys 2026-27](/stories/new-nhl-jerseys-2026-27).
+NHL opening week is a standard-sets week with an anniversary story on top. Through Thursday, all 11 games went dark at home and white on the road, and we checked every one. The Penguins' new 60th logo went on their helmets for a 7-0 win in Philadelphia and goes on their shoulders Saturday, the Kings opened their 60th season with a loss in Denver, Vancouver's RBC patch debuted in a 9-7 loss to Edmonton and 20 clubs play their home openers this week. No third jerseys are scheduled until October 7, and Hometown Remix is still to come. We log what every team actually wears on its [2026-27 uniform schedule page](/stories/nhl-uniform-schedule-2026-27), and every new sweater this season is in [New NHL Jerseys 2026-27](/stories/new-nhl-jerseys-2026-27).
 
 ## Frequently Asked Questions
 
 **What uniforms are NHL teams wearing in opening week 2026?**
 
-Standard sets. The NHL default is the dark sweater at home and the white on the road, and no team has scheduled a third jersey between September 30 and October 4. The special details are the Penguins' 60th anniversary logo on their helmets all week and on their shoulders for the October 3 home opener, and the Canucks' new RBC patch on their home sweater.
+Standard sets. The NHL default is the dark sweater at home and the white on the road, every team followed it in the first 11 games of the week, and no team has scheduled a third jersey between September 30 and October 4. The special details are the Penguins' 60th anniversary logo on their helmets all week and on their shoulders for the October 3 home opener, and the Canucks' new RBC patch on their home sweater.
 
 **What is the Penguins' 60th anniversary logo?**
 
@@ -123,7 +123,7 @@ A retro-inspired mark with a black 60, the skating penguin set inside the 6, fiv
 
 **Are the Flyers wearing a 60th anniversary patch?**
 
-Not as of opening night. Philadelphia is celebrating its 60th season with theme nights and giveaways, but the club has not announced an anniversary logo, patch or sweater. We expect the burnt orange home against Pittsburgh on September 30.
+Not as of opening night. Philadelphia is celebrating its 60th season with theme nights and giveaways, but the club has not announced an anniversary logo, patch or sweater. The Flyers wore their burnt orange home against Pittsburgh on September 30 and white at New Jersey on October 1.
 
 **When do the Capitals wear the Screaming Eagle jersey in 2026-27?**
 
