@@ -3,7 +3,7 @@ title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and th
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns confirmed Alpha Dawg, all brown, for Thursday night against Pittsburgh. Here is the full 2026 jersey schedule, week by week."
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-02"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -65,7 +65,7 @@ League rules cap alternate helmets at three games a season, and Alpha Dawg and t
 
 We have the Alpha Dawg brown alternate on the grid three times, all at home.
 
-**Week 4 against Pittsburgh on Thursday night is confirmed.** The Browns announced Alpha Dawg for the October 1 game at Huntington Bank Field: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. It is Cleveland's only home primetime date all season, against the rival the franchise cares about most. **Our verdict: C-.** Brown from helmet to socks leaves nothing to break up the silhouette, the orange numbers are the only contrast and they read small on TV, and it trades away the orange helmet, the most distinctive shell in the league, in the one game where Cleveland has the national stage. Pittsburgh's white and gold holds up its end; the Browns side is what sinks the grade. The full card is in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
+**Week 4 against Pittsburgh on Thursday night is confirmed.** The Browns announced Alpha Dawg for the October 1 game at Huntington Bank Field: brown helmet with the orange center stripes, brown jersey with orange numbers, brown pants and brown socks. It is Cleveland's only home primetime date all season, against the rival the franchise cares about most. **Our verdict: C-.** Brown from helmet to socks leaves nothing to break up the silhouette, the orange numbers are the only contrast and they read small on TV, and it trades away the orange helmet, the most distinctive shell in the league, in the one game where Cleveland has the national stage. Pittsburgh's white and gold holds up its end; the Browns side is what sinks the grade. The look did not hurt on the scoreboard: Cleveland won 27-24. The full card is in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 <div style="background:#ececf0;border-radius:10px;height:260px;max-width:320px;margin:1.2em auto 0.6em;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/browns-alpha-dawg.jpg" alt="Cleveland Browns Alpha Dawg alternate jersey, brown with orange numbers, confirmed for Thursday Night Football against the Steelers on October 1, 2026" style="max-height:240px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div>
 

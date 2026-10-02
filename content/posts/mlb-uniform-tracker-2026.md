@@ -6,7 +6,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-02"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded-v4.jpg"
@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, October 1
 
-Game 3 of the Wild Card Series, and the only one of the four that needed a third game. With the season on the line at Truist Park (8:00 p.m. ET), Atlanta finally changed clothes: after home whites in Games 1 and 2, the Braves came out in their red alternate jersey over home white pants with the red-billed cap. The Phillies stayed in road gray with the red cap for the third straight game. Red against gray is the best look of the series, a real October uniform for a winner-take-all night, and we grade it an **A-**. The winner heads to Los Angeles to face the Dodgers in the Division Series. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Game 3 of the Wild Card Series, and the only one of the four that needed a third game. With the season on the line at Truist Park (8:00 p.m. ET), Atlanta finally changed clothes: after home whites in Games 1 and 2, the Braves came out in their red alternate jersey over home white pants with the red-billed cap. The Phillies stayed in road gray with the red cap for the third straight game. Red against gray is the best look of the series, a real October uniform for a winner-take-all night, and we grade it an **A-**. The Braves won it 6-2 to take the series 2-1, ending Philadelphia's season, and Atlanta heads to Los Angeles to face the Dodgers in the Division Series. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ Game 3 of the Wild Card Series, and the only one of the four that needed a third
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Braves 6, Phillies 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">

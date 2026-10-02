@@ -27,7 +27,7 @@ const TEAM_NAMES: Record<string, string> = {
 // THE FIELD. Remove a team when it's eliminated. Nothing else has to change:
 // its chip disappears, and its opponent's chip flips to "Advanced".
 export const MLB_POSTSEASON_ALIVE: string[] = [
-  "phillies",
+  // "phillies" eliminated 2026-10-01 (Braves won the Wild Card, 2-1)
   "braves",
   "white-sox",
   // "astros" eliminated 2026-09-30 (White Sox swept the Wild Card, 2-0)
@@ -45,10 +45,10 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
 // this list, then any alive team not in a series (the byes). Optional to update:
 // when a round ends, replace these with the next round's matchups.
 export const MLB_POSTSEASON_SERIES: { round: string; away: string; home: string }[] = [
-  { round: "NL Wild Card", away: "phillies", home: "braves" },
-  { round: "AL Wild Card", away: "white-sox", home: "astros" },
-  { round: "AL Wild Card", away: "red-sox", home: "yankees" },
-  { round: "NL Wild Card", away: "cubs", home: "padres" },
+  { round: "ALDS", away: "white-sox", home: "guardians" },
+  { round: "NLDS", away: "braves", home: "dodgers" },
+  { round: "ALDS", away: "yankees", home: "rays" },
+  { round: "NLDS", away: "padres", home: "brewers" },
 ];
 // Where the teams without a series are waiting.
 const BYE_LABEL = "Bye · Division Series";

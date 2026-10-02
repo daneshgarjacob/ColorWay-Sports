@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-02"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -74,7 +74,7 @@ The black jersey with the gold numbers does not need discussing much. It has bar
 
 Weeks 2, 4, 7, 11, 14, 17 and 18. Pittsburgh plays more road games than home games this season, which is what happens when one of your home games is shipped overseas.
 
-**Week 4 at Cleveland, Thursday Night Football on October 1:** the Browns have confirmed **Alpha Dawg**, all brown from the brown helmet to the brown socks, and Pittsburgh is confirmed in its road set, black helmet, white jersey, gold pants and black socks, the same look it wore at New England in Week 2. The Browns' side, with their announcement, is on our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+**Week 4 at Cleveland, Thursday Night Football on October 1:** the Browns have confirmed **Alpha Dawg**, all brown from the brown helmet to the brown socks, and Pittsburgh is confirmed in its road set, black helmet, white jersey, gold pants and black socks, the same look it wore at New England in Week 2. Cleveland won 27-24. The Browns' side, with their announcement, is on our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
 
 ## Black in Tampa and Cincinnati (Weeks 6 and 10)
 

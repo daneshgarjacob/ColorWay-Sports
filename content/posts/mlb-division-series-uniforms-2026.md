@@ -4,8 +4,8 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-30"
-updatedDate: "2026-10-01"
-excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and the Dodgers. Home and road sets, October history and every date."
+updatedDate: "2026-10-02"
+excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and Braves at Dodgers. Home and road sets, October history and every date."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
 kicker: "Explainer"
@@ -19,9 +19,10 @@ teams:
   - new-york-yankees
   - chicago-white-sox
   - san-diego-padres
+  - atlanta-braves
 ---
 
-What are the teams wearing in the Division Series? Three of the four matchups are set: the **Yankees at the Rays** and the **White Sox at the Guardians** in the ALDS, and the **Padres at the Brewers** in the NLDS. The Dodgers get the Braves-Phillies winner, decided in Game 3 on Thursday night. All four series open on **Saturday, October 3**, at the top seeds' parks. Below is every ALDS and NLDS date, each team's home and road set, what they wore in their most recent October home games, and what they have worn down the stretch in 2026. We will fill in the opponent's jerseys as each Wild Card series ends and log every game the same night.
+What are the teams wearing in the Division Series? All four matchups are set: the **Yankees at the Rays** and the **White Sox at the Guardians** in the ALDS, and the **Padres at the Brewers** and the **Braves at the Dodgers** in the NLDS. Atlanta beat Philadelphia 6-2 in Game 3 on Thursday night to win its Wild Card Series 2-1. All four series open on **Saturday, October 3**, at the top seeds' parks. Below is every ALDS and NLDS date, each team's home and road set, what they wore in their most recent October home games, and what they have worn down the stretch in 2026. We log every game, both jerseys, the same night.
 
 This page is the Division Series zoom. For the whole postseason, including the Wild Card results, who picks the jersey and whether City Connects are allowed in October, see our [2026 MLB postseason uniforms hub](/stories/mlb-postseason-uniforms-2026). Every game, both teams and both jerseys, goes on the [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
@@ -35,9 +36,9 @@ Both Division Series are best of five in a 2-2-1 format. The higher seed hosts G
 
 **NLDS: San Diego Padres at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Saturday, October 3, 8:30 p.m. ET at American Family Field. Game 2: Sunday, October 4, 4:00 p.m. ET at American Family Field. Game 3: Tuesday, October 6, at Petco Park. Game 4 (if needed): Wednesday, October 7, at Petco Park. Game 5 (if needed): Friday, October 9, at American Family Field.
 
-**NLDS: Los Angeles Dodgers (NL No. 2, 100-62) vs. Braves or Phillies.** Game 1: Saturday, October 3, 4:00 p.m. ET at Dodger Stadium. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium. Game 3: Tuesday, October 6, on the road. Game 4 (if needed): Wednesday, October 7, on the road. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
+**NLDS: Atlanta Braves at Los Angeles Dodgers (NL No. 2, 100-62).** Game 1: Saturday, October 3, 4:00 p.m. ET (1:00 p.m. PT) at Dodger Stadium on FOX. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 3: Tuesday, October 6, at Truist Park. Game 4 (if needed): Wednesday, October 7, at Truist Park. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
 
-MLB sets the Game 3 and 4 start times once the Division Series matchups are final.
+MLB has not yet set the Game 3 and 4 start times.
 
 ## What Changes on the Uniform in the Division Series
 
@@ -115,7 +116,9 @@ Milwaukee finished with the best record in baseball, 103-59.
 
 ## What Are the Dodgers Wearing in the NLDS?
 
-**Opponent: TBD (Braves or Phillies, decided in Game 3 on Thursday, October 1).** The Dodgers have won the last two World Series and open their bid for a third straight at home.
+**Opponent: Atlanta Braves** (beat the Phillies 2-1 in the Wild Card Series, winning Game 3 6-2 on October 1). The Braves wore home whites for Games 1 and 2 at Truist Park, then switched to the red alternate for Game 3; the Phillies stayed in road gray all three games. On the road since August 18, our tracker has Atlanta in the gray "Atlanta" set 14 times and the navy alternate seven, so expect gray at Dodger Stadium, which would make Games 1 and 2 a classic white-on-gray matchup. Back at Truist Park for Games 3 and 4, the home whites are the default, with the red alternate now proven as an October option. [Braves uniform schedule](/stories/braves-uniform-schedule-2026)
+
+The Dodgers have won the last two World Series and open their bid for a third straight at home.
 
 **The home set.** The home white with the "Dodgers" script, red numbers and the all-blue "LA" cap. The cream "City of Dreamers" City Connect usually takes Saturday home games.
 
@@ -129,11 +132,11 @@ Milwaukee finished with the best record in baseball, 103-59.
 
 **Game log (updated each night):**
 
-- Game 1, Sat. Oct. 3: Dodgers TBD · Opponent TBD · Grade: pending
-- Game 2, Sun. Oct. 4: Dodgers TBD · Opponent TBD · Grade: pending
-- Game 3, Tue. Oct. 6: Dodgers TBD · Opponent TBD · Grade: pending
-- Game 4, Wed. Oct. 7 (if needed): Dodgers TBD · Opponent TBD · Grade: pending
-- Game 5, Fri. Oct. 9 (if needed): Dodgers TBD · Opponent TBD · Grade: pending
+- Game 1, Sat. Oct. 3: Braves TBD at Dodgers TBD · Grade: pending
+- Game 2, Sun. Oct. 4: Braves TBD at Dodgers TBD · Grade: pending
+- Game 3, Tue. Oct. 6: Dodgers TBD at Braves TBD · Grade: pending
+- Game 4, Wed. Oct. 7 (if needed): Dodgers TBD at Braves TBD · Grade: pending
+- Game 5, Fri. Oct. 9 (if needed): Braves TBD at Dodgers TBD · Grade: pending
 
 ## The Bottom Line
 
@@ -147,7 +150,7 @@ Saturday, October 3. The Guardians host the White Sox in Game 1 at 1:00 p.m. ET,
 
 **When does the 2026 NLDS start?**
 
-Saturday, October 3. The Dodgers host the Braves-Phillies winner at 4:00 p.m. ET, and the Brewers host the Padres at 8:30 p.m. ET. The NLDS airs on FOX and FS1, and a Game 5 would be Friday, October 9.
+Saturday, October 3. The Dodgers host the Braves at 4:00 p.m. ET on FOX, and the Brewers host the Padres at 8:30 p.m. ET on FS1. The NLDS airs on FOX and FS1, and a Game 5 would be Friday, October 9.
 
 **What are the Dodgers wearing in the NLDS?**
 
@@ -169,4 +172,4 @@ Sometimes, and usually in Game 1. Cleveland wore the red alternate for Game 1 of
 
 The Tampa Bay Rays and Cleveland Guardians in the American League, and the Milwaukee Brewers and Los Angeles Dodgers in the National League. All four start the Division Series at home on October 3.
 
-*Schedule, seeds and records via MLB's official schedule and standings as of October 1, 2026. Past postseason uniforms via MLB's game uniform records. 2026 uniforms from the ColorWay Sports MLB uniform tracker.*
+*Schedule, seeds and records via MLB's official schedule and standings as of October 2, 2026. Division Series times via ESPN. Past postseason uniforms via MLB's game uniform records. 2026 uniforms from the ColorWay Sports MLB uniform tracker.*

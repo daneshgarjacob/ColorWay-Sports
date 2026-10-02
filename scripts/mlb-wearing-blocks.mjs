@@ -75,12 +75,25 @@ const caps = await fetchCaps(date, SLUG);
 // Postseason: once the regular season is over (after 2026-09-27), a team with no
 // game is either waiting on its next playoff series or finished for the year.
 const SEASON_END = "2026-09-27";
+// A playoff team is ALIVE while it still has a scheduled postseason game on or
+// after this date; once it has none left it was eliminated, and its block says
+// so (2026-10-02: the Phillies read "no game today, check back" the morning
+// after Wild Card Game 3 ended their season, because any team that had appeared
+// in the postseason feed counted as still playing).
 const postseason = new Set();
+const eliminated = {}; // slug -> { last: "YYYY-MM-DD", round }
+const ROUND = { F: "Wild Card Series", D: "Division Series", L: "League Championship Series", W: "World Series" };
 if (date > SEASON_END) {
   const ps = await fetch(`https://statsapi.mlb.com/api/v1/schedule/postseason/series?sportId=1&season=${date.slice(0, 4)}`).then(r => r.json()).catch(() => ({}));
+  const seen = {};
   for (const s of ps.series ?? []) for (const g of s.games ?? []) for (const side of ["home", "away"]) {
-    const n = g.teams?.[side]?.team?.name; if (SLUG[n]) postseason.add(SLUG[n]);
+    const slug = SLUG[g.teams?.[side]?.team?.name]; if (!slug) continue;
+    const st = g.status?.detailedState ?? "";
+    if (g.officialDate >= date && !/Cancel/i.test(st)) postseason.add(slug);
+    if (st === "Final" && (!seen[slug] || g.officialDate > seen[slug].last))
+      seen[slug] = { last: g.officialDate, round: ROUND[String(s.series?.id ?? "").charAt(0)] ?? "postseason" };
   }
+  for (const [slug, v] of Object.entries(seen)) if (!postseason.has(slug)) eliminated[slug] = v;
 }
 
 const state = {}; // slug -> {opp, home, time}
@@ -114,7 +127,10 @@ function block(slug) {
   if (!s && date > SEASON_END && !postseason.has(slug)) {
     big = "SEASON OVER";
     sub = "Back in 2027";
-    line = `The ${team} finished their 2026 season on Sunday, September 27.`;
+    const out = eliminated[slug];
+    line = out
+      ? `The ${team}' 2026 season ended in the ${out.round} on ${new Date(out.last + "T12:00:00Z").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" })}.`
+      : `The ${team} finished their 2026 season on Sunday, September 27.`;
     why = "";
   } else if (!s) {
     big = "NO GAME TODAY";
