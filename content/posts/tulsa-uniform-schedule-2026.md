@@ -3,7 +3,7 @@ title: "Tulsa Uniform Schedule 2026: Every Jersey and When the Golden Hurricane 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Tulsa 2026 uniform schedule: the blue home set, white road set, gold helmet, the new red throwback, and what the Golden Hurricane wear every game."
 gradient: "linear-gradient(135deg, #003595 0%, #1f4fb8 55%, #C4A962 130%)"
 cardStyle: words
@@ -82,7 +82,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 **September 26 at Arkansas.** ★ Confirmed from the broadcast: **white helmet with the blue Tulsa script, white jersey, white pants**, all white in Fayetteville with Arkansas in cardinal over white. Damari Alston scored the only Tulsa touchdown, Arkansas won 34-6, and the Golden Hurricane took their first loss to fall to 3-1. Our [Arkansas 2026 uniform schedule](/stories/arkansas-uniform-schedule-2026) has the Razorbacks side.
 
-**October 1 vs. North Texas.** Blue expected. Thursday night at 8 p.m. Central on ESPN, the American opener, and a Block Party night at Chapman. North Texas should be in white, and our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026) has what the Mean Green have worn so far.
+**October 1 vs. North Texas.** Blue expected. Thursday night at 8 p.m. Central on ESPN, the American opener, and a Block Party night at Chapman. North Texas has confirmed a green helmet, white jersey and green pants, the same road look it wore at Indiana, and our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026) has what the Mean Green have worn so far.
 
 **October 10 at Navy.** White expected. A 2:30 p.m. Central kickoff on CBS Sports Network in Annapolis, with Navy in navy. See our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
 
@@ -108,7 +108,7 @@ Two games, two wins, one helmet and one pair of pants. Tulsa has been as discipl
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore all white at Arkansas on Saturday, September 26: white helmet with the blue Tulsa script, white jersey and white pants, confirmed from the broadcast, in a 34-6 loss. Next up is North Texas at home on Thursday, October 1, where blue is expected for the American opener. The week before, Tulsa wore the red throwback against East Texas A&M: gold helmet, red jersey and gold pants, in a 42-0 shutout.
+Tulsa wore all white at Arkansas on Saturday, September 26: white helmet with the blue Tulsa script, white jersey and white pants, confirmed from the broadcast, in a 34-6 loss. Next up is North Texas at home on Thursday, October 1, where blue is expected for the American opener. North Texas has confirmed a green helmet, white jersey and green pants. The week before, Tulsa wore the red throwback against East Texas A&M: gold helmet, red jersey and gold pants, in a 42-0 shutout.
 
 **What are Tulsa's football uniforms for 2026?**
 
@@ -124,7 +124,7 @@ The gold helmet, the royal blue home jersey and gold pants for the 24-10 win on 
 
 **When do Tulsa and North Texas play in 2026?**
 
-Thursday, October 1 at 8 p.m. Central on ESPN at H.A. Chapman Stadium. It is the American opener for both teams. Tulsa should be in royal blue at home, with North Texas in white.
+Thursday, October 1 at 8 p.m. Central on ESPN at H.A. Chapman Stadium. It is the American opener for both teams. Tulsa should be in royal blue at home, and North Texas has confirmed a green helmet, white jersey and green pants.
 
 **How many games does Tulsa play in 2026?**
 

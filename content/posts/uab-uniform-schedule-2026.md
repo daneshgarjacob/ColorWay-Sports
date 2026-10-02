@@ -54,7 +54,13 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 **September 25 vs. Navy.** ★ Confirmed from UAB's own game photography, dated to the day of the game: **gold helmet, white jersey, gold pants** for a Friday night Salute to Service game on ESPN. Navy wore its navy jersey under a gold helmet. UAB won 24-20, its first win over Navy, and Marlin Dean was named the American Conference Defensive Player of the Week. More on our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
 
-**October 3 vs. Samford.** Green or white expected. Family Weekend and the cross-town game against Samford, 3:30 p.m. Eastern on ESPN+. Samford is also from Birmingham, and the Bulldogs wear red and blue, so either UAB jersey works.
+**October 3 vs. Samford.** Green or white expected. Family Weekend and the cross-town game against Samford, 3:30 p.m. Eastern on ESPN+. It is also UAB's fourth annual Smile-A-Mile game for childhood cancer awareness, and the school has announced one confirmed detail: instead of their own names, UAB players will wear the names of Smile-A-Mile patients on the backs of their jerseys, and the program posted the full list of player and patient pairings. The colors have not been announced, so the cell stays unstarred. Samford is also from Birmingham, and the Bulldogs wear red and blue, so either UAB jersey works.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UAB_FB/status/2105074104411849040"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Smile-A-Mile jersey name announcement, via @UAB_FB</p>
 
 **October 10 at Memphis.** White expected. Simmons Bank Liberty Stadium, with the kickoff time and network (ESPN2 or ESPNU) to be set after the October 3 games. Our [Memphis 2026 uniform schedule](/stories/memphis-uniform-schedule-2026) has the Tigers.
 
@@ -84,7 +90,7 @@ Four games into 2026, UAB has worn green and white jerseys, gold and green helme
 
 **What jersey is UAB wearing this week?**
 
-UAB hosts Samford on Saturday, October 3, and the Blazers have worn both the green and the white jersey at home this season, green against ULM and white against Navy. Both times they wore the gold helmet and gold pants. UAB has not announced its combination for the Samford game.
+UAB hosts Samford on Saturday, October 3, and the Blazers have worn both the green and the white jersey at home this season, green against ULM and white against Navy. Both times they wore the gold helmet and gold pants. UAB has not announced its colors for the Samford game, but it has confirmed that players will wear the names of Smile-A-Mile patients on the backs of their jerseys for the fourth annual Smile-A-Mile childhood cancer awareness game.
 
 **What are UAB's football uniforms for 2026?**
 

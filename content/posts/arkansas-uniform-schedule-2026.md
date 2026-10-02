@@ -3,7 +3,7 @@ title: "Arkansas Uniform Schedule 2026: Every Jersey and When the Razorbacks Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Arkansas jersey schedule 2026: cardinal home uniforms, the all-white road look worn at Utah, the new Tyson patch, and every Razorbacks game week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #7a1a29 55%, #ffffff 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #9D2235; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #9D2235; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -52,7 +52,13 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 **September 26 vs. Tulsa.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, white pants**, the standard home set for the last non-conference game of the season. Tulsa came in all white. KJ Jackson threw for 309 yards and ran for two touchdowns, Chris Marshall caught nine passes for 195 yards, Max Gilbert kicked four field goals, and Arkansas won 34-6 to get to 2-2. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
-**October 3 at Texas A&M.** White expected. The Southwest Classic moves to Kyle Field, and Arkansas will be the white half of one of the loudest matchups of the season: Texas A&M has confirmed its desert camo Honor and Support uniform for this game, covered on our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026). The Southwest Classic has produced Arkansas specials before, including Cowboys-inspired jerseys in 2017 and white helmets over cardinal jerseys in 2023, so this is a date to watch.
+**October 3 at Texas A&M**, Kyle Field, 7 p.m. ET on ESPN2. ★ Confirmed by Arkansas: **cardinal helmet, white jersey, white pants.** It is the standard road set, not the all-white look from Utah: the cardinal shell comes back on top of the white jersey and white pants. The Southwest Classic has produced Arkansas specials before, including Cowboys-inspired jerseys in 2017 and white helmets over cardinal jerseys in 2023, but this year the Razorbacks are leaving the spectacle to the other sideline. Texas A&M has confirmed its desert camo Honor and Support uniform, camo helmet, camo jersey and maroon pants, covered on our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026), so it is cardinal and white against camo.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RazorbackFB/status/2105764791558291646"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @RazorbackFB</p>
 
 **October 10 vs. Tennessee.** Cardinal expected. The Vols are down for white on our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026), which means cardinal against white with orange trim.
 
@@ -72,7 +78,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 ## The Bottom Line
 
-Three games in, Arkansas has used the cardinal home set twice and the all-white road look once, and the white helmet has already made one appearance. Nothing else is on the calendar: no anthracite, no throwback, and a new head coach who says year one is about the traditional looks. The only new detail on the jersey this season is the Tyson Foods patch on the right shoulder. The Southwest Classic at Kyle Field is the game where Arkansas has broken form before, and we will update the grid if it does again. Every date is above, and we add the stars as each uniform is confirmed.
+Three games in, Arkansas has used the cardinal home set twice and the all-white road look once, and the white helmet has already made one appearance. Nothing else is on the calendar: no anthracite, no throwback, and a new head coach who says year one is about the traditional looks. The only new detail on the jersey this season is the Tyson Foods patch on the right shoulder. The Southwest Classic at Kyle Field is the game where Arkansas has broken form before, but the Razorbacks have confirmed the standard road set for it: cardinal helmet, white jersey, white pants, against Texas A&M's camo. Every date is above, and we add the stars as each uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
 
@@ -80,7 +86,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Arkansas wearing this week?**
 
-Arkansas wore cardinal at home against Tulsa on Saturday, September 26: cardinal helmet, cardinal jersey and white pants, confirmed from the broadcast, in a 34-6 win. Next up is the Southwest Classic at Texas A&M on October 3, where white is expected and the Aggies wear their desert camo. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arkansas wore cardinal at home against Tulsa on Saturday, September 26: cardinal helmet, cardinal jersey and white pants, confirmed from the broadcast, in a 34-6 win. Next up is the Southwest Classic at Texas A&M on Saturday, October 3, and Arkansas has confirmed the cardinal helmet, white jersey and white pants. The Aggies wear their desert camo Honor and Support set. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arkansas's football uniforms for 2026?**
 

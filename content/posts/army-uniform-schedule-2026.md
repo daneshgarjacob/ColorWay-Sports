@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -39,7 +39,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #14284b; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +64,13 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **September 25 at Temple.** ★ Confirmed from the broadcast: **black helmet, white jersey, black pants**. The white jersey was expected. The helmet was not: Army left the gold shell at home and wore a black one for its first road game of the season, at Lincoln Financial Field in Philadelphia on a Friday afternoon on ESPN, against Temple in all cherry. Army won 21-17, with Cale Hellums running for three touchdowns, the last one for the late lead, and moved to 2-1.
 
-**October 3 at Louisiana Tech.** White expected. A rare non-conference road trip to Ruston, with the kickoff time still to be announced.
+**October 3 at Louisiana Tech**, 7:30 p.m. ET on ESPN+. ★ Confirmed by Army: **gold helmet, white jersey, white pants**. The gold helmet is back after the black shell at Temple, and the pants go white instead of black, so this is the cleanest road look Army has shown this season: gold on top, white everywhere else. It is a rare non-conference road trip to Ruston, and Louisiana Tech has not announced its uniform yet.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/2105728452234018871"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @ArmyWP_Football</p>
 
 **October 10 vs. Tulane.** Black expected. Back at Michie Stadium at noon on CBS Sports Network against a Tulane team that has become one of the more adventurous uniform programs in the league.
 
@@ -110,13 +116,13 @@ Navy lost none of that arms race, which is why the joint reveal has become an ev
 
 ## The Bottom Line
 
-Army is the rare program where the uniform schedule is almost entirely predictable for eleven games and completely unknowable for the twelfth. Black at home, white on the road, the gold helmet nearly every week, with the pants the main variable, the black helmet at Temple the one surprise, and the new USAA patch the only visible change from last season. Then December arrives and Nike hands the Black Knights something nobody has seen. The grid above has every date, and the cell that matters most is the one still waiting on a reveal.
+Army is the rare program where the uniform schedule is almost entirely predictable for eleven games and completely unknowable for the twelfth. Black at home, white on the road, the gold helmet nearly every week, with the pants the main variable, the black helmet at Temple the one surprise before the gold helmet returned over all white for Louisiana Tech, and the new USAA patch the only visible change from last season. Then December arrives and Nike hands the Black Knights something nobody has seen. The grid above has every date, and the cell that matters most is the one still waiting on a reveal.
 
 ## Frequently Asked Questions
 
 **What jersey is Army wearing this week?**
 
-Army wore a black helmet, a white jersey and black pants at Temple on Friday, September 25, and won 21-17. The black helmet was the surprise, since Army had worn the gold helmet in both home games. Next up is Louisiana Tech on October 3, where white is expected again. The grid above lists every date with the expected set and we star each cell as it is confirmed.
+Army wore a black helmet, a white jersey and black pants at Temple on Friday, September 25, and won 21-17. The black helmet was the surprise, since Army had worn the gold helmet in both home games. Next up is Louisiana Tech on October 3, and Army has confirmed the gold helmet, white jersey and white pants. The grid above lists every date with the expected set and we star each cell as it is confirmed.
 
 **What are Army's football uniforms for 2026?**
 

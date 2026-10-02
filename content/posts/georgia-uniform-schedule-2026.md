@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ Game week made it official on Tuesday: the program's own graphic for Western Ken
 
 **September 26 vs. Oklahoma**, Athens. ★ Confirmed from the broadcast: **red helmet with the oval G, red jersey, silver britches**, the standard home set, with the crowd asked to Stripe Sanford in red, white and black. Oklahoma wore the crimson helmet, white jersey and white pants. Chauncey Bowens ran for two touchdowns, Georgia returned a John Mateer fumble for a score, and the Bulldogs won 41-13 to move to 4-0. See our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
-**October 3 vs. Vanderbilt**, Athens. Red expected.
+**October 3 vs. Vanderbilt**, Athens. Red expected. Vanderbilt has confirmed a white helmet, white jersey and black pants, its first non-white pants of the season, so it is red against white at Sanford Stadium. See the [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
 **October 10 at Alabama**, Tuscaloosa. The biggest road game on the schedule. White expected.
 

@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **September 26 at Baylor.** ★ Confirmed from the broadcast: **black helmet, gold jersey, black pants**, not the white we expected. Big 12 opener at McLane Stadium in Waco, and Baylor wore its gold chrome throwback with a green jersey and white pants, so neither team was in a white jersey. Baylor won 23-13 and Colorado is 2-2. The Bears' side is on our [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026).
 
-**October 3 vs. Texas Tech.** Black expected. Homecoming weekend, the university's 150th anniversary celebration, and a black-and-gold stripe-out in the stands. A home game with that much going on is the most likely slot for the first gold-on-gold look, so this is the date we are watching most closely. See the [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) for the visitors.
+**October 3 vs. Texas Tech.** Black expected. Homecoming weekend, the university's 150th anniversary celebration, and a black-and-gold stripe-out in the stands. A home game with that much going on is the most likely slot for the first gold-on-gold look, so this is the date we are watching most closely. Texas Tech is reported to be wearing a red helmet, white jersey and red pants. See the [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) for the visitors.
 
 **October 10.** Bye.
 
@@ -79,7 +79,7 @@ Two games in, Colorado has worn black twice, with two different jerseys and two 
 
 **What jersey is Colorado wearing this week?**
 
-Colorado wore the black helmet, gold jersey and black pants at Baylor on Saturday, September 26, and lost 23-13. Earlier this season against Weber State, Colorado wore the black helmet, the classic striped black jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Colorado wore the black helmet, gold jersey and black pants at Baylor on Saturday, September 26, and lost 23-13. Earlier this season against Weber State, Colorado wore the black helmet, the classic striped black jersey and white pants. Next is Homecoming against Texas Tech on October 3, where black is expected and Texas Tech is reported to be in a red helmet, white jersey and red pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Colorado's football uniforms for 2026?**
 

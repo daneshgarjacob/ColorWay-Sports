@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy Whites</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
-  <div style="background: #78BCE2; color: #14284b; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Houston Blue</div></div>
+  <div style="background: #78BCE2; color: #14284b; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Houston Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +64,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **September 26 at Georgia Southern.** ★ Confirmed from the game photos: **white helmet, white jersey, red pants**, in Statesboro. Georgia Southern wore a navy helmet, navy jersey and white pants. Houston won 42-28 behind four touchdown passes and two touchdown runs from Conner Weigman, and is 3-1.
 
-**October 3 vs. UCF.** Houston Blue. The athletic department has already branded this one the Built By Houston Game with a Wear Houston Blue theme for the crowd, which is how the annual Houston Blue date has always been packaged. The light blue set is the city's Oilers tribute, and it has a complicated history: it debuted in the 2023 opener against UTSA, drew a cease and desist from the NFL over the Oilers marks, and came back in a redesigned form in 2024 for senior night against Baylor. Houston wore it against Texas Tech last October in the third go-round, with a fresh white collar. This will be the fourth.
+**October 3 vs. UCF**, noon ET on ESPN2. ★ Confirmed by Houston: **Houston Blue.** The program's official game preview for UCF lists a win as Houston's "second win in Houston Blue," which settles the question the Wear Houston Blue crowd theme had already answered. The set is the light blue jersey with red numbers, the white helmet with the light blue Houston script and white pants with a red stripe. UCF has its own news this week, the reveal of its 2026 Space Game set, but that one is saved for Baylor on October 30, so the Knights are expected in their road white here. The athletic department branded this one the Built By Houston Game with a Wear Houston Blue theme for the crowd, which is how the annual Houston Blue date has always been packaged. The light blue set is the city's Oilers tribute, and it has a complicated history: it debuted in the 2023 opener against UTSA, drew a cease and desist from the NFL over the Oilers marks, and came back in a redesigned form in 2024 for senior night against Baylor. Houston wore it against Texas Tech last October in the third go-round, with a fresh white collar. This will be the fourth.
 
 **October 10 at Kansas State.** White expected, for the Celebrate Ag game in Manhattan with Kansas State in purple. More: [Kansas State schedule](/stories/kansas-state-uniform-schedule-2026).
 
@@ -90,7 +90,7 @@ Three games in, Houston has worn red twice at home, shown both pants, and taken 
 
 **What jersey is Houston wearing this week?**
 
-Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Houston then beat Georgia Southern 42-28 in Statesboro on Saturday, September 26, in the white helmet, white jersey and red pants, confirmed from the game photos. Next is UCF on October 3, the date held for the light blue Houston Blue alternate.
+Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Houston then beat Georgia Southern 42-28 in Statesboro on Saturday, September 26, in the white helmet, white jersey and red pants, confirmed from the game photos. Next is UCF on October 3, and Houston has confirmed the light blue Houston Blue alternate for the Built By Houston Game.
 
 **What are Houston's football uniforms for 2026?**
 
@@ -98,7 +98,7 @@ A red home jersey and a white road jersey, both with a script Houston wordmark a
 
 **When is Houston wearing the Houston Blue uniforms in 2026?**
 
-Saturday, October 3, at home against UCF. Houston is promoting the game as the Built By Houston Game with a Wear Houston Blue crowd theme. It will be the fourth time the Cougars have worn the light blue set since it debuted in 2023.
+Saturday, October 3, at home against UCF. Houston is promoting the game as the Built By Houston Game with a Wear Houston Blue crowd theme, and the program's official game preview confirms the Cougars are in Houston Blue. It will be the fourth time the Cougars have worn the light blue set since it debuted in 2023.
 
 **What is the Houston Blue uniform?**
 

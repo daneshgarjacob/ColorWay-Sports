@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #F1BE48; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #ffffff; color: #111111; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Whiteout</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
+  <div style="background: #C8102E; color: #ffffff; border: 2px solid #F1BE48; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -52,7 +52,13 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **September 26 vs. Utah.** ★ Confirmed by Iowa State: the **Whiteout**, all white with black lettering and accents, the script Cyclones helmet and black stripes across the shoulders. We had cardinal down. The Big 12 opener at Jack Trice Stadium, 2:30 p.m. Central on FOX. Confirmed on the broadcast too: white helmet, white jersey, white pants, against Utah in all red. Utah led 24-3 at the half, Iowa State pulled within 24-17 in the fourth quarter, and the Utes won 31-17. The Cyclones are 2-2. Utah is on the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
-**October 3 vs. West Virginia.** Cardinal expected. This is homecoming, the most likely home date for an alternate if Iowa State plans one, so we are watching it closely. West Virginia is expected in white on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026). Kickoff time is still TBA.
+**October 3 vs. West Virginia**, noon ET on TNT. ★ Confirmed by Iowa State: **cardinal helmet, cardinal jersey, cardinal pants**, all cardinal, revealed as the "homecoming threads." The helmet is the cardinal shell with "Cyclones" in script on the side, the script look that has been the default for three seasons. It is the first time this season Iowa State has gone cardinal on the pants too, after white pants in every color game so far, so Homecoming gets the one change we were watching for. West Virginia has also confirmed its look: white helmet, white jersey and navy pants. That is cardinal head to toe against white over navy at Jack Trice Stadium. The Mountaineers' side is on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2105724555452899351"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Homecoming uniform reveal, via @CycloneFB</p>
 
 **October 9 at BYU.** White expected. A Friday night game at LaVell Edwards Stadium, 8:15 p.m. Mountain (9:15 p.m. Central), and it falls during BYU's homecoming week. BYU is expected in royal blue at home on the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026). ESPN's feed lists this game on October 10 because it runs on UTC. It is a Friday, October 9 game.
 
@@ -72,13 +78,13 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 ## The Bottom Line
 
-Three games in, Iowa State has worn a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, and the black and all-white alternates from the 2024 Nike set have not shown up yet. Homecoming against West Virginia and the Halloween game against Oklahoma State are the two home dates where that is most likely to change. The grid above has every date, and we add a star as each uniform is confirmed.
+Three games in, Iowa State has worn a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set has not shown up yet. Homecoming against West Virginia is where that changes: Iowa State has confirmed all cardinal, script helmet, cardinal jersey and cardinal pants. The Halloween game against Oklahoma State is the next home date to watch. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore the all white Whiteout against Utah on Saturday, September 26: white helmet, white jersey and white pants with black lettering and accents. Utah wore all red and won 31-17. The week before, Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green.
+Iowa State wore the all white Whiteout against Utah on Saturday, September 26: white helmet, white jersey and white pants with black lettering and accents. Utah wore all red and won 31-17. The week before, Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green. For Homecoming against West Virginia on Saturday, October 3, Iowa State has confirmed all cardinal: the cardinal helmet with "Cyclones" in script, cardinal jersey and cardinal pants. West Virginia has confirmed a white helmet, white jersey and navy pants.
 
 **What are Iowa State's football uniforms for 2026?**
 

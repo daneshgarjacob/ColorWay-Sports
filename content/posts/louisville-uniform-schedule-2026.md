@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Villanova</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Flag Helmet / Red / White</div></div>
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #AD0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -52,7 +52,15 @@ adidas makes all of it. The base red and white sets share one template: an arche
 
 **September 26 vs. Wake Forest.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants**, the Kids Day look the team posted during the week. Wake Forest wore the gold helmet, white jersey and gold pants. Wake won 30-27 on a field goal with 6:20 left, and Louisville fell to 2-2. The other side is on our [Wake Forest 2026 uniform schedule](/stories/wake-forest-uniform-schedule-2026).
 
-**October 3 at NC State.** White expected. First ACC road game, at Carter-Finley Stadium, with the kickoff time still to be set.
+**October 3 at NC State**, 3:30 p.m. ET on ACC Network. ★ Confirmed by Louisville: **red helmet, white jersey, white pants**. The team posted it as the "Game 5 fit" for the first ACC road game, at Carter-Finley Stadium. The headline is the helmet: after the white shell in every game so far, including the flag version for Villanova, Louisville is going to a red helmet over the white road set. NC State is expected in red for its ACC home opener, so it will be red against white at Carter-Finley.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2105432558850965634"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @LouisvilleFB</p>
+
+The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
 **October 9 vs. Florida State.** Red expected. A Friday night game on ESPN at 7 p.m. Eastern, and the biggest home stage before Halloween. If Louisville adds a surprise helmet this fall, a Friday night national TV slot is a natural place for it. Nothing has been announced. Florida State's plan is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
@@ -78,7 +86,7 @@ Two games in, Louisville has shown both sides of its base closet: all white in N
 
 **What jersey is Louisville wearing this week?**
 
-Louisville wore the white helmet, red jersey and red pants against Wake Forest on Saturday, September 26, and lost 30-27. Against Villanova earlier this month, the Cardinals wore the red jersey, white pants and a white Salute to Service helmet with a Cards script and an American flag stripe. The grid above lists every game with the expected uniform.
+Louisville wore the white helmet, red jersey and red pants against Wake Forest on Saturday, September 26, and lost 30-27. Against Villanova earlier this month, the Cardinals wore the red jersey, white pants and a white Salute to Service helmet with a Cards script and an American flag stripe. Next is a trip to NC State on Saturday, October 3, and Louisville has confirmed a red helmet, white jersey and white pants for it. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 

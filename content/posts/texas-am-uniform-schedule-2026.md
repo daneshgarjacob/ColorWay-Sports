@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **September 26 at LSU, Baton Rouge.** ★ Confirmed from the broadcast: **white helmet, maroon jersey, maroon pants**, the look the Aggies posted Thursday as their "Road Trip Fit." This was the one road date where A&M could wear color, and it did, because LSU stayed in its home white with gold pants and the gold helmet. LSU won 35-6, holding Marcel Reed to 106 passing yards, and Texas A&M fell to 2-2. More: [LSU uniform schedule](/stories/lsu-uniform-schedule-2026).
 
-**October 3 vs. Arkansas, Kyle Field.** ✅ **Confirmed: Honor and Support camo.** Camo jersey, camo helmet, maroon pants. The 150th anniversary game.
+**October 3 vs. Arkansas, Kyle Field.** ✅ **Confirmed: Honor and Support camo.** Camo jersey, camo helmet, maroon pants. The 150th anniversary game. Arkansas has confirmed its standard road set, cardinal helmet, white jersey and white pants, so it is camo against white. More: [Arkansas uniform schedule](/stories/arkansas-uniform-schedule-2026).
 
 **October 10 at Missouri, Columbia.** Road. White expected.
 
@@ -102,7 +102,7 @@ For more, see our [Texas A&M camo uniforms graded](/stories/texas-am-camo-honor-
 
 **What jersey is Texas A&M wearing this week?**
 
-Texas A&M wore maroon on the road at LSU on Saturday, September 26: white helmet, maroon jersey and maroon pants, confirmed from the broadcast, in a 35-6 loss. Next up is Arkansas at Kyle Field on October 3, when the Aggies wear the desert camouflage Honor and Support uniform. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
+Texas A&M wore maroon on the road at LSU on Saturday, September 26: white helmet, maroon jersey and maroon pants, confirmed from the broadcast, in a 35-6 loss. Next up is Arkansas at Kyle Field on October 3, when the Aggies wear the desert camouflage Honor and Support uniform. Arkansas has confirmed a cardinal helmet, white jersey and white pants. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
 
 **When does Texas A&M wear the camo uniforms in 2026?**
 

@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Arizona football uniforms for 2026: navy home jerseys, the all-white road set, Sandstorm night vs. TCU, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **September 26 at Washington State.** ★ Confirmed from the broadcast: **white helmet, white jersey, navy pants**, on a non-conference road trip to Pullman, on CBS. Washington State wore its gray script helmet over crimson and gray for the Stripe Out. Arizona fell behind 14-0, then Noah Fifita threw for 297 yards and four touchdowns, two of them to Tre Spivey, who caught seven passes for 129 yards, and Arizona won 34-24 to move to 3-1. More: [Washington State uniform schedule](/stories/washington-state-uniform-schedule-2026).
 
-**October 3 vs. Cincinnati.** Navy expected. The Big 12 home opener is also Family Weekend and Pacific Islander Heritage, and it is a white-clad crowd by request. Arizona won the first-ever meeting 30-24 in Cincinnati last season.
+**October 3 vs. Cincinnati.** Navy expected. The Big 12 home opener is also Family Weekend and Pacific Islander Heritage, and it is a white-clad crowd by request. Cincinnati has confirmed all white for the trip: white helmet, white jersey and white pants. Arizona won the first-ever meeting 30-24 in Cincinnati last season.
 
 **October 10 at West Virginia.** White expected. This is West Virginia's Coal Rush game, and the Mountaineers are expected in all black, so Arizona in white should make this one of the starkest contrasts on the conference calendar. More on the home side on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026).
 
@@ -79,7 +79,7 @@ Two games in, Arizona has worn exactly what the rules predict: the navy jersey u
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore white at Washington State on Saturday, September 26: white helmet, white jersey and navy pants, confirmed from the broadcast, in a 34-24 win. Next up is Cincinnati in Tucson on October 3, where navy is the expected home jersey. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore white at Washington State on Saturday, September 26: white helmet, white jersey and navy pants, confirmed from the broadcast, in a 34-24 win. Next up is Cincinnati in Tucson on October 3, where navy is the expected home jersey and Cincinnati has confirmed all white. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 

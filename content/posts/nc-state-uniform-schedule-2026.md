@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **September 26 vs. App State.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants** for the 7:30 p.m. kickoff, with no black alternate. App State wore a black helmet, white jersey and black pants. Jayden Scott ran for 148 yards and two touchdowns, CJ Bailey threw for two more, and NC State won 41-31 to get to 2-2. More: [App State uniform schedule](/stories/appalachian-state-uniform-schedule-2026).
 
-**October 3 vs. Louisville.** Red expected. The ACC home opener, with Louisville in white per the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
+**October 3 vs. Louisville.** Red expected. The ACC home opener, and Louisville has confirmed a red helmet, white jersey and white pants for the trip, per the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 
 **October 10 vs. Wake Forest.** Red expected. A third straight home game.
 
@@ -82,7 +82,7 @@ NC State has already shown its range: a traditional road look with a quieter Tuf
 
 **What is NC State wearing this week?**
 
-NC State wore red at home against App State on Saturday, September 26: white helmet, red jersey and red pants, confirmed from the broadcast, in a 41-31 win. Next up is Louisville at home on October 3, where red is expected for the ACC home opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+NC State wore red at home against App State on Saturday, September 26: white helmet, red jersey and red pants, confirmed from the broadcast, in a 41-31 win. Next up is Louisville at home on October 3, where red is expected for the ACC home opener and Louisville has confirmed a red helmet, white jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 

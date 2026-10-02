@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 **September 26 vs. Rice.** ★ Confirmed from the broadcast: **red helmet, red jersey, red pants**, all red, the same set as the Sacramento State home game. Rice came in silver helmet, light gray jersey and gray pants. The Owls led 17-14 at the half, but Jayden Mandal threw three touchdown passes, Rayshon Luke ran for 167 yards on 11 carries including a 52-yard score to close it, and Fresno State won 38-24 to move to 3-1.
 
-**October 3 at Washington State.** White expected. Washington State is the most mix and match program in the conference and will pick from crimson, gray, white and anthracite at home, so the Cougars decide what this one looks like.
+**October 3 at Washington State.** White expected. Washington State is the most mix and match program in the conference and will pick from crimson, gray, white and anthracite at home, and the Cougars have made their call: Washington State has confirmed all gray, a gray helmet with the crimson Cougar head and crimson facemask, gray jersey with white numbers and gray pants.
 
 **October 10 vs. Boise State.** Red expected. Boise State in white at Valley Children's Stadium, and a 7:30 p.m. Pacific kickoff on The CW gives this one the best chance on the schedule of being the night the black comes out.
 
@@ -98,7 +98,7 @@ Two games in, Fresno State has shown two combinations and one helmet, and both c
 
 **What is Fresno State wearing this week?**
 
-Fresno State wore all red against Rice on Saturday, September 26, red helmet, red jersey and red pants confirmed from the broadcast, in a 38-24 win. Next is Washington State on the road on October 3, where the white road jersey is expected and the Cougars pick their own combination at home. The week-by-week grid above lists every game.
+Fresno State wore all red against Rice on Saturday, September 26, red helmet, red jersey and red pants confirmed from the broadcast, in a 38-24 win. Next is Washington State on the road on October 3, where the white road jersey is expected and Washington State has confirmed all gray at home. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 

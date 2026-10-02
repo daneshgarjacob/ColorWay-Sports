@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -83,7 +83,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
   <div style="background: #154734; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Prairie View A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 254 Night: Green / Green / White</div></div>
   <div style="background: #154734; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Gold / Gold</div></div>
   <div style="background: #FFB81C; color: #14281f; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Chrome / Green / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blackout or Whiteout</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -94,7 +94,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**September 5 vs. Auburn**, Mercedes-Benz Stadium, Atlanta. A neutral-site opener against an SEC opponent, and exactly the kind of stage Baylor has used the chrome helmet for before. ★ Confirmed: **green helmet, white jersey, green pants** — no chrome. Auburn wore the white helmet, navy jersey and white pants and won 17-16.
+**September 5 vs. Auburn**, Mercedes-Benz Stadium, Atlanta. A neutral-site opener against an SEC opponent, and exactly the kind of stage Baylor has used the chrome helmet for before. ★ Confirmed: **green helmet, white jersey, green pants**, no chrome. Auburn wore the white helmet, navy jersey and white pants and won 17-16.
 
 **September 12 vs. Prairie View A&M**, Waco. **254 Night**, and the one game on this schedule fans helped pick. ★ Confirmed from the broadcast: **green 254 helmet, green jersey, white pants**, the fan-voted combination worn as promised. Baylor won 44-3.
 
@@ -102,7 +102,13 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **September 26 vs. Colorado**, Waco. **The Traditions Game, and the gold chrome throwback debut.** ★ Confirmed from the broadcast: **gold chrome helmet with the green stripe, green jersey with BAYLOR across the chest, white pants**. Colorado wore a black helmet, gold jersey and black pants. Baylor won the Big 12 opener 23-13 and is 3-1.
 
-**October 3 at Arizona State**, Tempe. White on the road.
+**October 3 at Arizona State**, Tempe, 10:30 p.m. ET on ESPN. ★ Confirmed by Baylor: **white helmet, white jersey, green pants.** The white helmet carries the green and gold center stripe, and the green pants keep the road set from going all white. Baylor billed it as its attire for Arizona State and its Game Five fit. Arizona State has announced its Maroon Monsoon look for its Big 12 home opener: a maroon chrome helmet with a gold pitchfork and maroon facemask, and a maroon jersey with a gold ARIZONA STATE wordmark, so it will be white and green against maroon. Our [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026) has the Sun Devils' side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2105755842587070785"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @BUFootball</p>
 
 **October 10.** Bye week.
 
@@ -126,7 +132,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **What jersey is Baylor wearing this week?**
 
-Baylor wore the gold chrome throwback against Colorado on Saturday, September 26: gold chrome helmet, green jersey with BAYLOR across the chest and white pants, and won 23-13. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
+Baylor wore the gold chrome throwback against Colorado on Saturday, September 26: gold chrome helmet, green jersey with BAYLOR across the chest and white pants, and won 23-13. Next is Arizona State in Tempe on Saturday, October 3, and Baylor has confirmed a white helmet with the green and gold center stripe, white jersey and green pants. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
 
 **When does Baylor wear the gold chrome throwback uniform in 2026?**
 

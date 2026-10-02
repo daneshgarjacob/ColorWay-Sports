@@ -3,7 +3,7 @@ title: "Texas State Uniform Schedule 2026: Every Jersey and When the Bobcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-01"
 excerpt: "What Texas State wears every game in its first Pac-12 season: maroon and gold at home, the white road set, the Bobcats script helmet and the full schedule."
 gradient: "linear-gradient(135deg, #501214 0%, #2e0a0c 55%, #8D734A 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
   <div style="background: #501214; color: #ffffff; border: 2px solid #8D734A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Gold</div></div>
   <div style="background: #501214; color: #ffffff; border: 2px solid #8D734A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Gold</div></div>
   <div style="background: #501214; color: #ffffff; border: 2px solid #8D734A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UIW</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Script / Maroon / Maroon</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #501214; border: 2px solid #501214; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #501214; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #501214; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
@@ -54,7 +54,13 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 **September 26 vs. UIW.** ★ Confirmed from Texas State's game photography, dated to the day of the game: **gold helmet with a maroon Bobcats script, maroon jersey, maroon pants**, a new helmet and the first maroon-over-maroon look of the season for Family Weekend. Texas State scored 28 in the first quarter and won 63-10.
 
-**October 3 at San Diego State.** White expected. The Pac-12 opener at Snapdragon Stadium, 7:30 p.m. Pacific on The CW. San Diego State is expected in black at home, which would make for a sharp white against black pairing. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
+**October 3 at San Diego State**, Snapdragon Stadium, 7:30 p.m. Pacific (10:30 p.m. ET) on The CW. ★ Confirmed by Texas State: **white helmet, white jersey, maroon pants.** The program posted it as its Week 05 threads with the line Keepin' it cool. It is white over white up top, as it was at Texas, with maroon pants in place of the white ones, the second straight game in maroon pants after the Family Weekend win over UIW. It is the Pac-12 opener for both teams, and San Diego State is expected in black at home, which should make for a sharp white and maroon against black pairing. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TXSTATEFOOTBALL/status/2105765545148825985"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @TXSTATEFOOTBALL</p>
 
 **October 10.** Bye.
 
@@ -78,13 +84,13 @@ Texas State has worn three helmets in four games, and the script shell is the on
 
 ## The Bottom Line
 
-Four games into its Pac-12 era, Texas State has run through white, gold and maroon without ever looking like anyone but Texas State. The maroon and old gold palette is one of the more distinctive in the conference, and the Bobcats have leaned on it: gold pants for the first two home games, maroon pants and a new script helmet for the third. The open questions are the road helmet at San Diego State and whether the Blackout night on October 15 is a fan theme or a uniform. The grid above has every date, and we add a star as each uniform is confirmed.
+Four games into its Pac-12 era, Texas State has run through white, gold and maroon without ever looking like anyone but Texas State. The maroon and old gold palette is one of the more distinctive in the conference, and the Bobcats have leaned on it: gold pants for the first two home games, maroon pants and a new script helmet for the third. The road helmet question at San Diego State is settled, with Texas State announcing the white helmet, white jersey and maroon pants for the Pac-12 opener. The open question now is whether the Blackout night on October 15 is a fan theme or a uniform. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Texas State wearing this week?**
 
-Texas State plays at San Diego State on Saturday, October 3, and the white road jersey is expected. The Bobcats wore the white helmet, white jersey and white pants in their only road game so far, at Texas on September 5. Texas State has not announced its combination for the San Diego State game.
+Texas State plays at San Diego State on Saturday, October 3, and the Bobcats have confirmed a white helmet, white jersey and maroon pants. They wore the white helmet, white jersey and white pants in their only road game so far, at Texas on September 5, so the maroon pants are the change.
 
 **What helmet did Texas State wear against UIW?**
 

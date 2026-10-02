@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **September 26 at Toledo.** ★ Confirmed from the broadcast: **red helmet, white jersey, white pants**. The earliest kickoff on the schedule at 9 a.m. Pacific, on CBS Sports Network. Toledo wore the midnight blue helmet, midnight blue jersey and gold pants. Toledo won 41-16 and the Aztecs are 1-3.
 
-**October 3 vs. Texas State.** Black expected. The Pac-12 opener at Snapdragon Stadium, 7:30 p.m. Pacific on The CW.
+**October 3 vs. Texas State.** Black expected. The Pac-12 opener at Snapdragon Stadium, 7:30 p.m. Pacific on The CW. Texas State has confirmed a white helmet, white jersey and maroon pants, so black at home would make a clean contrast. Our [Texas State 2026 uniform schedule](/stories/texas-state-uniform-schedule-2026) has the Bobcats' side.
 
 **October 10 at Oregon State.** White expected. Oregon State has gone all black at home this season, which would make this the sharpest black-versus-white pairing on the schedule.
 

@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #981E32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy White</div></div>
   <div style="background: #981E32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duquesne</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White / Crimson / Crimson</div></div>
   <div style="background: #981E32; color: #ffffff; border: 2px solid #8D959A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Script / Crimson / Gray</div></div>
-  <div style="background: #981E32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #8D959A; color: #ffffff; border: 2px solid #981E32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gray / Gray / Gray</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #981E32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -66,7 +66,13 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 **September 26 vs. Arizona.** ★ Confirmed by Washington State: **gray script Cougars helmet, crimson jersey, gray pants**, posted on September 23 as "Stripe Out Threads." It is the first time the script helmet has been out since the 2023 Apple Cup, with the crowd striping Gesa Field in crimson and gray. The CBS frames match: script helmet, crimson jersey, gray pants. Arizona was the visitor in a white helmet, white jersey and navy pants. Caden Pinnick ran for a touchdown and Jackquintin Bal returned an interception for another to put the Cougars up 14-0, and they led 17-14 at the half, but Arizona won 34-24 and Washington State is 1-3. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats.
 
-**October 3 vs. Fresno State.** Crimson expected. Family Weekend in Pullman, 6:30 p.m. Pacific, and the Pac-12 opener for both teams.
+**October 3 vs. Fresno State**, 6:30 p.m. Pacific (9:30 p.m. ET) on USA Network. ★ Confirmed by Washington State: **gray helmet, gray jersey, gray pants.** All gray, posted as Game 05 threads: the gray shell carries the crimson Cougar head with a crimson facemask, and the gray jersey has white numbers over gray pants. It is the first time this season the Cougars have gone head to toe in Cougar Gray, and the crimson we had penciled in for Family Weekend stays in the closet. Fresno State is expected in its road set, red helmet, white jersey and red pants, for the Pac-12 opener for both teams. The [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026) has the Bulldogs' side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2105388693414642116"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @WSUCougarFB</p>
 
 **October 9 at Utah State.** White expected. A Friday night game in Logan, 6 p.m. Pacific, the only Friday on the Cougars' schedule. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
@@ -100,7 +106,7 @@ Two road games, two crimson and white looks, and the crimson jersey did not appe
 
 **What jersey is Washington State wearing this week?**
 
-Washington State wore the gray script Cougars helmet, crimson jersey and gray pants for the Stripe Out against Arizona on Saturday, September 26, as posted and confirmed from the broadcast, in a 34-24 loss. Next up is Fresno State at home on October 3, where crimson is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Washington State wore the gray script Cougars helmet, crimson jersey and gray pants for the Stripe Out against Arizona on Saturday, September 26, as posted and confirmed from the broadcast, in a 34-24 loss. Next up is Fresno State at home on October 3, and Washington State has confirmed all gray: gray helmet with the crimson Cougar head and crimson facemask, gray jersey with white numbers and gray pants. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Washington State's football uniforms for 2026?**
 

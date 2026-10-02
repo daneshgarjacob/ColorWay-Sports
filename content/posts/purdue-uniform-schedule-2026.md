@@ -3,7 +3,7 @@ title: "Purdue Uniform Schedule 2026: Every Jersey and When the Boilermakers Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "What Purdue wears every game in 2026: black home jerseys, the white road set, gold and black helmets, and the full Boilermakers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #2a2a2a 55%, #CEB888 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The Nike set is built on a simple idea: black and old gold, with a black and whi
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CEB888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -52,7 +52,15 @@ The Nike set is built on a simple idea: black and old gold, with a black and whi
 
 **September 26 vs. Notre Dame.** ★ Confirmed from the game photos: **black helmet, black jersey, black pants**, all black. Notre Dame wore a gold helmet, white jersey and gold pants. No. 3 Notre Dame won the Shillelagh Trophy game 49-10 in West Lafayette. Purdue managed 218 total yards, Ryan Browne lost a fumble that Notre Dame returned for a touchdown, and the Boilermakers have lost three straight to fall to 1-3. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) has the visitors.
 
-**October 3 at Illinois.** White expected. The Purdue Cannon game at Gies Memorial Stadium, and it is also Illinois Homecoming with a "Hail to the Orange Out" theme, so the Illini could be in navy or in orange. Kickoff time is still to be announced.
+**October 3 at Illinois**, 4:15 p.m. ET on BTN. ★ Confirmed by Purdue: **gold helmet, white jersey, gold pants**. The team's game poster spells it out line by line: helmet gold, jersey white, pants gold. It is the first time this season the old gold helmet and gold pants go with the white road jersey, after the black helmet and white pants at UCLA, and it is the most Purdue looking road set in the closet. This is the Purdue Cannon game at Gies Memorial Stadium and Illinois Homecoming with a "Hail to the Orange Out" theme, so the Illini are expected in navy with all orange a real possibility.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BoilerFootball/status/2105645076474978625"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @BoilerFootball</p>
+
+The Illini side is on the [Illinois 2026 uniform schedule](/stories/illinois-uniform-schedule-2026).
 
 **October 10 vs. Minnesota.** Black expected. Purdue's Hammer Down Cancer game. Kickoff time to be announced.
 
@@ -78,7 +86,7 @@ Purdue has worn the black jersey twice, but it has not looked the same twice: th
 
 **What jersey is Purdue wearing this week?**
 
-Purdue wore all black against No. 3 Notre Dame on Saturday, September 26, black helmet, black jersey and black pants, confirmed from the game photos, and lost 49-10. The week before at UCLA, Purdue wore the black helmet, white jersey and white pants in a 52-38 loss. Next is Illinois on the road on October 3, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Purdue wore all black against No. 3 Notre Dame on Saturday, September 26, black helmet, black jersey and black pants, confirmed from the game photos, and lost 49-10. The week before at UCLA, Purdue wore the black helmet, white jersey and white pants in a 52-38 loss. Next is Illinois on the road on October 3 for the Purdue Cannon, and Purdue has confirmed the gold helmet, white jersey and gold pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Purdue's football uniforms for 2026?**
 

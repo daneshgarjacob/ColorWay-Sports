@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 5 of the 2026 college football season is the week the pre-announced alternates finally come out of the closet. **Tennessee wears its Smokey Grey Neyland Legacy set against Auburn**, the one-game centennial tribute to General Robert Neyland that the Vols revealed in August. **Texas A&M wears its desert camo Honor and Support uniform against Arkansas** on the day the university turns 150, and **Air Force debuts its matte black B-21 Raider uniform against Navy** in the first leg of the Commander-in-Chief's Trophy. Rutgers has called **The Blackout** for No. 6 Indiana under the lights, and Houston's **Houston Blue** Oilers tribute is lined up for UCF. On top of all that, Northwestern opens the new Ryan Field on Friday night against Penn State, exactly 100 years to the day after the original stadium hosted its first game.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is expected to wear. A look is marked **Confirmed** when the school itself has announced it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. As of Tuesday, only the season-long reveals are locked. Most schools post their combination on Thursday or Friday, so we update this page as they land and again with what was actually worn. ESPN and the AP poll call this Week 5, and the rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 4 uniform guide](/stories/college-football-week-4-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is expected to wear. A look is marked **Confirmed** when the school itself has announced it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. As of Thursday night, more than 30 teams on this page have posted or announced their Week 5 look, and we have marked each one Confirmed with the team's own post. The rest usually land on Friday, so we keep updating this page as they do and again with what was actually worn. ESPN and the AP poll call this Week 5, and the rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 4 uniform guide](/stories/college-football-week-4-uniforms-2026).
 
 ## Games of the Week
 
@@ -45,19 +45,31 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 5 Ohio State at No. 14 Iowa
 
-**Saturday, 3:30 p.m., CBS.** College GameDay is in Iowa City, and it is the ANF Black and Gold Spirit Game, with the crowd striping Kinnick in black and gold by section. **Iowa: Expected in black**, the black Tigerhawk helmet, black jersey and gold pants at home. Iowa rarely strays from the classic home set, and a 3:30 kickoff makes a black-pants night look less likely. **Ohio State: Expected in white**, the silver helmet over the white road jersey. Neither team had posted a combination as of Tuesday. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Iowa schedule](/stories/iowa-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** College GameDay is in Iowa City, and it is the ANF Black and Gold Spirit Game, with the crowd striping Kinnick in black and gold by section. **Iowa: Expected in black**, the black Tigerhawk helmet, black jersey and gold pants at home. Iowa rarely strays from the classic home set, and a 3:30 kickoff makes a black-pants night look less likely. **Ohio State: Expected in white**, the silver helmet over the white road jersey. Eleven Warriors reported on Wednesday, citing a source, that Ohio State will wear its all white "Sub Zero" alternates in Iowa City, the first all white look with the Buckeye stripes. The Buckeyes post their full combination at 3:30 p.m. Friday, 24 hours before kickoff, so it stays Expected until then. Iowa had not posted as of Thursday night. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Iowa schedule](/stories/iowa-uniform-schedule-2026).
 
 ### No. 4 Miami at Clemson
 
-**Saturday, 7:30 p.m., ABC.** Prime time in Death Valley and Miami's biggest road test of the first half. **Clemson: Expected in orange**, the orange home set that Clemson wears at Memorial Stadium almost every week. **Miami: Expected in white**, as the visitor. Miami has worn all white on the road at Stanford and Wake Forest, so that is the base case, and with the Hurricanes in white the two oranges never touch. More: [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Clemson schedule](/stories/clemson-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC.** Prime time in Death Valley and Miami's biggest road test of the first half. **Clemson: Expected in orange**, the orange home set that Clemson wears at Memorial Stadium almost every week. **Miami: Confirmed, all white.** The Hurricanes posted "Business trip attire" on Wednesday: white helmet, white jersey with orange and green trim, white pants, the same road look they wore at Stanford and Wake Forest. With Miami in white the two oranges never touch. More: [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Clemson schedule](/stories/clemson-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2105332217048076558"></a></blockquote>
+</div>
 
 ### No. 6 Indiana at Rutgers: The Blackout
 
-**Saturday, 8 p.m., BTN.** Rutgers announced in August that The Blackout is back for Homecoming and Family Weekend against the national champions, with fans asked to wear black and be in their seats for a pregame light and fireworks show. **Rutgers: Expected in all black**, the black helmet, black jersey and black pants built for exactly this kind of night. We will flip it to Confirmed when the team posts it. **Indiana: Expected in white**, the first look at the road HOOSIERS jersey this season. More: [Indiana schedule](/stories/indiana-uniform-schedule-2026) and [Rutgers schedule](/stories/rutgers-uniform-schedule-2026).
+**Saturday, 8 p.m., BTN.** Rutgers announced in August that The Blackout is back for Homecoming and Family Weekend against the national champions, with fans asked to wear black and be in their seats for a pregame light and fireworks show. **Rutgers: Confirmed, all black.** The school's Blackout announcement says the team "will bring out its black uniforms and helmets," the all-black set built for exactly this kind of night, and the program has been pushing it all week with the Blackout poster below. **Indiana: Expected in white**, the first look at the road HOOSIERS jersey this season. More: [Indiana schedule](/stories/indiana-uniform-schedule-2026) and [Rutgers schedule](/stories/rutgers-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RFootball/status/2104583223439511746"></a></blockquote>
+</div>
 
 ### Penn State at Northwestern: The New Ryan Field Opens
 
-**Friday, 8 p.m., FOX.** The new Ryan Field opens on October 2, one hundred years to the day after the original stadium hosted its first game on October 2, 1926. **Northwestern: Expected in purple**, the home set. The new Purple Gothics alternate already has its announced debut on October 24 against Rutgers, so anything special on Friday would be a surprise, and this is exactly the kind of night that produces one. **Penn State: Expected in white**, the road set in its first adidas season. More: [Northwestern schedule](/stories/northwestern-uniform-schedule-2026) and [Penn State schedule](/stories/penn-state-uniform-schedule-2026).
+**Friday, 8 p.m., FOX.** The new Ryan Field opens on October 2, one hundred years to the day after the original stadium hosted its first game on October 2, 1926. **Northwestern: Confirmed, purple helmet, purple jersey, white pants.** "Classic threads at our new home," the Wildcats posted on Wednesday, so the stadium is the novelty and the uniform is not. The new Purple Gothics alternate keeps its announced debut on October 24 against Rutgers. **Penn State: Expected in white**, the road set in its first adidas season. More: [Northwestern schedule](/stories/northwestern-uniform-schedule-2026) and [Penn State schedule](/stories/penn-state-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/2105442663915045275"></a></blockquote>
+</div>
 
 ## Alternates and Special Looks This Week
 
@@ -67,8 +79,14 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Wisconsin, Red Out (Confirmed).** The alternate red helmet with a large white Motion W, red jersey with white numbers, red pants and red cleats for Homecoming against Michigan State.
 - **North Carolina, 1980 throwbacks (Confirmed).** Powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants against No. 3 Notre Dame.
 - **Florida, orange, white, blue (Confirmed).** From the season-long uniform schedule Florida published in August, which has held every week so far: orange helmet, white jersey, blue pants at Missouri.
-- **Houston, Houston Blue (Expected).** Houston has branded the UCF game the Built By Houston Game with a Wear Houston Blue theme, which is how the annual Houston Blue date is always packaged: light blue jersey with red numbers, white helmet with the light blue Houston script, white pants with a red stripe.
-- **Rutgers, The Blackout (Expected).** All black for Homecoming against Indiana.
+- **Houston, Houston Blue (Confirmed).** The program's official UCF game preview counts a win as Houston's second in Houston Blue: light blue jersey with red numbers, white helmet with the light blue Houston script, white pants with a red stripe, for the Built By Houston Game.
+- **Rutgers, The Blackout (Confirmed).** Black helmets and black uniforms for Homecoming against Indiana, per the school's Blackout announcement.
+- **Iowa State, Homecoming all cardinal (Confirmed).** Cardinal helmet with "Cyclones" in script on the side, cardinal jersey, cardinal pants against West Virginia.
+- **Arizona State, Maroon Monsoon (Confirmed).** A maroon chrome helmet with the gold pitchfork over the maroon jersey for the Big 12 home opener against Baylor.
+- **Utah State, the Jumpin' Cow (Confirmed).** All white with the throwback Jumpin' Cow logo on the white helmet at Boise State.
+- **Wake Forest, all black (Confirmed).** Black helmet with the gold Deacs script, black jersey, black pants against Stanford.
+- **UAB, Smile-A-Mile names (Confirmed).** For the fourth annual Smile-A-Mile childhood cancer game against Samford, every Blazer wears the name of a Smile-A-Mile patient on the back of his jersey.
+- **Ohio State, Sub Zero (Reported).** Eleven Warriors reported the all white alternate for Iowa; the official reveal is Friday afternoon.
 - **Colorado, Homecoming (watch).** The university's 150th anniversary and a black and gold stripe out against Texas Tech. Black is expected, and it is the likeliest home date for a gold-on-gold look.
 - **Illinois, Hail to the Orange Out (watch).** Homecoming against Purdue for the Cannon. Navy is expected, but the all orange set is a real possibility.
 
@@ -79,8 +97,12 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 ### Thursday, October 1
 
 **North Texas at Tulsa**, 9 p.m., ESPN.
-- [North Texas](/stories/north-texas-uniform-schedule-2026): **Expected**, white on the road for the American opener.
+- [North Texas](/stories/north-texas-uniform-schedule-2026): **Confirmed**, green helmet, white jersey, green pants, posted as "Today's uniform" on game day.
 - [Tulsa](/stories/tulsa-uniform-schedule-2026): **Expected**, royal blue under the gold helmet for a Block Party night at Chapman Stadium. The red throwback already debuted against East Texas A&M on September 19.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2105800568316825722"></a></blockquote>
+</div>
 
 ### Friday, October 2
 
@@ -89,12 +111,16 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026): **Expected**, maroon at home, in a Friday night slot where Lane Stadium tends to get an Effect theme. The Hokies wore their first maroon helmet of the season at Boston College last week.
 
 **Liberty at Delaware**, 7 p.m., CBSSN.
-- [Liberty](/stories/liberty-uniform-schedule-2026): **Expected**, white, in the Conference USA opener.
+- [Liberty](/stories/liberty-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, red pants, revealed on an airfield as "aviation attire" for the Conference USA opener.
 - Delaware: TBA, announced game week.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LibertyFootball/status/2105011484740764115"></a></blockquote>
+</div>
 
 **Penn State at Northwestern**, 8 p.m., FOX, the new Ryan Field opener.
 - [Penn State](/stories/penn-state-uniform-schedule-2026): **Expected**, white.
-- [Northwestern](/stories/northwestern-uniform-schedule-2026): **Expected**, purple.
+- [Northwestern](/stories/northwestern-uniform-schedule-2026): **Confirmed**, purple helmet, purple jersey, white pants. See above.
 
 ### Saturday, October 3: Noon Window
 
@@ -108,15 +134,23 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **No. 7 Alabama at No. 16 Mississippi State**, noon, ABC.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Expected**, white on the road under the crimson helmet.
-- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Expected**, maroon, with a Stripe Out in the stands. The Bulldogs wore white at home for last week's White Out against Missouri, and black is the wild card.
+- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, maroon helmet with the white retro M-State logo, maroon jersey, white pants, with a Stripe Out in the stands. The Bulldogs wore white at home for last week's White Out against Missouri.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HailStateFB/status/2105780121881792986"></a></blockquote>
+</div>
 
 **UCF at No. 20 Houston**, noon, ESPN2.
 - [UCF](/stories/ucf-uniform-schedule-2026): **Expected**, white.
-- [Houston](/stories/houston-uniform-schedule-2026): **Expected**, Houston Blue for the Built By Houston Game. It would be the fourth time the light blue set has been worn.
+- [Houston](/stories/houston-uniform-schedule-2026): **Confirmed**, Houston Blue for the Built By Houston Game, per the program's official game preview. It is the fourth time the light blue set has been worn.
 
 **Boston College at No. 21 SMU**, noon, The CW.
 - [Boston College](/stories/boston-college-uniform-schedule-2026): **Expected**, white.
-- [SMU](/stories/smu-uniform-schedule-2026): **Expected**, blue for a Blue theme day. Boston College is also the opponent SMU picked for its all black set the last time the two met in Dallas, in 2024.
+- [SMU](/stories/smu-uniform-schedule-2026): **Confirmed**, white helmet, blue jersey, white pants, "the classic look" for a Blue theme day.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2105795836815069201"></a></blockquote>
+</div>
 
 **Navy at Air Force**, noon, CBS. See above.
 - [Navy](/stories/navy-uniform-schedule-2026): **Expected**, white.
@@ -127,12 +161,24 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026): **Expected**, maroon, with a maroon and gold Stripe Out and Parent and Family Weekend.
 
 **West Virginia at Iowa State**, noon, TNT.
-- [West Virginia](/stories/west-virginia-uniform-schedule-2026): **Expected**, white.
-- [Iowa State](/stories/iowa-state-uniform-schedule-2026): **Expected**, cardinal. It is Homecoming, the likeliest home date for an alternate, a week after the all white Whiteout against Utah.
+- [West Virginia](/stories/west-virginia-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, navy pants.
+- [Iowa State](/stories/iowa-state-uniform-schedule-2026): **Confirmed**, all cardinal for Homecoming and Color-It-Cardinal, with "Cyclones" in script on the side of the cardinal helmet, a week after the all white Whiteout against Utah.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2105724555452899351"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WVUfootball/status/2105801326365987039"></a></blockquote>
+</div>
 
 **Stanford at Wake Forest**, noon, ACC Network.
 - [Stanford](/stories/stanford-uniform-schedule-2026): **Expected**, white.
-- [Wake Forest](/stories/wake-forest-uniform-schedule-2026): **Expected**, black, with gold pants the likeliest pairing for a day game.
+- [Wake Forest](/stories/wake-forest-uniform-schedule-2026): **Confirmed**, all black: black helmet with the gold Deacs script, black jersey, black pants. "Back in black."
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WakeFB/status/2105779916197498989"></a></blockquote>
+</div>
 
 **Syracuse at UConn**, noon, CBSSN.
 - [Syracuse](/stories/syracuse-uniform-schedule-2026): **Expected**, white.
@@ -151,8 +197,12 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 </div>
 
 **Vanderbilt at No. 2 Georgia**, 12:45 p.m., SEC Network.
-- [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026): **Expected**, white.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Expected**, red helmet, red jersey, silver britches.
+- [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, black pants.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Expected**, red helmet, red jersey, silver britches, for Homecoming.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/VandyFootball/status/2105694567756624293"></a></blockquote>
+</div>
 
 ### Also on the Early Slate
 
@@ -178,12 +228,24 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [Florida State](/stories/florida-state-uniform-schedule-2026): **Expected**, garnet for the Cancer Awareness game and the ACC home opener.
 
 **Louisville at NC State**, 3:30 p.m., ACC Network.
-- [Louisville](/stories/louisville-uniform-schedule-2026): **Expected**, white.
+- [Louisville](/stories/louisville-uniform-schedule-2026): **Confirmed**, red helmet, white jersey, white pants.
 - [NC State](/stories/nc-state-uniform-schedule-2026): **Expected**, red for the ACC home opener.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2105432558850965634"></a></blockquote>
+</div>
+
 **Cal at UNLV**, 3:30 p.m., CBSSN, at Allegiant Stadium.
-- [Cal](/stories/cal-uniform-schedule-2026): **Expected**, white.
-- [UNLV](/stories/unlv-uniform-schedule-2026): **Expected**, red for Hispanic Heritage Day.
+- [Cal](/stories/cal-uniform-schedule-2026): **Confirmed**, navy helmet with the gold Cal script and the white jersey. The pants are not clear in the reveal.
+- [UNLV](/stories/unlv-uniform-schedule-2026): **Confirmed**, red helmet, red jersey, gray pants for Hispanic Heritage Day, revealed at Las Vegas Motor Speedway.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/unlvfootball/status/2105721067511898399"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CalFootball/status/2105782706634428721"></a></blockquote>
+</div>
 
 **Marshall at James Madison**, 3:45 p.m., ESPNU.
 - [Marshall](/stories/marshall-uniform-schedule-2026): **Expected**, white.
@@ -198,51 +260,88 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Expected**, garnet.
 
 **Purdue at Illinois**, 4:15 p.m., BTN.
-- [Purdue](/stories/purdue-uniform-schedule-2026): **Expected**, white for the Purdue Cannon game.
+- [Purdue](/stories/purdue-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants for the Purdue Cannon game.
 - [Illinois](/stories/illinois-uniform-schedule-2026): **Expected**, navy, with all orange a live option for the Hail to the Orange Out on Homecoming.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BoilerFootball/status/2105645076474978625"></a></blockquote>
+</div>
 
 ### Also in the Afternoon
 
 - **[Memphis](/stories/memphis-uniform-schedule-2026) at Charlotte**, 3:30 p.m., ESPN+. Memphis **Expected** in white for the American opener. Charlotte: TBA, announced game week.
-- **[Oregon State](/stories/oregon-state-uniform-schedule-2026) at [Colorado State](/stories/colorado-state-uniform-schedule-2026)**, 6 p.m., USA Network. Oregon State **Expected** in white for the Pac-12 opener. Colorado State **Expected** in green for Homecoming.
+- **[Oregon State](/stories/oregon-state-uniform-schedule-2026) at [Colorado State](/stories/colorado-state-uniform-schedule-2026)**, 6 p.m., USA Network. Oregon State **Confirmed** in an orange helmet, white jersey and orange pants for the Pac-12 opener. Colorado State **Expected** in green for Homecoming.
+- **Samford at [UAB](/stories/uab-uniform-schedule-2026)**, 3:30 p.m., ESPN+. UAB's colors are not announced, but the detail is: for the fourth annual Smile-A-Mile childhood cancer game, every Blazer wears the name of a Smile-A-Mile patient on the back of his jersey.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BeaverFootball/status/2105798234283343952"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UAB_FB/status/2105074104411849040"></a></blockquote>
+</div>
 
 ### Saturday, October 3: Night Window
 
 **Arkansas at Texas A&M**, 7 p.m., ESPN2.
-- [Arkansas](/stories/arkansas-uniform-schedule-2026): **Expected**, white.
+- [Arkansas](/stories/arkansas-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, white pants.
 - [Texas A&M](/stories/texas-am-uniform-schedule-2026): **Confirmed**, Honor and Support camo.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RazorbackFB/status/2105764791558291646"></a></blockquote>
+</div>
+
 **No. 10 BYU at TCU**, 7 p.m., ESPN.
-- [BYU](/stories/byu-uniform-schedule-2026): **Expected**, white.
+- [BYU](/stories/byu-uniform-schedule-2026): **Confirmed**, royal blue helmet, white jersey, white pants.
 - [TCU](/stories/tcu-uniform-schedule-2026): **Expected**, purple for the Big 12 home opener.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2104579931846115725"></a></blockquote>
+</div>
 
 **Georgia Southern at [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026)**, 7 p.m., ESPN+.
 - Coastal Carolina: **Expected**, teal for Family Weekend, Hall of Fame weekend and the Sun Belt opener.
 - Georgia Southern: TBA, announced game week.
 
 **No. 4 Miami at Clemson**, 7:30 p.m., ABC.
-- [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Expected**, white.
+- [Miami](/stories/miami-hurricanes-uniform-schedule-2026): **Confirmed**, all white. See above.
 - [Clemson](/stories/clemson-uniform-schedule-2026): **Expected**, orange.
 
 **No. 12 Texas Tech at Colorado**, 7:30 p.m., FOX.
-- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Expected**, white at Folsom Field.
+- [Texas Tech](/stories/texas-tech-uniform-schedule-2026): **Announced**, red helmet, white jersey, red pants, as reported by On3's Red Raider Sports. We will flip it to Confirmed once we can embed the team's own post.
 - [Colorado](/stories/colorado-uniform-schedule-2026): **Expected**, black, for Homecoming, the university's 150th anniversary and a black and gold stripe out.
 
 **Washington at No. 18 USC**, 7:30 p.m., NBC.
-- [Washington](/stories/washington-huskies-uniform-schedule-2026): **Expected**, white, a week after the all black Dawgs set against Minnesota.
+- [Washington](/stories/washington-huskies-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, white pants, a week after the all black Dawgs set against Minnesota.
 - [USC](/stories/usc-uniform-schedule-2026): **Expected**, the home set: cardinal helmet, cardinal jersey, gold pants.
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2105381242736955565"></a></blockquote>
+</div>
+
 **Utah State at No. 22 Boise State**, 7:30 p.m., CBSSN.
-- [Utah State](/stories/utah-state-uniform-schedule-2026): **Expected**, white on the blue turf.
-- [Boise State](/stories/boise-state-uniform-schedule-2026): **Expected**, blue for the Pac-12 home opener, with fans asked to stripe the stadium in blue and orange.
+- [Utah State](/stories/utah-state-uniform-schedule-2026): **Confirmed**, all white on the blue turf, with the throwback Jumpin' Cow logo on the white helmet.
+- [Boise State](/stories/boise-state-uniform-schedule-2026): **Confirmed**, all blue, blue helmet, blue jersey, blue pants, for the Pac-12 home opener, with fans asked to stripe the stadium in blue and orange.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2105802571092984122"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2105780945823334908"></a></blockquote>
+</div>
 
 **Temple at South Florida**, 7:30 p.m., ESPNU.
 - [Temple](/stories/temple-uniform-schedule-2026): **Expected**, white.
 - [South Florida](/stories/south-florida-uniform-schedule-2026): **Expected**, green.
 
 **[Army](/stories/army-uniform-schedule-2026) at Louisiana Tech**, 7:30 p.m., ESPN+.
-- Army: **Expected**, white, on a rare non-conference road trip to Ruston.
+- Army: **Confirmed**, gold helmet, white jersey, white pants, on a rare non-conference road trip to Ruston.
 - Louisiana Tech: TBA, announced game week.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/2105728452234018871"></a></blockquote>
+</div>
 
 **McNeese at No. 11 LSU**, 7:45 p.m., SEC Network.
 - McNeese: TBA, announced game week.
@@ -254,19 +353,39 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Fresno State at Washington State**, 9:30 p.m., USA Network.
 - [Fresno State](/stories/fresno-state-uniform-schedule-2026): **Expected**, white.
-- [Washington State](/stories/washington-state-uniform-schedule-2026): **Expected**, crimson for Family Weekend and the Pac-12 opener, though the Cougars mix crimson, gray, white and anthracite at home.
+- [Washington State](/stories/washington-state-uniform-schedule-2026): **Confirmed**, all gray: gray helmet with the crimson Cougar head and crimson facemask, gray jersey, gray pants, for Family Weekend and the Pac-12 opener.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2105388693414642116"></a></blockquote>
+</div>
 
 **Baylor at Arizona State**, 10:30 p.m., ESPN.
-- [Baylor](/stories/baylor-uniform-schedule-2026): **Expected**, white, a week after the gold chrome throwback debut.
-- [Arizona State](/stories/arizona-state-uniform-schedule-2026): **Expected**, maroon for the Big 12 home opener, with the helmet announced in game week.
+- [Baylor](/stories/baylor-uniform-schedule-2026): **Confirmed**, white helmet with the green and gold stripe, white jersey, green pants, a week after the gold chrome throwback debut.
+- [Arizona State](/stories/arizona-state-uniform-schedule-2026): **Confirmed**, "Maroon Monsoon": a maroon chrome helmet with the gold pitchfork and the maroon jersey for the Big 12 home opener. The pants are not shown in the reveal.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2105794907025613188"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2105755842587070785"></a></blockquote>
+</div>
 
 **Texas State at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 10:30 p.m., The CW.
 - San Diego State: **Expected**, black for the Pac-12 opener at Snapdragon Stadium.
-- Texas State: TBA, announced game week.
+- Texas State: **Confirmed**, white helmet, white jersey, maroon pants.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TXSTATEFOOTBALL/status/2105765545148825985"></a></blockquote>
+</div>
 
 **Cincinnati at Arizona**, 11 p.m., FOX.
-- [Cincinnati](/stories/cincinnati-uniform-schedule-2026): **Expected**, white, a week after the all black Nippert at Night set.
+- [Cincinnati](/stories/cincinnati-uniform-schedule-2026): **Confirmed**, all white, a week after the all black Nippert at Night set.
 - [Arizona](/stories/arizona-uniform-schedule-2026): **Expected**, navy for the Big 12 home opener, Family Weekend and Pacific Islander Heritage, with a white-clad crowd by request.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoBearcatsFB/status/2105764802584814042"></a></blockquote>
+</div>
 
 ### Also Late
 
@@ -276,13 +395,13 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ## The Bottom Line
 
-Week 5 is the first week of the season with three locked alternates on the same Saturday, and all three were announced back in August. Tennessee's Smokey Grey against Auburn is the one we expect to see everywhere on Saturday afternoon, Texas A&M's camo gets a prime-time stage for the university's 150th, and Air Force's matte black B-21 Raider against Navy's white is the cleanest service academy clash in years. Since then, two more have landed: Wisconsin's Red Out with the red helmet for Homecoming against Michigan State, and North Carolina's 1980 throwbacks for No. 3 Notre Dame. Rutgers in black under the lights against the national champions and Houston Blue against UCF could make it seven. The rest of the Top 25 should look like the rest of the Top 25: Georgia in red, USC in cardinal and gold, LSU in white at home, Notre Dame in gold and white on the road. The open questions are at Kinnick, where GameDay and a black and gold crowd meet Ohio State, at Clemson, where Miami chooses its road look, and on Friday night in Evanston, where the new Ryan Field could get a surprise. We update this page as each school posts.
+Week 5 is the first week of the season with three locked alternates on the same Saturday, and all three were announced back in August. Tennessee's Smokey Grey against Auburn is the one we expect to see everywhere on Saturday afternoon, Texas A&M's camo gets a prime-time stage for the university's 150th, and Air Force's matte black B-21 Raider against Navy's white is the cleanest service academy clash in years. Since then, two more have landed: Wisconsin's Red Out with the red helmet for Homecoming against Michigan State, and North Carolina's 1980 throwbacks for No. 3 Notre Dame. Rutgers in black under the lights against the national champions and Houston Blue against UCF are now confirmed too, which makes it seven, and the Thursday reveals added a few more worth a look: Iowa State all cardinal with a script Cyclones helmet for Homecoming, Arizona State's maroon chrome Maroon Monsoon helmet, Utah State's Jumpin' Cow throwback logo at Boise and Wake Forest all black. Miami answered its question with all white at Clemson, and Northwestern kept it classic for the new Ryan Field, purple over white. The rest of the Top 25 should look like the rest of the Top 25: Georgia in red, USC in cardinal and gold, LSU in white at home, Notre Dame in gold and white on the road. The biggest open question left is at Kinnick, where Ohio State is reported to be bringing its all white Sub Zero set and Iowa has not posted. We update this page as each school posts.
 
 ## Frequently Asked Questions
 
 **What are college football teams wearing in Week 5?**
 
-Most top teams are in standard sets for Week 5: home teams in color and visitors in white. The confirmed specials are Tennessee's Smokey Grey Neyland Legacy uniform against Auburn, Texas A&M's Honor and Support camo against Arkansas, Air Force's B-21 Raider uniform against Navy, Florida's orange helmet, white jersey and blue pants at Missouri from its published season schedule, Wisconsin's all-red Red Out with the red helmet against Michigan State, and North Carolina's 1980 throwbacks against Notre Dame. Rutgers is expected in all black for The Blackout and Houston in Houston Blue against UCF. Every game is listed above with its confirmed or expected uniform.
+Most top teams are in standard sets for Week 5: home teams in color and visitors in white. The confirmed specials are Tennessee's Smokey Grey Neyland Legacy uniform against Auburn, Texas A&M's Honor and Support camo against Arkansas, Air Force's B-21 Raider uniform against Navy, Florida's orange helmet, white jersey and blue pants at Missouri from its published season schedule, Wisconsin's all-red Red Out with the red helmet against Michigan State, and North Carolina's 1980 throwbacks against Notre Dame. Rutgers is confirmed in black helmets and black uniforms for The Blackout, and Houston in Houston Blue against UCF. Iowa State goes all cardinal for Homecoming, Arizona State brings a maroon chrome helmet, Utah State wears its Jumpin' Cow throwback logo, Wake Forest is all black and Miami is all white at Clemson. Every game is listed above with its confirmed or expected uniform.
 
 **What is Tennessee wearing against Auburn?**
 
@@ -306,11 +425,19 @@ Air Force wears its B-21 Raider uniform from the Air Power Legacy Series against
 
 **What is Rutgers wearing against Indiana?**
 
-Rutgers has named the Indiana game The Blackout, for Homecoming and Family Weekend at 8 p.m. on October 3, and we expect the black helmet, black jersey and black pants. The team had not posted its combination as of Tuesday. Indiana is expected in white.
+Rutgers has named the Indiana game The Blackout, for Homecoming and Family Weekend at 8 p.m. on October 3, and the school has confirmed that the team will bring out its black uniforms and helmets, the all-black set built for the Blackout. Indiana is expected in white.
+
+**What is Miami wearing against Clemson?**
+
+All white. Miami posted its Week 5 look on September 30: white helmet, white jersey and white pants, the same road set it wore at Stanford and Wake Forest. Clemson is expected in orange at home on Saturday night.
+
+**What is Ohio State wearing against Iowa?**
+
+Eleven Warriors reported, citing a source, that Ohio State will wear its all white Sub Zero alternates at Iowa. The Buckeyes post their full combination at 3:30 p.m. Eastern on Friday, so we have it as reported, not confirmed, until then.
 
 **Is Houston wearing Houston Blue against UCF?**
 
-That is the expectation. Houston has branded the October 3 UCF game the Built By Houston Game with a Wear Houston Blue theme, which is how the light blue Oilers tribute date has been packaged every year. It would be the fourth time Houston has worn the set. UCF is expected in white.
+Yes. Houston has branded the October 3 UCF game the Built By Houston Game with a Wear Houston Blue theme, and the program's official game preview counts a win as its second in Houston Blue. It is the fourth time Houston has worn the light blue Oilers tribute set. UCF is expected in white.
 
 **Is Oregon playing in Week 5?**
 

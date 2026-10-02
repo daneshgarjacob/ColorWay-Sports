@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **September 26 vs. South Carolina**, Tuscaloosa. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the SEC home opener. South Carolina came in all white, white helmet, white jersey and white pants. Keelon Russell threw for 365 yards and four touchdowns, two of them to Ryan Coleman-Williams, Red Morgan returned an interception for a score, and Alabama won 49-18 to move to 4-0. More: [South Carolina uniform schedule](/stories/south-carolina-uniform-schedule-2026).
 
-**October 3 at Mississippi State**, Starkville. Road. White.
+**October 3 at Mississippi State**, Starkville, noon ET on ABC. Road. White. Mississippi State has confirmed a maroon helmet with the white retro M-State logo, a maroon jersey and white pants, so this should be white against maroon. See our [Mississippi State 2026 uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
 **October 10 vs. Georgia**, Tuscaloosa. The biggest home game of the year. Crimson.
 

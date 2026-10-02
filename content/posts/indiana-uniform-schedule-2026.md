@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -76,7 +76,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **September 25 vs. Northwestern.** ★ Confirmed from Indiana's game photography: **crimson helmet with the white IU, crimson jersey, white pants**, the same home set as the first two games. The Big Ten and FOX flexed this one to Friday night, 8 p.m. Eastern, a rare prime-time Friday at Memorial Stadium and the first conference game of the year. Northwestern wore the purple helmet, white jersey and purple pants and made it close, but Lee Beebe Jr. ran for 203 yards and Indiana won 29-23 to move to 4-0. More: [Northwestern uniform schedule](/stories/northwestern-uniform-schedule-2026).
 
-**October 3 at Rutgers.** White expected. An 8 p.m. Eastern kickoff at SHI Stadium, and the first look at the road HOOSIERS jersey in 2026. The [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026) covers the Scarlet Knights' side.
+**October 3 at Rutgers.** White expected. An 8 p.m. Eastern kickoff at SHI Stadium, and the first look at the road HOOSIERS jersey in 2026. Rutgers has confirmed The Blackout for Homecoming, black helmets and black uniforms, so it should be white against black under the lights. The [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026) covers the Scarlet Knights' side.
 
 **October 10 at Nebraska.** White expected. Memorial Stadium in Lincoln, with Nebraska in red at home. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
@@ -102,7 +102,7 @@ Indiana is the most predictable uniform team in the Big Ten and it is not an acc
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore the crimson helmet, crimson jersey and white pants against Northwestern on Friday, September 25, and won 29-23 to move to 4-0. It is the same combination the Hoosiers wore in a 52-16 win over North Texas and a 55-0 win over Howard. Next is a trip to Rutgers on October 3, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, crimson jersey and white pants against Northwestern on Friday, September 25, and won 29-23 to move to 4-0. It is the same combination the Hoosiers wore in a 52-16 win over North Texas and a 55-0 win over Howard. Next is a trip to Rutgers on October 3, where white is expected against the Scarlet Knights' all-black Blackout set. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

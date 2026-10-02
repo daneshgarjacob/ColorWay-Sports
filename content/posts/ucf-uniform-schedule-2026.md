@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -21,7 +21,7 @@ UCF has three helmets, two jerseys, two pants and a Thursday tradition of tellin
   <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black jersey with white numbers carrying a gold drop shadow, gray Pegasus wings on the shoulder caps and the number repeated on the shoulder. All black head to toe is Knightmode.</div></div>
   <div style="background: #ffffff; color: #1b1b1b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Jersey</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with gold numbers edged in black. Paired with the white helmet and white pants it becomes Lightmode, the road answer to Knightmode.</div></div>
   <div style="background: #BA9B37; color: #1b1b1b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Gold, black and white shells, all three with the stacked UCF logo on the sides and a sword-shaped stripe down the center. The black one carries a gold ORLANDO front bumper.</div></div>
-  <div style="background: #10213f; color: #ffffff; border: 2px solid #BA9B37; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Space Game Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The annual one-off for the Space Game. The 2025 edition was HyperSpace, with a carbon fiber helmet and a center stripe that faded from Canaveral blue to pink. The 2026 version has not been revealed.</div></div>
+  <div style="background: #10213f; color: #ffffff; border: 2px solid #BA9B37; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Space Game Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The annual one-off for the Space Game. The 2025 edition was HyperSpace, with a carbon fiber helmet and a center stripe that faded from Canaveral blue to pink. The 2026 version, Mission X, was revealed on September 29: white with a red helmet stripe and a chrome gold facemask.</div></div>
   <div style="background: #f6f7f9; color: #1b1b1b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Pants</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black and white, each with three large Polaris stars running down both sides. The stars grew in the 2025 Nike redesign.</div></div>
 </div>
 
@@ -75,7 +75,7 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **September 26 vs. TCU.** ★ Confirmed from the game photos: **gold helmet, black jersey, white pants**. The Big 12 home opener at 3:30 p.m. Eastern on FS1, with TCU in a white helmet, white jersey and purple pants. UCF won 21-13 to move to 3-1. More: [TCU uniform schedule](/stories/tcu-uniform-schedule-2026).
 
-**October 3 at Houston.** White expected. Houston has already told everyone it is wearing its light blue Houston Blue alternate for this one, which makes the visitor's white jersey a lock under Big 12 convention.
+**October 3 at Houston.** White expected. Houston has confirmed its light blue Houston Blue alternate for the Built By Houston Game, noon ET on ESPN2, which makes the visitor's white jersey a lock under Big 12 convention. See the [Houston 2026 uniform schedule](/stories/houston-uniform-schedule-2026).
 
 **October 10 at Oklahoma State.** White expected, at Boone Pickens Stadium. Oklahoma State has a Stripe the Stadium night planned, so the Knights in white against orange is the likely picture. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
@@ -83,7 +83,13 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **October 24 vs. BYU.** Black expected. Homecoming at the Bounce House against a ranked BYU team. Homecoming is a natural slot for something extra, but UCF has already committed its one true alternate to the following week, so we would expect a helmet or pants twist rather than a new jersey. More: [BYU schedule](/stories/byu-uniform-schedule-2026).
 
-**October 30 vs. Baylor.** Space Game. This is the tenth annual Space Game and the biggest uniform date on the calendar, moved to a Friday night by the Big 12 for the second straight season, 7:30 p.m. Eastern on ESPN. The 2025 version was called HyperSpace, built around a carbon fiber helmet and a center stripe that shifted from Canaveral blue to pink to mimic shock diamonds off a rocket nozzle. Nothing has been revealed for 2026 yet. The Knights also lost their first Space Game ever last year, 30-27 to Houston, so there is some history to reset. More: [Baylor schedule](/stories/baylor-uniform-schedule-2026).
+**October 30 vs. Baylor.** Space Game. This is the tenth annual Space Game and the biggest uniform date on the calendar, moved to a Friday night by the Big 12 for the second straight season, 7:30 p.m. Eastern on ESPN. The 2025 version was called HyperSpace, built around a carbon fiber helmet and a center stripe that shifted from Canaveral blue to pink to mimic shock diamonds off a rocket nozzle. The 2026 set was revealed on September 29 under the name Mission X, built around NASA's earliest crewed programs, Mercury, Gemini and Apollo, from the decade the university was founded. The helmet carries a red stripe and a chrome gold facemask like the ones Apollo commanders wore, plus a chrome silver stacked logo over an American flag, and the reveal shows it over a white jersey and white pants. It is the tenth Space Game uniform. The Knights also lost their first Space Game ever last year, 30-27 to Houston, so there is some history to reset. More: [Baylor schedule](/stories/baylor-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2105015803577860604"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 2026 Space Game uniform reveal, via @UCF_Football</p>
 
 **November 7 at Kansas.** White expected. Kansas wears blue at home, so the Knights go white in Lawrence. More: [Kansas schedule](/stories/kansas-uniform-schedule-2026).
 
@@ -101,7 +107,7 @@ Two games in, UCF has already shown two of its three helmets and both jerseys, w
 
 **What jersey is UCF wearing this week?**
 
-UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener, in the gold helmet, black jersey and white pants, confirmed from the game photos. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30. Next is Houston on the road on October 3, where white is expected.
+UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener, in the gold helmet, black jersey and white pants, confirmed from the game photos. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30. Next is Houston on the road on October 3, where white is expected against Houston Blue.
 
 **What are UCF's football uniforms for 2026?**
 
@@ -113,7 +119,7 @@ Knightmode is UCF's all-black look: black helmet, black jersey and black pants. 
 
 **When is the UCF Space Game in 2026?**
 
-Friday, October 30 against Baylor at 7:30 p.m. Eastern on ESPN. It is the tenth annual Space Game, and the Big 12 moved it off Saturday for the second year in a row. The 2026 alternate uniform has not been revealed. The 2025 edition was the HyperSpace set with a carbon fiber helmet.
+Friday, October 30 against Baylor at 7:30 p.m. Eastern on ESPN. It is the tenth annual Space Game, and the Big 12 moved it off Saturday for the second year in a row. The 2026 alternate, Mission X, was revealed on September 29: a NASA-inspired look with a red helmet stripe, a chrome gold facemask and a chrome silver stacked logo over an American flag. The 2025 edition was the HyperSpace set with a carbon fiber helmet.
 
 **When does UCF announce its uniform each week?**
 

@@ -52,7 +52,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 25 at California.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, white jersey, white pants**, the standard road set, for a Friday night kickoff at 10:30 p.m. Eastern on ESPN. Cal wore a navy helmet, gold jersey and navy pants for its Gold Out. Clemson won 24-10, with Bryant Wesco Jr. returning a punt 65 yards for a touchdown, and moved to 3-1. The other side of it is on our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026).
 
-**October 3 vs. Miami.** Orange expected.
+**October 3 vs. Miami**, 7:30 p.m. ET on ABC. Orange expected. Miami has confirmed its all white road set, white helmet, white jersey and white pants, so Death Valley gets orange against white in prime time. See our [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 
 **October 10.** Bye.
 
@@ -78,7 +78,7 @@ Orange at home, white on the road, the paw on the helmet either way. The one dat
 
 **What jersey is Clemson wearing this week?**
 
-Clemson wore the orange helmet, white jersey and white pants at Cal on Friday, September 25, and won 24-10. Next is Miami at home on October 3, where orange is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Clemson wore the orange helmet, white jersey and white pants at Cal on Friday, September 25, and won 24-10. Next is Miami at home on October 3, where orange is expected against Miami's confirmed all white. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Clemson's uniforms for 2026?**
 

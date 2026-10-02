@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: '2026-09-26'
+updatedDate: "2026-10-01"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / Scarlet</div></div>
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / Scarlet</div></div>
   <div style="background: #CC0033; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Howard</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / Scarlet / White</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Likely</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #CC0033; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; The Blackout: All Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -52,7 +52,13 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **September 25 vs. Howard.** ★ Confirmed from the broadcast: **scarlet helmet with the white block R, scarlet jersey, white pants**, the classic home look, for Sir Henry's Birthday Bash and R Community Day, featuring Eric LeGrand's A Walk to Believe. The helmets carried a BELIEVE bumper on the back. Howard wore a silver helmet, white jersey and navy pants. Rutgers won 58-7 on Big Ten Network for its first win of the season, with Antwan Raymond running for three touchdowns.
 
-**October 3 vs. Indiana.** Black likely. This is Homecoming and Family Weekend, and Rutgers has named it The Blackout. Last season's all-black set was built for exactly this kind of night, so this is the home date where we expect the black helmet, black jersey and black pants. It is an 8 p.m. Eastern kickoff. One calendar note: ESPN files this game under October 4 because its feed runs on UTC. It is a Saturday night game on October 3. We will star the cell once the uniform is confirmed.
+**October 3 vs. Indiana**, 8 p.m. ET on BTN. ★ Confirmed by Rutgers: **The Blackout, black helmet and black uniform.** The athletic department's Blackout announcement says it plainly: "The team will bring out its black uniforms and helmets." That is the all-black set that debuted in 2025, built for exactly this kind of night: Homecoming and Family Weekend, an 8 p.m. kickoff against the national champions, a black-clad crowd and a pregame light and fireworks show. Rutgers has been promoting the game all week with the Blackout poster below. Indiana is expected in white, which makes it black against white under the lights. One calendar note: ESPN files this game under October 4 because its feed runs on UTC. It is a Saturday night game on October 3.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RFootball/status/2104583223439511746"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Blackout poster, via @RFootball</p>
 
 **October 10.** Bye.
 
@@ -78,7 +84,7 @@ Rutgers has already used two helmets in two games, and the tribute set at Boston
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers wore the scarlet helmet, scarlet jersey and white pants against Howard on Friday, September 25, and won 58-7. A week earlier against USC it was scarlet over scarlet for the Scarlet Out. Next is Homecoming against Indiana on October 3, named The Blackout, where we expect the all-black set. The week-by-week grid above lists every game with the expected set.
+Rutgers wore the scarlet helmet, scarlet jersey and white pants against Howard on Friday, September 25, and won 58-7. A week earlier against USC it was scarlet over scarlet for the Scarlet Out. Next is Homecoming against Indiana on October 3, named The Blackout, and Rutgers has confirmed the black helmets and black uniforms for it. The week-by-week grid above lists every game with the expected set.
 
 **What are Rutgers's football uniforms for 2026?**
 
@@ -90,7 +96,7 @@ The 9/11 tribute uniform: a white helmet with a stars-and-stripes 37, an America
 
 **Why is Rutgers wearing black against Indiana?**
 
-Rutgers has named its October 3 homecoming game against Indiana The Blackout. The all-black set, with the black helmet, black jersey and black pants, is built for that theme, so it is the likely look. We will confirm it from the broadcast and update the grid.
+Rutgers has named its October 3 homecoming game against Indiana The Blackout. Rutgers confirmed in its Blackout announcement that the team will bring out its black uniforms and helmets, the all-black set that debuted in 2025. Kickoff is 8 p.m. Eastern on BTN, and fans are asked to wear black too.
 
 **Does Rutgers have a new alternate uniform in 2026?**
 

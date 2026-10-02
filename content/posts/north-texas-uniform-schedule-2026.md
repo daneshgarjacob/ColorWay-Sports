@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-01"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -47,7 +47,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <div style="background: #00853E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #ffffff; color: #00853E; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy Whites</div></div>
   <div style="background: #00853E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston Christian</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -74,7 +74,13 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 **September 26 vs. Houston Christian.** ★ Confirmed from the broadcast: **white helmet, green jersey, green pants** for Family Weekend and Senior Day at DATCU Stadium. Houston Christian wore a white helmet, white jersey and royal blue pants. Jahiem White ran for 133 yards and four touchdowns, Tayven Jackson completed 16 of 18 passes for 270 yards, and North Texas won 63-14 to get to 2-2.
 
-**October 1 at Tulsa.** White expected. Thursday night at 8 p.m. Central on ESPN, the American opener for both teams, with Tulsa in royal blue at home. Our [Tulsa 2026 uniform schedule](/stories/tulsa-uniform-schedule-2026) has the other side, including the red throwback Tulsa just revealed.
+**October 1 at Tulsa**, Thursday night at 8 p.m. Central on ESPN. ★ Confirmed by North Texas: **green helmet, white jersey, green pants.** It is the same road combination the Mean Green opened the season with at Indiana: the green helmet with the white eagle, the white jersey with green numerals and green pants. The program posted it on game day with a simple caption, Today's uniform. It is the American opener for both teams, and Tulsa is expected in royal blue at home, so it should be white against blue at Chapman Stadium. Our [Tulsa 2026 uniform schedule](/stories/tulsa-uniform-schedule-2026) has the other side, including the red throwback Tulsa revealed in September.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MeanGreenFB/status/2105800568316825722"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @MeanGreenFB</p>
 
 **October 10 vs. Charlotte.** Green expected. North Texas bills it as Jammin' at DATCU, with kickoff still to be announced.
 
@@ -100,7 +106,7 @@ Four games, four different combinations, all of them now confirmed. North Texas 
 
 **What is North Texas wearing this week?**
 
-North Texas wore green at home against Houston Christian on Saturday, September 26: white helmet, green jersey and green pants, confirmed from the broadcast, in a 63-14 win. Next up is at Tulsa on Thursday, October 1, where white is expected. The week before, North Texas wore the Icy Whites, all white, in its 49-35 loss at Texas State.
+North Texas wore green at home against Houston Christian on Saturday, September 26: white helmet, green jersey and green pants, confirmed from the broadcast, in a 63-14 win. Next up is at Tulsa on Thursday, October 1, and North Texas has confirmed the green helmet, white jersey and green pants, the same road look it wore at Indiana. The week before, North Texas wore the Icy Whites, all white, in its 49-35 loss at Texas State.
 
 **What are North Texas's football uniforms for 2026?**
 
@@ -116,7 +122,7 @@ The green helmet, the white road jersey and green pants in the 52-16 loss at No.
 
 **When do North Texas and Tulsa play in 2026?**
 
-Thursday, October 1 at 8 p.m. Central on ESPN at H.A. Chapman Stadium in Tulsa. It is the American opener for both programs. North Texas should be in white, with Tulsa in royal blue.
+Thursday, October 1 at 8 p.m. Central on ESPN at H.A. Chapman Stadium in Tulsa. It is the American opener for both programs. North Texas has confirmed a green helmet, white jersey and green pants, with Tulsa expected in royal blue.
 
 **How many games does North Texas play in 2026?**
 

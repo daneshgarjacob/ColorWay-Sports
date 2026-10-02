@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -55,7 +55,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **September 26 vs. Oregon.** ★ Confirmed from the game photos: **cardinal helmet, cardinal jersey, gold pants**, the home look USC wears at the Coliseum every week. Oregon came in **Warp Speed**, a silver helmet, white jersey and white pants, exactly as it posted. Jayden Maiava threw for 326 yards and two touchdowns and Kayden Dixon-Wyatt caught seven passes for 114 yards, but Oregon won 41-27 and USC fell to 4-1. See the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 
-**October 3 vs. Washington.** Cardinal expected.
+**October 3 vs. Washington.** Cardinal expected. Washington has confirmed a gold helmet, white jersey and white pants for the trip to the Coliseum, per the [Washington Huskies 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026).
 
 **October 10 at Penn State.** White expected.
 
@@ -81,7 +81,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC wore cardinal at home against Oregon on Saturday, September 26: cardinal helmet, cardinal jersey and gold pants, confirmed from the game photos, in a 41-27 loss to Oregon in Warp Speed. Next up is Washington at the Coliseum on October 3, where cardinal is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
+USC wore cardinal at home against Oregon on Saturday, September 26: cardinal helmet, cardinal jersey and gold pants, confirmed from the game photos, in a 41-27 loss to Oregon in Warp Speed. Next up is Washington at the Coliseum on October 3, where cardinal is expected and Washington has confirmed a gold helmet, white jersey and white pants. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
 
 **What are USC's uniforms for 2026?**
 

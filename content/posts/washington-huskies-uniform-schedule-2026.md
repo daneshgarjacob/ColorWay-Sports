@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
   <div style="background: #4B2E83; color: #ffffff; border: 2px solid #B7A57A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
   <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Eastern Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #B7A57A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Dawgs Blackout</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #B7A57A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -52,7 +52,15 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 
 **September 26 vs. Minnesota.** ★ Confirmed by Washington and from the game photos: the new all-black **Dawgs** set, **matte black helmet, black jersey with DAWGS in gold script, black pants**, with a purple and gold stripe on the helmet and shoulders. Minnesota wore a maroon helmet, white jersey and white pants. This Big Ten opener was the "Unleashed" blackout game, with fans asked to wear black, 8 p.m. Pacific on FOX. Minnesota won 27-24: Demond Williams Jr. threw for 239 yards and two touchdowns and ran for a third with 1:53 left, and Washington fell to 3-1. The Dawgs jersey is a one-off, so this is the only game it is scheduled to appear. ESPN lists this game on September 27 because its feed runs on UTC.
 
-**October 3 at USC.** White expected. First Big Ten road trip, to the Coliseum, where USC wears cardinal at home. Kickoff time is still to be announced. See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the Trojans' side.
+**October 3 at USC**, 7:30 p.m. ET on NBC. ★ Confirmed by Washington: **gold helmet, white jersey, white pants**. The Huskies posted it as "Week Five Threads vs USC." After the all-black Dawgs blackout against Minnesota, it is back to the gold helmet, now over the white road jersey and white pants for the first Big Ten road trip, to the Coliseum. USC is expected in cardinal at home, so it is cardinal against white with gold helmets on the Washington side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2105381242736955565"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @UW_Football</p>
+
+See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the Trojans' side.
 
 **October 9 vs. Iowa.** Purple expected. A Friday night game at 6 p.m. Pacific, themed Huskies for a Cure, with fans asked to wear purple. ESPN shows it under October 10 because of UTC.
 
@@ -72,13 +80,13 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 
 ## The Bottom Line
 
-Two games in, Washington has been as plain as it gets: gold helmet, purple jersey, gold pants, twice. That will not last. The athletic department has already told us where to look. The Minnesota blackout night is the obvious home for the new Dawgs jersey, Penn State's Purple Reign homecoming is the natural stage for the all-purple set, and Salute to Service against Indiana is where a camo surprise showed up last year. On the road, white over purple pants is the look for all five trips. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Two games in, Washington has been as plain as it gets: gold helmet, purple jersey, gold pants, twice. That will not last. The athletic department has already told us where to look. The Minnesota blackout night is the obvious home for the new Dawgs jersey, Penn State's Purple Reign homecoming is the natural stage for the all-purple set, and Salute to Service against Indiana is where a camo surprise showed up last year. On the road, Washington opens with the gold helmet, white jersey and white pants at USC, confirmed by the team, and white is the jersey for all five trips. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Washington wearing this week?**
 
-Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, a 48-16 win, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, was the "Unleashed" blackout game in the all-black Dawgs uniform, black helmet, black jersey and black pants, confirmed from the game photos, a 27-24 loss. Next is USC on the road on October 3, where the white road set is expected.
+Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, a 48-16 win, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, was the "Unleashed" blackout game in the all-black Dawgs uniform, black helmet, black jersey and black pants, confirmed from the game photos, a 27-24 loss. Next is USC on the road on October 3, and Washington has confirmed the gold helmet, white jersey and white pants.
 
 **What are Washington's football uniforms for 2026?**
 

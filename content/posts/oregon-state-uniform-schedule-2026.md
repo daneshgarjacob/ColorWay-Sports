@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["oregon-state-beavers", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey sitting in the closet, the white helmet the Beavers have worn in both games so far, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
+Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey sitting in the closet, the white helmet the Beavers wore through September, the orange helmet confirmed for the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
 
 ## The Oregon State 2026 Uniform Sets
 
@@ -45,7 +45,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
   <div style="background: #111111; color: #ffffff; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Montana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -68,7 +68,13 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 **September 26 at UTEP.** ★ Confirmed from the game photos: **white helmet, white jersey, black pants** at the Sun Bowl in El Paso, the last of the four non-conference games the new Pac-12 front-loaded onto everybody's schedule. UTEP wore navy over white. Braden Atkinson threw for 301 yards and three touchdowns, two of them to Jesse Legree, AJ Newberry ran for 111 yards, and Oregon State won 33-7 to get to 2-2.
 
-**October 3 at Colorado State.** White expected. The Pac-12 opener at Canvas Stadium, 3 p.m. Pacific on USA Network, with the Rams expected in green. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for their side.
+**October 3 at Colorado State**, Canvas Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed by Oregon State: **orange helmet, white jersey, orange pants.** It is the first time this season the Beavers have moved off the white shell: the orange helmet carries the black Beaver logo, and the orange pants under the white road jersey make this the most colorful road look Oregon State has put out in 2026. It is the Pac-12 opener and Colorado State's Homecoming, with the Rams expected in green, so it should be orange and white against green. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for their side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BeaverFootball/status/2105798234283343952"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @BeaverFootball</p>
 
 **October 10 vs. San Diego State.** Black expected. First conference home game, 3 p.m. Pacific.
 
@@ -92,7 +98,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 ## The Bottom Line
 
-Two games, two uniforms, one helmet. Oregon State has gone all white on the road and all black at home, both times under the white shell, which is the least predictable part of the whole thing and the detail to keep watching. The orange jersey and the black and orange helmets from the 2024 Nike redesign are all still sitting in the closet, and the Beavers have six more home dates plus a flex road trip to use them. The grid above has every game, and we fill in a star as each combination is confirmed.
+Two games, two uniforms, one helmet. Oregon State has gone all white on the road and all black at home, both times under the white shell, which is the least predictable part of the whole thing and the detail to keep watching. The orange helmet from the 2024 Nike redesign finally comes out for the Pac-12 opener at Colorado State, with orange pants and the white jersey. The orange jersey and the black helmet are still sitting in the closet, and the Beavers have six more home dates plus a flex road trip to use them. The grid above has every game, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -102,7 +108,7 @@ Two games, two uniforms, one helmet. Oregon State has gone all white on the road
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State wore white at UTEP on Saturday, September 26: white helmet, white jersey and black pants, confirmed from the game photos, in a 33-7 win. Next up is the Pac-12 opener at Colorado State on October 3, where white is expected again. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State wore white at UTEP on Saturday, September 26: white helmet, white jersey and black pants, confirmed from the game photos, in a 33-7 win. Next up is the Pac-12 opener at Colorado State on Saturday, October 3, and Oregon State has confirmed the orange helmet with the black Beaver logo, the white jersey and orange pants. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

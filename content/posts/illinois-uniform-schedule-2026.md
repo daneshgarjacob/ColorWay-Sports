@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **September 26 at Ohio State.** ★ Confirmed from the game photos: **orange helmet, white jersey, orange pants**. Ohio State wore a silver helmet, scarlet jersey and gray pants. The Big Ten opener at Ohio Stadium, 11 a.m. Central on FOX, on the Buckeyes' Hall of Fame Weekend. Ohio State won 42-19, with Jeremiah Smith catching four touchdowns, and Illinois is 2-2. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the home side.
 
-**October 3 vs. Purdue.** Navy expected, with an asterisk. It is Homecoming and a "Hail to the Orange Out," and Illinois has the all-orange set in the closet, so orange is a real possibility for the Purdue Cannon game. Purdue will be in white. Kickoff time to be announced.
+**October 3 vs. Purdue.** Navy expected, with an asterisk. It is Homecoming and a "Hail to the Orange Out," and Illinois has the all-orange set in the closet, so orange is a real possibility for the Purdue Cannon game. Purdue has confirmed the gold helmet, white jersey and gold pants, per the [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026). Kickoff is 4:15 p.m. ET on BTN.
 
 **October 10 at Michigan State.** White expected. It is Michigan State's Homecoming at Spartan Stadium, with the Spartans in green. The [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026) has their side.
 
@@ -78,7 +78,7 @@ Illinois has opened 2026 in the same base look twice, orange helmet, navy jersey
 
 **What jersey is Illinois wearing this week?**
 
-Illinois lost 42-19 at Ohio State on Saturday, September 26, in the orange helmet, white jersey and orange pants, confirmed from the game photos. Against Duke earlier this season, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. Next is Purdue at home on October 3, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois lost 42-19 at Ohio State on Saturday, September 26, in the orange helmet, white jersey and orange pants, confirmed from the game photos. Against Duke earlier this season, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. Next is Purdue at home on October 3, where navy is expected and Purdue has confirmed a gold helmet, white jersey and gold pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

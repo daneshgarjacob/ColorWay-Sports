@@ -3,7 +3,7 @@ title: "Boston College Uniform Schedule 2026: Every Jersey and When the Eagles W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What Boston College wears every game in 2026: the maroon home set, the white road set, the Red Bandanna uniform, and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #8C2232 0%, #a62b3d 55%, #BC9B6A 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ Boston College won 28-21 for its first victory of the season. Rutgers wore red o
 
 **September 26 vs. Virginia Tech.** ★ Confirmed from the broadcast: **gold helmet, maroon jersey, gold pants** for Family Weekend at noon. Virginia Tech wore the maroon helmet, white jersey and maroon pants, so both teams had maroon on the field. The Hokies won 21-14 and BC is 2-2. The Hokies' side of it lives on the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
-**October 3 at SMU.** White expected. First true ACC road trip, to Dallas.
+**October 3 at SMU**, noon ET on The CW. White expected. First true ACC road trip, to Dallas. SMU has confirmed its classic home look, white helmet with the red facemask, blue jersey and white pants, so this should be blue against white. See our [SMU 2026 uniform schedule](/stories/smu-uniform-schedule-2026).
 
 **October 10.** Bye.
 

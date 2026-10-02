@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -58,7 +58,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
   <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UC Davis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
-  <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue or Red</div></div>
@@ -77,7 +77,13 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **September 26 vs. Missouri State.** ★ Confirmed by SMU and from the broadcast: **white helmet, red jersey, red pants**, posted as "Week 4 thREDs." We had blue down. It was Family Weekend and the start of a four-game homestand. Missouri State wore a white helmet, white jersey and maroon pants and led 10-0 after a pick-six, but Kevin Jennings went 33 of 39 for 464 yards and three touchdowns to become SMU's career passing leader, and SMU won 34-24 to move to 3-1.
 
-**October 3 vs. Boston College.** Blue expected, with one thing worth watching. The ACC home opener is a Blue theme day, but Boston College is also the opponent SMU picked for its all-black set the last time the two met in Dallas in 2024. If the black comes out in 2026, this is a candidate date.
+**October 3 vs. Boston College**, noon ET on The CW. ★ Confirmed by SMU: **white helmet, blue jersey, white pants**, posted with the line "Nothing beats the classic look." That settles the black question: Boston College was the opponent SMU picked for its all black set the last time the two met in Dallas in 2024, but for the 2026 ACC home opener, a Blue theme day, the Mustangs went with the base home set. The white helmet keeps its red facemask, and it is the same combination SMU wore against UC Davis on September 12. Boston College is expected in its white road set. The Eagles' side is on our [Boston College 2026 uniform schedule](/stories/boston-college-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2105795836815069201"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @SMUFB</p>
 
 **October 10.** Bye.
 
@@ -103,7 +109,7 @@ Two games in, SMU has used two of its jerseys and the only helmet it owns, which
 
 **What jersey is SMU wearing this week?**
 
-SMU wore red over red against Missouri State on Saturday, September 26: white helmet, red jersey and red pants, posted as "Week 4 thREDs" and confirmed from the broadcast, in a 34-24 win. Next up is Boston College at home on October 3, the ACC home opener, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore red over red against Missouri State on Saturday, September 26: white helmet, red jersey and red pants, posted as "Week 4 thREDs" and confirmed from the broadcast, in a 34-24 win. Next up is Boston College at home on October 3, the ACC home opener, and SMU has confirmed the classic look: white helmet with the red facemask, blue jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 
@@ -115,7 +121,7 @@ That is SMU's own name for the all-white combination, white helmet, white jersey
 
 **Will SMU wear red or black in 2026?**
 
-Neither has been announced. The red jersey is the more likely of the two, and October 24 against Cal is the date to watch, because SMU has already told fans to wear red for Fan Appreciation Day. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game, which points at Boston College on October 3 or the Salute to Service game against Virginia on October 17.
+Neither has been announced. The red jersey is the more likely of the two, and October 24 against Cal is the date to watch, because SMU has already told fans to wear red for Fan Appreciation Day. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game, which points at the Salute to Service game against Virginia on October 17, now that SMU has confirmed blue for Boston College on October 3.
 
 **Why does ESPN list the Virginia Tech game on November 7?**
 

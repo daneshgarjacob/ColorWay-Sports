@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-01"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **September 26 at UCF**, Acrisure Bounce House. ★ Confirmed from the game photos: **white helmet, white jersey, purple pants**. UCF wore a gold helmet, black jersey and white pants. UCF won the Big 12 game 21-13, and TCU fell to 2-2. More: [UCF uniform schedule](/stories/ucf-uniform-schedule-2026).
 
-**October 3 vs. BYU**, Amon G. Carter Stadium. Big 12 home opener. Purple expected.
+**October 3 vs. BYU**, Amon G. Carter Stadium. Big 12 home opener. Purple expected. BYU has confirmed a royal blue helmet, white jersey and white pants, per the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026).
 
 **October 10.** Bye.
 

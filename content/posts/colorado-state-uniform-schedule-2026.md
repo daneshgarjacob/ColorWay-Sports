@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-01"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -90,7 +90,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **September 26 at UTSA**, San Antonio. ★ Confirmed from the broadcast: **green helmet, white jersey, green pants**, the revealed white set on its first road trip. UTSA wore its Por La Ciudad Hispanic Heritage set, white helmet, navy jersey, white pants. UTSA won a shootout 59-45 and the Rams are 2-2.
 
-**October 3 vs. Oregon State**, Fort Collins. Homecoming, historically a green-heavy occasion.
+**October 3 vs. Oregon State**, Fort Collins. Homecoming, historically a green-heavy occasion. Oregon State has confirmed the orange helmet with the black Beaver logo, a white jersey and orange pants for the Pac-12 opener, so green against white and orange is the likely look. More: [Oregon State uniform schedule](/stories/oregon-state-uniform-schedule-2026).
 
 **October 10.** Bye week.
 
@@ -114,7 +114,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Colorado State wore the green helmet, white jersey and green pants at UTSA on Saturday, September 26, and lost 59-45. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
+Colorado State wore the green helmet, white jersey and green pants at UTSA on Saturday, September 26, and lost 59-45. Next is Oregon State at home on Saturday, October 3, for Homecoming, where green is expected; Oregon State has confirmed an orange helmet, white jersey and orange pants. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
 
 **Who makes Colorado State's uniforms in 2026?**
 
