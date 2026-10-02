@@ -2,7 +2,7 @@
 title: "Miami Dolphins Jerseys 2026: Every Jersey Ranked, From Throwback to Dark Water"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-01"
 excerpt: "Miami Dolphins jerseys 2026, ranked: the white throwback, aqua home, white road and Dark Water Rivalries set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 author: "colorway-sports-staff"
@@ -46,7 +46,7 @@ It grades a C+, the same mark it holds in our [Rivalries uniforms ranking](/stor
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiDolphins/status/2099198011448737939"></a></blockquote>
 </div>
 
-The white jersey is the road set, and Miami opened the season in it at Las Vegas all in white: white helmet, white jersey, white pants, a 27-13 loss. It projects to all nine road games: at the Raiders, 49ers, Vikings, Jets, Colts, Bills, Broncos and Packers, and the Week 18 trip to New England. It also comes out once at home. The uniform schedule Miami distributes to credentialed photographers has the Dolphins in white against the Detroit Lions on Sunday, November 8 in Week 9, which puts Detroit in Honolulu blue. Only that home date comes from a team document. The road games follow the standard convention and are our projection. Week 11 at Buffalo is the one to watch, since the Bills plan to wear their all-white Cold Front set that day.
+The white jersey is the road set, and Miami opened the season in it at Las Vegas over aqua pants: white helmet, white jersey, aqua pants, a 27-13 loss. It projects to all nine road games: at the Raiders, 49ers, Vikings, Jets, Colts, Bills, Broncos and Packers, and the Week 18 trip to New England. It also comes out once at home. The uniform schedule Miami distributes to credentialed photographers has the Dolphins in white against the Detroit Lions on Sunday, November 8 in Week 9, which puts Detroit in Honolulu blue. Only that home date comes from a team document. The road games follow the standard convention and are our projection. Week 11 at Buffalo is the one to watch, since the Bills plan to wear their all-white Cold Front set that day.
 
 All white is the best way to wear this jersey, because every bit of aqua on the field belongs to Miami, and against the Raiders' silver and black it made for a clean picture. The jersey itself is where the set shows its age. The aqua and orange live only in the numbers and the trim, the modern dolphin logo is colder than the original, and next to the throwback it looks like a draft of the same idea.
 
@@ -115,7 +115,7 @@ We rank the throwback first and grade it an A. Aqua and orange on white, under t
 
 **What jersey are the Dolphins wearing this week?**
 
-Week 2 is at the San Francisco 49ers on Sunday, September 20 at 4:25 p.m. ET. Miami is projected in white on the road, and the all-white look it wore in Las Vegas is our read. San Francisco is projected in its scarlet home jersey with the gold helmet and gold pants. Check the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after kickoff.
+Week 2 is at the San Francisco 49ers on Sunday, September 20 at 4:25 p.m. ET. Miami is projected in white on the road, and the white-over-aqua look it wore in Las Vegas is our read. San Francisco is projected in its scarlet home jersey with the gold helmet and gold pants. Check the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after kickoff.
 
 **Do the Dolphins have a new jersey in 2026?**
 

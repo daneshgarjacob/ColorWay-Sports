@@ -121,7 +121,7 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 - **Dallas Cowboys at Houston Texans**, 1:00 p.m. ET, FOX. Cowboys: silver helmet, navy jersey, silver pants (confirmed). Texans: navy helmet, white jersey, navy pants, red socks, the 2002 inaugural-game colors (confirmed).
 - **Miami Dolphins at Minnesota Vikings**, 4:05 p.m. ET, FOX. Dolphins: white helmet, white jersey, white pants (confirmed). Vikings: purple helmet, purple jersey, white pants (confirmed).
 - **Kansas City Chiefs at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Chiefs: white jersey (confirmed), red helmet and red pants (expected). Raiders: silver helmet, black jersey, silver pants (confirmed).
-- **Denver Broncos at San Francisco 49ers**, 4:25 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), navy helmet and white pants (expected). 49ers: gold helmet, scarlet jersey, gold pants (confirmed).
+- **Denver Broncos at San Francisco 49ers**, 4:25 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), helmet and pants to be announced (the Week 1 white road look at Kansas City used the white helmet). 49ers: gold helmet, scarlet jersey, gold pants (confirmed).
 - **Los Angeles Chargers at Seattle Seahawks**, 4:25 p.m. ET, CBS. Chargers: white helmet, white jersey, powder blue pants (confirmed). Seahawks: navy helmet, college navy jersey, navy pants (confirmed).
 - **Detroit Lions at Carolina Panthers**, 8:20 p.m. ET, NBC. Lions: white jersey (confirmed), silver helmet and white pants (expected). Panthers: black helmet, black jersey, black pants (confirmed).
 

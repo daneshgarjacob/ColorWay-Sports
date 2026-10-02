@@ -2,7 +2,7 @@
 title: "Chicago Bears Jerseys 2026: Every Jersey Ranked, From the Navy Home to the Rivalries Set"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-01"
 author: "colorway-sports-staff"
 excerpt: "Chicago Bears jerseys 2026, ranked and graded: the navy home, the white road and the Christmas Day Rivalries set, with every date each one is worn."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
@@ -51,7 +51,7 @@ When it is worn in 2026: once, in Week 16 on Friday, December 25, at noon Centra
 
 The white road set is the primary uniform with the values flipped: navy numbers outlined in orange on white, navy and orange sleeve stripes, the GSH initials on the sleeve. It shares the A we gave the Bears in our [ranking of every NFL uniform](/stories/best-nfl-uniforms-2026-ranked), where Chicago finished third in the league.
 
-We already have a Week 1 look at it. At Carolina, Chicago wore the navy helmet, white jersey and white pants, with the orange and navy stripe running down the leg. White over white puts all the color on the helmet and the stripes, and it gave the Bears a frame with no shared color against Carolina's black and powder blue. The matchup graded a B- on our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), and Chicago won 59-37.
+We already have a Week 1 look at it. At Carolina, Chicago wore the navy helmet, white jersey and navy pants, with the orange and white stripe running down the leg. Navy at both ends frames the white jersey, and against Carolina's black helmet and black pants it put all the contrast in the jerseys, white against powder blue. The matchup graded a B- on our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), and Chicago won 59-37.
 
 It sits a hair behind the navy only because the navy is the version everyone pictures when they think of the Bears.
 
@@ -102,7 +102,7 @@ We rank the navy home jersey first with an A. The white numbers outlined in oran
 
 **What jersey are the Bears wearing this week?**
 
-In Week 2, Chicago hosts the Minnesota Vikings at Soldier Field on Sunday, September 20, at 1:00 ET, and the Bears are expected in the navy home jersey under the navy helmet, with white pants our read. That is a projection until game day. In Week 1 at Carolina they wore the navy helmet, white jersey and white pants.
+In Week 2, Chicago hosts the Minnesota Vikings at Soldier Field on Sunday, September 20, at 1:00 ET, and the Bears are expected in the navy home jersey under the navy helmet, with white pants our read. That is a projection until game day. In Week 1 at Carolina they wore the navy helmet, white jersey and navy pants.
 
 **Do the Bears have a new jersey in 2026?**
 
