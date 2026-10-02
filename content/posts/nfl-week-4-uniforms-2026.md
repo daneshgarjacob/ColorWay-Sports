@@ -61,7 +61,7 @@ Navy is the jersey Dallas fans argue about most, and the schedule only hands it 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2105451376851780040"></a></blockquote>
 </div>
 
-All brown under the lights against white and gold is about as strong a frame as the AFC North produces, and it is the right game for it, against the rival Cleveland cares about most. More in our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+**Our verdict: C-.** Pittsburgh's white and gold holds up, but the all-brown side does not. Brown from helmet to socks leaves nothing to break up the silhouette, the orange numbers are the only contrast and they read small on a TV broadcast, and Cleveland gives up the orange helmet, the most distinctive shell in the league, for its one home prime time game against its biggest rival. The full matchup card is in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). More in our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 ### Indianapolis Colts at Washington Commanders: Burgundy in London
 
@@ -106,7 +106,7 @@ Week 4 is the first of three Crucial Catch weekends. Seven clubs have tagged a W
 
 ### Thursday, October 1
 
-- **Pittsburgh Steelers at Cleveland Browns**, 8:15 p.m. ET, Prime Video. Steelers: black helmet, white jersey, gold pants, black socks (confirmed). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants, brown socks (confirmed).
+- **Pittsburgh Steelers at Cleveland Browns**, 8:15 p.m. ET, Prime Video. Steelers: black helmet, white jersey, gold pants, black socks (confirmed). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants, brown socks (confirmed). Our matchup grade: C-.
 
 ### Sunday, October 4
 
@@ -157,7 +157,7 @@ Washington is the designated home team at Tottenham Hotspur Stadium and is confi
 
 **What are the Browns wearing against the Steelers on Thursday Night Football?**
 
-Alpha Dawg, the all-brown look. The Browns confirmed brown helmet with orange center stripes, brown jersey with orange numbers, brown pants and brown socks for Thursday, October 1 at Huntington Bank Field. Pittsburgh is confirmed in black helmet, white jersey, gold pants and black socks.
+Alpha Dawg, the all-brown look. The Browns confirmed brown helmet with orange center stripes, brown jersey with orange numbers, brown pants and brown socks for Thursday, October 1 at Huntington Bank Field. Pittsburgh is confirmed in black helmet, white jersey, gold pants and black socks. We graded the matchup a C-, mostly because of the all-brown Browns look.
 
 **Why are the Falcons wearing red at New Orleans?**
 
