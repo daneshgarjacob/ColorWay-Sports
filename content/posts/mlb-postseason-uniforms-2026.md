@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-16"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-01"
 excerpt: "The 2026 MLB playoff field is set. Every Wild Card matchup, what each team is expected to wear, who picks the jersey, and the October patches."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -22,7 +22,7 @@ The 2026 postseason opens with the Wild Card Series on **September 29**. The Div
 
 The regular season ended on Sunday, September 27, and the twelve-team field is set. The Wild Card Series are best of three, every game at the higher seed's park, starting Tuesday, September 29 on NBC and Peacock. The top two seeds in each league have byes into the Division Series, which starts Saturday, October 3.
 
-**Philadelphia Phillies at Atlanta Braves (NL).** Games at 2:00 p.m. ET, Tuesday through Thursday if needed. Atlanta is home all series, so the Braves should be in home whites and the Phillies in road gray. That takes the Phillies' Thursday powder blue off the table, because it is a home jersey. **Game 1 (Tuesday), confirmed:** Phillies in road gray, Braves in home white, red caps on both sides. Our grade: **B**. Atlanta won Game 1, 5-3. **Game 2 (Wednesday, 2:00 p.m. ET), confirmed:** the same look again, Phillies in road gray with the red cap, Braves in home white with the red-billed cap. Same look, same grade: **B**. The Phillies won Game 2, 4-3 in 10 innings, so the series goes to a Game 3 on Thursday. [Braves uniform schedule](/stories/braves-uniform-schedule-2026) · [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026)
+**Philadelphia Phillies at Atlanta Braves (NL).** Games 1 and 2 at 2:00 p.m. ET, Game 3 Thursday at 8:00 p.m. ET. Atlanta is home all series, so the Braves should be in home whites and the Phillies in road gray. That takes the Phillies' Thursday powder blue off the table, because it is a home jersey. **Game 1 (Tuesday), confirmed:** Phillies in road gray, Braves in home white, red caps on both sides. Our grade: **B**. Atlanta won Game 1, 5-3. **Game 2 (Wednesday, 2:00 p.m. ET), confirmed:** the same look again, Phillies in road gray with the red cap, Braves in home white with the red-billed cap. Same look, same grade: **B**. The Phillies won Game 2, 4-3 in 10 innings, so the series goes to a Game 3 on Thursday. **Game 3 (Thursday, 8:00 p.m. ET), confirmed:** the Braves changed it up for the deciding game and came out in their red alternate jersey over home white pants with the red-billed cap, and the Phillies stayed in road gray with the red cap. Red against gray is the best look of the series, and our grade is an **A-**. [Braves uniform schedule](/stories/braves-uniform-schedule-2026) · [Phillies uniform schedule](/stories/phillies-uniform-schedule-2026)
 
 **Chicago White Sox at Houston Astros (AL).** Games at 5:00 p.m. ET. Home whites are the default for Houston, with the orange alternate the one we would watch for; the White Sox are in road gray. **Game 1, confirmed:** the White Sox went with the black "Sox" alternate jersey over road gray pants, the Astros in home whites. Our grade: **B-**. The White Sox won Game 1, 6-3. **Game 2 (Wednesday, 5:00 p.m. ET), confirmed:** both clubs in color, the White Sox back in the black "Sox" alternate over road gray pants and the Astros in their orange alternate. Our grade: **B+**. The White Sox won Game 2, 7-3, and swept the series 2-0; they open the Division Series at Cleveland on Saturday, October 3. [Astros uniform schedule](/stories/astros-uniform-schedule-2026) · [White Sox uniform schedule](/stories/white-sox-uniform-schedule-2026)
 
@@ -112,7 +112,7 @@ In the American League, the Chicago White Sox play at the Houston Astros and the
 
 **What will the Phillies wear against the Braves in the Wild Card Series?**
 
-Road gray is expected. Every game of the series is in Atlanta, so the Braves are the home team in whites and the Phillies' powder blue, a home jersey, is not in play.
+Road gray, in all three games. Every game of the series is in Atlanta, so the Phillies' powder blue, a home jersey, was not in play. The Braves wore home white in Games 1 and 2 and switched to their red alternate for Game 3.
 
 **Which teams have a bye in the 2026 MLB playoffs?**
 
@@ -136,7 +136,7 @@ Every playoff team wears a cap with that year's MLB Postseason logo patch on the
 
 **Do the Phillies wear powder blue in the playoffs?**
 
-Sometimes. The Phillies wore their powder blues at home in Game 5 of the 2022 World Series and on the road in Games 3 and 4 of the 2025 NLDS. They normally wear them for Thursday home games, and Game 3 of the 2026 Wild Card Series, if it is needed, falls on Thursday, October 1.
+Sometimes. The Phillies wore their powder blues at home in Game 5 of the 2022 World Series and on the road in Games 3 and 4 of the 2025 NLDS. They normally wear them for Thursday home games, but Game 3 of the 2026 Wild Card Series on Thursday, October 1 was in Atlanta, so they wore road gray.
 
 **When do the 2026 MLB playoffs start?**
 

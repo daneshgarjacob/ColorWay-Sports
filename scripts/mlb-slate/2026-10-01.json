@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-01",
+  "games": [
+    {
+      "away": "Philadelphia Phillies",
+      "awaySlug": "phillies",
+      "home": "Atlanta Braves",
+      "homeSlug": "braves",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
