@@ -3,7 +3,7 @@ title: "NHL Jerseys Ranked 2026-27: All 32 Teams' Uniforms Graded, Worst to Best
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-10-01"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-02"
 excerpt: "We graded every NHL team's 2026-27 jersey closet, home, road, thirds and throwbacks, counting down from worst to best. One Original Six club takes No. 1."
 gradient: "linear-gradient(135deg, #0038A8 0%, #14284b 55%, #C8102E 130%)"
 cardStyle: words
@@ -20,21 +20,9 @@ This is a throwback season rather than a rebrand season. No club changed its hom
 
 A note on how we grade. This is about the sweater as a piece of design: the colours, the striping, the crest, the numbers and how the closet works as a set. Winning is not supposed to matter. We are counting down from 32 to the best closet in hockey.
 
-## 32. Utah Mammoth
+## 32. Florida Panthers
 
-<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #090909, #6CACE4); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
-
-<div style="display: flex; justify-content: center; margin: 1.25em 0 0.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/utahmammoth/status/1920129680788856934"></a></blockquote>
-</div>
-
-**The closet:** Rock black home with the Mountain Mammoth crest and the Utah badge on the shoulders, salt white road with the diagonal stair-step UTAH wordmark, no third sweater, and a Winter Classic sweater for December 31 still to be unveiled.
-
-The Mountain Mammoth crest is a genuinely good logo, with the Wasatch peaks, the state outline and the tusks curling into a U. The sweaters around it do not match that ambition. The striping is a carry-over from the Utah Hockey Club placeholder, so the black home reads like a thousand beer-league sweaters, and the stair-step UTAH on the road set leaves the white sweater without a crest. Two sweaters, no alternate in the franchise's first two seasons, and the one coming is an outdoor one-off. This is the closet with the most room to grow, which is why it sits last. [Utah Mammoth uniform schedule](/stories/utah-mammoth-uniform-schedule-2026-27).
-
-## 31. Florida Panthers
-
-<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #C8102E, #041E42); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
+<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #C8102E, #041E42); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
 <div style="display: flex; justify-content: center; margin: 1.25em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FlaPanthers/status/1580190598681702401"></a></blockquote>
@@ -42,7 +30,19 @@ The Mountain Mammoth crest is a genuinely good logo, with the Wasatch peaks, the
 
 **The closet:** Red home and white road from the 2016 military-inspired set: the shield crest with PANTHERS over the panther head, thick contrasting chest and sleeve stripes, flat gold trim and the prowling-panther sleeve patch. No standing third.
 
-Two Stanley Cups in the last three seasons, and still our least favourite primary set in the league. The idea was a military dress uniform, and it shows up as too many parts competing on one sweater: the shield crest, a chest band, sleeve bands, a sleeve patch and gold trim that is so flat it reads as tan on television. The 2026 Winter Classic sweater, red with cream lettering and a chain-stitched leaping panther, proved Florida can do clean and classic. It just is not in the closet this season. [Florida Panthers uniform schedule](/stories/florida-panthers-uniform-schedule-2026-27).
+Two Stanley Cups in the last three seasons, and still our least favourite primary set in the league, which is why it sits last. The idea was a military dress uniform, and it shows up as too many parts competing on one sweater: the shield crest, a chest band, sleeve bands, a sleeve patch and gold trim that is so flat it reads as tan on television. The 2026 Winter Classic sweater, red with cream lettering and a chain-stitched leaping panther, proved Florida can do clean and classic. It just is not in the closet this season. [Florida Panthers uniform schedule](/stories/florida-panthers-uniform-schedule-2026-27).
+
+## 31. Vegas Golden Knights
+
+<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #B4975A, #333F42); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
+
+<div style="display: flex; justify-content: center; margin: 1.25em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/1805964269449814081"></a></blockquote>
+</div>
+
+**The closet:** Metallic gold home since 2022-23 with black, steel grey and red striping, the white road, and the original steel grey reported to leave the regular rotation and become a throwback in Season X. The Hometown Remix is expected to take the third slot, and a Stadium Series sweater is coming for February 20 at Dallas.
+
+Vegas had one of the best expansion looks in decades in the steel grey, and the reported move to retire it from the rotation takes the best sweater out of the closet. What is left is hard to love. The metallic gold home never looks the same twice, washed out under some arena lights and brassy under others, and the white road does nothing to make up for it. Without the grey, this is the second-weakest closet in the league. [Vegas Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27).
 
 ## 30. Columbus Blue Jackets
 
@@ -80,19 +80,7 @@ Tampa Bay simplified on purpose in 2011 and it worked for a decade. The single t
 
 We love that Nashville owns a gold home sweater. Nobody else in hockey would dare and it looks like no other team on the ice. The gripe is the hidden music theme: guitar strings inside the numbers and piano keys in the collar are details for the merchandise page, invisible from the stands, and the road white is a generic template with gold on the shoulders. One brave colour and two sweaters is not quite a closet. [Nashville Predators uniform schedule](/stories/predators-uniform-schedule-2026-27).
 
-## 27. Vegas Golden Knights
-
-<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #B4975A, #333F42); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C+</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
-
-<div style="display: flex; justify-content: center; margin: 1.25em 0 0.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/1805964269449814081"></a></blockquote>
-</div>
-
-**The closet:** Metallic gold home since 2022-23 with black, steel grey and red striping, the white road, and the original steel grey reported to leave the regular rotation and become a throwback in Season X. The Hometown Remix is expected to take the third slot, and a Stadium Series sweater is coming for February 20 at Dallas.
-
-Vegas had one of the best expansion looks in decades in the steel grey, and the reported move to retire it from the rotation takes the best sweater out of the closet. The metallic gold home is a striking colour that never looks the same twice, washed out under some arena lights and brassy under others. The white road is fine. Losing the grey costs Vegas a full grade. [Vegas Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27).
-
-## 26. New Jersey Devils
+## 27. New Jersey Devils
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #CE1126, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">C+</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -104,7 +92,7 @@ Vegas had one of the best expansion looks in decades in the steel grey, and the 
 
 The red and black is a strong combination, and the NJ crest with the tail and horns is one of the cleanest marks in the league. What we miss is the green. The Devils' best moments in uniform have been the red and green throwbacks, and the 2017 update dropped the hem stripe so the sweater ends abruptly. With the JERSEY script retired, New Jersey has two sweaters and no alternate, and the grade reflects a closet that got smaller. [New Jersey Devils uniform schedule](/stories/devils-uniform-schedule-2026-27).
 
-## 25. Minnesota Wild
+## 26. Minnesota Wild
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #154734, #A6192E); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -116,7 +104,7 @@ The red and black is a strong combination, and the NJ crest with the tail and ho
 
 The Wild crest is a great logo, the animal outline with a sunset and a North Star hidden inside it. The green and red home is unique in the league, and wheat is a lovely accent colour. The 2017 striping, though, is thin and spaced out, and the white road reads very busy for so little stripe. The 78s, a North Stars nod in kelly green and bright yellow, is the most fun sweater in the closet and it is not even in the Wild colours. [Minnesota Wild uniform schedule](/stories/minnesota-wild-uniform-schedule-2026-27).
 
-## 24. San Jose Sharks
+## 25. San Jose Sharks
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #006D75, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -128,7 +116,7 @@ The Wild crest is a great logo, the animal outline with a sunset and a North Sta
 
 Teal is one of the great colours in hockey and San Jose went back to the 1991 shade. Teal pants are a bold call we admire. The dated part is the crest: the shark biting the stick is detailed for a 1990s cartoon and loses its line weight on the current sweater. The Cali Fin third is the opposite, a modern fin crest with serape stripes, and it is clearly the best Sharks sweater on the ice. [San Jose Sharks uniform schedule](/stories/sharks-uniform-schedule-2026-27).
 
-## 23. Anaheim Ducks
+## 24. Anaheim Ducks
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #F47A38, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -140,7 +128,7 @@ Teal is one of the great colours in hockey and San Jose went back to the 1991 sh
 
 Going all in on orange was the right move. Nobody else in hockey wears it as a primary, and the chevron sleeve stripes give the set a shape we have not seen before. The duck mask, refreshed, remains a bit cartoonish next to the sleek stripes, and the white road with rounded orange shoulders is much stronger than the home. Two good sweaters and no alternate, two seasons running. [Anaheim Ducks uniform schedule](/stories/ducks-uniform-schedule-2026-27).
 
-## 22. Ottawa Senators
+## 23. Ottawa Senators
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #C52032, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B-</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -152,7 +140,7 @@ Going all in on orange was the right move. Nobody else in hockey wears it as a p
 
 The home and road are among the best looks in the league: the 2D centurion is bold and the arm bars that frame the numbers are distinctive. The red alternate pulls it all back down. It stacks a black yoke, wide red stripes, metallic gold accents and a busier crest onto one sweater, and the plumed centurion loses the bold readability of the primary. One of the strongest core sets with one of the weakest thirds. [Ottawa Senators uniform schedule](/stories/senators-uniform-schedule-2026-27).
 
-## 21. Philadelphia Flyers
+## 22. Philadelphia Flyers
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #F74902, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -164,7 +152,7 @@ The home and road are among the best looks in the league: the 2D centurion is bo
 
 The Flying P is a perfect logo and the burnt orange is right. The 2023 update went for the 1970s Bobby Clarke shape and it is cleaner than what came before. Our gripe is the nameplate in a contrasting colour, which slices the back of the sweater in half, and the 60th season arrives without a throwback, patch or anything to mark it so far. Strong core, quiet closet. [Philadelphia Flyers uniform schedule](/stories/flyers-uniform-schedule-2026-27).
 
-## 20. Dallas Stars
+## 21. Dallas Stars
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #006847, #111111); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -176,7 +164,7 @@ The Flying P is a perfect logo and the burnt orange is right. The 2023 update we
 
 Victory green is a lovely colour and the D-star is crisp. The core sweaters, though, have the 2013 design on a modern template, and they lack the swagger the Stars had in the Modano era. The 99 is the fix, a black sweater with star-point stripes that run across the chest and back, and it is the sweater Dallas fans actually want. A Stadium Series look at home in Arlington could push Dallas into the top half. [Dallas Stars uniform schedule](/stories/stars-uniform-schedule-2026-27).
 
-## 19. Colorado Avalanche
+## 20. Colorado Avalanche
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #6F263D, #236192); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -188,7 +176,7 @@ Victory green is a lovely colour and the D-star is crisp. The core sweaters, tho
 
 The burgundy and blue are classic, and the 1995 peak striping is one of the few original 1990s designs still on the ice. The blue pants changed everything for the better. What holds Colorado in the middle of the pack is the white road, where the peaks get lost, and a third sweater situation that is unclear. If the reported off-white Winter Classic lands, the closet improves. [Colorado Avalanche uniform schedule](/stories/avalanche-uniform-schedule-2026-27).
 
-## 18. Carolina Hurricanes
+## 19. Carolina Hurricanes
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #CC0000, #000000); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -200,7 +188,7 @@ The burgundy and blue are classic, and the 1995 peak striping is one of the few 
 
 Four sweaters, and three of them are good. The black home with hurricane warning flags in the stripes is the one design element in the league that tells you about the weather. The red is better, which is why we wish it were still the home. The Whalers green is a classic, and wearing it is a gift. The new white road, though, is the weakest piece, a lot of blocks and flags on one sweater. The champions get a solid B. [Carolina Hurricanes uniform schedule](/stories/hurricanes-uniform-schedule-2026-27).
 
-## 17. Seattle Kraken
+## 18. Seattle Kraken
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #001628, #99D9D9); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
 
@@ -211,6 +199,18 @@ Four sweaters, and three of them are good. The black home with hurricane warning
 **The closet:** Deep sea blue home with the S-tentacle crest and red eye, ice blue and boundless blue striping, no white anywhere; the white road with deep sea blue shoulders; and the all-black Abyss Awakens third with a glow-in-the-dark crest outline, sonar-ping sleeve stripes and the arena coordinates in the collar.
 
 The S with the tentacle and the red eye is the best logo created for a new team this century. The deep sea home, without a single piece of white, is the most daring primary sweater in the league. The ice blue is lovely. The issue is the closet growing darker. The Abyss Awakens is a fun idea with glow-in-the-dark elements, but black on deep sea blue gives Seattle two very dark sweaters and only one with any light in it. [Seattle Kraken uniform schedule](/stories/seattle-kraken-uniform-schedule-2026-27).
+
+## 17. Utah Mammoth
+
+<div style="display: flex; align-items: center; gap: 12px; margin: 0.5em 0 1.1em;"><span style="background: linear-gradient(135deg, #090909, #6CACE4); color: #ffffff; font-size: 1.1em; font-weight: 900; letter-spacing: -0.5px; padding: 7px 0; border-radius: 9px; min-width: 62px; text-align: center;">B</span><span style="font-size: 0.72em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #6b7180;">ColorWay Sports Grade</span></div>
+
+<div style="display: flex; justify-content: center; margin: 1.25em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/utahmammoth/status/1920129680788856934"></a></blockquote>
+</div>
+
+**The closet:** Rock black home with the Mountain Mammoth crest and the Utah badge on the shoulders, salt white road with the diagonal stair-step UTAH wordmark, no third sweater, and a Winter Classic sweater for December 31 still to be unveiled.
+
+The Mountain Mammoth crest is one of the best new logos in hockey, with the Wasatch peaks, the state outline and the tusks curling into a U, and the rock black home wears it well: dark, simple and unmistakably Utah. The salt white road with the stair-step UTAH wordmark gives the club a second look with real local character. The only thing holding Utah back is depth, two sweaters and no alternate yet, with the Winter Classic one-off still to be unveiled. Give this closet a third sweater and it keeps climbing. [Utah Mammoth uniform schedule](/stories/utah-mammoth-uniform-schedule-2026-27).
 
 ## 16. Buffalo Sabres
 
@@ -408,7 +408,7 @@ The three-band striping on the arms and hem is the definitive hockey sweater des
 
 The Original Six own the top of this list, and it is not nostalgia. The Blackhawks, Canadiens, Red Wings and Rangers all wear sweaters that have barely changed in 70 years or more, because there was never anything to fix. Boston, after its 2025 rebrand, is the one that improved its way into the top five. The best closets outside that group, Toronto, Calgary, Pittsburgh and St. Louis, all got there by leaning on their own history.
 
-At the bottom, the pattern is the opposite. Utah, Florida, Columbus and Tampa Bay all have two sweaters doing the work of a closet, and the alternates that would help them are either missing or unconfirmed. Thirty-two Hometown Remix sweaters and six outdoor-game sweaters are still to come, and any of them could move a team. Every club's game-by-game jersey record lives in our [NHL uniform schedule hub](/stories/nhl-uniform-schedule-2026-27), and every new look this season is in [New NHL Jerseys 2026-27](/stories/new-nhl-jerseys-2026-27).
+At the bottom, the pattern is the opposite. Florida's military-dress set has too many parts on one sweater, Vegas is retiring the best thing it had, and Columbus and Tampa Bay have two sweaters doing the work of a closet. Utah, meanwhile, has the bones of a top-half closet already and only needs a third sweater. Thirty-two Hometown Remix sweaters and six outdoor-game sweaters are still to come, and any of them could move a team. Every club's game-by-game jersey record lives in our [NHL uniform schedule hub](/stories/nhl-uniform-schedule-2026-27), and every new look this season is in [New NHL Jerseys 2026-27](/stories/new-nhl-jerseys-2026-27).
 
 ## Frequently Asked Questions
 
@@ -418,7 +418,7 @@ The Chicago Blackhawks, graded A in our ranking. The red home with the three-ban
 
 **What are the worst NHL jerseys in 2026-27?**
 
-The Utah Mammoth finished 32nd. The Mountain Mammoth crest is good, but the striping is carried over from the Utah Hockey Club placeholder set and the closet has no third sweater. The Florida Panthers and Columbus Blue Jackets are just above them.
+The Florida Panthers finished 32nd. Their 2016 military-inspired set puts a shield crest, chest and sleeve bands, a sleeve patch and flat gold trim on one sweater. The Vegas Golden Knights are 31st after moving their steel grey out of the rotation, and the Columbus Blue Jackets are 30th.
 
 **What new NHL jerseys are there for 2026-27?**
 
