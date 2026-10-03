@@ -170,13 +170,13 @@ export default function NhlUniformsZone() {
                 {night.games.length} {night.games.length === 1 ? "Game" : "Games"} · Full Night →
               </Link>
             </div>
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+            <div className="-mx-4 flex snap-x snap-mandatory gap-2 overflow-x-auto px-4 pb-1 sm:mx-0 sm:grid sm:grid-cols-2 sm:gap-3 sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
               {night.games.map((g) => (
                 <Link
                   prefetch={false}
                   key={`${g.away.short}-${g.home.short}`}
                   href={dayHref}
-                  className="group flex items-start gap-1.5 rounded-lg bg-[#F2F3F4] p-2 transition-transform hover:-translate-y-0.5"
+                  className="group flex w-[78%] flex-none snap-start items-start gap-1.5 rounded-lg sm:w-auto bg-[#F2F3F4] p-2 transition-transform hover:-translate-y-0.5"
                 >
                   <Sweater s={g.away} />
                   <span className="mt-[30px] text-[9px] font-extrabold tracking-[0.12em] text-[#8A8F98]">AT</span>
