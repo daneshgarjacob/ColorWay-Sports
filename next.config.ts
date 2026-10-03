@@ -1,5 +1,12 @@
 import type { NextConfig } from "next";
-import nhlTeams from "./content/data/nhl-teams.json";
+import fs from "node:fs";
+import path from "node:path";
+
+// Read with fs, not a JSON import: JSON module imports in next.config.ts break on
+// Vercel's Node (needs import attributes), which failed the 2026-10-02 deploy.
+const nhlTeams = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), "content/data/nhl-teams.json"), "utf8"),
+);
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
