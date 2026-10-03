@@ -30,7 +30,10 @@ const nextConfig: NextConfig = {
   // narrow per the Next 16 guidance on trace size.
   // public/ is served by the CDN; story pages must never bundle it (2026-10-02:
   // a stray dynamic public path pushed the stories function to 356 MB > 250 MB).
+  // The homepage is fully static; its NHL zone reads the sweater-tile folder at
+  // build time only, so it never needs public/ in its function either.
   outputFileTracingExcludes: {
+    "/": ["public/**/*"],
     "/stories": ["public/**/*"],
     "/stories/[slug]": ["public/**/*"],
   },

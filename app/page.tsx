@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
+import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import StoryHero from "@/components/StoryHero";
 import WireStrip from "@/components/WireStrip";
@@ -254,6 +255,9 @@ export default function Home() {
 
         {/* All the MLB uniform tools, grouped in one tinted zone */}
         <MlbUniformsZone />
+
+        {/* NHL uniform tools + last logged night (mock, pending Jake) */}
+        <NhlUniformsZone />
 
         {/* More stories — compact bordered grid */}
         {compact.length > 0 && (

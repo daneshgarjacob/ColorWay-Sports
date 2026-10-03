@@ -250,3 +250,50 @@ export function winterUniformUsage(entry: WinterTeamEntry) {
   }
   return [...counts.values()].sort((a, b) => b.total - a.total);
 }
+
+export interface NhlLastNightSide { short: string; uniform: string; image: string; swatch: string }
+export interface NhlLastNight {
+  /** ISO date of the most recent night with a confirmed game. */
+  date: string;
+  /** "Thu, Oct 1" */
+  label: string;
+  /** Heading id of that day on the daily tracker post ("thursday-october-1"). */
+  anchor: string;
+  games: { away: NhlLastNightSide; home: NhlLastNightSide }[];
+}
+
+/** The most recent logged night, confirmed games only, for the homepage NHL
+ *  zone. Same game-log rules as the team calendars; nothing is invented. */
+export function nhlLastNight(): NhlLastNight | null {
+  if (!fs.existsSync(nhlLogFile)) return null;
+  const worn = nhlConfirmedByTeamDate();
+  const teams = nhlTeams();
+  const games: Record<string, NhlLogEntry> = JSON.parse(fs.readFileSync(nhlLogFile, "utf8")).games;
+  const keys = Object.entries(games)
+    .filter(([, e]) => e.confirmed)
+    .map(([k]) => /^(\d{4}-\d{2}-\d{2}) ([A-Z]{3})@([A-Z]{3})$/.exec(k))
+    .filter((m): m is RegExpExecArray => Boolean(m));
+  if (keys.length === 0) return null;
+  const date = keys.map((m) => m[1]).sort().at(-1)!;
+  const side = (tri: string): NhlLastNightSide | null => {
+    const t = teams[tri];
+    const w = worn.get(`${tri}|${date}`);
+    return t && w ? { short: t.short, uniform: w.uniform, image: w.image, swatch: w.swatch } : null;
+  };
+  const out: NhlLastNight["games"] = [];
+  for (const m of keys) {
+    if (m[1] !== date) continue;
+    const away = side(m[2]);
+    const home = side(m[3]);
+    if (away && home) out.push({ away, home });
+  }
+  if (out.length === 0) return null;
+  const [y, mo, d] = date.split("-").map(Number);
+  const weekday = new Date(Date.UTC(y, mo - 1, d)).toLocaleDateString("en-US", { weekday: "long", timeZone: "UTC" });
+  return {
+    date,
+    label: shortDate(date),
+    anchor: `${weekday}-${MONTHS[mo - 1]}-${d}`.toLowerCase(),
+    games: out,
+  };
+}
