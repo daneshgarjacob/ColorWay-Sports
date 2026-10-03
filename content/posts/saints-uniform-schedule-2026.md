@@ -2,7 +2,7 @@
 title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-03"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -21,6 +21,8 @@ The Saints published their full 2026 uniform schedule on September 7, and the pl
 **Week 1 combination, as announced for game week:** gold helmet, white jersey, black pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
 **Week 2 combination, announced:** gold helmet, black jersey, black pants for the trip to Baltimore on Sunday, September 20, at 1 p.m. It is the only road game all season where New Orleans wears color, and the captains went black on black under the gold shell rather than the gold pants. The Ravens are in their all-white White Noise look under the metallic Purple Rising helmet, so it is black and gold against head-to-toe white, about as clean a contrast as the schedule offers. The team posted the look on Friday under the caption "Sunday threads."
+
+**Week 4 combination, announced:** gold helmet, white jersey, gold pants against Atlanta on Monday Night Football, October 5, at the Superdome. White at home, which puts the Falcons in red.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2101046380592558346"></a></blockquote>

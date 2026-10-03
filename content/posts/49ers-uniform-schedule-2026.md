@@ -2,7 +2,7 @@
 title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-03"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -64,6 +64,8 @@ The 49ers wear their standard scarlet and white for most of the season, includin
 ## The Full 2026 49ers Uniform Schedule, Week by Week
 
 **Week 1 combination, as announced for game week:** gold helmet, white jersey, gold pants. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
+
+**Week 4 combination, announced:** gold helmet, scarlet jersey, gold pants against Denver on Sunday, October 4. The Broncos come in navy helmet, white jersey and navy pants.
 
 **Their Week 1 opponent:** the [Los Angeles Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
