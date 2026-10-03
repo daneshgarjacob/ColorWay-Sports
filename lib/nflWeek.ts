@@ -50,6 +50,13 @@ function decode(s: string): string {
     .trim();
 }
 
+const NFL_NICKNAMES = [
+  "49ers", "Bears", "Bengals", "Bills", "Broncos", "Browns", "Buccaneers", "Cardinals",
+  "Chargers", "Chiefs", "Colts", "Commanders", "Cowboys", "Dolphins", "Eagles", "Falcons",
+  "Giants", "Jaguars", "Jets", "Lions", "Packers", "Panthers", "Patriots", "Raiders",
+  "Rams", "Ravens", "Saints", "Seahawks", "Steelers", "Texans", "Titans", "Vikings",
+];
+
 export function getNflWeekChips(week: number): NflTeamWeek[] {
   const posts = getAllPosts().filter(
     (p) =>
@@ -75,8 +82,11 @@ export function getNflWeekChips(week: number): NflTeamWeek[] {
       }
     }
     if (!cell) continue;
-    const name = p.title.replace(/\s+2026 Uniform Schedule.*$/, "").trim();
-    const team = name.split(" ").pop() || name;
+    // Nickname from the slug, never the title: SEO title rewrites ("...Every
+    // Jersey Date", "...Rivalries Debut") put "Date"/"Debut"/"Jersey" on the
+    // homepage chips on 2026-10-03.
+    const stem = p.slug.replace(/-uniform-schedule-2026$/, "");
+    const team = NFL_NICKNAMES.find((n) => stem === n.toLowerCase() || stem.endsWith(`-${n.toLowerCase()}`)) ?? stem;
     const label = decode(cell[3]);
     const accent = (p.gradient.match(/#[0-9A-Fa-f]{6}/) || ["#14284b"])[0];
     out.push({
