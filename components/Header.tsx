@@ -216,7 +216,7 @@ const leagues: NavLeague[] = [
       "Los Angeles Kings", "Minnesota Wild", "Montreal Canadiens", "Nashville Predators",
       "New Jersey Devils", "New York Islanders", "New York Rangers", "Ottawa Senators",
       "Philadelphia Flyers", "Pittsburgh Penguins", "San Jose Sharks", "Seattle Kraken",
-      "St. Louis Blues", "Tampa Bay Lightning", "Toronto Maple Leafs", "Utah Hockey Club",
+      "St. Louis Blues", "Tampa Bay Lightning", "Toronto Maple Leafs", "Utah Mammoth",
       "Vancouver Canucks", "Vegas Golden Knights", "Washington Capitals", "Winnipeg Jets",
     ],
   },
