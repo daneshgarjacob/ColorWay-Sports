@@ -40,7 +40,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Anaheim Ducks Road White sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#ffffff" stroke="#9aa0ac" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/ducks-road.jpg" alt="Anaheim Ducks Road White sweater worn October 2 2026 against the Golden Knights, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DUCKS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
@@ -67,7 +67,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="St. Louis Blues Road White sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#ffffff" stroke="#9aa0ac" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/blues-road.jpg" alt="St. Louis Blues Road White sweater worn October 2 2026 against the Stars, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BLUES</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
@@ -75,7 +75,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Dallas Stars Home Victory Green sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#006847" stroke="rgba(0,0,0,0.25)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/stars-home.jpg" alt="Dallas Stars Home Victory Green sweater worn October 2 2026 against the Blues, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">STARS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #006847; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Victory Green</p>
@@ -94,7 +94,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Boston Bruins Road White sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#ffffff" stroke="#9aa0ac" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/bruins-road.jpg" alt="Boston Bruins Road White sweater worn October 2 2026 against the Jets, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BRUINS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
@@ -102,7 +102,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Winnipeg Jets Home Navy sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#041E42" stroke="rgba(0,0,0,0.25)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/jets-home.jpg" alt="Winnipeg Jets Home Navy sweater worn October 2 2026 against the Bruins, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">JETS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #041E42; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Navy</p>
@@ -121,7 +121,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Washington Capitals Road White sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#ffffff" stroke="#9aa0ac" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/capitals-road.jpg" alt="Washington Capitals Road White sweater worn October 2 2026 against the Hurricanes, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CAPITALS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
@@ -156,7 +156,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Detroit Red Wings Home Red sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#CE1126" stroke="rgba(0,0,0,0.25)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/red-wings-home.jpg" alt="Detroit Red Wings Home Red sweater worn October 2 2026 against the Rangers, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED WINGS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #CE1126; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
