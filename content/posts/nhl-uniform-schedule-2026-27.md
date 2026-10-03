@@ -2,7 +2,7 @@
 title: "NHL Uniform Schedule 2026-27: Every Team's Sweaters and When They Wear Them"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-02"
 excerpt: "Every NHL team's 2026-27 uniform schedule in one place. All 32 clubs, their full closets, and the dates as they are confirmed."
 gradient: "linear-gradient(135deg, #0038A8 0%, #14284b 100%)"
 cardStyle: words
@@ -15,6 +15,14 @@ teams: []
 Every NHL club's 2026-27 uniform schedule, in one place. Each page below carries that team's full closet, what each sweater is for, and a game-by-game record that fills in as the season runs.
 
 Third jerseys and one-off specials get added to each club's page as they are announced. The NHL schedules its alternates in blocks through the autumn rather than all at once. Every new sweater, throwback and alternate announced so far is rounded up in [New NHL Jerseys 2026-27](/stories/new-nhl-jerseys-2026-27). For what all 32 teams wear in the first week of the season, see our [NHL opening week uniforms guide](/stories/nhl-opening-week-uniforms-2026).
+
+
+<!-- nhl-tracker-callout -->
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #14284b 0%, #14284bcc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Updated Every Morning</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">What every NHL team wore last night: both sweaters from every game, confirmed from game photos.</p>
+  <a href="/stories/nhl-uniform-tracker-2026-27" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #14284b; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the NHL daily uniform tracker &rarr;</a>
+</div>
 
 ## Every NHL Team's 2026-27 Uniform Schedule
 

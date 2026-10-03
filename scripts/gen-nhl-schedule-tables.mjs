@@ -12,6 +12,8 @@
 //   2. add one entry per verified game to scripts/data/nhl-game-log-2026-27.json
 //      ("<date> <AWAY>@<HOME>": { "confirmed": true, ... } plus any non-default side)
 //   3. node scripts/gen-nhl-schedule-tables.mjs       -> rewrites all 32 tables
+//      (or `npm run nhl:daily`, which also runs scripts/nhl-tracker-day.mjs --all --write
+//      to refresh the daily tracker post; /nhl-tracker/<team> reads the log at build)
 // Overrides (thirds, specials, confirmed calls) live in the data file, never in the
 // posts, so a re-run never loses them. Final scores come live from the NHL API.
 // updatedDate is bumped to today (Pacific) only on posts whose table changed.

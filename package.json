@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "nhl:daily": "node scripts/gen-nhl-schedule-tables.mjs && node scripts/nhl-tracker-day.mjs --all --write"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

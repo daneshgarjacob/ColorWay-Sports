@@ -7,7 +7,7 @@
     "confirmed: true = we SAW both sweaters (ESPN game photos/highlight frames, team graphic or gallery). Rows render 'Confirmed' in green.",
     "Without confirmed, a row stays 'Expected' (use that for announced specials before the game, e.g. Screaming Eagle nights).",
     "Final scores are NOT stored here: the generator reads them live from the NHL API and prints W/L on every played row.",
-    "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then node scripts/gen-nhl-schedule-tables.mjs"
+    "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then npm run nhl:daily (schedule tables + daily tracker post; /nhl-tracker team pages read this file at build)"
   ],
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },

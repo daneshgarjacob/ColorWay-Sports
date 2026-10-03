@@ -17,6 +17,14 @@ The Washington Capitals open 2026-27 on the road against the Carolina Hurricanes
 
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. Third jerseys and any one-off specials get added here as Capitals announce them. The NHL schedules its alternates in blocks rather than all at once, so this page changes through the autumn.
 
+
+<!-- nhl-tracker-callout -->
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #041E42 0%, #041E42cc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026-27 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every sweater the Washington Capitals have actually worn this season, game by game.</p>
+  <a href="/nhl-tracker/capitals" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #041E42; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Capitals uniform calendar &rarr;</a>
+</div>
+
 ## The Capitals Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">

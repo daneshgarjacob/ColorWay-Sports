@@ -1,0 +1,42 @@
+{
+ "_readme": [
+   "NHL club table shared by /nhl-tracker (hub + team pages, via lib/winterTrackerIndex.ts) and scripts/nhl-tracker-day.mjs.",
+   "key = the /nhl-tracker/<key> URL (nickname slug, same scheme as /mlb-tracker and /nfl-tracker). slug = the full club slug; next.config redirects /nhl-tracker/<slug> to /nhl-tracker/<key>.",
+   "post = the 2026-27 schedule post slug. homeLabel/homeSwatch = what the tracker card prints for the default home call ('Home Dark' in the game log). The road default prints 'Road White'.",
+   "Jersey tiles: public/images/posts/nhl-daily-tracker/<key>-home.jpg and <key>-road.jpg. A game-log side can point at another tile with an 'image' field (thirds, specials) plus a 'swatch' hex."
+ ],
+ "teams": {
+  "ANA": {"name": "Anaheim Ducks", "short": "Ducks", "key": "ducks", "slug": "anaheim-ducks", "post": "ducks-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Orange", "homeSwatch": "#F47A38"},
+  "BOS": {"name": "Boston Bruins", "short": "Bruins", "key": "bruins", "slug": "boston-bruins", "post": "bruins-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Black", "homeSwatch": "#111111"},
+  "BUF": {"name": "Buffalo Sabres", "short": "Sabres", "key": "sabres", "slug": "buffalo-sabres", "post": "sabres-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Royal Blue", "homeSwatch": "#003087"},
+  "CGY": {"name": "Calgary Flames", "short": "Flames", "key": "flames", "slug": "calgary-flames", "post": "flames-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Red", "homeSwatch": "#C8102E"},
+  "CAR": {"name": "Carolina Hurricanes", "short": "Hurricanes", "key": "hurricanes", "slug": "carolina-hurricanes", "post": "hurricanes-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Black", "homeSwatch": "#111111"},
+  "CHI": {"name": "Chicago Blackhawks", "short": "Blackhawks", "key": "blackhawks", "slug": "chicago-blackhawks", "post": "blackhawks-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Red", "homeSwatch": "#CF0A2C"},
+  "COL": {"name": "Colorado Avalanche", "short": "Avalanche", "key": "avalanche", "slug": "colorado-avalanche", "post": "avalanche-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Burgundy", "homeSwatch": "#6F263D"},
+  "CBJ": {"name": "Columbus Blue Jackets", "short": "Blue Jackets", "key": "blue-jackets", "slug": "columbus-blue-jackets", "post": "blue-jackets-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Navy", "homeSwatch": "#002654"},
+  "DAL": {"name": "Dallas Stars", "short": "Stars", "key": "stars", "slug": "dallas-stars", "post": "stars-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Victory Green", "homeSwatch": "#006847"},
+  "DET": {"name": "Detroit Red Wings", "short": "Red Wings", "key": "red-wings", "slug": "detroit-red-wings", "post": "red-wings-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Red", "homeSwatch": "#CE1126"},
+  "EDM": {"name": "Edmonton Oilers", "short": "Oilers", "key": "oilers", "slug": "edmonton-oilers", "post": "oilers-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Royal Blue", "homeSwatch": "#00205B"},
+  "FLA": {"name": "Florida Panthers", "short": "Panthers", "key": "panthers", "slug": "florida-panthers", "post": "florida-panthers-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Red", "homeSwatch": "#C8102E"},
+  "LAK": {"name": "Los Angeles Kings", "short": "Kings", "key": "kings", "slug": "los-angeles-kings", "post": "los-angeles-kings-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Black", "homeSwatch": "#111111"},
+  "MIN": {"name": "Minnesota Wild", "short": "Wild", "key": "wild", "slug": "minnesota-wild", "post": "minnesota-wild-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Forest Green", "homeSwatch": "#154734"},
+  "MTL": {"name": "Montreal Canadiens", "short": "Canadiens", "key": "canadiens", "slug": "montreal-canadiens", "post": "canadiens-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Red", "homeSwatch": "#AF1E2D"},
+  "NSH": {"name": "Nashville Predators", "short": "Predators", "key": "predators", "slug": "nashville-predators", "post": "predators-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Gold", "homeSwatch": "#FFB81C"},
+  "NJD": {"name": "New Jersey Devils", "short": "Devils", "key": "devils", "slug": "new-jersey-devils", "post": "devils-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Red", "homeSwatch": "#CE1126"},
+  "NYI": {"name": "New York Islanders", "short": "Islanders", "key": "islanders", "slug": "new-york-islanders", "post": "islanders-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Royal Blue", "homeSwatch": "#00539B"},
+  "NYR": {"name": "New York Rangers", "short": "Rangers", "key": "rangers", "slug": "new-york-rangers", "post": "new-york-rangers-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Blue", "homeSwatch": "#0038A8"},
+  "OTT": {"name": "Ottawa Senators", "short": "Senators", "key": "senators", "slug": "ottawa-senators", "post": "senators-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Black", "homeSwatch": "#111111"},
+  "PHI": {"name": "Philadelphia Flyers", "short": "Flyers", "key": "flyers", "slug": "philadelphia-flyers", "post": "flyers-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Orange", "homeSwatch": "#F74902"},
+  "PIT": {"name": "Pittsburgh Penguins", "short": "Penguins", "key": "penguins", "slug": "pittsburgh-penguins", "post": "penguins-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Black", "homeSwatch": "#111111"},
+  "SJS": {"name": "San Jose Sharks", "short": "Sharks", "key": "sharks", "slug": "san-jose-sharks", "post": "sharks-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Teal", "homeSwatch": "#006D75"},
+  "SEA": {"name": "Seattle Kraken", "short": "Kraken", "key": "kraken", "slug": "seattle-kraken", "post": "seattle-kraken-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Deep Sea Blue", "homeSwatch": "#001628"},
+  "STL": {"name": "St. Louis Blues", "short": "Blues", "key": "blues", "slug": "st-louis-blues", "post": "blues-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Blue", "homeSwatch": "#002F87"},
+  "TBL": {"name": "Tampa Bay Lightning", "short": "Lightning", "key": "lightning", "slug": "tampa-bay-lightning", "post": "lightning-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Blue", "homeSwatch": "#002868"},
+  "TOR": {"name": "Toronto Maple Leafs", "short": "Maple Leafs", "key": "maple-leafs", "slug": "toronto-maple-leafs", "post": "maple-leafs-uniform-schedule-2026-27", "division": "Atlantic", "homeLabel": "Home Blue", "homeSwatch": "#00205B"},
+  "UTA": {"name": "Utah Mammoth", "short": "Mammoth", "key": "mammoth", "slug": "utah-mammoth", "post": "utah-mammoth-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Black", "homeSwatch": "#090909"},
+  "VAN": {"name": "Vancouver Canucks", "short": "Canucks", "key": "canucks", "slug": "vancouver-canucks", "post": "canucks-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Blue", "homeSwatch": "#00205B"},
+  "VGK": {"name": "Vegas Golden Knights", "short": "Golden Knights", "key": "golden-knights", "slug": "vegas-golden-knights", "post": "golden-knights-uniform-schedule-2026-27", "division": "Pacific", "homeLabel": "Home Gold", "homeSwatch": "#B4975A"},
+  "WSH": {"name": "Washington Capitals", "short": "Capitals", "key": "capitals", "slug": "washington-capitals", "post": "capitals-uniform-schedule-2026-27", "division": "Metropolitan", "homeLabel": "Home Red", "homeSwatch": "#C8102E"},
+  "WPG": {"name": "Winnipeg Jets", "short": "Jets", "key": "jets", "slug": "winnipeg-jets", "post": "winnipeg-jets-uniform-schedule-2026-27", "division": "Central", "homeLabel": "Home Navy", "homeSwatch": "#041E42"}
+ }
+}

@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import nhlTeams from "./content/data/nhl-teams.json";
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
@@ -67,6 +68,19 @@ const nextConfig: NextConfig = {
         destination: `/stories/${to}-uniform-schedule-2026-27`,
         permanent: true,
       })),
+      // NHL team calendars live at /nhl-tracker/<nickname> (same scheme as the MLB,
+      // NFL and NBA calendars), but people and links reach for the full club name:
+      // /nhl-tracker/utah-mammoth 404'd on 2026-10-02. Every full slug now
+      // redirects to its nickname key. Table: content/data/nhl-teams.json.
+      ...Object.values(
+        (nhlTeams as { teams: Record<string, { slug: string; key: string }> }).teams,
+      )
+        .filter((t) => t.slug !== t.key)
+        .map((t) => ({
+          source: `/nhl-tracker/${t.slug}`,
+          destination: `/nhl-tracker/${t.key}`,
+          permanent: true,
+        })),
       // ⚠️ DO NOT add a redirect for /ads.txt. Tried it 2026-08-19 (301 to
       // adstxt.mediavine.com) and it silently did NOT match — /ads.txt returned 404 in
       // production while every other rule in this array kept working. The docs say

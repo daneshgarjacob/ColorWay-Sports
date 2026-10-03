@@ -16,6 +16,67 @@ import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 const dataFile = path.join(process.cwd(), "content/data/winter-schedules.json");
+// NHL: the club table and the nightly game log that also drives the 32 schedule
+// posts and the daily tracker post (scripts/nhl-tracker-day.mjs). A game counts
+// here only once it is marked confirmed in the log.
+const nhlTeamsFile = path.join(process.cwd(), "content/data/nhl-teams.json");
+const nhlLogFile = path.join(process.cwd(), "scripts/data/nhl-game-log-2026-27.json");
+const NHL_TILES = "/images/posts/nhl-daily-tracker";
+
+export interface NhlTeam {
+  name: string;
+  short: string;
+  key: string;
+  slug: string;
+  post: string;
+  division: string;
+  homeLabel: string;
+  homeSwatch: string;
+}
+interface NhlSide { call?: string; color?: string; image?: string; swatch?: string }
+interface NhlLogEntry { confirmed?: boolean; home?: NhlSide; away?: NhlSide }
+
+export function nhlTeams(): Record<string, NhlTeam> {
+  if (!fs.existsSync(nhlTeamsFile)) return {};
+  return JSON.parse(fs.readFileSync(nhlTeamsFile, "utf8")).teams;
+}
+
+/** "<tri>|<date>" -> announced non-default call, filled by nhlConfirmedByTeamDate. */
+const expectedCalls = new Map<string, string>();
+
+/** "<tri>|<date>" -> what that club wore that night, for confirmed games only. */
+function nhlConfirmedByTeamDate(): Map<string, { uniform: string; image: string; swatch: string }> {
+  const out = new Map<string, { uniform: string; image: string; swatch: string }>();
+  if (!fs.existsSync(nhlLogFile)) return out;
+  const teams = nhlTeams();
+  const games: Record<string, NhlLogEntry> = JSON.parse(fs.readFileSync(nhlLogFile, "utf8")).games;
+  for (const [k, entry] of Object.entries(games)) {
+    const m = /^(\d{4}-\d{2}-\d{2}) ([A-Z]{3})@([A-Z]{3})$/.exec(k);
+    if (m) {
+      // announced specials (no confirmed flag yet) feed the "expected" label
+      const [, d, aw, hm] = m;
+      if (entry.home?.call) expectedCalls.set(`${hm}|${d}`, entry.home.call);
+      if (entry.away?.call) expectedCalls.set(`${aw}|${d}`, entry.away.call);
+    }
+    if (!m || !entry.confirmed) continue;
+    const [, date, away, home] = m;
+    for (const [tri, isHome] of [[away, false], [home, true]] as const) {
+      const t = teams[tri];
+      if (!t) continue;
+      const s = (isHome ? entry.home : entry.away) ?? {};
+      const uniform = s.call ?? (isHome ? t.homeLabel : "Road White");
+      const image = s.image ?? `${NHL_TILES}/${t.key}-${isHome ? "home" : "road"}.jpg`;
+      const swatch =
+        s.swatch ?? (s.color && !/^Road White/.test(uniform) ? s.color : undefined) ?? (isHome ? t.homeSwatch : "#ffffff");
+      out.set(`${tri}|${date}`, {
+        uniform,
+        image: fs.existsSync(path.join(process.cwd(), "public", image)) ? image : "",
+        swatch,
+      });
+    }
+  }
+  return out;
+}
 
 export interface WinterGame {
   /** ISO date in US Eastern, e.g. "2026-10-21". */
@@ -25,6 +86,15 @@ export interface WinterGame {
   home: boolean;
   /** The jersey worn, once it has been logged. */
   uniform?: string;
+  /** NHL only: true once both sweaters were seen in game photos. */
+  confirmed?: boolean;
+  /** NHL only: product shot of the sweater worn (confirmed games). */
+  image?: string;
+  /** NHL only: swatch hex for the sweater worn. */
+  swatch?: string;
+  /** NHL only: the expected sweater for a game not yet confirmed (league
+   *  default, or an announced special from the game log). */
+  expected?: string;
 }
 
 export interface WinterTeamEntry {
@@ -36,6 +106,8 @@ export interface WinterTeamEntry {
   color: string;
   logo: string;
   scheduleSlug: string;
+  /** NHL only: division name, for the /nhl-tracker hub. */
+  division?: string;
   games: WinterGame[];
 }
 
@@ -70,6 +142,9 @@ export function buildWinterIndex(): WinterTeamEntry[] {
     }
   }
 
+  const nhlBySlug = new Map(Object.entries(nhlTeams()).map(([tri, t]) => [t.slug, { tri, ...t }]));
+  const nhlWorn = nhlConfirmedByTeamDate();
+
   const out: WinterTeamEntry[] = [];
   for (const [slug, t] of Object.entries(raw.teams)) {
     const logo = (TEAM_LOGOS as Record<string, string>)[t.name];
@@ -78,8 +153,9 @@ export function buildWinterIndex(): WinterTeamEntry[] {
     // rather than shipped as a dead end.
     if (!logo || !post) continue;
 
+    const nhl = t.league === "nhl" ? nhlBySlug.get(slug) : undefined;
     out.push({
-      key: teamSlug(nickname(t.name)),
+      key: nhl?.key ?? teamSlug(nickname(t.name)),
       name: t.name,
       slug,
       nickname: nickname(t.name),
@@ -87,12 +163,19 @@ export function buildWinterIndex(): WinterTeamEntry[] {
       color: post.color,
       logo,
       scheduleSlug: post.slug,
-      games: t.games.map((g) => ({
-        date: g.d,
-        opponent: g.o,
-        opponentAbbr: g.a,
-        home: g.h === 1,
-      })),
+      division: nhl?.division,
+      games: t.games.map((g) => {
+        const game: WinterGame = { date: g.d, opponent: g.o, opponentAbbr: g.a, home: g.h === 1 };
+        const worn = nhl ? nhlWorn.get(`${nhl.tri}|${g.d}`) : undefined;
+        if (nhl) game.expected = expectedCalls.get(`${nhl.tri}|${g.d}`) ?? (game.home ? nhl.homeLabel : "Road White");
+        if (worn) {
+          game.uniform = worn.uniform;
+          game.confirmed = true;
+          game.swatch = worn.swatch;
+          if (worn.image) game.image = worn.image;
+        }
+        return game;
+      }),
     });
   }
 
@@ -129,14 +212,21 @@ export function winterGamesByMonth(entry: WinterTeamEntry) {
   return [...buckets.entries()].map(([month, games]) => ({ month, games }));
 }
 
-/** Jerseys logged so far, most-worn first. Empty until the season is under way. */
+/** Jerseys logged so far, most-worn first, with the home/road split and a
+ *  product shot when one exists. Empty until the season is under way. */
 export function winterUniformUsage(entry: WinterTeamEntry) {
-  const counts = new Map<string, number>();
+  const counts = new Map<
+    string,
+    { uniform: string; total: number; home: number; road: number; image?: string; swatch?: string }
+  >();
   for (const g of entry.games) {
     if (!g.uniform) continue;
-    counts.set(g.uniform, (counts.get(g.uniform) ?? 0) + 1);
+    const c = counts.get(g.uniform) ?? { uniform: g.uniform, total: 0, home: 0, road: 0, image: g.image, swatch: g.swatch };
+    c.total += 1;
+    if (g.home) c.home += 1;
+    else c.road += 1;
+    c.image ??= g.image;
+    counts.set(g.uniform, c);
   }
-  return [...counts.entries()]
-    .map(([uniform, total]) => ({ uniform, total }))
-    .sort((a, b) => b.total - a.total);
+  return [...counts.values()].sort((a, b) => b.total - a.total);
 }

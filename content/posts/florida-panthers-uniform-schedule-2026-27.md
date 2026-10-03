@@ -17,6 +17,14 @@ The Florida Panthers open 2026-27 on the road against the Carolina Hurricanes on
 
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. Third jerseys and any one-off specials get added here as Florida Panthers announce them. The NHL schedules its alternates in blocks rather than all at once, so this page changes through the autumn.
 
+
+<!-- nhl-tracker-callout -->
+<div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #C8102E 0%, #C8102Ecc 100%);">
+  <p style="margin: 0 0 4px; font-size: 0.7em; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255,255,255,0.72);">Live 2026-27 Tracker</p>
+  <p style="margin: 0 0 10px; font-size: 1.05em; font-weight: 800; color: #ffffff; line-height: 1.35;">See every sweater the Florida Panthers have actually worn this season, game by game.</p>
+  <a href="/nhl-tracker/panthers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #C8102E; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Panthers uniform calendar &rarr;</a>
+</div>
+
 ## The Florida Panthers Uniform Closet for 2026-27
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
