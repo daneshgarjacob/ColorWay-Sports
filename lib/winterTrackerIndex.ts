@@ -21,6 +21,26 @@ const dataFile = path.join(process.cwd(), "content/data/winter-schedules.json");
 // here only once it is marked confirmed in the log.
 const nhlTeamsFile = path.join(process.cwd(), "content/data/nhl-teams.json");
 const nhlLogFile = path.join(process.cwd(), "scripts/data/nhl-game-log-2026-27.json");
+
+// Known NHL jersey tiles. Read ONE literal folder, never path.join(cwd, "public", x):
+// a dynamic path into public/ makes Vercel's file tracer bundle all of public/
+// (~300 MB) into every function that imports this module. That blew the 250 MB
+// function limit and failed the 2026-10-02 deploys.
+let nhlTiles: Set<string> | null = null;
+function nhlTileExists(src: string): boolean {
+  if (!nhlTiles) {
+    try {
+      nhlTiles = new Set(
+        fs.readdirSync(path.join(process.cwd(), "public/images/posts/nhl-daily-tracker")).map(
+          (f) => `/images/posts/nhl-daily-tracker/${f}`,
+        ),
+      );
+    } catch {
+      nhlTiles = new Set();
+    }
+  }
+  return nhlTiles.has(src);
+}
 const NHL_TILES = "/images/posts/nhl-daily-tracker";
 
 export interface NhlTeam {
@@ -70,7 +90,7 @@ function nhlConfirmedByTeamDate(): Map<string, { uniform: string; image: string;
         s.swatch ?? (s.color && !/^Road White/.test(uniform) ? s.color : undefined) ?? (isHome ? t.homeSwatch : "#ffffff");
       out.set(`${tri}|${date}`, {
         uniform,
-        image: fs.existsSync(path.join(process.cwd(), "public", image)) ? image : "",
+        image: nhlTileExists(image) ? image : "",
         swatch,
       });
     }

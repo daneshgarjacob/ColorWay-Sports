@@ -28,6 +28,12 @@ const nextConfig: NextConfig = {
   // would not ship them and every surface would silently fall back to "expected"
   // in production while we already had the uniform confirmed. Both globs are kept
   // narrow per the Next 16 guidance on trace size.
+  // public/ is served by the CDN; story pages must never bundle it (2026-10-02:
+  // a stray dynamic public path pushed the stories function to 356 MB > 250 MB).
+  outputFileTracingExcludes: {
+    "/stories": ["public/**/*"],
+    "/stories/[slug]": ["public/**/*"],
+  },
   outputFileTracingIncludes: {
     "/*": ["scripts/mlb-confirmed/**/*.json", "scripts/mlb-slate/**/*.json"],
   },
