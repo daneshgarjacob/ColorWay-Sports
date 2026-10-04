@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, October 3
 
-Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30 p.m. ET in Milwaukee. The White Sox opened the ALDS at Progressive Field in the black "Sox" alternate over road gray pants with the black cap, against the Guardians in home white with the red-crowned, navy-billed "C" cap. Black against white is clean but quiet for a playoff opener, and we grade it a **B**. Chicago won it 3-0. Out west, the Braves are in road gray with the all-navy cap at Dodger Stadium against the Dodgers in home white with the blue cap, two of the sport's most classic sets in the same frame, and we grade it an **A-**. At Tropicana Field, the Yankees opened in road gray against the Rays in home white, a clean but familiar pairing we grade a **B**. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30 p.m. ET in Milwaukee. The White Sox opened the ALDS at Progressive Field in the black "Sox" alternate over road gray pants with the black cap, against the Guardians in home white with the red-crowned, navy-billed "C" cap. Black against white is clean but quiet for a playoff opener, and we grade it a **B**. Chicago won it 3-0. Out west, the Braves are in road gray with the all-navy cap at Dodger Stadium against the Dodgers in home white with the blue cap, two of the sport's most classic sets in the same frame, and we grade it an **A-**. The Dodgers won it 5-3. At Tropicana Field, the Yankees opened in road gray against the Rays in home white, a clean but familiar pairing we grade a **B**. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -65,7 +65,7 @@ Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 5, Braves 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
