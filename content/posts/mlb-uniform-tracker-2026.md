@@ -27,9 +27,38 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, October 3
 
-Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30 p.m. ET in Milwaukee. The White Sox opened the ALDS at Progressive Field in the black "Sox" alternate over road gray pants with the black cap, against the Guardians in home white with the red-crowned, navy-billed "C" cap. Black against white is clean but quiet for a playoff opener, and we grade it a **B**. Chicago won it 3-0. Out west, the Braves are in road gray with the all-navy cap at Dodger Stadium against the Dodgers in home white with the blue cap, two of the sport's most classic sets in the same frame, and we grade it an **A-**. The Dodgers won it 5-3. At Tropicana Field, the Yankees opened in road gray against the Rays in home white, a clean but familiar pairing we grade a **B**. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30 p.m. ET in Milwaukee. The White Sox opened the ALDS at Progressive Field in the black "Sox" alternate over road gray pants with the black cap, against the Guardians in home white with the red-crowned, navy-billed "C" cap. Black against white is clean but quiet for a playoff opener, and we grade it a **B**. Chicago won it 3-0. Out west, the Braves are in road gray with the all-navy cap at Dodger Stadium against the Dodgers in home white with the blue cap, two of the sport's most classic sets in the same frame, and we grade it an **A-**. The Dodgers won it 5-3. At Tropicana Field, the Yankees opened in road gray against the Rays in home white, a clean but familiar pairing we grade a **B**. In Milwaukee, the Padres wore their brown pinstripe road alternate with the all-brown cap against the Brewers in home cream with the navy cap. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
+
+### San Diego Padres at Milwaukee Brewers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/padres-khaki-road.jpg" alt="San Diego Padres Khaki Road jersey worn October 3 2026 against the Brewers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PADRES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C2A878; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Khaki Road</p>
+      <p data-cap="All Brown" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; All Brown</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/brewers-home-cream.jpg" alt="Milwaukee Brewers Home Cream jersey worn October 3 2026 against the Padres, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F6EEDD; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Cream</p>
+      <p data-cap="All Navy" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; All Navy</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### New York Yankees at Tampa Bay Rays
 
