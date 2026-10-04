@@ -52,7 +52,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **September 26 vs. Nebraska.** ★ Confirmed from the broadcast: **all green**, green helmet with the Greek key stripe, green jersey and green pants, the same set as the Eastern Michigan win. Nebraska wore a white helmet, white jersey and scarlet pants. Liam Boyd kicked two field goals and Jaziun Patterson ran in from two yards, but Nebraska answered the opening field goal with 17 straight points and won 31-13, and the Spartans fell to 2-2 in the Big Ten opener at Spartan Stadium. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026) for the Huskers.
 
-**October 3 at Wisconsin**, 12:30 p.m. ET on BTN. ★ Confirmed from the broadcast: **dark green helmet, white jersey, dark pants**. The pants read as very dark in every frame we have, so we are not calling green or black on them yet. Wisconsin wore the Red Out it announced for Homecoming: red helmet with the white Motion W, red jersey and red pants. Colton Joseph threw three touchdown passes and ran 47 yards for another, and Wisconsin won 31-3. The Spartans are 2-3. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) has the Badgers' side.
+**October 3 at Wisconsin**, 12:30 p.m. ET on BTN. ★ Confirmed from the broadcast and Michigan State's game photos: **black helmet, white jersey, black pants**. Both pieces read very dark on the broadcast, and the program's own daylight photos settle it: a black shell with the silver Spartan, and black pants with the Greek key down the side in green. Wisconsin wore the Red Out it announced for Homecoming: red helmet with the white Motion W, red jersey and red pants. Colton Joseph threw three touchdown passes and ran 47 yards for another, and Wisconsin won 31-3. The Spartans are 2-3. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) has the Badgers' side.
 
 **October 10 vs. Illinois.** Green expected. This is Michigan State's Homecoming, announced in April, with a kickoff no later than 5 p.m. Homecoming is the home date we are watching most closely for an alternate or a special helmet.
 
@@ -78,7 +78,7 @@ Michigan State has used the green jersey and the Greek key green helmet in all t
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore a dark green helmet, white jersey and dark pants at Wisconsin on Saturday, October 3, a 31-3 loss, confirmed from the broadcast. The Spartans are 2-3. The week before, they wore all green against Nebraska. Next up is Homecoming against Illinois at Spartan Stadium on October 10, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore a black helmet, white jersey and black pants at Wisconsin on Saturday, October 3, a 31-3 loss, confirmed from the broadcast and the program's game photos. The Spartans are 2-3. The week before, they wore all green against Nebraska. Next up is Homecoming against Illinois at Spartan Stadium on October 10, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 

@@ -60,7 +60,7 @@ Twelve games, one confirmed alternate, and an October 31 bye.
 
 One thing to understand before the table below: **SEC home teams wear colored jerseys and visitors wear white.** That convention is what makes the road games predictable and the home games worth watching, because the home dates are where an alternate can appear.
 
-**September 5 vs. Missouri State, Kyle Field.** Season opener at home. ★ Confirmed: **the maroon home set**. The desert camo Honor and Support uniform is still three games away, on October 3 against Arkansas.
+**September 5 vs. Missouri State, Kyle Field.** Season opener at home. ★ Confirmed: **the maroon home set**. The desert camo Honor and Support uniform was still three games away (it debuted October 3 against Arkansas).
 
 **September 12 vs. Arizona State, Kyle Field.** ★ Confirmed from the broadcast: **maroon jersey, white pants, white helmet**, the standard home set, no change-up for the non-conference visitor. Arizona State came in gold helmets over a white jersey and gold pants, so the field read maroon against gold and white. Texas A&M won 48-20.
 

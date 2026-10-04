@@ -21,7 +21,7 @@ Michigan's wardrobe is the least complicated in college football and that is ent
   <div style="background: #00274C; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Navy Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Navy jersey with maize numerals, maize pants, winged helmet.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with navy numerals, maize pants, same helmet.</div></div>
   <div style="background: #FFCB05; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Winged Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Maize wings on navy, in use since Fritz Crisler brought the design to Ann Arbor in 1938.</div></div>
-  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">None announced for 2026. Michigan runs one of the sport's least-changed wardrobes.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Nothing was announced before the season, but Michigan has already gone off script: the all-maize uniform against Western Michigan on September 5, and blue over blue for the Stripe Out against Iowa on September 26.</div></div>
 </div>
 
 The winged helmet is the whole identity, and it is worn with both sets, so the only variable in a Michigan season is which jersey goes under it. Big Ten home teams wear color and visitors wear white, which makes every date on this page predictable until somebody announces otherwise.
@@ -72,7 +72,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 ## The Bottom Line
 
-There is no alternate to wait for and no combination chart to memorise. Navy at home, white on the road, wings on the helmet either way. When a program has the best helmet in the sport, the correct number of redesigns is zero.
+Michigan's wardrobe is still short, but 2026 has already bent it. The all-maize uniform opened the season against Western Michigan, the Stripe Out put the Wolverines in blue over blue against Iowa, and blue pants came back under the white jersey at Minnesota. Navy at home and white on the road is still the base. When a program has the best helmet in the sport, the correct number of redesigns is zero.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ Navy jersey with maize numerals, maize pants, winged helmet. White jersey with n
 
 **Does Michigan have an alternate uniform in 2026?**
 
-None announced for 2026, though Michigan did wear the all-maize uniform against Western Michigan on September 5. Otherwise it runs one of the sport's least-changed wardrobes.
+None was announced before the season, but Michigan wore the all-maize uniform against Western Michigan on September 5 and a blue jersey with blue pants for the Stripe Out against Iowa on September 26. Otherwise it runs one of the sport's least-changed wardrobes.
 
 **Why does Michigan wear winged helmets?**
 

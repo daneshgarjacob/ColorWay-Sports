@@ -98,7 +98,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 ## What Army Wears Against Navy, and What We Know About 2026
 
-Nothing has been announced. That is the honest answer as of the middle of September, and it is what the calendar would predict: Army's Army-Navy uniform reveal usually lands in mid-November, roughly a month out. Last year the unveiling came on November 13.
+Nothing has been announced. That is the honest answer as of October 4, from either academy, and it is what the calendar would predict: Army's Army-Navy uniform reveal usually lands in mid-November, roughly a month out. Last year the unveiling came on November 13.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USArmy/status/1988924805089800578"></a></blockquote>
@@ -134,7 +134,7 @@ Nothing has been announced yet. The alternate Army wears every season is the Arm
 
 **What is Army wearing for the Army-Navy Game in 2026?**
 
-Unknown as of September 17. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium in East Rutherford, New Jersey. Army has honored a different unit or era each year, from the 101st Airborne Division in 2024 to 250 years of Army service in 2025, and the 2026 design will be unveiled closer to the game. We will update this page the day it drops.
+Unknown as of October 4. Neither Army nor Navy has revealed its uniform yet. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium in East Rutherford, New Jersey. Army has honored a different unit or era each year, from the 101st Airborne Division in 2024 to 250 years of Army service in 2025, and the 2026 design will be unveiled closer to the game. We will update this page the day it drops.
 
 **What did Army wear against South Florida?**
 
